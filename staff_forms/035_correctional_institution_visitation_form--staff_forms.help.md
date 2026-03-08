@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for staff members to collect information from visitors who are visiting a correctional institution. The form is used to track and record the visitation information for security and administrative purposes. It is crucial to ensure that the form is filled out accurately and completely to maintain accurate records and to prevent any potential security risks. Before starting, make sure to review the form carefully and ask for clarification if any field is unclear. Please note that the fields are labeled for reference, but the actual requirements and options may vary based on the institution's internal policies and procedures.
-</thinking>
-
 # Correctional Institution Visitation Form - Help Guide
 
 ## Purpose

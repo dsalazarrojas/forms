@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide that explains the purpose of the form, how to complete it, and what each field means. I will also follow the provided YAML structure and ensure that the guide is concrete, concise, and practical. I will provide a clear explanation of each field, avoiding any unsupported business logic. I will also make sure to include the required fields, which are marked as "required" in the YAML, and provide tips for completing the form successfully.</thinking>
-
 # Sports Complex Vendor Permit Application - Help Guide
 ## Purpose
 This form is used to apply for a vendor permit to operate at a sports complex. The purpose of this form is to collect information from vendors who wish to sell their products or services at the complex. Vendors must provide their name, address, contact number, and other relevant details to ensure a smooth and secure business operation.

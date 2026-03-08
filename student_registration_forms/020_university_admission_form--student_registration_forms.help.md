@@ -1,8 +1,3 @@
-<thinking>
-You are reading this because you are likely a student applying to the university or an administrator responsible for managing student registrations. This form is designed to collect information about students who wish to be admitted into the university. The fields below are intended to collect general information about the student and the university they are applying to. Please ensure that the information you provide is accurate and up-to-date to ensure a smooth admission process.
-
-</thinking>
-
 # University Admission Form - Help Guide
 ## Purpose
 The University Admission Form is a tool used to collect information from prospective students who wish to be admitted into the university. The form will guide you through the process of providing necessary details about yourself and the university you are applying to.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a player's interest in sports, specifically which sports they enjoy, their position, and why they want to join. It will ask for their personal details such as first name, last name, email, and phone number. The form will be used to create a player profile and help in team management. Please note that all fields are optional. 
-
-</thinking>
-
 # Player Interest Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to track student project submissions, allowing administrators to monitor and manage project progress. The form collects various information such as project status, due dates, submission status, and notes from both students and administrators. This helps ensure that projects are properly monitored and updated, promoting efficient management.
-
-To prevent duplication, this form can be used by multiple students for the same project with different submission timestamps.
-
-This form should be completed when a student submits a project or when an administrator wants to update project status.
-</thinking>
-
 # Student Project Submission Tracking Form - Help Guide
 ## Purpose
 This form is used to track student project submissions, providing a centralized platform for monitoring and managing project progress.

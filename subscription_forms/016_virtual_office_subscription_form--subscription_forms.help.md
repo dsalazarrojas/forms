@@ -1,7 +1,3 @@
-<thinking>
-This form, "virtual-office-subscription-form," is intended for businesses and individuals seeking to establish a virtual office presence. It's designed to collect subscription information for a virtual office service. The form may be used by business owners, managers, or employees to provide or receive information about virtual office services. The purpose of this form is to collect subscription data in a structured and organized manner. This helps the service provider to understand the needs and preferences of their clients better. This form is not affiliated with, endorsed by, or derived from any form platform. It's an original adaptation created by AI using public survey topic metadata.
-</thinking>
-
 # virtual-office-subscription-form - Help Guide
 ## Purpose
 This form is designed for businesses and individuals seeking to establish a virtual office presence. It's used to collect subscription information for a virtual office service.

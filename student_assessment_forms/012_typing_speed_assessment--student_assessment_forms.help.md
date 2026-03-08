@@ -1,11 +1,3 @@
-<thinking>...thinking>
-
-**Internal Reasoning Block:**
-
-This form is designed to assess a user's typing speed and accuracy. It appears to be a comprehensive assessment tool with multiple tests and results fields. The purpose of this form is to evaluate a user's typing speed, accuracy, and time taken to complete each test. Each field in the form is likely related to a specific aspect of typing performance, such as speed, accuracy, and time taken for each test. To avoid duplication of effort, it's essential to carefully review each field's label and hint to ensure accurate completion of the form.
-
-</thinking>
-
 # Typing Speed Assessment - Help Guide
 ## Purpose
 

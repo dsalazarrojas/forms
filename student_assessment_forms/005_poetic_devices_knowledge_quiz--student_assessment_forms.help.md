@@ -1,7 +1,3 @@
-<thinking>This form is designed to test the user's knowledge of poetic devices, a literary technique used in poetry to create a specific effect or atmosphere. The form is intended for students who are taking a course or test on poetry, specifically the devices used in literary works. This form is divided into several sections, each focusing on a different aspect of poetic devices, such as schemes, figures, structures, and devices. The form asks users to select or enter specific answers, depending on the question type. Each question is designed to test the user's understanding of the poetic devices and their applications in literature.
-
-</thinking>
-
 # Poetic Devices Knowledge Quiz - Help Guide
 
 ## Purpose

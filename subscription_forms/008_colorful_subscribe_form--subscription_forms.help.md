@@ -1,8 +1,3 @@
-<thinking>
-This is a subscription form designed for users to sign up for a service that provides content updates. The purpose of this form is to collect information from users about their subscription preferences, including their name, email address, subscription plan, content preferences, delivery frequency, preferred format, timezone, favorite topics, and other contact and payment information. This form is likely to be used by content providers to create a subscription-based service, such as a newsletter or a blog with paid content. The form is likely to be used by users who are interested in subscribing to receive regular updates on various topics, such as technology, lifestyle, health and wellness, business, entertainment, sports, travel, and food and cooking.
-
-</thinking>
-
 # Colorful Subscribe Form - Help Guide
 ## Purpose
 The Colorful Subscribe Form is designed to collect information from users about their subscription preferences, allowing content providers to offer personalized content updates based on their interests and needs.

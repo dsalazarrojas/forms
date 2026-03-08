@@ -1,5 +1,3 @@
-<thinking>As this form is designed for shift screening of employees during the COVID-19 pandemic, its purpose is to collect information about the employee's health status, potential exposure risks, and other relevant details. This form aims to ensure that employees who report to work are safe and healthy, and to reduce the risk of transmission of the virus within the workplace. It's essential that employees complete this form accurately and honestly to ensure their own safety and the safety of their colleagues.</thinking>
-
 # COVID 19 Shift Screening Form - Help Guide
 
 ## Purpose

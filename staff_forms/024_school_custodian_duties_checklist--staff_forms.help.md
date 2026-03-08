@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a checklist for school custodians to report their duties and tasks. It covers various aspects such as cleaning schedules, facilities equipment, safety procedures, emergency procedures, and supervisory tasks. This form is likely used for administrative or reporting purposes, possibly for facilities management or maintenance teams to track and monitor the tasks performed by custodians.
-</thinking>
-
 # School Custodian Duties Checklist - Help Guide
 ## Purpose
 This form is designed to help school custodians report their daily tasks and duties.

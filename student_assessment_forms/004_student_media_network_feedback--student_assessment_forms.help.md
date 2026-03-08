@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that this form is used for its intended purpose and not duplicated elsewhere. As per the provided YAML, this form seems to be designed for gathering feedback from students about the Student Media Network, specifically regarding content preferences and suggestions. The form appears to be used for assessing overall satisfaction and preferences across different media platforms such as newspapers, radio, TV, podcasts, digital channels, and email. There are also fields for providing additional comments and submitting feedback. This form likely serves as a crucial tool for understanding student opinions and preferences, enabling the media network to refine their content and services according to user needs.
-</thinking>
-
 # Student Media Network Feedback - Help Guide
 ## Purpose
 The Student Media Network Feedback form is designed to gather student feedback on their overall satisfaction and content preferences across different media platforms. This form helps the media network to understand student opinions and preferences, enabling them to refine their content and services accordingly.

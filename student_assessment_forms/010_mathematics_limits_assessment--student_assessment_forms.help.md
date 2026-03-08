@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's confidence in their mathematical limits, specifically for assessing their understanding of mathematics concepts. The form is divided into several sections, each with multiple questions that require the user to provide their response. The form's purpose is to gauge the user's confidence level in their mathematical abilities, which can be useful for educators or instructors to evaluate the user's understanding of mathematical concepts. This form is not intended to be a comprehensive assessment, but rather a tool to help educators identify areas where the user may need further support.
-</thinking>
-
 # Mathematics Limits Assessment - Help Guide
 ## Purpose
 

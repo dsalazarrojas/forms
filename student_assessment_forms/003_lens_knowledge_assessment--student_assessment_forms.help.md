@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gauge the level of knowledge and understanding of a student on the topic of optics and lenses. It assesses their ability to recognize and apply various types of lenses and their real-life applications. The form is used for assessment purposes and is intended to be completed by students.
-</thinking>
-
 # Lens Knowledge Assessment - Help Guide
 
 ## Purpose

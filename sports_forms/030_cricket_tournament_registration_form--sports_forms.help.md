@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from cricket players and their teams for a tournament. It is essential to provide accurate and complete data to ensure efficient registration process. Please ensure that all the fields are filled accurately and completely. If you need help with anything, please contact the tournament organizers.
-
-</thinking>
-
 # cricket_tournament_registration_form - Help Guide
 ## Purpose
 This form is designed to register players and teams for a cricket tournament. It gathers essential information to process your registration efficiently and accurately.

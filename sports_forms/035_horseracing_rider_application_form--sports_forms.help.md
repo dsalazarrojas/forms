@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning for this form is likely to be used for horse racing authorities to verify or validate the credentials of potential jockeys (horse riders) applying to participate in horse racing events. This form should gather basic personal details, contact information, and specific details about the jockey's horse racing experience to assess their suitability for participating in such events. The form should not be a duplication of information that the jockey would already be known for by the organizers of such events. Therefore, this form should aim to capture relevant and concise information to facilitate the verification and validation of the jockey's credentials.
-</thinking>
-
 # Horseracing Rider Application Form - Help Guide
 ## Purpose
 This form is designed for horse racing authorities to verify or validate the credentials of potential jockeys applying to participate in horse racing events.

@@ -1,7 +1,3 @@
-<thinking>
-The school nurse performance evaluation form is designed to assess the performance of school nurses in providing health services and maintaining a safe environment. This form helps in identifying areas of improvement and recognizing strengths to support professional development and accountability. This form will gather information on various aspects of school nursing performance, such as overall performance rating, evaluation frequency, and services offered. Please make sure this form is not confused with other evaluation forms. It should only be used for school nurses' performance evaluation, not student evaluations or other related forms.
-</thinking>
-
 # school_nurse_performance_evaluation_form - Help Guide
 ## Purpose
 The school nurse performance evaluation form is designed to assess the performance of school nurses in providing health services and maintaining a safe environment. This form will help in identifying areas of improvement and recognizing strengths to support professional development and accountability.

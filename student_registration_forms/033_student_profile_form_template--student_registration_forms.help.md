@@ -1,16 +1,3 @@
-<thinking>
-This form is a student profile form template. Its primary purpose is to collect relevant information about a student, including personal details, contact information, and educational status. This form is likely used for student registration, data management, or other administrative tasks related to student affairs.
-
-Before filling out this form, ensure that:
-
-- You are authorized to access this form.
-- You understand the context and purpose of the form.
-- You have all necessary information and documents required to complete the form accurately.
-- You review the form carefully before submitting it to avoid errors.
-
-This form has 16 fields, each with its own specific purpose. Please refer to the field-by-field explanation below for more details.
-</thinking>
-
 # student_profile_form_template - Help Guide
 ## Purpose
 The student profile form template is a collection of information about a student, aimed at providing a comprehensive understanding of their background, education, and other relevant details.

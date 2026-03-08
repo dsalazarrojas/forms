@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to be used by students to self-assess their facial vocabulary, which is an important part of their overall communication skills. The guide will help students understand the purpose, format, and usage of the form, which will aid in their self-improvement and evaluation.
-
-</thinking>
-
 # Facial Vocabulary Assessment - Help Guide
 ## Purpose
 The Facial Vocabulary Assessment form is designed to help students evaluate their ability to identify and label different facial expressions, which are an essential aspect of communication and social skills. The form will help students assess their knowledge of facial vocabulary and provide them with the opportunity to reflect on their understanding.

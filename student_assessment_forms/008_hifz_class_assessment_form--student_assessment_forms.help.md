@@ -1,11 +1,3 @@
-<thinking>
-
-The Hifz Class Assessment Form is used to assess the performance of a class. The assessment form is used to collect information from teachers, parents, and students to evaluate a class's progress and strengths. This form is essential for teachers to monitor their class's performance and identify areas of improvement. This form is likely used in educational settings such as schools to track the progress of students and make informed decisions about their educational path. 
-
-Before completing this form, please ensure that you have the necessary information ready. You may need to refer to relevant class documentation or discussions to answer some of the questions.
-
-</thinking>
-
 # Hifz Class Assessment Form - Help Guide
 ## Purpose
 The Hifz Class Assessment Form is used to assess the performance of a class, collecting information from teachers, parents, and students to evaluate progress and identify areas of improvement.

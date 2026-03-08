@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from students about their extracurricular activities, which can include club affiliations, sports participation, and other activities. It's essential to fill out this form accurately to ensure that the information is recorded correctly and that the student's extracurricular activities are properly documented. Please note that this form is a declaration form, meaning it should only include activities that the student is actually participating in or involved with, not just potential or past experiences. 
-</thinking>
-
 # Extracurricular Activities Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information from students about their extracurricular activities, which can include clubs, sports, leadership roles, and other activities that students participate in or are involved with.

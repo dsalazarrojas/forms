@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Renaissance And Reformation Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about the reformation and its impact on European society. It asks users to provide their thoughts on the major events, causes, and consequences of the Reformation, as well as their views on its influence on art and music. This form is meant to gather feedback and opinions from users on the Reformation, and its completion is optional.

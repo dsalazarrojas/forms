@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive health declaration form designed for students returning to school. It captures essential information about the student, their health history, medical conditions, and immunizations. The form also requests details about the student's physician and parent/guardian contact information. This form likely serves as a template for schools or educational institutions to collect health-related information from students and their families.
-</thinking>
-
 # Back To School Health Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect health-related information from students returning to school. It's essential to complete this form accurately and thoroughly to ensure the student's health and well-being.

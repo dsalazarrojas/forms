@@ -1,8 +1,3 @@
-<thinking>
-The Student Project Submission Tracking Form is a crucial tool for tracking and evaluating student projects. It captures essential details about student projects, including submission due dates, submission status, and submission comments. This form is designed to be completed by students to provide them with a platform to submit their projects and track their progress. It will help administrators and instructors to track and manage student submissions more efficiently.
-The form is not intended to be used for non-student projects or for any other type of submission.
-</thinking>
-
 # Student Project Submission Tracking Form - Help Guide
 ## Purpose
 This form is used by students to submit and track their projects. It collects information about the submission process, including due dates, status, and other relevant details.

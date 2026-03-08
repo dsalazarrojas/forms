@@ -1,7 +1,3 @@
-<thinking>
-The Stationary Payment Form is used to record payments made by storekeepers for stationary products. This form is not required to be completed for every single transaction, and users should only fill it out when they need to make a payment. The purpose of this form is to accurately track and record the payments made by storekeepers for stationary products. Please review the form carefully and ensure that you are only completing it when necessary.
-</thinking>
-
 # Stationary Payment Form - Help Guide
 ## Purpose
 The Stationary Payment Form is used to record payments made by storekeepers for stationary products.

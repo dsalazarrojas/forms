@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's quickly review the form's purpose and fields. This "Staff Application Form Template" seems to be designed for collecting information about an individual's work experience. The fields include first and last name, email, phone number, address, work experience start and end dates, job title, and the company they worked for. The form likely serves as a template for applicants or employees to fill out for internal use.</thinking>
-
 # Staff Application Form Template - Help Guide
 ## Purpose
 This template is designed to collect information about an individual's work experience. It's intended to help applicants or employees provide details about their background and history in the workforce. Please fill out the form accurately and thoroughly.

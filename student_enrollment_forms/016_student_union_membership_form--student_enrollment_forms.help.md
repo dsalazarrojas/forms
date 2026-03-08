@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students regarding their membership in the Student Union. It's crucial to understand that this form will be used to determine student eligibility for membership, track membership status, and facilitate communication with the student union. Please review your institution's policies and guidelines to confirm that this form is relevant and compliant with your student union's regulations. To avoid duplicating efforts, ensure that you only submit this form once for each student.
-</thinking>
-
 # Student Union Membership Form - Help Guide
 ## Purpose
 This form collects information from students to determine their eligibility for membership in the Student Union. It helps track membership status and facilitates communication with the student union.

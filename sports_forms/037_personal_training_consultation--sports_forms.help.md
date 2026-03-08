@@ -1,18 +1,3 @@
-<thinking>
-To provide an accurate and helpful guidance for users completing the "personal_training_consultation" form, we must understand its purpose and relevance. 
-
-This form is designed for users to schedule a personal training consultation. The form will gather information from the user, including their name, contact details, and preferences.
-
-Upon analyzing the form fields, we notice that all fields except "Select One" and "Select Multiple" are either "text", "email", "phone", "date", "time", "note", and "date_time" types. These types are self-explanatory. "Select One" and "Select Multiple" fields, however, are not immediately clear without further explanation.
-
-The "Select One" field allows the user to choose one option from the given options. It seems to be required, implying its selection is vital for the consultation. The "Select Multiple" field, on the other hand, appears to be optional, allowing users to choose multiple options from the provided choices.
-
-This form likely aims to collect information to create a personalized training plan, which includes scheduling, communication, and other details.
-
-To prevent duplication or irrelevant submissions, users should only fill out the form once and with accurate information.
-
-</thinking>
-
 # personal_training_consultation - Help Guide
 ## Purpose
 This form is designed to help you schedule a personalized training consultation with our experts. Please provide the necessary information below to ensure we can tailor a plan that suits your needs.

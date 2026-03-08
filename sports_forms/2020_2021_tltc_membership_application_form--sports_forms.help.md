@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm that this form has been generated based on public survey topic metadata, and to ensure that it accurately represents the original intent of the form creators.
 
 The 2020 2021 TLTC Membership Application Form is designed to collect personal and membership information from applicants to the TLTC (Tennis League Tournament Committee). The form is used to assess an individual's eligibility for membership, their tennis experience, and interests in participating in club activities.

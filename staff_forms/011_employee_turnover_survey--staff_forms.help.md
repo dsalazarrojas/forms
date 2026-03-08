@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees on their experience and satisfaction with their job and work environment. It is meant to be completed by employees who are leaving or have left the company. The purpose of this form is to gather data on reasons for turnover, job satisfaction, and overall performance. This form will help management identify areas of improvement and make data-driven decisions to retain employees.
-</thinking>
-
 # Employee Turnover Survey - Help Guide
 ## Purpose
 The Employee Turnover Survey is designed to collect feedback from employees who are leaving or have left the company. The goal is to gather data on reasons for turnover, job satisfaction, and overall performance.

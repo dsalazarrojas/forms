@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Molecular Polarity Assessment - Help Guide
 ## Purpose
 The Molecular Polarity Assessment form is used to assess the polarity of molecules and gather information on various fields such as student's name, email, phone number, and submission time. It's essential to complete this form accurately to ensure that the submitted data is valid and useful for future reference.

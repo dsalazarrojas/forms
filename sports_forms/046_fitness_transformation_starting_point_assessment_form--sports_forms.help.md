@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to help users assess their current fitness level and provide essential information about their transformation goals and current workout routine. This form is meant to be completed by users who are seeking guidance or support for their fitness journey. By filling out this form, users will be able to:
-* Evaluate their current fitness level in comparison to others
-* Set realistic goals for transformation (weight loss, muscle gain, endurance)
-* Provide insight into their current body measurements and workout frequency
-* Allow fitness professionals to understand their current fitness state and provide accurate guidance and support
-
-This form will help ensure that the user's goals and needs are understood correctly, preventing miscommunication and misaligned expectations. It will also help fitness professionals tailor their approach to each user's unique requirements.
-
-Please note that this form should only be completed by users who are genuinely interested in seeking fitness guidance or support.
-</thinking>
-
 # Fitness Transformation Starting Point Assessment Form - Help Guide
 ## Purpose
 This form is designed to help you assess your current fitness level and provide essential information about your transformation goals and current workout routine. The insights gathered from this form will be used by our fitness professionals to offer you tailored guidance and support.

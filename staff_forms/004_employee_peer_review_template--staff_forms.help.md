@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document an employee's performance and provide feedback for growth and development. It's essential to ensure that the form is completed accurately and consistently to help employees understand their strengths and areas for improvement. Please review the form carefully to understand its purpose and how to complete it correctly to avoid duplication of work and to ensure consistency in evaluations.
-</thinking>
-
 # Employee Peer Review Template - Help Guide
 
 ## Purpose

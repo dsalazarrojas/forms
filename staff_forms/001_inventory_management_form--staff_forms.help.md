@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for managing inventory, which is a crucial aspect of business operations. It helps to keep track of stock levels, prices, and descriptions of items. This form will be used by staff to input data related to inventory management. Before starting, ensure that the information in this form is relevant and not already duplicated in other records.
-
-</thinking>
-
 # Inventory Management Form - Help Guide
 ## Purpose
 The purpose of this form is to assist staff in managing inventory data accurately and efficiently. This form is used to input detailed information about items, including store name, date, time, description, quantity, price, and category.

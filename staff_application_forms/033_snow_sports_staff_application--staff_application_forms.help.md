@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is for the Snow Sports Staff Application form. The form is designed to help staff members apply for roles within the snow sports industry. It is intended for staff members who are interested in working in this field. Before starting, please ensure you have not already applied using this form, as duplicate submissions will not be processed.
-
-</thinking>
-
 # Snow Sports Staff Application - Help Guide
 ## Purpose
 The Snow Sports Staff Application form is designed to collect information from staff members interested in working in the snow sports industry. Please use this form to apply for roles within this field.

@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to create a phased return-to-work plan for employees who have been on leave. This plan allows employees to gradually return to work after a leave period, adjusting their work schedule to a more gradual pace. 
-The form will be used by HR or supervisors to gather information about an employee's return-to-work plan and schedule.
-It's essential to fill out this form accurately to ensure a smooth transition back to work and to prevent potential issues or conflicts. Please note that this form should not be filled out if the employee is returning to work immediately or if they have already been cleared for a regular return to work.
-
-</thinking>
-
 # phased_return_to_work_form - Help Guide
 ## Purpose
 The Phased Return to Work Form is designed to create a gradual return-to-work plan for employees who have been on leave. This form helps gather essential information to ensure a smooth transition back to work.

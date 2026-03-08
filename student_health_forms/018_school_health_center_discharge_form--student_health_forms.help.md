@@ -1,10 +1,3 @@
-<thinking>
-The School Health Center Discharge Form is used to capture information about a student's visit to the school health center. This form is used to ensure that the student's health information is properly documented and communicated to the relevant parties. Before filling out this form, please ensure that you have a good understanding of the student's health status and the discharge instructions provided by the school health center. This form should not be filled out if the student has not been seen at the school health center or if you are unsure about the student's health status.
-
-Also, please note that the school health center visit information is captured in Page 1 and the discharge instructions are captured in Page 2 of this form.
-
-</thinking>
-
 # School Health Center Discharge Form - Help Guide
 ## Purpose
 The School Health Center Discharge Form is used to document a student's health information after a visit to the school health center.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Employee Of The Month Nomination Form" is used to nominate employees for the employee of the month recognition. This form is optional and is used to provide a way for employees to nominate their colleagues for outstanding performance or contributions. The form should only be completed once per month, and nominations are not automatically recurring.
-</thinking>
-
 # Employee Of The Month Nomination Form - Help Guide
 ## Purpose
 This form is used to nominate an employee for employee of the month recognition. Please use it to provide a brief description of the employee's work performance or contributions.

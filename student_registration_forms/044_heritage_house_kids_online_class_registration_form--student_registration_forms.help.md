@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students to register for online classes offered by "Heritage House Kids". The form is required to be completed by students to ensure accurate and timely attendance, payment, and participation in the classes. Before proceeding, please ensure that you are completing this form for the correct purpose and not duplicating an existing registration.
-</thinking>
-
 # Heritage House Kids Online Class Registration Form - Help Guide
 
 ## Purpose

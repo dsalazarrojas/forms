@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose and not duplicated. This form is for PhD admission, not for any other purposes. Only students who are interested in PhD programs at the listed universities should fill out this form. We also want to make sure that students understand what information we are collecting and how it will be used.
-</thinking>
-
 # Phd Admission Form - Help Guide
 ## Purpose
 The PhD Admission Form is designed to collect information from students who are interested in PhD programs at University A, University B, or University C. This form is used to streamline the application process and ensure that all necessary information is provided.

@@ -1,7 +1,3 @@
-<thinking>
-The Student Accessibility Service Request Form is a critical component of our institution's commitment to supporting students with diverse needs and abilities. This form is designed to collect information from students who require accommodations or services to ensure equal access to educational opportunities. To complete this form, students must indicate if they need assistance, what type of accommodation they require, and provide contact details for follow-up communication. The form is meant to be completed by students who need help, not for staff or faculty members to request services on their behalf. To ensure accuracy, please review each field carefully and provide clear and concise answers. Before proceeding, check that you have not already submitted a similar request to avoid duplication of effort. 
-</thinking>
-
 # Student Accessibility Service Request Form - Help Guide
 ## Purpose
 The Student Accessibility Service Request Form is a tool used to request accessibility services for students with diverse needs and abilities. To complete this form, please follow the instructions below.

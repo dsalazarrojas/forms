@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the purpose and scope of the form are well-defined to create a clear and concise help guide. The Music Conservatory Spring Registration Form is designed to collect information from students and parents for the music conservatory's spring registration process. This form should cover the essential details required for registration, including student and parent information, and music-related data such as instrument selection. It's essential to review the form's purpose and content to create a comprehensive help guide.
-</thinking>
-
 # Music Conservatory Spring Registration Form - Help Guide
 
 ## Purpose

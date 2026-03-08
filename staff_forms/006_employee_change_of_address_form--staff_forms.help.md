@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Change Of Address Form - Help Guide
 ## Purpose
 The Employee Change Of Address Form is used to update an employee's address in the company's records. This form is typically used for employees who are changing their permanent address. The information collected through this form will be used to update the employee's profile and ensure that they receive important company communications and notifications at their new address.

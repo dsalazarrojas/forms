@@ -1,7 +1,3 @@
-<thinking>
-The Au Pair Application Form is used to gather personal and professional information from applicants who want to work as au pairs in a foreign country. This form should only be completed by individuals who are serious about applying for au pair placement, and applicants should not submit duplicate applications. The form is intended to help our agency assess an applicant's suitability and fit for au pair placement in different countries. Please make sure to review the form carefully and provide accurate information to ensure a smooth and successful application process.
-</thinking>
-
 # Au Pair Application Form - Help Guide
 ## Purpose
 The Au Pair Application Form is designed to collect essential information about you, the applicant, to help us assess your suitability for au pair placement. This guide will walk you through each section of the form to ensure you provide accurate and complete information.

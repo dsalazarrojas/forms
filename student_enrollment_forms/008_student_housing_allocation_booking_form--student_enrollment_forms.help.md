@@ -1,10 +1,4 @@
-> <thinking>
-  The purpose of this form is to allow students to book their accommodation for a certain period of time, providing necessary information such as student's name and contact details.
-  The form is not intended to be a comprehensive accommodation selection process but rather a means to express interest in a specific accommodation.
-  Please be aware that some fields may be optional, depending on the user's preferences and requirements.
-</thinking>
-
-# Student Housing Allocation Booking Form - Help Guide
+> # Student Housing Allocation Booking Form - Help Guide
 ## Purpose
 The Student Housing Allocation Booking Form is a means to express interest in a specific accommodation for a student. It is not a comprehensive accommodation selection process but rather a way to provide necessary information to be considered for accommodation allocation.
 

@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for use as a screening tool for employees before they begin their shifts to identify potential COVID-19 cases. This is not intended for use as a definitive medical diagnosis, but rather as a quick and easy way to check for symptoms and exposures that may indicate the need for further assessment or testing.
-
-This form is designed to gather information about the employee's screening date, time, name, employee ID, shift date, and shift time, as well as their symptoms and potential exposures to COVID-19.
-
-Please ensure that you answer all questions truthfully, and provide accurate information to the best of your ability. This form is a critical component of our COVID-19 screening process, and helps us to identify potential risks and take necessary precautions to protect our employees and clients.
-
-Before completing this form, please make sure that you have access to any necessary information or resources, such as your employee ID or your shift schedule.
-</thinking>
-
 # COVID 19 Employee Pre Shift Screening Questionnaire - Help Guide
 ## Purpose
 The COVID-19 Employee Pre Shift Screening Questionnaire is designed to quickly and easily identify potential cases of COVID-19 among employees before they begin their shifts. This form is used to gather information about employees' symptoms and potential exposures to COVID-19.

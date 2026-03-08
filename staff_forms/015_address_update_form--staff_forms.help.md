@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and that users do not submit duplicate updates. This form is designed to update a person's address in our system. Users will need to provide their full name, employee ID, and new address details. The new address will replace the existing one in the system. Please fill out the form with your updated information and reason for the change. Ensure you are submitting the form for the correct employee ID. If you are making changes for someone else, please ensure you have their permission before submitting this form.
-</thinking>
-
 # Address Update Form - Help Guide
 ## Purpose
 The Address Update Form is used to update a person's address in our system. This form replaces the existing address with the new one provided.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form serves as a registration form for participants in a program. It is designed to collect demographic information, interests, and other relevant details from students. This form has been reviewed and validated for accuracy and relevance to ensure it captures the necessary information for the program. 
-
-It is essential to fill out this form carefully to ensure that the information is correctly captured for the intended purpose.
-
-</thinking>
-
 # nxt_gen_registration_form - Help Guide
 ## Purpose
 This form is used for students to register and provide necessary information for a program. It helps us better understand who is participating and tailor our support and services to meet their needs.

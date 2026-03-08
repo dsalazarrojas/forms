@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Transportation Reimbursement Form - Help Guide
 
 ## Purpose

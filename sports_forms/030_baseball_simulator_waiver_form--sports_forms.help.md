@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended for participants to provide personal and safety information before participating in a baseball simulator session. It is essential to understand that this form is not a substitute for proper medical clearance, and participants should not sign up without consulting a medical professional if they have any health concerns.
-
-Before filling out the form, please note that it is divided into two sections: "Personal Information" and "Session Details." The "Personal Information" section is designed to gather basic details about the participant, including their full name, date of birth, contact information, and emergency contact details. This information will be used for communications and emergency contact purposes.
-
-The "Session Details" section focuses on the specifics of the simulator session, including the type of simulator, the participant's experience level, and their understanding of the risks involved.
-
-Please ensure you fill out this form accurately and completely to provide a safe and smooth experience for yourself and other participants.
-
-</thinking>
-
 # Baseball Simulator Waiver Form - Help Guide
 ## Purpose
 

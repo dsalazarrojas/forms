@@ -1,7 +1,3 @@
-<thinking>
-This form is used by staff members to request reimbursement for expenses incurred while performing their duties. The form is intended for staff members to provide details about their expenses, including the date submitted, expense amount, and any submitted documents. The submission process involves selecting the staff member in charge, submitting the form to, and any other staff members involved in the submission. 
-</thinking>
-
 # Member Reimbursement Form - Help Guide
 ## Purpose
 The Member Reimbursement Form is used by staff members to request reimbursement for expenses incurred while performing their duties.

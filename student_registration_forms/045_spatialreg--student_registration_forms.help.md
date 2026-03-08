@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # spatialreg - Help Guide
 
 ## Purpose

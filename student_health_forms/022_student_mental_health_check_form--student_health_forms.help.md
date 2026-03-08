@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help students and support staff at an educational institution track and manage student mental health concerns. The form is used to gather information about a student's mental health status, including their health concerns, the services they require, and the support they have in place. By completing this form, students can provide accurate and timely information to support staff, ensuring they receive the help they need in a timely manner. 
-
-This form is intended for students to report their mental health status and the support they require. It is not designed for staff to fill out on behalf of students.
-
-To ensure accuracy and consistency, it is recommended that students fill out this form in the presence of a support staff member or in a quiet and private setting where they feel comfortable.
-
-This form will be reviewed and updated regularly to reflect changes in student mental health services and support.
-
-</thinking>
-
 # Student Mental Health Check Form - Help Guide
 
 ## Purpose

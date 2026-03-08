@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help employees create their own training manuals that are customized to their needs. The form guides you through the essential information required to create a comprehensive and effective manual. This will help ensure that the manual is well-structured, engaging, and meets the needs of the target audience.
-
-Please note that you must fill out all required fields, and the order of the fields is deliberate to guide you through the process.
-
-Also, ensure that you are not duplicating an existing manual, as this will save time and resources.
-
-If you are unsure about any of the fields, please refer to the help guide below.
-</thinking>
-
 # Build Your Own Training Manual Form - Help Guide
 ## Purpose
 This form is designed to help employees create their own training manuals that are customized to their needs.

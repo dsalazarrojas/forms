@@ -1,5 +1,3 @@
-<thinking>Before diving into the form help guide, let's briefly discuss the purpose of the "received_inventory_form". This form is designed to track and record inventory received from various vendors. It will likely be used by storekeepers or inventory managers to document the details of received items, which can be beneficial for stock management, accounting, and future reference. The form is intended for internal use, and its completion is crucial for accurate inventory tracking and reporting.</thinking>
-
 # received_inventory_form - Help Guide
 ## Purpose
 The "received_inventory_form" is used to track and record inventory received from various vendors. This form ensures that all items are properly documented, including their description, quantity, and unit price, to help with stock management and accurate accounting.

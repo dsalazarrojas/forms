@@ -1,19 +1,3 @@
-<thinking>
-A form that captures information about grocery orders from customers, used by storekeepers to manage orders and track customer deliveries. This form likely serves as a central repository for order data, making it easy to access and analyze customer orders. 
-
-To ensure this form is used correctly and accurately, it's essential to understand what each field represents and what information is being requested from the customer. To complete this form, follow these steps:
-
-- **Customer Name** (customer_name, text, Required): Enter the name of the customer.
-- **Customer Email** (customer_email, email, Required): Enter the email address of the customer.
-- **Order Items** (order_items, text, Required): List the items ordered by the customer, separated by commas.
-- **Order Date** (order_date, date, Required): Enter the date the order was placed.
-- **Payment Method** (payment_method, select_one, Required): Select the method used for payment, either 'cash' or 'credit card'.
-- **Order Amount** (order_amount, number, Required): Enter the total amount of the order.
-- **Delivery Status** (delivery_status, select_multiple, Required): Select the current status of the delivery, which can be 'in progress', 'delivered', or 'cancelled'.
-- **Delivery Note** (delivery_note, text, Optional): Enter any additional notes about the delivery process, if applicable.
-
-</thinking>
-
 # Grocery Order Form - Help Guide
 ## Purpose
 

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for registration of entertainment crew for various events. It is meant for staff members who are part of the entertainment crew to provide information about themselves and their work. The purpose of this form is to gather all necessary details about the crew members to ensure they have the correct information for the events they will be performing at.
-
-The form is not intended for public use, so only internal staff members are expected to access and fill out this form. Please make sure to only access this form if you have been invited to do so.
-
-To ensure consistency in the data we collect, we are implementing this form to prevent duplication of data.
-
-</thinking>
-
 # Entertainment Crew Application Registration - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form "Student Program Feedback Form" is designed to collect feedback from students about a specific program. This form is part of an internal process to gather opinions and comments about the program's effectiveness, usability, and overall performance. It is intended to be filled out by students who have participated in the program and can provide valuable insights for improvement.
-</thinking>
-
 # Student Program Feedback Form - Help Guide
 ## Purpose
 This form is meant to be a comprehensive feedback collection tool for students to express their thoughts about a specific program. It will help the program administrators and developers to identify areas of strength and areas that need improvement.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a crucial tool for ensuring the health, safety, and well-being of employees in the workplace. The Occupational Health and Safety Questionnaire is designed to gather information about the employee's work environment, supervisor, and job title, as well as their personal contact information and emergency services. It is essential for HR and management to have accurate and up-to-date information about employee demographics, job hazards, safety controls, and emergency protocols to create a safe working environment. This form is intended for use by all employees, including those with and without managerial roles. It is not intended to be a duplicate effort, as this form is used to gather information for HR purposes only.
-
-</thinking>
-
 # Occupational Health And Safety Questionnaire - Help Guide
 
 ## Purpose

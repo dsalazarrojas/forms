@@ -1,5 +1,3 @@
-<thinking>...The Fitness Class Registration Form is designed to collect information from participants who want to register for a fitness class. This form will help the fitness center staff to get in touch with the participant and ensure they have all necessary details to provide the best possible experience... This form is meant to be completed by the participant, and the fields should only be filled out once for each participant...</thinking>
-
 # Fitness Class Registration Form - Help Guide
 ## Purpose
 The Fitness Class Registration Form is a tool used to collect essential information from participants who want to register for a fitness class. This form helps our staff get in touch with you and provide a tailored experience.

@@ -1,7 +1,3 @@
-<thinking>
-We have a form that is intended for parents and guardians to fill out information about their child who wants to participate in swimming lessons. The form is for the waiting list, which means it's meant to be filled out before the lessons begin. This form aims to gather essential details about the child, their swimming level, medical conditions, and emergency contact information. The purpose of the form is to ensure that we have accurate and up-to-date information about each child in our program. By filling out this form, you will help us provide the best possible experience for your child and our coaches.
-</thinking>
-
 # Kids Swimming Lessons Waiting List Form - Help Guide
 ## Purpose
 

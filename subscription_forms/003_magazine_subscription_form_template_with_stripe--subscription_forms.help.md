@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect user information and payment details for magazine subscription management. To create a subscription form that integrates with Stripe, you can fill out this template, which has fields for billing information, payment method, and subscription period.
-
-Before proceeding, ensure that you are filling out the correct form and that the information is accurate and up-to-date. This template is intended for internal use only; please do not fill it out unless you are authorized to do so.
-</thinking>
-
 # Magazine Subscription Form Template With Stripe - Help Guide
 ## Purpose
 This form is designed to collect user information and payment details for magazine subscription management.

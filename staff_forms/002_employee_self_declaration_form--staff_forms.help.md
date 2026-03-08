@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Self Declaration Form - Help Guide
 ## Purpose
 The Employee Self Declaration Form is a document designed to gather essential personal and professional information from employees. It is intended for internal use within your organization to collect data that will help in the management and development of your team members.

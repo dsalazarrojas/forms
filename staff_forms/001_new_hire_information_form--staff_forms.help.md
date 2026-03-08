@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Hire Information Form - Help Guide
 ## Purpose
 This form is designed to collect new hire information for HR and HR-related purposes. Please fill in the form accurately and thoroughly to ensure proper onboarding and integration into the company's system.

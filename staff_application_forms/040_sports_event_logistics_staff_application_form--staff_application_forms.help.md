@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to collect information from potential staff members for sports events, such as event coordinators, staff managers, and catering managers. The form is likely used by event organizers to manage staff applications and schedule staff members for events. To ensure that the form is completed accurately, please review the instructions and explanations provided below.
-
-Note: This form does not collect sensitive or personal financial information, so it's likely that the data will be used for internal management purposes only.
-</thinking>
-
 # Sports Event Logistics Staff Application Form - Help Guide
 ## Purpose
 The Sports Event Logistics Staff Application Form is designed to collect information from potential staff members for sports events. This form will be used to gather details about your availability, skills, and experience to help event organizers assign roles and schedule staff for events.

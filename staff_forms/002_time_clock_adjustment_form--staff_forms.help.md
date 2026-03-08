@@ -1,12 +1,3 @@
-<thinking>
-This form is used to adjust the time clock for an employee, allowing them to correct any discrepancies or errors that may have occurred in their time tracking record. This form is typically used by employees who have made mistakes or need to clarify their work hours. The goal is to provide accurate information and avoid any potential consequences of incorrect time tracking.
-
-To fill out this form, employees should select 'Yes' for each field that applies to their situation. If a field does not apply, select 'No'. 
-
-Please note that this form is meant to be used internally, within the organization, and is not intended for external use.
-
-</thinking>
-
 # Time Clock Adjustment Form - Help Guide
 ## Purpose
 The Time Clock Adjustment Form is used to correct inaccuracies in an employee's time tracking record.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to be completed by employees as part of their self-appraisal process. It is used to evaluate an employee's performance, skills, and overall rating. The purpose of this form is to provide a comprehensive overview of an employee's strengths and weaknesses, which can be used for future development and growth opportunities. 
-
-Please ensure that the fields are filled out accurately and honestly, as this information will be used for personnel development and evaluation purposes. 
-
-Note that there are multiple fields for "Assigned Tools" which should be completed with specific details about the tools assigned to the employee. These fields are optional and are meant to capture any additional information that the employee deems relevant to their work. 
-
-Please fill out the form completely and accurately, and do not leave any fields blank unless specified otherwise.
-
-</thinking>
-
 # Employee Self Appraisal Form - Help Guide
 ## Purpose
 This form is designed to collect information about your performance, skills, and overall rating as an employee. It is used to provide a comprehensive overview of your strengths and weaknesses, which can be used for future development and growth opportunities.

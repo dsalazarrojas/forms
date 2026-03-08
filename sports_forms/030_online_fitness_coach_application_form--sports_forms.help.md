@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients seeking fitness coaching services. The form is composed of several sections that cover client details, contact and emergency contact details, medical history, fitness goals, client contracts, and training setup. Before proceeding with this guide, please review the form's purpose to ensure it aligns with your needs. If you've already submitted a similar form, please note that this is an AI-generated adaptation and not a duplicate.
-</thinking>
-
 # Online Fitness Coach Application Form - Help Guide
 ## Purpose
 This form is intended for individuals seeking personalized fitness coaching services. It collects necessary information to match you with a suitable coach and ensure a smooth coaching experience.

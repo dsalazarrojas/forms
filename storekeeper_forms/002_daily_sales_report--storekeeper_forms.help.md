@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to provide an at-a-glance view of daily sales, including the date of the sales report, sales amounts, product categories, and order details. It may be used by sales staff to quickly review their performance, note any salesperson or customer notes, or for management to gain insight into daily sales trends.
-
-This form does not appear to be duplicated in our catalog of available reports. If you have concerns about duplication or need further clarification, please speak with your supervisor or our support team.
-
-</thinking>
-
 # Daily Sales Report - Help Guide
 ## Purpose
 The Daily Sales Report is a form used to track and review the sales activity of a given day. This report captures key information about the date of the sales, total sales amount, product categories, and order details.

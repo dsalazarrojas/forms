@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be a Geometry Surface Area Quiz for students. The purpose of this form is to collect feedback from students on their understanding of the surface area of geometric shapes. The form will ask students to select the correct answers to quiz questions, calculate the surface area of various shapes, and provide their feedback and identification information. 
-
-This form is likely used in a school setting, where a teacher is administering the quiz to gauge the students' understanding of surface area concepts.
-
-The form's design is simple and straightforward, with fields that correspond to different sections of the quiz. However, it may be beneficial to review the form's purpose and usage to ensure it is being used correctly.
-
-</thinking>
-
 # Geometry Surface Area Quiz - Help Guide
 ## Purpose
 This form is designed to be a tool for students to demonstrate their understanding of surface area concepts in geometry.

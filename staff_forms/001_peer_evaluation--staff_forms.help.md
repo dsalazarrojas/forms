@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to facilitate peer evaluation and feedback between team members, allowing them to assess and provide input on each other's work, behavior, and performance. The form is designed to be completed by peers who are familiar with the individual's work, and is used to gather feedback in a structured and organized manner. This form is typically used for performance evaluations, progress check-ins, or other occasions where peer feedback is required.
-This form is meant to be filled out by peers, and the responses will be reviewed by the individual being evaluated or by the team leader. The purpose of this form is to gather feedback and input from peers, and the individual being evaluated is encouraged to discuss any discrepancies or concerns with their peers.
-Before filling out this form, please make sure to read and understand the purpose of the form, and that you are providing feedback based on your personal observations and experiences with the individual.
-</thinking>
-
 # Peer Evaluation - Help Guide
 ## Purpose
 

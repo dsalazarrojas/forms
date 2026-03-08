@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to assess a participant's knowledge of ethics, specifically their ability to answer a series of questions related to ethical dilemmas. The form is used to evaluate the participant's understanding of ethical principles and concepts, and is likely used in educational or professional settings to gauge the knowledge and aptitude of individuals in this area.
-
-This form is designed to gather information from a single participant, and is not intended for use with groups or teams. The form's purpose is to assess individual knowledge, not group or team knowledge.
-
-The assessment is meant to be completed by a single participant at a time, and is not designed for use with multiple participants simultaneously.
-
-</thinking>
-
 # Ethics Knowledge Assessment - Help Guide
 ## Purpose
 The Ethics Knowledge Assessment form is used to evaluate a participant's knowledge of ethics, specifically their ability to answer a series of questions related to ethical dilemmas.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to request devices for remote learning purposes. A device request form is used to gather information from students, teachers, and schools to determine the need for devices in a remote learning setting. This form is used to collect necessary details for the request such as student information, device requirements, and contact information for teachers and schools. The form's fields are designed to be straightforward, allowing users to provide the necessary information quickly and accurately. Please ensure that the information is filled out correctly and thoroughly to help with the processing of the request. If you've already submitted a request, please note that this form is intended for new requests only.
-
-</thinking>
-
 # Remote Learning Device Request - Help Guide
 
 ## Purpose

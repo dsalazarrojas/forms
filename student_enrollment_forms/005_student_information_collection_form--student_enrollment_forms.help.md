@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting student information for the purpose of tracking student progress, attendance, and other related activities. Please ensure that this form is only used for legitimate and relevant purposes, and not for any other use that may duplicate or compromise student data. It's crucial to review the form's content carefully and ensure that it aligns with your organizational goals and policies.
-</thinking>
-
 # Student Information Collection Form - Help Guide
 ## Purpose
 This form is used to collect information from students, which can be useful for tracking student progress, attendance, and other related activities.

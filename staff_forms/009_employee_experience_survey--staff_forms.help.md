@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather feedback and experience data from employees. It captures information about their company name, position, experience, satisfaction level, department, manager's name, and any additional feedback. This form is not meant to be used for performance evaluations or disciplinary actions. Ensure that you complete this form honestly and accurately, and that you are aware that your responses will be reviewed by management.
-</thinking>
-
 # employee_experience_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and experience data from employees to help management understand their perspective and improve working conditions.

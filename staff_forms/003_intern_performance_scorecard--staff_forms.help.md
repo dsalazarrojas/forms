@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track and evaluate intern performance on various aspects of their work. It helps managers to assess the intern's skills, abilities, and areas of improvement. This form is meant to be completed after a certain period of work experience, typically at the end of the internship.
-</thinking>
-
 # Intern Performance Scorecard - Help Guide
 ## Purpose
 This form is used to evaluate the performance of an intern based on their skills, abilities, and work quality. It is essential to fill out this form to ensure that the intern receives a fair and accurate assessment of their work experience.

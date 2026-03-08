@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # square_meal_kit_delivery_subscription_form - Help Guide
 ## Purpose
 The "square_meal_kit_delivery_subscription_form" is a form used to manage delivery subscriptions for the Square Meal Kit. This form is used to collect information from customers to create or update their delivery subscriptions.

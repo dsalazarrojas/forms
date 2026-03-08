@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the sports fund impact assessment survey. The purpose of the survey is to collect information on the impact of sports funding on sports programs. This form is designed to gather data on specific sports programs, and it is essential to complete all required fields to ensure accurate data collection. To check for non-duplication, please ensure that each form instance has a unique form ID (<assigned_tool> field).
-
-This help guide will outline each field's meaning and requirements in the following structure: introduction, field-by-field explanation, and tips.
-
-</thinking>
-
 # sports_fund_impact_assessment_survey--sports_forms - Help Guide
 ## Purpose
 This form is designed to collect information on the impact of sports funding on sports programs. It is crucial to complete this form accurately to ensure that your input is correctly recorded and analyzed.

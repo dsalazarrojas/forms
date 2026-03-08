@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect donations for an animal shelter through Stripe, a payment processing service. The purpose of this form is to allow users to securely donate money to the shelter, specifying the amount, frequency, and tier of their donation. This form is likely used in a website or application where users can fill out and submit the form to make a donation. To check if this form is being used correctly, we can look at the required fields and ensure that the user is providing valid information. Specifically, the form is required to have a "donation_details", "payment_info", "stripe_payment", "stripe_payment_tier", and "stripe_payment_frequency" filled out, which are crucial for processing the donation properly. If any of these fields are missing or not filled out correctly, the form may not be accepted.
-</thinking>
-
 # stripe_animal_shelter_donation_form - Help Guide
 ## Purpose
 This form is used to collect donations for an animal shelter through Stripe. It allows users to specify the amount, frequency, and tier of their donation, making it convenient for them to support the shelter.

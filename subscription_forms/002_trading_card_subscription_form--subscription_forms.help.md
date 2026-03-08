@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from users for subscription purposes, likely for a trading card membership or subscription service. The form is divided into multiple pages, each with different fields to gather specific information from the user. The form's purpose is to gather data that will help the service provider understand the user's preferences and requirements for subscription. This includes collecting information on whether the user wants to subscribe, their payment preferences, personal details such as name and email, and address details such as city and state.
-
-To avoid duplication or unnecessary fields, we should ensure that the user's preferences are only asked once, and that we are not collecting redundant information. For example, if the user has already indicated their preference for collecting information, we should not ask them again on the next page. This will ensure a smooth and efficient experience for the user.
-</thinking>
-
 # trading_card_subscription_form - Help Guide
 ## Purpose
 The trading_card_subscription_form is designed to collect information from users for subscription purposes. This form is divided into multiple pages, each with different fields to gather specific information from the user.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to gather information from users who are interested in playing cricket and to determine their interest in specific sports. This form will help us identify potential users for our cricket-related products or services.
  
 </thinking>

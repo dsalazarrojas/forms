@@ -1,7 +1,3 @@
-<thinking>
-The Final Study Guide Quiz form is designed to assess students' understanding of a course material at the end of the semester. This form is used to gather feedback from students on their perception of the course content, instructor's teaching style, and overall learning experience. Before starting, ensure that this form is relevant to your specific course and semester, and that you haven't already collected similar feedback through other means. If you've already collected feedback, you can skip this form.
-</thinking>
-
 # Final Study Guide Quiz - Help Guide
 
 ## Purpose

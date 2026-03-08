@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for parents, guardians, or individuals responsible for youth athletes to provide information for team communication and emergency contact details. It is an essential tool for team administrators to collect relevant information for team management and communication. 
 
 </thinking>

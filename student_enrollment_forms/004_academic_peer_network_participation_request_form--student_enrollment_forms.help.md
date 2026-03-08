@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure that the purpose of this form is clear to the end user. This form is for students to request participation in an academic peer network. We will review the form to prevent duplicate submissions and ensure the student's goals and availability align with the peer network's requirements.
-
-</thinking>
-
 # Academic Peer Network Participation Request Form - Help Guide
 ## Purpose
 This form is for students to request participation in the Academic Peer Network, a peer network for academic support and collaboration. By filling out this form, you will be able to join a network that can help you achieve your academic goals and provide support for your academic success.

@@ -1,14 +1,3 @@
-<thinking>
-This form is likely a setup checklist for an online FIFA tournament. It seems to be designed for organizers or administrators to input information about the tournament, including general information, teams, games, players, rules, details, referees, and game settings. The form might be used by event organizers to ensure they have all the necessary information to set up and run the tournament smoothly. The form's layout and field types suggest it's a structured and systematic approach to collecting data. However, without further context or details, it's difficult to determine the exact purpose or specific requirements for the tournament. 
-
-Given the form's structure, it's possible that the form is used in a sports management or event planning context. The "Referees" field with options like "Team A", "Team B", "Team C", and "Team D" might indicate a specific format where teams are divided into groups or categories. The "Game Settings" field with options like "Option 1" and "Option 2" might be for game-related settings or rules. 
-
-Before proceeding, make sure to review the form's purpose and requirements with the relevant stakeholders or team members to ensure this form is indeed the right tool for your specific needs.
-
-This form appears to be a one-page form, so the following help guide will cover the fields in a single page.
-
-</thinking>
-
 # online_fifa_tournament_setup_checklist - Help Guide
 ## Purpose
 The online FIFA tournament setup checklist is a form designed to help organizers collect necessary information for setting up an online FIFA tournament. It consists of 7 fields, each with its own purpose and requirements.

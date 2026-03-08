@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to update contact information for students and their parents/guardians. It's essential to review and update this information regularly to ensure accurate and up-to-date records. Please note that this form is typically used for students who are not currently enrolled or have had a significant change in their contact details.
-</thinking>
-
 # Contact Information Update Form - Help Guide
 ## Purpose
 The Contact Information Update Form is used to collect and update the contact details of students and their parents/guardians. This form is crucial for maintaining accurate and up-to-date records.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I will create a user-facing help guide for the "Content Writing Subscription Form". I will ensure that the form's purpose, completion instructions, and field explanations are clear and concise, based on the provided YAML fields.
 
 # Content Writing Subscription Form - Help Guide

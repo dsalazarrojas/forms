@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data on a student's behavior and provide a comprehensive view of their behavior history, clinical assessment, and services provided to them. It is used to monitor the behavior of students in schools or educational institutions. 
-</thinking>
-
 # Student Behavior Monitoring Form - Help Guide
 ## Purpose
 This form is used to gather information on a student's behavior, behavior history, clinical assessment, and services provided to them.

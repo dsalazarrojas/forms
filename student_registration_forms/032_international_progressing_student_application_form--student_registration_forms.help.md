@@ -1,9 +1,3 @@
-<thinking>Before diving into the help guide, let's briefly discuss the purpose and requirements of the International Progressing Student Application Form. This form is designed to collect information about students who are progressing or have progressed from one institution to another, likely for academic or educational purposes. The form is intended to be completed by the student themselves, and the collected data will be used to track and manage student progression. It is essential to ensure that each student only completes this form once to avoid duplication of efforts and ensure accurate records.
-
-Given the form's structure and fields, it seems that the form covers various aspects of a student's profile, including demographic information, academic status, language proficiency, and personal details. The fields are generally optional, but it's crucial to ensure that students provide accurate and consistent information to facilitate effective progression management.
-
-The form's fields and options should be reviewed carefully to guarantee that they align with the institution's actual needs and requirements. This guide will help users navigate and complete the form correctly.</thinking>
-
 # International Progressing Student Application Form - Help Guide
 ## Purpose
 The International Progressing Student Application Form is a document designed to collect information about students who are progressing or have progressed from one institution to another. This form is used to track and manage student progression.

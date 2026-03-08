@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure the form's purpose aligns with our internal requirements and isn't a duplicate. This form is a crucial tool for assessing a student's research interests, background, and contact information. The form should capture the student's research interests, providing insight into their areas of focus. Additionally, it's essential to gather contact details and consent information for follow-up communication. We should confirm that this form doesn't overlap with existing forms or assessments, ensuring it serves a unique purpose within our workflow.
-</thinking>
-
 # Creative Assessment Research Application Form - Help Guide
 ## Purpose
 The Creative Assessment Research Application Form is designed to collect information from students about their research interests, backgrounds, and contact details. This form helps us assess their suitability for a research opportunity and ensures we can follow up with them effectively.

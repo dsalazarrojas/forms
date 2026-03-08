@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lip Product Subscription Form - Help Guide
 
 ## Purpose

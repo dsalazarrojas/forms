@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the properties of a polymer sample. The goal is to collect information about the sample's condition, properties, and behavior in a structured and organized way.
-This form should be used for assessing the properties of a polymer sample. To complete this form, you will need to provide information about the sample. You are required to fill out the form in its entirety. 
-</thinking>
-
 # Polymer Properties Assessment - Help Guide
 ## Purpose
 The Polymer Properties Assessment form is used to collect information about a polymer sample's properties, condition, and behavior. This form is designed to provide a structured and organized way of assessing the properties of a polymer sample.

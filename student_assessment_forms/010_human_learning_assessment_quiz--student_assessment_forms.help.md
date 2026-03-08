@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess a student's learning and understanding of a subject or topic. The purpose of this form is to gather information about a student's knowledge and identify areas where they need improvement.
-</thinking>
-
 # Human Learning Assessment Quiz - Help Guide
 ## Purpose
 The Human Learning Assessment Quiz is a tool to evaluate a student's knowledge and understanding of a subject or topic. It is a series of questions designed to gauge a student's understanding of the material and identify areas where they need improvement.

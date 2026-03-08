@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to create a quiz that tests the knowledge of historical terms and definitions. It is intended for educational purposes, possibly for students to learn about historical events, periods, and dates.
-
-This form allows users to create a quiz with a title, multiple questions, and answers. The form includes fields for selecting a historical period, date, score, notes, submission date, submission time, email, and phone number. The form is designed to be flexible and adaptable to various types of historical content.
-
-Before proceeding, please ensure that you are familiar with the historical context and content being assessed. This form is not intended for non-historical content or assessments that require different types of responses.
-
-Please fill out the form carefully, as any submitted data will be used for assessment purposes.
-
-</thinking>
-
 # Historical Terms And Definitions Quiz - Help Guide
 ## Purpose
 This form is designed to create a historical quiz for educational purposes, allowing users to test their knowledge of historical terms and definitions.

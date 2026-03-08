@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for staff to assess their skills and interests, and to provide feedback and comments from managers. The purpose of this form is to help identify areas where staff may require additional training or support, and to document manager feedback and comments.
-</thinking>
-
 # Staff Skills Survey - Help Guide
 ## Purpose
 The Staff Skills Survey is a tool used to assess the skills and interests of staff members and provide feedback and comments from managers. This guide will walk you through how to complete the form and what each field means.

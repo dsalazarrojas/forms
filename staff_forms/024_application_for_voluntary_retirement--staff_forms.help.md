@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of a staff member's voluntary retirement. It collects necessary information for a smooth and efficient transition. Before proceeding, please note that:
-
-* This form is intended for staff members who wish to retire voluntarily.
-* Ensure you have all the required information and necessary approvals before submitting this form.
-* Please fill out the form accurately and thoroughly to avoid delays in processing your request.
-</thinking>
-
 # Application For Voluntary Retirement - Help Guide
 ## Purpose
 This form is used by staff members to notify their supervisor and HR department of their intention to retire voluntarily.

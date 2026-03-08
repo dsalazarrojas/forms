@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from students or instructors regarding the classes or programs conducted under the "Zumba" fitness program. The form aims to gather information on the class date, report date, instructor name, class name, location, class type, feedback, comments, rating, and other relevant details. This form is likely used for evaluating and improving the effectiveness of the Zumba program. 
-
-To ensure the form is filled out correctly, we need to check if the form is being filled out for the correct purpose and not duplicated. This form is intended for students or instructors to provide feedback, and it's essential to fill it out accurately to ensure the data is useful for evaluation and improvement purposes.
-
-</thinking>
-
 # zumba_feedback_form - Help Guide
 ## Purpose
 

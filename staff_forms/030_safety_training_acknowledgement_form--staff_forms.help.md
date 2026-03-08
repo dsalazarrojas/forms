@@ -1,5 +1,3 @@
-<thinking>...I will now create the Help Guide for the Safety Training Acknowledgement Form. I will carefully review each field to provide a clear explanation for end-users... </thinking>
-
 # Safety Training Acknowledgement Form - Help Guide
 
 ## Purpose

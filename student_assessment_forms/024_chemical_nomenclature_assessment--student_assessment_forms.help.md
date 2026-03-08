@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist students in completing the Chemical Nomenclature Assessment form, which is designed to test their knowledge of chemical nomenclature. The form is a series of questions that ask students to identify the correct name and/or formula for various chemical compounds. The purpose of this form is to evaluate students' understanding of chemical nomenclature rules and conventions.
-</thinking>
-
 # Chemical Nomenclature Assessment - Help Guide
 
 ## Purpose

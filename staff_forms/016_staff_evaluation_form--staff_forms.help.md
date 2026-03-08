@@ -1,6 +1,3 @@
-<thinking>
-...the form is used to evaluate staff members' performance, focusing on key aspects such as supervisor feedback, evaluation status, and competencies. It ensures that staff evaluations are completed accurately and consistently, helping to maintain a fair and reliable performance assessment process. Please ensure you are only evaluating staff members who are active and not in evaluation status "inactive" to get accurate results...</thinking>
-
 # Staff Evaluation Form - Help Guide
 ## Purpose
 The Staff Evaluation Form is used to evaluate staff members' performance, focusing on supervisor feedback, evaluation status, and key competencies. This form helps ensure that evaluations are completed accurately and consistently, promoting a fair and reliable performance assessment process.

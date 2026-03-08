@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to help employees request permanent residency assistance. It is designed to be filled out by employees who need help with obtaining permanent residency in a specific location. This form is usually used by employees who are experiencing issues with their immigration status or need help with the application process. Please note that this form is for internal use only and should not be filled out by employees who are not experiencing issues with their residency status.
-
-Before filling out this form, please ensure that you have not already submitted a request for permanent residency assistance. If you have, do not submit another request as it will be considered duplicate and may cause delays in processing your request.
-
-Please fill out this form carefully and accurately, as it will be reviewed by our team to determine the assistance you require.
-</thinking>
-
 # employee_permanent_residency_assistance_request_form - Help Guide
 ## Purpose
 The "employee_permanent_residency_assistance_request_form" is a form used by employees to request assistance with obtaining permanent residency in a specific location. It helps the team determine the assistance required and process the request efficiently.

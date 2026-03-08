@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a solid geometry assessment form, designed to evaluate an individual's knowledge of geometric formulas, specifically for solid shapes such as spheres, cylinders, and cones. The purpose of this form is to determine the level of understanding and proficiency an individual has in calculating the surface and volume of different solid shapes.
-
-The form is divided into multiple questions, each asking for the formula of a specific solid shape, such as the volume of a sphere or the surface area of a cylinder. The questions are designed to assess an individual's ability to apply geometric formulas and principles to real-world problems.
-
-</thinking>
-
 # Solid Geometry Assessment - Help Guide
 ## Purpose
 The Solid Geometry Assessment is a tool designed to evaluate an individual's knowledge and proficiency in applying geometric formulas for various solid shapes. This assessment aims to test the understanding of mathematical concepts related to the surface and volume of different shapes, such as spheres, cylinders, and cones.

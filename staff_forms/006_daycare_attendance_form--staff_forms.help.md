@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather attendance information from staff members about their daycare experience. It is intended for use in a daycare setting, such as a childcare center or school, to record information about the care and services provided to children. The form may be used by staff to report on their interactions with children, track attendance, and provide details about any issues or concerns that arose during service.
-</thinking>
-
 # Daycare Attendance Form - Help Guide
 ## Purpose
 This form is used to record information about the daycare experience of children in a childcare center or school.

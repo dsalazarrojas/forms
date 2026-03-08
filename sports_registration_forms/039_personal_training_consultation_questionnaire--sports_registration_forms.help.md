@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Training Consultation Questionnaire - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-To create a student pre-registration form that captures essential student information, academic history, and other relevant details. This form aims to gather data on student demographics, contact details, academic background, and behavioral traits. The form fields are designed to be completed by students or their authorized representatives. Ensure that all required fields are accurately filled to facilitate a smooth registration process.
-
-</thinking>
-
 # Student Pre-Registration Form - Help Guide
 
 ## Purpose

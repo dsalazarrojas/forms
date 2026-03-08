@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a template for voice acting talent agencies to collect information from potential talent. The purpose of the form is to gather relevant background information and experience from the applicant. This form can be used by voice acting talent agencies to screen and evaluate potential talent for casting opportunities. It's a straightforward form with only three pages, which makes it easy to navigate. I will create a user-facing help guide based on the provided YAML fields, making sure to explain each field in a clear and concise manner.
-</thinking>
-
 # Voice Acting Talent Agency Application Form - Help Guide
 ## Purpose
 This form is intended for voice acting talent agencies to collect information from potential talent. It's designed to gather necessary background information and experience details to evaluate applicants for casting opportunities.

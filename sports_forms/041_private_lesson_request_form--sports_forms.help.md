@@ -1,7 +1,3 @@
-<thinking>
-  This form is for requesting a private lesson with one of our instructors. When filling out this form, please ensure that you have permission from the student to share their information with us. Additionally, please do not submit duplicate requests for the same student or lesson date/time. A duplicate request may cause confusion and lead to incorrect scheduling or cancellations.
-</thinking>
-
 # Private Lesson Request Form - Help Guide
 ## Purpose
 This form is designed to request a private lesson with one of our instructors. Please use this form to provide information about the student, lesson date, time, and details so we can efficiently schedule and prepare for the lesson.

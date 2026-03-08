@@ -1,10 +1,3 @@
-<thinking>
-This is a form that is meant to collect user information to facilitate the sign up process for a virtual library service. The purpose of this form is to gather demographic and reading preference data from users. This form is likely used to create a user profile for the virtual library, and the data collected will be used to recommend books, provide personalized book suggestions, and tailor the user's library experience.
-
-Before filling out this form, please ensure that you have not already signed up for the virtual library service. If you have already signed up, please use your existing credentials to login, instead of filling out this form.
-
-</thinking>
-
 # Virtual Library Sign Up Form - Help Guide
 ## Purpose
 This form collects demographic and reading preference information from users to create a user profile for the virtual library service.

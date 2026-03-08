@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect demographic information from students to assess their giftedness and identify potential areas of support or accommodations needed. The purpose of this form is to gather data on student's name, title, grade level, ethnicity, language usage, disability status, accommodation needs, primary caregiver, teacher, and language spoken. This information will help identify patterns or trends among students, which can inform educational programming, resource allocation, and support services.
-This form will collect data on individual students, and responses will be aggregated and analyzed to inform decisions at the district or school level.
-Please note that responses will not be used to single-handedly determine individual student placement or eligibility for gifted programs. The goal of this form is to collect comprehensive data to better understand the student population and provide targeted support.
-Please ensure that you answer the required questions accurately and completely. If you are unsure about a particular question, please ask your teacher or school administrator for guidance.
-</thinking>
-
 # Gifted Student Assessment Questionnaire - Help Guide
 ## Purpose
 The Gifted Student Assessment Questionnaire is used to collect demographic information from students to identify their giftedness and provide targeted support. The data collected will help inform educational programming and resource allocation decisions at the district or school level.

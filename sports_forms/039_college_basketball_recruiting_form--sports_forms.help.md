@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # College Basketball Recruiting Form - Help Guide
 ## Purpose
 The College Basketball Recruiting Form is designed to collect information from high school basketball players interested in being recruited by colleges for their basketball team. This form gathers essential details about the player's athletic and academic achievements, interests, and contact information. The collected data will help college coaches and recruiters to evaluate and potentially offer scholarships or recruit the player to their team.

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from staff members on the Professional Development seminars and workshops that they have attended. The form will help us understand the effectiveness of the seminars and workshops in terms of content, facilitation, and overall experience. This information will be used to refine and improve future programs to better meet the needs of staff members. Please ensure that you have attended the relevant seminar or workshop before completing this form. If you have any doubts about which form to complete, please contact your supervisor or HR representative for clarification.</thinking>
-
 # Professional Development Feedback Survey - Help Guide
 ## Purpose
 This guide will walk you through the Professional Development Feedback Survey form, which is designed to gather your feedback on the seminars and workshops you have attended. The information collected will help us identify areas of improvement and develop more effective programs for you and your colleagues.

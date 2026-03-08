@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Overtime Request Form - Help Guide
 
 ## Purpose

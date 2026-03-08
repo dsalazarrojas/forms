@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a student's understanding of rational numbers, specifically their ability to identify and apply concepts related to rational numbers in various contexts. The form is intended for use in educational settings, such as in math classes or quizzes, to evaluate a student's knowledge and skills in this area. It is not intended for other purposes, such as for general assessment or evaluation in other fields. This form is a comprehensive quiz that covers a wide range of topics related to rational numbers.
-</thinking>
-
 # Rational Numbers Quiz - Help Guide
 ## Purpose
 The Rational Numbers Quiz is a comprehensive assessment tool designed to evaluate a student's understanding of rational numbers. This quiz is intended to measure a student's ability to identify and apply concepts related to rational numbers in various contexts.

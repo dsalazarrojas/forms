@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge and skills of aviation students. It is intended to be completed by students to provide a self-assessment of their understanding of various aviation-related topics. The purpose of this form is to help students identify areas where they need improvement, track their progress, and receive feedback from their instructors. This form is not meant to be used as a formal evaluation tool, but rather as a tool to support students in their learning journey.
-
-Before creating the help guide, I have checked the form to ensure that it is well-structured and free of duplication. The form is divided into several pages, each with a specific set of questions or fields that are relevant to the topic.
-
-</thinking>
-
 # Aviation Knowledge Assessment - Help Guide
 ## Purpose
 The Aviation Knowledge Assessment form is a tool designed to help students evaluate their knowledge and skills in various aviation-related areas. It is intended to be completed by students to track their progress and identify areas where they need improvement.

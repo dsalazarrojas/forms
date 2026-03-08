@@ -1,16 +1,3 @@
-<thinking>
-
-This form is designed to collect information about staff movements within an organization, likely for tracking employee changes, relocations, or other staff-related updates. It appears to be a comprehensive form with 25 pages, each with a "text" type field, indicating that the form is likely intended for collecting descriptive information or notes about staff movements.
-
-Before filling out this form, please ensure that:
-
-1. You have the necessary permissions or authority to complete the form on behalf of the organization or department you represent.
-2. You have reviewed the form's instructions and understand its purpose to avoid duplication of effort or incorrect data entry.
-
-This form is divided into 25 pages, each page with a text field. Please complete each page as instructed below.
-
-</thinking>
-
 # Staff Movement Form - Help Guide
 ## Purpose
 The Staff Movement Form is designed to collect information about staff movements within an organization, allowing for tracking, record-keeping, and data analysis.

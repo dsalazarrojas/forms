@@ -1,5 +1,3 @@
-<thinking>As this form is designed for gathering information about an employee's departure from their current or last job, the Exit Survey form is intended to capture details such as their reasons for leaving, last job details, and any other relevant information. It's essential to ensure that this form is completed accurately to provide valuable insights for HR and management purposes. This guide will walk you through how to complete the form and what each field represents. Please note that this form is not intended to be a comprehensive or definitive record of an employee's employment history, but rather a supplementary tool for capturing specific details.</thinking>
-
 # Exit Survey - Help Guide
 
 ## Purpose

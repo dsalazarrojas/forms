@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning: The morning cleaning checklist form is likely designed for housekeeping or facilities management teams to ensure that tasks are completed during the morning cleaning routine. This form may be used to track the completion of specific tasks, such as emptying trash and recycling, sweeping and mopping, and other morning cleaning responsibilities.
-To confirm, this form will only be used in an internal context, perhaps for a school, office, or other work environment. Before creating the help guide, I should verify that there are no similar forms or processes used for similar purposes within our organization.
-Upon further analysis, it's possible that this form is part of a broader maintenance or upkeep schedule, and its purpose is to maintain consistency and accuracy in reporting cleaning tasks.
-</thinking>
-
 # Morning Cleaning Checklist - Help Guide
 
 ## Purpose

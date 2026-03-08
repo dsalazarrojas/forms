@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Shift Report Template - Help Guide
 
 ## Purpose

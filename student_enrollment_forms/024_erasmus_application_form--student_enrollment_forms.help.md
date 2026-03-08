@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Erasmus Application Form, I will follow the provided YAML structure to create a concise and practical guide that explains the purpose, how to complete the form, and each field in detail.
-
-</thinking>
-
 # Erasmus Application Form - Help Guide
 ## Purpose
 The Erasmus Application Form is designed to collect information from students who are interested in participating in the Erasmus program, a European Union-funded exchange program that allows students to study or work in another EU country. This form is used to gather essential details about the student, including their personal and contact information, as well as their preferred program name.

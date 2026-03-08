@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be used by team managers to evaluate team members' performance. The purpose of this form is to collect feedback and ratings from team members to assess their strengths and weaknesses. This form should only be filled out by team members themselves, and it's not meant for external evaluators or non-team members. To avoid duplication, make sure you haven't already filled out this form in the past.
-
-</thinking>
-
 # Team Member Evaluation Form - Help Guide
 
 ## Purpose

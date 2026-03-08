@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to be a comprehensive request for schedule changes within an educational institution. It is likely used by staff members to request changes to student schedules, such as adjusting appointment times or swapping assignments. The form is designed to gather relevant information for processing and approval. To avoid duplication, please only submit one request per student at a time. If you have already submitted a schedule change request for the same student, please do not resubmit. If you are unsure about the purpose of the form or have concerns about a specific field, refer to the field-by-field explanation below.
-</thinking>
-
 # Schedule Change Request Form - Help Guide
 ## Purpose
 The Schedule Change Request Form is used to request changes to a student's schedule. This form is completed by staff members to provide relevant information for processing and approval.

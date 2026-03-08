@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for users to manage their streaming channel subscriptions. The purpose of this form is to provide a centralized platform for users to easily update their subscription preferences, change their current plan, and receive notifications as per their preferences.
-
-To avoid confusion, it's essential to review and understand each field carefully to ensure accurate and correct completion of the form.
-
-</thinking>
-
 # Streaming Channel Subscription Management Form - Help Guide
 ## Purpose
 The Streaming Channel Subscription Management Form is designed for users to manage their streaming channel subscriptions. This form provides a platform for users to update their subscription preferences, change their current plan, and receive notifications as per their preferences.

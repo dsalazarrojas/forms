@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Employee Exit Form is used to collect information about an employee's departure from the company. This form is typically filled out by the employee when they are leaving the organization for any reason, whether voluntary or involuntary. Before submitting the form, please ensure that you have reviewed and understood the company's policy on employee exits. It is also recommended that you consult with your supervisor or HR representative to ensure you are completing the form correctly.
 
 # Employee Exit Form - Help Guide

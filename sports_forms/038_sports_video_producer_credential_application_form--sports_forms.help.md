@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for sports video producers to apply for a credential that certifies their skills and experience in producing sports-related content. The credential is intended to be a recognition of the producer's expertise in capturing and editing sports media.
-Before filling out this form, please ensure you haven't filled it out recently. If you're a returning user, you may already have a saved copy of the form.
-</thinking>
-
 # Sports Video Producer Credential Application Form - Help Guide
 ## Purpose
 This form is designed for sports video producers to apply for a credential that certifies their skills and experience in producing sports-related content.

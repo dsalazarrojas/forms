@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block to ensure the form purpose and content are relevant and not duplicated ...</thinking>
-
 # Chinese Language Proficiency Assessment - Help Guide
 ## Purpose
 The Chinese Language Proficiency Assessment is designed to evaluate a student's language skills, knowledge, and experience with the Chinese language. It helps to gauge their level of proficiency, identify areas of strength and weakness, and provide a basis for further language instruction and assessment. The test is used to determine eligibility for language learning programs, academic placement, and other language-related evaluations.

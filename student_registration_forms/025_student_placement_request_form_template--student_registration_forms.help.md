@@ -1,9 +1,3 @@
-<thinking>
-This form is used for students to request placement in a school or class, and for school staff to record and track the status of these requests.
-To avoid duplication of effort, please ensure that only one student registration form is submitted per student per academic term.
-Please note that some fields are not required, but may be necessary for specific purposes or for school staff to make informed decisions.
-</thinking>
-
 # Student Placement Request Form Template - Help Guide
 ## Purpose
 This form is used for students to request placement in a school or class, and for school staff to record and track the status of these requests.

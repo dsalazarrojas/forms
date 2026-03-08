@@ -1,8 +1,3 @@
-<thinking>
-We need to determine if the form is for assessing the level of empathy and respect in a particular situation, likely in a workplace or academic setting. This form appears to be a self-assessment tool to help individuals reflect on their own emotional intelligence and behavior. It's possible that this form is used for employee evaluations, team-building exercises, or educational programs. To confirm, we'll need to analyze the field names and options. Let's assume this form is used to gauge an individual's ability to empathize and show respect in different scenarios.
-
-We will review the options for each field and provide guidance for the end-users. If there are any unclear field labels, we'll provide a best-effort explanation to ensure users understand their purpose.</thinking>
-
 # Empathy And Respect Self Assessment - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-The loan repayment form is used to document and track loan repayments made to a student. This form is typically filled out by the student or their designated representative, usually the issuer of the loan. The form's primary purpose is to provide accurate and up-to-date information about the loan repayment process. It's essential to fill out this form accurately and comprehensively to prevent any discrepancies or misunderstandings.
-
-When filling out the loan repayment form, consider the following steps:
-
-- Review the loan agreement and the repayment terms to ensure you understand the details of your loan.
-- Ensure you have all necessary information about the loan, including the loan amount, issuer details, and repayment schedule.
-- Fill out the form accurately and legibly, using clear and concise language.
-- Double-check your entries for accuracy before submitting the form.
-
-</thinking>
-
 # Loan Repayment Form - Help Guide
 
 ## Purpose

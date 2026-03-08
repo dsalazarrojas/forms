@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students for youth sports registration. It's essential to ensure that the form is filled out accurately and completely to avoid any issues with the registration process. To prevent errors, please review the form carefully before submitting it. 
-
-This form has 11 fields, and each field is marked as either required or optional. The required fields are marked as "required: true" in the form's YAML definition. 
-
-When filling out the form, please make sure to provide the correct information in each field. If you're unsure about any of the fields, please refer to the explanations below for more information.
-
-Please note that some fields may have specific formats or requirements. For example, the "email" and "phone" fields expect a specific format, while the "grade_level" field has a dropdown list of options. Be aware of these specific requirements when filling out the form.
-</thinking>
-
 # Youth Sports Registration Form - Help Guide
 
 ## Purpose

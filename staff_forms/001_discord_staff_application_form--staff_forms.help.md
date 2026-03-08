@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from staff members who are applying for Discord server staff positions. The form is likely to be used by staff administrators to evaluate the applicant's qualifications and suitability for a role. To avoid duplication, please note that the form should not be filled out multiple times by the same person. It's also essential to provide accurate and up-to-date information to increase the chances of being considered for a staff position.
-</thinking>
-
 # discord_staff_application_form - Help Guide
 ## Purpose
 The discord_staff_application_form is designed to collect information from staff members who are applying for Discord server staff positions. This form will be reviewed by staff administrators to assess the applicant's qualifications and suitability for a role.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from soccer players and their families, including personal details, medical information, and payment and registration status. The form is intended to ensure that all necessary information is collected for the smooth operation of the soccer camp. To prevent duplication, users should not submit multiple registrations.
-</thinking>
-
 # Soccer Camp Registration Form - Help Guide
 ## Purpose
 

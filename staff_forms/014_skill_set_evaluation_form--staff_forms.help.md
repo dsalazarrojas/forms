@@ -1,5 +1,3 @@
-<thinking>...The Skill Set Evaluation Form is designed to assess an individual's skills in a specific job position. This form helps employers evaluate a candidate's suitability for a particular role by gathering information on their programming skills, experience, and proficiency levels.</thinking>
-
 # Skill Set Evaluation Form - Help Guide
 ## Purpose
 The Skill Set Evaluation Form is used by employers to assess a candidate's skills and suitability for a specific job position.

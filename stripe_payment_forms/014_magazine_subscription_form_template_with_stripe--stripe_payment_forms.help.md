@@ -1,11 +1,3 @@
-<thinking>
-Stripe Payment Forms are commonly used in online marketplaces, e-commerce platforms, or any digital business that needs to accept recurring payments. 
-To check for duplication, let's verify that the form's name is indeed "Magazine Subscription Form Template With Stripe" which is a common template used for subscription-based services like magazine subscriptions. 
-
-This guide will walk you through each field of the Stripe Payment Form and its intended purpose.
-
-</thinking>
-
 # Magazine Subscription Form Template With Stripe - Help Guide
 ## Purpose
 This form is designed to facilitate online magazine subscription payments via Stripe, a popular payment gateway service. It's ideal for digital businesses looking to collect recurring payments from their customers for subscriptions.

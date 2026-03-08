@@ -1,15 +1,3 @@
-<thinking>
-Is this form intended for screening employees who enter the workplace after traveling or returning from a trip, possibly with symptoms or medical information? If so, this form aims to collect vital information about employees' health status and travel history for contact tracing purposes. It's possible that this form is part of an infection control process or employee health and safety protocol. Let's assume that each section of the form is meant to provide a snapshot of the employee's situation at the moment of entry, including their contact information, symptoms, medical history, and other relevant details.
-
-To confirm, this form seems to be collecting information on:
-* Contact information (multiple sections)
-* Symptoms (multiple sections)
-* Travel history (recent travel within the last 14 days)
-* Medical history (past and present)
-* Employee information (ID, date of birth, and other relevant details)
-* Workplace information (where the employee works)
-</thinking>
-
 # Workplace Entry Screening Form - Help Guide
 
 ## Purpose

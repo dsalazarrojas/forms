@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect registration information from players participating in a cricket tournament. The form is designed to capture essential details such as player name, contact information, and emergency contact details. This information will be used to manage player registrations and ensure that players can be contacted in case of emergencies or other important matters.
-
-This form is intended for players who want to sign up for the cricket tournament. If you are already registered for the tournament, please do not fill out this form again.
-
-Before we get into the form details, please note that some fields are marked as optional, but it's essential to fill out as much information as possible to ensure we can contact you and your emergency contacts effectively.
-
-</thinking>
-
 # Cricket Tournament Registration Form - Help Guide
 ## Purpose
 ## How To Complete This Form

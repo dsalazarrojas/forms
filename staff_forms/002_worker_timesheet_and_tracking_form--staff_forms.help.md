@@ -1,10 +1,3 @@
-<thinking>
-This form is used for tracking a worker's hours worked and other relevant information during a shift.
-The form is typically completed by a worker during their shift to log in and clock out, take breaks, and enter other relevant details.
-It is essential to complete this form accurately to ensure that hours are tracked correctly and that any issues or concerns can be addressed promptly.
-This form is not intended to be duplicated, and each worker's form will have their own unique details.
-</thinking>
-
 # Worker Timesheet And Tracking Form - Help Guide
 ## Purpose
 The Worker Timesheet And Tracking Form is used for tracking a worker's hours worked during a shift. This form helps in accurately logging in and clock out times, break durations, and other relevant details.

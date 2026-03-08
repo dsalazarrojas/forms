@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect consent from hospital staff members to share their innovation stories. The purpose of this form is to gather information about the staff member's story, including their name, email, innovation date, time, department, role, permission to share, and any comments they may have. This form should only be completed by hospital staff members who have developed an innovation and wish to share it with others.
-</thinking>
-
 # Hospital Staff Innovation Story Consent Form - Help Guide
 ## Purpose
 The Hospital Staff Innovation Story Consent Form is used to collect consent from hospital staff members to share their innovation stories. This form ensures that staff members understand the purpose and implications of sharing their stories and provides them with the opportunity to give their consent before sharing.

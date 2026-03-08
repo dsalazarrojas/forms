@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for puppeteers to register their information and events they are involved in. It's crucial to note that this form should only be filled out by those who are actually puppeteers, as it's not intended for general public use. It's also worth checking if you've already registered your information previously, as duplicate entries will not be accepted.
-</thinking>
-
 # Puppeteer Registration Form - Help Guide
 ## Purpose
 The Puppeteer Registration Form is designed for puppeteers to register their information and events they are involved in. This form helps to gather data on puppeteers' experiences, performance details, and other related information.

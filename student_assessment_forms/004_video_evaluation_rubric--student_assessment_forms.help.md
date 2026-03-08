@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to provide a structured and standardized way to evaluate videos produced by students, focusing on aspects such as creativity, originality, relevance, effectiveness, and impact. The form will be used to gather feedback on video submissions, ensuring consistency and fairness in the evaluation process. To avoid duplication of effort, the form should only be filled out by authorized personnel.
-</thinking>
-
 # Video Evaluation Rubric - Help Guide
 ## Purpose
 The Video Evaluation Rubric is a form designed to assess the quality and impact of student-submitted videos. It provides a framework for evaluating video submissions, helping to identify strengths and weaknesses in a structured and objective manner.

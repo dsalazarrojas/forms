@@ -1,11 +1,3 @@
-<thinking>Here is an internal reasoning block that explains the purpose of the form:
-The purpose of this form is to educate students on the structure and function of the basal ganglia and limbic system, two crucial parts of the brain that play important roles in motor control, emotion and memory, and learning. The form aims to test the student's knowledge on these topics, covering various questions related to the anatomy, function, and pathology of these systems.
-
-The form is designed to be completed by students to assess their understanding of the material and provide feedback and insights for the instructor. The questions cover topics such as the primary functions of the basal ganglia, structures that are part of the limbic system, and key neurotransmitters associated with these systems. The form also includes questions on the relationship between the basal ganglia and limbic system, and how they are involved in various neurological conditions, such as Parkinson's disease and Huntington's disease.
-
-By completing this form, students will be able to demonstrate their knowledge of the basal ganglia and limbic system, and identify areas where they need improvement. Instructors will be able to use the results to tailor their teaching to the needs of their students.
-
-</thinking>
 # Basal Ganglia And Limbic System Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge on the basal ganglia and limbic system, two crucial parts of the brain that play important roles in motor control, emotion and memory, and learning.

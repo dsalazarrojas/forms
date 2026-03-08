@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Civil Service Employee Self Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help civil service employees evaluate their own performance and set goals for future periods. It's an internal tool for self-reflection and growth, and is used to assess individual progress, identify areas for improvement, and provide input for performance evaluations. Please use this form to be honest and thorough in your self-assessment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from parents or guardians to register their child for daycare services. This form is used to gather necessary details about the child, their medical history, payment terms, and other relevant information to ensure a smooth transition for the child into our facility. By providing this information, parents can help us better care for their child and address any potential health or safety concerns.
-</thinking>
-
 # Daycare Child Admission Packet Registration Form - Help Guide
 ## Purpose
 The Daycare Child Admission Packet Registration Form is used to collect information from parents or guardians about their child's enrollment in our daycare facility. This form helps us to better understand their child's needs, medical history, and payment terms.

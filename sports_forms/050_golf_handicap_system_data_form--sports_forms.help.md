@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for capturing data related to golfers' handicap systems. The handicap system is used to track and calculate golfers' handicaps for various courses and rounds played. It is crucial for understanding a golfer's overall performance and progress. This form should only be used for capturing data from golfers who have played at least one course.
-
-To avoid redundancy, ensure that the same data is not duplicated in the system by not using this form for golfers who have already been captured in the system. This form may be used for creating new golfers or updating existing golfers' data.
-</thinking>
 # Golf Handicap System Data Form - Help Guide
 ## Purpose
 This form is used to capture data related to a golfer's handicap system, including member name, handicap, course handicap, and other relevant details.

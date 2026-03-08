@@ -1,10 +1,3 @@
-<thinking>
-The Literature Practice Test form is a multiple-choice assessment designed to evaluate a student's understanding of literature-related concepts. It appears to be a comprehensive test with 11 questions covering various aspects of literature, including theme, plot, character, conflict, tone, and author's purpose. To ensure the form is used effectively, it's crucial to understand each question's intent and requirements.
-The form's structure indicates that it's designed to be completed by selecting the correct answer from a set of options for each question. Some questions seem to overlap in their topic areas, which might be due to the form's automation process rather than intentional redundancy. 
-It's possible that the form is part of a larger assessment or evaluation system, where the questions and options are tailored to specific learning objectives or curriculum standards.
-To provide clarity, the fields should be explained in a way that helps users understand the expected answer and the reasoning behind the question.
-</thinking>
-
 # Literature Practice Test - Help Guide
 ## Purpose
 The Literature Practice Test is a multiple-choice assessment designed to evaluate a student's understanding of literature-related concepts. This form is intended to be completed by selecting the correct answer from a set of options for each question.

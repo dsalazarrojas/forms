@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be an application form for staff selection or nomination for the 2020 edition of a sports event or activity. The form might be used for team staff members such as coaches, managers, or referees. Given the presence of fields like "Referee Certification" and "Referee Level" it seems that referees are a specific focus. However, it's unclear whether the form is for staff in general or specifically for referee staff. To avoid duplication, this guide will assume the form is for staff in general.
-</thinking>
-
 # HBRC 2020 Team Staff EOI Form - Help Guide
 ## Purpose
 The HBRC 2020 Team Staff EOI Form is used to nominate or apply for staff positions in a team for the 2020 edition of the event.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from healthcare employees on their level of satisfaction with their job, team, and compensation. It will help identify areas of improvement to increase employee morale and engagement. The survey is not intended to be a comprehensive evaluation tool, but rather a starting point for discussions and feedback loops.
-
-</thinking>
-
 # healthcare_employee_satisfaction_survey - Help Guide
 ## Purpose
 The purpose of this form is to help healthcare employees express their level of satisfaction with their job, team, and compensation. This information will be used to identify areas of improvement and provide opportunities for growth and development within the organization.

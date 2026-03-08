@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a patient's Hepatitis B declination status, which is a process for excluding someone from receiving a certain vaccination. The form aims to gather relevant details such as the patient's name, vaccination status, and medical history, including dates of last vaccination and testing. This form is intended for healthcare professionals to use for clinical purposes.
-
-To prevent duplication, please ensure that you are not submitting duplicate entries for the same patient. Please also note that this form is an original adaptation, not affiliated with any specific form platform.
-
-</thinking>
-
 # hepatitis_b_declination_form - Help Guide
 ## Purpose
 This form is for healthcare professionals to collect and document a patient's Hepatitis B declination status, medical history, and vaccination details for clinical purposes.

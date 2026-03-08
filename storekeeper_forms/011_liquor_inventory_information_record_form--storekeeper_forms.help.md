@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to record information about liquor sales and purchases for storekeepers. This information will help storekeepers track their inventory and make informed decisions about ordering more supplies. **Please note that this form must be filled out for every sale and purchase made in the store, to prevent duplicate entries.**
 
 # Liquor Inventory Information Record Form - Help Guide

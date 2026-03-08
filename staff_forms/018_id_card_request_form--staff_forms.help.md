@@ -1,11 +1,3 @@
-<thinking> 
-This form is used to request an ID card for employees or non-employees. To ensure that the form is completed correctly, please check the following: 
-- Are you sure this is the correct type of ID card you need (Employee ID Card, Non-Employee ID Card, or Replacement ID Card)?
-- Do you have all the necessary information (ID number, reason, signature, contact details)?
-- Is all the information accurate and up-to-date?
-If you are sure that this is the correct form, proceed to fill it out carefully.
-</thinking>
-
 # id_card_request_form - Help Guide
 ## Purpose
 This form is used to request an ID card for employees or non-employees.

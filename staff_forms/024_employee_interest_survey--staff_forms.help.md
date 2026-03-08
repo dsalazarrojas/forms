@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "employee_interest_survey", is likely used to collect information about employees in the organization. It seems to be part of the "staff_forms" category, which suggests that it is used for internal HR or employee management purposes. The form likely aims to gather employee interests, preferences, and demographic details. However, to ensure that we are not duplicating effort, let's review the form's fields to confirm its purpose and identify any potential overlaps with existing forms.
-
-After reviewing the form, it appears that the purpose of this form is to collect job-related information such as job preferences, interests, and demographic details of employees. The form asks for a range of questions, including job preferences, job title, job category, job level, department, team, manager, and reporting details.
-
-To avoid any potential duplication of effort, let's ensure that the form is not collecting duplicate information that is already being collected elsewhere.
-
-</thinking>
-
 # employee_interest_survey - Help Guide
 ## Purpose
 The "employee_interest_survey" form is used to collect job-related information from employees, including their interests, preferences, and demographic details.

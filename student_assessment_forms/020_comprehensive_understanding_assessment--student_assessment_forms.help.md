@@ -1,5 +1,3 @@
-<thinking>... internal note: This form is designed to assess students' understanding of a particular topic or module. The goal is to evaluate their confidence level, conceptual understanding, and application skills in relation to the topic. The form is not affiliated with any form platform, is a public adaptation using only survey topic metadata as inspiration, and is released under CC BY 4.0. </thinking>
-
 # Comprehensive Understanding Assessment - Help Guide
 ## Purpose
 The Comprehensive Understanding Assessment is a tool designed to evaluate students' grasp of a specific topic or module. It assesses their confidence level, conceptual understanding, and application skills to provide a comprehensive picture of their knowledge.

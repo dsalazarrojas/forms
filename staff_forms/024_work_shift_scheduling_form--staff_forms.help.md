@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to schedule work shifts for employees, allowing them to specify their availability and work preferences. This form may be used by HR or management to collect relevant data from employees. 
-</thinking>
-
 # Work Shift Scheduling Form - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's work shift schedule, including start and end times, day of the week, and availability.

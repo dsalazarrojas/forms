@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Final Assessment On Course Material - Help Guide
 ## Purpose
 The Final Assessment On Course Material form is designed to gather feedback from students after they have completed a course. This form helps us understand students' perceptions of the course's overall quality, their takeaways, and their ratings of the course material. Please complete this form to provide valuable insights that will help us improve our courses.

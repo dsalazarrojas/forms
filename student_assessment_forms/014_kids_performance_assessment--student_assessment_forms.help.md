@@ -1,15 +1,3 @@
-<thinking>
-We need to understand the form's purpose: is it for tracking student progress, evaluating student performance, or something else? Let's assume it's for assessing a student's behavior, social skills, and academic performance. This form might be used by teachers or educators to gather feedback from students about their behavior, social interactions, and academic progress. It's possible that the form is part of a larger assessment system used to monitor and support student development.
-
-We should also consider that the form has multiple fields with various types, such as text, select_one, and select_multiple. This suggests that the form is not just for gathering general feedback but also allows for more in-depth evaluation of specific aspects of the student's performance.
-
-The fields seem to cover different areas of student performance, such as behavior, social skills, and academic performance. The presence of a date and time field indicates that the form might be used to track progress over time.
-
-The form's purpose and structure seem to be tailored for a specific use case, possibly within an educational setting. However, it's not entirely clear without more context.
-
-Let's proceed with creating the help guide, assuming the form is for assessing student performance in an educational setting.
-</thinking>
-
 # Kids Performance Assessment - Help Guide
 ## Purpose
 The Kids Performance Assessment form is designed for teachers or educators to evaluate a student's behavior, social skills, and academic performance. It helps gather feedback from students about their progress in different areas, enabling educators to monitor and support their development.

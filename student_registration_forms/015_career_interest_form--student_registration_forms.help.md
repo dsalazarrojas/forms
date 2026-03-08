@@ -1,20 +1,3 @@
-<thinking>
-
-This form is intended to help students identify their career interests and goals, allowing them to reflect on their aspirations and provide information about their background, skills, and preferences. The form's purpose is to gather data that can help match students with potential career paths and provide guidance on next steps.
-
-This form is a one-time collection of information, and students are not expected to repeat the form. The form is designed to be completed by one person at a time.
-
-The form is divided into several sections:
-
-*   "Student Information"
-*   "Career Interests"
-*   "Skills and Experience"
-*   "Career Goals"
-*   "Preferences"
-*   "Additional Information"
-
-</thinking>
-
 # Career Interest Form - Help Guide
 ## Purpose
 The Career Interest Form is designed to help students identify their career interests and goals, allowing them to reflect on their aspirations and provide information about their background, skills, and preferences.

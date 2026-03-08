@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from students about their accommodation preferences and details for a specific student registration process. This form will help the student services team to better understand the student's needs and preferences for accommodation, which will be used to facilitate a smooth and efficient accommodation process. Before filling out this form, please ensure that you have all the necessary information and details required. Also, please note that some fields are marked as "required" which means that you are expected to fill those fields out to ensure that your information is complete and accurate.
-</thinking>
-
 # Student Accommodation Plan Form - Help Guide
 ## Purpose
 This form is designed to gather information about your accommodation preferences and details for a student registration process. It will be used by the student services team to better understand your needs and preferences for accommodation.

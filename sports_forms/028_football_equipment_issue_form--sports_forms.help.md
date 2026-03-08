@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about football equipment issues that need to be addressed. The form's purpose is to provide a structured way to document and track equipment problems, helping teams stay organized and ensure that equipment is properly maintained and updated. 
-
-When submitting this form, users will be asked to provide details about the issue they are experiencing, including the player's name, issue date, and other relevant information. The form also helps ensure that team members can identify the equipment type, assign a status, and assign the issue to a responsible team member. 
-
-Please note that submitting this form is not intended to be a duplicate report. If you have already reported an issue, please do not submit it again. Instead, update the existing report with new information if necessary.
-
-</thinking>
-
 # Football Equipment Issue Form - Help Guide
 ## Purpose
 

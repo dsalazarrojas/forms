@@ -1,13 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Uniform Return Form", the first step is to understand the purpose of this form. This form is likely used to document returns, perhaps in a store or inventory setting, where users need to provide reasons and details related to returned items. This form might be used by storekeepers, inventory managers, or other personnel responsible for tracking returned items.
-
-To avoid duplication, one should check if this form already exists in the organization's documentation. If so, it is essential to review the form's purpose, scope, and any existing guidelines that may already address returns.
-
-Next, let's consider the form's components. It appears to be a lengthy form with various sections, each with its own field types and labels. The fields include text inputs for descriptions, date inputs for dates, and select_one and select_multiple inputs for categorizing reasons and codes.
-
-The goal of this help guide is to provide a clear and concise explanation of each field, ensuring that end-users understand the intended use and purpose of each field. This will help reduce errors, increase accuracy, and enhance the overall completion experience.
-</thinking>
-
 # Uniform Return Form - Help Guide
 ## Purpose
 The Uniform Return Form is used to document reasons and details related to returned items in a store or inventory setting.

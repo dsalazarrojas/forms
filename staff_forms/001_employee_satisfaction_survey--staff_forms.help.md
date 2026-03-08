@@ -1,18 +1,3 @@
-<thinking>
-This form is meant to collect feedback from employees on their satisfaction and performance. The form is designed to gather information on contact details, departments, job titles, work hours, and manager names. The form is intended to be filled out by employees to provide their input and insights on various aspects of their work experience. 
-
-This form does not require any specific information from employees, making it a voluntary survey. The provided options for select fields such as contact_details, department, manager_name, and department_2 are provided to help employees quickly and easily select their relevant response. The numerical fields such as work_hours and job_title do not require specific options, allowing employees to input their personal values. 
-
-The goal of this form is to gather employee feedback and insights, so employees are encouraged to provide their honest and genuine responses. Employees who want to participate in this survey do not need any prior knowledge of the form's inner workings, making it accessible and user-friendly. 
-
-Please note that employees are not required to fill out this form, and their responses are voluntary. The survey is only to be filled out by employees for their personal insights and feedback. 
-
-The form will be submitted after it is completed by the employee. The employee will receive no notifications or reminders during the completion of the form. 
-
-This form has been carefully designed to accommodate the needs and preferences of our employees, providing an easy and accessible way to share their thoughts and feelings. 
-
-</thinking>
-
 # Employee Satisfaction Survey - Help Guide
 ## Purpose
 The Employee Satisfaction Survey is a tool to gather feedback and insights from employees on their work experience. It is a voluntary survey that allows employees to share their thoughts and feelings on their contact details, departments, job titles, work hours, and manager names.

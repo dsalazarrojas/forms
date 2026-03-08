@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to document a disciplinary action taken against an employee, capturing relevant details and outcomes. Please ensure you have the necessary permissions and approvals before filling out this form. If you're unsure about any field, consult with your supervisor or HR representative. This form should only be filled out once per incident. Duplicate entries will not be accepted.
-</thinking>
-
 # Disciplinary Action Form - Help Guide
 ## Purpose
 This form is used to document a disciplinary action taken against an employee, including the incident description, policy violated, action taken, and outcome.

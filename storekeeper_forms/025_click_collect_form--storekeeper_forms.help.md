@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Click & Collect Form - Help Guide
 ## Purpose
 The Click & Collect Form is designed for customers to provide information for their click & collect orders. This form allows customers to input their personal details, order information, and preferred collection time and location. By filling out this form, customers can ensure that their orders are ready for collection at the agreed-upon time and location.

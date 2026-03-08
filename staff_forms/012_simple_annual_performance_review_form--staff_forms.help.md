@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I understand that creating a user-facing help guide is essential to ensure that end-users can efficiently and accurately complete the form. To begin with, let's review the provided YAML fields to understand the form's purpose and requirements.</thinking>
-
 # Simple Annual Performance Review Form - Help Guide
 ## Purpose
 The Simple Annual Performance Review Form is designed to gather feedback and evaluations from supervisors and team members on an employee's performance over the past year. This form serves as a tool for employees to reflect on their progress, set new goals, and identify areas for improvement. It's an essential part of the performance management process, promoting transparency, growth, and development.

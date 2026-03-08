@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to sign up for a museum pass subscription, which grants them access to the museum for a specified period of time. The subscription can be for a Standard, Premium, or Basic pass. The form also asks for the user's contact details and preferred payment method. It's crucial that users understand that this form is for individual users, not groups or organizations. Please make sure to complete this form with accurate and up-to-date information.
-</thinking>
-
 # Museum Pass Subscription Form - Help Guide
 ## Purpose
 The Museum Pass Subscription Form is a tool for individuals to sign up for a museum pass subscription. The form collects contact information and subscription preferences to process a user's subscription request.

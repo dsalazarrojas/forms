@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from staff members who are interested in becoming a Team Lead for FullStack. This form is a crucial part of the application process, and it's essential that you carefully review the following instructions to ensure you submit a complete and accurate application.
-
-</thinking>
-
 # FullStack Team Lead Application - Help Guide
 ## Purpose
 The purpose of this form is to provide FullStack with detailed information about your background, skills, and preferences, so we can better understand your qualifications for a Team Lead position. Please fill out this form carefully to help us get to know you and evaluate your potential for the role.

@@ -1,10 +1,3 @@
-<thinking>
-The form "Pulse Survey" is a comprehensive survey designed to collect various types of information from users. Its purpose is to gather responses from staff members, likely for feedback, opinions, or insights on different topics. 
-The form has 25 pages, each with unique fields and questions. Some pages are required while others are optional.
-The form's design and structure suggest that it is meant to be filled out by staff members, likely for feedback, opinions, or data collection purposes. 
-This guide will walk through the form step-by-step to help users understand its purpose and how to complete it effectively.
-</thinking>
-
 # Pulse Survey - Help Guide
 ## Purpose
 The "Pulse Survey" form is designed to gather diverse information from staff members, likely for feedback, opinions, or data collection purposes.

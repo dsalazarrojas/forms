@@ -1,7 +1,3 @@
-<thinking>
-The Monthly Inventory Assessment form is a tool used to assess the current stock levels of various locations in the warehouse. It is designed to be completed on a monthly basis to ensure that the inventory is up-to-date and accurate. This form should only be completed by the designated storekeepers or individuals with the necessary access permissions.
-</thinking>
-
 # Monthly Inventory Assessment - Help Guide
 ## Purpose
 The Monthly Inventory Assessment form is used to track and record the stock levels of different locations within the warehouse on a monthly basis. This form is essential for maintaining accurate and up-to-date inventory records.

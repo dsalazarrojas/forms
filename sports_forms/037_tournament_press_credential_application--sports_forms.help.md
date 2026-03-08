@@ -1,20 +1,3 @@
-<thinking>
-This form appears to be for journalists and media personnel to apply for press credentials for a tournament. The form should be completed by individuals who are interested in covering the tournament as part of their media or journalistic work. 
-
-Before filling out this form, please ensure that you have not already submitted a similar application for the same tournament. 
-
-The form is split into several sections, each with a specific purpose. Please answer the questions accurately to ensure a smooth and efficient application process. 
-
-This form is not intended for individuals who are not affiliated with a media organization or for general public inquiries. 
-
-Please note that the completion of this form does not guarantee approval of your credential request. The approval process may involve additional steps and review by authorized personnel. 
-
-Please ensure that your contact information is accurate and up-to-date to avoid delays in the application process. 
-
-The following sections should be filled out carefully to ensure a complete and accurate application. 
-
-</thinking>
-
 # Tournament Press Credential Application - Help Guide
 ## Purpose
 This form is designed for journalists and media personnel to apply for press credentials for a tournament. The application allows you to provide necessary information about yourself and your media affiliation.

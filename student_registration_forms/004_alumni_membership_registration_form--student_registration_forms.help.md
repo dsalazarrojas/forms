@@ -1,6 +1,3 @@
-<thinking>
-Internal note: Before creating the user-facing help guide, let's make sure the form is for actual alumni registration and that it's not a duplicate effort. This form should collect information on alumni membership registration, including membership type, personal details, contact information, academic background, membership benefits selection, and payment details. The form is likely a one-time effort for individual alumni to register for membership, and the information collected will be used to create a member profile. We should confirm with the team that there are no similar forms in the system.</thinking>
-
 # Alumni Membership Registration Form - Help Guide
 ## Purpose
 The Alumni Membership Registration Form is designed for alumni to register for membership with the institution. It collects essential information for member profiling and benefits distribution.

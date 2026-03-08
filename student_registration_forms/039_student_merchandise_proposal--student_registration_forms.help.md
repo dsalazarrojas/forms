@@ -1,7 +1,3 @@
-<thinking>
-This form is for students to propose new merchandise ideas for the student store. This form serves as an internal tool for students to share their product suggestions and provide more information about their proposal. It is not intended for general public use. Each field will be explained in the subsequent sections.
-</thinking>
-
 # Student Merchandise Proposal - Help Guide
 ## Purpose
 This form is designed to gather information from students about their product proposals, including categories, descriptions, and other relevant details. Please provide clear and concise information to help us better understand your proposal.

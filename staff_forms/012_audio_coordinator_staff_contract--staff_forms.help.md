@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an Audio Coordinator Staff Contract. It's essential to ensure that all required fields are filled out accurately to avoid errors and ensure a successful onboarding process. To avoid duplication of effort, please review the form carefully before proceeding. This form should be completed by the individual being hired as an Audio Coordinator, and it's crucial to have all the necessary details filled in correctly to avoid delays in processing the contract.
-</thinking>
-
 # Audio Coordinator Staff Contract - Help Guide
 ## Purpose
 This guide explains the purpose and requirements of the Audio Coordinator Staff Contract form.

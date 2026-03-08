@@ -1,11 +1,3 @@
-<thinking>
-To determine if a catalog request form is needed and not duplicated, consider the following:
-
-*   This form is intended for users who need to request a catalog for various purposes, such as personal or business use. 
-*   If you have already received a catalog in the past, there is no need to fill out this form again. 
-*   If you are requesting a catalog for a different reason, you can fill out this form to place your order.
-</thinking>
-
 # Catalog Request Form - Help Guide
 
 ## Purpose

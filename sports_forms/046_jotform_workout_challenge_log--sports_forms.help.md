@@ -1,10 +1,3 @@
-<thinking>
-This help guide will provide an overview of the Jotform Workout Challenge Log, a form designed to track and record workout progress.
-The form is intended for users to log their workouts, tracking key metrics such as date, exercises performed, duration, and calories burned. 
-It will help users monitor their progress over time and make informed decisions about their workout routine. 
-The form can be used by anyone looking to track their workout history, but it is particularly useful for those who are new to working out or are looking for an easy way to log their progress. 
-The guide will be concise and practical, providing users with step-by-step instructions on how to use the form effectively.
-</thinking>
 # Jotform Workout Challenge Log - Help Guide
 ## Purpose
 The Jotform Workout Challenge Log is a form designed to help users track and record their workout progress over time. 

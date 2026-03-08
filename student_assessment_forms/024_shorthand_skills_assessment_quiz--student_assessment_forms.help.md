@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's shorthand skills. It's likely used within a medical or professional setting where shorthand is a necessary communication tool for professionals. There should be no duplication of effort as this form is specific to shorthand skills assessment. It's a comprehensive form that evaluates shorthand proficiency in various speeds, including 25, 40, 50, 75, 100, and 150 wpm. It's likely used for both initial assessment and ongoing evaluation of individuals' shorthand skills. The form might be used within a medical or professional setting where shorthand is a key tool for communication.
-</thinking>
-
 # shorthand_skills_assessment_quiz - Help Guide
 ## Purpose
 

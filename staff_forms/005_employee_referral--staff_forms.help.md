@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from employees about potential new hires, allowing them to refer a candidate they know who may be a good fit for a job opening. This information will be used internally to assess the candidate's suitability and potentially invite them to apply.
-</thinking>
-
 # Employee Referral - Help Guide
 ## Purpose
 The "Employee Referral" form is a tool for employees to refer a candidate they know who may be a good fit for a job opening at our organization. If you are familiar with a candidate who you believe would excel in a role, you can use this form to suggest them for consideration.

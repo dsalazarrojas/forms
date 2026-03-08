@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from staff members at the end of their shift, including their name, shift start and end times, and any notes they may have. The form is likely used for record-keeping, time management, and performance tracking purposes within a staff management system.
-
-Before filling out this form, ensure you are not duplicating effort. This form is meant to be a quick and concise way to record end-of-shift information, so please do not enter redundant or duplicate data.
-
-</thinking>
-
 # End Of Shift Form - Help Guide
 ## Purpose
 The End Of Shift Form is used to record employee information at the end of their shift, including their name, shift start and end times, and any notes they may have.

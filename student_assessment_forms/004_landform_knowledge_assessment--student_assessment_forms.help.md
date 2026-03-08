@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Landform Knowledge Assessment - Help Guide
 ## Purpose
 The Landform Knowledge Assessment form is designed to evaluate an individual's understanding of landforms, including their types, definitions, and relationships. This form will assess your knowledge on landforms, geographical features, and physical features of our world.

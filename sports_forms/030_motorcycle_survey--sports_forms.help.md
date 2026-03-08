@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information about motorcyclists' preferences and experiences with their motorcycles. The goal is to understand what type of motorcycle they own, their preferences for different aspects of their bike, and other related questions. The form will be used to inform the development of future products or services catering to motorcyclists' needs.
-
-The form is not intended to be a comprehensive motorcycle registry, and responses will not be used to identify individuals or their bikes. It's a user-friendly, anonymous survey designed to gather valuable insights from enthusiasts to improve the experience of motorcycling.
-
-This form will not be used to collect any personal data that could be linked to an individual or their motorcycle. All answers are collected for general research purposes, and no personal data will be shared or used for any other purpose except to improve the motorcycling experience.
-
-</thinking>
-
 # Motorcycle Survey - Help Guide
 ## Purpose
 The Motorcycle Survey is a short and simple form designed to gather information about motorcyclists' preferences and experiences with their motorcycles. This form will help us improve the motorcycling experience by understanding what type of motorcycles people like, what they prefer, and their ownership experiences.

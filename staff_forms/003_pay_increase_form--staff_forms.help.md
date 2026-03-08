@@ -1,14 +1,3 @@
-<thinking>
-This form is used to request a pay increase for a staff member. The purpose of this form is to gather essential information from the staff member, which will be used to review and approve or deny the pay increase request. This form is typically used by staff members to submit their requests and by HR or management to review and process the requests.
-
-To ensure that this form is filled out correctly, please make sure that the staff member understands the purpose and requirements of the form. The staff member should be aware that the form is being used to evaluate their request for a pay increase. This form is not intended to be duplicated, so the staff member should only submit one request per pay increase.
-
-The pay increase form is divided into multiple pages. Each page is designed to gather specific information from the staff member. Please review the form carefully and fill out each section accordingly.
-
-Before proceeding, ensure that you have all the necessary information and documentation ready to be included in the form.
-
-</thinking>
-
 # Pay Increase Form - Help Guide
 ## Purpose
 The Pay Increase Form is used by staff members to request a pay increase for themselves or their colleagues. It gathers essential information to review and process the request.

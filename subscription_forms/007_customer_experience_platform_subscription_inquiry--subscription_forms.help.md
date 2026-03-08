@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers about their experience on the Customer Experience Platform. This form aims to collect demographic information such as first and last name, company, email, and phone number. Additionally, it asks for subscription details like the type of plan the customer is interested in, the date they would like to be rolled out, the time they prefer for the rollout, and the frequency of follow-up communication. The form also provides an option for customers to add any additional comments. Finally, it captures information about the sales representative handling the customer's inquiry.
-</thinking>
-
 # Customer Experience Platform Subscription Inquiry - Help Guide
 ## Purpose
 The Customer Experience Platform Subscription Inquiry form is designed to collect information from customers about their experience on the Customer Experience Platform. This form gathers demographic information and subscription details to better understand customer needs and preferences.

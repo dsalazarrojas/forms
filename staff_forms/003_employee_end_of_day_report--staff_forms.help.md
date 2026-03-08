@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee End Of Day Report - Help Guide
 
 ## Purpose

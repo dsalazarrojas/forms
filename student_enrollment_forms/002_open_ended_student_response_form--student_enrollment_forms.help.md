@@ -1,14 +1,3 @@
-<thinking>
-This form is a student enrollment form designed to collect various information from students. The form's purpose is to gather responses from students about their hobbies, challenges, and contact information. This information will likely be used to track student participation, assess student interests, and facilitate communication with students. 
-
-The form does not duplicate or replicate any existing forms, but rather is an original adaptation created by AI. It has been created to be used under the CC BY 4.0 license, allowing you to use, modify, and even sell forms derived from it while giving credit. 
-
-The form collects both personal and demographic information, including student name, email, and phone number, as well as information about their school and program. 
-
-The form is meant to be completed by students who are participating in an activity or event.
-
-</thinking>
-
 # Open Ended Student Response Form - Help Guide
 ## Purpose
 This form is designed to collect student feedback and information about their experiences and interests.

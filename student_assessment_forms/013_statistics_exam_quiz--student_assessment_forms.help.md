@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from students for a statistics exam. It is likely used for assessment purposes to evaluate a student's understanding of statistical concepts. The questions are multiple-choice or open-ended text questions that require students to demonstrate their knowledge of statistical concepts. The form may be used by educators or administrators to evaluate student performance, identify knowledge gaps, and provide feedback for improvement. It is essential to carefully review the form instructions and questions to ensure that the assessment accurately reflects the learning objectives and is aligned with the course curriculum.
-
-</thinking>
-
 # Statistics Exam Quiz - Help Guide
 ## Purpose
 This form is designed to assess student knowledge of statistical concepts.

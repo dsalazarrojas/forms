@@ -1,7 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Voluntary Resignation Form" in the "staff_forms" category. This form is designed to capture information from employees who are voluntarily leaving the organization. The form will be used to collect relevant details such as employee ID, job title, last day of work, reason for leaving, department, and manager's signature. It is essential to ensure that all fields are filled out accurately to facilitate a smooth transition process. Please note that this form is not intended for mandatory terminations.
-</thinking>
-
 # Voluntary Resignation Form - Help Guide
 ## Purpose
 This form is designed to be filled out by employees who are voluntarily leaving the organization. It will help us understand the reason for their departure and facilitate a smooth transition of their responsibilities.

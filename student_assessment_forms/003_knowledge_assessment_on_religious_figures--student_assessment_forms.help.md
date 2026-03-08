@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Knowledge Assessment On Religious Figures" is designed to collect information about students' knowledge of religious figures. The purpose of this form is to evaluate students' understanding of key concepts related to religious figures, helping educators to assess their knowledge and identify areas where they may need additional support. This form should not be used for other purposes, such as creating or editing records in a database.
 
 </thinking>

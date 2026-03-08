@@ -1,7 +1,3 @@
-<thinking>
-The Student Progress Monitoring Form is designed to track and record student progress in various academic areas. The form is used by educators to monitor student performance and provide targeted support as needed. The form captures information on student ID, academic term, subject area, assessment date and time, performance level, educational goals, academic support, and comments from teachers, parents, and students.
-</thinking>
-
 # Student Progress Monitoring Form - Help Guide
 ## Purpose
 The Student Progress Monitoring Form is used to track and record student progress in various academic areas, providing valuable information for educators to identify areas of improvement and provide targeted support.

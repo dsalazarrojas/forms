@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Student Wellbeing Research Network Registration Form - Help Guide
 
 ## Purpose

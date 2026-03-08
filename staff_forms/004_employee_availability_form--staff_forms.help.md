@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for employees to report their availability status, providing a clear and concise way to communicate with their manager about their work schedule. The form is intended for internal use within the organization, and it is recommended that it be completed by employees on a regular basis, ideally at the start and end of each day or week. The purpose of this form is to ensure that employees are aware of their availability and work schedule, which helps in coordinating work tasks and activities with other team members and management. This form should not be used for any other purpose than reporting employee availability.
-</thinking>
-
 # Employee Availability Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from medical staff applicants. The purpose of this form is to gather basic contact information and qualifications from interested medical staff. It is intended for internal use and should only be filled out by individuals applying to join the medical staff. 
-Please ensure you fill out the form accurately and completely to increase your chances of being considered for staff membership. 
-The form is divided into four sections with various fields. 
-</thinking>
-
 # Medical Staff Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from medical staff applicants. It is intended for internal use and should only be filled out by individuals applying to join the medical staff.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals applying for temporary staff positions within an organization. This form will serve as a template for internal use, and its completion will be reviewed and evaluated by the relevant personnel. Please ensure that you have the necessary permissions and approvals before submitting this form. To avoid duplication, please do not submit multiple applications for the same position using this form.
-</thinking>
-
 # Temporary Staff Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals applying for temporary staff positions within the organization. The purpose of this form is to gather essential details such as name, contact email, position title, and start date to facilitate the hiring process.

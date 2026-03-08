@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "New Student Form" that outlines its purpose, how to complete it, and what each field means, based on the provided YAML specification.
-</thinking>
-
 # New Student Form - Help Guide
 ## Purpose
 The "New Student Form" is a data collection tool used to gather information about new students. This form is designed to provide a structured and convenient way to capture essential details about students, such as their personal and contact information, and preferences for course selection. The form is intended for students who are new to the institution and need to be enrolled in various courses.

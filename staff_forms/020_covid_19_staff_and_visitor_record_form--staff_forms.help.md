@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record staff and visitor information for COVID-19 purposes. This includes tracking entry and exit dates and times, person type, contact information, and health screening questions to ensure the safety and well-being of all individuals on the premises. The form is designed to be completed by staff and visitors upon entry, and is intended to reduce the risk of COVID-19 transmission within the facility. To avoid duplication, this form should only be completed once per person, per visit.
-</thinking>
-
 # COVID 19 Staff And Visitor Record Form - Help Guide
 ## Purpose
 This form is used to record and track staff and visitor information for COVID-19 purposes, including entry and exit dates and times, person type, contact information, and health screening questions.

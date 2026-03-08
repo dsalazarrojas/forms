@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to perform top-up actions on customer accounts, updating account information and details in a step-by-step manner. It is likely intended for use by support staff or account managers to efficiently update customer accounts, ensuring accuracy and reducing errors. To avoid duplication, users should review and verify the information before submitting.
-</thinking>
-
 # customer_account_top_up_form - Help Guide
 ## Purpose
 This form is used to update customer account information and details in a step-by-step manner, allowing users to efficiently perform top-up actions on customer accounts.

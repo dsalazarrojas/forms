@@ -1,7 +1,3 @@
-<thinking>
-The Employee Discipline Form is used to document incidents involving employees, including dates of incidents, descriptions of incidents, actions taken, and employee signatures. This form is typically used for disciplinary purposes, such as recording incidents of misconduct, poor performance, or policy violations. Before completing this form, please ensure that you have reviewed and understood the relevant policies and procedures related to employee conduct and behavior. Please also ensure that you are not duplicating effort by checking that a similar incident has not already been documented. If you are unsure about the purpose or scope of this form, please consult with a supervisor or HR representative.
-</thinking>
-
 # Employee Discipline Form - Help Guide
 ## Purpose
 This form is used to document incidents involving employees, such as misconduct, poor performance, or policy violations, and to track the actions taken as a result of these incidents.

@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Daily Inspirational Quote Signup" form, we need to understand the form's purpose and how it should be filled out. This form is intended to collect user information for inspirational quote subscriptions. The form has multiple fields that require user input, including name, email, phone number, time zone, quote frequency, quote type, quote topic, and time zone auto-set preferences. 
-
-The form's purpose is to gather user preferences for receiving daily inspirational quotes, which can be customized based on the user's selected time zone, quote frequency, and quote type. 
-
-Before filling out the form, ensure that you are not already subscribed to the daily inspirational quote service. If you are already subscribed, you will not need to fill out this form again. 
-
-</thinking>
-
 # Daily Inspirational Quote Signup - Help Guide
 ## Purpose
 The Daily Inspirational Quote Signup form is designed to collect user information for receiving daily inspirational quotes. Users can customize their quote preferences, including time zone, quote frequency, and quote type.

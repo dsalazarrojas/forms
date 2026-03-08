@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # College Application Intake Form - Help Guide
 ## Purpose
 This form collects information from applicants interested in attending our college. It will help us get to know you better and understand your interests. Please provide accurate information to ensure a smooth application process.

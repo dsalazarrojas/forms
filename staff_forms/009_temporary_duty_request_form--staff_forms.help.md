@@ -1,9 +1,3 @@
-<thinking>
-
-This form seems to be for requesting temporary duties, likely for administrative or operational purposes. The form might be used when an employee needs to be assigned to a different location or unit for a short duration. The purpose of this form is to provide an organized and standardized way to submit such requests. The form should only be used for temporary duties, not for permanent assignments or changes in roles.
-
-</thinking>
-
 # Temporary Duty Request Form - Help Guide
 ## Purpose
 This form is used to request temporary duties, which means being assigned to a different location or unit for a short duration.

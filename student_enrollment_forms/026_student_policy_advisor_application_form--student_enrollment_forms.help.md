@@ -1,8 +1,3 @@
-<thinking>
-We should first verify that the form purpose and fields align with the expected outcome of this form. The Student Policy Advisor Application Form appears to be designed to collect information from students regarding their policy advisor application. However, the form includes various fields related to student data, advisor data, and application details. To confirm, let's review each field's purpose and ensure it fits within the overall goal of the form. Upon further review, it's clear that this form is intended to collect comprehensive student and advisor information for policy advisor purposes, likely for tracking or management purposes. This form seems complete and relevant for its intended use case.
-
-</thinking>
-
 # Student Policy Advisor Application Form - Help Guide
 ## Purpose
 This form is used to collect information from students about their policy advisor application.

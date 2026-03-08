@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow users to subscribe to news or events from MICE, indicating their preference for one or both. It is essential to fill out the form accurately to ensure the correct delivery of newsletters or event information. The form fields should not be duplicated, and each field is crucial in determining the type of content the user wishes to receive.
-</thinking>
-
 # MICE News Subscription Form - Help Guide
 ## Purpose
 The MICE News Subscription Form is designed to collect information from users to deliver news and event updates tailored to their interests. To use this form, follow the steps below.

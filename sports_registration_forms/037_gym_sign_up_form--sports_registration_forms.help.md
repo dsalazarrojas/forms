@@ -1,10 +1,3 @@
-<thinking>
-This is a form that is used for registering users at the gym. 
-The form likely exists for a physical location where users can go and interact with equipment and other gym-goers. 
-The form is meant to collect information about the users in order to allow them to participate in gym activities and possibly get access to resources such as free membership. 
-The field selections and options should be carefully reviewed to ensure the information collected is correct and relevant for the intended usage.
-</thinking>
-
 # Gym Sign Up Form - Help Guide
 ## Purpose
 This form is used for registering users at the gym, collecting information such as first name, last name, email, phone, date, time, and notes.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from staff members applying for the position of University Resident Assistant. 
-The form will help us get a better understanding of the candidate's background, availability, and other essential details to determine their suitability for this role. 
-Please do not submit duplicate applications, as each applicant will go through a thorough evaluation process. 
-If you need help or have concerns, please don't hesitate to reach out.
-</thinking>
-
 # University Resident Assistant Application Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from staff members applying for the University Resident Assistant position. The application process helps us to evaluate each candidate's background and suitability for the role.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to record visitor information and interactions with staff members. It is meant to be used for visitors who come to the office to meet with staff members. The form should not be used for internal staff members. If you are an internal staff member, please do not fill out this form.
-
-This guide is intended to help you understand how to fill out the form correctly. If you have any doubts, please reach out to the staff member you are visiting.
-
-</thinking>
-
 # Visitor Log Form - Help Guide
 ## Purpose
 The Visitor Log Form is used to record visitor information and interactions with staff members. It should be used for visitors who come to the office to meet with staff members. This form is not intended for internal staff members.

@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect information from job applicants about their employment history, education, and skills. This form is intended for use by organizations that need to collect detailed information from applicants about their previous work experiences, educational background, and skills acquired. This form is not intended to be used for other purposes and is a one-time use form.
-
-Please note that the form has a large number of identical fields for education, experience, and skills, but with different labels and IDs. This is likely due to the original design intention of having multiple sections for different aspects of a person's background. Please ensure that all required fields are filled out to provide a complete application.
-
-To use this form, please follow the instructions below.
-
-</thinking>
-
 # Hourly Employment Application Form - Help Guide
 ## Purpose
 This form is intended to collect detailed information from job applicants about their employment history, education, and skills acquired.

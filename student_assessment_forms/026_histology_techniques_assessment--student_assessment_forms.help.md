@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Histology Techniques Assessment - Help Guide
 
 ## Purpose

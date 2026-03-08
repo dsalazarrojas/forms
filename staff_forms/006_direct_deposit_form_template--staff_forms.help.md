@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information for direct deposit payroll services. The form asks for employee details and bank account information to facilitate direct deposit payments. This is a template form created by AI using public metadata and is an original adaptation of a form created by combining publicly available information from various sources. This form's structure and content are intended to be used for internal purposes only.
-</thinking>
-
 # Direct Deposit Form Template - Help Guide
 ## Purpose
 This form is designed to collect information for direct deposit payroll services. It gathers employee details and bank account information to facilitate direct deposit payments.

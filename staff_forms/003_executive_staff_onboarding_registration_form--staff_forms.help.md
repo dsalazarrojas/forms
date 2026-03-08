@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to onboard new executive staff members into the organization. The purpose of the form is to collect essential information about the new employee, including their contact details, job role, and supervisor's contact information. This information will be used for official records and communication purposes.
-
-When filling out this form, please ensure that you only submit new employee information once, to avoid creating duplicate records. Before proceeding, please make sure that you have the required information to complete the form accurately.
-
-</thinking>
-
 # Executive Staff Onboarding Registration Form - Help Guide
 ## Purpose
 The Executive Staff Onboarding Registration Form is designed to gather essential information about new executive staff members, including their contact details, job role, and supervisor's contact information. This information will be used for official records and communication purposes.

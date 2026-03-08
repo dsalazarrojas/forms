@@ -1,14 +1,3 @@
-<thinking>
-This form is likely part of an educational assessment process for students who receive drumming lessons. The purpose of this form is to evaluate a student's drumming skills in various areas, providing a comprehensive assessment of their progress and strengths. It's essential to ensure that the information is filled out accurately and thoroughly to get a complete picture of the student's abilities.
-
-When filling out this form, you should start by providing the title of the form, which is self-explanatory. You will be asked to input the student's name and email, as well as their instrument type. You will then rate their technique, rhythm, and musicality on a scale of 1-5. The instrument type field allows you to specify the type of drumming instrument being used.
-
-Some fields, such as practice time and teacher comments, are optional and can be filled out if applicable. You will also be asked to rate the student's teacher rating and provide any comments.
-
-Please ensure you fill out the form accurately and thoroughly to provide a comprehensive assessment of the student's drumming skills.
-
-</thinking>
-
 # Drumming Skills Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess a student's drumming skills in various areas, providing a comprehensive evaluation of their progress and strengths.

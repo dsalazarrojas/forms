@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide that clearly explains the purpose, completion process, and field-by-field explanation of the coxswain application form. The form appears to be designed for the application process of a coxswain, likely for a sailing or boating organization. The form includes various fields for club details, personal details, availability, experience, emergency contacts, and file uploads. To start, let's break down the form into its individual pages and fields, and I will provide a concise explanation for each page and field.</thinking>
-
 # coxswain_application_form - Help Guide
 ## Purpose
 The coxswain application form is a multi-page form used to collect information from potential coxswains for the application process. It gathers details about the applicant's club, personal details, availability, experience, and emergency contacts. Please complete the form carefully to ensure that all necessary information is provided.

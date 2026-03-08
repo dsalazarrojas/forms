@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information for pet care subscription vendors. The purpose of this form is to gather details about the vendor's services, pricing, contact information, and agreement terms. This form will help us to assess the vendor's qualifications and terms for providing pet care services. Please make sure to fill out this form accurately and completely to ensure that we can review your application correctly.
-
-Before filling out this form, please ensure that you have reviewed and understood the vendor's agreement terms and payment terms, as these sections are crucial for your subscription application.
-
-To complete this form, please select all the services you offer, enter your pricing information, and upload any necessary documents. You will also need to enter your contact information and agree to the terms and conditions.
-
-The form is divided into several sections, each with its own specific fields. Please read through each section carefully and provide the required information.
-
-The fields with checkboxes are not required but are recommended for your application.
-</thinking>
-
 # pet_care_subscription_vendor_application - Help Guide
 ## Purpose
 This form is designed to collect information for pet care subscription vendors. The purpose of this form is to gather details about the vendor's services, pricing, contact information, and agreement terms.

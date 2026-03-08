@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by students to report their attendance for virtual classes. It's crucial that students fill this form accurately to ensure that attendance records are up-to-date and accurate. Please ensure that you're filling this form for the correct virtual class and not duplicating entries. This form is usually filled by students, but it might be reviewed or checked by teachers or administrators for completeness and accuracy.
-</thinking>
-
 # Virtual Class Attendance Form - Help Guide
 ## Purpose
 The Virtual Class Attendance Form is used by students to report their attendance for virtual classes. This form helps maintain accurate and up-to-date records of student attendance.

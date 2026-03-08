@@ -1,9 +1,3 @@
-<thinking>
-Stripe Webinar Sign Up Form is designed to collect user information and schedule a webinar.
-This form will be used by webinar hosts to sign up for webinars.
-Please ensure you are not already signed up for this webinar before completing this form.
-</thinking>
-
 # Stripe Webinar Sign Up Form - Help Guide
 ## Purpose
 The Stripe Webinar Sign Up Form is a tool for webinar hosts to sign up for webinars using the Stripe Webinar platform.

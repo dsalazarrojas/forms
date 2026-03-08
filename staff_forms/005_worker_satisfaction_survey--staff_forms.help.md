@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gauge the overall satisfaction of workers regarding their job and work environment. It is intended to collect feedback from employees on various aspects of their work, such as their feelings, work performance, communication, collaboration, and job security. This form is meant to be completed by employees to provide valuable insights for management to improve their work environment and employee satisfaction.
-Please ensure this form is only completed once per employee per survey period, as repeated submissions may skew the results and create redundancy in data.
-</thinking>
-
 # Worker Satisfaction Survey - Help Guide
 ## Purpose
 The Worker Satisfaction Survey is a tool used to collect feedback from employees on their overall job satisfaction. It is designed to help management identify areas of improvement and make data-driven decisions to create a better work environment.

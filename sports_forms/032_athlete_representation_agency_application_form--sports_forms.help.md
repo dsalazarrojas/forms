@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information from athletes who wish to be represented by a sports agency. The purpose of this form is to collect demographic information about the athlete, their athletic background, and their current representation and goals for new representation. This form will be used by the agency to evaluate the athlete's potential for representation and to tailor their services to the athlete's specific needs.
-
-This form is not intended for current agency representatives to fill out. Please do not fill out this form if you are currently represented by another agency.
-
-The form has been designed to be easy to navigate, with clear and concise field labels and instructions. However, if you have any questions or concerns while filling out the form, please don't hesitate to reach out to the agency's support team.
-
-</thinking>
-
 # Athlete Representation Agency Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from athletes who wish to be represented by a sports agency.

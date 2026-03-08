@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gauge the new hire's experience and impression of the onboarding process at the organization. This information will help identify areas of improvement and provide insights for future new hire onboarding processes. Before filling out this form, please make sure you have completed the onboarding process and are familiar with the organization's policies and procedures. If you have already submitted feedback, please do not submit another form unless you have new information or concerns.</thinking>
-
 # New Hire Orientation Survey Template - Help Guide
 ## Purpose
 The New Hire Orientation Survey Template is a tool to gather feedback from new hires on their experience with the onboarding process.

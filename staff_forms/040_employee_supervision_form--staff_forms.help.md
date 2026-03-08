@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from employees for the purpose of supervision and performance evaluation. To avoid duplication and ensure accurate data, please fill in all relevant details truthfully. This form is meant for internal use and should not be shared or used for other purposes without authorization.
-</thinking>
-
 # Employee Supervision Form - Help Guide
 ## Purpose
 The Employee Supervision Form is a tool used to collect important details from employees for the purpose of supervision and performance evaluation. This form helps supervisors and HR personnel to get a clear understanding of an employee's job title, performance, and other relevant information.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to record information about shifts, which are periods of time when employees are required to be available to work. The form is designed to capture relevant details such as start and end times, status, team assignments, and any relevant comments or notes. This form will likely be used by HR or management teams to track and manage employee shift schedules and assignments.
-
-To ensure accuracy and consistency, this form should not be duplicated or used for any other purpose. Each field should be filled out carefully to provide a clear and accurate record of shift information.
-
-</thinking>
-
 # Shift Log Form - Help Guide
 ## Purpose
 The Shift Log Form is used to record information about shifts, including start and end times, status, team assignments, and any relevant comments or notes.

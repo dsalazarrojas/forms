@@ -1,13 +1,3 @@
-<thinking>
-Internal reasoning:
-The purpose of this form is to collect information for employee clearance, which is a process to ensure the employee's eligibility to work with sensitive information or hold certain positions. The form is used to gather necessary information such as background checks, health clearance, security information, and clearance level. This form is likely used by HR departments to manage employee clearance for various positions within an organization. The form does not seem to have a clear structure, with multiple fields asking for similar information, making it confusing for end-users. It would be beneficial to review and streamline the form to reduce redundancy and improve usability.
-
-Form fields seem to be mostly optional, indicating that the form may not be critical for immediate employee clearance. However, some fields such as background check result and clearance status could be crucial for making clearance decisions.
-
-To improve this form, consider grouping similar fields together, and clearly label each field with a more descriptive label that indicates what it is asking for. Additionally, remove any redundant fields that ask for the same information. This could involve creating new forms or sub-forms for more focused information gathering.
-
-</thinking>
-
 # Employee Clearance Form - Help Guide
 ## Purpose
 The employee clearance form is used to collect information necessary for determining an employee's eligibility to work with sensitive information or hold certain positions within the organization.

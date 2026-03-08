@@ -1,7 +1,3 @@
-<thinking>... This form is designed to collect information from new students to register them for academic purposes. It is intended for students who are not yet registered in the system and need to provide their personal details to be added to the database. The form should not be used to update or modify existing student records.
-
-</thinking>
-
 # New Student Form - Help Guide
 
 ## Purpose

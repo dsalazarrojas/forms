@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students after they have watched or experienced a play, focusing on the comprehension and emotional impact it had on them. Each field is designed to collect specific types of feedback, such as the title and type of play, the student's reaction to it, and suggestions for improvement. The form aims to gather data that can be used to refine the presentation and content of plays to better meet the needs and preferences of the target audience.
-
-This form does not seem to be a standard form for general audience assessment, as the questions and fields are tailored towards specific aspects of play experience. It appears to be a tool for educators or producers to gain insights into how their plays are received by students.
-
-</thinking>
-
 # Play Comprehension Assessment - Help Guide
 ## Purpose
 This form is designed to collect feedback from students after they have watched or experienced a play. It will help educators or producers gain insights into how their play was received, including the title and type of play, the audience's reaction, and suggestions for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-The form "plant-reproduction-assessment" appears to be a comprehensive form used for assessing plant reproduction. It seems to be related to evaluating the reproductive characteristics of plants, possibly for educational or research purposes. The form has multiple questions about various aspects of plant reproduction, including "What" and "Which", which could imply questions about plant characteristics. However, the form's purpose and scope are not entirely clear, and it's possible that it might be used in a different context. To confirm, I will proceed with creating the help guide under the assumption that it's for plant reproduction assessment.
-</thinking>
-
 # plant-reproduction-assessment - Help Guide
 ## Purpose
 This form is designed to assess various aspects of plant reproduction. It's likely used for educational, research, or evaluation purposes.

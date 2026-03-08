@@ -1,7 +1,3 @@
-<thinking>
-This guide will be used by store staff to create and complete the "Black Friday Product Reservation Form Template". The form is used to reserve products for Black Friday sales, ensuring that customers can reserve products ahead of time. Before starting, please ensure that you have reviewed the internal stock keeping units (SKUs) for each product to ensure accuracy. Also, check if a reservation for the same product has already been made, to avoid duplication. 
-</thinking>
-
 # Black Friday Product Reservation Form Template - Help Guide
 ## Purpose
 The Black Friday Product Reservation Form Template is used to reserve products on Black Friday sales. It collects customer information and the details of the product to be reserved.

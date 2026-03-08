@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from students to request a letter of recommendation from a teacher or mentor. This form will be used by the recommender to provide a recommendation letter, and the student will use this form to submit a request for a letter.
-
-This form is intended for students who need to request a letter of recommendation for various purposes, such as graduate school application, scholarship application, job application, etc. 
-
-This form will be reviewed internally to avoid non-relevant requests and to prevent duplication.
-
-</thinking>
-
 # Academic Recommendation Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from students to request a letter of recommendation from a teacher or mentor for various academic purposes.

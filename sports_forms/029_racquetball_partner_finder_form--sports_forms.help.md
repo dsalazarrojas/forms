@@ -1,11 +1,3 @@
-<thinking>
-Racquetball Partner Finder Form: A guide to find and connect with potential racquetball partners.
-The form is used to collect information from both players to find suitable racquetball partners. The purpose of this form is to facilitate communication and scheduling of matches between two individuals. This guide will walk you through each field, ensuring you complete the form correctly and effectively.
-
-Before proceeding, please ensure that you have all the necessary information and are not duplicating a previously created partner profile.
-
-</thinking>
-
 # Racquetball Partner Finder Form - Help Guide
 ## Purpose
 The Racquetball Partner Finder Form is a tool to connect you with potential racquetball partners, helping you find someone with similar playing interests and schedules.

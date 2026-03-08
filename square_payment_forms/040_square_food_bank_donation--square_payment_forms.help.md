@@ -1,8 +1,3 @@
-<thinking>
-This form is for users to input information about a donation to a Square Food Bank. The form is likely used for internal or external purposes, such as tracking donations, managing sponsor relationships, or verifying the authenticity of donations. Before proceeding, please ensure that this form is not a duplicate of an existing form in your organization or system, and that the information entered is accurate and up-to-date.
-
-</thinking>
-
 # Square Food Bank Donation - Help Guide
 ## Purpose
 The Square Food Bank Donation form is designed to collect information about food donations made to the food bank. This form is used to track and verify the authenticity of donations, ensuring that they are accurately accounted for and can be used for reporting and other administrative purposes.

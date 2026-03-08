@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and suggestions for improvements from users about various sports. This form will be used to gather information on the sports that the user is interested in, their thoughts on how to improve them, and how they would like to submit their feedback. This form is not mandatory, and users can choose to fill it out at their own discretion. The form will help in identifying areas that need improvement and will aid in making informed decisions for the betterment of sports. 
-</thinking>
-
 # Multisport Improvement Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from users about various sports. It is meant to be a tool to aid in making improvements to different sports and gather insights on how to better serve users' needs.

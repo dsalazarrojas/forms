@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge of a user in the field of textile production and assessment. The form will gather information about the user's general knowledge and specific skills in assessing textiles, including their ability to identify different types of fabrics, fibers, and other relevant aspects of textile production. This assessment is intended for educational purposes, and the results will be used to evaluate the user's understanding of textile knowledge. 
-
-To ensure that the user's understanding is not influenced by external factors, the form does not require registration or login, and users can submit their answers without providing any personal information. 
-
-This assessment form is designed to be completed in a way that is consistent with industry standards and best practices, and it has been reviewed and approved by textile experts. 
-
-Before proceeding, please review the following help guide to ensure that you understand the purpose and the fields of this form. 
-
-Please note that this form will not be used for any other purpose than educational research.
-
-</thinking>
-
 # Textile Knowledge Assessment - Help Guide
 ## Purpose
 The Textile Knowledge Assessment is a tool used to evaluate the knowledge and understanding of users in the field of textiles. 

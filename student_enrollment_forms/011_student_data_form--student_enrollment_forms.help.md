@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect demographic information from students. The purpose of this form is to ensure that we have accurate and up-to-date information about each student. This form is not intended to be a comprehensive assessment tool, but rather a way to gather basic details about the students.
-We will be checking for relevance and non-duplication of student information to prevent errors and inconsistencies in our records.
-</thinking>
-
 # Student Data Form - Help Guide
 ## Purpose
 The Student Data Form is designed to collect demographic information from students, ensuring that we have accurate and up-to-date information about each student.

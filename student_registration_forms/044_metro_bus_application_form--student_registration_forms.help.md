@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students applying for a Metro Bus scholarship. This form is used to gather essential details about the student, such as their name, address, ID number, email, contact number, and birthdate. This information is then used to verify the student's identity and process their application. Please note that the form fields are all optional, but filling out as much relevant information as possible will help speed up the application process.
-
-Before proceeding, ensure that you have the necessary documents and information readily available. This form should only be used for Metro Bus scholarship applications. Using this form for any other purpose may lead to incorrect or incomplete information.
-
-This form has multiple pages, but each page will have only one field per page. This will make it easier to focus on one piece of information at a time.
-</thinking>
-
 # Metro Bus Application Form - Help Guide
 ## Purpose
 The Metro Bus Application Form is a tool used to collect necessary details from students applying for a Metro Bus scholarship. Please fill out this form carefully, ensuring all required and optional fields are completed accurately.

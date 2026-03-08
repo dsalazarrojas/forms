@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I need to ensure that the form's purpose and requirements are clear. This form appears to be for students to request an extension on an assignment, providing details about their original due date, requested extension duration, and reasons for the request. The form also asks about previous extensions, understanding of the late submission policy, and academic standing. It's essential to review the form carefully and create a guide that accurately represents these requirements in a clear and concise manner.</thinking>
-
 # Assignment Submission Extension Form - Help Guide
 ## Purpose
 The Assignment Submission Extension Form is a tool for students to request an extension on an assignment. To use this form, please fill out the fields as requested, providing accurate and honest information about your situation.

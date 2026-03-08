@@ -1,5 +1,3 @@
-<thinking>Shift Swap Request Form is designed to facilitate employee shift swaps, where employees can request to switch shifts with their colleagues. This form is intended for use in work environments where shifts are scheduled and employees need to adjust their work schedules. To ensure the form is used correctly, please ensure you only complete this form for genuine shift swap requests and do not use it for other purposes.</thinking>
-
 # Shift Swap Request Form - Help Guide
 ## Purpose
 The Shift Swap Request Form is a tool to help employees request shifts with their colleagues.

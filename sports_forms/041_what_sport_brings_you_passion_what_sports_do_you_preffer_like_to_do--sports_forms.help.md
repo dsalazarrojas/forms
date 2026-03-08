@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users express their preferences and interests in sports, specifically asking about the sports that bring them passion and which sports they like to do. This information will be used to understand user interests and preferences for sports-related purposes. To ensure that this form is filled out correctly, we need to prevent users from selecting the same sport multiple times for the "which_sports_do_you_prefer" and "which_sports_do_you_like_to_do" fields. We will use the form data to prevent duplication of answers in these fields.
-</thinking>
-
 # What Sport Brings You Passion? What Sports Do You Preffer/ Like To Do - Help Guide
 ## Purpose
 This form is designed to help us understand your interests and preferences in sports. Please answer the questions honestly, and let us know if you have any other sports that you're passionate about that are not listed.

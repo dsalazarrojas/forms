@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is designed to help families and caregivers register their children for youth hockey programs. It collects necessary information to facilitate the waitlist application process. The form is used to gather details about the child, their parents/guardians, and emergency contact information. It ensures that the necessary contact details are provided for the child's enrollment and emergency needs. It does not duplicate any other form, as it is specifically tailored to meet the requirements of the hockey youth waitlist.
-
-</thinking>
-
 # Hockey Youth Waitlist Application Form - Help Guide
 ## Purpose
 The Hockey Youth Waitlist Application Form is used to register your child for hockey programs and provide essential contact information for the child's care and safety.

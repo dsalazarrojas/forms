@@ -2,10 +2,6 @@
 ## Purpose
 The Number Identification Assessment Form is used to track student progress and assess their number recognition skills.
 
-<thinking>
-This form is meant to evaluate how well students are performing on number recognition assessments. To ensure accurate and consistent results, please review the form carefully before completion. If you've already completed this form for the same student, please do not submit duplicate entries. If you're unsure about any field, please refer to the field-by-field explanation below.
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

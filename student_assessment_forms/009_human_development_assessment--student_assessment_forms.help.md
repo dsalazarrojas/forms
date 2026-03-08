@@ -1,5 +1,3 @@
-<thinking>...I must make sure the form is intended to assess a user's overall well-being and identify areas for growth and improvement. The form should provide a comprehensive evaluation of the user's emotional, mental, and physical state, as well as their personal and well-being goals. To avoid duplication of effort, the form should ensure that users are not asked to complete the same task multiple times. I will create the help guide based on the provided YAML fields...</thinking>
-
 # Human Development Assessment - Help Guide
 ## Purpose
 This form is designed to help you evaluate your overall well-being and identify areas for growth and improvement. It will ask you to rate your well-being, select areas where you'd like to grow, and provide your personal and well-being goals.

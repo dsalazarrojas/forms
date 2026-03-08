@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for wrestling registration purposes, specifically for recording information about a wrestler's participation in an event. The form will collect information such as the wrestler's name, club affiliation, and other details about the event and the match. The form's purpose is to provide a structured way to collect and track wrestling event data. 
-Please ensure that the event date and match time are formatted correctly, as these fields are specific to the wrestling context.
-Some fields are optional, but providing accurate and complete information will help in ensuring accurate records.
-</thinking>
-
 # wrestling_registration_form - Help Guide
 ## Purpose
 This form is designed for wrestling event registration, allowing users to record information about a wrestler's participation in an event. It collects details such as the wrestler's name, club, and event particulars.

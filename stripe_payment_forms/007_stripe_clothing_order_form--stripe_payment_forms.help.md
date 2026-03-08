@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from customers placing an order for clothing items. The form will likely be used by an online store or e-commerce platform to gather essential details from customers before processing their orders. The form may be used in conjunction with a payment gateway like Stripe to facilitate secure online transactions. 
-
-This form should only be used for clothing orders and not for other types of transactions or purposes. 
-
-Please note that the form does not have any specific validation rules defined in the provided YAML, so it's essential to keep the form's purpose and use case in mind when filling it out. 
-
-The form is designed to be simple and straightforward, with no redundant fields, but it may require additional information or fields depending on the specific use case or business requirements. 
-
-Please review the form carefully to ensure you understand its purpose and how to use it correctly.
-
-</thinking>
-
 # Stripe Clothing Order Form - Help Guide
 ## Purpose
 The Stripe Clothing Order Form is designed for customers to provide essential details about their clothing orders. This form will be used to gather information for processing and fulfilling clothing orders.

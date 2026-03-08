@@ -1,8 +1,3 @@
-<thinking>
-This guide explains the purpose and functionality of the "home_cleaning_service_subscription_form" to ensure end-users understand its intended use cases and completion process. The form is designed for users to subscribe to a home cleaning service, providing necessary information for service providers to understand their needs and preferences. This guide will help ensure that users complete the form accurately and effectively, reducing errors and misunderstandings.
-
-</thinking>
-
 # home_cleaning_service_subscription_form - Help Guide
 ## Purpose
 The "home_cleaning_service_subscription_form" is a tool for users to subscribe to a home cleaning service. It collects relevant information for service providers to tailor their services to individual needs.

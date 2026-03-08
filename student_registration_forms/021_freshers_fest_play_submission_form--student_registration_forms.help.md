@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Freshers’ Fest Play Submission Form - Help Guide
 
 ## Purpose

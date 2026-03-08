@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from students to propose an event for their student organization. The purpose of this form is to gather details about the event, including the date and time it will take place, where it will happen, and any other relevant information.
-The form should only be filled out by students who are members of a student organization. If you are not a student or do not have a student organization, please do not fill out this form.
-</thinking>
-
 # Student Organization Event Proposal Form - Help Guide
 ## Purpose
 The Student Organization Event Proposal Form is designed to collect information from students to propose an event for their student organization. This form helps the student organization to plan and coordinate events.

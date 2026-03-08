@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about uniform issues reported by staff members. This form is meant for internal use only and is not intended for external customers or clients. The form is designed to ensure that uniform issues are reported accurately and consistently across the organization. By using this form, staff members can efficiently report uniform issues, which can help the organization track and address these issues promptly.
-
-</thinking>
-
 # Uniform Issue Form - Help Guide
 ## Purpose
 The Uniform Issue Form is a tool used to report uniform issues reported by staff members. This form collects information about the issue, the staff member's role, equipment type, and other relevant details.

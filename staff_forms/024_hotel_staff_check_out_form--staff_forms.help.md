@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from hotel staff after a guest has checked out. The main goal of this form is to gather data about the reason for leaving, next contact date and time, and other relevant details. This form will help the hotel staff to keep track of guests' feedback and preferences.
-
-This form is intended to be a one-time interaction with the guest, so it should not be filled out more than once per guest stay.
-
-The form is designed to be completed by hotel staff, who will be using it to collect information about guests who have checked out.
-</thinking>
-
 # hotel_staff_check_out_form - Help Guide
 ## Purpose
 This form is used to collect information from hotel staff after a guest has checked out. It helps the hotel staff to gather data about the reason for leaving, next contact date and time, and other relevant details.

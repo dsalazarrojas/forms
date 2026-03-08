@@ -1,5 +1,3 @@
-<thinking>Assuming the purpose of this form is for students to assess their knowledge on a unit, this form will be used to gather student feedback on their understanding of the material. The form is likely used by instructors to collect data on student performance and understanding. The form will ask a series of questions and require the student to rate their confidence level in each question. The questions appear to be related to various topics within a unit, but without further context, it's difficult to determine the specific topics. The student is also able to provide any additional notes or comments as part of their submission.</thinking>
-
 # Unit Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to help students assess their knowledge on a unit of study. The goal is to gather feedback from students on their understanding of the unit material.

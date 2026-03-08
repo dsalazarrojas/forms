@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering participants to a sport class event. It is designed to collect the participant's first and last name, email, phone number, address, and preferences for the sport and class they are registering for. The form should only be used for participants who have not previously registered for this event.
-</thinking>
-
 # Sport Class Registration Form Template - Help Guide
 ## Purpose
 This form is intended to collect information from participants for the sport class event. Please ensure you only register once for this event.

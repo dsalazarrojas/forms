@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to provide information about their order of sports apparel. The purpose of this form is to collect customer details, order information, and payment details for processing the order. Before filling out this form, ensure that you have all the necessary information and that the order status and shipping information are accurate. This form is not a duplicate of the "Customer Order Form" and "Order Form" forms, as it has distinct fields and requirements. This guide will walk you through each field to ensure a smooth and accurate submission.
-</thinking>
-
 # Sports Apparel Order Form - Help Guide
 ## Purpose
 The Sports Apparel Order Form is a form designed for customers to provide information about their order of sports apparel. The form is used to collect customer details, order information, and payment details for processing the order.

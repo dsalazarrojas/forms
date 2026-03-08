@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to measure employee satisfaction and engagement, and is used to gather feedback from employees on their job satisfaction and areas for improvement. To avoid duplication of effort, please only complete this form if you have had significant experience in your current role (at least 6 months) and have not completed the survey in the past 3 months. The survey is designed to be completed by individual employees, and should not be filled out by proxy.
-</thinking>
-
 # Work Satisfaction Survey - Help Guide
 ## Purpose
 The Work Satisfaction Survey is a form used to gather feedback from employees on their job satisfaction and areas for improvement. It is designed to be completed by individual employees who have had significant experience in their current role (at least 6 months) and have not completed the survey in the past 3 months.

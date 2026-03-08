@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a sports trading card, specifically for a rookie card. The purpose of this form is to ensure that all relevant details about the card, including its player's name, birthdate, and card set, are accurately recorded. This information will help in maintaining a comprehensive database of sports trading cards. To ensure the accuracy of the data, it is essential to complete the form correctly and provide all required information.
-
-The form is divided into several sections, each containing specific fields that need to be filled out. Here's an explanation of each field:
-
-</thinking>
-
 # Sports Trading Card Rookie Checklist - Help Guide
 ## Purpose
 The Sports Trading Card Rookie Checklist is designed to collect information about a sports trading card, specifically for a rookie card. This form will help maintain a comprehensive database of sports trading cards.

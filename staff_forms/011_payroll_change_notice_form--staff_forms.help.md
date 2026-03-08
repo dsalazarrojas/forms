@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "payroll_change_notice_form" is to document changes made to an employee's pay rate, start and end times, and other payroll-related information. This form is used by HR and management teams to track and record changes to employee payrolls, ensuring accurate and up-to-date records.
 
 This form should only be completed when an employee's pay information has changed. If the change is not documented, it may affect the accuracy of payroll processing and lead to errors or discrepancies in the employee's benefits and tax calculations.

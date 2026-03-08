@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for storekeepers to maintain accurate and up-to-date stock inventory information. It is not a duplicate form, but rather a supplementary tool for storekeepers to report stock status and other relevant details. This form is meant to be completed by storekeepers, who are authorized to access stock information and make changes as necessary.
-</thinking>
-
 # Stock Inventory Form - Help Guide
 ## Purpose
 The Stock Inventory Form is a tool for storekeepers to report stock status and other relevant details about products in stock. This form is designed to help storekeepers accurately track and manage inventory levels.

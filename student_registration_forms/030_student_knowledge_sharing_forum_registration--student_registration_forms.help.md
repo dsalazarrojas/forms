@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students for the Student Knowledge Sharing Forum. The primary purpose of this form is to gather essential details about the student's identity, academic background, and participation preferences. It should only be filled out once per student, so there's no need to repeat this form for the same student. The information collected will be used for the Student Knowledge Sharing Forum's internal records and management.
-</thinking>
-
 # Student Knowledge Sharing Forum Registration - Help Guide
 ## Purpose
 The Student Knowledge Sharing Forum Registration form is designed to collect essential information from students to facilitate their participation in the Student Knowledge Sharing Forum.

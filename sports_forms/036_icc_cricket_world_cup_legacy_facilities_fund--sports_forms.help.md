@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information and data about legacy cricket facilities. This form is part of the ICC Cricket World Cup's legacy facilities fund, which aims to preserve and promote the history of cricket. This form should be used to provide accurate and comprehensive details about a particular facility, including its name, location, capacity, and status. To ensure consistency and accuracy, please fill out the form carefully and thoroughly.
-
-Before proceeding, please check if you have all the necessary information and if this form has been completed for the same facility in the past. If you're unsure or need clarification, please contact your supervisor or the relevant authorities.
-
-</thinking>
-
 # icc_cricket_world_cup_legacy_facilities_fund - Help Guide
 ## Purpose
 The icc_cricket_world_cup_legacy_facilities_fund form is used to gather information and data about legacy cricket facilities. This information helps in preserving and promoting the history of cricket.

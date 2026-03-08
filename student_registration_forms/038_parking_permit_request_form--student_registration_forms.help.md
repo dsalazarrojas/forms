@@ -1,11 +1,3 @@
-<thinking>
-To avoid duplication and misdirection, let's ensure that the parking permit request form is only accessed by authorized personnel, such as students, and is intended to provide necessary details for parking permit issuance. 
-
-This form will help students provide their employee details and parking preferences. By filling out this form accurately, students can ensure a smooth parking permit process and receive their permit in due time. 
-
-Before proceeding, please ensure that you have the necessary permissions to complete this form. 
-</thinking>
-
 # Parking Permit Request Form - Help Guide
 ## Purpose
 The Parking Permit Request Form is a crucial part of the parking permit issuance process for students. It helps provide necessary details for a smooth and efficient permit process. 

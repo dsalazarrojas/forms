@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for students to report their financial aid status, including type of financial aid, amount received, start and end dates, and other relevant details. This form is used to track and update student's enrollment status, and it's essential to complete it accurately to ensure timely and correct financial aid disbursements. Please note that some fields are not required, and you should only fill in the relevant information.
-
-</thinking>
-
 # Financial Aid Check In Form - Help Guide
 
 ## Purpose

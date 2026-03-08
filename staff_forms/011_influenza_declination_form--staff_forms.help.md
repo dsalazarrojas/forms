@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Influenza Declination Form - Help Guide
 ## Purpose
 The Influenza Declination Form is a document used to declare one's declination or lack of symptoms for the influenzavirus. It is a crucial form for medical professionals to assess and monitor the risk of infection transmission.

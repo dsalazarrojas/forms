@@ -1,8 +1,3 @@
-<thinking>
-This form is used for high school students to enroll in Advanced Placement (AP) courses. 
-The purpose of this form is to collect student information and course preferences for the AP courses. The student's ID, name, and grade level are required to identify the student and ensure they are eligible for the course. The course ID and course name are also required to specify which course the student is enrolling in. The course request date is used to track when the student requested the course. The parent's name and course requested fields are optional and provide additional information to the administrators. The course approved field is used to track whether the course has been approved or not. 
-</thinking>
-
 # High School AP Course Enrollment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect student information and course preferences for Advanced Placement (AP) courses at high school.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for students or parents to provide information and approval for student enrollment in a particular program or activity. To determine if the form is being filled out correctly, please review the form fields and their respective labels for any errors. If you're unsure, please double-check the field's type and required status. If it's not a required field, ensure you've selected an option that makes sense for the field's type. Please do not fill out duplicate entries as this may cause inconsistencies in the system.
-</thinking>
-
 # Student Enrollment Approval Form - Help Guide
 ## Purpose
 This form is used for students or parents to provide required information and approval for student enrollment in a particular program or activity.

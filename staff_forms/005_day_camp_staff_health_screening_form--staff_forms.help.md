@@ -1,7 +1,3 @@
-<thinking>
-This form is for camp staff members to report their personal and medical information to the camp director. This form is used to ensure that all staff members are aware of their health status and any potential risks or concerns that may impact their work at the camp. The form is meant to be completed accurately and honestly, and the information collected will be kept confidential.
-</thinking>
-
 # Day Camp Staff Health Screening Form - Help Guide
 
 ## Purpose

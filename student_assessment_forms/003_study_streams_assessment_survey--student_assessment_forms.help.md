@@ -1,14 +1,3 @@
-<thinking>... (internal reasoning block)
-The purpose of this form is to collect feedback on the study streams process, which is a crucial assessment tool for evaluating the effectiveness and quality of study streams. This form aims to gather information from stakeholders on various aspects of the study streams, including their availability, method of study, teaching method, format, and any additional feedback or comments they may have.
-
-To avoid duplication and ensure relevance, we should consider the following:
-
-* This form is intended for stakeholders with experience or knowledge about the study streams process.
-* The form is designed to gather specific feedback on the study streams process, so only relevant fields should be considered.
-* The form should not be used to gather general feedback or suggestions, but rather to provide concrete and actionable insights.
-
-</thinking>
-
 # Study Streams Assessment Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the study streams process, which is a crucial assessment tool for evaluating the effectiveness and quality of study streams. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Music Reading Proficiency Assessment - Help Guide
 ## Purpose
 The Music Reading Proficiency Assessment form is designed to evaluate a student's music reading proficiency level. It helps instructors assess a student's ability to read and interpret music notation, sight-read music, and demonstrate their musical skills.

@@ -1,15 +1,3 @@
-<thinking>
-The form, "Email Subscription Incentive", is designed to capture user's information for an email subscription service. The form has multiple fields to collect data such as email address, incentive reward, email frequency, and more. This form is used to incentivize users to subscribe to an email service.
-
-Before completing this form, please ensure that you are eligible for the email subscription incentive. 
-
-If you have already completed this form, please note that the data collected will be used to tailor email communication to your preferences.
-
-Please review the form fields carefully to ensure you provide accurate and relevant information.
-
-The form is designed to be completed by individuals looking to subscribe to an email service and receive rewards.
-</thinking>
-
 # Email Subscription Incentive - Help Guide
 ## Purpose
 The Email Subscription Incentive form is designed to capture user's information for an email subscription service. It is intended for users who want to subscribe to the service and receive rewards.

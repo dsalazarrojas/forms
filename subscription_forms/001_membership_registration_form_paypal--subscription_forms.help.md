@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering new members to a club or organization, and this guide will walk you through each field in order to help users understand its purpose and how to complete it successfully. Please ensure that you are filling out a form for a valid reason and not duplicating a registration for someone else. Before proceeding, please review each field carefully and make sure you provide accurate and complete information.
-</thinking>
-
 # Membership Registration Form PayPal - Help Guide
 ## Purpose
 The purpose of this membership registration form is to collect information from users who want to join a club or organization. This form is used to collect contact details, occupation, skills, and payment information.

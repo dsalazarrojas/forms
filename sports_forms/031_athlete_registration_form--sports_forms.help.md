@@ -1,5 +1,3 @@
-<thinking>Before we dive into the actual form instructions, let's take a moment to consider what this form is for and why it's being used. This athlete registration form appears to be designed for athletes to provide personal and training information for some sort of sports-related program or facility. The form collects details such as contact information, medical conditions, and payment preferences, which suggests that it's intended for athletes to register themselves for a program, class, or membership. It's essential to review this form carefully to ensure that you're entering accurate and relevant information, as it's going to be used to create your athlete profile and determine your eligibility for the program.</thinking>
-
 # Athlete Registration Form - Help Guide
 ## Purpose
 This form is designed for athletes to register themselves for a sports-related program or facility. It collects essential details such as personal, medical, and payment information to create your athlete profile and determine your eligibility for the program.

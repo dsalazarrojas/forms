@@ -1,6 +1,3 @@
-<thinking>
-The Employee Complaint Form is designed to allow staff members to report grievances or complaints about their colleagues or supervisors. This form is used to track and document complaints, which can help identify and address any issues or concerns within the workplace. To ensure consistency and accuracy, it's essential to follow the instructions below to complete this form correctly. This guide will walk you through each field and its purpose to help you understand the form's requirements and expectations.</thinking>
-
 # Employee Complaint Form - Help Guide
 
 ## Purpose

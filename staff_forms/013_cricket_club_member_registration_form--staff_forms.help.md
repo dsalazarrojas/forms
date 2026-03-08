@@ -1,7 +1,3 @@
-<thinking>
-To ensure the correct usage and completion of the "cricket_club_member_registration_form" form, we must understand its purpose and the information it collects. The form is intended for individuals to register as members of a cricket club. It requires personal details such as name, date of birth, contact information, and membership type to process the registration.
-</thinking>
-
 # cricket_club_member_registration_form - Help Guide
 ## Purpose
 The "cricket_club_member_registration_form" is a registration form designed for individuals to sign up as members of a cricket club. It is essential to complete this form accurately to ensure smooth processing of your membership application.

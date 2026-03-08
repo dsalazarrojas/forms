@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess the knowledge of a martial arts student. The form is intended to be filled out by students, instructors, or other martial arts practitioners who want to evaluate their understanding of various aspects of martial arts training. The form asks for information about the student's dojos, instructors, training programs, students, rank, martial arts concepts, better class placement, instruction planning, experience, and years of experience.
-
-The form is not required, but rather a self-assessment tool to help individuals gauge their knowledge and skills in martial arts. The answers to the questions should reflect the student's honest and accurate assessment of their knowledge and experience.
-
-</thinking>
-
 # Martial Arts Knowledge Assessment - Help Guide
 ## Purpose
 The martial arts knowledge assessment form is a self-assessment tool designed to help martial arts students, instructors, and practitioners evaluate their understanding of various aspects of martial arts training.

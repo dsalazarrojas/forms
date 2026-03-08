@@ -1,15 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide for the "new_hire_questions_form" form, we need to understand its purpose and required fields. 
-
-The form's purpose is to collect information about new hires, including their personal details, job title, and emergency contact information. 
-
-The form appears to be a comprehensive document that captures various aspects of the new hire's information, but some fields may be optional depending on the specific requirements of the organization.
-
-Before proceeding, it is essential to check if there are any other forms that cover similar or overlapping purposes to avoid duplication of effort and ensure that users are not burdened with redundant information collection.
-
-</thinking>
-
 # new_hire_questions_form - Help Guide
 ## Purpose
 The new hire questions form is designed to collect information about new hires, including their personal details, job title, and emergency contact information.

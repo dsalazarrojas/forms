@@ -1,9 +1,3 @@
-<thinking>
-The form is used by the store keeper to order supplies for the cleaning crew. The form is likely to be used in a retail or inventory management context, where the store keeper needs to place orders for specific items that the cleaning crew needs for their tasks. The form is designed to collect information on the date, time, and specific supplies needed by the crew.
-This form is likely to be used by a specific set of users, such as store keepers or inventory managers, who need to place orders for the cleaning crew. The form is not intended to be used by the cleaning crew members themselves.
-The form collects information on various fields, including dates, times, and select options, which are likely related to the supplies needed and the crew's availability.
-</thinking>
-
 # store_cleaning_crew_supply_order_form - Help Guide
 ## Purpose
 This form is used to place orders for supplies needed by the cleaning crew.

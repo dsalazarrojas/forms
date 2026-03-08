@@ -1,7 +1,3 @@
-<thinking>
-The Employee Safety Survey form is designed to gather feedback from employees about their safety perceptions and concerns. This form is intended for staff members to express their feelings and thoughts on safety issues affecting them at work. It's essential to keep in mind that this survey is a confidential and voluntary tool, and all responses will be treated with respect and confidentiality. This guide is provided to ensure that users understand the purpose and requirements of the form, so please read on.
-</thinking>
-
 # Employee Safety Survey - Help Guide
 ## Purpose
 The Employee Safety Survey is a confidential and voluntary form designed to gather feedback from employees about their safety perceptions and concerns. It is a tool for staff members to express their feelings and thoughts on safety issues affecting them at work.

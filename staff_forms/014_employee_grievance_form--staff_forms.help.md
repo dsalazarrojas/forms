@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about grievances they have experienced while working at the organization. The purpose of this form is to provide a structured and efficient way for employees to report issues that they feel are affecting their well-being or performance. By using this form, employees can confidentially submit their concerns and help identify potential problems that need to be addressed.
-
-Before filling out this form, please ensure that you have not previously submitted a grievance regarding the same issue, as duplicate submissions may cause confusion. If you are unsure about whether to submit a form, please reach out to your supervisor or HR representative for guidance.
-
-This form is intended to be completed by current employees of the organization. If you are not an employee, you are not authorized to use this form.
-
-</thinking>
-
 # Employee Grievance Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employees about grievances they have experienced while working at the organization. This will help the management team identify and address potential issues that may be affecting employee well-being or performance.

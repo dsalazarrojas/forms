@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users plan their Black Friday shopping strategy, including creating a shopping list with budget and priority items, selecting shopping locations and payment methods, and planning for companions and transportation. To avoid duplication, this form is intended to be used by individual shoppers or small groups, not for bulk or large-scale commercial use. 
-</thinking>
-
 # Black Friday Shopping List Form Template - Help Guide
 ## Purpose
 The Black Friday Shopping List Form Template is a tool to help you plan your shopping strategy, organize your list, and save time on the actual shopping day.

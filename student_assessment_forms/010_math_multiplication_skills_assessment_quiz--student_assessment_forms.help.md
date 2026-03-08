@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the student's multiplication skills by providing a set of simple math problems to solve. The form has 5 math problems that require the student to input their answers. At the end, the student will select the number of problems they completed correctly from the options provided, indicating their assessment score.
-</thinking>
-
 # Math Multiplication Skills Assessment Quiz - Help Guide
 ## Purpose
 The Math Multiplication Skills Assessment Quiz is a tool to evaluate students' multiplication skills by providing a set of math problems to solve.

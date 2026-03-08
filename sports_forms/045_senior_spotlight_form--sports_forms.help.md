@@ -1,33 +1,3 @@
-<thinking>
-To create a Senior Spotlight Form that shines a spotlight on senior athletes, we need to gather information about them in a clear and concise manner. This form is used to highlight seniors who have made significant contributions to their school or community through sports. It is essential to fill out this form carefully, ensuring all required fields are completed accurately. Please check that you are not duplicating information for any existing senior athlete before submitting your form.
-
-To complete the form, please follow these steps:
-
-1. Enter the senior's **First Name** in the "First Name" field.
-2. Enter the senior's **Last Name** in the "Last Name" field.
-3. Provide the senior's **Date of Birth** in the "Date of Birth" field. Ensure the date is in the correct format (YYYY-MM-DD).
-4. Enter the senior's email address in the "Email" field.
-5. Enter the senior's phone number in the "Phone" field.
-6. Enter the senior's school year of graduation in the "School Year" field.
-7. Enter the name of the **Event Name** where the senior will be spotlighted.
-8. Describe the senior's **Event Description**.
-9. Enter the location of the **Event**.
-10. Enter the date of the event in the "Event Date" field.
-11. Enter the time of the event in the "Event Time" field.
-12. Enter the senior's photo URL.
-13. Enter the coach's **Name**.
-14. Enter the coach's email address in the "Coach Email" field.
-15. Enter the coach's phone number in the "Coach Phone" field.
-16. Enter the senior's team name.
-17. Enter the sport associated with the senior in the "Sport" field.
-18. Enter the team's ID.
-19. Enter the sport's ID.
-20. Enter the senior's team name.
-21. Enter the school year of the event.
-22. Enter the sport name associated with the senior.
-
-</thinking>
-
 # Senior Spotlight Form - Help Guide
 ## Purpose
 This form is designed to highlight senior athletes who have made significant contributions to their school or community through sports.

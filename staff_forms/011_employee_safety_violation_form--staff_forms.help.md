@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about employee safety violations, allowing employees to report incidents and their status updates in a structured and organized manner. This form is likely used by HR or safety departments to track and analyze employee safety incidents. The form should only be filled out by authorized personnel, and the data collected is for internal use only. The form's fields will be used to provide details about the incident, its cause, and any actions taken or planned. This form should not be used for general feedback or complaints, but only for reporting serious incidents.</thinking>
-
 # Employee Safety Violation Form - Help Guide
 ## Purpose
 This form is used to report and track employee safety incidents. It helps to provide detailed information about incidents, their causes, and status updates.

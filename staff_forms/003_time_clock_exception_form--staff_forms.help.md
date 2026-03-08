@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture exceptions or unusual occurrences related to time clocks or time-keeping systems within an organization. The form's purpose is to provide a standardized way to document and report these exceptions, allowing for efficient tracking and resolution. This form should only be used for genuine exceptions, not for routine or normal events. Please ensure that you are not duplicating an exception that has already been reported. If you're unsure, review existing records or ask your supervisor for guidance.
-</thinking>
-
 # time_clock_exception_form - Help Guide
 ## Purpose
 The time_clock_exception_form is a tool for capturing and reporting exceptions related to time clocks or time-keeping systems within the organization.

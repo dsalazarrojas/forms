@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to handle employee transfers within the organization, allowing employees to be moved between departments. This form should only be used for transfers that are approved by management. To avoid duplication, ensure that the form is not submitted multiple times for the same employee transfer.
-</thinking>
-
 # Employee Transfer Form - Help Guide
 ## Purpose
 This form is used to process employee transfers within the organization.

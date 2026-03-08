@@ -1,9 +1,3 @@
-<thinking>
-This form, "Co Op Work Experience Report", seems to be designed to collect information from students about their co-op work experience. It appears to be used to record details about a student's work history, skills, and feedback from their supervisor. This form could be used for academic or professional purposes, such as assessing student performance, tracking co-op progress, or evaluating the effectiveness of the co-op program. Before completing this form, please make sure to have a clear understanding of the co-op experience and the requirements for this form. Ensure that you are not duplicating information already provided in other assessments or reports. 
-
-Please review each field carefully to ensure that you are providing accurate and relevant information.
-</thinking>
-
 # Co Op Work Experience Report - Help Guide
 ## Purpose
 The Co Op Work Experience Report is a form used to collect information from students about their work experience during their co-op terms. This form helps track student performance, skills gained, and feedback from supervisors.

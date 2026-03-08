@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assess the information retrieval performance of students in a search-based task. The form collects information about the student's search question, explanation, and confidence level in their search results. It also captures additional details about the search engine used, search result, and other relevant comments. The form is designed to be completed by students to evaluate their ability to retrieve relevant information from search engines and provide feedback on their performance.
-This form does not appear to be a part of a larger form collection, so it is not intended for use in a multi-page form scenario.
-</thinking>
-
 # Information Retreival Assessment - Help Guide
 ## Purpose
 The Information Retrieval Assessment form is designed to evaluate students' ability to retrieve information from search engines. It is used to collect feedback on their search performance and provide insights for improvement.

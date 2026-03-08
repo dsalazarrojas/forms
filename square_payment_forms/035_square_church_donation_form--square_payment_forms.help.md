@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting user information and donation details for church donations. The purpose of this form is to gather essential data from users, including their contact details and donation specifics. This form is not intended for commercial use or as a substitute for any official platform. It is an AI-generated form created for the Church category. The form structure and content are derived from public survey metadata, making it an original adaptation. The form can be used, modified, and even sold, with proper credit given to its creators.
-</thinking>
-
 # square_church_donation_form - Help Guide
 ## Purpose
 The Square Church Donation Form is designed to collect user information and donation details for church donations.

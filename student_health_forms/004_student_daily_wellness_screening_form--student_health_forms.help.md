@@ -1,5 +1,3 @@
-<thinking>This form is designed to help healthcare providers assess the health and wellness of students. It is used to gather information about the student's symptoms, travel history, and exposure to potential health risks. The form is typically completed by the student or their parent/guardian, and the information collected is used to inform the student's health and wellness plan. This form is not to be used as a substitute for a medical diagnosis.</thinking>
-
 # student_daily_wellness_screening_form - Help Guide
 ## Purpose
 The Student Daily Wellness Screening Form is used to gather information about a student's health and wellness, including symptoms, travel history, and exposure to potential health risks.

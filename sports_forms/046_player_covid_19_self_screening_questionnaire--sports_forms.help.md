@@ -1,18 +1,3 @@
-<thinking>
-This guide provides an overview of the Player COVID-19 Self Screening Questionnaire form, its purpose, and how to complete it. This form is used to collect information about a player's COVID-19 symptoms to assess their risk of exposure. This form is meant for players who have come into contact with an infected individual or have traveled to a high-risk area.
-
-To determine the relevance of the form, consider the following questions:
-
-* Are you a player who has come into contact with someone who has been diagnosed with COVID-19 or is suspected to have COVID-19?
-* Have you recently traveled to an area with a high risk of COVID-19 transmission?
-* Do you have any symptoms of COVID-19, such as fever, cough, or shortness of breath?
-
-If you answered yes to any of these questions, this form is relevant to you.
-
-Please note that this form is a self-screening tool and is not a substitute for professional medical advice. If you are experiencing severe symptoms or have concerns about your health, please contact a healthcare professional immediately.
-
-</thinking>
-
 # player_covid_19_self_screening_questionnaire - Help Guide
 ## Purpose
 The Player COVID-19 Self Screening Questionnaire is a form used to collect information about a player's COVID-19 symptoms to assess their risk of exposure. This form helps identify potential cases of COVID-19 and provides guidance on next steps for the player.

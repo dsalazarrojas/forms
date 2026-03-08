@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to report incidents involving students. The purpose of this form is to collect information about student incidents, including a description of the incident, the date and time it occurred, and other relevant details such as location and incident type. This form is not intended to be completed by students, but rather by staff or faculty members who are reporting incidents on behalf of students. To ensure data quality and consistency, it's essential to review this form carefully before submitting it. Please ensure that the form is completed only for incidents that have not already been reported, and that all required fields are filled out correctly.
-</thinking>
-
 # Student Incident Report Form - Help Guide
 ## Purpose
 This form is used to report incidents involving students. It provides a structured way to document and collect information about the incidents.

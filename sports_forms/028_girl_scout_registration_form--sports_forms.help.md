@@ -1,9 +1,3 @@
-<thinking>
-The Girl Scout Registration Form is a crucial tool for the registration of new members into the Girl Scout organization. This form is used to collect essential information from potential members, including personal details, contact information, and medical history. The form is designed to be completed by the individual seeking membership, ensuring that all necessary information is provided accurately and comprehensively. 
-This form is intended for registration purposes only and should not be used for any other purpose, such as for event or activity registration. It is crucial to fill out the form accurately and completely to avoid any discrepancies or miscommunication. 
-Please fill out the form carefully and ensure that all required fields are filled out before submitting it. This will help us process your registration efficiently and effectively.
-</thinking>
-
 # Girl Scout Registration Form - Help Guide
 ## Purpose
 The Girl Scout Registration Form is designed to collect information from potential members for the purpose of registration into the Girl Scout organization.

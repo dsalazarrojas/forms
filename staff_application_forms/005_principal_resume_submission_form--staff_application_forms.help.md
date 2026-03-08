@@ -1,8 +1,3 @@
-<thinking>
-This guide will walk through the Principal Resume Submission Form, ensuring end-users understand its purpose, how to complete it correctly, and what each field entails.
-The form's purpose is to collect information from principals applying for a job, focusing on educational background, contact details, and professional experience. Before filling out the form, please verify that you haven't submitted a principal resume in the past to avoid duplicate submissions.
-</thinking>
-
 # Principal Resume Submission Form - Help Guide
 ## Purpose
 The Principal Resume Submission Form is designed to gather essential details from principals seeking to apply for a job. It includes questions about their background, contact information, and work experience. Ensure you fill out the form accurately and thoroughly.

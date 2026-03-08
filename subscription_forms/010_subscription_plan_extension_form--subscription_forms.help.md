@@ -1,10 +1,3 @@
-<thinking>
-This form is used to extend a subscription plan for a customer. It is intended for customers who wish to change their current subscription plan to a different one. The form will be submitted to the customer's account representative for review and approval. This form should only be used if the customer has not already submitted a request or if their current plan is not eligible for extension. 
-
-This form is used to collect the following information: Customer Information, Current Subscription Plan, Desired Subscription Plan, Extension Request Details, Customer Signature, and Confirm Contact Information. The form has multiple pages for better readability and user experience. 
-
-</thinking>
-
 # Subscription Plan Extension Form - Help Guide
 
 ## Purpose

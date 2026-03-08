@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents and babies participating in fitness programs. The form is intended for parents seeking to enroll their baby in a fitness program, providing essential details about themselves and their baby. The form has five sections: parent details, baby details, health information, session preferences, and consent. The following guide will walk you through each field to help you complete it accurately and efficiently.
-</thinking>
-
 # Mum And Baby Fitness Registration - Help Guide
 ## Purpose
 This form is a registration form for parents and babies participating in a fitness program. It collects essential information to ensure a safe and enjoyable experience for both parents and babies.

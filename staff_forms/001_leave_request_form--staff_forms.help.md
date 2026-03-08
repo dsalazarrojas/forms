@@ -1,5 +1,3 @@
-<thinking>....</thinking>
-
 # leave_request_form - Help Guide
 ## Purpose
 The leave request form is used for employees to submit a formal leave request to their manager. This form allows employees to specify the nature of their leave (e.g., work from home, leave of absence), the dates of their leave, and any additional comments or requests. The manager can then review and approve or decline the request.

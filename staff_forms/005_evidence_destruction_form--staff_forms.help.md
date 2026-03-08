@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for capturing information related to evidence destruction procedures for staff members in a workplace or institution. Its primary purpose is to collect details about the destruction of evidence, which could include documents, data, or other materials. The form likely serves as a template for staff to report or document the destruction process, providing necessary context and explanations for the destruction of evidence. This form may be used by administrative or management personnel to track and record the destruction of evidence, ensuring compliance with regulatory requirements and maintaining accurate records. To ensure accurate and complete information, it's essential to review and validate the form's content before submitting it. The form does not seem to have any specific fields that request sensitive or personal information, which is a positive aspect for user data protection. However, it would be beneficial to verify this assumption by reviewing the form's purpose and intended use within the organization.
-
-</thinking>
-
 # evidence_destruction_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form's purpose and ensure it's not a duplication of effort. The "COVID 19 Financial Assistance Application Form" is designed to collect information from individuals who are seeking financial assistance due to the impact of COVID-19. This form aims to gather essential details about the applicant, their professional background, COVID-19's impact on their employment, financial needs, and the specific assistance they require. By providing a clear and concise guide, we can help users complete the form accurately and efficiently.</thinking>
-
 # COVID 19 Financial Assistance Application Form - Help Guide
 ## Purpose
 The "COVID 19 Financial Assistance Application Form" is a tool designed to aid individuals who have been affected by the COVID-19 pandemic and need financial assistance. This form will help us understand their situation and provide the necessary support to alleviate their financial distress.

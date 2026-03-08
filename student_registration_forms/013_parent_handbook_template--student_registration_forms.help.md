@@ -1,9 +1,3 @@
-<thinking> 
-This form is for creating a template for parent handbooks. The form is meant to collect information from parents, including their contact information and any rules and regulations they need to follow. The form also allows for the inclusion of additional pages, making it a multi-page form. The form does not require any information from the parent, making it an optional form.
-
-The form can be used by parents to create a handbook for their children in school. It can be used to outline rules and regulations, include contact information, and allow for file uploads if necessary. 
-
-</thinking>
 # Parent Handbooks Template - Help Guide
 ## Purpose
 

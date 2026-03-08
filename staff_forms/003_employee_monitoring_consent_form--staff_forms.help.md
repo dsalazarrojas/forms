@@ -1,7 +1,3 @@
-<thinking>
-Is there a need for a form like "Employee Monitoring Consent Form" in the given context? Is the purpose of this form to collect consent for monitoring activities? Are there any duplicate fields that can be consolidated for better user experience?
-</thinking>
-
 # Employee Monitoring Consent Form - Help Guide
 ## Purpose
 This form is intended to be used to collect consent for employee monitoring activities. The form is designed to gather information from employees regarding their comfort level with monitoring activities related to their work or personal data. The purpose of this form is to ensure that employees are aware of and consent to monitoring, which is crucial for maintaining transparency and trust in the workplace.

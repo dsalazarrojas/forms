@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather information from students registering for a healthcare conference. The fields are designed to capture personal details and preferences to facilitate efficient and effective registration management. Ensure that you are registering for a conference you are eligible to attend before completing this form. Please note that some fields are optional, as specified in the form's internal metadata.
-
-</thinking>
-
 # healthcare_conference_registration_form - Help Guide
 ## Purpose
 This form is used to register students for a healthcare conference.

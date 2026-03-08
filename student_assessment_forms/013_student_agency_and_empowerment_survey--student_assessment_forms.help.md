@@ -1,14 +1,3 @@
-<thinking>
-The "Student Agency And Empowerment Survey" form is designed to assess the degree of agency and empowerment experienced by students in a school setting. This form is intended for use by educators, researchers, or administrators seeking to evaluate the level of autonomy and support provided to students. The form is not designed for general use, but rather for specific stakeholders who require a structured assessment of student agency and empowerment.
-
-Before proceeding, ensure you have read and understood the purpose and context of this survey. If you're unsure about the form's relevance or have already completed a similar survey, please do not continue.
-
-This form is designed to be completed by a single respondent, typically a teacher or educator familiar with the student agency and empowerment context. Please answer the questions based on your experience and observations within the school setting.
-
-The survey consists of 11 fields, each designed to capture specific aspects of student agency and empowerment.
-
-</thinking>
-
 # Student Agency And Empowerment Survey - Help Guide
 ## Purpose
 The Student Agency And Empowerment Survey aims to assess the degree of agency and empowerment experienced by students in a school setting. This survey is designed to evaluate the level of autonomy and support provided to students, allowing stakeholders to identify areas for improvement and develop targeted strategies to enhance student agency.

@@ -1,10 +1,3 @@
-<thinking>
-The "Return To Work Letter" form is designed to facilitate the process of employees returning to work after an extended absence. This form is used to document the reason for an employee's return, ensuring that both the employee and the manager are on the same page regarding the employee's absence and return. 
-The form is used for employees who have been absent from work for an extended period and are now ready to resume their duties. 
-The purpose of this form is not to discipline or penalize employees but to provide a clear record of their absence and return, which can be used for future reference.
-The form should not be used for employees who are simply taking a day off or a short break.
-</thinking>
-
 # Return To Work Letter - Help Guide
 ## Purpose
 The "Return To Work Letter" form is used to document an employee's return to work after an extended absence, ensuring a clear record of their absence and return.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist in the selection process of editors for a project or publication. It gathers information about the candidate's details, experience, writing samples, name, and category. The form is meant to be completed by the candidate as part of their application process. This form is a collection of fields that are relevant to the editorial selection process and are intended to help the reviewer or decision-maker make an informed decision. Please note that this form does not require any personal identifiable information (PII) and is meant to be used in a professional setting. If you are not applying for the editor position, please do not complete this form. This guide is to help you understand how to fill out the form correctly and make the most of your application.
-</thinking>
-
 # Editor Selection Application - Help Guide
 ## Purpose
 The Editor Selection Application form is designed to gather necessary information from candidates applying for an editor position. It consists of 6 fields that cover various aspects of the candidate's qualifications and experience.

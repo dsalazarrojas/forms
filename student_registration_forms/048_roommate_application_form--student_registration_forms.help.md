@@ -1,23 +1,3 @@
-<thinking>
-This form is used by students to apply to be a roommate in a shared housing arrangement. The purpose of this form is to gather information about each applicant's personal details, living preferences, and living arrangements. This form is required for all applicants and must be completed thoroughly and accurately to ensure a smooth and successful roommate match.
-
-This form is designed to collect the following information:
-- First name
-- Last name
-- Email address
-- Phone number
-- A brief bio to get a better understanding of who the applicant is
-- Availability (if any)
-- Move-in date (if applicable)
-- Move-out date (if applicable)
-- Roommates the applicant will be living with
-- Desired room type and size
-- Smoking and pet preferences
-
-Before completing the form, please ensure that you have the necessary information ready and that you are comfortable sharing it. This form is only for students, and the information provided will be reviewed and verified for accuracy and legitimacy.
-
-</thinking>
-
 # Roommate Application Form - Help Guide
 ## Purpose
 This form is used by students to apply to be a roommate in a shared housing arrangement. The purpose of this form is to gather information about each applicant's personal details, living preferences, and living arrangements.

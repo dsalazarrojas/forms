@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Hire Orientation Checklist - Help Guide
 
 ## Purpose

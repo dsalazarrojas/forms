@@ -1,5 +1,3 @@
-<thinking> This form is used for employee reference checks, typically conducted by HR or management teams to gather information about an employee's performance, job history, and professional references. The form collects data on various aspects of the employee's work experience, including references from colleagues and supervisors, job titles, years worked, salary history, and dates of birth. This form helps to create a comprehensive report for the employee's file, aiding in evaluation and decision-making processes. To ensure accuracy, please fill out this form carefully, selecting only relevant and accurate information. Duplicate or incorrect entries can lead to misunderstandings or misinterpretations. Make sure to review the form carefully before submitting it. </thinking>
-
 # employee_reference_check_form - Help Guide
 ## Purpose
 This form is used for employee reference checks, typically conducted by HR or management teams to gather information about an employee's performance, job history, and professional references.

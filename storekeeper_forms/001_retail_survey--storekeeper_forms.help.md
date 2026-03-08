@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect retail survey data from customers. It is intended to gather information about the customer's experience at a retail store, including their name, visit date and time, product preferences, and ratings of the store and product. This form is likely to be used by retail stores to improve their customer service and product offerings.
-
-</thinking>
-
 # Retail Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers about their visit to your retail store. This information will help us understand how to better serve our customers and improve our products.

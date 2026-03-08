@@ -1,15 +1,3 @@
-<thinking> 
-
-This form is intended to gather information from applicants who wish to be considered for driver positions within the organization. This form is used to collect detailed information about the applicant, including personal and professional details, as well as specific information related to their driving history and experience. This information will be used to assess the applicant's suitability for a position and to ensure that they meet the necessary qualifications for the role.
-
-The information collected will be stored and used to create a record of the applicant's details, which will be used for administrative and compliance purposes. 
-
-Please note that this form is intended to be completed by the applicant, and the answers will be reviewed by the relevant personnel for accuracy and completeness. 
-
-It is also assumed that the applicant is aware of and consents to the background checks and other inquiries as part of the application process. If this is not the case, please do not proceed with the form. 
-
-</thinking>
-
 # Authorized Driver Application Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants who wish to be considered for driver positions within our organization. The information gathered will be used to evaluate the applicant's suitability for a position and to create a record of their details for administrative and compliance purposes.

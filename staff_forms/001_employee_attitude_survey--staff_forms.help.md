@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and opinions from employees on various aspects of their work experience, such as job satisfaction, management support, communication, job security, and team work. The purpose of this form is to help management understand the overall work environment and make informed decisions to improve employee satisfaction and engagement. Before filling out this form, please make sure you are not already filling out a similar form, such as the "Employee Engagement Survey" or "Job Satisfaction Report", as this form is meant to provide an overview of employee attitudes and opinions.
-</thinking>
-
 # Employee Attitude Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and opinions from employees on various aspects of their work experience.

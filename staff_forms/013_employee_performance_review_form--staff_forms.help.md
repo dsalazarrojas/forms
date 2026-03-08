@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Performance Review Form - Help Guide
 ## Purpose
 This form is designed to facilitate employee performance reviews, gathering feedback, strengths, and areas for improvement to promote growth and development within the organization. 

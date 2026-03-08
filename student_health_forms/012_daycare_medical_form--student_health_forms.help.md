@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a Daycare Medical Form designed to collect essential health information from students. Before starting, please verify that you are in the right place and not duplicating the form for another purpose. This form is meant for students, not for other types of users.
 
 # Daycare Medical Form - Help Guide

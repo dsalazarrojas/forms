@@ -1,5 +1,3 @@
-<thinking>...this is a form used for requesting the transfer of athletes to a new team or club. The form requires personal information of the athlete, details about their current club, the reason for the transfer, and the requested transfer date. It also includes fields for contact information, eligibility and compliance checks, and declarations of accuracy and consent...to prevent duplicate submissions, the form will check for existing athlete transfers within the past 12 months...</thinking>
-
 # Athlete Transfer Request Application Form - Help Guide
 ## Purpose
 This form is used to request the transfer of an athlete to a new team or club. It requires information about the athlete, their current club, and the reason for the transfer.

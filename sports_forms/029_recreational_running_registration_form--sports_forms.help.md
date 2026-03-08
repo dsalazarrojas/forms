@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to gather information from participants in a recreational running event, including their personal details, contact information, and preferences. It's designed to be completed by both adults and children, so it's essential to ensure that all required fields are accurate and up-to-date. To avoid confusion, it's recommended to review each field carefully before proceeding. This form is not intended for internal use within the organization; its primary purpose is for external registration. It's crucial to ensure that this form is filled out accurately to avoid errors during event preparation and execution.
-</thinking>
-
 # Recreational Running Registration Form - Help Guide
 
 ## Purpose

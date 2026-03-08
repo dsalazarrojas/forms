@@ -1,11 +1,3 @@
-<thinking>
-Stripe Meal Kit Delivery Subscription Form is a form for users to sign up for a meal kit delivery subscription. 
-The purpose of this form is to collect essential information from customers, including their address, name, email, phone number, credit card details, and other relevant details. 
-The form is divided into several fields, each with a unique label and description. 
-The form will be filled in by customers to complete their subscription sign-up process.
-
-</thinking>
-
 # Stripe Meal Kit Delivery Subscription Form - Help Guide
 ## Purpose
 The stripe_meal_kit_delivery_subscription_form is a form for users to sign up for a meal kit delivery subscription.

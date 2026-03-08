@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form, "Units And Dimensions Assessment", is to assess a student's understanding of units and dimensions. The form is designed to evaluate a student's knowledge in this subject area by asking a series of questions that cover various topics related to units and dimensions. 
-
-To ensure that you are using the correct format for this assessment, please note that this form is an AI-generated adaptation and does not use proprietary content from any form creation platform. You are free to use, modify, and even sell forms derived from this template, just give credit. 
-
-Before proceeding, please verify that your form has not been duplicated or altered from the original template. 
-
-</thinking>
-
 # Units And Dimensions Assessment - Help Guide
 ## Purpose
 This form is designed to assess a student's understanding of units and dimensions.

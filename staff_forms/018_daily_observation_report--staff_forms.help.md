@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect daily observations from staff members for reporting and record-keeping purposes. This form ensures that staff members can record their observations in a standardized and consistent manner, facilitating easier monitoring and evaluation of their work. It is crucial to complete this form accurately and thoroughly to ensure that observations are recorded correctly and can be used for further analysis.
-
-Before starting, make sure that this form is not being duplicated or redundant. If a similar form already exists, please refer to it instead. Completing this form is a mandatory task for staff members, so ensure that your observations are up-to-date and accurate.
-
-To start, please read the following sections carefully and follow the instructions accordingly.
-
-</thinking>
-
 # Daily Observation Report - Help Guide
 ## Purpose
 The Daily Observation Report form is a standardized tool used to record staff observations, providing valuable insights for reporting and evaluation purposes.

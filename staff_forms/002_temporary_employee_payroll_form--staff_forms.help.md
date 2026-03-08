@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information for temporary employees' payroll, and the purpose of this guide is to walk through each step of the form completion process, including understanding the meaning of each field.
 
 # Temporary Employee Payroll Form - Help Guide

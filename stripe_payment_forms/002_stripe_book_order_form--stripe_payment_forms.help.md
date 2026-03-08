@@ -1,21 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Stripe Book Order Form, let's first break down the form's purpose and the instructions for completion. The form's purpose is to allow users to place orders for books using the Stripe payment system. To fill out the form, users will need to enter the book's title, the book's author, the book price, the order type (Stripe or PayPal), and the shipping address details (city, state, and zip code).
-
-The form requires the following fields to be filled out:
-- **Book Title** (text): The title of the book being ordered.
-- **Book Author** (text): The author of the book being ordered.
-- **Book Price** (number): The price of the book.
-- **Order Type** (select_one): The payment method for the order, either Stripe or PayPal.
-- **Shipping Address** (text): The address where the book will be shipped to.
-- **Shipping City** (text): The city where the book will be shipped to.
-- **Shipping State** (text): The state where the book will be shipped to.
-- **Shipping Zip** (text): The zip code where the book will be shipped to.
-
-The form is quite straightforward, and users should be able to fill it out quickly and easily with the provided instructions.
-
-</thinking>
-
 # Stripe Book Order Form - Help Guide
 ## Purpose
 This form is used to place orders for books using the Stripe payment system. Fill out the form with the book's details and shipping information to complete the order.

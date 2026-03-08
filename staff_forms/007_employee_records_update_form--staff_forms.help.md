@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to update employee records, allowing users to modify existing information for employees. It is crucial to use this form to ensure that employee data is up-to-date and accurate. Before filling out this form, check if the employee's record already exists or if it has been updated recently. Duplicate entries may cause inconsistencies in the database and lead to errors when generating reports.
-</thinking>
-
 # Employee Records Update Form - Help Guide
 ## Purpose
 The Employee Records Update Form is designed to update existing employee records, keeping their information up-to-date and accurate.

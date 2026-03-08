@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to collect information from customers for a sample order for an online subscription service. This form is not intended for actual sales or payment processing, but rather for testing and demo purposes. It is meant to mimic a real-world sales scenario to demonstrate the functionality of the sales order system.
 
 </thinking>

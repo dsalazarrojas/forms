@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from staff members to improve the work environment and employee satisfaction. The goal is to gather information on their opinions, experiences, and ideas to help the management team make informed decisions. Please note that this form is not meant to be a performance evaluation or a formal complaint channel.
-</thinking>
-
 # staff_satisfaction_survey - Help Guide
 ## Purpose
 The staff satisfaction survey is a tool to gather feedback and suggestions from staff members to improve the work environment and employee satisfaction.

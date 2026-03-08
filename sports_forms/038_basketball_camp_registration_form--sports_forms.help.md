@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students and their parents/guardians for registration into a basketball camp. The form is divided into several sections: Student Information, Parent/Guardian Information, Camp Session, Skill Level and Experience, Medical Information, and Agreement and Confirmation. Each section guides the user through the required fields to provide accurate and relevant information about the student.
-</thinking>
-
 # Basketball Camp Registration Form - Help Guide
 ## Purpose
 The Basketball Camp Registration Form is used to collect information about students registering for a basketball camp. This form is required for every student registering for the camp.

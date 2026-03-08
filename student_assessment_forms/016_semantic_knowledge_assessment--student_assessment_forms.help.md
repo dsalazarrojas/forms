@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the semantic knowledge of students on specific topics or subjects. It is used to determine the depth and breadth of their understanding of a particular subject matter. This form is designed to collect information on whether the students possess certain types of knowledge and at what level of understanding.
-</thinking>
-
 # Semantic Knowledge Assessment - Help Guide
 ## Purpose
 

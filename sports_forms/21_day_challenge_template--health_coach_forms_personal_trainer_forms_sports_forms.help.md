@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the 21 Day Challenge Participant Form, I'll provide a clear and concise overview of the form's purpose, completion instructions, and field-by-field explanations.
-
-</thinking>
-
 # 21 Day Challenge Participant Form - Help Guide
 ## Purpose
 The 21 Day Challenge Participant Form is designed to help us personalize your experience and provide the best support on your journey to success. By completing this form, you'll be able to:

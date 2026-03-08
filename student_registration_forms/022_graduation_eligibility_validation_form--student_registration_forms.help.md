@@ -1,5 +1,3 @@
-<thinking>This form is designed to validate the eligibility of students for graduation. The purpose of this form is to gather information about the student's academic status, programs, and degrees. The form is intended to be completed by students who are nearing or have already completed their degree requirements. The form will help the graduation committee to evaluate the student's eligibility for graduation.</thinking>
-
 # Graduation Eligibility Validation Form - Help Guide
 ## Purpose
 This form is used to validate the eligibility of students for graduation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for correcting errors in employee time clock entries. To ensure accurate time tracking, users must submit this form to adjust the start and end times of their work hours. Before filling out this form, please check that you haven't already submitted a correction for the same error. If you've previously corrected the same error, please do not submit another form. The form is used for correcting work hours that were recorded incorrectly. Please ensure you fill out this form with accurate information to avoid any additional issues. If you're unsure about any field, please contact your supervisor for clarification.
-</thinking>
-
 # Time Clock Correction Form - Help Guide
 ## Purpose
 This form is used to correct errors in employee time clock entries. To ensure accurate time tracking, users must submit this form to adjust the start and end times of their work hours.

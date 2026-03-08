@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from customers who want to subscribe to an organic produce delivery service. The purpose of this form is to gather essential details such as delivery frequency, preferred produce types, and contact information to tailor the subscription to the customer's needs. This form should only be used for customers who already have an existing account or are signing up for the first time. Please ensure you fill out this form with accurate and complete information as it will be used to provide personalized service and avoid any confusion or duplicate subscriptions.
-</thinking>
-
 # Organic Produce Subscription Form - Help Guide
 ## Purpose
 The Organic Produce Subscription Form is designed to gather information from customers who want to subscribe to our organic produce delivery service. This form collects essential details such as delivery frequency, preferred produce types, and contact information to provide a personalized experience for the customer.

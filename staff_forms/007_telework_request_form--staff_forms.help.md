@@ -1,8 +1,3 @@
-<thinking> 
-This help guide is to ensure that end users understand the purpose and process of the Telework Request Form. The form is intended to be used by employees to request to work from a remote location, outside of the office. This guide will walk through the form's purpose, how to complete it, and a field-by-field explanation to help users navigate the form efficiently.
-
-</thinking>
-
 # Telework Request Form - Help Guide
 ## Purpose
 The Telework Request Form is a tool used by employees to request approval to work from a remote location. This form is used to communicate the employee's work arrangement preferences with their manager, ensuring that all necessary information is collected for the approval process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to document and track participant information and exercise data for leg extension exercise guides. It is primarily used for research and documentation purposes. The form collects data on participant information (name, age, email), exercise information (type, frequency, duration, intensity), and feedback questions. Please note that this form is not intended to be used as a medical or professional assessment tool and should not be used to diagnose or treat any physical condition. It is a general guide and survey form.
 
 # Leg Extension Exercise Guide Form - Help Guide

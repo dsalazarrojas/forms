@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an employee's profile. The purpose of this form is to assess employee's details, such as their name, job title, and contact information. This form is not intended to be a comprehensive HR or employee management tool, but rather a simple data collection form for general employee assessment purposes.
-</thinking>
-
 # Employee Assessment Form - Help Guide
 ## Purpose
 The Employee Assessment Form is designed to collect employee's details for general assessment purposes.

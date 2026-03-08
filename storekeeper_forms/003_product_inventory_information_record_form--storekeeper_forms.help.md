@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a product's inventory, including its description, name, and various attributes such as color, size, and price. The purpose of this form is to ensure that the product information is accurate and up-to-date, making it easier to manage and maintain the product inventory. This form is not intended to be used for multiple products simultaneously, so please fill it out for one product at a time. If you're unsure about which fields to fill out, please refer to the field explanations below.
-</thinking>
-
 # Product Inventory Information Record Form - Help Guide
 ## Purpose
 The Product Inventory Information Record Form is used to collect and record information about a product in the inventory. This form is designed to be filled out for one product at a time, and it helps to ensure that all relevant product details are accurate and up-to-date.

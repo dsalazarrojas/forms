@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for individuals who wish to apply for the Strategy Consulting Fellowship program. It is designed to gather information about the applicant's background, skills, and experiences. This form will help the program administrators review and assess applicants' qualifications.
-
-Before filling out this form, please ensure that you have reviewed the eligibility criteria and that you meet the requirements for the fellowship. This form should only be filled out once by each applicant.
-
-</thinking>
-
 # Strategy Consulting Fellowship Application Form - Help Guide
 ## Purpose
 

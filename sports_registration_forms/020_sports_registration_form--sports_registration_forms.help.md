@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who want to participate in sports-related activities or events. It is not affiliated with, endorsed by, or derived from any form platform. This form is an original adaptation created using AI and public survey topic metadata as inspiration. It is released under CC BY 4.0 license, allowing for free use, modification, and even commercial use after giving credit. The form is divided into several sections for easy understanding.
-</thinking>
-
 # sports_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who want to participate in sports-related activities or events.

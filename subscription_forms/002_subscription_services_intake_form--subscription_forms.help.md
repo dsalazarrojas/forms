@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients regarding their subscription services needs. It is intended to be used by clients to provide their details and preferences for subscription services offered by the organization. This form helps in streamlining the process of understanding client requirements and preferences for subscription services. Before proceeding, please ensure that you have not filled out this form previously, as it will help in avoiding redundancy and ensuring that the information is up-to-date.</thinking>
-
 # Subscription Services Intake Form - Help Guide
 ## Purpose
 The Subscription Services Intake Form is a tool used to collect information from clients about their subscription services needs and preferences.

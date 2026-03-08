@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a student, likely for enrollment or registration purposes. It captures the student's first name, last name, email address, and home address, providing the institution or organization with essential details for student identification and communication. This form was designed using public survey metadata and is intended for use in educational or administrative settings. Please ensure that you are not creating or collecting redundant or sensitive information that may breach student confidentiality.
-</thinking>
-
 # Panhellenic Information Form - Help Guide
 ## Purpose
 The Panhellenic Information Form is designed to collect personal and contact information from students for enrollment or registration purposes. It is intended for use in educational or administrative settings.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist customers in completing the Physical Activity Readiness Questionnaire, a form designed to assess an individual's physical activity level and other relevant details. The form is not meant for any other purpose and should only be filled out by the intended users.
-</thinking>
-
 # Physical Activity Readiness Questionnaire - Help Guide
 
 ## Purpose

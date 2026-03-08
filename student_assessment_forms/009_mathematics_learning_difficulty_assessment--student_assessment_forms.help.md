@@ -1,8 +1,3 @@
-<thinking>
-Form Purpose: 
-This form is designed to assess students' mathematics learning difficulties to help teachers identify areas of need and provide targeted support.
-</thinking>
-
 # Mathematics Learning Difficulty Assessment - Help Guide
 ## Purpose
 The Mathematics Learning Difficulty Assessment is a tool to identify and address students' mathematics learning difficulties. By gathering information about students' experiences and progress, this assessment helps teachers and educators better understand individual students' strengths and challenges in mathematics.

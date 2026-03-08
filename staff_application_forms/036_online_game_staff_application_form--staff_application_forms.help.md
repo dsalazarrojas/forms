@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for players applying to be staff in an online game. The purpose of this form is to gather information about the player's background, skills, and availability for the position they are applying for. The form asks for details such as the player's experience, gameplay style, and knowledge about the game, as well as their preferred communication methods and availability. The form also includes a section for the player to provide their contact details and references. The player can choose to apply for different positions, such as Staff Manager, Officer, Helper, or other. The form does not have any mandatory fields, and players can fill out as much or as little information as they feel comfortable with.
-
-The form is designed to be easy to use and understand, with clear labels and options for each field. The player can also add any additional information in the "other" fields if needed.
-
-Before filling out this form, it's a good idea to review the form carefully and make sure you are applying for the right position. If you have any questions or concerns, feel free to reach out to us at <form@gic.mx>.
-</thinking>
-
 # Online Game Staff Application Form - Help Guide
 ## Purpose
 This form is for players applying to be staff in an online game. We are looking for players who have the right background, skills, and experience to excel in the game.

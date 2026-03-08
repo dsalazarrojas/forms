@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for users who want to RSVP for Sunday Night Football. The form is designed to help the team management track player availability and positions for the game. This is the main form for the team to RSVP for the Sunday Night Football game. The team management will review the completed form to ensure accurate player information.
-</thinking>
-
 # sunday_night_football_rsvp_form - Help Guide
 ## Purpose
 The Sunday Night Football RSVP form is used by players to inform the team management of their availability and position for the game.

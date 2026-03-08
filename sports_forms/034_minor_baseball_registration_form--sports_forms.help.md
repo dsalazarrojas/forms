@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for the registration of minor baseball players. It is intended for players who are under 18 years old. The form will be used to collect information about the player, their emergency contact, and their team and league details.
-
-To ensure that the form is filled out correctly and accurately, it is essential that the form is reviewed and filled out carefully. Before proceeding, please ensure that all required fields are filled out, and all the provided information is accurate.
-
-Please do not fill out this form if you are an adult or if you do not have permission to register a minor player.
-</thinking>
-
 # Minor Baseball Registration Form - Help Guide
 ## Purpose
 The Minor Baseball Registration Form is used to register minor baseball players for a specific team, league, and season. It collects essential information about the player, their emergency contact, and team details.

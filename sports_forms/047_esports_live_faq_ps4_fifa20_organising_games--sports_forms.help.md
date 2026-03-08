@@ -1,11 +1,3 @@
-<thinking>
-This form, "esports_live_faq_ps4_fifa20_organising_games", is designed for users to ask and answer frequently asked questions (FAQ) related to organizing games on the PS4 and FIFA 20. This form is likely used by gaming communities, teams, or individuals who need to coordinate and communicate with each other about game schedules, rosters, and other related information.
-
-The form's purpose is to provide a structured way for users to submit and respond to questions, making it easier to manage and resolve queries related to game organization. This form is not affiliated with any specific form platform, and its design is based on public survey topic metadata.
-
-Before proceeding, please ensure that you are using this form in the context of organizing games on the PS4 and FIFA 20, and that you have not already submitted similar questions or answers using this form. If you need to ask or answer questions related to other topics, please use a different form.
-</thinking>
-
 # esports_live_faq_ps4_fifa20_organising_games - Help Guide
 ## Purpose
 This form is designed to help users ask and answer frequently asked questions (FAQ) related to organizing games on the PS4 and FIFA 20.

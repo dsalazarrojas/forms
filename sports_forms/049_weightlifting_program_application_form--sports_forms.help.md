@@ -1,7 +1,3 @@
-<thinking>
-Weightlifting Program Application Form is used to register users in the weightlifting program. The form should be filled out by users who want to participate in the program. This guide will help you understand each field in the form and how to complete it correctly. Before starting, please note that you are applying for a fitness program, not a medical consultation. If you have any medical concerns, please consult your doctor before enrolling in the program. Please ensure that all the information provided is accurate and up-to-date.
-</thinking>
-
 # Weightlifting Program Application Form - Help Guide
 ## Purpose
 This form is used to apply for the weightlifting program. Fill out the form to register your interest and provide necessary information for your participation.

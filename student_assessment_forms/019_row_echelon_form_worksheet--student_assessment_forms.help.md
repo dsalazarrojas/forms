@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to gather information from students on their understanding of row echelon forms, which is a fundamental concept in linear algebra. The form is designed to assess students' ability to determine whether a given matrix is in row echelon form and to provide feedback from both the student and the teacher. It is likely to be used in a classroom setting, and the teacher's input is required for the assessment. There is no indication that this form is intended for other purposes or that it is a duplicate of another form.
-
-</thinking>
-
 # Row Echelon Form Worksheet - Help Guide
 ## Purpose
 This form is designed to collect information on students' understanding of row echelon forms, a fundamental concept in linear algebra. The form is divided into two sections: one for the student to complete and another for the teacher to provide feedback.

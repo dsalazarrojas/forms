@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daycare Incident Report Form - Help Guide
 ## Purpose
 The Daycare Incident Report Form is designed to document any incidents that occur at the daycare center. It helps staff members report accidents, injuries, or near misses that require immediate attention or follow-up action. This form ensures a thorough and accurate recording of the incident, which can aid in providing quality care to the children and staff members, as well as support the center's risk management and prevention efforts.

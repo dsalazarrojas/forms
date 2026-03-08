@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather user input for the Coronavirus Self Assessment Form, likely used for health coaching or evaluation purposes. This form is designed to help users provide information about their experiences and actions regarding the COVID-19 pandemic. It seems to be a straightforward form with a mix of text and select_one fields, asking users about their symptoms, actions taken, and expectations. I will create a concise help guide for the end-user to understand the form's purpose and how to complete it.
-</thinking>
-
 # coronavirus self assessment form heath ryan coaching orange - Help Guide
 ## Purpose
 This form is designed to gather information from users about their experiences and actions regarding the COVID-19 pandemic. It's essential to provide honest and accurate information to help with health coaching or evaluation.

@@ -1,5 +1,3 @@
-<thinking>One Eighty Basketball Registration Form is designed to collect information from users who want to register for a basketball tournament or event. This form is intended for users who want to participate in a friendly, organized competition. The form is meant to gather contact information and team details. It's likely that this form is used by a sports organization or association to collect data for tournament planning and management. The form doesn't seem to have any complex validation or submission logic, suggesting it's a simple data collection tool. There's no indication that this form is affiliated with any specific platform or company, and it appears to be a generic form created using public metadata, so there's no proprietary content to worry about. The form's license is permissive, allowing users to modify and even sell it, as long as proper credit is given. This form is suitable for general public use, including commercial purposes. With no complex requirements or validation, users can focus on filling out the form with their relevant information.</thinking>
-
 # One Eighty Basketball Registration Form - Help Guide
 
 ## Purpose

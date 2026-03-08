@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Update Your Profile Form - Help Guide
 ## Purpose
 This form is intended to update your personal profile information, allowing you to review and modify your details as needed. Please fill out this form to ensure your profile accurately reflects your current information.

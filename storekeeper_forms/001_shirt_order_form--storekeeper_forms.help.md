@@ -1,7 +1,3 @@
-<thinking>
-The storekeeper form is used to track and record customer orders, including customer information, order details, and payment information. This form ensures that all orders are documented accurately and consistently, reducing errors and improving customer satisfaction. By using this form, storekeepers can quickly and easily access and update customer order data, making it an essential tool for managing customer orders. Before proceeding with the form, make sure you have all necessary information and approvals in place to avoid duplicate submissions or errors.
-</thinking>
-
 # Shirt Order Form - Help Guide
 ## Purpose
 The Shirt Order Form is used to document and track customer orders for shirts, ensuring accuracy and consistency in recording order details.

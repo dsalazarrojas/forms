@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for authorizing staff to access certain tools and systems. To use this form, you should only submit it to request access to resources for yourself or other staff. Do not use it to request access to sensitive areas or systems. Please make sure to review the fields below to ensure you are requesting access for the correct purpose.
-
-</thinking>
-
 # Salary Authorization Form - Help Guide
 
 ## Purpose

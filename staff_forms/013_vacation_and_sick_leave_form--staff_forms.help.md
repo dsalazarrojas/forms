@@ -1,5 +1,3 @@
-<thinking>This form is used for recording employee's vacation and sick leave. The purpose of this form is to provide a centralized platform for employees to submit their leave requests, track their leave balance, and manage their leave status. This form is typically filled out by employees when they need to take a vacation or sick leave, and it is reviewed and approved by their manager. The form captures essential information such as employee details, leave dates, reason for leave, leave status, and approval notes.</thinking>
-
 # Vacation And Sick Leave Form - Help Guide
 ## Purpose
 The Vacation and Sick Leave Form is used to record employee's vacation and sick leave. This form is used to submit leave requests, track leave balance, and manage leave status.

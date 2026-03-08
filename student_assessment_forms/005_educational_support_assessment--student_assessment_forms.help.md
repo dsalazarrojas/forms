@@ -1,5 +1,3 @@
-<thinking>...This form is used to assess the educational support needs of students. It is designed to help gather information about students' support needs, which will be used to provide targeted support services to them. This form should not be used for any other purpose. Please ensure that the answers provided are accurate and relevant to the student's situation. The form fields should be filled out completely and honestly.</thinking>
-
 # Educational Support Assessment - Help Guide
 
 ## Purpose

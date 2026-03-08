@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about outlets, which is essential for auditing and maintenance purposes. The form is designed to be completed by authorized personnel to ensure that outlets are properly labeled and maintained. It's crucial to complete this form accurately and thoroughly to avoid any potential risks or hazards associated with malfunctioning outlets.
-</thinking>
-
 # Outlet Auditing Form - Help Guide
 ## Purpose
 The Outlet Auditing Form is used to gather information about outlets, including their name, address, type, and status. This form helps ensure that outlets are properly labeled and maintained, which is essential for safe and efficient operations.

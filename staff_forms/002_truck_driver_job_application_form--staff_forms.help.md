@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential truck drivers interested in joining the company. The purpose of this form is to gather essential details about the applicant, including their contact information, background, and availability for hauling. To avoid duplication and ensure accuracy, please fill out this form with up-to-date and relevant information. Please note that all fields are optional, but the more details you provide, the better we can assess your application.
-</thinking>
-
 # Truck Driver Job Application Form - Help Guide
 
 ## Purpose

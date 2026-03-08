@@ -1,7 +1,3 @@
-<thinking>
-The School Counseling Intake Form is designed to be a comprehensive document that captures information about a student's background, concerns, needs, goals, and other relevant details to provide personalized support. This form is not intended to be a substitute for professional evaluation or diagnosis, but rather a tool to help school counselors gather essential information to create a supportive and inclusive environment for students. Please ensure that you complete this form with accurate and detailed information to help the school counseling team provide the best possible support for you. If you have any concerns or questions, please don't hesitate to reach out to the school's counseling department for assistance.
-</thinking>
-
 # School Counseling Intake Form - Help Guide
 ## Purpose
 The School Counseling Intake Form is a document designed to gather information about a student's background, concerns, needs, and goals to provide personalized support in a school setting.

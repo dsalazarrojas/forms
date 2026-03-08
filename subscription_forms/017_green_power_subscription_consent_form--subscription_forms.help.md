@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to provide their consent to receive services from Green Power, which includes selecting a plan and providing their contact information. This form is likely used for customer onboarding and is intended to be used by the customer service team to ensure that customers have agreed to the terms and conditions of Green Power's services. Before filling this form, customers should ensure that they have a genuine need for the services offered by Green Power and are not using this form for any other purpose. Please note that this form is a one-time consent form and customers are required to fill it out only once for the first time they sign up for Green Power services.
-</thinking>
-
 # Green Power Subscription Consent Form - Help Guide
 ## Purpose
 The Green Power Subscription Consent Form is designed to be completed by customers who wish to sign up for Green Power services. This form is used to collect the necessary information to provide personalized services to customers and to ensure that they have agreed to the terms and conditions of Green Power's services.

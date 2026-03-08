@@ -1,9 +1,3 @@
-<thinking>
-
-The Uniform Allocation Record Form is used to track the allocation of uniforms to staff members. This form is used by storekeepers to accurately record the number of uniforms issued to staff members and ensure that the inventory is up to date. It helps to prevent over-issuing of uniforms and promotes efficient inventory management. To the best of our knowledge, there are no other forms with the same purpose and content. If you believe this form is to be used for another purpose, please let us know.
-
-</thinking>
-
 # Uniform Allocation Record Form - Help Guide
 ## Purpose
 The Uniform Allocation Record Form is used to track the allocation of uniforms to staff members, ensuring accurate inventory management and preventing over-issuing of uniforms.

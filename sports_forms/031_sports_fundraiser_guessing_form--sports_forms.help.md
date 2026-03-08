@@ -1,7 +1,3 @@
-<thinking>
-This form is used for sports fundraisers, allowing users to submit entries with donor information, including name, amount, points, and comments. It also includes fields for team manager information, such as email and phone number. The form does not have a clear purpose, and the fields are not clearly named. This form seems to be a duplicate of a donor information form, and the "Entry Donor" fields may be redundant. Further clarification on the form's purpose and requirements is needed to avoid duplication of effort.
-</thinking>
-
 # Sports Fundraiser Guessing Form - Help Guide
 ## Purpose
 The sports fundraiser guessing form is used to submit entries with donor information and team manager details.

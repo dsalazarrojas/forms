@@ -1,8 +1,3 @@
-<thinking>
-The form "Graduate Program Knowledge Quiz" is designed to assess a student's knowledge on a specific topic or subject area related to graduate programs. This form allows users to answer multiple-choice questions, provide feedback, and submit their responses. The form's primary goal is to gauge the student's understanding of the subject matter and provide a platform for students to submit their feedback on the form's effectiveness.
-To use the form effectively, the user needs to have a clear understanding of the subject matter being assessed.
-</thinking>
-
 # Graduate Program Knowledge Quiz - Help Guide
 ## Purpose
 The Graduate Program Knowledge Quiz is a form designed to evaluate a student's knowledge and understanding of graduate programs.

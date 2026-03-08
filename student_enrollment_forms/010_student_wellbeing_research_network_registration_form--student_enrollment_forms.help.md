@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register students for the Student Wellbeing Research Network, collecting essential information about the student's contact details, student enrolment details, and student wellbeing details. This form will likely be filled out by students, educators, or administrators to facilitate their participation in the wellbeing research network. It's crucial to ensure that each field is filled out accurately to avoid errors and ensure a smooth registration process.
-</thinking>
-
 # Student Wellbeing Research Network Registration Form - Help Guide
 ## Purpose
 The Student Wellbeing Research Network Registration Form is a crucial document that gathers essential information about students, including their contact details, student enrolment details, and student wellbeing details. This form is essential for the registration process, and accurate completion is vital for smooth participation in the wellbeing research network.

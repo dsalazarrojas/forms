@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect information from students about their physical attendance at a school event or activity. It's essential that students confirm their physical attendance to ensure accurate attendance records. This form should be completed by a student only once for each event or activity they participate in. Please note that some fields are not required, but it's crucial that the student's name and attendance date are provided.</thinking>
-
 # resources/reopening-attendance-confirmation-form - Help Guide
 ## Purpose
 The Reopening Attendance Confirmation Form is used to confirm a student's physical attendance at a school event or activity.

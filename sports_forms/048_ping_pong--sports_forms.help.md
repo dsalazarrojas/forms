@@ -1,12 +1,3 @@
-<thinking>
-To create a help guide for the "Ping Pong" form, I need to analyze the given YAML structure and understand the purpose of the form.
-
-The form seems to be related to tracking sports scores and matches, with fields for player scores, player names, match details, and other meta information like assignee, creation and update timestamps, and deletion history.
-
-Given the variety of fields, the form is likely used for both casual and professional ping-pong (table tennis) scoring and tournament management.
-
-</thinking>
-
 # Ping Pong - Help Guide
 ## Purpose
 The "Ping Pong" form is used to track sports scores and matches. This form is suitable for both casual and professional ping-pong games, allowing users to record player names, scores, and match details.

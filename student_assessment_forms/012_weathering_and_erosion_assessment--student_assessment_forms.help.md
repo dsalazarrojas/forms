@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a concise and practical user-facing help guide for the Weathering And Erosion Assessment form. I will follow the provided structure and guidelines to ensure clarity and accuracy in the documentation.</thinking>
-
 # Weathering And Erosion Assessment - Help Guide
 
 ## Purpose

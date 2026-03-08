@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Primary School Swimming Carnival Nomination Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "junior_academy_championship_application" is designed to collect relevant information from participants for the Junior Academy Championship event. To ensure that users have a clear understanding of what information is being collected and for what purpose, the following guidelines are provided.
 
 # junior_academy_championship_application - Help Guide

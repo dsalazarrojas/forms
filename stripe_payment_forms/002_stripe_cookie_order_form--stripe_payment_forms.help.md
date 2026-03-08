@@ -1,15 +1,3 @@
-<thinking>
-  The Stripe payment forms are a set of forms that allow users to input information 
-  related to payments or orders. This form is specifically designed to handle cookie 
-  orders, which requires users to provide their name, email, and cookie type 
-  information. To ensure consistency and accuracy, we'll be checking if this 
-  form has already been filled out, and if so, we will skip it. This form is 
-  intended to gather information that will be used for internal purposes only 
-  and will not be shared with any third parties. All fields are optional but 
-  filling them out will provide a better experience for our customers.
-
-</thinking>
-
 # stripe_cookie_order_form - Help Guide
 ## Purpose
 This form is used to handle cookie orders and gather necessary information 

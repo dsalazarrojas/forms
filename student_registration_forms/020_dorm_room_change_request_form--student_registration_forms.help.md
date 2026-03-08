@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow students to request a change in their dorm room assignment. This form will be used to gather information from students who wish to move to a different room or have special housing requests. It is essential to ensure that each field is filled out accurately to ensure that the request is processed correctly. Please note that if a student has already submitted a request for the same room type and size, they do not need to fill out this form again. Duplicate requests will not be processed.
-</thinking>
-
 # Dorm Room Change Request Form - Help Guide
 ## Purpose
 The Dorm Room Change Request Form is a tool used by students to request a change in their dorm room assignment. This form is designed to gather relevant information from students who wish to move to a different room or have special housing requests.

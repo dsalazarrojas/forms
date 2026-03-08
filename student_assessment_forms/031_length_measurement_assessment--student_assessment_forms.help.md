@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to assess the length measurement of an object or measurement unit of a specific entity. This form is relevant when you need to evaluate the length of something and want to provide feedback or information about the measured length. To avoid duplication of effort, please ensure that this form is used for its intended purpose and not for any other unrelated assessment.
-</thinking>
-
 # Length Measurement Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about the length measurement of an object or measurement unit of a specific entity. It helps to evaluate and provide feedback or information about the measured length.

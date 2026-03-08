@@ -1,18 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I will analyze the form's purpose, required information, and field explanations. The form, titled "Enrolment Information Form", likely collects demographic and personal data from students or individuals enrolling in an educational institution. The purpose of the form is to gather essential information for enrollment purposes.
-
-This form consists of four fields:
-
-*   **First Name**: This field is likely used to collect the student's or enroller's first name. It is a text field where the user can enter their first name.
-*   **Last Name**: This field is probably used to collect the student's or enroller's last name. It is a text field where the user can enter their last name.
-*   **Date of Birth**: This field is likely used to collect the student's or enroller's date of birth. It is a date field where the user can select a date in the format MM/DD/YYYY.
-*   **Email**: This field is probably used to collect the student's or enroller's email address. It is an email field where the user can enter their email address.
-
-The form is not strictly required fields, but providing accurate and complete information will help ensure a smooth enrollment process.
-
-</thinking>
-
 # Enrolment Information Form - Help Guide
 ## Purpose
 The Enrolment Information Form is designed to collect essential demographic and personal data from students or individuals enrolling in an educational institution. This form is intended to be filled out by students or enrollers to provide accurate information for enrollment purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mandatory Overtime Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information for mandatory overtime complaints. It will help us understand when employees are being asked to work beyond their regular working hours and provide a way for managers to track and manage these requests. Please ensure you only submit one complaint per form. If you have multiple complaints, you can submit multiple forms. This guide will walk you through how to complete the form accurately and effectively.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a basic email form that can be used for various purposes, such as contact, feedback, or even support requests. It has four fields: Email Address, Name, Message, and Confirm Email. The form is not affiliated with or endorsed by any form platform, and it's an original adaptation created by AI using public survey topic metadata as inspiration. This form is released under CC BY 4.0, allowing users to modify, use, and even sell forms derived from it, as long as they give credit.
-</thinking>
-
 # Simple Email Form - Help Guide
 ## Purpose
 The Simple Email Form is a basic form designed for users to send emails to the form owner.

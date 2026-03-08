@@ -1,7 +1,3 @@
-<thinking>
-The Form I-9 Employment Eligibility Verification form is used to verify the employment eligibility of employees. It is a critical form for employers to complete to ensure compliance with the Fair Credit Reporting Act of 1986, which requires all employees to provide valid proof of their eligibility to work in the United States. This form is typically completed by HR or payroll departments in organizations to collect and store employee information for compliance purposes. The form is usually completed for employees who are hired or rehired, and it's also used for re-verifying employees' status after a certain period. Employers should ensure that the form is completed accurately and stored securely to avoid any issues or penalties.
-</thinking>
-
 # Form I 9 Employment Eligibility Verification - Help Guide
 ## Purpose
 The Form I 9 Employment Eligibility Verification is used to verify the employment eligibility of employees and ensure compliance with the Fair Credit Reporting Act of 1986.

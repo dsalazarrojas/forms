@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Back To School Event Registration Form - Help Guide
 
 ## Purpose

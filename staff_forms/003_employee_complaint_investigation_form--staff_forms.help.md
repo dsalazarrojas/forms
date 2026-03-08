@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Complaint Investigation Form - Help Guide
 
 ## Purpose

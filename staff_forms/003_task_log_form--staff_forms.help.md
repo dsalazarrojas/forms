@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Task Log Form - Help Guide
 
 ## Purpose

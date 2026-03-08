@@ -1,6 +1,3 @@
-<thinking>
-The purpose of the "Learning Progress Assessment" form is to track and document the progress of students in various aspects, including learning progress, attendance, and performance. This form helps teachers and parents to monitor the student's advancement, identify areas that need improvement, and make informed decisions about their education. By filling out this form, you can ensure that the information is accurate and up-to-date, which is essential for providing quality education and support to students. Please fill out the form carefully and thoroughly, making sure that all the fields are completed accurately.
-</thinking>
 # Learning Progress Assessment - Help Guide
 ## Purpose
 The "Learning Progress Assessment" form is a tool used to track and document the progress of students in various aspects, including learning progress, attendance, and performance. It helps teachers and parents to monitor the student's advancement, identify areas that need improvement, and make informed decisions about their education.

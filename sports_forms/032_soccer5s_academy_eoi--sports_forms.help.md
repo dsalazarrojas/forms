@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a registration form for the Soccer5s Academy Early Bird Open Invitation (EOI) form. The purpose of this form is to gather essential information from interested individuals who want to participate in the Soccer5s Academy programs. The form is designed to collect basic contact information and demographic details from applicants. It's intended for internal use within the Soccer5s Academy and will not be publicly accessible. 
-
-To confirm, this form is part of the registration process for potential students, and it will not be shared or sold to any third parties. All information collected through this form will be used only for the purpose of facilitating the registration and administrative processes.
-
-Before completing this form, please ensure that you haven't already registered with the Soccer5s Academy using an identical or very similar information.
-
-</thinking>
-
 # Soccer5s Academy EOI - Help Guide
 ## Purpose
 The Soccer5s Academy EOI form is a registration form designed to gather basic contact information and demographic details from interested individuals who want to participate in the Soccer5s Academy programs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Player Code Of Conduct Acknowledgement Form - Help Guide
 ## Purpose
 This form is designed to ensure that players, coaches, and staff acknowledge and understand the rules and regulations set forth in the Code of Conduct. By completing this form, you are confirming that you have read and understand the Code of Conduct and are aware of your responsibilities to uphold it.

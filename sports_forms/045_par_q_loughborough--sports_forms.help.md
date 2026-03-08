@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # par-q-loughborough - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Netball Registration Form - Help Guide
 
 ## Purpose

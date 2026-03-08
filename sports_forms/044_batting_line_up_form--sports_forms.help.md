@@ -1,7 +1,3 @@
-<thinking>...The purpose of this form is to collect information about a baseball team's lineup and game details. This form is intended for teams, coaches, or sports organizations to record and manage lineups for games, including the batting order, game metadata, and coaching staff. The form will help users keep track of the lineup, opponents, game dates, and other relevant details.
-
-</thinking>
-
 # Batting Line Up Form - Help Guide
 ## Purpose
 This form is designed to collect information about a baseball team's lineup and game details. It is used for teams, coaches, or sports organizations to record and manage lineups for games, including the batting order, game metadata, and coaching staff.

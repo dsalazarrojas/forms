@@ -37,13 +37,4 @@ To complete this form accurately, please follow these steps:
 * **Relationship With Medical Provider** (`medical_provider_relationship`, Select Multiple, Optional): Specify the relationship with the medical provider (Physician, Trainer, Other).
 * **Follow Up Plan** (`follow_up_plan`, Text, Optional): Outline any planned follow-up appointments or meetings with the player or medical provider.
 
-**<thinking>**
-This form is designed to be completed by coaches, trainers, or sports administrators to gather information about player health and well-being during the mid-season period. The purpose is to ensure that players receive the necessary care and attention to perform at their best. By filling out this form accurately and thoroughly, you will be helping to support your player's health and the team's performance.
-The information collected will be used to monitor player health, track progress, and make informed decisions about player involvement in games and practices. Please note that some fields are marked as required, indicating that they must be completed in order to submit the form.
-
-It's also important to note that this form does not replace medical professional evaluations or advice. If a player has a significant injury or medical condition, they should be referred to a medical professional for proper evaluation and treatment.
-
-Before completing this form, please ensure that you have the player's consent to access and submit their personal information.
-
-Please review each field carefully and fill out the form as accurately and thoroughly as possible.
-**</thinking>**
+****

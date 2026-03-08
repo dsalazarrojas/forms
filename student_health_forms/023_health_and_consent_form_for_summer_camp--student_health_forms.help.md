@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect health and consent information for summer camp participants. The purpose of this form is to gather essential medical details, such as allergies, medical conditions, and medication information, to ensure the safety and well-being of all campers. This form also includes sections for emergency contact information and medical treatment instructions. 
-
-Please ensure you complete this form accurately and truthfully to provide us with the necessary information for a safe and enjoyable summer camp experience.
-
-</thinking>
-
 # Health And Consent Form For Summer Camp - Help Guide
 
 ## Purpose

@@ -1,18 +1,3 @@
-<thinking>
-To ensure that we are creating a relevant and non-duplicating help guide, let's review the form purpose and context.
-
-The "Student Allergy Registration Form" is a crucial document that allows students to report their allergies, medical conditions, and other relevant information to the institution or school administration. This form helps the school staff to provide necessary support and accommodations for students with allergies, which is vital for ensuring their health and safety. It's essential to have a clear and detailed guide to help students complete this form accurately and effectively.
-
-Before creating the help guide, we need to consider the following:
-
-* The form has multiple pages with different sections for various types of allergies, medications, and other relevant information.
-* Some fields are optional, but others are required for accurate and complete registration.
-* The form includes select_one, select_multiple, text, and date/time fields, which may require specific guidance for completion.
-
-Now, let's create the help guide based on the provided YAML fields.
-
-</thinking>
-
 # Student Allergy Registration Form - Help Guide
 ## Purpose
 The Student Allergy Registration Form is a vital document that helps the school administration provide necessary support and accommodations for students with allergies. This form collects information about a student's allergies, medical conditions, and other relevant details.

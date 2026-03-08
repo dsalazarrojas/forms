@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a clear and concise user-facing help guide for the "Athletic Coaching Training Form" that explains the form's purpose, how to complete it, and each field's meaning.</thinking>
-
 # Athletic Coaching Training Form - Help Guide
 ## Purpose
 This form is designed to gather information from athletes about their training goals, experience, and availability to provide effective coaching and guidance. It will help coaches understand your strengths, weaknesses, and needs to create a tailored training plan.

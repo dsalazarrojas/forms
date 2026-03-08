@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive Employment Eligibility Verification Form intended for use in HR-related contexts. It likely serves as a tool for employers or HR representatives to verify employee information, track employment history, and document reasons for termination. The form includes fields for employee details, employment dates, reasons for termination, and financial data.
-</thinking>
-
 # Employment Eligibility Verification Form - Help Guide
 ## Purpose
 This form is used to gather information about an employee's employment status and history. It helps employers or HR representatives to verify employee information, track employment dates, and document reasons for termination.

@@ -1,10 +1,3 @@
-<thinking> 
-To create a help guide for the Classroom Knowledge Assessment form, I'll analyze the provided YAML and extract the relevant information to explain the form purpose, how to complete it, and each field's meaning.
-
-The purpose of this form is to collect information about a student's assessment of their knowledge and understanding in a particular subject area. It's designed to gather details such as the student's name, grade level, subject area, and overall understanding rating, among other fields.
-
-</thinking>
-
 # Classroom Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to assess a student's knowledge and understanding in a specific subject area. It helps teachers or instructors monitor student progress and identify areas where students may need additional support.

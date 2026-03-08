@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for apparel products ordered by stores, allowing store staff to quickly and efficiently provide product information for warehouse staff to process orders.
-</thinking>
-
 # Apparel Product Order Form - Help Guide
 ## Purpose
 This form is used to provide information for apparel products ordered by stores, helping to streamline the order process and ensure accurate fulfillment.

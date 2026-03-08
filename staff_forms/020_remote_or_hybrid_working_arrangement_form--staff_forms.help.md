@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Or Hybrid Working Arrangement Form - Help Guide
 ## Purpose
 This form is used to gather information about the current or proposed remote or hybrid working arrangement of a staff member. This includes details about the job, work arrangement, work location, and other relevant job information. The information collected will be used to assess and adjust working arrangements as needed.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect employee confidentiality agreement information for a company. It's likely used by HR or management to ensure employees understand and agree to the company's confidentiality policies. The form is likely part of the onboarding process or an annual review of employee agreements.
-</thinking>
-
 # Employee Confidentiality Form - Help Guide
 ## Purpose
 The Employee Confidentiality Form is used to collect employee confidentiality agreements, ensuring employees understand and agree to the company's confidentiality policies.

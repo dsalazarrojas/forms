@@ -1,12 +1,3 @@
-<thinking>
-This form is meant to collect information from students for work study programs. The purpose of this form is to gather essential details about the student's enrollment in a work study program, including their application date, student ID, name, contact email, phone number, address, program name, start and end dates, and program status. This information will be used to process and manage student enrollments efficiently. It's essential to ensure that the form is filled out accurately and completely to avoid any potential discrepancies or delays in the process.
-
-It's also worth noting that the form has several fields that are not required, but providing accurate and complete information will improve the efficiency and accuracy of the process. If you're unsure about any field, please refer to this guide for clarification.
-
-Before filling out this form, please ensure that you've reviewed the relevant information and that it's accurate. If you have any questions or concerns, please don't hesitate to reach out to the relevant authorities for assistance.
-
-</thinking>
-
 # Work Study Application Form - Help Guide
 ## Purpose
 This form is used to collect information from students for work study programs, including application date, student ID, name, contact email, phone number, address, program name, start and end dates, and program status.

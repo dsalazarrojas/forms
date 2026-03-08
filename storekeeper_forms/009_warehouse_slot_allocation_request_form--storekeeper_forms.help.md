@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to allow storekeepers to request warehouse slot allocations for specific items. The form is used to provide information about the item, including its description, quantity, and special requirements, to facilitate efficient allocation of storage space. This form can be completed by storekeepers to request slot allocations for their specific needs, and the information will be reviewed and processed by relevant personnel to determine if the request can be fulfilled.
-
-Before completing this form, make sure you have not recently submitted a similar request and have not received a response to your previous request. Completing this form will help ensure that your request is processed efficiently and effectively.
-
-Please provide the following information in the form:
-
-</thinking>
-
 # Warehouse Slot Allocation Request Form - Help Guide
 ## Purpose
 The Warehouse Slot Allocation Request Form is used to request warehouse slot allocations for specific items. Please provide the necessary information to facilitate the allocation process.

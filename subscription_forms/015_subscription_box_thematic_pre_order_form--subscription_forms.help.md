@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for customers to provide their subscription box theme pre-order information, which includes their customer details, shipping details, order details, payment details, and any additional notes they'd like to include. This form is designed to be used by customers to place a pre-order for a subscription box service. 
-
-The fields in this form are meant to collect relevant information from the customer, including their name, address, order specifics, and payment method. The form will guide the customer through the process of providing the necessary details to complete the pre-order. 
-
-This form is part of a larger system that will use the collected information to fulfill the customer's order and facilitate communication with the customer throughout the process. The form's fields and options are designed to be clear and concise, making it easy for customers to understand what is required of them.
-
-</thinking>
-
 # subscription_box_thematic_pre_order_form - Help Guide
 ## Purpose
 This form is for customers to provide their subscription box theme pre-order information. It collects their customer details, shipping details, order details, payment details, and any additional notes they'd like to include.

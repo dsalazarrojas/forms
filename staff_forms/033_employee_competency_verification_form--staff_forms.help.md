@@ -1,5 +1,3 @@
-<thinking>As an expert form designer, I'll review the provided YAML structure for the Employee Competency Verification Form and ensure that the form and its fields are clearly understood by end-users. After analyzing the form, I'll create a user-facing help guide that explains the form's purpose, how to complete it, and provides explanations for each field.</thinking>
-
 # Employee Competency Verification Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a user's job title, job type, work experience, education, and other related details for competency verification. This form helps to gather relevant data for evaluating an employee's job competency.

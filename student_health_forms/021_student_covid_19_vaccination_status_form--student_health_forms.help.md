@@ -1,8 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "Student COVID 19 Vaccination Status Form" that includes a brief internal explanation for the form purpose and non-duplication.
-The purpose of this form is to track and document the COVID-19 vaccination status of students. The form is intended to be completed by students to report their current vaccination status, which can be Active or Inactive. The form also includes fields for students to provide additional details, such as the date of vaccination, vaccination location, and any relevant notes or comments from teachers.
-</thinking>
-
 # Student COVID 19 Vaccination Status Form - Help Guide
 ## Purpose
 The "Student COVID 19 Vaccination Status Form" is used to track and document the COVID-19 vaccination status of students. Please complete this form to report your current vaccination status and any additional details as required.

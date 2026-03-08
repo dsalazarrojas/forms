@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Direct Deposit Update Form - Help Guide
 
 ## Purpose

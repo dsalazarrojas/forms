@@ -1,7 +1,3 @@
-<thinking>... internal reasoning: This form is designed to evaluate employee performance over multiple pages, gathering details about the employee's current state, contact information, evaluation comments, and goals and objectives. It also asks for overall performance, employee status, job position, evaluation status, performance rating, goals status, job title, supervisor name, department, team members, reporting line, work location, evaluation method, evaluation comments, and evaluation status comments. The form requires completion of multiple fields, with some being select_one, text, or date types. Some of the fields are required, indicated by the 'required' field in the YAML definition. This form will help gather comprehensive feedback and performance metrics about employees.
-
-</thinking>
-
 # Multi Page Employee Evaluation Form - Help Guide
 ## Purpose
 The Multi Page Employee Evaluation Form is designed to help managers and supervisors assess employee performance, track progress towards goals, and provide feedback. This form is divided into multiple pages, each covering different aspects of employee evaluation.

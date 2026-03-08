@@ -1,7 +1,3 @@
-<thinking>
-The "staff_availability_survey" form is designed to collect information about the staff's work schedule and availability for a given period of time. This form will help managers and administrators understand when staff members are available to work, which is crucial for scheduling tasks and projects. The form should be completed by staff members, and the information gathered will be used to ensure that work is distributed fairly and efficiently.
-</thinking>
-
 # staff_availability_survey - Help Guide
 ## Purpose
 The "staff_availability_survey" form is designed to collect information about staff members' availability for a given period. This information will be used by managers and administrators to schedule tasks and projects efficiently.

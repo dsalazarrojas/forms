@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to manage the store rotas, which are schedules for storekeepers. A store rota is a list of dates and times when a storekeeper is assigned to work at the store. This form is meant to be filled out by storekeepers to inform their store managers of their availability and work schedule. It is also used to track the storekeepers' roles and responsibilities during their shifts. The form is not meant to be filled out for every single storekeeper, but rather as a way to manage and review the storekeepers' schedules as a group. The storekeeper's role and availability information will be used to create their schedule for the week.
-</thinking>
-
 # Store Rota Management Form - Help Guide
 ## Purpose
 The Store Rota Management Form is used to manage the storekeepers' schedules and inform store managers of their availability and work schedule.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect shopping list information for storekeepers or store management teams. It's intended to be filled out when a store wants to record their shopping activities, possibly for inventory management, supply chain analysis, or other business intelligence purposes. The form is likely used in retail, wholesale, or other store-related businesses to keep track of their shopping habits and interactions with suppliers or vendors. 
-
-The form has two main sections: "General Info" and "Item List". The "General Info" section contains fields for store name, address, phone, email, hours of operation, and notes. The "Item List" section is for listing individual items purchased, including name, quantity, price, purchase date, and whether the item will be repeated. The form's purpose is to provide a comprehensive and structured way to gather information about the stores' shopping activities.
-
-This guide will help fill out the form in a way that maximizes its effectiveness and utility for store management and analysis.
-</thinking>
-
 # Shopping List Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to request subscription to a snail mailing list. It is intended for users who wish to receive regular updates and information from the organization in the form of snail mail. To ensure that the form is filled out correctly, we will check for duplicate requests to prevent over-subscription and to maintain the quality of the list.
-
-The form is designed to be completed by users who want to join the snail mailing list, and it is used to collect information about the user, their preferences, and any additional notes they may have.
-
-We will not allow duplicates or over-subscription to maintain the integrity of the list and to avoid spamming the users who are already on it.
-
-</thinking>
-
 # snail_mailing_list_request - Help Guide
 ## Purpose
 The snail_mailing_list_request form is used to request subscription to a snail mailing list. It allows users to provide their name, email address, phone number, and other relevant information to receive regular updates and information from the organization.

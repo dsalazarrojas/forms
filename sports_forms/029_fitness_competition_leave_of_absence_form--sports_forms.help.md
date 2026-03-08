@@ -1,12 +1,3 @@
-<thinking>
-To create a user-friendly help guide for this fitness competition leave of absence form, it's essential to understand the form's purpose and its internal reasoning.
-
-The form is meant to document a participant's leave of absence from a fitness competition. This form is crucial for the organizers to track and manage participant attendance, ensuring that all necessary information is captured accurately. The form's purpose is to gather details about the participant, their reasons for leave, and the status of their leave, which helps the organizers make informed decisions about their participation in the competition.
-
-The form is designed to be completed by participants, and it's essential to ensure that the information provided is accurate and clear. To achieve this, the form should be easy to follow, and each field should have a clear explanation to help participants understand what's expected of them.
-
-</thinking>
-
 # Fitness Competition Leave Of Absence Form - Help Guide
 ## Purpose
 The Fitness Competition Leave Of Absence Form is designed to document participants' leave of absence from a fitness competition. It captures essential information about the participant, their reasons for leave, and the status of their leave.

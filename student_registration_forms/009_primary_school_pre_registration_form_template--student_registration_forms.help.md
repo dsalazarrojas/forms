@@ -1,12 +1,3 @@
-<thinking>
-The primary purpose of this form is to collect information from parents or guardians for a primary school student's pre-registration. The fields are divided into several sections for clarity, and each field is clearly labeled to avoid confusion. This form is designed for both new and existing students. The form is optional, but filling it out will help the school's administration to efficiently process the student's registration. The form is also used for medical certification, student's address, contact information, and other relevant details that will be kept confidential.
-
-To avoid duplication, the school may ask parents or guardians to fill out a similar form when enrolling their child in the school for the first time. In this case, you can skip this form and provide the necessary documents and information directly to the school administration.
-
-This form is designed to be filled out by parents or guardians, and the information will be kept confidential and not shared with anyone outside the school. However, if you have any doubts or concerns about the form, please feel free to contact the school administration.
-
-</thinking>
-
 # Primary School Pre-Registration Form Template - Help Guide
 ## Purpose
 The primary purpose of this form is to collect information from parents or guardians for a primary school student's pre-registration.

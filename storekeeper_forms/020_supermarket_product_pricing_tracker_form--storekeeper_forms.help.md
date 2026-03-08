@@ -1,6 +1,3 @@
-<thinking>
-This form is used to track product pricing data for a supermarket. It appears to be designed for store managers or administrators to input and record information about products in their store, including product IDs, store IDs, prices, shelf IDs, product names, categories, and other relevant details. The form has a mix of required and optional fields, suggesting that it is intended to be used for both general product data entry and for tracking specific pricing changes.
-</thinking>
 # Supermarket Product Pricing Tracker Form - Help Guide
 ## Purpose
 This form is used to record and track product pricing data for a supermarket. It helps store managers and administrators to keep track of products, their prices, and other relevant details.

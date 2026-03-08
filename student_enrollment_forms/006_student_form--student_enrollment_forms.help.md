@@ -1,13 +1,3 @@
-<thinking>
-
-The Student Form is used for registering student information in the student enrollment process. This form is intended for parents or guardians to provide details about their child or ward. The form is used to capture the student's name, contact information, address, and demographic data.
-
-Before filling out the form, please ensure you are the authorized representative of the student, i.e., a parent or guardian. The student's data will be used for academic and administrative purposes.
-
-Please note that this form may be duplicated for other students. Ensure that you have the correct student information before proceeding.
-
-</thinking>
-
 # Student Form - Help Guide
 ## Purpose
 The Student Form is used for registering student information in the student enrollment process. This form is intended for parents or guardians to provide details about their child or ward.

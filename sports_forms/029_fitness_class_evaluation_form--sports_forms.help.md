@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Class Evaluation Form - Help Guide
 
 ## Purpose

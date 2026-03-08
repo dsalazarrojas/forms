@@ -1,15 +1,3 @@
-<thinking>
-The form "piece_movements_knowledge_quiz" is designed to gather information about chess piece movements. This form is not affiliated with or endorsed by any specific form platform, and it's an original adaptation created using public survey topic metadata. The purpose of this form is to collect data about chess pieces' movements, including their names, starting and ending positions, and the time of movement.
-
-The form is not intended to be a comprehensive tool for creating or editing chess strategies, but rather a simple knowledge quiz to test users' understanding of chess piece movements. This form will help assess users' knowledge on the subject and provide a fun and interactive way to learn more about chess.
-
-Before proceeding, please ensure you have a basic understanding of chess piece movements and the board layout. This form is not a replacement for professional coaching or instruction, but rather a supplement to existing knowledge.
-
-Please note that this form is designed to be a simple and interactive tool, and answers should be entered based on the user's knowledge, not relying on guessing or external resources.
-
-Now, let's proceed to the help guide.
-</thinking>
-
 # piece_movements_knowledge_quiz - Help Guide
 ## Purpose
 The "piece_movements_knowledge_quiz" form is designed to collect data about chess piece movements for educational purposes.

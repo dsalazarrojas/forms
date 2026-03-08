@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from athletes or their guardians to assess their eligibility and suitability for an athletic performance program. The program aims to provide a comprehensive training regimen tailored to the individual's specific needs and goals.
-
-Before proceeding, please ensure that you are filling out this form for the right athlete or guardian, and that you are not duplicating an existing submission. If you are unsure, double-check the athlete's details or contact the program administrators for guidance.
-
-This guide will walk you through the form fields and their meanings to help you complete the form efficiently and accurately.
-</thinking>
-
 # Athletic Performance Program Application Form - Help Guide
 ## Purpose
 The Athletic Performance Program Application Form is designed to collect information from athletes or their guardians to assess their suitability for the program. This information will be used to tailor a comprehensive training regimen to their needs and goals.

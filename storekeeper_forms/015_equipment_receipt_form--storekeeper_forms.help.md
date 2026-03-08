@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to record the receipt of equipment in a storekeeper setting, typically in a store or warehouse. The form is used to document the details of the equipment being received, including the issuance date, equipment number, description, and condition of the equipment. The form also captures information about the item number, quantity, unit, and the personnel responsible for issuing and approving the equipment. This form is intended to be completed by the storekeeper or authorized personnel when equipment is received, and it serves as a record of the equipment's existence and condition.
-
-The form is used to ensure that equipment is properly tracked and accounted for, and that it is received in a condition that is acceptable for use. The form is also used to record any remarks or comments about the equipment, such as any damage or issues with the equipment.
-
-This form is not intended to be used for duplicate purposes, and it is not meant to be used for the same piece of equipment more than once.
-
-</thinking>
-
 # Equipment Receipt Form - Help Guide
 ## Purpose
 The Equipment Receipt Form is used to record the receipt of equipment in a storekeeper setting, ensuring accurate tracking and accounting of equipment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a general template for requesting changes to an employee's work schedule. It is meant to be used by staff members to submit requests for changes to their shifts, potentially due to various reasons such as personal or family appointments, illnesses, or other work-related issues. It is a good idea to review your schedule changes with your manager before completing this form to ensure the requested changes are reasonable and align with your team's needs. 
-</thinking>
-
 # Work Schedule Change Request Form - Help Guide
 ## Purpose
 The Work Schedule Change Request Form is a tool used to request changes to your work schedule. This form is intended to gather necessary information for your manager to review and approve your requested schedule change.

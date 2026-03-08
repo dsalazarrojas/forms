@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to allow students to select courses for their academic program. This form will ask for various details related to course selection, such as preferred courses, time management, and other relevant information. It's essential to fill out this form accurately to ensure that the student's course selection is correctly recorded. 
-
-Please note that this form has some fields that are not required, so you can skip them if you don't have any preference or information to provide. However, filling out all fields will help provide more comprehensive data for your academic program.
-
-Before you start, please review the fields and their explanations to ensure you have a clear understanding of what each field is asking for.
-
-If you're unsure about any field, please ask an admin or support staff for assistance.
-
-</thinking>
-
 # Course Selection Form - Help Guide
 ## Purpose
 The Course Selection Form is designed to help students select courses for their academic program. This form will guide you through the process of selecting courses that align with your interests and academic goals.

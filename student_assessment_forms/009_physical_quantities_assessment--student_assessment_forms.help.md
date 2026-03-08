@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication, please ensure that this form is not used to collect data that can be easily sourced from existing systems. The purpose of this form is to gather data for assessments of physical quantities. This form can be used for various types of assessments, such as quality control, inventory management, and more.
-This form can be used for both internal and external purposes, so please be mindful of data sensitivity and confidentiality. Ensure that the collected data is properly stored, and the form is not used to collect unnecessary or redundant data.
-Please ensure that the form is filled out accurately and completely, as any errors or omissions can affect the assessment results. Please also ensure that the units used are consistent and correct for each field.</thinking>
-
 # Physical Quantities Assessment - Help Guide
 ## Purpose
 This form is used to assess physical quantities for various purposes such as quality control, inventory management, and more.

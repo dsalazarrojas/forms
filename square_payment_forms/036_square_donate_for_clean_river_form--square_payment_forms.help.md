@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting donations for cleaning a river. It's a form to gather information from donors about their donations, including the purpose of their donation, amount donated, date and time of donation, and contact information. The form is meant to be a flexible and customizable tool for organizations or individuals to collect donations and track donation details. Before proceeding, please ensure that this form is relevant to your specific use case and has not been duplicated or derived from any existing form.
-</thinking>
-
 # Square Donate For Clean River Form - Help Guide
 ## Purpose
 This form is designed to collect donations for cleaning a river and gather information from donors about their donations.

@@ -1,8 +1,3 @@
-<thinking>... internal reasoning and checks for relevance and non-duplication of effort ...
-We are creating a user-facing help guide for the "press_release_distribution_subscription_form" form. The form is designed to collect information from users who wish to subscribe to press release distribution services. This guide will walk users through the purpose of the form, how to complete it, and provide a field-by-field explanation of each field.
-
-</thinking>
-
 # press_release_distribution_subscription_form - Help Guide
 ## Purpose
 The press_release_distribution_subscription_form is a form used to collect information from users who wish to subscribe to press release distribution services. This form is used to gather details such as user name, organization, contact email, phone number, press release topic, press release frequency, and confirmation of subscription.

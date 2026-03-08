@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daycare Cleaning Checklist - Help Guide
 ## Purpose
 This form is designed to help daycare staff members conduct thorough cleaning checks on various areas of the facility, ensuring a safe and clean environment for children and staff. The form will guide staff members to inspect different zones of the daycare, including staff areas, bathrooms, kitchens, office areas, storage areas, play areas, playgrounds, outdoor areas, and trash areas. The staff member will report any issues or notes on each area, and provide a date and time for the inspection. This form will help maintain a clean and safe facility that protects the health and well-being of both children and staff.

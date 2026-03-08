@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the Latin Noun Declension Quiz form. To ensure that the form's purpose and requirements are accurately conveyed to end-users, I'll first analyze the YAML input schema to understand the form's intent.</thinking>
-
 # Latin Noun Declension Quiz - Help Guide
 ## Purpose
 The Latin Noun Declension Quiz form is designed to assess the Latin Noun Declension skills of students. It aims to evaluate their knowledge of Latin noun cases, endings, and meanings.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to fire drills and safety procedures in a facility. The purpose of this form is to gather data on the fire alarm system, fire drill schedule, and various safety equipment and procedures. This form should only be filled out by authorized personnel, and the data collected will be used to evaluate the facility's fire safety protocols. It's worth noting that fire drills and safety procedures should be regularly reviewed and updated to ensure the facility is in compliance with relevant regulations and standards.
-</thinking>
-
 # Fire Drills Checklist - Help Guide
 ## Purpose
 The Fire Drills Checklist is a tool to collect information on fire drills and safety procedures in a facility. It's used to gather data on the fire alarm system, fire drill schedule, and various safety equipment and procedures.

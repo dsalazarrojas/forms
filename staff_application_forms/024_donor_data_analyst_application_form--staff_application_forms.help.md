@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from potential candidates applying for a Donor Data Analyst position. The form is intended to gather relevant details about the candidate's background, skills, and experience in order to assess their eligibility for the role.
-
-Before filling out this form, please ensure that you have not already submitted an application for this position and that your application meets the requirements outlined in the position description. This form is a comprehensive application that requires detailed information about your qualifications and experience.
-
-</thinking>
-
 # Donor Data Analyst Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect application information from potential candidates for the Donor Data Analyst position. Please provide detailed and accurate information about your background, skills, and experience.

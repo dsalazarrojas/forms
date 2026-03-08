@@ -1,7 +1,3 @@
-<thinking>
-We should create a user-facing help guide that explains the purpose of this form, how to complete it, and what each field means. Given the form's complexity, let's start by checking if the form is a part of a larger process or system, and if its purpose is to collect data for that system. Additionally, we should check if the form is a template or if it's a one-time use case form. This will help us understand the context and tailor our explanation accordingly.
-</thinking>
-
 # Girl Scout Interest Form - Help Guide
 ## Purpose
 This form is used to collect information from Girl Scouts for various purposes, such as tracking their interest in activities, teams, or squads. The form is part of a larger system that allows Girl Scout leaders to manage and organize their troops and teams.

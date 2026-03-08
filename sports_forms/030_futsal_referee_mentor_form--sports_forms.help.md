@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to become a Futsal Referee Mentor. The form is used by the organization to assess potential mentors' qualifications and experience in Futsal. The form will help the organization determine whether the user is a good fit for the mentorship program. 
-This form is one of many forms used by the organization, and we want to make sure it is completed correctly to avoid duplication or misinterpretation of the data. Please ensure to fill out the form accurately and thoroughly.
-
-</thinking>
-
 # Futsal Referee Mentor Form - Help Guide
 ## Purpose
 The purpose of this form is to help the organization assess potential Futsal Referee Mentors' qualifications and experience. It will be reviewed to determine whether you are a good fit for the mentorship program.

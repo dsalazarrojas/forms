@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from users for the purpose of subscribing to a service provided by Stripe. The form fields are intended to collect the user's email address, name, and phone number, as well as their preference to subscribe or not. The form is not intended for any other purpose.
-</thinking>
-
 # Stripe Email Subscription Form - Help Guide
 ## Purpose
 The Stripe Email Subscription Form is a tool for users to provide their contact information and subscription preferences for a service offered by Stripe.

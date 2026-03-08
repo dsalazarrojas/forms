@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for staff members to register themselves online for various purposes such as training, events, or meetings. It is a simple and straightforward form designed to collect necessary information from the staff. To ensure the correct information is captured, please make sure to fill in all required fields. 
-
-The form is designed to be completed in a logical sequence, with each page (or section) built to make it easy and fast to complete. Each field's required status will be indicated in this guide. The form's purpose is to ensure accurate and efficient collection of staff information for various internal processes and operations.
-
-</thinking>
-
 # Online Staff Registration Form - Help Guide
 
 ## Purpose

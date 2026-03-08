@@ -1,7 +1,3 @@
-<thinking>
-To create a relevant and non-duplicative form, I first considered the context of sports and nominations. The purpose of this form is to collect nominations for rising sports stars, likely for recognition or awards. This form will be used to gather information about the individual being nominated, focusing on their name, sport, and school affiliation. This will help in identifying and honoring exceptional athletes in various sports disciplines. I have taken care to ensure that the form is clear and concise, avoiding any duplication of fields or redundant information that might lead to confusion.
-</thinking>
-
 # Rising Sports Star Nomination Form - Help Guide
 ## Purpose
 

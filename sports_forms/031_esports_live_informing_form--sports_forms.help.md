@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about esports events. This form is likely used by staff or administrators to update live information about events, such as event IDs, names, and start times. It may also be used to collect data about participants, teams, and match statuses. The form may be used in a variety of contexts, such as for event management, reporting, or analytics. It's essential to ensure that the form is filled out correctly to avoid duplication of data or errors in event reporting. Before proceeding, ensure that the event ID is unique and that all required fields are filled out accurately.
-
-</thinking>
-
 # esports_live_informing_form - Help Guide
 ## Purpose
 The esport_live_informing_form is used to collect live information about esports events.

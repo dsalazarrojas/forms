@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a vital part of our organization's operational process, designed to capture critical information about an employee's absence, including their personal details, job title, and supervisory information. This form serves as a formal record of an employee's attestation, ensuring that all necessary data is accurately and consistently recorded. It's essential that this form is filled out correctly to maintain the reliability and integrity of our organizational data.
-
-</thinking>
-
 # Employee Attestation Form - Help Guide
 
 ## Purpose

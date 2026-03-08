@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from students about their market structures assessment. This form is used to gather data on student's performance, progress, and feedback. It's essential to understand that this form is not affiliated, endorsed, or derived from any specific form platform. The form is created using AI-driven insights into market structures topic metadata. It's meant to provide a comprehensive assessment of student's knowledge and understanding of the subject matter.
-
-</thinking>
-
 # Market Structures Assessment - Help Guide
 ## Purpose
 The Market Structures Assessment form is designed to collect information from students about their market structures assessment. This form aims to gather data on students' performance, progress, and feedback.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to guide users through the process of verifying training data, ensuring that it meets the required standards and quality. The form is meant to be filled out by staff members who are responsible for verifying training data, and it is used to ensure that the data is accurate and complete.
-
-To prevent duplication, this form is only intended for use by staff members who have been authorized to verify training data. Before filling out the form, please confirm that you have the necessary permissions and authorization to do so.
-
-Please note that the form has a large number of fields, but each field is designed to collect specific information that is essential for verifying training data. The form is divided into multiple pages, each with its own set of fields.
-</thinking>
-
 # training_verification_form - Help Guide
 ## Purpose
 The **training_verification_form** is designed to guide users through the process of verifying training data. The form is used to ensure that training data meets the required standards and quality.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid Employee Screening Form - Help Guide
 ## Purpose
 This form is designed to gather relevant information regarding an employee's health status and travel history in regards to COVID-19. This form is used by HR or management to ensure that employees are accurately reporting their health conditions and travel experiences.

@@ -1,11 +1,3 @@
-<thinking>
-The Islamic Academy Interview Registration Form is intended for applicants who wish to register for an interview session at the Islamic Academy. This form captures basic, applicant, and contact details, as well as other relevant information that will be considered during the interview process.
-
-This form will help ensure that each applicant meets the minimum requirements and eligibility criteria for the interview session. Please ensure that you complete all required fields accurately and truthfully to avoid delays in the interview process.
-
-Note that the "upload_doc" field is not defined in the YAML provided, I'm assuming it should be removed or replaced with the correct field "upload_certificate" or "upload_document". Also, "Time Of Birth" should be "Time of Birth" in all capital letters.
-</thinking>
-
 # Islamic Academy Interview Registration Form - Help Guide
 ## Purpose
 The Islamic Academy Interview Registration Form is a mandatory form to be completed by applicants who wish to register for an interview session. This form captures essential information to ensure each applicant meets the minimum requirements and eligibility criteria for the interview session.

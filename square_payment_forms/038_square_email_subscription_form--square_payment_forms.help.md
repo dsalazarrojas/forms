@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Square Email Subscription Form - Help Guide
 ## Purpose
 The Square Email Subscription Form is designed to collect information from customers interested in subscribing to Square's newsletters, promotions, or updates. This form is intended for customers who want to stay informed about Square's latest news, offers, and product information.

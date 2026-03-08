@@ -1,11 +1,3 @@
-<thinking>Before proceeding to fill out this form, please ensure you understand the purpose of the Summer Activities Staff Application Form. This form is designed for staff members who are interested in working at summer activities, such as camps, programs, or events. If you are not a staff member or do not intend to work at summer activities, please do not fill out this form.
-
-Please note that this form is not intended for clients or customers of the organization. If you are a client or customer, please do not fill out this form.
-
-Also, please be aware that the form is not a guarantee of employment. The purpose of this form is to help us get to know you better and determine the best fit for our summer activities. We appreciate your interest in joining our team and look forward to reviewing your application!
-
-</thinking>
-
 # Summer Activities Staff Application Form - Help Guide
 ## Purpose
 The Summer Activities Staff Application Form is designed to collect information from staff members who are interested in working at summer activities, such as camps, programs, or events. This form helps us understand your experience, qualifications, and availability, which will enable us to place you in the best possible role for you and our organization.

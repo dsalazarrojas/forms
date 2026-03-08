@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to assess a student's proficiency level in a specific subject or skill. The form should help to determine the student's current level of understanding and identify areas for improvement. This form should be used to evaluate students who have not yet met the expected standards for the subject or skill. The form should be completed by the instructor or teacher who is conducting the assessment, and the results should be used to inform instruction and support student growth. 
-
-</thinking>
-
 # Student Proficiency Assessment - Help Guide
 ## Purpose
 This form is used to assess a student's current level of proficiency in a specific subject or skill, identify areas for improvement, and provide guidance for further instruction and support.

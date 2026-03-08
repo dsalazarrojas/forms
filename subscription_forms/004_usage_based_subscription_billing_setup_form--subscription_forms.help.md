@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect setup information for subscription billing plans. It's crucial that you provide accurate and relevant details to ensure seamless execution of billing processes. 
-
-The form consists of 11 fields that require specific data points, some of which are optional. Please ensure that you're aware of the required and optional fields to avoid errors. The form's purpose is to establish a subscription billing setup for your organization, so be precise with your input.
-
-</thinking>
-
 # Usage Based Subscription Billing Setup Form - Help Guide
 ## Purpose
 This form is designed to collect setup information for subscription billing plans, enabling accurate and efficient execution of billing processes.

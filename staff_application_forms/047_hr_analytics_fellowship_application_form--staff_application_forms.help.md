@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for staff members who are interested in participating in the HR Analytics Fellowship program. The form will be reviewed internally to ensure that applicants meet the necessary criteria for the program. 
-Please do not submit duplicate applications. If you have already applied to the HR Analytics Fellowship, you will need to log in and retrieve your existing application. To avoid errors, please ensure that your email and contact information match your existing records. 
-The form is designed for staff members who are interested in developing their skills in HR analytics, and it is not meant for external applicants.
-</thinking>
-
 # HR Analytics Fellowship Application Form - Help Guide
 ## Purpose
 The HR Analytics Fellowship Application Form is a tool for staff members to apply to the HR Analytics Fellowship program. The program is designed for staff members who are interested in developing their skills in HR analytics and want to be part of a community that shares knowledge, best practices, and innovation in HR analytics.

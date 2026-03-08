@@ -1,7 +1,3 @@
-<thinking>
-The form is meant to facilitate ordering cakes online. The Square Cake Order Form is used to process orders from customers, including details such as their name, order number, delivery date, order type, total price, payment method, payment date, phone number, and email. It is intended for customers to place orders and for business owners or operators to collect relevant information for order processing. The purpose of this form is to ensure that all necessary information is collected accurately and efficiently. This form should not be used for other purposes such as customer surveys or product returns.
-</thinking>
-
 # Square Cake Order Form - Help Guide
 ## Purpose
 The Square Cake Order Form is used to process cake orders from customers, collecting necessary details for order delivery and payment.

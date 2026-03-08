@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is for a Stripe Newsletter Subscription Form designed to gather information from subscribers to create a personalized newsletter. The form collects the subscriber's name, email, preferred subscription format (print, digital, or both), subscription duration, newsletter format (print, digital, or both), print format (A5, A6, A7), email frequency (daily, weekly, or monthly), digital format (e-book, PDF, or video), and terms and conditions and consent. Subscribers can choose to be contacted through various channels and durations. 
-
-The form is a part of a larger system to manage and distribute newsletters. Subscribers can fill out the form on a website or landing page, and the data will be used to create a customized newsletter. The form is not affiliated with, endorsed by, or derived from any form platform and is a unique adaptation created using public survey topic metadata.
-
-</thinking>
-
 # Stripe Newsletter Subscription Form - Help Guide
 ## Purpose
 This form is designed to gather information from subscribers to create a personalized newsletter, allowing you to tailor your content and distribution strategy to their preferences.

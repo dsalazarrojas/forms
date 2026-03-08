@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to allow users to renew their subscription to a service or product. This form will help users update their subscription information, select their preferred subscription plan, and agree to the terms of the renewal. It is essential to fill out this form accurately to ensure that your subscription is successfully renewed. 
-Please note that the fields marked as "required" must be filled out to submit the form. This form is typically used for internal purposes within the organization, so ensure that the information provided is correct and up-to-date. If you have any doubts or concerns, please reach out to our support team for assistance.
-</thinking>
-
 # Subscription Renewal Form - Help Guide
 ## Purpose
 The Subscription Renewal Form is designed to facilitate the renewal of your subscription to a service or product.

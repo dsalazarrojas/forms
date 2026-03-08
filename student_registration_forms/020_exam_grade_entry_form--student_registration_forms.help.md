@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect and record grades for exams, allowing teachers to easily track and document student performance. It's essential that each field is filled out accurately and consistently to avoid confusion and errors. To prevent duplication, please ensure that you are using the correct student ID and that the form is submitted only once for each exam. The fields on this form are carefully crafted to guide you through the process of entering exam grades efficiently and effectively. Please take a moment to review each field carefully and ensure you're providing the necessary information.
-</thinking>
-
 # Exam Grade Entry Form - Help Guide
 ## Purpose
 The Exam Grade Entry Form is designed to collect and record grades for exams, enabling teachers to track student performance accurately and efficiently.

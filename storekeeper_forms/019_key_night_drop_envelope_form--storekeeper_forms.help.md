@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting key information related to a vehicle drop, including vehicle specifics, client and storekeeper signatures, and consent information. The form is primarily used for tracking and documenting vehicle drops within a store. Each field is designed to collect relevant data, with some fields being required for accurate completion. To ensure accuracy and completion, it's essential to understand the purpose and relevance of each field. Please review the form fields to avoid duplication and ensure that each item is filled out correctly.
-</thinking>
-
 # Key Night Drop Envelope Form - Help Guide
 
 ## Purpose

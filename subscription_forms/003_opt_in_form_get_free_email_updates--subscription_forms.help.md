@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from users to offer them free email updates. The internal reasoning will check if the user wants to receive updates on a specific mailing list and if they are subscribing to a newsletter. The user's email will only be collected if they opt-in for the updates on a relevant mailing list and if the form is marked as required. If a user does not select at least one mailing list, the form will not ask for their email.
-</thinking>
-
 # opt_in_form_get_free_email_updates - Help Guide
 ## Purpose
 This form is designed to gather information from users to offer them free email updates on various topics. The form will ask users to select the mailing lists they are interested in, and if they want to receive updates, it will ask for their email address.

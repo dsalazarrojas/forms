@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for students to submit a withdrawal form for a variety of reasons. The form is typically used when a student wishes to leave a course, program, or university. To determine whether to submit this form, check if you have any of the following situations:
 * You have been absent for multiple consecutive sessions.
 * You are no longer able to attend classes due to medical reasons or personal emergencies.

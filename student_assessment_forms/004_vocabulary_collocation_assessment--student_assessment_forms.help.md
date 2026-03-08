@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather learner's feedback on vocabulary collocations. A collocation is a phrase or word group that is used in specific contexts to convey meaning, such as idiomatic expressions or phrasal verbs. The purpose of this form is to evaluate the learner's response and feedback on the collocation's correctness, usefulness, frequency of use, and familiarity. This data will be used to refine and improve the vocabulary collocation materials used in the language course.
-
-</thinking>
-
 # Vocabulary Collocation Assessment - Help Guide
 ## Purpose
 This form is designed to gather feedback on the vocabulary collocations presented to learners. Please complete the form to provide your assessment of the collocations.

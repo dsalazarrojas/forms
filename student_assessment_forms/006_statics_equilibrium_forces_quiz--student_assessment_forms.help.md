@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Statics Equilibrium Forces Quiz" form, I will follow the provided YAML structure and guidelines.
-
-</thinking>
-
 # Statics Equilibrium Forces Quiz - Help Guide
 ## Purpose
 This form is designed to assess the user's understanding of statics equilibrium forces. It consists of multiple pages, each covering a different concept related to statics equilibrium forces. The form is divided into several fields, including multiple-choice questions, select-all questions, and free-text questions. The goal is to evaluate the user's ability to apply the concepts of forces in statics equilibrium.

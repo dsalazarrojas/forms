@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to create a Trigonometry Assessment Quiz for students to evaluate their understanding of trigonometry concepts. The form is structured to ask a series of questions, likely multiple-choice or open-ended, to gauge the student's knowledge and skills in this subject area. 
-
-This form should be used by students who need to assess their knowledge in trigonometry, or educators who want to gauge the understanding of their students. 
-
-Before starting, please review the form's purpose and ensure this is the correct tool for your needs. If not, you may want to search for alternative forms that match your requirements. 
-
-The form is not intended for commercial use or to collect sensitive information. 
-
-Please note that this form is AI-generated and may not cover all possible use cases or edge scenarios. Use at your own discretion. 
-
-</thinking>
-
 # Trigonometry Assessment Quiz - Help Guide
 ## Purpose
 This form is designed to create a Trigonometry Assessment Quiz for students to evaluate their understanding of trigonometry concepts.

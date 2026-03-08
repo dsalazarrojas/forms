@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture essential information from parents or guardians for their child's registration in the Awana program. This includes details about the child's academic year, contact information, medical conditions, and emergency contacts. The form also asks for permission to use the child's photo and video for promotional materials and to authorize medical treatment in case of an emergency. Additionally, it includes a liability waiver agreement and a request for the parent's or guardian's signature to confirm the accuracy of the provided information. The form is designed to be completed by a parent or guardian for each child being registered.
-</thinking>
-
 # Awana Registration Form - Help Guide
 ## Purpose
 The Awana Registration Form is designed to collect essential information from parents or guardians for their child's registration in the Awana program. The form is to be completed by a parent or guardian for each child being registered.

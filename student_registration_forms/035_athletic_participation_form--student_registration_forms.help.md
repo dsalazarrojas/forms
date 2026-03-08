@@ -1,7 +1,3 @@
-<thinking>
-This form is used for student registration for sports participation in various school athletic activities. This is an important form that needs to be completed by each student before they can participate in any school sports. The form gathers information about the student's personal details, contact information, medical status, insurance, and other relevant information required for safe and enjoyable participation in sports activities. Please ensure you complete the form accurately and thoroughly as it will be used to assess your eligibility for participation in the activities. This form must not be duplicated or used for any other purpose other than the intended one.
-</thinking>
-
 # Athletic Participation Form - Help Guide
 ## Purpose
 The athletic participation form is used to gather information about students participating in school sports activities. It is essential to collect accurate and complete information about the student's personal details, medical status, and other relevant information to ensure safe and enjoyable participation in sports activities.

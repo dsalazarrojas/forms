@@ -1,9 +1,3 @@
-<thinking>
-
-To create an efficient and effective help guide for the Esp Staff Application Form, let's start by understanding the purpose of this form. This form is designed to collect essential information from employees for staff applications, which is crucial for HR or recruitment teams to review and process applications efficiently. It's essential to ensure that applicants provide accurate and complete information to avoid duplication or incorrect submission. This guide will walk you through each field of the form to help applicants understand what is required and expected of them.
-
-</thinking>
-
 # Esp Staff Application Form - Help Guide
 ## Purpose
 

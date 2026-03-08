@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to assist users in completing the Cone Volume Math Quiz form. The quiz is used to assess students' knowledge of cone volume calculations and their ability to apply formulas and concepts in real-world applications. This form is designed to be completed by students in various classes and periods, and the quiz date is recorded for tracking purposes. The quiz consists of multiple-choice questions, numerical problems, and real-world application questions that test students' understanding of cone volume formulas, calculations, and comparisons. By completing this form, students will demonstrate their ability to apply mathematical concepts to practical problems. Please refer to the form fields below for specific instructions on how to complete each section.</thinking>
-
 # Cone Volume Math Quiz - Help Guide
 ## Purpose
 The Cone Volume Math Quiz is designed to test students' knowledge of cone volume calculations, including formulas, concepts, and real-world applications. The quiz is completed online and consists of multiple-choice questions, numerical problems, and real-world application questions.

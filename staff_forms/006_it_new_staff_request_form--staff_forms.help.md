@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be completed by new staff members to request the creation of a new staff profile in the company. 
-The form is used to gather essential information required for the new staff profile creation process. 
-It is essential that new staff complete this form accurately and comprehensively to avoid duplication or miscommunication.
-</thinking>
-
 # it_new_staff_request_form - Help Guide
 ## Purpose
 The it_new_staff_request_form is used by new staff members to request the creation of a new staff profile. This form collects necessary information for the new profile creation process.

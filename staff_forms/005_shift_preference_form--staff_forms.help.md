@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the Shift Preference Form, ensuring that they can complete it accurately and effectively. This guide aims to address potential questions and clarify any confusion about the form's fields and their meanings. To the best of my knowledge, the form is used to collect preferences for shift scheduling, including start and end times, break lengths, and shifts, with options for preferred days and times. However, without more specific information about the business context, I'm assuming that the form is meant to gather user input for creating or updating shift schedules, considering factors like flexibility and availability. It is possible that certain fields are intended to support specific business rules or restrictions.
-</thinking>
-
 # Shift Preference Form - Help Guide
 ## Purpose
 The Shift Preference Form is designed to collect information about your work preferences for shifts, allowing our team to better understand your availability and schedule needs. By completing this form, you'll help us create schedules that fit your requirements.

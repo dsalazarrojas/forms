@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a standby application form, likely used to collect information from individuals or employees who are available to work on-call shifts or short-notice requests. The form might be used in industries such as healthcare, emergency services, or other fields where on-call shifts are common. Before starting, please ensure that you have not already filled out this form, as duplicate submissions may be considered invalid. It is also essential to review and understand each field's purpose to provide accurate and complete information.</thinking>
-
 # Standby Application Form - Help Guide
 ## Purpose
 

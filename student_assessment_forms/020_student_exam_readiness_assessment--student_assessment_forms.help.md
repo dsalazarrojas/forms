@@ -1,10 +1,3 @@
-<thinking>
-This form is used to evaluate the readiness of a student for an exam. 
-The form is used to gather information about the student's ID, email, exam date, exam type, subject, difficulty, needs help status, and comments. 
-This form is optional and can be completed by anyone. 
-It can be used by teachers, instructors, or other educators to assess a student's readiness before an exam. 
-</thinking>
-
 # Student Exam Readiness Assessment - Help Guide
 ## Purpose
 The Student Exam Readiness Assessment form is used to evaluate a student's readiness for an exam. This form helps educators assess whether a student is prepared for an exam and identify areas where they may need extra help.

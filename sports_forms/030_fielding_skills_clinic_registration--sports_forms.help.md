@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to register players for a Fielding Skills Clinic, a program that aims to improve fielding skills for players. The form should only be completed by players who are interested in attending the clinic. To avoid duplication, please do not register multiple players with the same email address. If you are not a registered player, please do not complete this form. 
-</thinking>
-
 # Fielding Skills Clinic Registration - Help Guide
 ## Purpose
 The Fielding Skills Clinic Registration form is designed to collect information from players who are interested in attending the Fielding Skills Clinic. The form helps us to gather essential details and ensures that players are properly registered for the clinic.

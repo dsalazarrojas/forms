@@ -1,13 +1,3 @@
-<thinking>
-This guide provides a step-by-step explanation of the "weekly_student_well_being_check_in" form, which is a form used to monitor students' well-being during their weekly school life. This form helps school staff and administrators gauge students' mental health, stress levels, and support needs. It's essential to complete this form accurately and honestly to provide valuable insights into the students' overall well-being.
-
-Before proceeding, ensure that the form is being used correctly by:
-
-*   Using the form only for its intended purpose: to monitor students' well-being
-*   Not using the form for other purposes, such as disciplinary actions or academic performance monitoring
-
-</thinking>
-
 # weekly_student_well_being_check_in - Help Guide
 
 ## Purpose

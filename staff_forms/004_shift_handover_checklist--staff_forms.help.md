@@ -1,8 +1,3 @@
-<thinking>
-This shift handover checklist is a crucial document used in a shift handover process to ensure a seamless transition of responsibilities and information between shifts. It helps to minimize errors, improve communication, and enhance overall team productivity. Before filling out this form, please take a moment to review the following pages to understand their purpose and required information.
-
-</thinking>
-
 # Shift Handover Checklist - Help Guide
 ## Purpose
 The Shift Handover Checklist is a form used to record important information and details about the shift just completed. It helps to facilitate a smooth handover process between shifts, ensuring that essential information is passed on and critical tasks are acknowledged.

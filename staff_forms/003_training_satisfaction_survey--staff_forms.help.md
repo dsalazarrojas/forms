@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Training Satisfaction Survey" form, let's first understand the purpose and context of the form. This form is designed to assess the satisfaction of staff members who have undergone training. By filling out this form, staff members can provide their feedback on their overall experience, whether they were satisfied with the training, and if there are any areas that need improvement. This information will help the training team understand what worked well and what didn't, allowing them to adjust future training sessions to better meet the needs of the staff.
-
-The form is divided into four sections, each asking a different question. The first section asks if the staff member was satisfied with the training, the second section asks for an overall satisfaction rating, the third section is for any areas of improvement, and the fourth section is for any additional comments or feedback. This form is not required to be completed, but it's encouraged to help the training team gather valuable insights.
-
-</thinking>
-
 # Training Satisfaction Survey - Help Guide
 ## Purpose
 The Training Satisfaction Survey is designed to gather feedback from staff members on their experience with the training program. This will help the training team to understand their strengths and weaknesses, and make improvements for future training sessions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and approvals for employees who need to work from home due to various reasons such as illness, family emergencies, or other unforeseen circumstances. It is intended to be filled out by employees and submitted to their supervisors or HR department for approval. To avoid duplication and ensure that the form is filled out correctly, please make sure to fill out all required fields and submit the form only once you have received approval from your supervisor.
-</thinking>
-
 # Work From Home Request Form - Help Guide
 ## Purpose
 This form is used to request permission to work from home due to reasons such as illness, family emergencies, or other unforeseen circumstances.

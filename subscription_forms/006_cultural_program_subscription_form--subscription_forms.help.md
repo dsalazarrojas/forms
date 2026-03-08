@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for individuals or organizations to subscribe to a cultural program. The purpose of this form is to gather information about the subscriber, including their name, contact details, and preferences. This form should only be used for individuals or organizations that have not already submitted a subscription request for this cultural program. 
-Please ensure that you have not already submitted a subscription request before filling out this form.
-</thinking>
-
 # Cultural Program Subscription Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or organizations interested in subscribing to a cultural program. By filling out this form, you will be able to select your preferred subscription options and provide any additional notes or comments.

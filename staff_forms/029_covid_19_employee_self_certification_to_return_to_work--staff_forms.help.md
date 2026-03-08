@@ -1,11 +1,3 @@
-<thinking>
-
-To be eligible for returning to work after a period of absence due to COVID-19, employees must demonstrate that they are fit to resume their duties and follow all safety protocols. This form is designed to guide employees through the process of providing a self-certification for their return to work. It's essential that employees answer the questions accurately and truthfully. Duplicate or incorrect submissions may be subject to review and may delay or prevent approval for return to work.
-
-Please ensure that you are filling out this form correctly to avoid any issues. If you are unsure or need guidance, you should reach out to your HR representative or manager for clarification.
-
-</thinking>
-
 # COVID 19 Employee Self Certification To Return To Work - Help Guide
 ## Purpose
 This form is used for employees to self-certify their fitness to return to work after a period of absence due to COVID-19. It helps to assess whether the employee has completed their recovery and is ready to resume their duties safely.

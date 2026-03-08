@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for calculating the distance between two points, allowing users to input coordinates and units to perform the calculation. This form does not require specific coordinates, allowing users to choose from options like "Point A" and "Point B" to input their coordinates, and also allows them to select the units of measurement. This form is likely used for educational purposes, such as in math classes or for students to practice calculating distances between points. It's possible that this form is part of a larger assessment or test, as it includes a "units" field, which may be used to check for understanding of different units of measurement.
-</thinking>
-
 # Distance Between Two Points Worksheet - Help Guide
 ## Purpose
 This guide will help you complete the Distance Between Two Points Worksheet, a form used to calculate the distance between two points.

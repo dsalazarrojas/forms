@@ -1,23 +1,3 @@
-<thinking>
-This form is intended to collect donation information from sponsors. The purpose of this form is to ensure that the required fields are filled out correctly and accurately, and to provide a clear and organized way to collect relevant information from the sponsor. To avoid duplication of effort, please ensure that all necessary fields are filled out before submitting the form.
-
-The form is divided into two main sections: "Form Data" and "Sponsor Info". The "Form Data" section includes fields such as "Amount", "Frequency", "Duration", "Payment Method", "Notes", "Email", "Time", "Submission Date", and "Donation". The "Sponsor Info" section includes fields such as "Yes" and "No" options. Please note that some fields are optional and may not be required depending on the context.
-
-The following fields are required:
-
-* Amount
-* Duration
-* Payment Method
-* Notes
-* Email
-* Time
-* Submission Date
-* Sponsor
-* Donation
-
-Please ensure that all required fields are filled out accurately and thoroughly before submitting the form.
-</thinking>
-
 # Square Sponsor Donation Form - Help Guide
 ## Purpose
 The Square Sponsor Donation Form is intended to collect donation information from sponsors. This form helps to ensure that all necessary information is provided accurately and thoroughly.

@@ -1,11 +1,4 @@
 <figure><figure>
-<thinking>
-  Before creating the Zumba Outdoors Class Liability Waiver, we need to establish that this form is intended for outdoor Zumba classes. It's essential to confirm that this is the correct form for your specific use case, as it may not be applicable to other types of classes or situations.
-  We also want to make sure that this waiver is not a duplication of an existing form, so please double-check that there isn't a similar form already in use.
-  Lastly, please be aware that some fields in this form may require additional clarification or validation, such as emergency contact information and medical information. Ensure that you have the necessary permissions or approvals to collect and store this data.
-  Now, let's move on to the help guide for this form.
-</thinking>
-
 # Zumba Outdoors Class Liability Waiver - Help Guide
 
 ## Purpose

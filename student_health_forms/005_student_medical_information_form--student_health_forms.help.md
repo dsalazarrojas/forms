@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to collect medical information from students. The form asks for personal details such as name, student number, date of birth, and emergency contact information. It also inquires about various medical conditions, allergies, medications, medical observations, medical assessments, and medical history. Additionally, it asks about the student's physical ability, mental ability, behavioral conduct, and special needs. The form is intended to be completed by students, and some fields are required for submission.
-
-</thinking>
-
 # student_medical_information_form - Help Guide
 ## Purpose
 The student_medical_information_form is a document used to collect medical information from students. The form is designed to gather essential details to ensure student well-being and safety.

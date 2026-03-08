@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to assess a student's knowledge on the anatomical planes of the body, specifically their ability to identify and describe the planes that divide the body into different regions. This form is used to evaluate the student's understanding of the subject matter and provide a confidence rating to gauge their self-assurance in their knowledge. It is a crucial tool for teachers to assess students' understanding and provide feedback.
-</thinking>
-
 # Anatomical Planes Assessment - Help Guide
 ## Purpose
 The Anatomical Planes Assessment form is designed to evaluate a student's knowledge of the anatomical planes of the body. It helps teachers assess the student's understanding of the subject matter and provide feedback.

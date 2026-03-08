@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the progress of a student's choreography skills, providing an opportunity for students, teachers, and parents to provide feedback and evaluations on various aspects of the student's performance. This form is likely to be used by dance instructors or assessors to evaluate student progress in a choreography class or workshop. The form is meant to be completed by students, teachers, and parents to provide a comprehensive assessment of the student's skills in areas such as technique, artistry, musicality, and performance standards. This form should not be used for other purposes, such as grading assignments or other non-assessment activities.
-</thinking>
-
 # Student Choreography Progress Assessment Form - Help Guide
 ## Purpose
 The Student Choreography Progress Assessment Form is designed to evaluate a student's progress in choreography skills, collecting feedback from students, teachers, and parents on aspects such as technique, artistry, musicality, and performance standards.

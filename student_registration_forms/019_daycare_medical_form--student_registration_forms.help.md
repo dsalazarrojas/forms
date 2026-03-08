@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect critical medical information from students' parents or guardians to ensure their safety and well-being in the daycare setting. This form should only be completed by the parent or guardian listed as the emergency contact for the student. Please review the form carefully and ensure that all required fields are completed accurately and honestly.
-</thinking>
-
 # Daycare Medical Form - Help Guide
 
 ## Purpose

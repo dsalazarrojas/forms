@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose and not duplicated. The Perfume Purchase Order Form is designed to collect information from storekeepers (resellers) about perfume orders they have placed with our company. This form will help us process and track orders efficiently, ensuring accurate and timely delivery of products.
-</thinking>
-
 # Perfume Purchase Order Form - Help Guide
 ## Purpose
 The Perfume Purchase Order Form is a tool used by storekeepers to place orders with our company. It helps us to collect and process order information accurately and efficiently.

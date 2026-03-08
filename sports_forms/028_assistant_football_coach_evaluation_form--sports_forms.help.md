@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for evaluating the performance of an assistant football coach. The purpose of this form is to gather feedback and ratings from evaluators on various aspects of the coach's performance, such as game strategy, player development, team management, communication skills, and overall leadership. This form will help identify areas of strength and weakness in the coach's performance and provide recommendations for growth and development.
-Please note that this form is intended for internal use only and is not a formal evaluation form for official purposes. It is meant to be a tool for coaches and evaluators to gather feedback and insights to improve the coach's performance.
-Before completing this form, please ensure that you have reviewed the evaluation criteria and understand the scale used for rating each aspect of the coach's performance.
-</thinking>
-
 # Assistant Football Coach Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of an assistant football coach. It assesses various aspects of the coach's performance, including game strategy, player development, team management, and overall leadership.

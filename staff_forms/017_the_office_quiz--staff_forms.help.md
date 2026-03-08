@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # The Office Quiz - Help Guide
 
 ## Purpose

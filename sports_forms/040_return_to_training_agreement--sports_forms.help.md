@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Return to Training Agreement" is designed to capture information from athletes returning to training after a period of absence. This form is intended to ensure that athletes are aware of and consent to the terms and conditions of returning to training.
 
 The form is used by athletes to provide their details and contact information, which will be used for communication and record-keeping purposes.

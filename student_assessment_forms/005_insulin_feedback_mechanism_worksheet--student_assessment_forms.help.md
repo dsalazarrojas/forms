@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to help users provide feedback on the insulin feedback mechanism, which is a process by which cells respond to insulin, a hormone produced by the pancreas that regulates blood sugar levels. The form is designed to gather information from users about the different stages of the insulin feedback mechanism, from the binding of insulin to its receptor to the subsequent effects on glucose uptake. This form will help users clarify their understanding of this complex biological process.
-
-Before proceeding, ensure that you are filling out this form for the correct purpose and that the information you provide is accurate and relevant. If you have already completed this form, please do not fill it out again.
-</thinking>
-
 # Insulin Feedback Mechanism Worksheet - Help Guide
 ## Purpose
 The Insulin Feedback Mechanism Worksheet is a tool for users to provide feedback on the different stages of the insulin feedback mechanism, a process by which cells respond to insulin, a hormone produced by the pancreas that regulates blood sugar levels.

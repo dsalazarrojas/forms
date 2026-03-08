@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess knowledge on tree species, specifically to identify and name common tree species based on their nicknames. The purpose of this form is to gauge the user's ability to recognize and recall tree species based on their titles such as "Fag of the Forest" or "Sap of the Forest". This form is designed to be self-explanatory and easy to navigate. 
-The form does not collect any sensitive information and does not require user authentication.
-</thinking>
-
 # tree_species_knowledge_assessment - Help Guide
 ## Purpose
 This form is designed to assess knowledge on tree species, specifically to identify and name common tree species based on their nicknames.

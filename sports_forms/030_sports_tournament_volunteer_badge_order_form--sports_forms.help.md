@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Sports Tournament Volunteer Badge Order Form, I'll first need to extract the necessary information from the provided YAML. The form seems to be designed to collect information for volunteers involved in a sports tournament, including contact details, order preferences, and badge specifications.
-
-The form has 25 fields, but not all of them are required. Let's focus on the required fields and provide a brief explanation of the form's purpose.
-
-The form is likely used to collect information for the production and distribution of volunteer badges during a sports tournament. Volunteers can specify their contact details, order preferences, and badge specifications, such as size, color, and type. The form also collects information on the event date, start time, venue, and address of the event.
-
-The following fields are required: badge size, badge type, order quantity, event date, event start time, event venue, volunteer name, and badge color. This information is likely used to ensure accurate badge production and distribution.
-
-</thinking>
-
 # Sports Tournament Volunteer Badge Order Form - Help Guide
 ## Purpose
 The Sports Tournament Volunteer Badge Order Form is used to collect information for the production and distribution of volunteer badges during a sports tournament.

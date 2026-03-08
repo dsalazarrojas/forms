@@ -1,7 +1,3 @@
-<thinking>
-Are we creating another form to collect data for our Exit Interview Checklist? This form aims to gather information from employees who are leaving the company, including their reasons for leaving, new job details, and other relevant data. This form is likely part of the HR process to understand the reasons behind employee departures and identify areas for improvement. Before creating this form, we should check if there are similar forms already in use within the company to avoid duplication of efforts and unnecessary redundancy. Let's ensure we're capturing the necessary information to make this form useful and relevant.
-</thinking>
-
 # Exit Interview Checklist - Help Guide
 ## Purpose
 This form is designed to collect information from departing employees to understand their reasons for leaving and their new job details. It helps the HR team to identify trends and areas for improvement.

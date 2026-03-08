@@ -1,5 +1,3 @@
-<thinking>...The Nepotism Form is used to collect sensitive information about potential nepotism cases in the workplace. Before filling out this form, please ensure you have the necessary approvals and that the case has not been previously reported. This form is intended for confidential use only and will be reviewed by designated personnel. Ensure you have the consent of the affected individual before filling out this form.</thinking>
-
 # Nepotism Form - Help Guide
 ## Purpose
 The Nepotism Form is used to collect sensitive information about potential cases of nepotism in the workplace. This form helps to ensure that all cases are thoroughly investigated and addressed in a confidential and unbiased manner.

@@ -1,20 +1,3 @@
-<thinking>
-This form is for registering a team in a local sports league. Its purpose is to collect basic information about the team and its members. The form consists of four pages, but it is likely that each page is a section within the form. Each field is optional, so users can fill it out as they see fit.
-
-Before starting, ensure that you are registering a team for the correct league. You can do this by asking yourself: 
-
-*   Is the team registering for a local league, and do I have all the required information?
-*   Am I an authorized person to register the team?
-
-To complete this form, follow these steps:
-
-1.  Fill in the Team Details page with the team's name and any other details you think are necessary.
-2.  Add information about each team member on the Team Members page, including their name, position, and contact information.
-3.  Provide the team's league details, such as the league name and division, on the Team League Details page.
-4.  Enter the team's contact information on the Contact Information page.
-
-</thinking>
-
 # local_league_team_registration_form - Help Guide
 ## Purpose
 This form is for registering a team in a local sports league. It collects basic information about the team and its members.

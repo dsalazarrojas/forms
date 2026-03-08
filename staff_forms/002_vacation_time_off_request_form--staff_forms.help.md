@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vacation_time_off_request_form - Help Guide
 
 ## Purpose

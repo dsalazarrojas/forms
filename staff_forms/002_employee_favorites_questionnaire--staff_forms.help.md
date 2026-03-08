@@ -1,12 +1,3 @@
-<thinking>
-Please consider the following when using this form:
-
-* The employee_favorites_questionnaire form is designed to collect employee preferences and interests. The form is intended to be a non-mandatory, optional tool for managers and HR teams to gain a better understanding of employees' favorite things. Please do not use this form as a formal performance review tool or to track employee performance. 
-* Before completing this form, ensure that you're not duplicating effort. This form is meant to be a one-time submission for each employee. 
-* This form should only be completed by employees, not by managers or administrators. 
-* This form is meant to be completed on a personal preference level, not on a work-related preference level. 
-</thinking>
-
 # employee_favorites_questionnaire - Help Guide
 ## Purpose
 The employee_favorites_questionnaire form is designed to collect employee preferences and interests for non-mandatory, internal use. It's meant to be a fun and informal way for employees to express their favorite things.

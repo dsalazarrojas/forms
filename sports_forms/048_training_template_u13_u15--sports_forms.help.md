@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information for sports training templates, specifically for U13 and U15 age groups. The form will likely be used by sports administrators or coaches to input data on training sessions, athletes, and other relevant details. This form should not be used to collect redundant or unnecessary data; only required fields should be filled in for each session. This form is meant to be used for U13 and U15 sports training templates, so ensure that the sport chosen aligns with the selected age group.
-
-</thinking>
-
 # training-template-u13-u15-sports-forms - Help Guide
 ## Purpose
 The purpose of this form is to gather information for training templates specific to the U13 and U15 sports age groups. It allows users to input data on training sessions, including the sport, date, time, and other relevant details.

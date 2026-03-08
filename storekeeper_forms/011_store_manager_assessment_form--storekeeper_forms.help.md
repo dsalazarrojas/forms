@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the performance and skills of store managers. The form's purpose is to collect data about a store manager's assessment, which includes their store description, store assessment, and store keeper form. This guide will walk you through each field of the Store Manager Assessment Form to ensure that users can complete it accurately and effectively.
-</thinking>
-
 # Store Manager Assessment Form - Help Guide
 ## Purpose
 The Store Manager Assessment Form is designed to evaluate the skills and performance of store managers. This form is used to collect information about a store's description, assessment, and the person responsible for its management (the "store keeper").

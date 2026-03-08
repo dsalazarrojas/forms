@@ -1,11 +1,3 @@
-<thinking>
-This form is used for listing equipment that a staff member has checked out for their daily use. It is designed to provide a snapshot of the equipment currently checked out by each staff member, allowing for easy tracking and management of equipment usage.
-
-The form is meant to be filled out for each staff member, listing all the equipment they have checked out, and providing relevant information for each item, such as the date they checked out and returned it, the department it belongs to, and any notes about the equipment.
-
-When using this form, please ensure that you are only submitting information for equipment that you have actually checked out. Double-checking your answers to prevent duplicates or incorrect information.
-</thinking>
-
 # Daily Gear Checkout List Form - Help Guide
 ## Purpose
 The Daily Gear Checkout List Form is a tool for staff members to report equipment checked out for their daily use.

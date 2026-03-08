@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Basketball Contest Registration Form - Help Guide
 ## Purpose
 The Basketball Contest Registration Form is a form designed to gather information from basketball teams to register for a basketball tournament. This form is typically used by teams to provide their team details, including team name, contact information, division, and payment method.

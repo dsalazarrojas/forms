@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for the Okinawa Chess Championship Tournament. The purpose of this form is to gather information from players participating in the tournament. The form is divided into different sections to ensure that the necessary information is collected correctly. 
-
-The form is used to collect data for the player's registration. The information collected includes name, email, phone number, dates for the tournament start and end, player's name, player's email, player's phone number, player's agreement, and rating. 
-
-This form is only for players registering for the tournament. There is no need to fill out the form if you are not participating in the tournament.
-
-The form is not a duplicate, it is a one-time registration form.
-
-</thinking>
-
 # okinawa_chess_championship_tournament - Help Guide
 ## Purpose
 The Okinawa Chess Championship Tournament registration form is designed to collect information from players participating in the tournament.

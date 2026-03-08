@@ -1,11 +1,3 @@
-<thinking>
-The football recruiting form is designed to collect information from players, coaches, or recruiters in the sports industry. This form is used to collect details about a player's or coach's recruitment status, preferences, and contact information. The form will help recruiters and coaches track and manage player and coach recruitment processes efficiently.
-
-To avoid duplication, please use this form only for players or coaches who are part of the sports industry. If you're not related to the sports industry, please don't use this form.
-
-Please note that this form will only be used for internal purposes and will not be shared or published publicly.
-</thinking>
-
 # Football Recruiting Form - Help Guide
 ## Purpose
 The Football Recruiting Form is a tool designed to collect and manage information from players, coaches, or recruiters in the sports industry.

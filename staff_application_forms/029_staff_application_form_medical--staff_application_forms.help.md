@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect medical history information from staff applicants. This form is designed to be completed by staff members who are applying for a new role or position within the organization. The form collects sensitive medical history information, so it's essential that applicants provide accurate and honest answers to ensure the privacy and confidentiality of their medical information.
-</thinking>
 # Staff Application Form Medical - Help Guide
 ## Purpose
 This form is used to collect medical history information from staff applicants. It helps to ensure the applicant's confidentiality and accuracy of the information they provide.

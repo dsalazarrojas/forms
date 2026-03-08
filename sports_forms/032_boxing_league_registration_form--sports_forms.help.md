@@ -1,7 +1,3 @@
-<thinking>
-The "Boxing League Registration Form" is designed for boxers who wish to register with a specific league for participation in a boxing competition. Upon filling out this form, you will be providing information about yourself as a boxer, your medical history, and payment methods. This form is intended for both amateur and experienced boxers and must be completed thoroughly to ensure your registration is successful. To avoid duplication, please do not register multiple boxers under the same email address. If you have any questions or concerns, please contact the league administrator.
-</thinking>
-
 # Boxing League Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from boxers who wish to register with the league for participation in a boxing competition.

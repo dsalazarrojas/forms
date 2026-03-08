@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from international students who are applying for various programs or services. The form is likely to be used by admissions offices or student services departments to gather personal and contact details, email addresses, phone numbers, housing information, lists of required documents, acknowledgement of terms, and nationality.
-To confirm, the form is not designed for internal staff to fill out but for international students to submit their application.
-
-Please review the form to ensure it is not duplicated or similar to other forms used for different purposes.
-</thinking>
-
 # new_international_student_application_form - Help Guide
 ## Purpose
 The new international student application form is designed to collect personal and contact information from international students who are applying for programs or services offered by the institution.

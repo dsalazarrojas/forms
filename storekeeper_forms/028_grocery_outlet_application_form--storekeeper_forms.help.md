@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users fill out the Grocery Outlet Application Form, a collection of fields used to gather information about an individual's employment history and emergency contacts. The form is not strictly required, and most fields are optional. This form is likely used within an organization's HR or HRIS (Human Resource Information System) for employee data collection and management. It's possible that the form is used in conjunction with other application forms or HR processes. To use this form, users should first understand the purpose it serves within the organization.
-</thinking>
-
 # Grocery Outlet Application Form - Help Guide
 ## Purpose
 The Grocery Outlet Application Form is used to collect employment history and emergency contact information about an individual. 

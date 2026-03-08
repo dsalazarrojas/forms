@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Highschool Cleaning Checklist - Help Guide
 ## Purpose
 This form is used to gather information about the cleaning schedule and other relevant details for high school cleaning checks. It is intended for school administration and maintenance staff to ensure that all areas of the school are kept clean and tidy. This form helps to track the cleaning schedule, identify areas of concern, and plan for future cleaning tasks.

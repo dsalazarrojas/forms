@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # leave_cancellation_form - Help Guide
 ## Purpose
 This form is used to cancel a previously requested leave of absence. It is designed to collect information related to the employee's leave cancellation, including the start date of the leave, reason for cancellation, confirmation number, and confirmation status.

@@ -1,17 +1,3 @@
-<thinking>... internal reasoning block to check if this form is a good fit for the given context ...
-
-This form, "Student Led Learning Reform Registration Form", appears to be a tool designed to gather information from students regarding a learning reform campaign or initiative. Given the various fields such as 'motivation', 'interests', 'program_interest', 'program_name', etc., it can be inferred that this form might be used to capture the needs, interests, and preferences of students who would like to participate in a program or campaign.
-
-The form seems to be a mix of fields for general student information (name, email, school ID, etc.) and fields specific to the learning reform campaign (motivation, interests, etc.). 
-
-The form's fields are quite extensive, indicating that it is likely used for a complex process of gathering detailed information from students. The use of select_one and select_multiple fields suggests that this form might be used to allow students to select from a list of options. 
-
-The fields also include dates such as campaign start and end dates, and participant phone number fields which might be used for outreach or follow-up contact information. The presence of fields like participant_grade and participant_section might indicate that the form is used for tracking student progress or grouping students into specific cohorts within the program.
-
-Overall, the form seems to be designed to collect a wide range of information from students about their engagement, interests, and participation in a learning reform campaign. However, it's essential to review the actual form purpose and context to confirm these assumptions.
-
-</thinking>
-
 # Student Led Learning Reform Registration Form - Help Guide
 
 ## Purpose

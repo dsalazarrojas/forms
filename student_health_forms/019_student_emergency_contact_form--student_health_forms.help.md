@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect emergency contact information for students, which will be used in case of an emergency. This information will be kept confidential and used only by authorized personnel in the event of a crisis. Please ensure that you are entering accurate and up-to-date information.
-
-This form should only be filled out by the student or their authorized representative. If you are filling out this form on behalf of another student, please ensure that you have their permission to do so.
-
-To avoid duplication of effort, please do not fill out this form if you have already completed it previously.
-</thinking>
-
 # Student Emergency Contact Form - Help Guide
 ## Purpose
 The Student Emergency Contact Form is used to collect contact information for students in case of an emergency. This information will be used by authorized personnel to reach out to the student or their emergency contact in a crisis situation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for students to record their homework status. The form aims to track and verify the submission of homework assignments. The submitted data will be used to monitor student progress and performance. Please ensure that all required fields are completed accurately and honestly. Note that some fields might be optional but are still important for providing a complete and accurate record.
-</thinking>
-
 # Homework Record Form - Help Guide
 ## Purpose
 The purpose of this form is to record and track students' homework submissions.

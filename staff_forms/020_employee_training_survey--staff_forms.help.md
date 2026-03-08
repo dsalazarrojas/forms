@@ -1,5 +1,3 @@
-<thinking>This form is intended to gather information from employees about their training experiences. This form will help us understand the effectiveness and value of our training programs, identify areas for improvement, and ensure that employees feel supported and valued in their professional development. Please answer the questions honestly, as your feedback is crucial in helping us create a more effective and engaging training program for everyone. This form should be completed by all employees who have participated in the training program. Please make sure to answer all the questions as accurately as possible, and if there's anything else you'd like to share or comment on, you can use the "Additional Info" field.</thinking>
-
 # Employee Training Survey - Help Guide
 ## Purpose
 This form is used to gather feedback from employees about their training experiences, helping us improve and refine our training programs to better support you and your colleagues.

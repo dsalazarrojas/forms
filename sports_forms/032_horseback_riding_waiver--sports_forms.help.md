@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the Horseback Riding Waiver form, I need to understand its purpose and ensure it's not redundant with existing forms. The form appears to be for collecting information from horseback riders, specifically their rider information, horse information, emergency contacts, medical conditions, waiver terms, risk acknowledgement, signature, and date. This form might be used in equestrian settings, such as stables, riding schools, or events. I will make sure this guide is concise and practical to help users understand how to complete the form properly.
-
-</thinking>
-
 # Horseback Riding Waiver - Help Guide
 ## Purpose
 This form is designed to collect essential information from horseback riders, including their personal details, horse information, emergency contact, medical conditions, and other relevant data. Please review the form carefully and ensure you provide accurate and complete answers.

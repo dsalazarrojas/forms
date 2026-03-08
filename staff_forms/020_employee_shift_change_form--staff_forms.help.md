@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Shift Change Form - Help Guide
 ## Purpose
 This form is used to submit changes to an employee's shift schedule. It is intended for managers to update shift start and end times, assign shifts to employees, and track notes related to the shift change.

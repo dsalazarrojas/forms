@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information from students about their level of fear and learning experiences in various subjects, such as math, reading, writing, and others, as well as their perception of support from teachers and parents. The form also collects information on the student's school year, school name, and teacher name. The purpose of this form is to help educators better understand the needs and challenges faced by their students, which can inform instruction and resource allocation. This form is not a diagnostic or assessment tool, but rather a tool to gather insights and opinions from students.</thinking>
-
 # Student Fear And Learning Survey - Help Guide
 ## Purpose
 The Student Fear And Learning Survey is a tool designed to gather information from students about their fears and learning experiences in various subjects, as well as their perception of support from teachers and parents.

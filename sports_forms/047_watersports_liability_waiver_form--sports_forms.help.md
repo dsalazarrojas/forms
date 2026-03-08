@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect liability waiver information from individuals participating in watersports activities. The purpose of this form is to ensure that participants are aware of and acknowledge the risks associated with their participation. The form is designed to be simple and easy to understand. The fields in this form are meant to collect relevant information about the participant and the operator of the watersports activity.
-
-Before we proceed, I would like to check if this form meets your organization's specific needs. Is this form intended for use in a specific watersports industry or activity? For example, surfing, kayaking, or boat riding? Are there any specific requirements or regulations that this form needs to comply with?
-
-Also, I would like to confirm that this form is not intended to be used as a legal document. It is meant to be a liability waiver for general information purposes only.
-
-</thinking>
-
 # Watersports Liability Waiver Form - Help Guide
 ## Purpose
 This form is a liability waiver designed to be used in watersports activities. It collects participant information and operator details to ensure that both parties are aware of the risks associated with the activity.

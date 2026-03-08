@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to obtain employee consent for biometric timekeeping, ensuring employees understand how their data will be collected, used, and stored. This form is essential for establishing a clear understanding between employees and the company regarding biometric data collection and its use. The form's design should not be duplicated or copied from other sources, but rather created from scratch using public survey topic metadata as inspiration. The form should be released under the CC BY 4.0 license, allowing for modifications, sharing, and even commercial use with proper credit given. This form's purpose is not to replace or affiliate with any specific platform, but rather to serve as an original adaptation for internal use... </thinking>
-
 # Biometric Time Clock Consent Form - Help Guide
 ## Purpose
 This form is designed to collect employee consent for the biometric timekeeping system, ensuring employees understand how their biometric data will be used and stored.

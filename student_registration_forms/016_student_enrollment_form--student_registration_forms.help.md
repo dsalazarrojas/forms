@@ -1,6 +1,3 @@
-<thinking> 
-This form is for student enrollment, which involves collecting information about students such as their name, contact details, program selection, and fee payment options. To ensure the form is completed accurately, please review each field carefully and ensure all required fields are filled. If you are unsure about a specific field, kindly ask your administrator or support staff for assistance. If you need to complete the same form multiple times with different details, please ensure you are using the correct form by verifying the "Program" and "Student Number" fields match the relevant details for each individual student you are enrolling.</thinking>
-
 # Student Enrollment Form - Help Guide
 ## Purpose
 

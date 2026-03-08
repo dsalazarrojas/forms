@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Probation Period Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect contact information from individuals, including full name, email address, phone number, organization or company affiliation, job title, address, and preferred contact method. The form is intended for staff to gather information from visitors, participants, or customers, and ensure that the collected data is accurate and up-to-date. The form is divided into multiple pages, and each field is clearly labeled to ensure that users understand the purpose of the field. This form is not intended to be used for internal use within the organization, but rather for external purposes such as event sign-ups, newsletter subscriptions, or general inquiries.
-
-</thinking>
-
 # Contact Information Collection Form - Help Guide
 
 ## Purpose

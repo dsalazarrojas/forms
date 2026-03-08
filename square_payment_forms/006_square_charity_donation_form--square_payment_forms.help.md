@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate donations to a charity or cause by allowing users to input their information and details of their donation. This form is likely used by a non-profit organization or charity to collect funds and communicate with donors. 
-The form is intended to be completed by the donor, providing their name, email, a message, the amount of the donation, and the payment method. The form may also ask for additional information, such as the currency of the donation and any associated fees. 
-It's possible that the form is used for internal tracking and accounting purposes by the charity, but its primary function is to collect and manage donor information and donations. 
-
-</thinking>
-
 # Square Charity Donation Form - Help Guide
 ## Purpose
 The Square Charity Donation Form is a tool for donors to contribute to a charity or cause. It collects information and details of the donation, which are likely used by the charity for internal purposes such as tracking and accounting.

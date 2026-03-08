@@ -1,11 +1,3 @@
-<thinking>
-
-This is a form designed to collect information from clients or individuals for fit life coaching purposes. It appears to be a comprehensive form covering various aspects of a person's health, medical history, and relationships. The form seems to be intended for a coach or professional to understand the client's background and provide guidance or services accordingly. 
-
-The form fields cover essential information such as name, contact details, medical conditions, medications, allergies, emergency contact, emergency medical history, health insurance, injury history, medical notes, medication allergies, injury notes, emergency notes, next steps, and other relevant medical history details. Each field is designed to gather specific information to help the coach or professional provide the best possible guidance and support.
-
-</thinking>
-
 # Fit Life Coaching Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients or individuals to help fit life coaches or professionals understand their background and provide guidance or services.

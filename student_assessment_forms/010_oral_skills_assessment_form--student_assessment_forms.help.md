@@ -1,7 +1,3 @@
-<thinking>
-The Oral Skills Assessment Form is designed to evaluate a student's proficiency in oral communication skills, including pronunciation, fluency, interaction, and vocabulary. This form is not meant to be used for general feedback or evaluation; rather, it's a more specific assessment of the student's oral skills. Please ensure that you have read and understood the form's purpose before proceeding.
-</thinking>
-
 # Oral Skills Assessment Form - Help Guide
 
 ## Purpose

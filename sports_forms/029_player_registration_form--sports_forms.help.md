@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Player Registration Form - Help Guide
 ## Purpose
 This form is designed to collect player information for registration purposes. It is used to gather details such as contact, demographic, and emergency contact information. Please note that this form is intended to be filled out by individual players, not teams. If you are trying to register a team, you will need to go to the Team Registration Form instead.

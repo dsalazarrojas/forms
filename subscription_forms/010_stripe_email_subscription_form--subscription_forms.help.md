@@ -1,16 +1,3 @@
-<thinking>
-This form is used for customers to subscribe or unsubscribe to a email list. It is not intended to be used for other purposes.
-The fields provided in this form are:
-- a text field to input the customer's email address 
-- a confirm text field to ensure the customer inputs the same email address twice
-- a text field to input the customer's name (if applicable)
-- a text field to input the email frequency (if applicable)
-- a select field to confirm subscription 
-- a select field to confirm unsubscription 
-
-Please ensure that the form is not being used for any other purpose than email subscription and unsubscription.
-</thinking>
-
 # Stripe Email Subscription Form - Help Guide
 ## Purpose
 This form is designed for customers to subscribe or unsubscribe to a email list. The form collects the necessary information to confirm subscription or unsubscription.

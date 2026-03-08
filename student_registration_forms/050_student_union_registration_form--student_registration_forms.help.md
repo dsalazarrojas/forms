@@ -1,14 +1,3 @@
-<thinking>
-To create a help guide for the "Student Union Registration Form" that provides clear instructions and explanations for users, we must first understand the form's purpose, fields, and requirements.
-
-This form appears to be a simple registration form for students, aiming to collect basic information such as name, email, date of birth, program, semester, campus, and phone number. It also has a field for additional notes. 
-
-The form is designed for end-users, likely students, to register themselves with the student union. It's likely used to help the union track students' details and provide relevant information to students.
-
-Upon reviewing the form's fields, most fields are optional, suggesting that the form is used for voluntary registration.
-
-</thinking>
-
 # Student Union Registration Form - Help Guide
 ## Purpose
 This form is designed for students to register themselves with the student union, providing basic information required for the union's records and relevant communication.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about shopping sessions, which can be used to organize and manage appointments with storekeepers. The fields are meant to capture relevant details such as the session's status, storekeeper's contact information, appointment duration, session date, and other relevant notes. The form's purpose is to facilitate efficient communication and planning between storekeepers and customers. 
-</thinking>
-
 # Shopping By Appointment Form - Help Guide
 ## Purpose
 The Shopping By Appointment Form is designed to collect and organize information about shopping sessions with storekeepers. This form helps storekeepers to schedule and manage appointments with customers.

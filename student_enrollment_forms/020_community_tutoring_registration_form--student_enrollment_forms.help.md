@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students and their guardians or parents for the Community Tutoring program. This form is used to ensure that the student's needs are met and that the program can provide effective support. 
-
-The form is designed to collect the student's full name, contact email, grade level, preferred subjects, and learning goals. The guardian or parent's full name is also collected for students who are minors. The form also includes options for students to provide any special learning needs or accommodations they may have.
-
-Please ensure that the student is aware of the form's content and purpose before proceeding. This form is not intended to be filled out by anyone other than the student or their guardian/parent. 
-
-Note: Please review the form carefully to ensure that the student is aware of the form's content and purpose. 
-
-</thinking>
-
 # Community Tutoring Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from students and their guardians or parents for the Community Tutoring program.

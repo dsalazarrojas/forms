@@ -1,7 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and process of completing the "Student Individual Inventory" form, which is used to collect information about individual students' details.
-</thinking>
-
 # Student Individual Inventory - Help Guide
 
 ## Purpose

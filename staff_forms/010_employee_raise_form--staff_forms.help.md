@@ -1,11 +1,3 @@
-<thinking>
-This is the beginning of the internal reasoning block:
-Form design principles dictate that a well-crafted help guide helps users navigate the form efficiently. A brief internal explanation will help ensure that end-users understand the form's purpose and potential usage.
-
-The employee raise form appears to be designed for employees to provide input on their performance, goals, and development needs. The form is likely used by HR or management to gather information on employee progress and plan for future growth and raises. The fields provided seem to cover essential aspects of an employee's professional development, such as performance, goals, and potential areas for improvement. To avoid duplication, ensure you complete this form only once per review period (e.g., quarterly or annually).
-
-</thinking>
-
 # Employee Raise Form - Help Guide
 ## Purpose
 The Employee Raise Form is designed to gather information on employee progress, goals, and development needs. This form will be used by HR or management to assess an employee's performance and plan for future growth and raises.

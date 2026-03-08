@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the purpose of this form is clear and relevant. This guide will help end-users understand the employee appraisal form's purpose and how to complete it without any duplication.
-</thinking>
-
 # employee_appraisal_form - Help Guide
 ## Purpose
 The Employee Appraisal Form is used to evaluate an employee's performance and provide feedback. This form is essential for regular check-ins and evaluations to help employees grow and improve their skills.

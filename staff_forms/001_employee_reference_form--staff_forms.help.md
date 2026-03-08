@@ -1,19 +1,3 @@
-<thinking>
-This is a form for creating a new employee reference. Its purpose is to gather information about a specific employee that will be used as a reference for future employment or promotional decisions. This form will help the employee's team members or HR team to quickly access relevant information without having to dig through other systems or paperwork. 
-
-The form should only be used for employees that have given their consent to be referenced. 
-
-Please make sure that you are not duplicating the information of the employee that is already in the system. Before creating a new reference, check if the employee already has a reference in the system. 
-
-The form will create a new reference with the following information: employee name, employee email, referee name, referee email, referee phone, and referee occupation. 
-
-The referee name, email, phone, and occupation will be used to contact the referee if needed. 
-
-When completing the form, please make sure to fill in all the required fields. 
-
-This guide will explain each field in detail.
-</thinking>
-
 # Employee Reference Form - Help Guide
 ## Purpose
 This form is used to gather information from an employee's professional contact, the referee, in order to provide additional context for future employment or promotional decisions. The information collected will be used by the employee's team or HR team to get in touch with the referee if needed.

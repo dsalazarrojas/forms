@@ -1,20 +1,3 @@
-<thinking>
-
-This form is used to gather information about employee recognition programs, including feedback on the frequency and effectiveness of these programs. It is intended to help employees provide their perspectives on how well the recognition programs are meeting their needs and expectations.
-
-This form is meant to be filled out on a regular basis, ideally on a daily or weekly basis, and is part of an ongoing effort to continuously improve the recognition process. 
-
-The form will be used to collect data on the following areas:
-
-* Employee feedback on recognition programs
-* Frequency and effectiveness of recognition events
-* Manager support and engagement
-* Total and average number of recognition events
-
-Before filling out this form, please ensure that you have a clear understanding of what the questions mean and that you have the necessary information to answer them accurately.
-
-</thinking>
-
 # Employee Recognition Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form that is used to track the progress of students who receive services. The form should be filled out by caregivers or providers who work with these students. We need to ensure that the form is easy to understand and complete, and that each field has a clear explanation of its purpose and requirements. This form will help caregivers track the progress of students in various areas, including self-help skills, and provide valuable information for future assessments and interventions.
-</thinking>
-
 # self-help-skills-progress-report - Help Guide
 ## Purpose
 This form is used by caregivers or providers to document the progress of students in self-help skills. It helps track student progress over time and provides valuable information for future assessments and interventions.

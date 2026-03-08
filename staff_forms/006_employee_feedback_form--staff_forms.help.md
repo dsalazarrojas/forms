@@ -1,5 +1,3 @@
-<thinking>Here, I'll create a user-facing help guide for the "Employee Feedback Form" based on the provided YAML fields.</thinking>
-
 # Employee Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect employee feedback, allowing us to understand their experience and suggestions for improvement. Please take a few minutes to complete this form to help us make your work environment better.

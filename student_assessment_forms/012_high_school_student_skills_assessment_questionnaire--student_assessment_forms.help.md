@@ -1,5 +1,3 @@
-<thinking>Form purpose is to assess the skills, career interests, and academic goals of high school students. This form is designed to help identify areas of strengths and weaknesses in students' skills and interests, providing a valuable tool for educators and counselors to tailor their guidance and support. The form's questions cover a range of topics, from basic skills and academic readiness to career interests and long-term academic goals. Before filling out this form, please note that it's intended for internal use only and not for external sharing or publication. Also, be aware that the form's structure and content may be subject to change as per your institution's policies and preferences.</thinking>
-
 # High School Student Skills Assessment Questionnaire - Help Guide
 ## Purpose
 The High School Student Skills Assessment Questionnaire is designed to evaluate a student's skills and interests to provide a comprehensive understanding of their strengths and weaknesses. This form will help educators and counselors tailor their guidance and support to better serve the students' needs.

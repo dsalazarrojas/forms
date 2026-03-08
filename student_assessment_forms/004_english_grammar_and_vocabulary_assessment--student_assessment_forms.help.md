@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML fields, I notice that this form is for English Grammar and Vocabulary Assessment, which seems to be a type of form used to evaluate students' language proficiency. I also see that it has fields for the form title, category, description, school or tutor information, contact method, and date of submission. I will use this information to create a user-facing help guide.</thinking>
-
 # English Grammar And Vocabulary Assessment - Help Guide
 ## Purpose
 This form is designed to assess students' English Grammar and Vocabulary skills. It is used to gather information about their language proficiency, which can be used for evaluation or feedback purposes.

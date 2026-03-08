@@ -1,13 +1,3 @@
-<thinking>
-This guide will explain the purpose and requirements of the sports_photography_pass_registration form. The form is designed to capture information about sports photography events, including event details, photographer information, and pass requests. The purpose of this form is to ensure that sports photography events are properly registered and managed. 
-
-The form is divided into several sections, each with its own set of fields. Here's a brief overview of each section and its purpose:
-- Event Information: This section captures details about the event, including the event name, description, date, and time.
-- Photographer Information: This section gathers information about the photographer, including their name, email address, and type of media (still, action, video, social media, or none).
-- Event Registration: This section is used to register the event and capture additional details about the pass request, if applicable.
-
-The form will be useful for sports_photography_pass_registration, and the information captured can be used to manage and coordinate the events efficiently.</thinking>
-
 # sports_photography_pass_registration - Help Guide
 ## Purpose
 This form is for registering sports photography events and capturing relevant details about them. The goal is to collect and organize necessary information to properly manage these events.

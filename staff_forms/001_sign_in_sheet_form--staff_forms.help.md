@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture essential information from users for a sign-in sheet. It is likely used to track attendance, hours worked, or other relevant data related to staff activities. Before proceeding, please ensure that you have a clear understanding of the form's purpose and that the information you provide is accurate and up-to-date. Duplicate or incomplete submissions may lead to errors in tracking and analysis.
-</thinking>
-
 # sign_in_sheet_form - Help Guide
 ## Purpose
 The sign in sheet form is designed to collect necessary information from employees to track their attendance, hours worked, or other staff activities.

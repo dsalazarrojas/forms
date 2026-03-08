@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be designed for tracking the progress of students in a language school. The form is used for a monthly progress check-in, where users can input various information about a student's progress and submission status. The fields seem to cover essential details such as student identification, progress status, program participation, submission date, and contact information. However, some fields may require further clarification to ensure proper completion and submission. For instance, "submitted_by" and "submission_date" seem to be redundant, while "phone" field seems out of place in a progress check-in form. It is essential to review the form's purpose and fields to ensure consistency and relevance. 
-
-</thinking>
-
 # Language School Monthly Progress Check In - Help Guide
 ## Purpose
 This form is designed for language school staff to track student progress on a monthly basis. It collects information on student's current status, program participation, and submission status, enabling staff to monitor and address any issues promptly.

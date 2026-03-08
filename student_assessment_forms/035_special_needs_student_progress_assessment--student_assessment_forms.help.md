@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help educators assess the progress of students with special needs. The purpose of this form is to gather information about a student's abilities, outcomes, and growth over a specific period. It is meant to be used by educators to track student progress and identify areas where a student may need additional support. This form should not be used to replace other assessment methods but rather to supplement them. It is intended for use by educators working with students who have been identified as having special needs.
-</thinking>
-
 # Special Needs Student Progress Assessment - Help Guide
 ## Purpose
 This form is used to track the progress of students with special needs.

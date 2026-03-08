@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to pass on the daily shift to another staff member, allowing them to take over the responsibilities of the current shift. This form is typically used when a staff member is unable to complete their shift and needs to be replaced. The form provides options for selecting the next shift, staff member, and other relevant details such as the start time of the replacement shift.
-
-This form should only be used for passing on shifts that have not already been completed, as it may cause confusion and affect the productivity of the team. It's essential to ensure that the information provided is accurate and complete to avoid any issues with the replacement staff member.
-
-To avoid duplication, please ensure that the form is not submitted multiple times for the same shift. 
-
-</thinking>
-
 # Daily Shift Pass On Form - Help Guide
 ## Purpose
 The Daily Shift Pass On Form is a tool used to transfer shift responsibilities to another staff member.

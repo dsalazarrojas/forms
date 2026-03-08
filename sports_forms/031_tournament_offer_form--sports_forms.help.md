@@ -1,11 +1,3 @@
-<thinking>... internal logic checks: 
-
-  - Purpose: This form is designed for a sports tournament organization to collect information about a new tournament offer.
-  - Non-duplication checks: Check if a similar tournament offer already exists before creating a new one.
-  - Relevance: Make sure the user is authorized to create a new tournament offer.
-
-</thinking>
-
 # Tournament Offer Form - Help Guide
 ## Purpose
 The Tournament Offer Form is a tool used by sports tournament organizers to gather essential information about a new tournament offer. It will help you create and submit a comprehensive description of your event, including all necessary details.

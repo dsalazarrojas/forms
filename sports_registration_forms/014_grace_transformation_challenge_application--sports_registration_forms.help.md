@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal and contact information from individuals interested in participating in a transformational challenge. The purpose of this form is to assess the individual's motivations, goals, and medical history, ensuring they are suitable for the challenge. This form is not affiliated with any form creation platforms, and its design is based on public survey topic metadata.
-</thinking>
-
 # Grace Transformation Challenge Application - Help Guide
 ## Purpose
 The grace transformation challenge application form is designed to gather personal, contact, and medical information from individuals interested in participating in a transformational challenge.

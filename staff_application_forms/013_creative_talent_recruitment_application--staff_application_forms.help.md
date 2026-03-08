@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in being part of a creative talent recruitment process. It's intended to be used by potential candidates to showcase their skills, experience, and contact preferences. This form should only be used for legitimate talent recruitment purposes and not for any other use cases such as sales, marketing, or data collection. Please ensure you understand the purpose of this form before using it.
-</thinking>
-
 # Creative Talent Recruitment Application - Help Guide
 ## Purpose
 The Creative Talent Recruitment Application is a form designed to collect information from potential candidates interested in being part of a creative talent recruitment process. This form will help us understand your skills, experience, and contact preferences.

@@ -1,5 +1,3 @@
-<thinking>...I'll create a user-facing help guide for the "Information Processing Assessment" form. I'll base the explanations on the provided YAML fields and aim for conciseness and clarity...</thinking>
-
 # Information Processing Assessment - Help Guide
 ## Purpose
 This form is designed to collect information from students to assess their confidence in specific areas of information processing. It is intended to help us better understand the strengths and weaknesses of our students in these areas.

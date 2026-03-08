@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for a subscription to a meal kit delivery service using Stripe as the payment gateway. The purpose of this form is to create a subscription that aligns with the user's preferences and schedule. Before filling out this form, ensure that you are not already subscribed to a meal kit delivery service with us, as this form is intended for new subscribers only.
-
-This form is divided into several pages, each with its own set of questions and options. Please fill out the form carefully, making sure to provide accurate and complete information for each field. If you need help or have questions, feel free to ask.
-</thinking>
-
 # stripe_meal_kit_delivery_subscription_form - Help Guide
 ## Purpose
 The purpose of this form is to create a subscription to a meal kit delivery service that meets your needs and preferences. Please fill out the form carefully to ensure you get the right subscription.

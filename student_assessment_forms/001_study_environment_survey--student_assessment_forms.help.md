@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to collect feedback from students about their current study environment, including their satisfaction, available resources, and learning conditions. This form is designed to be completed by students, and the results will help inform decisions about how to improve the study environment.
-The purpose of this form is to gather information about student experiences and opinions, but it's not meant to be a survey that's required or mandatory for all students. However, providing feedback is encouraged as it will help create a more comfortable and effective learning space.
-The feedback collected from this form will be anonymous and will help the study environment's administrators to understand student needs and make informed decisions about how to improve the environment.
-</thinking>
 # Study Environment Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their current study environment. The goal is to gather information about what students like and dislike about their study space, their satisfaction, and available resources.

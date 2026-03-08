@@ -1,11 +1,3 @@
-<thinking>
-This is a form used to register events with Square, likely for payment processing and event management purposes. The form collects information about the event, including its name, date, time, location, attendees, payment amount, payment method, and email address. This form is likely used by event organizers or administrators to register events with Square, and the information collected will be used for payment processing and other event-related tasks.
-
-Before filling out this form, please ensure that you have all the necessary information and permissions to complete it. This form does not seem to be designed for public-facing users, so you should only access it if you have a valid Square account and permission to register events.
-
-To ensure consistency, please do not submit duplicate registrations for the same event. If you need to make changes to a previously registered event, please contact your Square support team for assistance.
-</thinking>
-
 # Square Event Registration Form - Help Guide
 ## Purpose
 This form is used to register events with Square, collecting information for payment processing and event management.

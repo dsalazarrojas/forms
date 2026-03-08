@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Subscription Service Experience Questionnaire - Help Guide
 
 ## Purpose

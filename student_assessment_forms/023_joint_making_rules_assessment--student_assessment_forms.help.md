@@ -1,6 +1,3 @@
-<thinking>
-This form is used for assessing the quality and importance of joints in a joint-making process. It seems to be a crucial part of ensuring that joints are created according to certain standards and rules. Before proceeding, please make sure you have a clear understanding of what a joint is and the process of joint-making. This form might be relevant to various industries such as carpentry, engineering, or manufacturing. It's possible that this form is used to evaluate and document the performance of joints in a specific context or project. Please review the form carefully and ensure that you are filling it out correctly, as it might have significant implications on the outcome of the joint-making process.</thinking>
-
 # Joint Making Rules Assessment - Help Guide
 ## Purpose
 This form is designed to assess the quality and importance of joints in a joint-making process. It is used to evaluate and document the performance of joints in a specific context or project.

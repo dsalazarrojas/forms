@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fingerprint Consent Form - Help Guide
 ## Purpose
 This form is used to collect fingerprints for various purposes. To ensure accurate data collection, please fill out the form completely and carefully. Before proceeding, review each field to understand its purpose and ensure you are entering the correct information.

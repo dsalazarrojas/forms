@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disciplinary Action Form Template - Help Guide
 
 ## Purpose

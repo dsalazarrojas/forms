@@ -1,13 +1,3 @@
-<thinking>
-
-The internal purpose of this form is to assess an individual's skills and experience in database management, administration, and various other related fields. This form likely serves as an evaluation tool for database administrators (DBAs) or database professionals to gauge their skills and knowledge in areas such as database design, query languages, and database systems. The form's results are likely used for internal assessment, certification, or other purposes within an organization.
-
-This form's purpose is likely to be used in a context where database professionals need to be evaluated on their skills and knowledge in a systematic way. This form helps to gather information on an individual's experience and knowledge in different areas of database management, which can be used for various purposes like certification, training, or career advancement.
-
-Before starting to fill out this form, ensure that you have the necessary information and time required to complete it accurately. This form may take some time to complete, and it's essential to be honest in your answers to ensure the assessment is fair.
-
-</thinking>
-
 # Database Skills Assessment - Help Guide
 ## Purpose
 The Database Skills Assessment form is designed to evaluate your skills and experience in database management, administration, and other related fields. This form will help assess your knowledge and experience in various areas, including database design, query languages, and database systems.

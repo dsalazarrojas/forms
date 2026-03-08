@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about an employee's pay rate, which is a crucial aspect of employee compensation and benefits. The form is designed to gather data on the employee's salary, pay date, currency, and submission details. The submitted information will be used to track and manage employee compensation data, ensuring that it is accurate and up-to-date.
-
-To ensure data quality and prevent duplication, it is essential to complete the form accurately and carefully. Please review the form carefully before submitting it.
-
-</thinking>
-
 # Employee Pay Rate Form - Help Guide
 ## Purpose
 The Employee Pay Rate Form is used to collect and track employee pay rate information, including salary, pay date, currency, and submission details.

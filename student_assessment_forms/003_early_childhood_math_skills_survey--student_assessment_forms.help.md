@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess early childhood math skills of students. The purpose of the form is to provide a comprehensive assessment of students' understanding and proficiency in different math concepts. Each question is designed to be brief and to the point, allowing the students to quickly demonstrate their math skills.
-
-To ensure that the form is relevant and not duplicated, we will only be using the provided YAML data to generate the form.
-
-</thinking>
-
 # early_childhood_math_skills_survey - Help Guide
 ## Purpose
 The early_childhood_math_skills_survey form is designed to assess the math skills of early childhood students. It is used to evaluate their understanding and proficiency in different math concepts.

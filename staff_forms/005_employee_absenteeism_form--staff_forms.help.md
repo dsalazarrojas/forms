@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Absenteeism Form - Help Guide
 
 ## Purpose

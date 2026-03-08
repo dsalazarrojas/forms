@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Mileage Record Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employees regarding their mileage records for reimbursement purposes. It is used to track the start and end dates of employee work periods, including the start and end mileage readings.

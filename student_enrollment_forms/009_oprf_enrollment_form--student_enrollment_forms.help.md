@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather student enrollment information for the OPRF (Online Platform for Recruitment and Financial Aid) system. The purpose of this form is to collect demographic data from students who are interested in enrolling in the system. This information will be used to create a student profile and assign them to the correct program or school. 
-</thinking>
-
 # OPRF Enrollment Form - Help Guide
 ## Purpose
 The OPRF Enrollment Form is used to collect student demographic data, including school name, student name, parent name, contact information, and academic details. This form helps the system to create a student profile and assigns them to the correct program or school.

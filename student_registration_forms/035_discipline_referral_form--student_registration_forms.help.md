@@ -1,8 +1,3 @@
-<thinking> 
-This is a Discipline Referral Form used to document incidents or behavior issues that require teacher referrals. The form is meant to be used by students' teachers when they witness or suspect a student is displaying behavior that needs to be addressed. The form should not be used for general feedback or progress reporting, but rather for serious incidents or concerns that warrant immediate attention. Before proceeding, ensure that you are familiar with your school's policies and procedures for discipline referrals. If you have already filled out a discipline referral form for the same student recently, it might not be necessary to fill out another one. In such cases, please review the previous form and update it instead of filling out a new one.
-
-</thinking>
-
 # Discipline Referral Form - Help Guide
 
 ## Purpose

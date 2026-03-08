@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess students' understanding of conic sections, specifically their properties, equations, and characteristics. The form is intended to evaluate students' ability to identify and describe different conic sections, their equations, and key parameters such as foci, directrices, and asymptotes. The questions cover various aspects of conic sections, including their standard forms, equations, and relationships between their parameters.
-</thinking>
-
 # Conic Sections Quiz - Help Guide
 ## Purpose
 This form is designed to assess students' understanding of conic sections. You will be presented with a series of questions about the properties, equations, and characteristics of conic sections.

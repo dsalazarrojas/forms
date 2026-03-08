@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from parents/guardians for admission purposes. The form will be used to create or update a student's record in the school's database. The information collected includes personal details of the student and their parent/guardian, academic history, and any special needs the student may have. It is essential to ensure that all required fields are filled accurately and completely to avoid any delays or issues with the application process.
-</thinking>
-
 # Admission Form For Secondary School - Help Guide
 ## Purpose
 This form is used to collect information from parents/guardians for the admission process of their child to the secondary school. It includes details about the student's personal and academic background, medical conditions, and special needs.

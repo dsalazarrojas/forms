@@ -1,18 +1,3 @@
-<thinking> 
-This form is intended to assess a student's online habits, skills, and goals related to the internet. It is designed to collect data on a student's online presence, including their online habits, internet skills, and goals, to help educators and parents understand their internet usage. The form is meant for students who are part of the education system and aims to gather information on their online behavior and goals. 
-
-The form has a mix of multiple-choice questions, select all that apply, free-text questions, and numerical questions, which will require the student to provide information on their online activities. The questions cover topics such as online habits, internet skills, challenges faced while using the internet, and goals related to the internet.
-
-Before answering this form, it is essential to read all the instructions carefully and understand the context. The questions are designed to be clear and concise, and each question has a specific purpose in mind. 
-
-This form is intended for students who are familiar with online habits and internet usage. If you are unsure or do not understand any question, please ask for help. 
-
-To complete this form, please read each question carefully and provide the required information. If a question does not apply to you, please select the option that says "No." 
-
-The form will take approximately [insert time] to complete, and it is recommended to take breaks if needed. 
-
-</thinking>
-
 # Internet Listening Assessment - Help Guide
 
 ## Purpose

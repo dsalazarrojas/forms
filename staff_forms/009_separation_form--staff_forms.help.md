@@ -1,10 +1,3 @@
-<thinking>...
-To create a comprehensive help guide for the "separation_form", I will first consider the purpose of the form. Based on the provided YAML, this form seems to be related to the separation or resignation of an employee, as it includes various fields such as "Exit Reason", "Departure Date", "Reason for Leaving", "New Employer", "New Job Title", and "Final Paycheck". This form likely serves as a template for documenting and processing employee separation information, including details about the reason for separation, new employment details, and benefits.
-The form appears to be divided into multiple pages, each with its own set of fields. Page 1 is for employee details, page 2 for exit reason, page 3 for departure date, and so on. This suggests that the form is meant to be filled out in a sequential manner, one page at a time.
-The various fields within the form suggest that it is meant for both the employee and the employer to provide information about the separation. This includes details such as the employee's ID, job title, job location, outplacement assistance, and final pay period.
-To prevent duplication, it's likely that this form will be used to update or create a record in a database or other system. To prevent incorrect or incomplete form submissions, it's essential to provide clear guidelines for the user to follow.
-</thinking>
-
 # separation_form - Help Guide
 ## Purpose
 The separation_form is a template used to document and process employee separation information. It provides a systematic way for employees to provide details about their separation, including exit reason, departure date, reason for leaving, new employment details, and benefits.

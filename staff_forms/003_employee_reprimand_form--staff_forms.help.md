@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to document an employee reprimand, a formal disciplinary action taken against an employee for misconduct or unsatisfactory performance. The purpose of this form is to collect relevant details about the incident, such as the reason for the reprimand and the specific behavior that necessitated it. This form is typically used by managers or HR representatives to record and document the reprimand, with the goal of maintaining accurate records and ensuring consistency in disciplinary actions.
-To avoid confusion and duplication, please ensure that this form is only used for formal, documented reprimands and not for casual feedback or warnings. If you're unsure about the appropriateness of this form, please consult with your HR department or supervisor.
-</thinking>
-
 # employee_reprimand_form - Help Guide
 ## Purpose
 The employee reprimand form is a formal document used to record and document disciplinary actions taken against employees. It's essential to use this form for official, documented reprimands only.

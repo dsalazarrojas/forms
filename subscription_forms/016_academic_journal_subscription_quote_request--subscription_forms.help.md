@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Journal Subscription Quote Request - Help Guide
 ## Purpose
 This form is designed to gather information from users interested in requesting a quote for academic journal subscriptions. It helps us understand their specific needs and requirements for accessing journal content. Please fill out this form carefully to ensure we provide an accurate quote for your needs.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to recognize and celebrate employees within the organization for their exceptional work and contributions. It's used to formally acknowledge and reward employees for their achievements, which can boost morale, motivation, and overall job satisfaction. This form should only be completed when an employee has been selected for this recognition award.
-
-Before proceeding, ensure that the employee selection has been made and that the award is intended as a genuine recognition of their work. If unsure, consult with a supervisor or manager for confirmation.
-
-The goal is to capture relevant details about the employee, including their manager's input, dates, and awards or rewards given. This form will help maintain consistency and accuracy in documenting employee achievements and recognition.
-
-</thinking>
-
 # Employee Of The Month Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-The Educational Environment Assessment Quiz form is designed to assess the educational environment of a classroom. This form is used to collect feedback from students to evaluate the quality of the educational environment, class resources, and overall teaching quality. 
-The form will be completed by students to provide their opinions and suggestions on the educational environment, class resources, and teaching quality. This information will be used to make improvements to the educational environment and to provide feedback to instructors on areas of improvement. 
-This form should only be completed by students, not instructors or other stakeholders. 
-</thinking>
-
 # Educational Environment Assessment Quiz - Help Guide
 
 ## Purpose

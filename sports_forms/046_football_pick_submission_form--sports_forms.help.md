@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to submit football pick submissions, including game IDs, pick types, and scores for both home and away teams. It's likely used for sports analytics or prediction purposes. It's a general-purpose form, so you may not need to submit all fields. Please ensure you're submitting a valid game ID and pick type. Note that some fields are optional.
-</thinking>
-
 # Football Pick Submission Form - Help Guide
 ## Purpose
 The Football Pick Submission Form is designed for users to submit their football picks, including game IDs, pick types, and scores for both home and away teams.

@@ -1,7 +1,3 @@
-<thinking>
-The Student Loan Assistance Request Form is a document used by students to request assistance with their student loans. To ensure that each request is processed correctly and efficiently, we must verify that the form is filled out accurately and completely. Please review the form carefully to ensure that you are providing all required information. Note that some fields are optional, but providing the most accurate and up-to-date information will help expedite the processing of your request. If you are unsure about any field, please reach out to the relevant department for guidance.
-</thinking>
-
 # Student Loan Assistance Request Form - Help Guide
 ## Purpose
 The Student Loan Assistance Request Form is designed to provide students with the necessary information and tools to request assistance with their student loans. By filling out this form, you will be able to provide detailed information about your loan needs, including your current status as a student, loan amount, repayment plan, and more.

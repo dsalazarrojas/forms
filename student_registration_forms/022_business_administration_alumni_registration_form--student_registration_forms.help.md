@@ -1,14 +1,3 @@
-<thinking>
-We will use this form to gather information from alumni to stay connected with them after graduation, to provide them with opportunities for mentorship, professional development, and volunteering. This information will help us tailor our engagement efforts and provide a platform for alumni to reconnect with the institution and its community.
-
-Before completing this form, ensure that you have all necessary information ready, as required fields are marked as such. 
-
-This form should not be used for multiple submissions by the same person. If you've already submitted your information, please do not submit again. 
-
-Please be honest and accurate when filling this form, as it will help us provide you the best services and opportunities.
-
-</thinking>
-
 # Business Administration Alumni Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from graduates of the Business Administration program to help us stay in touch and provide opportunities for mentorship, professional development, and volunteering.

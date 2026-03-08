@@ -1,7 +1,3 @@
-<thinking>
-This form was created to assist HR departments in registering new employees, ensuring that all relevant information is accurately captured for employee records. The form is designed to be a straightforward way to collect employee details without overwhelming the user with excessive questions. This form will collect essential employee details for future reference and administrative tasks.
-</thinking>
-
 # Employee Registration Form - Help Guide
 ## Purpose
 The Employee Registration Form is a simple registration form created for HR departments to accurately capture essential details of new employees.

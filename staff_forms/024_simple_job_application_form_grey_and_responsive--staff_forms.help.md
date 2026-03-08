@@ -1,5 +1,3 @@
-<thinking>...This form is designed to capture basic job application information from end users, including the job title, job description, contact information, and skills relevant to the job. The form's purpose is to collect necessary details to facilitate the job application process, ensuring that applicants have a chance to present their qualifications and fit for the position. Ensure the information is accurate to increase the chances of successful job matching...</thinking>
-
 # simple_job_application_form_grey_and_responsive - Help Guide
 ## Purpose
 This form is designed to collect basic job application information to facilitate the job application process.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help students schedule appointments with advisors. The purpose of this form is to collect information about the student's availability and preferences for a meeting with an advisor. This form is intended for students who want to schedule meetings with advisors for various reasons, such as seeking academic guidance, discussing course selection, or addressing personal issues. The form's fields are designed to be simple and straightforward, ensuring that students can easily provide the necessary information to schedule an appointment that suits their needs.
-
-Before filling out this form, please ensure that you are not duplicating an existing appointment or seeking an advisor for the same purpose. If you have already scheduled an appointment with an advisor for the same reason, please do not submit this form again.
-
-This form is designed to be used by students who need to schedule meetings with advisors for various reasons, such as academic guidance, course selection, or personal issues. If you are not a student, please do not submit this form.
-
-Please note that the form is not affiliated with any specific form platform or institution. The form's fields are designed to be simple and easy to understand, ensuring that students can quickly and accurately provide the necessary information to schedule an appointment.
-
-</thinking>
-
 # Student Advisor Appointment Form - Help Guide
 ## Purpose
 The purpose of this form is to help students schedule meetings with advisors for various reasons, such as academic guidance, course selection, or personal issues.

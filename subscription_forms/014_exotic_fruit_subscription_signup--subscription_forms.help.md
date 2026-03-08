@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a subscription service that delivers exotic fruit to customers. The form allows customers to create an account, select the type of exotic fruit they would like to receive, choose a payment method and frequency, and provide necessary delivery information such as address, date, and time. The form also collects optional information such as a description, delivery notes, and a note for the customer. This form is designed for customers who want to sign up for a subscription service that caters to their specific exotic fruit preferences and delivery needs.
-</thinking>
-
 # Exotic Fruit Subscription Signup - Help Guide
 ## Purpose
 This form is designed to collect information for a subscription service that delivers exotic fruit to customers. It helps us understand your preferences for the type of fruit, delivery frequency, and payment method you would like to use.

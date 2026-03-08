@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to help end users understand the purpose and usage of the "Square Book Order Form" form. This form is designed to collect information from customers when placing an order for books, including their name, contact details, and order specifics such as items, quantity, price, and tax. Before proceeding, please ensure that you have a clear understanding of what this form is for and that you are not duplicating an existing form.
-
-</thinking>
-
 # Square Book Order Form - Help Guide
 ## Purpose
 The Square Book Order Form is a user-friendly form designed to help customers provide their order information for books. It is essential to fill out this form accurately to ensure that your order is processed correctly.

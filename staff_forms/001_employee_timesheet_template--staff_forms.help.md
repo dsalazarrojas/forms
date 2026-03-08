@@ -1,8 +1,3 @@
-<thinking>
-  This guide explains the Employee Timesheet Template form, which is used by employees to track their work hours, attendance, and other relevant details. The form is meant to be completed by employees to provide an accurate record of their working hours, tasks, and projects for payroll purposes. 
-  This form should not be used for other purposes such as requesting vacation or leave, as that would require a separate form for vacation request.
-</thinking>
-
 # Employee Timesheet Template - Help Guide
 ## Purpose
 The Employee Timesheet Template is a form used by employees to track their work hours, attendance, and other relevant details for payroll purposes.

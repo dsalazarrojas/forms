@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess a student's progress in early education. The purpose of this form is to gather information from instructors or educators who have interacted with the students. The form asks for feedback on the student's child development, social interaction, and cognitive development. It also provides space for overall comments, recommendations, and ratings. The form can be completed by anyone who has interacted with the student, and it does not require authentication or login. The form is designed to be completed by educators, instructors, or anyone who has had contact with the student.
-</thinking>
-
 # Final Assessment For Early Education - Help Guide
 ## Purpose
 The Final Assessment For Early Education form is used to collect feedback and information from educators, instructors, or anyone who has interacted with the student. This form helps to assess a student's progress in early education, focusing on their child development, social interaction, and cognitive development.

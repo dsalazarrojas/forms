@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to collect information from employees about their willingness to get the COVID-19 vaccine. The purpose of this form is to gauge employees' interest in getting vaccinated, their reasons for getting vaccinated or not, and any concerns or concerns they may have. This form will help the HR department to better understand the needs and concerns of employees and provide necessary support and resources to address these concerns.
-</thinking>
-
 # COVID 19 Vaccine HR Survey - Help Guide
 ## Purpose
 The COVID-19 Vaccine HR Survey is designed to collect information from employees about their willingness to get the COVID-19 vaccine, their reasons for getting vaccinated or not, and any concerns or concerns they may have. This information will help the HR department to better understand employee needs and concerns.

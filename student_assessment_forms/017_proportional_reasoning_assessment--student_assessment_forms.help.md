@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess the student's understanding, concept, application, performance, growth, and other attributes in relation to the proportional reasoning ability. The form is typically used for formative or summative evaluations, allowing teachers or educators to gauge the student's grasp of mathematical concepts, such as ratios, proportionality, or equivalent ratios. 
-The purpose of this form is to gather information from teachers or assessors about the student's strengths and weaknesses, and to provide guidance on how the student can improve.
-The questions asked are multiple-choice or open-ended, allowing the assessor to provide detailed comments and suggestions for the student.
-</thinking>
-
 # Proportional Reasoning Assessment - Help Guide
 
 ## Purpose

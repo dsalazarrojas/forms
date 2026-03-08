@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to document an HR investigation, likely for addressing workplace incidents or issues. The form's purpose is to collect relevant information from the parties involved and any witnesses. The form may be used for various types of investigations, such as harassment, bullying, or workplace accidents. The goal is to gather accurate and objective facts to help HR resolve the issue. This form is intended for internal use and should not be used for external purposes. 
-
-The form consists of a series of fields that require input from the parties involved and any witnesses. Each field is explained below.
-
-</thinking>
-
 # HR Investigation Form - Help Guide
 ## Purpose
 This form is used to collect information for an HR investigation. It may be used for various types of investigations, such as harassment, bullying, or workplace accidents.

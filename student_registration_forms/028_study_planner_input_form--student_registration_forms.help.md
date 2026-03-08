@@ -1,14 +1,4 @@
-# <thinking>
-The purpose of this form, "study_planner_input_form", is to gather information from students about their goals and preferences related to studying. This form is meant to be used by students to submit their input and schedule their study plans. The information gathered will be used to provide personalized support and resources to students.
-The form is designed to be completed by students in order to:
-- help them set clear goals for their studying
-- allow them to schedule their study time and dates
-- provide their scheduling preferences
-
-We expect the form to be completed by students who need help in planning their studies. This form is not for other users or administrators.
-</thinking>
-
-# study_planner_input_form - Help Guide
+# # study_planner_input_form - Help Guide
 ## Purpose
 The study_planner_input_form is designed to collect information from students about their study goals, preferences and schedules. This form helps students set clear goals and schedule their study time and dates, providing personalized support and resources to aid in their study planning.
 

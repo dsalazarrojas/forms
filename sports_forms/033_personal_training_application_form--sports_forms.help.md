@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals interested in pursuing personal training. The form is part of a broader system for matching clients with suitable training programs. To ensure that the form is completed correctly, we need to verify that the provided information is accurate and up-to-date. Please note that some fields are not required, but it's essential to fill them out if possible to provide a more comprehensive understanding of the client's needs.
-</thinking>
-
 # Personal Training Application Form - Help Guide
 ## Purpose
 The Personal Training Application Form is designed to collect information about individuals interested in pursuing personal training. This form helps us match clients with suitable training programs that cater to their specific needs and goals.

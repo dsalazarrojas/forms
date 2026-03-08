@@ -1,9 +1,3 @@
-<thinking>
-The internal reasoning block is required to explain the form's purpose and check for relevance and non-duplication. In this case, the form appears to be a membership resignation request form, designed for staff members to provide their resignation details. 
-The form is likely used to gather information from staff members who wish to resign from the club, including their name, reason for resignation, and other relevant details. It is possible that this form is used to facilitate a smooth transition process for the departing staff member.
-Before proceeding, please ensure that you are filling out the correct form for your purpose and that you have read and understood the instructions below.
-</thinking>
-
 # membership_resignation_request_form - Help Guide
 ## Purpose
 The membership resignation request form is a tool for staff members to submit their resignation from the club. This form helps to ensure a smooth transition of information and responsibilities.

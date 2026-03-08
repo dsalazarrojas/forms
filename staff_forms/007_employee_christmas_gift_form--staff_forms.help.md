@@ -1,14 +1,3 @@
-<thinking>
-The purpose of the "employee_christmas_gift_form" is to collect information on employees' Christmas gift preferences, including their name, email, preferred gift category, gift type, budget range, department, manager's name, message, preferred gift amount, gift frequency, employee position, department, and whether to give a holiday gift. This form should help HR or department managers understand their team members' preferences to plan a more personalized and appreciated Christmas gift. 
-
-The main goal of this form is to ensure that all employees' needs and preferences are considered when purchasing holiday gifts, making the gift-giving process more successful and enjoyable for everyone involved.
-
-To prevent duplicate submissions, it's recommended to use a unique identifier for each employee. If a form is submitted with an existing identifier, it will be automatically rejected, and an error message will be displayed to the user.
-
-Please note that the fields are mostly optional, but some might be required depending on the specific company policies.
-
-</thinking>
-
 # employee_christmas_gift_form - Help Guide
 ## Purpose
 The "employee_christmas_gift_form" is a form designed to collect information on employees' Christmas gift preferences. This form is meant to help HR or department managers understand their team members' preferences to plan a more personalized and appreciated Christmas gift.

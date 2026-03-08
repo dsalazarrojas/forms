@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture information for graduates' recognition and awards. It appears to be related to academic achievements and milestones. 
-
-To confirm, the form is intended to document graduation information such as student details, graduation dates, degree and recognition types, and other relevant details. The form is likely used for internal tracking and record-keeping purposes, and may be used to generate formal recognition or certificates for graduates.
-
-This form is composed of multiple fields, including student information, graduation details, recognition types, and other relevant fields. Some fields are required, while others are optional. 
-
-Please ensure that you have reviewed the relevant policies and guidelines for completion of this form. If you are unsure about any aspect of this form, please consult with the relevant authority.
-
-</thinking>
-
 # Graduation Recognition Form - Help Guide
 ## Purpose
 The Graduation Recognition Form is used to document and recognize academic achievements, graduations, and awards. It captures essential information about students, their graduation, and recognition details.

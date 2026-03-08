@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request an unpaid leave of absence for an employee. The form is used for staff members who are requesting a break from work due to personal or professional reasons. The form is typically completed by the staff member themselves or by a manager/representative on their behalf. The form is an internal communication tool for staff to inform the organization of their intention to take an unpaid leave of absence. This form is not intended to be a comprehensive leave of absence application, rather a way to provide staff with a quick and easy way to request a break.
-</thinking>
-
 # Unpaid Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used to notify the organization of an unpaid leave of absence. Please fill out the form below to provide necessary information for processing your request.

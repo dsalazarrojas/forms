@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect basic contact information and demographic data from individuals interested in joining a wrestling team. It is likely intended for sports teams, schools, or clubs to manage their registration process. Before proceeding, ensure that you are eligible to join a wrestling team and that the information you provide is accurate and up-to-date.
-
-</thinking>
-
 # Registration Form For Wrestling Team - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from individuals interested in joining a wrestling team.

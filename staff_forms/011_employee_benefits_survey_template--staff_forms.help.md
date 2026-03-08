@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information on employee benefits, including job title, department, and benefits provider. This form is designed to be user-friendly and easy to fill out, and the instructions and explanations below will guide you through each field. Before proceeding, ensure that the information is relevant to your organization and not a duplicate entry. If unsure, review your internal records to confirm the purpose of the form and its relevance to your business needs.</thinking>
-
 # Employee Benefits Survey Template - Help Guide
 ## Purpose
 The Employee Benefits Survey Template is designed to collect information on employee benefits, including job title, department, and benefits provider.

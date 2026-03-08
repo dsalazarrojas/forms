@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nasal Cavity Anatomy Quiz - Help Guide
 ## Purpose
 This form is designed to assess the knowledge of students on the anatomy of the nasal cavity. The purpose of this quiz is to test their understanding of the various structures and functions of the nasal cavity. Completing this quiz will help students gauge their understanding of the nasal cavity's posterior, anterior, medial, and lateral walls, as well as its primary function and the correct examination procedures.

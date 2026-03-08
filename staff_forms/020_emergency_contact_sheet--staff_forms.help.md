@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for emergency contact purposes, likely for situations where the user needs to provide contact details for emergency situations. This form likely aims to gather the necessary information to quickly and effectively contact someone in case of an emergency.
-The form is likely used in an educational or institutional setting, such as a school, university, or corporate environment, where students, faculty, or staff may need to provide contact details for emergencies.
-This form might be used to gather information for students, parents, or staff members to have a quick and easy way to contact emergency contacts, such as in case of an illness, injury, or other emergencies.
-Before completing this form, please review the required fields to determine if they apply to your situation, and make sure not to duplicate any existing information.
-</thinking>
-
 # emergency-contact-sheet - Help Guide
 ## Purpose
 The Emergency Contact Sheet is a form used to collect information from students, parents, or staff for emergency contact purposes. It is designed to gather the necessary details to quickly contact emergency contacts in case of an illness, injury, or other emergencies.

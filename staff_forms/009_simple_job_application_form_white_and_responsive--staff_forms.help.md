@@ -1,7 +1,3 @@
-<thinking>
-This form is likely part of a hiring process within an organization, possibly for internal job openings or freelance work. 
-</thinking>
-
 # simple_job_application_form_white_and_responsive - Help Guide
 ## Purpose
 This form is designed to collect job application information from applicants. It gathers contact details, job preferences, and work experience for the hiring team to review and consider for potential positions.

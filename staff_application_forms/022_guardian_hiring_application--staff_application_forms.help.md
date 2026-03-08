@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist in the hiring process for guardians, typically used by schools, educational institutions, or other organizations that interact with children. It is intended to gather relevant information about the candidate, their qualifications, and references. The form should only be completed by the individual or entity being hired as a guardian, and not by third parties or external agents. Please ensure that the submitted form is accurate and not duplicated or falsified, as it will be used for official purposes.
-</thinking>
-
 # Guardian Hiring Application - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a guardian candidate, including their details, references, and qualifications. This form is typically used by schools, educational institutions, or other organizations interacting with children.

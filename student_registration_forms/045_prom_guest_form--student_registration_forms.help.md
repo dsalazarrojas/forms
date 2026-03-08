@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form, "prom_guest_form", is to collect registration information from guests attending a promotion event. This form is designed to gather essential details such as names, contact information, and other relevant data for the promotion event. It's crucial to ensure that all the required fields are filled correctly and accurately to avoid any discrepancies during the event.
-
-Before filling out this form, please check that you are not duplicating any existing registration. If you have already registered, you do not need to fill this form again.
-
-</thinking>
-
 # prom_guest_form - Help Guide
 ## Purpose
 The prom_guest_form is a registration form for guests attending a promotion event. It collects essential details such as names, contact information, and other relevant data for the event's organization and management.

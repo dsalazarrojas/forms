@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is for individuals to apply to become contributors or writers for a beauty magazine. It's designed to gather information about their personal and professional background, writing experience, and interests. The goal is to find suitable candidates who can create engaging content for the magazine. To ensure that the form is not used for spam or non-relevant purposes, internal systems should prevent multiple submissions from the same or similar applications.
-</thinking>
-
 # Beauty Magazine Contributor Application Form - Help Guide
 ## Purpose
 This form is designed to help the magazine find suitable writers and contributors for upcoming issues. It's a step-by-step guide to help you get started.

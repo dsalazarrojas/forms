@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal and membership information from individuals interested in joining a gym membership program. The purpose of this form is to gather essential details for the gym staff to manage membership records accurately. To ensure the form is completed correctly, please review each field carefully.
-</thinking>
-
 # gym_membership_form - Help Guide
 ## Purpose
 This form is used to collect personal and membership information from individuals interested in joining a gym membership program.

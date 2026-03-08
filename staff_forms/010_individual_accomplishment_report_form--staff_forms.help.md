@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Individual Accomplishment Report Form - Help Guide
 
 ## Purpose

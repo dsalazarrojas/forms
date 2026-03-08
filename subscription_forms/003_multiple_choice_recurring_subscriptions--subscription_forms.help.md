@@ -1,14 +1,3 @@
-<thinking>
-This form is used to select a subscription service, choose the type of subscription (if applicable), set a recurring start date, an optional end date, and define the frequency of the subscription (if applicable). To ensure accurate and complete submission, please review each field carefully.
-
-The form will guide the user through two pages of input fields, each with its own distinct purpose and set of options.
-
-The form does not require a specific date range, so users can select any date for the recurring start date or leave it blank if the subscription has no end date. Similarly, for the recurring end date, users can input a specific date or leave it blank if the subscription has no end date. The subscription frequency field also does not have an enforced limit, allowing users to choose from the given options or leave it blank if no selection is needed.
-
-Please ensure that the subscription type and subscription frequency are only filled out if they are applicable and required for the selected service.
-
-</thinking>
-
 # multiple_choice_recurring_subscriptions - Help Guide
 ## Purpose
 The multiple choice recurring subscription form allows users to select a subscription service, specify the subscription type and start date, and optionally define the frequency and end date of their subscription.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended to register staff for Expo Health & Safety procedures, ensuring they have provided necessary contact information and emergency contact details in case of an incident or accident. This form may be used for staff members who are required to have emergency contact information on file for expo-related events. To avoid duplication, staff members must not submit this form if they have already registered in the past year.
 
 # Expo Health & Safety Staff Registration Form - Help Guide

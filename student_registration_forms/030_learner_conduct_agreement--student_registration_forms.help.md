@@ -1,7 +1,3 @@
-<thinking>
-The Learner Conduct Agreement form is designed to collect acknowledgement and signature from learners, ensuring they understand and agree to specific conduct rules and guidelines. This form helps create a safe and productive learning environment. The form requires learners to acknowledge and sign the date they have read and agree to the conduct rules. This form is intended for educational institutions and is not affiliated with, endorsed by, or derived from any form platform.
-</thinking>
-
 # Learner Conduct Agreement - Help Guide
 ## Purpose
 The Learner Conduct Agreement form is a crucial document that ensures learners understand and agree to specific conduct rules and guidelines in a learning environment.

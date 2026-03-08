@@ -1,28 +1,3 @@
-<thinking>
-This form appears to be a comprehensive assessment of the sports fan experience at a venue. It covers various aspects of the event, including the general experience, event details, venue specifics, and staff interactions. This form likely aims to gather feedback on the overall quality of the event and identify areas for improvement. Before creating this user guide, let's consider the following questions:
-  - What are the primary goals of the form, and how will it be used by the stakeholders? 
-  - Are there any specific requirements or restrictions on how to complete this form?
-  - Are there any potential issues that might arise during the completion of this form?
-
-Let's assume that the form is designed to gather feedback from sports fans after attending an event at the venue, and the primary goal is to identify areas for improvement to enhance the overall fan experience.
-
-The primary goals of this form are to:
-- Gather feedback on the event's general experience.
-- Assess the quality of event details such as organization, communication, and staff interactions.
-- Evaluate the venue's specifics, including food and drink, parking, and event location.
-- Rate the event's atmosphere, staff professionalism, and overall satisfaction.
-
-The form is likely to be completed by sports fans, and the completion process should be clear and straightforward.
-
-There are no specific requirements or restrictions on how to complete this form. However, users may need to choose from the provided options for certain fields, such as event details and staff interactions.
-
-There might be issues that arise during the completion of this form, such as:
-- Users may be unsure about which options to choose for certain fields, or they may struggle to articulate their thoughts and feelings about their experience.
-
-To address these potential issues, this guide will aim to provide clear explanations and examples to assist users in completing the form accurately and confidently.
-
-</thinking>
-
 # Sports Fan Experience At Venue Survey - Help Guide
 
 ## Purpose

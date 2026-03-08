@@ -1,12 +1,3 @@
-<thinking>
-This form is used to capture information from the club owner to re-open a fitness club after a period of closure. This form is meant to be filled out by the club owner or their representative. The purpose of this form is to help us gather necessary information to properly re-open the club.
-
-When filling out this form, make sure to check if you've filled out the same form before. This form should only be filled out by the person authorized to re-open the club.
-
-Please provide clear and accurate information to ensure a smooth and efficient re-opening process.
-
-</thinking>
-
 # Fitness Club Re Opening Survey - Help Guide
 ## Purpose
 The Fitness Club Re Opening Survey is a form used to gather information from club owners to re-open a fitness club after a period of closure.

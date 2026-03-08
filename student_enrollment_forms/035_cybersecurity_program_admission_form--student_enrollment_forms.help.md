@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for students applying for the Cybersecurity Program. It's meant for individuals with a strong interest in cybersecurity, seeking to develop or enhance their skills in this field. The form collects various information from the applicant, including their basic details (first and last name, email, and phone number), demographic data (date of birth and address), academic and professional background (academic background, GPA, test scores, and computer science background), language proficiency, and work experience. This form will help the program's administrators to evaluate the applicants' suitability for the program.
-</thinking>
-
 # Cybersecurity Program Admission Form - Help Guide
 ## Purpose
 The Cybersecurity Program Admission Form is a comprehensive application form designed to help the program's administrators evaluate applicants' suitability for the program. The form collects information from different areas of a candidate's background, including personal, academic, and professional details.

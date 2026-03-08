@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Benefits Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to help employees rate their satisfaction with the benefits package provided by the organization. The survey aims to gather feedback on various aspects of the benefits package, including health insurance, retirement package, employee assistance program, and overall satisfaction.

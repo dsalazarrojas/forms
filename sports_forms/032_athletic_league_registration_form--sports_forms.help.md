@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from athletes registering for a sports league. The purpose of this form is to gather essential data for athlete registration, including personal details, contact information, and sport-specific data. The form is split into multiple pages to ensure that the athlete can easily navigate through it. To avoid duplication of effort, it is recommended that athletes review the form carefully before submitting it to ensure all required fields are filled and accurate information is provided.
-
-</thinking>
-
 # Athletic League Registration Form - Help Guide
 ## Purpose
 

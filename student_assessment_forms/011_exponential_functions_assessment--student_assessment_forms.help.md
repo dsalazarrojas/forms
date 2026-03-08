@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess students' understanding of exponential functions, specifically their properties and characteristics. It is likely used in mathematics education to evaluate students' knowledge of exponential functions, including their domains, asymptotes, and other important attributes. This form may be used by teachers, instructors, or educators to collect data on students' understanding of these concepts. It is possible that this form is part of a larger assessment or evaluation tool used to measure student learning outcomes.
-
-To ensure accuracy and relevance, please ensure that the form is filled out in the context of a mathematics education setting, and that the fields are completed based on the properties and characteristics of exponential functions.
-
-</thinking>
-
 # Exponential Functions Assessment - Help Guide
 ## Purpose
 This form is designed to assess students' understanding of exponential functions, specifically their properties and characteristics.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Student Social Skills Assessment Form - Help Guide**
 
 ## Purpose

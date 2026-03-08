@@ -1,9 +1,3 @@
-<thinking>
-We have a Jacket Order Form. This form is used by storekeepers to record orders from customers. It's a crucial document that captures essential information about each sale, including customer details, order specifics, and sales data. To avoid duplicate records and ensure accuracy, please fill out the form with care, and only submit it after you have verified the information.
-
-This form is designed to be completed by storekeepers, but it's intended for internal use within the store. The form will help in maintaining a smooth and organized sales process, which can aid in decision-making and improve customer service.
-</thinking>
-
 # Jacket Order Form - Help Guide
 ## Purpose
 The Jacket Order Form is used by storekeepers to record orders from customers, capturing essential information about each sale.

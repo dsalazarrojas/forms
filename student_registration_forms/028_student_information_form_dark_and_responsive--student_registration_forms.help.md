@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect student information for registration, which includes demographic data, contact details, and academic credentials. The form is intended to be filled out by students, and the information collected will be used for administrative purposes within the institution. This form is not intended for public display or sharing. 
-</thinking>
-
 # student_information_form_dark_and_responsive - Help Guide
 ## Purpose
 This guide is intended to assist students in filling out the Student Information Form, which is used to collect demographic data, contact details, and academic credentials for registration purposes.

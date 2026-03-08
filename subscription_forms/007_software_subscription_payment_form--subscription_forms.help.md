@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Software Subscription Payment Form - Help Guide
 ## Purpose
 The Software Subscription Payment Form is designed to collect payment information from customers for various subscription plans. This form is used to process payment and subscription details for new and existing customers.

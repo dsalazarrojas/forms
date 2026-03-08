@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to assess a student's understanding of an educational unit, which can be a collection of lessons or topics that are part of a broader course or curriculum. The form is designed to gather feedback and insights from students about their learning experience, specifically regarding the unit's lessons and topics. The form's purpose is to evaluate the effectiveness of the educational unit and identify areas that need improvement.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata as inspiration. The form's content does not copy, extract, or use proprietary content from any form creation, data collection, or survey platform. The form is released under the Creative Commons Attribution 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-
-</thinking>
-
 # Educational Unit Understanding Assessment - Help Guide
 ## Purpose
 This form is designed to help educators evaluate the effectiveness of an educational unit and gather feedback from students about their learning experience.

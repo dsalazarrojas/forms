@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about a store's profile. This includes address, hours of operation, description, services offered, products sold, services details, hours details, location, and store employees. To avoid duplication, users should only fill out this form for a new or updated store profile. 
-</thinking>
-
 # Store Profile Form - Help Guide
 
 ## Purpose

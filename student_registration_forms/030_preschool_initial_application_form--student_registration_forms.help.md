@@ -1,13 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, let's break down the form's purpose and potential areas of duplication to ensure a smooth user experience.
-
-The "Preschool Initial Application Form" is designed to collect essential information from parents or guardians about their child's enrollment in a preschool program. This form aims to capture crucial details such as parental contact information, child's personal details, and program specifics.
-
-To avoid duplication, we should ensure that the form is filled out correctly and thoroughly, and that users understand the fields' purpose and requirements.
-
-Let's move on to the user-facing help guide.
-</thinking>
-
 # Preschool Initial Application Form - Help Guide
 
 ## Purpose

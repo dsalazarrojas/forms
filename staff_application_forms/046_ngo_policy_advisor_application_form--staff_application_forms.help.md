@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for staff to apply for the NGO Policy Advisor position within our organization. The purpose of this form is to collect information about the applicant's qualifications, work experience, and availability for this role. 
-
-Before completing this form, please ensure you have all the required documents and information ready, especially your resume and contact details. 
-
-Please note that some fields may overlap or have similar questions; however, each field contributes to a comprehensive understanding of your application.
-
-Please carefully review the fields below and provide accurate information to avoid any issues with your application.
-
-</thinking>
-
 # NGO Policy Advisor Application Form - Help Guide
 
 ## Purpose

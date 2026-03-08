@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to aid the progress tracking and reporting of doctoral program activities and challenges. It is intended to be completed monthly. Please note that this form is a generic adaptation and does not contain any proprietary content. It is released under a Creative Commons license and can be freely used, modified, and distributed. If you have any questions or concerns, please contact form@gic.mx.
-
-</thinking>
-
 # Doctoral Program Monthly Check In - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured and consistent way for doctoral students to report their progress, challenges, and activities on a monthly basis. This will help in tracking and monitoring progress, identifying areas of improvement, and facilitating the advisor-student communication and support.

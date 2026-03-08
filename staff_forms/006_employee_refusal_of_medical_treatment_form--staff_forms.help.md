@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to capture information from employees who refuse medical treatment in a hospital setting. The purpose of this form is to document the refusal of medical treatment in a standardized and clear manner, ensuring that all necessary details are captured accurately.
-
-The form is intended to be filled out by hospital staff members who need to document refusals of medical treatment. The form should be used for employees who are not willing to receive medical treatment, whether it's a specific type of treatment or a general refusal of treatment. The form helps to ensure that the refusal is documented and communicated effectively to other hospital staff.
-
-To complete this form, the following steps should be followed:
-
-1.  Enter the employee's name in the "employee_name" field.
-2.  Enter the date of the refusal in the "date_of_refusal" field.
-3.  Select the type of treatment refused from the "treatment_refused" field.
-4.  Enter the reason for the refusal in the "reason_for_refusal" field.
-5.  Enter any relevant medical conditions in the "medical_condition" field.
-6.  Sign and date the form with the doctor's signature in the "doctor_signature" field.
-
-</thinking>
-
 # Employee Refusal Of Medical Treatment Form - Help Guide
 
 ## Purpose

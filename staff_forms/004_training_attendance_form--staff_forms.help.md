@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # training attendance form - Help Guide
 ## Purpose
 The "Training Attendance Form" is used by employees to report their attendance status for a specific training session. This form is meant to be filled out by employees after attending or not attending a training session, and is used to track attendance and provide feedback on the training's effectiveness.

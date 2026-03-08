@@ -1,31 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-
-This form is intended to collect information from parents and guardians of children participating in youth sports programs. The form is designed to gather contact details, student information, medical information, payment preferences, and payment details for the programs. 
-
-The form consists of several sections, each collecting different types of data. 
-
-The "Parent Information" section is optional and can be filled out by the parent or guardian. 
-
-The "Student Information" section is also optional and requires information about the student. 
-
-The "Contact Preferences" and "Emergency Contacts" sections are optional and are intended to gather additional contact information for the parent or guardian. 
-
-The "Medical Information" section is optional and requires any medical information that may be relevant to the student's participation in the sports program. 
-
-The "Payment Preferences" and "Payment Details" sections are optional and are intended to gather payment information for the program. 
-
-The "Terms and Conditions" section is optional and requires the parent or guardian to agree to the terms and conditions of the program. 
-
-The "Submit" and "Save Draft" sections are used to save and submit the form, while the "Delete Draft" section is used to discard any unsaved changes. 
-
-Each section is designed to be filled out in a sequential manner, with the parent or guardian able to save and continue filling out the form later with the "Save Draft" and "Submit" functionality. 
-
-The form has been created using public data and is an original adaptation of publicly available information and is released under the Creative Commons Attribution 4.0 license, which allows for modification and distribution without requiring permission from the original creators. 
-
-Please be aware that this form does not collect, extract, or use proprietary content from any form platform.
-</thinking>
-
 # Youth Sports Registration Form - Help Guide
 ## Purpose
 

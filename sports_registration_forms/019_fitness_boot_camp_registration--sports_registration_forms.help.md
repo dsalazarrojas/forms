@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect information from individuals who wish to participate in a fitness boot camp program. The form will help the organizers of the boot camp understand the individual's details, such as name, contact information, level of experience, and payment terms. The fields are divided into several sections, including personal details, emergency contact information, and payment terms. The form will help the organizers to efficiently collect and store the required information.
-
-The following guide will help you complete the form accurately and effectively.
-
-</thinking>
-
 # Fitness Boot Camp Registration - Help Guide
 
 ## Purpose

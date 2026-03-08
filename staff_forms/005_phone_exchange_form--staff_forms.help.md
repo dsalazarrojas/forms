@@ -1,7 +1,3 @@
-<thinking>
-This form is for exchanging phone numbers for internal communication purposes. It ensures that staff can quickly and easily exchange contact information for phone calls or meetings. The form will not be duplicated in our internal systems. This form should only be used for phone number exchanges within the staff. Please do not use this form for external communication.
-</thinking>
-
 # Phone Exchange Form - Help Guide
 ## Purpose
 The Phone Exchange Form is a simple form used for staff to exchange phone numbers for internal communication purposes.

@@ -1,8 +1,3 @@
-<thinking> 
-This form appears to be a Paid Time Off (PTO) Request Form used to record employee requests for paid time off from work. It is likely used by HR or management to track and manage employee leave requests. To ensure this form is used correctly, it is essential to clarify the purpose and usage of each field. 
-
-</thinking>
-
 # Paid Time Off (PTO) Request Form - Help Guide
 
 ## Purpose

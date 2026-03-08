@@ -1,19 +1,3 @@
-<thinking>
-
-To be honest, this form seems to be an extremely comprehensive and detailed "Mineral Properties Assessment" form. The form has 25 fields across multiple pages, and each field is labeled as "text" type with no options or hints provided. This is a bit overwhelming and suggests that the form might be intended for a specific niche audience or industry. Without more context, it's hard to provide a clear explanation of the form's purpose. 
-
-However, based on the field names, it appears that the form is designed to collect information about the general properties of minerals, including rock properties, mineral properties, and other related aspects. 
-
-Before proceeding, I would recommend:
-
-1. Reviewing the form's purpose to ensure it aligns with the actual use case and intended audience.
-2. Simplifying the form by removing redundant fields and organizing them into more logical categories (e.g., separate sections for general properties, rock properties, etc.).
-3. Adding clearer labels, hints, and instructions for each field to facilitate easier understanding and completion.
-
-With these considerations in mind, I'll proceed to create a help guide based on the provided YAML fields.
-
-</thinking>
-
 # Mineral Properties Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about the general properties of minerals, including rock properties and other related aspects. The form will help you gather detailed data about the mineral's characteristics, which can be useful for scientific research, exploration, or educational purposes.

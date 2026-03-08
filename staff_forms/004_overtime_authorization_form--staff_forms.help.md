@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to manage overtime requests for staff members. It captures the details of the overtime request, including the staff member's name, job title, project number, start and end dates, total hours worked, overtime type, manager's approval, department, comments, approved by, approved date and time, total hours approved, overtime status, and overtime notes. The form is required by managers to approve or deny overtime requests, and once approved, it is updated with the approved date, time, and comments.
-
-</thinking>
-
 # Overtime Authorization Form - Help Guide
 ## Purpose
 

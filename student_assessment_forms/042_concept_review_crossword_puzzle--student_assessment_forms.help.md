@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and assessment from students on a concept review crossword puzzle activity. The form is designed to gather information on various aspects of the activity, including submission details, student and instructor information, puzzle topic, difficulty level, completion time, answers, and feedback on the activity's usefulness and enjoyment. This form is likely used by educational institutions to evaluate and improve their teaching materials and methods.
-
-Before creating this form, it's essential to ensure that it doesn't overlap or duplicate any other assessment forms used by the institution. This form should be tailored to the specific needs of the concept review crossword puzzle activity and should not collect unnecessary information.
-
-The form consists of multiple fields that cater to different aspects of the activity, including submission details, student and instructor information, puzzle specifics, and feedback on the activity's effectiveness and enjoyment. The form is designed to be user-friendly and easy to navigate, with clear labels and hints to guide the student through each field.
-
-</thinking>
-
 # Concept Review Crossword Puzzle - Help Guide
 ## Purpose
 

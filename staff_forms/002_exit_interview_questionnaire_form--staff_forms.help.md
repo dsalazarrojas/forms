@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # exit_interview_questionnaire_form - Help Guide
 ## Purpose
 This form is designed to gather information from employees who are leaving the company. The purpose of this form is to collect feedback and insights from departing employees to help the organization improve its processes and policies. Please only complete this form if you are an employee who is officially leaving the company. If you are not, please do not fill out this form.

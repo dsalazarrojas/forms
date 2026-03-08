@@ -1,15 +1,3 @@
-<thinking>
-
-To ensure that this form is properly used and provides valuable feedback, we should consider a few things:
-- This form is intended for customers or visitors of a grocery store to provide feedback on their experience. It's likely that the store management wants to understand what they're doing well and where they can improve.
-- The form should be kept concise and easy to understand, without requiring unnecessary information. This will help users provide honest and helpful feedback.
-- The form's design should be consistent throughout, with clear and concise labels for each field.
-- We should ensure that all required fields are marked as such, and that users understand what's expected from them.
-- Some fields might be confusing or ambiguous, such as "store_keepers_loyalty" (perhaps "store_keepers" is a typo?). We should try to provide clear explanations for these fields.
-- The form's purpose is to gather feedback, so we should make sure to include space for users to provide additional comments or suggestions.
-
-</thinking>
-
 # Grocery Store Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers or visitors of a grocery store about their experience. Please take a few minutes to complete it and provide honest feedback on your visit.

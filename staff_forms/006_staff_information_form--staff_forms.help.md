@@ -1,11 +1,3 @@
-<thinking>
-To confirm, this form is designed for collecting staff information, likely for HR or personnel management purposes. It appears to be comprehensive, covering a range of fields related to employee data, including name, contact information, employment status, job details, and supervisory relationships. This form likely serves as a template for creating or updating staff records.
-
-The form consists of 25 fields, including text fields for name, contact information, and job details, as well as select options for employment status, job type, and job category. It's possible that this form is used for various HR processes, such as employee onboarding, staff updates, or compliance reporting.
-
-Before proceeding, let's review the purpose and fields to ensure we're creating a user-facing help guide that accurately reflects the intended use case.
-</thinking>
-
 # Staff Information Form - Help Guide
 ## Purpose
 The Staff Information Form is used to collect and store staff member information for various HR-related purposes, such as updating staff records, onboarding new employees, or tracking employment status.

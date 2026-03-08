@@ -1,8 +1,3 @@
-<thinking>
-  The purpose of this form is to collect information on the shop assistant's opening routine, ensuring they are equipped and ready to provide excellent customer service. This form helps store managers and owners track and verify that all necessary preparations are done to guarantee a smooth and secure shopping experience for customers.
-  Before starting, ensure that you have not already completed this form for this shop assistant, as repeating this task might be unnecessary. This guide is meant to assist shop assistants in accurately filling out their opening routine checklist, so they can focus on delivering exceptional service.
-</thinking>
-
 # Shop Assistant Opening Routine Checklist - Help Guide
 ## Purpose
 The shop assistant opening routine checklist is designed to ensure that all necessary preparations are completed before assisting customers, maintaining a secure and smooth shopping environment, and providing excellent customer service.

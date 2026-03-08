@@ -1,16 +1,3 @@
-<thinking>
-
-This form is designed for users to provide their personal emergency contact information in case of an emergency or unexpected situation. The purpose of this form is to gather relevant contact information from users, including their emergency contacts' names, phone numbers, and email addresses. This form is likely to be completed by an individual who needs to ensure that their emergency contacts are up-to-date and easily accessible in case of an emergency.
-
-When designing this form, we considered the following:
-
-- The form is divided into multiple pages, allowing users to complete each page individually without overwhelming them with too much information at once.
-- Each page has space for emergency contact 1, 2, and 3, allowing users to list up to 3 emergency contacts.
-- The "Relationship" field is included to help users clearly indicate their relationship with each emergency contact.
-- Optional fields for additional notes and assigned contact are included for users who need to provide more context or specify a specific contact person.
-
-</thinking>
-
 # personal_emergency_contact_form - Help Guide
 ## Purpose
 This form is designed to gather emergency contact information from users in case of an unexpected situation or emergency.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form, called "employee_opinion_survey", serves as a tool for employees and non-employees of an organization to express their opinions and provide feedback about the organization. The purpose of this form is to gather insights and suggestions on various aspects of the organization, including its culture, customer service, management, communication, work-life balance, diversity and inclusion, and overall experience. This information will help the organization to identify areas of improvement and make informed decisions.
-
-The form is divided into several sections, each focused on a specific topic. The responses will be used to inform the organization's development and growth.
-
-</thinking>
-
 # employee_opinion_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from employees and non-employees on various aspects of the organization.

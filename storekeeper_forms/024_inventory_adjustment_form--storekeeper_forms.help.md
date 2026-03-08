@@ -1,7 +1,3 @@
-<thinking>
-This form is used to adjust the inventory levels of items in the system. It is a critical process for maintaining accurate stock levels and preventing discrepancies. Please ensure that the information you enter in this form is accurate and up-to-date. If you are unsure about the purpose or process, please refer to the relevant procedures and policies in your organization.
-</thinking>
-
 # Inventory Adjustment Form - Help Guide
 
 ## Purpose

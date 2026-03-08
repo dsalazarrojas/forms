@@ -1,5 +1,3 @@
-<thinking>... This guide is designed to assist users in filling out the Football Registration Form. The form is used to collect information from football players, including team and player details, contact information, and player's medical status. The form is intended to be completed by players, team administrators, or parents/guardians on behalf of the player. Please ensure that all required fields are filled out accurately and thoroughly. If any field is not applicable, please leave it blank. If you are unsure about any field, please contact the relevant person or entity for clarification. </thinking>
-
 # Football Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from football players, including team and player details, contact information, and player's medical status.

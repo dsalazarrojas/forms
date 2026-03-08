@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adult Sports Roster Form - Help Guide
 ## Purpose
 The Adult Sports Roster Form is used to collect team information for adult sports teams, including the team's name, captain's name and email, and the names and emails of all team members. This form is designed to be filled out by team captains or representatives and is used to register their team for league participation.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CAD Design Subscription Form - Help Guide
 
 ## Purpose

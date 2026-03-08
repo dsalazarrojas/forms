@@ -1,5 +1,3 @@
-<thinking>... (Form purpose: PTO Reimbursement Form, internal use case: HR, employee request for leave reimbursement) ...</thinking>
-
 # PTO Reimbursement Form - Help Guide
 ## Purpose
 This form is used to request and track PTO (Paid Time Off) reimbursements from employees. It is used by HR to manage and process employee PTO requests.

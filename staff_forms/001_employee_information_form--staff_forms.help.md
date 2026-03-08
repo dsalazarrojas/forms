@@ -1,7 +1,3 @@
-<thinking>
-The goal of the employee_information_form is to collect and organize important data about employees. This form is likely part of an HR or administrative process, and its data will be used to update or create employee records in the organization's database. To avoid duplication, ensure that you are not using this form to update existing employee data that has not changed. If you are unsure, please contact the HR department for clarification.
-</thinking>
-
 # employee_information_form - Help Guide
 ## Purpose
 The employee_information_form is a data collection tool used to gather information about employees. This form is used to update or create employee records in the organization's database.

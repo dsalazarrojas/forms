@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Absence Return To Work Form - Help Guide
 ## Purpose
 The Employee Absence Return To Work Form is used to communicate with employees regarding their return to work after an absence. This form allows employees to provide their expected date of return to work and any other relevant information.

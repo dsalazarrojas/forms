@@ -1,15 +1,3 @@
-<thinking>
-
-This form is for managing subscription information for a company. It is used to create, edit, and manage existing subscriptions. 
-
-The purpose of this form is to collect and record subscription details for a specific period and payment schedule. The form is divided into several sections, each with its own set of fields.
-
-The form is used by administrators to create new subscriptions, update existing ones, and track the status of subscriptions.
-
-The form should only be used by authorized users with access to the subscription management system.
-
-</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

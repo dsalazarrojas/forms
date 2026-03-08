@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect feedback from store employees on their interactions with customers during tasting events. The form is not meant to be used for other purposes, such as ordering or inventory management. Before filling out this form, please ensure you are reporting on a legitimate store tasting event. 
-
-The form collects information on the event date, time, type, customer name, email, phone number, and any notes or comments from the customer. This information will be used to improve customer service and provide valuable insights for store operations.
-
-Please note that this form is intended for internal use only and should not be shared with customers.
-</thinking>
-
 # Store Tasting Report Form - Help Guide
 ## Purpose
 The Store Tasting Report Form is designed to gather feedback from store employees on their interactions with customers during tasting events. This information helps improve customer service and inform store operations.

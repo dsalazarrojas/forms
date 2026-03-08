@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, the primary purpose of this form is to collect registration information for an individual who is participating in a sports camp. This form is likely used for administrative purposes to verify the identity and contact information of individuals who are participating or interested in participating in the sports camp. The information collected will be used to ensure that participants are accurately accounted for and that emergency contacts are informed in case of any incident. This form is not intended for general public access, but rather for authorized personnel to collect information in a structured and consistent manner.</thinking>
-
 # sports_camp_registration - Help Guide
 ## Purpose
 This form is used to collect registration information for an individual participating in a sports camp.

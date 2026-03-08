@@ -1,5 +1,3 @@
-<thinking>...This form is designed to be completed by employees who wish to request a change to their salary. It is essential to ensure that the form is completed only once per employee per month, and not to use it for other purposes such as vacation requests, etc. This form should not be submitted if the employee has already received a salary change within the past 3 months, as this may be considered a duplicate request. Please review the form carefully before completing it. Once the form is completed and submitted, it will be reviewed and approved by the HR team. This may take some time, so please be patient. If you have any questions or concerns, do not hesitate to reach out to the HR department. Please ensure that all fields are filled accurately and completely... </thinking>
-
 # Request For Salary Change Form - Help Guide
 ## Purpose
 The purpose of this form is to submit a request to change your salary. This form is for employees who wish to request a salary change and need to provide necessary information to support their request.

@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed for assessing students' language skills in phonetics, a field of study that focuses on the sounds of spoken languages. The form is meant to gather information on various aspects of a student's language proficiency, including their language background, pronunciation skills, and ability to understand spoken language. There are multiple pages with text fields and dropdown options, suggesting that the form might be used for both quantitative and qualitative assessments. Some fields are labeled as "pronunciation samples," which implies that the form may include audio recordings or transcripts of spoken language to be evaluated by the assessor. The form has many identical fields with the same label and type, which might be intended for users to provide multiple comments or ratings. The purpose of this form is to collect data on students' language skills, likely for research or assessment purposes.
-
-Is this form being used for a specific research project, language learning program, or language testing process? Is there a specific set of criteria or standards that the assessors will use to evaluate the students' responses?
-</thinking>
-
 # Phonetics Assessment Survey - Help Guide
 ## Purpose
 The Phonetics Assessment Survey is designed to evaluate students' language skills in phonetics, a field of study that focuses on the sounds of spoken languages.

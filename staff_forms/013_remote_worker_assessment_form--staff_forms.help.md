@@ -1,13 +1,3 @@
-<thinking>
-
-As a remote worker, this form is designed to be used by team members or managers to assess an individual remote worker's performance, productivity, and other factors that influence their work quality and attendance. It helps to identify areas of strength and weakness in a remote worker's performance, allowing for more informed decisions about resource allocation and development opportunities.
-
-The form collects information on the remote worker's rating, comments, productivity, performance, attendance, and other relevant details. It is used for regular assessments, progress monitoring, and development discussions. This form is typically used by team leaders or managers to evaluate remote workers, but it can also be used by remote workers to self-assess their own performance.
-
-This form is designed to be completed for each remote worker, and the results are used for individualized development and resource allocation. To complete this form, please follow the instructions below.
-
-</thinking>
-
 # Remote Worker Assessment Form - Help Guide
 ## Purpose
 The Remote Worker Assessment Form is used to assess a remote worker's performance, productivity, and attendance. It helps to identify areas of strength and weakness, and inform decisions about development opportunities and resource allocation.

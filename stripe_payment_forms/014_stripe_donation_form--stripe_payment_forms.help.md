@@ -1,14 +1,3 @@
-<thinking>
-  Stripe payment forms are used for online fundraising or donations. 
-  This form should only be used for donation purposes. 
-  Please do not use this form for other purposes. 
-  The form is intended to gather user information and payment method details for Stripe payment processing. 
-  Please ensure you have Stripe account to process payments. 
-  Stripe payment forms are used for online fundraising or donation purposes. 
-  The form fields should only be filled out as relevant to your use case. 
-  Do not use the form for other purposes.
-</thinking>
-
 # Stripe Donation Form - Help Guide
 ## Purpose
 This form is for making online donations or payments through Stripe. Only fill out this form for donation or payment purposes. If you're looking for other services, please contact your administrator.

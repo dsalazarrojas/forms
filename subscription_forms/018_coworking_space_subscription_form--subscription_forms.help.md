@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coworking Space Subscription Form - Help Guide
 
 ## Purpose

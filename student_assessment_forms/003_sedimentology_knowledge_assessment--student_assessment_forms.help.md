@@ -1,10 +1,3 @@
-<thinking>
-This form seems to be a comprehensive assessment tool for evaluating students' knowledge of sedimentology. The fields appear to be focused on multiple-choice or short-answer questions, likely used to gauge the students' understanding of various topics within the field of sedimentology.
-
-Before proceeding, I want to reiterate that I will only output the user-facing help guide in Markdown format as requested. The form's purpose, how to complete it, and field-by-field explanation will be clearly explained in the following sections.
-
-</thinking>
-
 # Sedimentology Knowledge Assessment - Help Guide
 ## Purpose
 The Sedimentology Knowledge Assessment is a tool designed to evaluate students' knowledge of sedimentology, a branch of geology that studies the origin, distribution, and character of sedimentary rocks.

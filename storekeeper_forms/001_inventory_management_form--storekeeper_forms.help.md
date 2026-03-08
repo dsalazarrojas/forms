@@ -1,10 +1,4 @@
-> <thinking>
-
-This form is designed for storekeepers to manage the inventory of their stores. The form allows them to add, update, or delete items in their inventory. It is meant to be a centralized platform where storekeepers can easily track and maintain their inventory records. This form is not intended for other purposes such as customer service, so it's essential to use it only for inventory management.
-
-</thinking>
-
-# Inventory Management Form - Help Guide
+> # Inventory Management Form - Help Guide
 
 ## Purpose
 The Inventory Management Form is used by storekeepers to add, update, or remove items from their store's inventory. It helps to ensure accurate and up-to-date inventory records, making it easier to manage stock levels and make informed business decisions.

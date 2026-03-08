@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for a Trade School Student Discharge Form, likely used by educational institutions to document the dismissal of a student from their program. The form should only be used for its intended purpose and not for any other use case.
-</thinking>
-
 # Trade School Student Discharge Form - Help Guide
 ## Purpose
 This form is used to document the discharge of a student from a trade school program. It collects relevant information about the student, the program they were enrolled in, and the reason for their discharge.

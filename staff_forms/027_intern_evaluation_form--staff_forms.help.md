@@ -1,7 +1,3 @@
-<thinking>
-The Intern Evaluation Form is used to evaluate the performance of interns during their tenure. This form is used to gather feedback and insights on their work, behavior, and overall performance. Before filling out this form, ensure that it is relevant to the intern's work period, and that you have not already completed an evaluation for the same intern during this period. The form is divided into multiple pages, each focusing on different aspects of the intern's performance. Please answer all required fields and provide clear, honest feedback to help the intern grow and improve.
-</thinking>
-
 # Intern Evaluation Form - Help Guide
 ## Purpose
 The Intern Evaluation Form is used to gather feedback on an intern's performance during their tenure. It is a comprehensive tool to assess their work, behavior, and overall performance.

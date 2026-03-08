@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Powder Flowability Assessment Quiz - Help Guide
 ## Purpose
 The Powder Flowability Assessment Quiz is a tool used to gauge the powder flowability of a material, which is a measure of how easily a powder can flow or move through a container, equipment, or system. This quiz helps to evaluate the flowability of a powder in various scenarios, providing a subjective assessment based on the experience and knowledge of the respondent.

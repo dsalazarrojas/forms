@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive hourly cleaning schedule template, designed for staff to report their cleaning tasks and activities. It is likely intended for use in a facility or office setting, where staff need to keep track of their cleaning responsibilities and time spent on tasks. The form may be used by facilities management or operations teams to monitor and optimize cleaning schedules.
-
-To avoid duplication of effort, the form has multiple pages with some fields repeated for each page. This suggests that staff will be reporting on different areas or sections of the facility that require cleaning, and the form is designed to accommodate this repetitive process.
-
-The form's structure and field types suggest it is intended for manual or pen-and-paper submission. The fields include text fields for free-form comments, number fields for tracking time spent on tasks, and select_one fields for specifying areas or sections cleaned.
-
-Given the form's structure and field types, it seems that staff will be using this form to report on their cleaning activities and time spent on each area or section of the facility. The form may be used for monitoring and evaluating cleaning schedules, and for identifying areas that require more attention or resources.
-
-</thinking>
-
 # Hourly Cleaning Checklist - Help Guide
 ## Purpose
 The Hourly Cleaning Checklist is a form used by staff to report their cleaning activities and time spent on each area or section of the facility.

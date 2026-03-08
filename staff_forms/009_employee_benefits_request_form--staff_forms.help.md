@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for employees to request benefits from their company. The form will be used to collect information about the employee's requested benefit, including the type of benefit, location, and other relevant details. 
-The form will be used by the HR department to process and manage employee benefit requests. 
-Please make sure to fill out the form accurately and thoroughly to ensure that your request is processed efficiently. 
-
-If you have already submitted a benefit request, you will be able to re-submit your request using the "Re-Submit Request" field.
-</thinking>
-
 # Employee Benefits Request Form - Help Guide
 ## Purpose
 This form is used by employees to request benefits from the company.

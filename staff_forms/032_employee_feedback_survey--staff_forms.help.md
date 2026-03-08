@@ -1,8 +1,3 @@
-<thinking>
-We need to create a help guide for an employee feedback survey form. This form is used to collect feedback from employees about their managers and work environment. The form should be easy to understand and fill out by employees. To ensure that this form is completed accurately, it's essential to provide clear explanations for each field. We should also check that this form is not being used for any other purpose than its intended use, i.e., employee feedback. We should also ensure that the field labels are clear and concise.
-
-</thinking>
-
 # Employee Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees about their managers and work environment. It's intended to help managers understand their team's needs and concerns, and to improve the work environment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by students to request a participation certificate for courses they have attended. Before filling out this form, please ensure that you haven't already submitted a participation certificate request for this institution. If you have filled out this form before for the same institution, you will not be able to submit it again.
-</thinking>
-
 # Student Participation Certificate Request Form - Help Guide
 ## Purpose
 The Student Participation Certificate Request Form is a tool that allows students to request participation certificates for courses they have attended. It is used to gather necessary information from the students for the creation of their participation certificates.

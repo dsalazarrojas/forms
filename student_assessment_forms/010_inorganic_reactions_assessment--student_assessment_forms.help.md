@@ -1,5 +1,3 @@
-<thinking>... internal check to prevent duplication: check if the form is being used in other parts of the application or has a corresponding "completed" timestamp... ...</thinking>
-
 # Inorganic Reactions Assessment - Help Guide
 ## Purpose
 This form is designed to assess a user's understanding of inorganic reactions. It is meant to be used by instructors and educators to evaluate the understanding of inorganic reaction concepts among students. 

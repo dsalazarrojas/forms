@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # household_information_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the household's economic status, size, and income frequency. This information will help in understanding the household's financial situation and provide a better assessment of their needs.

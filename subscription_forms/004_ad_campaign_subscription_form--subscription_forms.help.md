@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential subscribers to help us understand their interests and preferences for advertising campaigns. This form will help us tailor our marketing efforts to better serve your needs and provide relevant content to you. 
-</thinking>
-
 # Ad Campaign Subscription Form - Help Guide
 ## Purpose
 The Ad Campaign Subscription Form is designed to collect information from potential subscribers who are interested in learning more about our advertising services.

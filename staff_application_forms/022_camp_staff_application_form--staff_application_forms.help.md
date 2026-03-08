@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist staff applicants in completing the Camp Staff Application Form correctly and thoroughly. Before filling out this form, please make sure you are a genuine applicant and not a staff member looking to complete the form for someone else. Please review the form carefully and ensure you answer every question accurately. If you are unsure about any particular field, do not hesitate to contact us for assistance.
-</thinking>
-
 # Camp Staff Application Form - Help Guide
 ## Purpose
 The Camp Staff Application Form is used to collect information from potential staff applicants, including personal details, work experience, and other relevant information. This form helps us assess your suitability for staff positions at our camp and ensures we have all the necessary information to process your application.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for a specific purpose: to help staff members declare their awareness and adherence to child protection policies within an organization or school setting. The form aims to capture essential information from staff, ensuring they have agreed to and signed off on child protection policies and procedures. This helps create a safe environment for students and children.
-
-When filling out this form, please make sure you're not duplicating your response. Review the form carefully before submitting your answers to avoid any inconsistencies.
-
-Here's a step-by-step guide to completing this form:
-
-1.  Review the form carefully and ensure you understand the questions and the purpose of the form.
-2.  Answer the questions accurately and honestly.
-3.  Ensure you have all necessary information and documentation before submitting the form.
-
-</thinking>
-
 # Staff Child Protection Declaration - Help Guide
 ## Purpose
 The purpose of this form is to ensure that staff members are aware of and have agreed to child protection policies within the organization or school setting.

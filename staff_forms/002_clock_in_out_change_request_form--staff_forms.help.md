@@ -1,14 +1,3 @@
-<thinking>
-To ensure that the Clock In Out Change Request Form is used correctly and to prevent errors, a brief internal reasoning block is provided here:
-
-This form is intended for employees to request changes to their clock in and clock out times. It is used to correct discrepancies between the actual clock in and clock out times recorded in the system and the actual times they worked. This form is only required when there are discrepancies between the system-recorded times and the actual times worked. 
-
-The form should only be filled out by employees who have discrepancies in their clock in and clock out times. 
-
-Please ensure that you have reviewed the form carefully and that all required fields are filled out accurately before submitting. 
-
-</thinking>
-
 # Clock In Out Change Request Form - Help Guide
 ## Purpose
 The Clock In Out Change Request Form is used to correct discrepancies between the actual clock in and clock out times recorded in the system and the actual times worked.

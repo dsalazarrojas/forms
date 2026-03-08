@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Final Assessment For Drawing Course - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluate the performance of students in the Final Drawing Course. It is intended to assess the student's artwork, reflection, and overall performance in the course.

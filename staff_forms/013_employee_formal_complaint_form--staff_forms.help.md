@@ -1,7 +1,3 @@
-<thinking>
-The form is meant to serve as a platform for employees to express and document their formal complaints within the organization, allowing for a clear and transparent process for addressing their concerns. This form helps to standardize and systematize the complaint process, ensuring that all relevant information is captured and reviewed consistently. By using this form, employees can feel safe and supported in bringing their complaints forward, while the organization can respond more effectively to their needs and concerns.
-</thinking>
-
 # Employee Formal Complaint Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a standardized and organized format for employees to submit their formal complaints, allowing for a clear and transparent process for addressing their concerns.

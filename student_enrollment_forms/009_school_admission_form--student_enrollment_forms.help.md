@@ -1,5 +1,3 @@
-<thinking>Let's break down the School Admission Form for clarity. This form is designed to collect information from students who are applying to a school. The primary purpose of this form is to gather essential details about the student, including their personal and contact information, academic level, and other relevant details required for admission. Before filling out this form, please ensure that you have all the necessary documents and information to avoid any delays or issues during the application process.</thinking>
-
 # School Admission Form - Help Guide
 ## Purpose
 

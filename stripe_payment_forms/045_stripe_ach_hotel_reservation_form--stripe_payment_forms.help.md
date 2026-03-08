@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stripe ACH Hotel Reservation Form - Help Guide
 
 ## Purpose

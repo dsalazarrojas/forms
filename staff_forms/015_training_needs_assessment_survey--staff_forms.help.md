@@ -1,9 +1,3 @@
-<thinking>... 
-
-The "Training Needs Assessment Survey" form is designed to collect feedback and information from staff members on their training needs and preferences. This form is meant to assess the training needs of staff members to identify areas that require improvement, development, and training. It is an internal tool used by the training team to better serve the needs of staff members. It is essential that staff members understand their own training needs and preferences so that the team can tailor their training programs accordingly. Please ensure you only complete this form once and for your own training needs assessment. If you've already completed this form, there's no need to do so again. 
-
-</thinking>
-
 # Training Needs Assessment Survey - Help Guide
 ## Purpose
 The Training Needs Assessment Survey is a form designed to collect information from staff members on their training needs and preferences.

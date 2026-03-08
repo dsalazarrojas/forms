@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to capture information about student activities, interests, and participation in a school or educational setting. The form is designed to gather details such as student interests, activity participation, comments, uploads, dates of interest, and contact information, providing a comprehensive overview of a student's engagement with the educational program. The form will likely be used by educators or administrators to collect and track student data, and should only be filled out by students who are participating in the program.
-
-To ensure that the form is filled out correctly, please review the following guidelines:
-
-* Ensure that each field is filled out accurately and truthfully.
-* For "Activity Participation", select both "Student is participating" and "Student is not participating" if applicable.
-* For "Student Uploads", select "Files uploaded" only if the student has actually uploaded a file.
-* For "Date Of Interest" and "Date Of Participation", use the format MM/DD/YYYY.
-
-</thinking>
-
 # Editable Activities For Students - Help Guide
 ## Purpose
 This form collects information about student activities, interests, and participation in a school or educational setting.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for administrators to set up a new sports league. The purpose of this form is to collect necessary information to create a new sports league on the platform. This form will help the administrators create a sports league with the correct settings, rules, and details. It is crucial to fill out this form accurately to ensure that the league is set up correctly and can function smoothly.
-To prevent duplication, please check if a league with the same name already exists before submitting this form.
-</thinking>
-
 # sports_league_admin_setup_form - Help Guide
 ## Purpose
 This form is used to set up a new sports league on the platform. It collects essential information to create a league with the correct settings and rules.

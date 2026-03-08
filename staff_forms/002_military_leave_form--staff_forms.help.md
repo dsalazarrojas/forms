@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's break down the form's purpose and fields to ensure we're providing accurate and relevant information to users. The form appears to be related to military leaves, which could be for active-duty military personnel taking leave. This guide will aim to provide a straightforward explanation of the form's purpose and fields, helping users understand how to complete it efficiently.</thinking>
-
 # Military Leave Form - Help Guide
 
 ## Purpose

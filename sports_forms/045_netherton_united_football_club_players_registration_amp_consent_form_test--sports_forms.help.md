@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for players of the Netherton United Football Club to register and provide their consent. The form is a test form to ensure that players understand the importance of their data privacy and the club's code of conduct. Players are required to provide their name, date of birth, contact number, email, and consent to the terms of the code of conduct. The form also asks for optional information such as address, emergency contact, and emergency contact relation. The purpose of this form is to ensure that players are aware of their responsibilities and the club's expectations.
 
 # Netherton United Football Club Players Registration & Consent Form Test - Help Guide

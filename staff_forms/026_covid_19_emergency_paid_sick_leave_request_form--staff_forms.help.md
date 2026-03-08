@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information from employees who are requesting emergency paid sick leave due to COVID-19-related reasons. The form is intended to be completed by employees who are experiencing COVID-19 symptoms, exposure, or other related reasons that require a paid leave of absence from work. The goal is to ensure that employees can request time off in a timely and efficient manner, while also maintaining transparency and documentation in the process.
-
-The form is divided into five sections: Employee Information, Leave Request Details, Reason for Leave, Documentation, and Approval. Each section is designed to gather specific information related to the employee's needs and circumstances.
-
-Before completing the form, please note that some fields are required and must be filled out in order to submit the form. The form is intended to be completed by the employee themselves, with the supervisor's approval status and approval date being entered by the supervisor.
-
-Please review the form carefully and fill out all required fields to ensure that your leave request is processed accurately and efficiently.
-
-</thinking>
-
 # COVID 19 Emergency Paid Sick Leave Request Form - Help Guide
 ## Purpose
 The COVID 19 Emergency Paid Sick Leave Request Form is designed to collect information from employees who are requesting emergency paid sick leave due to COVID-19-related reasons. This form ensures that employees can request time off in a timely and efficient manner, while maintaining transparency and documentation in the process.

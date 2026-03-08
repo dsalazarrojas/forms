@@ -1,8 +1,3 @@
-<thinking>
-Form purpose is to collect information from customers about their shopping experience in a supermarket. This includes collecting their details, order information, and any additional items they'd like to purchase. 
-The form is divided into sections for order form, customer details, store details, and order items. The purpose of this form is to gather essential information for the supermarket to process and improve their services.
-</thinking>
-
 # Supermarket Order Form - Help Guide
 
 ## Purpose

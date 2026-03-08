@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect subscription information from users who want to subscribe to a WordPress website maintenance service. The form will help the website administrator understand the user's website details, billing information, and payment terms. This form is not affiliated with, endorsed by, or derived from any form platform, and it is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it.
-</thinking>
-
 # WordPress Website Maintenance Subscription Signup - Help Guide
 ## Purpose
 The purpose of this form is to collect subscription information from users who want to subscribe to a WordPress website maintenance service.

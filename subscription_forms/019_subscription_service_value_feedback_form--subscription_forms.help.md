@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from customers about their experience with our subscription service. The form is designed to collect information on various aspects of the service, including satisfaction, service value, and any issues or areas for improvement. This feedback will help us to identify areas that need to be addressed and make data-driven decisions to enhance the overall customer experience.
-</thinking>
-
 # Subscription Service Value Feedback Form - Help Guide
 ## Purpose
 

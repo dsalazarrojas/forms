@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to measure employee happiness and satisfaction within the organization. It is intended to be a self-assessment tool for employees to express their feelings and opinions about their work environment, job satisfaction, work-life balance, and communication with management. The form should not be used for performance evaluations or as a formal performance review. It's a tool for employees to provide feedback and suggestions for improvement. Ensure that you answer these questions honestly and provide as much detail as possible. This form is not timed, so take as much time as you need to complete it. You can skip any question if you feel it's not relevant or you don't have an answer. 
-
-Please note that this form has multiple questions with select_one options. Select the option that best describes your feelings or answer. 
-
-Please complete the form by filling out each field below.</thinking>
-
 # Employee Happiness Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track food storage inventory. It is essential for storekeepers to keep accurate records of the quantity of food items available and their respective purchase history. This form will help storekeepers to efficiently manage food stock and make informed decisions regarding ordering and stock replenishment. Please ensure that you are accessing this form to track food storage inventory for the specific store that you are responsible for.
-</thinking>
-
 # Food Storage Inventory Form - Help Guide
 ## Purpose
 

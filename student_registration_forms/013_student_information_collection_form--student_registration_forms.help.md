@@ -1,11 +1,3 @@
-<thinking>
-
-This form is meant to collect demographic information from both students and teachers involved in a school setting. 
-The form aims to gather essential details such as student and teacher names, contact information, and status. 
-This information can be used to keep a record of students and their respective teachers in the school administration system. 
-No other form is required in the current setup, and the fields should not be filled out by anyone else other than the student and teacher themselves. 
-</thinking>
-
 # Student Information Collection Form - Help Guide
 ## Purpose
 The Student Information Collection Form is designed to collect and store student and teacher details for school administration purposes.

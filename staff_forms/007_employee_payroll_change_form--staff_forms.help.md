@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Employee Payroll Change Form - Help Guide
 
 ## Purpose

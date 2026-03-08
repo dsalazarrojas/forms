@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form purpose is to collect information from customers for Marine Corps uniform orders, which includes their name, contact details, uniform type, unit number, size, any additional notes, and other relevant details. This form should not be used for internal purposes or for other types of orders, as it's specifically designed for Marine Corps uniform orders. To avoid duplication, users should only fill out this form for Marine Corps-related orders.
-</thinking>
-
 # Marine Corps Uniform Order Form - Help Guide
 ## Purpose
 The Marine Corps Uniform Order Form is used to collect information from customers for Marine Corps uniform orders. This form gathers essential details to ensure accurate and efficient processing of orders.

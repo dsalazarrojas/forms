@@ -1,22 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from game players who are interested in obtaining sponsorship for their gaming activities. This form is designed to gather data about the player's game playing experience, accomplishments, and goals, as well as their consent to terms and conditions. The form includes fields for uploading images, videos, clips, streams, and social media links, which can be used to evaluate the player's online presence and reputation.
-To complete this form, follow these steps:
-
-1. Fill in the Game Player Data field with your personal information.
-2. In the What are your gaming goals? field, describe your goals and aspirations as a gamer.
-3. In the What are your gaming accomplishments? field, list your notable gaming achievements.
-4. In the Consent to Terms and Conditions field, select "I agree to the terms and conditions" to confirm that you have read and understood the terms.
-5. If you have an image, video, clip, stream, or social media link to showcase your gaming activities, upload it in the corresponding field.
-6. In the Game Player Agreement field, type a brief statement confirming that you agree with the terms and conditions.
-7. In the Game Player Declaration field, type a brief statement declaring your identity and gaming experience.
-8. In the Game Player Signature field, sign your name to confirm your identity.
-9. In the Sponsor Signature field, sign the name of the sponsor.
-10. Fill in the Game Player Date field with the current date.
-11. Fill in the Game Player Time field with the current time.
-12. In the Game Player Terms Agree field, select "Yes" to confirm that you agree with the terms and conditions.
-
-</thinking>
-
 # Gaming Sponsorship Application Form - Help Guide
 ## Purpose
 This form is designed to help game players apply for sponsorship for their gaming activities. It collects information about the player's game playing experience, goals, and online presence.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a user-facing form for video streaming subscriptions, aiming to collect relevant information for processing and managing subscriptions. Its purpose is to provide a straightforward way to create new subscriptions for customers. The form will be displayed to users who want to subscribe to video streaming content.
-</thinking>
-
 # video_streaming_subscription_form - Help Guide
 ## Purpose
 The video_streaming_subscription_form is a user-facing form designed to collect necessary information for creating new video streaming subscriptions. This form helps customers create a subscription by providing relevant details, such as subscription plans, payment methods, and contact information.

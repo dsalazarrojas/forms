@@ -1,7 +1,3 @@
-<thinking>
-The form "self_quarantine_time_off_request_form" is used to request time off due to self-quarantine. This form is intended for employees who need to take time off because they are experiencing symptoms or have been exposed to COVID-19. The form must be filled out by the employee, but not every field is required to be completed. This form is not meant to be a substitute for actual company policies or procedures, but rather a tool for requesting time off in a specific situation.
-</thinking>
-
 # self_quarantine_time_off_request_form - Help Guide
 ## Purpose
 The self_quarantine_time_off_request_form is used to request time off due to self-quarantine. This form helps employees inform their manager about their request for time off and allows the manager to approve or deny the request.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information about a volunteer's schedule requests for breaks. The internal logic is that a volunteer can request a break schedule for a specific shift, and the form will ask for details such as the start and end time of the shift, the volunteer's name, the requested break duration, break frequency, and coverage details (i.e., which other volunteers will cover the volunteer's shift while they are on a break). This form is likely used by volunteers who need to coordinate their breaks with their colleagues and manager.
-
-The purpose of this form is to ensure that volunteers are aware of their scheduled breaks and can plan accordingly.
-</thinking>
-
 # Volunteer Break Schedule Request Form - Help Guide
 ## Purpose
 The Volunteer Break Schedule Request Form is used to request a break schedule for a specific shift. Please fill out this form with the requested information to help ensure that you are aware of your scheduled breaks and can plan accordingly.

@@ -1,15 +1,3 @@
-<thinking>
-To ensure that you're getting the most out of this form, please review the following:
-
-The form is for collecting membership payment information for Square. It's used to gather data for Square members, and you'll be asked to provide details like your name, contact info, and payment preferences. This form is designed to be completed by Square members, and the information collected will help us tailor our services to better meet your needs.
-
-Before starting, please ensure you're only completing this form once. If you've already filled out this form, there's no need to do so again.
-
-This form is designed to be completed by one person at a time. Please do not attempt to submit multiple forms at once, as this may cause issues with your data.
-
-Now, let's get started!
-</thinking>
-
 # Square Membership Payment Form - Help Guide
 ## Purpose
 The Square Membership Payment Form is used to collect payment information from Square members to help us better understand your preferences and tailor our services to meet your needs.

@@ -1,9 +1,3 @@
-<thinking>... 
-
-This help guide is for staff who will be working with new clients onboarding to the virtual office environment. The form is designed to collect necessary information about the client's company, including contact info, purchase details, and billing information. It is recommended that staff complete this form before commencing any work with the client. This guide will walk you through each field of the form, providing explanations to ensure accurate and efficient completion.
-
-</thinking>
-
 # Virtual Office Onboarding Form - Help Guide
 ## Purpose
 The Virtual Office Onboarding Form is a necessary step in the onboarding process for new clients. This form collects essential information about the client's company, which is required for setting up a virtual office environment.

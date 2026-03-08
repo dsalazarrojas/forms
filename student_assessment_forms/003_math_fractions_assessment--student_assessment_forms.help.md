@@ -1,7 +1,3 @@
-<thinking>
-This help guide should be clear and concise, focusing on the end user's needs and expectations. The form purpose should be explained in a way that highlights its relevance and significance. Each field's label and options should be explained in a way that is easy to understand, without inventing unsupported business logic. This guide should also provide practical tips to help users complete the form efficiently.
-</thinking>
-
 # Math Fractions Assessment - Help Guide
 ## Purpose
 The Math Fractions Assessment is a form designed to evaluate students' understanding of fractions, specifically their concept of equivalent fractions, operations, and their relationship with each other. This assessment aims to determine students' knowledge and skills in understanding fractions and apply them in various mathematical operations.

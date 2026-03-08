@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Overtime Waiver Form - Help Guide
 
 ## Purpose

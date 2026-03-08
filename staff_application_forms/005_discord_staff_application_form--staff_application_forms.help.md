@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discord Staff Application Form - Help Guide
 ## Purpose
 The Discord Staff Application Form is a tool used to collect information from potential candidates interested in joining the Discord staff team. It's a crucial step in the hiring process to assess a candidate's qualifications, experience, and fit for the available roles. Before starting, make sure you're a suitable candidate for the roles offered and that you haven't already submitted an application for this position.

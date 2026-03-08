@@ -1,5 +1,3 @@
-<thinking>This form is used by teachers to conduct assessments of student performance. The form is designed to gather information about a student's overall performance, strengths, and areas for improvement. It is intended for use in an educational setting, specifically in a school or university. To ensure that this form is used correctly, please review the following instructions carefully.</thinking>
-
 # teacher_aide_conduct_assessment - Help Guide
 ## Purpose
 The teacher aide conduct assessment form is designed to help teachers evaluate and provide feedback to students on their overall performance, strengths, and areas for improvement.

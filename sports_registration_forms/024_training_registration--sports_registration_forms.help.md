@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a training event registration. The form's purpose is to capture data about the training session, including its details such as report name, ID, date, time, location, provider, contact information, and status. The form is likely used in an organizational or educational setting where trainings are conducted regularly.
-
-</thinking>
-
 # Training Registration - Help Guide
 ## Purpose
 The "Training Registration" form is used to collect information about a training event, including its details such as report name, location, date, time, provider, contact information, and status. This form is used to gather data for internal record-keeping and communication purposes.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form for employees to submit changes related to their employment status, and it's essential to ensure we're capturing all necessary information without overwhelming or confusing end users. Let's confirm the form's purpose and review field names for accuracy.
-</thinking>
-
 # Employee Change Form - Help Guide
 ## Purpose
 The **Employee Change Form** is used by employees to request changes to their employment status. This form collects the necessary information for HR to review and process these updates.

@@ -2,14 +2,6 @@
 ## Purpose
 This form is designed to collect essential information from employees who need to take a leave of absence. By filling out this form, you will be able to provide the necessary details for your leave of absence, ensuring that your supervisor and HR department have all the information they need for a smooth transition.
 
-<thinking>
-To ensure that you are using this form for its intended purpose, please note that:
-
-* This form should only be used by employees who are planning a formal leave of absence. If you are simply taking a vacation or time off, a simple request to your manager or HR may be more suitable.
-* You should not use this form for other purposes, such as requesting benefits, accommodations, or other types of time off. If you are unsure about the type of leave you are requesting, please contact your HR department for guidance.
-* If you have already submitted a leave request through this form, please do not resubmit a new request unless your situation has changed or your original request was incomplete. Please contact your HR department if you need to update your existing request.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, please follow these steps:
 

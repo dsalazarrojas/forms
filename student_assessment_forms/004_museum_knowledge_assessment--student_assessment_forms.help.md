@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The goal of this form is to assess a user's knowledge and skills related to a museum visit. This form is likely used for educational purposes, such as evaluating the effectiveness of a museum's educational program, assessing the understanding of a specific exhibit, or evaluating the engagement of museum visitors. 
 
 It is likely that the form is not intended for public use but rather for internal evaluation and analysis. 

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is for customers to enter themselves into the subscription giveaway. To confirm whether the entry is a valid submission, the form system will check if an entry with the same email has been made before in the past 30 days. 
-
-To complete this form, the user simply fills out the provided fields with accurate information.
-
-Upon completing the form, an entry will be submitted if the form is filled out correctly and the email doesn't contain any invalid data. 
-
-The form does not have any complex business logic and only checks for data consistency.
-
-</thinking>
-
 # Subscription Giveaway Entry - Help Guide
 ## Purpose
 The "Subscription Giveaway Entry" form is for customers to enter themselves into the subscription giveaway. 

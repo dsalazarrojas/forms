@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's make sure this form is relevant and not a duplicate. The Covid 19 Workplace Safety Checklist Form is designed to assess an employee's preparedness and adherence to safety protocols for working during the COVID-19 pandemic. This form aims to ensure that employees are aware of and follow guidelines to minimize the risk of COVID-19 transmission in the workplace. The form should only be used once per employee for initial assessment and may need to be updated periodically as guidelines evolve. Ensure you have not previously completed this form, or you may be duplicating your response. If you have already completed this form, kindly disregard this guide.</thinking>
-
 # Covid 19 Workplace Safety Checklist Form - Help Guide
 ## Purpose
 The Covid 19 Workplace Safety Checklist Form is designed to assess an employee's preparedness and adherence to safety protocols for working during the COVID-19 pandemic. This form helps employees understand and confirm their understanding of workplace safety guidelines to minimize the risk of COVID-19 transmission.

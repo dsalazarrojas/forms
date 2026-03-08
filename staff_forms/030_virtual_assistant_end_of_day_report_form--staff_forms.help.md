@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block for this form indicates that it's meant to be completed by virtual assistants at the end of their working days. The goal is to capture details about the clients they've interacted with, tasks they've completed, and the work environment they're operating in. This form should only be filled out once per working day. No other form with the same title exists in the company's database, ensuring that this form is the designated tool for this specific task.
-</thinking>
-
 # virtual_assistant_end_of_day_report_form - Help Guide
 ## Purpose
 The virtual assistant end-of-day report form is used to record the work completed by virtual assistants at the end of each working day. This form helps in tracking the activities, time spent, and other relevant details of the virtual assistant's work.

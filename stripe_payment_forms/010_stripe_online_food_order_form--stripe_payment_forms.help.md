@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to process online food orders, collecting contact information, payment methods, order details, and billing/shipping addresses. It's intended for customers to provide their information to place an online order with a food-related service, allowing for efficient and secure payment processing.
-
-Before using this form, ensure that you are not duplicating efforts by checking if a similar form already exists in your organization. If you're unsure, refer to your organization's existing forms and processes for clarity.
-
-This form is designed to be filled out by customers, and its fields are intended to capture necessary information for a smooth and secure online ordering experience.
-
-Please review the form's fields carefully to understand each section's purpose and what information is required for completion.
-
-After reviewing the form, proceed with filling it out accurately and completely, and don't hesitate to reach out if you have any further questions or concerns.
-</thinking>
-
 # stripe_online_food_order_form - Help Guide
 ## Purpose
 

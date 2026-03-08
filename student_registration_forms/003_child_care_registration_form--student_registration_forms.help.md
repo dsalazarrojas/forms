@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this "Child Care Registration Form" that explains its purpose, how to complete it, and what each field means. This form is used for registering children in a child care center, and it's essential to ensure all required information is collected accurately. We must consider the fields that are marked as required and the type of input expected for each field. For example, the "Child Full Name" field is a text field and is required, while the "Emergency Contact Name" field is also required but is a text field. This form also collects information on medical emergencies, allergies, and chronic conditions, which is critical for ensuring the child's safety and well-being.
-</thinking>
-
 # Child Care Registration Form - Help Guide
 ## Purpose
 This form is used to register a child in a child care center, ensuring all necessary information is collected for their safety, well-being, and proper care.

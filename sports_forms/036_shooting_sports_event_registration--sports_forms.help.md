@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shooting Sports Event Registration - Help Guide
 ## Purpose
 This form is designed for participants to register for a shooting sports event. It collects information about the participant, their discipline choices, emergency contact details, safety acknowledgement, organizer's details, and shooting event details. Please use this form to provide accurate and complete information to ensure a successful registration process.

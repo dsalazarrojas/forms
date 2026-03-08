@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from international students. It gathers details that will help administrators verify student identity and provide necessary services. Please note that this form is not affiliated with any specific institution or platform and is an original adaptation based on public metadata. 
-</thinking>
-
 # international_student_registration_form - Help Guide
 ## Purpose
 This form is intended to collect essential information from international students for registration purposes. It helps administrators verify student identity, track attendance, and provide relevant services.

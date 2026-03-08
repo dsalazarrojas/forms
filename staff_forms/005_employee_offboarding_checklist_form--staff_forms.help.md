@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from employees who are leaving the company. It helps to ensure that all necessary steps are taken to offboard an employee correctly and in a timely manner. The purpose of this form is to gather the employee's job title, employee ID, manager's name, date of departure, reason for departure, notice period, and other relevant information. This form is not to be used for other purposes, such as performance evaluations or new hire onboarding.
-</thinking>
-
 # Employee Offboarding Checklist Form - Help Guide
 ## Purpose
 This form is used to collect information from employees who are leaving the company. It helps to ensure that all necessary steps are taken to offboard an employee correctly and in a timely manner.

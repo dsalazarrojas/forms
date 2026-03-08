@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from an employee who wishes to resign from their position. Before proceeding, please ensure that this is the correct form for your situation and that you have not submitted a resignation form previously. To confirm, please review your employment contract or speak with HR if you're unsure....</thinking>
-
 # Resignation Form - Help Guide
 ## Purpose
 This form is used to formally notify the organization of an employee's intention to resign from their position.

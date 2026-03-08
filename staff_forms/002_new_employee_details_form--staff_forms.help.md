@@ -1,9 +1,3 @@
-<thinking>
-This form is used for capturing new employee details to onboard a new employee into the company's system. It collects information such as employee name, department, salary, date of birth, date of hire, department phone, email, phone, and job title. This form is meant to be completed by a new employee's supervisor or HR representative as part of the onboarding process.
-The form is designed to be a single page with multiple fields, each corresponding to a specific piece of information about the new employee. The goal is to ensure that all necessary information is collected accurately and efficiently.
-Before completing this form, please confirm that you have the necessary permissions to access and process this employee's data.
-</thinking>
-
 # New Employee Details Form - Help Guide
 ## Purpose
 The New Employee Details Form is used to onboard new employees into the company's system by collecting and capturing their essential details.

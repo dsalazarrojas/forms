@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Radiation Biology Quiz - Help Guide
 ## Purpose
 The Radiation Biology Quiz is a form designed to assess students' knowledge on radiation biology. It is intended to gauge their understanding of various aspects of radiation, including radioactivity, radiation dosimetry, and the biological effects of radiation. This quiz is a tool to evaluate students' comprehension and identify areas where they may need further instruction.

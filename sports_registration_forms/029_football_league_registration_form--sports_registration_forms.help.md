@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from users who want to register for a football league. The form's purpose is to gather relevant details about the user and their team, and it is required to be completed by all users. This guide will help users understand what information is needed to be submitted and how to fill out the form correctly.</thinking>
-
 # Football League Registration Form - Help Guide
 ## Purpose
 The Football League Registration Form is designed to collect registration information from users who are interested in joining a football league. This form will help the league administrators to get to know the users better and ensure that all necessary information is provided.

@@ -1,7 +1,3 @@
-<thinking>
-The form is used to capture payroll deductions for employees, allowing them to opt-in or opt-out of specific deductions, and specify the frequency and duration of the deductions. The form is likely used for benefits enrollment or changes to employee plans. To ensure that this form is filled out correctly, review it in the context of employee benefits and payroll policies.
-</thinking>
-
 # Payroll Deduction Form - Help Guide
 ## Purpose
 The Payroll Deduction Form is used to capture information about the types of payroll deductions an employee wants to enroll in or change. This includes the name of the employee, the type of deduction, the amount, and other relevant details. The form helps employees manage their payroll deductions efficiently and ensures that their benefits and plans are up-to-date.

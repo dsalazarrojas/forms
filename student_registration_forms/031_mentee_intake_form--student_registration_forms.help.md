@@ -1,10 +1,3 @@
-<thinking>
-The mentee_intake_form is designed to collect relevant information from students, including their personal details, college experience, and interests. This form is intended for students who are participating in a program or initiative related to mentoring, and it is used to ensure accurate and comprehensive data collection for the program.
-The main goal of this form is to gather necessary information to assign the right mentor to each student, taking into account their interests, college experience, and college level. It is crucial that the form is completed accurately and truthfully, as this information will be used to create a successful matching process between students and mentors.
-The form is also used to track student and mentor interactions, including submitted information, assigned mentors, and progress updates.
-Please ensure that you are familiar with the form's purpose and requirements before starting to fill it out.
-</thinking>
-
 # mentee_intake_form - Help Guide
 ## Purpose
 The mentee_intake_form is designed to collect necessary information from students for the purpose of assigning a successful mentorship match. This includes gathering details about their interests, college experience, and other relevant information.

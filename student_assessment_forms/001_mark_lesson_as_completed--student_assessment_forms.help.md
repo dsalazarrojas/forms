@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mark Lesson As Completed - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for collecting data from employees on their onboarding experience, feedback, and satisfaction. It includes fields for demographic information (first name, last name, email, job title, department, and date of birth), feedback (feedback questions 1-3), manager details (manager name, email, phone, and rating), survey questions, and employee and manager satisfaction ratings. The form seems to be used for internal purposes, possibly for HR or employee engagement teams to monitor and analyze employee sentiment and feedback. It's likely that this form will be filled out by new employees during their onboarding process. It's possible that this form is part of a larger HR system for tracking and managing employee data and feedback. It's also possible that this form is used for regular check-ins or surveys to gauge employee and manager satisfaction. To confirm, it's worth checking with the intended users of this form to ensure the understanding of the form's purpose and usage.
-</thinking>
-
 # Employee Onboarding Survey - Help Guide
 ## Purpose
 The Employee Onboarding Survey is designed to gather information about new employees' onboarding experience, feedback, and satisfaction. This survey is meant to be filled out during the onboarding process to help HR or employee engagement teams track and analyze employee sentiment and feedback.

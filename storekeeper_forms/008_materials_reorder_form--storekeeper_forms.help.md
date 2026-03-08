@@ -1,13 +1,3 @@
-<thinking>
-
-This form was designed to collect information from customers to facilitate the materials reordering process. It's likely intended for use in an educational or academic setting, where customers need to reorder materials for exams or classes. The form appears to be used to gather customer information, specify additional materials required, level of study, exam booklets, customer notes, and customer email addresses. 
-
-The form's fields are relatively simple, with most being text inputs or selection options. The 'Level' field is a required select_one field with three options (Level 1, Level 2, Level 3), indicating that customers need to select a specific level of study. The 'Exam Booklet' field is a required select_multiple field, allowing customers to select one or more exam booklets. These two fields likely serve to identify the specific materials being re-ordered.
-
-Please note that without further details about the form's actual use case and business rules, this help guide provides general explanations for the fields based on their labels and types. If you find this form in your organization, it's recommended to adapt the explanations to fit your specific use case.
-
-</thinking>
-
 # Materials Reorder Form - Help Guide
 ## Purpose
 The purpose of this form is to collect customer information for reordering materials for exams or classes.

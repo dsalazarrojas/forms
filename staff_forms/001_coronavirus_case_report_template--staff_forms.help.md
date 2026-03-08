@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help staff members report cases of COVID-19 in the workplace. To determine whether to fill out this form, first, check if the case has already been reported. If it has, do not report it again. If not, please fill out this form completely and accurately to ensure we can track and address the case effectively. Please report only cases that have occurred within the last [insert timeframe, e.g., 2 weeks] to ensure accurate tracking and reporting.
-</thinking>
-
 # Coronavirus Case Report Template - Help Guide
 ## Purpose
 This form is used to report cases of COVID-19 in the workplace. It helps staff members report symptoms, locations, and other relevant information to ensure accurate tracking and reporting of cases.

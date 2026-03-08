@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about high school students who are reapplying for their enrollment. This form is designed to gather essential data for administrative purposes, such as updating student records, verifying student information, and tracking student progress. **Please note that this form should only be completed for returning high school students, and not for new students who have not previously enrolled.**
-</thinking>
-
 # Returning High School Student Application - Help Guide
 ## Purpose
 The Returning High School Student Application form is used to collect information about high school students who are reapplying for their enrollment.

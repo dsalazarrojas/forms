@@ -1,7 +1,3 @@
-<thinking> 
-The form "Employee Equipment Issue Form" is used to report any issues or problems with company assets, such as computers, printers, or other equipment. This form helps ensure that issues are reported, tracked, and addressed in a timely and organized manner. Before completing this form, ensure that you haven't already reported the issue to the relevant department or asset owner. This form is intended for employees who have reported an issue with an asset and need to provide more details or context to their report.
-</thinking>
-
 # Employee Equipment Issue Form - Help Guide
 ## Purpose
 This form is used to report issues with company assets, such as broken or stolen equipment. It helps the management and maintenance teams keep track of problems and ensure they are resolved efficiently.

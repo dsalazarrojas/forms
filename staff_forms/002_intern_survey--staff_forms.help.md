@@ -1,15 +1,3 @@
-<thinking>
-We are creating a help guide for the Intern Survey form, which is a crucial tool for capturing essential information about interns' experiences and details regarding their work. This form is designed to be user-friendly and easy to understand, while also ensuring that all necessary fields are filled out for accurate and efficient record-keeping.
-
-To prevent non-duplication of effort, please ensure that:
-- You have read and understood the instructions carefully.
-- You have reviewed the form fields and their labels.
-- You are filling out the form only after being directed or authorized to do so.
-
-This help guide will walk you through the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Intern Survey - Help Guide
 ## Purpose
 The Intern Survey form is designed to gather information from interns about their work experience, including the project title, start and end dates, feedback, employer's name, location, department, supervisor's name, contact email, and contact phone number.

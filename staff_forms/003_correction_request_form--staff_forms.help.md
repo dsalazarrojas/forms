@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is used for requesting corrections on products from staff members. The purpose of this form is to collect information about the issue, the staff member reporting the issue, and any relevant attachments or resolutions related to the issue. Please fill out this form completely and accurately to ensure that your correction request is processed efficiently. This form should not be used for other purposes, such as creating a new account or updating existing account information. If you are unsure about which form to use, please consult the staff handbook or contact your supervisor.
 
 # Correction Request Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on student assessments, specifically for Ionization And Electronegativity Assessment. The form should be used to gather data on students' ionization and electronegativity trends, periods, frequencies, and additional contact information. Please ensure that this form is used for its intended purpose and not for duplicate data collection.
-</thinking>
-
 # Ionization And Electronegativity Assessment - Help Guide
 ## Purpose
 The Ionization And Electronegativity Assessment form is used to collect information on students' ionization and electronegativity trends, periods, frequencies, and additional contact information.

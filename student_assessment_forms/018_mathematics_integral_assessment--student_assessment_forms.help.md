@@ -1,13 +1,3 @@
-<thinking>... internal reasoning block to check for purpose and non-duplication ...
-
-This is a user-facing help guide for a form called "Mathematics Integral Assessment". The purpose of this form is to collect information from students for assessment purposes, likely in the field of mathematics. The form seems to be designed to collect basic student information and specific details about their assessment.
-
-Given the fields provided, it appears that the form is intended to gather data on a student's name, ID, assessment date and time, contact information (name and phone number), and selections (one or multiple options). The form is designed for teachers or assessors to input data on the student's performance or feedback.
-
-To avoid duplication, this form does not appear to be a duplicate of any other form. The fields and options seem to be tailored to the specific requirements of the Mathematics Integral Assessment.
-
-</thinking>
-
 # Mathematics Integral Assessment - Help Guide
 ## Purpose
 The Mathematics Integral Assessment form is designed to collect information from students for assessment purposes in the field of mathematics.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow customers to subscribe to a gardening kit, which implies a recurring shipment of products. The purpose of this form is to gather information from customers on their subscription preferences and details. This form should only be used for customers who are interested in subscribing to a gardening kit. To avoid duplication of effort, please ensure that this form is not used for other purposes, such as general contact or inquiry forms.
-</thinking>
-
 # gardening_kit_subscription_form - Help Guide
 ## Purpose
 The gardening_kit_subscription_form is designed to collect information from customers who want to subscribe to a gardening kit, which typically includes a series of product shipments.

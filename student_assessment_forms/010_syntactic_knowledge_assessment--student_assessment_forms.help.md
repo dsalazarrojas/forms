@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in understanding the Syntactic Knowledge Assessment form, which is used to gather information about language learners' sentence structure, built-for-educators, training teams' data collection, fast data collection, organized form submissions, educators and training teams, need for organized data, and language learning duration. The form does not require any specific prior knowledge, and the user can answer the questions based on their general knowledge. The fields in this form are designed to gather various aspects of language learning and usage, and the responses will be used to assess the syntactic knowledge of language learners.
-
-</thinking>
-
 # Syntactic Knowledge Assessment - Help Guide
 ## Purpose
 The Syntactic Knowledge Assessment form is designed to gather information about language learners' knowledge and usage of sentence structure, built-for-educators, and other related aspects of language learning.

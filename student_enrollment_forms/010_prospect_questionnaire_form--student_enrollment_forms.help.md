@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the Prospect Questionnaire Form. The form is designed to collect information from prospects who are interested in learning more about a particular opportunity. The purpose of this form is to gather relevant details about the prospect, such as their name, contact information, and interests. This information will help the organization understand the prospect's needs and preferences, making it easier to tailor the opportunity to their needs. The form is divided into two main sections: basic contact information (first name, last name, email, phone number) and additional details (select one, select multiple, date, time). Each field is designed to capture specific information and will be explained in detail below.</thinking>
-
 # Prospect Questionnaire Form - Help Guide
 ## Purpose
 The Prospect Questionnaire Form is designed to collect information from prospects who are interested in learning more about a particular opportunity. This form will help us understand your needs and preferences, making it easier to tailor the opportunity to you.

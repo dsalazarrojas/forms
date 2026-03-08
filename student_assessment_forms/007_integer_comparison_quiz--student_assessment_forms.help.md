@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect user feedback and assessment on a series of pairs of numbers, with a focus on comparing and evaluating their similarity or difference. The form is designed to gather input on the similarity or difference between two integers, the correct answer to a comparison question, and the type of question being asked. This form is likely used in educational or testing settings to assess users' ability to compare and evaluate integer pairs. Please note that this form is part of the "student_assessment_forms" category.
-</thinking>
-
 # Integer Comparison Quiz - Help Guide
 ## Purpose
 This form is designed to collect user feedback and assessment on pairs of numbers, specifically focusing on their similarity or difference.

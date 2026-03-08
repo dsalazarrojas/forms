@@ -1,8 +1,3 @@
-<thinking>
-This form was created using AI to generate a form based on survey topic metadata. Its purpose is to collect information about store window display requests. The form is divided into multiple pages, with each page containing one or more questions or fields. The form is designed to be completed by store window display requesters, who are required to provide their name, date of request, and other relevant details.
-
-</thinking>
-
 # store_window_display_order_form - Help Guide
 ## Purpose
 The "store_window_display_order_form" is a form designed to collect information about store window display requests. It is intended for store window display requesters to provide their details and requests.

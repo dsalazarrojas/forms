@@ -1,8 +1,3 @@
-<thinking>
-This form is for students to request support for the Student Empowerment Initiative, a program designed to provide aid and resources to students. The support requests can be for any of three initiatives: "Initiative 1", "Initiative 2", or "Initiative 3". The form is not required for students, but it's highly recommended that they fill it out to ensure their requests are properly documented and prioritized.
-The form is not meant to be filled out by multiple students for the same initiative, as this can lead to confusion and duplication of efforts. Students should only fill out the form once per support request.
-</thinking>
-
 # Student Empowerment Initiative Support Request Form - Help Guide
 ## Purpose
 The Student Empowerment Initiative Support Request Form is a tool for students to request support for one or more of the three available initiatives. The form is designed to gather essential information about the student's request, ensuring that their needs are properly assessed and addressed.

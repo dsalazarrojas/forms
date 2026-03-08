@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payroll Upload Form - Help Guide
 
 ## Purpose

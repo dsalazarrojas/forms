@@ -1,7 +1,3 @@
-<thinking>
-The Fresh Market Online Order Form is a digital form designed to collect customer information and preferences for online orders. This form is typically used to gather data for the processing of online orders, ensuring accurate and efficient order management within the Fresh Market system.
-</thinking>
-
 # Fresh Market Online Order Form - Help Guide
 ## Purpose
 The Fresh Market Online Order Form is used to collect customer information and preferences for online orders, ensuring accurate and efficient order management within the system.

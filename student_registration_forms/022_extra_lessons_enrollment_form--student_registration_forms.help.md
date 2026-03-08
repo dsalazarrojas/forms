@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to enable students to enroll in extra lessons, allowing them to access additional educational resources. This form is designed to collect relevant information about the student, including their name, email, phone number, the topic of the extra lesson, and the date they would like to take the extra lesson.
-
-Before proceeding, ensure you have the necessary information and permissions to enroll in extra lessons. This form should not be used for administrative tasks or other purposes. If you're unsure about the form's purpose or need to make changes, please consult with the appropriate authorities to avoid duplication of effort.
-</thinking>
-
 # extra_lessons_enrollment_form - Help Guide
 ## Purpose
 The extra lessons enrollment form is designed for students to access additional educational resources. It collects relevant student information and preferences for extra lessons.

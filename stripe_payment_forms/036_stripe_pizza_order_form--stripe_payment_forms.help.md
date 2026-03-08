@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a pizza order, including order details, delivery information, payment method, and other relevant details. This form is likely used in a business setting, such as a pizzeria or restaurant, to process customer orders and payments. The form is designed to be completed by customers, and its fields are intended to capture essential information for order processing and payment processing. The fields are also designed to be flexible, allowing customers to provide additional information as needed. The form is likely used in conjunction with a Stripe payment system, but the payment method field is not limited to Stripe and can be other methods such as PayPal or cash.
-</thinking>
-
 # Stripe Pizza Order Form - Help Guide
 ## Purpose
 The Stripe Pizza Order Form is a user-facing form designed to collect order information and payment details for a pizza order.

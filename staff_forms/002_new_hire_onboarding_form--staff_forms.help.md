@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting information about new employees during the onboarding process, allowing the HR or personnel department to gather essential details for a smooth and efficient integration into the organization. The form should be used when a new employee starts their job, providing a comprehensive overview of their personal and professional background information. The purpose of this form is to ensure a seamless transition for the new employee and to help the employer understand their new team members' qualifications, emergency contacts, and other relevant details.
-</thinking>
-
 # New Hire Onboarding Form - Help Guide
 ## Purpose
 This form is intended to provide a structured approach to collecting information from new hires. It helps the HR or personnel department gather all the necessary details for a smooth onboarding process, facilitating a faster integration into the organization.

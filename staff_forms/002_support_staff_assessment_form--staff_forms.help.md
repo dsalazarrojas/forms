@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback or assessment on staff performance, which is used to evaluate and improve staff's work quality, identify areas of improvement, and ensure the staff is performing well in their roles. The purpose of this form is to gather relevant information from the user, which will help in making informed decisions about staff development and performance management. Please ensure that you are filling this form for a valid reason and not duplicating efforts, as it might affect the accuracy and usefulness of the feedback collected.
-</thinking>
-
 # Support Staff Assessment Form - Help Guide
 ## Purpose
 The Support Staff Assessment Form is used to collect feedback or assessment on staff performance to evaluate and improve work quality and identify areas of improvement.

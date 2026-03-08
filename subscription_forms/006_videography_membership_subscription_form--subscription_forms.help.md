@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a membership subscription form for Videography, a video production service. It's possible that this form is intended for video creators or businesses to subscribe to their services. To confirm, I'll provide a concise help guide that explains the purpose and functionality of this form.
-
-</thinking>
-
 # Videography Membership Subscription Form - Help Guide
 ## Purpose
 The Videography Membership Subscription Form is designed for video creators and businesses to subscribe to Videography's services. It allows users to select their desired membership plan, payment method, and frequency of payment. The form also collects additional information such as name, email, phone number, and address for billing and communication purposes.

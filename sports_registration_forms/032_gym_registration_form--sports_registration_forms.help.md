@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect information from users regarding their sports registration. This form is likely used by a gym or sports center to gather contact and demographic information from clients or members, which will enable the organization to understand their target audience and improve customer experience. Before proceeding, ensure this form is relevant to your intended use case and doesn't duplicate any existing forms.
-
-Please note that the form fields might be used for general purposes such as marketing, customer support, or member verification. To ensure accuracy, review the form carefully and confirm it aligns with your business needs.
-</thinking>
-
 # Gym Registration Form - Help Guide
 ## Purpose
 This form is designed to collect user information for sports registration purposes.

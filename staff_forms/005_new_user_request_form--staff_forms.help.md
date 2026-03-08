@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new_user_request_form - Help Guide
 
 ## Purpose

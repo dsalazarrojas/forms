@@ -1,7 +1,3 @@
-<thinking>
-The "employee_evaluation_form" form is used to evaluate the performance of employees in various aspects of their work. It is essential for managers and HR personnel to fill out this form to assess an employee's skills, performance level, and progress on specific projects. Please ensure you fill out this form carefully and accurately, as it helps in making informed decisions about employee growth and development.
-</thinking>
-
 # employee_evaluation_form - Help Guide
 ## Purpose
 The "employee_evaluation_form" is used to record and evaluate employee performance. It helps managers and HR personnel assess an employee's skills, progress, and performance level, which aids in making informed decisions about employee growth and development.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information and payment details from users who want to make a donation to a sponsor. This form is likely used for fundraising or charity purposes. The fields are designed to be straightforward and easy to understand. However, it's essential to clarify the purpose and usage of each field to ensure end-users understand what information is being requested and how to provide it correctly. Please ensure that the form is filled out accurately and thoroughly to avoid any potential issues with payment processing or donor registration.
-</thinking>
-
 # Stripe Sponsor Donation Form - Help Guide
 ## Purpose
 This form is used to collect donation information and payment details from users who want to support a sponsor. Fill out this form to provide your donation amount, contact details, and payment method preferences.

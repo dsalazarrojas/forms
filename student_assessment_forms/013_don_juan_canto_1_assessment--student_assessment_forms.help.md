@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand the purpose and requirements of the "Don Juan Canto 1 Assessment" form.
-This form is intended for educators to assess students' understanding of the Don Juan Canto 1, a poetic work. The form is designed to evaluate students' knowledge and critical thinking skills in analyzing the literary devices used by the poet in the given canto.
-The form is not intended for any other purpose and should not be used for any other use cases. Please ensure you have the necessary permissions and authorizations to complete this form.
-</thinking>
-
 # Don Juan Canto 1 Assessment - Help Guide
 ## Purpose
 The "Don Juan Canto 1 Assessment" form is designed to assess students' understanding of the Don Juan Canto 1, a poetic work. The form is used to evaluate students' knowledge and critical thinking skills in analyzing the literary devices used by the poet in the given canto.

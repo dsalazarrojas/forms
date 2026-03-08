@@ -1,9 +1,3 @@
-<thinking>
-
-The user-facing help guide for the Water Sports Equipment Rental Application Form will be designed to help users understand the form's purpose, how to complete it, and what each field means. The form is intended for users to provide information for renting water sports equipment. It seems to be a comprehensive form that includes various fields related to user information, rental details, payment, and form metadata. The form appears to be designed for both users and administrators to track and manage rental information.
-
-</thinking>
-
 # Water Sports Equipment Rental Application Form - Help Guide
 ## Purpose
 The Water Sports Equipment Rental Application Form is designed to provide information for renting water sports equipment. This form will help us track and manage the rental details, including user information, equipment type, and payment status.

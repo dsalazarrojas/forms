@@ -1,6 +1,3 @@
-<thinking>
-The "weekly_timesheet_adjustment_request_form" form is a tool used by employees to request adjustments to their timesheet for a specific week. This form is meant to be completed by employees when they need to make changes to their recorded hours worked during a particular week. The form helps ensure that adjustments are accurately and promptly processed, and that the correct adjustments are applied to the employee's timesheet. To avoid duplication, please review your timesheet before submitting this form. Only submit this form if you have not already submitted an adjustment for the same week.</thinking>
-
 # weekly_timesheet_adjustment_request_form - Help Guide
 ## Purpose
 The weekly_timesheet_adjustment_request_form is a form used to request adjustments to an employee's timesheet for a specific week. This form is used to submit adjustments such as over-clocking, under-clocking, overtime, or other adjustments.

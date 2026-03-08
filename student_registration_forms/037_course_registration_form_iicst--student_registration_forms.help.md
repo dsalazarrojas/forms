@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the Course Registration Form IICST, we will follow these steps:
 
 1.  **Form Purpose**:  The form is used for students to register for courses.

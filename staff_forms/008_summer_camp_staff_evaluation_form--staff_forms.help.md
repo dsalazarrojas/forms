@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for evaluating a summer camp staff member's performance. The purpose of this form is to gather feedback from campers to assess the counselor's effectiveness and overall experience during the camp stay. To complete the form, the camper will be asked to provide a rating (High/Low) on the counselor's performance and provide a brief note about their feedback. They will also be asked to rate their overall experience on a numerical scale. All fields are optional except for the camp counselor ID.
-</thinking>
-
 # summer_camp_staff_evaluation_form - Help Guide
 ## Purpose
 The summer camp staff evaluation form is used to gather feedback from campers about their experience with a staff member, with the goal of evaluating the staff member's performance.

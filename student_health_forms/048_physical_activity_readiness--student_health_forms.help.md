@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physical Activity Readiness - Help Guide
 ## Purpose
 This form is used to assess a student's physical activity readiness. The information collected will help the student's health care provider evaluate their suitability for physical activities. The form will be reviewed and discussed with the student's parent/guardian.

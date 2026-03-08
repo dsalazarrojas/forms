@@ -1,7 +1,3 @@
-<thinking>
-The form is used for applicants to apply to be a Skincare Product Developer at your organization. The application form captures the contact information of the applicant, details about their job title, name, work experience, and education. It also allows them to provide a portfolio and a brief statement on why they are interested in the role. Additionally, it requires them to agree to the terms and conditions of the application process. The form is used for internal purposes, so applicants should not fill it out if they are not applying for this specific role. Please ensure that you are filling out the correct form for your application.
-</thinking>
-
 # Skincare Product Developer Application Form - Help Guide
 
 ## Purpose

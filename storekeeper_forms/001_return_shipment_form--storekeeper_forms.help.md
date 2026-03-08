@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Return Shipment Form - Help Guide
 ## Purpose
 This form is used to document the details of a return shipment, including the date of return shipment, recipient, and reason for return. It helps the storekeeper keep track of return shipments and ensures accurate and efficient handling of returns.

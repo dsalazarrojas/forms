@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to register their participation in the 2020 Isle of 8 Historically event. This form will collect information such as personal details (name, email, phone number, date of birth), contact information (address), and event registration details (team name, event type, event subtype, and event team member). The form aims to gather accurate information for event management and coordination. Please ensure that the form is filled in a way that accurately reflects your participation and details.
-</thinking>
-
 # isle_of_8_histourally_2020_registration_form - Help Guide
 ## Purpose
 The isle_of_8_histourally_2020_registration_form is used to register participants for the 2020 Isle of 8 Historically event.

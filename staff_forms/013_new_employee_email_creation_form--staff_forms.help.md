@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's break down the form purpose and relevance. This form appears to be for creating new employee information, including contact details, work-related attributes, and status updates. It seems to be a crucial form for maintaining accurate employee records. We should verify that it's not a duplicate or outdated form to avoid unnecessary duplication of effort or outdated information.</thinking>
-
 # New Employee Email Creation Form - Help Guide
 ## Purpose
 This form is used to create new employee email addresses and associated metadata. Fill out this form to add new employees to your database.

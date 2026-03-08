@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather feedback and information about new hires after they have completed the employee orientation process. This form ensures that new hires have a clear understanding of their role and responsibilities within the company. The form is designed to be completed by new hires after they have finished the orientation process and should be submitted for review by their supervisor or HR representative.
-
-Please ensure that you are filling out this form after completing the orientation process to ensure accurate and relevant information is collected. If you have already completed the orientation process, please submit this form to provide feedback on what was helpful and what was not.
-</thinking>
-
 # Employee Orientation Survey - Help Guide
 
 ## Purpose

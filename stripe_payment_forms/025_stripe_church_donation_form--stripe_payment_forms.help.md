@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to make donations to a church via Stripe, allowing users to input their name, email, phone number, donation amount, currency, frequency of donation, and any additional notes. The form is meant to be completed by individuals who want to support the church's activities and initiatives. Before completing the form, please ensure that you have not already submitted a donation in the past week, as this form is intended for one-time or recurring donations. Please note that the form is only accessible via a secure and trusted connection.
-</thinking>
-
 # Stripe Church Donation Form - Help Guide
 ## Purpose
 The Stripe Church Donation Form is designed to facilitate donations to a church via Stripe. Users can input their personal and donation details to support the church's activities and initiatives.

@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to gather feedback from customers about their experience with a particular supermarket, providing insight into their perception of the store's layout, organization, product quality, and various other aspects of the shopping experience. This information can help the store identify areas for improvement and make informed decisions about how to enhance customer satisfaction. To avoid duplication, this form is designed for one-time feedback collection, and its content should be reviewed and updated regularly to ensure it stays relevant.
-</thinking>
-
 # Supermarkets Cabinet Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience at your store. Your input will help us understand our strengths and weaknesses, enabling us to improve our service and provide a better experience for you and our other customers.

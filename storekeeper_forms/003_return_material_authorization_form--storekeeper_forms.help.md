@@ -1,7 +1,3 @@
-<thinking>
-This form is used to generate a Return Material Authorization (RMA) form for customers to initiate the return process of store items. The form is intended for customers to provide necessary information for the return process, including details about the item being returned, the customer's identification, and approval from authorized personnel. 
-</thinking>
-
 # Return Material Authorization Form - Help Guide
 ## Purpose
 The Return Material Authorization Form is used to initiate the return process of store items. Fill out this form to provide the necessary information required for the return process.

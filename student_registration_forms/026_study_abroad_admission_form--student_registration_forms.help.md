@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect demographic and biographical information from students who are interested in applying for a study abroad program. This form is typically filled out by students to provide their personal details and background information for program eligibility and application purposes.
-
-Before you start filling out this form, please ensure you have the necessary documents and information at hand. If you've already filled out this form, please note that you do not need to fill it out again unless your circumstances have changed since your last application.
-
-Please note that all fields are optional unless marked as required.
-
-</thinking>
-
 # Study Abroad Admission Form - Help Guide
 ## Purpose
 This form is used to collect personal details and background information from students interested in applying for a study abroad program.

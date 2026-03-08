@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Electrostatics Knowledge Assessment - Help Guide
 ## Purpose
 This form, "Electrostatics Knowledge Assessment," is designed to evaluate a student's understanding of the fundamental concepts of electrostatics. It covers various aspects of electrostatics, including definitions, topics, interactions, applications, and relationships. The form is essential for assessing a student's grasp of electrostatics and its relevance to real-world scenarios.

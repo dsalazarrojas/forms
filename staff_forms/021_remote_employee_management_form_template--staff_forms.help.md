@@ -1,9 +1,3 @@
-<thinking>
-This form template is used to manage remote employees within the organization.
-It is recommended to use this form for new hires or existing employees who will be working remotely. If an employee is not listed, kindly create a new form.
-The form should only be used for remote employees and not for employees who will be working in the office.
-</thinking>
-
 # Remote Employee Management Form Template - Help Guide
 ## Purpose
 The purpose of this form is to track and manage remote employees within the organization. This template helps to collect relevant information about the remote employee's work status, location, and communication channels.

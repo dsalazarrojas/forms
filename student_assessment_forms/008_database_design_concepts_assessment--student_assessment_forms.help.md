@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess students' understanding of database design concepts. The purpose of this form is to collect information on students' thoughts on the importance of theory questions, their experience with database design scenarios, and their ability to apply these concepts to real-world situations. The form is designed to be a self-assessment tool for students, helping them reflect on their knowledge and skills in database design. Before filling out this form, please ensure that you have reviewed the provided material and are able to answer these questions based on your understanding.
-</thinking>
-
 # Database Design Concepts Assessment - Help Guide
 ## Purpose
 This form is designed to assess your understanding of database design concepts. It will ask you questions related to the importance of theory questions, your experience with database design scenarios, and your ability to apply these concepts to real-world situations.

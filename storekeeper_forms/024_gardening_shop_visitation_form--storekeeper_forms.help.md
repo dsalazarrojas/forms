@@ -1,10 +1,3 @@
-<thinking>
-This form is meant for recording visitation details for a gardening shop, which is a crucial aspect of maintaining accurate records and enhancing customer engagement. The form will help storekeepers gather essential data from customers, including their names, contact information, and visit details. This information can be used to personalize future interactions, improve customer service, and analyze visit patterns. 
-
-Please ensure that this form is being used for its intended purpose and not for other tasks that may compromise its accuracy and usefulness. Duplicate entries should be avoided, and each entry should be reviewed for completeness and correctness before being saved.
-
-</thinking>
-
 # gardening_shop_visitation_form - Help Guide
 ## Purpose
 This form is designed to record visitation details for customers at a gardening shop.

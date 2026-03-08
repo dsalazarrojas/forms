@@ -1,27 +1,3 @@
-<thinking>
-This form appears to be a Sports Shop Order Form used for customers to place orders for sports-related products, such as team uniforms, sports fan gear, and other merchandise. The form likely serves as a means for customers to provide their information, payment details, and order specifics. To determine the purpose of the form, one might consider the following questions:
-
-Is this form intended for online ordering or in-person ordering?
-Is it used for specific sports teams or general sports merchandise?
-Is this form part of a larger sales process, including inventory management and shipping?
-
-Assuming the form is used for online ordering of sports-related products, it seems that the form is designed to collect customer and order information, payment details, and order specifics. It appears to be part of a sales process that involves collecting customer data and order details for fulfillment and customer service purposes.
-
-Given the structure of the form, it is likely that this form is used for the following:
-
-* Collecting customer details (name, address, phone number, email)
-* Specifying order details (items ordered, order total, order status)
-* Collecting payment information (method and method-specific details)
-* Adding order comments and customer comments
-
-To ensure that the form does not get duplicated or is not used for unintended purposes, it's recommended to:
-
-* Clearly display the form title and purpose on the landing page or introduction page
-* Set a clear "save and submit" or "reset form" button
-* Include clear instructions on how to fill out the form and what information is required
-
-</thinking>
-
 # Sports Shop Order Form - Help Guide
 ## Purpose
 The Sports Shop Order Form is designed to collect customer and order information for sports-related products. This form is used to gather details about the customer, the order, and payment information. It is part of a sales process that involves online ordering and customer service.

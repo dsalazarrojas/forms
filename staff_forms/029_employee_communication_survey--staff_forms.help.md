@@ -1,15 +1,3 @@
-<thinking>
-
-The "Employee Communication Survey" form is designed to gather information about how employees communicate with each other and with their managers through different channels such as email, phone, in-person, etc. The purpose of this survey is to collect data on employee communication preferences, frequency of communication, and channel preferences for different types of communication.
-
-Before starting the survey, please note that:
-
-* This form should only be completed by employees.
-* All questions are optional, and the survey will take approximately [insert time] to complete.
-* This survey is designed to be completed individually, so please do not share your answers with others.
-
-</thinking>
-
 # Employee Communication Survey - Help Guide
 
 ## Purpose

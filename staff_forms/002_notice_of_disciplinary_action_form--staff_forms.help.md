@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Notice Of Disciplinary Action Form - Help Guide
 
 ## Purpose

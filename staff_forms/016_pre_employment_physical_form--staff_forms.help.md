@@ -1,14 +1,3 @@
-<thinking>
-This form is used to gather pre-employment physical information from new hires. The purpose of this form is to collect personal and medical data that is required for new employees to be cleared for work. The form will be used to ensure that all new hires have the necessary medical clearance and insurance information before starting work. 
-
-To prevent duplication of effort, please ensure that this form is completed in its entirety before submitting. 
-
-Please note that some fields may have specific instructions or guidelines that must be followed. For example, the "Medical Clearance" field is a required field and must be set to "Clear" before proceeding. 
-
-This form is designed to be completed by new hires themselves, however, if they are unable to complete it, their supervisor or HR representative may need to assist them.
-
-</thinking>
-
 # pre-employment-physical-form - Help Guide
 ## Purpose
 This form is used to gather pre-employment physical information from new hires to ensure they have the necessary medical clearance and insurance information before starting work.

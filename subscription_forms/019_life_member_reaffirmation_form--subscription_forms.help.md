@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow life members to provide updates on their status. The form is likely used by HR or membership teams to track and verify changes in a life member's job title, company, email, and phone number. The purpose of the form is to collect the latest information about the member's current position and any changes they may have made. This process helps the organization maintain accurate records and facilitate communication.
-</thinking>
-
 # Life Member Reaffirmation Form - Help Guide
 ## Purpose
 The life member reaffirmation form is used to update and verify the contact and job title information of life members.

@@ -1,5 +1,3 @@
-<thinking>Storekeepers use the "new-store-takeover-form" to facilitate the process of storing ownership of stores within the inventory management system. The primary intention is to accurately document the transfer of store ownership for future reference and auditing purposes. To ensure that all relevant stores are updated correctly, this form should be used for every new store that joins the inventory system or for stores that have changed ownership. Avoid submitting duplicate forms for the same store, as it leads to unnecessary data redundancy and potential discrepancies in reports and analytics.</thinking>
-
 # new-store-takeover-form - Help Guide
 ## Purpose
 The "new-store-takeover-form" is a critical tool for storekeepers to document the ownership transfer of stores within the inventory management system. It ensures accurate and up-to-date information about store ownership for future reference, auditing, and reporting purposes.

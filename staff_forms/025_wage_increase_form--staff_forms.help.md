@@ -1,9 +1,3 @@
-<thinking>
-This form seems to be related to managing wage increases for employees, likely for HR purposes.
-The form might be used by employees to request a wage increase, or by managers to review and approve/deny such requests. It's essential to ensure that the form's purpose and fields are clearly understood by end-users.
-The form appears to be designed for a simple, text-based input with some additional fields for specific reasons, dates, and approval status. There's a mix of required and optional fields.
-</thinking>
-
 # wage_increase_form - Help Guide
 ## Purpose
 The `wage_increase_form` is used for employees to request a wage increase and for managers to review and approve, deny, or keep such requests pending. This form helps employees communicate their reasons for the increase and allows managers to track and respond to these requests.

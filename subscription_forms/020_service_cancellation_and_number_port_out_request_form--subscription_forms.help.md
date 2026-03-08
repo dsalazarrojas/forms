@@ -1,21 +1,3 @@
-<thinking>
-We will review the form to make sure it's a good fit for your use case. Let's break down the form fields to see if we can provide a clear and concise guide for end-users.
-
-Form "Service Cancellation And Number Port Out Request Form" seems to be a complex form designed for requesting service cancellation and number portability, which is likely a critical process in the telecommunications or service industry.
-
-After analyzing the form fields, we can categorize them into several sections: 
-
-1.  User Information (First Name, Last Name, Customer Contact Number)
-2.  Service Information (Service Number, Account Type, Account Number, Service Provider)
-3.  Request Information (Reason for Cancellation, Effective Date of Cancellation/Port-out, Reason for Port-out Request, Reason for Change of Account Type, Reason for Change of Service Provider)
-4.  Confirmation (Account Closure Confirmation, Service Cancellation Confirmation, Submission)
-
-The form seems to be asking for a range of information, from user details to service-specific information and request reasons. This form likely serves as a centralized location for users to submit requests for service cancellation and number portability.
-
-Before we proceed, let's ensure that the form is not being used for duplicate requests or non-relevant information. We can add a simple "I understand this form is for service cancellation and number port out requests" checkbox at the top to ensure users understand the form's purpose and agree to use it for its intended purpose.
-
-</thinking>
-
 # Service Cancellation And Number Port Out Request Form - Help Guide
 ## Purpose
 

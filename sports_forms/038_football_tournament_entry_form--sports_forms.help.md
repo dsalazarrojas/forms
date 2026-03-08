@@ -1,7 +1,3 @@
-<thinking> 
-This form is for registering participants for a football tournament. It's meant to collect information from users regarding their team and its performance in each stage of the tournament. It's assumed that the tournament has multiple stages, and users need to input their team's score and ranking at each stage. The form should be filled out for each stage of the tournament.
-</thinking>
-
 # Football Tournament Entry Form - Help Guide
 ## Purpose
 This form is used to register participants for a football tournament, collecting information on team scores and rankings at each stage of the tournament.

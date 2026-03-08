@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pcyd/ Pch Covid 19 Pandemic Player Consent Form - Help Guide
 
 ## Purpose

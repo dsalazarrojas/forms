@@ -1,13 +1,3 @@
-<thinking>
-
-As the form is designed to collect information from staff members for the purpose of HR Transformation Committee application, the form should serve as a tool to gather essential details that aid in evaluating staff members' qualifications and suitability for the committee. To ensure that the form is used effectively, it's essential to clearly explain its purpose and how to use it. 
-
-To prevent duplication and confusion, staff members should only apply once for the HR Transformation Committee. 
-
-The form consists of multiple pages with various fields to collect different types of information. 
-
-</thinking>
-
 # HR Transformation Committee Application Form - Help Guide
 ## Purpose
 The HR Transformation Committee Application Form is designed to collect information from staff members interested in applying for the HR Transformation Committee. The form is meant to gather details about the applicant's background, qualifications, and experience to evaluate their suitability for the committee.

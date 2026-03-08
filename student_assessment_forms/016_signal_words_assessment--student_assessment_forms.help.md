@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to assess students' understanding of signal words, which are words that signal to the reader that a sentence or phrase has ended or a new idea is being introduced. The form is intended to evaluate how well students can recognize and respond to these signal words when they occur in reading passages. The form's purpose is to provide a clear and concise way to gauge students' comprehension of signal words and their ability to apply this understanding in real-world scenarios.
-</thinking>
-
 # Signal Words Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate students' understanding of signal words and their ability to apply this understanding in reading passages.

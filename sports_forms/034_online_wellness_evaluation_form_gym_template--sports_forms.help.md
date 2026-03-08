@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about a person's food intake and daily medicine dose, as well as their exercise routine. The form is meant to help individuals track their wellness and fitness progress, allowing them to make informed decisions about their health and wellness.
-Before filling out this form, please ensure you have not already completed it. Duplication of this form will lead to unnecessary data duplication and potentially cause confusion.
-</thinking>
-
 # Online Wellness Evaluation Form Gym Template - Help Guide
 ## Purpose
 The Online Wellness Evaluation Form Gym Template is designed to gather information about your daily food intake, medicine dose, and exercise routine. This data will help you track your progress and make informed decisions about your overall wellness and fitness.

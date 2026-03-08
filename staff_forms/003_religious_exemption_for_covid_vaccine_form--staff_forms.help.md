@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a template for an employee to submit their request for a religious exemption from COVID-19 vaccination, likely for workplace or school settings. The form's purpose is to gather information about the employee's religious beliefs and reasons for exemption. The fields seem to be designed to collect basic information, which suggests that the form is intended for a relatively straightforward process. It's essential to ensure that the fields are completed correctly to avoid any issues or misinterpretation of the employee's concerns. Before filling out the form, double-check that it's the correct context and that there are no other relevant forms that should be used instead. If you're unsure, please consult with your supervisor or HR representative.</thinking>
-
 # Religious Exemption For Covid Vaccine Form - Help Guide
 ## Purpose
 This form is designed for employees to submit their request for a religious exemption from COVID-19 vaccination. It's essential to complete this form accurately and truthfully to ensure that your concerns are understood and processed correctly.

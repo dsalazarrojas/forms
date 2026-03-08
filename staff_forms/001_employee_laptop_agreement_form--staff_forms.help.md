@@ -1,8 +1,3 @@
-<thinking>
-This form is used for tracking and documenting the agreement between employees and the company regarding the use and maintenance of company-provided laptops. This form ensures that employees understand their responsibilities and obligations related to the laptop usage, including maintenance, care, and return policies. It also serves as a record of the laptop's details and the employee's agreement to follow the company's policies. This form should be used for all company-provided laptops and laptops issued to employees. Please ensure that you're not duplicating efforts by checking if a similar form has been completed recently.
-
-</thinking>
-
 # Employee Laptop Agreement Form - Help Guide
 
 ## Purpose

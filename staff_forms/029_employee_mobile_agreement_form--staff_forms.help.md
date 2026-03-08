@@ -1,10 +1,6 @@
 # Employee Mobile Agreement Form - Help Guide
 
 ## Purpose
-<thinking>
-The Employee Mobile Agreement Form is a crucial document that ensures employees understand their responsibilities and obligations regarding the use of corporate resources. By completing this form, employees acknowledge that they will not misuse corporate resources, report all misuse to management, and comply with company policies and procedures. This form is essential for maintaining a fair and safe work environment, preventing unauthorized access to resources, and upholding the company's values and integrity.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, please follow these steps:
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record orders for products sold through the Square platform. The purpose of this form is to gather information about each order, including customer details, product and quantity details, payment method, and order status. 
-Before proceeding, please ensure that you have a good understanding of the form's purpose and how it fits into your workflow. You may want to refer to relevant documentation or ask your internal stakeholders for clarification. Please fill out this form carefully, as it will impact how orders are processed and reported. 
-</thinking>
 # Square Product Order Form - Help Guide
 ## Purpose
 This form is used to record orders for products sold through the Square platform. It is used to gather information about each order, including customer details, product and quantity details, payment method, and order status.

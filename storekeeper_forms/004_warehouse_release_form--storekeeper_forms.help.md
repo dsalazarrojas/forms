@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Warehouse Release Form - Help Guide**
 
 ## Purpose

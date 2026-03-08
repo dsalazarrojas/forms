@@ -1,10 +1,3 @@
-<thinking>
-As a form designer and technical writer, my goal is to create a clear and concise help guide for the Square Donation Form. This form is used to collect donations from users, which will aid in the organization's fundraising efforts. Before starting this guide, I will review the YAML fields to ensure that I understand the form's purpose and functionality. I will also check for any potential issues with duplicate fields or unclear labels.
-
-Upon reviewing the YAML, I notice that the form has several fields, including "Donation Name", "Donation Notes", "Amount", "Payment Method", "Email", "Phone", and "Address". The "Donation Name" and "Donation Notes" fields are text fields that allow users to enter their name and any additional notes about the donation. The "Amount" field is a numeric field that collects the amount of the donation. The "Payment Method" field is a dropdown menu with two options, "Credit Card" and "Bank Transfer". The "Email" field is an email address field that collects the user's email address. The "Phone" field is a text field that collects the user's phone number. The "Address" field is a text field that collects the user's address.
-
-Upon further review, I notice that this form is likely used for collecting donations for a charity or non-profit organization. The form fields are fairly standard and self-explanatory, with the exception of the "Payment Method" field, which may require additional guidance to ensure users understand the options. I will ensure that the help guide provides clear explanations for each field.</thinking>
-
 # Square Donation Form - Help Guide
 ## Purpose
 This form is used to collect donations from users, aiding in the organization's fundraising efforts.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who are interested in fitness services, such as personal training or coaching. The form is divided into several sections, each with its own set of fields that cater to different aspects of the client's experience and needs. The form's purpose is to provide a comprehensive overview of the client's contact details, medical history, emergency contact information, and any medical insurance-related information that may be relevant to their participation in fitness services.
-
-The form has multiple sections and fields, and some of the fields are marked as "required" while others are "optional." This guide will walk you through each field, its intended use, and what information is expected from the client.
-
-</thinking>
-
 # Fitness Client Intake Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,4 @@
-> <thinking> 
-This form is a tool to help staff members request leave from work for various reasons. It is recommended that you only submit a leave application when you genuinely need a break. Please check if you have already submitted a leave application before filling this form. If you are unsure, you can always reach out to your supervisor or HR for guidance. <</thinking>
-
-# Staff Leave Application Form - Help Guide
+> # Staff Leave Application Form - Help Guide
 ## Purpose
 The Staff Leave Application Form is a tool to help staff members request leave from work for various reasons. It provides a structured format for submitting requests, making it easier for staff and management to process and approve or deny leave applications.
 

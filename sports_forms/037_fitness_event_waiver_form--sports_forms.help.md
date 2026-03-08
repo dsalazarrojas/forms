@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Event Waiver Form - Help Guide
 ## Purpose
 

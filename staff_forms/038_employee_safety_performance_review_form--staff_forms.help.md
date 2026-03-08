@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a safety performance review form for employees, designed to assess their behavior and response in safety-related incidents. It is likely to be used by HR or safety department to gather information about an employee's performance in such incidents. This form does not appear to be used for any other purpose.
-
-</thinking>
-
 # employee_safety_performance_review_form - Help Guide
 ## Purpose
 

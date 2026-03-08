@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from players for the purposes of registration and equipment ordering. It is intended for use by sports teams, clubs, or organizations to collect player data and preferences for their events or programs. The form should only be used for this specific purpose and not for other uses, such as general player inquiries or membership applications. 
-
-</thinking>
-
 # Player Registration And Equipment Order Form - Help Guide
 ## Purpose
 This form is designed to collect player information for registration and equipment ordering purposes. Please fill out the form accurately and completely for a smooth process.

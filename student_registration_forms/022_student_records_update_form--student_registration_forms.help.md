@@ -1,7 +1,3 @@
-<thinking> 
-To create a comprehensive help guide for the "Student Records Update Form", we need to first understand its purpose and context. The form appears to be designed for updating records related to students, likely for administrative or educational settings. It's essential to ensure that this form does not overlap with existing ones, and we confirm this form's primary intention is to collect data for the purpose of updating student records, which would not conflict with other forms. 
-</thinking> 
-
 # Student Records Update Form - Help Guide
 ## Purpose
 The purpose of this form is to update a student's records. It is used to collect updated information about a student, including details from the student and their parent or guardian.

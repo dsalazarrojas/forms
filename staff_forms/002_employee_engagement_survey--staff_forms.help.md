@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and engagement data from employees, which will help management and HR teams understand employees' satisfaction and engagement levels in the workplace. This form is intended for employees only and is not meant for managers or other stakeholders. To ensure that this form is filled out correctly, please make sure to only fill it out if you are an employee of the company.
-
-The form will ask questions about your job satisfaction, team environment, communication, and engagement, as well as collect some demographic information like email and phone number. Please note that some of the fields are optional and are meant to provide more detailed information.
-
-</thinking>
-
 # employee_engagement_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your job satisfaction, team environment, and engagement levels. This data will help management and HR teams understand employee sentiments and make informed decisions to improve the workplace.

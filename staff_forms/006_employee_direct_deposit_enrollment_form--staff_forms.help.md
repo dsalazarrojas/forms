@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees to facilitate the direct deposit process for their paychecks. This form aims to gather necessary details such as address, date of birth, social security number, emergency contact, emergency contact information, bank account details, email, and phone numbers. The form should only be completed if the employee is new to the company or needs to update their existing information. Please ensure that you have reviewed company policies and procedures before completing this form.
-</thinking>
-
 # Employee Direct Deposit Enrollment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employees to enroll them in direct deposit for their paychecks.

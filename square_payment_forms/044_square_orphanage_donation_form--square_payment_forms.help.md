@@ -1,13 +1,3 @@
-<thinking>
-
-The Square Orphanage Donation Form is used to collect donations and related information from individuals or organizations for a Square Orphanage program. This form is designed to gather specific details to facilitate the proper allocation and management of donations. 
-
-To confirm that this form is correctly filled in by the right users, a review should be conducted to ensure that the form is filled in for legitimate purposes and not for testing or demonstration purposes. Also, a review should be done to make sure the form is not filled in with invalid information or duplicates. 
-
-Before proceeding, please fill out this guide to make sure you have a correct understanding of how the Square Orphanage Donation Form works.
-
-</thinking>
-
 # Square Orphanage Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donations and relevant information from individuals or organizations for the Square Orphanage program. It is intended to facilitate the proper allocation and management of donations.

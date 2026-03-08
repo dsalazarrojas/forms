@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate student progress communication between educators and parents. The purpose of this form is to collect and document student's progress in a structured and organized manner, providing a clear and concise way to communicate updates and observations about students' performance, behavior, and overall well-being. This form is intended to be used by educators to provide updates to parents, and by parents to communicate their expectations and concerns to educators. 
-</thinking>
-
 # Student Progress Communication Form - Help Guide
 
 ## Purpose

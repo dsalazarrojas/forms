@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # service_record_form - Help Guide
 ## Purpose
 The Service Record Form is used to track and record vehicle service history. This form provides a comprehensive view of a vehicle's maintenance and service history, including service dates, vehicle status, and cost information.

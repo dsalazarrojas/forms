@@ -1,6 +1,3 @@
-<thinking>
-A student registration form is used to collect relevant details about a student in the context of academic activities or services. This form is intended to capture a student's personal and contact information, ensuring accuracy and completeness of data. To avoid duplication of effort, we should only fill out this form if a student has not already been registered in the system previously.</thinking>
-
 # Student Form - Help Guide
 ## Purpose
 The Student Form is used to collect essential details about a student for academic activities or services. This form is only to be filled out for new students or when a student's existing information needs to be updated.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Honors Program Assessment - Help Guide
 ## Purpose
 The University Honors Program Assessment is a form designed to evaluate students' progress and experiences in the honors program. This form helps the honors program directors and staff to assess students' performance, identify areas of improvement, and provide guidance for future progress.

@@ -1,12 +1,3 @@
-<thinking>
-This form is for collecting information about hockey enthusiasts' experiences and preferences. It's meant to be completed by individuals who have had some level of involvement with hockey, be it players, coaches, or fans. The purpose of the form is to gather data on their hockey experience, training habits, equipment preferences, game play frequency, team participation, practice frequency, feedback, contact information, and any additional notes they may want to provide.
-
-To ensure the form is filled out correctly and accurately, it's essential to note that it's meant for hockey enthusiasts who have had some form of experience with the sport. If you're a coach or official filling out this form on behalf of a participant, please ensure that the participant has given their consent and that the information provided accurately reflects their experiences and preferences.
-
-To avoid duplication of forms, please ensure that each participant only completes one instance of this form. If you're unsure about any aspect of this form, please refer to this help guide for clarification.
-
-</thinking>
-
 # Hockey Survey - Help Guide
 ## Purpose
 This form aims to collect information about hockey enthusiasts' experiences and preferences, including their hockey experience, training habits, equipment preferences, game play frequency, team participation, practice frequency, feedback, contact information, and any additional notes they may want to provide.

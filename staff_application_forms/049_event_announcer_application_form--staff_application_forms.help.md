@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about event announcers who wish to apply for a specific event. This form is designed to gather details about the applicant's background, preferences, and contact information, as well as their relationship with the event planner and production team. To ensure that the form is completed correctly, please review the instructions below.
-</thinking>
-
 # Event Announcer Application Form - Help Guide
 ## Purpose
 This form is for event announcers to apply for a specific event. Please fill out this form with your relevant information to help us evaluate your application.

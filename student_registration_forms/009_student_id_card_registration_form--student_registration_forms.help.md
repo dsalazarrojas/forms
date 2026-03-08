@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended for end-users to assist them in understanding the purpose and usage of the student ID card registration form. The form is designed to collect information from students to create an ID card. This guide will walk the user through the steps required to fill out the form correctly.
-
-</thinking>
-
 # student_id_card_registration_form - Help Guide
 ## Purpose
 The student ID card registration form is designed to collect information from students to create an ID card for identification and verification purposes. This form should only be filled out by authorized students.

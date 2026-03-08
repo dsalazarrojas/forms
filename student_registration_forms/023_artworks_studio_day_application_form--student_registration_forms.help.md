@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is designed to collect information from students for the Artworks Studio Day event. The form asks for personal details, contact information, and preferences, as well as any medical conditions or allergies. This information will be used to manage the student's attendance and participation in the event.
-To ensure this information is accurate and complete, we will be using these fields to create student profiles. We will use these profiles to manage student attendance, provide necessary accommodations, and ensure their safety during the event.
-Please be aware that this form is not intended for students under 18 years old. This form is only for students who are 18 years or older.
-</thinking>
-
 # Artworks Studio Day Application Form - Help Guide
 ## Purpose
 The Artworks Studio Day Application Form is designed to collect information from students for the Artworks Studio Day event. This form is used to create student profiles and manage student attendance, provide necessary accommodations, and ensure their safety during the event.

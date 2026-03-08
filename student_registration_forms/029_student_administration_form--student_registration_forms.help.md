@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Student Administration Form, I will need to determine the form's purpose, the steps to complete it, and provide an explanation for each field. This form is for student registration and will require information from students to be registered in the system. The fields are categorized into different sections: Student Details, Enrollment Date, Academic Program, Student Information, Contact Information, and Signature.
-
-</thinking>
-
 # Student Administration Form - Help Guide
 
 ## Purpose

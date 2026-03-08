@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # organic_farming_subscription_form - Help Guide
 ## Purpose
 The organic farming subscription form is a tool for farmers to sign up for subscription plans for organic farming services. This form collects information about the farmer's contact details, farm name, subscription preferences, and other relevant data. By using this form, farmers can easily sign up for a subscription that suits their needs.

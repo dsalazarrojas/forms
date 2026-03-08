@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help users subscribe to a newsletter offered by PayPal. It captures user's personal details, subscription preferences, and subscription options. The form is designed to be simple and user-friendly, ensuring that users can easily provide the required information and choose their preferred subscription options.
-
-The form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation of publicly available data. It is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-
-When filling out this form, users must provide their First Name, Last Name, and Email address. The form also asks for the user's preferred format (Digital, Print, or Both), subscription duration (One Month, Three Months, Six Months, or One Year), and subscription frequency (Monthly, Bi-Monthly, Quarterly, or Bi-Quarterly). Users can choose more than one subscription option if needed.
-
-Please note that while the form is designed to be user-friendly, it is essential to ensure that the information provided is accurate and complete. Users should review their selections carefully before submitting the form.</thinking>
-
 # paypal_newsletter_subscription_form - Help Guide
 ## Purpose
 The form is designed to help users subscribe to a newsletter offered by PayPal. It allows users to provide their personal details and subscription preferences, ensuring a smooth subscription process.

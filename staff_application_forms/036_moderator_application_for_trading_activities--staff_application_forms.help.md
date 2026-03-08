@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for moderators to apply for trading activities, such as mediating disputes or managing trading relationships. The form is intended to help moderators demonstrate their experience, availability, and dispute handling skills, as well as their time commitment to the trading activities. To ensure that each moderator's application is reviewed fairly and without duplication, please fill out the form carefully and accurately. Before submitting your application, make sure you have a clear understanding of the form's purpose and requirements.
-</thinking>
-
 # Moderator Application For Trading Activities - Help Guide
 ## Purpose
 The Moderator Application For Trading Activities form is designed to help moderators apply for trading activities such as mediating disputes or managing trading relationships. The form is intended to gather information about your experience, availability, and skills in handling disputes, as well as your time commitment to the trading activities.

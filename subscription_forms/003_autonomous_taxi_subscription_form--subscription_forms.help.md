@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to allow subscribers to provide their personal and subscription details for autonomous taxi services. It is intended for customers who wish to sign up for a subscription plan. The form should only be filled out once, and the information provided will be used to create a customer account.
-The form is structured into two main sections: "Subscriber Details" and "Subscription Plan". The Subscriber Details section requires the customer to provide their full name, email address, phone number, and home address. These details will be used to create a secure account for the subscriber.
-The Subscription Plan section allows the customer to choose their preferred subscription plan (Basic, Premium, Executive, or Pay-As-You-Go) and select their preferred vehicle type (Sedan, SUV, or EV). They also have the option to choose their preferred morning commute time and default in-car temperature. The customer must agree to the subscription terms.
-The customer has the option to provide a preferred payment method (credit/debit card, PayPal, or direct bank transfer). The form is designed to be filled out once, and the customer will not be able to make changes to their subscription plan or details once they have submitted the form.
-</thinking>
-
 # Autonomous Taxi Subscription Form - Help Guide
 ## Purpose
 This form is for customers who wish to sign up for a subscription to our autonomous taxi services.

@@ -1,7 +1,3 @@
-<thinking>
-To provide access to the Academic Learning Support Hub, users must be students or staff members of the institution. The purpose of this form is to gather information about the support services needed by the applicant. The form is used to collect personal and academic details, preferences, and goals. This form is not intended for external users.
-</thinking>
-
 # Academic Learning Support Hub Access Request Form - Help Guide
 ## Purpose
 The Academic Learning Support Hub Access Request Form is used to gather information from students and staff members to provide access to various support services. This form helps the institution understand individual needs and preferences, ensuring that support is tailored to meet each user's requirements.

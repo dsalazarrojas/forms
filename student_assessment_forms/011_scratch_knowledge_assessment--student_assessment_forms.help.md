@@ -1,15 +1,3 @@
-<thinking>This form is designed to assess a student's knowledge and skills in various areas, providing a comprehensive evaluation of their capabilities. To determine if this form is relevant, consider the following:
-
-*   Is the student currently enrolled in an educational program or participating in a project-based learning environment?
-*   Are you looking to evaluate student performance in areas such as coding, problem-solving, or project management?
-*   Does the form need to be duplicated or used for multiple evaluations?
-
-If the answer is yes to these questions, then the Scratch Knowledge Assessment form is likely relevant and necessary for your use case. 
-
-The form is designed to be flexible and accommodate various assessment scenarios. However, if you have any specific requirements or need further modifications, please reach out to us for support.
-
-Please note that the following fields are not currently required but can be filled in later if needed. Please fill in all the other fields as required.</thinking>
-
 # Scratch Knowledge Assessment - Help Guide
 ## Purpose
 The Scratch Knowledge Assessment form is designed to evaluate a student's knowledge and skills in various areas, including coding, problem-solving, project management, and more. This form helps assessors to evaluate a student's performance and provide feedback.

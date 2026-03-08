@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to assess the knowledge of a student on the topic of mineral science. It is designed to evaluate the student's understanding of various concepts in geology and mineralogy, including the definition of a fossil, the process of rocks being broken down by different agents (wind, ice, and heat), the geologic time scale, and other relevant terms. The form is used to collect answers from students and provide a quantitative evaluation of their understanding.
-
-The form contains 12 questions, each related to a specific aspect of mineral science. The questions range from simple definitions (e.g., what is a fossil) to more complex processes (e.g., the process of rocks being broken down by living organisms).
-
-This form is designed to be completed by a student, and the answers will be used to evaluate their knowledge on the topic. The fields are organized in a logical order, starting with basic definitions and progressing to more complex concepts.
-
-Please review the following help guide to ensure you understand each question and how to complete the form accurately.
-
-</thinking>
-
 # Mineral Science Knowledge Assessment - Help Guide
 ## Purpose
 The Mineral Science Knowledge Assessment is a form designed to evaluate a student's understanding of various concepts in mineral science. It contains 12 questions that cover topics such as geology, fossils, the geologic time scale, and more.

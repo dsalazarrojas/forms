@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I reviewed the provided YAML fields. The purpose of the form is to collect student information for enrollment, which likely involves creating or updating records in a database or system. It's essential to complete this form accurately to ensure the student's data is up-to-date and correct. To prevent data duplication, the form might be used to create a new record or update an existing one, depending on the system's functionality. I assume the form is intended for students or their representatives to submit information about the student, and the data collected will be used for administrative purposes, such as student management or academic records.</thinking>
-
 # Student Enrolment Application Form - Help Guide
 ## Purpose
 This form is used to collect student information for enrollment, which can be used to create or update records in a database or system.

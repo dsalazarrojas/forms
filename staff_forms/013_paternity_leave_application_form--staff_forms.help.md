@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Paternity Leave Application Form - Help Guide
 ## Purpose
 The Paternity Leave Application Form is a document designed for employees to submit their application for paternity leave. This form helps employees provide necessary information about their leave, including the start and end dates of their leave, and their name. The completed form will be reviewed and approved or denied by the relevant authorities.

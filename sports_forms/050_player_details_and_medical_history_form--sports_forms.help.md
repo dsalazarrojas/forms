@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is for collecting player details and medical history for sports-related events or activities. The purpose of this form is to ensure that the player is aware of their medical conditions, allergies, and medications before participating in any sports event or activity. This form will be used by the sports organization to review and verify the player's medical information.
-</thinking>
-
 # Player Details And Medical History Form - Help Guide
 ## Purpose
 This form is used to collect player details and medical history for sports-related events or activities. Please fill in the required information to provide a safe and healthy environment for everyone involved.

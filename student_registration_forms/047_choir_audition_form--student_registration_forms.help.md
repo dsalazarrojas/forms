@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Choir Audition Form - Help Guide
 ## Purpose
 This form is designed to gather information from students who wish to audition for the choir. The form will help us understand your musical background, experience, and availability for an audition. Please fill out this form thoroughly and accurately to ensure a successful audition process.

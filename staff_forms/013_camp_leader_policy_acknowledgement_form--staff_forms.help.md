@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block is to explain the purpose of this form and check for relevance and non-duplication of this form. This form is intended to be completed by camp leaders and staff members to acknowledge their understanding of various camp policies. The purpose of this form is to ensure that all staff members are aware of and have read the relevant policies, which are essential for their roles and responsibilities. This form is a crucial part of the onboarding process for new staff members and is reviewed and updated annually.
-</thinking>
-
 # Camp Leader Policy Acknowledgement Form - Help Guide
 ## Purpose
 The Camp Leader Policy Acknowledgement Form is designed to ensure that all camp staff members understand and acknowledge the various policies that govern their work and responsibilities. This form is a critical part of the onboarding process for new staff members and is reviewed and updated annually.

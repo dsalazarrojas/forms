@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals participating in a boxing event, ensuring they understand the risks associated with the sport and are willing to acknowledge and assume certain responsibilities. It's essential to complete this form carefully, as it will be used to assess the participant's understanding and consent. Please fill out this form accurately and thoroughly.
-</thinking>
 # Boxing Waiver Form Template - Help Guide
 
 ## Purpose

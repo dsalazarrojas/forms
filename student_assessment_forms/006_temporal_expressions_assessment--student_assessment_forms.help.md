@@ -1,13 +1,3 @@
-<thinking>
-This is the Temporal Expressions Assessment form, a tool for evaluating your relationship with time. This form is used to assess your attitudes, preferences, and habits related to time, including time zones, time of day, seasons, and birth dates. It is used for internal purposes only and is not intended for public consumption.
-
-Before proceeding, please note that this form is designed to be completed by individuals, not organizations or institutions. If you are an organization or institution seeking similar assessment tools, please contact our support team to inquire about alternative options.
-
-It is recommended that you complete this form in its entirety, as leaving any fields blank may impact the accuracy of the results. Additionally, please be aware that the results will not affect any existing or future interactions with our organization.
-
-Please answer the questions accurately and honestly, and do not provide any information that you are not comfortable sharing.
-</thinking>
-
 # Temporal Expressions Assessment - Help Guide
 ## Purpose
 The Temporal Expressions Assessment is a series of questions designed to gauge your relationship with time, including your preferences, habits, and attitudes towards time zones, time of day, seasons, and birth dates.

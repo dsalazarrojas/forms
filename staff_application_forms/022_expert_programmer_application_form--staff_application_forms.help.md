@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from applicants for the position of expert programmer. We will review the form for completeness, relevance, and duplication. If the form is found to be complete and relevant, it will be sent to the relevant department for further evaluation.
-</thinking>
-
 # Expert Programmer Application Form - Help Guide
 ## Purpose
 The Expert Programmer Application Form is a tool used by applicants to apply for the position of expert programmer. This form gathers information about the applicant's general information, contact details, education, work experience, skills, and other relevant sections to evaluate their qualifications.

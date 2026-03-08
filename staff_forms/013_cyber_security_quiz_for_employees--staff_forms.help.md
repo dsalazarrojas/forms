@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to assess employees' knowledge on various cybersecurity aspects. It covers a range of topics including general knowledge, password strength, two-factor authentication, phishing attacks, password expiration, data encryption, network security, social engineering, access control, incident response, reporting incidents, security best practices, secure disposal, incident response teams, network segmentation, vulnerability assessment, and data backup. The form is designed to be completed by employees to gauge their understanding of these critical cybersecurity topics. The results will help identify areas where employees require additional training or education on these essential cybersecurity topics.
-
-</thinking>
-
 # cyber_security_quiz_for_employees - Help Guide
 ## Purpose
 This form aims to evaluate your understanding of various cybersecurity concepts and help identify areas for improvement in your knowledge.

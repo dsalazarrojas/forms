@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # BRAVE Students Registration Form - Help Guide
 
 ## Purpose

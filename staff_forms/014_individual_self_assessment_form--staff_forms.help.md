@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Individual Self-Assessment Form" to ensure that end-users understand the form's purpose, how to complete it, and each field's explanation. I will base my response on the provided YAML fields, providing concrete, concise, and practical explanations. I will also check for relevance and non-duplication in the form's purpose.</thinking>
-
 # Individual Self-Assessment Form - Help Guide
 ## Purpose
 This form is designed to help employees assess their personal and professional development, providing an opportunity for self-reflection and growth. The form aims to identify strengths and areas for improvement, enabling employees to set goals and objectives for their development. It is recommended to be completed by all staff members on a regular basis (e.g., quarterly or annually) to monitor progress and make informed decisions about professional development.

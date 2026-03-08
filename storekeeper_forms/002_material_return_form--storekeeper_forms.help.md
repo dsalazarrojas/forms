@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Material Return Form - Help Guide
 ## Purpose
 The Material Return Form is used to document the return of materials to the storekeeper. This form is typically used when materials are returned to the storekeeper for processing and reconciliation.

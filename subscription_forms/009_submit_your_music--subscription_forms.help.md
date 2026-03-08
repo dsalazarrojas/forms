@@ -1,7 +1,3 @@
-<thinking>
-This form is likely being used for a music-related submission process, such as a survey, feedback, or registration. The purpose of this form is to gather information from users about their music preferences, including their email, phone number, a brief description of their music interests, and other demographic information. This form is probably used to categorize users based on their music tastes and preferences. To avoid duplication, ensure that users do not re-submit the form multiple times.
-</thinking>
-
 # submit_your_music - Help Guide
 ## Purpose
 This form is used to gather information from users about their music preferences and submit their music-related data.

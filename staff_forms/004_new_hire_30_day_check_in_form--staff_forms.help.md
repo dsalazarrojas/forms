@@ -1,5 +1,3 @@
-<thinking>...to check if the form has been filled out correctly and to prevent duplication, please ensure that the form is only submitted once the new hire has been onboarding and training has been completed...</thinking>
-
 # New Hire 30 Day Check In Form - Help Guide
 ## Purpose
 The New Hire 30 Day Check In Form is used to document new hire information, track onboarding progress, and ensure that all necessary steps have been completed within the 30-day onboarding period.

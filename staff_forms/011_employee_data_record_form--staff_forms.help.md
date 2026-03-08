@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to collect employee data records, specifically for employees who work within the organization. It's crucial to ensure that the form is filled out accurately and completely to maintain up-to-date records. 
-Please note that the form should only be filled out once for each employee, and if an employee has already been added to the system, do not duplicate their record.
-</thinking>
-
 # Employee Data Record Form - Help Guide
 
 ## Purpose

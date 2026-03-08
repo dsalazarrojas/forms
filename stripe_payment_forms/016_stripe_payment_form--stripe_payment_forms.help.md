@@ -1,16 +1,3 @@
-<thinking>
-This help guide is intended to be used by end users who need to complete a Stripe payment form.
-The form is likely to be used in a variety of contexts, such as online checkout, subscription services, or other scenarios where payment information is required.
-To create the help guide, the following steps were taken:
-
-- Review the form YAML file and identify each field.
-- Determine the purpose of each field and provide a plain explanation.
-- Ensure that each field explanation is concise and easy to understand.
-
-The goal of this guide is to assist end users in understanding how to complete the form accurately and efficiently.
-
-</thinking>
-
 # Stripe Payment Form - Help Guide
 ## Purpose
 This form is used for processing Stripe payment information. It may be used for online checkout, subscription services, or other scenarios where payment information is required.

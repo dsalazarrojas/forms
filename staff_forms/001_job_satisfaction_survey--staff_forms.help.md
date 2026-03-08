@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data from employees on their job satisfaction. It's essential to understand that this form is meant to gauge employees' levels of job satisfaction, and not a performance evaluation tool. The goal is to gather feedback and comments that can help management identify areas of improvement. It's recommended that employees take a few minutes to complete this form, as it's not meant to be rushed. Additionally, please ensure you're answering sincerely and honestly, as your feedback is valuable and anonymous.
-</thinking>
-
 # Job Satisfaction Survey - Help Guide
 ## Purpose
 This form is a survey designed to collect information about your job satisfaction. It's meant to gather feedback from employees to help management understand their perspectives and identify areas for improvement.

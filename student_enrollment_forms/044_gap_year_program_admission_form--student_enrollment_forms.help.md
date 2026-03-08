@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information from individuals interested in participating in the Gap Year Program. It also seeks to understand the program's suitability for the applicant's academic and personal interests. By completing this form, you will be providing essential details about yourself, such as your contact information, program interest, and academic background. This information will be reviewed by the program's admissions team to determine eligibility. Please note that this form is part of a larger application process that may involve additional steps or requirements. To ensure a smooth and efficient process, kindly ensure you have all necessary details ready before proceeding.
-</thinking>
-
 # Gap Year Program Admission Form - Help Guide
 ## Purpose
 The Gap Year Program Admission Form is designed to collect contact information, academic background, and program interest from applicants.

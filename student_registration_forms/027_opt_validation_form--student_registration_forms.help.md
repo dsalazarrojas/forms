@@ -1,5 +1,3 @@
-<thinking>Form Purpose: The Opt Validation Form is used to collect and validate student information for various purposes, such as student registration, course enrollment, or other academic-related tasks. This form is designed to gather data about a student's personal details, course enrollment, and other relevant information. When filling out this form, please ensure that you have all necessary information available and double-check for duplicate entries to avoid errors.</thinking>
-
 # Opt Validation Form - Help Guide
 
 ## Purpose

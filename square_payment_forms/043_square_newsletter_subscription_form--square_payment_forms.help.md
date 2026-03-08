@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect subscription information from users who wish to receive the Square newsletter. This form is used to determine the user's preferred format of subscription (digital or print) and duration of subscription (1, 3, 6, or 12 months). Additionally, the form collects the user's name, contact email and phone number. This form is designed for both digital and print formats, and users can select their preferred format(s) for subscription. This form is meant to be completed by individuals who are interested in receiving the Square newsletter.
-</thinking>
-
 # Square Newsletter Subscription Form - Help Guide
 ## Purpose
 The Square Newsletter Subscription Form is used to collect subscription information from users who wish to receive the Square newsletter.

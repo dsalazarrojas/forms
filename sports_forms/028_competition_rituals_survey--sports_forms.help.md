@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect data on competition rituals from athletes and individuals involved in various sports and activities. The goal is to understand the types of rituals people have before competing, how they impact performance, and how they vary depending on the competition type. The form is meant to be completed by athletes, coaches, and others involved in sports and activities.
-
-This form is not affiliated with any specific sports platform or organization, and the data collected will be used for research purposes only. 
-
-Please ensure you are not duplicating the form as it may lead to redundant data collection. 
-
-This form is a public adaptation of a template created by AI and is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it, as long as you give credit to the original creators.
-
-</thinking>
-
 # Competition Rituals Survey - Help Guide
 ## Purpose
 This form is designed to collect data on pre-competition rituals from athletes and individuals involved in various sports and activities. The survey aims to understand the types of rituals people have before competing, how they impact performance, and how they vary depending on the competition type.

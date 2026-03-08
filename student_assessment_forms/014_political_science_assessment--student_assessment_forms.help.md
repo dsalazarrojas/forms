@@ -1,11 +1,3 @@
-<thinking>
-This is an internal reasoning block to ensure I understand the task correctly:
-- The form is a "Political Science Assessment" form, likely used to collect data related to political science topics.
-- The form has a lot of fields, but none of them are clearly explained or required for a standard assessment.
-- The "Political Science Assessment" label is the main topic.
-- The form is mostly composed of text fields.
-</thinking>
-
 # Political Science Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about political science topics. It is not a mandatory form, so you can fill it in as much or as little as you need to answer the questions.

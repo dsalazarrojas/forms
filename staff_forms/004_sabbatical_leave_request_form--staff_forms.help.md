@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help staff members submit a sabbatical leave request to their organization. 
-The form will collect relevant information about the staff member's leave request, including the request details, staff member's name, and start date. 
-This form will likely be used by HR or management to process and manage sabbatical leave requests efficiently. 
-Please ensure you have the necessary permissions and approvals before submitting this form, as it may involve sensitive information. 
-Please note that this form does not include fields for sensitive information such as personal details or medical reasons. 
-If you are unsure, please reach out to your HR representative or management before submitting the form.
-
-</thinking>
-
 # sabbatical_leave_request_form - Help Guide
 ## Purpose
 This form is used to submit a sabbatical leave request to your organization.

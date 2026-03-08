@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from students about their participation and preferences for a reverse career fair event. This form is likely used by the event organizers to gauge student interest, gather demographic data, and prepare for the event logistics. This form should not be used for other purposes or for students who have already registered for the event.
-</thinking>
-
 # Reverse Career Fair Student Registration Form - Help Guide
 ## Purpose
 The Reverse Career Fair Student Registration Form is designed to collect information from students about their interests, preferences, and availability for a reverse career fair event. This form will help the event organizers to better understand student needs and plan the event accordingly.

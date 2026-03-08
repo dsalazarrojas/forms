@@ -1,6 +1,3 @@
-<thinking>
-This form is for requesting authorization to return goods. The purpose of this form is to gather information from customers who wish to return products that were not as described, damaged, or received in error. The store needs this information to process the return efficiently. Please ensure that this form is filled out accurately and thoroughly, so that the store can process the return correctly. Note that this form is for customers to report reasons that are not listed here, please do not use it for other purposes.
-</thinking>
 # Return Goods Authorization Request Form - Help Guide
 
 ## Purpose

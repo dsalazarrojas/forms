@@ -1,7 +1,3 @@
-<thinking>
-This form is used for subscribers to sign up for a magazine subscription. The form collects basic contact information and subscription details. To avoid duplication, subscribers can only sign up once for the same email address within a certain time frame. If a subscriber already has an active subscription, they cannot sign up again.
-</thinking>
-
 # Magazine Subscription Form - Help Guide
 ## Purpose
 The magazine subscription form is used for subscribers to sign up for a magazine subscription. This form collects basic contact information and subscription details.

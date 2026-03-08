@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate badge requests from employees, this form should only be used to request a new badge for existing employees, not to re-issue or replace an existing badge. Please ensure that the employee's ID is accurate, as this will help us process your request efficiently.
-</thinking>
-
 # Identity Badge Request Form - Help Guide
 ## Purpose
 The Identity Badge Request Form is used to request a new identity badge for employees who need one. This form helps ensure that all badge requests are processed efficiently and accurately.

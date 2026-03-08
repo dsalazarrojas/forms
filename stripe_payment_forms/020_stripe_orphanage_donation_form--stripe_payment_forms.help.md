@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to securely and easily make a donation to support the orphanage organization. The form is designed to collect information from the user to process their donation efficiently. It's crucial to ensure that the user fills out the form accurately to avoid any errors in the donation process. The form fields should be completed only once, so users are not required to fill in the same information for each field.
-</thinking>
-
 # Stripe Orphanage Donation Form - Help Guide
 ## Purpose
 The Stripe Orphanage Donation Form is a secure online form designed to accept donations from users to support the orphanage organization's causes. The form collects essential information from the donor to process the donation efficiently and accurately.

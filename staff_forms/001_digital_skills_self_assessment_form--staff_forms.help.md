@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a self-assessment tool for evaluating a user's digital skills, communication skills, time management, problem-solving abilities, adaptability, leadership, collaboration, and technical skills. It seems to be part of a performance evaluation process, possibly for a professional setting. Upon reviewing the form's fields, it appears to be used to assess a user's proficiency in various digital and soft skills. To avoid duplication, I assume this form is not meant to be used in a situation where users are already aware of their own skill levels, but rather as a tool for users to reflect on their current abilities. I will proceed with creating the user-facing help guide.
-</thinking>
-
 # digital_skills_self_assessment_form - Help Guide
 ## Purpose
 This self-assessment form is designed to help users evaluate their digital and soft skills in a professional setting. It will help you identify your areas of strength and areas for improvement in digital skills, communication, time management, problem-solving, adaptability, leadership, collaboration, and technical skills.

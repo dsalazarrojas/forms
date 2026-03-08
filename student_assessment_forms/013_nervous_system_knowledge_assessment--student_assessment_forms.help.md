@@ -1,28 +1,3 @@
-<thinking>
-This form is designed for students to assess their knowledge of the nervous system, its components, and its functions. The purpose of this form is to evaluate students' understanding of the nervous system, identify areas of knowledge gaps, and provide feedback for further learning. 
-
-The form consists of multiple fields, each designed to capture specific information related to the nervous system. The fields are divided into the following categories: 
-
-* Nervous system knowledge assessment questions 
-* Nervous system functions 
-* Nervous system divisions 
-* Nervous system components 
-* Nervous system organs 
-* Feedback 
-* Nervous system assessment 
-* Date completed 
-* Time completed 
-* Completed by 
-* Phone number (optional) 
-* Nervous system knowledge assessment 2 
-
-The form is designed to be completed by students themselves, with some fields requiring only a yes or no answer, others asking for more descriptive answers, and a few requiring specific dates or times. 
-
-The form is intended to be completed by students to gauge their current knowledge level and identify areas where they need further improvement. 
-
-This form will not be used for evaluation or assessment purposes. It is meant to be a tool for students to reflect on their own learning and understanding of the nervous system. 
-</thinking>
-
 # Nervous System Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed for students to assess their knowledge of the nervous system, its components, and its functions. The purpose of this form is to evaluate students' understanding of the nervous system, identify areas of knowledge gaps, and provide feedback for further learning.

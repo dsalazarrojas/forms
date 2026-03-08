@@ -1,7 +1,3 @@
-<thinking>
-This form is used by employees to provide information about their emergency contacts in case of an emergency. This information is used for internal purposes only and is not shared with external parties. Please note that this form does not duplicate any information already provided by other forms. If you are filling out this form, please make sure that your emergency contacts are up-to-date and accurate.
-</thinking>
-
 # Employee Emergency Contact List - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for athletes to contact a sports coach or trainer for training inquiries. The form allows athletes to provide their personal details, training goals, and availability for a potential coaching session. The fields in this form are used to collect information such as name, email, phone number, goals, availability, trainer preference, sports academy, sports category, and message to the coach. This form is not required for athletes to contact the coach, but it will aid in organizing and scheduling coaching sessions effectively.
-</thinking>
-
 # sports_training_contact_form - Help Guide
 ## Purpose
 The sports training contact form is a tool for athletes to contact a sports coach or trainer for training inquiries.

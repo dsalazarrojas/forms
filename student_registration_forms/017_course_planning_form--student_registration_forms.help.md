@@ -1,16 +1,3 @@
-<thinking>
-The form purpose is to gather information from instructors about their course planning, which will be used to support course creation and resource allocation.
-This form is not intended for student use, and the field names and labels should be considered as placeholders for instructors. The form has six fields, but all of them are optional, and there is no requirement to fill out any of them.
-
-The form's structure suggests that it's meant to collect general information about a course, such as its objectives, lesson plans, resources, instructors, description, and student registrations. However, it's possible that some of these fields might overlap or have different interpretations depending on the specific context in which the form is used.
-
-Before completing this form, ensure that you're filling it out with the correct information and in the correct context. If you're unsure about any field, it's always best to consult with someone who has more knowledge about the course or the form's purpose.
-
-The form's fields are all text inputs, suggesting that you should fill them out with clear and concise text. Make sure to proofread your answers to ensure they're accurate and well-formatted.
-
-The form's structure and fields are simple and easy to follow, making it a straightforward process to complete.
-</thinking>
-
 # course_planning_form - Help Guide
 ## Purpose
 This form is designed to collect course planning information from instructors.

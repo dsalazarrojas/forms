@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from students for an independent learning program. This form ensures that all necessary details are collected and stored in a structured way for future reference. Before filling out this form, please note that you should only submit one entry per student, and if you need to update your details, please make sure that the new entry is for a different student. Duplicate entries will be removed.
-</thinking>
-
 # Independent Learning Program Registration - Help Guide
 ## Purpose
 The "Independent Learning Program Registration" form is designed to collect essential information from students participating in the independent learning program. This form gathers data to ensure a seamless experience for both students and program administrators.

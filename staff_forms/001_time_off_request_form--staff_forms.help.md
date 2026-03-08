@@ -1,5 +1,3 @@
-<thinking>Time Off Request Form is used to request time off for an employee to take a break. This form is intended for employees who need to take time off for various reasons such as personal or family emergencies, doctor's appointments, or vacation. To ensure that your request is processed correctly, please fill out the form accurately and completely. Please check that you are not duplicating a previous request for the same time period.</thinking>
-
 # Time Off Request Form - Help Guide
 ## Purpose
 The Time Off Request Form is used to request time off for an employee to take a break. This form is intended for employees who need to take time off for various reasons such as personal or family emergencies, doctor's appointments, or vacation.

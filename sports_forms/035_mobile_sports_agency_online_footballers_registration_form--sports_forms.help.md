@@ -1,17 +1,3 @@
-<thinking>
-This form is meant to allow users to register with the Mobile Sports Agency, which is an online platform for footballers to join the agency and potentially get opportunities for playing professional football. The form is not intended for existing footballers who are already registered with the agency.
-
-There is no internal logic that prevents users from registering more than once. This form is meant to be used once a user has been referred to this agency through another channel and wants to register online. The agency's team reviews the registrations and contacts the registered individuals for further processing.
-
-Before filling out this form, please ensure that you have all the required information ready. Some of the fields are optional, but providing accurate and complete information will increase the chances of your registration being reviewed successfully and potentially leading to playing opportunities.
-
-Please note that the registration fee is R2 500.00 as indicated in the "Registration fee" field. This fee is required for registration and it will be used as part of the evaluation process. If you're not sure if you have paid the fee, you can check the "Has paid registration fee" field to confirm.
-
-Also, please make sure to contact the agency if you need more information or have any questions. The "Contacted us for more information" field is meant for this purpose.
-
-Lastly, the agency will use the information provided to contact you, so please make sure to enter accurate and up-to-date information in the "Name" and "Surname" fields.
-</thinking>
-
 # Mobile Sports Agency Online Footballers Registration Form - Help Guide
 ## Purpose
 The Mobile Sports Agency Online Footballers Registration Form is a registration form for footballers to join the Mobile Sports Agency online platform. It allows users to fill out their details and potentially get opportunities for playing professional football.

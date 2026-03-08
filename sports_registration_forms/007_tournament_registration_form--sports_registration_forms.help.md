@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for users to register their teams and players for a sports tournament. It's likely used by administrators or staff members to collect information for organizing and running the tournament. The purpose of the form is to gather relevant details about teams, players, and their respective managers, which can help in creating a comprehensive and efficient tournament schedule and communication plan.
-
-Before proceeding, ensure that you have all the necessary information required to complete the form accurately and thoroughly. If you're unsure about any field, you can ask the form administrator or refer to the tournament schedule for more information.
-
-</thinking>
-
 # Tournament Registration Form - Help Guide
 ## Purpose
 The Tournament Registration Form is designed to collect essential details from teams and players for the smooth organization and running of the sports tournament. This form helps the tournament staff to create a comprehensive plan, including scheduling and communication.

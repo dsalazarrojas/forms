@@ -1,7 +1,3 @@
-<thinking>
-The Personnel Request Form is an essential tool for requesting staff personnel, allowing users to submit their requests for employment, changes to their job status, or other personnel-related concerns. This form should be filled out only for genuine personnel requests, and users must ensure that their requests are not repetitive or unnecessary.
-</thinking>
-
 # Personnel Request Form - Help Guide
 ## Purpose
 The Personnel Request Form is a tool for users to request personnel-related services, such as employment, changes to job status, or other personnel concerns.

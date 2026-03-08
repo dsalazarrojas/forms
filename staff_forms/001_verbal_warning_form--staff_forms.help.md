@@ -1,5 +1,3 @@
-<thinking>Internal use case: The Verbal Warning Form is used to document and track verbal warnings issued to employees within the organization. This form is used to ensure that all verbal warnings are properly documented and stored in the system for employee records and future reference. The form is used by HR personnel to track the status of verbal warnings, including whether they have been submitted, closed, and the outcome of the warning.</thinking>
-
 # Verbal Warning Form - Help Guide
 ## Purpose
 The Verbal Warning Form is used to document and track verbal warnings issued to employees.

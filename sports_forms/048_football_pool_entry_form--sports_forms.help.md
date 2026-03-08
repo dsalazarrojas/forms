@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to submit entries for a football pool, which is a type of betting or prediction pool where users bet on the outcome of football games. The form collects various information from the user, including team selections, score predictions, and comments. It is likely used by sports enthusiasts or fans to participate in a social or recreational betting activity. Please note that this form is not intended for actual wagering or gambling purposes, and its purpose is to collect user feedback or predictions for entertainment or research purposes only. Before filling out this form, ensure that you have a clear understanding of the game and its rules.
-
-Also, please be aware that this form may have similar fields to other forms, and it's recommended to carefully review each field to ensure you're filling out the correct information.
-</thinking>
-
 # Football Pool Entry Form - Help Guide
 
 ## Purpose

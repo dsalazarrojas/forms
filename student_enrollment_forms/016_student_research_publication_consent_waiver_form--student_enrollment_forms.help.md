@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students to provide their consent for their research work to be published. The form is used to obtain a waiver from students for their research work to be published in various mediums, such as journals, conferences, and books. The form will be used to collect information from students about their research work, including the publication medium, date, title, and location, as well as contact information for the research group and publication URL. The form is likely to be used by researchers to obtain necessary permissions before publishing student research work.
-</thinking>
-
 # Student Research Publication Consent Waiver Form - Help Guide
 ## Purpose
 This form is used to obtain student consent for their research work to be published. Please fill out the form to provide your consent and allow your research work to be published.

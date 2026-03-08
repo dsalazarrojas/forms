@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information about students' understanding of climate policies and their attitudes towards climate issues. This survey is intended to collect feedback from students about their knowledge, awareness, and opinions on climate-related topics. The form is part of a larger research project aiming to better understand students' perceptions and opinions on climate change and policy. Please ensure that you are answering these questions truthfully and in the context of your own understanding and opinions.
-</thinking>
-
 # Youth Climate Policy Understanding Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your understanding of climate policies and their impacts on society.

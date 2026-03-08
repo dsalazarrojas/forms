@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tennis Course Application Form - Help Guide
 ## Purpose
 This form is designed for users to apply for a tennis course. It collects information about the user's availability, practice habits, and other relevant details to determine the best-suited tennis course for them. 

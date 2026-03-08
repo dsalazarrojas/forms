@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from students who wish to become members of a student club. The form will be used to collect data on the student's personal details, contact information, emergency contact, and their current student status. The form is not intended for students who are already members of the club, so only new applicants should complete this form. Please ensure that you have read and understood the club's membership rules and guidelines before filling out this form.
-</thinking>
-
 # Student Club Member Application Form - Help Guide
 ## Purpose
 The Student Club Member Application Form is used to collect information from students who wish to become members of the club. It's a one-page form with several fields that will help the club's administration team assess your application.

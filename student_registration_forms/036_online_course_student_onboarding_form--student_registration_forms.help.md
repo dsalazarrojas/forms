@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to onboard new students into an online course. The form collects various information about the student, including their registration details, course selection, and payment information. The form's purpose is to ensure that the student has a clear understanding of the course terms and conditions and can proceed with payment and enrollment.
-
-The form will not ask for redundant or unnecessary information and will only ask questions that are relevant to the student's enrollment process.
-
-</thinking>
-
 # Online Course Student Onboarding Form - Help Guide
 ## Purpose
 The Online Course Student Onboarding Form is used to register students for online courses. The form collects necessary information to onboard students into the course and provide a clear understanding of the course terms and conditions.

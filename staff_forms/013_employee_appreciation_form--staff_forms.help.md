@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a digital platform for employee appreciation, allowing staff members to acknowledge and express gratitude to their colleagues for their hard work and dedication. 
-The form is intended to be used by managers or team leads to show appreciation to their team members, promoting a positive and supportive work environment.
-It is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation of public survey topic metadata.
-</thinking>
-
 # employee_appreciation_form - Help Guide
 
 ## Purpose

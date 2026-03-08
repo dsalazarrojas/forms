@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Maternity Leave Application Form Template - Help Guide
 ## Purpose
 This form is designed to be used by employees to apply for maternity leave, which is an essential part of their employment benefits. Maternity leave allows employees to take time off from work to care for their newborn child. This form template will guide you through the process of submitting a complete and accurate application for maternity leave.

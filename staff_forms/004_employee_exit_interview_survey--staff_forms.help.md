@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and information from employees who are leaving the company. It is intended to gather insights on why the employee is leaving, their level of satisfaction with their job and the company, and suggestions for improvement. This feedback will help management identify areas of improvement and make necessary changes to maintain a positive work environment.
-
-</thinking>
-
 # employee_exit_interview_survey - Help Guide
 ## Purpose
 This form is used to collect feedback from employees who are leaving the company. The information collected will help management understand the reasons behind their departure and identify areas for improvement.

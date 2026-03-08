@@ -1,7 +1,3 @@
-<thinking>
-We are implementing a staff application form to collect relevant information from applicants for internal staff positions. The form will help us to evaluate applicants' suitability and create a more efficient hiring process. We want to ensure that the information collected is accurate and up-to-date to minimize the need for follow-up inquiries.
-</thinking>
-
 # Staff Application Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from applicants for staff positions. Please fill out the form accurately to help us understand your background and qualifications.

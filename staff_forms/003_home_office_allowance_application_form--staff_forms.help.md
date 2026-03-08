@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Office Allowance Application Form - Help Guide
 ## Purpose
 The Home Office Allowance Application Form is used to apply for a home office allowance. This form is intended to be completed by employees who are eligible to work from home and wish to apply for a home office allowance. Before starting this form, please check if you have already applied or submitted a similar request. If you have, please contact the relevant department to clarify the status of your previous request.

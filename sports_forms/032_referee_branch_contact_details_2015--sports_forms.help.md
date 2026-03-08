@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect contact information for a referee branch. The purpose is to update or add contact details for a specific referee branch within a sports organization. Each field is designed to collect specific details such as the contact name, email, address, and other relevant information. Please make sure to fill in the required fields to ensure that the form is submitted successfully.
-</thinking>
-
 # Referee Branch Contact Details 2015 - Help Guide
 ## Purpose
 The Referee Branch Contact Details 2015 form is used to collect contact information for a referee branch. This form helps in updating or adding contact details for a specific referee branch within a sports organization.

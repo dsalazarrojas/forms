@@ -1,12 +1,3 @@
-<thinking>
-The form is intended to collect feedback and evaluation data from supervisors on their subordinates' performance during the probationary period. The form is used to assess an employee's performance, provide feedback, and make decisions about continued employment. This form should only be filled out by supervisors, not employees. It's crucial to fill out this form accurately and truthfully to ensure fair and fair evaluation and to avoid duplication or misinterpretation of data.
-
-Form fields should not be filled out with any unnecessary details. Only relevant and required information should be provided.
-
-Please fill out this form carefully, as the data collected will be used for performance evaluation and future reference.
-
-</thinking>
-
 # employee_probation_form - Help Guide
 ## Purpose
 The employee probation form is used to assess an employee's performance during their probationary period by their supervisor. The form helps gather feedback and evaluation data to make decisions about continued employment.

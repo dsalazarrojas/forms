@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to help users understand and fill out the windsurf_equipment_rental_application_form form. Before diving into the guide, let's clarify that this form is designed for users to apply for windsurf equipment rental, providing necessary details for the rental process, including agreement selection, payment terms, and other related information. It's essential to fill out the form accurately to ensure a smooth rental experience. Please review the form carefully before proceeding.
-
-</thinking>
-
 # windsurf_equipment_rental_application_form - Help Guide
 ## Purpose
 This form is used to apply for windsurf equipment rental. It collects necessary information for the rental process, including agreement selection, payment terms, and other related details.

@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Registration Form English Learning Programs" form, we need to understand the purpose of the form and its fields. The form is used for registering students for English learning programs, and the goal is to provide a clear and concise guide for end-users to fill out the form correctly. We will review the form's fields and provide a step-by-step explanation to help users understand what each field means and how to complete it.
-
-This form is intended for students to register for various English learning programs. It includes fields for student information, program details, and submission status. The form is designed to be completed by students who are interested in learning English language and skills.
-
-Before proceeding, please ensure that you are familiar with the form's purpose and that you need to register for an English learning program. If you have already registered for a program, please do not fill out this form again.
-
-To avoid any confusion or errors, please carefully review each field and follow the instructions provided below.
-</thinking>
-
 # Registration Form English Learning Programs - Help Guide
 ## Purpose
 The purpose of this form is to register students for various English learning programs.

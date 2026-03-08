@@ -1,8 +1,3 @@
-<thinking>
-# Purpose
-The purpose of this form is to collect information from students for a quiz on eigenvalues and eigenvectors, a fundamental concept in linear algebra. This form is designed to gather data on the student's understanding of the topic, including their ability to identify definitions, significance, and applications of eigenvalues, as well as their capacity to provide examples and notes on the subject. The form also collects demographic information, such as email addresses and phone numbers, for potential future contact and communication.
-</thinking>
-
 # Quiz On Eigenvalues And Eigenvectors - Help Guide
 ## Purpose
 ## How To Complete This Form

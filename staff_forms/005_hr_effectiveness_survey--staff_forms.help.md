@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to gauge the effectiveness of the HR department. It is essential for understanding how well the HR team is performing and where it can be improved. This form should be completed by staff members to provide feedback on the HR department's performance, including their performance assessment, comments, and feedback. This form is not required for staff members, and it is meant to be a tool for HR to understand their strengths and weaknesses.
-</thinking>
-
 # HR Effectiveness Survey - Help Guide
 ## Purpose
 This form is used to gather feedback from staff members on the effectiveness of the HR department.

@@ -1,8 +1,3 @@
-<thinking>
-The Intern Feedback Form is used to collect feedback from interns on their work experience, supervisor, and work environment. This form is designed to be completed by the interns and submitted to their supervisor, who will then use the feedback to improve the internship program and the work experience of future interns. Before filling out this form, please make sure you have not already submitted feedback on this topic. Your feedback is valuable to us and will help us to identify areas of improvement.
-
-</thinking>
-
 # Intern Feedback Form - Help Guide
 
 ## Purpose

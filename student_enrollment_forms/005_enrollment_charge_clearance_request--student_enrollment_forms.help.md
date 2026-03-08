@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to request clearance for enrollment charges, which is a process to waive or clear charges related to student enrollment. This form is designed to be completed by students, faculty, or staff members who need to initiate or update the clearance process. The form is meant to gather information about the student's enrollment status, reason for clearance, and other relevant details.
-
-To ensure the integrity of the clearance process, please do not submit duplicate requests for the same student. Ensure that you are submitting a new request for each instance where a clearance is required.
-
-This form is divided into several sections, each with its own set of fields. Please complete the form accurately and thoroughly, as the information provided will be used to make informed decisions about the clearance request.
-
-</thinking>
-
 # Enrollment Charge Clearance Request - Help Guide
 ## Purpose
 The Enrollment Charge Clearance Request form is used to request clearance for enrollment charges related to student enrollment.

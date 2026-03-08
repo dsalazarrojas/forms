@@ -1,7 +1,3 @@
-<thinking>
-The On Call Shift Request Form is designed to allow employees to request on-call shifts. Before filling out this form, please ensure that you have reviewed the company's on-call shift schedule and policies to avoid duplicating requests. This form should be used for submitting new requests, not to confirm existing shifts or request changes to existing shifts.
-</thinking>
-
 # On Call Shift Request Form - Help Guide
 ## Purpose
 The On Call Shift Request Form is used to request on-call shifts. This form is used by employees to submit their shift requests.

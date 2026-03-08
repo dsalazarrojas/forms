@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a student's and teacher's understanding of cubic functions, a type of polynomial function. The form is divided into multiple sections, each with different types of questions, such as numerical and true/false, multiple choice, open-ended, and file upload. The form is used to evaluate a student's understanding of the concept, including their ability to identify key characteristics of cubic functions, such as their general form, domain and range, and asymptotes. The teacher's section is designed to evaluate their ability to assess and provide feedback on the student's work. The form is intended to be used as a diagnostic tool to identify areas where the student needs improvement.
-</thinking>
-
 # Cubic Functions Assessment - Help Guide
 ## Purpose
 The Cubic Functions Assessment is designed to evaluate a student's and teacher's understanding of cubic functions, including their ability to identify key characteristics and provide feedback on student work.

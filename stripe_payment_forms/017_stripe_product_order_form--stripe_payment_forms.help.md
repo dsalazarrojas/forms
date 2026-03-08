@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stripe Product Order Form - Help Guide
 
 ## Purpose

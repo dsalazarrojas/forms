@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Exit Interview Form - Help Guide
 ## Purpose
 This form is designed to gather information from employees who are leaving the company. The purpose of this form is to collect details about the employee's reason for leaving, job title, department, and other relevant information. This data will be used to improve the company's understanding of its current and future workforce, helping to identify areas of improvement and trends.

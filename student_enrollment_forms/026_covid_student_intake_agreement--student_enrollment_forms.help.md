@@ -1,7 +1,3 @@
-<thinking>
-This form is for students and parents/guardians to provide information about the student's COVID-19 vaccination status, health screening, and agreements for isolation and contact tracing. The purpose of this form is to ensure that the student, parent/guardian, and school administration are aligned on the student's COVID-19 status and policies. This form is not intended for students who do not attend this school or have not been previously registered.
-</thinking>
-
 # COVID Student Intake Agreement - Help Guide
 ## Purpose
 This form collects critical information about your student's COVID-19 status and agreements for school policies.

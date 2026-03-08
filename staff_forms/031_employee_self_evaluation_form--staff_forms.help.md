@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for employees to self-evaluate their performance and set goals. It is meant to be a comprehensive guide for staff to reflect on their accomplishments, areas of improvement, and development needs. This form is a tool to aid in personal growth and development within the organization, rather than a formal performance assessment. Please note that this form is not a substitute for official performance evaluations or assessments conducted by management.
-</thinking>
-
 # Employee Self Evaluation Form - Help Guide
 ## Purpose
 

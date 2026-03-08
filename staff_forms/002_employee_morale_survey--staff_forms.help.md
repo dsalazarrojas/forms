@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for employees of an organization to provide feedback and suggestions on the state of their work environment, colleagues, and overall morale. The form is designed to be completed by individual employees, and the data collected will be used to identify areas of improvement and trends in employee morale.
-To ensure that the data collected is relevant and accurate, we recommend that employees complete this form only once or twice a year. Completing this form multiple times may lead to duplication of comments and suggestions.
-</thinking>
-
 # Employee Morale Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about the current state of employee morale within the organization. Your input is valuable, and your feedback will help us understand what we are doing well and where we can improve.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Former Employee Information Form" is to collect data from individuals who are no longer employed at your organization. This form is meant to gather information such as the former employee's employment status, reason for leaving, employment dates, and contact preferences. The form is designed to be completed by former employees to provide their updated contact information and details about their tenure at the company. 
-</thinking>
-
 # Former Employee Information Form - Help Guide
 ## Purpose
 The Former Employee Information Form is a tool used to collect information from former employees to maintain updated contact details and employment history.

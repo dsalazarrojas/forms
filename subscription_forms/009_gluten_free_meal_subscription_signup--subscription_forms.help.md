@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect user information for a gluten-free meal subscription service. The form is part of a larger system that handles meal ordering and subscription management. The form should only be used for users who have been invited to subscribe to the gluten-free meal service and have not already subscribed or been removed from the subscription list. 
-
-The purpose of the form is to gather information about the user, their subscription preferences, and other relevant details for the meal subscription service.
-</thinking>
-
 # Gluten Free Meal Subscription Signup - Help Guide
 ## Purpose
 The Gluten Free Meal Subscription Signup form is designed to collect user information for a gluten-free meal subscription service. This form is part of a larger system that handles meal ordering and subscription management. It is intended for users who have been invited to subscribe to the gluten-free meal service and have not already subscribed or been removed from the subscription list.

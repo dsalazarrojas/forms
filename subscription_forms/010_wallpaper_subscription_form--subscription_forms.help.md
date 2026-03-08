@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is designed to allow users to manage their subscription preferences for a wallpaper service. The purpose of this form is to collect information about the user's subscription preferences, such as their full name, email address, phone number, and subscription frequency. This form will help users to customize their subscription plans according to their needs. 
-
-To avoid duplicate subscriptions, users are asked to confirm their subscription details before proceeding. 
-
-The form is divided into different sections, each with a specific focus on subscription preferences. 
-
-</thinking>
-
 # Wallpaper Subscription Form - Help Guide
 ## Purpose
 This form is designed to allow users to manage their subscription preferences for a wallpaper service. The purpose of this form is to collect information about the user's subscription preferences, such as their full name, email address, phone number, and subscription frequency.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for holiday-related purposes, such as asking customers about their holiday preferences or gathering information about gift offers. However, it could be used for other purposes as well. Please ensure that the form is not used for any non-holiday-related purposes or for duplicate efforts.
-</thinking>
-
 # Holiday Furniture Offer Form - Help Guide
 ## Purpose
 The "Holiday Furniture Offer Form" is designed to gather information about customers' holiday offers or preferences related to furniture.

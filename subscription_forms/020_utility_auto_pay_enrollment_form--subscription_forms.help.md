@@ -1,5 +1,3 @@
-<thinking>...This form is used for customers to enroll in the utility auto pay program, which is designed to help customers manage their utility bills and payments in a convenient and automated way. To avoid duplication, customers must not be already enrolled in the program. This form will guide you through the necessary steps and fields to successfully complete the enrollment process.</thinking>
-
 # Utility Auto Pay Enrollment Form - Help Guide
 ## Purpose
 

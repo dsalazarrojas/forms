@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Unlimited Internet Plan Registration - Help Guide
 ## Purpose
 This form is intended for customers to register for an unlimited internet plan, providing details about their subscription and preferences.

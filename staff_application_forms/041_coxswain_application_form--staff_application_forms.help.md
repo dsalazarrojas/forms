@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants applying for a coxswain position. It is used by the company to gather relevant details about the applicant's background, experience, and skills required for the role. This form is not intended to be completed by anyone who has already submitted an application for a coxswain position in the past.
-</thinking>
-
 # coxswain_application_form - Help Guide
 ## Purpose
 This form is intended to collect relevant details from applicants applying for a coxswain position. It is a collection of questions that will help the company evaluate each applicant's background, experience, and skills required for the role.

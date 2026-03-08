@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential information about a store's audit. It's primarily intended for storekeepers to document their findings and assessments of store conditions. This form is used to record the store's name, address, contact information, and other relevant details. The storekeeper can report on the store's maintenance needs, provide comments and observations, and document the date and time of the audit. This form is meant to be completed by the storekeeper or a designated person during an audit or assessment of the store. It's essential to fill out this form accurately and thoroughly to ensure that all necessary information is captured.
-</thinking>
-
 # Store Audit Checklist Form - Help Guide
 ## Purpose
 The Store Audit Checklist Form is designed to collect and document essential information about a store's condition and maintenance needs. This form helps storekeepers to identify areas requiring attention and ensures accurate reporting.

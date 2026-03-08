@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure the form's purpose is clear and the instructions are concise and practical. This form seems to be a survey for soccer enthusiasts, likely designed to gather information about their favorite teams, players, and personal preferences. The "Soccer Survey" title suggests a casual and friendly tone. We should also verify that the form is not being duplicated elsewhere and make sure the fields are correctly aligned with the form's purpose.
-</thinking>
-
 # Soccer Survey - Help Guide
 ## Purpose
 This form is a friendly soccer survey designed to gather information about your favorite soccer-related preferences.

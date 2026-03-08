@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sickness Leave Form - Help Guide
 
 ## Purpose

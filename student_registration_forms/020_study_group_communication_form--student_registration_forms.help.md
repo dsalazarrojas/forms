@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about study group communication settings and preferences. This form is meant to be used by study group leaders to configure their group's communication preferences, such as meeting frequency, duration, and time. It also allows them to add resources and track their status. The form is designed to be flexible and adaptable to the needs of different study groups, and it can be filled out by authorized users, including study group leaders and administrators.
-Before filling out this form, please make sure you have the necessary permissions and that you are authorized to fill it out. Also, please ensure that you do not fill out the form multiple times, as this may cause confusion and duplicate data.
-</thinking>
-
 # study_group_communication_form - Help Guide
 ## Purpose
 This form is used to configure and manage study group communication settings and preferences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Security Staff Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from staff applying for event security roles at your organization. It gathers personal and professional details, as well as availability and references. Please ensure you only submit one form per individual applying for the role, and that your application meets the required fields (marked as "required") to avoid duplication of effort.

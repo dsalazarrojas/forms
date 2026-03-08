@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Request For Nursing Education - Help Guide
 ## Purpose
 The purpose of this form is to request training for nursing education. It's a collection of fields that gather information about the requested training, including the name of the trainee, date of birth, contact number, education level, and other relevant details. This form is typically used by nursing students or professionals to provide their training requirements and preferences.

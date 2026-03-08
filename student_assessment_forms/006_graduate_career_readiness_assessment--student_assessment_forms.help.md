@@ -1,5 +1,3 @@
-<thinking>... internal checks for duplicate and non-relevance will be performed before providing the help guide. If any issues arise, please let me know.</thinking>
-
 # Graduate Career Readiness Assessment - Help Guide
 ## Purpose
 The Graduate Career Readiness Assessment is a form designed to help students and recent graduates gauge their current career readiness. It's a self-assessment tool to help individuals identify their strengths, weaknesses, and areas for improvement in preparation for their future career.
