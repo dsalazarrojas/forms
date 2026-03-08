@@ -1,9 +1,3 @@
-<thinking>
-This form is an AI-generated form for signing up to an AI webinar. It's designed to collect information from attendees about their personal details, job title, industry, and interests. 
-The purpose of this form is to gather attendee data for the webinar, and by submitting it, users will be able to participate in the webinar based on their preferences. 
-It's essential to complete the form accurately to ensure correct information is captured for webinar scheduling and communication purposes.
-</thinking>
-
 # AI Webinar Signup Form - Help Guide
 ## Purpose
 This form is designed for attendees to register for an AI webinar. It's a collection of fields that gather information about your personal details, industry, and interests.

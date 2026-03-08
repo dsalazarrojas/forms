@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather basic contact information from individuals or companies interested in submitting their ideas, projects, or initiatives. The form is not affiliated with any form platform and is a unique creation based on public survey topic metadata. It's released under CC BY 4.0, allowing for its modification and use. The form has 5 fields, including First Name, Last Name, Email, Company, and Department. The purpose of this form is to collect contact information from submitters...+</thinking>
-
 # crystal_form_submission - Help Guide
 ## Purpose
 This form is designed to collect basic contact information from individuals or companies submitting their projects or ideas. It is not affiliated with any form platform and its content is derived from public survey topic metadata.

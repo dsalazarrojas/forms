@@ -1,15 +1,3 @@
-<thinking>
-This form is used for managing referrals for PPC campaign purposes. The purpose of this form is to gather information from individuals who refer customers to our business. The form will help us to identify and follow up with those who have successfully referred at least one customer. It will also help us to track and reward referrals based on the number of customers referred.
-
-To complete this form, please follow the instructions below:
-
-*   The form consists of multiple sections, each with its own set of fields.
-*   Please fill out each field as accurately and thoroughly as possible.
-*   If a field is marked as required, please make sure to fill it out.
-*   If you are unsure about any field, please reach out to your referral contact for clarification.
-
-</thinking>
-
 # ppc_campaign_manager_referral_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from individuals who refer customers to our business, allowing us to track and reward referrals based on the number of customers referred.

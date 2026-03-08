@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information for rental payment processing. The fields should be filled out by the renter, but the "Submitted By" field may be used by the landlord or property manager. The form's primary purpose is to record and manage rental payments. This information will be used to track payments and may be stored in a database or other storage system for future reference.
-
-</thinking>
-
 # Rental Payment Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help property managers and landlords report potential or actual lease agreement violations. The form's purpose is to collect information about the tenant's name, property address, lease start and end dates, type of lease agreement violation, date of the violation, status of the violation, and any lease terms that are being violated. This form is intended to facilitate the reporting and tracking of lease agreement compliance issues in a standardized and structured manner. It is not affiliated with any specific form platform and can be used as a template for creating custom forms. 
-</thinking>
-
 # Lease Agreement Compliance Report Form - Help Guide
 ## Purpose
 This form is designed to report potential or actual lease agreement violations, helping property managers and landlords track and address compliance issues in a structured and standardized way.

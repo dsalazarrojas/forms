@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather feedback from individuals who have gone through the recruitment process to evaluate and improve the experience. The form collects responses in a structured manner, allowing for data-driven decision-making and process optimization. It is essential to keep the responses concrete and specific, providing actionable insights for improvement. To prevent duplication of effort, please ensure that you only provide feedback on the most recent experience, and not on previous or upcoming interviews... </thinking>
-
 # Recruitment Evaluation Survey - Help Guide
 
 ## Purpose

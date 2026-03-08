@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to collect hostess registration information, likely for a job or event hosting role. It includes fields for personal details such as first name, last name, email, and phone number, as well as job-related fields like job title, department, job type, job category, and job status. The form also includes fields for available date and start/end time, description, and attachment of a resume. The purpose of this form is to gather comprehensive information about the hostess and their job details. This form appears to be a comprehensive registration form for hostesses, possibly for a job or event hosting platform.</thinking>
-
 # Hostess Registration Form - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information about hostesses, including their personal details and job information.

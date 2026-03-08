@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to enroll a borrower in the Auto Loan Payment Protection Insurance (ALPP) program, which provides financial protection to borrowers in case of involuntary unemployment, life, or disability. This form collects information about the borrower, including their name, email, phone number, and loan account number, as well as details about the coverage type and premium amount they want to enroll in. The form also includes sections for co-applicants, if applicable. The purpose of this form is to ensure that the borrower understands their coverage options and is able to enroll in the protection plan they need.
-
-Before proceeding, please ensure that this is the correct form for your specific use case. Duplicate enrollments can be rejected or delayed in processing, so it's essential to review the information carefully to avoid errors.
-
-This form is designed for use cases where the borrower wants to enroll in the Auto Loan Payment Protection Insurance (ALPP) program. If you're unsure about the correct form or the specific use case, please review your internal documentation or seek assistance from a qualified staff member.
-
-To complete this form, please follow the instructions below.
-</thinking>
-
 # Auto Loan Payment Protection Insurance Enrollment - Help Guide
 ## Purpose
 The purpose of this form is to enroll a borrower in the Auto Loan Payment Protection Insurance (ALPP) program.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the registration of trucks arriving at a facility. It is intended for tracking and documenting the arrival times, details, and notes of drivers and their vehicles. This form is a simple, one-page layout designed to collect basic information from drivers and staff at the facility. It includes fields for arrival and departure times, driver name and company, truck number, and any additional notes. To complete this form, please follow the instructions below.
-</thinking>
-
 # truck_arrival_registration_form - Help Guide
 ## Purpose
 This form is used for the registration of trucks arriving at a facility. It is intended for tracking and documenting the arrival times, details, and notes of drivers and their vehicles.

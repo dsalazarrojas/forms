@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's consider the purpose of this form: TheLeverageCo.com | Sellers Questionnaire. The form likely aims to gather information from sellers, such as property details, contact information, and other relevant details. This form may be used by real estate agents or property managers to gather information from sellers to facilitate the buying or selling process. This form appears to have multiple pages with different types of fields, such as text, email, phone, and select multiple fields. Each field seems to have a specific purpose, such as gathering location information or notes. To avoid duplication, we should ensure that each page and field has a clear and concise explanation to help users understand its purpose and fill it out correctly.</thinking>
-
 # TheLeverageCo.com | Sellers Questionnaire - Help Guide
 ## Purpose
 The TheLeverageCo.com | Sellers Questionnaire is a form designed to gather information from sellers about their property, contact details, and other relevant information. This form is intended for use by real estate agents or property managers to streamline the buying or selling process.

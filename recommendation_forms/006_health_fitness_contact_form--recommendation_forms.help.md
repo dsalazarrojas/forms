@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect contact information and relevant details from users who have health and fitness concerns or goals. 
-The form will help our team understand their needs and provide personalized guidance and resources. 
-Please ensure you are not filling this form for someone else. If you are filling for someone else, please use the appropriate form for them (e.g., "Health & Fitness Contact Form - <category>"). 
-Please also note that submitting multiple forms with the same contact information will not improve the chances of a response.
-</thinking>
-
 # Health & Fitness Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and details from users who have health and fitness concerns or goals. The information you provide will help our team understand your needs and offer personalized guidance and resources.

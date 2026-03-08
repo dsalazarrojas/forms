@@ -1,7 +1,3 @@
-<thinking>
-  This help guide is intended to assist users in understanding and filling out the Minor Medical Release Form. The form is meant to collect information about medical authorities, medical treatment, and emergency contacts for an individual. It seems to be used in a medical setting to ensure the safety and well-being of patients. Please note that each field must be filled out according to the information below.
-</thinking>
-
 # Minor Medical Release Form - Help Guide
 ## Purpose
 This form is used to document medical authorities, treatment, and emergency contacts for minors. It helps ensure the minor's safety and well-being in the event of a medical emergency.

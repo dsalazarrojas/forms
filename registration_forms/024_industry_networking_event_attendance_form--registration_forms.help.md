@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from participants about their attendance at industry networking events. This form helps us track the number of attendees, their roles, and their preferences for future events. Please use this form to provide accurate information, ensuring that your attendance is recorded correctly. If you've already submitted this form, you don't need to fill it out again. If you're unsure about any of the fields, please refer to the explanations below for guidance.
-</thinking>
-
 # industry_networking_event_attendance_form - Help Guide
 ## Purpose
 The industry networking event attendance form is designed to collect information about your participation in industry events. This helps us understand your interests and preferences, which informs our future event planning.

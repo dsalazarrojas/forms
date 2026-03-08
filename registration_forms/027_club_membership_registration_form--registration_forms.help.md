@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for individuals to register their interest in joining a club. It captures relevant information about the individual, including their personal details, club selection, desired membership start date, and communication preferences. The form is designed to be completed by club members and should not be used for other purposes, such as registering for events or creating new user accounts.
-
-The form is divided into sections with clear labels and instructions to guide the user through the registration process. Each section has a unique ID, name, label, hint, type, and options. The form is designed to be user-friendly and efficient, allowing users to quickly and accurately provide their information.
-
-To ensure the form is completed correctly, users should carefully review each field and select the most accurate option for their specific situation.
-
-Please note that some fields may be required or optional depending on the user's circumstances. If a user is unsure about any field, they should contact the club administrator for guidance.
-</thinking>
-
 # Club Membership Registration Form - Help Guide
 ## Purpose
 The Club Membership Registration Form is a tool for individuals to register their interest in joining a club. It gathers essential information about the individual, including their personal details, club preferences, and communication preferences.

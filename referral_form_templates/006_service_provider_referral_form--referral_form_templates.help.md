@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Service Provider Referral Form is used by administrators to collect information from clients about potential new service providers that may be suitable for their needs. This form helps to gather data about the client's current service provider status, their interest in new service providers, and additional details about the referral. 
 
 Before filling out the form, ensure that you are not already working with the new service provider being referred and that the referral is not already in progress.

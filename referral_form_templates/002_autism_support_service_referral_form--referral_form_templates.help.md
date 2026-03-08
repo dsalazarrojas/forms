@@ -1,7 +1,3 @@
-<thinking>
-The Autism Support Service Referral Form is a crucial tool for healthcare professionals and organizations to refer individuals with Autism Spectrum Disorder (ASD) for support services. Before completing this form, please ensure that you have permission from the individual or their legal guardian to make the referral. Additionally, please note that this form is not a duplicate of any existing referral, and you should only submit one form per individual. If you are unsure about any of the information provided or have concerns about the referral process, please contact the relevant authorities for guidance.
-</thinking>
-
 # Autism Support Service Referral Form - Help Guide
 ## Purpose
 The Autism Support Service Referral Form is designed to gather essential information about individuals with ASD to facilitate their access to appropriate support services.

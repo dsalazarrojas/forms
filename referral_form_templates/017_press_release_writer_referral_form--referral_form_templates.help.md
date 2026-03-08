@@ -1,14 +1,3 @@
-<thinking>
-This form is a referral form for press release writers. It's intended for users to refer potential clients to a press release writing service. The form collects details about the press release, such as its title, and contact information for the referrer. It's designed to be a quick and simple way to facilitate referrals.
-
-Before filling out this form, ensure that the referral is relevant and not a duplicate. This form is meant to help the press release writer connect with potential clients, not to spam or solicit unnecessary services.
-
-The form is not affiliated with, endorsed by, or derived from any form platform. It's an original adaptation of public survey topic metadata, released under the Creative Commons 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-
-Contact: form@gic.mx
-
-</thinking>
-
 # Press Release Writer Referral Form - Help Guide
 ## Purpose
 The Press Release Writer Referral Form is designed to facilitate connections between press release writers and potential clients. Fill out this form to refer a press release writer to a potential client.

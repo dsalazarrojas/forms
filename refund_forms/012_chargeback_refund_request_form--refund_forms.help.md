@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to be used by customers to request a chargeback refund for a transaction that they believe was not properly handled by the merchant. This form gathers information about the customer's transaction, the reason for the refund request, and their preferred resolution to the issue. It is likely that a customer's bank or credit card company will be handling these refund requests.
-
-To avoid duplicate submissions, a merchant will check if a similar request for the same transaction has been made previously, so this form is only intended to be used if the customer has not already submitted a request for the same reason.
-
-A customer can fill out this form if their transaction meets the following conditions:
-
-- They have a legitimate reason for requesting a chargeback refund.
-- They have not already submitted a request for a refund or chargeback for the same transaction.
-- The transaction meets the merchant's guidelines for chargeback.
-
-This form is used for both internal and external use, so please fill it out accurately and completely, and make sure all fields are filled out properly.</thinking>
-
 # Chargeback Refund Request Form - Help Guide
 ## Purpose
 This form is used by customers to request a chargeback refund for a transaction that was not properly handled by the merchant. It helps to gather information about the transaction and the customer's reason for requesting a refund.

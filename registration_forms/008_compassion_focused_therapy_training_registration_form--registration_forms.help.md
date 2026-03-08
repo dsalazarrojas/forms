@@ -1,8 +1,3 @@
-<thinking>...
-This form is designed to collect registration information for Compassion Focused Therapy (CFT) training sessions. CFT is a form of psychotherapy that focuses on cultivating compassion, understanding, and empathy. This form ensures that participants provide essential details such as their name, contact information, professional role, and preferred session date to ensure they receive accurate and timely information about the training session. It is crucial to fill all required fields for a smooth registration process. If you are registering for someone else (e.g., a colleague or friend), please complete their registration details below.
-
-</thinking>
-
 # Compassion Focused Therapy Training Registration Form - Help Guide
 ## Purpose
 The Compassion Focused Therapy Training Registration Form is designed to collect information from participants interested in joining a Compassion Focused Therapy training session.

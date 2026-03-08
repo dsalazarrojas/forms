@@ -1,9 +1,3 @@
-<thinking>
-
-Before creating a help guide for the "tipp_hill_rental_application" form, let's quickly review the provided YAML fields. The form appears to be for a rental application, gathering various details about the tenant and the rental process. The fields include basic personal information (name, email, phone), property address, rental dates, payment terms, and more. The form seems to cover different aspects of the rental process, from application details to landlord information. This guide will cover the form's purpose, how to complete it, and each field's meaning to ensure end-users understand what is expected of them.
-
-</thinking>
-
 # tipp_hill_rental_application - Help Guide
 ## Purpose
 This form is designed to gather information from potential tenants who are interested in renting a property at Tipp Hill. By completing this form, you will be able to provide detailed information about your rental application, which will be reviewed by the landlord. Please ensure that all required fields are filled in accurately to avoid delays in the review process.

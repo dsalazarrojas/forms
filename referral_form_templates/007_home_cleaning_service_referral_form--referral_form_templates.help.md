@@ -1,17 +1,3 @@
-<thinking>
-The form is designed to collect referral information from customers or clients who want to book services from the home cleaning service. This form is likely to be used for online or in-person referrals, and the purpose is to gather essential details about the referral, such as their name, contact information, and preferences for scheduling. This form is meant to be completed by the person making the referral, providing information about the person they are referring to the home cleaning service.
-
-The form is likely to be used for various purposes, such as:
-
-* Identifying potential new customers or clients for the home cleaning service
-* Gathering contact information for follow-up and marketing purposes
-* Determining scheduling preferences for the referral's cleaning services
-* Collecting additional comments or notes about the referral
-
-To ensure that the referral is not a duplicate, the form may include fields such as email verification or phone number validation to prevent misuse of the referral system.
-
-</thinking>
-
 # Home Cleaning Service Referral Form - Help Guide
 ## Purpose
 This form is designed to collect referral information from customers or clients who want to book services from the home cleaning service.

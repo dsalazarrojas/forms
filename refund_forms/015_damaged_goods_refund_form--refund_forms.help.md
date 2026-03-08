@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-The purpose of the **damaged_goods_refund_form** is to assist customers in requesting a refund for damaged goods they have received. This form is meant to collect relevant information to process the refund request efficiently.
+# The purpose of the **damaged_goods_refund_form** is to assist customers in requesting a refund for damaged goods they have received. This form is meant to collect relevant information to process the refund request efficiently.
 
 To complete this form, follow these steps:
 

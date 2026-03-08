@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect client registration information for real estate services. This form is designed to gather essential details from clients, including their personal and contact information, which will be used to create or update their records in the real estate management system. Before filling out this form, please ensure that you are not submitting duplicate or outdated information, as this may cause inconsistencies in the system.
-</thinking>
-
 # real_estate_client_registration_form_template - Help Guide
 ## Purpose
 The "real_estate_client_registration_form_template" is used to collect client registration information for real estate services.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for sustainability auditors to register for an audit with the organization. The form will help the auditor gather information from the organization to be audited, and the organization will be able to manage the registration process and assign a tool to the auditor. 
-The form is not meant to be used for actual audits or inspections, but rather for the registration process. 
-The organization should only register once per audit, and the form should not be filled out for multiple audits at the same time. 
-The assigned tool is selected from the options provided, but the organization can also specify a custom tool if it's not in the list.
-</thinking>
-
 # Sustainability Audit Registration Form - Help Guide
 
 ## Purpose

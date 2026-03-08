@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about a referral agreement between banks or institutions. It's intended for use by employees of referring banks or institutions to document and manage their referral relationships with other banks or institutions. The form is used to outline the terms and conditions of the referral agreement, including the scope of the relationship, fee structure, and regulatory compliance. 
-
-When to use this form:
-This form is typically used when a referring bank or institution refers a customer to another bank or institution for services such as loans or wealth management. The form helps establish a clear understanding between the two parties involved in the referral process.
-
-Best practices for filling out this form:
-Make sure to complete all required fields accurately and thoroughly. Double-check the selected options in the "Permitted Referral Products" and "Referral Fee Model" fields to ensure they align with the referral's terms. Use a valid date for the "Agreement Execution Date".
-
-</thinking>
-
 # Bank Referral Agreement Form - Help Guide
 ## Purpose
 The Bank Referral Agreement Form is used to document and manage referral agreements between banks or institutions.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to capture information about new hires in the healthcare industry. The purpose of this form is to ensure that new hires provide necessary documentation and information to facilitate a smooth onboarding process, which includes verifying their medical license, certification, and contact information. It is recommended to complete this form carefully and accurately to avoid any potential issues with your registration. Please note that this form has multiple pages and requires careful attention to each field to ensure that you complete it correctly. Ensure that you understand each field's requirements before proceeding.</thinking>
-
 # Healthcare Professional Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from new hires in the healthcare industry to facilitate a smooth onboarding process.

@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Used Car Deposit Refund Form", I will follow the provided YAML structure and provide a clear and concise explanation of the form's purpose, how to complete it, and each field's meaning.
-
-The form is designed to process refunds for used car deposits. The purpose of this form is to collect information about the customer, the used car, and the refund process. This form will likely be used by customers who have deposited money for a used car but are now requesting a refund due to various reasons.
-
-</thinking>
-
 # Used Car Deposit Refund Form - Help Guide
 ## Purpose
 The "Used Car Deposit Refund Form" is designed to process refunds for used car deposits. This form helps customers who have deposited money for a used car and are now requesting a refund due to various reasons.

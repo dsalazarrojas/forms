@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for home buyers to provide information about their preferences and needs when searching for a new home. This information will help real estate agents and brokers better understand the buyer's requirements and provide personalized recommendations. By completing this form, home buyers can save time and effort in their home search process. Please ensure that all the fields are filled accurately to get the most out of this consultation.
-
-</thinking>
-
 # Home Buyer Consultation Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to help home buyers provide their preferences and needs when searching for a new home. This information will be used by real estate agents and brokers to provide personalized recommendations and save time in the home search process.

@@ -1,22 +1,3 @@
-<thinking>... internal reasoning and checks for duplication and relevance ...
-- This form is designed for real estate agents or staff to report incidents that have occurred on properties under their management.
-- To prevent duplication, the form is only required to be filled out once per incident.
-- The form is meant to be filled out in a structured and detailed manner to provide essential information about the incident.
-- The incident date is not necessarily the date the form is being filled out, but rather the date the incident occurred.
-- The incident time is also not necessarily the time the form is being filled out, but rather the time the incident occurred.
-- The location is the specific address or location where the incident occurred.
-- The incident description is a detailed description of what happened.
-- The property address is the address of the property where the incident occurred.
-- The property manager is the person in charge of the property where the incident occurred.
-- The landlord is the person or entity that owns or rents the property.
-- The incident type is a categorization of the incident (Fire, Theft, Other).
-- Witnesses is a list of people who witnessed the incident.
-- Incident details is an additional information about the incident.
-- Action taken is any actions or steps taken after the incident.
-- Status is the current status of the incident (Open, Closed, In Progress).
-- Incident image and incident video are not necessarily required fields and can be used to attach images or videos related to the incident.
-</thinking>
-
 # real_estate_incident_report_form - Help Guide
 ## Purpose
 The real_estate_incident_report_form is a structured form designed for real estate agents or staff to report incidents that have occurred on properties under their management. This form ensures that all relevant information is collected in a single location, reducing duplication and improving incident management.

@@ -1,8 +1,3 @@
-<thinking>
-This is a simple registration form for a singing contest, designed to collect information from participants. It seems like it's used to gather personal details and song submissions. I'm assuming it's not a duplicate form, and it's not affiliated with any form platforms. I'll create a help guide based on this form's schema.
-
-</thinking>
-
 # popstar_singing_contest_registration_form - Help Guide
 ## Purpose
 This form is for registering participants in a singing contest. It collects personal details and song submissions from applicants.

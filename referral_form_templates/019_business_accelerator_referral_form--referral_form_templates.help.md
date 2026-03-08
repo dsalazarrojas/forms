@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze its structure and fields. The form appears to be designed for business referrals, where an individual is recommending a business to the accelerator. The fields suggest that the referrer needs to provide their own information (name, email, phone) and the details of the business they are referring (name, website, industry, stage, team size, founder information, business overview, value proposition, and funding status). The form is likely used to help the accelerator identify potential businesses and entrepreneurs that would benefit from their program. It's essential to ensure that this form is not filled out by the same person for the same business multiple times, as this could lead to redundant or biased evaluations. Therefore, this form should be filled out only once per business, and the referrer's name and contact information should be verified to prevent duplicate submissions.
-</thinking>
-
 # Business Accelerator Referral Form - Help Guide
 ## Purpose
 The Business Accelerator Referral Form is used to recommend businesses to the accelerator for potential participation in their program.

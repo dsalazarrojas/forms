@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from teams and players for the purpose of registering for a tournament. It is intended for teams to provide their details, including team name, manager contact information, and player information. The form will be used to gather relevant data for tournament organization and management.
-
-To avoid duplication of effort, please ensure that you are not already registered for the same tournament before submitting this form.
-
-</thinking>
-
 # Tournament Registration Form - Help Guide
 ## Purpose
 The Tournament Registration Form is designed to collect information from teams and players for the purpose of registering for a tournament.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a simple, user-facing interface for students to enroll in a language course. The form collects basic information about the student and the course they wish to enroll in, as well as payment details. This form does not store any sensitive or personal identifiable information. The form's structure and fields are designed to be straightforward and easy to understand, making it accessible to a wide range of users. Before proceeding, please ensure you have not already completed this form, as it's designed to be a one-time submission for each course enrollment.
-</thinking>
-
 # Language Course Enrollment Form - Help Guide
 ## Purpose
 The Language Course Enrollment Form is designed to collect information from students wishing to enroll in a language course. This form serves as a simple and efficient way to gather essential details necessary for course administration and student enrollment.

@@ -1,7 +1,3 @@
-<thinking>
-The form is a tool for customers to request a refund for a laundry service they may not have received or were not satisfied with. This form is likely to be filled out by customers who want to get their money back due to an issue with their laundry service. This form will not be used for duplicate requests or to request a refund for an order that has not yet been received. 
-</thinking>
-
 # Laundry Refund Form - Help Guide
 ## Purpose
 The Laundry Refund Form is a tool for customers to request a refund for a laundry service they may not have received or were not satisfied with.

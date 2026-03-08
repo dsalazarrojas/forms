@@ -1,7 +1,3 @@
-<thinking>
-This onboarding form is designed to collect necessary information from new subscribers to our subscription service. This form ensures that the user understands and agrees to our terms and conditions, and provides us with the necessary details to set up their account. Please note that this form will only be accessible to users who have not already completed the onboarding process or have not been granted access to our subscription service internally. If you're already a subscriber or have been granted access through an internal process, you will not be able to access this form.
-</thinking>
-
 # Subscription Service Onboarding Form - Help Guide
 ## Purpose
 The Subscription Service Onboarding Form is designed to collect information from new subscribers to our subscription service. The form ensures that users understand and agree to our terms and conditions, and provides us with the necessary details to set up their account.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used for reviewing anomalies in registrations. It's a crucial tool for ensuring that the registration process is accurate and consistent. This guide will walk you through how to complete this form, what each field is used for, and provide tips for a smooth experience. 
-
-This form is not intended to be used by multiple users simultaneously. If you're reviewing a form for another user, please ensure that you're not duplicating work and that you're aware of the current review status of the form. 
-
-Please note that some fields may require additional information or clarification before submission. This guide will explain each field's purpose and help you navigate any potential questions or doubts.
-</thinking>
-
 # Registration Anomaly Review Form - Help Guide
 ## Purpose
 This form is used to review and investigate anomalies in registrations. It's a crucial process to ensure the accuracy and consistency of the registration process.

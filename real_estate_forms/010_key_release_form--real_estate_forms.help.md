@@ -1,7 +1,3 @@
-<thinking>
-This form is used in the real estate industry to facilitate communication and documentation of key releases between property managers and tenants. The purpose of this form is to ensure that all necessary information is captured and documented in a clear and concise manner. 
-</thinking>
-
 # Key Release Form - Help Guide
 ## Purpose
 The Key Release Form is used to document the release of keys to tenants or occupants of a property. This form captures essential information about the property, the release process, and the parties involved.

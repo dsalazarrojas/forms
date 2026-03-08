@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information about a vendor's application for an awareness event. The vendor will be required to provide their business name, business address, contact details, email, phone number, and store hours. Additionally, they will need to provide details about their products and events, including event dates, start and end times, and event names. This form will help the vendor to submit their application for the awareness event in a structured and organized manner.
-</thinking>
-
 # Vendor Application For Awareness Event - Help Guide
 ## Purpose
 This form is designed to help vendors provide their application for an awareness event. Please fill out the form accurately and completely to ensure that your application is processed efficiently.

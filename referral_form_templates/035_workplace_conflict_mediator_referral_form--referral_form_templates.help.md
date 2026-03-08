@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for workplace conflict mediation referrals. The purpose of this form is to facilitate the referral process for potential workplace conflicts that may require mediation. This form ensures that the correct mediator is selected for the specific conflict resolution process. 
-
-To ensure the form is completed correctly and not duplicated, please note that the form has three pages: the first page is optional, while the second and third pages are required. The second page requires the selection of a mediator, and the third page allows multiple mediator selections. 
-
-Please ensure that the form is only completed for valid workplace conflicts, and that the selected mediators are relevant to the specific conflict resolution process.
-
-</thinking>
-
 # Workplace Conflict Mediator Referral Form - Help Guide
 ## Purpose
 This form is used to collect information for workplace conflict mediation referrals. It helps facilitate the referral process for potential workplace conflicts that may require mediation.

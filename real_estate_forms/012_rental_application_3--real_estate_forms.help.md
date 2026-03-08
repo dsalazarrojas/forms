@@ -1,12 +1,3 @@
-<thinking>
-This form is for users to submit a rental application. The form is used to collect information 
-about the user's personal details and rental preferences. The purpose of this form is to 
-collect necessary information to process a rental application. Please note that all fields 
-are required unless specified otherwise. This guide will walk you through the process of 
-completing the form step-by-step.
-
-</thinking>
-
 # rental_application_3 - Help Guide
 
 ## Purpose

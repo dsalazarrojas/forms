@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # performance_lighting_test_recording_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to capture the consent and demographic information of participants in a performance lighting test recording. This form is used to ensure that participants have provided their consent to participate in the test recording and to collect relevant information about their demographic details.

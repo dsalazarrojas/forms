@@ -1,5 +1,3 @@
-<thinking>...this form is used for users to provide information about themselves and/or their family members that is used by the Family Advocate Program to determine suitability for support services. Before filling out this form, please ensure that you or your family member(s) has not already been referred to the Family Advocate Program by another means, such as a local agency or other organization, and that you are not currently enrolled in another program with similar services. Please fill out the form accurately and completely to ensure that your needs are properly assessed and services are provided efficiently.</thinking>
-
 # Family Advocate Program Referral Form - Help Guide
 ## Purpose
 The Family Advocate Program Referral Form is used to gather information about you and/or your family members to assess suitability for support services provided by the Family Advocate Program.

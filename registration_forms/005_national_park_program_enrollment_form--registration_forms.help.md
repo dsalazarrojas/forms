@@ -1,8 +1,4 @@
-> <thinking>
-National Park Program Enrollment Form is a form designed to gather information from users who wish to enroll in a national park program. This form is intended for individuals and groups interested in participating in the program, and the collected data will be used for registration purposes only.
-</thinking>
-
-# National Park Program Enrollment Form - Help Guide
+> # National Park Program Enrollment Form - Help Guide
 ## Purpose
 The National Park Program Enrollment Form is a form used to collect information from users interested in enrolling in a national park program. The collected data will be used for registration purposes only and will not be shared or used for any other reason.
 

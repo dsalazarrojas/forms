@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for users to provide information about themselves in order to be included in the Treasury Digitalization Program. This form will collect user input, department, position title, role, and any additional notes they may want to provide about themselves. This form is not mandatory, as indicated by the required field settings. The purpose of this form is to register users for the program and potentially provide them with additional information or resources.
-</thinking>
-
 # Treasury Digitalization Program Registration - Help Guide
 ## Purpose
 The Treasury Digitalization Program Registration form is for users to provide information about themselves and be included in the program.

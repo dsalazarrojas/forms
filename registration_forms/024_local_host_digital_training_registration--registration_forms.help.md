@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # local_host_digital_training_registration - Help Guide
 ## Purpose
 This form is designed to register local digital training sessions. The purpose of this form is to collect information from attendees who wish to attend these sessions. The form is used to gather details about the attendee, such as their experience level and session preferences.

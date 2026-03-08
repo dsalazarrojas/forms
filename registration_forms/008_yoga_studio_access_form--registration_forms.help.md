@@ -1,8 +1,4 @@
-# <thinking>
-This guide is intended to be used by internal users to check for relevance and duplication before releasing it to the public. The guide should be a comprehensive help document that explains each field's purpose, how to complete it, and any additional tips that may be helpful for the user to fill out the form correctly. The guide should be based on the provided YAML fields and should be clear, concise, and practical.
-</thinking>
-
-# yoga_studio_access_form - Help Guide
+# # yoga_studio_access_form - Help Guide
 ## Purpose
 This form is designed to collect information from clients who want to access the yoga studio. It is used to gather essential details such as name, contact information, and payment information for membership purposes.
 

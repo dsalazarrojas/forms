@@ -1,10 +1,3 @@
-<thinking>
-The Workplace Mediator Recommendation Form is used to facilitate the resolution of conflicts within the workplace. This form is designed to capture relevant information from the parties involved in the conflict and guide them towards finding a suitable mediator who can help in resolving the issue. 
-
-To avoid duplication of effort and ensure that the form is completed accurately, please ensure that you have reviewed the conflict thoroughly and have a clear understanding of the situation before proceeding. 
-
-</thinking>
-
 # Workplace Mediator Recommendation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from parties involved in a workplace conflict to recommend a suitable mediator for resolution.

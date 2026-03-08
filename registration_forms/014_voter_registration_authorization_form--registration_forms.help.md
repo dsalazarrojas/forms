@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a general template for voter registration purposes, but its actual purpose and context will depend on the specific use case of your organization or institution. Please verify that this form is being used for its intended purpose and that your organization's privacy and data protection policies are being followed.
-
-The following guide is a general explanation of the form's fields and how to complete it. If you have any questions or need more specific guidance, please contact [form@gic.mx](mailto:form@gic.mx).
-
-</thinking>
-
 # voter_registration_authorization_form - Help Guide
 ## Purpose
 

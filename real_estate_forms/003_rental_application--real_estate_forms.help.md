@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information from individuals for a rental application. This form will likely be used by real estate agents or property managers to gather necessary details from potential tenants or renters. The form's design suggests that it might be used to filter out unqualified applicants or to generate lead lists for potential rental opportunities. However, without knowing the specific requirements or processes of the organization using this form, it's hard to determine its exact purpose. It seems that the form could be used to gather demographic information and preferences but might also be intended for other purposes such as property type selection or rental agreement signing. 
-
-If you're not sure what this form is for, it's likely that it's a general template and you can still use it as a starting point or base it on your specific needs.
-
-To confirm the form's intent, you might want to ask someone from the team that created it or review the associated documentation for more information.</thinking>
-
 # rental_application - Help Guide
 ## Purpose
 The rental application form is used to collect information from individuals interested in renting a property.

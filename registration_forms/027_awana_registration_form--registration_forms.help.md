@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to collect information from parents or guardians of children who are registering for an Awana club program. It is intended for individuals registering one child per form. The form collects necessary details to ensure the child's safety and well-being while participating in the program.
-
-The form consists of two main sections: Parent/Guardian Information and Medical and Safety.
-
-*   The first section, Parent/Guardian Information, requires the parent/guardian's full name, email address, phone number, and home address. This information will be used as the primary point of contact.
-*   The second section, Medical and Safety, includes medical conditions or allergies, an emergency contact name, and an emergency contact phone number. In case of an emergency, this information will be crucial for treatment.
-*   The last section, Photo Release and Medical Release Authorization, requires permission to use the child's photo and authorization for medical treatment.
-*   The form also asks for volunteer interest to help out with various tasks in the club.
-*   Lastly, it requires a digital signature from the parent/guardian to confirm that the information is accurate and up-to-date.
-
-This form is an essential step in the registration process for Awana, and completing it will ensure that the child can participate in the activities and programs offered by the club.
-
-</thinking>
-
 # Awana Registration Form - Help Guide
 ## Purpose
 

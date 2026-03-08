@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for fundraising efforts, allowing users to input their name, contact information, and details about their fundraising goals and activities. This form should only be filled out once per user and for each specific fundraising effort. If you have previously submitted a registration for this form, please do not resubmit. Please ensure that all required fields are filled out for accurate and efficient processing.</thinking>
-
 # Fundraising Registration Form - Help Guide
 
 ## Purpose

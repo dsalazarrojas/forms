@@ -1,7 +1,3 @@
-<thinking>
-This form is used for retail repair services referrals, which helps customers or staff to quickly refer a customer to the repair service. This form is intended for internal use within the retail store, and it's expected that the store staff will fill out the form for the customer. The form is used to collect customer information, service type, and other relevant details to facilitate the repair service referral process. Please ensure that you are filling out this form only for a specific customer, and not for other purposes.
-</thinking>
-
 # Retail Repair Service Referral Form - Help Guide
 ## Purpose
 The Retail Repair Service Referral Form is a tool for retail store staff to quickly and accurately gather information from customers who require repair services. This form helps to streamline the repair service referral process, ensuring that all necessary details are collected and communicated to the relevant team members.

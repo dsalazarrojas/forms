@@ -1,13 +1,3 @@
-<thinking>
-To determine the purpose of this form, I've analyzed the fields included in the form. Based on the fields provided, it appears that this form is for a mortgage application. It includes fields for personal identification (first and last name, email, phone, address), property details (property type, size, and location), financial information (income, assets, and assets value), and loan details (loan amount, loan term, loan type, interest rate, and assigned tool). The form also includes fields for additional notes and contact information (email 2, phone 2, address 2). The form is designed to gather comprehensive information about the applicant's identity, property, and financial situation to facilitate a mortgage application process.
-
-The form fields are a mix of text, select_one, select_multiple, email, number, date, time, and note types, indicating that the form is intended for a detailed and thorough application process.
-
-Upon reviewing the form fields, I notice that some fields (e.g., date of birth, time of birth, gender, marital status, note 2, email 2, phone 2, address 2) are not marked as required, suggesting that they are optional or supplementary information.
-
-To ensure that the form is being used correctly, I recommend reviewing the form fields with the relevant stakeholders to confirm the purpose and requirements of the form.
-</thinking>
-
 # mortgage_application_form - Help Guide
 ## Purpose
 This form is a comprehensive mortgage application form designed to gather information about the applicant's identity, property, and financial situation to facilitate a mortgage application process.

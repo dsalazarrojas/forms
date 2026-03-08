@@ -1,8 +1,3 @@
-<thinking>
-We need to make sure this form is used correctly to avoid errors and data inconsistencies. This form, "Importer Identity Information Form", is used to collect critical information from trade teams who want to import goods. It's essential to fill out the form accurately to ensure that the importer's identity is verified and their trade team can be contacted successfully. To avoid duplication, make sure you're not filling out this form if you've already done so. Each field is crucial in identifying the trade team and establishing a smooth communication channel.
-
-</thinking>
-
 # Importer Identity Information Form - Help Guide
 ## Purpose
 The Importer Identity Information Form is used to collect essential information from trade teams who want to import goods. This form helps verify the identity of the trade team and establish a contact method for communication.

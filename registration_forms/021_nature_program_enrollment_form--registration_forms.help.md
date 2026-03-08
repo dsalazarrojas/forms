@@ -1,11 +1,3 @@
-<thinking>
-This form is used for participants to enroll in a nature program. It requires basic personal details such as name, email, age, and contact information. 
-Participants must agree to the terms of service, and provide additional information about their interests and the nature program they are enrolling in.
-The form aims to capture participant preferences, program details, and agreements to terms of service.
-Please ensure that you fill in the form accurately and completely, as it's essential for the successful enrollment process.
-Please note that some fields may be optional or have multiple selections, make sure to understand what each field requires before proceeding.
-</thinking>
-
 # Nature Program Enrollment Form - Help Guide
 ## Purpose
 This form is used for participant registration in the nature program.

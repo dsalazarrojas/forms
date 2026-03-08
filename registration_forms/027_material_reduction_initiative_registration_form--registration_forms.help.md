@@ -1,7 +1,3 @@
-<thinking>
-The material reduction initiative registration form is a crucial tool for stakeholders interested in joining the initiative. To ensure that only genuine individuals or organizations are onboarded, we have to validate the form submission data before allowing access to the initiative. This validation process involves checking for non-duplication and relevance of the submitted data. Please ensure that you are filling out this form with accurate and up-to-date information to prevent any potential issues during the validation process.
-</thinking>
-
 # Material Reduction Initiative Registration Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from individuals or organizations interested in participating in the Material Reduction Initiative. The data collected will help us verify your eligibility and onboard you or your organization onto the initiative.

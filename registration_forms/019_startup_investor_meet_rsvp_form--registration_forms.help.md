@@ -1,7 +1,3 @@
-<thinking>
-The startup investor meet form is a critical component of the startup event planning process. It allows organizers to gather essential information from investors about their RSVP status, contact details, and event preferences. This form helps organizers ensure accurate headcounts, manage communication, and tailor the event experience accordingly. To avoid duplication of effort, please fill out the form accurately and thoroughly, and only when you are certain about your RSVP status.
-</thinking>
-
 # Startup Investor Meet RSVP Form - Help Guide
 ## Purpose
 The Startup Investor Meet RSVP Form is designed to collect information from investors about their RSVP status and preferences for the event. This form helps organizers prepare for the event and ensure that everyone has a productive and enjoyable experience.

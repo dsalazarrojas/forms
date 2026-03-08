@@ -1,13 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I'm creating a user-facing help guide for the "Real Estate Agency Membership Application Form". This form is designed to collect information from real estate agencies for membership purposes.
-
-To determine the purpose of this form, I analyzed the provided YAML fields and noticed that it includes a range of fields that cover various aspects of real estate agency information, such as contact details, agency properties, membership status, and submission dates. This form is likely used for onboarding new agencies, monitoring their status, and tracking updates.
-
-Before proceeding, I checked for any duplication or non-relevance of fields. Upon reviewing the form, I noticed some fields that seem to be duplicates (e.g., "Form Submission Date" and "Form Submission Date 2", "Form Submission Date 3", and "Form Submission Date 4"), which may be unnecessary. However, I'll address each field accordingly to ensure a comprehensive guide.
-
-</thinking>
-
 # real_estate_agency_membership_application_form - Help Guide
 
 ## Purpose

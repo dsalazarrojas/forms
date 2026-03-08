@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in volunteering for community service. The form is intended to gather essential details such as personal registration, location and availability, volunteer profile, and other relevant information. This form is likely to be used for internal registration and tracking of volunteers. To avoid duplication, please ensure you are not already registered as a volunteer for this organization. If you are unsure, please contact the organization directly to confirm.
-</thinking>
-
 # Community Service Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in volunteering for community service. It's a comprehensive form that gathers essential details to ensure a smooth and safe volunteer experience.

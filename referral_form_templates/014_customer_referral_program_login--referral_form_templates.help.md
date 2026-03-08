@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to log in to our Customer Referral Program. Before proceeding, please ensure you have not already registered for this program or logged in previously. If you're unsure, please contact our support team for assistance.
-</thinking>
-
 # Customer Referral Program Login - Help Guide
 
 ## Purpose

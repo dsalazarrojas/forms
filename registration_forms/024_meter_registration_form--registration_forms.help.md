@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect registration information for a customer's meter. It is meant to be used by customers to provide necessary details about themselves and their meter. Please note that this form should only be used for customers who have not previously registered on this system. If a customer has already registered, they should not fill out this form, and instead, contact the support team to request changes or updates to their existing record.
-
-The purpose of this form is to ensure accurate and up-to-date information is stored in our database, which will be used to provide the best service to the customer. Each field is designed to gather specific information to achieve this goal.
-
-Before filling out this form, please review the fields below for a clear understanding of what is required and optional.
-</thinking>
-
 # Meter Registration Form - Help Guide
 ## Purpose
 The Meter Registration Form is designed to collect registration information for a customer's meter. This information will be used to provide accurate and up-to-date service to the customer.

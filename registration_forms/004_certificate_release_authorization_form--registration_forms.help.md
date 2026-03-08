@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Certificate Release Authorization Form - Help Guide
 ## Purpose
 This form is used to authorize the release of a certificate to a designated recipient. Fill out this form to grant permission for the certificate to be shared with someone else.

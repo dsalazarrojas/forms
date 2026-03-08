@@ -1,13 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive help guide for the GED Preparation Referral Form, which is intended to guide end-users through the process of completing the form. This form is designed to capture information about individuals who are seeking preparation for the GED (General Educational Developmental) test, which is a high school equivalency test that measures a person's ability to perform high school-level academic skills.
-
-To ensure that end-users understand the purpose of the form, I will provide a brief introduction that explains the context and relevance of the form:
-
-This form is used to collect information about individuals who are seeking preparation for the GED test. The goal of this form is to help identify the individual's needs and provide guidance on the next steps they need to take to prepare for the test. Completing this form will help us to better understand the individual's situation and provide more effective support.
-
-After the introduction, I will break down the form into individual pages and fields, providing a clear and concise explanation of each field and its purpose. I will also highlight any required fields and provide tips for completing the form effectively.
-
-</thinking>
-
 # GED Preparation Referral Form - Help Guide
 ## Purpose
 

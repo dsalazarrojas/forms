@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to a real estate sale, specifically capturing details about the property, buyer, seller, and transaction. This form is likely used for legal and administrative purposes, such as documenting the sale of a property, verifying ownership, or reporting financial transactions. Before filling out this form, ensure you understand the required information and the context in which it will be used.
-</thinking>
-
 # Real Estate Sale Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about a real estate sale, including property details, buyer and seller information, and transaction details. It is intended to be used for official purposes, such as documentation and reporting.

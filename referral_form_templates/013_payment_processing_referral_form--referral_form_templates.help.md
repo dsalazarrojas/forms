@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block ...</thinking>
-
 The purpose of this form is to collect information about a payment referral, which is a process where a partner or agency refers a customer to make a payment through our services. This form is used to gather relevant details from the partner or agency, such as the payment method, amount, and contact information.
 
 To complete this form, follow these steps:

@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to create a lease agreement template for properties, which would include information such as confirmation codes, names, contact details, property details, rate and discount information, and other relevant data. This template is likely used for real estate purposes, such as managing rentals or hotel properties. Before creating this template, it's essential to verify that no similar template exists within the company or industry to prevent duplication of efforts and potential confusion.
-</thinking>
 # Houfy Lease Template - Help Guide
 ## Purpose
 This template is designed to help users create a lease agreement for properties, including information on confirmation codes, contact details, property details, and other essential data.

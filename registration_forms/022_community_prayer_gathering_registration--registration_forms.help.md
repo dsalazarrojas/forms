@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for attendees to register for a community prayer gathering. It collects personal information such as name, email, and phone number. Additionally, it gathers details about the attendee's attendance, including the prayer gathering name, date, time, and location. The form also inquires about the attendee's ability to volunteer, any dietary restrictions, accessibility needs, and transportation requirements. The form is essential for the organizers to plan and prepare for the event.
-</thinking>
-
 # Community Prayer Gathering Registration - Help Guide
 ## Purpose
 This form is for registration purposes only and will not be used for any other reason. Please ensure that you fill it out accurately and truthfully to help us plan and prepare for the event.

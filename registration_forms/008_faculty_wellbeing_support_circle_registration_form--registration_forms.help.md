@@ -1,5 +1,3 @@
-<thinking>As a faculty member, the Faculty Wellbeing Support Circle Registration Form is designed to help you connect with colleagues who share similar interests and concerns. By filling out this form, you'll be able to join or lead a support circle that suits your needs and interests. Please note that you can only register for one support circle lead. If you're unsure or have questions, don't hesitate to reach out to your department or HR representative for guidance.</thinking>
-
 # Faculty Wellbeing Support Circle Registration Form - Help Guide
 ## Purpose
 This form is used to register for a wellbeing support circle, which is a group of faculty members who share similar interests and concerns.

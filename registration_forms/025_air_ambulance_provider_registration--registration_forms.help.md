@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from air ambulance providers, which is essential for the proper coordination and management of medical emergencies. This form helps providers register their details, services, and credentials, making it easier to find and connect with them. It's crucial to ensure the accuracy and completeness of the information provided, as it will be used to establish trust and facilitate communication among stakeholders. Before proceeding, please review and confirm that you are a legitimate air ambulance provider. Ensure that you are not duplicating an existing registration by checking the list of current providers. If you are unsure, contact the relevant authorities for clarification.
-</thinking>
-
 # Air Ambulance Provider Registration - Help Guide
 ## Purpose
 This guide will walk you through the process of filling out the Air Ambulance Provider Registration form. It will explain each field and its significance to ensure a smooth and accurate submission.

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to capture essential information for speech therapy referrals. The purpose of this form is to gather data that will help clinicians or healthcare professionals make informed decisions for speech therapy referrals. This information will be used in conjunction with other relevant medical records to ensure that referrals are made accurately and efficiently.
-
-When filling out this form, please make sure to:
-
-*   Provide clear and accurate information about the patient's condition or concerns.
-*   Only select one option for fields that require a single selection.
-*   Select all relevant options for fields that allow multiple selections.
-*   Provide clear and concise answers to open-ended fields.
-*   Review your answers before submitting the form to ensure that all required fields are filled out.
-
-The following is a detailed explanation of each field:
-
-</thinking>
-
 # Speech Therapy Referral Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information for speech therapy referrals. The data collected will be used to make informed decisions about patient care.

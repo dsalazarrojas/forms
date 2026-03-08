@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Corporate Renewal Planning Registration Form - Help Guide**
 =====================================================
 

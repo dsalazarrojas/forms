@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to provide a comprehensive checklist for tracking and managing rental properties. The purpose of this form is to gather key information about a rental property, including its address, status, rent details, and agent information. This form is intended to be completed by agents or property managers to keep track of rental properties' status changes, notes, and other relevant information.
-</thinking>
-
 # Rental Checklist - Help Guide
 ## Purpose
 The Rental Checklist form is used to track and manage rental properties, gathering key information about their status, rent details, and agent interactions.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for obtaining consent for the reuse of online study recordings. The purpose of this form is to ensure that all parties involved in the study, including the submitter, researcher, research team, study coordinator, data manager, and others, have agreed to the terms of reusing the study recordings. This form is a crucial part of the study recording management process, as it ensures that all parties are aware of and agree to the conditions under which the recordings can be reused.
-
-Internal checks will be performed to prevent duplicate submissions and to ensure that only relevant and complete submissions are processed.
-
-</thinking>
-
 # online_study_recording_reuse_consent_form - Help Guide
 ## Purpose
 

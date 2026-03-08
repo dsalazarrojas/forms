@@ -1,11 +1,3 @@
-<thinking>
-This form is used to verify employment income for rental purposes. The form is designed to gather information about the employment status and income of the applicant. The purpose of this form is to ensure that the applicant's employment income is sufficient to support their rental obligations. 
-
-To determine if the form is applicable, we need to check if it's being used for rental purposes and if the form is not already completed by the user, to avoid duplication of effort.
-
-This form is likely used by real estate agents or property managers to gather information about the employment status and income of potential tenants before approving their rental application.
-</thinking>
-
 # EmploymentIncome Verification - Help Guide
 ## Purpose
 The purpose of this form is to verify employment income for rental purposes. It helps real estate agents or property managers to gather information about the employment status and income of potential tenants before approving their rental application.

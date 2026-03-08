@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request and manage maintenance approvals in real estate properties. It's a multi-page form, so please complete each page before proceeding to the next one.
-</thinking>
-
 # maintenance_approval_form - Help Guide
 ## Purpose
 The maintenance approval form is used to request and manage maintenance approvals in real estate properties. It's used to gather information about the maintenance activity, including the property type, contact information, and the duration of the maintenance activity.

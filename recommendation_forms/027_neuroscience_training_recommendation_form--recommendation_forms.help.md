@@ -1,7 +1,3 @@
-<thinking>
-The Neuroscience Training Recommendation Form is designed to collect information from individuals who are recommending training programs for neuroscience professionals. The form is used to ensure that the recommended training programs align with the expertise and needs of the neuroscience community. To ensure relevance and non-duplication of recommendations, this form should only be completed by those with a strong understanding of the neuroscience field and its applications. Please note that submitting multiple forms with the same information may result in duplicate recommendations, which can be misleading to the training program managers.
-</thinking>
-
 # Neuroscience Training Recommendation Form - Help Guide
 ## Purpose
 The purpose of this form is to provide recommendations for training programs in the neuroscience field. This form helps to streamline the process of selecting suitable training programs for neuroscience professionals by capturing the expertise and interests of recommenders.

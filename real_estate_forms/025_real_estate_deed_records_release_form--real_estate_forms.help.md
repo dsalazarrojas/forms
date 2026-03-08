@@ -1,7 +1,3 @@
-<thinking>
-
-The real_estate_deed_records_release_form is used to collect and store information related to real estate transactions, including user contact details, address, and file upload metadata. The form is likely used in conjunction with other forms or systems that manage real estate records and transactions. This form may be part of a larger application or database used to track and manage real estate transactions, such as a property management system or a record-keeping system for real estate agents or attorneys.</thinking>
-
 # real_estate_deed_records_release_form - Help Guide
 ## Purpose
 This form is used to collect and store information related to real estate transactions, including user contact details and file upload metadata.

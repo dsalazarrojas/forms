@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for real estate professionals to release or modify existing contracts. It is intended for use within the real estate industry and can be used to release or terminate existing contracts between parties. The form is not intended for general use and should only be used by authorized real estate professionals. 
-</thinking>
-
 # Real Estate Contract Release Form - Help Guide
 ## Purpose
 This form is used to release or modify existing real estate contracts. It is intended for use by authorized real estate professionals to document the release or modification of contracts between parties.

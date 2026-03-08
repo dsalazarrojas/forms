@@ -1,7 +1,3 @@
-<thinking>
-Charity Legal Aid Referral Form helps organizations, agencies, or legal aid providers identify potential clients in need of legal assistance. This form captures essential information about the client, including their contact details, legal issue, and eligibility criteria. It's designed to assist legal aid providers in prioritizing cases and allocating resources effectively. Please ensure that you have the necessary authority to complete this form and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Charity Legal Aid Referral Form - Help Guide
 ## Purpose
 The Charity Legal Aid Referral Form is a tool for organizations to gather information about individuals seeking legal aid. It helps aid providers assess and prioritize cases, and ensure that clients receive the necessary support.

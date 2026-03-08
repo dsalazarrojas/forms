@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to collect information from students who are registering for music lessons or classes at a school. The form should be filled out by students who are interested in joining the music program. The fields are designed to gather basic contact information, class preferences (days and frequency), and music-specific details (instrument and experience level). This form is required for all students who wish to start classes. Please ensure that the form is filled out accurately and completely to ensure a smooth registration process.</thinking>
-
 # Music School Registration Form - Help Guide
 ## Purpose
 The Music School Registration Form is a necessary step for students to register for music lessons or classes. This form collects essential details to help the school prepare for your classes.

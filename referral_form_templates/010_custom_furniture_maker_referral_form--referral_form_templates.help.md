@@ -1,5 +1,3 @@
-<thinking>Before creating a help guide for the Custom Furniture Maker Referral Form, let's quickly review the form's purpose and ensure it's being used correctly. The form is designed to collect referrals from customers or visitors who are interested in the custom furniture making process. It's intended to gather relevant data about the referral source, contact person, and other details that will help the business understand the customer's journey and improve their sales and marketing strategies.</thinking>
-
 # Custom Furniture Maker Referral Form - Help Guide
 ## Purpose
 The Custom Furniture Maker Referral Form is a tool designed to collect information about customers or visitors who are interested in the custom furniture making process. This form helps us understand how they heard about us and what motivated them to visit our studio.

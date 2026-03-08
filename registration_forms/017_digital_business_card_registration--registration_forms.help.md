@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a digital business card, which is a virtual representation of an individual or organization's professional identity. This form will be used to gather essential details such as first name, last name, email, phone number, job title, company, and location. This information can be used for various purposes like networking, collaboration, or contact purposes. Before starting, please ensure that you have not already registered your digital business card, as this form is intended for unique registrations only.
-</thinking>
-
 # Digital Business Card Registration - Help Guide
 ## Purpose
 The Digital Business Card Registration form is used to collect information about a digital business card, which is a virtual representation of an individual or organization's professional identity.

@@ -1,12 +1,3 @@
-<thinking>
-This form is for students to declare their internship experiences. The form will collect information about the student's internship, including details about the internship such as start and end dates, location, and the student's role. The purpose of this form is to help students accurately report and document their internship experiences. To ensure accuracy, it's essential to fill out this form completely and truthfully.
-
-Before proceeding, please note that you can submit this form multiple times if you've had multiple internships. However, ensure that each submission provides distinct information about a different internship experience.
-
-Also, please make sure to fill out all the required fields (indicated by an asterisk \*) to avoid any issues with submitting the form.
-
-</thinking>
-
 # internship_declaration_form - Help Guide
 ## Purpose
 This form is designed to help students accurately declare their internship experiences, providing detailed information about the internship, including start and end dates, location, and the student's role.

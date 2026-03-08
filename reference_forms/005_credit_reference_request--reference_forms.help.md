@@ -1,7 +1,3 @@
-<thinking>
-To be honest, this form seems to be a mix of fields that are used for collecting reference information for a credit application. The purpose of this form is to gather details about a person's employment and contact information. This form might be used by a financial institution or a loan officer to verify a person's employment status and gather necessary contact information. I'm assuming that the form is used in a secure and compliant manner, adhering to applicable data privacy and security regulations. The form seems to be non-duplicative, so each field is unique and serves a specific purpose. If this assumption is correct, the form is likely not used for any nefarious purposes, and the fields are meant to collect accurate and relevant information for a legitimate reason.
-</thinking>
-
 # Credit Reference Request - Help Guide
 ## Purpose
 This form is used to collect information about a person's employment and contact details to aid in a credit application or verification process.

@@ -1,16 +1,3 @@
-<thinking>
-Form purpose: This form is used to collect consent from participants for the use of their dialogue clips in film or media projects. It is designed to ensure participants understand and agree to the terms of their clip usage. 
-
-The form's main goal is to create a clear and transparent process for participants to provide their consent, which helps maintain a good relationship between the content creators and the participants.
-
-To avoid duplication and non-relevance, this form is only applicable to film or media projects that involve dialogue clips. If you're looking for a consent form for other types of projects, please consider a different form.
-
-This form is a simple, text-based form that collects the necessary information for consent. It does not collect sensitive or personal data beyond what is required for the purpose of consent.
-
-The form has eight fields: participant details, clip details, consent, agreement, signed by, date signed, participant signature, and agreement page. Please make sure to fill out the relevant fields according to your needs.
-
-</thinking>
-
 # film_dialogue_clip_usage_consent_form - Help Guide
 ## Purpose
 This form is used to collect consent from participants for the use of their dialogue clips in film or media projects.

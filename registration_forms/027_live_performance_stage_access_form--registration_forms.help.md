@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to grant access to the Live Performance Stage. The purpose of this form is to provide a standardized way to manage access to the stage for events, allowing event organizers to easily assign roles and access levels to staff and performers. The form should only be completed by authorized personnel to ensure that access is granted correctly and securely.
-
-When completing this form, please ensure that you are using your correct login credentials. This form is not for public access. If you are unsure about any fields or require further assistance, please contact the relevant department.
-
-</thinking>
-
 # Live Performance Stage Access Form - Help Guide
 ## Purpose
 The Live Performance Stage Access Form is used to grant access to the stage for events. This form helps event organizers to assign roles and access levels to staff and performers in a secure and standardized way.

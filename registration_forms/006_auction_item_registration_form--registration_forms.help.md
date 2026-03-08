@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from submitters about an item they want to register for an auction. This form is likely used for an online auction platform, and it captures essential details about the item, including its name, category, condition, and value. The form is designed to be completed by the person submitting the item, ensuring that the information provided is accurate and up-to-date.
-
-Before starting, it's essential to review the form to ensure that you're not duplicating an existing entry. If you're unsure or need help, please contact the support team.
-
-</thinking>
-
 # Auction Item Registration Form - Help Guide
 ## Purpose
 This form is used to register a new item for an auction. It collects essential details about the item, its submitter, and delivery information. Please complete this form to ensure your item is included in the auction.

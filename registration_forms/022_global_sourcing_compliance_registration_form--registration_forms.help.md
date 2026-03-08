@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help suppliers register for global sourcing compliance, which is a process to ensure that companies are meeting their legal and ethical obligations in the global supply chain. The form aims to collect relevant information about the supplier, their business practices, and their contact details. The form will be used by buyers to verify the supplier's compliance with global standards and regulations.
-</thinking>
-
 # Global Sourcing Compliance Registration Form - Help Guide
 ## Purpose
 This form is for suppliers to register for global sourcing compliance. It's a simple registration form that collects essential information about your company and its practices.

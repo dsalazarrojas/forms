@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # product training session confirmation form - Help Guide
 
 ## Purpose

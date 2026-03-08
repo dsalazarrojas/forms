@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from real estate professionals regarding their experiences with various tools and challenges they face in the industry. The form aims to gauge the level of satisfaction with different tools and services, as well as identify areas for improvement.
-
-This form appears to be designed to be a follow-up or survey type form, given the presence of multiple questions that ask about satisfaction levels and challenges. It's likely that this form is part of a larger initiative to improve the quality of service or to identify areas where automation can be improved.
-
-Before we dive into the instructions on how to complete this form, let's make sure this form hasn't been covered by a similar form in the past. If you've filled out this form before, your responses may have already been collected and stored for future reference. If that's the case, please don't worry, as your time is still valuable and your input will be greatly appreciated.
-
-Please note that some fields may have specific types or constraints (e.g., select one or multiple options), while others may be free-form text fields. Make sure to fill out the form accurately and completely to provide valuable insights.
-
-</thinking>
-
 # Real Estate Process Automation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from real estate professionals on their experiences with various tools and challenges they face in the industry. Your input will help us gauge the level of satisfaction with different tools and services, as well as identify areas for improvement.

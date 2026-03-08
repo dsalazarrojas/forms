@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their current job status, job satisfaction, and dream job aspirations. It is used to help recruiters understand the user's preferences and goals in order to provide better matching job opportunities. This form will not ask for any sensitive or redundant information. It's a one-page form that is easy and quick to fill out.
-</thinking>
-
 # dream_job_survey - Help Guide
 ## Purpose
 The dream job survey form is a tool designed to gather information about your career aspirations, job status, and satisfaction. This data is used by our recruiters to better understand your preferences and provide more suitable job opportunities.

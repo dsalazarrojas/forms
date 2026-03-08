@@ -1,10 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for the "Tournament Withdrawal Request Form" to help end-users understand its purpose and complete it efficiently.
-The form is used to collect information from users for tournament withdrawals, which is likely a critical part of managing events or matches within a tournament system.
-To ensure the form is properly filled out, we'll cover the form's purpose, the step-by-step process to complete it, and provide field-by-field explanations for each field.
-This guide will help users understand what each field is for and how to fill it out accurately.
-</thinking>
-
 # Tournament Withdrawal Request Form - Help Guide
 
 ## Purpose

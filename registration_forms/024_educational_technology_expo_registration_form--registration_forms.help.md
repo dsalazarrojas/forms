@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to gather registration information from participants for the Educational Technology Expo. This form is likely used to track participant details for event planning and organization purposes. Before filling out this form, please ensure you have all the necessary information at hand, as some fields may require specific formats (e.g., email addresses, phone numbers). This form's purpose is not to be duplicated in other forms; it's a one-time registration form for the event.
-
-The fields in this form are intended to collect the following information:
-
-*   Participant name and contact details (pages 1-5)
-*   Event details (pages 6-8)
-*   Attendance numbers and additional comments (page 9-10)
-
-Please note that some of these fields may have specific formats or requirements (e.g., email addresses, dates), so please fill them out accordingly.
-
-</thinking>
-
 # Educational Technology Expo Registration Form - Help Guide
 ## Purpose
 

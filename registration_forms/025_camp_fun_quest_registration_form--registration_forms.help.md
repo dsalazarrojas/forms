@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose, which is to collect information from participants for the Camp Fun Quest program. This form is for registering participants for the program, and we need to make sure that all required fields are completed correctly. Please ensure that you are using this form to register participants and not for any other purpose.
-</thinking>
-
 # Camp Fun Quest Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants for the Camp Fun Quest program. Please fill out this form carefully to ensure that all required fields are completed correctly.

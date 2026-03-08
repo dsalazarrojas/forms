@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to facilitate a refund process for customers who have issues with their purchases from a vending machine. The customer is required to provide certain information to support their case, such as their name, email, and date of the transaction. The form also asks for a transaction ID, the reason for the refund, and a description of the product purchased. The refund amount and any message from the customer or support team should also be provided. This form is meant to help resolve any disputes or concerns about a refund. 
-
-Please note that this form will be displayed to customers who want to initiate a refund. Therefore, it's crucial that the information provided is accurate and complete to ensure efficient processing of their refund request. To prevent duplication and ensure relevance, we need to carefully review and process each form submission individually.
-</thinking>
-
 # Vending Machine Refund Form - Help Guide
 ## Purpose
 This form is used to initiate a refund request for a transaction made from a vending machine.

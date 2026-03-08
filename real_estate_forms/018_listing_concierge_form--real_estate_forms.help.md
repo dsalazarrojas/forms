@@ -1,15 +1,3 @@
-<thinking>
-We will design a user-facing help guide for the "Listing Concierge Form" to ensure users understand its purpose, how to complete it, and what each field means.
-The form is used for listing listings on the website, and users need to provide details about their listing such as address, list price, list type, status, date and time available, a note about the listing, email, phone number, the name of the agent involved, their email, and their phone number.
-Each field in the form has a specific purpose and requirement status, which will be explained in the help guide.
-The help guide will cover the following topics: 
-- Form purpose
-- How to complete the form
-- Field-by-Field explanation of each field
-- Tips for completing the form efficiently
-
-</thinking>
-
 # Listing Concierge Form - Help Guide
 ## Purpose
 This form is designed to gather information about your listing to display it on our platform. Please fill out the form accurately to ensure your listing is correctly displayed.

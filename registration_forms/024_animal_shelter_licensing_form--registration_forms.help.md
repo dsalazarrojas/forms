@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from pet owners who want to license their pets. The form is used by animal shelters to verify the identity and status of the pet, as well as the owner's contact information. The form is also used to track the vaccination status, licensing history, and other relevant details about the pet. By filling out this form, the owner is providing essential information that helps the animal shelter ensure the pet's health and safety. 
-The form has 33 fields that are categorized into different sections based on the type of information being collected. Some sections include contact information of the owner, pet details, vaccination status, licensing history, and payment details. 
-Please make sure to fill out all required fields accurately and completely. If you are unsure about any of the fields, please ask for help.
-</thinking>
-
 # Animal Shelter Licensing Form - Help Guide
 ## Purpose
 This form is used to license your pet and provide essential information to the animal shelter.

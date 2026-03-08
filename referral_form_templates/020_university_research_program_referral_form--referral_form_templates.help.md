@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for university staff to refer students, researchers, or other faculty members for a research program. It helps facilitate the referral process by gathering necessary information from the referrer and the referred individual. The form is designed to be completed by the referrer, who will provide details about the referred individual, their research area of interest, and other relevant information. The referred individual will also be able to provide additional information about themselves and their research project. This form is used to ensure that the referral process is thorough and efficient, and that all necessary information is collected in one place. It's essential that the referrer and the referred individual provide accurate and complete information to make the referral process successful.
-</thinking>
-
 # University Research Program Referral Form - Help Guide
 ## Purpose
 

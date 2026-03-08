@@ -1,7 +1,3 @@
-<thinking>
-This form is used for job seekers to provide their job board access information. The form is intended to collect data that will be used to determine which jobs are relevant to the user's skills and preferences. This form is not intended for users who are already accessing the job board, as it is designed for registration and initial setup. Please ensure that the form is completed only once per user to prevent duplication of records.
-</thinking>
-
 # job_board_access_form - Help Guide
 ## Purpose
 This form is designed for job seekers to provide their job board access information.

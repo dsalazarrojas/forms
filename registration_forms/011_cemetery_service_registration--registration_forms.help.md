@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cemetery Service Registration - Help Guide
 
 ## Purpose

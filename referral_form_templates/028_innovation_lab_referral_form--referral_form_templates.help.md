@@ -1,8 +1,3 @@
-<thinking>
-The Innovation Lab Referral Form is used by lab members to refer projects to the Innovation Lab. This form helps the lab to track and manage incoming projects, ensuring that they align with the lab's interests and goals. **Please ensure that you have the necessary permissions and approvals before submitting a referral.** Before filling out this form, check if you have already submitted a similar project or if one is already in progress. Duplicate or similar projects will not be accepted.
-
-</thinking>
-
 # Innovation Lab Referral Form - Help Guide
 ## Purpose
 This form is used to refer a project to the Innovation Lab, ensuring that it aligns with the lab's interests and goals. 

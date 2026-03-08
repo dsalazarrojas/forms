@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed to collect information from companies seeking to join the Green Logistics Network, a platform connecting sustainable companies with green-minded consumers. The form collects general company information, sustainability practices, and business focus. It will help the Green Logistics Network team determine whether a company is eligible for registration and provide further information about the application process.
-  
-  This is the first step in the registration process, and submission of the application form does not automatically result in a registered membership.
-  
-  Please make sure to carefully complete the form and submit it once you have provided accurate and complete information.
-</thinking>
-
 # Green Logistics Network Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from companies that want to join the Green Logistics Network. The collected data will be reviewed by the Green Logistics Network team to determine if the company meets the required criteria for registration.

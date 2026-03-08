@@ -1,5 +1,3 @@
-<thinking>...internal reasoning: This form is used for registering participants for anti-racism workshops. The form is designed to gather information about the participant, their contact details, session preference, and any special needs or accommodations. This information will be used to provide a smooth and inclusive experience for the participant during the workshop. The form is not intended to be filled out by non-employees or non-participants, and we will review and verify the submission before processing it. If you are unsure about the form purpose or have questions, please reach out to our support team... </thinking>
-
 # Anti Racism Training Registration - Help Guide
 ## Purpose
 The Anti Racism Training Registration form is designed to register participants for upcoming anti-racism workshops. Please fill out this form to provide your details and preferences for a smooth and inclusive experience.

@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended for users who want to register for the Community Stay Development Program. To ensure that you are eligible to register, please review the following:
-- You must be at least 18 years old.
-- You must be a resident of the community where the program is located.
-- You must not have any outstanding warrants or serious criminal history.
-- You must not be a threat to national security or public safety.
-The form is intended to collect information about you for program registration purposes. Please answer the questions honestly and thoroughly. If you have any doubts or concerns, please contact the program administrators.
-</thinking>
-
 # Community Stay Development Program Registration - Help Guide
 
 ## Purpose

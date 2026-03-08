@@ -1,11 +1,3 @@
-<thinking>
-The Baptism Registration Form is designed to collect essential information from individuals seeking baptism, typically for infants, children, or adults, and their parents or guardians. The form is divided into several sections that cover various aspects of the candidate's details, such as registration date, contact information, and baptism preferences. This form should be completed by the individual or their representative, such as a parent or guardian. Please ensure that each field is filled out accurately and thoroughly, as any errors or missing information may lead to delays or cancellations in the baptism process.
-
-It is essential to verify that this form is being filled out for the correct individual, as it may be used to confirm their baptismal information. Please do not submit duplicate forms for the same individual.
-
-If you are unsure about any aspect of the form or have specific questions, it is recommended that you contact the baptism office directly.
-</thinking>
-
 # Baptism Registration Form - Help Guide
 ## Purpose
 The Baptism Registration Form is a crucial document that collects essential information for the baptism process. It helps the baptism team to schedule and prepare for the baptism ceremony.

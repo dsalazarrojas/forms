@@ -1,14 +1,3 @@
-<thinking>Internal reasoning block to check for form purpose and non-duplication:
-
-The purpose of this form is to facilitate the registration process for automation vendors to obtain licenses from the system. This form collects information about the vendor, their organization, the product or solution being registered, and licensing details. The form is intended for vendors who are seeking to register their products or solutions with the system.
-
-Non-duplication:
-This form is designed to ensure that the vendor has all the necessary information to complete the registration process and that the information is accurate and up-to-date. The form will be reviewed and approved by the relevant authorities before the license is granted, reducing the risk of errors or duplication of registration.
-
-Please note that this form is only for vendor registration, not for end-users or other types of registrations.
-
-</thinking>
-
 # Automation Vendor Licensing Registration Form - Help Guide
 ## Purpose
 This form is designed to help automation vendors register their products or solutions with the system. It gathers information about the vendor, their organization, the product, and licensing details.

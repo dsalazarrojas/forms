@@ -1,7 +1,3 @@
-<thinking>
-This help guide will help users understand the purpose and usage of the Organizational Transparency Summit Registration Form. The form is designed to collect registration information from organizations and their representatives for the summit. This includes details such as name, email, phone number, and address of the organization. The form also requires the attendee's first and last name. The purpose of this form is to ensure accurate registration and attendance tracking for the summit. Please complete the form carefully to ensure accurate submission.
-</thinking>
-
 # Organizational Transparency Summit Registration Form - Help Guide
 ## Purpose
 The Organizational Transparency Summit Registration Form is designed to collect registration information from organizations and their representatives for the summit. This includes details such as name, email, phone number, and address of the organization, as well as attendee's first and last name.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is filled out correctly and accurately, we should first check if the form purpose and content align with the user's needs. It's also a good idea to prevent duplication of efforts by confirming that the user hasn't already registered for the training. 
-</thinking>
-
 # Community Outreach Training Form - Help Guide
 ## Purpose
 This form is used to collect information for community outreach training sessions. It will help us tailor the training to your needs and ensure that you receive relevant materials and updates. 

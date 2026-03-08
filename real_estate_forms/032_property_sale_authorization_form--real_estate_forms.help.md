@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for real estate agents to authorize property sales, providing a structured format for agents to input crucial information related to the sale. This includes details about the property type, sale date, commission rate, and payment terms. By filling out this form, agents can efficiently document and track the authorization process, ensuring accuracy and consistency in their records.
-</thinking>
-
 # Property Sale Authorization Form - Help Guide
 ## Purpose
 This form is designed to facilitate the authorization process for real estate agents, ensuring accurate and consistent documentation of sales information. It is intended for agents to input relevant details about a property sale, including the sale date, commission rate, and payment terms.

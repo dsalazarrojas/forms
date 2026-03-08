@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # The Names Of God Bible Study Registration Form - Help Guide
 
 ## Purpose

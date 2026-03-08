@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for individuals to register for a brow artist workshop, which is intended for professionals to enhance their skills and knowledge in brow services. The form aims to gather information from attendees, including their personal details, experience, and preferences for the workshop. It's likely that this form is used by a business or organization offering such a workshop, and the goal is to collect registrations and relevant data for the upcoming event. To avoid duplication of efforts and ensure the form is completed correctly, it's recommended to review the form carefully and submit it once you have all the necessary information.
-
-</thinking>
-
 # Brow Artist Workshop Registration - Help Guide
 ## Purpose
 This form is designed for individuals to register for a brow artist workshop, which is a professional development event focused on enhancing skills and knowledge in brow services.

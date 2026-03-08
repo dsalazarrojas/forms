@@ -1,26 +1,3 @@
-<thinking>
-This form is designed to collect information from distribution hub operators for registration purposes. The form will be used to gather necessary details about the operator, including their contact information, operator experience, and license status. This form should only be completed by authorized personnel or individuals with the necessary credentials to register a distribution hub operator. Please note that this form is not meant to be filled out by anyone without proper authorization.
-
-To ensure that this form is completed correctly and accurately, please review each field carefully before proceeding. If you are unsure about any of the fields or require assistance, please reach out to the designated support team.
-
-This form has multiple fields, including:
-- Registration Form
-- Operator Details
-- Operator Info (multiple fields)
-- Contact Info
-- Operator Experience
-- Operator License
-- Operator License Date
-- Operator License Number
-- Operator License Country
-- Operator License Status
-
-Each field has a specific purpose and is required for accurate and efficient processing of the operator's registration. Please make sure to complete all required fields accurately and thoroughly.
-
-Please be aware that some fields have specific options or formatting requirements. If you are unsure about any field, please refer to the provided help guide for more information.
-
-</thinking>
-
 # Distribution Hub Operator Registration Form - Help Guide
 ## Purpose
 The Distribution Hub Operator Registration Form is designed to collect necessary information from distribution hub operators for registration and tracking purposes.

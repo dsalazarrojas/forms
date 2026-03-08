@@ -1,12 +1,3 @@
-<thinking>
-This form is used for reporting incidents of gender-based violence, allowing users to report incidents in a structured and comprehensive manner. It is intended to collect information about the patient's details, the incident's nature, and the patient's current status. This form is part of a larger system for tracking and managing incidents of gender-based violence. Please ensure that you are accessing this form for a valid reason and that the patient's information is being collected lawfully.
-
-To avoid duplication, please check with the system administrators before submitting this form multiple times.
-
-Before completing this form, please ensure that you have the necessary permissions and consents to collect and report on the patient's information.
-
-</thinking>
-
 # Gender Based Violence Referral Form - Help Guide
 
 ## Purpose

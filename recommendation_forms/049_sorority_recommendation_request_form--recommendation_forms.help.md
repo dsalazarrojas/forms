@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from nominators for a sorority recommendation. This information will be used by the sorority to make informed decisions about nominations. Please note that this form should only be completed by individuals with a legitimate connection to the nominee and that duplicate forms from the same nominator will not be considered. If you are unsure about any of the information or have questions, please contact [support email or contact information].
-</thinking>
-
 # sorority_recommendation_request_form - Help Guide
 ## Purpose
 This form is used to collect information from nominators for a sorority recommendation. The information collected will be used to support a nomination for a specific individual.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to facilitate an offer and counteroffer process in real estate transactions. The form is designed to collect information from both the buyer and seller to ensure transparency and accuracy in the communication process. This form helps to prevent miscommunication and potential disputes by providing a clear and standardized structure for both parties to express their offers and counteroffers.
-To ensure that this form is completed correctly, review the fields carefully and fill them out accordingly. Note that some fields are optional, and you should only fill out the fields that are relevant to your situation.
-</thinking>
-
 # Offer And Counteroffer Form - Help Guide
 ## Purpose
 The Offer And Counteroffer Form is used to collect information from both the buyer and seller in a real estate transaction, ensuring transparency and accuracy in the communication process.

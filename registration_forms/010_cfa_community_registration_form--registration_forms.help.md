@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register individuals for classes or programs offered by the community arts school. The form is intended to collect demographic information and program preferences from participants. To ensure accurate and efficient processing of registrations, please complete this form in its entirety, ensuring all required fields are filled with accurate and complete information. Please be aware that providing incomplete or inaccurate information may lead to delays or denial of service. 
-</thinking>
-
 # Cfa Community Registration Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from healthcare providers for recommendations. The form asks for basic patient information, medical details, and contact information. This form is likely used for clinical trials, research, or other medical studies. To ensure relevance and non-duplication, please complete this form accurately and only once for each healthcare provider.
-</thinking>
-
 # healthcare_provider_recommendation_form - Help Guide
 ## Purpose
 The healthcare provider recommendation form is used to collect information from healthcare providers for clinical trials, research, or other medical studies.

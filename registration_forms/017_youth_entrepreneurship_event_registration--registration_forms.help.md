@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect information from participants for a Youth Entrepreneurship Event. The purpose of this form is to gather essential details about the event, the participants, and their businesses or ventures. This form can be used by event organizers, sponsors, or coordinators to manage event registrations, follow up with attendees, and collect necessary contact information. 
-
-The form consists of four main sections: Event Details, Participant Info, Contact Information, and Business Information. All fields are optional, but it's recommended to fill in at least the essential details to ensure proper event coordination.
-
-Please note that the form can be filled and modified as per the requirements of the event, but it's essential to maintain a uniformity in the data format to avoid confusion during data analysis.
-
-</thinking>
-
 # Youth Entrepreneurship Event Registration - Help Guide
 ## Purpose
 This form is designed to collect information from participants for a Youth Entrepreneurship Event. Event organizers, sponsors, or coordinators use this form to gather event details, participant information, contact information, and business details.

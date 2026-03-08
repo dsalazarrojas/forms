@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guided Nature Walk RSVP Form - Help Guide
 
 ## Purpose

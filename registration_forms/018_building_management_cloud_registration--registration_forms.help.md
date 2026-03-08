@@ -1,10 +1,3 @@
-<thinking> 
-This form seems to be designed for property owners or managers to register their properties with a management platform. The form asks for various information such as property details, owner information, and services of interest. This form is likely used for building management and property administration purposes, possibly for managing various services such as maintenance, scheduling, and financial management. It's possible that the form is used for onboarding new properties to the platform or for existing properties to update their information. The fields seem to be comprehensive in nature, covering property specifics like location, size, and type, as well as owner and manager details. The services section allows the user to select which services they are interested in, indicating the platform's capabilities. This form might be part of a larger platform for building management, offering various services such as maintenance scheduling, tenant portals, and financial management. It's likely that the form's purpose is to streamline the onboarding process for properties, making it easier for them to access these services. 
-
-Please note that the form seems to be well-structured and covers all necessary information for building management, but it might be beneficial to add a confirmation or validation step before submitting the form, to prevent errors or incorrect submissions. 
-
-</thinking>
-
 # Building Management Cloud Registration - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for users to register for a professional development course. To be eligible to register, users must be a certain type of entity or have specific permissions. This form should only be used for course registration and not for other purposes.
-</thinking>
-
 # Professional Development Course Enrollment Form - Help Guide
 ## Purpose
 The professional development course enrollment form allows users to register for a professional development course. Fill out this form to indicate your interest in a course and provide necessary details for registration.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help open educational resource contributors register their information and details for onboarding. The purpose of this form is to collect essential information about the contributor, such as their name, contact information, expertise, and contribution details. This information will help the administrators to manage and onboard new contributors effectively. This form is not intended to be used for any other purpose and should not be completed if you are not an open educational resource contributor.
-
-</thinking>
-
 # open_educational_resource_contributor_registration - Help Guide
 ## Purpose
 This form is designed to register open educational resource contributors for onboarding purposes.

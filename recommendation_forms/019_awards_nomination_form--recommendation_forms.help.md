@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for nominations submitted to an awards committee. The form is required to be filled out in its entirety for a submission to be considered. Please ensure that you are nominating someone who is deserving of the award and that you have the necessary information and references to support your nomination. Before submitting, please review the form carefully to ensure that all required fields are filled out accurately and completely. Note that some fields are optional, but are recommended to provide a more comprehensive nomination. This form should not be used to nominate oneself, as self-nominations will not be considered.
-</thinking>
-
 # Awards Nomination Form - Help Guide
 
 ## Purpose

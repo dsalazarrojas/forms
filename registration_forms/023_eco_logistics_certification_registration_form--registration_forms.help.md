@@ -1,8 +1,3 @@
-<thinking>
-This internal reasoning block explains why this form might need a specific help guide.
-The form is for "Eco Logistics Certification Registration" which might require detailed information from applicants regarding their "Applicant Details", "ECO Practice", "ECO Practice Description", "Supporting Files", and multiple "File" uploads. The fields might be required or optional depending on the business needs.
-</thinking>
-
 # Eco Logistics Certification Registration Form - Help Guide
 ## Purpose
 The Eco Logistics Certification Registration Form is designed to collect information from applicants for Eco Logistics Certification. The form is used to register applicants and verify their practices and supporting documents.

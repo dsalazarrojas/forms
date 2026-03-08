@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is part of the Senior Health Program and is used for recording consent for video interviews. 
-The form will guide the user through the necessary information required for the senior health program video interview, such as the program name, interview date/time, contact details, phone, email, schedule preferences (remote interview, date, time, duration), and consent to share.
-The form is designed to be completed by individuals involved in the senior health program.
-</thinking>
 # senior_health_program_video_interview_consent - Help Guide
 ## Purpose
 The Senior Health Program Video Interview Consent Form is used to record the consent of participants in the Senior Health Program for video interviews.

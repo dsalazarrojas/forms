@@ -1,20 +1,3 @@
-<thinking>
-To create an engaging and effective user-facing help guide for the "Business Model Innovation Hub Registration" form, it's essential to break down the form's purpose and requirements clearly, ensuring that end-users understand the form's intended use and their role in completing it. The primary goal of this guide is to assist individuals in filling out the form accurately and efficiently, making the most of the information they provide.
-
-The form's primary function is to gather registration information from participants interested in the Business Model Innovation Hub, a platform designed to foster innovation and collaboration among businesses. To register, participants must provide essential details about themselves and their companies, highlighting their experience with innovation, interests, and challenges. By completing this form, participants will be able to:
-
-- Identify themselves as either full program participants, workshop attendees, or in a different category.
-- Showcase their level of experience in innovation.
-- Indicate their areas of interest and current challenges related to innovation.
-- Express their goals for networking and potential mentorship.
-- Share their project, if they have one.
-
-This form's design aims to ensure that all necessary information is collected to create a comprehensive profile for participants, facilitating meaningful connections and interactions within the Innovation Hub community. By understanding each field's purpose and requirements, participants can ensure they complete the form accurately and effectively.
-
-Before proceeding, ensure you have access to the necessary information and resources to fill out this form. If you have any questions or need clarification on any field, please contact the Innovation Hub team for assistance.
-
-</thinking>
-
 # Business Model Innovation Hub Registration - Help Guide
 ## Purpose
 The Business Model Innovation Hub Registration form is designed to gather essential information from participants interested in the Business Model Innovation Hub. This form will help us understand your background, interests, and goals, allowing us to tailor the hub's resources and opportunities to meet your needs.

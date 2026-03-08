@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from conference speakers to ensure they receive proper access and accommodations during the event. It is crucial to fill out this form accurately to facilitate a smooth conference experience. Please note that speakers should only fill out this form once. If you're unsure about any field, please refer to the help guide below for clarification.
-</thinking>
-
 # Conference Speaker Access Form - Help Guide
 ## Purpose
 This form is created to collect relevant information from speakers to provide them with the necessary access and accommodations during the conference. It is essential to fill out this form to ensure a smooth experience for all speakers.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from individuals who wish to register for a symposium, an event where experts gather to discuss and present research, ideas, and topics related to various fields.
-
-Before proceeding, ensure that the symposium you're registering for is not a duplicate or a fictional event. This form is designed to gather essential details such as the event name, start and end dates, and venue to facilitate organization and logistics.
-
-</thinking>
-
 # symposium_registration_form - Help Guide
 ## Purpose
 This form is for registering individuals to attend a symposium, an academic gathering of experts to discuss and share knowledge on various topics.

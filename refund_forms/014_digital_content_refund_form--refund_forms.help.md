@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Content Refund Form - Help Guide
 
 ## Purpose

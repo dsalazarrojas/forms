@@ -1,8 +1,3 @@
-<thinking>
-To ensure the Autism Training Registration Form is completed accurately, I will review the provided YAML fields and create a user-facing help guide. This form is designed to collect participant information for an autism training program. The form has two main sections: "Participant Information" and "Training Selection" with fields for participant details, training choices, and special needs or requirements. The form requires the following fields to be filled: Full Name, Email Address, Contact Number, Profession or Role, Session Topic, Preferred Training Date, Training Format, and a few optional fields for accessibility requirements, dietary restrictions, learning objectives, and how the participant found out about the training. 
-
-</thinking>
-
 # Autism Training Registration Form - Help Guide
 ## Purpose
 This form is designed to collect participant information and preferences for the Autism Training Program. Please fill out this form to register for the training that suits your needs.

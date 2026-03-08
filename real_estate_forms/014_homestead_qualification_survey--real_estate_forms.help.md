@@ -1,8 +1,3 @@
-<thinking>
-The form's purpose is to collect information from a user to help determine their eligibility for a homestead, which is a type of property that can be used for various purposes such as a home or a business. This form is likely used to assess the user's qualifications and suitability for a homestead, possibly for a mortgage or other financial purposes.
-To ensure that the user provides accurate and complete information, we will review the form for completeness and relevance before proceeding.
-</thinking>
-
 # Homestead Qualification Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about you and your homestead needs. Please answer the questions honestly and thoroughly to help us assess your eligibility for a homestead.

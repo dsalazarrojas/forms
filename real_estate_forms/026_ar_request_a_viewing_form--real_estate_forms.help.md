@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Notes**
-This form is designed to capture information from an applicant or buyer interested in requesting a viewing of a property. The form is used to ensure that the agent has all necessary details for coordinating the viewing and communicating with the applicant effectively. This form will help to streamline the viewing process and reduce misunderstandings that may arise from incomplete or unclear information.
-
-</thinking>
-
 # AR Request A Viewing Form - Help Guide
 ## Purpose
 This form is used to request a viewing of a property. It captures essential information from the applicant to coordinate and facilitate a smooth viewing experience.

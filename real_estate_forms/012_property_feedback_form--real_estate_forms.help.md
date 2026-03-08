@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback from the public about properties. The purpose of this form is to gather information about a specific property, such as its name, address, and contact details. This form is meant to be used by the public to provide feedback, comments, or messages about a property they have visited or interacted with. 
-
-Please note that all fields marked as "required" are mandatory and must be completed. The form is designed to be easy to fill out and should take no more than a few minutes to complete.
-
-</thinking>
-
 # Property Feedback Form - Help Guide
 ## Purpose
 The Property Feedback Form is a tool used to collect feedback and comments from the public about specific properties. This form helps the property owners or managers to understand the experiences and opinions of the visitors, which can be used to improve the property's services or amenities.

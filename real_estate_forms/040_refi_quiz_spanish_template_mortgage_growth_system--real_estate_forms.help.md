@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a real estate form with a focus on mortgage growth systems. It is intended for users to provide information about their real estate and mortgage needs. The form has multiple sections, each with different types of questions and options. The goal of this form is to understand the user's preferences and needs for a mortgage growth system. This form is likely to be used by real estate professionals or mortgage experts to assess the user's situation and provide guidance or recommendations.
-</thinking>
-
 # refi_quiz_spanish_template_mortgage_growth_system - Help Guide
 ## Purpose
 The refi_quiz_spanish_template_mortgage_growth_system form is designed to help users explore their options for mortgage growth systems in the context of real estate. It aims to gather information about the user's real estate properties and their mortgage needs.

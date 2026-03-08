@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for the Traceability Blockchain Pilot Registration. It's essential to understand that the provided form is not affiliated with, endorsed by, or derived from any form platform. The form was created using AI to generate an original adaptation based on public survey topic metadata. This form will help users register their participation in the Traceability Blockchain Pilot, provide necessary details, and submit their data for the purpose of this pilot. Before starting, please ensure you haven't already registered for this pilot, as duplicate registrations might cause confusion. Now, let's move on to the instructions on how to complete this form.
-
-</thinking>
-
 # Traceability Blockchain Pilot Registration Form - Help Guide
 ## Purpose
 The Traceability Blockchain Pilot Registration Form is designed to collect information from participants in the Traceability Blockchain Pilot. This form helps us understand your registration details, contact information, submission details, and submission data.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential real estate agents to screen their qualifications and background. The primary purpose of this form is to ensure that applicants have the necessary experience, education, and licenses to work in the real estate industry. The form is not affiliated with any form platform and is an original adaptation of a public survey topic.
-
-</thinking>
-
 # Real Estate Agent Applicant Screening - Help Guide
 ## Purpose
 This form is designed to collect information from potential real estate agents to screen their qualifications and background.

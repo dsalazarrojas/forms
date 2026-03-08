@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to handle cancellations and refunds for private courses, ensuring that students understand the process and implications of their decisions. To prevent duplication, the form is split into sections for student information, request details, refund policy acknowledgement, and final confirmation. The form should only be used for legitimate reasons and should be reviewed carefully to ensure accuracy and understanding of the process. The refund policies, notice periods, and refund methods are also outlined to provide transparency and clarity. The form requires confirmation of understanding of the refund policies and agreement to the non-refundable fees.
-</thinking>
-
 # Cancellation And Refund Policy For Private Courses - Help Guide
 ## Purpose
 This form is used to handle cancellations and refunds for private courses. It is essential to ensure that students understand the process and implications of their decisions.

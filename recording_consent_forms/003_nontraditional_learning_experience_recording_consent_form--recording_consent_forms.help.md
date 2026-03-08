@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nontraditional Learning Experience Recording Consent Form - Help Guide
 ## Purpose
 

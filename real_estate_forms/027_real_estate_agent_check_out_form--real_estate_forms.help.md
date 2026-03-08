@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be used for a Real Estate transaction, specifically for an Agent to verify the details of a Client's property transaction. The purpose of this form is to ensure the accuracy of the information and obtain the necessary signatures for the transaction to proceed.
-</thinking>
-
 # Real Estate Agent Check Out Form - Help Guide
 ## Purpose
 This form is designed to be used by Real Estate Agents to verify the details of a Client's property transaction and obtain the necessary signatures for the transaction to proceed.

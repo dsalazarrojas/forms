@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information related to the renewal of a reseller agreement between your company and your resellers. The purpose of this form is to gather answers to the following questions:
-- Do you have a reseller agreement with this customer? (Yes/No)
-- What type of agreement do you have with this customer? (Select One)
-- Is this agreement eligible for renewal? (Yes/No)
-- If eligible, what is the renewal date and time of the agreement? (Date/Time)
-- Is there any additional information or note about the agreement renewal? (Text field)
- 
-To ensure accuracy, please review your reseller agreements before completing this form. This form should only be filled out for agreements that are eligible for renewal and not for new agreements.
-</thinking>
-
 # Reseller Agreement Renewal Form - Help Guide
 ## Purpose
 

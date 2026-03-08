@@ -1,7 +1,3 @@
-<thinking>
-The form is a consent form for filming and photography at an artistic workshop or event. This form is used to obtain the consent of participants to be video recorded and photographed for various purposes, such as educational, promotional, or personal portfolio use. The form is intended to ensure that participants are aware of the recording and photography activities and provide their consent for the use of their image and likeness. To fill out this form, participants must provide their full name, a brief description of the workshop or event, and indicate their consent to being video recorded and photographed. They must also select specific permissions for the use of their image and likeness and provide their preferred method of credit. Additionally, participants must provide their email address and sign the form on a specific date. This form should not be filled out if the participant is under 18 years of age, as a parent or guardian must sign for them instead.
-</thinking>
-
 # Artistic Workshop Filming Consent Form - Help Guide
 ## Purpose
 

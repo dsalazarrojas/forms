@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register an innovation project in the Material Traceability system. The form captures information about the project's status, category, and other relevant details. To ensure that the innovation is properly registered, please complete the form accurately and make sure to submit it only once for each new project. 
-</thinking>
-
 # Material Traceability Innovation Registration Form - Help Guide
 ## Purpose
 This form is used to register new innovation projects in the Material Traceability system. It captures essential details about the project, including its status, category, and other relevant information.

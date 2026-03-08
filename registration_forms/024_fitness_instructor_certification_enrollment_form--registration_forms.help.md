@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll provide a clear and concise help guide for the Fitness Instructor Certification Enrollment Form. This guide will cover the purpose of the form, how to complete it, and what each field means, making it easy for end users to understand the form's requirements and fill it out correctly.</thinking>
-
 # Fitness Instructor Certification Enrollment Form - Help Guide
 ## Purpose
 This form is designed to help fitness instructors enroll for certification. The form collects information about the instructor, their training organization, and their certification status.

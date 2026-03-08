@@ -1,7 +1,3 @@
-<thinking>
-This is a form that is intended to collect information from a real estate applicant. The form is designed to collect a variety of information related to the applicant's personal and financial status. It appears to be a form that is used for some sort of application or inquiry process. The fields on the form range from personal information to financial status, with some options being multiple select fields, others being single select fields, and some being numerical fields. There does not seem to be any specific requirements or deadlines associated with this form. It's possible that this form is used for some sort of background check or verification process. However, without further information, it is difficult to determine the exact purpose of the form.
-</thinking>
-
 # real_estate_applicant_questionnaire_form - Help Guide
 ## Purpose
 This form is designed to collect information from a real estate applicant, including personal and financial details.

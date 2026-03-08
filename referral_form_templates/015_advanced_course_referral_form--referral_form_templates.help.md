@@ -1,7 +1,3 @@
-<thinking>
-The Advanced Course Referral Form is used to capture information about a candidate referred to an advanced course. This form helps gather essential details about the referrer and the candidate, including their contact information, education background, and the reasons for the referral. This form ensures that the referral process is thorough and accurate, providing valuable insights to the course administrators.
-</thinking>
-
 # Advanced Course Referral Form - Help Guide
 ## Purpose
 The Advanced Course Referral Form is designed to collect information about a candidate referred to an advanced course. This form helps course administrators make informed decisions about candidate suitability for the course.

@@ -1,11 +1,3 @@
-<thinking>
-A real estate referal form is used to collect information about a referral from a real estate agent or property manager. The form is typically used when an agent or manager wants to report a referral or a lead generated from their sales efforts. This form is designed to collect essential details about the referral, such as the property's status, the date and time of the referral, and the contact information of the person being referred. The goal of this form is to provide accurate and consistent data for the real estate company's sales team to follow up with the referral and convert it into a sales lead.
-
-To ensure that the form is filled out correctly, the fields should not be duplicated or repeated. Each field has a specific purpose, and filling out the form with the required information helps to provide the best possible outcome for the sales team.
-
-The form is usually used by real estate agents and property managers who want to report a referral or lead generated from their sales efforts.
-</thinking>
-
 # Referal Form - Help Guide
 ## Purpose
 The Referal Form is used to report a referral or lead generated from sales efforts by real estate agents or property managers. It provides essential information for the sales team to follow up with the referral and convert it into a sales lead.

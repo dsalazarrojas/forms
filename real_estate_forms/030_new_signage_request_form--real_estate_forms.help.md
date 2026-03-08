@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information about new signage requests for real estate properties. The purpose of this form is to gather details about the signage, such as category and description, and to assign the request to the appropriate tool. The form is not affiliated with any form platform and is released under CC BY 4.0 license. Users are free to use, modify, and even sell forms derived from it, just giving credit. Contact form@gic.mx for more information.
 
 # new_signage_request_form - Help Guide

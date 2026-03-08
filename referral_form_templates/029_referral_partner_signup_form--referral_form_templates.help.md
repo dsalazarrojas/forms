@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "referral_partner_signup_form," is to collect information from individuals who have been referred to a partner or are interested in becoming a partner. This form is used to gather contact and demographic data, as well as preferences and interests, to facilitate collaboration and communication between the partner and our organization. The form is not intended for internal employees; it's designed for external individuals or organizations looking to partner with us. To ensure accuracy, please note that duplicate submissions will not be accepted.
-</thinking>
-
 # referral_partner_signup_form - Help Guide
 ## Purpose
 This form is used to gather information from individuals or organizations interested in becoming a partner or have been referred to a partner. It's intended for external users, not internal employees.

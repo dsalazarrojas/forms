@@ -1,17 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Property Investment Fund Application Form", I'll first need to understand the form's purpose and the fields it contains. Based on the provided YAML, the form appears to be designed for investors to provide information about their investment preferences, experience, and contact details. 
-
-The form is likely used to collect data for the property investment fund, and the fields are divided into sections that cover various aspects of the investment, such as investor information, investment objectives, frequency, term, risk tolerance, return expectation, and contact details. 
-
-The form seems to be focused on collecting data from investors who are interested in or already invested in real estate, and it's intended to be filled out by individuals, not companies.
-
-Each field is well-structured with labels, types, and options provided, suggesting a clear and straightforward design. However, some labels could be improved to make them more user-friendly. For example, "investment property details" could be more clearly defined as "property type" or "property type (e.g., residential, commercial, etc.)". 
-
-Additionally, "risk tolerance" might be more effectively communicated as "Risk Tolerance Level" with options like "Low", "Medium", "High", and "Very High". 
-
-Lastly, "terms of service" could be more clearly defined as "Acknowledgement of Terms of Service" with a checkbox option.
-</thinking>
-
 # Property Investment Fund Application Form - Help Guide
 ## Purpose
 This form is designed for investors to provide information about their investment preferences, experience, and contact details for the property investment fund.

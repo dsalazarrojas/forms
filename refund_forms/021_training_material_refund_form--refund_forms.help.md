@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide that explains what the "Training Material Refund Form" is and how to fill it out.
-
-The "Training Material Refund Form" is used to process refunds for training materials. To be eligible for a refund, the user must provide their user name, reason for the refund, email address, phone number, and amount they are requesting to be refunded. This form is typically used by customers who have purchased training materials and are seeking a refund due to a valid reason.
-
-We will not cover the fields that are not included in the provided YAML fields.
-
-</thinking>
-
 # Training Material Refund Form - Help Guide
 ## Purpose
 The "Training Material Refund Form" is used to process refunds for training materials.

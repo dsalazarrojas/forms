@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the "expert_accelerator_contact_form" is used for customers or partners to get in touch with the organization's experts, providing information about their areas of interest and contact details.
-</thinking>
-
 # expert_accelerator_contact_form - Help Guide
 
 ## Purpose

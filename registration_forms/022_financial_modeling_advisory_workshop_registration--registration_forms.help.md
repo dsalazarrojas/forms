@@ -1,9 +1,3 @@
-<thinking>
-
-This form will serve as a registration portal for individuals interested in attending a financial modeling workshop. The form will collect relevant information from users to ensure they are correctly registered and have a smooth workshop experience. The form will be reviewed to prevent duplication or incorrect registration.
-
-</thinking>
-
 # Financial Modeling Advisory Workshop Registration - Help Guide
 ## Purpose
 This form is used to register for the Financial Modeling Advisory Workshop. To ensure accurate registration and a successful experience, please complete the form carefully and thoroughly.

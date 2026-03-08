@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect data for a Dinosaur Crossing event registration process. The form aims to gather information from individuals who wish to participate in the event, including their event data, contact information, and other relevant details.
-
-The form is divided into multiple pages, each serving a specific purpose. The form data page captures general information, while the dinosaur data page collects specific information about the dinosaur participant. The event data and event location pages are used to capture details about the event, and the contact data and submission status pages are used to collect contact information and track the submission status of the form.
-
-Before proceeding, ensure that you have not previously submitted this form, as it will not be accepted for re-submission. If you are unsure, you can check the submission status of your previous forms in the "Submission Status" page.
-
-</thinking>
-
 # Dinosaur Crossing Registration Form - Help Guide
 
 ## Purpose

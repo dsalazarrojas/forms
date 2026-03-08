@@ -1,15 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Church Attendance Registration Form", we need to consider the following:
-
-* The form is intended for registering attendees for church events, such as services, meetings, or gatherings.
-* The form requires some basic personal information from the attendees, such as first and last name, email address, and phone number.
-* The form also seeks to capture more detailed information about the attendee's presence, including their membership status, date of birth, and contact information.
-* The form has sections for event details, personal information, membership status, contact information, attendance information, and engagement.
-
-This help guide should cover the purpose and requirements of the form, explaining each section and field, and providing tips and suggestions for completing the form accurately and efficiently.
-
-</thinking>
-
 # Church Attendance Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for church events, services, and gatherings. Please complete this form to provide your information and help us better understand your attendance and interests.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about a new listing, including property address, sale price, square footage, lot size, number of bedrooms and bathrooms, list and sale dates, listing agent, buyer information, listing status, property type, amenities, photos, notes, contact information, address, city, state, zip, county, and status.
-The form is likely used for real estate listings. The fields are divided into several categories, including property details, listing information, contact information, and status.
-</thinking>
-
 # new_listing_checklist_form - Help Guide
 ## Purpose
 This form is used to collect information about a new listing for real estate purposes.

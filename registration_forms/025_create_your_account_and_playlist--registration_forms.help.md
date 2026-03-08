@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect user information for account and playlist creation. The form has multiple sections for various fields such as contact information, account details, and platform-specific settings. This information will be used to create a user account and playlist with the provided settings.
-
-To prevent duplication, we need to ensure that users do not already have an account with the same email address. We will check for duplicates before creating a new account.
-
-</thinking>
-
 # create-your-account-and-playlist - Help Guide
 ## Purpose
 This form is used to create a new account and playlist with specific settings for a user. The collected information will be used to configure their account and playlist.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help participants declare their dietary restrictions, if any, for a given event or program. It is intended for individuals who require accommodations due to a specific dietary need, such as vegan, gluten-free, or nut-free. The form will be used by event organizers and staff to determine the necessary preparations for catering and other accommodations. 
-Please ensure you only fill out this form if you have a legitimate dietary restriction. False declarations can cause inconvenience and unnecessary delays in preparation.
-
-Please review and complete the form thoroughly. If you are uncertain about any field, refer to the field-by-field explanations below.
-</thinking>
-
 # Dietary Restrictions Declaration Form - Help Guide
 ## Purpose
 

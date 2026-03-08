@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect referrals for senior care and elder law services. The goal is to gather essential information about the client's situation and the care team involved. To ensure accurate data collection, please make sure to complete the form without duplication or irrelevant entries.
-</thinking>
-
 # Senior Care Elder Law Referral Form - Help Guide
 
 ## Purpose

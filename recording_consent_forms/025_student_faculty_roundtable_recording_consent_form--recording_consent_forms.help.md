@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used for students to obtain consent from faculty members to record their meetings or discussions, ensuring that both parties are aware of and agree to the recording process. This form is probably used by students to record their thoughts, ideas, and interactions with faculty members for educational or research purposes. It's essential to ensure that both faculty and students are on the same page regarding the recording, its purpose, and the implications. Before proceeding, let's verify that the form doesn't duplicate any other existing forms or processes, and the required fields are correctly marked as required. This form likely aims to maintain transparency and obtain necessary consent for recordings, ensuring all parties involved are informed and agreeable.</thinking>
-
 # Student Faculty Roundtable Recording Consent Form - Help Guide
 
 ## Purpose

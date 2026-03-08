@@ -1,12 +1,3 @@
-<thinking>
-**Internal Context Check**
-
-This form is used to obtain the patient's consent for recording their data for the Patient Wellness Program. The purpose of the form is to ensure that the patient is aware of the information that will be recorded and shared, and to provide a written record of their consent. The form asks for basic patient information, contact information, and emergency contact details. It also includes fields for recording permissions, recording location, and other relevant details. The form should be used to ensure that the patient's privacy and confidentiality are respected while still allowing for necessary data sharing and recording.
-
-Please ensure that this form is used correctly and is not duplicated or used for any other purpose. This form should only be used for patients participating in the Patient Wellness Program.
-
-</thinking>
-
 # Patient Wellness Program Recording Consent Form - Help Guide
 ## Purpose
 This form is used to obtain the patient's consent for recording their data for the Patient Wellness Program.

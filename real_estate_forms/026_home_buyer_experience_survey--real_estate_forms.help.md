@@ -1,5 +1,3 @@
-<thinking>Here is the internal reasoning for the form purpose: This form is a collection of questions designed to gather feedback and insights from home buyers. The purpose of the form is to understand their experience, preferences, and expectations when searching for a home. This feedback will help us improve our services and provide a better experience for future customers. The questions are carefully crafted to gather information about the buyer's goals, budget, location, preferences, and overall satisfaction with their experience.</thinking>
-
 # Home Buyer Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and insights from home buyers about their experience, preferences, and expectations when searching for a home. Your responses will help us improve our services and provide a better experience for future customers.

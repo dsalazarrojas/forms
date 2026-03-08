@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Diagnostic Imaging Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information for diagnostic imaging referrals. It is intended to be used by healthcare professionals to gather necessary details for imaging studies. The form is divided into three pages, each covering specific aspects of the referral process. Please ensure you only submit the form if you intend to refer a patient for imaging studies. If this is not your intended purpose, do not complete this form.

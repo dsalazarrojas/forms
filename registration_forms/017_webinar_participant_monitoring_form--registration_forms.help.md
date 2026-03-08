@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # webinar_participant_monitoring_form - Help Guide
 ## Purpose
 The Webinar Participant Monitoring Form is a tool used to monitor and track participant engagement during webinars. This form helps to collect information about participants' feedback, comments, and other relevant details.

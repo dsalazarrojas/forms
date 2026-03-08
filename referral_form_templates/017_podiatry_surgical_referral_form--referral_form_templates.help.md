@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for podiatry surgical referrals. It gathers details about the patient, clinical context, and other relevant information for the referral process. This form is not intended to be a comprehensive medical record, but rather a tool to facilitate communication between healthcare professionals.
-</thinking>
-
 # Podiatry Surgical Referral Form - Help Guide
 
 ## Purpose

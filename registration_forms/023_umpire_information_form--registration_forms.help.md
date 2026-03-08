@@ -1,5 +1,3 @@
-<thinking>...this form is a generic registration form designed to collect personal and contact information from users, including their umpire availability. It is meant to be used as a starting point and can be adapted or modified by users as needed. It does not contain any sensitive or proprietary information and is intended for public use. Users can modify the form as needed, add fields, or even sell it as long as credit is given. The form is released under CC BY 4.0 license...</thinking>
-
 # Umpire Information Form - Help Guide
 ## Purpose
 The Umpire Information Form is a template for collecting personal and contact information from users, which can be used as a starting point and modified according to specific needs.

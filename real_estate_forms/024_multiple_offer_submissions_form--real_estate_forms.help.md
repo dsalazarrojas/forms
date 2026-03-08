@@ -1,9 +1,3 @@
-<thinking>
-The internal reasoning for this form involves verifying the authenticity of a property purchase by tracking multiple offer submissions from various buyers. 
-This form is used to record and track these offers for real estate professionals to make informed decisions. 
-It's essential to ensure that the form is completed accurately and consistently to prevent duplication of efforts and ensure data quality.
-</thinking>
-
 # Multiple Offer Submissions Form - Help Guide
 ## Purpose
 The Multiple Offer Subscriptions Form is designed to record and track multiple offer submissions from various buyers for a specific property. This form helps real estate professionals to make informed decisions about which offer to accept, reject, or negotiate further.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for users to register for an education training course. The form is designed to collect relevant information from participants, including their contact details, course preferences, and workshop dates. This form aims to ensure accurate registration and provide necessary details to organizers.
-</thinking>
 # Education Training Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants for an education training course.

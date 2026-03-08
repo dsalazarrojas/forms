@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to help users create a comprehensive checklist for a residential moving process, capturing essential information for planning, packing, and moving details, contact information, household details, move-in specifics, utilities setup, vehicle information, vehicle insurance, and vehicle registration. This form aims to streamline the moving process by providing a structured format for users to gather and organize their data. The form's structure and field labels are kept simple and clear to minimize user confusion. The goal is to create a user-friendly guide to assist individuals and businesses in the residential moving process.
-
-</thinking>
-
 # Residential Moving Checklist - Help Guide
 ## Purpose
 This form is a comprehensive checklist for residential moving, covering planning, packing, and post-moving tasks. It helps users gather and organize essential information for a smooth and efficient move.

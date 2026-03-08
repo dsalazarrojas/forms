@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended for end-users who need to complete the Enrollment Package Agreement form. The purpose of this form is to gather information about a student's enrollment package details, including student identification, contact information, program choice, date of birth, date of admission, and address.
 
 # Enrollment Package Agreement - Help Guide

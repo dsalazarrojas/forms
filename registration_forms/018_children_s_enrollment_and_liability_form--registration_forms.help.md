@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information about a child's enrollment in a program, including their personal details, contact information, and medical history. The goal is to ensure that the child's safety and well-being are taken care of during their stay. This form will be used by program administrators to verify the accuracy of the information provided by parents or guardians.
-
-To avoid duplication, ensure that all information is up-to-date and accurate. If there are any changes, update the form accordingly.
-
-</thinking>
-
 # Children's Enrollment And Liability Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about a child's enrollment in a program, including personal details, contact information, and medical history.

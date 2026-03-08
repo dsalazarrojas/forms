@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for lease agreements. The purpose of this form is to ensure that all necessary details are captured for a smooth and efficient lease process. The form is likely to be used by property managers, landlords, or leasing agents to gather information from tenants. It's essential to understand that this form is a critical document that outlines the terms and conditions of the lease, including the start and end dates, rent amount, and lease terms. This form's purpose is to prevent potential disputes or issues that may arise during the lease term.
-
-Before creating this help guide, I've reviewed the provided YAML fields. This form has multiple pages, but only one has fields. The fields are categorized into several sections: tenant contact, lease dates, landlord information, building details, rent amount, lease terms, signed documents, and date signed. 
-
-Each field in this form is crucial for a comprehensive lease agreement. Some fields are mandatory (required), while others are optional but can be useful for additional information. The form seems to cover the necessary areas for a basic lease agreement. However, it would be beneficial to add more fields for specific requirements such as security deposit, move-in date, or lease renewal options.
-
-</thinking>
-
 # Lease Agreement Delivery Form - Help Guide
 ## Purpose
 The lease agreement delivery form is used to collect essential information for a comprehensive lease agreement, which includes tenant contact details, lease start and end dates, rent amount, lease terms, and signed documents.

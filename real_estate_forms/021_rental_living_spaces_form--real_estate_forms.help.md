@@ -1,9 +1,3 @@
-<thinking>
-Checking the form YAML structure and its fields for clarity and relevance.
-This form's main purpose is to gather information from users about their rental living spaces. The fields provided seem to cover the necessary details such as registration status, name, contact information (email and phone), and property-related information (property type, square footage, and number of bedrooms).
-The fields are well-structured, but it's good to provide a clear and concise explanation of each field to help users understand the intent and expected input. The fields can be categorized into two main sections: registration and property information.
-</thinking>
-
 # Rental Living Spaces Form - Help Guide
 ## Purpose
 The Rental Living Spaces Form is designed to gather essential information about your rental living spaces. This form will help us understand your needs and preferences for your current or desired rental property.

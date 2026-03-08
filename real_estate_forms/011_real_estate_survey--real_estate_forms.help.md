@@ -1,16 +1,3 @@
-<thinking>
-Checking the form YAML to create a user-facing help guide...
-
-This form is intended to gather information from customers for real estate-related purposes, possibly for customer satisfaction or feedback.
-
-To create this guide, I'll follow the specified structure:
-- **Purpose**: brief explanation of the form's purpose
-- **How To Complete This Form**: step-by-step instructions for users to complete the form
-- **Field-by-Field Explanation**: brief explanations for each field, one per field
-- **Tips**: any additional tips or notes for users
-
-</thinking>
-
 # Real Estate Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Property Cloud Platform Registration Form, we first need to understand the form's purpose and ensure that it's not a duplicate task. The form is designed to collect registration information for properties on the platform. It's likely that the form is used by property owners or administrators to create or update property records. We should check if there are any existing forms with similar purposes or fields to avoid duplication of efforts.
-</thinking>
-
 # Property Cloud Platform Registration Form - Help Guide
 ## Purpose
 This form is used to collect registration information for properties on the Property Cloud Platform. It's a crucial step in creating or updating property records, allowing property owners or administrators to provide necessary details about their properties.

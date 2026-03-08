@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # B2B Registration Form - Help Guide
 
 ## Purpose

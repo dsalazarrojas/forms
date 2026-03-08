@@ -1,16 +1,3 @@
-<thinking>
-The Rental Yield Calculation Form is a tool used to estimate the potential return on investment for a rental property. This form is used to collect information about a property's type, rent, expenses, income, and tax rate to calculate the rental yield. The form is designed to be used by real estate professionals to quickly and accurately estimate the rental yield of a property.
-
-To complete this form, the user selects the type of property (Apartment, House, or Other), inputs the rent and expenses, and selects the tax rate. The form also asks for information about annual increases in income and expenses, which are used to calculate the net rental yield. 
-
-The form is intended to be used as a quick estimation tool and the results should be verified by a qualified real estate professional. 
-
-The form has multiple fields for annual increases in income and expenses, which are used to model different scenarios for the rental property. The user can select 'Yes' or 'No' for each field to indicate if the income or expenses are expected to increase or not.
-
-The fields for gross incomes and expenses are used to calculate the rental yield for different scenarios.
-
-</thinking>
-
 # Rental Yield Calculation Form - Help Guide
 ## Purpose
 The Rental Yield Calculation Form is a tool used to estimate the potential return on investment for a rental property.

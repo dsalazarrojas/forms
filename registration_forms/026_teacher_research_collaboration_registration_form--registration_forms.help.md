@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals who want to participate in teacher research collaborations. It is used for internal purposes to track potential participants and their interests. 
-To avoid duplication, users are expected to register once.
-</thinking>
-
 # teacher_research_collaboration_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who want to participate in teacher research collaborations. 

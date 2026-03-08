@@ -1,8 +1,3 @@
-<thinking>
-This form is used for capturing trailer distribution consent. A trailer is a preview of a movie, which will be sent to various distributors for promotional purposes. This form is intended for the distributors to provide details about the trailer they are distributing, including the date and time of the upload, the trailer file, and their own contact information. It's also where they can upload a sample agreement and a digital signature. This form is meant to be completed by authorized distributors, and the form will help keep a record of the distribution process, ensuring that both the distributor and the trailer owner have agreed on the terms. This guide will walk you through each step of the form.
-
-</thinking>
-
 # film_trailer_distribution_consent_form - Help Guide
 ## Purpose
 The film trailer distribution consent form is used to collect details from distributors for promotional trailer distribution, including trailer details, distributor information, and agreement upload.

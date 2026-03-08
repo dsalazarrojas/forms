@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from clients about a job proposal, which is a crucial step in the sales process. This form helps to clarify the details of the job, including the client's contact information, job requirements, and payment terms. 
-
-When filling out this form, please ensure that you only submit one proposal at a time. If you are submitting multiple proposals, please create a new form for each one. 
-
-</thinking>
-
 # Job Proposal Form - Help Guide
 ## Purpose
 This form is used to capture essential information about a job proposal, including client contact details, job requirements, and payment terms. It helps in streamlining the sales process and ensuring that all necessary information is provided.

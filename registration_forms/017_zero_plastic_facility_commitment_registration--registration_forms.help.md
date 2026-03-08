@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from facilities that are committed to reducing or eliminating plastic use. The purpose of this form is to gather details about the facility's commitment to zero plastic initiatives. The form is intended for facilities that are already committed or are willing to commit to zero plastic practices. 
-
-The form will be used to create a database of facilities that are taking steps to reduce plastic use, and will help identify facilities that are already engaged in zero plastic initiatives. This information can be used to promote and support facilities that are already reducing plastic use, and to provide resources and incentives to facilities that are willing to commit to zero plastic practices.
-
-Before proceeding with this form, please note that it is intended for facilities that are already committed or are willing to commit to zero plastic practices. If you are not a facility representative or if you are not authorized to commit on behalf of a facility, please do not complete this form.
-
-Also, be aware that the information collected will be stored and used for internal purposes only. Please ensure that you have the necessary permissions and authorization to provide the requested information.
-
-</thinking>
-
 # Zero Plastic Facility Commitment Registration - Help Guide
 ## Purpose
 The Zero Plastic Facility Commitment Registration form is designed to gather information from facilities that are committed to reducing or eliminating plastic use.

@@ -1,5 +1,3 @@
-<thinking>Before designing a user-facing help guide for the Estate Inventory Services Agreement form, I will review the form fields and their descriptions to understand the form's purpose and requirements. The form appears to be designed to capture client and realtor information, service definition, approval process, terms and conditions, and other relevant details related to an estate inventory services agreement. The form seems to be used for both client and realtor interactions, with fields for signatures, dates, and service requests. I will ensure that the help guide is clear and concise, explaining each field's purpose without inventing unsupported business logic.</thinking>
-
 # Estate Inventory Services Agreement - Help Guide
 ## Purpose
 The Estate Inventory Services Agreement form is designed to collect client and realtor information, service definitions, and approval process details for estate inventory services.

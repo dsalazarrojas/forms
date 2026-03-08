@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Logistics Provider Referral Form is to gather information about a logistics provider's services, contact details, and experience. This form is likely used to collect data for internal purposes, such as creating a referral database or sending out surveys to logistics providers. Before starting, ensure that you're not already familiar with the logistics provider, as this form is meant to be a one-time submission. If you've previously completed a form for the same logistics provider, you may be prompted to edit or update your previous submission.
-</thinking>
-
 # Logistics Provider Referral Form - Help Guide
 ## Purpose
 The Logistics Provider Referral Form is a tool for gathering essential information about a logistics provider's services, contact details, and experience. This form helps us better understand their capabilities and build a comprehensive database for future reference.

@@ -1,15 +1,3 @@
-<thinking>
-  This form is intended to register a customer's outdoor care services request.
-  The form allows customers to select multiple services they require (landscaping or property care),
-  input their contact information (name, email, phone), and schedule an appointment.
-  The goal of this form is to capture essential information for the business to fulfill
-  the customer's request efficiently.
-  This form is designed to be used by customers to register their outdoor care services
-  requests, making it a crucial part of the customer journey.
-  Before proceeding, check if you have already submitted this form.
-  Please note that the form fields are designed to be completed in the order they appear.
-  </thinking>
-
 # Outdoor Care Services Registration - Help Guide
 ## Purpose
 This form is designed to help customers register their outdoor care services requests with the business.

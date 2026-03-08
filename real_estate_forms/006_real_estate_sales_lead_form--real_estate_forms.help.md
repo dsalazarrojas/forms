@@ -1,9 +1,3 @@
-<thinking>
-  This form is intended to collect contact information from potential real estate clients. 
-  The form is designed to be simple and easy-to-use, with minimal required fields. 
-  To avoid duplication, we recommend checking internal systems for any existing leads before submitting this form.
-</thinking>
-
 # Real Estate Sales Lead Form - Help Guide
 ## Purpose
 This form is used to collect contact information from potential real estate clients. The goal is to gather basic details about the lead and store them in our system for follow-up actions.

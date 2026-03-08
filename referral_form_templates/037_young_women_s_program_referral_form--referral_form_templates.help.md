@@ -1,11 +1,3 @@
-<thinking>
-The "Young Women's Program Referral Form" is used to refer potential candidates for the Young Women's Program. This form is a crucial tool to collect necessary information for the referral process, ensuring that all required details are captured correctly. 
-
-Before filling out the form, please ensure that you are not duplicating a referral for the same individual. To avoid this, check the "School Name" field for any existing referrals. 
-
-Please also note that some fields are not mandatory and are marked as "optional" in the form.
-</thinking>
-
 # Young Women's Program Referral Form - Help Guide
 ## Purpose
 The "Young Women's Program Referral Form" is a tool designed to collect and document referrals for the Young Women's Program. It helps ensure that all necessary information for the referral process is captured accurately and efficiently.

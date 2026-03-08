@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to gather permissions and details for audio recording projects. The end user will be asked to provide their personal details (name, email, phone number, and address) as well as permission for the recording project. The form also collects information about the project itself (project title, description, location, and scheduled recording date) and the permissions granted by the participant. This form is typically used for recording consent in various contexts, such as podcasts, interviews, or voice-overs. Please ensure that the participant is fully informed and understands the purpose of the form before proceeding.
-</thinking>
-
 # Audio Recording Permission Form - Help Guide
 ## Purpose
 This form is used to obtain permission from participants to record their audio, including details about the recording project and the scope of permissions granted.

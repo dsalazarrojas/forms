@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for the Strategic Portfolio Review Program. It is a registration form for participants to sign up for the program. The form is used to capture participant details, program details, and other relevant information.
-Before filling out this form, please ensure that you are not duplicating an existing registration for the same program. Also, make sure that your organization is relevant to the program.
-</thinking>
-
 # Strategic Portfolio Review Program Registration - Help Guide
 ## Purpose
 This form is for registering for the Strategic Portfolio Review Program.

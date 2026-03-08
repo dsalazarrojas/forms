@@ -1,9 +1,3 @@
-<thinking>
-This form is for self-assessment property inspection. It is used to gather information about a property's condition, any issues found, and other relevant details. The form is designed for users to input data related to a property inspection, and it is typically completed by a user who is inspecting the property. This form is likely used in a business or organization that deals with properties and needs to track inspections and their results.
-
-To avoid duplication, this form should not be used for other purposes. Please use it only for self-assessment property inspections.
-</thinking>
-
 # self_assessment_property_inspection_form - Help Guide
 ## Purpose
 The self-assessment property inspection form is used to gather information about a property's condition, any issues found, and other relevant details during a self-assessment property inspection.

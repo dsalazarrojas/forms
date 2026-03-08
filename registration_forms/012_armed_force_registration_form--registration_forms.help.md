@@ -1,12 +1,3 @@
-<thinking>
-The Armed Force Registration Form is designed to collect demographic and personal information from individuals who are interested in joining or have joined the armed forces. This form is meant to be completed by individuals who are interested in exploring their options for military service, whether it is to enlist, commission, or become a civilian employee. The form will help the military administration to verify the identity and eligibility of the applicants, and ensure that they meet the necessary requirements for service.
-
-To complete this form, please ensure that you have all the necessary information and documentation ready. The form is divided into several sections that will guide you through the process.
-
-Please note that some fields are mandatory and are marked as "required" in the form. These fields must be completed to ensure that your application is processed correctly.
-
-</thinking>
-
 # Armed Force Registration Form - Help Guide
 ## Purpose
 The Armed Force Registration Form is designed to collect demographic and personal information from individuals who are interested in joining or have joined the armed forces.

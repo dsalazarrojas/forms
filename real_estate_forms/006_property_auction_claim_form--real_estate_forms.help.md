@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for property owners or their representatives to submit claims related to property auctions. It is intended to collect information necessary to process and review the claim. Please ensure that the submitted information is accurate and complete before submitting the form.
-
-Before filling out this form, it is recommended to review the available options for each field to ensure that you provide the most accurate and relevant information.
-
-When filling out the form, please ensure that the fields are filled out in the correct format. For example, for a date field, use the standard date format YYYY-MM-DD. For a time field, use 24-hour format HH:MM:SS.
-
-Please be aware that the form will ask for sensitive information, such as the property owner's address and contact information. Ensure that you have the necessary permissions or authorizations to collect and submit this information.
-
-The form status field is used to track the progress of the claim. Please be aware that this field may be updated by the form administrators without your knowledge.
-</thinking>
-
 # Property Auction Claim Form - Help Guide
 ## Purpose
 The Property Auction Claim Form is designed to collect information from property owners or their representatives to process and review claims related to property auctions.

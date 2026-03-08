@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from employees attending the Employee Engagement Symposium. It's essential to fill it out accurately to help us tailor the event to your needs. Please make sure you're filling out this form only once, and not duplicate your registration. If you're unsure about any information or have any issues, feel free to ask for assistance.
-</thinking>
-
 # Employee Engagement Symposium Registration Form - Help Guide
 ## Purpose
 This form is designed to collect attendee information for the Employee Engagement Symposium. It's necessary for us to understand who you are, what type of event you'd like to attend, and your availability.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Refund Request - Help Guide
 
 ## Purpose

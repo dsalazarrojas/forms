@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to collect information from vendors regarding their events. The fields are divided into sections to make it easier for users to understand what is required and what is optional. Each field has a brief explanation to help users fill out the form accurately.
-
-The form has 25 fields in total, and most of them are text or date fields. There are two select_one fields to ask whether the vendor event is yes or no. Two date fields are required to specify the start and end dates of the event. The form also requests contact information, event duration, and location information from the vendors. The "save and exit" and "save and send" options are available in case users want to save and review their form later or save and send it directly. The form also has buttons for navigation, including back, next, reset, save, and submit.
-
-</thinking>
-
 # Vendor Event Registration - Help Guide
 ## Purpose
 This form is designed for vendors to register their events. It is a straightforward form with sections to collect necessary information.

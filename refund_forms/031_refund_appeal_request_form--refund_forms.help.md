@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to allow customers or users to submit a refund appeal in case of discrepancies or errors in their orders, shipments, or service delivery. Before proceeding, please ensure that you have not previously submitted a refund appeal and that this form is only used for genuine refund purposes.
-
-To confirm, you should:
-- Not submit a refund appeal if you've already done so for the same issue.
-- Use this form for issues related to refunds, not for general customer support or feedback.
-- Fill in this form accurately and completely for a smooth and efficient resolution.
-</thinking>
-
 # Refund Appeal Request Form - Help Guide
 ## Purpose
 The Refund Appeal Request Form is a tool for customers or users to submit a refund appeal in case of issues with their orders, shipments, or service delivery.

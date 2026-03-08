@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Subcontractor Prequalification Form - Help Guide
 ## Purpose
 The purpose of this form is to gather necessary information from potential subcontractors to evaluate their qualification to work on specific projects. This form helps ensure that the subcontractor meets the required standards and qualifications to be considered for project participation.

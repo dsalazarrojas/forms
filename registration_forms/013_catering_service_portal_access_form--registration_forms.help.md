@@ -1,11 +1,3 @@
-<thinking>
-This form is used to register a new user for the catering service portal. The purpose of this form is to collect personal and account information, as well as preferences for portal access and notification. The form is designed to be completed by individuals and organizations interested in accessing the portal's features.
-
-Before proceeding, ensure that you have not already registered for the portal or have not previously submitted this form. If you have already registered or submitted this form, please contact the relevant authority for further assistance.
-
-This guide will walk you through the process of completing the form and help you understand each field's purpose.
-</thinking>
-
 # Catering Service Portal Access Form - Help Guide
 ## Purpose
 The Catering Service Portal Access Form is a registration form for users to access the catering service portal. This form collects personal and account information, as well as preferences for portal access and notification.

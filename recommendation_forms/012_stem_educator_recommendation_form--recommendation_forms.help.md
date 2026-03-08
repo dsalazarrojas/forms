@@ -1,5 +1,3 @@
-<thinking>... This form is used to collect information for a Stem Educator Recommendation. It is meant for educators who are recommending their students or mentees for a particular opportunity or program. To ensure that the form is completed correctly, please review this guide carefully. The form will be checked for completeness and duplication before submission. Please do not submit duplicate recommendations for the same student...</thinking>
-
 # stem educator recommendation form - Help Guide
 ## Purpose
 The Stem Educator Recommendation form is used to collect information from educators to recommend students or mentees for a particular opportunity or program. This form is used to provide a personal endorsement of the student's skills and qualifications.

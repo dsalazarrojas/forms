@@ -1,11 +1,3 @@
-<thinking>
-This form is used by recruiters to verify the identity and qualifications of a person who is recommending a candidate for a position. The form is designed to gather information from the referrer, including their contact information, relationship with the candidate, and reasons why they are recommending this candidate. This form helps recruiters to ensure that the candidate is being referred by a genuine person, and not a fake or automated account.
-
-This form is meant to be used in a hiring process, specifically for job openings where a personal recommendation is required. It's not a form for general feedback or surveys.
-
-The form was created to provide a straightforward and easy way to gather necessary information from referrers. Please ensure you only fill out the form if you are a real person with a genuine reason for recommending a candidate.
-</thinking>
-
 # Referrer Check Questionnaire - Help Guide
 ## Purpose
 This form is used to verify the identity and qualifications of a person recommending a candidate for a position.

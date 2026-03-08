@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about new listings from the Ackerman Team in the North & South Amptco region. The form is intended to provide a structured way to gather details about new listings, making it easier for the Ackerman Team to stay organized and up-to-date. Before proceeding, please ensure that you are using this form for its intended purpose and not duplicating effort. If you have already created a similar form, please do not create another instance of this form. This form is a tool to help the Ackerman Team collect and manage new listing information efficiently.
-
-</thinking>
-
 # new_listing_info_sheet_the_ackerman_team_north_ampco - Help Guide
 ## Purpose
 The "new_listing_info_sheet_the_ackerman_team_north_ampco" form is designed to collect and manage new listing information for the Ackerman Team in the North & South Amptco region. This form helps to gather essential details about new listings, ensuring that the team is well-informed and organized.

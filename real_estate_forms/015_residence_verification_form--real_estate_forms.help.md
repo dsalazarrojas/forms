@@ -1,11 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information about a residence verification process, likely for property management or landlord verification purposes. It's designed to gather details about a tenant's stay, including their contact information, rental agreements, and dates of stay. This form is likely used to verify the accuracy of rental records or to update them after a tenant's departure. 
-
-The form seems to be comprehensive and covers various aspects of a rental agreement, including dates of move-in and move-out, rent frequency, and lease duration. The form also includes fields for landlord and tenant signatures, suggesting that it's intended for official verification or confirmation. 
-
-Please ensure you fill out all required fields to provide accurate and complete information. 
-</thinking>
-
 # Residence Verification Form - Help Guide
 ## Purpose
 The Residence Verification Form is a comprehensive form used to collect information about a tenant's stay in a rental property.

@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and that users understand its purpose and each field's intent. The form's purpose is to register students for a learning program, gathering essential information such as student name, contact details, and program enrollment status. This form will help us understand who is enrolling in our programs and track their progress. To complete this form, users should follow the instructions below.</thinking>
-
 # Fundamentals Learning Program Registration - Help Guide
 ## Purpose
 The Fundamentals Learning Program Registration form is used to register students for a learning program. It collects information about the student, such as their name, contact details, and program enrollment status. This data helps us understand who is enrolling in our programs and track their progress.

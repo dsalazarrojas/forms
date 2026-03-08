@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to capture information about a property inspection and assessment. It's likely used to document the condition and status of a property, which is crucial for real estate transactions, appraisals, or other similar business use cases. The form's fields cover a range of property attributes, including location, size, year built, and condition.
-
-To avoid duplication, we should ensure that this form does not overlap with existing forms that cover similar use cases or purposes, such as forms for property listings, sales, or rent agreements.
-
-The form seems to be designed for a specific business context, but it does not explicitly define its purpose or use case. Therefore, the explanation will focus on the form's content and the fields it contains.
-
-</thinking>
-
 # property_inspection_assessment_form - Help Guide
 
 ## Purpose

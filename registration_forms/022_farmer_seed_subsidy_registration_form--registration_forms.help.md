@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from farmers regarding their seed subsidy registration. The purpose of this form is to gather data about the farmer's seed requirements, contact details, and other relevant information to facilitate the seed subsidy process. This form will likely be used by agricultural extension officers or other officials to register farmers for seed subsidies, ensuring that all necessary information is collected in a standardized and efficient manner.
-
-To avoid duplication of efforts, this form may be used in conjunction with other forms, such as the "Farmer Forms" category, to ensure that farmers are not registered multiple times.
-
-The form is not meant to be a comprehensive database for farmers, but rather a tool to gather specific information for seed subsidy purposes.
-
-</thinking>
-
 # Farmer Seed Subsidy Registration Form - Help Guide
 
 ## Purpose

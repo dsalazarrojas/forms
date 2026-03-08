@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect general information from property technology (PropTech) developers, including team details, project information, technical background, and company details. The form is designed to be completed by PropTech developers who are interested in joining the program or seeking support. It's essential to fill out this form accurately and thoroughly to ensure that the program can better understand your needs and provide relevant support.
-</thinking>
-
 # prop_tech_developer_program_registration - Help Guide
 ## Purpose
 This form is designed to collect information from property technology (PropTech) developers to provide support and resources for their projects.

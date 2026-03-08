@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Leader Training Registration Form - Help Guide
 ## Purpose
 The Team Leader Training Registration Form is designed to collect information from team leaders who wish to register for training sessions. This form helps us understand their needs, preferences, and expectations, ensuring we provide the best possible experience for our team leaders.

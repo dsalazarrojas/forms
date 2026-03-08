@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a manufactured home, including its address, type, serial number, appraised value, purchase price, year built, and square footage. It is intended for use by real estate professionals and other stakeholders to gather data on manufactured homes in order to conduct appraisals. Before completing this form, ensure that you have the necessary authorization and permissions to access and share the information contained within.
-</thinking>
-
 # Manufactured Home Appraisal Form - Help Guide
 
 ## Purpose

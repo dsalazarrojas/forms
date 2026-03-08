@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to gather information about a rental property from the tenant or landlord. The purpose of this form is to facilitate the rental process by collecting necessary details about the rental agreement, including the tenant's contact information, property specifics, and rental terms. Before filling out this form, please ensure that you are authorized to complete it and that the information is accurate and up-to-date.
-
-To complete this form, follow these steps:
-
-1. Enter the tenant's name and contact information (fields 1-3).
-2. Enter the property name and type (fields 4-5).
-3. Set the rental start and end dates (fields 6-7).
-4. Enter the rent amount (field 8).
-5. Select the lease status (field 10).
-6. Choose the reason for the lease end (field 11).
-7. Select the rental agency type (field 12).
-8. Enter the rental agency contact information (field 13).
-9. Provide a brief explanation for your signature as a tenant (field 14).
-10. Provide a brief explanation for your signature as a landlord (field 15).
-11. Confirm whether the rental agency is authorized (field 16).
-12. Add any additional notes from the landlord (field 17).
-
-</thinking>
-
 # Rental Reference Request - Help Guide
 ## Purpose
 

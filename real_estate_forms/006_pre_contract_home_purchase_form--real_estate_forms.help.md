@@ -1,21 +1,3 @@
-<thinking>
-
-This form is intended to collect information about a pre-contract home purchase, likely used by real estate agents or brokers to document and track client agreements. The form's purpose is to standardize and simplify the process of capturing necessary details about the home purchase, including client and property information.
-
-The form's fields can be categorized into three main sections: client information, property details, and terms of the contract. Each section is designed to capture relevant information to facilitate the process of negotiating and finalizing the home purchase contract.
-
-The following pages are included in this form:
-
-* Page 1: address
-* Page 2: seller_name, contract_date, contract_date_time, contract_time, buyer_name, contact_number
-* Page 3: contact_email, contact_address, agent_name, agent_company, agent_email, agent_phone, agent_address
-* Page 4: property_type, property_price, property_status, agent_address
-* Page 5: agent_signature, buyer_signature, agent_acknowledgement, buyer_acknowledgement, payment_terms_accepted
-
-This form requires the following fields to be filled out: seller_name, buyer_name, contract_date, property_price, property_status, contract_date_time, buyer_signature, payment_terms_accepted. The remaining fields are optional and may be used for additional information or verification.
-
-</thinking>
-
 # Pre-Contract Home Purchase Form - Help Guide
 ## Purpose
 This form is designed to capture essential details about a pre-contract home purchase, simplifying the process of documenting and tracking client agreements.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used by students to reserve a seat in a graphic design class. The purpose of this form is to collect the student's information and preferences for the class, including their name, email, phone number, and preferred date and time for the class. The form also allows the student to indicate their interest in different tools, which will be assigned to them during the class. The student can submit their reservation by completing the form and submitting it.
-
-</thinking>
-
 # Graphic Design Class Reservation Form - Help Guide
 ## Purpose
 This form is used to reserve a seat in a graphic design class. Please fill out the form below to let us know your preferred date and time for the class, as well as any other relevant information.

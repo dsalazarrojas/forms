@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from users for a Digital Competency Mapping Workshop. This form is likely part of a larger process to plan and organize the workshop, and its purpose is to collect relevant details from users to ensure the right number of attendees, workshop dates, and other logistical needs are met. The form might be used by staff or organizers to manage registrations and make necessary arrangements.
-Before filling out this form, ensure you haven't already registered for this workshop, as it may have been completed previously. Double-check the form fields to ensure you provide accurate and complete information.
-</thinking>
-
 # Digital Competency Mapping Workshop Registration Form - Help Guide
 ## Purpose
 This form is for users to register for the Digital Competency Mapping Workshop. It helps us plan and organize the event to meet your needs.

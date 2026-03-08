@@ -1,12 +1,3 @@
-<thinking>
-The form's purpose is to capture information from healthcare professionals (such as physical therapists) to provide insights and recommendations for patient care. This form aims to gather data about patients' medical history, treatment plans, and current conditions to help healthcare providers make informed decisions.
-
-Please ensure that the form is being used for its intended purpose and not for other unrelated use cases. To avoid duplication, please check if a similar form is already being used within your organization before submitting this form. If you are unsure, please contact your supervisor or department lead for guidance.
-
-The form is designed to collect relevant information from healthcare professionals to support patient care and outcomes.
-
-</thinking>
-
 # Physical Therapist Recommendation Form - Help Guide
 ## Purpose
 The Physical Therapist Recommendation Form is designed to collect information from healthcare professionals to support patient care and outcomes.

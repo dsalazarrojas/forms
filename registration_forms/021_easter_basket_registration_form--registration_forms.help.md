@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering an Easter basket for a child. It is used to collect information about the child and their school and parent's details. This form is part of a registration process for a program or service provided by a non-profit organization. The purpose of this form is to ensure that the child's registration is accurate and complete. This form should only be completed once per child. If you have already registered your child, you do not need to complete this form again. Please ensure that you have all required fields filled before submitting the form.
-</thinking>
-
 # easter_basket_registration_form - Help Guide
 ## Purpose
 This form is used to register a child for an Easter basket. It collects information about the child and their school and parent's details.

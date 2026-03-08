@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We can now output the final help document for the real_estate_purchase_authorization_form form in Markdown format:
 
 # real_estate_purchase_authorization_form - Help Guide

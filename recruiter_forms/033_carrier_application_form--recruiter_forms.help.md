@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from carriers (motor carriers or trucking companies) for the purpose of evaluating their application to operate. The form is used to identify the company's legal name, DOT number, MC number, and other relevant information such as contact details, operations, safety ratings, insurance coverage, and equipment types. This information will be used to assess the carrier's eligibility and credentials for operating in our system.
-</thinking>
-
 # Carrier Application Form - Help Guide
 ## Purpose
 The Carrier Application Form is used to collect information from carriers for the purpose of evaluating their application to operate.

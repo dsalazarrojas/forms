@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gather feedback from candidates about their interview experience with the company. The purpose of this form is to collect information about the candidate's comfort level, communication style, question quality, and overall impression of the company. This feedback will help the company improve its interview process and better understand how to improve for future candidates.
-
-To confirm, the following fields should be relevant to this form based on the given YAML structure:
-
-* Candidate's personal information (full name, email address)
-* Interview details (position interviewed for, interview date)
-* Interviewer's performance (comfort level, communication clarity, listening skills)
-* Question quality (relevance, difficulty)
-* Company knowledge (interviewer's knowledge about the company)
-* Overall assessment (overall impression, willingness to continue with the position)
-
-Please proceed with creating the help guide.
-</thinking>
-
 # Candidate Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from candidates about their interview experience with our company. This feedback will help us improve our interview process and better serve our future candidates.

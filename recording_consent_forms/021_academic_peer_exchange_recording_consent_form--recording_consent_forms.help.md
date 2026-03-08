@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from academic peers about their consent to participate in a recording session. The purpose of this form is to ensure that all participants are aware of and agree to the terms and conditions of the recording, including what type of recording will occur, how the recordings will be distributed, and how long they will be retained. This form is intended to be used in a peer exchange recording session, where multiple individuals will be recording their interactions and discussions. 
-
-The form asks for the participant's name, email address, institution, and other relevant details. It also asks for their consent to different types of recording, distribution, and publication. The participant can indicate their preferences for access restrictions and recording retention period.
-
-The form has been created using AI-generated form code, which means it is an original creation and does not rely on any specific proprietary platform or technology. It is designed to be user-friendly and easy to understand, following best practices for form design and usability. The form is released under a Creative Commons BY 4.0 license, allowing for free use, modification, and distribution.
-</thinking>
-
 # Academic Peer Exchange Recording Consent Form - Help Guide
 ## Purpose
 The Academic Peer Exchange Recording Consent Form is designed to collect information from academic peers about their consent to participate in a recording session. This form is intended to ensure that all participants are aware of and agree to the terms and conditions of the recording.

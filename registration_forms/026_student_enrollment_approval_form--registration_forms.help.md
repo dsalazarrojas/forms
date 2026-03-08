@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from students and their guardians or emergency contacts for enrollment purposes. 
-It's intended for students who need to be enrolled in a particular program or course. 
-The fields in this form are intended to gather necessary information 
-for the student's profile, emergency contact, and approval process.
-</thinking>
-
 # Student Enrollment Approval Form - Help Guide
 ## Purpose
 This form is used to gather student information for enrollment purposes.

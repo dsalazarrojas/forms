@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assist users in accessing mortgage calculator functionality, likely for residential or commercial property financing purposes. This form is designed to collect relevant financial information, such as loan amount, interest rate, and property price, to provide an estimate of total interest, monthly payment, and other related metrics. The form likely serves as a gateway for users to input their specific needs and receive tailored mortgage calculations, helping them make informed decisions regarding property investment or financing. 
-</thinking>
-
 # Mortgage Calculator Access Form - Help Guide
 ## Purpose
 

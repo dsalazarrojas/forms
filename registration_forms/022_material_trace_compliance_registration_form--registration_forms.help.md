@@ -1,5 +1,3 @@
-<thinking>As I analyze the provided YAML form schema, I understand that this form is intended for suppliers to register their materials and provide compliance documentation. The form is designed to collect information about the supplier and their materials, as well as any relevant compliance documents. Upon reviewing the schema, I notice that the form has four sections: Supplier Details, Material Trace Data, Compliance Documents, and Review and Submit. The form is not strictly required, but it appears to be a voluntary registration process. I also note that the form is designed to be completed by the supplier, but it's possible that the form might be completed by another entity as well. I will now create a user-facing help guide for this form.</thinking>
-
 # Material Trace Compliance Registration Form - Help Guide
 
 ## Purpose

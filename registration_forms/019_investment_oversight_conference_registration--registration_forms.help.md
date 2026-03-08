@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from attendees and stakeholders who want to participate in the Investment Oversight Conference. This form should not be used for other purposes. It should not be used to collect information for other types of conferences or events. 
-
-The form is likely being used to collect data for a conference organized by a financial institution or organization that deals with investments. The goal is to ensure that the correct information is collected and the registration process is efficient and accurate.
-</thinking>
-
 # Investment Oversight Conference Registration - Help Guide
 ## Purpose
 The Investment Oversight Conference Registration form is designed to gather information from attendees and stakeholders who want to participate in the Investment Oversight Conference.

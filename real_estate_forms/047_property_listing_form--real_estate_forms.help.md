@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for listing properties for sale or rent in a real estate context. It is intended to be a comprehensive guide for agents, owners, or other parties to provide detailed information about a property. The purpose of this form is to collect and standardize data about properties in a structured and easy-to-understand manner. 
-
-This form is part of a larger system that likely uses this data for various purposes, such as listing and searching properties, creating property listings, and potentially providing additional features or services.
-
-Before using this form, please ensure you have reviewed the provided guidance to understand each field's requirements and purpose.
-
-</thinking>
-
 # Property Listing Form - Help Guide
 ## Purpose
 This form is designed for listing properties for sale or rent in a real estate context. It is intended to be a comprehensive guide for agents, owners, or other parties to provide detailed information about a property.

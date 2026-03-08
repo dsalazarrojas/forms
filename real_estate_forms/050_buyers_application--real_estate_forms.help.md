@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from potential real estate investors, including their contact information, investment goals, risk tolerance, and preferences. The purpose of this form is to provide a comprehensive overview of the investor's situation, allowing the real estate expert or agent to better understand their needs and provide tailored advice or investment opportunities.
-
-Before proceeding, please ensure that you have not already submitted a similar form and that you have not been previously contacted by our team for investment guidance. This will help us avoid duplication of effort and ensure that you receive personalized and relevant responses to your investment needs.
-
-</thinking>
-
 # Buyers Application - Help Guide
 ## Purpose
 The Buyers Application form is designed to gather information from potential real estate investors, allowing our team to provide personalized guidance and investment opportunities tailored to your specific needs and goals.

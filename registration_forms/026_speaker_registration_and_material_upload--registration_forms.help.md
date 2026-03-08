@@ -1,7 +1,3 @@
-<thinking>
-This form is for speakers to register and upload materials related to their sessions. It's essential to use this form only once per speaker. If you have already submitted this form, please do not resubmit it to avoid duplication of data. The form is used to collect speaker information, session details, and upload relevant files.
-</thinking>
-
 # Speaker Registration And Material Upload - Help Guide
 ## Purpose
 This form is for speakers to register and upload materials related to their sessions. It's essential to use this form only once per speaker.

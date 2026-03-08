@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from clients requesting pest control services. The form will help the service team understand the client's needs and provide effective assistance. Please ensure that you have not filled out this form previously, as the information will be duplicated. If you are not a client, please do not fill out this form.
-</thinking>
-
 # Pest Control Cleanup Referral Form - Help Guide
 
 ## Purpose

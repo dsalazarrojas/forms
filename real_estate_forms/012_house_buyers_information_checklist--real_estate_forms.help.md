@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from house buyers, focusing on key characteristics of a property. The form is likely used by real estate agents or property managers to gather data on properties for sale or rent. The fields cover various aspects of a property, including its address, location, and physical characteristics such as size, lot size, and year built. This information is crucial for buyers to make informed decisions and for agents to manage property listings effectively.
-</thinking>
-
 # House Buyers Information Checklist - Help Guide
 ## Purpose
 This form is designed to collect relevant information from house buyers, helping them make informed decisions when purchasing or investing in properties. The fields in this form cover key characteristics of a property, ensuring buyers have the necessary data to make informed decisions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Lead Form - Help Guide
 ## Purpose
 

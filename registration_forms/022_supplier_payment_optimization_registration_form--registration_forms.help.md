@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # supplier_payment_optimization_registration_form - Help Guide
 ## Purpose
 The supplier payment optimization registration form is designed to collect information from suppliers about their payment preferences and terms. This form helps us better understand their needs and optimize payment processes for improved efficiency and accuracy.

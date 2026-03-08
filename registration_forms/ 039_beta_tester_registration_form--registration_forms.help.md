@@ -1,10 +1,3 @@
-<thinking>
-The form is intended for registering beta testers for a product, event, or conference. 
-The form is meant to gather necessary information for registration, which may include personal details such as name and contact information, as well as preferences for event attendance. 
-The purpose of this form is to ensure that the correct beta testers are registered for the event and that all necessary information is collected to facilitate the event's success. 
-The form is not intended to collect redundant information or duplicate efforts. 
-</thinking>
-
 # Beta Tester Registration Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering users to attend the Nursing Program Workshop. This form will be used by the organization to manage workshop attendees. Please note that this form is for workshop registration, not for general contact or inquiry purposes.
-</thinking>
-
 # Nursing Program Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to register users to attend the Nursing Program Workshop. It will help the organization manage workshop attendees and provide necessary information for the event.

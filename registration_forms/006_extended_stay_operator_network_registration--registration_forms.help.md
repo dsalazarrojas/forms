@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering operators in the Extended Stay Operator Network. The purpose of this form is to gather information about the operator's details, property type, and network affiliation. Before proceeding, please ensure you have all the necessary information and that you are the authorized person to register the operator. This form may be filled out by multiple operators, so make sure to check if the operator is already registered in the network to avoid duplication.
-</thinking>
-
 # Extended Stay Operator Network Registration - Help Guide
 ## Purpose
 The Extended Stay Operator Network Registration form is a tool used for registering operators in the network. Operators can register their details, property type, and other relevant information to be part of the network.

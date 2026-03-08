@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Childcare Pediatric Referral Form - Help Guide
 ## Purpose
 This form is designed to capture essential information for pediatric referrals from childcare centers. It helps in identifying concerns, providing detailed descriptions of the issues, and facilitating communication between caregivers and pediatric specialists. By completing this form, childcare centers can effectively refer children to the necessary services and ensure timely and appropriate interventions.

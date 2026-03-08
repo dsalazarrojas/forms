@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather contact information and property details from individuals or organizations looking to inquire about or report on properties. This form helps the office staff to efficiently manage and track such contacts, ensuring a smooth communication process and timely follow-up on inquiries.
-The form is designed to collect information on contact details, property specifics, and other relevant data points such as property type, email, and phone number. The form is not required to be completed, but filling it out will aid the office in providing better support and services to the users.
-This form should only be used for genuine inquiries and not for spamming or other malicious activities.
-</thinking>
-
 # property_inventory_office_contact_form - Help Guide
 ## Purpose
 The property_inventory_office_contact_form is a form designed to collect contact information and property details from individuals or organizations.

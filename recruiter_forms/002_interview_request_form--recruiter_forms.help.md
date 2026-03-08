@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help recruiters and hiring managers gather relevant information from candidates during the interview process. The purpose of this form is to collect candidate information, preferred interview time and date, and other relevant details such as availability and interview type. This form is intended to be completed by candidates as part of the interview process, and is not meant to be used for internal use or sharing with third-party vendors. Please ensure that the form is not duplicated or shared with unauthorized parties, as this may lead to data breaches or other security issues.
-</thinking>
-
 # interview_request_form - Help Guide
 ## Purpose
 The interview_request_form is a tool used to gather information from candidates during the interview process. This form helps recruiters and hiring managers to efficiently gather relevant details about the candidate, such as their preferred interview time and date, availability, and interview type.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is for reserving a meeting with a partner for negotiation purposes. This is an internal form for our team to gather essential information about the meeting. Please ensure that you are completing this form for a specific meeting that has already been agreed upon and not for a general inquiry. If you're unsure about the purpose of the meeting or the meeting's specifics, please reach out to the relevant contacts before filling in this form.
-</thinking>
-
 # Partnership Negotiation Meeting Reservation Form - Help Guide
 
 ## Purpose

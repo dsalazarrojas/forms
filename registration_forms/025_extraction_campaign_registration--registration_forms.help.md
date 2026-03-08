@@ -1,11 +1,3 @@
-<thinking>
-
-To provide a helpful guide for users, let's break down the purpose and requirements for the Extraction Campaign Registration form. This form is designed to gather information from participants, including details about themselves, their preferred dates, and campaign specifics. Before completing the form, please ensure you are registered and have necessary permissions to participate in the campaign.
-
-This form checks for non-duplication to prevent duplicate registrations. If you have already registered for the extraction campaign, you will not be able to register again until you are re-registered or the campaign is updated.
-
-</thinking>
-
 # Extraction Campaign Registration - Help Guide
 ## Purpose
 The Extraction Campaign Registration form is designed to collect participant information, preferred dates, and campaign specifics for an extraction campaign.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tire Repair Service Referral Form - Help Guide
 
 ## Purpose

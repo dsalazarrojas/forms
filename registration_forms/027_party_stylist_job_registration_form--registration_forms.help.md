@@ -1,7 +1,3 @@
-<thinking>
-The Party Stylist Job Registration Form is designed to help potential candidates register for job openings within the industry. This form collects information about the applicant's personal details, work experience, and job preferences. Please ensure you have a clear understanding of your own qualifications and the job requirements before filling out this form.
-</thinking>
-
 # Party Stylist Job Registration Form - Help Guide
 ## Purpose
 The Party Stylist Job Registration Form is designed to gather information from potential candidates interested in job openings within the industry. This form helps us understand your qualifications, experience, and job preferences, making it easier for us to match you with suitable job openings.

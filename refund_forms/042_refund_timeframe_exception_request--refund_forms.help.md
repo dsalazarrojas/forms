@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to request an exception to the timeframe for a refund, likely for customers who have been unable to return a purchase within the originally specified timeframe. This form is meant to be used by customers or customers' representatives to provide additional information or context that would justify a refund outside of the standard refund window. The form may be used in situations where the customer has a valid reason for not returning the product within the timeframe, such as an unexpected event or delay. The form should not be used for frivolous or invalid requests. Customers may be asked to provide details about their purchase and the reason for requesting an exception. To avoid duplication, customers should not submit a new request if they already have an active refund request.
-</thinking>
-
 # Refund Timeframe Exception Request - Help Guide
 ## Purpose
 This form is designed to allow customers to request an exception to the timeframe for a refund. If you're experiencing difficulties returning your purchase within the originally specified timeframe, please use this form to provide additional information or context that would justify a refund outside of the standard window.

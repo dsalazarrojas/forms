@@ -1,6 +1,3 @@
-<thinking>
-The goal of this form is to collect information on property sales outcomes, including transaction types, dates, prices, and other relevant details. This form helps to track and record the success or failure of property sales, which is essential for real estate professionals to make data-driven decisions and improve their sales strategies. By filling out this form, users can provide accurate and consistent data that can be used to analyze and optimize their sales processes. It's crucial to understand that each field is meant to capture specific information, so please make sure to fill out the form accurately and completely.</thinking>
-
 # Property Sale Outcome Report Form - Help Guide
 
 ## Purpose

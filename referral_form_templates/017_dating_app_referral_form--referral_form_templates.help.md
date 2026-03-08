@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect referrals for the dating app, gathering information about the user's relationship with their friends. This form will be used to track and manage referrals in a way that ensures that friends are properly vetted and that the user's experience with the app is positive. To avoid duplicates, we will check if the user has already completed this form, and if so, we will display a success message and allow them to edit it in the future if necessary.</thinking>
-
 # Dating App Referral Form - Help Guide
 ## Purpose
 The Dating App Referral Form is designed to collect information about your relationships with your friends, which will help us improve and enhance your experience with our app.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from hiring managers about their overall satisfaction with the recruitment process. This form is intended for hiring managers to provide their honest opinions on their experiences, which will help in identifying areas of improvement. It is essential to fill out this form carefully and honestly to ensure that your feedback is accurate and meaningful.
-</thinking>
-
 # Hiring Manager Satisfaction Survey - Help Guide
 ## Purpose
 The Hiring Manager Satisfaction Survey is designed to gauge the satisfaction level of hiring managers with the recruitment process. It helps us understand your experiences, strengths, and areas for improvement, which we will use to refine our processes and better serve you.

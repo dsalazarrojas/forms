@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for buyer agents to submit offers for real estate listings. This form is used to gather essential details from buyer agents to facilitate the processing and review of their offers.
-
-To ensure that you are submitting the correct information, please review the form carefully and ensure that you have filled out all required fields. Note that some fields may be optional but it is recommended to fill them out for a complete submission.
-
-Before proceeding, please make sure that you are not duplicating an existing submission for the same listing. This can be done by reviewing the submission status of your previous offers for the same listing.
-
-</thinking>
-
 # offer-submission-form-for-buyer-agents - Help Guide
 ## Purpose
 The form is used to collect information from buyer agents to submit offers for real estate listings.

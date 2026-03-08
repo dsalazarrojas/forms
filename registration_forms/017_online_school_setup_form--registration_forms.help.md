@@ -1,8 +1,3 @@
-<thinking>
-This form is used for setting up an online school, and it is intended for school administrators to provide essential information about their institution. Please note that this form is a critical part of our system, and it is essential to fill it out correctly to ensure accuracy and consistency in our records. Before proceeding, make sure to check if you have already filled out this form to avoid duplication of information.
-
-</thinking>
-
 # Online School Setup Form - Help Guide
 
 ## Purpose

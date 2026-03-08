@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to facilitate the process of recording and tracking deliveries, ensuring accurate and up-to-date information is captured for each delivery. This form should only be used for deliveries that are being checked in, not for deliveries that have already been checked in or are not applicable.
-
-Before filling out this form, ensure that you have already checked in your delivery and that it is an active delivery. If it's a new delivery or an old delivery that hasn't been checked in, please use the correct form for that scenario.
-
-Also, be aware that the delivery status field is marked as required, ensuring that you provide an accurate update for the delivery status.</thinking>
-
 # Delivery Check In Form - Help Guide
 ## Purpose
 The Delivery Check In Form is used to record and track deliveries, allowing for accurate and up-to-date information to be captured for each delivery. It is recommended to use this form for active and checked-in deliveries only.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a staff member's reference. The form is intended to be used by a student to request a reference from a staff member for a specific reason, such as a job or internship opportunity. Before filling out this form, please ensure you have the staff member's consent and that the request is not a duplicate. This form has four fields: staff_member, relationship, department, and start_date. Please complete each field carefully.
-</thinking>
-
 # Student Staff Reference Request Form - Help Guide
 ## Purpose
 This form is used to request a staff member's reference for a specific reason, such as a job or internship opportunity.

@@ -1,10 +1,3 @@
-<thinking>
-To create this form, I assume that the purpose of this form is to collect essential information about a real estate investor's identity and professional credentials, including their name, job title, contact information, and personal bio. This form is likely used in a business or commercial context, such as for networking or marketing purposes.
-
-The following form has 10 fields, but none of them are required, which suggests that the form is more about gathering optional information rather than enforcing strict data compliance. The fields appear to be a mix of simple text input fields and a note field for a personal bio. I will create a help guide that explains each field in a concise and practical way, without assuming any unsupported business logic.
-
-</thinking>
-
 # Real Estate Investor Biography Form - Help Guide
 ## Purpose
 

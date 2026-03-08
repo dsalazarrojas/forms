@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect detailed information about a college basketball player's profile, including contact details, academic and athletic background, and other relevant attributes. This form will help us gather comprehensive data for recruitment purposes. Before you begin, please make sure you're not filling this form for a player who has already been recruited or has an existing application. This will help us avoid duplication of effort and maintain an up-to-date player database.
-</thinking>
-
 # College Basketball Recruiting Form - Help Guide
 ## Purpose
 The College Basketball Recruiting Form is designed to collect comprehensive information about a college basketball player's profile, contact details, academic and athletic background, and other relevant attributes. This form helps us gather detailed data for recruitment purposes.

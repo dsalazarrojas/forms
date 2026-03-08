@@ -1,18 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Childcare Educational Tutor Referral Form, which is used to refer a child for educational tutoring services. The form is intended to collect information about the child's needs, academic strengths and challenges, and preferences for tutoring, as well as the parent or guardian's contact information and consent for tutoring. This guide will walk the user through each field of the form, explaining its purpose and requirements.
-
-Before starting the form, please review the fields carefully to ensure that you have all the necessary information. If you have any questions or concerns, please reach out to us for assistance.
-
-This form is intended for parents or guardians who are referring their child for educational tutoring services. If you are a tutor or educator, please do not use this form. Instead, please contact us to inquire about available tutoring opportunities for the child referred.
-
-Also, please note that the form is meant to be completed in a way that ensures the child's best interests are represented. If you have any concerns or questions about the form or the referral process, please don't hesitate to reach out to us.
-
-We appreciate your time and effort in completing this form accurately and thoroughly. If you need assistance or clarification on any field, please don't hesitate to reach out to us.
-
-Before proceeding, please note that some fields are optional, but are still required for the form to be considered complete and accurate. Please ensure that you answer all required fields before submitting the form.
-
-</thinking>
-
 # Childcare Educational Tutor Referral Form - Help Guide
 ## Purpose
 The Childcare Educational Tutor Referral Form is a tool used to refer a child for educational tutoring services. This form collects information about the child's needs, academic strengths and challenges, and preferences for tutoring, as well as the parent or guardian's contact information and consent for tutoring.

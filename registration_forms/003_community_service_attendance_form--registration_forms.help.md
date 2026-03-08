@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who have attended a community service event. The form's purpose is to gather essential details about the attendees, including their registration status, event details, and feedback. This form is likely used by event organizers or administrators to track attendee information and gauge the success of the event. The form may also be used to identify areas where the event could be improved. To ensure that the form is not duplicated or submitted incorrectly, it's recommended to fill it out carefully and attentively.
-</thinking>
-
 # Community Service Attendance Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who have attended a community service event. It helps event organizers track attendance, gather feedback, and evaluate the success of the event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for online interviews, such as screening or assessment interviews, where the recruiter or assessor needs to gather information from the candidate. This form helps to standardize the questions and answers, making it easier to evaluate and compare candidates. It's designed to be used by recruiters or assessors, and its purpose is to collect specific information about the candidate, such as their name, contact details, and other relevant data. Please ensure that you are not creating duplicate records, and use this form for new candidates only.
-</thinking>
-
 # online-interview-questionnaire-form - Help Guide
 ## Purpose
 This form is used for online interviews, such as screening or assessment interviews, where the recruiter or assessor needs to gather information from the candidate.

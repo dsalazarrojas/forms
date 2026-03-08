@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Baby Wishes Collection - Help Guide
 ## Purpose
 The Baby Wishes Collection form is designed to collect messages and wishes for a baby's milestone events, such as birthdays, baptisms, or other special occasions. This form allows well-wishers to share their thoughts, congratulations, and love with the baby's family, and also gives them the option to choose how their message will be published.

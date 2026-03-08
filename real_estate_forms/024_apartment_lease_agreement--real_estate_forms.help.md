@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this is a form for creating an apartment lease agreement, which is a legal document that outlines the terms and conditions of a rental property. This form will collect information from both the landlord and the tenant to establish the lease terms, including lease dates, rent amount, payment terms, and other essential details. The goal is to create a comprehensive guide for users to fill out the form accurately and ensure a smooth leasing process.
-</thinking>
-
 # Apartment Lease Agreement - Help Guide
 ## Purpose
 This form is used to create a comprehensive lease agreement between a landlord and a tenant for an apartment rental property. It captures essential details such as lease dates, rent amount, payment terms, and other conditions to ensure a smooth and legal leasing process.

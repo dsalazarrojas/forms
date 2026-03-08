@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information related to the termination of a residential lease, specifically the move-out date, reason for termination, notice period, and outstanding rent and utility balances. This form aims to ensure a smooth transition for both the landlord and tenant by providing a clear and concise way to document the lease termination process. This form should not be used for other purposes, such as creating new leases or managing ongoing lease terms.
-</thinking>
-
 # Residential Lease Termination Offboarding Form - Help Guide
 ## Purpose
 This form is used to document the termination of a residential lease, including details such as move-out date, reason for termination, and outstanding balances.

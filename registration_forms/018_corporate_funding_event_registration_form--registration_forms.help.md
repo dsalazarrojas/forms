@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the purpose of this form is clear to the end user. This form is used for registration of corporate funding events, which might be conferences, meetings, or other types of events organized by companies. To avoid duplication, we should check if the user has already registered for the same event. If they have, they won't be able to register again. This form will be used by both event organizers and attendees to provide essential information about the event.</thinking>
-
 # Corporate Funding Event Registration Form - Help Guide
 ## Purpose
 The Corporate Funding Event Registration Form is a tool used for registering and organizing corporate funding events such as conferences, meetings, or any other type of corporate event.

@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "landlord_information_form", we must first understand the purpose of this form. It appears to be a comprehensive form for collecting information about a landlord's property and lease details. The form has 25 fields, which can be divided into several sections, such as landlord contact information, property details, and lease details. This form might be used in a property management or rental agency context.
-
-Upon reviewing the form fields, we can see that it includes fields for contact information (landlord name, contact number, email address), property details (property address, property type, property size, property bedrooms and bathrooms), lease details (lease duration, rent amount, rent period), move-in and move-out information (move-in date, move-in time, move-out date, move-out time), and additional property types. This form is likely used to gather essential information from landlords to manage properties and leases.
-
-To avoid duplication of information, it's essential to check if the form is being used for a new property or to update an existing one. This could involve creating conditional logic based on the form's purpose.
-
-</thinking>
-
 # landlord_information_form - Help Guide
 ## Purpose
 The landlord_information_form is a comprehensive form used to collect information about a landlord's property and lease details.

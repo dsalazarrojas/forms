@@ -1,10 +1,3 @@
-<thinking>
-This is a form for workshop enrollment. The purpose of this form is to gather information from customers or users who want to enroll in a workshop. The form should be completed by users who are interested in attending the workshop and want to provide their contact information and enroll in the workshop of their choice.
-
-To prevent duplication, this form should only be used for users who have not already enrolled in the workshop. If a user has already enrolled in the workshop, they can only enroll in other workshops.
-
-</thinking>
-
 # dropshipping_workshop_enrollment_form - Help Guide
 ## Purpose
 The dropshipping_workshop_enrollment_form is a form used to gather information from customers or users who want to enroll in a workshop.

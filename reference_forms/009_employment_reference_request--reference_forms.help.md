@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect employment references from applicants or employees. It is used to gather information about an individual's previous work experience, their employer, and their current or previous positions. This form helps to verify an individual's work history and ensure they are honest about their employment status. It is typically used in HR or administrative tasks.
-
-To complete this form, users must fill out all required fields, which are marked as "required" in the form. The form is divided into several sections, and each section is designed to capture specific information about the employee's employment history.
-
-</thinking>
-
 # Employment Reference Request - Help Guide
 ## Purpose
 The purpose of this form is to collect employment references from applicants or employees to verify their work history and experience.

@@ -1,11 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for this Emergency Preparations Documentary Consent Form. The form seems to be designed for collecting participant information, consent, and other relevant details for emergency preparations. It's essential to ensure that the form is clear, concise, and easy to understand for end-users, especially those who might not be familiar with the process.
-
-To create a user-friendly help guide, I will carefully analyze the form's structure, fields, and options, and provide explanations for each field in a way that addresses the user's needs. This guide will cover the form's purpose, how to complete it, and a detailed explanation of each field.
-
-After reviewing the form's YAML, I notice that it contains fields for participant details, consent, media contact, and additional information. The participant's consent is crucial in this form, and each field seems to be designed to collect specific aspects of consent. The form might be used in a clinical trial or research context, where participants need to grant specific permissions for video, audio, and photo recording.
-
-To avoid duplication and ensure relevance, I will ensure that each field explanation is unique and addresses a distinct aspect of the participant's consent or details.</thinking>
-
 # Emergency Preparations Documentary Consent Form - Help Guide
 ## Purpose
 This form is designed to collect participant information, consent, and other relevant details for emergency preparations. It's essential to fill out this form accurately and honestly to ensure that your participation is recorded correctly.

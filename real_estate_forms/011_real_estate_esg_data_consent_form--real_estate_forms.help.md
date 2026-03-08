@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information related to Environmental, Social, and Governance (ESG) data. The purpose of this form is to obtain consent and collect relevant information from users about how they use and share ESG data. The form is intended to be completed by individuals who are responsible for managing ESG data and are being asked to provide consent for its use and sharing. This form should only be used by authorized personnel and not for general public use.
-</thinking>
-
 # real_estate_esg_data_consent_form - Help Guide
 ## Purpose
 This form is for obtaining consent and collecting information about the use and sharing of Environmental, Social, and Governance (ESG) data. It is intended for authorized personnel who are responsible for managing this data.

@@ -1,6 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form used to collect referrals for printing graphic designers. This form is meant to gather information about the design team's recommendations, team name, designer's name, contact email, phone number, team lead's status, and project status. We should ensure that the form is completed accurately and efficiently. Before using this form, please check that you are not duplicating an existing referral. If you are unsure, contact [insert contact information].</thinking>
-
 # Printing Graphic Designer Referral Form - Help Guide
 ## Purpose
 This form is used to collect referrals for printing graphic designers. It helps us gather essential information about the design team's recommendations, team name, and other relevant details. Please fill out this form to refer a printing graphic designer.

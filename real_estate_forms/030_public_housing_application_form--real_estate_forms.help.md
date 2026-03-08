@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Housing Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who are interested in applying for public housing. The purpose of this form is to gather essential details about the applicant's household, employment, and emergency contact information. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI.

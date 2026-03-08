@@ -1,10 +1,3 @@
-<thinking>
-A form that is used to track the information of guests who will be staying in a vacation home. This form is likely used by property owners or managers to collect relevant details about the guests and their stay. The form is likely used to ensure that guests pay for their stay and leave feedback about their experience.
-
-Before completing this form, ensure that you have all the necessary information about the guest and their stay. This form is not for duplicate entries, so you will only need to complete it once for each guest. If you are unsure about any information, please ask the property owner or manager for clarification.
-
-</thinking>
-
 # Vacation Home Guest Check Out Form - Help Guide
 ## Purpose
 

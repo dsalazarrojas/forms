@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to consider the following factors:
-The form is designed for enrolling students in the Performing Arts School. It's likely used by parents or guardians to provide information about their child's enrollment.
-We don't have any information about the specific rules or constraints for this form, so let's assume that it's intended for students who are new to the school.
-</thinking>
-
 # Performing Arts School Enrollment Form - Help Guide
 ## Purpose
 This form is used to enroll students in the Performing Arts School. Please provide the required information to complete the student's registration process.

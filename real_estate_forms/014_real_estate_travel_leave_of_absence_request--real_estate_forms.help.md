@@ -1,13 +1,3 @@
-<thinking>
-We need to ensure that this form serves its purpose without duplication or redundancy. This form appears to be designed for a Real Estate organization to collect information about employee travel leave of absence requests, including personal details, travel dates, and approvals status. To confirm, this form will be used by the real estate team to manage travel requests for employees and ensure that all necessary approvals are obtained. It's crucial that the form is completed accurately and thoroughly to avoid any confusion or delays in the approval process.
-
-To prevent duplication, we will review the form regularly to ensure that all fields are up-to-date and that all required fields are completed accurately. We will also communicate with the team to avoid sending duplicate requests or requests with outdated information.
-
-This form will be used to gather information about employee travel requests, so it's essential that it's completed correctly. Any errors or missing information may lead to delays or rejections of the requests. Let's focus on making this form user-friendly and efficient.
-
-This form will be reviewed and updated as needed to reflect any changes in the approval process or travel policies.
-</thinking>
-
 # Real Estate Travel Leave Of Absence Request - Help Guide
 ## Purpose
 The Real Estate Travel Leave Of Absence Request form is designed to collect information about employee travel leave of absence requests, including personal details, travel dates, and approvals status.

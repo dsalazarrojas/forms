@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Data Privacy Opinion Survey - Help Guide
 
 ## Purpose

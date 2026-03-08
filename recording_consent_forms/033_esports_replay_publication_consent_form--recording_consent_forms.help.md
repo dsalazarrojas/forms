@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect consent from participants to publish their esports replays. It is intended to be filled out by participants themselves, and is used to ensure that they are aware of and agree to the publication of their replays. Please ensure that this form is being used in the context of esports replay publication and not for any other purpose. 
-</thinking>
-
 # esports_replay_publication_consent_form - Help Guide
 ## Purpose
 The esports replay publication consent form is a critical component of our recording process. It is used to collect informed consent from participants to publish their esports replays, ensuring that their identities, replays, and other sensitive information are handled properly and in compliance with relevant laws and regulations.

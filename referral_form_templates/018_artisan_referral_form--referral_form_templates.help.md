@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for referrals for artisans, individuals who create handmade crafts such as jewelry, textiles, pottery, and more. The form is intended for referrers to provide detailed information about the artisan they are referring, including their contact information, relationship to the artisan, and the nature of the referral. This form will help the artisanship organization understand who is referring the artisans, why they are being referred, and what kind of opportunities are being referred for. 
-
-To the best of my knowledge, this form does not duplicate existing processes or forms, and it's designed to be a comprehensive and detailed collection of information. However, please note that the actual use and implementation of this form may require further review and refinement to ensure it meets the organization's specific needs and policies.
-
-Please review the form carefully and ensure that it aligns with the organization's goals and objectives.
-
-</thinking>
-
 # Artisan Referral Form - Help Guide
 ## Purpose
 

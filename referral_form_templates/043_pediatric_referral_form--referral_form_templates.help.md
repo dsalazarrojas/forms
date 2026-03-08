@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for pediatric referrals. Pediatric referrals are used to gather data about patients' medical and family history. This form will help healthcare professionals quickly gather necessary information to make informed decisions about patient care. Please note that this form is not intended to be a comprehensive medical history form but rather a brief and focused one to aid healthcare providers in making initial assessments.
-</thinking>
-
 # pediatric_referral_form - Help Guide
 ## Purpose
 The pediatric referral form is used to collect basic information about a patient's medical and family background for pediatric referrals.

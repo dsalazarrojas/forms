@@ -1,13 +1,3 @@
-<thinking>
-This form is for collecting digital identity information from clients who are applying for real estate services. It is designed to gather essential details about the client's contact information, identification, property details, employment status, income verification, tax return, education background, professional certifications, and employment history. It is crucial to ensure that all fields are filled accurately to avoid any errors or discrepancies in the application process.
-
-Before proceeding, please review the form carefully to ensure you are filling it out correctly. If you have any doubts or concerns, do not hesitate to reach out to the support team.
-
-This form is part of a larger process, and filling it out correctly will ensure that your application is processed efficiently. Please fill out the form in its entirety and double-check your information for accuracy.
-
-To avoid duplication of efforts, please do not submit this form if you have already filled out a similar form in the past.
-</thinking>
-
 # Real Estate Digital Identity Application Form - Help Guide
 ## Purpose
 This form is for collecting digital identity information from clients who are applying for real estate services.

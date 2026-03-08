@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create the user-facing help guide for the "online_training_access_request_form", let's start by explaining the purpose and requirements of the form. This form is used to request access to online training resources for the organization. The form will help users to provide necessary information about themselves and their training needs, ensuring they receive the correct access. It's essential to complete this form accurately to avoid duplication and ensure the right training resources are provided. If a user has already requested access to online training resources, they should not fill out this form.
 
 # online_training_access_request_form - Help Guide

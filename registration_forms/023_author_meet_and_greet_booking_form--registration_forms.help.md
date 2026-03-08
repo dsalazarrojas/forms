@@ -1,10 +1,3 @@
-<thinking>
-This form is for users to book a meeting with an author, and to provide information about the author they are interested in. This form will help us understand who is attending, their preferences, and any special needs. It will also help us manage the event and ensure a smooth and enjoyable experience for all attendees. 
-
-Please note that this form is designed to be completed by the user who is booking the meeting, not by the author themselves. Also, please review and complete the form carefully, ensuring you are selecting the correct options that match your needs.
-
-</thinking>
-
 # Author Meet And Greet Booking Form - Help Guide
 ## Purpose
 This form is designed for users to book a meeting with an author and provide necessary information to facilitate a smooth and enjoyable experience.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from job applicants for potential hiring opportunities. It is designed to be used in conjunction with other internal processes and systems to streamline the hiring process. 
-This form should only be used for legitimate job applications and not for other purposes such as event registration, surveys, or marketing campaigns. 
-Please ensure that the form is used correctly to avoid confusion and ensure accurate data collection. 
-</thinking>
-
 # online_job_application_form - Help Guide
 ## Purpose
 The online job application form is a tool used to collect information from individuals interested in potential hiring opportunities.

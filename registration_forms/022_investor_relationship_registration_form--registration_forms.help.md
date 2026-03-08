@@ -1,7 +1,3 @@
-<thinking>Before we dive into the help guide, let's break down the form's purpose and relevance. The "Investor Relationship Registration Form" is a crucial document for capturing essential information about investors, such as their name, email, country, and contact details. It appears to be used for internal processes, like data collection and organization. To avoid duplication, we'll make sure to check if the user has already submitted this form before proceeding, based on their unique identifier (e.g., email) and other relevant data.
-
-Now, let's present the help guide for the form:</thinking>
-
 # investor_relationship_registration_form - Help Guide
 ## Purpose
 The "Investor Relationship Registration Form" is a document used for collecting and organizing information about investors. This form is crucial for internal data collection and processing purposes.

@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gather property-related information from users, likely for a real estate application or similar purpose. The form is designed to collect various details about a property, including its type, location, price range, size, and more. The fields include select options, text inputs, and multiple select options, indicating a range of data types and complexities. The form is likely used for data collection, analysis, or decision-making related to properties. It's essential to review the form to ensure it aligns with the intended purpose and target audience.
-</thinking>
-
 # Property Finder - Help Guide
 ## Purpose
 This form is designed to collect information about properties for real estate-related applications or data collection.

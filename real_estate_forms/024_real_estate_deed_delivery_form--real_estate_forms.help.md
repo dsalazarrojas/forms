@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Deed Delivery Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to register for a virtual course. It is a self-explanatory form meant to collect information about the user's preferences and details for the course they wish to register for. The fields in this form are designed to gather relevant information for course enrollment purposes. To avoid any confusion, please ensure that you have not registered for this course before, as this form is meant for new registrations only. Please fill out the form accurately and thoroughly, as this information will be used to process your course registration.
-</thinking>
-
 # Virtual Course Registration Form - Help Guide
 
 ## Purpose

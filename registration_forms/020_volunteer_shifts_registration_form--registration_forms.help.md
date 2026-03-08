@@ -1,7 +1,3 @@
-<thinking>
-This form is used for volunteers to register for shifts. It is meant for volunteers who are available to work during specific events. The form will ask for volunteer name, email, phone number, event date and time, shift start and end times, and event duration. The user can indicate their availability status for a shift and submit their entry.
-</thinking>
-
 # Volunteer Shifts Registration Form - Help Guide
 ## Purpose
 The Volunteer Shifts Registration Form is used to register for shifts during events. This form is for volunteers to provide their contact information and availability status for specific events.

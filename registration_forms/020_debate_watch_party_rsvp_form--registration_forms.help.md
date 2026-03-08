@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a watch party for the debate, where attendees can RSVP and register to join the event. This is likely to be part of a larger event management system or platform. This form should only be filled out if you are intending to join the watch party and provide accurate contact information.
-</thinking>
-
 # Debate Watch Party RSVP Form - Help Guide
 ## Purpose
 This form is used to register and RSVP for a watch party related to the debate event.

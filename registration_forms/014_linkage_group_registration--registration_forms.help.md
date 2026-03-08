@@ -1,7 +1,3 @@
-<thinking>
-The form "Linkage Group Registration" is designed for users to register their groups with the required information. The purpose of this form is to collect data on groups, including their type, location, and members' contact information. Before proceeding, please ensure you have not already registered your group in the past.
-</thinking>
-
 # Linkage Group Registration - Help Guide
 ## Purpose
 This form is used to register your group with us. Please fill out the form with accurate and up-to-date information about your group.

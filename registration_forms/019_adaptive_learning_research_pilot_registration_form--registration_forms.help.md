@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from potential participants for an Adaptive Learning Research Pilot. The purpose of this form is to capture demographic information, role, years of experience, technology usage, consent, time commitment, and any accessibility requirements for participating in the pilot. This form will help the research team to understand who is participating, what they are comfortable with, and what they are able to commit to the study. This form will not be shared publicly and is only intended for internal use by the research team.
-
-</thinking>
-
 # Adaptive Learning Research Pilot Registration Form - Help Guide
 ## Purpose
 This form is designed to capture participant information for the Adaptive Learning Research Pilot. It will be used by the research team to understand who is participating, what they are comfortable with, and what they are able to commit to the study.

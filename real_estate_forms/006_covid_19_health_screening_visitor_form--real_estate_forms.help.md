@@ -1,9 +1,3 @@
-<thinking>
-This form was generated using AI to create an original adaptation of a public survey on real estate topics, specifically for Covid-19 health screening purposes. It aims to collect essential information from visitors in a structured and standardized way, ensuring that all required and optional fields are clearly defined for easy completion.
-
-Given that the form has multiple fields and pages, ensure to read each field's explanation carefully to avoid misunderstandings.
-</thinking>
-
 # Covid 19 Health Screening Visitor Form - Help Guide
 ## Purpose
 

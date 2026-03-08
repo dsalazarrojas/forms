@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or groups interested in joining the Bold Leaders Community. The purpose of this form is to gather essential details that will be used to assess eligibility and provide access to the community's resources. The form is divided into several sections, each with its own set of relevant fields. It is crucial to provide accurate and thorough information in each field to ensure a smooth onboarding process.
-
-This form is a one-time submission form, and users will only be able to submit it once. It is essential to review and submit the form carefully to avoid any mistakes or errors. If you are unsure about any field or have any questions, please don't hesitate to contact us.
-
-Please note that some fields are marked as required, which means that they must be filled out in order to submit the form. If a field is marked as optional, you can choose not to fill it out, but keep in mind that missing information might affect the processing of your application.
-
-Before you start filling out the form, please make sure that you have all the necessary information required for each field. If you need any help or clarification about a specific field, please don't hesitate to ask.
-</thinking>
-
 # Join The Bold Leaders Community - Help Guide
 ## Purpose
 

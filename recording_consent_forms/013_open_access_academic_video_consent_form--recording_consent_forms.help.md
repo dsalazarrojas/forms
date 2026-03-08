@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Open Access Academic Video Consent Form - Help Guide
 
 ## Purpose

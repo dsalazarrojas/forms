@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register a program in the Safety Benchmark Review Program. The form is used to collect information from the user about the program, which is then used to create a review schedule and facilitate the review process. To ensure accuracy and avoid duplication, the form should only be filled out once for each program. If a program has already been registered, the user will be notified and asked to try again.
-</thinking>
-
 # Safety Benchmark Review Program Registration - Help Guide
 ## Purpose
 The Safety Benchmark Review Program Registration form is used to collect information about your program, which will be used to create a review schedule and facilitate the review process. This includes collecting details about your program name, program ID, preferred dates and times, goals, and email.

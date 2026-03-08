@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for individuals who wish to participate in the HBCU Initiative. It's a registration form that collects necessary information from participants. Before proceeding, please ensure that you are registering as a new participant. If you have already registered, please do not fill out this form. This will help prevent duplicate registrations and ensure accurate participant data. Please note that all fields are optional, but filling them out will provide a more comprehensive understanding of your participation in the HBCU Initiative.</thinking>
-
 # HBCU Initiative Registration Form - Help Guide
 ## Purpose
 The HBCU Initiative Registration Form is a collection of fields designed to gather information from participants. This form is used to register new participants for the HBCU Initiative.

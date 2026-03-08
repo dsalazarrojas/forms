@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registration for the urban design contest. It is expected that the form will be filled out by individuals interested in participating in the contest. There should be no duplication of entries by the same person. If an attempt to fill out the form is made by a duplicate entry, an error message will be displayed indicating that the entry already exists in the system.
-</thinking>
-
 # urban_design_contest_registration_form - Help Guide
 ## Purpose
 This form is used for registration in the urban design contest. It gathers essential information from participants to facilitate the contest process.

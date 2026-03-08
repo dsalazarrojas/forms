@@ -1,21 +1,3 @@
-<thinking>
-The Tenant Feedback Form is used to collect feedback from tenants regarding the condition and maintenance of rental properties. This form helps the property management team to understand the concerns and needs of tenants, allowing for timely and effective resolution of issues. It is essential to complete this form accurately and thoroughly to ensure that the feedback is useful for the property management team to make informed decisions.
-
-This form should only be used to report issues that are directly related to the rental property. If you have any general concerns or questions, please contact the property management office directly.
-
-When completing this form, please ensure that you are providing accurate and clear information. If you are unsure about any of the fields, please refer to this help guide for guidance.
-
-Before starting to complete this form, please make sure you have all the necessary information and materials ready, such as your name and email address.
-
-When selecting the feedback type, please choose the most relevant category from the options provided. The options are:
-
-* General: Any general comments or suggestions about the property.
-* Maintenance: Issues related to the maintenance or repairs of the property.
-* Repair: Urgent repairs or issues that need immediate attention.
-
-You can add any additional information about your feedback in the text field provided.
-</thinking>
-
 # Tenant Feedback Form - Help Guide
 ## Purpose
 The Tenant Feedback Form is used to collect feedback from tenants about the condition and maintenance of rental properties.

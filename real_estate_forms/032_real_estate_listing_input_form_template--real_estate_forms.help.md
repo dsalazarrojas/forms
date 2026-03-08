@@ -1,11 +1,3 @@
-<thinking>
-
-To help prevent duplication and ensure accuracy, we should verify that the purpose of this form is to collect essential information for real estate listings, specifically for agents or property managers to input details about a property, including its address, features, and status. This form should be used by authorized agents or property managers to update or create new listings.
-
-We will now create a user-facing help guide for the "real_estate_listing_input_form_template" form.
-
-</thinking>
-
 # real_estate_listing_input_form_template - Help Guide
 ## Purpose
 This form is used to collect and update information about a real estate listing, including its address, features, and status. Authorized agents or property managers can use this form to add or modify listings.

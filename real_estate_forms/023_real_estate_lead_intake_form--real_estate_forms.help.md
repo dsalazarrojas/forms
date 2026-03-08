@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I will follow the provided instructions and output a Markdown-formatted guide. This form seems to be designed to collect information about real estate leads, and the fields provided suggest it's used to manage and track leads.
-
-</thinking>
-
 # Real Estate Lead Intake Form - Help Guide
 
 ## Purpose

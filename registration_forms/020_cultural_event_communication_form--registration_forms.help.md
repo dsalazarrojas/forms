@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering cultural events. It is intended for organizers and participants of such events to communicate with each other. This form helps in maintaining a record of events, and their respective participants. It is not meant to be filled up repeatedly for the same event, hence it's essential that the form is filled up correctly and completely.
-</thinking>
-
 # Cultural Event Communication Form - Help Guide
 ## Purpose
 The Cultural Event Communication Form is a tool for event organizers and participants to share information about cultural events. It is used to record the event's details, including the event name, date, time, participant's name, and any additional comments.

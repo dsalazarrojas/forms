@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about property lifecycle analytics applications. The purpose of this form is to gather data that will help users understand how properties are being used or managed throughout their lifecycle. This form is not a transactional form, but rather a data collection tool for analytics and reporting. The user is required to answer a series of questions about the property in question, including contact information and property details. 
-</thinking>
-
 # Property Lifecycle Analytics Application Form - Help Guide
 ## Purpose
 This form is used to collect data about property lifecycle analytics applications. It will help you understand how properties are being used or managed throughout their lifecycle.

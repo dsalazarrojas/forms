@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for the Expense Fraud Detection Workshop registration. The purpose is to gather attendee data for workshop management and follow up. Ensure that you complete all required fields and review the form carefully before submitting. Note that the form is not a substitute for actual attendance or payment, but rather a supplementary form for workshop organizers to get a headcount and track attendee preferences.
-</thinking>
-
 # Expense Fraud Detection Workshop Registration - Help Guide
 ## Purpose
 The Expense Fraud Detection Workshop Registration form is a supplementary form used by workshop organizers to collect attendee information for workshop management and follow-up.

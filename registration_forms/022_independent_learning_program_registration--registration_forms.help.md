@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering independent learning programs, which are programs or courses not offered by the institution but instead are taken on an individual's own initiative. This form is used to gather information about participants in these programs, including their personal details, program specifics, and any other relevant information. The purpose of this form is to ensure accurate and consistent data collection, making it easier to manage and track independent learning programs. Before filling out this form, check if you have any other relevant information or forms related to the same subject that you may need to consider or combine your answers with. Ensure that you're filling out the correct form and not duplicating your efforts.
-</thinking>
-
 # Independent Learning Program Registration - Help Guide
 ## Purpose
 This form is used for registering independent learning programs, which are programs or courses not offered by the institution but instead are taken on an individual's own initiative.

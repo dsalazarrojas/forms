@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll review the form's purpose and fields to ensure I understand its requirements. This form is for obtaining consent from users to record their training simulations in a healthcare setting. The form appears to be designed to collect user information, course information, and preferences regarding recording methods. I'll use this understanding to create a clear and concise help guide.</thinking>
-
 # Healthcare Training Simulation Recording Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from users to record their healthcare training simulations. The form gathers user information and preferences regarding recording methods to ensure that users are aware of how their simulations will be recorded and stored.

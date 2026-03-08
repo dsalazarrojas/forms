@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information for the Health Literacy Innovation Forum. This form helps the organizers to efficiently manage and track registrations, making it easier to plan and prepare for the event.
-To ensure accuracy and reduce errors, please make sure to fill out the form carefully and correctly. If you have any doubts or questions, feel free to reach out to the organizers directly.
-The form consists of various fields that require information about the attendee, their preferences, and their registration details. Each field is designed to gather specific information that will help the organizers provide the best possible experience for the attendees.
-Before starting, take a moment to review the fields and their corresponding labels. This will help you fill out the form accurately and efficiently.
-</thinking>
-
 # Health Literacy Innovation Forum Registration - Help Guide
 ## Purpose
 The Health Literacy Innovation Forum registration form is designed to gather essential information from attendees to facilitate planning and organization of the event. Please take a few minutes to fill out the form carefully and accurately.

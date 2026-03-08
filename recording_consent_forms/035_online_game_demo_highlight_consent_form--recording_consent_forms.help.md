@@ -1,7 +1,3 @@
-<thinking>
-We are generating a help guide for a form designed to capture information from players who participate in online game demos. The purpose of this form is to obtain consent and gather specific details from players to showcase their demos online. The form is used to collect data that is relevant to the player's experience and preferences. It is essential to ensure that the player's data is accurate and up-to-date.
-</thinking>
-
 # Online Game Demo Highlight Consent Form - Help Guide
 
 ## Purpose

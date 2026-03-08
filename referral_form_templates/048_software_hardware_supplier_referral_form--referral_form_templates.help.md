@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about software and hardware suppliers. It is meant to be used by individuals who want to refer a supplier to the organization. The form has multiple pages and fields that gather contact information, referral details, and other relevant data about the supplier. It is essential to complete this form carefully and accurately to ensure that the information is conveyed to the organization effectively.
-</thinking>
-
 # Software Hardware Supplier Referral Form - Help Guide
 ## Purpose
 This form is used to gather information about software and hardware suppliers, which can be used for referrals to the organization.

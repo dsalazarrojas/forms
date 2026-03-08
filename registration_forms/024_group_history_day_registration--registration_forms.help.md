@@ -1,13 +1,3 @@
-<thinking>
-
-To create a helpful and user-friendly guide for the "Group History Day Registration" form, I will first clarify the purpose and requirements of the form.
-
-The "Group History Day Registration" form is likely used to gather information from group members or organizers about their sessions, meetings, or events. This form might be used for tracking and documenting the history of a group's activities, meetings, or gatherings. The form's purpose is to collect relevant details about each session, including session details, organizers, special requirements, and other important information.
-
-To avoid duplication of effort, users should only fill out this form if they are indeed responsible for organizing or participating in a session, meeting, or event.
-
-</thinking>
-
 # Group History Day Registration - Help Guide
 ## Purpose
 This form is used to register and document group sessions, meetings, or events. It helps gather important information about each session, including session details, organizers, and other key points.

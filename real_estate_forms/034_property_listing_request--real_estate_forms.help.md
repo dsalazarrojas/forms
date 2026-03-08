@@ -1,8 +1,3 @@
-<thinking>
-To determine whether this form should be displayed, we will first check that the user is a real estate agent or a customer. This form is intended to be used by authorized parties to submit a property listing request. It should not be completed by anyone else. This form will not be displayed if the user has already submitted a property listing request within the past 24 hours. The form will guide the user through a series of fields that will help us understand the property details and their contact information. The goal of this form is to ensure we have all necessary information to create a complete and accurate property listing.
-
-</thinking>
-
 # Property Listing Request - Help Guide
 ## Purpose
 The Property Listing Request form is designed for real estate agents and customers to submit property listings. It is meant to be used to collect detailed information about the properties and contact details of the submitter.

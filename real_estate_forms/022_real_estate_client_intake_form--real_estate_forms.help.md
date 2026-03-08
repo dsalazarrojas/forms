@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_estate_client_intake_form - Help Guide
 ## Purpose
 This form is used to collect client information for real estate purposes, such as client intakes. It's essential to fill out this form accurately to ensure that your client data is up-to-date and secure.

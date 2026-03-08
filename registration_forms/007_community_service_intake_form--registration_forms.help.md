@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals interested in volunteering for community service opportunities. The primary purpose of this form is to gather personal details, skills, and availability to match the volunteer with suitable roles and schedules. This form is intended for individuals who want to offer their services, whether they are students, professionals, or community members looking to contribute to social causes. The form is not designed for business use or commercial purposes. It is recommended that users review the form carefully and answer all required fields to ensure accurate matching.
-</thinking>
-
 # Community Service Intake Form - Help Guide
 ## Purpose
 The Community Service Intake Form is designed to collect information from individuals interested in volunteering for community service opportunities. This form helps us understand your personal details, skills, and availability to match you with suitable roles and schedules.

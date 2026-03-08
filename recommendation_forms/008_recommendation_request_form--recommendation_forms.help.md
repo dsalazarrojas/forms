@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request a recommendation from a recommender for a student. It is meant to be completed by students who are seeking recommendations for academic or professional purposes. Before submitting this form, please ensure that you have not already requested a recommendation for the same student. 
-If you are requesting a recommendation for yourself, please fill out the student information first, then proceed to fill out the recommender information. If you are a recommender, please fill out your own information first, then provide the student's information. 
-This form will be used to collect information about the student and the recommender, including the student's name, degree, major, email, and phone number, and the recommender's name, contact information, and submission deadline. 
-</thinking>
-
 # Recommendation Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request a recommendation from a recommender for a student.

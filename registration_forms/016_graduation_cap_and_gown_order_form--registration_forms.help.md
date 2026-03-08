@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graduation Cap And Gown Order Form - Help Guide
 ## Purpose
 This form is used to collect information for ordering graduation caps, gowns, and accessories for graduation ceremonies. To use this form, you must provide details such as cap size, accent color, gown color, and other preferences to ensure accurate ordering and timely delivery. Please ensure that all required fields are filled in and review your information carefully before submitting the form.

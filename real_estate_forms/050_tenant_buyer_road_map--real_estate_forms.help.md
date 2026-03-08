@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from a tenant who is considering moving into a new rental property. It is intended for buyers to provide details about themselves, their move-in and move-out dates, and the specifics of the property they are interested in, such as square footage, number of bedrooms and bathrooms, and price. This information will help property managers understand the needs and preferences of potential tenants, making the rental process more efficient and effective.
-
-Before filling out this form, please ensure that you have all the necessary details about your move and the property you are interested in. This form should not be completed by property managers or owners of rental properties.
-
-</thinking>
-
 # Tenant Buyer Road Map - Help Guide
 ## Purpose
 This form is designed to help property managers and owners understand your needs and preferences as a potential tenant. It will help them to assess your eligibility and provide you with more relevant property options that match your criteria.

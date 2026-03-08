@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information from participants for the basketball tryout registration process, ensuring they provide accurate and complete details. This process prevents the submission of duplicate or incomplete applications, and any incomplete submissions would be returned to the user for correction or completion.
-
-</thinking>
-
 # Basketball Tryout Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential details from participants for the basketball tryout process. It is crucial that participants provide accurate and complete information to avoid any delays or rejections during the registration process.

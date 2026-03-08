@@ -1,8 +1,3 @@
-<thinking>
-To create the perfect user-facing help guide for this "Room Rental Application Form", I'll carefully analyze the YAML schema provided. It appears that the form is intended for tenants to apply for a room rental service. However, there is no specific information about what type of rental service this form is associated with or what kind of documents are to be uploaded. The field types are all text-based, which might indicate that the form is designed for providing general information from tenants rather than uploading specific files like images or contracts. I'll assume that the form is meant for gathering basic contact and rental agreement information.
-
-</thinking>
-
 # Room Rental Application Form - Help Guide
 ## Purpose
 This form is designed for tenants to apply for a room rental service. It collects general information about the tenant and rental agreement details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for real estate transactions, specifically for gathering information from potential clients about their mortgage application. It's crucial to ensure that all required fields are filled out accurately and completely. Before proceeding, please review the form carefully to avoid any potential issues or misunderstandings. If you're unsure about any field, please don't hesitate to ask for clarification. This form is used for internal purposes only, and the data collected will be used to assess the client's eligibility for a mortgage. Please note that some fields may be optional, but providing accurate and complete information will expedite the process.
-</thinking>
-
 # Mortgage Application Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from potential clients about their mortgage application.

@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose of this form, I need to analyze the input schema provided. Based on the schema, this form is designed for users to report or inquire about the impact of drone filming on a specific location. The purpose of this form is to gather information about the filming location, start time, noise impact level, altitude, filming hours, crew size, filming frequency, recording device type, and filming duration.
-
-To ensure non-duplication of effort and relevance, I will verify that this form is not already covered by other existing forms or procedures.
-
-</thinking>
-
 # Drone Filming Noise Impact Application Form - Help Guide
 ## Purpose
 The Drone Filming Noise Impact Application Form is designed for users to report or inquire about the impact of drone filming on a specific location. This form is used to gather information about the filming location, start time, noise impact level, altitude, filming hours, crew size, filming frequency, recording device type, and filming duration.

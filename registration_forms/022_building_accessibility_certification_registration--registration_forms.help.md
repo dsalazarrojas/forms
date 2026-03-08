@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to assist end-users in completing the "Building Accessibility Certification Registration" form accurately and effectively. To ensure the form is completed correctly, we should consider the following key points:
-
-*   This form is intended for building owners, architects, or other stakeholders who wish to obtain an accessibility certification for their building.
-*   The form requires the end-user to provide accurate and relevant information about their building, contact details, and accessibility features.
-*   The form should not be duplicated, and its data should only be submitted once for each building's unique registration.
-
-</thinking>
-
 # Building Accessibility Certification Registration - Help Guide
 ## Purpose
 The "Building Accessibility Certification Registration" form is designed to collect information about a building's accessibility features, contact details, and certification status. This form is essential for building owners, architects, or other stakeholders who wish to obtain an accessibility certification for their building.

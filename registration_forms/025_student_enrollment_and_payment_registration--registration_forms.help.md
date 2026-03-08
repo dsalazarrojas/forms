@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive user-facing help guide for the "Student Enrollment And Payment Registration" form. This guide will cover the purpose of the form, the step-by-step process of completing it, and an explanation of each field, making it easy for users to fill out the form accurately and efficiently.</thinking>
-
 # Student Enrollment And Payment Registration - Help Guide
 ## Purpose
 The purpose of this form is to register a student for enrollment and payment processes. The form is used to collect student information, payment details, and other relevant data required for student registration.

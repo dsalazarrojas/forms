@@ -1,5 +1,3 @@
-<thinking>...The form is intended to gather information from team members about their attendance and preferences for a team bonding dinner. This form is not affiliated with or endorsed by any form platform and was created using AI. The form's purpose is to collect data on team members' names, email addresses, attending dates, attending times, RSVP status, and preferences for the dinner event. This guide is to ensure end users understand how to complete the form correctly and make the most out of it.</thinking>
-
 # Team Bonding Dinner RSVP Form - Help Guide
 ## Purpose
 This form is designed to gather information from team members about their attendance and preferences for a team bonding dinner event.

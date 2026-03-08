@@ -1,11 +1,3 @@
-<thinking>
-
-Before we begin, let's confirm that the purpose of this form is to collect information from customers seeking a refund for a purchase they made. This form will help the support team understand the reason for the refund, verify the details of the purchase, and facilitate a smooth resolution process. To ensure you have the most up-to-date information, please check if you have already submitted this request before.
-
-Please note that this form is designed for customer-initiated refund requests, and the support team will review and process the information provided. If you have any questions or concerns, feel free to reach out to the support team.
-
-</thinking>
-
 # Customer Refund Verification Request - Help Guide
 
 ## Purpose

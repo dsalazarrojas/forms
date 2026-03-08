@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about speakers, likely for an event or conference. Its purpose is to gather details such as their name, date of birth, contact information, bio, and additional details like title, university, department, and bio media options. This form likely serves as a registration or speaker information collection process for events or conferences where speakers are being invited to present or participate.
-
-It appears that the form is intended to gather both personal and professional information about the speaker, with fields for their first and last name, email, phone number, and bio. It also includes fields for speaker-specific information such as title, university, and department, which suggests that the speaker may be affiliated with an institution. The form allows speakers to choose whether they have a bio image or video, and it seems to be optional.
-
-To avoid duplication of effort and to provide clarity, this guide is intended to help users understand the purpose and usage of each field in the form.
-
-</thinking>
-
 # Speaker Information Collection Form - Help Guide
 
 ## Purpose

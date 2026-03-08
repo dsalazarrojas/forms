@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a job application form for a UI Designer position, possibly for a company or organization that specializes in user interface design. The form asks for general information such as name, contact details, and experience. It also inquires about the candidate's portfolio, education, and previous work experience.
-The purpose of this form is to gather necessary information from applicants to evaluate their qualifications and suitability for the UI Designer position.
-The form has multiple pages or sections, each with its own fields, some of which are required while others are optional.
-The form includes fields for contact information, experience, portfolio, education, and previous work experience.
-The form also has a "Submit" button at the end.
-</thinking>
-
 # UI Designer Application Form - Help Guide
 ## Purpose
 The UI Designer Application Form is designed to gather information from applicants for a UI Designer position. This form is used to evaluate the qualifications and suitability of potential candidates for the role.

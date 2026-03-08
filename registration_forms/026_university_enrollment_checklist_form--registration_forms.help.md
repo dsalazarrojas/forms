@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for the registration process of students in the university. The purpose of this form is to gather essential information from students, including their contact details, course selection, and enrollment status. The form is designed to be a comprehensive checklist to ensure that students' enrollments are properly recorded and processed. 
-This form is a crucial part of the university's enrollment process, and it is essential that students complete it accurately and thoroughly. By following this guide, students will be able to navigate the form efficiently and provide the necessary information for a successful enrollment. 
-</thinking>
-
 # University Enrollment Checklist Form - Help Guide
 ## Purpose
 The University Enrollment Checklist Form is a mandatory registration form for students. It is designed to collect essential information from students to facilitate their enrollment process.

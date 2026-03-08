@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for medical professionals to gather patient information and medical history before a doctor visit. The form is meant to be a comprehensive guide for the doctor to assess the patient's condition and provide effective treatment. Each field is designed to collect relevant and essential information for the medical professional to make informed decisions. The form is intended to be used in a clinical setting, and the fields are carefully crafted to minimize redundancy and maximize data collection efficiency. This form is not intended to be used for any other purpose other than clinical use.
-</thinking>
-
 # Doctor Visit Form - Help Guide
 ## Purpose
 The Doctor Visit Form is designed to collect patient information and medical history before a doctor visit. The form helps the doctor to assess the patient's condition and provide effective treatment.

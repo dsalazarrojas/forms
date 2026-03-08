@@ -1,12 +1,3 @@
-<thinking>
-To create this form, we first need to understand the context in which it will be used. This form is likely part of a larger system for managing property information, perhaps for real estate agents or brokers to input property details. The form has a mix of fields for property details like address, type, status, year built, square feet, number of bedrooms and bathrooms, and more. We'll need to ensure that the form is clear and concise for the end user, while still being comprehensive enough to cover all necessary property information. We'll review the fields and provide clear explanations for each. We'll consider the following fields: property address, property type, property status, year built, square feet, number of bedrooms and bathrooms, year built range, status range, price range, square feet range, number of bedrooms range, number of bathrooms range, additional notes, agent and office contact, office email and phone number, and property listings and features. 
-
-Upon reviewing the fields, we'll ensure that the labels are clear and concise, and that the explanations accurately reflect the intended purpose of each field. We may need to provide additional context or examples to help end users understand the field's purpose and how to properly complete it.
-
-Before creating the help guide, let's review the form's fields and provide clear explanations for each, keeping in mind the form's overall purpose and context.
-
-</thinking>
-
 # Property Information Form Template - Help Guide
 ## Purpose
 The Property Information Form Template is a comprehensive form for inputting property details. It is designed for real estate agents or brokers to gather and store property information for their clients.

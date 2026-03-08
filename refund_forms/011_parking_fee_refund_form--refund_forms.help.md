@@ -1,6 +1,3 @@
-<thinking>  
-To create a user-facing help guide for this form, we need to determine the purpose of the form and the required fields for submission. The form is for a "parking fee refund request," suggesting that it's used to gather information from customers seeking a refund for parking fees. The required fields seem to be related to identifying the customer and the parking fee they're requesting a refund for. The form likely serves as an initial step in the refund process, and users filling it out should be able to provide the necessary information to initiate the refund request.</thinking>
-
 # parking_fee_refund_form - Help Guide
 
 ## Purpose

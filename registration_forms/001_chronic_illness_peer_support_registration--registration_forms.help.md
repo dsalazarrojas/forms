@@ -1,13 +1,3 @@
-<thinking>
-
-Internal reasoning block to explain the form purpose and check for relevance and non-duplication:
-
-This form is designed to collect information from individuals who are seeking chronic illness peer support. The purpose of this form is to gather personal details, health information, and preferences for the support sessions. The form is structured to ensure that the user understands the importance of maintaining confidentiality and provides an opportunity to agree to it.
-
-The form will be reviewed internally to ensure that the user meets the required conditions for the program. This includes ensuring that the individual is a good fit for the program and that there are no duplicate registrations.
-
-</thinking>
-
 # Chronic Illness Peer Support Registration - Help Guide
 ## Purpose
 The Chronic Illness Peer Support Registration form is designed to collect information from individuals who are seeking support and guidance from others who share similar experiences with chronic illnesses. This form helps us understand your personal details, health background, and preferences for our support sessions.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the property's flood risk and disclosure status. This form is used to determine if a property is in a flood zone, if the property has flood insurance, and if the owner has a flood elevation certificate. This form is typically used during the home buying or selling process to ensure that the property's flood risk is properly disclosed.
-</thinking>
-
 # Real Estate Flood Disclosure Form - Help Guide
 ## Purpose
 This form is used to gather information about the property's flood risk and disclosure status.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cloud Compute Instance Rebalance Recommendation Tracker - Help Guide
 
 ## Purpose

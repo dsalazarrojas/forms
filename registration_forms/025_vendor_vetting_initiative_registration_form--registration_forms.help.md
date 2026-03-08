@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from vendors and assess their vetting status. The form should be completed by vendors who are interested in participating in the vetting initiative. It's crucial that the information provided is accurate and up-to-date to ensure smooth processing of their application. Please note that this form should not be completed by vendors with duplicate or outdated information.
-
-Before starting, ensure all necessary fields are filled out as accurately and completely as possible. If you need help with any field, please refer to the field-by-field explanation below.
-
-</thinking>
-
 # Vendor Vetting Initiative Registration Form - Help Guide
 ## Purpose
 This form is for vendors to register their interest in participating in the vetting initiative. Please fill out all required fields to ensure your application is processed correctly.

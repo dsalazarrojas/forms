@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by recruiters or interviewers after conducting research intern interviews. It's used to capture the score given to the research intern based on their performance during the interview. The form should only be completed for each research intern, and scores given are subjective and based on the evaluator's assessment of the intern's abilities and performance. Please ensure that each form is unique and not duplicated for the same research intern.
-</thinking>
-
 # Research Intern Interview Scorecard Form - Help Guide
 ## Purpose
 This form is used to capture the score given to research interns after conducting an interview. The score is based on the evaluator's assessment of the intern's performance and abilities.

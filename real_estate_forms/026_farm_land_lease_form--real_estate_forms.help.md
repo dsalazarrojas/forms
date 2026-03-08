@@ -1,15 +1,3 @@
-<thinking>
-
-We will create a user-facing help guide for the Farm Land Lease Form to ensure that end-users understand its purpose and how to complete it. This form is designed for farm owners and tenants to document the details of a farm land lease agreement, including farm lease size, land owner information, and lease terms.
-
-Before we begin, let's review the form's fields and their requirements:
-
-* The form has 12 fields, including farm lease size, land owner name, tenant name, tenant contact, lease start date, lease end date, farm land area, allowed tenants, farm address, lease terms, rent price, and lease duration.
-* Some fields are optional, while others are required.
-* The form is designed to be completed by both the farm owner and the tenant.
-
-</thinking>
-
 # Farm Land Lease Form - Help Guide
 ## Purpose
 

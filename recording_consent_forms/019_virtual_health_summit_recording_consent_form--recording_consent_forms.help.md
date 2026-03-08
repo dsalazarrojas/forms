@@ -1,21 +1,3 @@
-<thinking>
-
-This form is used to gather consent from participants before recording their sessions at virtual health summits. Participants need to complete this form to provide their contact information, choose the recording type and location, and confirm their consent. The form is essential to ensure that all recordings are done with the participants' knowledge and agreement.
-
-The form is divided into several sections, each with specific fields to be completed by the participant. The fields include:
-
-- Name, email, phone number, date, and time.
-- Recording type and location.
-- Recording purpose.
-- Consent, which can be given or declined.
-- Agreement with the terms and conditions.
-- Acknowledgement of the recording, with options to choose from.
-- Submit button.
-
-The form fields are all required, except for the consent field.
-
-</thinking>
-
 # Virtual Health Summit Recording Consent Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from participants before recording their sessions at virtual health summits. It ensures that all recordings are done with the participants' knowledge and agreement.

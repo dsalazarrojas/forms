@@ -1,5 +1,3 @@
-<thinking>This form appears to be a comprehensive checklist for a real estate appraisal, collecting information about a residential property. The form includes fields for the property's address, type, status, use, and various physical and functional characteristics such as lot size, foundation type, and fire safety equipment. The form also collects information on the property's systems and amenities, including heating, electrical, and plumbing systems, as well as security and utility payments. The form's fields seem to cover most aspects of a residential property's features and amenities. I will now create a help guide for this form, following the specified structure.</thinking>
-
 # House Appraisal Checklist Form - Help Guide
 
 ## Purpose

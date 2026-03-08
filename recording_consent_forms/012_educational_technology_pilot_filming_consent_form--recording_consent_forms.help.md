@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information and consent for the filming of an educational technology pilot, which is likely a project or program that aims to test or implement a new educational technology or approach. The form is likely used by administrators or educators to gather necessary information and consent from participants or users. This form is not intended for general public use, as it appears to be focused on internal educational purposes.
-</thinking>
-
 # educational-technology-pilot-filming-consent-form - Help Guide
 ## Purpose
 This form is used to collect information and consent for the filming of an educational technology pilot. It's a necessary step to ensure that participants or users are aware of the project's goals, methods, and expectations.

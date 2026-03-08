@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # property_automation_council_registration_form - Help Guide
 
 ## Purpose

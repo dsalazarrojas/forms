@@ -1,7 +1,3 @@
-<thinking>
-This form is used by individuals to register their participation and coordination details for a construction project. The goal of this form is to capture necessary information for coordinating with participants. It's recommended to fill out this form only once per participant. This form should not be completed if the participant is already registered in the same project.
-</thinking>
-
 # Construction Project Coordination Registration Form - Help Guide
 
 ## Purpose

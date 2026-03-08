@@ -1,8 +1,3 @@
-<thinking>
-This block is to check for the form purpose and potential issues with the provided YAML.
-The form purpose is for participants to register for a youth speed and agility program. The form asks for basic information about the participant and their parent or guardian, including date of birth, address, phone number, medical conditions, medical notes, and emergency contact information. The form should be used to collect relevant and accurate information to ensure the participant's safety and well-being during the program. 
-</thinking>
-
 # Youth Speed And Agility Registration - Help Guide
 ## Purpose
 The Youth Speed And Agility Registration form is designed to collect essential information from participants and their parent or guardian to ensure their safety and well-being during the program.

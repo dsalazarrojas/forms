@@ -1,21 +1,3 @@
-<thinking>
-
-This form is intended to collect information from potential Summer Intern applicants for the company's internship program. We expect applicants to provide their name, email, resume, and other relevant details to help us understand their background and qualifications. The form is divided into 8 fields:
-
-* "Name": A text field for the applicant to input their name.
-* "Email": A field for the applicant to input their email address.
-* "Resume": A text field for the applicant to upload or paste their resume.
-* "Phone": A text field for the applicant to input their phone number.
-* "Experience": A multi-select field asking the applicant to choose from "Intern", "Volunteer", or "Part-time/Full-time" to describe their previous experience.
-* "Availability": A single-select field asking the applicant to choose when they are available to start the internship, from "Summer 2023", "Summer 2024", or "Summer 2025".
-* "Availability Date": A date field to input the specific date they are available to start the internship.
-* "Availability Time": A time field, though currently not required, for the applicant to input their preferred start time.
-* "Education": A note field for the applicant to provide any additional information about their education.
-
-Please note that some fields have specific requirements or restrictions that may impact how you fill out the form. Ensure that all required fields are completed to maximize the chances of your application being reviewed.
-
-</thinking>
-
 # Summer Intern Application Form - Help Guide
 ## Purpose
 This form is a collection of questions designed to gather information from potential Summer Intern applicants, helping us to determine their qualifications and availability for an internship with our company.

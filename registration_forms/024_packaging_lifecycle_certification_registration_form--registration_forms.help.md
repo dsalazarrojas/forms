@@ -1,5 +1,3 @@
-<thinking>As we're creating a form for users to register their organization's packaging lifecycle certifications, it's essential to ensure that the form serves its purpose effectively and efficiently. This form will be used to collect essential information from organizations to validate their certifications. To prevent duplication of effort, please make sure to review the form carefully before filling it out. The fields are designed to guide you through the process, and a thorough understanding of each field will ensure a smooth completion of the form.</thinking>
-
 # Packaging Lifecycle Certification Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from organizations to validate their packaging lifecycle certifications. Please fill out the form accurately to ensure your organization's certifications are properly registered.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals seeking vocational rehabilitation services. It is intended for applicants who are looking to receive vocational rehabilitation assistance, such as job placement, education, or vocational training. The form will be used by vocational rehabilitation services staff to assess the applicant's background, skills, and needs. 
-This form must only be completed once per applicant. If an applicant has already completed this form, please do not attempt to do so again. 
-Please fill out the form completely and accurately to ensure that your application is considered for vocational rehabilitation services. 
-Please ensure that all required fields are filled out, as indicated by the asterisk (*).
-</thinking>
-
 # vocational_rehabilitation_intake_form - Help Guide
 ## Purpose
 The vocational rehabilitation intake form is used to collect information from individuals seeking vocational rehabilitation services. This form helps the vocational rehabilitation staff to assess the applicant's background, skills, and needs.

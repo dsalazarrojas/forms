@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect registration information from facilities that wish to participate in the Indoor Air Quality Program. The purpose of the program is to ensure that facilities provide a safe and healthy indoor environment for their employees, customers, and visitors.
-To use this form, simply follow the instructions below.
-
-</thinking>
-
 # Indoor Air Quality Program Registration Form - Help Guide
 ## Purpose
 The Indoor Air Quality Program Registration Form is used to register facilities that wish to participate in the Indoor Air Quality Program. This program aims to improve indoor air quality and provide a healthy environment for all.

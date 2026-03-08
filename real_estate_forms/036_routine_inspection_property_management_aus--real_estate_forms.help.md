@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to document the routine inspection of a property in Australia, capturing essential information from both the tenant and property owner. This form guides users through the inspection process, ensuring that all necessary details are recorded, including tenant and property details, inspection dates and times, notes, and statuses of the inspection. This form is designed to be completed by the tenant, property owner, or assigned inspector, and is an essential tool for property management in Australia. To ensure accurate and efficient completion, each field has been carefully crafted to provide clarity and precision. Before proceeding, please review the form carefully to understand its purpose and ensure that it aligns with your needs.</thinking>
-
 # Routine Inspection Property Management AUS - Help Guide
 ## Purpose
 The Routine Inspection Property Management AUS form is used to document the routine inspection of a property in Australia. This form ensures that all necessary information is collected and recorded for efficient property management.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture the essential details and agreements between a landlord and a tenant for a short-term rental arrangement. This document outlines the necessary steps to fill out the form and explains each field's purpose in the process.
-
-The form is a standard template, and users are free to use it for their specific needs.
-
-Please review the form for relevance and accuracy before submitting it.
-
-</thinking>
-
 # short_term_rental_agreement - Help Guide
 
 ## Purpose

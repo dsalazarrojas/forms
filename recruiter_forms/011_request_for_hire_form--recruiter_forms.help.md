@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information for job postings, allowing users to specify job title, job type, job location, and other relevant details. The form is designed to gather data for internal use within the company, and its completion is mandatory for all job postings.
-To ensure that all job postings are accurately and consistently filled out, the form should only be completed once for each job posting.
-</thinking>
-
 # request_for_hire_form - Help Guide
 ## Purpose
 This form is used to collect information for job postings, allowing users to specify job title, job type, job location, and other relevant details.

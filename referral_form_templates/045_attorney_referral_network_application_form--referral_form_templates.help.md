@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from attorneys who wish to participate in the Attorney Referral Network. The form is designed to gather relevant details about the attorneys' practices, including their areas of expertise, types of cases they can handle, and their referral fee structures. The form will help the Attorney Referral Network to match attorneys with potential clients who fit their areas of expertise and referral fee structures. Attorneys can use this form to provide their contact information, practice details, and preferences, which will help them get noticed by potential clients who are looking for their expertise.</thinking>
-
 # Attorney Referral Network Application Form - Help Guide
 ## Purpose
 The Attorney Referral Network Application Form is designed to help attorneys participate in the network and get noticed by potential clients. The form collects information about the attorneys' practices, preferences, and contact details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_estate_closing_checklist - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a general-purpose real estate records request form with multiple pages. It may be used for collecting information from property owners, managers, or other stakeholders to gather data about their properties. The form likely includes various fields such as text fields, select multiple options, select one options, notes, and date/time fields. Given the large number of pages and fields, it's possible that this form is being used to collect data for a specific project or initiative within the real estate industry. It's worth noting that all fields are not required, which may indicate that this form is intended for optional or informational purposes.</thinking>
-
 # HOA Records Request Form - Help Guide
 ## Purpose
 The HOA Records Request Form is designed to collect information from property owners, managers, or other stakeholders about their properties. This form is likely used to gather data for a specific project or initiative within the real estate industry.

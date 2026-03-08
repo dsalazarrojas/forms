@@ -1,11 +1,3 @@
-<thinking> 
-
-The purpose of this form is to facilitate the transfer of property between family members. This form is used to document the details of the transfer, including the names and addresses of the donor and donee (the person or entity receiving the property), the property's details, and the date and location of the transfer. This information is crucial for legal and administrative purposes.
-
-To ensure the form is completed correctly, please note that some fields are required for legal and administrative purposes. The following fields are optional unless specifically marked as required.
-
-</thinking>
-
 # Interfamily Property Transfer Form - Help Guide
 ## Purpose
 The Interfamily Property Transfer Form is a document used to record the transfer of property between family members.

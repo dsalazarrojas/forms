@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who want to showcase their talent and skills. This form is part of a larger process for talent acquisition and management within the organization. Please ensure that you only submit one application per person. Duplicate submissions will be removed.
-</thinking>
-
 # Talent Search Registration Form - Help Guide
 ## Purpose
 The Talent Search Registration Form is designed to help us discover new talents and skills within our organization. This form collects personal and professional information from individuals who want to showcase their abilities and potentially be considered for future opportunities.

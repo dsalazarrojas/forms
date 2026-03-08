@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect user information for the Digital Inclusion In Higher Education initiative. This form is likely used to gather data from end-users who are interested in being part of this initiative. Each field in this form is used to collect specific data points that will help the initiative's team better understand the users' needs, preferences, and requirements. Before proceeding, ensure that you are using this form for its intended purpose and that you do not have any existing information that could be used to fill this form out for you.
-
-</thinking>
-
 # Digital Inclusion In Higher Education Registration - Help Guide
 
 ## Purpose

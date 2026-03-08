@@ -1,12 +1,3 @@
-<thinking>
-To confirm the purpose of this form, I will review the provided YAML fields. This form appears to be a registration form for digital content providers, aiming to collect basic information and portfolio details of the provider, as well as onboarding status and manager information. The form seems to be used for administrative purposes, likely for internal management of digital content providers.
-
-The form consists of several sections, which can be divided into three main categories: Basic Info, Portfolio Details, and Onboarding Status. The sections are likely used to collect information that will be used for further processing and review.
-
-To avoid duplication, I will make sure to cover all required and non-required fields in the help guide.
-
-</thinking>
-
 # Digital Content Provider Registration - Help Guide
 ## Purpose
 This form is used for digital content providers to register their basic information, portfolio details, and onboarding status. It helps the administrators manage digital content providers efficiently.

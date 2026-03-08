@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended for registering a City Pass, which is a service that allows residents and visitors to access various city services. To avoid duplicate registrations, the system checks for existing records before processing new submissions. If a duplicate record is detected, the user will be notified and prompted to try again. This guide is designed to help users complete the form accurately and efficiently.
-
-</thinking>
-
 # City Pass Registration - Help Guide
 
 ## Purpose

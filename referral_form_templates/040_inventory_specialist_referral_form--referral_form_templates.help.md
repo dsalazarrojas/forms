@@ -1,7 +1,3 @@
-<thinking>
-The Inventory Specialist Referral Form is used to gather information about job postings and referrals from inventory specialists. To prevent duplication, this form should not be submitted multiple times for the same job posting. The form should only be filled out for new job postings. The purpose of this form is to collect relevant information about the job posting, including the candidate's name, job posting details, and contact information. This information will be used to update the inventory specialist's records and aid in the job posting process.
-</thinking>
-
 # Inventory Specialist Referral Form - Help Guide
 ## Purpose
 The Inventory Specialist Referral Form is used to gather information about job postings and referrals from inventory specialists. The form is designed to collect relevant details about the job posting, including the candidate's name, job posting specifics, and contact information. It is essential to submit this form only once for each new job posting to prevent duplication of information.

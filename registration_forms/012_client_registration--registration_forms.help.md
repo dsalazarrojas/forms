@@ -1,11 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive help guide for the Client Registration form. Before diving into the help guide, let me clarify the form's purpose and context. The Client Registration form is a crucial document that captures essential information about clients, including their personal and business details. This form helps us understand who our clients are, what services they need, and how to tailor our services to their requirements. To ensure data accuracy and efficiency, it's essential to guide users through the process effectively.
-
-The form is divided into four sections: Client Information, Business Information, Billing Address, and Shipping Address. Each section has specific fields that collect relevant data. The form has a mix of text input fields, email input fields, select-one fields, and notes for additional comments.
-
-To complete this form, users should start by filling out the Client Information section, which includes fields for first name, last name, email, phone number, and business type. The next section, Business Information, requires the company name and business type. The Billing Address section is where users provide their billing information, including street address, city, state, ZIP or postal code, and country. The last section, Shipping Address, has a question about whether the shipping address is the same as the billing address, with options to select 'True' or 'False'. If 'False', users must fill in additional fields for shipping street address, city, and state.
-
-In the final section, Special Requirements or Notes, users can add any additional comments or requirements they'd like to be considered.</thinking>
-
 # Client Registration - Help Guide
 ## Purpose
 The Client Registration form is used to capture essential information about clients, including their personal and business details. This data helps us understand our clients' needs and tailor our services accordingly.

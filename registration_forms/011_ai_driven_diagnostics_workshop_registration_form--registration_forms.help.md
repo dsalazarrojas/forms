@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be using the AI Driven Diagnostics Workshop Registration Form. The form is designed to collect professional information from participants to tailor the workshop's difficulty level and ensure a suitable learning environment. It collects personal and professional details, AI and technical background information, and preferences for workshop logistics.
-</thinking>
-
 # 011_ai_driven_diagnostics_workshop_registration_form--registration_forms - Help Guide
 
 ## Purpose

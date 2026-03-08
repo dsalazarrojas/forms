@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for synchronizing media files with a project. The purpose of this form is to ensure that media files are properly uploaded and synchronized with the project. This form is used by project administrators to manage the synchronization of media files for their projects. The form is designed to collect necessary information about the media files and project details for synchronization.
-
-Before proceeding, please note that this form is not meant for non-project administrators. If you are not a project administrator, please do not fill out this form.
-
-This form has several fields that need to be filled out carefully. Please read the explanations below to understand each field's purpose and requirements.
-
-</thinking>
-
 # Media Upload For Synchronization - Help Guide
 ## Purpose
 This form is used for synchronizing media files with a project. It is designed for project administrators to collect necessary information about media files and project details for synchronization.

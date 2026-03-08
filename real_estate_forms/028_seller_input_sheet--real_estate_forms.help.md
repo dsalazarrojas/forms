@@ -1,11 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Seller Input Sheet" form that's clear, concise, and easy to follow. I'll break down the form's purpose, how to complete it, and explain each field in a way that's easy to understand. I'll also include some internal reasoning to ensure this form is used correctly and to prevent duplication of entries.
-
-This form is designed to collect information from sellers about their products, including contact details, product descriptions, and other relevant data. The form is intended for use in a real estate context, where accurate and consistent data is crucial for processing and managing product listings.
-
-To ensure the form is used correctly and to prevent duplication, please note that each entry should be unique and accurately represent the seller's information. If you've already submitted an entry for the same product, please do not submit another entry with the same or similar information.
-
-</thinking>
-
 # Seller Input Sheet - Help Guide
 ## Purpose
 The Seller Input Sheet is designed to collect information from sellers about their products, including contact details, product descriptions, and other relevant data. This form is used in a real estate context to ensure accurate and consistent data for processing and managing product listings.

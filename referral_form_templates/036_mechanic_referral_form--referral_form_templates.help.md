@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about a referral from a mechanic, which can be used for various purposes such as tracking referral sources, evaluating referral effectiveness, or providing feedback on referrals. The form should only be used for referrals that are related to mechanics, and not for other types of referrals.
 
 To ensure that referrals are properly recorded and tracked, please make sure to complete all required fields and avoid duplicating existing referrals.

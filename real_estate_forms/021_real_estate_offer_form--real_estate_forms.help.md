@@ -1,11 +1,3 @@
-<thinking>
-The form "real_estate_offer_form" appears to be designed for capturing information related to real estate offers, which typically involves transactions between buyers and sellers of properties. The form's purpose seems to be to collect data about the buyer's offer, including buyer and property information, offer details, and status updates. 
-
-It's likely that this form is used within a real estate business or platform, where users are involved in buying and selling properties. The form might be used by real estate agents, brokers, or other stakeholders to manage offers, track progress, and facilitate communication between parties. 
-
-Before proceeding, please ensure that you're not duplicating this form for a different purpose or context, as the fields and options suggest a specific use case.
-</thinking>
-
 # real_estate_offer_form - Help Guide
 ## Purpose
 This form is designed to collect information about real estate offers, including buyer and property details, offer terms, and status updates. It's intended for use within a real estate business or platform to manage offers, track progress, and facilitate communication between parties.

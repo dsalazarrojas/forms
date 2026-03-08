@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to obtain consent from participants in the Healthcare Design Thinking Lab for filming purposes. The form should be used to gather information about the participants' consent for filming, including their purpose, use, and potential benefits. It is essential to ensure that participants understand the purpose and implications of filming and that their consent is obtained before proceeding. This form should not be used for other purposes, such as data collection or research.
-</thinking>
-
 # Healthcare Design Thinking Lab Filming Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from participants in the Healthcare Design Thinking Lab for filming purposes, ensuring they understand the implications and purpose of filming.

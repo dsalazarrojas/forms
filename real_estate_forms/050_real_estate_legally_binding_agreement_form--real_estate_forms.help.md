@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to create a legally binding real estate agreement between a client and an estate agent, outlining the terms and conditions of their representation. This form is used to establish a formal relationship between the two parties and to define the scope of their mutual understanding. The form should only be used when the client and agent have a legitimate reason to create a legally binding agreement.
-
-The main goal of this form is to capture all the essential details of the real estate transaction, including client and agent information, agreement terms, termination, and fees. This form will be used to formalize the terms of the agreement between the client and agent, which will be binding under law.
-
-Before filling this form, it is recommended to review all fields carefully, and if unsure, it is advised to seek advice from a lawyer or a real estate expert.
-
-</thinking>
-
 # real_estate_legally_binding_agreement_form - Help Guide
 ## Purpose
 The Real Estate Legally Binding Agreement Form is a document used to create a formal agreement between a client and a real estate agent. This form outlines the terms and conditions of their representation, including client and agent information, agreement terms, termination, and fees.

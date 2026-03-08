@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to obtain consent from participants for the recording and use of video diaries as part of an academic study. The purpose of this form is to ensure that participants understand the terms and conditions of their participation, including how their data will be used, stored, and protected. Before completing this form, it's essential to review the participation information sheet and understand the implications of participating in the study.
-
-</thinking>
-
 # Academic Study Video Diary Consent Form - Help Guide
 ## Purpose
 The Academic Study Video Diary Consent Form is a critical component of the research study, ensuring that participants provide informed consent for the recording and use of their video data. This form helps to establish a clear understanding of the study's objectives, data collection methods, and how their contribution will be used and protected.

@@ -1,7 +1,3 @@
-<thinking>
-The form "organizational_health_review_registration_form" is used to collect information from teams regarding their organizational health review. This form helps in gathering essential details about teams, including team members, assessment dates, contact information, and submission details. It is designed to be completed by team members or team leaders to provide a comprehensive overview of the team's current state. The form is not a mandatory requirement and can be completed on a voluntary basis. However, its completion can be beneficial for organizational development and improvement.
-</thinking>
-
 # organizational_health_review_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from teams about their organizational health review. This form helps teams to provide a comprehensive overview of their current state and can be used for future reference and improvement.

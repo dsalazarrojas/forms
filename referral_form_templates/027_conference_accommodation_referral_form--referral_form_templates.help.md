@@ -1,7 +1,3 @@
-<thinking> 
-We've built this form to help you refer attendees to suitable accommodations for conferences. The form is designed to gather information about the attendee's preferences, such as room type, budget, and location, so that our team can provide personalized recommendations. Please ensure you've filled out the form completely and accurately, as this will help us understand your needs better.
-</thinking>
-
 # Conference Accommodation Referral Form - Help Guide
 ## Purpose
 This form is used to gather information about your preferences for conference accommodation so that our team can provide you with personalized hotel recommendations.

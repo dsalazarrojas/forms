@@ -1,8 +1,3 @@
-<thinking> 
-The hotel referral program signup form is designed to gather information from individuals who want to participate in the hotel's referral program. This form is intended for potential referral partners who wish to join the program, submit their details, and receive updates on available opportunities.
-To prevent duplicate submissions, this form will automatically detect and prevent users from submitting the same details multiple times.
-</thinking>
-
 # Hotel Referral Program Signup Form - Help Guide
 ## Purpose
 This form is for individuals who want to join the hotel's referral program. Fill out the form to submit your details and get notified about available opportunities.

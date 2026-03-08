@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended to assist Property Managers in providing a comprehensive set of information about a property. The form aims to collect details about the property, its manager, and the contact information. Please ensure that you have all the necessary information and that the property is not already in the system before proceeding. This will prevent any potential data duplication and ensure accurate record keeping.</thinking>
-
 # Property Manager Recommendation Form - Help Guide
 ## Purpose
 The Property Manager Recommendation Form is designed to gather information about a property and its manager. This form is used to provide a comprehensive overview of the property, including its type, address, and manager's contact details.

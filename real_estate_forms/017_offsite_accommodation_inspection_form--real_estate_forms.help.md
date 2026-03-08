@@ -1,7 +1,3 @@
-<thinking>
-The form "offsite-accommodation-inspection-form" is a comprehensive tool designed to collect and document information about the condition and status of offsite accommodations. This form is intended to be completed by property inspectors to record their observations, findings, and recommendations during the inspection process. It's likely used in real estate, property management, or maintenance contexts to ensure accurate and consistent data collection. This form may be part of a larger workflow or process for monitoring and improving offsite accommodations. Please note that the form's design and purpose may overlap or differ based on the specific use case or organization. To avoid duplication or confusion, ensure that you're not creating multiple forms with similar or identical fields, which could lead to redundant data entry or conflicting information.
-</thinking>
-
 # offsite-accommodation-inspection-form - Help Guide
 ## Purpose
 The offsite-accommodation-inspection-form is used to collect and document information about the condition and status of offsite accommodations during the inspection process. This form helps property inspectors record their findings, recommendations, and observations to ensure accurate and consistent data collection.

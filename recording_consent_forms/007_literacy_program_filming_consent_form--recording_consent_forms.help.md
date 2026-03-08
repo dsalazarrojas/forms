@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather consent from participants in the Literacy Program and to collect information about the filming of their program. The main purpose of this form is to ensure that all participants are aware of and agree to the filming of their program. Please make sure to fill out all the required fields to ensure the form is complete. Also, ensure that the participant's consent is obtained before filming.
-</thinking>
-
 # Literacy Program Filming Consent Form - Help Guide
 ## Purpose
 The Literacy Program Filming Consent Form is used to gather consent from participants in the Literacy Program and to collect information about the filming of their program.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # NRED Mandatory COVID Disclosure And Open House Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information for NRED (Non-Resident Employees and Dependents) Mandatory COVID Disclosure and Open House Registration. This form is used to ensure that non-resident employees and dependents disclose their COVID-19 status and register for open house events.

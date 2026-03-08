@@ -1,5 +1,3 @@
-<thinking> Airport Parking Registration Form - Help Guide </thinking>
-
 # Airport Parking Registration Form - Help Guide
 ## Purpose
 The Airport Parking Registration Form is designed to gather information from customers for parking reservations at the airport. This form captures essential details such as customer contact information, vehicle details, parking preferences, and reservation requirements. By completing this form, customers can book their parking spot in advance and ensure a smooth and hassle-free experience at the airport.

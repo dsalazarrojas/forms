@@ -1,10 +1,3 @@
-<thinking>
-This form was generated using public metadata from a survey platform, and its purpose is to collect information from participants who wish to attend a hackathon. The form is designed to gather details about the participant, their team, skills, and logistical needs. 
-
-Please note that this form has not been affiliated with any form platform and is a custom creation. It's released under CC BY 4.0, allowing users to modify and even use it for commercial purposes while giving credit.
-
-</thinking>
-
 # Hackathon Registration Form - Help Guide
 ## Purpose
 This form is designed for participants to register themselves and their teams for a hackathon. It collects information about their skills, experience, and logistical needs to ensure a smooth and productive event.

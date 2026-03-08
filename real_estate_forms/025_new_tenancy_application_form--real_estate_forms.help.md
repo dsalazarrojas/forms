@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's ensure this form is correctly designed for a real estate context. This form appears to be a comprehensive application form for a new tenancy or rental agreement. It collects essential information about the tenant, including their details, rental history, financial information, and employment status. To avoid duplication of information, we'll focus on explaining each field clearly and concisely, ensuring users understand what each field means and how to complete it properly.</thinking>
-
 # New Tenancy Application Form - Help Guide
 ## Purpose
 This form is a comprehensive application form for a new tenancy or rental agreement. It collects essential information about the tenant, landlord, and rental details.

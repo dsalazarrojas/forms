@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for companies to apply to the PropTech Partnership program. The purpose of this form is to gather information about the company and its goals for potential partnership. The form should only be completed by a company representative. The fields in this form are meant to help us understand the company's background, goals, and expectations from the partnership. Please make sure to fill in all the required fields to ensure that your application is complete. If you have any questions, feel free to contact us for clarification.
-
-</thinking>
-
 # PropTech Partnership Application Form - Help Guide
 ## Purpose
 This form is intended for companies that wish to apply for the PropTech Partnership program. Please fill it out to provide us with your company details and goals.

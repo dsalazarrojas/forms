@@ -1,6 +1,3 @@
-<thinking>
-This form is for registering graduation parties, which is a process to inform the relevant personnel about the upcoming graduation party. It's assumed that the end user is a student who wants to register their graduation party. The form is not intended to be completed by anyone other than students. It's also assumed that the form will not be duplicated. The form is meant to be a one-time registration process.</thinking>
-
 # Graduation Party Registration Form - Help Guide
 ## Purpose
 This form is used for registering graduation parties to inform the relevant personnel about the upcoming graduation party.

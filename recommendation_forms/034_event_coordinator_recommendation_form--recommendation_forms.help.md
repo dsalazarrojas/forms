@@ -1,5 +1,3 @@
-<thinking>Before filling out the event coordinator recommendation form, please ensure that the form is relevant and not a duplicate. This form is intended to help recommend event coordinators who have done an outstanding job in coordinating events. A recommendation should only be made for events that have not yet been completed or are upcoming. Ensure that the recommended event coordinator has not already received a recommendation for the same event.</thinking>
-
 # event_coordinator_recommendation_form - Help Guide
 ## Purpose
 The event coordinator recommendation form is designed to provide an opportunity to recommend event coordinators who have done an outstanding job in coordinating events. This form helps to recognize and appreciate the hard work and dedication of event coordinators and provides valuable feedback for future event planning and management.

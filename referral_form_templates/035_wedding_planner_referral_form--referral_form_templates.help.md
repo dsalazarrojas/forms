@@ -1,6 +1,3 @@
-<thinking>
-This form is used to capture referral information from potential clients who are interested in hiring a wedding planner. The form is designed to gather essential details about the client, their referral source, and the planner's contact information. Please ensure that the information provided is accurate and relevant to the referral. Before filling out this form, please check if you have already submitted a referral for this client or if the client has already been referred to a planner. This will help avoid duplicate submissions and ensure that the planner is not contacted unnecessarily. </thinking>
-
 # Wedding Planner Referral Form - Help Guide
 ## Purpose
 This form is used to capture referral information from potential clients interested in hiring a wedding planner.

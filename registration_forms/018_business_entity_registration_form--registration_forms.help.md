@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect business entity information for registration purposes. The form is divided into several sections, including entity information, contact information, business address, and business details. The form will ask for the business name, entity type, state of incorporation, date of formation, registration number, contact person name, contact person title, email, phone number, contact address, principal place of business, city, state/province, postal code, country, and industry classification. Some sections, such as "Contact Information" and "Business Address" are notes, meaning they are for display purposes only and do not require input. This form is meant to gather accurate and comprehensive information about the business entity for registration purposes. Please ensure that all required fields are filled in accurately and completely.</thinking>
-
 # Business Entity Registration Form - Help Guide
 
 ## Purpose

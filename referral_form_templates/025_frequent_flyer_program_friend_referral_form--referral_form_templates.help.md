@@ -1,10 +1,3 @@
-<thinking>
-We have a form that's part of a Frequent Flyer Program, designed to encourage users to refer their friends who sign up for the program. This form captures the necessary details from both the member and their friend, allowing program administrators to keep track of referrals and reward program loyalty. 
-
-Before starting, please ensure you've reviewed the program's terms and conditions, and that you're submitting this form for a legitimate referral. Referring non-program members may not be eligible for rewards or benefits. If you've already submitted a referral for this friend, please don't submit multiple forms; it may cause duplicate processing and delay your friend's entry into the program.
-
-</thinking>
-
 # Frequent Flyer Program Friend Referral Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is used for tenant counteroffers during the rental process. It is typically used for the tenant to submit a formal counteroffer to a rental proposal from the landlord or property manager. 
-
-We will check for duplication to avoid redundant submissions. Before submitting, please ensure you've carefully reviewed your counteroffer to avoid errors and inconsistencies.
-
-This guide will help you understand each step of the process.
-
-</thinking>
-
 # Tenant Counteroffer Submission - Help Guide
 
 ## Purpose

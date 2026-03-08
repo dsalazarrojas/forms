@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is intended to be used by users to understand the purpose and requirements of the Rental Application Interest Form. The form is designed to gather information about a user's interest in renting a property. This guide will walk the user through each section of the form and explain what is required and what each field is for.
-
-The form is divided into five pages, each with a specific set of fields. Page 1 asks for general contact information. Page 2 asks for specific details about the rental property, including address, property type, and lease duration. Page 3 allows the user to select one of three options, likely regarding their interest in the property. Page 4 asks the user to select multiple options from a list, possibly regarding their preferred amenities or features. Page 5 asks for the date and time the user is interested in visiting the property.
-
-</thinking>
-
 # Rental Application Interest Form - Help Guide
 ## Purpose
 The Rental Application Interest Form is a tool used to gather information from users about their interest in renting a property. This information will be used to determine the user's suitability for the property and to contact them about their interest.

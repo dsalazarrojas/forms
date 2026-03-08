@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for registering for civic engagement training sessions. Users will be prompted to enter their name, email, and preferred training date. They will also be asked about their experience level with civic engagement, their motivation for attending the training, and any accessibility needs. For in-person sessions, users will be asked to provide dietary restrictions and any other logistical needs. Users will be asked how they heard about the training, if they are a student, and if they agree to the cancellation policy. 
-
-We check for duplicates and relevance before allowing users to proceed with the form. The form is used by users to register for various modules of the civic training. 
-
-</thinking>
-
 # Civic Engagement Training Registration - Help Guide
 
 ## Purpose

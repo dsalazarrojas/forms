@@ -1,14 +1,4 @@
-# <thinking>...<thinking>
-
-To prevent unnecessary redundancy, we'll start with an internal reasoning block. This form is used for handling recruitment-related exceptions and waivers. The goal is to collect information for potential waiving or exception requests during the hiring process. To ensure accuracy, please note that:
-
-* All fields marked as "required" are mandatory.
-* "Exception comments" fields can be used for detailed explanation of the exception or waiver reason.
-* Supporting documents or signed documents can be uploaded if necessary.
-
-</thinking>
-
-# Recruitment Waiver Request Form - Help Guide
+# # Recruitment Waiver Request Form - Help Guide
 ## Purpose
 
 The Recruitment Waiver Request Form is used for handling exceptions and waivers in the recruitment process. This form helps gather necessary information for making informed decisions.

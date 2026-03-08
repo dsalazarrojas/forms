@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to provide a structured way to collect information about a trade, including its details and a reference related to it. The fields in this form should be filled out by a user to create a comprehensive record of a trade, ensuring that all necessary information is captured accurately. 
-When creating a record of a trade, it is essential to be aware of the potential for duplication of records, so users should check if a similar trade already exists before filling out this form. 
-It is recommended to review the entire form carefully before submission to avoid errors and inaccuracies in the data entered.
-</thinking>
-
 # Trade Reference Form - Help Guide
 ## Purpose
 The Trade Reference Form is used to collect and store detailed information about a trade, including its name, description, and reference details. This form helps to create a comprehensive record of the trade, ensuring that all necessary information is accurate and up-to-date.

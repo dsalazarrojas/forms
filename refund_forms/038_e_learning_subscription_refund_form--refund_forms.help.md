@@ -1,7 +1,3 @@
-<thinking>
-Refund forms are used to request a refund for an E-learning subscription. Before filling this form, please ensure you have a valid reason for the refund, as this will be reviewed by the E-learning administration team. Please note that refunds are subject to approval and may be denied if the request is incomplete or does not meet the requirements. 
-</thinking>
-
 # E Learning Subscription Refund Form - Help Guide
 ## Purpose
 This form is used to request a refund for an E-learning subscription. Please fill out the form below to initiate the refund process.

@@ -1,10 +1,3 @@
-<thinking>
-This is a form that is used to document the lease renewal or termination process between a landlord and a tenant. The form is intended to be used to update the lease agreement, either to extend or end the tenancy. The form should be filled out by the tenant or their representative, and should be reviewed and signed by the landlord or their representative.
-
-This guide will walk you through each field on the form and explain what information is required for each.
-
-</thinking>
-
 # Lease Renewal Or Termination Form - Help Guide
 ## Purpose
 This form is used to update the lease agreement, either by renewing the lease for an additional period or terminating the tenancy. It is a critical document that needs to be filled out accurately and thoroughly.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from instructors for a Recommendation Survey. The purpose of this form is to gather feedback and recommendations from instructors about their interactions with the platform. Instructors will be asked to provide their name, email address, phone number, date of the interview, and their recommendations for improvement. The form will be used to collect data on user experience, satisfaction, and areas of improvement for future development.
-
-This form is not required to be filled out entirely, as instructors are free to provide as much information as they wish. However, it is recommended that instructors fill out as much information as they can, as the more complete the form is, the more valuable the feedback will be.
-
-Before starting, ensure that you are filling out the correct form and that the information you provide is up-to-date and accurate.
-</thinking>
-
 # Instructor Interview & Recommendation Survey - Help Guide
 ## Purpose
 This form is designed to collect information from instructors for a Recommendation Survey. The purpose of this form is to gather feedback and recommendations from instructors about their interactions with the platform.

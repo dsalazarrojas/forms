@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Land Title Verification Program Registration Form - Help Guide
 ## Purpose
 

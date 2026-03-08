@@ -1,7 +1,3 @@
-<thinking>
-This form will help us identify potential musicians to recommend to our school. Please note that you only need to fill out this form if you are an authorized representative of your school or organization. If you have already submitted a similar form, please do not resubmit. This form is intended to help us understand your school's or organization's music programs and identify compatible musicians that can be recommended to our school or organization.
-</thinking>
-
 # Musician Recommendation Form - Help Guide
 ## Purpose
 The Musician Recommendation Form is designed to help us identify potential musicians that match our school or organization's music programs. The form asks for specific information about the musician, their music school, experience, and other relevant details.

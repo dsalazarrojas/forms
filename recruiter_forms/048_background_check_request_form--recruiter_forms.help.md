@@ -1,12 +1,3 @@
-<thinking>
-We need to make sure we're only using this form for the correct purpose - we're looking for background checks to be performed in accordance with our company's policies and procedures, specifically for positions that require it. Before proceeding, check that:
-  - the form is not already filled out and submitted
-  - you have the authority to request this background check (e.g., you're the hiring manager or recruiter)
-  - you have the necessary approval and authority to perform a background check for this specific candidate and position
-
-We also need to ensure that the form is completed accurately and thoroughly, so please make sure to fill it out carefully. If a field is marked as required, you won't be able to submit the form without it.
-</thinking>
-
 # Background Check Request Form - Help Guide
 
 ## Purpose

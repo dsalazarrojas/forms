@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from clients seeking dispute resolution services. The form is used to initiate the dispute resolution process and gather relevant details about the client's dispute. The form is typically used by clients who are seeking assistance with resolving a dispute with another party. The form should not be used to file a court case or initiate legal action. It is recommended that clients review the terms of service before proceeding with the form.
-</thinking>
-
 # Client Registration For Dispute Processing - Help Guide
 ## Purpose
 The purpose of this form is to initiate dispute resolution services. This form is used to gather information from clients seeking assistance with resolving a dispute with another party.

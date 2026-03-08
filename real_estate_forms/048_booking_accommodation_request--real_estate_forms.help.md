@@ -1,12 +1,3 @@
-<thinking>
-This form is a "Booking Accommodation Request" form designed for guests to inquire about booking accommodation for a specific period. The primary purpose of this form is to gather essential information about the guest's stay, including their contact details, accommodation preferences, and any special requests. This form is intended to be completed by guests who are interested in booking a room or apartment for a specific duration.
-To ensure the accuracy and consistency of the data collected, it's recommended to carefully review each field before submitting the form.
-
-This form is designed to be completed in sections, allowing the guest to easily navigate and provide relevant information for each field. Each field is labeled accordingly to guide the guest through the process.
-
-Please make sure to double-check the form before submitting it to avoid any issues during the booking process.
-</thinking>
-
 # Booking Accommodation Request - Help Guide
 
 ## Purpose

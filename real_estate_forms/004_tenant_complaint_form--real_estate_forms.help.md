@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from tenants regarding their complaints or issues with their rental properties. The purpose of this form is to gather details about the problems or concerns tenants have, which will be used to address and resolve them efficiently. Before filling out this form, please ensure that you have not already reported this issue through other means, such as email or phone calls.
-
-</thinking>
-
 # Tenant Complaint Form - Help Guide
 ## Purpose
 The Tenant Complaint Form is a tool used to collect and document tenant complaints or issues related to their rental properties. This form helps management track and resolve these concerns in a timely and efficient manner.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly and efficiently. The party_booking_form is a form designed for booking parties, events, or gatherings. It's crucial that the form is filled out accurately, and we should double-check that no one fills out the form with fake or incorrect information. To avoid this, we'll provide clear instructions and explanations for each field. This way, users will understand what to fill out and why.
-</thinking>
-
 # party_booking_form - Help Guide
 ## Purpose
 This form is for booking parties, events, or gatherings. It helps gather information about the event, its participants, and the host. Fill it out to provide the necessary details for a successful event.

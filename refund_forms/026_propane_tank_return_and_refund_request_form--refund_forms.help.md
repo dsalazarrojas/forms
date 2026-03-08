@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to request a refund for a propane tank return. The form is intended to collect relevant information from the customer, including their contact details, tank information, and return details. This form is not meant for other purposes, such as tank maintenance or repair requests. To avoid confusion, please ensure that you are filling out this form for a refund-related issue only. If you're unsure, please contact the support team before proceeding.
-</thinking>
-
 # propane_tank_return_and_refund_request_form - Help Guide
 ## Purpose
 This form is designed to collect information for a refund request on a propane tank return.

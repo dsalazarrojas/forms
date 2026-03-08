@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather information from the tenant or property manager for the purpose of preparing a formal "Notice to Vacate" document. The "Notice to Vacate" form is a critical part of the process when a tenant is planning to vacate a rented property. This form helps ensure that the tenant complies with the terms of their lease agreement and any applicable local laws and regulations regarding notice periods. Completing this form accurately and thoroughly is crucial to maintain a smooth and lawful termination of the tenancy. It's essential to verify that the form is correctly completed before submission to prevent potential disputes or misunderstandings.
-
-</thinking>
-
 # notice_to_vacate - Help Guide
 ## Purpose
 The "notice_to_vacate" form is a document that a tenant or property manager uses to notify the landlord or property owner that they plan to vacate a rented property. It's a crucial step in the process to ensure a smooth and lawful termination of the tenancy.

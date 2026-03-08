@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from patients and doctors for medical consultations. The form is designed to capture details about the patient, the doctor, the referral reason, and relevant dates. This information is essential for healthcare providers to make informed decisions and ensure continuity of care.
-</thinking>
-
 # doctor_recommendation_form - Help Guide
 ## Purpose
 This form is used to collect information from patients and doctors for medical consultations, ensuring continuity of care and informed decision making.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to provide new homeowners with important information about their new community. The form collects contact information, emergency procedures, community rules and features, resources available to homeowners, community events, and services provided by the community. This guide will walk through each field to ensure that new homeowners can quickly and easily understand the purpose and requirements of the form.
-</thinking>
-
 # New Homeowner Orientation Form - Help Guide
 
 ## Purpose

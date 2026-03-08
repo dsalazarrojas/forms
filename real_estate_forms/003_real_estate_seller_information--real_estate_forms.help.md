@@ -1,18 +1,3 @@
-<thinking>
-This form is used to collect information from real estate sellers, including their general contact information, property details, and financial information. The form is designed to be completed by sellers themselves or by agents/representatives on their behalf.
-
-Before filling out this form, please ensure you have the necessary permissions and authorization to do so. If you're an agent/representative, please make sure you're representing the seller and have their permission to complete this form.
-
-The form consists of multiple pages, each with a text field where you can provide the required information. Please fill in the form in the following order:
-
-1. General Information (Page 1)
-2. Contact Information (Page 2)
-3. Property Details (Page 3)
-4. Financial Information (Page 4)
-
-Please fill in the information accurately and completely. If a page does not require a specific field, you can skip it or leave it blank.
-</thinking>
-
 # real_estate_seller_information - Help Guide
 ## Purpose
 This form is designed to collect information from real estate sellers, including their general contact information, property details, and financial information.

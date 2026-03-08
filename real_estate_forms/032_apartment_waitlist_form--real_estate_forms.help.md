@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential tenants who are interested in being placed on a waitlist for apartments. The form will help the landlord or property manager to determine if the applicant is a good fit for a potential rental unit and will be used to evaluate their qualifications and preferences for being placed on the waitlist. This form is a crucial part of the rental process and helps to ensure that only suitable applicants are considered for available units.
-Before filling out the form, please note that it is essential to have all necessary information readily available and accurate. Incomplete or inaccurate forms may lead to delays or disqualification from the waitlist. Additionally, the information collected will be kept confidential and will only be used for the purpose of evaluating your application. Please fill out the form accurately and completely to avoid any potential issues.
-</thinking>
-
 # Apartment Waitlist Form - Help Guide
 ## Purpose
 The Apartment Waitlist Form is used to gather information from potential tenants who are interested in being placed on a waitlist for apartments.

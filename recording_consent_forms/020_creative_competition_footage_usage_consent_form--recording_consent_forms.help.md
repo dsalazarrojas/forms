@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Creative Competition Footage Usage Consent Form is understood by end-users and used correctly. This form is used to collect information about the participant's permission and agreement on the usage of their submitted footage, including contests, festivals, and campaigns they are willing to participate in, organizers they want to work with, and other details. Before we begin, let's confirm that this form is meant for participants to provide their consent on the usage of their creative competition footage. It's essential to complete this form correctly to avoid any confusion or miscommunication.
-</thinking>
-
 # Creative Competition Footage Usage Consent Form - Help Guide
 ## Purpose
 The Creative Competition Footage Usage Consent Form is used to collect information about your consent and agreement on the usage of your submitted footage in various contests, festivals, and campaigns.

@@ -1,7 +1,3 @@
-<thinking>
-The "Catering Service Renewal Form" is an essential tool for customers to renew their catering services. Before filling out this form, please ensure you have all the necessary information and details to complete it correctly. This form is designed to collect essential data about your current services, preferences, and contact information. To avoid duplication, please do not submit this form if you have already renewed your service within the past year. This form is meant for customers who wish to continue or modify their services.
-</thinking>
-
 # Catering Service Renewal Form - Help Guide
 ## Purpose
 The Catering Service Renewal Form is designed to collect information about your current services, preferences, and contact details. This form helps our team understand your needs and provide the best possible catering experience for you.

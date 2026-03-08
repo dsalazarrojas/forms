@@ -1,16 +1,3 @@
-<thinking>
-The form "nick_carpenter_sales_funnel_1" seems to be designed for sales-related activities, likely for tracking or managing leads. The fields included appear to cover various aspects of lead information, such as source, contact details, job title, sales agent, lead status, source type, value, currency, and date. The required fields seem to be lead status, source type, and lead value currency. This form might be used for sales lead tracking or management within a business or organization.
-
-The form has the following pages:
-- Page 1: Lead Source
-- Page 2: Contact Information
-- Page 3: Lead Details
-- Page 4: Lead Status and Source Type
-- Page 5: Lead Value
-
-This guide will help users understand the purpose and usage of the form.
-</thinking>
-
 # nick_carpenter_sales_funnel_1 - Help Guide
 ## Purpose
 This form is designed for sales lead tracking and management. It collects information about the lead source, contact details, and lead status.

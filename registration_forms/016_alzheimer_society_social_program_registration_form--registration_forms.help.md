@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for participants to register for a social program organized by the Alzheimer Society. The form is designed to collect necessary contact and participant information, including participant name, contact phone number, and emergency contact name. The program session selection allows participants to choose the time of day they would like to attend the program. The form also asks about dietary restrictions, mobility needs, and if the participant grants consent for media release. These details will help the organizers prepare and accommodate for the participant's needs during the program.
-
-The form is not required, but it is expected that participants will fill it out to ensure they are registered and prepared for the event. Please fill out this form carefully and thoroughly, and if you have any questions or concerns, contact the Alzheimer Society directly.
-</thinking>
-
 # Alzheimer Society Social Program Registration Form - Help Guide
 ## Purpose
 This form is designed to register participants for the Alzheimer Society Social Program.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect rental reference information from a tenant or property manager. The purpose of this form is to provide a comprehensive reference for a rental property, including details about the property's history, rent, and contact information for the landlord. This form is likely to be used by property managers or landlords to gather reference information for a rental property, and by tenants or property owners to submit their own rental reference information.
-
-This form should not be filled out if you are a landlord or property manager looking to collect rent payments or schedule viewings. This form is intended for use by tenants or property managers to provide reference information about a rental property. Please ensure that you are filling out this form with the correct information and in the correct format to ensure accurate and complete reference information.
-
-This form has been designed to be completed by a single user. If multiple users need to access and fill out this form, please contact your administrator or property manager to determine the best course of action.
-</thinking>
-
 # Rental Reference Form - Help Guide
 ## Purpose
 The Rental Reference Form is designed to collect rental reference information from tenants or property managers.

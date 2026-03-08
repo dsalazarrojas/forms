@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Accounting Ledger Review Registration Form - Help Guide
 
 ## Purpose

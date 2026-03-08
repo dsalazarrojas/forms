@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for attendees to provide their registration information and preferences for the AI and Law Conference. 
-
-This form is intended for general attendee registration purposes only and does not require any technical knowledge. The form is structured into different sections to make it easier for attendees to provide their information and preferences.
-
-Before starting this form, make sure to review the provided information carefully and answer accurately. If you have any questions or concerns, you can contact the conference organizers at [form@gic.mx](mailto:form@gic.mx).
-
-Note that this form is an original adaptation and not directly affiliated with any form platforms. The form's metadata was used as inspiration for creating this form, and it is released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it, just giving credit.
-</thinking>
-
 # 008_ai_and_law_conference_registration--registration_forms - Help Guide
 ## Purpose
 The AI and Law Conference registration form is designed to gather attendee information and preferences for the conference.

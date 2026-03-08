@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to be used by customers to inquire about the status of their refunds. The form is intended to be completed by customers who want to know the current status of their refund, which can be: 
-  • Pending: The refund is being processed and has not been paid out yet.
-  • Approved: The refund has been approved and is being processed for payment.
-  • Rejected: The refund has been rejected due to an error.
-  • Cancelled: The refund has been cancelled.
-
-The form should only be used to inquire about the status of a specific refund, hence the "order id" field is required. It's also used to communicate any issues or concerns with the customer service team via "customer_service_email" or "customer_service_phone". 
-
-This form should not be used to request a new refund or provide additional information about a refund, as there is another form for that purpose.
-</thinking>
-
 # Refund Status Inquiry Contact Form - Help Guide
 ## Purpose
 

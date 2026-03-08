@@ -1,7 +1,3 @@
-<thinking>
-We're checking for duplicates and relevance. This form is for collecting consent and preferences from individuals who want to contribute their stories to the community health story archive. The form is not for creating or modifying existing records, so please don't submit this form if you're looking to edit a previously submitted story. This form is only for initial submissions and will be reviewed and processed accordingly.
-</thinking>
-
 # Community Health Story Archive Consent Form - Help Guide
 ## Purpose
 The Community Health Story Archive Consent Form is used to collect consent and preferences from individuals who want to share their stories with the community health story archive.

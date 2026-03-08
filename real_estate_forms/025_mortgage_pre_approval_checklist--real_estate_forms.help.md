@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from a real estate buyer to assess their pre-approval eligibility for a mortgage. The purpose of this form is to gather essential data about the buyer's credit history, employment, income, assets, and credit score to evaluate their creditworthiness for a mortgage. Before completing this form, please ensure you have already checked your credit report and credit score to provide accurate information. This form is not intended for duplicate submissions, and each submission is a new assessment of your eligibility.
-
-</thinking>
-
 # Mortgage Pre Approval Checklist - Help Guide
 ## Purpose
 This form is used to gather necessary information for a mortgage pre-approval assessment. It will help us evaluate your credit history, employment, income, and assets to determine your eligibility for a mortgage.

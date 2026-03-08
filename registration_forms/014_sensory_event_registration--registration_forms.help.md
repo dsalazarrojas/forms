@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, known as the "Sensory Event Registration," is designed to capture user contact information and accessibility needs for events where multiple sessions are being held. The purpose of the form is to ensure that attendees can provide their information accurately and that event organizers can prepare to accommodate their needs. It is not intended for general public use or for events without multiple sessions.
 
 The form is comprised of multiple pages, each with its own set of fields. The first page asks for general contact information, including email, first name, and last name. The subsequent pages ask about accessibility needs, such as dietary restrictions, hearing assistance, vision assistance, and physical movement needs. The final page allows users to select the sessions they plan to attend and provide additional information.

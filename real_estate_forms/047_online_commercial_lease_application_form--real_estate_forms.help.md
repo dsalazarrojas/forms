@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from potential tenants for a commercial real estate lease. The form will help landlords assess a potential tenant's eligibility and suitability for a lease. The form should only be completed by the tenant, not the landlord. The fields are designed to gather relevant details about the tenant and their proposed lease terms. Before filling out this form, please ensure you are eligible to submit it. If you have already submitted this form or are the landlord, do not complete the form again.
-</thinking>
-
 # Online Commercial Lease Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential tenants for a commercial real estate lease. It helps landlords assess a tenant's eligibility and suitability for a lease.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their course preferences and other relevant details. The form is intended for internal use and is not intended for public access. The form is likely to be used by authorized personnel to collect data for administrative or statistical purposes. The form's purpose is to gather information about the user's course selection, age, and other relevant details. The form's fields are designed to be user-friendly and easy to understand. 
-
-Please note that some fields may have multiple options or types (e.g., select_multiple, select_one), and it's essential to ensure that the user selects the correct option for each field to avoid duplication or incorrect information.
-
-The form's fields are as follows:
-</thinking>
-
 # Course Selection Form - Help Guide
 ## Purpose
 The Course Selection Form is designed to collect information from users about their course preferences and other relevant details.

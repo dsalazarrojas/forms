@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Transfer Request Form - Help Guide
 ## Purpose
 The School Transfer Request Form is used by parents or guardians to request a change of school for their child. This form is typically used when a student is requesting to attend a different school due to a specific reason such as bullying, relocation, or special needs. Please ensure you are requesting a school transfer for a valid reason and not duplicating a request for the same student.

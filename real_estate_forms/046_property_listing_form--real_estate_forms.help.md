@@ -1,8 +1,3 @@
-<thinking>
-To create a user-friendly and clear guide for the Property Listing Form, I'll review the form's purpose, required fields, and field-by-field explanations for non-real estate experts. This form is designed for listing real estate properties. It seems to be intended for listing properties that an agent or representative has a professional relationship with. However, the relationship field's purpose is not explicitly clear, so I'll provide possible explanations for it in the field-by-field explanations.
-
-</thinking>
-
 # Property Listing Form - Help Guide
 ## Purpose
 

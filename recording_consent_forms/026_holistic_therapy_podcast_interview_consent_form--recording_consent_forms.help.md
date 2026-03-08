@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for guests who appear on a podcast to provide their consent and additional information for the podcast interview. The purpose of this form is to ensure that the guest has given their consent for the recording and sharing of their interview. The form may also be used to collect additional contact information and other relevant details for the guest and podcast. The fields on this form should be completed by the guest to ensure their consent is properly recorded and their details are accurate.
-</thinking>
-
 # Holistic Therapy Podcast Interview Consent Form - Help Guide
 ## Purpose
 The Holistic Therapy Podcast Interview Consent Form is a necessary step before each episode is recorded. Please take a moment to review this guide to ensure you complete the form accurately.

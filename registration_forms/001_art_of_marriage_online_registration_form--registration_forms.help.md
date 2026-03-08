@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential registrants for the Art Of Marriage online program. This form is intended to be completed by individuals who are interested in registering for the program, either as a couple or as an individual. The form fields are designed to gather personal and contact information, relationship status, and areas of interest related to marriage and relationships.
-
-To prevent duplication, the form should only be filled out once per person or couple.
-
-Please ensure you have the necessary information and consent before filling out this form.
-</thinking>
-
 # Art Of Marriage Online Registration Form - Help Guide
 ## Purpose
 This guide will walk you through the Art Of Marriage Online Registration Form, which is intended to collect information from potential registrants for the Art Of Marriage online program.

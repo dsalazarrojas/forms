@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from customers about their priority boarding access. This form is likely used by travel companies or airlines to gather details about travelers' preferences and status, which can be used to manage boarding processes efficiently. 
-
-The form is not intended to be used for any other purpose, and the information collected will be used solely by the organization that created it. 
-
-This form should not be used for duplicate purposes, such as creating multiple instances of the same customer. To use this form correctly, please ensure that each customer's information is only entered once.
-
-</thinking>
-
 # Priority Boarding Access Form - Help Guide
 
 ## Purpose

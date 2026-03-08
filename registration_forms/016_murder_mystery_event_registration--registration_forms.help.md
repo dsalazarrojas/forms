@@ -1,8 +1,3 @@
-<thinking>
-To prevent the submission of duplicate or incorrect participant information, this form is used to collect and manage participant data for the Murder Mystery Event. It is essential to fill out this form accurately and completely to ensure that your registration is processed correctly.
-
-</thinking>
-
 # Murder Mystery Event Registration - Help Guide
 
 ## Purpose

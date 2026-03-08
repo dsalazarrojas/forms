@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to manage referrals for hemp products. The form is designed to gather information about the contact person, the company they represent, their job title, the product name, type, brand, and any notes that may be relevant to the referral. This form is intended to help track and manage referrals in a structured and organized manner.
-
-It is recommended that users review the form and ensure it is relevant to their business needs before filling it out.
-
-</thinking>
-
 # hemp_product_referral_form - Help Guide
 ## Purpose
 

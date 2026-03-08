@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect relevant information from students to register for a student ID card. This form likely serves as a registration process for students to provide necessary details and documents for the issuance of their student ID card. 
-The form should only be filled out by students who are eligible to register for a student ID card. If a student has already registered, they should not attempt to fill out this form again. 
-</thinking>
-
 # Student ID Card Registration Form - Help Guide
 
 ## Purpose

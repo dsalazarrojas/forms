@@ -1,13 +1,3 @@
-<thinking>
-To determine the form purpose and create a help guide, let's analyze the provided YAML fields. The form, titled "Virtual Reality Content Recommendation Form," appears to be designed to collect information from users about their demographics and preferences for virtual reality content recommendations. However, the actual purpose and usage of the form are not explicitly defined in the YAML fields. Let's consider possible scenarios and create a help guide based on these assumptions:
-
-* The form might be used to understand user demographics and preferences for virtual reality content recommendations, such as recommending content based on age and gender.
-* The form might be used to determine if a user is willing to continue with the form or not, possibly to ensure they are willing to provide more information or engage with the recommended content.
-* The form might be used to recommend content based on content type and user preferences.
-
-Given these assumptions, let's create a help guide that is concrete, concise, and practical.
-</thinking>
-
 # Virtual Reality Content Recommendation Form - Help Guide
 ## Purpose
 This form is designed to help us understand your demographics and preferences for virtual reality content recommendations. Your responses will help us provide tailored content suggestions based on your age, gender, content type, and other preferences.

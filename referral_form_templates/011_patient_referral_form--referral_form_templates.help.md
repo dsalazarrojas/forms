@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and use of the Patient Referral Form. The form is used to gather information about a patient being referred to another healthcare professional or facility. This information includes the referral name, patient details (name, address, phone number, email), referring doctor, and referral date. The form also includes spaces for the referring doctor's and patient's signature, as well as a note field for any additional comments.
-</thinking>
-
 # Patient Referral Form - Help Guide
 ## Purpose
 The Patient Referral Form is used to collect and document information about patients being referred to other healthcare professionals or facilities. This form helps ensure that all necessary information is captured and communicated effectively.

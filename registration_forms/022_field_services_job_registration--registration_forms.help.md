@@ -1,10 +1,3 @@
-<thinking>
-This form is used for registering field services jobs, which can be a service request from a client or a service offered by the field services team. This form is likely used for internal purposes and may be used to manage and track field services jobs. It is possible that this form is used to prevent duplication of jobs or to check for relevance. However, without further information, it is difficult to determine the exact purpose or rules in place for this form. It is assumed that the form is for general field services job registration and is intended for end-users to provide necessary information for the field services team to perform the job.
-
-To provide accurate and helpful information, I will base the guide on the provided form structure and label information.
-
-</thinking>
-
 # Field Services Job Registration - Help Guide
 ## Purpose
 This form is used for registering field services jobs.

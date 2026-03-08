@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect information from individuals who are recommending a Medical Director of a medical conference. This form will help the Medical Director understand the details about the event they are referring, which will be used for communication and coordination with the referring individual and other relevant stakeholders. 
-
-To complete this form, please select the "Submit" button at the end of the last page. If you have any questions, you may contact the Event Coordinators or refer to this help guide.
-
-Before completing the form, ensure that you are referring to an event that you have personal knowledge about. Please note that the Event Description field should be concise, yet informative.
-
-</thinking>
-
 # Event MC Referral Form - Help Guide
 ## Purpose
 This guide is intended to assist users in understanding the event medical director referral form. The form is designed to gather essential details about medical conferences or events, allowing for efficient and accurate communication with event stakeholders.

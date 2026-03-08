@@ -1,8 +1,3 @@
-<thinking>
-This form is used for registering attendees to a mission conference. The purpose of this form is to gather information about the attendees, including their contact details and payment method. To avoid duplication, this form should only be filled out by one person per team. Please make sure to fill out the form accurately and completely.
-
-</thinking>
-
 # mission-conference-registration-form - Help Guide
 ## Purpose
 The mission-conference-registration-form is a registration form for attendees to Mission Conference. It gathers information about the attendees, including their contact details and payment method.

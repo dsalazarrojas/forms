@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mailbox Service Agreement - Help Guide
 
 ## Purpose

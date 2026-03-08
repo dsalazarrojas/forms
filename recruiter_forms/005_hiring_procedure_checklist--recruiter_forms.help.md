@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to gather information and ensure that hiring procedures are followed consistently and effectively. This form is likely to be filled by recruiters or hiring managers during the hiring process to check off tasks and responsibilities for each position. It is intended to prevent duplication and ensure standardization of the hiring process. The form should be completed in a step-by-step manner, and each field should be filled out carefully as it relates to the specific hiring process for the job in question.</thinking>
-
 # Hiring Procedure Checklist - Help Guide
 ## Purpose
 This form is used to ensure that the hiring process is followed consistently and effectively for each position. It helps to standardize the hiring process and prevent duplication of efforts.

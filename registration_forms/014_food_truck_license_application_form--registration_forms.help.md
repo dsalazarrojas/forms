@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about food truck business applicants, including contact details, permit information, and business specifics. It's likely a regulatory form for authorities to process and issue licenses. To avoid duplication, ensure that the applicant's information is up-to-date and accurate to prevent unnecessary paperwork and delays in processing the license.
-
-</thinking>
-
 # Food Truck License Application Form - Help Guide
 ## Purpose
 This form is used to collect information about your food truck business, including contact details, permit information, and business specifics. It will help the authorities process and issue licenses efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about job openings and applicants. It is intended for recruiters or hiring managers to input data related to job postings and applicant contact information. This form is not meant to be used for other purposes, and its completion is not required for any other process within the organization. The form has multiple fields, including text fields for job postings and applicant information, date and time fields, and select fields for job status and application status.
-</thinking>
-
 # Recruitment Form - Help Guide
 ## Purpose
 The Recruitment Form is designed to collect information about job openings and applicants. It is a tool for recruiters or hiring managers to input data related to job postings and applicant contact information.

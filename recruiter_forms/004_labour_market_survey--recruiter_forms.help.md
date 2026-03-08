@@ -1,7 +1,3 @@
-<thinking>
-The "Labour Market Survey" form is designed to collect data on market trends, consumer preferences, and other relevant information from various stakeholders. This form is intended for use by recruiters, managers, and other stakeholders involved in the hiring process. The purpose of this form is to gather specific information on survey methods, frequency, and other relevant details. Please ensure that you have the necessary permissions and approvals to complete this form.
-</thinking>
-
 # Labour Market Survey - Help Guide
 ## Purpose
 The Labour Market Survey form is a tool used to collect data on market trends, consumer preferences, and other relevant information from various stakeholders in the hiring process.

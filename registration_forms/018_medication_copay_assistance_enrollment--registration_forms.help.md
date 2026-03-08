@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from patients who are seeking medication copay assistance. The form is designed to gather relevant details about the patient's medical condition, pharmacy information, and support contacts. The goal of this form is to streamline the enrollment process for copay assistance programs. 
-This form is not designed for internal use, so we will not be duplicating any data or performing any internal functions. We will only focus on user-facing explanations.
-</thinking>
-
 # Medication Copay Assistance Enrollment - Help Guide
 ## Purpose
 This form is intended to collect necessary information for patients who are seeking medication copay assistance. It will help us understand your medical condition, pharmacy, and support contacts to provide accurate assistance.

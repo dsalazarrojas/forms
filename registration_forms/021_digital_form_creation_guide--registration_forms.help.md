@@ -1,7 +1,3 @@
-<thinking>
-This form is a user-facing guide created using AI-generated metadata from various public sources, including survey topics. It's meant to provide an original adaptation of a digital form creation guide, not affiliated with, endorsed by, or derived from any form platform. The form's structure and content are unique and released under CC BY 4.0 license, allowing users to modify, share, and even sell it while giving credit. This form is designed to be a helpful guide for users who want to create their own digital forms without requiring extensive knowledge of form creation platforms. The goal is to make form creation more accessible and user-friendly.
-</thinking>
-
 # Digital Form Creation Guide - Help Guide
 ## Purpose
 The Digital Form Creation Guide is a user-friendly guide designed to help users create their own digital forms without requiring extensive knowledge of form creation platforms. This guide is an original adaptation of a form creation guide, created using AI-generated metadata from public survey topics, and released under the Creative Commons BY 4.0 license.

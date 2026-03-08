@@ -1,17 +1,3 @@
-<thinking>
-This form is a registration form designed for speakers who want to participate in events. The form is used to collect information from speakers about their personal and professional details, event preferences, and bio. The purpose of this form is to help event organizers manage speaker registrations and ensure that all necessary information is collected before the event. This form is not affiliated with any form platform and is an original adaptation created using AI.
-
-The form consists of five sections:
-1. Speaker Details: This section is required and collects basic information about the speaker, such as their name and contact details.
-2. Event Details: This section is also required and gathers information about the event the speaker is attending.
-3. Bio Details: This section is optional and is used to provide more in-depth information about the speaker's background and experience.
-4. Speaker Affiliations: This section is optional and collects information about the speaker's professional affiliations or organizations they are associated with.
-5. Speaker Interests: This section is optional and is used to gather information about the speaker's areas of interest or expertise.
-
-To ensure consistency and accuracy, event organizers can use this form to collect information from speakers and review it before the event.
-
-</thinking>
-
 # event_speaker_registration_form - Help Guide
 ## Purpose
 This form is designed for speakers to provide their details and preferences when registering for events. It helps event organizers collect necessary information to manage speaker registrations and ensure a smooth event experience.

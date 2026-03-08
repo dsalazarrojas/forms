@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide a home buyer through a process to determine their mortgage growth system's suitability for their financial situation. It is intended for informational purposes only. Please note that this form is not a substitute for professional financial or legal advice. By answering the questions in this form, the home buyer will be able to get a better understanding of their mortgage growth system's potential.
-</thinking>
-
 # Home Buyer Template Mortgage Growth System 2 - Help Guide
 
 ## Purpose

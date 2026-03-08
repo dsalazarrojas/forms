@@ -1,5 +1,3 @@
-<thinking>...This form is intended to gather information about the source of a donor's referral to our organization. By asking how the donor found out about our organization, we can better understand our outreach efforts and identify areas for improvement. This form will help us understand if the donor was referred by a friend, family member, or through a promotional event. Please ensure that you're completing this form for a valid referral source. If you're not sure or have already completed this form, you can disregard this guide...</thinking>
-
 # Donor Referral Source Survey - Help Guide
 ## Purpose
 The Donor Referral Source Survey is a form designed to gather information about how a donor found out about our organization. This form helps us understand our outreach efforts and identify areas for improvement in our referral sources.

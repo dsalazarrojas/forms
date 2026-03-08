@@ -1,5 +1,3 @@
-<thinking>Are you sure the provided YAML fields are complete? There are some inconsistencies in the field labels. For example, the field `recording_consent_details` has a label "Recording Consent --", which doesn't seem to follow the same naming convention as the other fields. Similarly, the field `digital_signature_acknowledgment` has a label "Digital Signature Acknowledgment" which seems more like a confirmation message than a field description. Please double-check the form schema to ensure it's accurate and complete.</thinking>
-
 # Compassion Fatigue Research Recording Consent Form - Help Guide
 ## Purpose
 This guide explains the purpose and requirements for completing the Compassion Fatigue Research Recording Consent Form. This form is designed to gather your consent for participating in a research study on compassion fatigue. Please read carefully and provide accurate information to ensure a smooth and successful research experience.

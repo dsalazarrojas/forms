@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect and verify information related to the Industrial Compliance Renewal process. Before proceeding, please ensure that you are filling out this form to register for a renewal and not for a new application. Also, make sure to fill out each field carefully as it will be reviewed and verified by the relevant authorities. If you are unsure about any information or have any questions, please contact the relevant department or authority for clarification.
-</thinking>
-
 # Industrial Compliance Renewal Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Industrial Compliance Renewal process. It collects and verifies information related to the company, site details, contact details, and renewal specifics.

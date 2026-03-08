@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information on the status of a building's maintenance checks, including regular and annual inspections, as well as any issues or repairs needed. The form is designed to be filled out by a building inspector or manager to record the completion of maintenance checks and tasks.
-
-To ensure accurate and comprehensive data collection, this form should only be used for a specific building's maintenance checks. Duplicate or irrelevant submissions will be flagged and removed from the database.
-
-This form will be used to track the maintenance status of various components and systems in the building, including HVAC filters, pest control, fire extinguishers, exterior grounds, plumbing, electrical safety, roof condition, window seals, and other critical systems. By completing this form, you will be contributing to the overall maintenance schedule and helping to ensure the building's safety and functionality.
-
-</thinking>
-
 # Building Maintenance Checklist Form - Help Guide
 ## Purpose
 This form is used to record the completion status of regular and annual maintenance checks for a building, ensuring the building's safety and functionality.

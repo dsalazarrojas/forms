@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal and professional information from aspiring health informatics developers, including their name, contact details, education background, work experience, skills, and job titles. The form aims to gather comprehensive data for training and development purposes. Before filling out this form, please ensure that you have not submitted it previously. If you are unsure about any field, please refer to the help guide below for clarification.
-</thinking>
-
 # Health Informatics Developer Program Registration - Help Guide
 ## Purpose
 This form is designed to collect personal and professional information from aspiring health informatics developers for training and development purposes.

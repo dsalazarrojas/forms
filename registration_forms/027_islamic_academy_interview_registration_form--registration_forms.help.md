@@ -1,7 +1,3 @@
-<thinking>
-This form is for the Islamic Academy to collect information from new applicants. The purpose of this form is to gather necessary details about the applicant, including their contact and payment information, medical details, and any additional information that may be relevant to their application. This form is designed to be completed by the applicant themselves, rather than by someone else on their behalf. 
-</thinking>
-
 # Islamic Academy Interview Registration Form - Help Guide
 ## Purpose
 The Islamic Academy Interview Registration Form is a crucial document that helps us understand your background and requirements for the interview. Please fill out this form accurately to ensure a smooth and effective interview process.

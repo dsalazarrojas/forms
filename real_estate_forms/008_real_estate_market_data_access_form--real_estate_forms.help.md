@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect real estate market data access information from users. It's likely used in a business setting, possibly for internal reporting or analysis. The form should be filled out by users who need access to real estate market data. The purpose of this form is to gather necessary information about a property, such as its location, type, and status. This form is likely used by real estate professionals or analysts. 
-
-Please ensure that you have the necessary permissions to access real estate market data. This form may be part of a larger process that involves data collection, analysis, and reporting.
-
-When filling out this form, please be as accurate and detailed as possible in your responses. If you're unsure about any information, it's better to leave it blank than to provide incorrect data.
-
-</thinking>
-
 # Real Estate Market Data Access Form - Help Guide
 ## Purpose
 The Real Estate Market Data Access Form is a tool used to collect information about properties and access real estate market data. Fill out this form to provide necessary details about a property and request access to relevant data.

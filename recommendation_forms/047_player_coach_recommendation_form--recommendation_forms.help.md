@@ -1,5 +1,3 @@
-<thinking>This form is designed for players, coaches, or sports team staff to provide recommendations for a specific player. Each field is designed to gather relevant information to help coaches identify a player's potential, position, performance, and other relevant details. Please complete this form only if you have first-hand knowledge or experience with the player. Please ensure that you are not submitting duplicate or redundant recommendations for the same player. Duplicate submissions may cause confusion and lead to incorrect assessments of a player's potential.</thinking>
-
 # Player Coach Recommendation Form - Help Guide
 ## Purpose
 The Player Coach Recommendation Form is a tool for players, coaches, or sports team staff to provide recommendations on a specific player. This form helps to gather details about a player's skills, performance, and other relevant information to aid in their development.

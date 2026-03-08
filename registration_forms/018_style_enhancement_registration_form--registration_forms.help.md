@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for style enhancement services. To ensure accuracy and avoid duplication, please do not register a client multiple times. Ensure you are registering the correct client and fill out the form completely and correctly.</thinking>
-
 # style_enhancement_registration_form - Help Guide
 ## Purpose
 The style_enhancement_registration_form is used to collect information from clients for style enhancement services.

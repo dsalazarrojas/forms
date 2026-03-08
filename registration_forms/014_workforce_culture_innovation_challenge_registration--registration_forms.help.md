@@ -1,17 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the "workforce_culture_innovation_challenge_registration" form.
-
-The form is designed to gather information from users about their participation in the Workforce Culture Innovation Challenge. This challenge aims to foster a culture of innovation within the organization. The form is used to collect feedback, ideas, and details about the participants. It is not required to complete the form, but rather to provide optional feedback.
-
-To determine if the form is relevant to the user, I will consider the following factors:
-
-* Is the user a participant in the Workforce Culture Innovation Challenge?
-* Does the user have feedback, ideas, or details to share about their participation?
-
-If the user is a participant and has something to share, they can proceed to complete the form. If the user is not a participant or has nothing to share, they can exit the form without completing it.
-
-</thinking>
-
 # workforce_culture_innovation_challenge_registration - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback, ideas, and details from participants of the Workforce Culture Innovation Challenge.

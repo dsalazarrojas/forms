@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for registration of Chalk Artists for an event. It is intended to collect participant details and payment information. The form's purpose is to ensure that each artist has a spot at the event and that they are aware of the event's rules and policies. To complete this form, the artist will need to provide their name, email, and confirmation of registration fee payment. They may also need to provide additional information such as their portfolio link, art supplies, and booth size requirements. The form is divided into different sections to make it easy for the artist to provide the necessary information.
-
-</thinking>
-
 # Chalk Artist Form - Help Guide
 ## Purpose
 This form is designed for registration of Chalk Artists for an event. It is intended to collect participant details and payment information.

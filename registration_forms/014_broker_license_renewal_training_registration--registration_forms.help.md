@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information for broker license renewal training registration. The purpose of this form is to ensure that users are properly registered for the training course they wish to attend. By completing this form, users will be able to provide their personal and professional information, select their preferred course and schedule, and make payment arrangements. This form should only be completed by individuals who are actually seeking to register for a training course and do not intend to submit duplicate registrations. 
-
-</thinking>
-
 # Broker License Renewal Training Registration - Help Guide
 ## Purpose
 This form is used to register for a broker license renewal training course. To complete the form, please follow the instructions below.

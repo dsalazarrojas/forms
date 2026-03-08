@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # title_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals requesting a title, ensuring that we have all the necessary details to process their request efficiently and accurately.

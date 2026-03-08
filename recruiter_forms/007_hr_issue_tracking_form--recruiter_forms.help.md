@@ -1,12 +1,3 @@
-<thinking>
-This help guide aims to provide users with a clear understanding of the HR Issue Tracking Form, its purpose, and how to fill it out. The form is designed to track HR-related issues, providing a structured approach to document and manage employee concerns, problems, and incidents. 
-
-The form is intended to be completed by HR staff or authorized personnel to record and monitor the progress of HR issues. It's crucial to fill out the form accurately and thoroughly to ensure that all relevant information is captured, and the issue is properly addressed.
-
-Before filling out the form, ensure that the issue you're reporting is not already documented elsewhere and that you're authorized to submit this form. 
-
-</thinking>
-
 # HR Issue Tracking Form - Help Guide
 
 ## Purpose

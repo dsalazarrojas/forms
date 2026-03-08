@@ -1,7 +1,3 @@
-<thinking>
-The Driver Registration Form is designed to collect essential information from drivers, including their personal details, vehicle information, address, and contact information. This form is meant to be completed by drivers who are either registering with a service provider or applying for a driving-related service. To ensure a smooth completion, please note that this form has six sections, none of which are required. However, providing accurate and complete information in each section is crucial for efficient processing. Before proceeding, please ensure that you have all necessary details ready and that you're completing the form for the intended purpose.
-</thinking>
-
 # Driver Registration Form - Help Guide
 ## Purpose
 The Driver Registration Form is designed to collect essential information from drivers for registration, application, or other driving-related services.

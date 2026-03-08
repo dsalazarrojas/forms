@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Boudoir Photography Consent Form - Help Guide
 
 ## Purpose

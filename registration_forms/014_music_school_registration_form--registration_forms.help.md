@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students wishing to register for music lessons at the school. It will be used to determine which classes are available based on the student's preferences. This form should only be completed once, so please fill it out carefully to ensure accuracy. Please note that some fields are optional, but providing all necessary information will help the school to better understand your needs and preferences.
-</thinking>
-
 # Music School Registration Form - Help Guide
 ## Purpose
 The Music School Registration Form is designed to collect information from students who want to register for music lessons. This form helps us understand your needs and preferences to determine which classes are available for you.

@@ -1,7 +1,3 @@
-<thinking>
-We're designing a form to allow users to register for a general knowledge examination. To avoid confusion and errors, let's ensure that this form is only filled out once by each user. To prevent duplicate submissions, we can implement some form of unique identifier or validation mechanism.
-</thinking>
-
 # General Knowledge Examination Registration Form - Help Guide
 ## Purpose
 This form is for registering for a general knowledge examination. Fill it out carefully to ensure accurate and complete information.

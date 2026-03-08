@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # talent_acquisition_report_form - Help Guide
 ## Purpose
 The Talent Acquisition Report Form is designed to gather information about the candidate's journey through the recruitment and hiring process. This form is used to document and track the progress of potential candidates, from initial contact to final hiring decision.

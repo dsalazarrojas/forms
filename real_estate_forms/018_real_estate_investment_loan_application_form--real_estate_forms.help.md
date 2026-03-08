@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from real estate investors and loan applicants. The form will be used to pre-qualify loan applicants for real estate investments. The information collected will be used to assess the loan eligibility and provide necessary documentation to secure the loan.
-
-The form will be used by real estate investors, loan officers, and other stakeholders involved in the real estate investment process. It is recommended that the form be reviewed and completed by an individual with a credit score of 600+ and at least 5 years of experience in real estate investments. 
-
-If the form is already complete, please proceed to review and submit the form. Otherwise, please complete the form and review the help guide for assistance.
-
-</thinking>
-
 # real_estate_investment_loan_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from real estate investors and loan applicants to pre-qualify loan applicants for real estate investments.

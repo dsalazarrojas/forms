@@ -1,7 +1,3 @@
-<thinking>
-We are implementing an employee referral system to help employees recommend qualified candidates for open positions within the company. This form is used to gather information about the referred candidate and the job opening. Please fill out this form carefully and thoroughly to provide the most accurate information.
-</thinking>
-
 # Employee Referral - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # food_service_worker_recommendation_letter_request - Help Guide
 
 ## Purpose

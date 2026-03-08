@@ -1,9 +1,3 @@
-<thinking>
-  **Form Purpose:** This form is intended for primary school enrollment purposes, used to collect information about students who are applying for or enrolling in a primary school. The form aims to gather essential details about the student, including their name, birthdate, school name, email, and phone number.
-  **Form Relevance Check:** Before proceeding, ensure that this form is relevant to your current task. If you're here, it's likely that you or the student (if a guardian) is enrolling or applying for the school. This form should only be used for primary school-related purposes.
-  **Form Non-Duplication Check:** Be cautious of duplication: if you've already submitted this form for the same student in the past, please do not resubmit it. Duplicate submissions can lead to unnecessary processing and potential data inconsistencies.
-</thinking>
-
 # Primary School Enrollment Form - Help Guide
 ## Purpose
 The Primary School Enrollment Form is a document used to gather essential information about students applying for or enrolling in a primary school. This form is intended to collect personal details that will help the school administration process the enrollment smoothly.

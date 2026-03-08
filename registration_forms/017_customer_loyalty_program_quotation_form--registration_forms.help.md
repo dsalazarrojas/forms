@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to ensure that users understand the purpose of the form and how to complete it correctly, avoiding any duplication or misinterpretation of its fields.
-</thinking>
-
 # Customer Loyalty Program Quotation Form - Help Guide
 ## Purpose
 The Customer Loyalty Program Quotation Form is designed to collect relevant information from customers to determine their eligibility for a loyalty program. This form helps to identify whether a customer is eligible for a program and to generate a quotation for their participation.

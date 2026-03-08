@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's analyze the provided YAML fields. The form is called "Renounce Inheritance Form" and has fields related to real estate, such as address, phone number, email, and other personal details. It seems to be used for the execution of an estate, possibly for a deceased person. This form is likely used to gather information from the executor or administrator of the estate for official purposes.
-
-However, some fields have unclear labels, and some fields are not clearly linked to each other. For example, "Real Estate Form State" seems to be related to the state of the country, not the state of the real estate. Similarly, "Real Estate Form Zip Code 2" and "Real Estate Form Zip City 2" seem to be redundant with "Real Estate Form Zip Code" and "Real Estate Form City". I will make sure to clarify these points in the help guide.
-
-</thinking>
-
 # Renounce Inheritance Form - Help Guide
 ## Purpose
 The Renounce Inheritance Form is used to gather information from the executor or administrator of an estate for official purposes. This form is used to document the execution of an estate, and it includes fields for personal details, address, and other relevant information.

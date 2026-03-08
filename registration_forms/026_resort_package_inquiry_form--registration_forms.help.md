@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning: This form is for users to inquired about resort packages. It has three pages: 
-1) Package Information 
-2) Inquiry Details and 
-3) Additional Details. Each page has unique fields with different types and requirements.
-</thinking>
 # resort_package_inquiry_form - Help Guide
 
 ## Purpose

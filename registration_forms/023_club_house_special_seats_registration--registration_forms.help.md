@@ -1,18 +1,3 @@
-<thinking>
-To confirm, the form is meant for attendees to register for a specific event within a Club House, indicating their interest in reserving special seats. The goal is to gather essential information about each attendee, including their contact details, event preferences, accessibility needs, and any special requests or requirements. 
-
-To prevent duplicate registrations or errors, the form will likely include checks to ensure that each attendee provides accurate and valid information. This form will be used for event planning and organization purposes, allowing the Club House team to better prepare and cater to the needs of their attendees. 
-
-For instance, if an attendee requests accessible seating, they will be asked to provide details about their needs, indicating that this form is designed to be user-friendly and accommodating. Similarly, if an attendee selects a special occasion, they will be asked to provide more information about it, showing that the form is tailored to cater to their specific needs. 
-
-Before filling out this form, please ensure that you have the correct event name and date, as these will be essential for the registration process. 
-
-Please note that some fields are mandatory, while others are optional. Mandatory fields are marked as "required: true" in the form schema. Failure to provide required information may result in errors or issues with processing your registration. 
-
-Also, be aware that some fields, such as phone numbers and email addresses, are sensitive information. Please ensure that you provide accurate and up-to-date contact details to ensure that the Club House team can reach out to you with any necessary information or updates.
-
-</thinking>
-
 # Club House Special Seats Registration - Help Guide
 ## Purpose
 The Club House Special Seats Registration form is a user-facing form designed to collect information from attendees for a specific event within the Club House. This form helps the Club House team to better prepare and cater to the needs of its attendees.

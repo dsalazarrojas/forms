@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Calligraphy Registration Form, which is used for participants to register for a calligraphy class. This form is used to collect relevant information from participants, ensuring that they have the necessary details to attend the class. 
-
-The form is designed to be simple and straightforward, requiring users to input their contact and class preferences. 
-
-Before proceeding, ensure that you have not already completed this form and that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # Calligraphy Registration Form - Help Guide
 ## Purpose
 

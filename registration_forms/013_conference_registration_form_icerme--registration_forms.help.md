@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registration to the ICERME conference. It is meant to gather information from participants about their personal and professional details, conference preferences, and payment methods. The form is used to ensure accurate records and facilitate conference organization. It is recommended to review the form carefully before submission to avoid any errors or omissions.
-</thinking>
-
 # Conference Registration Form (ICERME) - Help Guide
 ## Purpose
 The Conference Registration Form is a mandatory form for all participants attending the ICERME conference. It is used to collect essential information for registration and conference organization purposes.

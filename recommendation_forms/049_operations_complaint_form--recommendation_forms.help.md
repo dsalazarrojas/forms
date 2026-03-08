@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to gather information about operations complaints and feedback from users. It is intended to be filled out by users who wish to report an issue or incident that occurred during an operation. The form will help to track and follow up on these complaints to ensure that they are resolved in a timely and efficient manner.
-
-To avoid duplication, please only submit one form per incident. If you have already submitted a form for the same incident, please do not resubmit it.
-
-The form will help to provide a clear and structured way of reporting complaints and feedback, making it easier for our team to understand the issue and take action.
-
-Please ensure that the form is filled out accurately and completely, as this will help us to resolve the issue more efficiently.
-
-If you are unsure about any information, please do not hesitate to reach out to the relevant department for clarification.
-
-Please ensure that the information provided is up-to-date and accurate, and that you have all the necessary details before submitting the form.
-
-</thinking>
-
 # Operations Complaint Form - Help Guide
 ## Purpose
 This form is designed to gather information about operations complaints and feedback from users.

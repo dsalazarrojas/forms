@@ -1,6 +1,3 @@
-<thinking>
-This form is a contact form for property technology partners to provide their information and collaborate with the organization. The form is used for internal purposes to collect contact details of potential collaborators. The form should only be filled out by authorized personnel. Please ensure that all required fields are filled out before submitting the form, and that you are not duplicating the effort already made.
-</thinking>
 # Property Technology Partner Contact Form - Help Guide
 ## Purpose
 The Property Technology Partner Contact Form is designed to collect contact information from property technology partners for internal collaboration and partnership purposes.

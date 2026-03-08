@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Apartment Inspection (Matris) - Help Guide
 ## Purpose
 The Apartment Inspection (Matris) form is used to gather information about the condition of a rental property. This includes various aspects such as exterior and interior features, plumbing and electrical systems, and overall habitability. The form is designed to guide inspectors through the inspection process and provide a comprehensive report of their findings.

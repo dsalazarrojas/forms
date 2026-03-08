@@ -1,8 +1,3 @@
-<thinking>
-This form is used for student registration and enrollment in a programming course. It gathers necessary information for course administrators to process the registration and facilitate a smooth learning experience. Before proceeding, please ensure that you have all required information and have read the form carefully to avoid any issues during the enrollment process.
-
-</thinking>
-
 # programming_course_enrollment_form - Help Guide
 ## Purpose
 The **programming_course_enrollment_form** is used for students to register and enroll in a programming course. This form helps course administrators gather necessary information to process the registration and ensure a smooth learning experience for all participants.

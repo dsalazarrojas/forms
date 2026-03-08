@@ -1,7 +1,3 @@
-<thinking>
-The "integrative-medicine-training-registration-form" is used to collect information from users who wish to register for an integrative medicine training program. This form is designed to be completed by individuals who are interested in learning about integrative medicine, which is a holistic approach to healthcare that combines conventional Western medicine with evidence-based therapies and practices from other cultures and traditions.
-</thinking>
-
 # integrative-medicine-training-registration-form - Help Guide
 ## Purpose
 This form is for users who want to register for the integrative medicine training program. Please fill out this form to submit your information.

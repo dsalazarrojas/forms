@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Counselling Referral Form - Help Guide
 
 ## Purpose

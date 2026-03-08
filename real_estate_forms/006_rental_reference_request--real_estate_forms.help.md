@@ -1,17 +1,3 @@
-<thinking>
-This form is used to collect rental reference information from end users. The purpose of this form is to gather specific details about a rental property, including its address, tenant's name, and rental dates. This information is likely to be used by property managers or real estate professionals for administrative tasks.
-
-To determine if this form is being used correctly, we will need to review the input data against the following rules:
-
-*   Each form submission should include a unique `form_id`
-*   The tenant's name should match the name on file with the property management system
-*   The property address should match the address on file with the property management system
-*   The start date and end date should be within a reasonable time range (e.g., not before the year 2000 or after the current year)
-*   There should not be duplicate entries for the same `form_id`
-
-If any of these conditions are not met, the form submission will be rejected. Please ensure you have a clear understanding of these requirements before completing this form.
-</thinking>
-
 # Rental Reference Request - Help Guide
 ## Purpose
 The Rental Reference Request form is used to collect rental reference information from end users. This form gathers specific details about a rental property, including its address, tenant's name, and rental dates.

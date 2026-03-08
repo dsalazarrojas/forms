@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect basic registration information for a dance competition. The form should not be completed by individuals who are not actually participating in the competition or do not have permission to represent a dance school. To confirm the purpose of this form and prevent duplication of effort, please verify the following:
-* Is this form intended for your own use or for someone else's?
-* Have you already submitted this form?
-</thinking>
-
 # dance_comp_registration_form_udo - Help Guide
 ## Purpose
 This form is for dancers to submit their registration information for a dance competition.

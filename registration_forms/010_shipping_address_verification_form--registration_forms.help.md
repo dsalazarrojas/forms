@@ -1,7 +1,3 @@
-<thinking>
-The shipping_address_verification_form is designed to verify the shipping address of a customer. This form is used to confirm that the customer's shipping address is accurate and up-to-date. The form should only be filled out once the customer has placed an order or is creating a new account. This form is not intended to be filled out for every single order or account creation, but rather as a one-time verification process. Please ensure that you have the customer's permission to collect and store their shipping address information before filling out this form.
-</thinking>
-
 # shipping_address_verification_form - Help Guide
 ## Purpose
 The shipping_address_verification_form is used to verify the shipping address of a customer, ensuring that it is accurate and up-to-date.

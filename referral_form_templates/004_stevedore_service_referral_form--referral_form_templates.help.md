@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is for referring new services that Stevedore, a stevedore service platform, can offer. This form will guide you through the process of submitting a service referral that matches Stevedore's criteria. When completing the form, ensure that your referral is in line with our guidelines to avoid duplication. Please fill in all required fields, and ensure that the stevedore_service_name field is unique and does not refer to an existing service already in our database. If your referral does not fit our service offering, it will not be accepted.
-</thinking>
-
 # Stevedore Service Referral Form - Help Guide
 ## Purpose
 This form is used for submitting new service referrals that match Stevedore's service offering criteria.

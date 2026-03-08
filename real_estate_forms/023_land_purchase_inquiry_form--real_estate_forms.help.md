@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Land Purchase Inquiry Form - Help Guide
 ## Purpose
 The Land Purchase Inquiry Form is designed to collect information from potential buyers interested in purchasing land from our company. This form helps us understand their requirements and preferences, enabling us to provide personalized assistance and support throughout the process.

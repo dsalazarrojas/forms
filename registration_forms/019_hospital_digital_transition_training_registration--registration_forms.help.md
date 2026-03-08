@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering a hospital's digital transition training program. It is used to collect information from hospital staff who are interested in participating in the training. This form is part of the hospital's onboarding process for new staff members. To ensure that each staff member has a unique experience, this form should only be filled out once per staff member. If you've already completed this form, you do not need to fill it out again.
-</thinking>
-
 # Hospital Digital Transition Training Registration - Help Guide
 
 ## Purpose

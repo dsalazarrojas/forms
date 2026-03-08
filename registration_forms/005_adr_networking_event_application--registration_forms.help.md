@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ADR Networking Event Application - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the ADR Networking Event Application form. This form is used to gather information from potential attendees for an ADR networking event. It collects personal and professional details, interests, and session preferences to help tailor the experience for attendees.

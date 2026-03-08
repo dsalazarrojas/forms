@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a residential property, including its category, description, sources, surroundings, condition, age, size, use, number of bedrooms and bathrooms, lot size, square footage, number of stories, year built, zip code, city, state, country, address, neighborhood, municipalities, and any additional notes or owner information. This form is likely used by real estate agents or other professionals in the real estate industry to gather and record property details.
-</thinking>
-
 # Residential Property Disclosure Form - Help Guide
 ## Purpose
 This form is used to collect and record information about a residential property.

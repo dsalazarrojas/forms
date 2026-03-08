@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Real Estate Applicant Questionnaire Form, we first need to understand the purpose and context of the form. This form appears to be designed for real estate applicants to provide information about their background, financial status, and preferences to aid real estate agents or other relevant parties in understanding their requirements and suitability for a particular residence or investment opportunity. The form seems to be structured to gather a range of information that could influence decisions related to renting or buying properties. It's crucial to verify the form's purpose and ensure it's not a duplicate or outdated.
-
-Upon reviewing the form's structure, it appears to be a multi-page form with various fields, including multiple select options, number fields, and text fields. Each field has been categorized into specific types and sections, which could help us organize the form's content and provide a systematic guide for users.
-
-Now that we have a better understanding of the form's context and structure, we can create a help guide that covers the essential aspects of using the form.
-
-</thinking>
-
 # Real Estate Applicant Questionnaire Form - Help Guide
 
 ## Purpose

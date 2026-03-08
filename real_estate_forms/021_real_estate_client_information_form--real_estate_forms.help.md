@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect real estate client information, which will be used for various purposes such as listing properties, managing client relationships, and generating reports.
-It is recommended to complete this form with accurate and up-to-date information to ensure a smooth and efficient process.
-Please review the form carefully before submitting it to ensure that all required fields are completed correctly.
-</thinking>
-
 # real_estate_client_information_form - Help Guide
 ## Purpose
 This form is designed to collect real estate client information, which will be used for various purposes such as listing properties, managing client relationships, and generating reports.

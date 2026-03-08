@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_estate_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from real estate agents for the purpose of processing their applications for employment with a real estate company. The form is divided into sections for personal information, contact details, work experience, and other relevant fields. 

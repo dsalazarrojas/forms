@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from prospective tenants during the viewing and screening process for a property. The purpose of this form is to collect relevant details about the prospective tenant, their viewing preferences, and any additional comments or notes.
-This form is part of a larger process that may involve multiple forms and interactions with the landlord or property owner. To avoid duplication of effort and ensure accuracy, it is essential to complete this form carefully and thoroughly.
-</thinking>
-
 # property_viewing_screening_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from prospective tenants during the viewing and screening process for a property.

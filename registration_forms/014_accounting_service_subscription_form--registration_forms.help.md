@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to subscribe to an accounting service. The purpose of this form is to collect necessary information from subscribers for onboarding and billing purposes. The form is required to be completed in order to create a subscription.
-This form has 7 required fields and 5 optional fields.
-The form is divided into multiple pages, each page has a specific focus.
-</thinking>
 # Accounting Service Subscription Form - Help Guide
 ## Purpose
 This form is used to collect information required for onboarding and billing purposes.

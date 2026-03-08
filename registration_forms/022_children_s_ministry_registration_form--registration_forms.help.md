@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians about their child's personal details, relationship to the child, and the child's participation in ministry programs. The form will be used to determine which programs the child is eligible for and to provide necessary information for ministry staff to effectively serve the child. It is expected that each field will be filled in completely and accurately to avoid any issues with the registration process.
-
-Please ensure that you are registering the correct child and providing accurate information about your relationship to the child. If you are unsure about any of the fields, please ask for clarification or assistance.
-
-Note: The form has been designed to follow the required fields and options from the provided YAML structure. Each field has been assigned a unique ID for identification purposes.
-</thinking>
-
 # Children's Ministry Registration Form - Help Guide
 ## Purpose
 The Children's Ministry Registration Form is designed to collect information from parents or guardians about their child's details, relationship to the child, and participation in ministry programs.

@@ -1,7 +1,3 @@
-<thinking>
-We are designing a help guide for the "D&H Marketing Recipe Sharing Form" to assist end-users in completing the form efficiently. The form is designed to collect information from users about their favorite recipes and preferences. To ensure that the form is completed accurately and consistently, we will be checking for duplication and relevance of the information entered. The form is divided into multiple pages, each with its own set of questions. We will be providing a field-by-field explanation to help users understand the purpose and requirements of each field.
-</thinking>
-
 # D&H Marketing Recipe Sharing Form - Help Guide
 ## Purpose
 The D&H Marketing Recipe Sharing Form is a survey designed to collect information about your favorite recipes, ingredients, drinks, and desserts. This form will help us understand your preferences and interests, and we'll use this information to improve our marketing strategies.

@@ -1,15 +1,3 @@
-<thinking> 
-This form is designed for individuals or companies to register for a product sampling event. It collects contact information, event preferences, and other relevant details for the event organizers to plan and execute the event efficiently. The form is not strictly required for anyone, but it's recommended for potential attendees to ensure that they don't miss out on the event.
-
-Form fields are categorized into several sections:
-
-- Personal information: This section includes fields for first name, email, company, job title, department, and contact number/contact email. These are standard contact details and are not necessarily related to the product sampling event specifics.
-- Event preferences: This includes fields for preferences such as sample preferences, date of birth, dietary restrictions, and event details. These fields are related to the event specifics and are intended to help the event organizers tailor the event to the individual's needs.
-- Event details: These fields are about the event itself and include event date, time, location, and duration. They are also related to the event specifics and are intended to help the organizers plan and execute the event efficiently.
-- Additional information: This section includes fields for other product sample preferences and other event details that don't fit into the other categories. It's for users to add any extra information they deem relevant.
-
-</thinking>
-
 # Product Sampling Event Registration - Help Guide
 ## Purpose
 The Product Sampling Event Registration form is designed to collect information from potential attendees to tailor the event to their needs and preferences.

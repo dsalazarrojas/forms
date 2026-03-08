@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a real estate contract to close. It includes fields for buyer and seller information, property details, financing, and closing terms. The form is intended for use by real estate professionals to streamline the closing process. Please ensure you have reviewed the form for completeness and accuracy before proceeding.
-</thinking>
-
 # Contract To Close - Help Guide
 ## Purpose
 The Contract To Close form is used to collect essential details about a real estate transaction, including buyer and seller information, property details, financing, and closing terms. This form helps real estate professionals manage the closing process efficiently.

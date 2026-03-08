@@ -1,8 +1,3 @@
-<thinking>
-We are designing a Tenant Reference Verification form for landlords, property managers, or building owners to collect feedback from renters or tenants who have stayed in their properties. This form will help us gauge the overall experience and quality of service provided by our tenants.
-The primary purpose of this form is to gather information about the tenant's experience with the property, including their opinion on the quality of services, maintenance, and overall satisfaction. This will help us identify areas of improvement and make data-driven decisions to enhance our services. To ensure we don't duplicate efforts, we'll check if a tenant has already completed a similar form.
-</thinking>
-
 # Tenant Reference Verification - Help Guide
 ## Purpose
 This form is designed to collect feedback from tenants about their experience with a specific property, including their opinion on the quality of services, maintenance, and overall satisfaction.

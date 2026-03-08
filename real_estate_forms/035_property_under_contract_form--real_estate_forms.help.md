@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about properties that are currently under contract. The purpose of this form is to standardize and document the sales progress and details for real estate professionals. This form is likely used by agents, brokers, or other stakeholders involved in the transaction. Before proceeding, ensure that you have all relevant information and authorization to fill out this form.
-
-Please note that the following sections explain the purpose and usage of each field based on the provided YAML structure. If any fields are missing or unclear, please ask for clarification.</thinking>
-
 # Property Under Contract Form - Help Guide
 ## Purpose
 This form is designed to collect information about properties that are currently under contract. It is used by real estate professionals to standardize and document sales progress and details.

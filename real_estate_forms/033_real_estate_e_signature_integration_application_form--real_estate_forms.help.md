@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information for real estate E-signature integration requests from teams within a company. It's crucial to ensure that this form isn't filled out by non-relevant entities or duplicate requests. This is a critical part of maintaining a smooth and organized E-signature integration process for real estate teams within the company.
-</thinking>
-
 # Real Estate E-Signature Integration Application Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Character Reference Request Form - Help Guide
 
 ## Purpose

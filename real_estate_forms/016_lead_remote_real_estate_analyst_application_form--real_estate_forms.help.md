@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals applying to be a Lead Remote Real Estate Analyst. The form is part of a larger application process, and its primary goal is to gather relevant details about the applicant, including contact information, professional experience, education, and references. The form also allows applicants to upload their resume and portfolio. It is essential to complete this form accurately and thoroughly to ensure that the application process is successful.
-</thinking>
-
 # Lead Remote Real Estate Analyst Application Form - Help Guide
 ## Purpose
 This form is a crucial part of the application process for Lead Remote Real Estate Analyst positions. It helps us understand your background, experience, and qualifications to assess your suitability for the role.

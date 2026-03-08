@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record consent for sports conference recordings. It is intended for speakers or attendees to provide their consent for their sessions to be recorded. The form should only be used for recording conferences, and not for other types of events. To avoid duplication, please ensure that this form is not submitted for events that have already been recorded in the past.
-</thinking>
-
 # Sports Conference Recording Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from speakers or attendees for their sessions to be recorded during a sports conference.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to outline the terms and conditions of a rental property for guests and hosts to agree upon. The form ensures that both parties are on the same page regarding check-in and check-out policies, house rules, and financial terms. The form's purpose is to prevent miscommunication and ensure a smooth and respectful experience for both the guest and host. By using this form, the host can clearly state their expectations and requirements, and the guest can confirm understanding and agreement.
-</thinking>
-
 # Airbnb Check In Check Out Policies Agreement Form - Help Guide
 ## Purpose
 This form is designed to be a comprehensive guide for both the guest and host to review and agree upon the terms of the rental agreement. It includes all necessary information to ensure a smooth and enjoyable experience for both parties.

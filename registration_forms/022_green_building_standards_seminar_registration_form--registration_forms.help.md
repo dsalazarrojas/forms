@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect registration information from participants attending the Green Building Standards Seminar. The purpose of this form is to gather essential details from attendees, including their participant information, contact details, dietary requirements, special needs, emergency contacts, and payment information.
-
-Before proceeding, ensure that you have not already registered for this seminar, as multiple registrations may not be allowed. If you are unsure, you can check the seminar's registration list or contact the seminar organizers for clarification.
-
-The form consists of 10 fields, each with a specific purpose:
-</thinking>
-
 # green_building_standards_seminar_registration_form - Help Guide
 ## Purpose
 The green_building_standards_seminar_registration_form is designed to collect registration information from participants attending the Green Building Standards Seminar.

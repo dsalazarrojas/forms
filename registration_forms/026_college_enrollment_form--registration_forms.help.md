@@ -1,10 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "College Enrollment Form" that will walk users through the purpose and process of completing the form. This form is used for registering students to a college or university, and is used to collect relevant information for enrollment, billing, and other administrative purposes. Before creating this guide, we'll review the form's structure and fields to ensure we cover all the necessary information.
-
-The form is divided into several sections, each with its own set of fields. We'll cover each section and field in detail, explaining their purpose, how to fill them out, and any relevant tips or notes.
-
-</thinking>
-
 # College Enrollment Form - Help Guide
 ## Purpose
 The College Enrollment Form is used to register students to a college or university. It collects information for enrollment, billing, and other administrative purposes. This form is required for all students who wish to enroll in the college.

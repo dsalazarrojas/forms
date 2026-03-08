@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information from parents and the babysitter at the start of each session to ensure the child's safety and well-being. This form is a crucial tool for the babysitter to have the necessary details about the child's health, medications, and emergency contacts in case of an unexpected situation. The form should be completed accurately and carefully to avoid any potential risks or misunderstandings.
-The form is designed to be completed by both the parent and the sitter, with some fields requiring confirmation from both parties. This ensures that all necessary information is captured and that both parties are aware of their responsibilities and expectations.
-</thinking>
-
 # Babysitting Check In Form - Help Guide
 
 ## Purpose

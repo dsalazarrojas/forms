@@ -1,5 +1,3 @@
-<thinking>...The form "Candidate Referral Incentive Request Form" is used by employees to request incentives for referring a candidate to the company. This form helps to ensure that the employee referral process is followed correctly and efficiently, and that the referring employee is eligible for an incentive. By completing this form, the referring employee is confirming that they have read and agree to the company's employee referral policy and understand that incentives are only paid after the referred candidate completes 90 days of employment... </thinking>
-
 # Candidate Referral Incentive Request Form - Help Guide
 ## Purpose
 This form is used to request incentives for referring a candidate to the company. To be eligible, the referring employee must be a current employee of the company and have referred a candidate who has been successfully hired and completed 90 days of employment.

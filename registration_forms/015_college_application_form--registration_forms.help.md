@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals applying to a college or university. The form includes fields for personal contact information (first name, last name, email address, phone number, date of birth, and permanent address), nationality and citizenship status, educational background (desired degree, field of study), and professional experience. Additionally, it asks questions to gauge the individual's preparedness and language proficiency.
-
-The form should not be used to apply for multiple programs or individuals. 
-
-Please ensure you are providing accurate information as it will be used to review and evaluate your application. 
-
-Please fill in all required fields accurately and truthfully. 
-
-Note: This form is not for internal use, it is a user-facing application form, hence please be concise and clear while filling in this form.
-
-</thinking>
-
 # College Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals applying to a college or university. It is used to gather relevant data for review and evaluation of the application.

@@ -1,8 +1,3 @@
-<thinking>
-To avoid redundancy and non-essential information, let's review the provided form fields and determine its overall purpose. This form appears to be designed for businesses seeking financial assistance related to business continuity, likely in response to a disruption or emergency. The form aims to collect essential business information, financial data, and funding needs to provide support. The form is divided into two main sections: "Business Information" and "Financial Impact." The "Business Information" section collects basic business details, such as name, registration number, industry type, and contact information. The "Financial Impact" section inquires about the type of disruption or event, estimated financial loss, and funding needs, including the purpose of funding and repayment capacity. This form appears to be intended for businesses that have been affected by a disruption or emergency and are seeking financial assistance.
-
-</thinking>
-
 # Business Continuity Finance Registration Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from businesses affected by a disruption or emergency to help determine their financial needs. It is used to assist in providing financial support.

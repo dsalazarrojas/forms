@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to register users for a weight loss challenge, collecting information about their name, contact information (email and phone number), their expectation on the challenge, and any relevant medical conditions such as diabetes or allergies. This form is intended for users who want to participate in the weight loss challenge. To avoid duplication, we should check the database for existing registrations before submitting the form.
-
-The form is designed to be completed by the user in a step-by-step manner, with each page containing a few fields. The first page is likely to have the user's name and contact information. The second page may include medical conditions, which could be a combination of selection and free-text fields. 
-
-This form is designed to be user-friendly and straightforward, with clear field labels and instructions to guide the user through the registration process.
-
-</thinking>
-
 # Weight Loss Challenge Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register users for a weight loss challenge, collecting information about their name, contact details, and medical conditions.

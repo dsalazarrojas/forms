@@ -1,6 +1,3 @@
-<thinking>
-This form is for registering an adult care service. The purpose of this form is to gather information about the client who will be receiving care services, including their contact details, medical history, and care requirements. This form ensures that the service provider has all necessary information to deliver effective care. Please ensure that you are authorized to register this client for care services before proceeding.</thinking>
-
 # Adult Care Service Registration - Help Guide
 ## Purpose
 The Adult Care Service Registration form is used to gather information about the client who will be receiving care services. This form is essential for ensuring that the service provider has all the necessary details to deliver effective care.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to provide a reference for an employee, which can be used for various purposes such as performance evaluations, promotions, or other personnel decisions. This form collects relevant information about the employee, including their name, the name of the person providing the reference, the company they work for, their role, the period of reference, contact information, any additional notes, and email contact information. It's essential to ensure that the information is accurate and up-to-date to provide a fair and informed reference.
-
-Before filling out this form, please ensure you have the necessary permissions and approvals within your organization to provide a reference. If you're unsure, please consult with your HR department or supervisor for guidance. 
-
-This form should not be used for duplicate references for the same employee. If you need to update an existing reference, please make sure to update the relevant information in this form and resubmit the form for approval.
-</thinking>
-
 # Employee Reference Form - Help Guide
 ## Purpose
 The Employee Reference Form is used to gather information about an employee for performance evaluations, promotions, or other personnel decisions.

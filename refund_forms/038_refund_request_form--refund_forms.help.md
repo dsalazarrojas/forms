@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to collect information for potential refunds on orders. This form is designed to guide users through the process of requesting a refund, which is an essential aspect of customer service. To ensure that you complete this form correctly, please review the following guidelines:
-
-1.  This form is meant to be used by customers or authorized agents to initiate a refund request. 
-2.  Please ensure that the form is not completed for orders that have already been refunded or cancelled.
-3.  The form will be reviewed and processed by support staff to determine the validity of the request.
-
-After reviewing these guidelines, you can proceed to complete this form.
-
-</thinking>
-
 # Refund Request Form - Help Guide
 
 ## Purpose

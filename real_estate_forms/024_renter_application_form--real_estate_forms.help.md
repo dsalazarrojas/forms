@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this Renter Application Form is to collect information from individuals or entities seeking to rent a property. This form will help to identify potential renters, gather their contact information, and understand their renting preferences and requirements. By using this form, the landlord or property manager will be able to review and process applications efficiently, reducing the time spent on manual paperwork and increasing the accuracy of renter data. Before proceeding, ensure you are filling this form for a genuine purpose and not for testing or experimenting. Please fill the form out completely and accurately to avoid any issues during the application process.
-</thinking>
-
 # Renter Application Form - Help Guide
 
 ## Purpose

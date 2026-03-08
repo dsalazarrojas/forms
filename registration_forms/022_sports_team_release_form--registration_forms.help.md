@@ -1,9 +1,3 @@
-<thinking>
-This form is used to obtain a participant's release from a sports team, typically for injuries or medical conditions. It's essential to complete this form carefully to ensure accurate information and proper release procedures. 
-Please note that this form is only applicable for specific situations where a participant's release is required, such as severe injuries or medical conditions that prevent them from participating in the activity. 
-Ensure you're not using this form for other purposes, as it's not designed for general participant information or team roster management.
-</thinking>
-
 # Sports Team Release Form - Help Guide
 ## Purpose
 The Sports Team Release Form is used to document a participant's release from a sports team due to injuries or medical conditions.

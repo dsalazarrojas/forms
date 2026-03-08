@@ -1,11 +1,3 @@
-<thinking>
-We should create a help guide that explains the purpose and fields of the BOR Conference Registration Form to help users understand what is expected of them. To confirm, the form is for registering attendees for the BOR Conference. We should ensure that users can easily find the information they need to fill out the form correctly. We should also make sure to cover all the required fields and provide additional tips and explanations for those fields that are not straightforward. 
-
-The form appears to be split into several sections, each with its own set of fields. It's essential to break down the form into manageable sections and explain each field's purpose and requirements. We can also include any specific notes or hints provided in the form to help users better. 
-
-The form requires users to provide personal information, conference details, registration type, and payment information. We should highlight any special requests or accommodations users might need to consider. We should also provide guidance on how to fill out the payment method field. 
-</thinking>
-
 # BOR Conference Registration Form - Help Guide
 ## Purpose
 The BOR Conference Registration Form is for users to register for the conference, providing their personal details, conference preferences, and payment information. 

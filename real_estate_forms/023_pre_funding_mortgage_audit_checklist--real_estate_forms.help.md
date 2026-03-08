@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Pre Funding Mortgage Audit Checklist - Help Guide
 ## Purpose
 The Pre Funding Mortgage Audit Checklist is a tool to help you review and identify any potential issues or risks associated with a mortgage file. The form is used to ensure that all necessary information and documents are in order before proceeding with the funding process.

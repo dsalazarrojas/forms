@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Building Research Registration Form - Help Guide
 
 ## Purpose

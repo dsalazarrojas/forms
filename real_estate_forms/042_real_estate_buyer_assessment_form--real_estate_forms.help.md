@@ -1,7 +1,3 @@
-<thinking>
-We should consider the purpose of this form and ensure it is not a duplicate. This form is intended for assessing the needs and preferences of real estate buyers, gathering information to provide personalized recommendations. Let's review the provided YAML fields and create a concise and practical user-facing help guide.
-</thinking>
-
 # real_estate_buyer_assessment_form - Help Guide
 ## Purpose
 This form is designed to gather information about your needs and preferences as a real estate buyer. Please answer the following questions to help us provide you with tailored recommendations for your real estate needs.

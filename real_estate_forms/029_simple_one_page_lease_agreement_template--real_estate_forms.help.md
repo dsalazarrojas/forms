@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for a simple one-page lease agreement template. The form is meant to be a basic outline for recording the essential details of a lease between a landlord and a tenant. This template can be used for residential or commercial leases. The form does not handle payment or security deposit details, which may need to be included separately, depending on the jurisdiction. 
-
-The form is suitable for a single-page document and might not be applicable for complex or lengthy contracts. If you are in need of a more detailed lease agreement, consider seeking professional legal assistance or using a more comprehensive template.
-</thinking>
-
 # Simple One Page Lease Agreement Template - Help Guide
 ## Purpose
 

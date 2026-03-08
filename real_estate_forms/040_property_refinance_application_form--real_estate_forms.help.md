@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for users to apply for a property refinance, likely for homeowners who want to refinance their existing mortgage or switch to a different type of property. The form asks for personal and financial information about the user and their co-borrower (if applicable). It also includes questions about the property itself, including its type, value, and address. The fields related to loan terms suggest that the form is not just for informational purposes but also for actual loan applications. This form could be used by a financial institution or a real estate company to gather information from customers. It's essential to ensure that the user understands that the information provided will be used to assess their loan eligibility and that their data will be kept secure and confidential.
-</thinking>
-
 # Property Refinance Application Form - Help Guide
 ## Purpose
 The Property Refinance Application Form is a tool designed for individuals and couples to provide information about their property and financial situation to assess their eligibility for a refinance loan. This form helps lenders understand the property's value, type, and other relevant details, as well as the borrower's credit history, income, and employment status. 

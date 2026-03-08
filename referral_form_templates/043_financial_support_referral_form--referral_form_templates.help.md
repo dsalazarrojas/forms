@@ -1,5 +1,3 @@
-<thinking>Financial Support Referral Form is a tool used to facilitate the referral process of individuals or families seeking financial assistance. This form should only be completed if the individual or family has not already been referred to another organization or service. If you're unsure, please check the referral history before filling out this form.</thinking>
-
 # Financial Support Referral Form - Help Guide
 
 ## Purpose

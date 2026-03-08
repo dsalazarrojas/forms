@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Holiday Trophy Registration - Help Guide
 ## Purpose
 The Holiday Trophy Registration form is designed to collect participant information for a holiday event. The form is used to register participants for the event, gathering essential details such as name, email, phone number, and other relevant information.

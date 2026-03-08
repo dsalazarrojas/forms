@@ -1,11 +1,3 @@
-<thinking>
-The Tenant Financial Hardship Application form is designed to be completed by tenants who are experiencing financial difficulties in paying rent or other housing-related costs. This form will help tenants demonstrate their financial hardship to their landlord or property owner, potentially leading to temporary rent reductions or other financial accommodations. 
-
-The purpose of this form is to gather essential information from tenants about their financial situation, rent history, and hardship details. This data will be reviewed by the landlord or property owner to determine the validity of the tenant's claim. 
-
-Please ensure that you have not already submitted a hardship application for the same property or unit, as duplicate applications may be rejected. 
-</thinking>
-
 # Tenant Financial Hardship Application - Help Guide
 ## Purpose
 The Tenant Financial Hardship Application is a form to be completed by tenants who are experiencing financial difficulties in paying rent or other housing-related costs. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for collecting information about event florist referrals. The form likely aims to gather details about specific events, such as weddings or corporate events, and their corresponding partnerships or vendor recommendations. Before completing this form, ensure that you have the necessary information and that you're not duplicating existing data.
-</thinking>
-
 # Event Florist Referral Form - Help Guide
 ## Purpose
 This form is designed to collect data about event florist referrals, including wedding and corporate events, and associated partnerships and vendor recommendations.

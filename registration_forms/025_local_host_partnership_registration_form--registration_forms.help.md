@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users who want to register as a local host for an event or program. The form is only for users who have been identified as potential local hosts and are interested in hosting an event or program. Please ensure that you meet the eligibility criteria and have been assigned a unique identifier for this form. If you've filled out this form before, please do not attempt to do so again, as your previous submission will be flagged for review and potential rejection.
-</thinking>
-
 # Local Host Partnership Registration Form - Help Guide
 ## Purpose
 This form is for registering as a local host for an event or program. It's intended for users who have been identified as potential local hosts and are interested in hosting an event or program.

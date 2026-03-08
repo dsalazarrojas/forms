@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from faculty members for the Faculty Strategy Workshop. This includes collecting user information, faculty details, workshop preferences, participation consent, session preferences, session details, submitter information, email preferences, phone preferences, and any additional notes or comments. This form is likely used for administrative purposes, such as organizing and coordinating the workshop. 
-
-This form is designed for internal use, so it's possible that only faculty members with relevant access will be completing this form. It's also possible that this form is used in conjunction with other forms or processes to gather and review information. 
-
-To ensure accurate and helpful documentation, it's assumed that the form is used in a context where the submitter's information is relevant and necessary for the workshop's administration. 
-
-Please let me know if you'd like me to clarify or expand on this reasoning.
-</thinking>
-
 # Faculty Strategy Workshop Registration - Help Guide
 ## Purpose
 The Faculty Strategy Workshop Registration form is used to gather information from faculty members for the Faculty Strategy Workshop.

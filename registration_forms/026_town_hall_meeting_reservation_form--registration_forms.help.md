@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to facilitate the reservation of town hall meetings. The purpose of the form is to collect information about the meeting's name, date, time, attendees, and contact name. This form will likely be used by meeting organizers or coordinators to gather the necessary details for planning and executing the meeting.
-
-Before proceeding, it's essential to verify that the form has not been completed before, to avoid duplication of effort. This guide will help users understand the form's purpose and usage.
-
-</thinking>
-
 # town-hall-meeting-reservation-form - Help Guide
 ## Purpose
 This form is used to reserve town hall meetings. It collects information about the meeting's details, such as its name, date, time, attendees, and contact name.

@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clear and the user understands that this form is for requesting account activation. This form is intended for users who want to activate their account, either because it was deactivated, locked out, or for other reasons. We also need to ensure that we don't duplicate effort and that users have the most accurate information about the form's requirements.
-
-Before creating the help guide, let's review the form's structure and fields. We have two main sections: "User Information" and "Account Details". The "User Information" section includes fields like "Full Name", "Email Address", "Phone Number", and "Username" (if known). The "Account Details" section has "Account Type", "Platform or System", "Reason for Activation Request", and "Requested Activation Date".
-
-Let's break down each field in the "Field-by-Field Explanation" section below.</thinking>
-
 # Account Activation Request Form - Help Guide
 ## Purpose
 This form is for users to request account activation. You can use it if you need to reactivate your account, want to activate a new account, or if your account was deactivated or locked out.

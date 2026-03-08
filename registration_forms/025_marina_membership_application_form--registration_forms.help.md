@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in joining the marina membership program. The form is intended for users who want to become a member of the marina and need to provide their details to process their application. It is recommended to complete the form only once, avoiding duplicate applications.
-
-The form is split into multiple pages, each with its own set of questions. The user can navigate between pages using the provided links. The questions are divided into two main categories: "Membership Details" and "Contact Info".
-
-The "Membership Details" section includes questions about the member's details and the boat information. The "Contact Info" section is for providing contact details of the member and their representative. 
-
-The "Payment Method" field is not used in this form as it's marked as "Payment Method" in the form but in the YAML, it's just "text" type with no specific label. This field might be intended for other purpose and should be reviewed for consistency.
-
-The "Member Since" section is not a straightforward question and may require clarification from the form designer. However, considering the "member_since" field is of type number and "member_since_date" and "member_since_time" are of type date and time respectively, it's possible that this section is asking for the duration of the member's membership or when their membership was last updated or renewed. 
-
-The "Contact Person" field is a select multiple field with options "Option 1", "Option 2", and "Option 3". This could be asking for the person in charge or responsible person for the member's boat or marina information. 
-
-The "Email" field is marked as "email" type but not required. While it's not mandatory, it's recommended for members to provide their email address for easier communication.
-
-</thinking>
-
 # Marina Membership Application Form - Help Guide
 ## Purpose
 The Marina Membership Application Form is designed to collect information from individuals interested in joining the marina membership program. The form is intended to guide users through the application process, ensuring that they provide necessary details for processing their application.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from meeting participants for the recording of virtual meetings. This form is likely used in corporate or professional settings where recording meetings for reference or training purposes is necessary. It's a good idea to check if the meeting recording consent form is being used in your organization before filling it out, to ensure it's not a duplicate effort. If it is a duplicate, please use the existing form for the same purpose.
-</thinking>
-
 # virtual_meeting_recording_consent_form - Help Guide
 ## Purpose
 The virtual meeting recording consent form is used to obtain consent from meeting participants for the recording of virtual meetings. This form helps ensure that all participants are aware of and agree to the recording of their meeting for reference or training purposes.

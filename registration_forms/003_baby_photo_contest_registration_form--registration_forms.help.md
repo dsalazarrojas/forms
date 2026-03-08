@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for parents and guardians to register their babies for a photo contest. The form collects essential information about the baby, including name, date of birth, gender, and a contact email and phone number. The contest category and photo title are also requested. Additionally, the form requires consent for the use of the submitted photo for contest promotion and a legal declaration that the submitter is the legal guardian of the child. The submitter will also be asked how they heard about the contest.
-</thinking>
-
 # Baby Photo Contest Registration Form - Help Guide
 ## Purpose
 This form allows parents and guardians to register their babies for a photo contest. The contest aims to showcase adorable baby photos and award prizes to the best ones.

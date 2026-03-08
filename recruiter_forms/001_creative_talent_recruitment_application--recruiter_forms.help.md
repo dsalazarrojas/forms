@@ -1,18 +1,3 @@
-<thinking>
-This is a form for the creative talent recruitment process. We are seeking candidates with diverse backgrounds and skills to fill various positions. This form will help us gather essential information about each candidate, including their personal details, work experience, education, skills, and contact information. 
-
-Before filling out the form, please ensure that the information you provide is accurate and up-to-date. This form is not intended to be a duplicate of your resume, but rather a supplementary document to provide additional context about your qualifications and experiences. 
-
-We will review each submission and contact you if we require additional information or would like to schedule an interview. 
-
-Please note that the fields are not all compulsory, however, providing complete and accurate information will improve your chances of being contacted for further evaluation. 
-
-This form should take no more than 10-15 minutes to complete, and we appreciate your honesty and accuracy in filling it out.
-
-If you have any questions or concerns, please do not hesitate to reach out to us.
-
-</thinking>
-
 # Creative Talent Recruitment Application - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your background, experience, and skills to evaluate your suitability for creative talent recruitment positions.

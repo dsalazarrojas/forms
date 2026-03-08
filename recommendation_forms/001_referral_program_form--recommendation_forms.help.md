@@ -1,7 +1,3 @@
-<thinking>
-...the "Referral Program Form" is designed for internal use within your organization to collect data on client and referral information. It is intended for employees, agents, or other internal stakeholders to report on interactions, recommendations, or introductions made on behalf of your company. This form helps to identify potential leads, opportunities, and existing relationships. The form should only be filled out for legitimate referrals within your company. Please ensure that you are filling it out for a real referral and not duplicating any existing information. If you're unsure about a referral, please reach out to your supervisor or colleague to clarify before filling out this form. Please fill in all required fields accurately and honestly to ensure the information is useful for our team...
-</thinking>
-
 # Referral Program Form - Help Guide
 ## Purpose
 The Referral Program Form is designed to collect data on client and referral information for internal use within your organization.

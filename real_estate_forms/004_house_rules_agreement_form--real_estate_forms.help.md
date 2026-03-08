@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML, I notice that the House Rules Agreement Form is designed to collect information about a rental property's rules and regulations. The form seems to be tailored for property managers or landlords to communicate with tenants about various aspects of the rental agreement. Each field is categorized under a specific section, likely reflecting the different aspects of the rental agreement that need to be understood and agreed upon by the tenant.</thinking>
-
 # House Rules Agreement Form - Help Guide
 
 ## Purpose

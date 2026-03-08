@@ -1,5 +1,3 @@
-<thinking>...The form "BHGenius Buyer Intake Questionnaire" is designed to collect information from homebuyers about their preferences and priorities when searching for a new property. This form helps us understand your needs and tailor our services to provide the best possible experience. Please note that this form is not intended for people who are not serious about buying a home, as it is a comprehensive questionnaire designed to guide our agents in providing accurate and relevant information. Please only complete this form if you are seriously considering buying a home in the next 1-12 months.</thinking>
-
 # BHGenius Buyer Intake Questionnaire - Help Guide
 ## Purpose
 The "BHGenius Buyer Intake Questionnaire" is a comprehensive form designed to gather essential information from homebuyers to understand their preferences and priorities when searching for a new property.

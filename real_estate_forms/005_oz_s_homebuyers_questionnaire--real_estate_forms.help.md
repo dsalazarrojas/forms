@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from homebuyers about their preferences and needs for a new property. The purpose of this form is to collect data that will help real estate agents provide personalized recommendations for properties that match the buyer's criteria. This form is meant to be completed by individual homebuyers, and it's expected that users will have a basic understanding of the questions asked and how they relate to their property search. This form should not be completed by real estate agents or other professionals who are already familiar with real estate terminology and procedures. If you're unsure about any of the questions or options, please ask for clarification. Please note that the form is not intended to be a comprehensive assessment of a property's value or condition, but rather a starting point for further discussions and negotiations.
-</thinking>
-
 # OZs_Homebuyers_Questionnaire - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "property-management-processes" form, we need to understand the form's purpose, how to complete it, and what each field means. This form is likely used for managing properties, and the fields provided seem to cover various aspects of property information, including property type, status, address, contact details, and submission date and time.
-
-We can infer that the form is used for documenting or updating property records, possibly for property management or administrative purposes. The form fields appear to be designed to collect essential information about a property, including its type, status, address, and contact details of the manager. The fields are mostly text or select_one fields, which suggests that users will be entering specific, possibly categorical values.
-
-To ensure the form is not redundant or duplicative, it would be good to double-check the form's design and ensure that the collected information will not overlap or conflict with other forms or systems used in the property management process.
-
-</thinking>
-
 # property-management-processes - Help Guide
 ## Purpose
 The "property-management-processes" form is used to document or update property records, collecting essential information about a property's type, status, address, and contact details of the manager.

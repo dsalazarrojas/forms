@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # professional_event_registration_form - Help Guide
 ## Purpose
 This form is used for registering a professional event, providing necessary details such as event name, dates, type, location, and contact information.

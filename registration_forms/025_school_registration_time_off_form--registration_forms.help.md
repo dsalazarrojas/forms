@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to facilitate the registration of a student's time off from school. The form is intended for use by school administrators, teachers, and parents to request and approve absences. It captures essential details about the student's absence, including the reason, dates, and duration. This form ensures that all necessary information is collected and recorded accurately, enabling efficient management of student absences. Please ensure to review the following guidelines to complete this form correctly.
-</thinking>
 # School Registration Time Off Form - Help Guide
 ## Purpose
 The School Registration Time Off Form is used to request and manage a student's absence from school. This form is completed by a parent or guardian and requires the school's approval before submission.

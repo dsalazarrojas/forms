@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Continuing Education Program Referral Form - Help Guide
 
 ## Purpose

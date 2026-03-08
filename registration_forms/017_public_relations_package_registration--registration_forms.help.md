@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form, "public-relations-package-registration", is to gather information about Public Relations (PR) package registration. It is used to record and track details about PR packages, including contact information, package details, campaign timelines, and submission status. This form is likely used for internal purposes to maintain a database of registered PR packages and their associated data. The form has multiple pages, each with its own set of fields. 
-
-To ensure that the form is filled out correctly, it is essential to understand the purpose and the relevance of each field. This guide will walk you through each field and explain what it represents.
-
-</thinking>
-
 # public-relations-package-registration - Help Guide
 ## Purpose
 The Public Relations (PR) package registration form is used to collect and track information about registered PR packages. This form is essential for maintaining a database of registered packages and their associated data.

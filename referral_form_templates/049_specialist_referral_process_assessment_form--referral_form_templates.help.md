@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Specialist Referral Process Assessment Form - Help Guide
 
 ## Purpose

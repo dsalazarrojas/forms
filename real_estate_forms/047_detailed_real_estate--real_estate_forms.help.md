@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about a user's real estate preferences or needs. The main goal is to determine the type of property they are looking for and the time frame in which they want to buy, sell, or lease it. The form is designed to be completed by users who are involved in the real estate market, whether as buyers, sellers, or renters.
-</thinking>
-
 # Detailed Real Estate - Help Guide
 ## Purpose
 This form is designed to collect information about your real estate needs or preferences. Please answer the questions to help us better understand your requirements and provide you with relevant information and support.

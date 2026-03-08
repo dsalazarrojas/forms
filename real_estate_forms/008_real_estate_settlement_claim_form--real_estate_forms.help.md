@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for real estate settlement claims. It is meant to be completed by individuals or entities who are filing a claim related to a real estate settlement, such as a dispute over a property transaction or a request for reimbursement for services rendered. The form is used to collect details about the claim, including the type of claim, supporting documents, and any other relevant information.
-</thinking>
-
 # Real Estate Settlement Claim Form - Help Guide
 ## Purpose
 This form is used to gather information for real estate settlement claims.

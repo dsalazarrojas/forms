@@ -1,7 +1,3 @@
-<thinking> 
-This help guide is intended for end-users who are not familiar with the "residential_referral_form" and need assistance completing it. The form's purpose is to gather information about a referred property or residence that a user would like to submit for evaluation or other internal purposes. The form's fields should be filled out with accurate and relevant information to ensure a smooth and efficient review process. Before starting, ensure that you have the necessary details about the property and the referrer's contact information.
-</thinking>
-
 # residential_referral_form - Help Guide
 ## Purpose
 The "residential_referral_form" is a form used to gather information about a referred property or residence. This form helps our team evaluate and process the submission for further action.

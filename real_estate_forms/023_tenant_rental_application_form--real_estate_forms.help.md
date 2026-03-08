@@ -1,9 +1,3 @@
-<thinking>
-The form is used to capture information from tenants applying to rent a property. The form fields should be filled out accurately and completely. This guide is intended for end users to understand what each field is for. Please make sure to review the form multiple times to ensure all information is correct before submission.
-
-Please note that some fields might be optional. If a field is required, it will be noted as "required: true" in the field description.
-</thinking>
-
 # Tenant Rental Application Form - Help Guide
 ## Purpose
 This form is used to collect information from tenants applying to rent a property. Please fill it out accurately and completely to ensure a smooth rental application process.

@@ -1,9 +1,3 @@
-<thinking>
-A refund form for cruise tickets, this form allows end-users to submit a refund request.
-This form is not meant for actual refunds, but rather a request for refund consideration.
-A refund request should not be submitted if the ticket has already been refunded or cancelled.
-</thinking>
-
 # Cruise Ticket Refund Form - Help Guide
 ## Purpose
 The Cruise Ticket Refund Form is used to submit a request for a refund on a cruise ticket. Please fill out this form with your details and reasons for the refund request.

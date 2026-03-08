@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect consent from fans to publish their submissions, whether they are music, videos, or images. The form is designed to gather relevant information such as the fan's name, email, and the type of submission they are consenting to publish. This form ensures that fans understand and agree to the terms of publication, which is essential for the legitimate use and sharing of their work. It's also an opportunity for the artist or creators to verify and record the consent of their fans.
-</thinking>
-
 # Fan Submission Publication Consent Form - Help Guide
 
 ## Purpose

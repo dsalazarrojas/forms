@@ -1,8 +1,3 @@
-<thinking>
-We're going to create a help guide for the "Will Writing Specialist Referral Form". This form is designed to collect information from users who wish to refer a Will Writing Specialist. The form helps in identifying potential Will Writing Specialists, providing their contact information, and capturing a brief note about their services. This form ensures that referrals are properly documented, making it easier for us to keep track of potential candidates for will writing services.
-The form has multiple fields that require users to provide details about the Will Writing Specialist they are referring. It is essential to ensure that each field is filled accurately to avoid any duplication of work or miscommunication. This form serves as a crucial tool for the referral process, and its completion is vital for its proper utilization.
-</thinking>
-
 # Will Writing Specialist Referral Form - Help Guide
 
 ## Purpose

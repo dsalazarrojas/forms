@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect property appraisal data for real estate properties. The form is meant to be a comprehensive checklist that covers various aspects of a property, including its information, physical condition, and financial considerations. It is not affiliated with, endorsed by, or derived from any form platform. The form is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit to the original creator. The purpose of this guide is to ensure end-users understand the form's purpose and how to complete it accurately and effectively.
-</thinking>
-
 # Property Appraisal Checklist Form - Help Guide
 ## Purpose
 The Property Appraisal Checklist Form is designed to collect comprehensive data about properties, covering various aspects of a property, including property details, physical condition, and financial considerations. This data will help users make informed decisions or assessments about the property.

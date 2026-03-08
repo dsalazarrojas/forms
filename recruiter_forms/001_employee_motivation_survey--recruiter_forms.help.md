@@ -1,5 +1,3 @@
-<thinking>...We need to make sure that our internal employees are motivated and engaged in their work. This form helps us gauge their current level of motivation and understand where we can improve the work environment and policies to increase overall employee satisfaction...</thinking>
-
 # Employee Motivation Survey - Help Guide
 ## Purpose
 

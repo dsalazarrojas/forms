@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to register tenants for the mental wellness program, which aims to provide support and resources for tenants' mental health. The form will be reviewed for relevance and non-duplication to ensure that each tenant's situation is assessed and addressed accordingly.
-
-</thinking>
-
 # Tenant Mental Wellness Program Registration Form - Help Guide
 ## Purpose
 The Tenant Mental Wellness Program Registration Form is designed to register tenants who are interested in the mental wellness program offered by [organization/property manager]. This form will help us understand your needs and preferences, ensuring that you receive the right support and resources to address your mental health concerns.

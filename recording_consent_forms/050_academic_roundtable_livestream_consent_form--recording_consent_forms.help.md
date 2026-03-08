@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be used for gathering consent from participants in an Academic Roundtable Livestream event. This form will likely be used for events where the recording is not automatically assumed as per the usual context. This form must be reviewed and updated before use to ensure that all relevant questions and fields are included.
-</thinking>
 # Academic Roundtable Livestream Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to gather consent from participants in an Academic Roundtable Livestream event for recording and livestreaming. This form is essential for ensuring that all participants have granted permission for their sessions to be recorded and distributed, and for any restrictions on the use of those recordings.

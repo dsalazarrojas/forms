@@ -1,25 +1,3 @@
-<thinking>
-This form is used to evaluate and assess an employee's performance. It helps to determine whether the employee has shown significant growth or improvement over a certain period of time. This form is typically completed by a supervisor or reviewer, and it's an essential part of the performance evaluation process in an organization. It's likely that this form will be used to evaluate the performance of individual employees, and it may be used as a basis for promotions, bonuses, or other rewards. However, I'll assume that the form is not being used for any other purpose that may be considered confidential or sensitive. I will also assume that the form is not being used for any purpose that may infringe on the rights of the employees being evaluated.
-
-Before filling out this form, please make sure you have all the necessary information and that you are in a quiet and private space where you can focus on your answers. The form is divided into several sections and fields, each with a specific purpose. Here is a brief overview of each field:
-
-*   **Employee Name**: This field is used to enter the name of the employee being evaluated.
-*   **Date**: This field is used to select the date of the evaluation.
-*   **Rating**: This field is a select-one field where you will select the overall performance rating of the employee, which can be Excellent, Satisfactory, or Needs Improvement.
-*   **Comments**: This is a free-text field where you can provide any comments or observations about the employee's performance.
-*   **Date of next review**: This field is used to select the date for the next review.
-*   **Recommended Training**: This field is a select-one field where you will select whether the employee needs recommended training.
-*   **Employee Progress**: This field is a select-one field where you will select whether the employee's performance has Increased, Decreased, or No Change.
-*   **Areas for Improvement**: This field is a free-text field where you can provide any areas for improvement for the employee.
-*   **Employee Signature**: This field is used for the employee to sign the form.
-*   **Review Signature**: This field is used for the reviewer to sign the form.
-*   **Date of Signature**: This field is used to select the date for the signature.
-*   **Employee Progress 2**: This field is a select-one field where you will select whether the employee's performance has Increased, Decreased, or No Change.
-*   **Areas For Improvement 2**: This field is a free-text field where you can provide any areas for improvement for the employee.
-*   **Recommended Training 2**: This field is a select-one field where you will select whether the employee needs recommended training.
-
-</thinking>
-
 # Employee Appraisal Form - Help Guide
 ## Purpose
 The Employee Appraisal Form is a tool used to evaluate and assess an employee's performance over a certain period of time. It helps supervisors or reviewers to identify areas of improvement and provide feedback to employees.

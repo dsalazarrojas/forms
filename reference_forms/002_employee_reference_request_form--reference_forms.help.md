@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from employees or their representatives for the purpose of verifying an employee's work history and circumstances. The goal is to provide a clear and concise reference that can be used by HR or other personnel to make informed decisions. Before filling out this form, please ensure that you're not submitting duplicate requests for the same employee. This form is meant to be filled out on a case-by-case basis and should not be submitted for mass requests for multiple employees. Please review the form carefully and fill it out accurately to provide the most useful information for the reference.
-</thinking>
-
 # Employee Reference Request Form - Help Guide
 ## Purpose
 The Employee Reference Request Form is designed to collect detailed information about an employee's work history, circumstances, and circumstances surrounding their employment. This form is intended for use by HR or other personnel to make informed decisions about employees.

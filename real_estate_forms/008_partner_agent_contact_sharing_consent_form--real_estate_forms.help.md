@@ -1,11 +1,3 @@
-<thinking>
-This form is a crucial step in the real estate industry, where real estate agents can provide consent and sharing preferences for clients' contact information. This form aims to capture the client's contact sharing preferences, ensuring that they are comfortable with how their contact information is shared with other parties. To determine if this form is relevant and non-duplicitous, consider the following scenarios:
-*   You are a real estate agent who wants to ensure clients understand how their contact information is being shared.
-*   You are a client who needs to consent and specify how their contact information is shared with other parties.
-*   The form is not a duplication of another form or process.
-
-</thinking>
-
 # partner_agent_contact_sharing_consent_form - Help Guide
 ## Purpose
 The partner_agent_contact_sharing_consent_form is a form used to capture the contact information sharing consent and preferences from clients in the real estate industry. This form aims to ensure that clients understand how their contact information is being shared with other parties and to obtain their consent for such sharing.

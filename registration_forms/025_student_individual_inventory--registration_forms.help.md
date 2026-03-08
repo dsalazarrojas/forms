@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect personal and demographic information from students. This form is used to create an individual student inventory, likely for administrative purposes such as tracking student data or creating a database of students. This form is not intended for public-facing purposes and should only be accessed by authorized personnel. Please note that this form is a simple registration form and does not collect sensitive or confidential information. If you are unsure about the form's purpose or your access permissions, please contact your supervisor or HR representative.
-</thinking>
-
 # student_individual_inventory - Help Guide
 ## Purpose
 The student individual inventory form is designed to collect personal and demographic information from students for administrative purposes.

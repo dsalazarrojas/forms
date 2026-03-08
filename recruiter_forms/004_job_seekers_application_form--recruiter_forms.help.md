@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a general job seeker application form, intended to be completed by individuals seeking employment opportunities. Its purpose is to collect personal and professional information from the job seeker, which will be used by the employer or recruiter to assess their suitability for potential job openings. The form should only be completed once per job seeker, and not repeated for each job applied to. This form will likely be used by HR departments or recruiters to review and evaluate job seekers' applications.
-</thinking>
-
 # Job Seekers Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from job seekers about their personal and professional details.

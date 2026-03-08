@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Buyer Preliminary Information Collection Form - Help Guide
 ## Purpose
 This form collects preliminary information from home buyers to assist in the process of evaluating their loan applications. The form includes various sections for personal, contact, employment, financial, and property search information. Please ensure that all required fields are completed accurately and completely to ensure efficient processing of your loan application.

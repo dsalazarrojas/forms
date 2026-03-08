@@ -1,9 +1,3 @@
-<thinking>
-This is a form for registering a retail digital loyalty demo request. The form is designed to collect information from users who are interested in participating in a digital loyalty demo. The form consists of multiple sections that require various types of information, including contact information, business details, and store specifics. Before proceeding with the form, please ensure that you have all the necessary information ready and that it is accurate.
-
-This form is a one-time registration form and does not require frequent submissions. Each field is explained in more detail below.
-</thinking>
-
 # retail_digital_loyalty_demo_registration - Help Guide
 ## Purpose
 This form is used to register for a digital loyalty demo, providing your business with access to exclusive content and resources.

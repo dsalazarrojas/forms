@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate and incorrect submissions, we'll be using this form for registering Retail Data Governance related data. Please ensure that you fill out this form with accurate and relevant information as required fields are not optional.
-</thinking>
-
 # Retail Data Governance Registration Form - Help Guide
 ## Purpose
 This form is used to collect information for Retail Data Governance purposes. Please ensure that you only fill out this form for Retail Data Governance related data.

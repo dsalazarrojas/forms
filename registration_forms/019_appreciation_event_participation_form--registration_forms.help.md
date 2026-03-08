@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to collect participant information and their preferences for an appreciation event. This form likely gathers details like name, contact information, and event specifics to help event organizers tailor the event to attendees' needs. The goal is to ensure an enjoyable and inclusive experience for all participants. It's essential to fill out the form correctly to ensure the organizers can accommodate your needs and ensure a successful event.
-
-To complete this form, start by providing basic contact information (First Name, Last Name, and Email Address). Then, specify your availability by marking if you will attend the event, and confirm your attendance. If you are bringing guests, mention the number of attendees. Also, indicate any dietary restrictions or allergies you might have. Lastly, choose which activities interest you the most, if any.
-
-Each field in this form is designed to collect specific information to help the event organizers prepare for the appreciation event.
-
-</thinking>
-
 # Appreciation Event Participation Form - Help Guide
 ## Purpose
 This form is designed to collect participant information and preferences for an appreciation event. It helps event organizers tailor the event to attendees' needs, ensuring a positive experience for all.

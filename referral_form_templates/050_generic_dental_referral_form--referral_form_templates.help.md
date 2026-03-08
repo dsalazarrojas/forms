@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used as a general template for referrals in a dental setting. Its purpose is to collect relevant information from the patient and doctor for referrals to other healthcare providers or facilities. The form should only be used for new patient referrals and should not be used to resubmit information already provided. Please ensure that all required fields are completed accurately and thoroughly.
-</thinking>
-
 # Generic Dental Referral Form - Help Guide
 
 ## Purpose

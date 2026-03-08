@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form is used for talent acquisition purposes, gathering information from candidates or employees regarding job openings. It's essential to fill out the form accurately to ensure that we get a complete picture of the candidate's qualifications, experience, and contact information. Please note that some fields are required, marked as "true" in the form schema, and others are optional and should only be filled out if relevant to the specific job opening or situation. Ensure that you fill out the form with the correct job title and job status, which will help us track and manage job openings efficiently.</thinking>
-
 # Talent Acquisition Form - Help Guide
 ## Purpose
 The Talent Acquisition Form is used for gathering information from candidates or employees about job openings.

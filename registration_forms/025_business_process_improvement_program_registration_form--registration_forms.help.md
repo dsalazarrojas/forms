@@ -1,13 +1,3 @@
-<thinking>
-This guide helps users understand what the Business Process Improvement Program Registration Form is used for, how to complete it, and what each field means.
-
-The form is intended to gather information about individuals who are interested in participating in the Business Process Improvement Program, a professional development opportunity that helps employees identify and solve process problems within the organization. This program is designed to improve processes that hinder productivity and quality within the company.
-
-To avoid duplicate registrations, a brief explanation will be provided for each field.
-
-Please note that this form is meant to be completed by individuals who are interested in registering for the Business Process Improvement Program.
-
-</thinking>
 # Business Process Improvement Program Registration Form - Help Guide
 ## Purpose
 The Business Process Improvement Program Registration Form is intended to gather information from individuals interested in participating in the program to improve processes within the company.

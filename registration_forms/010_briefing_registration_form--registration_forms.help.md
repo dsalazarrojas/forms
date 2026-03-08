@@ -1,12 +1,3 @@
-<thinking> 
-- The Briefing Registration Form is used to collect attendee information for company briefings.
-- This form allows users to select the briefing topic, date, time, and attendance mode they are interested in.
-- It also collects contact and dietary information for attendees to provide a better experience.
-- The form ensures that attendees can select their preferred briefing date and time.
-- The form is designed to be easy to use and provide clear instructions.
-- It also helps to manage attendee expectations and dietary needs.
-</thinking>
-
 # Briefing Registration Form - Help Guide
 ## Purpose
 This form is designed to register attendees for company briefings. It ensures that attendees provide the necessary information, including contact details and dietary needs, to ensure a smooth and enjoyable experience.

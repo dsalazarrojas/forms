@@ -1,5 +1,3 @@
-<thinking>... This form is used to create a lease agreement for a Canada-based hostel or property rental. It's essential to ensure both the landlord/property manager and tenant have a clear understanding of the terms and conditions of the tenancy. To complete this form, please follow the instructions below...</thinking>
-
 # Canada Hostel Lease Agreement Form - Help Guide
 ## Purpose
 The Canada Hostel Lease Agreement Form is a document that outlines the terms and conditions of a rental property in Canada. This form helps establish a clear understanding between the landlord or property manager and the tenant.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Communication Form - Help Guide
 ## Purpose
 The Real Estate Communication Form is a comprehensive form designed to gather information about a property's details, including its type, address, and owner's contact information. This form is used to communicate with clients and agents in the real estate industry.

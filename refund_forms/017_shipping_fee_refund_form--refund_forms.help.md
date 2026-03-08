@@ -1,9 +1,3 @@
-<thinking>
-
-To determine if a user is eligible for a refund, we will review their shipping fee refund form application. To ensure accuracy, please fill out the form completely and truthfully. If you've already submitted a refund form, please do not resubmit. 
-
-</thinking>
-
 # Shipping Fee Refund Form - Help Guide
 
 ## Purpose

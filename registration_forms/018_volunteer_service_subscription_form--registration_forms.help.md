@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to enable volunteers to register their interest in serving, which could be for a specific volunteer type (e.g., Volunteer, Team Member, Other) or for a specific role within the organization. The form aims to collect relevant contact information and availability for the potential volunteers. This form should be completed by anyone who wishes to offer their services, and the information collected will be used to facilitate communication and task assignment. 
-Please ensure that this form is filled out for each individual volunteer, even if multiple people are registering together. This will help the organization to better understand each person's preferences and needs.
-</thinking>
-
 # Volunteer Service Subscription Form - Help Guide
 ## Purpose
 The Volunteer Service Subscription Form is a tool for volunteers to register their interest in serving with the organization. It collects essential contact information and volunteer preferences to facilitate communication and task assignment.

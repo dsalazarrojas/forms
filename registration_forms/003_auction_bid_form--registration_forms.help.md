@@ -1,13 +1,3 @@
-<thinking>
-We need to consider the following:
-- Form purpose: This form is designed for bidders to place bids on items in an auction.
-- Form type: Online form for bidders to submit their bids.
-- Potential users: People who are interested in bidding on items in an auction.
-- Potential duplicates: None.
-
-The form is likely to be filled out by bidders who want to participate in an auction, and it's not likely to be duplicated in other contexts.
-</thinking>
-
 # Auction Bid Form - Help Guide
 ## Purpose
 The Auction Bid Form is designed for bidders to submit their bids on items in an auction. To complete the form, follow the instructions below.

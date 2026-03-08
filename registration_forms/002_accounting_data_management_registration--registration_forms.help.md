@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information for registering clients with the Accounting Data Management (ADM) service. The goal is to collect essential details about the client, their primary contact, and their organizational structure, as well as their requirements and preferences for services. This form is a crucial part of the onboarding process for new clients and will help us tailor our services to their needs.
-
-This form will not serve as a duplicate registration process if the organization has already registered with ADM before.
-
-</thinking>
-
 # Accounting Data Management Registration - Help Guide
 ## Purpose
 

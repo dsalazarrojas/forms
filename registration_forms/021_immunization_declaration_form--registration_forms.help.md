@@ -1,12 +1,3 @@
-<thinking>
-This form is used for users to declare their vaccination status, providing information about their health provider, school name (if applicable), and other relevant details. The form is intended for individuals who have been vaccinated, and it helps to track and record their vaccination history.
-
-To ensure accurate and thorough registration, please complete all required fields. The form should not be used to declare vaccination status for individuals who have not received vaccinations.
-
-Please note that the school name field is required for users who are declaring vaccination status for school purposes. If you are not declaring for school purposes, please leave this field blank.
-
-This form is designed for users who have been vaccinated, and it is not intended for users who are not vaccinated or have been vaccinated as part of a clinical trial or study.</thinking>
-
 # immunization declaration form - Help Guide
 ## Purpose
 The immunization declaration form is used to declare your vaccination status, providing information about your healthcare provider, school name (if applicable), and other relevant details.

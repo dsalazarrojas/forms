@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register an inspection for a real estate listing. It is an optional form that does not require any information to be filled out, but it will help the user to provide additional details about the inspection. The form will not be used for any automated processes and the data entered in this form will be reviewed by a human before being used for any decisions.
-</thinking>
-
 # Inspection Registration Form - Help Guide
 ## Purpose
 The Inspection Registration Form is used to register an inspection for a real estate listing. This form is used to provide additional details about the inspection.

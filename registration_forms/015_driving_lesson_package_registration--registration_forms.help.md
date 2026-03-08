@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to register for a driving lesson package. The purpose of this form is to collect necessary information from users who want to sign up for driving lessons, such as the driving school name, payment method, total lessons, lesson price, package type, number of lessons, payment status, and other relevant details. To ensure data accuracy, users should fill in the form carefully and review it before submitting. The form is divided into several sections, each containing fields that are relevant to the specific information being collected. For example, the "driving_school_name" field is used to collect the name of the driving school, while the "payment_method" field is used to select the payment method. Each field has its own label and type, which will be explained further in the Field-by-Field Explanation section.
-</thinking>
-
 # Driving Lesson Package Registration - Help Guide
 ## Purpose
 The "Driving Lesson Package Registration" form is designed to collect necessary information from users who want to sign up for driving lessons.

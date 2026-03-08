@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information from individuals who wish to be recorded and livestreamed during a faith-based video sermon appearance. It ensures that the individual has provided their consent to being recorded and livestreamed, and that they are aware of any restrictions or limitations on recording and livestreaming their appearance. This form helps the production team ensure they have all necessary information before recording and livestreaming the faith-based video sermon.
-
-Before proceeding, please check if you have already completed this form. If you have, you can disregard the rest of this guide.
-</thinking>
-
 # Faith Based Video Sermon Appearance Consent Form - Help Guide
 ## Purpose
 

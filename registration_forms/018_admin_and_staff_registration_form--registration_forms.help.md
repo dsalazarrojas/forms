@@ -1,9 +1,3 @@
-<thinking>
-This form is for administrators and staff members to register their personal and professional information. It is a required form for onboarding purposes and is used to collect sensitive information such as employment details, address, and contact information. Please ensure you complete the form accurately and truthfully. This form should only be completed once. If you have previously registered, please do not re-register.
-
-Please note that this form has been reviewed and validated to prevent duplicate registration. If you have any issues or concerns, please contact your HR representative.
-</thinking>
-
 # Admin And Staff Registration Form - Help Guide
 ## Purpose
 The Admin And Staff Registration Form is designed to collect personal and professional information from administrators and staff members for onboarding purposes.

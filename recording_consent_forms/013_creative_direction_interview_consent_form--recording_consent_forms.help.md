@@ -1,7 +1,3 @@
-<thinking>
-This help guide is created by an AI using public survey topic metadata, it's not affiliated with any form platform, and is released under CC BY 4.0. The form is for recording consent and will ask for participant information and agreement to record and use the recording for specific purposes.
-</thinking>
-
 # creative_direction_interview_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from participants for recording an interview, specifying the purpose and use of the recording.

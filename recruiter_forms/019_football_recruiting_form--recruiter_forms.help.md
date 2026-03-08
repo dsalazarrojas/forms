@@ -1,10 +1,3 @@
-<thinking>
-To ensure that this form serves its purpose effectively, please check the following:
-
-*   Is this form intended for collecting data from football players or for football coaches/recruiters?
-*   Are there any other forms that collect overlapping information, which could be merged or consolidated for improved data consistency and user experience? 
-</thinking>
-
 # Football Recruiting Form - Help Guide
 ## Purpose
 The Football Recruiting Form is designed to collect information about football players, including contact details, athletic background, and other relevant data for recruitment purposes.

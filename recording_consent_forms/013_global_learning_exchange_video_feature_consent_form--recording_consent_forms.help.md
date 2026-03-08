@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user consent for video features, specifically for internal and external use, as well as consent for recording and demographic information (email address, phone number, date of birth, and time of capture). The form is intended to be completed by individuals who wish to participate in the Global Learning Exchange (GLE) video feature, and it will help ensure that they understand how their data will be used. To avoid duplicating efforts, please ensure that users only need to complete this form once, as the data will be stored for future reference.
-</thinking>
-
 # global_learning_exchange_video_feature_consent_form - Help Guide
 ## Purpose
 The global_learning_exchange_video_feature_consent_form is designed to collect user consent for video features and personal information, ensuring that users understand how their data will be used.

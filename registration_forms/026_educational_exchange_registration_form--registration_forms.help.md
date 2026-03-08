@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is for educational exchange registration, which involves collecting information from students participating in educational exchanges. This form is designed to gather necessary details from students, such as their identification, contact information, and program-related information. To ensure accurate and complete data, please carefully review each field below.
-</thinking>
-
 # educational_exchange_registration_form - Help Guide
 ## Purpose
 This form is for students participating in educational exchanges to register and provide necessary information.

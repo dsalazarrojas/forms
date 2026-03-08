@@ -1,18 +1,3 @@
-<thinking>
-To determine the purpose of this form, I'll analyze the fields and their labels. The form appears to be related to estate planning, which involves organizing and managing one's assets, properties, and other financial and personal interests after death. The fields cover various aspects of estate planning, including client information, asset values, assets owed, estate goals, primary residence, date and time of death, note, email, phone, and financial advisor information.
-
-Upon examining the fields, I noticed that:
-
-* "Estate Planning Questionnaire Template" seems to be a general title that could be relevant to various contexts. It's essential to understand the form's purpose within a specific business or organizational context. This form might be used in a lawyer's or financial advisor's office, for instance, to gather information about a client's assets, preferences, and goals for estate planning.
-* There seems to be some redundancy in the fields, such as "client_info" and "email" or "phone". This might indicate that the form is intended for multiple purposes or has been modified from a previous version. To avoid duplication, it's possible that some fields could be removed or combined.
-* The form covers both numerical ("Asset Values", "Assets Owed") and text-based ("client_info", "note") fields, suggesting it's designed to collect a mix of quantifiable and descriptive information.
-* The "Date of Death" and "Time of Death" fields seem unusual for an estate planning questionnaire, as they might be better suited for other types of forms or documents, such as insurance or medical records.
-* The "Financial Advisor" field is interesting, as it suggests the form is intended for professionals who work with financial advisors or planners.
-
-To create a clear and concise user-facing help guide, I'll focus on explaining each field's purpose and requirements in a practical and concrete way.
-
-</thinking>
-
 # Estate Planning Questionnaire Template - Help Guide
 ## Purpose
 This form is designed to help gather information about your estate and preferences for estate planning purposes.

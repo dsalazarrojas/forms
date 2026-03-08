@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to collect information about an event, specifically its name, date and time, location, description, and other relevant details. This form is intended for internal use within the organization and may be used for various purposes such as scheduling, planning, and record-keeping. To ensure the form is used correctly, please note that it's essential to provide accurate and complete information, especially if the event is recurring or all-day.
-
-</thinking>
-
 # open-house-form - Help Guide
 ## Purpose
 The open-house-form is a tool to collect event information for internal use. It gathers details such as event name, date and time, location, description, and other relevant data to help with event planning and record-keeping.

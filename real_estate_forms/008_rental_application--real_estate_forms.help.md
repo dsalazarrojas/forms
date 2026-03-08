@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for a rental application process, where users are required to provide personal and financial information, property details, and application status. The purpose of this form is to gather information from applicants for a rental property, ensuring they meet certain requirements and criteria for approval. This form will guide you through the steps to complete it effectively and accurately.
-</thinking>
-
 # rental_application - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for a rental property. Please fill out the form accurately and completely to ensure a smooth rental application process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recruitment Strategies Quiz - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "global_education_conference_registration_form", I will first analyze the form's purpose and requirements. This form is for users to register for a global education conference, likely for attendees, speakers, or sponsors. The form should collect information about the conference, contact details, participant information, and payment information.
-
-The form is designed to be completed by users, so the purpose is to gather relevant information for the conference organizers. The form will be filled out by users who want to attend the conference, speak at the conference, or sponsor the conference.
-
-The form does not seem to be a duplicate of any existing form, and it does not appear to be affiliated with any form platform. It is an original adaptation created using AI-generated form code.
-
-</thinking>
-
 # global_education_conference_registration_form - Help Guide
 ## Purpose
 This form is for users to register for a global education conference. It collects information about the conference, contact details, participant information, and payment information for conference organizers.

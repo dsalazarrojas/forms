@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recruitment Checklist Form - Help Guide
 
 ## Purpose

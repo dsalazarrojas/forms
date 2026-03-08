@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for office referrals, which involves providing information about a patient's medical condition, the service or organization providing the referral, the date of the referral, the reason for the referral, and other relevant details. The form is not limited to medical referrals, and can be used for any office referrals. The form does not require a specific date or time for the referral date, but rather captures the date of the referral. It is recommended that the form is not filled out multiple times for the same patient, as it can lead to duplicate data and confusion. 
-</thinking>
-
 # Office Referral Form - Help Guide
 ## Purpose
 The Office Referral Form is designed to provide a comprehensive overview of a patient's information for referrals and office notes.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a real estate listing, 
-which could be used for various business purposes such as marketing, sales, or property management. 
-We should confirm that this form is not a duplicate or already existent in the database, 
-to avoid overwriting existing data. This form will be used to create or update a real estate listing record.
-</thinking>
-
 # real_estate_listing_form - Help Guide
 ## Purpose
 This form is used to gather information about a real estate listing, which can be used for various business purposes such as marketing, sales, or property management.

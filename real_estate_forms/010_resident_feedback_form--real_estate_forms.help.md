@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to create a help guide for the "Resident Feedback Form". This form is used to collect feedback from residents, and the purpose of this guide is to help them understand its purpose and how to complete it.
 
 ## Purpose

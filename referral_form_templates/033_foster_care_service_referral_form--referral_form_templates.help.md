@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for referring foster care services for an individual. The purpose of this form is to gather information about the individual being referred, including their personal details and the social worker's assessment of their situation. The form should be completed by the individual or their representative, and it is optional, but it is recommended that the individual completes it in order to provide accurate and thorough information. It is also recommended that the social worker reviews and verifies the information on the form to ensure accuracy and relevance. 
-The form will be used to refer the individual to the foster care service for evaluation and potential placement in the service. The form will be reviewed and assessed by the foster care team to determine the individual's suitability for the service. 
-Note: This guide should be reviewed and updated regularly to ensure it reflects changes to the form and its purpose. 
-</thinking>
-
 # Foster Care Service Referral Form - Help Guide
 ## Purpose
 The Foster Care Service Referral Form is used to refer individuals to foster care services for evaluation and potential placement in the service.

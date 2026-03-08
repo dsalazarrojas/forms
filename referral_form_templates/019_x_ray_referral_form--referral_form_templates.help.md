@@ -1,19 +1,3 @@
-<thinking>As a healthcare professional, it's essential to understand the purpose and process of this X Ray Referral Form. This form is designed to facilitate the referral process for X Ray examinations, gathering crucial information about the patient and the referral context. Before starting, ensure that the referral form is not duplicated or used for other purposes, as it's specifically tailored for this context.
-
-This form typically consists of 13 fields, each with a unique purpose. The fields can be categorized into three main sections: patient information, referral details, and medical report options.
-
-To begin, complete the patient's name, date of birth, and referral date fields, as these are essential for identifying the patient and the referral context. The referral date is a critical field, as it helps in tracking the timeline of referrals.
-
-Next, provide the name of the doctor who referred the patient and their department. This information is helpful for further communication and follow-up.
-
-When selecting the patient's sex, choose the most accurate option from the available choices.
-
-The medical report options are crucial in specifying the type of X Ray examination required. Select multiple options as necessary based on the patient's condition and the doctor's requirements.
-
-Finally, provide the name of the hospital where the X Ray examination will take place and the name of the doctor who will perform the examination.
-
-</thinking>
-
 # X Ray Referral Form - Help Guide
 
 ## Purpose

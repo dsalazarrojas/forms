@@ -1,12 +1,3 @@
-<thinking>
-The Startup Mentor Referral Form is a template used to create and manage forms for various startup-related activities. This form is used by administrators to create new forms, assign them to tools, and track changes made to the forms. 
-
-To ensure that this form is used correctly, please note that the form is not intended to be used for general purpose forms, but rather for specific startup-related activities. If you are not creating a form for a startup-related activity, please use the "Other" category in the category field. 
-
-Please also be aware that some fields are optional, and you should only fill them in if they are relevant to your form's purpose.
-
-</thinking>
-
 # Startup Mentor Referral Form - Help Guide
 ## Purpose
 The Startup Mentor Referral Form is used to create and manage forms for various startup-related activities. This form is used by administrators to create new forms, assign them to tools, and track changes made to the forms.

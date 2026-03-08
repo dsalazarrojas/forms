@@ -1,8 +1,3 @@
-<thinking>
-To determine the correct help guide for this form, we need to analyze the form's purpose and fields. This form appears to be for requesting surveys for lot and block property information. The fields indicate that it captures information about the survey requester, their contact details, and the specifics of the survey request, including the type of survey, details, phone number, and email. The fields also include options for survey types and property types. However, the purpose and exact use case of the form is not explicitly defined in the provided YAML.
-
-</thinking>
-
 # Lot And Block Property Survey Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a survey about a specific lot and block property. It gathers details from the survey requester, such as their information and contact details, and the specifics of the requested survey, including type and details.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I need to create a user-facing help guide for a form called "Physical Exam Course Registration" that covers its purpose, how to complete it, and each field explanation. The form appears to be a comprehensive registration form for managing physical exam courses, collecting various details such as course title, exam type, date, venue, and instructor information. I will provide a detailed explanation of each field in the form.</thinking>
-
 # Physical Exam Course Registration - Help Guide
 ## Purpose
 The "Physical Exam Course Registration" form is designed to collect information about a physical exam course, including course title, exam type, dates, venue, and instructor details. This form is used to create, manage, and track physical exam courses.

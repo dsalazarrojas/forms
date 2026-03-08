@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended for registration purposes in an academic or educational setting, possibly for international students or programs. Given the field labels and types, it appears to be a general registration form with no specific industry or category affiliation. The purpose is likely to collect basic information from participants.
-</thinking>
-
 # Global Education Exchange Registration Form - Help Guide
 ## Purpose
 This form is designed to collect basic information from participants for registration purposes in an academic or educational setting.

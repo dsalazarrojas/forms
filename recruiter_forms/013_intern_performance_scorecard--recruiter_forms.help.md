@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Intern Performance Scorecard - Help Guide
 ## Purpose
 The Intern Performance Scorecard is a form used to track and evaluate intern performance over a specific evaluation period. It captures key information about an intern's progress, strengths, and areas for improvement, helping managers and HR teams to assess their performance and make informed decisions.

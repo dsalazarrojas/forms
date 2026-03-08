@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the goal of this form is to gather information from participants who are interested in or have already registered for a fishing tournament. This form should be used by people who want to provide their details to the tournament organizers in order to be included in the tournament's participant list, receive updates about the event, and potentially be assigned a spot if spots are available. It's crucial to ensure that this form is completed accurately and completely to avoid any miscommunication or missed updates.
-</thinking>
-
 # Fishing Tournament Participant Information Form - Help Guide
 ## Purpose
 This form is intended to collect contact and participant information from individuals who are interested in or have already registered for the fishing tournament. It's essential to provide accurate and complete information to ensure you receive updates and potential spot assignments.

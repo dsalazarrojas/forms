@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a Real Estate Listing Payment Form, used for collecting payment information and additional details about a property listing. The purpose of this form is likely to facilitate the payment process for real estate listings, ensuring that relevant information is captured accurately. Before proceeding, it's essential to ensure that the form is not a duplicate or unnecessary, as it may be used for the same or similar purposes within the company. It's also essential to verify that the form's fields are relevant and complete, as any omissions or inaccuracies may lead to errors or delays in the payment process.
-</thinking>
-
 # Real Estate Listing Payment Form - Help Guide
 ## Purpose
 The Real Estate Listing Payment Form is designed to collect payment information and additional details about a property listing. This form is intended to facilitate the payment process and ensure that all necessary information is captured accurately.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students and parents for the purpose of registering a new student in a school. This form will be used to capture essential details such as student and parent contact information, student's level and course, and other relevant details. Please ensure that the information provided is accurate and complete to avoid duplication of records.
-</thinking>
-
 # Nigeria School Admission Form - Help Guide
 ## Purpose
 This form is designed to register new students in a school, and gather necessary information for their admission.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to register participants for a leaderboard, which is a ranking system used to track and compare the performance of individuals or teams in a competition or event. The purpose of this form is to collect information about the participant, including their name, email, and other relevant details. To avoid duplication, the form will check if a participant is already registered in the leaderboard for a specific event.
-
-This form is divided into different sections, each representing a specific part of the participant's information. Each section will have a clear label and a brief explanation of what it is used for.
-</thinking>
-
 # Leaderboard Participation Form - Help Guide
 ## Purpose
 The Leaderboard Participation Form is used to register participants for a leaderboard, a ranking system used to track and compare the performance of individuals or teams in a competition or event.

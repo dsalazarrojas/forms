@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The following is a user-facing help guide for the "R&D Consultant Referral Form":
 
 # R&D Consultant Referral Form - Help Guide

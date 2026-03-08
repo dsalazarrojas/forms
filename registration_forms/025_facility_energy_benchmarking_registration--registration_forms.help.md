@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this form is designed for facilities to register for energy benchmarking, with a focus on collecting contact information and facility details. We'll review the fields below to ensure end-users understand their purpose and importance. Please note that some fields are marked as required, which means they must be completed for the form to be submitted successfully.
-
-</thinking>
-
 # Facility Energy Benchmarking Registration - Help Guide
 ## Purpose
 The Facility Energy Benchmarking Registration form is intended for facilities to collect and store contact information and facility details for energy benchmarking purposes.

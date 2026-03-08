@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Auriculotherapy Training Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register for an auriculotherapy training program. It collects personal and professional details from applicants to assess their eligibility and prepare for the training.

@@ -1,13 +1,3 @@
-<thinking>
-
-The form "preliminary_vacation_itinerary" is designed to gather information about a client's travel plans and preferences for a vacation. This form is likely used by travel agents to collect relevant details from clients before planning their itinerary. 
-
-To determine if this form is relevant, the client is expected to have a travel plan in place. If the client has not yet finalized their travel plans, this form is not applicable. 
-
-The form should not be filled out multiple times for the same client.
-
-</thinking>
-
 # preliminary_vacation_itinerary - Help Guide
 ## Purpose
 The "preliminary_vacation_itinerary" form is used to collect information from clients about their travel plans for a vacation.

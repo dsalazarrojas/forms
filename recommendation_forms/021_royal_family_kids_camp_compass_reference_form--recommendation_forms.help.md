@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about a child's relationship with a referee or camp leader who will be interacting with them at the Royal Family's Kids Camp. This form should only be completed by a parent or guardian of a child registered for the camp. 
-The form is designed to be completed by a parent or guardian, not the child themselves, and should only be submitted once for each child. Please check that you have not already submitted this form for this child before proceeding. 
-The purpose of this form is to ensure that the child's safety and well-being are protected during their stay at the camp.
-</thinking>
-
 # royal_family_kids_camp_compass_reference_form - Help Guide
 
 ## Purpose

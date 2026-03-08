@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect property market analysis report data from users. The form captures essential information about a property, including its details, market analysis, and contact information. It also includes fields for property managers, additional comments, and overall assessment scores. The form is meant to be completed in a sequential manner, with each field building upon the previous one to provide a comprehensive analysis report. To minimize redundancy, users should only fill in the fields necessary for the specific section or analysis being reported.
-
-Before proceeding, ensure you have all the necessary data to complete the form, and please be aware that some fields are required and cannot be left blank.
-
-</thinking>
-
 # Property Market Analysis Report Form - Help Guide
 ## Purpose
 The Property Market Analysis Report Form is designed to collect and document information about a property's market conditions, its analysis and assessment, and contact details for further reference and evaluation.

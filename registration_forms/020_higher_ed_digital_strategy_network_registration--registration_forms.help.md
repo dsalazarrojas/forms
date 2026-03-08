@@ -1,7 +1,3 @@
-<thinking>
-This form is likely for registering users for a professional network, likely for a higher education digital strategy network. The internal reasoning behind this form is to collect relevant information about the user, including their basic contact information (First Name, Last Name, Email, Phone) and specific details about their professional background (University, Role, Interest Areas). The form is likely to be used for networking purposes, and the required fields are likely to be used to create a profile or match users with relevant contacts. I will not create a duplicate form guide, as this form is likely to be a singular entity with a specific purpose.
-</thinking>
-
 # higher_ed_digital_strategy_network_registration - Help Guide
 ## Purpose
 This form is for registering users for a higher education digital strategy network. It collects information about the user's basic contact details and professional background to facilitate networking within the network.

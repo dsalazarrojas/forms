@@ -1,7 +1,3 @@
-<thinking>
-This form was designed for school administrations to create a form for their students to submit payment information for school fees. This form can be used to collect data on students' payment details and order supplies. The form has three fields: "School fee payment form", "Payment details", and "Order supplies". It is not affiliated with or endorsed by any form platform and is an original adaptation created by AI using public survey topic metadata as inspiration. The form is released under CC BY 4.0 and can be used, modified, and even sold freely, just give credit.
-</thinking>
-
 # School Fee Payment Form - Help Guide
 
 ## Purpose

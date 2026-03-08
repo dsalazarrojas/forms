@@ -1,13 +1,3 @@
-<thinking>
-The form is designed to collect information about a property inspection report. The purpose of this form is to document the findings of a property inspector after visiting a property to identify any issues or problems. This form will ask for details about the property, the inspector, the date of the inspection, and any reported problems or recommendations.
-
-The form seems to be designed for a specific use case where a property inspector is conducting regular inspections of rental properties. The form's fields and structure appear to be tailored to this specific use case, making it unlikely that the form will need to be significantly modified or duplicated in other contexts.
-
-The form requires the inspector's signature and date, indicating that this information is critical to the form's purpose and likely needed for official records or reporting. The presence of "Landlord Comments" field suggests that the form may also be used to gather feedback or comments from the landlord, which could be useful for follow-up actions or future inspections.
-
-The form is likely used by property management companies, real estate agencies, or similar entities, and its completion will help ensure that all relevant information is documented and recorded accurately.
-</thinking>
-
 # Property Inspection Report - Help Guide
 ## Purpose
 The Property Inspection Report form is designed to document the findings of a property inspector after visiting a rental property to identify any issues or problems. The form collects information about the property, the inspector, and any reported problems or recommendations.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to record and track information related to the escrow process for a real estate listing. It ensures that all necessary details are accurately captured and recorded in a standardized format, reducing errors and improving communication between parties involved. The form is also designed to be easily fillable and understandable for users with different levels of expertise, minimizing misunderstandings and misinterpretations. Each field is carefully selected to gather critical information that will help facilitate a smooth escrow process. Before filling out the form, please ensure you have all necessary information to accurately and completely fill out each field. 
-
-</thinking>
-
 # BTR Listing Escrow Opening - Help Guide
 ## Purpose
 This form is used to document and track critical information related to the escrow process for a real estate listing. 

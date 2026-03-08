@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from a healthcare professional referring a geriatric specialist patient. The form includes sections for patient information, medical history, social support, family history, mental status, medications, physical exam, laboratory test results, imaging studies, clinical diagnosis, treatment plan, follow up, other medical conditions, and discharge status. This form is intended to be used by healthcare professionals to gather necessary information to ensure a comprehensive care plan is developed for the patient. To avoid duplication, ensure that the same form is not submitted multiple times for the same patient. Please review the form carefully before submitting it.
-</thinking>
-
 # Geriatric Specialist Referral Form - Help Guide
 ## Purpose
 This form is used to collect information from a healthcare professional referring a geriatric specialist patient.

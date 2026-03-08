@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for preliminary information gathering from job applicants before screening or interviewing process. This form may be used internally within a company or organization to gather and organize job applicant information efficiently. Before completing this form, ensure that the relevant department or team is aware of the submission and understand its intended use. To prevent form duplication, verify that this form is not already completed by the applicant before submitting it.
-</thinking>
-
 # Pre Screening Form - Help Guide
 ## Purpose
 This form, called "Pre Screening Form," is used to gather preliminary information from job applicants before the screening or interviewing process. It aims to collect relevant details about the applicant's general information, job-specific details, and contact information. The form serves as a starting point for further evaluation and consideration in the hiring process.

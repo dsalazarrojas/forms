@@ -1,5 +1,3 @@
-<thinking>As the form designer, I will create a user-facing help guide that clearly explains the purpose and usage of the Graphic Designer Referral Form. I will follow the provided YAML structure to create a concise and practical help guide that covers the form's purpose, how to complete it, and each field's explanation. This form is designed to capture information about graphic designers for referral purposes, and the guide will ensure that end-users understand what information to provide and how to interact with the form correctly.</thinking>
-
 # Graphic Designer Referral Form - Help Guide
 ## Purpose
 The Graphic Designer Referral Form is used to capture information about graphic designers for referral purposes. This form helps to collect details about the designer's name, contact information, job title, industry, job type, referral date, and status. The form is designed to streamline the referral process, ensuring that all necessary information is collected and recorded accurately.

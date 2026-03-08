@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect student information for a field trip to the zoo. We need to ensure that we have the correct information before sending the students on the trip. The form is designed to be completed by the school staff or parents/guardians of the students. This form helps us to verify that all necessary information is provided for each student. It's essential to fill out the form accurately to ensure a smooth and enjoyable experience for the students. Before starting, please review the form carefully and make sure you have all the required information.
-
-</thinking>
-
 # Zoo Field Trip Registration Form - Help Guide
 ## Purpose
 The form is a registration process for students to participate in the zoo field trip. It's a crucial step to gather essential information about each student to ensure a successful and safe experience for everyone.

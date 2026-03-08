@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed to collect personal and contact information from individuals or patients who require home health services. The purpose of the form is likely to gather essential details for referral purposes, such as contact information, demographic data, and potentially, other relevant medical or health-related information. This form may be used by healthcare professionals or social workers to assess the needs of patients and facilitate home healthcare services.
-
-To avoid duplication of effort, it's essential to ensure that this form is not submitted multiple times by the same individual or patient.
-
-</thinking>
-
 # Home Health Referral Form - Help Guide
 ## Purpose
 

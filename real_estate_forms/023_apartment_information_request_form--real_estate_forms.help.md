@@ -1,13 +1,3 @@
-<thinking>
-
-To provide a helpful guide for the end users to complete the form, let's first break down the form's purpose and potential issues that may arise if not filled out correctly.
-
-The Apartment Information Request Form is designed to gather essential information from clients regarding their apartment requirements and preferences. This form helps agents understand what clients are looking for in an apartment and what they're willing to compromise on. 
-
-If not filled out correctly, the form may lead to miscommunication, delayed or incorrect matches, or missed opportunities. To avoid these issues, it's crucial that clients carefully consider and accurately fill out the form.
-
-</thinking>
-
 # Apartment Information Request Form - Help Guide
 
 ## Purpose

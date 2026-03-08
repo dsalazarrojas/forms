@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about an event's digital twin modeling application. It is used for internal purposes within the organization, and the information collected will be used to process and evaluate event proposals. It is recommended to fill out this form accurately and thoroughly to ensure that the event's application is properly reviewed.
-The form has 20 fields that are divided into several sections, and some fields have options or hints for better understanding.
-</thinking>
-
 # Event Digital Twin Modeling Application Form - Help Guide
 ## Purpose
 This form is used to collect information about an event's digital twin modeling application. It is used by the internal team to review and process event proposals.

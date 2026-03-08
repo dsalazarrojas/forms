@@ -1,5 +1,3 @@
-<thinking>Nonprofit Vocational Training Referral Form is used to refer someone to a vocational training program. This form is designed to gather information about the individual being referred, their interests, and the details of the referral process. Before proceeding, please ensure that the individual you are referring has not already been referred to the program, and that you have obtained their consent to share their information. Please refer to the organization's referral policies for more information.</thinking>
-
 # Nonprofit Vocational Training Referral Form - Help Guide
 ## Purpose
 The Nonprofit Vocational Training Referral Form is used to refer an individual to a vocational training program. It gathers information about the individual being referred, their interests, and the details of the referral process.

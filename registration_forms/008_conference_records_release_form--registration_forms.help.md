@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist the user in completing the Conference Records Release Form. Please ensure that you read this guide carefully before proceeding.
-</thinking>
-
 # Conference Records Release Form - Help Guide
 ## Purpose
 The Conference Records Release Form is used to request access to conference records, such as attendance certificates, presentation materials, and other documentation. This form is a formal request that requires your identification and authorization to ensure the confidentiality and integrity of the records.

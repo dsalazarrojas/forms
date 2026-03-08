@@ -1,22 +1,3 @@
-<thinking>
-
-This form is designed for registrants to provide their information and payment details for the Permaculture Design Course. It serves as a central hub for capturing essential data for the course administration and participant management.
-
-To complete the form successfully, follow these steps:
-
-1. Enter your details in the **Registration** page. 
-2. Choose the correct **Payment Method** if applicable. 
-3. Fill in your **Name**, **Email**, and **Phone** fields with accurate information. 
-4. Provide information about yourself as **Participant**, **Participant Number**, and **Participant Info**.
-5. Enter the **Course Details**, **Course Name**, and **Training Location** for the course you're enrolling in.
-6. Select the relevant dates for **Registration Date** and **Payment Date**.
-7. Confirm that you've received payment for the course by selecting **Payment Received**.
-8. Enter the **Payment Amount** you're paying.
-9. Choose your **Participant Status**, indicating whether you are Active or Inactive.
-10. Optionally, provide additional information about your participant status in the **Participant Status Other Info** fields.
-
-</thinking>
-
 # Permaculture Design Course Registration - Help Guide
 ## Purpose
 The Permaculture Design Course Registration form serves as a central hub for capturing essential data for the course administration and participant management. The form captures vital information for registration, payment, and participant status.

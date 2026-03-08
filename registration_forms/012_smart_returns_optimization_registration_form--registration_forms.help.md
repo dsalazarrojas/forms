@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to help businesses and organizations register their information for the Smart Returns Optimization initiative. The purpose of this form is to gather relevant details about the business, including their return volumes, business challenges, contact information, and other relevant fields. This information will be used to optimize returns processing and improve overall efficiency.
-
-To ensure accurate and helpful completion of this form, please review the following instructions carefully:
-
-1. The form is divided into several sections, each corresponding to a specific page.
-2. Please fill out all required fields (marked as "required" in the form).
-3. For non-required fields, choose the most relevant option or provide the best answer for your business.
-4. If you're unsure about any field, contact the support team for assistance.
-
-</thinking>
-
 # Smart Returns Optimization Registration Form - Help Guide
 
 ## Purpose

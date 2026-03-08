@@ -1,7 +1,3 @@
-<thinking>Before creating the help guide, let's break down the form's purpose and fields. This form is designed for users to set up their invoice automation registration. Upon analyzing the form schema, there are four fields: User Info, Business Info, Contact Info, and Payment Info. These fields might be used for gathering basic contact details, business identity, contact methods, and payment preferences from users.
-
-To avoid duplication or irrelevant registration, we should note that some fields might be optional and not all fields are required.</thinking>
-
 # Invoice Automation Setup Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information for setting up invoice automation registrations. Please fill out the form accurately to ensure a smooth registration process.

@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to validate form purpose and non-duplication ...
-
-The form is designed to collect information about a new store takeover, which is a process where one store is acquired by another. The purpose of this form is to gather essential details about the store being taken over, including its name, location, and contact information. This form is likely used by internal teams, such as real estate or business development, to update internal databases or for reporting purposes.
-
-To ensure no duplication or unnecessary work, this form should be submitted only when a new store takeover is announced or when there's a significant change in the store's ownership or location.
-
-</thinking>
-
 # New Store Takeover Form - Help Guide
 ## Purpose
 This form is used to collect information about a new store takeover, including the store name, location, and contact information.

@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is to create a schedule for a doctoral examination. This form is used by students to schedule an examination with their faculty. The form is used by students to provide their information, select exam time slot, and confirm preferred time slot. This form also serves as a way to provide additional notes or messages to the student. To avoid redundancy, please complete this form only once after you have reviewed and approved the exam schedule with your faculty member. If you have already completed a schedule, please do not fill out this form again.
-</thinking>
-
 # Doctoral Exam Appointment Schedule - Help Guide
 ## Purpose
 The Doctoral Exam Appointment Schedule form is used to schedule a doctoral examination with your faculty member. Please provide your information, select a suitable exam time slot, and confirm your preferred time slot.

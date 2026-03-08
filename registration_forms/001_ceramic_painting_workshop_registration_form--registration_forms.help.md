@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants for a Ceramic Painting Workshop. It gathers details about the participant's identity, workshop preferences, and emergency contacts. The form is divided into two sections: "Participant Information" and "Workshop Details". The form aims to ensure that participants are properly registered and informed about the workshop schedule and rules.
-</thinking>
-
 # Ceramic Painting Workshop Registration Form - Help Guide
 
 ## Purpose

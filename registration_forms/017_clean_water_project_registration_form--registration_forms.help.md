@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals or organizations interested in participating in the Clean Water Project. It gathers details such as name, email, phone number, organization affiliation, preferred role, geographic area of interest, specific skills, typical availability, previous experience with water projects, motivation statement, and consent for communication and liability. The form is divided into sections to facilitate the registration process and ensure that all relevant information is collected. The purpose of this form is to support or participate in the clean water initiatives, and it's essential to register to be part of this initiative. Please ensure that you are not duplicating your registration as the system will prevent multiple entries from the same registrant. If you have already registered, you can log in using your registered email address.
-</thinking>
-
 # Clean Water Project Registration Form - Help Guide
 
 ## Purpose

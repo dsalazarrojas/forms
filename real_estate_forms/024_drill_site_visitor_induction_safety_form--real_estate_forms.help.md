@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Drill Site Visitor Induction Safety Form - Help Guide
 ## Purpose
 This form is used to collect information about visitors to a drill site, ensuring their safety and induction. It is an essential part of site visitation procedures to ensure a safe and healthy work environment.

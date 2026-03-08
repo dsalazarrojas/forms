@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the Retail Franchise Audit System, likely for store registration, data management, or operational efficiency purposes. This form likely serves as a centralized platform for store owners or franchise managers to provide essential details about their stores, including contact information, location, and store-specific data. It's crucial that the form is filled out accurately to ensure proper integration with the system and minimize errors.
-</thinking>
-
 # Retail Franchise Audit System Registration - Help Guide
 ## Purpose
 The Retail Franchise Audit System Registration form is designed to collect store-specific data for registration, management, or operational efficiency purposes within the Retail Franchise Audit System.

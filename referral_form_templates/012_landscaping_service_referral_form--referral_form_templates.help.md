@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from customers who want to refer a friend or family member to the landscaping service. The purpose of this form is to gather basic details about the client and the referral, such as their name, the type of service they are referring (residential or commercial), and why they are referring them. The form also includes an option for the referrer to indicate if they would like to be contacted regarding the referral. This form should be completed by clients who have had a positive experience with the landscaping service and want to share it with others.
-</thinking>
-
 # Landscaping Service Referral Form - Help Guide
 ## Purpose
 This form is a referral form designed to capture information from customers who want to refer a friend or family member to the landscaping service.

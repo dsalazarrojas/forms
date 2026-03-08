@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nursery Field Trip Registration - Help Guide
 ## Purpose
 This form is designed to collect information from parents or guardians for their child's field trip registration. It covers various aspects of the child's medical details, vehicle information, and other relevant fields. Please complete the form accurately to ensure a smooth and safe field trip experience for your child.

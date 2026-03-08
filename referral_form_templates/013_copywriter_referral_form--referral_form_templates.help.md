@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who are referring a copywriter to our services. The form is designed to be used in conjunction with our existing referral program, which rewards users for introducing new clients to our organization. This form will help us track the details of the referred copywriter, including their contact information, company, and other relevant details. This information will be used to follow up with the referred copywriter and provide them with more information about our services.
-</thinking>
-
 # Copywriter Referral Form - Help Guide
 ## Purpose
 The Copywriter Referral Form is used to collect information from users who are referring a copywriter to our services. This form helps us track the details of the referred copywriter and follow up with them to provide more information about our services.

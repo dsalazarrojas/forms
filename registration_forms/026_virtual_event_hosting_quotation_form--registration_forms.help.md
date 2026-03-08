@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from event organizers to create a quotation for virtual events. The fields are organized into several categories: Event Details, Client Details, Quotation Details, Event Planner, and Event Terms and Conditions. The form will ask about event title, event dates and time, event description, event location, and capacity. For Client Details, it will ask for the client's budget, contact information, and any additional notes. Event Planner will allow the selection of the event type (event manager, event coordinator, event lead). The form will also ask for the event's terms and conditions.
-</thinking>
-
 # Virtual Event Hosting Quotation Form - Help Guide
 ## Purpose
 This form is used to gather essential information from event organizers to create a quotation for virtual events. It is intended to help event planners and managers collect necessary details about the event, allowing them to provide an accurate quote to the client.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect user recommendations from users. The form is meant to gather information on a user's name, email, contact number (if provided), and a description of their recommendation. Users are also asked to choose a type of recommendation and upload up to three files (if necessary). The form includes a field where users can confirm that they have read and agree to the terms and conditions. This form is likely used for internal purposes, such as tracking user feedback, but the exact use case is not specified.
-Before starting, ensure you have not already submitted a similar recommendation, as this form is intended for new and unique submissions.
-</thinking>
-
 # submit_your_recommendation - Help Guide
 ## Purpose
 The `submit_your_recommendation` form is a collection tool for users to provide their thoughts, ideas, or suggestions on a particular subject.

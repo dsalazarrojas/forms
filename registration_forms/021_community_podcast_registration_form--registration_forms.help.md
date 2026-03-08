@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for participants to register their podcast for a community event, providing information about their show and their interests. The fields are designed to collect relevant details such as participant name, podcast category, episode count, and availability for recording. The form should be filled out by participants who are interested in registering their podcast for the event. To avoid duplication, the form should be filled out only once per participant.
-</thinking>
-
 # Community Podcast Registration Form - Help Guide
 ## Purpose
 The Community Podcast Registration Form is for participants to register their podcast for the community event. This form helps us understand your podcast's details and interests, ensuring a successful and enjoyable experience for you and other attendees.

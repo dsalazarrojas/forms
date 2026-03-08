@@ -1,25 +1,3 @@
-<thinking>
-The form purpose is to renew a bank account, allowing users to update their account information, select the type of account to be renewed, and verify their identity and employment status. This form is likely used for internal bank operations or for customers to manage their accounts online.
-
-The form has multiple pages with various fields, including text inputs for account number, name, email, and phone number, select options for account type, employment status, and identification type, and date inputs for ID expiration date and renewal submission date. The form also includes a note field for users to provide current account information and terms and conditions to be read and agreed upon.
-
-This form is likely used for customers to update their account information, such as changing their email address or phone number, or for employees to update their employment status and identification documents. The form may be used to ensure that the customer's account is compliant with regulatory requirements and that the customer has the necessary information to proceed with the renewal process.
-
-The form is designed to be easy to use and navigate, with clear labels and prompts to guide the user through the process. The user must complete all required fields, such as account number, account type, identification type, employment status, ID expiration date, and electronic signature. The user can choose to opt-in or out of paperless statements.
-
-To complete the form, the user must:
-
-1. Provide their current account information, including account number and type.
-2. Select the type of account to be renewed.
-3. Update their contact information, if necessary.
-4. Verify their identity and employment status.
-5. Agree to the updated terms and conditions.
-6. Choose whether to enroll in paperless statements.
-7. Provide their electronic signature.
-8. Select the date of renewal submission.
-
-</thinking>
-
 # Bank Account Renewal Form - Help Guide
 ## Purpose
 This form allows users to update their account information, select the type of account to be renewed, and verify their identity and employment status.

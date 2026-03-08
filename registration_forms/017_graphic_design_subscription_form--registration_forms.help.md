@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from clients about their graphic design subscription preferences. This includes details such as their client information, subscription preferences, and project specifics. The form is likely used by a business or organization to gather data from clients to understand their needs and preferences for graphic design services. To ensure that each client's data is accurately represented, please fill out the form carefully and thoroughly. If you've already submitted a similar form, please be aware that duplicate submissions may be deleted or ignored.
-</thinking>
-
 # Graphic Design Subscription Form - Help Guide
 ## Purpose
 This form is designed to collect your graphic design subscription preferences, including your client information and project specifics.

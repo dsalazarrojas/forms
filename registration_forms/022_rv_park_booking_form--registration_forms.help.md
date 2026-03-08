@@ -1,10 +1,3 @@
-<thinking>
-  * The "rv park booking form" is designed for users to provide information regarding their visit to an rv park. The form includes fields for personal information (name, email, phone number, etc.), reservation details (dates, spot type, etc.), and park information (park name, spot location, etc.). The purpose of this form is to gather relevant information for the park staff to better assist the user during their stay.
-  * Ensure that the user has not already provided this information in the past to prevent duplication of efforts.
-  * Validate that the user understands the purpose and scope of the form before proceeding.
-  * Validate that the user is aware of the fields and their relevance to the form's purpose.
-</thinking>
-
 # rv park booking form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to obtain consent from interview participants for recording their conversations during an environmental or documentary project. The form asks for consent for both recording and sharing the interviews, which is important for maintaining participant privacy and ensuring that they understand how their data will be used. This form will help ensure that participants are informed and willing to participate, and that their rights are respected. Before proceeding with the interviews, it is essential to have this consent in place to avoid any potential issues or disputes.
 
 # Eco Documentary Interview Consent Form - Help Guide

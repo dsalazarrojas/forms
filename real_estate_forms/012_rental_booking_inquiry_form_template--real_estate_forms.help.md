@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to gather user input for real estate-related activities, likely for a property management system or a similar application. The form is structured into multiple pages, each with its own label (e.g., "page1", "page2") and a hint to provide additional context. The form types include text, select_one (multiple-choice options), and note fields. The fields' required status and options depend on the specific page they belong to.
-</thinking>
-
 # title - Help Guide
 
 ## Purpose

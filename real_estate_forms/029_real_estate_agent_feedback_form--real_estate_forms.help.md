@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to provide guidance for end users who are completing the "real_estate_agent_feedback_form" for providing feedback to agents regarding their services. It's essential to ensure that all required fields are completed accurately to avoid form submission failure. Please note that this guide is not for agents, but for clients who will be submitting their feedback.
-</thinking>
-
 # real_estate_agent_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from clients regarding the services provided by real estate agents. This feedback is essential for improving the quality of services, identifying areas of improvement, and ensuring customer satisfaction.

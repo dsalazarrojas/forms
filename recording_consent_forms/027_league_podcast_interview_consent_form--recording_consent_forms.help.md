@@ -1,22 +1,3 @@
-<thinking>
-The "League Podcast Interview Consent Form" is designed to be used by individuals who will be interviewed on a podcast for the League organization. This form is used to collect information about the interview participant, such as their name, contact information, and consent for recording the interview. The form is typically completed by the person being interviewed, and their responses will be used to facilitate the recording and sharing of the podcast episode.
-
-To ensure that this form is completed by the right person and not duplicated, it's essential to verify the participant's identity and ensure that they have the necessary authority to complete the form. 
-
-This form should be used for internal purposes only and not shared externally without the permission of the participant.
-
-The form consists of the following fields:
-- First name
-- Last name
-- Email
-- Phone number
-- Address
-- Date of interview
-- Time of interview
-- Recording consent
-
-</thinking>
-
 # League Podcast Interview Consent Form - Help Guide
 
 ## Purpose

@@ -1,24 +1,3 @@
-<thinking>
-This form is a Recommendation Letter Adjectives Reference Form, likely used in a professional or academic setting to collect feedback and comments from references about a candidate. Its purpose is to gather information from multiple sources about the candidate's performance, skills, or character. To confirm, this form is designed for use in HR or academic settings to evaluate a candidate's qualifications.
-
-Before filling out the form, please ensure that:
-* The candidate information is accurate and up-to-date
-* The reference has a clear understanding of the purpose and context of this form
-* The feedback is genuine and not biased
-
-This form is a single-page form with five sections:
-1. Introduction
-2. Candidate Info
-3. Reference Info
-4. Feedback
-5. Additional Comments
-
-This form is designed to be completed by the person providing the reference, so ensure you provide honest and constructive feedback.
-
-The following is a field-by-field explanation of this form.
-
-</thinking>
-
 # Recommendation Letter Adjectives Reference Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and comments from references about a candidate's performance, skills, or character.

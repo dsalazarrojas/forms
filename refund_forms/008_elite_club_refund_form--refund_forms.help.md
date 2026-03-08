@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to request a refund for an elite club membership. It is a critical part of the refund process, ensuring that customers can provide accurate and relevant information for their refund requests. To complete this form, follow these steps: 
-- First, enter the "Request A Refund" section on the first page with a clear and concise explanation of the reason for the refund.
-- Next, enter the order ID, which is a unique identifier given to each customer at the time of purchase.
-- Then, enter the reason for the refund in the "Reason for Refund" field. Be as specific as possible to facilitate the refund process.
-- After that, enter the refund amount, which should match the amount of the purchase or service rendered.
-- Finally, enter the customer's name, email, phone number, and any additional message they want to include with the refund request.
-</thinking>
-
 # elite_club_refund_form - Help Guide
 ## Purpose
 The "Elite Club Refund Form" is a form designed for customers to request a refund for their elite club membership. It helps gather important information for processing the refund accurately and efficiently.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Special Education Admission Form - Help Guide
 
 ## Purpose

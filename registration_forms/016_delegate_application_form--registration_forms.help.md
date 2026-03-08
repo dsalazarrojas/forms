@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # delegate_application_form - Help Guide
 ## Purpose
 The Delegate Application Form is a registration form used to collect information from potential delegates for an event or gathering. This form is designed to gather essential details about the delegate, including their contact information, role, experience, and availability.

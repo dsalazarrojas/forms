@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information for the Business Networking Event Reservation Form, allowing attendees to register and provide details for their reservation. The form will help the event organizers to efficiently process and prepare for the event. To ensure accurate and helpful feedback, please review the form carefully and answer all relevant questions truthfully. 
-
-The form is intended for individual users, not for bulk or mass submissions. Please do not submit this form multiple times.
-
-This form gathers personal and event-specific information, including name, email, phone number, company name, job title, primary business focus, event name, event date, number of additional guests, guest details, dietary preferences, accessibility requirements, networking interests, topics of interest, previous event attendance, referral source, consent to communication, and terms of agreement.
-</thinking>
-
 # Business Networking Event Reservation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from event attendees for effective event organization and communication.

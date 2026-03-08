@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to collect information from individuals interested in joining the church choir. The form is used to gather personal and musical details, availability, and interests to ensure a smooth transition into the choir. This guide will cover the form's purpose, how to complete it, and an explanation of each field.
-</thinking>
-
-# Church Choir Membership Registration Form - Help Guide
+> # Church Choir Membership Registration Form - Help Guide
 ## Purpose
 The Church Choir Membership Registration Form is used to collect essential information from potential members, including personal details, musical experience, and availability. This information will help the choir director understand your interests, skills, and commitment level, ensuring a smooth integration into the choir and providing a fulfilling musical experience.
 

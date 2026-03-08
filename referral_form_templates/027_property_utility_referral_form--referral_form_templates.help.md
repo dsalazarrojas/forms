@@ -1,17 +1,3 @@
-<thinking>
-This form appears to be a referral form for a property utility service, likely used to gather information from property managers and tenants to facilitate utility referrals. The form is structured to collect details about the property manager, utilities (e.g., electricity, water, gas), and tenant information. This form is likely used to create a centralized database of utility referrals for a specific location or region. To avoid duplication, the form's purpose and usage should be clearly communicated to users.
-
-The form is composed of several sections, each focused on a specific aspect of property management:
-
-*   Property Manager Information: Gathering details about the property manager.
-*   Property Details: Collecting information about the property itself (e.g., name, lease date).
-*   Utility Information: Gathering details about the utilities provided to the property (e.g., name, type, status).
-*   Tenant Information: Collecting details about the tenant(s) occupying the property.
-*   Lease and Rent: Gathering information about the lease term and rent details.
-
-Given the structured nature of the form, users will be able to easily navigate and fill out the required fields. Each field has a clear label, making it easy to understand the purpose of each question.
-</thinking>
-
 # Property Utility Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information about a property and its utility services to facilitate referrals. It is meant to be completed by property managers to provide accurate and up-to-date information about their properties and tenants.

@@ -1,7 +1,3 @@
-<thinking>
-This is a sample form for users to request a sample pack from our organization. The form is meant to gather information about the user, their contact details, shipping information, order details, payment information, and any additional notes they may have. This form is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation using only public survey topic metadata. The form is released under CC BY 4.0 and can be used, modified, and even sold, just giving credit to the creator.
-</thinking>
-
 # sample_pack_request_order_form - Help Guide
 ## Purpose
 This form is designed to collect information from users to process their sample pack requests. It is essential to fill out the form completely and accurately to ensure that your request is processed efficiently.

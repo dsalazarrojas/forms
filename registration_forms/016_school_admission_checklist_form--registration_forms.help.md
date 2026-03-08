@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for school admissions. The purpose of this form is to gather information from prospective students and their families to facilitate the admission process. The form collects data on prospective students' contact information, family details, and other relevant data.
-
-</thinking>
-
 # School Admission Checklist Form - Help Guide
 ## Purpose
 The School Admission Checklist Form is a tool for collecting information from prospective students and their families to facilitate a smooth and efficient school admission process.

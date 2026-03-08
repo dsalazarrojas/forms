@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by customers to provide their consent for sharing their data with the company, and it's meant to be a simple and straightforward way to gather this information. The purpose of this form is not to gather personal data for marketing purposes or other uses, but rather to obtain explicit consent from customers for data sharing. This form is designed to be used in conjunction with other registration forms and is not meant to be a standalone form for general data collection.
-</thinking>
-
 # Loyalty Program Data Sharing Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain your consent for sharing your customer data with third parties. This form is used in conjunction with other registration forms and is not intended for general data collection or marketing purposes.

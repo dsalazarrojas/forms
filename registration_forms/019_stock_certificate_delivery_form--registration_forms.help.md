@@ -1,5 +1,3 @@
-<thinking> This form "stock_certificate_delivery_form" is designed to collect information for stock certificate delivery. It is a simple text-based form with 5 fields: stock certificate, stock holder, delivery date, delivery time, and stock symbol. The form does not have any specific validation or submission rules, making it a basic template for users to follow. The form was created to adapt to any scenario where stock certificate delivery information is required. Please review this help guide to ensure you complete the form correctly.</thinking>
-
 # stock_certificate_delivery_form - Help Guide
 ## Purpose
 The stock_certificate_delivery_form is a text-based form designed to collect information for stock certificate delivery.

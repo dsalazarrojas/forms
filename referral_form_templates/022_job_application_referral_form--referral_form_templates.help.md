@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, the purpose of this form is to collect referral information about a job posting. This form allows users to share contact details and job posting information with a potential referral, providing a way to initiate a connection or follow-up. The form was generated using AI, taking into account public survey topic metadata and is not affiliated with any form platform. It's released under a Creative Commons license, allowing others to use, modify, and even sell forms derived from it, as long as credit is given. The form is designed to be simple and user-friendly, with a focus on collecting essential referral information.</thinking>
-
 # Job Application Referral Form - Help Guide
 ## Purpose
 This form is designed to collect referral information about a job posting, allowing users to share contact details and job posting information with a potential referral.

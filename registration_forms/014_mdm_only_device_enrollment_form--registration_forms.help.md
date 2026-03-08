@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to consider its purpose and functionality. The form, called "MDM Only Device Enrollment Form," likely serves as a registration or enrollment form for devices, gathering information about the device and its status. This form may be used within an organization or business to track or verify the ownership and activation of devices. Each field should be explained in a way that is concrete and practical for users to fill out the form accurately and effectively.
-
-Based on the provided YAML, the form is composed of 12 fields, including text input fields for user input, device information, contact information, IT information, request details, additional comments, device serial number, device model, OS version, and enrollment status. The form also includes two select-one fields for enrollment status and assigned tool, and another select-one field for assigned user.
-
-Given the form's structure and fields, we can assume the following:
-
-*   The form is intended for registering or enrolling devices within an organization or business.
-*   The form may be used for verifying or tracking device ownership and activation status.
-*   The form is likely used for internal purposes within an organization or business.
-
-To create the help guide, we'll break down each field and provide an explanation for each, assuming the form's purpose and functionality based on the provided information.
-</thinking>
-
 # MDM Only Device Enrollment Form - Help Guide
 ## Purpose
 This form is designed to register or enroll devices within an organization or business. Fill out this form to provide necessary information about the device and its status.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Food Service Worker Recommendation Letter Request" is used to request a written recommendation from a food service worker's supervisor or manager. The purpose of this form is to collect information for the recommendation letter, which is usually used as part of a job application or promotion process. To avoid duplicate requests, this form should only be used for new requests, not for updates or revisions of existing recommendations. Please ensure that you are submitting a valid request before proceeding.
-</thinking>
-
 # Food Service Worker Recommendation Letter Request - Help Guide
 ## Purpose
 This form is used to request a written recommendation from a food service worker's supervisor or manager for the purpose of a job application or promotion.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants about their interest in attending a professional development workshop. The form is likely used by HR or event organizers to track attendee details for the workshop. This form is not intended to be a duplicate or redundant form, and should only be completed once by each participant.
-</thinking>
-
 # Professional Development Workshop Attendance Form - Help Guide
 ## Purpose
 This form is used to collect information from participants about their interest in attending a professional development workshop.

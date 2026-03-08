@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transport Rental Referral Form - Help Guide
 ## Purpose
 The Transport Rental Referral Form is designed to help users refer a driver for transport rental services. This form is meant to provide essential information about the driver and their agreement to terms and conditions.

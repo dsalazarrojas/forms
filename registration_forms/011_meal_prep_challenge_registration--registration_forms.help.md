@@ -1,7 +1,3 @@
-<thinking>
-This form is likely a registration form for participants in a meal prep challenge. The purpose of the form is to collect information about the participant's preferences, goals, and dietary needs. It's likely used to ensure that each participant is properly matched with a suitable coach for the challenge. To avoid duplication, we should check if a participant with the same email address has already been registered in the system.
-</thinking>
-
 # meal_prep_challenge_registration - Help Guide
 ## Purpose
 This form collects information about you as a participant in the meal prep challenge. This information is used to match you with a suitable coach who will guide you through the challenge.

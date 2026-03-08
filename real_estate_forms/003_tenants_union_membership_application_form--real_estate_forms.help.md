@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be a general guide for a tenants union membership application process. It's a straightforward form used to collect personal and contact information from potential union members. The form's purpose is to ensure that the union has the necessary data to verify identities and contact potential members. It's crucial to be honest while filling out the form to avoid duplication or incorrect information. Please fill in the fields accordingly.
-</thinking>
-
 # Tenants Union Membership Application Form - Help Guide
 ## Purpose
 This form is used to collect personal and contact information from potential union members. The data collected will be used to verify identities and facilitate communication.

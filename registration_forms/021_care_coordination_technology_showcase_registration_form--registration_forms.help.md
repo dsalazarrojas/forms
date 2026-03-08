@@ -1,5 +1,3 @@
-<thinking>As an expert form designer, I need to carefully read the form schema and identify the purpose, required fields, and any potential confusion that might arise from unclear or open-ended labels. This form is for attendees to register for a Care Coordination Technology Showcase event, which likely focuses on healthcare technology. The attendee is asked to provide their contact information, professional role, technology interests, and showcase details such as the event date and number of attendees. There are some fields that require clarification, like "Attendee Dietery Needs Header," which might be a mislabeled or confusing term. I'll make sure to correct it to something more user-friendly.</thinking>
-
 # Care Coordination Technology Showcase Registration Form - Help Guide
 ## Purpose
 The Care Coordination Technology Showcase Registration Form is designed for healthcare professionals to register for an event focused on care coordination and technology. Please use this guide to complete the form accurately and efficiently.

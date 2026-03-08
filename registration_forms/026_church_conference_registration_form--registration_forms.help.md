@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clear and that users understand what information is required to complete it. This form is for registering attendees for a Church Conference. It's essential to verify that users understand the correct fields to fill and that the required fields are marked as such to avoid duplication of effort and frustration. We should also ensure that the form's layout and instructions are user-friendly and easy to navigate.
-</thinking>
-
 # Church Conference Registration Form - Help Guide
 ## Purpose
 This form is for registering attendees for the Church Conference. Please fill out the form completely and accurately to ensure a smooth registration process.

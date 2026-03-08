@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bracket Challenge Participation Form - Help Guide
 
 ## Purpose

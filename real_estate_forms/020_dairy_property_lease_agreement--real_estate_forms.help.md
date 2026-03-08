@@ -1,7 +1,3 @@
-<thinking>
-This form is for creating a dairy property lease agreement between a landowner and a farmer. The form is likely used for agricultural use cases where a farmer is leasing land from a landowner. The purpose of this form is to outline the terms and conditions of the lease, including lease terms, rent, and property details. The form is likely to be used by real estate agents or property managers. There is no indication that this form is a duplicate of another form, and it serves a distinct purpose.
-</thinking>
-
 # Dairy Property Lease Agreement - Help Guide
 ## Purpose
 This form is designed to facilitate the creation of a dairy property lease agreement between a landowner and a farmer. The form captures essential information to outline the terms and conditions of the lease, ensuring a clear understanding between the parties involved.

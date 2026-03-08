@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for users who are completing the "Job Description Form" to provide a clear and concise understanding of the form's purpose, how to complete it, and what each field means. It's a crucial step in ensuring that the information provided is accurate and complete, reducing errors and duplication of effort within the system. This form is designed to collect relevant details about job openings, including job titles, summaries, categories, types, salary ranges, benefits, locations, descriptions, qualifications, requirements, and statuses. The form serves as a vital tool for HR teams, recruiters, or administrators to gather essential information for job postings, applicant tracking, and other related processes. Before beginning, review the form carefully to understand its purpose and ensure that all required fields are filled out accurately to avoid any potential issues. 
-
-</thinking>
-
 # Job Description Form - Help Guide
 
 ## Purpose

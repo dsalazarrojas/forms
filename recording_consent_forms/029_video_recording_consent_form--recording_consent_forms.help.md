@@ -1,7 +1,3 @@
-<thinking>
-This is a crucial step to ensure the form's purpose is well understood by end users, and to prevent duplication of effort. The form is for obtaining consent from users for video recording purposes. This form will likely be used by HR or management to record meetings, lectures, or other events where video recording is allowed, but requires consent from the users involved. The goal is to make it easy and straightforward for users to understand what they are being asked to provide and what the form is used for. This guide should clearly explain each field's purpose, ensuring users fill out the form correctly and efficiently.
-</thinking>
-
 # Video Recording Consent Form - Help Guide
 ## Purpose
 The Video Recording Consent Form is used to obtain consent from users for video recording purposes. This form is typically used by HR or management to record meetings, lectures, or other events where video recording is allowed, but requires consent from the users involved.

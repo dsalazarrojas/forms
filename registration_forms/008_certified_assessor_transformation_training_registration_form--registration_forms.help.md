@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for individuals interested in attending Certified Assessor Transformation Training. This guide will walk users through each section and field of the form to ensure they understand what is required and how to complete it accurately. It's essential to note that some fields may be optional, but all required fields must be filled out to complete the registration process. Please review each section carefully to ensure you have provided all necessary information. 
-</thinking>
-
 # Certified Assessor Transformation Training Registration Form - Help Guide
 ## Purpose
 

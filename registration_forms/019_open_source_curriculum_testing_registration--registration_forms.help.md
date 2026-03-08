@@ -1,7 +1,3 @@
-<thinking>
-The Open Source Curriculum Testing Registration form is designed to collect relevant information from users to help us evaluate the effectiveness of our open-source curriculum. This form will be used to validate our curriculum's usability and relevance. Please fill in the form completely and accurately. If you are registering more than one person, please fill in separate forms for each individual. If you have already completed this form, please do not fill it out again as it would be considered a duplicate.
-</thinking>
-
 # Open Source Curriculum Testing Registration - Help Guide
 ## Purpose
 The Open Source Curriculum Testing Registration form is a tool used to collect feedback and validate the usability and relevance of our open-source curriculum.

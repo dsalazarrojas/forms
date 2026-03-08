@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be filled out by parents or guardians for their children who wish to enroll in music lessons at the music school. The form is used to gather information about the student's name, contact details, and music-related preferences such as programs and instruments of interest. The fields are designed to be completed in a specific order, with the first page collecting basic contact information and the second page collecting more detailed information about the student's music preferences. This guide is intended for end-users who are completing the form for the purpose of enrolling their child in music lessons.
-</thinking>
-
 # Music School Enrollment Extension Form - Help Guide
 ## Purpose
 This form is designed to collect information from parents or guardians for their children who wish to enroll in music lessons at the music school.

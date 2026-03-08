@@ -1,9 +1,3 @@
-<thinking>
-
-I will create a help guide for the "resident_travel_request_form" form.
-
-</thinking>
-
 # resident_travel_request_form - Help Guide
 ## Purpose
 The resident_travel_request_form is a form used to request travel information and make it easier for residents to submit their travel requests in a structured and organized way.

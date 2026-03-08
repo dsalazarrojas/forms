@@ -1,13 +1,3 @@
-<thinking>
-We're checking the form purpose and fields to ensure it's a valid and non-duplication request...
-The form is a Lease Buyout Program Application Form, used to facilitate a process where a tenant can apply for a lease buyout. A lease buyout allows a tenant to purchase the rental property at a mutually agreed price. This form will be used to collect information from tenants who are interested in purchasing their rented property. This form's purpose is to ensure all required information is collected correctly and efficiently for the program.
-This form has 13 fields:
-1-4: Collect contact information (name, email, phone, and property name)
-5-8: Collect property details (name, move-in date, move-out date, and address)
-9-13: Additional details regarding the lease and rent (lease dates, rent, and deposit requirements)
-This form will help tenants provide all necessary information for a lease buyout program, ensuring a smooth and efficient process for all parties involved.
-</thinking>
-
 # Lease Buyout Program Application Form - Help Guide
 ## Purpose
 The Lease Buyout Program Application Form is used to collect information from tenants who are interested in purchasing their rented property. This form ensures that all required information is collected correctly and efficiently for the program.

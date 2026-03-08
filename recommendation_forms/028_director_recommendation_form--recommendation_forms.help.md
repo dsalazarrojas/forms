@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from recommenders about their candidate, including their name, title, and institutional affiliation. The form is designed to gather specific details to facilitate the recommendation process. It's essential to complete this form accurately and thoroughly to ensure that the information provided is used effectively. Please note that the form is not a contract or a commitment, and the information collected will be used for internal purposes only. 
-
-Before proceeding, check to see if you have completed this form for the same candidate before, as duplicate entries may not be submitted.
-
-</thinking>
-
 # Director Recommendation Form - Help Guide
 ## Purpose
 The Director Recommendation Form is a tool used to collect information from recommenders about their candidate for academic or professional purposes. This form helps in gathering essential details about the candidate, such as their name, title, and institutional affiliation, which are then used to support the recommendation process.

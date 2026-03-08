@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration payment form for job fairs. It's used for event organizers to gather information about job seekers and employers registering for a job fair. The form is designed to collect relevant data such as event details, job seeker and employer information, and payment details. To avoid duplication, this form should only be filled out by one person per event.
-</thinking>
-
 # Job Fair Registration Payment Form - Help Guide
 ## Purpose
 This form is used for job seekers and event organizers to register and pay for job fairs.

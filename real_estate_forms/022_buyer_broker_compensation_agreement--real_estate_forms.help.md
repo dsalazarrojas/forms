@@ -1,11 +1,3 @@
-<thinking>
-This form is used to outline the terms and conditions of the relationship between a real estate buyer and a broker. 
-The form is designed to ensure that all parties have a clear understanding of the compensation and responsibilities of each other. 
-This form is a crucial part of the home buying or selling process as it outlines expectations and obligations for all parties involved. 
-The compensation type and amount, source, and other specific conditions of the agreement will be documented in this form.
-
-</thinking>
-
 # Buyer Broker Compensation Agreement - Help Guide
 ## Purpose
 This form is used to document the terms and conditions of the relationship between a real estate buyer and a broker. It outlines the compensation, responsibilities, and duration of the agreement.

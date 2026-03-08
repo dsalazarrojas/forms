@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect necessary information from dance studio students to ensure their safety and well-being. The fields are divided into two main categories: Student Information and Contact Information. The form is used to gather essential details about the student's identity, health, and emergency contact information. Please make sure you have all the necessary information before proceeding to avoid duplicates and inaccuracies.
-</thinking>
-
 # Dance Studio Student's Registration Form - Help Guide
 ## Purpose
 The Dance Studio Student's Registration Form is a crucial document that provides necessary information about a student to the dance studio's staff and administrators. This form helps us understand the student's background, health, and contact details, allowing us to tailor our services and ensure a safe learning environment.

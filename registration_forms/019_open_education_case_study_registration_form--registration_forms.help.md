@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information about participants in an Open Education Case Study. The purpose of this form is to register participants and collect relevant details about them. This form is likely used by administrators or educators to gather data about students or learners who are participating in a case study. The form should not be used to register multiple participants at once; instead, each participant should be registered individually. This guide will walk you through how to complete the form and explain each field in detail.</thinking>
-
 # Open Education Case Study Registration Form - Help Guide
 ## Purpose
 The Open Education Case Study Registration Form is designed to gather information about participants in an Open Education Case Study. This form helps administrators or educators collect relevant details about students or learners who are participating in the case study.

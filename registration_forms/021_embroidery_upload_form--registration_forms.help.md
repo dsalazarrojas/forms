@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect customer contact information and files for embroidery services. It is meant for customers who want to upload their own files for embroidery services... this form will likely be used for a business or organization that provides custom embroidery services. It is a simple form to collect customer data and file uploads without requiring extensive setup or configuration. Please review the form fields and their purpose to ensure this is the correct tool for your intended use case... this form's structure and fields are based on common industry standards for customer contact and file upload forms.</thinking>
-
 # Embroidery Upload Form - Help Guide
 ## Purpose
 The Embroidery Upload Form is designed to collect customer contact information and files for embroidery services. This form allows customers to provide their email address, select the type of file to upload, and upload the file itself.

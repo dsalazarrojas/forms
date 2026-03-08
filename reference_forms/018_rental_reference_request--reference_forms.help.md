@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect reference information from tenants when they are renting a property. The purpose of this form is to gather relevant details about the tenant's rental experience, including their relationship with the property owner/manager and any relevant contact information. This form is intended to be completed by the tenant, and the information provided will help the property owner/manager to verify the tenant's rental history. Please ensure that you are not duplicating this form for the same purpose, and that you are not using it for any purpose other than its intended use.
-</thinking>
-
 # Rental Reference Request - Help Guide
 ## Purpose
 This form is used to collect reference information from tenants when they are renting a property, to verify their rental history and gather relevant details about their experience.

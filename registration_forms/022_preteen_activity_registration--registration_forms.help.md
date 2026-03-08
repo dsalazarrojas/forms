@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PreTeen Activity Registration - Help Guide
 
 ## Purpose

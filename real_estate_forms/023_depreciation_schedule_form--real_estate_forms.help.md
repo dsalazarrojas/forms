@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Depreciation Schedule Form - Help Guide
+> # Depreciation Schedule Form - Help Guide
 ## Purpose
 The Depreciation Schedule Form is used to calculate and schedule the depreciation of assets over time. This form helps to record and track the initial value, asset type, depreciation method, and other relevant details of an asset to determine its depreciated value over its lifetime.
 

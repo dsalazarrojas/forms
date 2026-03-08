@@ -1,8 +1,3 @@
-<thinking>
-This form is for scheduling a public speaking coaching appointment. It's used by coaches to collect information from clients about their coaching sessions. The form ensures that coaches have all the necessary information to provide the best possible service to their clients. Please ensure that the form is only filled out by authorized personnel and that clients are properly informed about the purpose of the form before submitting it.
-
-</thinking>
-
 # public_speaking_coaching_appointment_form - Help Guide
 ## Purpose
 This form is used to collect information from clients about their public speaking coaching sessions.

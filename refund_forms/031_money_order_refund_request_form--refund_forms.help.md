@@ -1,15 +1,3 @@
-<thinking>
-
-To determine if the "Money Order Refund Request Form" is relevant for you, please read this guide carefully.
-
-This form is intended for use by account holders who wish to request a refund for a money order that has not been processed or was mistakenly charged. It is used to gather information needed for processing the refund request.
-
-Before filling out the form, ensure that you have not already submitted a refund request or that the money order has not been processed. If you are unsure, please contact our customer support team to confirm the status of your refund request.
-
-The form requires the account holder's information, the money order details, and the reason for the refund. Completing this form will help us to process your refund request efficiently and effectively.
-
-</thinking>
-
 # Money Order Refund Request Form - Help Guide
 ## Purpose
 This form is used to request a refund for a money order that has not been processed or was mistakenly charged.

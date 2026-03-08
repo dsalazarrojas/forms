@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly and accurately, we must clarify the purpose and requirements of the "Recruitment Requisition Form" to our end-users. This form is designed to gather essential information for creating job postings, and it's crucial that each field is filled in with the correct details. The form is divided into several sections, and each field is clearly labeled and explained below. By following this guide, we can avoid duplication and ensure that all required fields are filled out correctly.
-</thinking>
-
 # Recruitment Requisition Form - Help Guide
 ## Purpose
 The Recruitment Requisition Form is used to gather information about job openings, including job title, type, category, level, location, description, status, opening and closing dates, reporting line, contact person, contact email, contact phone, job posting URL, and job ID. This form helps recruiters and HR teams to create accurate and detailed job postings that meet the company's needs and requirements.

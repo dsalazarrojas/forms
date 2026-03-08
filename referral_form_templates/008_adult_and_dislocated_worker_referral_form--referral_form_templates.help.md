@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adult And Dislocated Worker Referral Form - Help Guide
 ## Purpose
 The Adult And Dislocated Worker Referral Form is used to collect information about an individual's work history, skills, education, and job preferences. This information is used to help match them with potential job opportunities that fit their needs and qualifications.

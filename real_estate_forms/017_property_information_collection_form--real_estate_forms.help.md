@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Information Collection Form - Help Guide
 
 ## Purpose

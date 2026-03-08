@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide that explains the room condition form in a clear and concise manner. I'll aim to cover the form's purpose, how to complete it, and what each field means, based on the provided YAML fields. I'll also ensure that the guide is practical, concrete, and free of inventing unsupported business logic.</thinking>
-
 # room condition form - Help Guide
 ## Purpose
 The Room Condition Form is designed to gather information about the condition of a room or property. This form helps assess the state of the room, including any damages or issues that need to be addressed. By completing this form, users will help maintain accurate and up-to-date records of property conditions, facilitating efficient maintenance and repair processes.

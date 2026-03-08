@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from users interested in joining the Retail Innovation Lab. The form is intended to be a straightforward way to gather essential details from potential members. It is crucial to ensure that the provided information is accurate and complete to facilitate a smooth registration process. Before proceeding, please review the form carefully and ensure you are not duplicating your registration. Your cooperation in providing precise details will help us better serve you and our community.
-</thinking>
-
 # Retail Innovation Lab Registration Form - Help Guide
 ## Purpose
 The Retail Innovation Lab Registration Form is a straightforward tool for potential members to provide their information and register for the lab's programs and resources.

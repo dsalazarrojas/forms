@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for a doctor's notes release form, which is used to document the release of patient information. This form is likely to be completed by a healthcare provider or office staff, and will be used to track the release of patient information, including dates, times, and authorizations. This form may be used in conjunction with other forms or systems to ensure that patient information is released correctly and in accordance with relevant laws and regulations.
-</thinking>
-
 # doctor_s_notes_release_form - Help Guide
 ## Purpose
 This form is used to document the release of patient information, including dates, times, and authorizations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect registration information for a child's potty training course. The form requires basic contact and demographic information from the parent or guardian, including name, email, phone number, and relationship to the child. It also collects additional relevant details such as the child's age, date of birth, start and end dates of the course, and any medical issues or allergies the child may have. This form is designed to be completed by a parent or guardian to provide necessary information to enroll their child in the course.
-</thinking>
-
 # Potty Training Course Registration Form - Help Guide
 ## Purpose
 This form is used to register your child for the potty training course.

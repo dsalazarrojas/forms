@@ -1,7 +1,3 @@
-<thinking>
-The Car Insurance Refund Form is used to submit a refund request for an insurance policy. This form captures the details required for processing the refund efficiently and effectively. It is designed to gather information such as the policyholder's name, policy number, reason for refund request, and preferred refund method. The form also includes fields for original payment details and acknowledgement of the refund processing terms. Before completing this form, please ensure you have not already submitted a refund request, as duplicate requests may cause delays in processing.
-</thinking>
-
 # Car Insurance Refund Form - Help Guide
 ## Purpose
 

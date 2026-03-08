@@ -1,11 +1,3 @@
-<thinking> 
-To ensure this form is filled out correctly and accurately, the following internal reasoning and internal validation will be applied:
-* The form is only to be filled out by authorized personnel who have the necessary access rights and credentials.
-* The form will only accept valid and up-to-date information.
-* If the system detects any inconsistency or invalid entries, the form will be rejected.
-* The form will be reviewed thoroughly for completeness and accuracy before it's submitted.
-</thinking>
-
 # Smoke Alarm Authorization Form - Help Guide
 ## Purpose
 The Smoke Alarm Authorization Form is used to authorize and track the smoke alarm systems installed in buildings for fire safety and security purposes. This form is designed to gather essential information about the smoke alarm system, including owner information, contact method, system type, and system status. The form helps ensure that all smoke alarm systems are properly installed, maintained, and inspected in accordance with local regulations and fire safety standards.

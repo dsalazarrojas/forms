@@ -1,7 +1,3 @@
-<thinking>
-The Condo Questionnaire form is designed to gather information from potential condo buyers or renters about their preferences and requirements for a condo. This form helps real estate agents and brokers understand the needs and priorities of their clients, allowing them to provide more tailored and effective services. The form is meant to be completed by the person who is considering purchasing or renting a condo, and it's not a form for real estate agents or brokers to fill out.
-</thinking>
-
 # Condo Questionnaire - Help Guide
 ## Purpose
 This guide is designed to assist users in completing the Condo Questionnaire form. The form is intended to gather information about your preferences and requirements for a condo, and it will help real estate agents and brokers better understand your needs.

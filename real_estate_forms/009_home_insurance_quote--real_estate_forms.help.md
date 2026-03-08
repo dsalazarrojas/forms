@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for creating a home insurance quote. It seems to be collecting information for a real estate-related purpose, possibly for agents or brokers to quote insurance options to clients. The form has multiple fields for collecting basic contact information, address, and personal details, as well as fields for insurance specifics such as type, coverage level, and date of birth. There are also fields for additional notes and output file details. It's essential to ensure that this form is not duplicated or used for other purposes that may compromise user data or lead to incorrect quotes. Ensure that users understand the form's purpose and use it correctly to avoid errors or misquotes.
-</thinking>
-
 # Home Insurance Quote - Help Guide
 ## Purpose
 This form is designed to collect information for a home insurance quote, typically used by real estate agents or brokers to provide clients with relevant insurance options.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from potential real estate finance partners about their partnership application. This form helps partners provide details about their financial capabilities, investment goals, and any inquiries they may have. It is essential to ensure this form is completed accurately and thoroughly to facilitate the processing of their application.
 
 ## real_estate_finance_partnership_application - Help Guide

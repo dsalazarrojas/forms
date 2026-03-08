@@ -1,8 +1,3 @@
-<thinking>
-This guide is designed to help end-users understand the purpose and structure of the Home Inspection Form. The form is designed for inspecting properties and collecting relevant data for real estate purposes. The form will be used for various types of properties, including residential and commercial properties. The guide aims to provide a clear and concise explanation of each field, ensuring that users understand what data to enter and how to fill out the form correctly.
-
-</thinking>
-
 # Home Inspection Form - Help Guide
 ## Purpose
 The Home Inspection Form is designed to collect data about a property's condition, location, and client information. This form is used for real estate purposes, such as inspecting properties for potential buyers or sellers.

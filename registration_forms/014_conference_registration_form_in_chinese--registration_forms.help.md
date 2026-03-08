@@ -1,8 +1,3 @@
-<thinking>
-Please ensure that this form is only for attendees who have not registered before.
-To avoid duplicates, we will check for existing registrations based on provided email addresses.
-</thinking>
-
 # Conference Registration Form In Chinese - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for conference registration. Please fill it out with accurate and complete information to ensure a smooth registration process.

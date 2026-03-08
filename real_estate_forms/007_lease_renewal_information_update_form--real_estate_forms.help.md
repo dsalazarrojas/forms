@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lease Renewal Information Update Form - Help Guide
 ## Purpose
 This form is designed to collect updated information for a lease renewal. It is intended for tenants to provide their latest details, including lease start and end dates, rent information, and other relevant details. Please ensure that you have the necessary permissions to access and update this form.

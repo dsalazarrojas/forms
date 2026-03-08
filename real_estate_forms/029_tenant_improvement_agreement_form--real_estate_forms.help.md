@@ -1,5 +1,3 @@
-<thinking> I'm assuming this form is for a real estate transaction, where the tenant and landlord are agreeing on improvements to the property. This form is likely used for documenting and verifying the terms of the agreement. To ensure accuracy, I'll review the form fields and provide a clear and concise help guide. </thinking>
-
 # Tenant Improvement Agreement Form - Help Guide
 ## Purpose
 This form is designed to record and document the terms of a tenant improvement agreement between a tenant and a landlord. It captures essential details such as responsibilities, property address, and signatures.

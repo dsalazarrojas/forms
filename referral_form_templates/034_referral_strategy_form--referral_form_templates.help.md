@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about referrals, which can be used to track and analyze the effectiveness of your referral program. The form is intended to be used by customers or referrers, and it helps to gather relevant details about their interactions with your organization. Please ensure that you are completing this form with the correct information and in the correct context.
-
-To avoid duplication, please do not submit multiple referrals from the same customer or referrer.
-
-</thinking>
-
 # Referral Strategy Form - Help Guide
 
 ## Purpose

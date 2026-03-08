@@ -1,13 +1,3 @@
-<thinking>
-To ensure the form is relevant and not duplicated, please consider the following:
-
-* The form is designed for Seasonal Program Registration, which may imply that it's meant for programs that occur seasonally, potentially with specific timeframes (program date, start time, end date) and schedules (program time).
-* To prevent duplication, the form's internal id and name should be unique and consistent across all pages.
-* The form's title should clearly reflect its purpose, making it easy for users to understand its intent.
-* All fields should have clear labels and hints to guide users in filling out the form correctly.
-
-</thinking>
-
 # Seasonal Program Registration - Help Guide
 
 ## Purpose

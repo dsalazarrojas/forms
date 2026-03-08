@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to ensure that the form is filled out correctly and accurately to better serve the requester's needs. This form serves as a starting point for the CNC project registration process, and providing clear instructions will streamline the process and avoid duplication of effort. To complete this form, please carefully review the fields and follow the guidelines below. If you have any questions or concerns, don't hesitate to reach out to us.
 
 # CNC Project Registration Form - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animation Storyboarding Appointment Form - Help Guide
 ## Purpose
 This form is designed to gather information from clients to facilitate the appointment of an animation project. It helps our team to better understand their needs, expectations, and requirements.

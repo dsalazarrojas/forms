@@ -1,19 +1,3 @@
-<thinking>
-This form is intended to collect registration information from regulators, allowing them to sign up or provide their details for regulatory purposes. 
-
-To create an accurate and effective help guide, let's review each field in the form:
-
-- **Name**: This field is meant to capture the regulator's name.
-- **Email**: This field is for the regulator's email address.
-- **Phone**: This field is for the regulator's phone number.
-- **Date Of Birth**: This field likely represents the date of birth or the date the regulator was established.
-- **Address**: This field is for the regulator's address.
-- **Regulatory Body**: This field is a select-one option with three possible choices, likely related to different regulatory categories or types.
-
-Given the above explanations, the guide will be created based on this understanding.
-
-</thinking>
-
 # Regulator Registration Form - Help Guide
 ## Purpose
 The Regulator Registration Form is a tool used to collect registration information from regulators for various regulatory purposes.

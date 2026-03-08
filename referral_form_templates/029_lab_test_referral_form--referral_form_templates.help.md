@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for healthcare professionals to refer patients to a lab test. The form captures relevant information about the patient, test type, and test result, as well as communication and status fields. The fields are categorized into sections to facilitate efficient completion. Note that all fields are optional, except for the ones marked as required. This form is intended for use by healthcare providers for internal referrals, not for patient self-service.
-</thinking>
-
 # Lab Test Referral Form - Help Guide
 ## Purpose
 This form is used to refer patients to a lab test, allowing healthcare providers to document relevant information about the patient, test type, and test result.

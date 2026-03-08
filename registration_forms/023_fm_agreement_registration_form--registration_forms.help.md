@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # fm_agreement_registration_form - Help Guide
 ## Purpose
 The "fm_agreement_registration_form" is used to register agreements, allowing you to track and document your agreements. This form is designed to be filled out by individuals who have entered into agreements with your organization.

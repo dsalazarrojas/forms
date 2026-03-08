@@ -1,8 +1,3 @@
-<thinking>
-This help guide is being created to assist users in understanding the purpose and usage of the "real_estate_leads" form. The form is used to gather information about real estate leads, which can be categorized into different types (e.g., buyer, seller, etc.) and sources (e.g., online, referral, etc.). The form also captures the lead status, agent involvement, property type, and location details. This guide will explain each field in the form to ensure users understand how to complete it accurately and effectively.
-
-</thinking>
-
 # real_estate_leads - Help Guide
 ## Purpose
 The "real_estate_leads" form is designed to collect information about real estate leads, including lead type, source, status, agent involvement, property type, and location details. This data can be used to track and manage real estate leads effectively.

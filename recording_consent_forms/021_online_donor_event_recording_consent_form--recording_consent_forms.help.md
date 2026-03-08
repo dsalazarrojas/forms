@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to record donor consent for online events, ensuring that donors understand what their personal data will be used for. The fields are designed to collect relevant information about the donor, including their name, email, phone number, event details, and consent status. The purpose of the form is to ensure that donors are informed and agree to the recording of their event, providing a clear understanding of what data will be collected and how it will be used. This form should be completed by donors to give their consent, and the information collected will be used for the specified purpose only. 
-
-Please note that the form fields are not required for the donor's data, so they may choose to provide any or all of the information.
-</thinking>
-
 # Online Donor Event Recording Consent Form - Help Guide
 ## Purpose
 This form is used to record a donor's consent for online events. It ensures that donors understand what their personal data will be used for and gives them an opportunity to provide their consent.

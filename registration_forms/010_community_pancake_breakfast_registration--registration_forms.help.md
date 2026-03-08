@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who plan to attend the Community Pancake Breakfast event. The form is meant to be completed by the attendee or the person responsible for the attendee, such as a parent or guardian for children. The purpose of this form is to gather essential details about the attendee, including their contact information, dietary preferences, and any accessibility needs. This information will help the event organizers plan and accommodate the attendees' requirements effectively.
-The form should only be completed once for each attendee. If multiple attendees are registering, a separate form should be completed for each person.
-</thinking>
-
 # Community Pancake Breakfast Registration - Help Guide
 
 ## Purpose

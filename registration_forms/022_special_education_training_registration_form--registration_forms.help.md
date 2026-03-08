@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for special education training sessions, allowing users to register for or provide information about these sessions. The form includes fields for personal details (first name, last name, and email), contact information (phone), and session-specific information (training session, start date, end date). The form also includes payment options (payment method, amount) and a note field for any additional comments. The form is designed to be completed by either the user themselves or by someone on their behalf (submitted by).
-</thinking>
-
 # Special Education Training Registration Form - Help Guide
 
 ## Purpose

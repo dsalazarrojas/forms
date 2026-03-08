@@ -1,15 +1,3 @@
-<thinking>
-The form's internal reasoning block is used to check for potential inconsistencies before allowing users to submit their referrals. The form ensures that users don't submit duplicate referrals and helps prevent potential errors.
-
-The form consists of 25 fields divided into multiple pages. The purpose of this form is to collect information from current gym members who are referred to the gym by other existing members.
-
-The fields include fields for basic contact information (First Name, Last Name, Email, and Phone), referral information (Referrer's First Name, Last Name, Email, and Phone), and details about the referrer and their relationship with the referee.
-
-The fields for Referrer's Information are only populated if the referrer is a current member of the gym. The fields for Referee's Information are populated by the user filling out the form.
-
-The form also includes fields for the referral source, how the user knows the referrer, and a referral message to help the gym staff understand the context of the referral.
-</thinking>
-
 # Gym Membership Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information from current gym members who are referring friends or family to join the gym. The information collected will help the gym staff to process the referrals efficiently and provide a better service to both the referrer and the referee.

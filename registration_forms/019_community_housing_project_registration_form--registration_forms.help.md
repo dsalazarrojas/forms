@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about community housing projects, providing a centralized location for individuals to register their projects and provide necessary details for evaluation and consideration. The form is intended for use by individuals and organizations involved in community housing projects, ensuring that all relevant information is captured accurately and efficiently. To prevent duplicate registrations, this form is designed to capture unique project details, making it easier to track and manage project progress. By following this guide, users will be able to complete the form effectively and ensure their project is properly registered.
-</thinking>
-
 # Community Housing Project Registration Form - Help Guide
 ## Purpose
 This form is designed for community housing projects to register and provide essential information about their projects. The form is required for all projects seeking support, funding, or recognition from the community.

@@ -1,7 +1,3 @@
-<thinking>
-This form was created by an AI using a public survey topic as inspiration for an original adaptation of a form.
-</thinking>
-
 # eSim Referral Or Voucher Code Submission - Help Guide
 ## Purpose
 The eSim Referral Or Voucher Code Submission form is designed to allow users to submit information about their eSim referrals or vouchers. This form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using public survey topic metadata.

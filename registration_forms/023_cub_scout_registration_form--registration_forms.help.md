@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for Cub Scouting registration purposes. The goal is to collect demographic data about the individual being registered, such as name, contact information, and scouting-related details like scout group, rank, and notes. The form is required for every participant, ensuring that accurate records are kept and necessary information is gathered for event coordination and communication.
-</thinking>
-
 # Cub Scout Registration Form - Help Guide
 ## Purpose
 This form is used to collect information for Cub Scouting registration purposes, including demographic data and scouting-related details.

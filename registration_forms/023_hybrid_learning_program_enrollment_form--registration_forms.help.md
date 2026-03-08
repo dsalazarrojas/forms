@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about students participating in the hybrid learning program. It will ask for details such as student programs, name, email, program start and end dates, phone number, program duration, program status, student level, and the name of the institution. This information will be collected to help track and manage the students within the program. Please make sure to fill out the form accurately and thoroughly, and ensure that the student's program status is up-to-date. The form should not be filled out multiple times for the same student.
-</thinking>
-
 # Hybrid Learning Program Enrollment Form - Help Guide
 ## Purpose
 This form is used to collect information about students participating in the hybrid learning program.

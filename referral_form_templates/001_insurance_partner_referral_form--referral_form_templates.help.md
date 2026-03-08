@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, this form should only be used for referrals that are submitted directly through the internal referral system. Referrals that are not submitted through this system may not be properly processed or may be lost in the referral pipeline. 
-</thinking>
-
 # Insurance Partner Referral Form - Help Guide
 ## Purpose
 This form is used to collect information about insurance partners and their agents for referral purposes.

@@ -1,8 +1,3 @@
-<thinking>
-To ensure relevance and non-duplication, this form should only be used by authorized personnel to refer a patient to a Speech Pathology department within our institution. It should be filled out only once for each patient referred, and any duplicate submissions should be avoided to avoid confusion and potential delays in processing the referral.
-This form is used to provide essential information about the referred patient, including their name, contact details, and medical history, to facilitate smooth communication and efficient processing of the referral. By completing this form accurately and thoroughly, you can ensure that the Speech Pathology department receives the necessary information to provide proper care and attention to the patient.
-</thinking>
-
 # Speech Pathology Referral Form - Help Guide
 ## Purpose
 This form is designed to provide essential information about patients referred to the Speech Pathology department within our institution. It helps us to efficiently process referrals and provide proper care and attention to our patients.

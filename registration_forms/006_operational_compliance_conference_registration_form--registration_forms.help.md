@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the registration process of participants for an operational compliance conference. The form is divided into several sections to collect relevant information from participants. It is essential to understand that the form is not affiliated with any form creation platform and is an original adaptation created using AI. The form is released under the Creative Commons Attribution 4.0 license, which means that it is free to use, modify, and even sell as long as you give credit to the original creators. This guide is intended to help end-users understand the purpose and the completion process of the form.
-</thinking>
-
 # operational_compliance_conference_registration_form - Help Guide
 ## Purpose
 The operational compliance conference registration form is designed to collect information from participants for the conference.

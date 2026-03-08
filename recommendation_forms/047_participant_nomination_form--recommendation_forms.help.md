@@ -2,10 +2,6 @@
 ## Purpose
 The Participant Nomination Form is used to recommend a participant for an award. This form gathers information about the participant, the recommender, and the award to be nominated for. The form ensures that all necessary details are provided to support a successful nomination.
 
-<thinking>
-Before submitting this form, please ensure that the participant has given their consent for the nomination and that you are not nominating the same participant multiple times. This form is intended for individual nominations and not for groups. If you're unsure about any of the fields or the purpose of the nomination, please reach out to the relevant authorities for clarification.
-</thinking>
-
 ## How To Complete This Form
 
 *   To start, fill in the required fields with the participant's information and the nomination details.

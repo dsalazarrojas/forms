@@ -1,14 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Student Job Fair Registration Form", I will consider the form's purpose and each field's functionality based on the provided YAML configuration.
-
-The purpose of this form is to gather necessary information from recruiters (representatives of companies) for their job postings during student job fairs. The form captures essential details such as recruiter and company information, job descriptions, and event dates. This will allow event organizers and students to access and review relevant job details during the fair. By understanding the requirements and restrictions for this form, we can design an intuitive help guide to ensure a smooth and efficient experience for the recruiters.
-
-The guide should address the following sections: purpose, how to complete the form, field-by-field explanation, and tips for optimal form completion.
-
-After reviewing the YAML configuration, the following guide will cover the essential aspects of the form.
-
-</thinking>
-
 # Student Job Fair Registration Form - Help Guide
 ## Purpose
 The Student Job Fair Registration Form is designed to collect essential information from recruiters for their job postings during student job fairs. This form helps event organizers and students to access and review job details, ensuring a successful and efficient fair.

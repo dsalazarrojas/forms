@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect information from job applicants. To ensure the form is completed correctly, please read this guide carefully. The form is not intended to be used for any other purpose other than collecting information from job applicants. If you've already submitted an application for this job posting, please do not submit multiple applications. Each application will be reviewed separately, and duplicate submissions may lead to confusion and delays in the review process.
-</thinking>
-
 # Recruitment Application Form - Help Guide
 ## Purpose
 The Recruitment Application Form is designed to collect information from job applicants. It is intended to be used by individuals interested in applying for a job opening, and the submitted information will be reviewed for consideration for the position.

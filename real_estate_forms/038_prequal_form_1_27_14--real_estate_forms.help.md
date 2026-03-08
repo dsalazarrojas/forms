@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prequal Form 1 27 14 - Help Guide
 
 ## Purpose

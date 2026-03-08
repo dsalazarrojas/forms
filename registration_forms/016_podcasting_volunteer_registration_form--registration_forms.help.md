@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture registration information from potential podcasting volunteers. It will be used to determine the volunteer's interests and suitability for various roles within the podcasting team. This guide will walk the user through the required fields and explain each section, ensuring they provide accurate and relevant information. Please review each field carefully to avoid any duplication of effort or miscommunication within the team. If you're unsure about any field, please refer back to this guide for clarification.
-</thinking>
-
 # Podcasting Volunteer Registration Form - Help Guide
 ## Purpose
 This form is used to register volunteers for the podcasting team. It collects information about your organization, position title, volunteering opportunities of interest, contact details, and any additional comments or information.

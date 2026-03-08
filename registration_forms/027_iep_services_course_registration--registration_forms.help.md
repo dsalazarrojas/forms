@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for users to register for IEP Services courses. It will collect information from participants about their details, preferences, and course submission. The form will likely be used by educational institutions or organizations offering IEP (Individualized Education Program) services. To ensure form completion is efficient and accurate, it's essential to understand each field's purpose and requirement. 
-
-This form has four pages with fields that are currently all text fields. This may be due to the form being generated based on public survey topic metadata and not being directly tied to a specific platform. However, understanding each field will help in providing clarity for end-users.
-
-Before proceeding, ensure this form meets your organization's needs and doesn't contain any proprietary content or logic. The form is released under CC BY 4.0, allowing for modification, distribution, and even commercial use with proper credit given. 
-
-If you're using this form for commercial purposes, ensure you understand and meet the terms of the license.
-
-</thinking>
-
 # IEP Services Course Registration - Help Guide
 ## Purpose
 This form is used to register for IEP Services courses. It helps educational institutions or organizations collect information from participants about their details, preferences, and course submissions.

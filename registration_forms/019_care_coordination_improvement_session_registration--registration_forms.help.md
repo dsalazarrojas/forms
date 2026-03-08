@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that each user has a clear understanding of this form's purpose and the information required to complete it accurately and effectively. This form is for attendees to register for a care coordination improvement session. The fields must be completed carefully to ensure the session leaders are aware of the attendee's needs and preferences.
-</thinking>
-
 # Care Coordination Improvement Session Registration - Help Guide
 ## Purpose
 This form is for attendees to register for a care coordination improvement session. To complete the form, please follow the steps below.

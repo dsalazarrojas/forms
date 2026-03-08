@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Study Abroad Recommendation Form - Help Guide
 ## Purpose
 The Study Abroad Recommendation Form is a tool used to collect information about students participating in study abroad programs. This form helps us better understand the programs and provide support to students, faculty, and staff members involved in these programs. To ensure you provide accurate and complete information, please make sure to fill out this form carefully and only submit it for programs you are familiar with.

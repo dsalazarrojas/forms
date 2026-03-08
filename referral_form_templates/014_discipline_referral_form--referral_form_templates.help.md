@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discipline Referral Form - Help Guide
 ## Purpose
 The Discipline Referral Form is used to document incidents or behavior that may require disciplinary action. It is intended to gather information about the student's behavior, the circumstances surrounding the incident, and the actions taken by the teacher. This form helps maintain accurate and consistent records of student behavior and supports the decision-making process for disciplinary actions.

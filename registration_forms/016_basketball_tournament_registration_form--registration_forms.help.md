@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to register a team for a basketball tournament. This form likely serves as an official entry point for teams to submit their registration information. The fields likely correspond to necessary details such as team and player information, medical considerations, and release of liability. The form might be used by tournament organizers to collect required data from teams and ensure they comply with the necessary rules and regulations. To avoid duplication, we assume that the form is only to be filled out once per team. The form might be used for multiple purposes including, but not limited to, team and player registration, payment of entry fees, and compliance with tournament rules.
-</thinking>
-
 # Basketball Tournament Registration Form - Help Guide
 ## Purpose
 This form is designed for teams to register for a basketball tournament. It will collect essential information about the team, including team name, coach and player details, division selection, and payment method. Please note that some fields are mandatory and required to be completed.

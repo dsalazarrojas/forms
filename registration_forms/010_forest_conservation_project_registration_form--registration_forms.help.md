@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering new forest conservation projects. To ensure accuracy and consistency, please review the form carefully before submission. Duplicate submissions will not be accepted.
-</thinking>
-
 # Forest Conservation Project Registration Form - Help Guide
 ## Purpose
 This form is used to register new forest conservation projects. It collects essential information about the project, including its details, contact information, forest information, and submission date.

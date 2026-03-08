@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that team members are able to provide accurate and unbiased reference checks for their team members. To achieve this, we should design a form that allows users to effectively gather relevant information. This form will be used for internal purposes only and will not be visible to external users. The purpose of this form is to check the performance and behavior of team members. The goal is to help team managers to make informed decisions about team members' roles, responsibilities, or even potential promotions. We should avoid duplication of information and only ask questions that are necessary to achieve this goal. We also want to ensure that the form is easy to complete and understand by providing clear explanations for each field.
-</thinking>
-
 # Reference Check For Team Members - Help Guide
 ## Purpose
 This form is designed to gather information about team members' performance and behavior to help team managers make informed decisions. Please complete this form accurately and truthfully to provide a fair evaluation.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information for a patient with suspected dementia or cognitive decline. It is designed to be completed by a healthcare professional, typically a GP or a specialist, who is referring a patient to a specialist for further evaluation and treatment. The form is used to provide relevant details about the patient, including their medical history, referral reason, and contact information of the referring doctor.
-The form aims to reduce duplication of work by providing a standardized template for referrals. By completing this form, healthcare professionals can ensure that all necessary information is collected and communicated effectively.
-</thinking>
-
 # Dementia Referral Form - Help Guide
 ## Purpose
 This form is used to collect information for a patient with suspected dementia or cognitive decline. It is designed to be completed by a healthcare professional, typically a GP or a specialist, who is referring a patient to a specialist for further evaluation and treatment.

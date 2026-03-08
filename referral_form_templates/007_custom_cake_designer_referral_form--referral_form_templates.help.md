@@ -1,7 +1,3 @@
-<thinking>
-This form is used for referring potential customers to a custom cake designer. The purpose of this form is to capture relevant information from the referrer about the customer's needs and preferences. This form should only be used for referral purposes and not for general inquiries or other non-referral related activities. Before filling out this form, please ensure that you have the customer's consent to share their information with the custom cake designer. This form is not intended for internal use within the organization and should only be used for referrals that have a legitimate business purpose.
-</thinking>
-
 # Custom Cake Designer Referral Form - Help Guide
 ## Purpose
 This form is designed to capture information from referrers about potential customers they are referring to the custom cake designer. The referrer's contact information is collected for the custom cake designer's reference, and the form is intended to be used for referral purposes only.

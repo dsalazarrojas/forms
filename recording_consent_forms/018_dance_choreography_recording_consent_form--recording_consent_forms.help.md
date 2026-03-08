@@ -1,7 +1,3 @@
-<thinking>
-This form is for recording choreography for dance classes. The form should not be filled out by anyone other than the individual giving consent for the recording to be done. The purpose of this form is to ensure that the individual giving consent is aware of the recording and has agreed to its terms. This form should only be used for recording choreography and should not be used for other purposes. Please note that the recording will be used for the specific reasons selected by the individual giving consent.
-</thinking>
-
 # Dance Choreography Recording Consent Form - Help Guide
 ## Purpose
 This form is used to record the consent for dance choreography. It is intended to be filled out by the individual giving consent for the recording of their dance class or rehearsal. This form is not for general use and should only be used for the specific recording of dance choreography.

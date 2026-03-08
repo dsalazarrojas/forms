@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to authorize reference checks for candidates or applicants. It is used by hiring managers, recruitment teams, or other authorized personnel to gather information about a candidate's professional references. This form is typically used to facilitate the collection of relevant work experience, skills, or personal attributes about the candidate's professional relationships. To avoid duplication or redundancy, please ensure that only relevant and up-to-date information is entered in the form.
-</thinking>
-
 # Reference Check Authorization - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to be used for employment contracts between an employer and an employee. It captures essential information such as employee details, contract terms, and agreement status. Please ensure that the form is filled out correctly and completely before submission.</thinking>
-
 # Employment Contract Form - Help Guide
 ## Purpose
 The Employment Contract Form is a tool used for capturing essential information between an employer and an employee, outlining the terms of their employment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Wedding Caterer Referral Form - Help Guide**
 ## Purpose
 The Wedding Caterer Referral Form is designed to collect information about a wedding event. It will be used to create a referral for a wedding caterer. Fill out this form to provide detailed information about the wedding, including the date, time, venue, and contact details of the planner.

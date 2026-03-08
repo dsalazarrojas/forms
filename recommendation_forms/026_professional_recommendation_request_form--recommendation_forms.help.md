@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request a professional recommendation from a recommender, typically an academic or professional contact. When using this form, please ensure that you have obtained the permission of the recommender before submitting their details. Additionally, please note that the form is intended for internal use within the organization and will not be shared publicly. If you have already submitted a request for the same individual, please do not submit another request.
-
-</thinking>
-
 # professional_recommendation_request_form - Help Guide
 ## Purpose
 This form is used to request a professional recommendation from a recommender, typically an academic or professional contact. The purpose of this form is to gather information needed to request a recommendation from the recommender.

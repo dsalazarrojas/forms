@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to capture the recording consent of participants in cultural heritage interviews. The form is a crucial part of the recording process, ensuring that all parties involved are aware of and agree to the terms of the recording.
-
-The form will be used to collect information from both the researcher and the participant. It is a legal requirement for recording consents in research studies, and it's essential to complete it accurately and truthfully.
-
-To avoid duplication or misinterpretation, please ensure that you are not already in possession of this form, or that you do not need to fill it out again.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created by AI using public survey topic metadata as inspiration. Feel free to use, modify, and even sell forms derived from it, just give credit.
-
-Please contact form@gic.mx for any inquiries or concerns.
-</thinking>
-
 # Cultural Heritage Interview Recording Consent - Help Guide
 ## Purpose
 This form is designed to capture the recording consent of participants in cultural heritage interviews. It ensures that all parties involved are aware of and agree to the terms of the recording.

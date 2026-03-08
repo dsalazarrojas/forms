@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Deposit Refund Form - Help Guide
 ## Purpose
 The Hotel Deposit Refund Form is designed to process refunds for customers who have made deposits to book hotel rooms. This form allows you to select a reason for the refund, enter the customer's contact information, and enter details about the deposit.

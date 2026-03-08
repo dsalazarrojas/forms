@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a crash pad, which is a type of rental property. The purpose of this form is to gather data on the crash pad's details, tenant's agreement status, and other relevant information. This form is designed to be completed by the tenant and landlord to establish a clear understanding of the rental agreement. Before proceeding, please ensure that you have read and understood the terms and conditions of the crash pad's rental agreement. Please note that this form is intended to be used for informational purposes only and should not be used as a substitute for the actual rental agreement.
-</thinking>
-
 # Crash Pad Agreement Form - Help Guide
 ## Purpose
 The Crash Pad Agreement Form is used to collect information about a crash pad, its details, and the tenant's and landlord's agreement status.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Process Optimization Research Collaboration Registration - Help Guide
 ## Purpose
 The Process Optimization Research Collaboration Registration form is used for employees to register their interests and preferences in participating in process optimization research collaborations. This form is intended for internal use and is used to gather information about the research topics, collaboration preferences, and other relevant details that will be used to assign research collaborations.

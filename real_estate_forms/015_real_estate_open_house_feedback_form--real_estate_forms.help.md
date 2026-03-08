@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and comments from individuals who have attended an open house event in the real estate industry. The feedback form is designed to be simple and easy to fill out, allowing users to provide their first name, last name, email address, and any comments or feedback they may have about the event. This form is intended for internal use within the real estate industry and is not affiliated with any specific platform or company.
-</thinking>
-
 # real_estate_open_house_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and comments from individuals who have attended an open house event in the real estate industry.

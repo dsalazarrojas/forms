@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to gauge interest in literary events, such as writing workshops, book readings, or other author-related activities.
-The form will collect information about the user, their involvement in such events, and specific details about the events they are interested in.
-This form is designed to be completed by users interested in participating or attending literary events.
-Before filling this form, users are encouraged to review their current interests and involvement in literary events, such as workshops, readings, or other author-focused activities.
-It's also good to check if this form is not already completed to avoid duplication of data.
-</thinking>
-
 # Literary Involvement Interest Form - Help Guide
 ## Purpose
 The "Literary Involvement Interest Form" is a tool to gauge interest in literary events, such as writing workshops, book readings, or other author-related activities. This form helps users express their interest in attending or participating in such events.

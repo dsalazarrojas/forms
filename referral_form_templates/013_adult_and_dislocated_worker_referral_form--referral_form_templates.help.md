@@ -1,5 +1,3 @@
-<thinking>As an expert in form design and technical writing, I will now create a comprehensive user-facing help guide for the "Adult And Dislocated Worker Referral Form". The form is designed to collect information from dislocated or adult workers, and its primary purpose is to assist in referrals for job placement and support. To ensure accurate and relevant responses, please carefully review the form and its fields. If you are unsure about any field, please seek guidance from a supervisor or colleague. This guide will walk you through each section of the form, explaining its purpose, required fields, and any necessary considerations.</thinking>
-
 # Adult And Dislocated Worker Referral Form - Help Guide
 ## Purpose
 

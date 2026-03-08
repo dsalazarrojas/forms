@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals or organizations requesting complimentary delegate passes for an event. This form helps to ensure that the event organizers have accurate and relevant information to assess the requests and allocate passes accordingly. It's essential to complete this form carefully to increase the chances of a successful request. Please review the form fields and their descriptions to ensure you understand what is being requested. If you have any doubts or questions, please reach out to the event organizers.
-</thinking>
-
 # Complimentary Delegate Passes Opportunities - Help Guide
 ## Purpose
 This form is designed for individuals or organizations requesting complimentary delegate passes for an event. Please fill it out accurately to increase your chances of a successful request.

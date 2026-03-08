@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users create a Natural Person FICA Declaration, which is a type of document used for tax-related purposes. To ensure that users understand the form's purpose and can complete it correctly, we'll need to check that they are aware of the form's requirements and that they don't have to fill it out multiple times. This will prevent unnecessary repetition of efforts and potential errors in tax calculations.
-</thinking>
-
 # natural_person_fica_declaration_soukop - Help Guide
 
 ## Purpose

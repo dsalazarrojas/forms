@@ -1,7 +1,3 @@
-<thinking>
-This form was created for medical professionals to gather information about patients for neurological referrals. It is designed to be a helpful tool for collecting data about patients who require neurological evaluation and treatment. Please fill out this form only for patients who have not filled out a previous version of this form. This will help us track changes and ensure that your input is not redundant or outdated. 
-</thinking>
-
 # Neurology Referral Form - Help Guide
 ## Purpose
 The Neurology Referral Form is designed to collect relevant information about patients who require neurological evaluation and treatment. This form helps medical professionals gather essential details about patients to ensure they receive the best possible care.

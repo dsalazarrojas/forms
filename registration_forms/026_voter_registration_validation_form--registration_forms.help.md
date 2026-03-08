@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to validate voter registration information. To avoid duplication or misinterpretation, ensure that this form is only used for its intended purpose and not for any other use case. This form is designed to collect information from individuals who are interested in registering as voters. Each field is designed to gather relevant and necessary details to ensure the registration process is smooth and efficient. The form should only be filled out by individuals who are interested in registering as voters and not by anyone else.</thinking>
-
 # Voter Registration Validation Form - Help Guide
 
 ## Purpose

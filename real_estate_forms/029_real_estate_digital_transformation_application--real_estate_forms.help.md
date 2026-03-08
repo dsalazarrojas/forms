@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for a real estate digital transformation application. The purpose of this form is to gather relevant data about a project, including its description, title, location, budget, timeline, status, contact details, project type, and other relevant details. This information will be used to track and manage various projects in the real estate sector.
-
-To prevent duplication, please note that each project must be unique. If you are resubmitting an application for an existing project, please ensure that it has been updated accordingly.
-
-Before proceeding, please ensure that all required fields are filled out accurately and truthfully.
-</thinking>
-
 # real_estate_digital_transformation_application - Help Guide
 ## Purpose
 The real estate digital transformation application form is designed to collect and track project information for the real estate sector.

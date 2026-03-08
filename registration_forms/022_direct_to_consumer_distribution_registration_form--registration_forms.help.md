@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for direct-to-consumer distributors to register with the company. The form will gather information about the distributor's company, contact details, and terms of service agreement. The information collected will be used to onboard the distributor and facilitate communication between the company and the distributor. 
-</thinking>
-
 # Direct To Consumer Distribution Registration Form - Help Guide
 ## Purpose
 This form is used to register a new direct-to-consumer distributor with the company. Fill out this form to provide essential information about your company and agree to the terms of service.

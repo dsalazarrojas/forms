@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a referral form for businesses seeking financing. The purpose of this form is to gather information about the business being referred, the nature of the referral, and the contact information of both the referrer and the business. This form is intended for internal use within the company, and the data collected will be used to follow up with the referred businesses and assess their financing needs.
-
-Before filling out this form, please ensure that you are referring a business with which you have a legitimate relationship. If you are unsure about any field, please contact your internal representative for guidance.
-
-To fill out this form, follow the instructions below.
-
-</thinking>
-
 # Business Loan Referral Form - Help Guide
 ## Purpose
 The Business Loan Referral Form is a tool used to gather information about businesses seeking financing through referrals. This form helps us understand the business's needs and assess their eligibility for financing.

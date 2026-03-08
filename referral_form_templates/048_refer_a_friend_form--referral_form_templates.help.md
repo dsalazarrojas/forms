@@ -1,12 +1,3 @@
-<thinking>
-This form is a refer a friend form, which is used to gather information from users about their friend or acquaintance. The purpose of this form is to collect data about the friend's contact information, the user's contact information, and other relevant details. 
-
-Before proceeding, ensure that:
-- The form is being used for its intended purpose.
-- The user has not already submitted a referral form for the same friend.
-
-</thinking>
-
 # refer_a_friend_form - Help Guide
 ## Purpose
 This form is used to collect information from the user about their friend or acquaintance. The goal is to gather contact details, job title, address, phone number, and other relevant information.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assess the success of a strategic recommendation made to an organization or team. The purpose of this form is to gather feedback and insights on the outcomes and implementation of the recommended initiative. It is used to ensure that the recommended initiatives are aligned with the organization's goals and objectives. 
-
-To complete this form, please follow the instructions below:
-
-</thinking>
-
 # Strategic Recommendation Success Assessment Form - Help Guide
 ## Purpose
 The Strategic Recommendation Success Assessment Form is designed to evaluate the success of strategic recommendations made to organizations or teams. It helps identify areas of improvement and measures the effectiveness of recommended initiatives.

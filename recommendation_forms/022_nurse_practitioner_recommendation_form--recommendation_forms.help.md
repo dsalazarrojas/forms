@@ -1,21 +1,3 @@
-<thinking>
-This form will allow users to submit a recommendation for a Nurse Practitioner (NP). The form includes fields for patient information (name, email, phone number, and hospital), NP information (name, title, years of experience, and contact details), and review period details (review period, years, months, and days). 
-
-To prevent duplicate and irrelevant submissions, we will check for existing recommendations before submitting a new one. 
-
-Before starting, please ensure you have all the necessary information for the patient and NP. 
-
-Please fill in the form as follows:
-- Patient information: First Name, Last Name, Email, Phone, and Hospital.
-- NP information: NP Name, NP Title, NP Years, NP Department, NP Email, NP Phone, NP Fax, and Facility.
-- Review period: Review Period, Years, Months, and Days.
-- Recommend: Yes/No.
-- Comments: Optional.
-- Recommendation Date.
-
-The review period fields are for internal purposes only.
-</thinking>
-
 # Nurse Practitioner Recommendation Form - Help Guide
 ## Purpose
 This form is designed to collect and store recommendations for Nurse Practitioners (NPs) from patients.

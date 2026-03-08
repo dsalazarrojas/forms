@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect referral information for identity-related purposes. Referrals can be submitted for various categories, and this form will help you determine the best course of action and potential next steps based on the input provided. Before starting, ensure you are submitting referrals for a valid category and provide accurate information to avoid duplication of efforts.
-</thinking>
-
 # Identity Referral Form - Help Guide
 
 ## Purpose

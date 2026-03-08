@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for partners to sign up for the real estate referral network, which is a platform that helps real estate agents refer clients to other agents in their area. The form collects essential information from partners, including their agency name, partner's name, referral method, location, email address, agreement to terms, and contact confirmation. This form is a one-time sign-up process for partners to join the referral network and receive notifications about potential referrals.
-
-To ensure accuracy and clarity, the form fields have been carefully crafted to provide a smooth and efficient experience for users. The following guide will walk you through the form and its fields to help partners complete it successfully.
-
-</thinking>
-
 # real_estate_referral_network_signup - Help Guide
 ## Purpose
 The real estate referral network signup form is designed for real estate agents to join the platform and receive referrals from partners. The form collects necessary information to connect agents with potential clients in their area.

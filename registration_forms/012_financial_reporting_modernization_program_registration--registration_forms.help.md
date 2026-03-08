@@ -1,12 +1,3 @@
-<thinking>
-The goal is to create a user-facing help guide for the Financial Reporting Modernization Program Registration form. This form collects information from users about their registration experience with the Financial Reporting Modernization Program. The form has 8 fields across 5 pages, each with its own specific label and purpose. The form's purpose is to gather feedback from users about their satisfaction with the registration and submission processes, as well as their overall experience with the form design.
-
-This form will likely be filled out by users who have already registered for the Financial Reporting Modernization Program, and the goal is to understand their thoughts on how well the program met their needs. The questions ask for confirmation of satisfaction with the registration and submission processes, which suggests that the program wants to ensure that users feel confident and satisfied with the process.
-
-Before starting the form, users should ensure that they are filling it out for the correct purpose and that their answers are honest and accurate reflections of their experience. 
-
-</thinking>
-
 # Financial Reporting Modernization Program Registration - Help Guide
 ## Purpose
 The Financial Reporting Modernization Program Registration form is designed to collect feedback from users about their registration and submission experiences with the Financial Reporting Modernization Program.

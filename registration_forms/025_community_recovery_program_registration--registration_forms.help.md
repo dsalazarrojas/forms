@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form serves its purpose without duplicating efforts. This Community Recovery Program Registration form is designed to collect necessary information from individuals seeking to participate in a recovery program. It's meant for people who are or have been in recovery and are looking for support services to help them maintain their progress. The form will guide them through a series of questions and prompts to ensure we understand their needs, preferences, and circumstances. We'll use this data to provide tailored support and services. 
-</thinking>
-
 # Community Recovery Program Registration - Help Guide
 ## Purpose
 This form is designed to collect essential information from individuals who are interested in participating in a recovery program. It will help us understand their needs, preferences, and circumstances to provide personalized support and services.

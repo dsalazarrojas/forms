@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather information about a patient's visit to the veterinary clinic, including their contact information, medical conditions, treatment, medication, and follow-up schedule. This form helps to ensure that all necessary information is collected and recorded accurately, providing a comprehensive summary of the patient's care. 
-
-Before filling out this form, please make sure to:
-- You have all the necessary information for the patient and their client.
-- You have not filled out this form for the same patient before.
-</thinking>
-
 # Veterinary Patient Summary And Recommendation Form - Help Guide
 ## Purpose
 This form is used to collect and store information about a patient's visit to the veterinary clinic, including contact information, medical conditions, treatment, and follow-up schedule.

@@ -1,5 +1,3 @@
-<thinking>Form purpose is to document the return of a security deposit from a tenant to a landlord. This form serves as a formal record of the transaction, ensuring accurate financial records and maintaining a transparent process. Ensure all required fields are filled out and that the correct form is submitted in a timely manner.</thinking>
-
 # security_deposit_release_form - Help Guide
 ## Purpose
 The security_deposit_release_form is used to record the return of a security deposit to a tenant from a landlord. This form provides a transparent and formal way to document the transaction, ensuring accurate financial records and maintaining a clear audit trail.

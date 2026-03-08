@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information for personal property appraisals. The purpose of this form is to collect data on the properties being appraised, including contact information, property type, address, value, year built, appraiser name, date and time of appraisal, and any additional comments. The form is likely used by real estate professionals to assess the value of properties for various purposes, such as insurance, taxes, or sales.
-
-Checking for relevance and non-duplication:
-- The form is relevant to the real estate industry and is likely used by professionals in this field.
-- There is no duplication of fields or information that could lead to confusion or redundancy.
-
-</thinking>
-
 # Personal Property Appraisal Form - Help Guide
 ## Purpose
 The Personal Property Appraisal Form is designed to collect information for personal property appraisals, such as contact information, property type, address, value, and other relevant details.

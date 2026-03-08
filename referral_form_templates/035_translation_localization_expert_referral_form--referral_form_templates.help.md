@@ -1,7 +1,3 @@
-<thinking>
-This form is a Translation Localisation Expert Referral Form, designed to collect information from potential translation specialists for the purpose of referral. The form is used to gather details about the specialist's experience, skills, and preferences. The information collected will be used to match the specialist with suitable translation projects. Please ensure that you are completing this form for a valid reason and not duplicating an existing specialist's information.
-</thinking>
-
 # Translation Localisation Expert Referral Form - Help Guide
 ## Purpose
 The Translation Localisation Expert Referral Form is used to collect information from potential translation specialists for the purpose of referral.

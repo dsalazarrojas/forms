@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering a vehicle for parking permit purposes. It captures information about the vehicle, its owner, and their contact details. The form will be used to create a parking permit for the registered vehicle. It is assumed that the form will be filled out by an individual registering their vehicle for parking purposes. Please ensure that all fields are filled out accurately to avoid delays in processing. Note that the form is optional, meaning it is not required for every user interaction with the system.
-</thinking>
-
 # Vehicle Registration Parking Permit - Help Guide
 ## Purpose
 This form is used to register a vehicle for parking purposes, providing essential information about the vehicle, its owner, and their contact details. This form will help create a parking permit for the registered vehicle.

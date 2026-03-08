@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed to collect information for a geriatric technology integration session. 
-  It is intended for individuals to register for a geriatric technology session. 
-  The form collects personal and session details, session topics, and other relevant information.
-  To prevent duplication, this form will not allow the same form id to be submitted twice.
-</thinking>
-
 # Geriatric Technology Integration Session Registration Form - Help Guide
 ## Purpose
 This form is designed to register for a geriatric technology integration session.

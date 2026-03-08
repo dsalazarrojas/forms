@@ -1,5 +1,3 @@
-<thinking>This form, titled "mortgage_quote_request_form," is a comprehensive form used to request mortgage quotes. Its primary purpose is to gather essential information from clients or applicants to facilitate the process of obtaining a mortgage quote. This form is divided into multiple pages, each focusing on a distinct aspect of the applicant's information. The form aims to gather detailed information about the client, their employment status, income, credit score, property details, and loan specifics. By providing a detailed and structured way to collect this information, the form ensures accurate and efficient processing of mortgage quote requests. Before using this form, please ensure you have reviewed the provided guidance to complete it correctly.</thinking>
-
 # mortgage_quote_request_form - Help Guide
 ## Purpose
 The "mortgage_quote_request_form" is a tool used to collect information required to obtain a mortgage quote. This form is designed to gather essential details about the client, property, and loan specifics to provide accurate and personalized quotes.

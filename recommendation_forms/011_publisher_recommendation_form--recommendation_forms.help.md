@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information from publishers who want to recommend a book or article. The purpose of this form is to collect contact information and preferences from publishers to help facilitate the recommendation process. Before filling out this form, please ensure that you are the actual publisher or authorized representative of the publication in question. If you're unsure about your affiliation or have previously submitted this form, please do not attempt to submit it again.
-</thinking>
-
 # Publisher Recommendation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from publishers who want to recommend a book or article. Fill out this form to provide your contact details and answer a few simple questions to help facilitate the recommendation process.

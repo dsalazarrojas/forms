@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to book and pay for a Padel and Pilates session. The form is intended for users who have a genuine interest in booking a session and are willing to provide necessary information to complete the transaction. Please note that this form is not intended for users who are merely testing or exploring the system, but rather for actual customers who want to make a payment. If a user is not sure about booking a session or does not want to proceed with payment, they should not fill out this form. To avoid duplication of effort, please ensure you have not already registered for this form before attempting to do so again.
-</thinking>
-
 # Padel And Pilates Experience Registration - Help Guide
 ## Purpose
 This form is designed to collect information from users who want to book and pay for a Padel and Pilates session.

@@ -1,7 +1,3 @@
-<thinking>
-The provided form is meant to register users for an Animal Welfare Tech Demo event, aiming to showcase technology solutions for animal welfare organizations. The form gathers participant information, preferred demo preferences, and organizational details. By understanding these aspects, the demo organizers can tailor the event to best fit the needs of each participant. This form likely helps to ensure a productive and engaging experience for attendees, allowing them to effectively explore and learn from the showcased technologies. It appears that the form is designed to be completed by authorized representatives from animal welfare organizations, rather than individual users. This guide is intended to help users understand the form's purpose and requirements, ensuring a smooth and successful registration process.
-</thinking>
-
 # Animal Welfare Tech Demo Registration - Help Guide
 ## Purpose
 This form is for registering participants for an Animal Welfare Tech Demo event. The demo aims to showcase technology solutions for animal welfare organizations, providing a platform for attendees to explore and learn from the showcased technologies.

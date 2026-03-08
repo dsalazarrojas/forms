@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in participating in language exchange programs as volunteers. This form is designed to gather relevant details about the volunteer's language proficiency, interests, availability, and experience in language exchange programs. The form will help the organization to assess the suitability of the volunteer for the program and ensure that they are a good fit for the language exchange activities.
-This form is meant to be completed by individuals who have not previously submitted a volunteer application for this program. If an individual has already submitted an application, they should not complete this form again.
-The fields in this form are designed to collect specific information about the volunteer's background, skills, and availability. Please ensure that all required fields are completed accurately and thoroughly.
-</thinking>
-
 # language_exchange_volunteer_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in participating in language exchange programs as volunteers.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to facilitate communication between landlords and tenants regarding rental notices. It is intended to be used in situations where a tenant needs to provide feedback, concerns, or questions about a rental property. The form's purpose is to ensure that both parties are on the same page and can resolve any issues in a clear and efficient manner. It is possible that a similar form already exists in your organization or has been created in the past, but this form is an original adaptation created by AI using public metadata as inspiration.
-
-This form consists of 5 fields, each of which is explained below.
-
-</thinking>
-
 # Rental Notice Communication Form - Help Guide
 
 ## Purpose

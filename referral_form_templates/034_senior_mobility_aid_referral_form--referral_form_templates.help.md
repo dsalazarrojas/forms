@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from healthcare professionals for referring senior patients to various mobility aids. The purpose of the form is to provide a comprehensive overview of the patient's situation, including their mobility needs and level of urgency, to aid in the referral process. 
-
-This form is a critical part of the referral process, and it ensures that all necessary information is captured to ensure that senior patients receive the necessary mobility aids on time. Please ensure that you are using the correct form for senior mobility aid referrals.
-</thinking>
-
 # Senior Mobility Aid Referral Form - Help Guide
 ## Purpose
 The Senior Mobility Aid Referral Form is designed to collect information from healthcare professionals to refer senior patients to mobility aids. This form helps healthcare staff provide accurate and timely referrals to ensure seniors receive the necessary support.

@@ -1,5 +1,3 @@
-<thinking>...checking for relevance and non-duplication...</thinking>
-
 # Request A Service Recommendation - Help Guide
 ## Purpose
 This form is designed to allow users to request a service recommendation from our team. It's a simple form that collects basic contact information and a brief description of the service needed. Fill out the form to get a prompt response from our team about the recommended services.

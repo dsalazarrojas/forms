@@ -1,7 +1,3 @@
-<thinking>
-I will create a help guide for the Apartment Leasing License Application Form that explains its purpose, how to complete it, and each field's meaning. I will base the explanation on the provided YAML fields.
-</thinking>
-
 # Apartment Leasing License Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals applying for a real estate license. It includes personal details, experience, and background information required for the licensure process.

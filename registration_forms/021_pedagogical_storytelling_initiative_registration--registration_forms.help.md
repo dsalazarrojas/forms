@@ -1,11 +1,3 @@
-<thinking>
-The Pedagogical Storytelling Initiative Registration form is designed for individuals to sign up for the Pedagogical Storytelling Initiative, a program focused on promoting effective storytelling in educational settings. This form gathers information from potential registrants to understand their background, interests, and goals. The form is intended for educators, facilitators, and others interested in pedagogical storytelling. 
-
-To ensure relevance and minimize duplication, the form is designed to be completed once by each registrant. Please review the form carefully and submit it only if you are interested in joining the Pedagogical Storytelling Initiative.
-
-This guide will walk you through the form's fields, providing explanations and examples to help you complete it correctly.
-</thinking>
-
 # Pedagogical Storytelling Initiative Registration - Help Guide
 ## Purpose
 The Pedagogical Storytelling Initiative Registration form helps us understand your background, interests, and goals to tailor the program's activities and resources to your needs.

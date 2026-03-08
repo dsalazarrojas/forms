@@ -1,16 +1,3 @@
-<thinking>
-The form is intended to collect information from real estate sellers regarding their listings. It captures various details such as property type, square footage, price, contact information, and listing status. The form is likely to be used by real estate agents or brokers to manage listings and track seller information.
-
-It's worth noting that some fields might not be entirely clear or well-defined, like "Listing Agency". This is probably a field meant to capture the name of the company listing the property. However, without further explanation or examples, the label "Listing Agency" could be confused with the "listing_agency" field of the same name. To avoid confusion, we might want to rename one of these fields to make their purpose clear. For instance, "Listing Firm" instead of "Listing Agency" could be used for the field that is meant to capture the company name, while keeping "Listing Agency" for the actual agency the seller is working with. 
-
-However, this could be a field that doesn't need any change as it is used to collect the actual listing agency the seller is working with which is a bit confusing as there are two fields with the same label and name but one is required and the other not. 
-
-For this guide, it will be assumed that the field "Listing Agency" is the one that captures the actual agency the seller is working with and the other "Listing Agency" field is for the company name of the contact.
-
-It's also worth noting that the form seems to be missing some fields that are typically present in such forms like property features, amenities, etc.
-
-</thinking>
-
 # Real Estate Seller Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from real estate sellers about their listings. It includes fields for property details, contact information, and listing status.

@@ -1,24 +1,3 @@
-<thinking>
-This form is designed to collect information from referrers, such as clients or colleagues, about a referred client. The purpose of this form is to provide a structured way to gather essential details about the referral, including the referrer's contact information, the referred client's name, a brief summary of the client's needs, and the urgency of the referral.
-
-Before filling out this form, please ensure that you are not duplicating a referral that has already been submitted. This form is intended to be used for new referrals only. If you are unsure whether a referral has already been submitted, please check with the relevant team or manager.
-
-The following fields are required, which means that you must fill them out for the form to be complete. Required fields are:
-* Referrer name
-* Referred client name
-* Client needs summary
-
-If a field is optional, you can leave it blank if you do not have the information or if it is not applicable. However, please be aware that missing information may delay the processing of your referral.
-
-To complete this form, follow the steps below:
-1. Fill out the referrer's information, including their name and contact email.
-2. Enter the referred client's name.
-3. Provide a brief summary of the client's needs.
-4. If applicable, select the urgency of the referral.
-5. Review the form for completeness and accuracy before submitting.
-
-</thinking>
-
 # Consulting Client Referral Form Template - Help Guide
 ## Purpose
 The purpose of this form is to collect information from referrers about a referred client, providing a structured way to gather essential details.

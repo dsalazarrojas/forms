@@ -1,13 +1,3 @@
-<thinking>
-
-**Internal Note:**
-
-This form is designed to collect information from evaluators about candidates they have evaluated. The purpose of the form is to provide a standardized way of capturing evaluator's feedback and recommendation for a candidate.
-
-To ensure the form is filled out correctly, evaluators should only use this form for candidates they have actually evaluated. Duplicate submissions for the same candidate should be avoided.
-
-</thinking>
-
 # Recommendation Letter Adjectives Reference Form - Help Guide
 ## Purpose
 The Recommendation Letter Adjectives Reference Form is a standardized form used to capture evaluator's feedback and recommendation for a candidate. It provides a structured way of evaluating a candidate's performance and providing a clear assessment of their strengths and weaknesses.

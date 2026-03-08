@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Bachelorette Weekend Registration form is to gather essential information from attendees to plan and organize a fun and memorable weekend getaway. This form collects data on attendee details, contact information, travel schedules, and personal preferences to ensure a smooth and enjoyable experience for everyone involved.
-To prevent duplication of effort and ensure relevance, please only submit this form once you've discussed and agreed on the trip details with the group organizers.
-</thinking>
-
 # Bachelorette Weekend Registration - Help Guide
 
 ## Purpose

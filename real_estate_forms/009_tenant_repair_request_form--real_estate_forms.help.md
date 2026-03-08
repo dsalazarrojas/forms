@@ -1,12 +1,3 @@
-<thinking>
-
-This form is intended to support the creation and submission of repair requests from tenants in a real estate context. To ensure that this form is used correctly, please review the instructions carefully. 
-
-Before proceeding with the form, check that you are not duplicating a previous request that has already been submitted. If you are unsure, it's best to contact the relevant personnel for clarification.
-
-
-</thinking>
-
 # tenant_repair_request_form - Help Guide
 ## Purpose
 The Tenant Repair Request Form is used to create and submit repair requests from tenants in a real estate context. This form helps in efficiently tracking and managing repair requests, ensuring that the issues are addressed promptly.

@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a rental application form with a section for a co-applicant. The form is designed to collect information about the applicant's rental history, employment status, and co-applicant's information, as well as signatures and releases from both the applicant and co-applicant. The form seems to be used in a rental or leasing context, possibly for a residential or commercial property. The form is likely used by landlords or property managers to assess the applicant's creditworthiness and suitability for a rental property.
-
-Before starting this form, please ensure that you have the necessary information and documentation ready. Some fields may require additional explanation, but generally, you should answer the fields based on your actual situation.
-</thinking>
-
 # Rental Application With Co Applicant & Signatures - Help Guide
 ## Purpose
 This form is designed to collect information necessary for a rental application, including rental history, employment status, co-applicant information, and signatures and releases from both the applicant and co-applicant.

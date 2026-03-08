@@ -1,16 +1,3 @@
-<thinking>
-
-This form seems to be a template for a rental lease agreement in California, which is a standard legal document used in the state to outline the terms and conditions of renting a property. The form appears to be designed for collecting information from both the landlord and the tenant, including contact details, property specifics, and lease terms. The fields cover various aspects of the rental agreement, such as the landlord's and tenant's information, property details, lease start and end dates, rent amount, and terms. The form also includes sections for pet policy, utilities, and tenant responsibilities. This form seems to be intended for use in the California real estate market, but it's essential to ensure that all relevant California state and local laws and regulations are respected and incorporated into the form.
-
-Before creating a guide, I will check for potential issues and inconsistencies in the form's design, such as:
-
-* Some fields, like "landlord_header" and "tenant_header", are "note" type but are likely to be more descriptive headers or labels. I will suggest removing them to avoid confusion.
-* Some fields have "select_one" or "select_multiple" types but lack options or have options that might be confusing. For example, "pet_policy_header" and "utilities_header" are not fields with options but rather headers. I will reevaluate these and suggest alternatives.
-* The "lease_term_months" field is not required, but it might be useful for the landlord and tenant to specify the lease term in months. However, if it's optional and not required, it might not be essential for completing the form.
-* The "security_deposit" field is required but lacks a unit (e.g., dollars). I will suggest adding a unit to provide a clear understanding of the amount.
-
-</thinking>
-
 # California Rental Lease Agreement Form - Help Guide
 
 ## Purpose

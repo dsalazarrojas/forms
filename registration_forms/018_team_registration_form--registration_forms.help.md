@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect registration information for team members. It appears that the form is for students to register their team members for some purpose such as a school, sports, or event team. The form seems to be collecting individual's personal and contact information, and it also collects the same kind of information for their parents/guardians, suggesting that this form is for minors and their caregivers. To prevent duplicate entries, it would be a good idea for the system to check for any existing team registrations under the same email address or contact number to ensure that users are not attempting to register duplicates.
-</thinking>
-
 # Team Registration Form - Help Guide
 ## Purpose
 The Team Registration Form is used to register team members for a school, sports, or event team. This form collects personal and contact information for each team member and their parents/guardians.

@@ -1,11 +1,3 @@
-<thinking>
-This background information disclosure form is designed to collect sensitive personal data from employees for background checks. The purpose of this form is to gather accurate and comprehensive information about each employee, which is essential for various reasons such as employment screening, regulatory compliance, and security clearance purposes. 
-
-This form must be filled out by the employee themselves or with their explicit consent. It is crucial to note that providing inaccurate or incomplete information can lead to potential issues during the hiring process or may result in termination of employment.
-
-Before proceeding, ensure you are not duplicating or misrepresenting any information. If you have concerns or questions, please consult with your HR department or management.
-</thinking>
-
 # Background Information Disclosure Form - Help Guide
 
 ## Purpose

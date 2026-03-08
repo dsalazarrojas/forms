@@ -1,7 +1,3 @@
-<thinking>
-The SAT Exam Registration Form is designed to collect information from students who wish to take the SAT exam. Its primary goal is to gather essential details from students, such as their personal information, guardian details, exam particulars, and payment information. This form aims to efficiently collect these details in a single, user-friendly format.
-</thinking>
-
 # SAT Exam Registration Form - Help Guide
 ## Purpose
 The SAT Exam Registration Form is a tool to register students for the SAT exam, collecting their individual and exam-related information for processing.

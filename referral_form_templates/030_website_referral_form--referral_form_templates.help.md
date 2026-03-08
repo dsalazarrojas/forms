@@ -1,7 +1,3 @@
-<thinking>**Please ensure you are using this form for its intended purpose: providing information for a referral. If you are a developer or designer, please do not submit your resume or other non-relevant information. Additionally, if you have already submitted a referral for a website, please do not submit again as this could be considered spam.**
-
-</thinking>
-
 # Website Referral Form - Help Guide
 ## Purpose
 This form is used to submit information for a referral. Please fill out the form accurately and thoroughly with your referral details.

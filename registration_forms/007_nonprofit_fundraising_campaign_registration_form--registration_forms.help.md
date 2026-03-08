@@ -1,7 +1,3 @@
-<thinking>
-The Nonprofit Fundraising Campaign Registration Form is used to register and manage fundraising campaigns for nonprofit organizations. This form helps to gather information about the event, participants, donors, and other relevant details. The purpose of this form is to ensure that all necessary information is collected and stored in a centralized database for easy reference and management.
-</thinking>
-
 # Nonprofit Fundraising Campaign Registration Form - Help Guide
 ## Purpose
 The Nonprofit Fundraising Campaign Registration Form is designed to collect information about fundraising campaigns for nonprofit organizations. This form is used to register and manage campaigns, including event details, participant information, donor details, contact information, donation amount, and terms of service.

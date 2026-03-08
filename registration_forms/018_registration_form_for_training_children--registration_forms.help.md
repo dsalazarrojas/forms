@@ -1,12 +1,3 @@
-<thinking>
-Before creating this help guide, I reviewed the provided form YAML schema and extracted the necessary information to create an accurate and concrete explanation for end-users.
-
-The internal purpose of this form is to collect information from parents or guardians for training children. The form is designed to capture details about the child, including their medical history, emergency contact information, and training status. It also includes fields for payment details, which could be related to registration fees or other expenses.
-
-This form should only be used for collecting information from parents or guardians of children who are attending training programs. Duplicate submissions or submissions from unauthorized individuals should not be allowed. 
-
-</thinking>
-
 # Registration Form For Training Children - Help Guide
 ## Purpose
 This form is designed to collect information from parents or guardians of children for training programs.

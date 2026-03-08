@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register attendees for a networking event. To ensure that you are using the correct form, please verify that the event is a networking event and not a different type of event. If you are unsure, please review the form's purpose and fields below.
-</thinking>
-
 # Networking Event Registration - Help Guide
 ## Purpose
 This form is intended to collect information from attendees for a networking event. Please provide accurate and complete details to help the event organizers prepare for the event.

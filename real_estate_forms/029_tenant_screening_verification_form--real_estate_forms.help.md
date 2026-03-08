@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to screen and verify tenant information in the context of real estate transactions. The form's purpose is to gather relevant details about a tenant's rental history, references, and contact information. To avoid duplication or redundancy, please ensure that the tenant's information is not already on file or in the database. The information gathered through this form will be used to verify the tenant's identity, assess their rental history, and facilitate communication. 
-
-</thinking>
-
 # Tenant Screening Verification Form - Help Guide
 ## Purpose
 The Tenant Screening Verification Form is a document used to collect information about a tenant's rental history, references, and contact details. This form helps real estate agents, property managers, and other stakeholders to verify a tenant's identity and assess their suitability for a rental property.

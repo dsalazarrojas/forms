@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from guests on their permissions and contact details. The form is part of the studio feature and is used to manage guest interactions. This guide is to ensure users understand the purpose and requirements of the form, so they can fill it out correctly and accurately.
-</thinking>
-
 # Studio Guest Feature Consent Form - Help Guide
 ## Purpose
 The Studio Guest Feature Consent Form is used to collect information from guests on their permissions and contact details. This form is part of the studio feature and is used to manage guest interactions.

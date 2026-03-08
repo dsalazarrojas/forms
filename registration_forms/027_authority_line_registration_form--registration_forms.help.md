@@ -1,5 +1,3 @@
-<thinking>Internal note to developers: Please ensure that the fields are properly mapped to the corresponding YAML properties. This guide is meant to be user-facing, so please keep the tone and language concise and approachable for end-users. Also, please review the guide to ensure that it accurately reflects the provided YAML fields.</thinking>
-
 # Authority Line Registration Form - Help Guide
 ## Purpose
 The Authority Line Registration Form is a critical document that outlines an individual's authority level and responsibilities within an organization. It ensures that everyone has a clear understanding of their power and limitations, promoting accountability and streamlined decision-making. This form helps to identify and document authorities and responsibilities, facilitating informed decision-making and minimizing confusion or miscommunication.

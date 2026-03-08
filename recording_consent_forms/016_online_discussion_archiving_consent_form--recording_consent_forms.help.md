@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To check for relevance and non-duplication:
 
 This form's purpose is to record the user's consent for archiving and sharing their online discussions. Archiving involves collecting, storing, and potentially sharing their personal data, such as their name and email. It is essential to ensure that users understand and agree to this process. The form should only be filled out if the user is indeed willing to have their discussions archived.

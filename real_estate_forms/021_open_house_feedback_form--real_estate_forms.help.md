@@ -1,11 +1,3 @@
-<thinking>
-The Open House Feedback Form is designed to gather feedback from individuals who attended or did not attend an open house event. The form is used to gauge the interest and experiences of the attendees, and to identify areas for improvement for future events. To ensure accurate and relevant feedback, this form should only be completed by individuals who attended the open house event.
-
-Before proceeding, please note that this form is designed to be completed by attendees of the open house event, and not by individuals who did not attend. If you did not attend the event, please do not complete this form.
-
-Also, please ensure that you are only completing one form per person. If multiple forms are submitted by the same person, they will be considered as duplicate feedback and will not be taken into account for evaluation.
-</thinking>
-
 # Open House Feedback Form - Help Guide
 ## Purpose
 

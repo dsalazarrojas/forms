@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for a "new_construction_property_reservation_contract" form, I need to determine the form's purpose and ensure it's not a duplicate. This form appears to be a contract-related form, and I won't be repeating any previously created guides for similar forms. The purpose of this form is to collect information from customers or clients regarding a new construction property reservation contract, which involves details about the unit, buyer, reservation, payment, and electronic signature.
-
-</thinking>
-
 # new_construction_property_reservation_contract - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients or customers for a new construction property reservation contract. It's a crucial document that outlines the terms and conditions of the reservation.

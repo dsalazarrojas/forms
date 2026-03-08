@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide feedback on the open house event. The purpose of this form is to gather information about the event, including the agent's name, contact email and phone number, location, and any feedback or comments. This information will be used to improve future events and provide a better experience for attendees.
-</thinking>
-
 # Public Open House Feedback Form - Help Guide
 ## Purpose
 The Public Open House Feedback Form is designed to gather feedback on the open house event. This information will be used to improve future events and provide a better experience for attendees.

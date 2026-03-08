@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Specialist Referral Form - Help Guide
 
 ## Purpose

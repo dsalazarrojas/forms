@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # STEM Workshop Waiver Form - Help Guide
 
 ## Purpose

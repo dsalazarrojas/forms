@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a refund request form for a celebrity or event management service. The purpose of this form is to allow customers or clients to request a refund for a service or appearance that was not completed or met their expectations. The form is likely used by the service management team to review and process refund requests.
-
-Before completing this form, please ensure that you have a valid reason for the refund request and have all necessary documentation or evidence to support your claim. The refund amount requested should be based on the original transaction amount, and the preferred refund method should be selected accordingly.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Celebrity Refund Form - Help Guide
 ## Purpose
 The purpose of this form is to request a refund for a service or appearance that was not completed or met your expectations.

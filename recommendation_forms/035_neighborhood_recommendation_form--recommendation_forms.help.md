@@ -1,6 +1,3 @@
-<thinking>
-The Neighborhood Recommendation Form is used to collect suggestions and feedback from citizens regarding neighborhood-related matters. This form helps to gather valuable input from the community, which can be used to inform decisions and improve services in the area. Please ensure that the suggestions submitted through this form are specific, actionable, and relevant to the neighborhood's needs. Duplicate submissions may be deleted to maintain data quality. Please note that all fields are optional and any missing information will not impact the form's ability to be submitted. However, providing complete and accurate details will make it easier to address the submitted issues.</thinking>
-
 # Neighborhood Recommendation Form - Help Guide
 ## Purpose
 The Neighborhood Recommendation Form is used to collect suggestions and feedback from citizens regarding neighborhood-related matters. It helps to gather valuable input from the community, which can be used to inform decisions and improve services in the area.

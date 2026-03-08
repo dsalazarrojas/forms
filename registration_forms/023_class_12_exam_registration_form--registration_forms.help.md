@@ -1,15 +1,3 @@
-<thinking>
-I need to make sure that this form is correctly documented to ensure that end users understand its purpose and how to complete it. I will review the YAML fields and create a clear and concise help guide for the users. This guide will cover the form's purpose, step-by-step instructions on how to complete it, and a field-by-field explanation of each section. This will help prevent errors and confusion for users when interacting with the form.
-
-The form is for registration to a Class 12 exam, which suggests it might be for students who are preparing for their final year of high school or equivalent education. The form is likely used for administrative purposes, such as student information management, exam registration, and parental involvement.
-
-Upon reviewing the YAML fields, I see that the form has several sections, including student information, contact information, school information, exam subject selection, and parental information. Some fields are required, while others are optional.
-
-The form has several types of fields: text, email, date, select_one, and select_multiple. The select_one fields have options like Male, Female, Non-binary, and Prefer not to say for gender, while the select_multiple fields allow users to select multiple subjects. The form also has checkboxes for special needs and disabilities, and an acknowledgment checkbox to confirm the accuracy of the provided information.
-
-Now, I will create the help guide based on this information.
-</thinking>
-
 # Class 12 Exam Registration Form - Help Guide
 ## Purpose
 The Class 12 Exam Registration Form is for students who are registering for their final year of high school or equivalent education. This form is for administrative purposes, such as student information management, exam registration, and parental involvement.

@@ -1,29 +1,3 @@
-<thinking>
-The Chamber Of Commerce Membership Form is a registration form used to gather information from potential members of the Chamber of Commerce. The form captures key details about the business, such as name, type, address, phone number, email, and website. It also requests information about the business owner, including their name, title, phone number, and email. Additionally, the form asks about the business's operational details, such as number of employees, annual revenue, and length of operation. This form is meant to be completed by businesses interested in becoming members of the Chamber of Commerce.
-The form consists of two pages with fields that require various types of input, including text, text with options, and select multiple. The fields include:
-*   Business Name (required)
-*   Type of Business (required)
-*   Business Address (required)
-*   City, State, Zip Code (required)
-*   Business Phone Number (required)
-*   Business Email Address (required)
-*   Website (optional)
-*   Business Owner or Principal Name (required)
-*   Owner's Title (optional)
-*   Owner's Email (required)
-*   Owner's Phone Number (required)
-*   Years in Business (optional)
-*   Number of Employees (optional)
-*   Annual Revenue Range (optional)
-*   Membership Tier (required)
-*   Membership Term (required)
-*   Referral Source (optional)
-*   Areas of Interest or Involvement (optional)
-*   Brief Description of Business Mission (optional)
-*   Agreement to Chamber Membership Terms (required)
-*   Permission to Contact for Chamber Participation (optional)
-</thinking>
-
 # Chamber Of Commerce Membership Form - Help Guide
 ## Purpose
 This form is designed for businesses interested in becoming members of the Chamber of Commerce. It collects necessary information about the business and the business owner, which will be used to facilitate the membership process.

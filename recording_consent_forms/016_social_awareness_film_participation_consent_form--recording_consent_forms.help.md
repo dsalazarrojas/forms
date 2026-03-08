@@ -1,9 +1,3 @@
-<thinking>
-Please note that the form purpose and the fields listed might be subject to change over time. Ensure that you understand the form's actual usage and the specific fields before proceeding. This guide is based on the provided YAML fields and might not be comprehensive or up-to-date. 
-
-To create this help guide, we'll focus on the general structure and the fields listed in the YAML. The actual implementation may vary based on the specific use case.
-</thinking>
-
 # social_awareness_film_participation_consent_form - Help Guide
 
 ## Purpose

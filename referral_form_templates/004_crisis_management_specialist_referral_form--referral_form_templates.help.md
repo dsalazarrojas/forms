@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect information from clients or users seeking crisis management specialist services. To ensure accurate and helpful completion, please review the form carefully before submitting it. 
 
 Please note that the form has been optimized for easy completion, and most fields are required, ensuring that all necessary information is collected for the specialist's evaluation and response.

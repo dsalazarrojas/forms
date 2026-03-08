@@ -1,5 +1,3 @@
-<thinking>...The goal of this form is to collect information from hospitality industry businesses that are interested in joining the Climate Neutral hospitality program. This program aims to help hotels and resorts reduce their carbon footprint and promote sustainability. To avoid duplication, we only allow one registration per facility. Please ensure that your facility has not already registered or is not a duplicate of an existing facility...</thinking>
-
 # Climate Neutral Hospitality Program Registration - Help Guide
 ## Purpose
 The Climate Neutral hospitality program is designed to help hotels and resorts reduce their carbon footprint and promote sustainability. By joining this program, your facility can gain access to resources, support, and expertise to help you achieve your sustainability goals.

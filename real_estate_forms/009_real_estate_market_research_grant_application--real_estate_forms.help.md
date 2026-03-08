@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_estate_market_research_grant_application - Help Guide
 ## Purpose
 This form is designed for individuals or organizations seeking to apply for a real estate market research grant. The grant is intended to support research initiatives that contribute to the advancement of the real estate industry.

@@ -1,5 +1,3 @@
-<thinking>As a form expert, I understand that this form is likely used for capturing and storing information about a rental property's tenancy status. The form aims to gather essential details about the property, including the tenant's contact information, property characteristics, and tenancy-related specifics. This data can be used for administrative, maintenance, or accounting purposes. Before proceeding, please ensure that this form is relevant to your use case and not duplicating existing processes. For example, if you already have a comprehensive property database, this form might not be necessary. If you're unsure, consider reaching out to your internal teams or stakeholders for guidance. Now, let's dive into the user-facing guidance for this form.</thinking>
-
 # Tenancy Information Form - Help Guide
 
 ## Purpose

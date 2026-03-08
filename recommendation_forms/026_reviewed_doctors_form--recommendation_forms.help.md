@@ -1,10 +1,3 @@
-<thinking>
-The "reviewed_doctors_form" is a form designed to collect information about medical groups and their practices. This form is intended for administrators or users who need to review and update information about medical groups. The purpose of this form is to gather essential details about medical groups, including contact information, practice addresses, phone numbers, email addresses, website, and other relevant details.
-
-The form has multiple fields, each with its own label, type, and options. To ensure accuracy and relevance, please review the form carefully and ensure that you are filling it out for the correct medical group. Duplicate submissions can be avoided by checking the 'Reviewed Doctors' field to ensure that the same medical group is not being reviewed multiple times.
-
-</thinking>
-
 # reviewed_doctors_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about medical groups and their practices.

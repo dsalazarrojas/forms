@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to collect information from users for booking a house. The fields include text inputs for various details, select inputs for multiple options, and date inputs for specific dates. This form is likely to be used by administrators or staff to manage house bookings, but it could also be used by customers or users to provide additional information about a house booking. This form is comprehensive, but some fields may be optional or used only in specific situations. 
-</thinking>
 # House Booking Form - Help Guide
 ## Purpose
 The House Booking Form is a tool used to collect important information for booking a house. This includes details like contact information and preferences. The form may be completed by administrators or users depending on the specific situation.

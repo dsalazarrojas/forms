@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a performance event, including the event title, venue, dates, start and end time, and a brief description. The fields in this form are intended to help event planners gather essential details about an event for planning and organization purposes. Please ensure that you have the necessary permissions and approvals before completing this form. To prevent duplication, check that an event with the same title and date is not already registered. If you are unsure about any information, please consult with the event planner or the relevant authorities.
-</thinking>
-
 # Performance Event Registration - Help Guide
 ## Purpose
 

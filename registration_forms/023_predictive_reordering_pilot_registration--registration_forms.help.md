@@ -1,18 +1,3 @@
-<thinking>
-This form is a user-facing help guide for the "Predictive Reordering Pilot Registration" form. The form collects information about a company's details, goals, contact information, and other relevant data. This guide is intended to help users understand the purpose of the form and how to complete it correctly.
-
-The form is designed to collect information from companies participating in a pilot program, and it's crucial that users understand each field's purpose to ensure accurate and comprehensive data collection. This guide will walk users through each field, explaining what it's for and how to fill it out correctly.
-
-The form has the following sections:
-
-* Company Details
-* Contact Information
-* Other Information
-
-The guide will cover each section, explaining what information is required and what the user needs to provide.
-
-</thinking>
-
 # Predictive Reordering Pilot Registration - Help Guide
 ## Purpose
 The "Predictive Reordering Pilot Registration" form is designed to collect information from companies participating in a pilot program. This form helps us understand your company's goals, contact details, and other relevant data.

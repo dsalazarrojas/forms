@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by users when a utility service sale is rejected by the sales team. The purpose of this form is to gather information from the user on the reason for rejection, next steps, sales leader review, quality team review, and internal recommendation. The form is intended to be used internally and is not affiliated with any form platform. It is released under a Creative Commons BY 4.0 license.
-</thinking>
-
 # Utility Service Sale Rejection Recommendation Form - Help Guide
 ## Purpose
 This form is used to gather information from users when a utility service sale is rejected. It is designed to be completed by the user to provide a clear explanation of the rejection and any subsequent actions that should be taken.

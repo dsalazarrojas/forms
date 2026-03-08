@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist property owners and applicants in understanding the purpose and requirements of the Attic Conversion Planning Permission Application Form. This form is a crucial part of the planning process for attic conversions, and its completion will help ensure that the application is submitted accurately and efficiently.
-
-Before beginning, please ensure that you have reviewed the relevant sections of the local building code and zoning regulations to understand your specific requirements. Additionally, please note that submitting a duplicate application will not be accepted. Each property owner or applicant should only submit one application per property address.
-
-Please review the form carefully and answer each section as accurately as possible. If you have any doubts or questions, do not hesitate to reach out to the relevant authorities or consult with a local expert.
-
-</thinking>
-
 # Attic Conversion Planning Permission Application Form - Help Guide
 ## Purpose
 The Attic Conversion Planning Permission Application Form is a document that property owners and applicants use to request planning permission for attic conversions on their properties. This form helps the authorities to review and assess the plans and ensure that they comply with local regulations.

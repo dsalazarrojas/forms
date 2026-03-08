@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather registration information from applicants for an academic interview. The form is used to collect basic details about the applicant, such as their name, email, and contact phone number. It also captures more specific information about the interview, like the position applied for, preferred availability, and format of the interview (in-person or virtual). The form is a requirement for all applicants and is used by the interview team to schedule and prepare for the interview. Ensure you have not filled out this form before as it is not intended to be filled out multiple times.
-</thinking>
-
 # Academic Interview Registration Form - Help Guide
 ## Purpose
 This form is used to register for an academic interview and provide necessary information to the interview team.

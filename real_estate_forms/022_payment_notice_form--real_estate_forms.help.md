@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect and store information about rent notices, including payment methods, rent amounts, and contact information. The form is meant to be used by landlords or property managers to notify tenants about rent payments and communicate with them effectively. This is a crucial form for managing rent collections and maintaining good tenant relationships. It's essential that users understand the purpose and functionality of each field to use the form correctly and efficiently.
-
-</thinking>
-
 # payment-notice-form - Help Guide
 ## Purpose
 This form is designed for landlords or property managers to create and manage rent notices for tenants. It's used to collect payment information, contact details, and send reminders or notifications to tenants.

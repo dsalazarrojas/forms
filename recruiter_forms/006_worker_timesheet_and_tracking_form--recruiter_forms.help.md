@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Worker Timesheet And Tracking Form - Help Guide
 
 ## Purpose

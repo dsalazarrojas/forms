@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about businesses interested in registering for shipping discounts. It should only be filled out by businesses, not individuals. If a business has already registered, they should not need to fill out this form again.
-</thinking>
-
 # Shipping Discount Registration Form - Help Guide
 
 ## Purpose

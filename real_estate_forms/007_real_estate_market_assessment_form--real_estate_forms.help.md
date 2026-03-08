@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to collect user input on the details of a real estate property. It is likely used in the context of a real estate appraisal or market assessment, where the user provides information on the property's characteristics, value, and market conditions. 
-The purpose of this form is to gather data to be used by real estate professionals, such as brokers or agents, to evaluate the property's value and assess its market performance. 
-
-This form should not be used for non-real estate purposes, such as property maintenance or repair estimates. If you are not a real estate professional, you may not need to complete this form.
-
-This form is not intended to collect sensitive or personal data, such as financial information or social security numbers. 
-
-Please ensure that you have the necessary permissions and access rights to complete this form. 
-
-The information provided in this form will be used by authorized real estate professionals to assess the market value and performance of the property.
-</thinking>
-
 # Real Estate Market Assessment Form - Help Guide
 ## Purpose
 The Real Estate Market Assessment Form is a tool used by real estate professionals to collect and analyze data on properties. It is intended to be used for market assessment and valuation purposes.

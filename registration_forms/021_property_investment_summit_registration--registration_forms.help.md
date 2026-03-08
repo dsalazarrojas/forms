@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide for the "Property Investment Summit Registration" form. This form is designed to collect contact information and details from potential attendees of the Property Investment Summit. The purpose of this form is to gather relevant information about the attendees, which will be used to provide them with relevant content and updates about the summit. We will make sure to keep the form simple and easy to understand, with clear explanations for each field. This guide will also cover the fields that are required and optional, and provide tips for users to fill out the form accurately and efficiently.
-</thinking>
-
 # Property Investment Summit Registration - Help Guide
 ## Purpose
 The "Property Investment Summit Registration" form is designed to collect your contact information and details as a potential attendee of the summit. This will help us provide you with relevant content and updates about the summit.

@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from creators who are referred to by other creators on the gaming streaming platform. The form is used to track and follow up with the referred creators to ensure they are aware of the platform's policies and guidelines. It's essential to fill out the form accurately and completely to help the platform's team better understand the referred creators' needs and provide them with the best possible support.
-
-To prevent non-duplication of forms, the platform has a system in place to track referrals. If a creator has already filled out a form, they will not be allowed to fill out another one until the previous one has been completed or closed.
-
-This form is designed to be completed by creators who are being referred to by other creators. If you are not a creator, you should not fill out this form.
-
-Before starting the form, please make sure you have read and understood the platform's policies and guidelines. If you have any questions or concerns, please reach out to the platform's support team.
-</thinking>
-
 # Gaming Streaming Platform Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information from creators who are referred to by other creators on the gaming streaming platform.

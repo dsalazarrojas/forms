@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll provide a concise and practical help guide for the Massage Therapy Referral Form.</thinking>
-
 # Massage Therapy Referral Form - Help Guide
 ## Purpose
 The Massage Therapy Referral Form is designed to collect information about patients' medical history, insurance details, and referral sources for massage therapy sessions. This form helps healthcare professionals to refer patients to a massage therapist and provide necessary context for their treatment.

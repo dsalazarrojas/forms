@@ -1,13 +1,3 @@
-<thinking>...This is a critical thinking block to confirm the internal context of the problem and avoid unnecessary output...
-
-Form purpose: The Performance Lighting Design Documentation Consent Form is used to collect information for consent from individuals contributing to a project, ensuring transparency and clarity on their involvement and the terms of the project. This form helps to maintain accurate records and ensures that all parties are on the same page.
-
-Form fields should not be filled out if the contributor is not contributing to a project that requires this form. This form should only be completed once for each project and not duplicated or repeated.
-
-This guide is intended to help users understand the purpose and usage of the form. It is essential to follow this guide carefully to ensure accurate and efficient completion of the form...
-
-</thinking>
-
 # Performance Lighting Design Documentation Consent Form - Help Guide
 ## Purpose
 The Performance Lighting Design Documentation Consent Form is a critical component of our project management process. It ensures that all contributors understand and agree to the terms of their involvement in a project. This form is used to collect essential information for transparency and clarity on our project documentation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the emotional awareness workshop. It is intended for people interested in learning more about their emotional awareness and how to work with their emotions in a healthy way. The form is used to gather basic contact information (name, email, phone number) and workshop preferences (awareness level, interests). It is not intended for anyone who has already registered for the workshop, so please do not fill out this form if you have already registered. If you have already registered and are trying to make changes to your registration, please contact [insert contact email] instead.
-</thinking>
-
 # emotional_awareness_workshop_registration - Help Guide
 ## Purpose
 This form is used to register for the emotional awareness workshop. It collects basic contact information and workshop preferences.

@@ -1,6 +1,3 @@
-<thinking>
-The form is intended to be used for customers who are requesting a quote for move out and move in services, likely for businesses that provide moving companies with various services related to move out and move in requests. The purpose of this form is to gather essential information from the customer to generate an accurate quote for the move. This form may be used for both internal and external customers. It is likely to be used in a B2B (business-to-business) or B2C (business-to-consumer) context. The form may be integrated with other systems to generate quotes and manage move requests.</thinking>
-
 # Move Out And In Instant Quote Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers for a move out and in quote request. It is intended to be used in a B2B or B2C context.

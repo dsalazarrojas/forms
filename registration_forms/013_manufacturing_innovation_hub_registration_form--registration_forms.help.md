@@ -1,10 +1,3 @@
-<thinking>
-This form is used for the registration of companies to the Manufacturing Innovation Hub. The purpose of this form is to collect relevant information about the company, including its contact details. This information is used to create a company profile and provide services related to the Manufacturing Innovation Hub.
-
-Please note that this form is not intended for internal use only. It is a public-facing form that will be visible to all users of the Manufacturing Innovation Hub. This form is not intended to be duplicated. 
-
-</thinking>
-
 # Manufacturing Innovation Hub Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register companies to the Manufacturing Innovation Hub. This form is used to collect relevant information about the company, including its contact details, to create a company profile and provide services related to the Manufacturing Innovation Hub.

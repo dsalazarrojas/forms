@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information for real estate transactions, including contact details, property specifics, and terms of the offer. This form is intended to be filled out by individuals or organizations offering to buy or rent a property, ensuring that the seller or representative has all necessary information to proceed with the transaction.
-
-To avoid duplication or misinterpretation, please review each field carefully and ensure that you are providing accurate and relevant information.
-
-This form is designed to capture the following essential details:
-
-* Contact information (e.g., name, email, phone number)
-* Specifics about the offer, such as amount and terms
-* Property details, including address
-
-Please ensure that all required fields are completed accurately and thoroughly.
-
-</thinking>
 # Real Estate Offer Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about real estate offers, including contact details, offer specifics, and property information.

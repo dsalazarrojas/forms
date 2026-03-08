@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to select language schedules for students. It is meant to be used in conjunction with other forms that collect student registration data. The purpose of this form is to capture detailed information about language schedules, including institution and instructor affiliations. It is assumed that the user has already navigated to this form as part of the larger registration process. It is not recommended to use this form independently without proper context and authorization.
-</thinking>
-
 # language_schedule_selection_form - Help Guide
 ## Purpose
 This form is used to select language schedules for students.

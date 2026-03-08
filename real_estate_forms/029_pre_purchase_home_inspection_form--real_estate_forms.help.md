@@ -1,7 +1,3 @@
-<thinking>
-The form "Pre Purchase Home Inspection Form" is designed for real estate professionals to gather information about a property's condition and the buyer's decision. The form is meant to be completed by the buyer or their representative after a pre-purchase home inspection, which is typically conducted by a licensed inspector. The purpose of the form is to document the inspection findings, including the address of the property, buyer information, inspection date and time, and a detailed report of the property's condition. The form also includes fields for the buyer to provide their decision on whether to accept the property, reject it, or make a conditional offer. This form is a useful tool for real estate professionals to facilitate communication and decision-making between the buyer and seller.
-</thinking>
-
 # Pre Purchase Home Inspection Form - Help Guide
 
 ## Purpose

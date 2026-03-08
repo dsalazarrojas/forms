@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a trade finance inquiry, which is a request for financial assistance or services related to trade finance. This form is designed to be completed by a user who is seeking financial assistance and is used to provide relevant details about their inquiry. To ensure that the user understands the scope of their request, the form will be checked for duplication before submission.
-</thinking>
-
 # Trade Finance Inquiry Form - Help Guide
 ## Purpose
 The Trade Finance Inquiry Form is a request for financial assistance or services related to trade finance. This form is used to provide detailed information about your inquiry, and it's essential to complete it accurately to ensure that your request is processed efficiently.

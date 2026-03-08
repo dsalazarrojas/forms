@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about a networking event. The purpose of this form is to gather information about the event from users who have attended or participated in it. This form is typically used by event organizers to get feedback on the event's quality, organization, and overall experience.
- 
-To ensure that feedback is accurate and helpful, it's essential to complete this form with the correct information. Please note that filling out this form multiple times with the same information may lead to duplicate entries. If you've already filled out this form for the same event, please do not fill it out again.
- 
-Please fill out this form completely and accurately to provide the best possible feedback.
-</thinking>
- 
 # networking_event_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users about a networking event.

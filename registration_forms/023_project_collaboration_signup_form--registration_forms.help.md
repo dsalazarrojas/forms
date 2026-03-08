@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to sign up for project collaboration. It's intended to gather information about a user's ability to collaborate on a project. The form is divided into two pages: the first page asks for the user's selection of collaborators and the second page asks for their selection of role, skill, and availability.
-</thinking>
-
 # project_collaboration_signup_form - Help Guide
 ## Purpose
 This form is designed to help project managers gather information from team members about their ability to collaborate on a project. It's a simple and straightforward form that helps project managers get an overview of the team members' skills, availability, and willingness to collaborate.

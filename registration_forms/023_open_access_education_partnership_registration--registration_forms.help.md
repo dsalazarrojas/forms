@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about potential partners for the Open Access Education Partnership. The form will help us to understand your school's or organization's interests and focus areas, as well as your contact information and any other relevant details. Please fill out this form carefully and completely, ensuring that all required fields are accurate and up-to-date. Note that some fields may be optional, but we may still contact you for additional information if we need it.
-</thinking>
-
 # Open Access Education Partnership Registration - Help Guide
 ## Purpose
 This form is designed to collect information about potential partners for the Open Access Education Partnership. It will help us to understand your school's or organization's interests and focus areas, as well as your contact information and any other relevant details.

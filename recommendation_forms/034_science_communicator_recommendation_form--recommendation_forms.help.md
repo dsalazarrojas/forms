@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect recommendations for science communicators, which are individuals who share scientific information with the public. The purpose of this form is to gather information from users about science communicators who are doing an excellent job in their field. This form will be used to identify and acknowledge outstanding science communicators who deserve recognition. It's intended for internal use within the organization, and the data collected will help in identifying patterns and trends in science communication. The form is not meant to be a comprehensive survey, but rather a tool to gather anecdotal evidence to support recognition of science communicators.
-
-The form includes fields for collecting contact information, such as email and phone number, which will be used to contact the science communicators for further information. The fields for selecting options (Form 2, Select One Label, and Form 8) are intended to allow users to recommend science communicators based on their expertise and work. The date and time fields (Form 3 and Form 4) are not currently being used, but may be utilized in the future to capture additional information.
-
-This guide is intended to help users complete the form correctly and provide clear instructions on what each field represents.</thinking>
-
 # Science Communicator Recommendation Form - Help Guide
 
 ## Purpose

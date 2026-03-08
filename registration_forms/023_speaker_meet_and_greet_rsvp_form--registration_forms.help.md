@@ -1,7 +1,3 @@
-<thinking>
-The "speaker_meet_and_greet_rsvp_form" is used to collect responses for meet and greet events. The form is primarily aimed at RSVPing to the event, selecting guests, specifying accessibility needs, and making special requests. It is crucial that users complete this form accurately and truthfully, as it helps organizers ensure a smooth and enjoyable event experience for all attendees, including speakers. To avoid errors, please ensure that you complete the form only once for each event. If you have already completed the form for an event, please do not submit this form again. Please follow the instructions below to complete this form correctly.
-</thinking>
-
 # speaker_meet_and_greet_rsvp_form - Help Guide
 ## Purpose
 This form is used to RSVP to a meet and greet event, provide guest details, specify accessibility needs, and make any special requests.

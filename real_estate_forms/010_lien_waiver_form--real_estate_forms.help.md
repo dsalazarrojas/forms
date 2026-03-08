@@ -1,5 +1,3 @@
-<thinking>Since the provided YAML is a form structure, the first step is to understand the form's purpose and relevance. The form is likely related to real estate transactions, specifically lien waivers. A lien waiver is a document that releases a lien on a property, typically used in construction projects. This form will help users complete a lien waiver for their real estate transactions. Before creating the help guide, let's review the form fields and their possible relevance:</thinking>
-
 # Lien Waiver Form - Help Guide
 ## Purpose
 The Lien Waiver Form is used to create a document that releases a lien on a property, typically used in construction projects. This form is necessary to ensure that all relevant parties involved in the project, including contractors and homeowners, provide accurate information and agree to the terms of the lien waiver.

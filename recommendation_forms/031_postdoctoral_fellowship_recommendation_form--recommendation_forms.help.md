@@ -1,11 +1,3 @@
-<thinking>
-
-To avoid duplication and ensure that recommendations are up to date, this form is meant to be completed by the recommender (e.g. supervisor, colleague, or mentor) when they are in the strongest position to evaluate the candidate. This form helps gather essential information about the candidate's qualifications, achievements, and fit for a postdoctoral fellowship, which will be used by the evaluation committee to make informed decisions.
-
-Before submitting this form, please ensure that you are aware of the candidate's qualifications, skills, and fit for the fellowship. This form should only be completed for candidates you have had the opportunity to evaluate and recommend.
-
-</thinking>
-
 # Postdoctoral Fellowship Recommendation Form - Help Guide
 ## Purpose
 

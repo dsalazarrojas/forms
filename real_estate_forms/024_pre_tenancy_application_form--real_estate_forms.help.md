@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Pre Tenancy Application Form is to collect information from prospective tenants who are applying to rent a property. This form helps us understand their preferences, history, and contact information in order to process their application. Please note that the form may be duplicated by different users, but it is designed to be a single form for all types of rental properties. This form should only be filled out by individuals who are serious about renting a property and not used for speculative purposes.
-</thinking>
-
 # Pre Tenancy Application Form - Help Guide
 
 ## Purpose

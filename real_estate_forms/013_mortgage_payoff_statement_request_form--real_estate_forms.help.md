@@ -1,9 +1,3 @@
-<thinking>
-
-The form is used to request a mortgage payoff statement for a given account. The purpose of this form is to gather information from the customer to facilitate the request process. This form should only be used for customers who are requesting a payoff statement. 
-
-</thinking>
-
 # Mortgage Payoff Statement Request Form - Help Guide
 ## Purpose
 The Mortgage Payoff Statement Request Form is used to gather information from customers to facilitate the request process for a mortgage payoff statement.

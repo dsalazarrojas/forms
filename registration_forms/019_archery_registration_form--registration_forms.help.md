@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Archery Registration Form - Help Guide
 ## Purpose
 The Archery Registration Form is used to collect personal and archery-related information from individuals interested in joining the archery club. This form helps us understand your background, experience, and preferences to provide you with the best possible experience within the club.

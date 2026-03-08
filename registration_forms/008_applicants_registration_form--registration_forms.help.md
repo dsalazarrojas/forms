@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect registration information from applicants. It's a crucial step for us to get to know the applicant's details to process their application smoothly and provide the best possible support for them. 
-
-Please note that we will check for duplicate registrations. If you've already registered, you will not be able to submit this form again.
-
-</thinking>
-
 # Applicants Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect the necessary information from applicants for the registration process. Please fill out the form accurately and completely to ensure a smooth registration experience.

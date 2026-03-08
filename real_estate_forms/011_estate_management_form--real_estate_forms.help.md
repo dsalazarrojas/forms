@@ -1,7 +1,3 @@
-<thinking>
-The form "estate-management-form" is part of the "real_estate_forms" category and is used for estate management purposes. This form appears to be designed for collecting information about a specific property, including its address, owner, type, status, and additional details such as contact information and maintenance requests. The form is likely used by estate management professionals to gather information and track progress. To avoid duplication, we will ensure that this guide is concise and practical, covering the essential details for end-users.
-</thinking>
-
 # estate-management-form - Help Guide
 ## Purpose
 The estate-management-form is a tool for estate management professionals to gather information and track progress on a specific property.

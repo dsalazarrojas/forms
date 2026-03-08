@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users registering as Insurance Claims Adjusters or Trainers for training programs. This form will gather essential data such as last name, workshop name, email address, company name, role, and phone number to process user registration and facilitate communication. To avoid duplication and ensure accuracy, users should only submit this form once with complete and accurate information.
-</thinking>
-
 # Insurance Claims Adjuster Training Registration - Help Guide
 ## Purpose
 The Insurance Claims Adjuster Training Registration form is designed to collect information from users registering for training programs as Insurance Claims Adjusters or Trainers. This form helps us process your registration and facilitates communication with our team.

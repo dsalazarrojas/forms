@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form "Vocational School Enrollment Form" is designed to collect information from students enrolling in a vocational program at the school. The form will help us understand the details of each student's enrollment, including their program name, personal contact information, and other relevant data. To ensure data quality, please fill out this form accurately and comprehensively.
-</thinking>
-
 # Vocational School Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect information from students enrolling in our vocational programs. Please fill it out carefully to ensure accurate data.

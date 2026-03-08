@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to validate form purpose and prevent duplication ...
-
-This form is intended for collecting information related to viewing a property, such as a viewing schedule, additional details about the property, and any extra information that the user wants to provide. It's possible that this form is part of a larger property management or real estate platform, where users can schedule viewings for properties and provide feedback or additional details.
-
-To ensure that this form is being used correctly, I will validate that the user is not completing this form for the same property multiple times, or that they are not attempting to schedule a viewing for a property that is not available or has not been listed for viewing. However, this validation would require additional context and integration with a database or external system, which is not provided in this YAML file.
-
-</thinking>
-
 # Viewing Booking Form - Help Guide
 ## Purpose
 

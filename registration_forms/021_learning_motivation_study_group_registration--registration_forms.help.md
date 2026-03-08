@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register a new study group for the purpose of learning motivation. The form is divided into multiple pages, each with a specific set of fields. To complete the form, start by selecting the group type (yes or no) on page 1. If you select "yes," you will be able to provide additional information about the group.
-</thinking>
-
 # learning_motivation_study_group_registration - Help Guide
 ## Purpose
 The learning motivation study group registration form is used to create a new study group for learning motivation purposes.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive Real Estate Purchase Form, designed to gather information from the submitter, the buyer, and the real estate agent. It includes fields for various aspects of a real estate transaction, such as submitter information, contact details, contract of sale, purchase details, ownership information, property details, cost disclosure, agreements, and signatures.
-
-After reviewing the form, I noticed that some fields are not strictly required, but they are all relevant to the real estate purchase process. This form seems to be designed to guide the submitter through the process, ensuring that all necessary information is collected and all parties involved are informed and consenting to the terms.
-
-The form is divided into sections that correspond to different stages of the real estate purchase process. Each section has a clear label and a brief description that should help the submitter understand what information is required.
-
-</thinking>
-
 # Real Estate Purchase Form - Help Guide
 ## Purpose
 This guide explains the Real Estate Purchase Form, a comprehensive form designed to collect information from the submitter, buyer, and real estate agent during a real estate transaction.

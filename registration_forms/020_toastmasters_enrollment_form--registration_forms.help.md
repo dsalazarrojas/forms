@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the enrollment of Toastmasters events. The purpose of the form is to collect user information, event details, and club information for Toastmasters events. This form should not be used for events that are not associated with Toastmasters. To ensure that the form is used correctly, please review the fields and instructions below.
-</thinking>
-
 # Toastmasters Enrollment Form - Help Guide
 ## Purpose
 This form is used to register and enroll for Toastmasters events.

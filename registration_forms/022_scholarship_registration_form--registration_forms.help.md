@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be a generic scholarship registration form, collecting user information, contact details, education background, scholarship specifics, and uploaded documents for review purposes. The form is designed to be filled out by individuals interested in applying for scholarships, providing them with a platform to submit their application and supporting materials. It ensures that users understand the form is not affiliated with or endorsed by any form platform. The form's content is created using public survey metadata, ensuring it stays original and free from copyrighted content.
-</thinking>
 # Scholarship Registration Form - Help Guide
 ## Purpose
 This form is intended for individuals to register for scholarships. It gathers essential information about the user, their contact details, educational background, scholarship specifics, and uploaded documents.

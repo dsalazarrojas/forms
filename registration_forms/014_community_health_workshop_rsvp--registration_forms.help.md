@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who want to register for a Community Health Workshop. The purpose of this form is to collect essential details such as the workshop title, date, attendee's name and email, attendance status, and any special needs or requirements. This form also aims to ensure that the workshop organizers have an accurate headcount and can provide necessary accommodations for attendees.
-
-The form is divided into several fields, each of which requires specific information to be filled out accurately. This guide will walk you through each field and what to expect from it.
-
-</thinking>
-
 # Community Health Workshop RSVP - Help Guide
 ## Purpose
 

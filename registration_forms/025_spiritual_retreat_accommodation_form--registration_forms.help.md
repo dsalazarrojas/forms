@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that the form is only used for registering participants in a spiritual retreat. This form should not be used for other purposes. Before filling out this form, make sure you have not already registered for the same retreat. If you have any special requests, please include them in the "special-request" field. This form is used to gather information about each participant, including their name, contact details, and arrival time. Each field is designed to collect specific information to ensure a smooth and enjoyable experience for all participants.
-</thinking>
-
 # spiritual-retreat-accommodation-form - Help Guide
 ## Purpose
 This form is used to register participants for a spiritual retreat. Please use it only for this purpose and ensure you have not already registered for the same retreat.

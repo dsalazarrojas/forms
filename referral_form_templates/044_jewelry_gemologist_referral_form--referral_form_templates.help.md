@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose and Duplication Check:**
-This form is used to capture referral information for gemologists. It is meant to gather details about referrals to other gemologists. To ensure that referrals are being correctly recorded and followed up on, it is essential that all required fields are filled out accurately. Please ensure that this form is not used for duplicate or unnecessary referrals.
-</thinking>
-
 # Jewelry Gemologist Referral Form - Help Guide
 ## Purpose
 This form is used to capture referral information for gemologists. It gathers details about referrals to other gemologists.

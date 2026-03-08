@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering new practitioners in the database. The purpose of this form is to collect essential information about the practitioner, including clinic details, practitioner details, and proof of identity documents. It is crucial to ensure that the information entered is accurate and complete to avoid duplication of records. The form must be filled out carefully to prevent non-duplication of records. Please review each field carefully before submitting the form.
-</thinking>
-
 # practitioner_database_registration - Help Guide
 ## Purpose
 This form is used for registering new practitioners in the database, ensuring accurate and complete information is entered to avoid duplication of records.

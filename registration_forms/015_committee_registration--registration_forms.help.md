@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals interested in joining a committee, which is a group of individuals responsible for overseeing and guiding various aspects of an organization. This form serves as the first step in the committee registration process and aims to collect relevant details from applicants to facilitate a smooth and efficient evaluation process.
-
-To prevent duplication of efforts, it is essential to ensure that each submission is unique and not a copy of an existing application. To address this, the form will be reviewed for completeness and accuracy before proceeding with further evaluation.
-
-The form has been designed to collect comprehensive information, including personal details, committee interest, qualifications, and availability. The following guide will walk you through each section of the form to help you navigate the process effectively.
-
-Please note that the form will be reviewed for accuracy, completeness, and uniqueness to ensure a fair and efficient evaluation process.
-
-</thinking>
-
 # Committee Registration - Help Guide
 ## Purpose
 

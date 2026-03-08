@@ -1,9 +1,3 @@
-<thinking>
-The goal of this form is to collect information from students who are interested in enrolling in an educational program. This form will be used to gather details such as the student's name, school name, contact email, date of birth, program type, student grade, and program dates (start and end).
-
-To ensure that only relevant and accurate data is collected, the form will be used for students who are not already registered in the system. If a student is already registered, they will not be able to access this form and will be directed to their profile page instead.
-</thinking>
-
 # educational-program-registration-form - Help Guide
 ## Purpose
 The educational program registration form is used to collect information from students who are interested in enrolling in an educational program.

@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to gauge user interest in enrolling in various courses. The form will be used to collect demographic information and preferences from users who express interest in taking a course. This form is the first step in the enrollment process, and users who complete it will be contacted to discuss further details.
-
-To complete the form, follow these steps:
-
-1.  Click on the "Submit" button located at the bottom of each page to move on to the next page.
-2.  Fill out the required fields, marked with an asterisk (\*). These fields are crucial for processing your application.
-3.  Enter your responses in the designated text areas.
-
-</thinking>
-
 # Course Enrollment Interest Form - Help Guide
 ## Purpose
 The Course Enrollment Interest Form is designed to collect information from users interested in enrolling in various courses. This information will help us understand your preferences and demographics, and we will use it to contact you to discuss further details.

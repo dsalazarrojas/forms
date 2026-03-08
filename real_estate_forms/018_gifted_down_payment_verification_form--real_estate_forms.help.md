@@ -1,9 +1,3 @@
-<thinking>
-The form is used to verify the gifted down payment on a property. This form is required to gather information about the down payment details, funds source, property address, amount, date of transfer, transferor name, transferor address, proof of funds, and agreement document. This form ensures that the gifted down payment is properly recorded and verified in the system.
-This form should only be completed by individuals or entities that are actually gifted down payments, and should not be filled out by anyone else.
-The form should not be used for any other purpose other than the verification of gifted down payments.
-</thinking>
-
 # Gifted Down Payment Verification Form - Help Guide
 ## Purpose
 The Gifted Down Payment Verification Form is a form used to verify the gifted down payment on a property.

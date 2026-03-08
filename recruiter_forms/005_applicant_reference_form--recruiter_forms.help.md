@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who have a professional relationship with the applicant, such as supervisors, colleagues, or mentors. The purpose of this form is to provide a comprehensive evaluation of the applicant's skills, abilities, and character. The form will be used to assess the applicant's strengths and weaknesses, technical skills, communication skills, teamwork, leadership abilities, and work ethic. The form will also help to determine whether the applicant would be a good fit for the organization and whether the recommender would rehire or work with the applicant again. By filling out this form, you will be providing valuable feedback that will help the applicant and our organization make informed decisions about their potential for employment or further development. Please ensure that you are filling out this form for a legitimate reason, and not as a requirement for someone who you are not familiar with or have not worked with. If you are unsure or have any questions, please contact us.</thinking>
-
 # Applicant Reference Form - Help Guide
 ## Purpose
 This form is used to collect professional references from individuals who have worked with or supervised the applicant. The form is designed to assess the applicant's skills, abilities, and character.

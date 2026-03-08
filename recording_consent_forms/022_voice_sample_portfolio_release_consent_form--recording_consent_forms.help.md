@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Voice Sample Portfolio Release Consent Form - Help Guide
 
 ## Purpose

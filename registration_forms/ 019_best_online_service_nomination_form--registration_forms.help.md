@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect information from users who wish to nominate an online service for recognition and consideration. This form will help us identify the best online services in the industry, and the users' input will be used to evaluate and award these services. It's essential that users provide accurate and relevant information to ensure that we can effectively assess the services they nominate. Please ensure that you complete this form only once for each service you wish to nominate, and refrain from submitting duplicate nominations.
-</thinking>
-
 # Best Online Service Nomination Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who wish to nominate online services for recognition and consideration. The purpose of this form is to gather relevant details about the service, including personal information, service details, and contact preferences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for users to sign up for an exam, providing a way to store exam-related information such as name, exam selection, date, and time. The form will be used for internal purposes only and is not intended for public access. Please ensure you are eligible to access and use this form before submitting your information. Duplicate submissions will be rejected.</thinking>
 
 # Exam Sign Up Form - Help Guide

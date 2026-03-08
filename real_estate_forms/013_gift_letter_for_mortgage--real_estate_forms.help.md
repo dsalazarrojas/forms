@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: A Gift Letter For Mortgage is a document that allows a donor to provide a mortgage lender with information about a property being gifted. This form is used to help facilitate the gifting process and provide clarity on the ownership and transfer of the property.
-</thinking>
-
 # Gift Letter For Mortgage - Help Guide
 ## Purpose
 A Gift Letter For Mortgage is used by donors to provide mortgage lenders with information about a property being gifted. This helps the lender understand the property's ownership and transfer history, which is essential for mortgage underwriting and compliance purposes.

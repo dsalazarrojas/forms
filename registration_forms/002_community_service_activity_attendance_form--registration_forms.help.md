@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is for participants to provide information about their involvement in community service activities, such as the title of the activity, date and time of participation, hours completed, and details about the tasks performed. The form is designed for both returning volunteers and new volunteers who want to log their community service hours. It's essential that participants enter accurate information to ensure they receive proper credit for their volunteer work and to maintain the organization's records. 
-
-This form should only be filled out by individuals who have actually participated in a community service activity, and it's recommended to fill it out as soon as possible after the event to ensure accuracy. If you're unsure about any of the questions, please contact the relevant organization or person in charge of community service activities.
-
-This form is used to collect information about community service activities and is part of the organization's record-keeping process. Please ensure that all required fields are completed accurately to avoid any delays in processing your information.
-
-Before filling out this form, make sure you have the necessary information ready, such as the title of the activity, date and time of participation, and hours completed. If you're a student, you may also need to provide the name of your school.
-
-If you have any questions or concerns about this form, please don't hesitate to reach out to the relevant organization or person in charge of community service activities.
-</thinking>
-
 # Community Service Activity Attendance Form - Help Guide
 ## Purpose
 This form is designed to collect information about your participation in community service activities. It's essential to fill out this form accurately to receive proper credit for your volunteer work and to help the organization maintain accurate records.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information for the partial distribution of a real estate estate, which involves the distribution of a portion of the estate's assets to one or more beneficiaries. This form ensures that the executor of the estate has a clear understanding of the distribution plan and the relevant details regarding the assets. It's essential to fill out this form accurately to avoid any errors or disputes during the distribution process.
-</thinking>
-
 # Partial Distribution Of Estate Form - Help Guide
 ## Purpose
 This form is used to document the partial distribution of a real estate estate, ensuring that the executor and beneficiaries have a clear understanding of the distribution plan and details regarding the assets.

@@ -1,8 +1,3 @@
-<thinking>
-# This form is designed to gather information from potential attendees of an educational technology bootcamp. It collects personal details, registration information, contact details, emergency contact information, payment details, and additional information required for the bootcamp. This form will help the organizers of the bootcamp to get a comprehensive understanding of who is interested in attending the bootcamp and their specific needs and requirements.
-The form is a text-based form with multiple pages, each with one or more text fields. This form is designed for users to input their information in a straightforward and hassle-free manner.
-</thinking>
-
 # Educational Technology Bootcamp Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential attendees of an educational technology bootcamp.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a registration form for election ballot delivery. It seems to be a collection of various fields related to the delivery of election ballots, such as voter information, ballot ID, and delivery status. The form likely serves as a record-keeping tool for election officials or administrators to track the status of ballot deliveries. The form's purpose is not entirely clear without more context, but it appears to be a crucial part of the election process. It's essential to ensure that the form is completed accurately and thoroughly to maintain the integrity of the electoral process. Before filling out this form, please verify that you have the necessary permissions and information to complete it correctly. Make sure to review the form carefully to avoid duplicating entries or entering incorrect information.
-</thinking>
-
 # Election Ballot Delivery Form - Help Guide
 ## Purpose
 This form is used to track the delivery of election ballots, including voter information, ballot status, and delivery details.

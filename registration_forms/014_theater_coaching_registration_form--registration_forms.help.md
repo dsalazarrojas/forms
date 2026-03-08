@@ -1,8 +1,3 @@
-<thinking>
-The form is designed for students and coaches to register for theater coaching sessions. The form will be used to collect information about the student, their emergency contact, and the details of the coaching session. This form is used internally to organize coaching sessions and provide necessary information to students and coaches.
-The form should be filled out once for each coaching session. Please note that the form will be used to contact the emergency contact if the student is late or absent from the session.
-</thinking>
-
 # Theater Coaching Registration Form - Help Guide
 ## Purpose
 The Theater Coaching Registration Form is used for students and coaches to register for theater coaching sessions. This form helps to collect information about the student, their emergency contact, and the details of the coaching session.

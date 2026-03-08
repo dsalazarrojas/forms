@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from social workers for membership registration. It is intended to be used by social workers who are interested in becoming members of the organization. The form is divided into several sections, each with its own set of fields. The form fields are designed to be easy to understand and fill out. Please note that this form is not intended to be a substitute for the actual membership application process, which may involve additional steps and reviews.
-</thinking>
-
 # Social Workers Membership Form - Help Guide
 ## Purpose
 The Social Workers Membership Form is designed to collect information from social workers who are interested in becoming members of the organization.

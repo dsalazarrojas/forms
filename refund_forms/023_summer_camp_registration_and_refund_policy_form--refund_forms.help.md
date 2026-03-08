@@ -1,7 +1,3 @@
-<thinking>
-The form "Summer Camp Registration And Refund Policy Form" is designed to provide a standardized and organized framework for managing summer camp registrations and refunds. This form is intended to be used by staff members to register and manage summer camp information, and to outline the refund policies in place for the camp. To the best of my knowledge, there are no other similar forms in the system, making this form a key resource for this specific use case. I'll create a help guide that explains the form's purpose, how to complete it, and each field's meaning.
-</thinking>
-
 # Summer Camp Registration And Refund Policy Form - Help Guide
 
 ## Purpose

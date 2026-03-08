@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact details and upload files for groups. This form is used to collect information that will be used for internal purposes, such as keeping in touch with group members or sending them notifications. Before filling out this form, please ensure that you have the necessary permissions and that you are not duplicating an existing record.
-</thinking>
-
 # group_list_upload_form - Help Guide
 ## Purpose
 The group_list_upload_form is a form used to collect contact details and upload files for groups.

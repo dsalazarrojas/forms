@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect visitor information for security, safety, and compliance reasons. It is a registration form for architects and visitors to provide their details, consent, and other necessary information before entering the premises. The purpose of this form is to ensure that visitors comply with the firm's policies and procedures, and to provide a record of their visit.
-</thinking>
-
 # Architect Visitor Registration Form - Help Guide
 ## Purpose
 This form is designed to collect visitor information for the security, safety, and compliance of the firm. By filling out this form, visitors will be able to register their visit and provide necessary details to the hosts.

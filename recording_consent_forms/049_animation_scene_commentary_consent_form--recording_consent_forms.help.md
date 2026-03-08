@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to obtain consent from participants in an animation project for the use of their commentary in various contexts, including behind-the-scenes materials, educational or training materials, and potential editing or manipulation of their recorded commentary by the studio. 
-
-Before filling this form, please ensure that you are aware of and agree to the terms of use, as described in each field, to ensure a smooth and respectful collaboration with the studio. It is essential to fill this form out accurately and completely to ensure that your rights and interests are protected.
-
-</thinking>
-
 # Animation Scene Commentary Consent Form - Help Guide
 ## Purpose
 This form is designed to collect consent from animation participants for the use of their commentary in various contexts. It includes fields that cover the participant's name, professional details, project information, recording medium, and permissions for use in different materials.

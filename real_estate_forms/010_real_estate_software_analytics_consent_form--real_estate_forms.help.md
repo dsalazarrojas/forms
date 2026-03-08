@@ -1,7 +1,3 @@
-<thinking>
-The form "Real Estate Software Analytics Consent Form" is likely used to collect information about a client's consent to the use of real estate software analytics. The form seems to be designed to collect various aspects of analytics-related consent, including data collection, storage, retention, and sharing. It may be used to inform clients about the analytics software's capabilities and limitations, and to obtain their agreement to its use. Before proceeding, we'll review this form to ensure we haven't created a similar form in the past, and that it aligns with our current data collection and analytics practices.
-</thinking>
-
 # Real Estate Software Analytics Consent Form - Help Guide
 ## Purpose
 The Real Estate Software Analytics Consent Form is used to collect information about a client's consent to the use of real estate software analytics. This form ensures that clients understand and agree to the collection, storage, and sharing of their data for analytics purposes.

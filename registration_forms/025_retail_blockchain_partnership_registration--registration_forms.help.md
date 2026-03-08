@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Blockchain Partnership Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users who are interested in forming a partnership with a retail business to explore opportunities related to blockchain technology. 

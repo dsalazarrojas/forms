@@ -1,9 +1,3 @@
-<thinking>
-This guide explains how to complete the "Training Request For Nursing Education" form to request training for nursing education. To ensure that this form serves its purpose, please note that it should only be used to request training for nursing education programs. This form is not intended for general requests or other purposes. To avoid duplication of work, do not use this form if you have already submitted a training request in the past or if you are not eligible for training. 
-
-To complete this form successfully, ensure that you provide accurate and valid information.
-</thinking>
-
 # Training Request For Nursing Education - Help Guide
 ## Purpose
 This form is designed to help nursing education providers gather information about your training request. It ensures that they receive the necessary details to prepare for your training sessions.

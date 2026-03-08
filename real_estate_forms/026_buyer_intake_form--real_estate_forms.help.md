@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose and requirements for this Buyer Intake Form, we should analyze the provided YAML fields. The form appears to be designed for potential homebuyers to provide information about their preferences and needs for buying a property. It covers various aspects such as contact details, desired location, budget, and specific features they are looking for in a property. The form also includes fields for additional notes and preferences, suggesting that it may be used to gather information for personalized recommendations or matching properties. The form has several required fields, indicating that the information is critical for the purpose of the form. However, there are some fields with optional or non-essential attributes, which may be used for secondary purposes such as filtering or categorizing the responses.
-</thinking>
-
 # Buyer Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential homebuyers about their preferences and needs for buying a property.

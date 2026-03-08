@@ -1,13 +1,3 @@
-<thinking>
-
-**Internal Note: This guide is intended for end users who will be filling out the Tutor Registration Form. It's essential to ensure that they understand the purpose and requirements of the form.**
-
-The Tutor Registration Form is used for collecting information about a new tutor. This form helps gather essential details to create or update a tutor's profile, including their contact details, availability, payment preferences, and emergency contact information.
-
-Before proceeding with the registration process, please review the following guidelines to ensure a smooth and accurate submission.
-
-</thinking>
-
 # Tutor Registration Form - Help Guide
 
 ## Purpose

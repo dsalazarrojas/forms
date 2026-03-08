@@ -1,8 +1,3 @@
-<thinking>
-...This form is designed to collect information from sellers regarding their offers on listings. It captures essential details such as seller name, listing id, offer amount, offer date/time, and other relevant contact information. This form is intended for internal use within the Sellin With CC system, and submitting this form will trigger relevant actions in the system, such as assigning tasks to CC agents or generating automatic emails. Please ensure that you have all necessary approvals before submitting this form. Duplicate submissions will not affect the offer submission process.
-
-</thinking>
-
 # Sellin With CC Offer Submission Form - Help Guide
 
 ## Purpose

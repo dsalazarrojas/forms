@@ -1,9 +1,3 @@
-<thinking>
-The form "property_move_in_information_for_the_buyer_form" is designed to collect information from a buyer regarding their contact details, property details, and agreement to terms. This form is typically used in real estate transactions to ensure the buyer's contact information is accurate and that they have agreed to the terms of the sale. The form's purpose is to streamline the process of collecting necessary information from the buyer, making it easier for the realtor and other stakeholders to communicate with them effectively. To confirm, this form is not intended to be a replacement for any other forms or documents, but rather a supplementary tool to gather specific details from the buyer. Please ensure to review and adjust this form according to your organization's specific needs and requirements.
-
-This help guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # property_move_in_information_for_the_buyer_form - Help Guide
 ## Purpose
 The "property_move_in_information_for_the_buyer_form" is a real estate form designed to collect contact information and other relevant details from a buyer. It's intended to ensure accurate communication and a smooth transaction process.

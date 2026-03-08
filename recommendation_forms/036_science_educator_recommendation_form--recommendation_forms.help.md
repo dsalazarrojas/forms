@@ -1,24 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a science educator recommendation, specifically for a candidate or employee within an organization. It is designed to gather relevant details about the educator, their position, and their relationship with the candidate, as well as a recommendation or endorsement from the reference. This form will likely be used by hiring managers or admissions committees to make informed decisions about candidates' qualifications.
-
-To ensure the form is completed accurately and effectively, please review each field carefully and fill it out accordingly. If you are unsure about any of the fields, please ask your internal team members for clarification or clarification from the candidate.
-
-Before completing the form, please note that some fields are optional, but others are required to ensure the submission is complete and can be processed accurately.
-
-Also, to avoid duplication and ensure that the recommendations are submitted accurately and in a timely manner, please check if a similar form has been filled out for the same candidate before submitting this one.
-
-Please make sure to provide the correct information and follow the required fields to ensure that the form is filled out correctly.
-
-When filling out the form, please make sure to follow these guidelines:
-
-* Please fill in the required fields.
-* For fields with options, select the most relevant option that best describes the information.
-* If the option does not fit the information, please use the "Other (please specify)" option and provide a brief description.
-* For fields that require a date, please use the standard date format (mm/dd/yyyy).
-* For the "Name of Signer" field, please sign with the correct name and title.
-
-</thinking>
-
 # Science Educator Recommendation Form - Help Guide
 ## Purpose
 This form is designed to collect recommendations from science educators who have had a close relationship with the candidate or employee.

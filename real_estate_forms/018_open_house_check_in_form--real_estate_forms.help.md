@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the fields provided. The "Open House Check In Form" likely serves as a registration or contact form for individuals visiting or interacting with a property. Considering the fields, it appears to collect basic contact information (first name, last name, email, and phone number), property-specific details (property address and number), and communication preferences (contact method and preferred contact method). This form might be used by the property management or administration team to track visitors, facilitate communication, and gather notes or feedback. This form does not appear to collect sensitive or complex data, making it suitable for general public use.
-</thinking>
-
 # Open House Check In Form - Help Guide
 ## Purpose
 The "Open House Check In Form" is a registration or contact form for individuals visiting or interacting with a property. It is used by the property management or administration team to track visitors, facilitate communication, and gather notes or feedback.

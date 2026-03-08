@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to assess an individual's leadership skills, social interaction, leadership development, and overall level of leadership, skills, and development. This form aims to provide a comprehensive evaluation of an individual's ability to lead, communicate, problem-solve, and resolve conflicts. This form is likely used in an organizational setting to evaluate leadership potential or to provide self-assessment for personal development.
-
-Before starting this survey, ensure that you have read and understood the context in which this form is being used. If you have any doubts or concerns, please reach out to the administrator for clarification.
-
-This guide is to be used as a reference when completing the form.
-
-</thinking>
-
 # Leadership Skills Survey - Help Guide
 ## Purpose
 This form is designed to assess an individual's leadership skills, social interaction, leadership development, and overall level of leadership, skills, and development.

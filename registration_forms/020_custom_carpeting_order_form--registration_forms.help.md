@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture user information for a custom carpet order. The purpose of this form is to gather details about the customer, their preferences, and the specifics of the order, as well as any special instructions or payment terms. To ensure that this form is completed correctly, please review the following guide.
-
-The form is divided into several pages, each with its own set of fields. To complete the form, start by filling out the fields on each page, following the instructions below.
-</thinking>
-
 # Custom Carpeting Order Form - Help Guide
 ## Purpose
 This form is used to capture user information for a custom carpet order, allowing our team to tailor a specific carpet to meet your needs.

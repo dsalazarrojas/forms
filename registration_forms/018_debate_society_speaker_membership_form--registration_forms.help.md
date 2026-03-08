@@ -1,7 +1,3 @@
-<thinking>
-To avoid confusion and ensure accurate registration, this form is designed to gather information from individuals interested in joining the Debate Society. It's essential to fill out the form correctly to ensure that we can verify your identity and communicate with you effectively. Please make sure to fill out the form only once, as duplicate submissions might lead to unnecessary processing and delays in your application. This form is meant to collect your personal and professional details to help us understand your interests, expertise, and availability for potential debates and events.
-</thinking>
-
 # Debate Society Speaker Membership Form - Help Guide
 ## Purpose
 

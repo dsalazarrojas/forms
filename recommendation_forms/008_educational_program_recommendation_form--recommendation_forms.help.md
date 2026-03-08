@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to help users provide recommendations for educational programs. The purpose of this form is to collect user-specific feedback and recommendations for a particular educational program. The form will be used by users to submit their recommendations for students, parents, or faculty members to be considered for program admission. The form is not designed for internal use within the institution, but rather for external users who wish to provide recommendations for a specific educational program.
-
-The form is not a requirement for program admission, but rather a supplementary tool to gather additional information from users. Users are not required to complete the form, but providing a recommendation can be beneficial for the user being recommended.
-
-There is no duplication of effort, as this form is meant to be a one-time submission. Users are not expected to provide multiple recommendations for the same program or user.
-
-</thinking>
-
 # educational_program_recommendation_form - Help Guide
 ## Purpose
 This form is designed to gather user-specific recommendations for educational programs. It is a supplementary tool to help users provide feedback and recommendations for students, parents, or faculty members.

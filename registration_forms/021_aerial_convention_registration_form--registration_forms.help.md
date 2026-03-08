@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals to register for the Aerial Convention, an event focused on aerial arts training and workshops. Registration is required for attendees, instructors, and exhibitors. This form helps gather necessary information for the convention organizers to plan and manage attendees' experiences. It's essential to ensure that the provided information is accurate to avoid miscommunication and potential issues during the event.
-</thinking>
-
 # Aerial Convention Registration Form - Help Guide
 ## Purpose
 The Aerial Convention Registration Form is used for attendees to provide their personal and workshop preference information for the convention. This information is necessary for the convention organizers to manage attendees' experiences and ensure a smooth event.

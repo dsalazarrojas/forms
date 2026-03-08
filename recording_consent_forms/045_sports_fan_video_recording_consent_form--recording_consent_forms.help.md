@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information about sports fans for video recording purposes. It gathers general info, contact information, personal details, and specific data about the recording method and location. The form is intended for sports enthusiasts who may be willing to be recorded for video content. It may be used for content creation, marketing, or other similar activities. The form's goal is to ensure that the fans are aware of and consent to being recorded, while also providing essential details for the recording process. This explanation is based on the provided YAML fields and is intended to guide end-users in using the form correctly.</thinking>
-
 # Sports Fan Video Recording Consent Form - Help Guide
 ## Purpose
 The Sports Fan Video Recording Consent Form is designed to collect information from sports fans who may be willing to be recorded for video content. This form is used to ensure that fans are aware of and consent to being recorded, while also gathering essential details for the recording process.

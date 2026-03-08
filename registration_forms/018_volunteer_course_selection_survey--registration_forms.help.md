@@ -1,23 +1,3 @@
-<thinking>
-This form is intended to help volunteers select a course they are interested in or available to participate in. The form is designed to gather essential information about the volunteer, including their basic contact information (name, email, phone number) and course preferences.
-
-The form is not meant to be completed by people who are not volunteers or who have already registered as volunteers.
-
-Each field in the form serves a specific purpose:
-
-- The first field, "Survey Form", is a text input field where the volunteer writes a brief description of their course selection.
-- "First name" and "Last name" fields are where volunteers can input their name.
-- The "Email" field is used to input the volunteer's email address.
-- The "Phone Number" field is used to input the volunteer's phone number.
-- The "Course ID" field is a select multiple option field where volunteers choose one or more course IDs they are interested in.
-- The "Course Preferences" field is another select multiple option field where volunteers choose their preferred courses.
-- The "Date" field is used to select a date.
-- The "Time" field is used to select a time.
-- The "Submit" field, not actually a submit button, seems to be just another text field with an unclear purpose. It might be intended to provide a summary or a final statement for the volunteer to input.
-
-It's best to check that the form is being filled out correctly. Double-check that each field is filled out as needed and that the email address and phone number fields do not have any errors.
-</thinking>
-
 # Volunteer Course Selection Survey - Help Guide
 ## Purpose
 The Volunteer Course Selection Survey is a form designed to help volunteers select courses they are interested in or available to participate in.

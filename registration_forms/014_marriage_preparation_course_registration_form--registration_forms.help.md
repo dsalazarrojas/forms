@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for couples to register for a marriage preparation course. Its purpose is to collect information about the couple's details, communication plans, conflict resolution plans, and other relevant aspects of their relationship. Before proceeding, please ensure that you are registering for the correct course and that you are eligible to participate. If you're unsure, contact the course administrators for assistance. This form is not intended for couples already in counseling or therapy.
-</thinking>
-
 # Marriage Preparation Course Registration Form - Help Guide
 ## Purpose
 This form is designed for couples to register for a marriage preparation course. It helps the course administrators to gather necessary information about the couple's details, relationship dynamics, and other relevant aspects of their relationship.

@@ -1,26 +1,3 @@
-<thinking>
-This form is designed to collect information about students, including demographic details, academic program, and student status. It appears to be used for administrative purposes, possibly for tracking student enrollment or registration. The form is likely used by students or their representatives to provide information about themselves, and it's possible that this form is used in conjunction with other forms or systems to manage student data.
-
-To confirm, I'll review the form's fields and their purposes. The fields include:
-
-* First name and last name for personal identification
-* Email and phone for contact information
-* Date of birth and time of birth for demographic details
-* Nationality for identifying the student's country of origin
-* Church affiliation for religious or cultural background
-* Academic program and level for educational details
-* Student number for unique identification within the institution
-* Student ID for identification within the institution
-* Academic program and level for educational details
-* Level and academic program for educational details
-* Program and academic level for educational details
-* Student status and student status English for general student information
-* Church English for language proficiency
-* Program English for language proficiency
-* Level English for language proficiency
-
-Please let me know if this is correct or if I need to clarify any of these points.</thinking>
-
 # nexus_registration_form_english_spanish - Help Guide
 ## Purpose
 The nexus registration form is used to collect information about students for administrative purposes. This form helps track student enrollment and registration details.

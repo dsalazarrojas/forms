@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to gather information about a job candidate, including their contact details, job details, and other relevant background information such as medical history, emergency contacts, and job status. The form is designed to be completed by a job applicant as part of the hiring process, and is used to facilitate communication and organization between the applicant and the hiring team.
-
-To ensure that the form is completed accurately and consistently, please note that:
-
-* All fields are optional, unless marked as required.
-* If a field is marked as "required", please ensure that the field is completed accurately and thoroughly.
-* If a field is marked as "optional", please provide as much information as possible, but feel free to leave blank if not applicable.
-* Please be as concise and clear as possible in your answers, and avoid unnecessary or excessive information.
-
-</thinking>
-
 # phone_screening_form - Help Guide
 ## Purpose
 This form is designed to gather information about a job candidate, including their contact details, job details, and other relevant background information.

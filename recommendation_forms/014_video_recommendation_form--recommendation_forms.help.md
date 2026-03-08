@@ -1,8 +1,3 @@
-<thinking>
-We are creating a form for users to recommend videos for some purpose (e.g., for inclusion in a video playlist). The form will be used to gather metadata about the video, such as title, description, tags, and other relevant details that can help in making a recommendation. To avoid redundancy, users should only fill out the form once per video, and make sure that the video is not already recommended by another user.
-
-</thinking>
-
 # Video Recommendation Form - Help Guide
 ## Purpose
 This form is designed to collect metadata about videos for recommendation purposes. Please fill out the form thoroughly and accurately to provide relevant information.

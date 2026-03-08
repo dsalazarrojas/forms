@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect referrals for events, which are an essential part of event planning. Referrals are valuable resources that help event planners get more visibility and attract a larger audience. This form helps event planners to collect information from potential attendees, such as their name, email, phone number, address, and any message they may have for the event. 
 
 It's essential to fill out this form correctly to ensure the event planner can follow up with the referred individuals. 

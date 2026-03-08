@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To provide a comprehensive guide for end-users filling out the Resident Application Form, let's first review the form's purpose and requirements to ensure everyone understands its significance and relevance. 
 
 This form is designed to collect essential information about a resident applying for housing or rental purposes. The purpose of this form is to gather accurate and detailed data to process the resident's application correctly and efficiently. Each field within the form has been carefully crafted to collect the required information to ensure a smooth and hassle-free application process.

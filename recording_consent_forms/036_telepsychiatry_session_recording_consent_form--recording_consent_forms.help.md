@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to capture the client's consent for recording of telepsychiatry sessions, which is a crucial aspect of maintaining confidentiality and transparency in mental health services. This form helps ensure that clients are aware of and agree to the recording of their sessions, and it also provides a clear understanding of the recording options they have. It's essential to complete this form accurately to establish a secure and trustworthy environment for clients.
-
-This form is not intended for internal use and should not be filled out by staff members. Clients are expected to fill out this form before each session, and it's crucial to review the options carefully before making a decision.
-
-To ensure consistency, please note that this form is designed to be filled out by clients, not staff members. 
-
-</thinking>
-
 # Telepsychiatry Session Recording Consent Form - Help Guide
 ## Purpose
 This form is used to capture the client's consent for recording of telepsychiatry sessions.

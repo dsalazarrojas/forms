@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # recruitment_agency_applicant_contact_form - Help Guide
 ## Purpose
 The recruitment agency applicant contact form is a form used to collect contact information from job applicants. This form is typically used by recruitment agencies to gather contact details from potential candidates for open positions.

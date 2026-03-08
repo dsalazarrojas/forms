@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to provide a clear and concise explanation of the Baptist Church Youth Registration Form to ensure end-users understand its purpose, how to complete it, and what each field means. The form is designed to collect essential information about the youth participant, including demographic details, contact information, and personal preferences. This guide will walk through the form page by page, explaining each field and its relevance.
-
-</thinking>
-
 # Baptist Church Youth Registration Form - Help Guide
 ## Purpose
 This guide will walk you through the Baptist Church Youth Registration Form. This form is used to collect essential information about the youth participant to provide accurate and safe services. Please answer each question honestly and accurately to help us better serve you and your family.

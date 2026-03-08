@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a Roommate Agreement Form Template designed for managing shared living spaces. The form likely aims to establish clear expectations and rules for co-occupancy, including details about roommates, utilities, rent, and lease duration. The fields seem to cover various aspects of roommate relationships, such as cleaning schedules, utility billing, and rental terms. This form might be used in a rental property context, where multiple individuals share a living space and need to agree on shared responsibilities and expectations.
-</thinking>
-
 # Roommate Agreement Form Template - Help Guide
 ## Purpose
 This Roommate Agreement Form Template is a document that helps you establish clear expectations and rules for shared living spaces. It's designed to manage co-occupancy by gathering information about roommates, utilities, rent, and lease duration.

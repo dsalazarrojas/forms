@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a simple and flexible inquiry form for users to request more information about office packages. 
-This form should only be used for this specific purpose, so there is no need to fill it out for other types of requests. 
-Please make sure that you're not submitting duplicate requests, as they won't be processed.
-</thinking>
-
 # Flexible Office Package Inquiry - Help Guide
 ## Purpose
 This form is for users to submit an inquiry about office packages. Please fill out the form to send a message to our team, and we'll get back to you with more information about the available options.

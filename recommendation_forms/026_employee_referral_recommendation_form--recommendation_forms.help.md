@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about employee referrals. Its purpose is to help the organization identify potential candidates for open positions and facilitate the hiring process.
-</thinking>
-
 # Employee Referral Recommendation Form - Help Guide
 ## Purpose
 The Employee Referral Recommendation Form is a tool for current employees to recommend colleagues who they believe would be a good fit for open positions within the company. This form helps to streamline the hiring process by providing managers with valuable insights from their team members.

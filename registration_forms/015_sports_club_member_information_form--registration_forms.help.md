@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who want to become a member of a sports club. This form is used to gather personal details, membership status, and contact information from potential club members. The form is split into several sections, each containing multiple fields that correspond to different aspects of a member's details. Before proceeding, please ensure that the form is not filled out by a duplicate or a non-existent member in the system.
-
-To fill out this form, first choose whether the individual is a member or not and proceed to fill out the relevant fields. The "Member Type" field determines what type of member information is required.
-</thinking>
-
 # Sports Club Member Information Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential members of a sports club, including their personal details, membership status, and contact information.

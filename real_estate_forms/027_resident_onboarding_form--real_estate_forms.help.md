@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect information from renters or potential renters about their move-in details, including personal contact information, lease terms, and emergency contact details. This guide will help users navigate the form and understand what each field means.
 
 # Page 1 - Help Guide

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from tenants who are experiencing hardships related to their tenancy. The purpose of this form is to determine the tenant's current financial situation, understand their financial status, and gather additional supporting documentation or information as needed. This form is used internally for decision-making purposes.
-
-To avoid confusion and ensure the form is completed correctly, please ensure you have the necessary information and documentation before starting to fill out the form. Please only submit the form once, as duplicates will not be accepted.
-
-Please also note that some fields may be optional, but all required fields must be completed in order for your submission to be considered valid.
-
-Please fill out this form carefully and completely, and be sure to attach any necessary supporting documentation or files as required.
-
-</thinking>
-
 # Tenant Hardship Questionnaire - Help Guide
 
 ## Purpose

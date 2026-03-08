@@ -1,6 +1,3 @@
-<thinking>... internal reasoning block ...
-... this form, "Home Loan Buyers Guide", is designed to provide a structured and organized approach for individuals seeking mortgage loans. It gathers information about potential home buyers and offers options for mortgage types, interest rates, and terms. To avoid duplication and ensure clarity, the form is split into sections that guide users through the process of selecting mortgage options, providing personal details, and specifying loan terms. The purpose of the form is to collect and present information in a clear and concise manner, making it easier for users to understand their mortgage options and requirements. The form is divided into several sections, each addressing a specific aspect of the mortgage process... </thinking>
-
 # Home Loan Buyers Guide - Help Guide
 ## Purpose
 The Home Loan Buyers Guide is a form designed to provide a structured approach to understanding mortgage options and requirements. It is divided into sections that gather information on loan options, personal details, and loan terms.

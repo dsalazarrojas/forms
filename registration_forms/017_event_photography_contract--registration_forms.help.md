@@ -1,22 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Event Photography Contract" form, I will first analyze the form's purpose and fields to ensure I understand the context and requirements. The form appears to be for managing contracts between clients and photographers for events such as weddings, parties, or events. The form includes fields for various types of information, including photographer and client details, event information, services offered, payment terms, and contract status.
-
-The fields seem to be focused on the following aspects:
-
-*   **Photographer information**: This field likely collects information about the photographer's status (client, freelance, or both).
-*   **Client information**: Similar to the photographer information field, this collects information about the client's status.
-*   **Event information**: This field might be used to categorize the type of event (wedding, event, or party).
-*   **Services**: This field allows the user to select multiple services offered by the photographer (portrait, event coverage, or both).
-*   **Payment Terms**: This field could be used to specify the payment terms, although it's currently set to a number type without options.
-*   **Start and End Dates**: These fields are likely used to set the contract's start and end dates.
-*   **Agreements**: There are two fields for agreements, one for the client and one for the photographer, which could be used to indicate agreement or disagreement with the contract terms.
-*   **Payment Terms Agreed**: This field is similar to the previous one, although it's unclear why it's included as it's not necessary with the existing payment terms field.
-*   **Contract Status**: This field is used to track the contract's status (active, inactive, or cancelled).
-
-Considering the form's structure and fields, it seems that the form is designed for event photographers to collaborate with clients and track the terms of their contracts. However, there might be some redundancy between fields, and the payment terms field is currently configured as a number type without any options, which doesn't seem to fit with the other fields.
-
-</thinking>
-
 # Event Photography Contract - Help Guide
 ## Purpose
 The Event Photography Contract form is for managing contracts between clients and photographers for various types of events such as weddings, parties, or events. It includes fields for gathering information about the photographer and client details, event type, services offered, payment terms, and contract status.

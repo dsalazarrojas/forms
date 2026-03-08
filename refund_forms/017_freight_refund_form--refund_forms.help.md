@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to request a refund for freight charges. To ensure that you are eligible for a refund, please review the terms and conditions of your original order. If you have already submitted a refund request, do not submit another one. A refund will be processed for the amount specified, and you will receive an email confirmation of the refund once it is processed.
-</thinking>
-
 # Freight Refund Form - Help Guide
 ## Purpose
 The Freight Refund Form is used to request a refund for freight charges associated with your order. This form helps our team process your refund request efficiently and effectively.

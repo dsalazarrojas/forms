@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will walk users through the commercial vehicle registration renewal form. The form is used for commercial vehicle registration renewal, and it's crucial to ensure the information is accurate and complete. To avoid any discrepancies, it's essential to review the form carefully and ensure it's completed for the correct vehicle.
 
 # Commercial Vehicle Registration Renewal Form - Help Guide

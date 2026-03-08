@@ -1,9 +1,3 @@
-<thinking>
-**This form is for employees to request a refund on overpaid wages. The purpose of this form is to ensure that the overpayment is properly processed and the necessary information is provided to facilitate the refund process.**
-
-Before filling out this form, please ensure that you have not already submitted a similar request or that it has not been resolved. If you are unsure whether your request has already been processed, contact your departmental manager for guidance.
-</thinking>
-
 # Overpayment Recovery Waiver Request - Help Guide
 
 ## Purpose

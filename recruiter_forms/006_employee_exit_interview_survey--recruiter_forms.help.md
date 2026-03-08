@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and insights from departing employees to gain a better understanding of their reasons for leaving the company, as well as their thoughts on the company's policies, culture, and overall work environment. This information is crucial for the HR department to identify areas for improvement and make data-driven decisions for future development and growth. By analyzing the data collected through this form, the company can make informed decisions to create a more positive and fulfilling work environment for future employees.
-
-Before filling out this form, please review the provided information and ensure that you're not submitting duplicate responses. Your input will be treated as confidential and will not be shared with anyone outside of the HR department.
-</thinking>
-
 # Employee Exit Interview Survey - Help Guide
 ## Purpose
 The Employee Exit Interview Survey is a collection of questions designed to gather feedback from departing employees to help us understand their reasons for leaving and their thoughts on company policies, culture, and work environment.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to capture information from an immigration officer and a legal advisor about an individual's immigration status. It's crucial that the form is completed correctly to ensure accurate and efficient processing of the immigration case. Before proceeding, please ensure that you have not already completed this form for this individual, as duplication of efforts may lead to unnecessary work and potential discrepancies in the case file.
-
-This form is intended for immigration officers and legal advisors to provide their professional recommendations and supporting documents for an individual's immigration case. It includes information about the officer's experience, position, and hours worked, as well as the legal advisor's years of experience and department. The form also captures the individual's hours of work and the agreed hours for both the officer and legal advisor.
-
-Please note that the officer and legal advisor sections have separate parts of the form, and each section should be completed accordingly.
-</thinking>
-
 # Immigration Officer Recommendation Form - Help Guide
 ## Purpose
 The Immigration Officer Recommendation Form is used to capture information from immigration officers and legal advisors about an individual's immigration status. This form is essential for accurate and efficient processing of the immigration case.

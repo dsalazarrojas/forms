@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended to capture participant consent and information necessary for the recording of an academic podcast for academic purposes. This form is designed to ensure that participants are aware of how their recording will be used and to gain their explicit consent before proceeding with the recording. The form is only for academic reflection, and it should only be filled out by participants who are willing to participate in such a recording.
 
 # Academic Reflection Podcast Consent Form - Help Guide

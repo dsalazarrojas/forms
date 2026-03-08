@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help recruiters provide feedback and recommendations on candidates, allowing them to share their opinions on a candidate's overall performance, communication style, collaboration skills, work style, work performance, communication quality, and collaboration quality. The form will help recruiters assess a candidate's strengths and weaknesses, providing valuable insights for future references. It is crucial that the information provided is accurate and complete, as it will influence the candidate's future opportunities and growth within the organization.
-</thinking>
-
 # Recruiter Recommendation Form - Help Guide
 ## Purpose
 The Recruiter Recommendation Form is a tool designed to collect feedback from recruiters on a candidate's performance, communication style, and collaboration skills. This form will help you provide a comprehensive assessment of the candidate's strengths and weaknesses, allowing for informed decisions and future growth opportunities.

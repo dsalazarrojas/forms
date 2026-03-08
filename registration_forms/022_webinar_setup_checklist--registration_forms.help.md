@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Webinar Setup Checklist - Help Guide
 
 ## Purpose

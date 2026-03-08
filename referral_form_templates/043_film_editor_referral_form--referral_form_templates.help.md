@@ -1,7 +1,3 @@
-<thinking>
-We will be using the Film Editor Referral Form to collect information about potential collaborators or partners for our film editing team. This form is meant to facilitate easy communication with individuals who can help us improve our editorial services. Please make sure to fill out this form only for valid and unique referrals, avoiding duplication of submissions. 
-</thinking>
-
 # Film Editor Referral Form - Help Guide
 ## Purpose
 This form is designed to collect referrals for potential collaborators or partners for our film editing team. We appreciate your help in identifying individuals who can assist us in improving our services.

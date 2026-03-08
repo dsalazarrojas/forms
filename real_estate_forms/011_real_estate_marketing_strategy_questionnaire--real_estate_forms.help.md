@@ -1,7 +1,3 @@
-<thinking>
-This form is a marketing strategy questionnaire designed to gather data on various aspects of real estate marketing. It inquires about the initial contact method, frequency, and effectiveness of marketing channels, as well as the familiarity and effectiveness of communication and marketing channels. Additionally, it asks about lead generation, conversion, nurturing, and customer relationships, with questions on familiarity and effectiveness of these processes. This form aims to gather detailed insights into real estate marketing strategies and their impact on sales and customer relationships.
-</thinking>
-
 # real_estate_marketing_strategy_questionnaire--real_estate_forms - Help Guide
 ## Purpose
 This form is designed to gather detailed insights into real estate marketing strategies and their impact on sales and customer relationships.

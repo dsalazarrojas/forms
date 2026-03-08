@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to document a real estate transaction, collecting relevant information from a buyer and the realtor involved. This form serves as a standardized template for recording the details of a sale, ensuring consistency and accuracy in the documentation process.
-
-Before proceeding, please ensure that you have filled out all required fields and reviewed your responses carefully before submitting the form. This guide is intended for your reference and will walk you through each field, ensuring you understand what information is being collected and why.
-
-</thinking>
-
 # real_estate_documentation_order_form - Help Guide
 ## Purpose
 The real_estate_documentation_order_form is a template for documenting the details of a real estate transaction, providing a comprehensive overview of the process and required fields.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for collecting information from landlords and tenants regarding property occupancy agreements. The purpose of this form is to gather data about the property, landlord, and tenant, including the property's name, address, type, and status, as well as the tenant's contact information, move-in and move-out dates, and rent details. This form likely serves as a template for managing and tracking property occupancy agreements, ensuring accuracy and consistency in recording crucial information. Ensure that there is no duplication of effort in creating this form. For instance, if the same form is already in use within the organization, this help guide should be reviewed and updated to avoid redundant information and potential confusion for users.
-
-</thinking>
-
 # Property Occupancy Agreement - Help Guide
 ## Purpose
 This form is for collecting information from landlords and tenants regarding property occupancy agreements.

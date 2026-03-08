@@ -1,11 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this form that explains its purpose, how to complete it, and what each field means. Let's make sure we don't duplicate any other help guides and that this one is concrete, concise, and practical.
-- The form is for processing refunds on gap insurance policies.
-- Users need to fill in information about themselves, their policy, and the refund details to process a refund.
-- The form asks for various pieces of information including user contact details, policy specifics, and refund-related details.
-- The form is likely to be used by policyholders who need to request a refund for their gap insurance policy.
-</thinking>
-
 # Gap Insurance Refund Form - Help Guide
 ## Purpose
 The Gap Insurance Refund Form is used to request a refund on a gap insurance policy. This form helps policyholders provide necessary information for the refund process.

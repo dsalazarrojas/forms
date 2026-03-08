@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect referrals from individuals who have attended a financial seminar, including information about the seminar itself and the person making the referral. This form is likely used to track and follow up with attendees after a seminar, ensuring that they have the necessary details to provide effective referrals. 
-The form is designed to gather both personal and seminar-specific information, allowing for a comprehensive understanding of the attendee's experience and the seminar's effectiveness. 
-Before submitting this form, please ensure that you have not previously submitted a referral for the same seminar. Duplicate submissions may lead to confusion and wasted resources.
-
-</thinking>
-
 # Financial Seminar Referral Form - Help Guide
 ## Purpose
 The Financial Seminar Referral Form is a tool used to collect referrals from individuals who have attended a financial seminar. This form helps track and follow up with attendees to ensure they have the necessary details to provide effective referrals.

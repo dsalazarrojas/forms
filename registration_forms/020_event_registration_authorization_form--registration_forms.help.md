@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from participants who are registering for an event. It is likely used by event organizers to collect data for event planning and management. To prevent duplication, users should ensure that they are not already registered for the same event before submitting this form.
-</thinking>
-
 # Event Registration Authorization Form - Help Guide
 ## Purpose
 This form is used to collect information from participants who are registering for an event. It is essential to fill out this form accurately and completely to ensure that your registration is processed correctly.

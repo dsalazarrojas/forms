@@ -1,7 +1,3 @@
-<thinking>
-A form to collect recommendations for kids learning apps, used by parents or guardians to provide input on an app's suitability for children, potentially influencing app developers and educators to create more suitable content. This form will help ensure that learning apps cater to the diverse needs of children, taking into account various factors like age, education level, and learning style. To avoid duplicate submissions, please ensure that you only fill out this form once for each app you wish to recommend or provide feedback on.
-</thinking>
-
 # Kids Learning App Recommendation Request - Help Guide
 ## Purpose
 

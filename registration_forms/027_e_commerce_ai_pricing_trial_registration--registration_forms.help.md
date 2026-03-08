@@ -1,8 +1,3 @@
-<thinking>
-The form "e_commerce_ai_pricing_trial_registration" appears to be a registration form for e-commerce businesses to collect information about their trial pricing and related details. Based on the provided YAML fields, it seems to collect information about the merchant, trial details, contact information, trial signups, merchant qualification, review, trial start date, and trial end date. I will create a user-facing help guide for this form.
-
-</thinking>
-
 # e_commerce_ai_pricing_trial_registration - Help Guide
 ## Purpose
 This form is designed for e-commerce businesses to register their trial pricing information. The form helps collect relevant details about the merchant, trial, and contact information to facilitate the registration process.

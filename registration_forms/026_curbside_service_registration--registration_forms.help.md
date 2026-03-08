@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect user information, service details, and other relevant data for curbside service registration. This form is intended for customers who want to request curbside service for their vehicles. The goal is to gather contact and service information to facilitate efficient and effective service delivery.
 
 ### curbside_service_registration - Help Guide

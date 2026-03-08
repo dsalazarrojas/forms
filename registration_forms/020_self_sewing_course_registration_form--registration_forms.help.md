@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to collect registration information for a self-sewing course. The form has multiple pages with various fields for students to input their details. The purpose of this form is to gather relevant information from students before they start the course. The form fields are designed to be self-explanatory, but if you're unsure about any field, please refer to this help guide for clarification.
-
-</thinking>
-
 # self_sewing_course_registration_form - Help Guide
 ## Purpose
 This form is used to collect registration information for a self-sewing course. Fill out the form with your details to register for the course.

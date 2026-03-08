@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, it's essential to confirm that the form is being submitted by a new registrant. The form will be used to register for the Academic Success Workshop Series, which is designed to enhance student academic performance. Each section of the form should be filled out carefully, and if any questions are unclear, the registrant should feel free to ask for clarification. To avoid errors, ensure that all required fields are completed, and if a registrant has any special requests, they should be noted in the 'accommodations_needed' field.
-</thinking>
-
 # Academic Success Workshop Series Registration - Help Guide
 ## Purpose
 The purpose of this form is to register for the Academic Success Workshop Series, a series of workshops designed to enhance student academic performance.

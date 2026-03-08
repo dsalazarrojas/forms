@@ -1,7 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for the Customer Success Registration Form to ensure end-users understand its purpose and how to complete it accurately. This guide will be user-facing, making it easy for them to navigate and fill out the form correctly. Our form is designed to collect valuable information about customers and their company details, which will help us better understand their needs and provide tailored support. It's essential to explain each field clearly, so users know what to expect and how to fill it out correctly.
-</thinking>
-
 # Customer Success Registration Form - Help Guide
 ## Purpose
 The Customer Success Registration Form is a tool used to collect important information about our customers and their company details. This form helps us understand your business needs and provide the best possible support and service.

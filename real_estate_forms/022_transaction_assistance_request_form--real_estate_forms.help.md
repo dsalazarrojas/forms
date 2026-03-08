@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Transaction Assistance Request Form" for real estate related transactions. 
-Before proceeding, ensure that the form is being used for a legitimate transaction assistance request and not for duplicate or unnecessary submissions. 
-If you've previously submitted a request, it's best to review your existing submissions before resubmitting. 
-Please take a moment to review the form carefully and ensure all fields are completed accurately. 
-</thinking>
-
 # Transaction Assistance Request Form - Help Guide
 ## Purpose
 The Transaction Assistance Request Form is designed to aid in the processing of real estate transactions. This form will guide you through the necessary steps and fields required to initiate a transaction.

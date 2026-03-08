@@ -1,7 +1,3 @@
-<thinking>
-This form is used for restaurant internship referrals. The purpose of this form is to collect information from individuals who have been referred for a potential internship position at a restaurant. The referral method, source, and any additional comments will also be collected. Reviewers will be able to add their name, position, phone number, and comments as part of the referral process.
-</thinking>
-
 # Restaurant Internship Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information about individuals who have been referred for a potential internship position at a restaurant. The form will help the review team evaluate the referred candidate and make informed decisions about their suitability for the internship.

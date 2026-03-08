@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from a tenant about their referral to a new tenant in the property management system. This form helps the property management team to get details about the existing tenant's contact information, move-in date, and rent-related preferences. It's a simple form that ensures the tenant's details are up-to-date and accurate for future communications and billing. Before filling out this form, please make sure you're not already a registered tenant in the system. If you're a registered tenant, please don't fill out this form. If you're unsure or have any questions, please contact the property management team for assistance.
-</thinking>
-
 # tenant_referral_form - Help Guide
 ## Purpose
 The tenant referral form collects information from a tenant about their referral to a new tenant in the property management system. This includes details like contact information, move-in date, and rent preferences to ensure accurate and up-to-date data in the system.

@@ -1,13 +1,3 @@
-<thinking>
-This is a form for requesting a refund for a delayed service. The purpose of this form is to gather information from the user about the delayed service and the reason for the delay. The form is designed to capture the user's input in a structured and organized way, ensuring that all necessary information is collected to process the refund request.
-
-To avoid duplication and ensure consistency, the form is divided into sections that correspond to different aspects of the refund request. The user will be able to upload attachments, such as PDFs, images, audio or video files, and documents, to support their request. The form also includes fields for the business's contact information, including their name, phone number, email, and address.
-
-The form is designed to be completed by the customer, and the user-facing fields are intended to be easy to understand and navigate. The form's fields are organized in a logical and clear way, making it easy for the customer to provide the necessary information.
-
-Before completing the form, please ensure that you have the necessary information and attachments ready. This will help ensure that your refund request is processed efficiently and effectively.
-</thinking>
-
 # Delayed Service Refund Form - Help Guide
 ## Purpose
 

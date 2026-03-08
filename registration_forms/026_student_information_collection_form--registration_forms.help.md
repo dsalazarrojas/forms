@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect student information in a school or educational setting. The purpose of this form is to gather data on students' identification, contact, and academic details. To ensure accurate and complete data collection, please follow these steps to fill out the form properly.
-</thinking>
-
 # Student Information Collection Form - Help Guide
 ## Purpose
 The Student Information Collection Form is designed to collect student data for administrative and academic purposes.

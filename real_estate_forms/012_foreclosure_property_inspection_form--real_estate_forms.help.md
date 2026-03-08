@@ -1,8 +1,3 @@
-<thinking>
-The goal of this form is to gather information about a foreclosure property for inspection and evaluation. This form will collect data on various aspects of the property, including its address, lender information, and various systems and features such as electrical, plumbing, heating, and fire safety. The purpose of this form is to provide a comprehensive overview of the property's condition and status. It is intended for real estate professionals and inspectors who need to evaluate and analyze properties in foreclosure.
-
-</thinking>
-
 # Foreclosure Property Inspection Form - Help Guide
 ## Purpose
 

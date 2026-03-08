@@ -1,5 +1,3 @@
-<thinking>As we design this form to gather feedback on chiropractic referral marketing software, our primary concern is to ensure that it effectively collects actionable and qualitative information from end-users about their software evaluation experience. This form aims to identify areas of improvement, key features, and pain points that need to be addressed to enhance the overall user experience. We will focus on evaluating the form's relevance and non-duplication to avoid unnecessary or redundant questions. By providing clear explanations for each field, we can help users understand the form's purpose and contribute valuable insights.</thinking>
-
 # Chiropractic Referral Marketing Software Evaluation Form - Help Guide
 ## Purpose
 The Chiropractic Referral Marketing Software Evaluation Form is designed to gather feedback from end-users on their experience with referral marketing software. This form helps identify areas of improvement, key features, and pain points to enhance the overall user experience.

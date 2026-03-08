@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "Panel Application Form" that will help end users understand its purpose, how to complete it, and what each field means. This form is designed to collect information from applicants for panels, and it's essential to ensure that users fill it out correctly to avoid any potential issues. To confirm, the form is used for panel applications, and it's crucial to verify that the information is accurate and complete before proceeding. We will review the form's fields to provide clear and concise explanations for each section.
-</thinking>
-
 # Panel Application Form - Help Guide
 ## Purpose
 The Panel Application Form is designed to collect information from applicants for panels. This form is used to ensure that all necessary details are provided to process the application correctly.

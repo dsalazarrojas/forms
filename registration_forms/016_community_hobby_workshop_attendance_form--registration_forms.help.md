@@ -1,7 +1,3 @@
-<thinking>
-We've included this form as a part of our system for tracking community workshop attendees. This guide will help you complete the form correctly and make the most out of it.
-</thinking>
-
 # Community Hobby Workshop Attendance Form - Help Guide
 ## Purpose
 This form is designed to record the attendance and participation details of workshop participants. Fill it out thoroughly to help us better understand your engagement and ensure a smooth experience for everyone.

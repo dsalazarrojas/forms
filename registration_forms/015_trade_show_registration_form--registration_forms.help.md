@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this trade show registration form is to gather essential details from visitors and attendees to track their participation in a trade show. This information will be used for various purposes, such as creating attendee lists, tracking registration numbers, and ensuring that attendees are accurately accounted for. Before proceeding, please note that you must have already checked with the event organizers to ensure that this form is relevant to your needs and that your registration details have been accurately captured. Also, be aware that some fields may be optional or require specific formatting, so ensure you fill them out correctly to avoid any issues.
-
-</thinking>
-
 # Trade Show Registration Form - Help Guide
 ## Purpose
 This form collects essential information from attendees to track their participation in a trade show. Please ensure that you have checked with the event organizers to confirm your registration details and that this form is relevant to your needs.

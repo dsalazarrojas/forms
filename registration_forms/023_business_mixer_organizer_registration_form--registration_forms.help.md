@@ -1,31 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from event organizers to help them register their business mixer events. This form is used to collect details such as event name, date, time, location, expected attendees, event type, target audience, registration fee, and other relevant information that will help the registration system manage and promote the event effectively. This form is intended for event organizers to fill out and submit their event details, ensuring accurate and complete information is collected for event promotion, planning, and execution.
-
-To confirm, I'll be using the following fields from the YAML schema:
-1. **organizer_name** (text)
-2. **organizer_email** (email)
-3. **organizer_phone** (text)
-4. **organization_name** (text)
-5. **event_name** (text)
-6. **event_date** (date)
-7. **event_start_time** (time)
-8. **event_end_time** (time)
-9. **event_location** (text)
-10. **expected_attendees** (number)
-11. **event_type** (select_one)
-12. **target_audience** (select_one)
-13. **registration_fee** (select_one)
-14. **catering_provided** (select_one)
-15. **alcohol_served** (select_one)
-16. **av_requirements** (select_multiple)
-17. **registration_deadline** (date)
-18. **special_requirements** (text)
-19. **marketing_channels** (select_multiple)
-20. **additional_notes** (text)
-
-</thinking>
-
 # Business Mixer Organizer Registration Form - Help Guide
 
 ## Purpose

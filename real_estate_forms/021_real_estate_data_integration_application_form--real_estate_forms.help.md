@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect real estate data for integration purposes, allowing users to provide information about properties, including property details, contact information, and agent details. This form is likely used by agents or brokers to submit data about properties they are representing, or by property managers to update property listings.
-
-To complete this form, follow these steps:
-
-1. Select the relevant property details, such as property type and status.
-2. Enter the property's address, including the street address and other relevant information.
-3. Provide contact information for the property's agent or representative.
-4. Enter the agent's contact information, including phone number and email.
-5. Enter any additional property details, such as size and year built.
-
-</thinking>
-
 # Real Estate Data Integration Application Form - Help Guide
 
 ## Purpose

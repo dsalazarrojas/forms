@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive help guide for the Kindergarten Checklist Form.</thinking>
-
 # Kindergarten Checklist Form - Help Guide
 
 ## Purpose

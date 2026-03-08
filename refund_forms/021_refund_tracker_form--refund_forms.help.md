@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that this form is used correctly and for its intended purpose. This form is for tracking refunds, and we should only use it for actual refund requests, not for other purposes like tracking non-refundable transactions or for general customer information. We should also avoid using this form multiple times for the same customer or refund request, as it can lead to duplicate records and confusion. Let's ensure that the form is filled out completely and accurately, and that the information is up-to-date and consistent across all instances of the form.
-</thinking>
-
 # Refund Tracker Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's social services needs and preferences. The form is intended to be used by social workers to gather data for referral and support purposes. It is crucial to ensure that the form is completed accurately and thoroughly to provide the best possible support for the client. Before filling out this form, please review the fields carefully and ensure that you are providing the most up-to-date and accurate information.
-</thinking>
-
 # Social Services Referral Form - Help Guide
 ## Purpose
 The Social Services Referral Form is designed to collect information about a client's social services needs and preferences. This form will be used to gather data for referral and support purposes.

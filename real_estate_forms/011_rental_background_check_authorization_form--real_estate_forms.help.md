@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rental_background_check_authorization_form - Help Guide
 
 ## Purpose

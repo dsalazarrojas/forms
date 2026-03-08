@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insurance Referral Verification Form - Help Guide
 
 ## Purpose

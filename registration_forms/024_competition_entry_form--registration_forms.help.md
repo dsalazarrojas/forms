@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the entrant's details, including name, contact information, competition category, and entry submission. The form ensures that the entrant provides accurate and complete information to the competition organizers, which is essential for the competition management process. This form will be used to verify the entrant's identity and ensure that they understand the competition rules, terms, and conditions.
-</thinking>
-
 # Competition Entry Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from the entrant for the competition management process. It includes fields for contact information, competition details, and entry submission. Please fill out the form accurately and thoroughly to ensure a smooth competition experience.

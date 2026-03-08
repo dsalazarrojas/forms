@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect information from employers who are seeking to place candidates for available job openings. The form will help us understand the job details and the employer's requirements. Please fill out this form carefully, providing accurate information about your company and the job you are trying to fill. If you have any questions or concerns, please don't hesitate to reach out to us.
-</thinking>
-
 # Employer Placement Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from employers who are seeking to place candidates for available job openings. The information collected will help us better understand the job details and requirements.

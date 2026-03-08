@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Earnest Money Release Request Form - Help Guide
 ## Purpose
 The Earnest Money Release Request Form is used to request the release of earnest money from a buyer or seller. This form is typically used in real estate transactions to confirm the release of funds held by the buyer or seller.

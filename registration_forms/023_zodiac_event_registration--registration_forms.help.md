@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Zodiac Event Registration - Help Guide
 ## Purpose
 This form is designed to register participants for a zodiac-themed event. The information collected will be used to create a database of participants and track their zodiac signs.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for tenants to request accommodations due to the COVID-19 pandemic. This form will help the housing administration to understand the tenant's needs and circumstances. To ensure accuracy, please review the form carefully and ensure that you are not submitting duplicate requests. If you have already submitted a request, please do not submit another one. The form will be reviewed and approved based on the information provided.
-</thinking>
-
 # tenant_request_for_accommodations_covid_19 - Help Guide
 ## Purpose
 This form is for tenants to request accommodations due to the COVID-19 pandemic. The purpose of this form is to help the housing administration understand the tenant's circumstances and needs.

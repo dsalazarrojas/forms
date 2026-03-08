@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to collect information about a virtual job fair event from employers. The form will be used to register employers for the virtual job fair, which will allow them to showcase their open positions and connect with potential candidates. The form fields are designed to collect relevant information about the event and job listings.
-
-To avoid duplicates, this form will only allow one registration per employer. If an employer has already registered for a virtual job fair, they will not be able to register again.
-
-Before starting the registration process, please review the form fields below and ensure that you have all the necessary information ready.
-
-The form will be used to collect information about the event and job listings, which will be used to create a virtual job fair platform for potential candidates.
-
-Please note that this form is for internal use only. All information collected will be used to facilitate the virtual job fair event.
-
-This form is designed for employers who want to participate in the virtual job fair event.
-
-Please ensure that all required fields are filled out accurately and completely.
-
-This form will only be reviewed once submitted.
-
-</thinking>
-
 # Virtual Job Fair Employer Registration - Help Guide
 ## Purpose
 

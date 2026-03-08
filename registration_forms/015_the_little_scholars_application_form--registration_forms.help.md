@@ -1,6 +1,3 @@
-<thinking>
-This is a help guide for the "The Little Scholars Application Form" which is used for registering new students in The Little Scholars institution. The purpose of this form is to collect essential information from students and their parents to facilitate the application process. It ensures that the required data is provided to avoid duplication. This form is designed to gather information about the applicant's personal details, contact information, and academic history. Please ensure that you are not submitting duplicate applications. If you are not a student, please do not proceed with this application.</thinking>
-
 # The Little Scholars Application Form - Help Guide
 ## Purpose
 The Little Scholars Application Form is designed for prospective students to provide necessary information for their application process. This form is a crucial step in getting admitted into The Little Scholars institution.

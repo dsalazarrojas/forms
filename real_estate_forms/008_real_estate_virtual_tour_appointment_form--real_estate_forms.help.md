@@ -1,8 +1,3 @@
-<thinking>
-This form is used to schedule a virtual tour for a potential client interested in a real estate property. The form is designed to collect relevant information from the client, including their name, email address, phone number, preferred tour date and time, and any additional notes about the appointment. The form will help real estate businesses streamline their scheduling process and ensure that clients are well-prepared for the virtual tour. This form is likely to be used by real estate agents or brokers to schedule virtual tours with their clients or potential clients.
-
-Before starting this form, make sure that you are not filling it out for yourself as a real estate business user. This form is meant for potential clients to provide their information for a virtual tour appointment.</thinking>
-
 # Real Estate Virtual Tour Appointment Form - Help Guide
 
 ## Purpose

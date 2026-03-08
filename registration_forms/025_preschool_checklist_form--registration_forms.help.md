@@ -1,13 +1,3 @@
-<thinking>
-This guide is for users who will be filling out the Preschool Checklist Form. The form's primary purpose is to gather necessary information from parents for a preschool student to be registered. This form should not be completed by teachers or other school staff. 
-
-Before beginning, ensure you have all necessary information, especially for fields like 'Student Information' and 'Teacher Information'. This is to prevent errors during the registration process. If you're unsure about any field, contact the administration or the form creator for clarification.
-
-This form will be used to determine if a student can be registered in the preschool. Completing the form accurately and truthfully will ensure a smooth and proper registration process. 
-
-Ensure to complete the required fields and fill out the optional fields as necessary.
-</thinking>
-
 # Preschool Checklist Form - Help Guide
 ## Purpose
 The Preschool Checklist Form is a registration form used to gather necessary information from parents for a preschool student.

@@ -1,22 +1,3 @@
-<thinking>
-This form is used for referring or reporting cybersecurity incidents or data breaches. The form will help the team to gather information from the user or submitter about the incident. To ensure that the form is filled out properly, it is essential to understand the purpose and relevance of each field. Please note that the form is not intended for general feedback or support requests. If you are unsure about the purpose or relevance of this form, please do not fill it out.
-
-Before proceeding, make sure that you have all the necessary information and that the form is filled out correctly. Please do not duplicate the form, as this may lead to unnecessary processing and potential delays in the resolution of the incident.
-
-To fill out this form, please make sure to follow these steps:
-
-1. Fill out all the required fields (marked as "required" in the form).
-2. Answer each question accurately and thoroughly.
-3. Use the available options and hints for guidance.
-
-The following is a field-by-field explanation of the form:
-
-## Purpose
-## How To Complete This Form
-## Field-by-Field Explanation
-
-</thinking>
-
 # Cybersecurity Data Recovery Referral Form - Help Guide
 ## Purpose
 This form is used for referring or reporting cybersecurity incidents or data breaches.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physical Therapy Referral Form - Help Guide
 
 ## Purpose

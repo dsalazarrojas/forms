@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a student's admission to a vocational training program. This form is used to gather essential details about the student, including their name, contact information, date of birth, and admission details. It's a straightforward form designed to facilitate the registration process for the vocational training program.
-
-Before proceeding, please ensure that you are not already registered in the system. If you are a returning student, you should not submit this form again, as it may lead to duplicate registrations.
-
-</thinking>
-
 # Vocational Training Admission Form - Help Guide
 ## Purpose
 This form is used to collect information for a student's admission to a vocational training program.

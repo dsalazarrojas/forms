@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture information about a new tenant lease agreement, which is a document that outlines the terms and conditions of a rental property. The form is intended for use by real estate professionals, such as landlords or property managers, to create and manage lease agreements. It includes fields for collecting information about the tenant's lease start and end dates, rent, lease term, move-in and move-out dates, unit type and size, and other relevant details. The form is a crucial part of the rental process and helps to ensure that both the landlord and tenant understand their roles and responsibilities.
-
-Checking for duplication or irrelevance would ideally be done by the system that is generating this guide, but for the sake of this exercise, we will assume that all fields are relevant and should be explained.
-
-</thinking>
-
 # new_tenant_leaserealtor - Help Guide
 ## Purpose
 This form is used to create and manage new tenant lease agreements for rental properties.

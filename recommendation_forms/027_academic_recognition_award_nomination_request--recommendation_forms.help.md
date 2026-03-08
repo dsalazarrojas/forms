@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Recognition Award Nomination Request - Help Guide
 ## Purpose
 This form is used for nominating a faculty member, staff, or student for an academic recognition award. It helps to identify and acknowledge outstanding individuals who have made significant contributions to the institution. The nomination process is used to recognize and reward those who have demonstrated exceptional service, leadership, or other qualities that have positively impacted the institution or community.

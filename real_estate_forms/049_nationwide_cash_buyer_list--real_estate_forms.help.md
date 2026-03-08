@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from a real estate agent or representative about their nationwide cash buyer list. The purpose of this form is to gather essential details such as user's name, email, phone number, address, and other relevant information that helps in creating a comprehensive list of potential cash buyers. It is crucial that the user fills out the form accurately and thoroughly to ensure that the information collected is correct and up-to-date.
-</thinking>
-
 # Nationwide Cash Buyer List - Help Guide
 ## Purpose
 The Nationwide Cash Buyer List form is used to collect information from real estate agents or representatives about their cash buyer lists. This information helps in maintaining a comprehensive and accurate list of potential cash buyers nationwide.

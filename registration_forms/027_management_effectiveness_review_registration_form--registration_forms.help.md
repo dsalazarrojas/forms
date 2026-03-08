@@ -1,8 +1,3 @@
-<thinking>
-This form is used to register a Management Effectiveness Review (MER) in the company's internal systems. It's essential that you only register one MER per session, as multiple registrations can lead to confusion and duplicate effort. Please ensure that you have not already registered a MER for this session before submitting this form.
-
-</thinking>
-
 # Management Effectiveness Review Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register a Management Effectiveness Review (MER) in the company's internal systems. This form is used to capture essential information about the review, including the leader's name, focus areas, and expectations.

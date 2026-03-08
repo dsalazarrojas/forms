@@ -1,21 +1,3 @@
-<thinking>
-To ensure this form is used correctly, we should confirm that it's being used for recording consent related to veterinary continuing education, and not for other purposes, to avoid duplication or misinterpretation of data.
-We need to make sure that all necessary fields are filled in and that the participant is aware of what they're signing up for.
-Let's review the form's fields to understand their purpose and usage.
-The 'Recording Consent' page might be used to get participants' consent for recording continuing education sessions, which helps us understand their comfort with being recorded.
-The 'Participant Name' field is where the participant can input their name.
-The 'Email' field is used for communication purposes.
-The 'Phone' field is used for contact purposes.
-The 'Consent Date' field is used to note when the participant gave their consent.
-The 'Electronic Signature' field is used to capture the participant's digital signature.
-The 'Organization' field is for participants' affiliated organizations.
-The 'Role' field is for specifying their role in the session, which could be an 'Educator', 'Speaker', or 'Attendee'.
-The 'Department' field is for specifying their department in the organization.
-The 'Location' field is for specifying the location of the session.
-The 'Contact Number' field is for specifying their contact number.
-The 'Other Contact Info' field is for any other contact information.
-</thinking>
-
 # veterinary_continuing_education_recording_consent - Help Guide
 ## Purpose
 This form is used to record participants' consent for continuing education sessions, ensuring they are aware and agreeable to being recorded.

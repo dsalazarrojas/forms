@@ -1,21 +1,3 @@
-<thinking>
-This form seems to be a general school registration information form that can be used to collect basic information about a student and their parent. It likely serves as an administrative task for schools or educational institutions to gather data for various purposes such as record-keeping, reporting, or follow-up communication. This form does not appear to be a payment or sensitive data form, which makes it relatively safe for end-users to fill out.
-
-The form is divided into multiple pages with the following fields:
-- Student Name (text)
-- School Year (number)
-- Student E-mail (email)
-- Parent Contact Name (text)
-- Parent E-mail (email)
-- Student Grade Level (select_one with options 1-5)
-- Student DOB (date)
-- Parent Phone (text)
-
-It is likely that this form is intended to be completed by students themselves or their guardians, and it might be part of a larger administrative process.
-
-The form fields seem to be mostly optional, but some fields like Student Name and Parent E-mail appear to be required, indicating that they are essential for the form's purpose.
-</thinking>
-
 # School Registration Information Form - Help Guide
 ## Purpose
 This form is a general school registration information form designed to collect basic data about students and their parents for administrative purposes.

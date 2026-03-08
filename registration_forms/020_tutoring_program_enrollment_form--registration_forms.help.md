@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from students who wish to enroll in the tutoring program. The form is designed to collect demographic and program-related data from the student, including their personal details, contact information, and program preferences. This form should not be filled out by anyone who is not a student, as the information collected is specific to student enrollment. Please ensure that you are a student before filling out this form.
-</thinking>
-
 # Tutoring Program Enrollment Form - Help Guide
 ## Purpose
 The Tutoring Program Enrollment Form is a document that helps us understand your needs and preferences as a student. It will be used to determine which programs you are eligible for and to provide you with the best support possible.

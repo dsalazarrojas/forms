@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for players to register for tryouts or leagues in the context of sports or athletic activities. The form is designed to collect player information, including contact details, emergency contact information, medical history, and registration preferences. This form is not affiliated with any specific platform or organization, and its purpose is to provide a general template for players to submit their information.
-
-To avoid duplication of forms for similar purposes, it's essential to review the available forms and their descriptions before creating a new form.
-
-The following form is a public adaptation, created using AI and released under CC BY 4.0. This means it is free to use, modify, and share, provided credit is given.
-
-Given the provided YAML, this form has 8 fields across 7 pages, with some fields marked as required while others are optional.
-
-</thinking>
-
 # upsl_open_tryouts_form - Help Guide
 ## Purpose
 

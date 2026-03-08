@@ -1,7 +1,3 @@
-<thinking> 
-The Physiology Referral Form is a tool used to document and manage referrals to various medical specialists, hospitals, or departments within a healthcare organization. This form is designed to capture essential patient information, referral details, and related documentation for smooth and efficient communication between clinicians. The form is crucial for ensuring that all necessary information is collected and shared correctly, reducing potential errors and facilitating timely referrals.
-</thinking>
-
 # Physiology Referral Form - Help Guide
 ## Purpose
 The Physiology Referral Form is a comprehensive tool for documenting patient referrals to medical specialists, hospitals, or departments within a healthcare organization. It helps capture crucial information for efficient communication among clinicians and ensures that referrals are processed correctly.

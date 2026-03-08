@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll ensure that the help guide for the HOA Application Form is clear, concise, and practical. Before I proceed with the guide, I'll briefly justify the form's purpose and verify that it's not a duplication of effort. Let's assume the form is intended to gather information from homeowners or property managers for Homeowners Association (HOA) applications, and it's a crucial process for managing properties. I'll check for any similarities or overlap with existing forms and ensure this guide doesn't duplicate any effort or cause confusion. Given the provided YAML fields, the form appears to gather essential details such as homeowner information, contact details, payment methods, and property specifics.</thinking>
-
 # HOA Application Form - Help Guide
 ## Purpose
 

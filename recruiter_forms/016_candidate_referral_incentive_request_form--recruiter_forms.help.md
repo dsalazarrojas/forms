@@ -1,5 +1,3 @@
-<thinking>Before filling out this form, please ensure that you are a current employee of the company and that you have not already submitted a referral for this candidate. This form is used to request a referral bonus for referring a candidate to our open positions. The form is divided into sections that will help us understand the candidate's qualifications, your relationship to them, and the type of incentive you are claiming. Each section has a label and a description to guide you through the process.</thinking>
-
 # Candidate Referral Incentive Request Form - Help Guide
 ## Purpose
 This form is for current employees to refer candidates for open positions within the company. By filling out this form, you can help us identify potentially qualified candidates and provide incentives for your referrals.

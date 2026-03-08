@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Concert Ticket Registration Form With 2Checkout - Help Guide
 ## Purpose
 This form is used for registering for a concert event with secure 2Checkout payment. Please fill in the required information to complete the registration process.

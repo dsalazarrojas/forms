@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to assess the condition of a property, capturing information about its various aspects, including general condition, exterior condition, interior condition, structural condition, electrical condition, plumbing condition, heating condition, appliances, fixtures, and other notable features. This form helps users evaluate the overall state of the property and identify potential areas that require attention or repairs. It's essential to fill out this form accurately to ensure a comprehensive understanding of the property's condition.
-
-To avoid duplication of effort and ensure consistency, please only fill out this form once for each property evaluation.
-
-Before proceeding, take a moment to review the form fields and their corresponding labels below.</thinking>
-
 # property_condition_checklist_form - Help Guide
 ## Purpose
 This form is designed to gather information about the condition of a property, including general, exterior, interior, structural, electrical, plumbing, heating, appliances, fixtures, and other notable features.

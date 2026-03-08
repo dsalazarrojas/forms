@@ -1,11 +1,3 @@
-<thinking> 
-Shared Housing Verification Form is used by property managers and administrators to collect information about a tenant's living situation. This form helps to verify the identity and relationship details of tenants, as well as the terms of the rental agreement. It is a crucial document that needs to be filled out accurately and thoroughly. Please ensure that this form is not filled out by the same person who is being asked to verify the information, as it may be a conflict of interest.
-
-When filling out this form, please make sure to provide the most accurate and up-to-date information. The form is used for reference and verification purposes only. 
-
-The form is typically filled out by the tenant or a representative of the tenant. Please ensure that the person filling out the form has the necessary permissions and authority to do so.
-</thinking>
-
 # Shared Housing Verification Form - Help Guide
 ## Purpose
 This form is designed to collect information about a tenant's living situation for verification purposes.

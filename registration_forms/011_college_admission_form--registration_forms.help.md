@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for users to apply for college admission, providing a comprehensive structure for submitting personal, academic, and financial information. To ensure accurate and complete submissions, we will review each field carefully to prevent duplication and ensure that all required fields are filled out correctly.
-
-Before starting, please note that some fields may require additional explanations for accurate completion. For example, certain fields like citizenship status and test type may have specific requirements or implications for the application process.
-
-To ensure a smooth and efficient process, please review the guidelines below.
-</thinking>
-
 # College Admission Form - Help Guide
 ## Purpose
 The College Admission Form is designed to gather essential information from applicants for the college admission process. It includes fields for personal identification, academic records, and financial assistance.

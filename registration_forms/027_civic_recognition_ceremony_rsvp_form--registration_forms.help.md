@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from guests who have received an invitation to a civic recognition ceremony. The form is used to gather attendee details, meal preferences, and special requests for the event. This guide will walk through how to complete the form step by step, explaining each field in detail.
-
-Firstly, please note that this form is designed for guests who have received an invitation. If you are an award recipient, please fill out the form according to your specific situation.
-
-</thinking>
-
 # Civic Recognition Ceremony RSVP Form - Help Guide
 ## Purpose
 This form is for guests who have received an invitation to the civic recognition ceremony. Please fill it out to let us know if you will be attending and to provide your personal details.

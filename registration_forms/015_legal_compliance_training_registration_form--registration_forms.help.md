@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for the legal compliance training program. This guide will walk you through each step of the registration process to ensure that participants understand what to expect and how to provide accurate information. Before proceeding, please ensure that you have not already registered for this training session, as duplicate registrations may cause confusion and affect the accuracy of our training records.
-</thinking>
-
 # Legal Compliance Training Registration Form - Help Guide
 ## Purpose
 The Legal Compliance Training Registration Form is used to register participants for the legal compliance training program. It is essential to fill out this form accurately and completely to ensure that you receive the necessary training and materials.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended for users to confirm their final step in a transaction process, ensuring they have accurate information about the transaction details and their confirmation status. This form is not required for every user, depending on the specific circumstances of the transaction. 
 
 ## Final Step Confirmation - Help Guide

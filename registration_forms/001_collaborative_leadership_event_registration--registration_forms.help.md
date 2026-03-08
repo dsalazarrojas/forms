@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for participants to register themselves for a collaborative leadership event. It is designed to collect relevant information about the participant, including their contact information, event registration details, and accommodation needs.
-
-Before filling out this form, please ensure that:
-- You are registering for the correct event.
-- You are not duplicating a registration that you have already made.
-
-If you are unsure about any of the information or have any questions, please contact the event organizers.
-
-</thinking>
-
 # Collaborative Leadership Event Registration - Help Guide
 ## Purpose
 This form is used to register participants for a collaborative leadership event. It is used to collect contact information, event registration details, and other relevant information to ensure a successful and enjoyable experience for all attendees.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Referral Form - Help Guide
 
 ## Purpose

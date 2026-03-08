@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect user recommendations from internal and external stakeholders. The form will be used to gather contact information, the type of recommendation being made, and any supporting files. It is intended to be filled out by people who are making a recommendation, either from within the organization or from an external source. It is possible to submit this form multiple times, but please note that each submission will be treated as a separate instance of the form. Please ensure you have permission to submit on behalf of others before filling out this form.
-
-The "Type Of Recommendation" question is a multiple-choice field asking you to select which type of recommendation you are submitting. Please be aware that if you select "Internal" or "External", you will be prompted to select "File Uploads" to choose which files to attach. 
-
-</thinking>
-
 # submit your recommendation - Help Guide
 ## Purpose
 This form is designed to collect user recommendations for internal and external stakeholders.

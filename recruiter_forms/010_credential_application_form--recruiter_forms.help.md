@@ -1,12 +1,3 @@
-<thinking>
-The "credential_application_form" form is designed to collect information from individuals applying for certain types of credentials or positions. This form helps gather basic contact information, personal details, and relevant professional data.
-
-To determine the relevance of this form, let's consider the fields included. The form collects contact information (first name, last name, email, phone), a date of birth (which might be needed for some credential applications), and a job title, which might be required for specific positions or industries.
-
-There is no apparent duplication of fields that would suggest a non-duplication of this form's purpose.
-
-</thinking>
-
 # credential_application_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "We Buy Houses" form, which appears to be a form used for real estate transactions, specifically for buying houses. The form likely collects information about the house being sold, such as its type, size, and mortgage status. It may also collect contact information for the person submitting the form.
-</thinking>
-
 # We Buy Houses - Help Guide
 ## Purpose
 The "We Buy Houses" form is a real estate form used to collect information about houses being sold. This form helps us understand the characteristics of the house, including its type, size, and mortgage status, so we can assess its value and offer a fair price.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect user information, project details, and other relevant data for music remix inclusion purposes. It is designed to be completed by users who wish to have their music remixed by another artist. The form will be used by the project team to review and process the user's submission.
-
-The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata as inspiration. It is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-
-To prevent duplication, we will check the user's email address to ensure they are not already registered in our system.
-
-</thinking>
-
 # Music Remix Inclusion Consent Form - Help Guide
 ## Purpose
 The Music Remix Inclusion Consent Form is used to collect user information and project details for music remix inclusion purposes.

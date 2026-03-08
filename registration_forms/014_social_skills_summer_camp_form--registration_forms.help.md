@@ -1,5 +1,3 @@
-<thinking>...The Social Skills Summer Camp Form is designed to collect information from participants in a social skills summer camp program. The form is intended to be completed by parents or guardians of participating children. The form is not meant to be duplicated for every participant, and users should only complete it once per participant... </thinking>
-
 # Social Skills Summer Camp Form - Help Guide
 ## Purpose
 The Social Skills Summer Camp Form is used to collect personal and emergency contact information from participants in the social skills summer camp program.

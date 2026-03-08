@@ -1,9 +1,3 @@
-<thinking>
-
-The retail tech demo registration form is a collection of user information for a retail technology demonstration. The purpose of this form is to gather details about the person registering, their company, and their interests in demo sessions. This form should only be completed by individuals who are interested in attending a demo session. To ensure relevance and prevent duplicate registrations, please fill out the form with accurate information and do not register if you've already attended or registered for a demo session.
-
-</thinking>
-
 # retail_tech_demo_registration_form - Help Guide
 ## Purpose
 This form collects personal and company information from individuals interested in attending a demo session for a retail technology demonstration.

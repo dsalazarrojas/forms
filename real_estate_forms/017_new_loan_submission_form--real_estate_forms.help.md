@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new_loan_submission_form - Help Guide
 ## Purpose
 The new_loan_submission_form is a form designed to facilitate the submission of new loan requests. This form captures essential information from borrowers, including loan details, user information, and bank particulars. It is an essential tool for loan application processing.

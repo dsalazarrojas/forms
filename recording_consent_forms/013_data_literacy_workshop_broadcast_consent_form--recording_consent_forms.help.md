@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect consent and agreement from participants in a Data Literacy Workshop broadcast. It seems to be a crucial step in ensuring that participants are aware of and agree to the terms and conditions of the workshop, including the recording of their participation. This form should be completed by each participant, and the instructions provided in this guide will walk them through the process.
-</thinking>
-
 # Data Literacy Workshop Broadcast Consent Form - Help Guide
 ## Purpose
 

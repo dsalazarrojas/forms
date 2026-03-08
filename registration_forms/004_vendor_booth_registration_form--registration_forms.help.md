@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and ensure accurate data, we will check internal databases for existing vendor booths before processing this form submission. This will help us to prevent multiple registrations from the same vendor and ensure that the information provided is up-to-date and consistent.
-</thinking>
-
 # Vendor Booth Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from vendors who wish to register their booths at our event. Vendors will be asked to provide details about their company, contact information, products or services, and other relevant information to facilitate a smooth and successful event experience for all participants.

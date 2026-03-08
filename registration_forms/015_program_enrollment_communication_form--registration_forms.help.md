@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Program Enrollment Communication Form is to gather information about a user's program enrollment status and any communication related to it. This form is used by [your organization/department/team] to collect and manage user data. Please only submit this form if you are a [program manager/user/employee] and your purpose for submitting it is to [enroll/update/enquire about] a program. If you have already submitted this form, please do not resubmit unless there are updates or changes to your original request.
-</thinking>
-
 # Program Enrollment Communication Form - Help Guide
 ## Purpose
 The Program Enrollment Communication Form is a tool used to collect and manage user data related to program enrollment. It is intended to help [your organization/department/team] gather and respond to user inquiries and updates.

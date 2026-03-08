@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about a prospect referred to our marketing services from a known individual (referrer). The purpose of this form is to document the details of the referral, including the referrer's contact information, the prospect's contact information, and the marketing challenges and needs of the prospect. By filling out this form, the referrer can provide valuable information that can be used to follow up with the prospect and potentially initiate a marketing engagement.
-
-Before starting, ensure that you have the necessary permissions and consents from the prospect to share their information with us. Additionally, if you are unsure about any of the fields, please ask the prospect and include that information here as well.
-
-</thinking>
 # Business Marketing Referral Form - Help Guide
 ## Purpose
 The Business Marketing Referral Form is designed to capture information about a prospect referred to our marketing services from a known individual (referrer). The goal of this form is to provide a comprehensive snapshot of the prospect's marketing needs and challenges.

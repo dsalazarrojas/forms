@@ -1,5 +1,3 @@
-<thinking>... This form is designed to help users provide their input on their dream home preferences. It appears to be a checklist form used to gather information about the user's ideal home, including type, number of bedrooms, price range, location, move-in date, budget, preferred language, and contact method. The form seems to be focused on residential properties, and the options are straightforward and easy to understand. The required fields appear to be limited to none, indicating that users have the flexibility to answer as much or as little as they like. There is no apparent duplication or overlap of fields, making it a simple and efficient form...</thinking>
-
 # Your Dream Home Checklist Form - Help Guide
 ## Purpose
 This form is designed to help you provide your dream home preferences. It will guide you through a series of questions to determine what you're looking for in your ideal home.

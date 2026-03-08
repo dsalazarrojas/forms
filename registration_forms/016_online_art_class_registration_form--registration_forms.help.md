@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for students to register for an online art class. It is not intended for general use or for staff use within the organization. This guide will cover the form's purpose, how to complete it, and an explanation of each field to ensure users understand what information is required and how it applies to the online art class registration process.
-</thinking>
-
 # online_art_class_registration_form - Help Guide
 ## Purpose
 This form is used to register for an online art class. To register, fill out the form with the required and optional fields as indicated below.

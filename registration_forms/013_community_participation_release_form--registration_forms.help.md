@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Participation Release Form - Help Guide
 
 ## Purpose

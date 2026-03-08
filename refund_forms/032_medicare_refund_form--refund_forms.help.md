@@ -1,10 +1,3 @@
-<thinking>
-**Form Purpose:**
-This form is intended to collect information for a Medicare refund, which can be due to an insurance company or other reasons. The form aims to gather relevant details to facilitate the refund process. **Please ensure this form is used for its intended purpose and not for other refund requests or types of forms.**
-**Form Duplication Check:**
-Before proceeding, ensure you're not completing this form for a duplicate claim. Double-check if you've already submitted a similar form or if the claim is already in process.
-</thinking>
-
 # MedicaReFund Form - Help Guide
 ## Purpose
 The MedicaReFund Form is designed to collect information for a Medicare refund request. To complete this form correctly, please follow the steps below.

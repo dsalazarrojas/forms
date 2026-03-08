@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to register real estate properties for waste reduction programs. It captures relevant information about the property, including contact details, property type, address, and waste reduction goals and commitments.
-The form is designed to gather data on the type of property (residential, commercial, industrial), its location (city, state, zip code, country), and the waste reduction programs it is enrolled in (recycling, conservation, sustainability). It also asks for the start and end dates of the program and the date of the property owner's waste reduction commitment.
-This form is intended to be completed by property owners or their representatives, and it is not a form for general users. Therefore, the instructions will be written with that in mind.
-</thinking>
-
 # real_estate_waste_reduction_registration_form - Help Guide
 ## Purpose
 The real_estate_waste_reduction_registration_form is used to register real estate properties for waste reduction programs. This form captures information about the property, such as contact details, property type, and waste reduction goals and commitments.

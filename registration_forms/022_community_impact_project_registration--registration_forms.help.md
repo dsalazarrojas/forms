@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to help community members register their projects that aim to bring positive impact to their communities. It gathers essential information about the project's lead contact, project details, and budget estimates. Non-duplication checks are implemented to prevent duplicate project registrations.
-
-</thinking>
-
 # Community Impact Project Registration - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Community Impact Project Registration form.

@@ -1,19 +1,3 @@
-<thinking>
-To ensure that we capture the necessary information for recording consent from participants during music workshops, we need to make sure that our form is clear and easy to understand. This will help us to respect the privacy and boundaries of our participants while also meeting our organizational requirements. We should avoid duplicating any existing fields and make sure each field is relevant to the purpose of the form.
-
-We'll use this form to capture the following details from each participant:
-
-*   Workshop title
-*   Workshop date
-*   Participant name
-*   Email (if they want to be contacted by us)
-*   Phone number (if they have one)
-*   Recording consent (to ensure they're okay with being recorded)
-*   Participant signature (to acknowledge their consent)
-*   Date of signature
-
-</thinking>
-
 # Music Workshop Participant Recording Consent Form - Help Guide
 ## Purpose
 This form is used to capture the necessary information from workshop participants to ensure we have their recording consent.

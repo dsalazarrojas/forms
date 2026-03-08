@@ -1,7 +1,3 @@
-<thinking>
-The online internship application form is designed to gather information from potential candidates who are interested in internships within our organization. The form is meant to be completed by candidates who are looking for opportunities that match their skills and interests. This form will not be displayed to candidates who have already submitted an application or been previously considered for an internship. Please ensure that your application is accurate and complete before submitting it, as incomplete or inaccurate information may lead to delays or disqualification.
-</thinking>
-
 # online_internship_application_form - Help Guide
 ## Purpose
 The online internship application form is a tool used to gather information from potential candidates who are interested in internships within our organization.

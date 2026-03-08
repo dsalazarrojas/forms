@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals seeking certification in robotics control software. The purpose of this form is to gather personal details, contact information, and relevant background, skills, and experience related to robotics. This guide will help users understand what information to provide and how to fill out the form correctly.
-
-Before proceeding, please note that this form is a general guide, and specific requirements may vary depending on the organization's or institution's specific needs. It is essential to review the form carefully and ensure that you have all the necessary information before submitting it.
-
-The following guide is based on the provided YAML fields. Each section is designed to help users understand the purpose and requirements of each field.
-
-</thinking>
-
 # robotics_control_software_certification_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals seeking certification in robotics control software. It gathers personal details, contact information, and relevant background, skills, and experience related to robotics.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to register for a workshop that focuses on digital storytelling in learning. The form will likely be used by staff members within the organization to provide information about the workshop, and potentially other staff members to register their interest in attending. The form is designed to be simple and straightforward, with no duplicate fields.
-</thinking>
-
 # Digital Storytelling In Learning Registration Form - Help Guide
 ## Purpose
 This form is used to register for a workshop on digital storytelling in learning. Please fill out the form below to let us know if you are interested in attending the workshop.

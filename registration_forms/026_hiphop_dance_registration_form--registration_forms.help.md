@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for registering crew members for a hip hop dance event. The purpose of the form is to collect information about the crew members, including their names and acceptance to terms and conditions. The form is not meant for actual registration or payment processing. It is a general-purpose registration form and does not require any specific business logic or conditional routing. Therefore, no internal flags or conditional routing should be applied to this form.
-
-</thinking>
-
 # hiphop_dance_registration_form - Help Guide
 ## Purpose
 This form is used for general registration purposes, specifically for registering crew members for a hip hop dance event.

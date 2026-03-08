@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Editorial Referral Submission - Help Guide
 ## Purpose
 This form is designed to facilitate editorial referrals submitted by users. It is intended to collect information from contributors who want to refer an editor to a particular article or content piece. The form is meant to be completed with basic information about the contributor and the content being referred.

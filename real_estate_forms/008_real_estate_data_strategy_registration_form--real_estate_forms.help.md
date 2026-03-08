@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect data on real estate transactions, gathering information on participant details, consents, and real estate properties. The form aims to provide a structured and comprehensive way to capture necessary information for real estate data strategy registration. This form should not be used for other purposes or for users who are not participating in real estate data strategy registration.
-
-To avoid duplication of effort, please ensure that this form is not used to collect data that is already available in other systems or has been previously collected through other means.
-
-</thinking>
-
 # real_estate_data_strategy_registration_form - Help Guide
 ## Purpose
 The "real_estate_data_strategy_registration_form" is designed to collect data on real estate transactions, providing a structured and comprehensive way to capture necessary information for real estate data strategy registration.

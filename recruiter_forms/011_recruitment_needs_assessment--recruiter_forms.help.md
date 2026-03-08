@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from the business team about the recruitment needs of the organization. The form will help the team assess and prioritize the requirements for a specific role, including its budget allocation, project timelines, job title, and job description.</thinking>
-
 # Recruitment Needs Assessment - Help Guide
 
 ## Purpose

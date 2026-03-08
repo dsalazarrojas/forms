@@ -1,7 +1,3 @@
-<thinking>
-We designed this form to allow agents to provide feedback on open houses or properties they have shown to potential clients. This form will help us understand the impressions of each property and identify areas for improvement. We want to prevent duplication of effort by ensuring that only one agent can submit feedback for a property. Please fill out this form only once for each property you have shown.
-</thinking>
-
 # Brokers Open Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from agents on properties they have shown to potential clients. The feedback will help us identify areas for improvement and optimize the showing process.

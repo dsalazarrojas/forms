@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data from users interested in registering their financial process innovation for further review and potential implementation. It's meant for projects that have a clear and well-defined process with a tangible output. The form is divided into three sections: Project Details, Contact Information, and Output. It's intended to be a starting point for users to provide information about their innovative ideas, and the data collected will be reviewed and evaluated for potential implementation.
-To complete this form, users must ensure they have a clear and concise description of their project, their contact details, and the expected output of their project. Please note that this form is for registration purposes only and not for submission of actual projects for implementation.
-</thinking>
-
 # Financial Process Innovation Registration - Help Guide
 ## Purpose
 The Financial Process Innovation Registration form is a tool designed to collect and review innovative financial process ideas for potential implementation. This form helps us understand the concept, scope, and expected outcome of each project.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from vendors interested in participating in the vendor market. It is intended to gather contact and preference information from vendors. 
-The form is divided into two main sections: the first part collects information about the vendor's interest in participating in the market, such as whether they have a market email, if they have a market event, and their preferences for product promotion and customer interaction. The second part collects information about the products they offer, including whether they have new products and whether they are interested in participating in events. The form will be reviewed by the vendor market team to determine which vendors to include in the market.
-It is recommended that vendors fill out the form only if they are genuinely interested in participating in the vendor market. If they have already filled out the form, they do not need to do so again, as their information will be automatically updated.
-</thinking>
-
 # Vendor Market Email Signup - Help Guide
 ## Purpose
 The purpose of this form is to collect information from vendors interested in participating in the vendor market.

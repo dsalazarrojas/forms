@@ -1,7 +1,3 @@
-<thinking>
-We should create a form that helps non-profit organizations find a suitable fundraising consultant for their needs. To determine relevance, we'll check that the form is completed with accurate and sufficient information, avoiding duplication of work or misassignment. We should ensure that the consultant's recommendations and background information are well-matched with the non-profit's goals and needs.
-</thinking>
-
 # Nonprofit Fundraising Consultant Referral Form - Help Guide
 
 ## Purpose

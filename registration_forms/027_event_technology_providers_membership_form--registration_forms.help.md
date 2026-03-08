@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for individuals who wish to become members of Event Technology Providers, a platform that connects event organizers with technology service providers. The purpose of this form is to collect registration data from interested individuals. The form consists of three fields that require information from the registrant. 
-
-Before filling out this form, ensure that you have the necessary information required by the form. If you are unsure about any of the fields, please contact [form@gic.mx](mailto:form@gic.mx) for assistance. This form was generated using AI and does not require any technical or proprietary knowledge.
-
-Please do not fill out this form if you have already submitted a membership application in the past. Duplicate submissions may cause delays or inaccuracies in your membership application status.
-</thinking>
-
 # Event Technology Providers Membership Form - Help Guide
 ## Purpose
 The Event Technology Providers Membership Form is designed for registration purposes to join the Event Technology Providers platform as a member. Fill out this form to provide your information and become a member of this platform.

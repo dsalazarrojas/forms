@@ -1,10 +1,3 @@
-<thinking>
-This form is for requesting an appointment in the real estate department. It's a form that will be used to gather information from clients to schedule a meeting with a real estate professional.
-The form is designed to be simple, yet informative, to ensure that the client's request is handled efficiently and effectively.
-Before filling out this form, please ensure that you have all the necessary information ready to provide accurate details.
-Please note that this form is not intended to be a comprehensive real estate transaction form, but rather a way to initiate the process.
-</thinking>
-
 # Real Estate Project Appointment Request - Help Guide
 ## Purpose
 This form is used to request an appointment with a real estate professional to discuss a project.

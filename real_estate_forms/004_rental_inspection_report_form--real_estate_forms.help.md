@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a rental property inspection, capturing details about the property's condition, damage, and necessary repairs. The purpose of this form is to help rental property owners, managers, or agents gather data for maintenance, insurance, or other related purposes. This form is not intended for use in official court or legal proceedings. Ensure that you only complete this form for genuine rental property inspections, and do not use it for any other purpose. Please note that this form is not affiliated with or endorsed by any form platform, and any modifications or adaptations are released under CC BY 4.0. For feedback or further assistance, contact form@gic.mx.
-</thinking>
-
 # Rental Inspection Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about a rental property inspection, including the property's condition, damage, and necessary repairs.

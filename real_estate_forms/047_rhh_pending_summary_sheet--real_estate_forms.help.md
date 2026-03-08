@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a property sale or purchase agreement, including details about the property, parties involved, and other relevant details. The form will be used by real estate professionals to document and track pending sales or purchases. 
-The form should not be used for other purposes or for properties that do not have a pending sale or purchase agreement.
-This form is part of a larger system for managing real estate transactions and should not be used in isolation. 
-</thinking>
-
 # RHH Pending Summary Sheet - Help Guide
 ## Purpose
 The RHH Pending Summary Sheet is a form used to collect and document information about a property sale or purchase agreement. It helps real estate professionals track and manage pending sales or purchases.

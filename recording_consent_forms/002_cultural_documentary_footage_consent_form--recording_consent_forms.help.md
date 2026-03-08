@@ -1,5 +1,3 @@
-<thinking>... This form is for obtaining consent from participants in a documentary footage recording project. Its purpose is to gather necessary information from participants, such as their contact details and filming location. This form should only be filled out by participants who have been explicitly invited to be filmed. Please make sure to only fill out this form once per participant. ...</thinking>
-
 # Cultural Documentary Footage Consent Form - Help Guide
 ## Purpose
 This form is for obtaining consent from participants in a documentary footage recording project. It helps us to gather necessary information from participants, such as their contact details and filming location.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from individuals who will attend a property management workshop. The form is likely to be used by the workshop organizers to manage attendance and keep track of participant details. It's assumed that the form will be used in conjunction with other forms, such as registration forms for other workshops, to ensure that the workshop organizers have a comprehensive overview of who attended which workshop and their contact information.
 
 To ensure accuracy and consistency, please review this form carefully before filling it out.

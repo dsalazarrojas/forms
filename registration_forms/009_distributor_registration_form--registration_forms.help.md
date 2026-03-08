@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # distributor_registration_form - Help Guide
 ## Purpose
 The distributor registration form is used to collect information from distributors who wish to partner with our company. This form helps us gather necessary details about the distributor's representative, including their name, contact information, order details, and payment information.

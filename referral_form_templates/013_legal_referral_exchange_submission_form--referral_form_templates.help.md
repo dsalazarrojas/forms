@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-This form is intended to collect detailed information for referrals in the legal department. It serves as a centralized platform to track and manage referrals for efficient handling. To ensure accurate and complete submissions, kindly review each field carefully and provide clear and concise information. Please note that fields marked as "required" must be filled out. Ensure that all required fields are completed before submitting the form to avoid any errors or rejections.
-
-</thinking>
-
 # Legal Referral Exchange Submission Form - Help Guide
 ## Purpose
 The Legal Referral Exchange Submission Form is designed to collect information for referrals in the legal department. This form helps gather essential details to ensure that referrals are handled efficiently and effectively.

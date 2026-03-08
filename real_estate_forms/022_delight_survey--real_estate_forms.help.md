@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user feedback and ratings for services or goods provided by real estate professionals. The purpose of this form is to gauge user satisfaction and identify areas for improvement in the services offered.
-</thinking>
-
 # Delight Survey - Help Guide
 ## Purpose
 The Delight Survey is designed to gather feedback from users about their experience with real estate services or goods. Your input will help us understand your needs and preferences, enabling us to provide better services and goods.

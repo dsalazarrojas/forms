@@ -1,7 +1,3 @@
-<thinking>
-A real estate form for associates to agree on terms, likely used for partnerships or collaborations. Given the lack of affiliation or endorsement claims, it seems to be a general template for associates to sign-off on agreements. I will not make any claims of affiliation or endorsements with other platforms. I will base the explanation on the provided YAML fields.
-</thinking>
-
 # Referring Associate Agreement Form - Help Guide
 ## Purpose
 This form is designed to gather information from associates who are referring partners or collaborators. It is intended to be used for partnerships, collaborations, or agreements between two or more parties. The form is a text-based template that allows associates to provide their details and confirm their agreements.

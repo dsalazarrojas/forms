@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Truck Driver Job Application Form - Help Guide
 ## Purpose
 The Truck Driver Job Application Form is designed to collect information from potential truck drivers who are interested in working with our company. This form helps us to understand your qualifications, skills, and experience as a truck driver. Please fill out this form to apply for a job opening with our company.

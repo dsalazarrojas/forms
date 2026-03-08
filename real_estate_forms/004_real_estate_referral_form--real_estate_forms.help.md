@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from clients or potential clients about real estate referrals. The form is likely used by real estate agents or brokers to collect details about the referral, including the client's contact information, the referred property, and any additional messages. This form might be used for internal processing and follow-up purposes. Before filling out this form, please ensure you have the necessary permissions and consents to share the information provided. If you have already submitted this form with the same information, please do not resubmit to avoid duplication. This form is intended for real estate professionals and agents.
-</thinking>
-
 # Real Estate Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information about real estate referrals from clients or potential clients.

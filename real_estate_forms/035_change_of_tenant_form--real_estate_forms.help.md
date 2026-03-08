@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document a change of tenant for a rental property. This form should only be used to report a change of tenant that has already occurred or is about to occur. Please ensure that you have a valid reason for the change and that all required fields are completed accurately.
-
-</thinking>
-
 # Change Of Tenant Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-
-We're creating this form to help identify potential innovations for our Innovation Workshop. This form is a critical part of our internal process to recognize and nurture new ideas that can help us drive business growth and development. Please note that this form should only be used for new, original ideas that have not been previously submitted. If you've already submitted an idea, please don't resubmit it. We appreciate your participation and collaboration in helping us build a culture of innovation.
-
-</thinking>
-
 # Innovation Workshop Referral Form - Help Guide
 ## Purpose
 The Innovation Workshop Referral Form is designed to collect information about new ideas and initiatives that have the potential to drive business growth and development. This form helps us identify and evaluate new suggestions, and it's a great way to contribute to our Innovation Workshop.

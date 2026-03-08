@@ -1,12 +1,3 @@
-<thinking>
-The International Student Registration Form is designed to gather information from international students to facilitate their registration process. This guide will walk you through how to complete the form accurately and effectively.
-
-To use this form, please ensure you are eligible to register as an international student. If you have already registered as an international student, please do not complete this form as it will create duplicate records.
-
-Before starting, please note that some fields are marked as "optional", but providing accurate and complete information will help speed up the registration process. If you are unsure about any field, please consult with the relevant authorities or contact support for assistance.
-
-</thinking>
-
 # International Student Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from international students to enable a smooth and efficient registration process. It is crucial to fill in the form accurately and completely to avoid delays or errors in processing your registration.

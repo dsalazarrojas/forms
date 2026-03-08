@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect the consent of participants in a debate event for video and audio recording purposes. The form ensures that participants understand and agree to the distribution of these recordings, which may include being shared on educational websites, social media, local television, or internal archives. It also collects demographic information about the participant, including their full name, email address, the title and date of the debate event, and their age. This form is essential for maintaining transparency and ensuring that participants are aware of how their recorded data will be used. It also includes fields for digital signatures of participants who are above 18 years old or their parents/guardians for those under 18.
-</thinking>
-
 # Civic Debate Video Distribution Consent Form - Help Guide
 ## Purpose
 This form is used to collect the consent of participants in a debate event for video and audio recording purposes.

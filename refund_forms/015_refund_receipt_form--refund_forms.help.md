@@ -1,9 +1,3 @@
-<thinking>
-
-The internal reasoning block explains the purpose and context of this "Refund Receipt Form". This form is designed to capture essential information related to a refund, including customer details, refund amount, reason for refund, and status updates. The form is likely used to create a record of a refund transaction, providing necessary details for accounting, customer service, or other relevant business processes. The form's fields are carefully crafted to collect relevant data while minimizing redundancy and ensuring required fields are filled out for accurate and complete records.
-
-</thinking>
-
 # Refund Receipt Form - Help Guide
 ## Purpose
 The Refund Receipt Form is used to record refund transactions, capturing essential details about the customer, refund amount, reason, and status. This form is crucial for maintaining accurate records and ensuring transparency in refund processing.

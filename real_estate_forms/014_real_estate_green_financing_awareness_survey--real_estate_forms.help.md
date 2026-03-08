@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a real estate property's green financing options and awareness about sustainable features. It's likely for property owners or developers to understand their current or desired level of green financing awareness and features. The form likely aims to gather data for marketing or educational purposes. However, without further context, it's unclear if the form is for internal or external use.
-</thinking>
-
 # Real Estate Green Financing Awareness Survey - Help Guide
 ## Purpose
 

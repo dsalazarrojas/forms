@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is only used for its intended purpose and not for any other use case, and that users don't submit the form multiple times for the same referral. To achieve this, we should make sure that users understand the form's purpose and the information required to fill it out correctly. This form is for capturing information about referrals, including first and last names, email, phone, referral date, referral time, referral location, partner name, partner phone, and partner email. It's essential to fill out each field accurately to ensure that the referral data is reliable and can be used for future reference. Users should only submit the form once for each referral, and not duplicate or misrepresent information.
-</thinking>
-
 # monat_referral_form - Help Guide
 ## Purpose
 This form is designed to collect referral information from clients, including names, contact details, and other relevant details. It's used to keep track of referrals and facilitate communication between you and your referral partners.

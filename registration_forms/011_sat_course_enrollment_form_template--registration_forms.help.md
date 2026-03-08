@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll follow the provided instructions and the form's YAML structure. This form is likely used for students to register for SAT courses, and the fields should be straightforward and easy to understand.
-
-After understanding the form's purpose and fields, I'll create a concise and practical help guide in Markdown format.
-
-</thinking>
-
 # sat_course_enrollment_form_template - Help Guide
 ## Purpose
 The sat_course_enrollment_form_template is designed for students to register for SAT courses. This form collects essential information from students to complete their registration process.

@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to obtain recording consent from participants in a film archiving project. The form is not a real-world form and is generated using AI, so it's essential to review and refine it to ensure it accurately represents the project's requirements.
-The form is intended to collect information from participants, but its relevance and completeness depend on the project's specific context. To avoid duplication, ensure that the form is not used for any other purpose or project.
-This form is an original adaptation of a publicly available structure, and its content should not be attributed to any proprietary form creation or data collection platform.
-</thinking>
-
 # film_archival_inclusion_consent_form - Help Guide
 ## Purpose
 The film archival inclusion consent form is used to obtain consent from participants in a film archiving project. The form is designed to collect information from participants about their willingness to include their film in the archiving project.

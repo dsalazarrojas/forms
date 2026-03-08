@@ -1,11 +1,3 @@
-<thinking>
-To ensure this form is not duplicated and to prevent potential errors, the following internal reasoning checks should be performed prior to allowing end-users to access this form:
-1. Does the auction item already exist in the database?
-If so, the item's details should be updated directly.
-2. Does the end-user have the required permissions to access this form? 
-The form requires the end-user to be authenticated and authorized to perform this action.
-</thinking>
-
 # Auction Item Registration Form - Help Guide
 
 ## Purpose

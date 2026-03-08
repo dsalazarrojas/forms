@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Endodontist Referral Form - Help Guide
 
 ## Purpose

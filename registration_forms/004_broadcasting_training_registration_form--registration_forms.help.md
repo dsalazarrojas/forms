@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for broadcasting training. It is used to collect information from individuals who wish to register for a broadcasting training program. The form includes fields for personal information, training details, and special accommodations.
-</thinking>
-
 # Broadcasting Training Registration Form - Help Guide
 ## Purpose
 This form is used to register for a broadcasting training program. It collects information about the individual's personal details, training preferences, and any special accommodations required.

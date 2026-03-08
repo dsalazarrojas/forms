@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from individuals who want to join the Ostomy Support Group. This form will help the group administrators understand who is registering, their contact details, and any emergency contacts in case of an unexpected situation. The form should be filled out by the person registering themselves. To prevent duplicate registrations, please ensure that the registration form is submitted only once.
-</thinking>
-
 # Ostomy Support Group Registration - Help Guide
 ## Purpose
 The Ostomy Support Group Registration form is designed to collect information from individuals who want to join the Ostomy Support Group. This form is essential for our team to understand who is registering and ensure that they have the necessary contact details in case of an emergency.

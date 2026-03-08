@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants in a rehabilitation app usability recording session. The form is used to capture the participant's demographic information, consent for recording, and details about the recording device used. This form is likely to be used in the context of user research, usability testing, or data collection for app development purposes.
-
-It's worth noting that the form has a large number of fields, which might make it seem overwhelming to the user. However, each field is designed to collect specific information that is necessary for the recording session.
-
-The participant's consent is a crucial aspect of the form, as it ensures that the participant understands the purpose and implications of the recording. The consent form also includes a checkbox that confirms the participant's agreement to be recorded.
-
-To complete this form, the participant will need to provide their demographic information, such as their age, occupation, and contact details. They will also need to confirm their consent to be recorded, and provide details about their recording device, including its model, serial number, and IP address.
-
-The form has multiple fields for notes and comments, which can be used by the researcher or developer to gather additional information about the participant's experience.
-
-</thinking>
-
 # Rehabilitation App Usability Recording Consent Form - Help Guide
 
 ## Purpose

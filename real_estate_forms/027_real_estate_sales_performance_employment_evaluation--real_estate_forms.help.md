@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on real estate sales performance. It appears to be a comprehensive evaluation form designed to assess various aspects of sales performance. This form likely aims to measure the success and effectiveness of sales agents in selling real estate properties. It may be used by managers or supervisors to evaluate individual sales agent performance, providing a structured framework for assessing their strengths and weaknesses.
-
-The form has a mix of yes/no and numerical fields, indicating a combination of categorical and quantitative data collection. It seems to cover different periods of experience and performance evaluations, which could help in identifying areas of improvement for the sales agents.
-
-Before creating this form, it's essential to consider that the fields might not be mutually exclusive and that some agents may have overlapping experiences or performance evaluations. It's also crucial to verify the purpose of this form and its intended use within the organization to ensure that it aligns with the overall goals and objectives of the real estate sales team.
-
-To avoid duplication of efforts, it's vital to check if similar forms or assessments already exist or are in use within the organization. This will help in avoiding unnecessary paperwork and redundant data collection.
-</thinking>
-
 # Real Estate Sales Performance Employment Evaluation - Help Guide
 ## Purpose
 The Real Estate Sales Performance Employment Evaluation form is designed to assess the performance of sales agents in the real estate sector. It provides a structured framework to evaluate their strengths and weaknesses, aiding in identifying areas of improvement.

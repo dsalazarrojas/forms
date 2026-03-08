@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for potential customers who are interested in buying or selling properties with the assistance of TheLeverageCo.com. It is meant to gather information about the user's preferences, experiences, and property needs. To ensure you get the most out of this form, please complete it in its entirety. This form will not collect any sensitive information, and your responses will be used solely for business purposes to provide you with the best possible service.
-
-</thinking>
-
 # TheLeverageCo.com | Getting To Know You Questionnaire - Help Guide
 
 ## Purpose

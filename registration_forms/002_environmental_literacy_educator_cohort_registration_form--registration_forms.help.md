@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from educators who want to register for the Environmental Literacy Educator Cohort program. The form is used to gather details about the educator's teaching area, teaching level, program length, target audience, language, and submission status. This form will help the program administrators to understand the educator's background and needs, and to provide them with the appropriate resources and support.
-
-This form will be used to register for the program, and the submission status field will be used to track the progress of the registration. The program administrators will use this form to review and approve or reject the submissions.
-
-Before starting, please make sure that you have filled out this form correctly and accurately. If you are unsure about any of the fields, please contact the program administrators for help.
-
-</thinking>
-
 # Environmental Literacy Educator Cohort Registration Form - Help Guide
 ## Purpose
 The Environmental Literacy Educator Cohort Registration Form is used to register for the Environmental Literacy Educator Cohort program. This form helps the program administrators to understand the educator's background and needs, and to provide them with the appropriate resources and support.

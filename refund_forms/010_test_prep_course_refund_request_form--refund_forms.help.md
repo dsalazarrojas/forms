@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Test Prep Course Refund Request Form - Help Guide
 
 ## Purpose

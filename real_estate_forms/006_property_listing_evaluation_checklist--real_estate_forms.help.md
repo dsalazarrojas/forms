@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a property listing, including its type, size, and contact details of the agent or owner. The purpose of this form is to gather relevant data for property evaluation or assessment purposes. It is essential to fill out this form accurately to ensure that the information collected is reliable and useful for the intended purpose.
-</thinking>
-
 # property_listing_evaluation_checklist - Help Guide
 ## Purpose
 The property listing evaluation checklist is a form used to collect information about a property, including its type, size, and contact details of the agent or owner. This form will help gather relevant data for property evaluation or assessment purposes.

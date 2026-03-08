@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I will create a user-facing help guide for the "Tech Co Working Space Referral Form" to ensure that users understand the purpose and completion process of the form, as well as each field's significance.</thinking>
-
 # Tech Co Working Space Referral Form - Help Guide
 ## Purpose
 The Tech Co Working Space Referral Form is designed to collect information about a co-working space from a referral. This form helps to track and manage referrals for potential co-working space partners.

@@ -1,34 +1,3 @@
-<thinking>
-This form is designed to collect participant details and training preferences for workforce robotics upskilling programs. The purpose of this form is to ensure that participants have provided accurate and complete information about their training programs, facilitators, and robots. To avoid duplication of effort, please only submit this form once for each participant.
-
-To complete this form, follow the steps below:
-
-1. Fill in the participant details (page 1)
-2. Select the training programs that interest you (page 2)
-3. Choose your preferred training location (page 3)
-4. Indicate your training dates (page 4)
-5. Indicate your training hours (page 5)
-6. Select your training facilitator (page 6)
-7. Enter emergency contact details (page 7)
-8. Add any additional comments (page 8)
-9. Confirm your participant agreement (page 9)
-10. Confirm your participant consent (page 10)
-11. Add any notes about the training program (page 11)
-12. Add any notes about the training location (page 12)
-13. Add any notes about the training facilitator (page 13)
-14. Confirm your training program facilitator's agreement (page 14)
-15. Confirm the robot type (page 15)
-16. Confirm the robot model (page 16)
-17. Enter the robot serial number (page 17)
-18. Enter the training facilitator's name and details (page 18)
-19. Confirm the robot warranty (page 19)
-20. Enter your participant attendance status and notes (page 21-23)
-21. Enter the date of your attendance status (page 24)
-
-Please note that all fields marked as required must be filled in to ensure a successful submission of this form.
-
-</thinking>
-
 # Workforce Robotics Upskilling Registration Form - Help Guide
 ## Purpose
 This form is designed to collect participant details and training preferences for workforce robotics upskilling programs.

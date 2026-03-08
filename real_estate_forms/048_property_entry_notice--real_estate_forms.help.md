@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information about a property entry notice, which is likely used for property access or maintenance purposes. The form may be used by property owners, managers, or administrators to provide a clear and concise notice of a property entry or access request. 
 
 The purpose of this form is to provide a structured and organized way of collecting relevant information, making it easier for the recipient to quickly understand the reason for the entry, who is requesting access, and when the access is requested. 

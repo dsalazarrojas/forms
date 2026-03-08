@@ -1,8 +1,3 @@
-<thinking>
-The form "property_showing_check_in_form" is used to record information about a showing of a property. This information typically includes visitor details, property details, and scheduling data. The form is used to collect data in advance of a showing so that the property showing team can prepare and communicate effectively.
-The form should not be completed if the property showing has already occurred or is not scheduled yet. It is a form that should be filled in before the showing to make sure we have the required data for the showing.
-</thinking>
-
 # property_showing_check_in_form - Help Guide
 ## Purpose
 The property showing check-in form is used to collect information and schedule a property showing. It's essential to fill out this form before the property showing to ensure we have all necessary data.

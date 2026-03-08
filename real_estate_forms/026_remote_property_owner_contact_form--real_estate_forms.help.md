@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Property Owner Contact Form - Help Guide
 ## Purpose
 This form is used for remote property owners to contact the property management team. It allows you to provide your contact information and reason for inquiry, enabling the team to get in touch with you.

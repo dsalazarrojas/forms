@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for registering participants in a market research study. It collects information about the participant's contact details, availability, and questions or comments they have about the research. The form is designed to help the researcher understand the participant's fit for the study and any concerns or questions they may have. This form will help ensure that participants are properly registered and that their information is accurately recorded.
-
-</thinking>
-
 # education-market-research-registration - Help Guide
 ## Purpose
 This form is for registering participants in a market research study. It collects information about the participant's contact details, availability, and questions or comments they have about the research.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used for referral purposes, to gather information about a client's consultant or agent who referred them to the company. The form aims to capture essential details about the referral source, including contact method, consultant's name, and client's information. The form helps to track referrals efficiently and ensure accurate communication with the client's consultant or agent. 
-
-Please ensure that the form is used for the correct purpose and that you are authorized to use the form. Duplicate referrals should be avoided to prevent unnecessary work and potential conflicts with other consultants or agents. 
-
-This form has multiple pages, but all the fields are explained in detail below for easy reference.
-</thinking>
-
 # Relocation Consultant Referral Form - Help Guide
 ## Purpose
 The Relocation Consultant Referral Form is used to gather information about a client's consultant or agent who referred them to the company. This form helps track referrals efficiently and ensures accurate communication with the consultant or agent.

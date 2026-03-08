@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: The form is used to collect contact information from seminar attendees. It is likely to be used for event organization and participant management. This form should be filled in by seminar attendees to provide their personal details and inquires. The form should not be duplicated for the same attendee, and the data collected here should be used for internal purposes only.
-</thinking>
-
 # Simple Seminar Contact Form - Help Guide
 
 ## Purpose

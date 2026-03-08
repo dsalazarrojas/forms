@@ -1,9 +1,3 @@
-<thinking>
-This form is used by restaurant owners to collect feedback and recommendations from customers.
-The form is used to gauge customer satisfaction and gather information about their dining experience. It is not a form for general contact or customer support inquiries.
-The form should not be used for duplicate submissions. Each submission is a unique instance of a customer's feedback.
-</thinking>
-
 # Restaurant Recommendation Form - Help Guide
 ## Purpose
 This form is used to collect feedback and recommendations from customers about their dining experience at a restaurant.

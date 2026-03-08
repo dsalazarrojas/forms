@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended for gamers to register their information to join a community or participate in events. The fields are designed to capture basic contact and interest information, as well as some personal details such as availability and time zone. To avoid duplication, the form may be used to update existing user information or for new users to register. The form should be used by gamers who are interested in joining a community or participating in events.
-</thinking>
-
 # Gamer Life Registration Form - Help Guide
 ## Purpose
 This form is designed for gamers to register their information and join a community or participate in events.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to provide clear instructions and explanations for the sports participation waiver form. The form is designed to collect participant information, medical history, and emergency contact information to ensure a safe and successful sports participation experience. To prevent duplicate registrations, the form will be reviewed for completeness and accuracy before being approved. Please ensure that all required fields are filled out accurately and thoroughly.
-
-</thinking>
-
 # sports_participation_waiver_form - Help Guide
 ## Purpose
 The sports participation waiver form is required for all participants to ensure their safety and well-being during sports activities. This form collects crucial information about the participant, their emergency contact, and medical history to provide a secure and enjoyable experience.

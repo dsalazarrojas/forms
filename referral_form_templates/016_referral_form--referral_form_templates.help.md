@@ -1,17 +1,3 @@
-<thinking>
-
-This referral form is designed to collect information from a referrer (the person referring someone to your organization or service) and a referee (the person being referred). The form is intended to gather demographic data about both the referrer and the referee, as well as contact information and referral details. This form will help us better understand who is referring to our organization or service and why, which can inform our marketing and outreach efforts.
-
-The form has 15 fields, which are grouped into the following sections: Personal Info, Referee Info, Referral Info, and Contact Info. Each section has a brief description and a list of fields that need to be filled out.
-
-Before filling out the form, please make sure you are referring someone to our organization or service for a valid reason. If you are not sure, you can contact us for clarification.
-
-Also, please note that some fields are required, but some are optional. If you are unable to provide information for a required field, please explain why you cannot provide it in the field labeled "Reason for not providing this information" (this field is not included in the form description, but it's an implied requirement for all fields).
-
-To avoid duplication of referrals, we kindly request that you do not refer the same person to our organization or service more than once.
-
-</thinking>
-
 # Referral Form - Help Guide
 ## Purpose
 This form is used to collect demographic data about a person being referred to our organization or service, as well as the referrer and their contact information. It is intended to help us understand who is referring to our organization or service and why.

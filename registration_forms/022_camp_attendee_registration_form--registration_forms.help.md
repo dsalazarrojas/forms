@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover the "Camp Attendee Registration Form", a critical part of the process for campers to register for the camp program. Before diving into the guide, let's ensure that we're targeting the right audience: this form is intended for campers who are ready to register for the camp program. We will not cover cases where this form is being used for other purposes.
 
 # Camp Attendee Registration Form - Help Guide

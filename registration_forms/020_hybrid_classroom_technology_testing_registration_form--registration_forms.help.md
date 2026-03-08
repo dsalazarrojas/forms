@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to register their interest in testing and demonstrating various technologies in a hybrid classroom setting. The form asks for demographic information, scheduling, and technical details related to the testing sessions. The purpose of this form is to collect necessary information from participants for the testing process.
-
-Before proceeding, please ensure that you are filling this form for the correct purpose and that you have already been invited to participate in a testing session. This form should not be used for any other purpose.
-</thinking>
-
 # hybrid_classroom_technology_testing_registration_form - Help Guide
 ## Purpose
 

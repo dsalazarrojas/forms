@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from students who are interested in enrolling in the Mechanical Engineering program. It is intended to be used by students who want to apply for the program, and it is not a mandatory form. The form is designed to be completed by students themselves, and the collected information will be used to process their applications.
-To ensure that the form is filled out accurately and completely, it is recommended that students read the instructions carefully and fill out the form in a step-by-step manner.
-</thinking>
-
 # Mechanical Engineering Enrollment Form - Help Guide
 ## Purpose
 The Mechanical Engineering Enrollment Form is used to collect information from students who are interested in enrolling in the Mechanical Engineering program.

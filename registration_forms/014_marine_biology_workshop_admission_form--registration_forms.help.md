@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive user-facing help guide for the Marine Biology Workshop Admission Form. This guide will cover the purpose of the form, step-by-step instructions on how to complete it, and a detailed explanation of each field, making it easy for end-users to fill out the form accurately and efficiently.</thinking>
-
 # Marine Biology Workshop Admission Form - Help Guide
 ## Purpose
 The Marine Biology Workshop Admission Form is designed to gather information from participants about their interest in attending the Marine Biology Workshop. This form helps us understand who is interested in attending, their preferences for the workshop type, dates, and other relevant details.

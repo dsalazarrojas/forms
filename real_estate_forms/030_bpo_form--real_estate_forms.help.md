@@ -1,7 +1,3 @@
-<thinking>
-The BPO form is designed to collect information about a property's value and condition. It is used by real estate agents, brokers, and appraisers to gather data about a property, including its address, type, and estimated value. The form is divided into several sections, each with its own set of fields. The purpose of this guide is to walk the user through the form step-by-step, explaining each field's purpose and how to fill it out correctly.
-</thinking>
-
 # BPO Form - Help Guide
 ## Purpose
 The BPO form is a tool used to collect information about a property's value and condition. It helps real estate professionals gather data about a property's address, type, and estimated value.

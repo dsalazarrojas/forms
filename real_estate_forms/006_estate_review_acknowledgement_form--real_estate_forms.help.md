@@ -1,5 +1,3 @@
-<thinking>... (Internal reasoning: The Estate Review Acknowledgement Form is used to verify the status of an estate's review process. The form ensures that all relevant parties, including the estate administrator, are aware of the review's outcome. This form is not mandatory, and its completion is dependent on the specific needs of the estate. Please use it only when necessary and in accordance with your business processes.) ...</thinking>
-
 # Estate Review Acknowledgement Form - Help Guide
 ## Purpose
 The Estate Review Acknowledgement Form is used to verify the status of an estate's review process.

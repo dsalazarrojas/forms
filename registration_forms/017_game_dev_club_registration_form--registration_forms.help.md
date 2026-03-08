@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for students to register themselves for the Game Dev Club, a community of game development enthusiasts. Before filling out the form, please check if you or your parent/guardian has already registered with the club. If you're unsure or have further questions, reach out to the club's administrators. The form is designed for students of all ages and skill levels, but please provide accurate information to ensure proper club representation and communication. 
-</thinking>
-
 # Game Dev Club Registration Form - Help Guide
 ## Purpose
 This form is used for student registration with the Game Dev Club. It collects basic information about the student, their game development experience, and their school affiliation.

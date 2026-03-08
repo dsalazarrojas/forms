@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the inspection of a rental unit. It is intended for use by property managers and landlords to document the condition of a unit upon move-in and move-out, as well as any damages or repairs needed. This form should not be used for other purposes, such as general property condition assessments or maintenance requests. The form is intended for use by tenants and landlords to document their mutual agreement on the condition of the unit at the start and end of a tenancy.
-</thinking>
-
 # Unit Inspection Form - Help Guide
 ## Purpose
 The Unit Inspection Form is a tool for collecting and documenting the condition of a rental unit at move-in and move-out. It helps to ensure that both the tenant and landlord have a clear understanding of the unit's condition and any damages or repairs needed.

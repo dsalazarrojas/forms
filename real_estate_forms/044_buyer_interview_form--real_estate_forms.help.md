@@ -1,7 +1,3 @@
-<thinking>
-The goal of the "Buyer Interview Form" is to gather critical information from potential homebuyers to understand their preferences, goals, and constraints. This form will serve as the foundation for the real estate agent to create a customized home buying experience tailored to the buyer's needs. By completing this form, buyers will be able to provide essential details about their buyer profile, such as their contact information, financial status, property preferences, and expectations. The form will help agents to efficiently process this information and provide valuable insights to guide the homebuying process.
-</thinking>
-
 # Buyer Interview Form - Help Guide
 
 ## Purpose

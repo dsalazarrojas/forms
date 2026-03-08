@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Occupational Health Specialist Referral Form", the form purpose and context need to be understood first. This form appears to be designed for referring patients to an occupational health specialist for medical evaluation and treatment. The form may be used in various contexts such as employee referrals in a workplace setting. The form likely aims to collect information about the patient's medical condition, symptoms, treatment goals, and other relevant details to facilitate proper referral.
-
-Checking for relevance and non-duplication, the form appears to be a simple and straightforward tool. There's no indication of any complex or sensitive data collection, and the fields seem to be designed to gather basic information about the patient. 
-
-</thinking>
-
 # Occupational Health Specialist Referral Form - Help Guide
 ## Purpose
 The Occupational Health Specialist Referral Form is designed to collect information about a patient's medical condition, symptoms, and treatment goals, with the aim of referring them to an occupational health specialist for medical evaluation and treatment.

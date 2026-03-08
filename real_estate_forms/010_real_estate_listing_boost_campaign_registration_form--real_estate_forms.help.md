@@ -1,8 +1,3 @@
-<thinking>
-  The purpose of this form is to register a participant for a real estate listing boost campaign. It is designed to collect information about the participant's commitment, current listings, target listings, campaign rules, agreement, participant email, and agreement confirmation.
-  Before filling out the form, please ensure that you are not a duplicate participant. If you have previously registered for a boost campaign, you may not need to register again.
-</thinking>
-
 # Real Estate Listing Boost Campaign Registration Form - Help Guide
 ## Purpose
 This form is designed to register participants for a real estate listing boost campaign. Please fill out this form to provide required information and express your interest in the campaign.

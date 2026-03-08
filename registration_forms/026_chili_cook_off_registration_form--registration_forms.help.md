@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from participants and teams for a cooking competition. The form is used to gather basic participant information, such as name, contact details, payment status, and cooking category. It also includes a section for teams to list their members and indicate any equipment needs. The form is intended for people who are interested in participating in the Chili Cook Off competition, and it is designed to ensure that all participants and teams are properly registered and accounted for in the competition.
-</thinking>
-
 # Chili Cook Off Registration Form - Help Guide
 ## Purpose
 This form is used to register participants and teams for the Chili Cook Off competition. It is essential to fill out this form accurately and completely to ensure that you are properly registered and accounted for in the competition.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a simple registration form for users to provide their information and contact details. It is not affiliated with any form platform and is an original adaptation created by AI using public survey topic metadata as inspiration. The form is intended for users to register their warranty information and provide their contact details. Please make sure to fill out the form accurately and completely. Before submitting the form, review all the fields to ensure you have provided all necessary information. This form does not require any specific order or sequence of filling out the fields. However, filling out the fields in a clear and logical order is recommended for ease of understanding.
-</thinking>
-
 # Warranty Registration Form - Help Guide
 ## Purpose
 This form is designed for users to register their warranty information and provide their contact details.

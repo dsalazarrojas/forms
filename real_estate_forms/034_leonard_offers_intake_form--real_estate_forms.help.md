@@ -1,10 +1,3 @@
-<thinking>
-To provide a helpful user guide for the "leonard_offers_intake_form" form, we need to first understand the form's purpose and how it fits into the overall workflow. The form appears to be a basic contact or offer intake form, likely used for gathering information from users or customers. However, the exact purpose and usage of the form may vary depending on the internal context and requirements. To confirm, we'll need more information on the form's expected use case and any specific business logic or requirements it's meant to fulfill.
-
-Assuming the form is for general contact or offer intake, here's a possible guide based on the provided YAML:
-
-</thinking>
-
 # leonard_offers_intake_form - Help Guide
 ## Purpose
 The "leonard_offers_intake_form" is a basic form for gathering contact or offer information from users. It collects various details such as name, contact email, phone number, dates, times, and additional notes.

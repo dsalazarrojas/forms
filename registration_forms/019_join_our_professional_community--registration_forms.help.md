@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a part of the registration process for our professional community. It captures essential information from individuals interested in joining the community. This form will likely be used by community administrators to verify and process new member registrations.
-
-Before proceeding, check if you have already registered or submitted your information in the past. This will save you time and ensure you don't submit duplicate registrations.
-
-This guide will walk you through the form fields and help you complete it accurately.
-</thinking>
-
 # join_our_professional_community - Help Guide
 ## Purpose
 This form is used to register your interest in joining our professional community. Please fill out the form below to provide your details.

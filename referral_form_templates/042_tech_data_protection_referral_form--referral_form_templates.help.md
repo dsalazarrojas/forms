@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tech Data Protection Referral Form - Help Guide
 
 ## Purpose

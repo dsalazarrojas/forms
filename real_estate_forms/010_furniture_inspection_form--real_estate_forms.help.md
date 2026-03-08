@@ -1,20 +1,3 @@
-<thinking>...This form is used by property managers to collect information about the condition and condition of furniture in a building or property. The form is designed to be completed by property managers or inspectors, and it is not intended for end-users. The form's purpose is to quickly and accurately gather data about the state of furniture in the property. The form is likely to be used for administrative or internal purposes, such as tracking the condition of furniture over time or making decisions about maintenance or replacement. The form is not intended for public use or for end-users to input their own information.
-
-The form is divided into several sections, each with its own set of questions or fields. The sections are designed to gather different types of information about the furniture, such as its overall condition and material type.
-
-The form's fields include:
-
-* General Information: This section is for the property manager or inspector to provide basic contact information, such as their name and contact number.
-* condition: This field is for the inspector to rate the condition of the furniture, with options ranging from Good to Bad.
-* material_type: This field is for the inspector to select the type of material that the furniture is made of.
-* damage_present: This field is for the inspector to indicate whether or not damage is present on the furniture, with options True or False.
-* damage_details: This field is for the inspector to provide more details about the damage, such as the location and severity.
-* photos: This field is for the inspector to indicate whether or not photos were taken of the furniture, with options True or False.
-* additional_comments: This field is for the inspector to provide any additional comments or information about the furniture.
-* signature: This field is not actually a field in the classical sense, but rather a note for the property manager or inspector to sign their name.
-
-... </thinking>
-
 # Furniture Inspection Form - Help Guide
 
 ## Purpose

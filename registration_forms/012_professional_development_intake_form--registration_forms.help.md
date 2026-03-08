@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure the integrity of this form, I will first provide a brief internal reasoning block that explains the form's purpose and checks for relevance and non-duplication.
 
 The purpose of this form is to gather essential information from professionals for the Professional Development Intake Program. This form will help the organization to identify areas for professional growth, create relevant training programs, and allocate resources more efficiently.

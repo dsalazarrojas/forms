@@ -1,7 +1,3 @@
-<thinking>
-We will need to ensure that the form is filled out correctly. This form is for obtaining consent from animal owners for filming and recording of their training sessions. The form is used to collect information about the animal owner, the dog, and the training session. This includes consent to record video, audio, and photos during the session. The form also asks about how the footage will be used and what rights the owner has. It's essential to understand that this form is a legal document and should be filled out carefully. The purpose of this form is to ensure that all parties involved are aware of their rights and responsibilities. We will review the form for completeness and accuracy before proceeding with the filming and recording of the session.
-</thinking>
-
 # Animal Training Session Filming Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from animal owners for filming and recording of their training sessions. It ensures that all parties involved are aware of their rights and responsibilities.

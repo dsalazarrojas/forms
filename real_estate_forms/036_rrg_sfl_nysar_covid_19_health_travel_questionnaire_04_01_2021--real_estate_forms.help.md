@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect health-related information from individuals who have traveled. The purpose of this form is to gather data about the traveler's health status, travel history, and any potential exposure to COVID-19. This includes questions about fever, symptoms, close contact with confirmed COVID-19 cases, test results, quarantine status, healthcare providers, contact information, test results issuers, test dates, travel dates, travel destinations, travel duration, travel type, travel purpose, contact names, contact numbers, email, health conditions, and vaccination status. This form will help in understanding the traveler's health situation and provide guidance on next steps.
-
-</thinking>
-
 # RRG_SFL_NYSAR_COVID_19_Health_Travel_Questionnaire_04_01_2021 - Help Guide
 ## Purpose
 This form is used to collect health-related information from individuals who have traveled, with the aim of gathering data about their travel history, health status, and potential exposure to COVID-19.

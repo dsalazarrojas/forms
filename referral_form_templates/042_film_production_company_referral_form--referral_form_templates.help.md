@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Production Company Referral Form - Help Guide
 ## Purpose
 The Film Production Company Referral Form is designed to provide information about a film production company and facilitate referrals to other departments within the company. This form is used to gather data about potential new business opportunities with film production companies and to track the status of current leads.

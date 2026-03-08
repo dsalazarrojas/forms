@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Church Conference Registration Form Template - Help Guide
 
 ## Purpose

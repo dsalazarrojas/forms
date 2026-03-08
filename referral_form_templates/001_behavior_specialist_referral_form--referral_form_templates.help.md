@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Behavior Specialist Referral Form - Help Guide
 
 ## Purpose

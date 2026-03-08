@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Live Audience Interview Consent Form - Help Guide
 ## Purpose
 This form is intended to collect information and consent from participants before conducting a live audience interview. The form is designed to ensure that participants understand the terms and conditions of the recording and have given their explicit consent to be recorded.

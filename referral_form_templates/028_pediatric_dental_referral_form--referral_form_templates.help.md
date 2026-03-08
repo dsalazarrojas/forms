@@ -1,10 +1,3 @@
-<thinking>
-Pediatric Dental Referral Form: 
-This form is designed to gather relevant patient information and medical history to ensure a smooth referral process for children. 
-This form is intended for patients who need to be referred to a specialist or for further evaluation. 
-Please make sure that you have not submitted this form recently for the same patient, as duplicate submissions may lead to unnecessary delays in processing the referral. 
-</thinking>
-
 # Pediatric Dental Referral Form - Help Guide
 ## Purpose
 The Pediatric Dental Referral Form is a tool used to gather essential information about a patient's medical history and dental needs. This form helps the healthcare team to make informed decisions about referrals and ensure the best possible care for the patient.

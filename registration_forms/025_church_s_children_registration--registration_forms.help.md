@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Church's Children Registration - Help Guide
 
 ## Purpose

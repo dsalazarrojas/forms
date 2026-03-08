@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about outdoor safety checks, focusing on areas that should be inspected, fire safety policies, and other critical aspects of outdoor spaces. It appears to be a tool for ensuring the safety and well-being of individuals or participants in these outdoor areas. The form has multiple sections, asking users to identify areas to inspect, select relevant policies, describe potential hazards and safety measures, and identify emergency response protocols. This form likely serves as part of a broader safety protocol or audit process. Before creating this guide, it's essential to review the provided information for relevance and potential duplication of effort. Ensure that this form's purpose aligns with your organization's specific needs and goals.
-</thinking>
-
 # Outdoor Safety Checklist Form - Help Guide
 ## Purpose
 The Outdoor Safety Checklist Form is designed to help you inspect and evaluate outdoor areas, ensuring they are safe for individuals or participants. This form guides you through a series of sections, each focusing on key aspects of outdoor safety.

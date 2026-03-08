@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AR Tenant Application Form 1 - Help Guide
 
 ## Purpose

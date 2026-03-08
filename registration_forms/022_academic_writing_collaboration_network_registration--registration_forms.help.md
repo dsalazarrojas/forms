@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to create a profile for a user to register themselves in an Academic Writing Collaboration Network. The purpose is to allow users to showcase their academic background, interests, and preferences for collaboration. This registration form will help the network administrators to understand each user's capabilities and match them with potential collaborators for academic projects or activities.
-
-The form will ask for general information like name, contact email, and institutional affiliation, which will help in establishing a connection with the user. It will also inquire about the user's primary academic field, research interests, and their willingness to engage in various types of collaboration activities.
-
-To help the network's matching process, the form will ask about the user's career stage, desired frequency of interaction, and time zones they are available to collaborate in. This information will facilitate connections between users from different stages of their career.
-
-Additionally, the form will allow users to indicate their preference for communication channels and the level of visibility of their profile within the network. This is to ensure that users can easily connect and discuss potential collaboration opportunities.
-
-The form includes fields to showcase recent publications or projects of the user, which will serve as evidence of their expertise and accomplishments. This section will help users demonstrate their value as a collaborator and provide a basis for network administrators to verify their credentials.
-
-The following sections are included in this form to gather more comprehensive information about the user and help in matching them with suitable collaborators:
-
-* Section 1: Member Profile, which includes member's name, institutional affiliation, contact email, and primary academic field.
-* Section 2: Research and Writing, which includes specific research interests, types of collaboration they are open to, and recent publications.
-* Section 3: Availability, which includes time zones they can collaborate in.
-* Section 4: Networking, which includes preferred communication channels and desired frequency of interaction.
-* Section 5: Profile Visibility, which includes a privacy setting for their profile visibility in the network.
-
-By filling out this form, users will be able to create a comprehensive profile that showcases their academic background, interests, and collaboration preferences. This will help the network administrators to connect users with suitable collaborators and facilitate academic collaborations within the network.
-</thinking>
-
 # Academic Writing Collaboration Network Registration - Help Guide
 ## Purpose
 

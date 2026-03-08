@@ -1,5 +1,3 @@
-<thinking>As a general membership form, this document outlines the steps to be taken when registering a new member. The form is designed to collect general information about the member, including their contact details, membership type, and payment information. The form is intended for both individual and family registrations, and the membership type field allows for selection of multiple types. Payment information includes payment method and amount. The form also includes fields for additional notes and payment status. Each field is optional except for the general membership form field which is required. This form is not meant to be used for specific membership types such as employee or student.</thinking>
-
 # General Membership Form - Help Guide
 ## Purpose
 The General Membership Form is designed to collect general information about new members, including their contact details, membership type, and payment information. This form is intended for both individual and family registrations.

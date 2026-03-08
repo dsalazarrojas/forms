@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture realtor agency information for compliance and regulatory purposes. The form will help realtors disclose their agency details, which includes company information, agent information, and agency licensing details. The form is crucial for maintaining the integrity of real estate transactions and ensuring that agents operate within the boundaries of the law. The information gathered through this form will help in the prevention of illegal activities and promote a transparent real estate market.
-</thinking>
-
 # Realtor Disclosure Form - Help Guide
 ## Purpose
 

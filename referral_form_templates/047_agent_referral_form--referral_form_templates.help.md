@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to allow agents or representatives to refer clients to other agents or representatives within the organization. It captures relevant information about the client, the referral reason, and other necessary details. The form helps track and manage referrals efficiently. This guide will walk you through the fields required to complete this form correctly.
-</thinking>
 # Agent Referral Form - Help Guide
 ## Purpose
 This form is for referrals from one agent to another. Fill it out for formal referrals.

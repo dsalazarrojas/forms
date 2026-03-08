@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from students who are interested in joining the committee of the student union. The committee is responsible for organizing various events and activities, handling finance and budgeting, public relations and marketing, academic affairs, student welfare, diversity and inclusion, and technology and innovation. The form is divided into several sections, including personal information, committee preferences, experience and skills, availability, and getting to know you.
-
-To ensure that the committee interest forms are completed correctly and do not overlap, the union will only allow one form submission per student. Therefore, please make sure that you are not submitting multiple forms for different committees.
-
-</thinking>
-
 # Committee Interest Form - Help Guide
 ## Purpose
 

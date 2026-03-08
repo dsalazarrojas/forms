@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from athletic scouts and referral sources about potential athletes for recruitment. The purpose of this form is to streamline the collection of scouting data, allowing for efficient review and comparison of athlete prospects. Please ensure that this form is filled out only for legitimate scouting purposes and not for other uses like recruiting friends or family members. Also, please refrain from duplicating efforts, as this form is meant to be a one-time collection of information.
-</thinking>
-
 # Athlete Scout Referral Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from athletic scouts and referral sources about potential athletes for recruitment.

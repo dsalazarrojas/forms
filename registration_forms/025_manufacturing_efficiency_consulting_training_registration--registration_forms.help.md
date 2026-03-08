@@ -1,7 +1,3 @@
-<thinking>
-The form "manufacturing_efficiency_consulting_training_registration" is designed to collect information for a manufacturing efficiency consulting training program registration. This form aims to gather essential details from participants, such as their category, description, and session dates, to facilitate efficient registration and coordination of the training program. The form will not be duplicated in the system, so participants only need to fill it out once. Each field has been carefully selected to ensure that the participant provides all necessary information for a successful registration process. Please make sure to fill out the form accurately and thoroughly, as any missing or incorrect information may result in delays or issues with your registration.
-</thinking>
-
 # manufacturing_efficiency_consulting_training_registration - Help Guide
 ## Purpose
 This form is designed to collect registration information for the manufacturing efficiency consulting training program.

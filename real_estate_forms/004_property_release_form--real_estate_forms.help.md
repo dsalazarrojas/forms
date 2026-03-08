@@ -1,7 +1,3 @@
-<thinking>
-This form is used for releasing properties, and its purpose is to gather necessary information for property releases. It is intended for end-users who need to provide details about a property they want to release. To ensure accurate completion, please make sure to fill in all required fields and only select relevant options. Please note that some fields might be optional, but it's best to fill them in if necessary.
-</thinking>
-
 # property_release_form - Help Guide
 ## Purpose
 The property release form is used to gather information about a property release, including details about the property, the owner, and the release process.

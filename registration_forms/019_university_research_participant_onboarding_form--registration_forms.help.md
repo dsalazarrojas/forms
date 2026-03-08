@@ -1,5 +1,3 @@
-<thinking>...This form is for registering new participants for university research studies. This form is designed to collect essential details from participants, including their availability, contact information, and consent. The form is part of a larger onboarding process to ensure that participants are properly registered and can be contacted for study-related activities. This form is intended for use by participants, not researchers. To prevent duplication of effort and ensure accuracy, please use this form to gather necessary information from each participant. Ensure that you enter valid and accurate information in each field... </thinking>
-
 # University Research Participant Onboarding Form - Help Guide
 ## Purpose
 The University Research Participant Onboarding Form is a crucial step in the participant registration process for university research studies. This form helps ensure that new participants are properly onboarded and can be contacted for study-related activities.

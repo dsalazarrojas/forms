@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals seeking to apply for tenancy or rental properties. Its purpose is to provide a structured and organized way for landlords or property managers to gather necessary details from potential tenants. The form aims to streamline the application process, ensuring that all relevant information is collected in a clear and concise manner.
-</thinking>
-
 # Tenant Application Form - Help Guide
 ## Purpose
 The Tenant Application Form is a tool designed to collect essential information from individuals applying for tenancy or rental properties. This form helps landlords or property managers gather all necessary details in an organized and structured way, making the application process smoother and more efficient.

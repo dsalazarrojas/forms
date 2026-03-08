@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I reviewed the provided YAML field inputSchema. The form "get_an_estimate_for_some_service_form" is designed to collect information from customers for the purpose of obtaining an estimate for a service. The form appears to be used in a sales or customer support context, where the goal is to gather details about the customer's needs and preferences, as well as the business's offerings and services.
-
-Upon reviewing the fields, I noticed that the form is divided into two main sections: customer information and service details. The customer information section includes fields for customer name, contact number, email address, services offered, estimated cost, and description. The service details section includes fields for estimated time, service hours, business relationships, customer relationships, customer comments, business comments, follow-up, and next actions.
-
-To prevent duplication, I will ensure that the form does not have any duplicate fields, and to prevent non-relevant information, I will focus on the essential fields that are directly related to obtaining an estimate for a service.
-
-</thinking>
-
 # get_an_estimate_for_some_service_form - Help Guide
 ## Purpose
 The "get_an_estimate_for_some_service_form" is a form used to collect information from customers for the purpose of obtaining an estimate for a service. This form is designed to gather details about the customer's needs and preferences, as well as the business's offerings and services.

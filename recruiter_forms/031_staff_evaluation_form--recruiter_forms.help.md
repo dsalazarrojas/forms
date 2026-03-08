@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation from staff members on their performance, skills, and areas of improvement. It's meant to be used by managers or supervisors to assess the effectiveness of their team members. This guide will walk you through how to complete each section of the form.
-</thinking>
-
 # Staff Evaluation Form - Help Guide
 
 ## Purpose

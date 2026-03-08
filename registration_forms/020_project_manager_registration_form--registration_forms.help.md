@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for registering project managers, likely for organizational or project management purposes. The form seems to collect general information about the project manager, including personal details (first name, last name, email), job-related information (job title, project ID, start and end dates), and contact information (phones and emails). The "Job Description" field may be intended to provide context or details about the project manager's role, but its purpose is unclear without further context. 
-</thinking>
-
 # Project Manager Registration Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-
-This form is designed to collect information for local listings, which are listings for properties or businesses that are specific to a particular geographic location. The form is intended to gather details such as listing type, address, and contact information to provide a comprehensive view of the listing. The fields are designed to be straightforward and easy to understand, with clear labels and explanations to guide the user through the process.
-
-Before proceeding, ensure that you are not duplicating a request for a local listing. This form is for new listings only.
-
-</thinking>
-
 # Local Listings Request Form - Help Guide
 ## Purpose
 The Local Listings Request Form is designed to collect information about local listings for properties or businesses. This form will help us better understand your listing and provide a clear and concise view of your local business or property.

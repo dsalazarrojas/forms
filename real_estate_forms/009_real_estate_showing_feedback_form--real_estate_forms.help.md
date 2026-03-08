@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Showing Feedback Form - Help Guide
 ## Purpose
 The Real Estate Showing Feedback Form is designed to gather feedback and information from attendees after a showing, allowing property agents to collect valuable insights and improve their services.

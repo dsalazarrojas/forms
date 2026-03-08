@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Author Reading RSVP Form - Help Guide
 
 ## Purpose

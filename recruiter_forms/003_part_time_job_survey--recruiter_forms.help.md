@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'm analyzing the form purpose and relevance to guide users through it effectively. This form is designed to collect information about part-time job seekers, including their category, salary range, work availability, job type, location, duties, skills, education, experience, job status, contact information, availability date, preferred language, and job type. The form aims to gather essential details to help match job seekers with potential employers. It's crucial to ensure that the questions are clear, concise, and relevant to the target audience.</thinking>
-
 # Part Time Job Survey - Help Guide
 ## Purpose
 This form is designed to collect information from part-time job seekers. It's used to gather details about their category, salary range, work availability, job type, location, duties, skills, education, experience, job status, contact information, availability date, preferred language, and job type.

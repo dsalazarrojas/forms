@@ -1,7 +1,3 @@
-<thinking>
-This form is used for referring a patient to a mental health professional. The purpose of this form is to provide essential information about the patient's mental health history, treatment goals, diagnosis, and other relevant details for the receiving practitioner. It's recommended to fill this form only for patients with whom you have an established relationship or have received consent from the patient to share their information. Please ensure that the information entered is accurate and up-to-date. It's also good practice to review the information before sending it to the recipient, ensuring that the provided details are relevant and sufficient. If the patient's current status is not listed on the options provided, choose the "Other" option and provide more details in the "Medical Notes" field.
-</thinking>
-
 # Psychiatric Referral Form - Help Guide
 ## Purpose
 The Psychiatric Referral Form is used to gather information from patients for referrals to mental health professionals. The form is designed to provide an overview of the patient's mental health history, current status, and treatment goals.

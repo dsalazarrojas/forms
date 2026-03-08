@@ -1,11 +1,3 @@
-<thinking>
-
-Internal note to self: This form is used for referral and authorization requests, likely for medical or administrative tasks. The purpose is to collect relevant information about the patient, referral process, and authorization status. We should verify that users understand the form's intent before proceeding. This form should not be duplicated for similar purposes.
-
-Form users should be aware that this form is used for both referral and authorization requests, and it's essential to fill out the form accurately. Each field's description will help users understand the purpose of the form better.
-
-</thinking>
-
 # Decision Support Referral And Authorization Request Form - Help Guide
 ## Purpose
 The Decision Support Referral And Authorization Request Form is used to collect information about patients and their referral and authorization processes. This form helps streamline referral and authorization requests, making it easier for healthcare professionals and administrators to manage these tasks.

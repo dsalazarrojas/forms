@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for a training program raffle entry. The purpose of this form is to gather details about the raffle, including the raffle name, organization, contact information, and raffle specifics. This form should only be used for creating a new raffle, and not for editing an existing one. Please note that all fields marked as required must be filled out for the form to be submitted successfully.
-</thinking>
-
 # training_program_raffle_entry - Help Guide
 ## Purpose
 This form is used to create a new training program raffle entry.

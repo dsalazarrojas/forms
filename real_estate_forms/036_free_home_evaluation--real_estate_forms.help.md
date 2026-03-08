@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from users about a property they are interested in, such as its free home evaluation. The form is intended to be used by real estate professionals to gather details about the property in question. This form will likely be used within the real_estate_forms category and its purpose will be to provide a free home evaluation.
-
-Before creating this guide, I will review the form's fields and their descriptions to ensure that the explanations are accurate and clear.
-
-</thinking>
-
 # free_home_evaluation - Help Guide
 ## Purpose
 This form is used by real estate professionals to gather details about a property in need of a free home evaluation.

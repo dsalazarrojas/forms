@@ -1,15 +1,3 @@
-<thinking>
-We can generate a help guide for this form based on the provided YAML. However, it seems that the form has a large number of fields that seem to be duplicates. I'm assuming that some of these fields might be meant to be collected for different scenarios or purposes. If that's not the case, this form might be over-designed or not well-optimized for the intended use case.
-
-Before I start creating the help guide, could you please confirm or clarify the following:
-* Are all these fields indeed meant to be collected for the same scenario or purpose?
-* Are there any specific instructions or requirements that the form is intended to fulfill?
-* Are there any specific sections or categories that the fields should be grouped into?
-
-Once I have a better understanding of the form's purpose and requirements, I can generate a more accurate and effective help guide for the end users.
-
-If you need any further clarification or have any questions, please feel free to ask!</thinking>
-
 # Seller Disclosure Form - Help Guide
 ## Purpose
 The Seller Disclosure Form is designed to collect general information, property details, hazards, seller and buyer information, and any additional comments or disclosures. This form is intended for use in real estate transactions to facilitate communication and exchange of information between parties involved in the sale or lease of a property.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for instructors and administrators who want to create a Group Class planning survey to gather information about a class they plan to lead or have already started. The purpose of this form is to collect necessary details about the class to ensure that it meets all relevant requirements and is accessible to students. This form will help you to gather accurate and comprehensive information about your class.
-</thinking>
-
 # Group Class Planning Survey - Help Guide
 ## Purpose
 The Group Class Planning Survey is a form designed to collect necessary information about a class you are planning or have already started. This information includes details such as class title, instructor name, class type, start date, duration, location, and schedule.

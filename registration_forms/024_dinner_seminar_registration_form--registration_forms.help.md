@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering attendees to a dinner seminar. It captures basic information about the event (event name) and the attendee's details (name, contact information, and dietary preferences). The form also collects information on the event details such as date and time, location and attendee's guests. This form is a standard form to be filled by anyone interested in attending the seminar.
-</thinking>
-
 # Dinner Seminar Registration Form - Help Guide
 ## Purpose
 This form is used for registering attendees to a dinner seminar.

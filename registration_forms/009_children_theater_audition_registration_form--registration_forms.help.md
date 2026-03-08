@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for parents or guardians to register their children for auditions with a theater company. The form is to be filled out by the parent or guardian, providing information about the child, their parent, and the child's experience and abilities. The child's information includes their name, date of birth, age, and contact details. The parent or guardian's information includes their name, email, phone number, and address. The child's experience and abilities are also asked, including their singing and dancing ability levels, previous experience, and any special skills or talents they may have. The form also asks for availability for rehearsals and performances, and the child's role preferences or character interests.
-</thinking>
-
 # Children Theater Audition Registration Form - Help Guide
 ## Purpose
 This form is intended for parents or guardians to register their children for auditions with a theater company.

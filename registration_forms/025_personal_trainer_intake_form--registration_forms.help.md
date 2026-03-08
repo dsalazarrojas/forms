@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Trainer Intake Form - Help Guide
 
 ## Purpose

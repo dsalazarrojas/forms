@@ -1,5 +1,3 @@
-<thinking>As a security expert, I've reviewed the form's purpose and requirements, and I've identified the following:</thinking>
-
 # Retail Security Guard Entrance Exam Registration - Help Guide
 ## Purpose
 

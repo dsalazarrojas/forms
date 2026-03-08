@@ -1,16 +1,3 @@
-<thinking>
-This form's purpose is to measure job satisfaction among employees. The survey is designed to be a simple and concise tool for employers to gauge their employees' overall job satisfaction levels. The form's design is based on public survey topic metadata, making it an original adaptation without copying or using proprietary content from any form platforms.
-
-Before proceeding, please ensure that this form is relevant to your specific use case and not a duplicate of an existing survey. If you're unsure, consider the following:
-
-* Is this form tailored to your industry or organization's specific needs?
-* Are there any existing surveys or forms that cover the same topics or questions?
-* Have you reviewed the survey's content for clarity and accuracy?
-
-If you're still unsure, consult with your team or stakeholders to validate the form's purpose and relevance before proceeding.
-
-</thinking>
-
 # Job Satisfaction Survey - Help Guide
 ## Purpose
 The Job Satisfaction Survey is a tool designed to measure job satisfaction among employees. Its purpose is to gather information on their feelings and experiences related to their job.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for attendance monitoring at a fitness center. This form aims to gather details such as first name, last name, email, phone number, class date, start time, end time, fitness center, class type, class level, note, assigned tool, category, description, and form IDs. The form is designed to be completed by users to record their attendance and other relevant information. It is not intended for internal or proprietary purposes but rather for public use as an adaptation of a public survey topic metadata.
-</thinking>
-
 # fitness_center_attendance_monitoring_form - Help Guide
 ## Purpose
 The purpose of this form is to collect attendance information from users at a fitness center.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for the user to input their registration information for free activation. The fields cover various aspects of the registration process, including personal details (name, email, phone), company information (company name, job title, department), and onboarding details (delivery date, delivery time, comments). 
-
-The form also includes fields for manager's information (manager name, email, phone, title) and onboarding specifics (onboarding status, next steps). The "submission" field is used to indicate whether the form has been submitted or not. 
-</thinking>
-
 # free_activation_guide_registration - Help Guide
 ## Purpose
 The purpose of this form is to gather information for the free activation process.

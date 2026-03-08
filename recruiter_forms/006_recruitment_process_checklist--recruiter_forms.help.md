@@ -1,6 +1,3 @@
-<thinking> 
-This form appears to be a comprehensive checklist for the recruitment process, gathering information and status updates for potential candidates. It is likely used by recruiters to track and manage candidate applications. 
-It's worth noting that some fields seem to be duplicates or could be further clarified for the intended user, for instance 'decision_made', 'candidate_status', 'status' and 'interview_status' all seem to be related to the same concept of the candidate's status in the recruitment process. Additionally, 'application_source' and 'application_stage_id' seem to be related to the source and stage of the application, respectively. This form might benefit from a more detailed description of the fields and their relationships to help users better understand how to fill out the form correctly.</thinking> 
 # Recruitment Process Checklist - Help Guide
 ## Purpose
 The Recruitment Process Checklist is used to track and manage candidate applications throughout the recruitment process.

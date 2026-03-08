@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transaction Coordinator Form - Help Guide
 ## Purpose
 The Transaction Coordinator Form is a document used to gather information related to real estate transactions, including contact details, property and transaction information, and status updates. This form will help you track and manage your real estate transactions efficiently.

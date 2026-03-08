@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a real estate listing, including agent and property details. The purpose of this form is to facilitate the listing process by gathering essential data for marketing and sales activities. Before proceeding, please ensure that you are submitting information relevant to your listing and not duplicating existing submissions.
-
-Please note that some fields are required for accurate and efficient processing, while others are optional but recommended for providing additional context.
-</thinking>
-
 # <internal>LISTING SUBMISSION SHEET</internal> - Help Guide
 ## Purpose
 This form is used to collect listing submission data for real estate properties.

@@ -1,7 +1,3 @@
-<thinking>
-The form "leadership_benchmarking_forum_registration_form" is designed to collect user information for the purpose of registering users for a leadership benchmarking forum. This form should be used by users who want to participate in the forum and provide their contact preferences, leader data, registration information, event information, and submit their registration. It is possible that this form will be used internally to prevent non-duplication and ensure that only unique users are registered. However, this should be checked internally to verify this assumption.
-</thinking>
-
 # leadership_benchmarking_forum_registration_form - Help Guide
 ## Purpose
 This form is designed to collect user information for the purpose of registering users for a leadership benchmarking forum. It is intended for users who want to participate in the forum and provide their contact preferences, leader data, registration information, and event information.

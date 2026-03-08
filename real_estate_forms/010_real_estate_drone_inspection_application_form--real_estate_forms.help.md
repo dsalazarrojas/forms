@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for real estate drone inspection applications. It allows users to provide information about a property inspection, including the address, client details, and drone inspection specifics. The form is likely used for real estate professionals to conduct thorough inspections of properties, ensuring that they are well-equipped to provide accurate and reliable assessments. This form should only be used for real estate drone inspections and not for other types of inspections.
-
-</thinking>
-
 # Real Estate Drone Inspection Application Form - Help Guide
 ## Purpose
 This form is used for real estate drone inspections. It provides a structured format for collecting information about properties, clients, and drone inspection specifics.

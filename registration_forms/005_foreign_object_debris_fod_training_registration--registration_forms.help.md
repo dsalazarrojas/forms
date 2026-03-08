@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering participants in a Foreign Object Debris (FOD) training session. The form captures essential information for the training organizers and attendees. Please ensure that you are filling out this form only once for each training session, and that all the details are accurate and up-to-date. If you are unsure about any field, please refer to this help guide for clarification.
-</thinking>
-
 # Foreign Object Debris FOD Training Registration - Help Guide
 ## Purpose
 This form is used to register for a Foreign Object Debris (FOD) training session.

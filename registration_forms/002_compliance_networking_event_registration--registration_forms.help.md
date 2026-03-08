@@ -1,10 +1,3 @@
-<thinking>
-This form is used for attendees to register for a compliance networking event, which is an event focused on connecting professionals in the compliance industry. The purpose of this form is to collect relevant information about the attendees, such as their name, organization, email address, and ticket type. This information will be used to provide attendees with updates and confirmations, as well as to facilitate connections with other attendees and event partners.
-
-Before starting the registration process, please note that you should only register if you are a professional in the compliance industry or affiliated with a company or institution in this field. Repeatedly registering for this event may cause your registration to be rejected. If you have previously registered and need to make changes, please contact the event organizers directly.
-
-To register for the event, please follow the instructions below.</thinking>
-
 # Compliance Networking Event Registration - Help Guide
 ## Purpose
 This form is used to register for a compliance networking event. Please ensure that you are a professional in the compliance industry or affiliated with a company or institution in this field before registering.

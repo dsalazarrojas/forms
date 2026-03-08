@@ -1,8 +1,3 @@
-<thinking>
-This form is used for collecting data from participants in a field survey. The purpose of this form is to gather information about each participant, including their relationship with the surveyor, their consent to publish their data, the intended use of the data, contact information, publication date, data retention policies, data distribution, a contact person, and their signature. This form is meant to ensure that all participants are aware of and agree to the terms of data publication. This form is not meant for duplicate entries, so please fill it out only once for each participant.
-
-</thinking>
-
 # Field Survey Data Publication Consent Form - Help Guide
 
 ## Purpose

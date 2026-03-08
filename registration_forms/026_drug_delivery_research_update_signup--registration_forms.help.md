@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used to register a user's preferences for drug delivery research updates. It appears to be designed for users who want to customize their update preferences for various aspects of drug delivery research, including laboratories, research teams, organizations, and other preferences. The form allows users to select which types of updates they prefer to receive, and also collect other general contact information like email, time, and phone number.
-</thinking>
-
 # drug_delivery_research_update_signup - Help Guide
 ## Purpose
 This form is used to register your preferences for drug delivery research updates.

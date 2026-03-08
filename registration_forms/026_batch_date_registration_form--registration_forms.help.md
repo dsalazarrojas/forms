@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for a training program. It is essential to fill out the form accurately to ensure that you receive the correct registration information and to avoid any confusion with the training team. Please note that this form is a one-time registration form and should not be submitted multiple times. If you are unsure about the form or its fields, please contact the training administration for assistance.
-</thinking>
-
 # Batch Date Registration Form - Help Guide
 ## Purpose
 This form is used to register for a training program and provide essential information for the training administration to prepare for your needs.

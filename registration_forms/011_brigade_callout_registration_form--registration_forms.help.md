@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Brigade Callout Registration Form - Help Guide
 
 ## Purpose

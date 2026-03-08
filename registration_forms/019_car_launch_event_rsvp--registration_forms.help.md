@@ -1,9 +1,3 @@
-<thinking>
-This guide is for the "Car Launch Event RSVP" form, which is designed to collect information from guests attending a car launch event. The form gathers essential details such as guest name, email address, phone number, and attendance status. It also includes sections for vehicle interest, preferences, and verification.
-The form is crucial in organizing the event, allowing organizers to track attendees, their interests, and preferences. It helps in sending targeted communications and tailoring experiences for each guest.
-Please ensure that you fill in all required fields as accurately as possible to ensure your RSVP is valid. This form should only be completed once per guest.
-</thinking>
-
 # Car Launch Event RSVP - Help Guide
 
 ## Purpose

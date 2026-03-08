@@ -1,7 +1,3 @@
-<thinking>
-To provide the best possible guidance for users completing the form, I first need to understand the purpose of this form and ensure that it's not being filled out for a reason that's not relevant or a duplication. This form is likely a School Withdrawal Survey used to gather information from students who are leaving school, which is a common occurrence in educational institutions. The primary goal of this form is to collect information on why students are leaving, which is essential for school administrators to identify areas that need improvement and create strategies to prevent future student withdrawals. To avoid duplication, the form should only be filled out by students who have actually left the school and not by parents or teachers. 
-</thinking>
-
 # School Withdrawal Survey - Help Guide
 ## Purpose
 This form is used to gather information from students who are leaving school. Your input will help the school administration understand reasons for student departures and identify areas for improvement.

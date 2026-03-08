@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect professional references from job applicants, providing an opportunity for the applicant to provide a reference from a professional contact, such as a previous employer or colleague. The form is intended to be used by hiring managers or recruiters to assess the quality of candidates through their professional connections. This form helps to gather detailed information about the candidate's job history, contact information, and overall performance.
-
-Before filling out this form, please ensure that you are a professional reference of the candidate. If you are not, please do not submit this form.
-
-Please note that this form is intended to be filled out once per reference, so please do not submit multiple forms for the same candidate.
-
-</thinking>
-
 # professional-reference-form - Help Guide
 ## Purpose
 This form is designed to collect professional references from job applicants.

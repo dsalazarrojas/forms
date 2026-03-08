@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended for sellers to provide information about themselves and their property. The form asks for basic contact information, the best time to contact them, how soon they'd like to sell, and other details about their property. The fields appear to be a mix of general contact information, property specifics, and options for time and reason to sell. The form does not contain any fields that would indicate it is for duplication, and it is likely used to gather data for a specific purpose, such as listing a property for sale or renting. The form's structure suggests a basic, straightforward purpose, and the fields do not appear to overlap or be redundant.
-</thinking>
-
 # Seller Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from the seller about themselves and their property to facilitate a successful transaction.

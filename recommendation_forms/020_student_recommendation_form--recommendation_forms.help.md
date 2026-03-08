@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from teachers to provide a student recommendation. 
-The form is intended to capture essential details about the student, their teacher, and the recommended tool or resource. 
-The teacher's input is crucial in providing an accurate and relevant recommendation based on their expertise and experience with the student. 
-Teachers should only fill out the form if they have first-hand knowledge of the student's abilities and potential. 
-To avoid duplicate or outdated recommendations, teachers should only submit new forms for students who have not yet been recommended or whose previous recommendation is no longer applicable. 
-</thinking>
-
 # student_recommendation_form - Help Guide
 
 ## Purpose

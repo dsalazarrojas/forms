@@ -1,14 +1,3 @@
-<thinking>
-To provide a clear and concise user guide for the Vacant Land Listing Survey form, we need to ensure that the form's purpose and field explanations are well-defined and easy to understand. This guide will walk users through the form's purpose, how to complete it, and a field-by-field explanation of each section. 
-
-The form is designed to collect information about vacant land listings, which includes properties that are available for purchase or lease. The main goal is to gather relevant details about the land's characteristics, such as location, size, and zoning, to help facilitate its listing and sale or leasing process. This form should not be confused with other forms or surveys, and it is specifically tailored to collect unique information about vacant lands.
-
-The form will be completed in the following sections: land address, property type, property size, lot size, land status, zoning, land use, property use, acreage, acres, frontage, depth, width, boundary, survey date, surveyor, and notes.
-
-Each section will be carefully explained to ensure that users understand the purpose and expectations of each field. This guide will also provide tips and suggestions for users to complete the form accurately and efficiently.
-
-</thinking>
-
 # Vacant Land Listing Survey - Help Guide
 ## Purpose
 The Vacant Land Listing Survey form is designed to collect information about vacant land listings, including properties that are available for purchase or lease. This form helps gather relevant details about the land's characteristics to facilitate its listing and sale or leasing process.

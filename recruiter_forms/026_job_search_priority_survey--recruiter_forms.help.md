@@ -1,12 +1,3 @@
-<thinking>
-The Job Search Priority Survey form is designed to help job seekers gather information about their job search preferences and priorities. The form collects data on job type, skills, experience, education, work history, job preferences, required skills, salary range, and job location. This data can be used by recruiters, hiring managers, and other job seekers to narrow down job search options and increase the likelihood of finding a suitable job match.
-
-To avoid duplication, this form should only be used for those actively searching for a job or considering a career transition. It is not intended for use by those who are not in the job market or do not have a specific job search in mind.
-
-The form has 10 pages, each with a different label and set of questions. Some fields are required, while others are optional.
-
-</thinking>
-
 # Job Search Priority Survey - Help Guide
 ## Purpose
 The Job Search Priority Survey is a tool to help job seekers gather and share information about their job search priorities and preferences.

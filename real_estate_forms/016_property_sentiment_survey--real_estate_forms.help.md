@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about a property, including its type, sentiment about the market, location, price range, interest rate, mortgage rate, sentiment score, contact information, email, note, time, date, date of birth, and property address. The form is used to collect both numeric and non-numeric data to understand different aspects of a property. This form will help users to provide a comprehensive understanding of the property's details. The form's design is simple and easy to understand, allowing users to fill it out quickly and accurately. However, please note that some fields have been left as optional to ensure that users can focus on providing the most relevant information. This form is meant to gather general information and is not a comprehensive real-estate transaction form.
-
-</thinking>
-
 # Property Sentiment Survey - Help Guide
 ## Purpose
 The Property Sentiment Survey form is designed to collect information about a property's characteristics, such as type, sentiment about the market, location, and other relevant details. This form helps gather both numeric and non-numeric data to provide a comprehensive understanding of the property.

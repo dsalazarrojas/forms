@@ -1,16 +1,3 @@
-<thinking>
-The purpose of the form is to facilitate the sale of equipment or assets, capturing relevant information from both the seller and buyer, including seller and buyer details, item description, price, payment details, and sale price. This form helps ensure a smooth and transparent transaction process. The form has multiple fields that gather necessary information, which may be optional or required depending on the specific field. Please review each field carefully to ensure accurate and complete submissions.
-
-Before proceeding, please ensure that you have the necessary permissions and authorization to complete this form.
-
-This form is designed for a specific use case and may require additional steps or procedures for completion. Please refer to your organization's policies and guidelines for specific requirements.
-
-This form is not intended for public use. Only authorized personnel should access and complete this form.
-
-Please note that some fields may have specific requirements or restrictions. Refer to the field explanations below for detailed information.
-
-</thinking>
-
 # equipment_asset_sale_registration - Help Guide
 ## Purpose
 The equipment_asset_sale_registration form is designed to collect information for the sale of equipment or assets, ensuring a smooth and transparent transaction process.

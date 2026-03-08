@@ -2,10 +2,6 @@
 
 ## Purpose
 
-<thinking>
-The Afternoon Absence Form is a document used for reporting student absences during the afternoon hours. It is meant to provide necessary information for the school staff to keep track of student absences and ensure that the student does not fall behind in their studies. This form is typically filled out by parents or guardians in the event of a student's absence. Please note that this form should not be used for reporting absences during the morning hours as there is a separate form for that purpose. 
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

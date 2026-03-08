@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gauge tenant satisfaction with their living experience in a residential property. The form likely aims to collect feedback on various aspects of the tenancy, including overall satisfaction, amenities, and communication preferences. However, without explicit information on what specific aspects of tenancy satisfaction the form aims to measure, it is essential to consider the following fields in the context of general tenancy satisfaction:
-*   `overall_satisfaction_score`, `living_space`, `amenities`, and `amenities_list` might measure the satisfaction with the physical living space and amenities provided.
-*   `lease_renewal_likelihood` and `lease_start_date` might gauge the likelihood of lease renewal and the start date of the current lease.
-*   `communication_channels` and `emergency_contacts` could indicate the preferred and effective communication channels with the landlord or property management.
-</thinking>
-
 # Tenant Satisfaction Survey - Help Guide
 
 ## Purpose

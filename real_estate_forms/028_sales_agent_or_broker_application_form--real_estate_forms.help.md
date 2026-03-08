@@ -1,10 +1,3 @@
-<thinking> 
-This form is intended to collect information from potential sales agents or brokers. The purpose of this form is to gather contact information, employment details, education background, personal data, and license information from applicants. This form is likely used by a real estate company to screen potential candidates for sales agent or broker positions.
-
-Before filling out this form, please make sure you have not already submitted an application for the same position. If you have any questions or concerns about the form, please reach out to the relevant contacts at the real estate company.
-
-</thinking>
-
 # Sales Agent Or Broker Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential sales agents or brokers who are interested in working with the real estate company.

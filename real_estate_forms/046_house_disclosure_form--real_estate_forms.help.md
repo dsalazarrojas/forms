@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information about a house or property from the seller. The purpose of this form is to gather relevant details about the property, including contact information, property type, year built, lot size, zoning, square footage, number of bedrooms and bathrooms, lot dimensions, Homeowners Association (HOA) fees, and other related information. This form will help the seller provide accurate and complete information about the property for potential buyers.
-
-</thinking>
-
 # House Disclosure Form - Help Guide
 ## Purpose
 The House Disclosure Form is designed to collect detailed information about a house or property from the seller. This information is used to provide accurate and complete details about the property for potential buyers.

@@ -1,11 +1,3 @@
-<thinking>
-
-To provide an efficient and accurate referral process, it's essential to understand the purpose and requirements of this Medical Referral Form. This form is designed to collect relevant information about the patient's medical condition, referral details, and contact information for the doctor or specialist being referred to. 
-
-Before starting, make sure you're not submitting duplicate referrals for the same patient. Ensure that you have the patient's consent to proceed with the referral.
-
-</thinking>
-
 # Medical Referral Form - Help Guide
 ## Purpose
 The Medical Referral Form is used to gather information about a patient's medical condition, referral details, and contact information for the doctor or specialist being referred to. This form helps ensure accurate and efficient referral processes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to register for an accounting reconciliation training workshop. The form asks for participant information, such as full name, email address, department or firm, and current skill level. It also inquires about the participant's preferred training date, topics of interest, and current software used. Additionally, it asks for their attendance preference and consent to recording the session. This form is designed to help the training organizers tailor the session to the participant's needs and interests.
-</thinking>
-
 # Accounting Reconciliation Training Registration Form - Help Guide
 ## Purpose
 The Accounting Reconciliation Training Registration Form is used to register for the upcoming reconciliation workshop. Fill out this form to ensure your spot in the training session.

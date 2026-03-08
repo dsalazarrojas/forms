@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The purpose of the Video Commentary Publication Consent Form is to collect consent for the video recording and publication of video content. It is crucial that the individual who will be recorded and/or published in the video understands and consents to its use. This form ensures that all parties involved are aware of the recording and publication process, minimizing the risk of unauthorized use or misuse of the video content.
 
 To avoid duplication or misinterpretation of consent, it is essential to review the form carefully and ensure that all required fields are completed accurately before signing. This guide will help explain each field and walk you through the process step-by-step.

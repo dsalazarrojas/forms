@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for recruiters and hiring managers to conduct assessments during the interview process with candidates. It captures essential information about the candidate's job title, personal details, and assessment results. This form helps ensure consistency and accuracy in the evaluation process. To complete this form, please ensure you are filling it out for the correct candidate and job application. Please avoid duplicating assessments for the same candidate or job opening.
-</thinking>
-
 # Interview Assessment Form - Help Guide
 ## Purpose
 The Interview Assessment Form is a tool used by recruiters and hiring managers to assess candidates during the interview process. It collects information about the candidate's job title, personal details, and assessment results.

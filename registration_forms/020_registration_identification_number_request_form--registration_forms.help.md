@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from individuals seeking to obtain a registration identification number. This number is used for identification and tracking purposes. To avoid duplication, the form should not be filled out by the same individual more than once. It's essential to ensure that each entry is accurate and complete to prevent errors and potential issues downstream. 
-</thinking>
-
 # Registration Identification Number Request Form - Help Guide
 ## Purpose
 The Registration Identification Number Request Form is a vital document for individuals seeking to obtain a registration identification number. This form is designed to collect essential information for identification and tracking purposes. Please note that each entry should be accurate and unique to prevent errors and issues.

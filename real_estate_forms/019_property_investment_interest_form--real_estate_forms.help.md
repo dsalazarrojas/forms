@@ -1,7 +1,3 @@
-<thinking>
-The Property Investment Interest Form is used by real estate agents to collect information from potential investors about their investment interests. This form is typically used in the early stages of an investment project to gauge interest and gather relevant information about the potential investor.
-</thinking>
-
 # Property Investment Interest Form - Help Guide
 ## Purpose
 The Property Investment Interest Form is used to collect information from potential investors and gauge their interest in investing in properties.

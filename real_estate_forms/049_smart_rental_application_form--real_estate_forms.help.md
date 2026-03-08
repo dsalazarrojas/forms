@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from a renter or lessee for a rental application or lease agreement. It is likely used by property managers or landlords to gather necessary details from potential tenants. The form's purpose is to streamline the rental application process, ensuring that the landlord has all the required information to make informed decisions.
-</thinking>
-
 # smart_rental_application_form - Help Guide
 ## Purpose
 The smart rental application form is designed to collect essential information from prospective renters, making it easier for property managers or landlords to assess their eligibility and suitability for a rental unit.

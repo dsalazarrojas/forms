@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals who can recommend a construction firm, including their personal details, relationship with the firm, and the firm's strengths and overall recommendation level. This form is not intended to be used for soliciting recommendations from everyone, but rather from individuals with established relationships with the firm, such as current clients or business partners. To ensure the quality and validity of the recommendations, please only submit this form if you have a genuine relationship with the firm and can vouch for their work.
-</thinking>
-
 # Construction Firm Recommendation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect endorsements from individuals who have had a positive experience with a construction firm. It is intended to provide social proof for potential clients considering working with the firm.

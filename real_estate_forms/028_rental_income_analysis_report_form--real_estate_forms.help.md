@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather information about the rental income of a property or a tenant. It is designed to collect financial data that can be used to analyze the rental income. The purpose of this form is to provide a clear and organized way to collect and review rental income information.
-
-The form should only be used for rental income analysis and not for other purposes.
-
-The form has three pages: General Information, Financial Data, and Tax Info. The General Information page is optional and contains free-form text fields for any additional information that may be relevant to the rental income analysis. The Financial Data page is required and contains text fields for collecting financial data such as rent, expenses, and income. The Tax Info page is also optional and contains text fields for collecting tax-related information.
-
-</thinking>
-
 # Rental Income Analysis Report Form - Help Guide
 ## Purpose
 This form is used to gather information about the rental income of a property or a tenant.

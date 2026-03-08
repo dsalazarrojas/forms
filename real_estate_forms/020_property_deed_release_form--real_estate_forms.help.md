@@ -1,13 +1,3 @@
-<thinking>
-This form is used for recording property deed releases, which are documents that transfer ownership of a property. This guide will walk the user through the purpose and completion of this form.
-
-The form is used to capture information about a property and its transfer, including the address, type, transfer date, transfer price, transferor and transferee's details, and reason for transfer.
-
-Before filling out this form, ensure that you have all the necessary information and supporting documents ready. The form is divided into several fields, each with its own purpose and requirement. Ensure that you understand the purpose of each field before filling it out.
-
-This form is not intended to replace any legal advice. If you are unsure about the transfer of a property, consult a legal professional or a relevant authority before proceeding.
-
-</thinking>
 # Property Deed Release Form - Help Guide
 
 ## Purpose

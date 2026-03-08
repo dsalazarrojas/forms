@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals and organizations registering for the Animal Care Equipment Showcase event. This form is used to capture details such as registrant information (name, email, phone number), event participation details (registration type, event date, attendee category), and exhibitor information (booth size preference, products showcasing). The form also captures information on session preferences, networking interests, meal preferences, accessibility needs, and payment methods. This form is meant to be completed by attendees, exhibitors, and speakers. To ensure accurate registration, please provide the required information for each field. If you have any questions or concerns, please contact the event organizers.
-</thinking>
-
 # Animal Care Equipment Showcase Registration Form - Help Guide
 ## Purpose
 This form is designed to register participants for the Animal Care Equipment Showcase event, including attendees, exhibitors, and speakers. It collects information on registrant details, event participation, and exhibitor information.

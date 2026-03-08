@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the traveler has all necessary information to provide an accurate recommendation. This form is used to gather information about the traveler's trip plans, preferences, and needs to find the perfect hotel for their stay in Cinque Terre.
-Before filling out this form, please check if you have already submitted a similar request. This will help us avoid duplicates and ensure timely responses.
-</thinking>
-
 # Cinque Terre Hotel Recommendation Request - Help Guide
 ## Purpose
 This form is used to gather information about your trip to Cinque Terre, including your personal details, travel dates, group size, and preferences, to recommend a suitable hotel for your stay.

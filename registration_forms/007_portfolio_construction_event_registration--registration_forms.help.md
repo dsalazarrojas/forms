@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be a registration form for a portfolio construction event. It is used to collect information from attendees, including event details, session interests, attendee needs, contact information, and event specifics. 
-
-Before proceeding, verify that this form is not a duplicate of another event registration form. This form is designed to be used for a specific event and should not be used for other purposes. If you're unsure, please check with the event organizers or administration to confirm.
-</thinking>
-
 # Portfolio Construction Event Registration - Help Guide
 ## Purpose
 This form is for registering for the Portfolio Construction Event. Please fill it out to provide your information and preferences to event organizers.

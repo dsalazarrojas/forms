@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect relevant information from participants before they undergo a breathwork session, ensuring their safety and the facilitator's understanding of their medical and psychological background. The form aims to identify any potential health risks, medical conditions, and allergies that may impact the session's success or pose a risk to the participant. It also seeks to confirm the participant's understanding of the session's risks and their agreement to release the practitioner and facility from liability.
-
-To avoid duplication of effort, it's essential to fill out this form honestly and thoroughly. Please answer each question with care and attention to detail.
-
-</thinking>
-
 # Breathwork Waiver Form - Help Guide
 ## Purpose
 The Breathwork Waiver Form is a crucial document that helps ensure your safety and well-being during a breathwork session. Please take a few minutes to carefully read and fill out this form before attending the session.

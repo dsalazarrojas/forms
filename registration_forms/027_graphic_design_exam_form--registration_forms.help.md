@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graphic Design Exam Form - Help Guide
 
 ## Purpose

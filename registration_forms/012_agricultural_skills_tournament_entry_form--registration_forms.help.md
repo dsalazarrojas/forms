@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect participant information for the Agricultural Skills Tournament, including participant details, event category selection, emergency contact information, and waiver agreement. This form ensures that participants provide accurate and necessary information to ensure a smooth and safe competition experience.
-
-To avoid duplication, this form is designed to guide participants in filling out each section accurately and thoroughly. This guide will outline the necessary steps to complete the form and explain each field's purpose and requirements.
-
-</thinking>
-
 # Agricultural Skills Tournament Entry Form - Help Guide
 ## Purpose
 The Agricultural Skills Tournament Entry Form is a crucial document that collects essential information from participants to prepare for the competition. It includes sections for participant details, event category selection, emergency contact information, and waiver agreement.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for domain name registration payment processing. This form is used to gather details related to the domain name being registered, such as the domain name, registration date, payment method, and payment transaction ID, as well as other relevant information like domain status and error messages. To ensure accurate and complete data submission, it is crucial that all required fields are filled out correctly. If the form is used for payment processing for multiple domain names, the user will have to fill out the form multiple times.
-</thinking>
-
 # Domain Name Registration Payment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for domain name registration payment processing.

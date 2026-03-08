@@ -1,9 +1,3 @@
-<thinking>
-The Prescreen Rental Questionnaire form is designed to collect demographic data from potential renters. The purpose of this form is to help landlords or property managers prescreen potential renters to assess their eligibility for renting a property. 
-
-The form asks for information such as contact details (name, email), property address, employment status, income, and other relevant data points. This information will help property managers to quickly screen out candidates that do not meet the basic requirements for renting. 
-</thinking>
-
 # Prescreen Rental Questionnaire - Help Guide
 ## Purpose
 The Prescreen Rental Questionnaire is designed to collect demographic data from potential renters to help property managers quickly screen out candidates that do not meet the basic requirements for renting a property.

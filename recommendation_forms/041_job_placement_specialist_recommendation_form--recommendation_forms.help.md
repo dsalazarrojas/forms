@@ -1,9 +1,3 @@
-<thinking>
-This form is for submitting a job placement specialist's recommendation for a job candidate. The form is used to provide information about the job that the candidate is applying for, the candidate's background, and the relationship between you and the candidate. This form is optional and may only be used for specific scenarios where a recommendation from a job placement specialist is required.
-
-When filling out this form, please ensure that you are not duplicating information that is already known by the hiring team. This form is meant to provide additional context and insight into the candidate's background and qualifications. 
-
-Please use this form to provide a brief but detailed description of your relationship with the candidate and how you can speak to their abilities and characteristics. Be as specific as possible and avoid providing generic or unhelpful responses.</thinking>
 # job_placement_specialist_recommendation_form - Help Guide
 ## Purpose
 This form is used to provide a job placement specialist's recommendation for a job candidate. It's meant to provide additional context and insight into the candidate's background and qualifications.

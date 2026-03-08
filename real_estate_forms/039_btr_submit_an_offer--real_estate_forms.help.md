@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form used in the real estate industry, specifically for submitting an offer on a property. This form is likely used by buyers or their agents to provide details about their offer, including contact information, property specifics, and financial conditions.
-
-Before creating this guide, we'll review the provided YAML fields to ensure that we cover all the relevant information and avoid duplication of content. The form is divided into several sections, including buyer information, property details, offer conditions, and personal notes.
-
-</thinking>
-
 # BTR Submit An Offer - Help Guide
 ## Purpose
 This form is used to submit an offer on a property. Fill out the form with your details and requirements to communicate your offer to the seller.

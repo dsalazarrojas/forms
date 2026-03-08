@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information about potential real estate buyers to qualify them for a real estate purchase. This form is used to gather contact and demographic information, as well as details about their real estate needs and preferences. The form is not intended to capture sensitive or financial information, and its data will not be used for any other purpose other than to provide a lead to a real estate agent or company for further follow-up.
-</thinking>
-
 # Real Estate Buyer Qualification Form - Help Guide
 ## Purpose
 

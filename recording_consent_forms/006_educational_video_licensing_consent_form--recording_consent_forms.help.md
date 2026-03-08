@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Video Licensing Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from individuals or organizations for the use of educational videos. It typically includes contact information, the purpose of the use, a consent text, a signature, and a date of consent.

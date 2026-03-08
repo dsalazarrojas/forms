@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information from catchers to register for a clinic event. This guide will cover how to fill out the form properly and what each field means. We will check if the user has all the required information and prevent them from continuing if they don't. The form is for athletes who want to participate in a catching clinic and need to provide their personal and medical information.
-
-</thinking>
-
 # Catching Clinic Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from catchers who want to register for a clinic event. Please make sure to fill out the form completely and accurately to avoid any issues with your registration.

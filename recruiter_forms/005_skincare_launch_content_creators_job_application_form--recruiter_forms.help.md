@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skincare Launch Content Creators Job Application Form - Help Guide
 ## Purpose
 This form is designed for applicants to apply for the Skincare Launch Content Creators job opening. It collects essential information from potential candidates to help us understand their background, qualifications, and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from candidates about their details for job openings. It is crucial to ensure that the candidate details form is completed accurately and thoroughly to facilitate a smooth hiring process. To avoid duplication, please note that this form is only for new candidates and not for existing employees. Ensure that the candidate has the necessary permissions to work in the country of the job posting. The candidate should be willing to relocate if necessary and have all necessary documents attached. The form should be submitted with the most up-to-date information available. The form submission date should be accurate.
-</thinking>
-
 # Candidate Details Form - Help Guide
 ## Purpose
 This form is used to collect detailed information from candidates about their background, experience, and other relevant details for job openings.

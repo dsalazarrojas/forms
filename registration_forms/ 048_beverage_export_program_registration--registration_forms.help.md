@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beverage Export Program Registration - Help Guide
 
 ## Purpose

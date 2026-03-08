@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Field Trip Check Out Form - Help Guide
 
 ## Purpose

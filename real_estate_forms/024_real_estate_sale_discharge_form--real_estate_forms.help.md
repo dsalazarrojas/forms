@@ -1,23 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a real estate sale discharge. This process typically involves releasing a property from a lender's ownership. The form likely gathers details about the property, the buyer, the seller, and the loan information. It's essential to ensure that the form is completed accurately to facilitate a smooth transaction.
-
-To complete this form, start by filling in the property information page (page 1), which asks for details about the property being sold. This includes information about the property's location, type, and other relevant details.
-
-Next, move on to the buyer information page (page 2), where you'll provide details about the buyer, such as their name and contact information.
-
-Then, proceed to the seller information page (page 3), where you'll input details about the seller, including their name and contact information.
-
-After that, you'll need to complete the lender information page (page 4), where you'll provide details about the loan, such as the loan amount and interest rate.
-
-The property details page (page 5) is where you'll provide additional information about the property, such as its address and square footage.
-
-The document attachments page (page 6) is where you can upload relevant documents related to the property sale.
-
-Finally, you'll need to sign and date the signature page (page 7), which is a required field to confirm that the form has been completed accurately and willingly.
-
-Please review the form carefully to ensure that all required fields are completed accurately and truthfully.
-</thinking>
-
 # real_estate_sale_discharge_form - Help Guide
 
 ## Purpose

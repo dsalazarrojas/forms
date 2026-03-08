@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help users register for a Technical Writing Workshop. 
-Given the provided input schema, I will ensure that this help guide is accurate and relevant.
-I will also ensure that this help guide does not duplicate any information already available in the input schema.
-</thinking>
-
 # Technical Writing Workshop Registration Form - Help Guide
 ## Purpose
 This form is intended to collect participant information and workshop details for the Technical Writing Workshop.

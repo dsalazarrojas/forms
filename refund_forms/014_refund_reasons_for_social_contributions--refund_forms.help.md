@@ -1,8 +1,3 @@
-<thinking>
-This form is used to record the reasons for social contributions refunds. The main objective is to document the amount and reason of a refund, ensuring transparency and accountability in the refund process. 
-Before proceeding, ensure that this form is being filled out for a valid reason, and it's not a duplicate of a previous entry. Please fill out the form accurately and completely.
-</thinking>
-
 # Refund Reasons For Social Contributions - Help Guide
 ## Purpose
 This form is used to document reasons for social contributions refunds, allowing for transparency and accountability in the refund process.

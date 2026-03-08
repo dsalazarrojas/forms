@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect data for the Worker Productivity Analysis Program. The program aims to assess the productivity of workers in various areas. The form has multiple pages that cover different aspects of the worker's participation, such as their details, goals, manager details, and consent.
-
-The form is intended for workers who want to participate in the program and managers who will be overseeing their work. It is recommended that participants review the form carefully before submitting it to ensure they have filled out all required fields. 
-
-This form is a one-time submission form, and participants are not required to fill it out multiple times. The form's purpose is to collect data that will be used to analyze worker productivity. 
-
-Before filling out the form, please ensure you have the necessary information and permissions to fill out the form accurately. 
-
-</thinking>
-
 # worker_productivity_analysis_program_registration - Help Guide
 ## Purpose
 The Worker Productivity Analysis Program aims to assess the productivity of workers in various areas.

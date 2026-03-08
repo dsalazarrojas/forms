@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for recording the details of a moving inventory, which could be used for various purposes such as property management, asset tracking, or logistics planning. It's designed to collect information about items, their status, and movement details. The form's fields suggest it may be used in a business or administrative context, possibly for inventory management, relocation, or supply chain tracking. To confirm, the form is likely used to gather data on items being moved, including their status, date, time, origin, destination, and a description of the movement.
-</thinking>
-
 # Moving Inventory Form - Help Guide
 
 ## Purpose

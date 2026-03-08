@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help fashion fabric wholesalers refer business contacts to our services. It captures essential information about the referral, including the type of fabric, width, and source. This form will be used by our sales team to follow up with the referred contacts. Please fill in the form carefully, and make sure to select "yes" when asked if this referral is a duplicate.</thinking>
-
 # Fashion Fabric Wholesaler Referral Form - Help Guide
 ## Purpose
 ## How To Complete This Form

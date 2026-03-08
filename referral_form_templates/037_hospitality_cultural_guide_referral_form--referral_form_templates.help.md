@@ -1,6 +1,3 @@
-<thinking>
-To be honest, this form appears to be a basic referral form used for collecting information about potential candidates for a hospitality-related job or position. The form is likely used to collect data on referrals made by current employees or colleagues, providing an opportunity for them to suggest individuals who might be a good fit for a hospitality role. It's not explicitly stated, but it's possible that the form is part of a larger recruitment process. There's no indication that this form has any specific security or authentication requirements, so it might be intended for internal use. I'd like to know more about the organization using this form to make sure I provide the best help guide.</thinking>
-
 # Hospitality Cultural Guide Referral Form - Help Guide
 ## Purpose
 The Hospitality Cultural Guide Referral Form is designed to gather information about potential candidates for hospitality-related positions. Referrers can submit suggestions with relevant details about the candidate, including contact information, role and job fit, and any relevant follow-up instructions.

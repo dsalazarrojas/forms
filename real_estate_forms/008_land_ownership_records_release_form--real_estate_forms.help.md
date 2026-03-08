@@ -1,22 +1,3 @@
-<thinking>
-
-This form is intended to collect information about land ownership records, including property type, address, and contact details. The goal is to provide a comprehensive overview of the current situation, allowing for accurate and efficient management of land records. This form should be used when there's a need to update or modify existing land ownership records.
-
-The form has several fields to collect specific data about the property:
-- Property: A brief description of the property.
-- Property Type: The type of property (residential, commercial, industrial, etc.).
-- Property Address: The physical address of the property.
-- Agency: The real estate agency involved in the ownership.
-- Date: The date of the event (e.g., sale, lease, transfer).
-- Time: The time of the event.
-- Phone: The contact phone number.
-- Email: The contact email address.
-- Note: Additional comments or notes about the property.
-
-To ensure accurate and complete information, please fill out the form carefully and provide all required fields. If you're unsure about any field, consult with the relevant authorities or real estate experts.
-
-</thinking>
-
 # Land Ownership Records Release Form - Help Guide
 
 ## Purpose

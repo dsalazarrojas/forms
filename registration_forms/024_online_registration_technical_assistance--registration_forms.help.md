@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to provide technical assistance to users. The form will gather information about the user's request and allow them to submit it for processing. This form will not require any sensitive or personal data and will be used for general technical support purposes only.
-The form will be used by end-users who need help with technical issues related to a specific topic or problem. They will be able to select a delivery type, enter a brief description of their issue, and provide additional information such as email and phone number for follow-up. The form will also be available to users who need to schedule a call-back or meeting with a technical support specialist.
-</thinking>
-
 # online_registration_technical_assistance - Help Guide
 ## Purpose
 This form is intended to gather information from users who need technical assistance. It will help you provide the support you need by gathering relevant information about your issue, allowing you to schedule a callback or meeting with a technical support specialist, and provide a convenient way to submit your request.

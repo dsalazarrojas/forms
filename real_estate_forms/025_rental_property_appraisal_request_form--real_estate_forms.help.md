@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a rental property, specifically its details, appraiser, address, value, and transaction history. This form will be used to create an appraisal report for the rental property, which will help stakeholders make informed decisions.
-The form is not intended to be used for other types of properties, such as commercial or residential properties. Please ensure that only rental properties are selected for this form.
-</thinking>
-
 # rental_property_appraisal_request_form - Help Guide
 ## Purpose
 The rental_property_appraisal_request_form is used to collect information about a rental property, including its details, appraiser, address, value, and transaction history.

@@ -1,7 +1,3 @@
-<thinking>
-The Farm Gift Referral Form is used to track referrals from farmers in the farm community. It captures information about the farmer's name, contact number, referral's name, referral's phone number, number of referrals, rewards, date, time, email, and description of the referral. The form helps to ensure that referrals are accurately recorded and followed up on.
-</thinking>
-
 # Farm Gift Referral Form - Help Guide
 
 ## Purpose

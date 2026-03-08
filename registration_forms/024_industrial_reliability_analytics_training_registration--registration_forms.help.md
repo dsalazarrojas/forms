@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture information from participants for the Industrial Reliability Analytics Training Registration. It is intended for registration for the training session. The form should only be filled out by participants who are interested in attending the training session. To ensure that each participant's information is accurate and up-to-date, it is essential to review the form carefully before submitting it. 
-
-The form is structured into multiple pages, each with a specific set of fields. 
-
-Before proceeding, ensure that you have reviewed and understood the form instructions and requirements.
-
-</thinking>
-
 # industrial_reliability_analytics_training_registration - Help Guide
 ## Purpose
 The industrial_reliability_analytics_training_registration form is a registration form for the Industrial Reliability Analytics Training session. It is designed to collect essential participant information to ensure a smooth and successful training experience.

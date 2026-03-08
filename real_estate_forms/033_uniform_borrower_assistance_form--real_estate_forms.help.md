@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from borrowers for a uniform assistance program, likely a government initiative aimed at providing financial assistance or guidance to individuals in need. The purpose of the form is to gather detailed information about the borrower's current situation, including their mortgage status, income, employment, assets, liabilities, and communication preferences. The goal is to ensure that the borrower receives the best possible support to help them navigate their financial challenges.
-
-</thinking>
-
 # Uniform Borrower Assistance Form - Help Guide
 ## Purpose
 The Uniform Borrower Assistance Form is a tool designed to collect information about your current financial situation to provide guidance and support from our organization.

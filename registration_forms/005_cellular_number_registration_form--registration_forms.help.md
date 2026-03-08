@@ -1,21 +1,3 @@
-<thinking>
-To determine the form purpose and required fields, we'll review the provided YAML fields.
-The form is for cellular number registration, which involves gathering subscriber details, service information, and identification details. The required fields are:
-Subscriber Full Name
-Subscriber Email
-Primary Contact Number
-Mobile Number to Register
-Service Type
-SIM Card Type
-Network Provider
-Identification Type
-ID Number
-Date of Registration
-Terms of Service Agreement
-
-This form is likely for registering a cellular number for a subscription service, possibly for mobile phone or internet services. The form collects personal details, service preferences, and identification information to facilitate the registration process.
-</thinking>
-
 # Cellular Number Registration Form - Help Guide
 ## Purpose
 This form is for registering a cellular number with a subscription service. It collects personal and identification details to facilitate the registration process.

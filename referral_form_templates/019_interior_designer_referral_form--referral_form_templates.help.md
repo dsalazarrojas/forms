@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for interior designers to refer clients to a specific design service. It allows them to gather information about the client's project details, preferences, and budget constraints. 
-The form will be used by the interior design company to determine the best course of action for their services.
-
-Please note that this form is for client referrals, not for actual client information or payment information. It is essential to ensure that the client's email address and phone number are up-to-date to enable smooth communication.
-</thinking>
 # interior_designer_referral_form - Help Guide
 ## Purpose
 The interior designer referral form is a tool used by interior designers to refer clients to a specific design service. It helps gather essential information about the client's project details, preferences, and budget constraints. This information will aid the interior designer in determining the best course of action for their services.

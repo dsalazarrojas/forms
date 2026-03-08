@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Recommendation Form - Help Guide
 ## Purpose
 The Product Recommendation Form is a tool used to collect information about a product, its description, price, and the person who recommended it. This form helps us understand what products our customers are interested in and what they think about them. Please only fill out this form for products you've actually recommended to others.

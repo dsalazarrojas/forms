@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure this form is being used for its intended purpose and not for other purposes. We also want to avoid duplication of effort and ensure that end-users understand the form's purpose and how to fill it out correctly. This form is intended for tax referrals, where a user is being referred by someone in their professional or personal network. It will help in gathering information about the user, their address, contact details, and other relevant information to make the referral process smoother and more efficient.
-</thinking>
-
 # Tax Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information about an individual being referred for tax purposes. The form will help in gathering necessary details to make the referral process efficient and accurate.

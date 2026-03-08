@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely created for real estate professionals to assess a home's presentation and appeal to potential buyers. The form is used to gather information on various aspects of a property, including its location, layout, furniture, lighting, and interior design. This information will help the users to create a checklist for home staging, which is a crucial step in preparing a home for sale. The form is designed to be simple and easy to use, with each field corresponding to a specific area of the home that needs attention.
-
-</thinking>
-
 # Home Staging Checklist Form - Help Guide
 ## Purpose
 This form is designed to help real estate professionals prepare a home for sale by assessing its presentation and appeal to potential buyers.

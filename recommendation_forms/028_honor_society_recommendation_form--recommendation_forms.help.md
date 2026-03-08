@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Honor Society Recommendation Form - Help Guide
 
 ## Purpose

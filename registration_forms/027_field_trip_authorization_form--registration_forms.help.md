@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a registration form for students to provide information about a field trip. I will assume that the form is meant to collect basic information from students, such as their name and contact details, and information about the trip they are taking. I will not assume any additional context or business logic beyond this basic understanding.
-
-I will provide a concrete and concise help guide based on the provided YAML fields.
-
-</thinking>
-
 # Field Trip Authorization Form - Help Guide
 ## Purpose
 This form is a registration form for students to provide information about a field trip. It is meant to collect basic information from students about themselves and the trip.

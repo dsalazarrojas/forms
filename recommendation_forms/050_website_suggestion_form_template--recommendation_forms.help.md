@@ -1,7 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "website_suggestion_form_template" to ensure that end users understand the purpose, completion instructions, and meaning behind each field. This guide aims to clarify the form's intent and requirements for users to provide useful and relevant suggestions for the website.
-</thinking>
-
 # website_suggestion_form_template - Help Guide
 ## Purpose
 The "website_suggestion_form_template" is a form designed for users to submit suggestions or feedback about the website. It helps the team identify areas that need improvement, gather user insights, and make informed decisions about the website's development.

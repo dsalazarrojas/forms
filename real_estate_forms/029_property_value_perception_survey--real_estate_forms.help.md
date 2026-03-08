@@ -1,11 +1,3 @@
-<thinking>
-The Property Value Perception Survey is a tool used to gauge the public's perception of a particular property's value based on various factors such as neighborhood, schools, and amenities. This survey aims to collect opinions on how much individuals value different aspects of a property. 
-
-It is essential to fill out this survey to understand how the public views the value of a property. Please ensure that this survey is not filled out multiple times by the same individual, as this may skew the results. 
-
-Before proceeding, please ensure you are answering based on your honest opinion, and do not answer based on any personal gain or influence.
-</thinking>
-
 # Property Value Perception Survey - Help Guide
 
 ## Purpose

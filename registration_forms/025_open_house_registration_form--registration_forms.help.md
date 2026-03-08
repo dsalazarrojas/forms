@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from visitors or potential clients when they visit an open house event, allowing us to gather details about their identity, visit information, and specific details about their visit. This form ensures that we have the necessary data to provide a smooth and personalized experience for our guests. We recommend using this form for every visit to ensure accurate tracking and follow-up.
-</thinking>
-
 # Open House Registration Form - Help Guide
 ## Purpose
 The Open House Registration Form is used to collect information from visitors or potential clients when they visit an open house event. This form helps us gather details about their identity, visit information, and specific visit details.

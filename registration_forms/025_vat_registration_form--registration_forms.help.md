@@ -1,6 +1,3 @@
-<thinking>
-This form is a VAT (Value-Added Tax) registration form designed to collect information from users for tax purposes. The form is used to register or update a user's tax status. The fields on this form are related to the user's identification, tax-related information, and bank account details. The form has been designed to be user-friendly and easy to fill out, with clear labels and hints for each field. This helps to minimize the risk of errors and confusion. Before proceeding with the form, please ensure that you have all necessary information and that you are filling out the form accurately and truthfully. Please note that this form is only for tax purposes and any inaccuracies or discrepancies may lead to penalties or fines.
-</thinking>
 # VAT Registration Form - Help Guide
 ## Purpose
 The VAT Registration Form is used to collect tax-related information from users for tax purposes.

@@ -1,7 +1,3 @@
-<thinking>...
-The form is used to collect information about a re-development project, ensuring that all necessary details are recorded and documented. This form is crucial for the project's lifecycle management and is intended to gather accurate and complete data. The fields included are designed to capture project specifics, ensuring consistency and accuracy in project tracking and reporting. Please ensure that you are filling out the correct type of form, as this form is not intended for other types of projects.
-...</thinking>
-
 # revelopment_consent_form - Help Guide
 ## Purpose
 The re-development consent form is a critical document used to collect and document information about a re-development project. It ensures that all necessary details are recorded accurately, facilitating project lifecycle management.

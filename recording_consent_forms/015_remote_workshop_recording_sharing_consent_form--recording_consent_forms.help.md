@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to provide clear instructions for users on how to complete the "remote_workshop_recording_sharing_consent_form" form. The form is used to gather consent from workshop participants for sharing workshop recordings. The goal of this form is to ensure that participants are aware of how their workshop recordings will be shared and to obtain their consent for this sharing. This form is typically used in a workshop setting where recordings are made of the session and need to be shared with participants or third-party organizations. The form should not be used in cases where the workshop recording is not intended to be shared, as this would not require the participant's consent.
-
-The form is composed of multiple fields that require the participant's information, including their consent for sharing workshop recordings. The fields are designed to gather the necessary information from the participant in a clear and concise manner. This guide will walk through each field, explaining its purpose and how to complete it correctly.
-
-</thinking>
-
 # remote_workshop_recording_sharing_consent_form - Help Guide
 ## Purpose
 The "remote_workshop_recording_sharing_consent_form" is used to gather consent from workshop participants for sharing workshop recordings. This form is typically used in a workshop setting where recordings are made of the session and need to be shared with participants or third-party organizations.

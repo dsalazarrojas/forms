@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide aims to inform users about the purpose and requirements of the Actuarial Exam Site Preference Form. To ensure that users are well-informed and aware of the form's relevance and importance, it's essential to provide clear explanations and guidance on how to complete the form accurately. The form appears to be a crucial part of the exam preparation and registration process for Actuarial Exams. The purpose of the form is to allow candidates to express their preferences for exam sites, dates, and accommodations, enabling the exam administrators to efficiently allocate resources and provide the best possible experience for candidates.
-
-To ensure that the guide is clear and concise, each field will be described in detail, and the explanations will be based solely on the provided YAML fields.
-
-</thinking>
-
 # Actuarial Exam Site Preference Form - Help Guide
 ## Purpose
 The Actuarial Exam Site Preference Form is a crucial part of the exam preparation and registration process. It allows candidates to express their preferences for exam sites, dates, and accommodations, enabling the exam administrators to efficiently allocate resources and provide the best possible experience for candidates.

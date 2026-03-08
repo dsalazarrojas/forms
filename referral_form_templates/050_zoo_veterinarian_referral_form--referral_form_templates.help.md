@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from zoos about their veterinary referral requests. The form is intended to be completed by a zoo staff member or a veterinarian to request a referral for an animal to be seen by a specialist. The information collected includes details about the animal, the referral request, and any additional comments or photos. The form is designed to be completed once per referral request, and the information will be used to facilitate communication between the zoo and the specialist.
-</thinking>
-
 # Zoo Veterinarian Referral Form - Help Guide
 ## Purpose
 The form is used to collect information from zoos about their veterinary referral requests.

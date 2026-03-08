@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that our candidate registration form is clear, concise, and free of duplication. The form's purpose is to gather essential information about job candidates, including contact details, employment preferences, and education background. Before filling out the form, please confirm that you are not already registered with us. If you are a returning user, please contact our team to merge your new data with your existing account.</thinking>
-
 # Candidate Registration Form - Help Guide
 
 ## Purpose

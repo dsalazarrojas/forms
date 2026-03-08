@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the Car Club Registration Form. The form is designed to gather personal and vehicle information from users who wish to join the club. The fields are organized into sections, making it easy to navigate and complete. Please ensure you have carefully reviewed this guide before proceeding to avoid any issues during the registration process.
-</thinking>
-
 # Car Club Registration Form - Help Guide
 ## Purpose
 This form collects personal and vehicle information from users who wish to join the Car Club. It is essential that the submitted data is accurate and complete to ensure a smooth membership process.

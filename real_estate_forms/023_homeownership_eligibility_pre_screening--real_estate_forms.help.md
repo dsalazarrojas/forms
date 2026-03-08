@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to pre-screen homebuyers for eligibility for a home loan. It collects personal and financial information to assess the applicant's ability to obtain a loan. It appears to be a duplicate of the form with most fields having two identical counterparts with slightly different labels and names (e.g., "property_type" and "property_type_2", "down_payment" and "down_payment_2", etc.). A review of the form's purpose and fields is needed to determine the actual requirements and any potential discrepancies. This form seems to cover a wide range of topics, including personal information, financial history, and property details, but some fields might be redundant or unnecessary. A careful analysis is necessary to ensure that the form is complete and accurate.
-</thinking>
-
 # Homeownership Eligibility Pre Screening - Help Guide
 ## Purpose
 This form is designed to pre-screen homebuyers for eligibility for a home loan. It collects various personal and financial information to assess the applicant's ability to obtain a loan.

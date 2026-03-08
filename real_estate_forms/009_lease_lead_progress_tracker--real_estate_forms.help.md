@@ -1,11 +1,3 @@
-<thinking>
-This form is used to track the progress of a lease lead, including the lead source, status, follow-up details, and property information. The form is used by real estate professionals to manage and update lease leads in a centralized location. It is intended to be used in conjunction with other real estate forms, such as property listings and sales agreements.
-
-To avoid duplication of effort, it is recommended that this form is used in conjunction with other forms that are specific to different stages of the lease process.
-
-This form is designed to be completed by real estate professionals, including property managers and agents, to update and track lease leads. It is not intended for public use.
-</thinking>
-
 # lease lead progress tracker - Help Guide
 ## Purpose
 This form is used to track the progress of a lease lead, including the lead source, status, follow-up details, and property information.

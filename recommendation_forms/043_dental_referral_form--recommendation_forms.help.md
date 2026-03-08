@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect essential information from dental professionals for patient referrals. It consists of five fields, each with specific purposes and requirements.</thinking>
-
 # dental-referral-form - Help Guide
 ## Purpose
 The dental-referral-form is a tool for collecting information from dental professionals when referring a patient to another dentist or specialist for further care. This form helps ensure that all necessary details are gathered and communicated accurately, facilitating smooth and efficient referrals.

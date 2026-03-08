@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information related to real estate open houses. It seems to be a general-purpose form without any specific industry or business logic, possibly intended for real estate agents or property managers to use in their open house events. I'm not aware of any specific regulations or compliance requirements associated with this form, so I'll provide a general-purpose help guide based on the provided YAML fields.
-</thinking>
-
 # real_estate_open_house_checklist_form - Help Guide
 ## Purpose
 The real_estate_open_house_checklist_form is a tool used to organize and track the progress of open house events. This form helps capture details related to the event, the visitors, and the tasks involved.

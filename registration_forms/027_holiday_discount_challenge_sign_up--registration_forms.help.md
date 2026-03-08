@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users sign up for a holiday discount challenge, which is an exclusive offer for a limited time. Please ensure that you are eligible for this challenge and have not already signed up before attempting to complete this form. 
-</thinking>
-
 # holiday_discount_challenge_sign_up - Help Guide
 ## Purpose
 The holiday discount challenge is a limited-time offer that provides exclusive discounts on various products. The goal of this form is to collect information from interested users and register them for the challenge.

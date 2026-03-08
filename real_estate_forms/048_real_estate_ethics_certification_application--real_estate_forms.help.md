@@ -1,11 +1,3 @@
-<thinking>
-To avoid duplication, let's first review the form's purpose and requirements. The `real_estate_ethics_certification_application` form is likely intended for real estate professionals to obtain certification or confirmation of their commitment to a code of ethics in the real estate industry. This form might be used by real estate agents, brokers, or organizations to demonstrate their adherence to industry standards and codes of conduct. The form's fields likely aim to gather information about the applicant, their real estate license, and their agreement to abide by a specific code of ethics. 
-
-We can infer that this form is meant to be filled out by real estate professionals who want to ensure they are in compliance with industry regulations and standards. The form's structure suggests that it is a straightforward way to collect the necessary information for certification or verification.
-
-Before proceeding, let's confirm that this form is not a survey or a transactional form but rather a certification or confirmation application.
-</thinking>
-
 # real_estate_ethics_certification_application - Help Guide
 ## Purpose
 This form is for real estate professionals to obtain certification or confirmation of their commitment to a code of ethics in the real estate industry.

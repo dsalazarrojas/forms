@@ -1,7 +1,3 @@
-<thinking> 
-The form purpose is to check the status of diagnostic imaging refunds. This is not a duplicate form, and it is not affiliated with, endorsed by, or derived from any form platform. It's a public adaptation of a form created using AI and is released under CC BY 4.0. If you're looking for help with this form, contact form@gic.mx.
-</thinking>
-
 # Diagnostic Imaging Refund Status Check - Help Guide
 
 ## Purpose

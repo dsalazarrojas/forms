@@ -1,12 +1,3 @@
-<thinking>
-This is a help guide for the Online Yoga Class Registration Form. The form is designed to collect information from students to register for an online yoga class. The form will likely be used by yoga instructors to gather essential details about the students, such as their contact information, payment method, class preferences, and registration details. This form will ensure that the instructor can provide the best possible experience for each student. It is essential to fill out the form accurately to avoid any confusion or miscommunication.
-
-This form is designed to be filled out by students who are interested in registering for an online yoga class. It is recommended that the form be filled out completely and accurately to ensure that the instructor can tailor the class to meet the student's needs and preferences.
-
-Before starting to fill out the form, make sure that you have all the necessary information ready, including your student information, payment method, and class preferences.
-
-</thinking>
-
 # Online Yoga Class Registration Form - Help Guide
 ## Purpose
 The Online Yoga Class Registration Form is designed to gather essential information from students to ensure a smooth and tailored online yoga class experience.

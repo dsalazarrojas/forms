@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information on real estate climate risk perception, which is an essential aspect of risk management in the real estate industry. The form is intended to collect data on various climate-related risks and capacities to help stakeholders understand the potential impacts of climate change on real estate properties. This form is used to assess the level of climate change risk perception among real estate professionals and stakeholders. It is crucial to note that this form is not a formal risk assessment tool, but rather a survey aimed at gathering general perceptions and opinions on climate change-related risks.
- 
-Please ensure that you are completing this form with a clear understanding of the questions and questions asked. Your responses will be used to provide general insights on the climate risk perception in the real estate sector. All answers will be kept confidential.
- 
-To complete this form, please follow the instructions carefully, and do not hesitate to ask for clarification on any questions or fields if needed.
- 
-Please answer the questions as accurately as possible, considering your general knowledge and experience in the real estate industry.
- 
-Note that some questions allow multiple answers, please select all applicable options.
-</thinking>
-
 # Real Estate Climate Risk Perception Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The Tenant Referral Form is used to collect information about a potential tenant, including their contact details, rental history, references, employment status, rental requirements, and additional comments. This form is intended to be used by property managers or leasing agents to gather the necessary information to assess a potential tenant's eligibility for a rental property.
-The form should only be used for new referrals, and not for existing tenants. If a tenant is already a current or past referral, please do not fill out this form.
-</thinking>
-
 # Tenant Referral Form - Help Guide
 
 ## Purpose

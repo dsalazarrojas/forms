@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback on a lot survey, gathering information from the individual who conducted the survey about the lot's status, price, size, location, features, condition, and other relevant details. The form is intended to be used by real estate professionals, such as property surveyors, who need to document and report on their findings.
-
-Before filling out this form, please ensure that the same feedback is not already documented elsewhere, such as in a separate report or database entry. If this is a duplicate submission, it will not be actioned.
-
-Please note that this form requires the user to enter their name, email address, and contact number for contact information, as well as the contact information of the lot owner. The form also asks for details about the surveyor who conducted the survey, including their name, title, company, and position.
-
-</thinking>
-
 # Lot Survey Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback on a lot survey, gathering information about the lot's status, price, size, location, features, and other relevant details.

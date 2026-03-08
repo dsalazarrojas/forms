@@ -1,10 +1,3 @@
-<thinking>
-This form is a no-refund and warranty policy acknowledgment form, used to acknowledge a customer's understanding and acceptance of a company's refund and warranty policies. 
-The purpose of this form is to ensure that customers are informed and aware of their rights and responsibilities related to purchases made with the company. 
-This form is usually completed by customers before or after a purchase, or in case of a dispute. 
-No other relevant context or checks needed.
-</thinking>
-
 # no_refund_and_warranty_policy_acknowledgment - Help Guide
 ## Purpose
 The no_refund_and_warranty_policy_acknowledgment form is a document that confirms a customer's understanding and acceptance of the company's refund and warranty policies.

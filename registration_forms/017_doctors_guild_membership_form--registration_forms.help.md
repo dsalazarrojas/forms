@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from doctors interested in joining the guild, a professional organization for medical professionals. The form is intended to be used by doctors of all specialties. The purpose of this form is not to collect sensitive personal data, but rather to capture essential information for membership registration and future communications. 
-</thinking>
-
 # Doctors Guild Membership Form - Help Guide
 ## Purpose
 The Doctors Guild Membership Form is a registration form designed to collect necessary information from doctors who wish to join the guild. This information will be used for membership registration and future communications.

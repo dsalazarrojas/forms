@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather essential information from potential students who want to enroll in a martial arts class. This form helps the administration to better understand their preferences, schedule, and contact information. To avoid duplicate enrollments, please note that this form is not meant to be filled out by existing students or those who have already been enrolled in the martial arts class...</thinking>
-
 # Martial Arts Class Enrollment Form - Help Guide
 ## Purpose
 This form is designed to help us get to know you better and ensure that we can provide the best class experience for you. Please take a few minutes to fill out the form below.

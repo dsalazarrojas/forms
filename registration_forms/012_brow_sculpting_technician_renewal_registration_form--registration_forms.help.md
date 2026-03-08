@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from brow sculpting technicians who are renewing their registration. The purpose of this form is to validate the technician's identity, verify their certification, and gather details about their training and payment information. To ensure accuracy, we check for duplicate entries and non-compliant submissions before processing the renewal request.
-
-Please note that the form has several required fields, denoted by an asterisk (\*), and the user must complete all required fields to proceed with the submission. The form is divided into two pages for easier navigation.
-
-</thinking>
-
 # Brow Sculpting Technician Renewal Registration Form - Help Guide
 ## Purpose
 

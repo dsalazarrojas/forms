@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and consistently across the organization, to avoid duplication of effort and to guarantee accurate data collection. This form is designed to be completed by users to facilitate the referral process, and the provided fields should be filled out with the most accurate and up-to-date information.
-</thinking>
-
 # Food Culinary Referral Form - Help Guide
 ## Purpose
 This form is intended for users to provide information about potential referrals for culinary services. This information will help our team assess and follow up on these opportunities.

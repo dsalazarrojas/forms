@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate a person's scholarship application, typically in an academic or professional setting. The purpose of this form is to assess the applicant's qualifications, skills, and areas for improvement. This form is usually filled out by a reviewer, such as a teacher, mentor, or manager, who evaluates the applicant's potential and provides feedback for improvement.
-</thinking>
-
 # health_professions_scholarship_evaluation - Help Guide
 ## Purpose
 The health professions scholarship evaluation form is designed to gather information about a candidate's strengths, areas for improvement, and other relevant details. It helps reviewers evaluate the candidate's potential and provide feedback to the candidate.

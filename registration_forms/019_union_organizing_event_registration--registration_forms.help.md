@@ -1,9 +1,3 @@
-<thinking>
-This form is used to register events for union organizing activities. It is designed to collect information about the event, such as its description, location, and date. The form is intended for unions to provide details about their organizing efforts, including the number of attendees expected and the type of registration (in-person, online, or hybrid). This form should only be filled out by union representatives or organizers who are responsible for coordinating and promoting the event. 
-Please ensure that you are authorized to fill out this form before proceeding. If you are unsure, you should contact the relevant union representatives before attempting to submit this form.
-Please note that this form is not intended for general public use. If you are not a union representative, you should not use this form.
-</thinking>
-
 # Union Organizing Event Registration - Help Guide
 ## Purpose
 

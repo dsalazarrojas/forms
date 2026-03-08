@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture essential information for residential rent deferment agreements between landlords and tenants. 
-The purpose of this form is to document the agreement's terms, including the date of the agreement, the rent amount, and the reasons for deferment. This form is a crucial document that outlines the understanding between the landlord and the tenant regarding the deferment of rent payments. It's essential to ensure that both parties are on the same page and understand their responsibilities and expectations. 
-Before proceeding, please review the form carefully to ensure that you have all the necessary information and that it accurately reflects the agreement between you and your tenant. 
-Please note that this form is not a substitute for legal advice. If you're unsure about any aspect of the agreement, consult a legal professional before signing.
-</thinking>
-
 # Residential Rent Deferment Agreement Form - Help Guide
 ## Purpose
 The Residential Rent Deferment Agreement Form is a document that outlines the terms of a rent deferment agreement between a landlord and a tenant. It captures essential information to ensure both parties understand their responsibilities and expectations.

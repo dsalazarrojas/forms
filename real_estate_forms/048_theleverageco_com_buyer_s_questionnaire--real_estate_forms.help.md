@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential homebuyers about their preferences and needs. The form is intended to be used internally by TheLeverageCo.com to better understand their target audience. The form is not intended to be used for real-time transactions or critical decision-making. 
-</thinking>
-
 # TheLeverageCo.com | Buyer's Questionnaire - Help Guide
 
 ## Purpose

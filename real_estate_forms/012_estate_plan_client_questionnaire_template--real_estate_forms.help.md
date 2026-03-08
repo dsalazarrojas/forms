@@ -1,19 +1,3 @@
-<thinking>
-This form is part of a larger estate planning process, and it captures essential information about the client and their family. It's crucial to gather this data accurately to provide personalized services and ensure that the estate plan is tailored to their specific needs. This form should not be filled out by clients without the guidance of a financial advisor or estate planning professional.
-
-To determine the relevance of this form, let's consider the following points:
-- The form is called "Estate Plan Client Questionnaire Template" and is part of a real estate planning category.
-- The form includes fields for personal contact information (first name, last name, email, and phone number), which is typical in most forms.
-- The form also includes fields for spouse and dependent information (spouse's name, email, phone number, and dependent's name, age, email, and phone number), which may indicate that the form is designed for married individuals and families with dependents.
-- Some fields are required, like first name, last name, email, and phone number, indicating that these are essential pieces of information.
-- The form includes options for the number of children and dependents, which may suggest that it's designed to handle family dynamics.
-
-Based on the provided information, the form appears to be relevant for married individuals and families with dependents who are planning their estate. It's essential to fill out this form accurately to avoid any potential issues with the estate planning process.
-
-Given the form structure and fields, it seems that the form is not a duplicate of any other form in the system. Therefore, the form is deemed relevant and not a duplicate.
-
-</thinking>
-
 # Estate Plan Client Questionnaire Template - Help Guide
 ## Purpose
 This form is designed to capture essential information about the client and their family as part of the estate planning process. It's crucial to fill out this form accurately to provide personalized services and ensure that the estate plan is tailored to their specific needs.

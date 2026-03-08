@@ -1,8 +1,3 @@
-<thinking>
-This form is used for virtual open houses, allowing agents to schedule virtual viewings and share links with clients. The purpose of this form is to collect information from clients and agents for virtual open house experiences. This form should only be used for this specific purpose and not for other types of listings. Before filling out this form, ensure that you are an authorized user and that the listing is for a virtual open house.
-
-</thinking>
-
 # virtual_open_houses_xperience - Help Guide
 ## Purpose
 The virtual open house form is used to collect information from clients and agents for virtual open house experiences. This form should only be used for virtual open houses and not for other types of listings.

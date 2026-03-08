@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Closing Statement Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about real estate transactions, providing a clear and concise document for closing statements. It is suitable for real estate agents, brokers, or attorneys to gather and process data for clients.

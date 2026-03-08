@@ -1,12 +1,3 @@
-<thinking>
-This form is a questionnaire designed for condo property owners or listing agents to provide essential information about a condo unit before it is put on the market for sale. The purpose of this form is to gather accurate and relevant data to help potential buyers and agents make informed decisions. By filling out this form, the owner or agent will be able to provide a clear and concise overview of the condo's features, price, and marketing strategy.
-
-This form is intended for residential use, focusing on condo properties. It is essential to ensure the information provided is accurate and up-to-date to prevent duplication of effort and potential errors.
-
-Please note that some fields are required to ensure the form is filled out correctly, while others are optional and can provide additional context or details about the property.
-
-</thinking>
-
 # Condo Pre Market Listing Questionnaire - Help Guide
 ## Purpose
 

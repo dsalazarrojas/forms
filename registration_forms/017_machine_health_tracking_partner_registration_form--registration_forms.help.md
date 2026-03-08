@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a machine's health tracking partner. It's used to register a new partner for machine health tracking purposes. Before proceeding, please note that this form should only be filled out once for each new partner. If you're unsure about the purpose of this form or have already registered the partner, please contact our support team for clarification.
-
-</thinking>
-
 # Machine Health Tracking Partner Registration Form - Help Guide
 ## Purpose
 The Machine Health Tracking Partner Registration Form is used to register new partners for machine health tracking purposes. It ensures that your machine's health and status are accurately reported and tracked.

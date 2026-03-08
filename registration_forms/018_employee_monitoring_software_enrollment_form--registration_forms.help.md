@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to enroll in the employee monitoring software. The form requests information about the employee's enrollment requests, their consent to monitoring, the desired software version, and other details. This form is likely used in a business or organizational setting where employees need to be monitored or tracked for performance, productivity, or other reasons. Please ensure you are authorized to complete this form and provide accurate information, as it is intended for official purposes only.
-</thinking>
-
 # Employee Monitoring Software Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect information for employee monitoring software enrollment, ensuring that your organization has a clear understanding of your needs and requirements.

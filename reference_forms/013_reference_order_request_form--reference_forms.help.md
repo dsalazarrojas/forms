@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect information from university administrators for reference orders. The purpose of this form is to gather details about the university's preferences and needs for the reference orders, which will be used by the reference department to prepare and deliver the orders according to the university's requirements. This form is likely to be used by university administrators to communicate their needs to the reference department, ensuring that the orders are accurate and timely.
-
-The form is likely to be used for the following:
-
-* Gathering information about the university's preferences for the reference orders
-* Ensuring accuracy and completeness of the orders
-* Reducing errors and misunderstandings between the university and the reference department
-
-This form should not be used for other purposes, such as creating new user accounts or managing user permissions.
-
-</thinking>
-
 # Reference Order Request Form - Help Guide
 ## Purpose
 The Reference Order Request Form is designed to collect information from university administrators for reference orders.

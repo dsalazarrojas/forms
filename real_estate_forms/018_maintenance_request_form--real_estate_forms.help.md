@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to facilitate maintenance requests from users. The goal is to capture essential information from the user to expedite the resolution of maintenance issues. This form will be used internally by the maintenance team to address the reported issues.
-
-To avoid duplication and ensure that we don't miss any critical information, please ensure you have not submitted a request for this issue before, and that it is not an emergency that requires immediate attention.
-
-To complete this form, follow the steps below.
-
-</thinking>
-
 # Maintenance Request Form - Help Guide
 ## Purpose
 The purpose of this form is to report a maintenance issue that requires attention from our team.

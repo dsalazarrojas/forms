@@ -1,10 +1,3 @@
-<thinking>
-This form is used for referrals related to the National Institute for Public Health (NIPT). It is intended for healthcare providers to submit referrals for patients who require testing or medical attention. Before proceeding, please ensure that the referral is not a duplicate and that the information provided is accurate and up-to-date.
-
-To use this form, healthcare providers can select the relevant information for the patient and provide detailed notes for the lab or other relevant entities. This includes patient details, lab results, test dates and times, and other relevant medical information.
-
-</thinking>
-
 # NIPT Referral Form - Help Guide
 ## Purpose
 The NIPT Referral Form is a document used to facilitate referrals for patients who require testing or medical attention.

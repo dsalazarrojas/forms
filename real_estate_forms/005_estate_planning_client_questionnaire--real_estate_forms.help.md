@@ -1,9 +1,3 @@
-<thinking>
-This form, known as the "Estate Planning Client Questionnaire," is designed to gather essential information from clients to better understand their estate planning needs. The goal of this form is to collect demographic data, contact information, and personal details that will aid our team in tailoring our estate planning services to meet the client's unique requirements.
-This form should only be used for clients who have not previously been assessed or have no existing estate plans in our system. If a client has already completed this form or has an existing estate plan, this form should not be resubmitted.
-Please review the following guide to ensure a smooth and accurate completion of the form.
-</thinking>
-
 # Estate Planning Client Questionnaire - Help Guide
 ## Purpose
 The Estate Planning Client Questionnaire is a form designed to collect essential information from clients to aid in tailoring our estate planning services to their unique needs.

@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form is intended to collect information about a website's status and details.
-Internal note: Please make sure to fill in the form only once per website.
-</thinking>
-
 # rei_leadz_website_info_form - Help Guide
 ## Purpose
 This form is designed to collect information about a website's status and details. It will help us better understand the website's performance and make informed decisions.

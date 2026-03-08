@@ -1,10 +1,3 @@
-<thinking>
-The form "Sourcing Expert Expression Of Interest" is designed to collect information from experts in various fields, allowing us to assess their availability and suitability for potential job opportunities. This form is intended for experts who are interested in expressing their interest in working with us as a recruiter. We aim to understand their current job situation, desired job functions, and other relevant details to facilitate a smooth and efficient recruitment process.
-
-Before filling out the form, ensure that you are not duplicating an existing expression of interest. If you have already submitted an expression of interest, please do not fill out this form again.
-
-This guide will walk you through the process of completing the form, explaining each field in detail to help you provide accurate and complete information.</thinking>
-
 # Sourcing Expert Expression Of Interest - Help Guide
 ## Purpose
 The "Sourcing Expert Expression Of Interest" form is designed to collect information from experts interested in working with us as a recruiter. This form helps us assess your availability and suitability for potential job opportunities.

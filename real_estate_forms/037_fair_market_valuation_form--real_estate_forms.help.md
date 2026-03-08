@@ -1,36 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a property's characteristics, including its address, type, and market valuation. This form is used to gather data for real estate related purposes, such as property valuation and assessment.
-
-Before filling out this form, please note that some fields are marked as "Duplicate" or "Same as [Field]" and should be filled out accordingly. For example, fields "num_bedrooms" and "num_bedrooms" are duplicates of each other.
-
-To complete this form, follow these steps:
-
-1.  Enter the address of the property.
-2.  Select the type of property (Apartment, House, etc.).
-3.  Enter the square footage of the property.
-4.  Enter the year the property was built.
-5.  Enter the size of the lot.
-6.  Enter the land value.
-7.  Select the property condition (Excellent, Fair, Poor).
-8.  Enter the number of bedrooms.
-9.  Enter the number of bathrooms.
-10.  Enter the fair market valuation of the property.
-11.  Select the property use (Residential, Commercial, etc.).
-12.  Select the sale status (Active, Inactive, etc.).
-13.  Select the property status (Active, Inactive, etc.).
-14.  Enter any additional notes about the property.
-15.  Enter the appraised value of the property.
-16.  Enter the sale price of the property.
-17.  Select the date of sale (or leave blank if not applicable).
-18.  Select whether the property was sold through an agent.
-19.  Select whether the property was purchased through an agent.
-20.  Enter the date the property was purchased.
-21.  Enter any other notes about the property.
-
-Note: Please be accurate when filling out this form, as the information will be used for real estate related purposes.
-
-</thinking>
-
 # fair_market_valuation_form - Help Guide
 ## Purpose
 This form is used to collect information about a property's characteristics for real estate related purposes.

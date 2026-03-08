@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for prospective students to submit an enrollment application to a high school. The form will be used to collect student and guardian information, including contact details and enrollment status. It's crucial to ensure that the student and guardian have provided accurate information and have agreed to the terms and conditions of the school.
-To prevent duplicate enrollments, we will be checking for existing enrollments for each student. Please ensure that you only submit once with the most up-to-date information.
-</thinking>
-
 # High School Enrollment Form - Help Guide
 ## Purpose
 The purpose of this High School Enrollment Form is to allow prospective students to submit an enrollment application and their information for the school's records. 

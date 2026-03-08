@@ -1,5 +1,3 @@
-<thinking>As a community center, we want to ensure that all applicants have a smooth and enjoyable experience. To achieve this, we need to verify that each applicant provides accurate and consistent information. Before proceeding, please check that this form is not a duplicate submission. If you've already submitted the form, please do not resubmit. If you're unsure about any field or have questions, please contact us at [contact information].</thinking>
-
 # Community Center Admission Form - Help Guide
 ## Purpose
 The Community Center Admission Form is designed to gather essential information from applicants interested in joining our community center. This form helps us to verify your identity, understand your interests, and provide a smooth onboarding experience.

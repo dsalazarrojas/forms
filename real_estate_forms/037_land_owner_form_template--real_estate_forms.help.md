@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for collecting information from land owners. The purpose of the form is to gather key details about the property and its owners. This guide will walk you through each step of the process.
-
-</thinking>
-
 # Land Owner Form Template - Help Guide
 ## Purpose
 The Land Owner Form Template is a comprehensive form used to collect essential information about a property and its owners. This includes contact details, property information, and documents related to the property.

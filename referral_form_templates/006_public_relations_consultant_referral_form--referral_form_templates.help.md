@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect referral information about a Public Relations Consultant. The form is used internally to track referrals from various sources, such as websites, agencies, and social media. The form ensures that the information is non-duplicative, meaning that if a referral has already been recorded, the user will not be able to submit the same form again.
-
-</thinking>
-
 # Public Relations Consultant Referral Form - Help Guide
 ## Purpose
 This form is used to collect information about a Public Relations Consultant who has referred a new client to us.

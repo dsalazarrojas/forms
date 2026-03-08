@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture user information for a childcare workshop. The form has two main sections: Workshop Information and Registration Payment. Users are expected to provide their personal details, preferences, and payment information. This form is meant for early childhood educators to register for a workshop on professional development. The form should only be filled out once per user to avoid duplication of records.
-</thinking>
-
 # Childcare Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed for early childhood educators to register for a childcare workshop on professional development. The form captures user information, preferences, and payment details.

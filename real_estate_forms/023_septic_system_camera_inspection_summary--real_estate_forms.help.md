@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "septic_system_camera_inspection_summary" form, I first need to analyze the form fields. The form is intended to collect information about septic system camera inspections. The fields are: Buyer Information, Location, Condition of the System, Photos taken, Camera Operator, Notes, and Inspection date.
-
-Given the fields, the form is likely used in a context where a septic system is being inspected using a camera, and the purpose of the form is to document the findings. The form might be used for maintenance, repair, or regulatory purposes.
-
-I need to ensure that the guide does not duplicate existing materials or conflict with the original form's design. The guide should be comprehensive but concise, and each field should have a clear explanation for the user. Let's start by creating the final help guide in Markdown format.
-</thinking>
-
 # septic_system_camera_inspection_summary - Help Guide
 ## Purpose
 This form is used to document the findings of a septic system camera inspection. It is intended for maintenance, repair, or regulatory purposes.

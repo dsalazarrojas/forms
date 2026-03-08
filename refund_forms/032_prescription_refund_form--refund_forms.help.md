@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for medical professionals to request a refund on a prescription medication, providing relevant details about the patient, doctor, and refund request. It should only be completed for legitimate refund cases, ensuring accurate and complete information for processing. Please review the form carefully and only submit it if you have a genuine reason for a refund.
-</thinking>
-
 # Prescription Refund Form - Help Guide
 ## Purpose
 The Prescription Refund Form is a medical document used to request a refund on a prescription medication. This form helps to gather essential information about the patient, the doctor who prescribed the medication, and the reason for the refund request.

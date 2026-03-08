@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a property rental agreement, including tenant details, property characteristics, and lease terms. It is intended for use by landlords or property managers to gather necessary data for rental property management. To ensure accurate and complete data collection, please review each field carefully and provide accurate information. If you are unsure about any field, please contact the property manager or landlord for clarification. This form should not be used to duplicate or create multiple copies of the same property.
-</thinking>
-
 # Property Rental Agreement Intake Form - Help Guide
 ## Purpose
 This form is used to collect information about a rental property agreement, including tenant details, property characteristics, and lease terms.

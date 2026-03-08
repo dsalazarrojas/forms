@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and functionality of the "Warehouse Robotics Trial Registration Form". The form is designed to gather information from users who are interested in participating in a trial or testing phase for warehouse robotics systems. The form is divided into several sections, each collecting specific details about the user's contact information, trial requirements, site information, collection plan, submitter information, site qualification, collection data, and follow-up details. This guide will walk you through each section to ensure a smooth and accurate completion of the form.
-
-</thinking>
-
 # Warehouse Robotics Trial Registration Form - Help Guide
 ## Purpose
 This form is designed for users who want to participate in the warehouse robotics trial program. It collects essential details for the trial process, ensuring a smooth and productive experience.

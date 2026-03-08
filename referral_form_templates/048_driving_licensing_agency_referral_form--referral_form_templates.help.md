@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for a driving licensing agency referral form. This form should only be filled out by authorized personnel to ensure the accuracy and authenticity of the referral. To avoid duplication, please ensure that the referral form is not filled out multiple times for the same applicant. 
-
-</thinking>
-
 # driving_licensing_agency_referral_form - Help Guide
 ## Purpose
 This form is used to refer an applicant to a driving licensing agency. It captures essential information about the applicant and the referral process.

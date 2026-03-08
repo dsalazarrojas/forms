@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to facilitate the process of requesting a refund for a crowdfunding project. The form is designed to gather relevant information from the project creator and provide an option for them to specify the reason for the refund and the refund amount. The form will likely be used by project creators to request refunds for their projects that have been successfully funded but are unable to deliver the promised rewards or services. The form will be reviewed by the platform's administrators to ensure that the refund is processed fairly and according to the platform's refund policies.
-
-This form is part of the "refund_forms" category, and its purpose is to provide a structured and standardized way for project creators to request refunds.
-
-This form should not be used for other purposes, as it is designed to serve the specific need of refund requests. 
-
-</thinking>
-
 # Crowdfunding Refund Form - Help Guide
 
 ## Purpose

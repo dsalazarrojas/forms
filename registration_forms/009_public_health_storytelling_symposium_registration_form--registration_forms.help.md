@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and not for duplicate registrations or other purposes that it was not designed for. This form is intended for users to register for the Public Health Storytelling Symposium, providing event details, personal contact information, and other relevant details to facilitate their participation in the symposium. We should verify that users understand the form's purpose and the expected input for each field to avoid any confusion or misregistration.
-</thinking>
-
 # public_health_storytelling_symposium_registration_form - Help Guide
 ## Purpose
 This form is designed for users to register for the Public Health Storytelling Symposium, a platform for sharing and learning about public health stories, experiences, and best practices.

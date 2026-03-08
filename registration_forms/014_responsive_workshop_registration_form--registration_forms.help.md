@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from users, which will be used to create a unique and tailored workshop experience. This form is designed to be responsive, ensuring that the questions and layout adjust to the user's screen size and device. 
-</thinking>
-
 # Responsive Workshop Registration Form - Help Guide
 ## Purpose
 The Responsive Workshop Registration Form is a tool to collect registration information from users. This information will be used to create a unique and tailored workshop experience.

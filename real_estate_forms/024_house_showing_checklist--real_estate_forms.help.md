@@ -1,5 +1,3 @@
-<thinking>...The House Showing Checklist form is designed to gather information about the condition and features of a property being shown to potential buyers. This form will help real estate agents and property managers assess the property's condition, identify any issues, and provide a comprehensive report for the client. This form is used during property showings, and its data will be used to inform decisions related to the property's sale or rental. To prevent duplication, this form should only be filled out once per property showing. Ensure that all fields are completed accurately and thoroughly. If you are unsure about any field, please consult the property manager or real estate agent. Ensure that all fields are completed before submitting the form... </thinking>
-
 # House Showing Checklist - Help Guide
 ## Purpose
 The House Showing Checklist form is designed to gather information about the condition and features of a property being shown to potential buyers.

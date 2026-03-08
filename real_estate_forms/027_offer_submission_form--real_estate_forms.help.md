@@ -1,7 +1,3 @@
-<thinking>
-This form is for real estate offer submission, allowing users to provide information about an offer. It's likely used by real estate agents or companies to manage offer submission data. To ensure accuracy and consistency, please note that the form should not be completed if the offer is already active or if you're not the real estate company or agent submitting the offer. 
-</thinking>
-
 # Offer Submission Form - Help Guide
 ## Purpose
 The Offer Submission Form is used by real estate agents or companies to submit offer details for a real estate offer. This form helps track and manage offers, ensuring accurate and timely updates to the status of offers.

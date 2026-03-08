@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are registering for a sports team or program. The purpose of this form is to gather basic contact information, position preference, and consent from the individual and their guardian. This form is likely used by sports organizations or institutions to register new players, manage team rosters, and communicate with parents/guardians.
-
-To minimize duplication, users should check the form for any errors before submitting and make sure to fill out all required fields, as some fields are marked as required.
-
-</thinking>
-
 # sports_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who are registering for a sports team or program.

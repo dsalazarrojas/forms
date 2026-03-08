@@ -1,15 +1,3 @@
-<thinking>
-The Candidate Interview Form is a crucial tool used by recruiters to collect and document information about a candidate's performance during the interview process. This form helps ensure that all necessary details are captured and evaluated consistently across all candidates. It also helps to reduce bias and ensures that each candidate is assessed based on the same criteria. 
-The form is designed to be used in conjunction with other assessment tools and techniques to ensure a comprehensive evaluation of the candidate's fit and potential.
-
-When using this form, it is essential to complete it thoroughly and accurately. Please ensure that all required fields are filled in, and provide clear and concise answers to each question. This will help in making informed decisions and reducing errors.
-
-This form can be reused and shared with other team members for their evaluation and reference. It is recommended to keep the form up to date and review it regularly to reflect any changes in the assessment criteria or procedures.
-
-Before proceeding, ensure that you have the necessary permissions and authorizations to conduct the interview and gather the required information. Respect the candidate's privacy and maintain confidentiality when completing and sharing this form.
-
-</thinking>
-
 # Candidate Interview Form - Help Guide
 ## Purpose
 

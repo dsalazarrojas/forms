@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be for gathering participant information for programs at a community center. It seems to be used for registration and communication purposes. To ensure the form is properly filled out, it's essential to check that you're not duplicating your information by checking for any existing participant data. This form will ask you for personal and program-related details, so please ensure you have accurate and complete information before submitting it. Let's break down the form into sections to make it easier to understand and fill out correctly.</thinking>
-
 # Community Center Participant Information Form - Help Guide
 ## Purpose
 This form is used for participant registration and to gather necessary information for program communication and updates. It's essential to provide accurate and complete information to ensure a smooth registration process.

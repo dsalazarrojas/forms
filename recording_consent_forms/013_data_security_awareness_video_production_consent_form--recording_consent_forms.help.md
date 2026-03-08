@@ -1,8 +1,3 @@
-<thinking>
-The form "data_security_awareness_video_production_consent_form" is a crucial tool for ensuring the secure and ethical handling of video recordings within an organization. To be relevant to this guide, the end users should be staff members who are involved in video production, such as filmmakers, videographers, or other personnel responsible for creating and editing video content.
-The form is meant to gather information about the consents given by employees for video recordings. This form is likely used in a business or educational setting where video recordings are being produced for various purposes. Before starting the form, please ensure that you have permission to use it and that it is not a redundant task. 
-</thinking>
-
 # data_security_awareness_video_production_consent_form - Help Guide
 ## Purpose
 This form is used to capture employees' consents for video recordings, ensuring that they are aware of and agree to the terms of the recording. It is a critical document for maintaining data security and employee trust within the organization.

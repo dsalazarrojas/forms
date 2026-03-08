@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for registering a new fundraiser for an elementary school PTA. The purpose of this form is to collect information from donors about their donation preferences and details. The form is designed to be simple and easy to fill out, with options for donors to select their preferred donation frequency, duration, and method. The form also allows donors to share their donation with others via different channels. The information collected will be used to help the PTA with their fundraising efforts.
-
-</thinking>
-
 # Fundraiser For Elementary School PTA - Help Guide
 ## Purpose
 This form is designed to help the PTA raise funds for their elementary school. By filling out this form, you can register as a donor and specify your donation preferences.

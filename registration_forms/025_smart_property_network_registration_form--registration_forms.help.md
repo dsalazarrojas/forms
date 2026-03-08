@@ -1,9 +1,3 @@
-<thinking>
-
-The form purpose is to collect user information for a smart property network registration. This form likely aims to gather data from real estate agents or property owners for registration or listing purposes. However, the specific requirements and goals of the form are not explicitly defined, so it's essential to ensure that users understand the form's intent and requirements clearly. To avoid duplication, it's crucial to verify that users don't submit duplicate registrations.
-
-</thinking>
-
 # Smart Property Network Registration Form - Help Guide
 ## Purpose
 The Smart Property Network Registration Form is designed to collect user information for registration or listing purposes. This form is intended for real estate agents or property owners to provide essential details about properties.

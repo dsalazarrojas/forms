@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect user selections from a predefined set of options.
-The form has multiple pages, each with different fields for selection.
-The fields are designed to be completed by the user, with each field having a label, name, and type.
-</thinking>
-
 # Section Selection Form - Help Guide
 ## Purpose
 The Section Selection Form is used to collect user selections from a predefined set of options. This form is designed to be easy to use and allows users to quickly select their preferred options.

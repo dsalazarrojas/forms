@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # professional_development_academy_registration_form - Help Guide
 ## Purpose
 This form is used for registration in the Professional Development Academy. The purpose of this form is to collect necessary information from applicants for registration in the Professional Development Academy. To confirm, you are eligible to register in this program if you are an employee of a recognized organization and have been selected for this program. 

@@ -1,7 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's break down the form's purpose and relevance. This form is designed to collect information from individuals who are referring potential donors to a charity drive. The form's primary goal is to gather essential details about the referrer and the referred individual, enabling the charity drive team to follow up with the referrer and make informed decisions. Non-duplication checks should ensure that users are not able to refer the same individual multiple times.
-
-This guide will walk users through each field's purpose and expected input, making it easier for them to complete the form accurately and efficiently.</thinking>
-
 # Charity Drive Referral Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who are referring potential donors to a charity drive. The goal is to gather essential details about the referrer and the referred individual, enabling the charity drive team to follow up with the referrer and make informed decisions.

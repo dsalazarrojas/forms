@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Tenant Move Out Checklist - Help Guide
 =====================================
 

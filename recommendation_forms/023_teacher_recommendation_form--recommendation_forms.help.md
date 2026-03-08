@@ -1,6 +1,3 @@
-<thinking>
-This form is used for teachers to submit their recommendations for students. To confirm, the purpose of this form is to allow teachers to provide their endorsement and support for a student, which is crucial for the student's development and career prospects. We should ensure that this form is being used correctly and efficiently, so let's review its fields to prevent duplication and ensure relevance. For instance, a teacher can only submit a single recommendation per student per academic year. We will not allow multiple recommendations for the same student from the same teacher in the same academic year. This form should only be filled out by the student's teacher, not by the student themselves or anyone else.</thinking>
-
 # teacher-recommendation-form - Help Guide
 ## Purpose
 This form is used to collect teacher recommendations for students. Teachers can use this form to provide their endorsement and support for a student's development and career prospects.

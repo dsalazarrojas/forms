@@ -1,10 +1,3 @@
-<thinking>
-This form is used to nominate a leader within the organization. The purpose of this form is to provide a standardized way for employees to nominate colleagues for leadership recognition and potential future opportunities. This form is typically completed by employees who have observed a colleague's exceptional performance and want to highlight their strengths. The form should only be completed once per nominee to avoid duplication.
-
-Before filling out this form, make sure the nominee has not been previously nominated. You can check with your manager or HR department to confirm.
-
-</thinking>
-
 # Leaders Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to nominate a colleague for their exceptional performance and potential leadership abilities.

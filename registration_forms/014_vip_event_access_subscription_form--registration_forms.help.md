@@ -1,12 +1,3 @@
-<thinking>
-This form is used for customers to register for access to a VIP event. The form collects personal information and payment details from customers, including their name, email, phone number, and payment method. The form is designed to be completed by customers who want to purchase access to the VIP event. To ensure that this form is not duplicated for the same customer, the internal system checks for existing registrations before processing the new submission.
-
-When filling out this form, please note that some fields are optional, but they are all required for the purpose of this form. For example, while the "Payment Method" field has multiple options, it is not required to select one of them, but it is still a necessary field for the form to be processed.
-
-This form will be processed and stored in the internal system, so please ensure that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # vip_event_access_subscription_form - Help Guide
 ## Purpose
 This form is used to register customers for access to a VIP event.

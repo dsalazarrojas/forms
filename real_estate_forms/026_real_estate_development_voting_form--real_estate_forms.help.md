@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions on real estate developments from end-users. It is meant to be filled out by stakeholders who want to share their thoughts on a specific project. To ensure relevance, this guide will only cover the "real_estate_development_voting_form" form and will not address variations of this form.
-</thinking>
-
 # real_estate_development_voting_form - Help Guide
 ## Purpose
 The "real_estate_development_voting_form" is a user-facing form designed to collect feedback and opinions on real estate developments from end-users.

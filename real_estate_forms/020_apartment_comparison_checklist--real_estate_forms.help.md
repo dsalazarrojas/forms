@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to gather information about an individual's preferences and requirements when searching for an apartment. This information will be used to narrow down search results and provide a more accurate match.
-The form is composed of 18 fields, each with a specific label and type. Each field is either required or optional, and some fields have a set of predefined options to choose from. The goal of this guide is to help users understand the purpose and requirements of each field, making it easier to complete the form accurately.
-</thinking>
-
 # Apartment Comparison Checklist - Help Guide
 ## Purpose
 The Apartment Comparison Checklist is a tool designed to help you find the perfect apartment that matches your needs and preferences. By providing information about your budget, desired features, and requirements, you can narrow down search results and discover apartments that suit your lifestyle.

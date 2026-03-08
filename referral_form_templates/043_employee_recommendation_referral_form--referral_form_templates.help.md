@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's make sure we're on the same page. This form is for employee referrals, where an employee recommends a candidate for a job opening. The form should be filled out by the employee who is referring the candidate. The form should not be duplicated or submitted multiple times for the same job opening. This form is used to provide relevant information about the candidate, the job opening, and the referral process.</thinking>
-
 # Employee Recommendation Referral Form - Help Guide
 
 ## Purpose

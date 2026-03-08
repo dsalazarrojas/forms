@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid non-duplication and ensure the referral form is used correctly, we need to ensure that the form is filled out with accurate and up-to-date information about the patient's referral to an optometrist or eye care specialist. This form is used to facilitate a smooth referral process and reduce potential errors. It is crucial that the form is filled out carefully and truthfully, as it directly impacts the specialist's understanding of the patient's condition and the referral process. Before filling out this form, please confirm that this referral is not already in progress or has been completed.
-
-</thinking>
-
 # Optometry Referral Form - Help Guide
 ## Purpose
 The Optometry Referral Form is a tool used to create and manage referrals to an optometrist or eye care specialist. It helps streamline the referral process and ensures that all necessary information is collected and communicated correctly.

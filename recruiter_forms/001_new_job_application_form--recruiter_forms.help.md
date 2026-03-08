@@ -1,13 +1,3 @@
-<thinking>
-
-The New Job Application Form is a form designed for applicants to provide their details and information about themselves, their work experience, education background, and other relevant details in order to apply for a job. This form is used for internal processes within an organization to collect and process job applications. 
-
-The form is designed to be user-friendly and should be filled out by the applicant without requiring extensive technical knowledge. The form has multiple fields that cover various aspects of the applicant's profile, including contact information, work experience, education background, and other details. The form also includes fields for uploading relevant documents and confirming submission.
-
-Please note that this form is designed for internal use within an organization and is not intended for external applicants. Therefore, the fields and sections within the form are tailored to suit the internal requirements of the organization.
-
-</thinking>
-
 # New Job Application Form - Help Guide
 ## Purpose
 The New Job Application Form is a tool for internal use by the organization to collect and process job applications.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to collect information for referrals between dentists and prosthodontists. The purpose of this form is to help prosthodontists evaluate potential new patients and facilitate the referral process by gathering essential information from the dentist. 
-
-To determine the relevance and non-duplication of the form, the following criteria are considered:
-
-* The form is primarily used for referrals between dental professionals, making sure to only ask for necessary information for the referral process.
-* The information required in this form is specific to prosthodontic practices, focusing on medical and treatment-related aspects.
-* Each field has a specific purpose and is designed to be as minimalistic as possible to avoid overwhelming the user with unnecessary questions.
-
-</thinking>
-
 # Prosthodontist Referral Form - Help Guide
 
 ## Purpose

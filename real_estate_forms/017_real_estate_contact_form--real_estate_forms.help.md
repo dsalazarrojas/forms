@@ -1,18 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "real_estate_contact_form" form. The form is designed to collect contact information and property details from users. The purpose of this form is to allow users to submit their contact information, specify the type and location of their real estate properties, and provide a brief description and message.
- 
-We need to ensure that the form is completed accurately and effectively. We will provide clear explanations for each field to guide users through the process. This will help prevent errors and ensure that the information submitted is correct.
-
-Before we start, let's review the form structure:
-- It has 8 fields: first name, last name, email, phone number, property type, location, description, and message.
-- First name and last name are text fields for collecting personal contact information.
-- Email is a text field with an email type for collecting a user's email address.
-- Phone number is a text field for collecting a user's phone number.
-- Property type and location are select fields that ask if the user has a real estate property of a particular type or location.
-- Description is a text field for providing a brief description of the property.
-- Message is a text field for users to provide additional comments or questions.
-</thinking>
-
 # real_estate_contact_form - Help Guide
 ## Purpose
 The real_estate_contact_form is designed to collect contact information and property details from users.

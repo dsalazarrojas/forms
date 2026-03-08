@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form for users to provide recommendations on holiday books. This form will be used to gather information about users' preferences and interests, which will be used to suggest holiday-related book recommendations. The form will also ask for contact information to allow users to receive holiday book suggestions via email. We need to ensure users understand what each field is for and how to complete the form correctly.
-</thinking>
-
 # Holiday Book Recommendation Survey - Help Guide
 ## Purpose
 The holiday book recommendation survey is designed to help us understand what types of holiday books you're interested in reading. This information will be used to provide personalized book suggestions tailored to your tastes.

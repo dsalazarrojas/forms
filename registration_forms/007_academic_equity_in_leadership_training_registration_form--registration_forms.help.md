@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for individuals to register for the "Academic Equity In Leadership Training" program. The purpose of the form is to collect information from participants about themselves, including their full name, contact email, job title or role, department or unit, motivation for attending the training, accessibility needs, prior equity training experience, session format preference, and emergency contact information. This form is intended to be completed by participants to provide the necessary information for the training program organizers to tailor the experience to their needs and ensure they have the right accommodations in place.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # Academic Equity In Leadership Training Registration Form - Help Guide
 ## Purpose
 The Academic Equity In Leadership Training Registration Form is designed to collect information from participants about themselves to ensure they have the right accommodations and experience tailored to their needs.

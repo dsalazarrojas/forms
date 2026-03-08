@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about new employees. The purpose of this form is to gather essential details for HR or administrative purposes. The form is typically completed by HR administrators or hiring managers to track employee information in a standardized way. 
-This form may be part of a larger HR software or system that integrates with other tools and databases for efficient employee management. It is essential to fill out this form accurately to avoid errors and ensure data consistency. 
-Ensure that you are filling out the correct form for the intended purpose and that the information is up-to-date and consistent with other employee records.
-</thinking>
-
 # new_employee_details_form - Help Guide
 ## Purpose
 The new_employee_details_form is a crucial tool for HR or administrative purposes to collect and track employee information.

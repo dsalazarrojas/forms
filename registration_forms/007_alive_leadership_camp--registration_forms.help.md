@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the ALIVE Leadership Camp. The purpose of this form is to gather essential details from applicants, including their personal and contact information, medical history, and consent for participation in camp activities. This form will help the camp organizers to prepare for the camp and ensure the well-being and safety of all participants. Before completing this form, please ensure that you have not already submitted a registration form for the same camp session, as duplicate submissions may cause confusion and impact the camp's ability to process your application efficiently. Please complete the form accurately and thoroughly, taking note of the required fields marked as such.
-</thinking>
-
 # ALIVE Leadership Camp - Help Guide
 ## Purpose
 The ALIVE Leadership Camp registration form is designed to collect essential information from applicants to facilitate a safe and enjoyable experience at the camp.

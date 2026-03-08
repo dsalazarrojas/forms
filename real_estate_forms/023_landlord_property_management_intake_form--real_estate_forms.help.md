@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a landlord's property management. This form will likely be used by property managers or administrators to collect data on various aspects of a property, including address, type, and landlord/tenant details. The form appears to be designed to be flexible, allowing for various types of information to be collected, including rent frequency, payment method, lease start and end dates, and insurance provider details. The form's structure suggests it may be used for general property management purposes, such as record-keeping and reporting. However, without more information about the specific use case or business process, it's difficult to provide a more specific explanation. It's possible that this form is used for a specific property management workflow, such as onboarding new tenants or managing rent payments.
-
-To ensure the form is completed accurately and correctly, it's essential to review each field carefully and provide clear explanations for each field. This guide will help users understand the purpose and requirements of each field.
-
-</thinking>
-
 # Landlord Property Management Intake Form - Help Guide
 ## Purpose
 The Landlord Property Management Intake Form is used to collect information about a landlord's property management. This form helps property managers or administrators gather data on various aspects of a property, including address, type, and landlord/tenant details.

@@ -1,7 +1,3 @@
-<thinking>
-The form is used by recruiters to gather information about job openings and candidates. It is essential to ensure that the form is completed accurately and consistently to provide the most useful data to the hiring team. Please review the form carefully, and if you've filled it out before, check if your input is up-to-date and correct. If you're unsure about any field, please reach out to the relevant team member or the form administrator for guidance.
-</thinking>
-
 # recruiting_intake_form - Help Guide
 ## Purpose
 The recruiting_intake_form is designed to collect essential information about job openings and candidates for the hiring process. It helps the recruitment team to gather accurate and consistent data for making informed decisions.

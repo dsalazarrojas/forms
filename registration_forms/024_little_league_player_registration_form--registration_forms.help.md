@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from young athletes for the purpose of registering them for a little league. The form aims to gather basic details like player information, team affiliations, and other relevant particulars. This form will likely be used by coaches, administrators, or parents to collect data for administrative purposes. Please ensure to only use this form for its intended purpose, avoiding duplication and redundant registrations.
-</thinking>
-
 # Little League Player Registration Form - Help Guide
 ## Purpose
 The Little League Player Registration Form is a tool designed to collect essential information from players for the administration and organization of a little league. By filling out this form, players and their families can ensure that all necessary details are captured for the player's participation.

@@ -1,7 +1,3 @@
-<thinking>
-The employment referral form is designed to help organizations collect information from employees or individuals who are referring candidates for job openings. The form is intended to gather contact details of both the referrer and the candidate, as well as the job title or vacancy reference for the position being referred. This information will be used to facilitate communication and follow-up with the candidate, and to ensure that the candidate is aware of and consents to being referred. 
-</thinking>
-
 # Employment Referral Form - Help Guide
 ## Purpose
 This form is used to collect information from employees or individuals who are referring candidates for job openings. It is an essential tool for facilitating communication and follow-up with candidates, and ensuring that they consent to being referred.

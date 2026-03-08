@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in joining the Academic Diversity And Equity Network. The purpose of this form is to gather contact information, roles, and areas of interest from registrants, as well as to establish a clear understanding of their availability and consent to share contact information with the network. This information will be used to facilitate communication and collaboration within the network, and to ensure that the network can cater to any necessary accommodations for its members.
-</thinking>
-
 # Academic Diversity And Equity Network Registration - Help Guide
 ## Purpose
 This form is for individuals interested in joining the Academic Diversity And Equity Network. It gathers essential contact and demographic information to facilitate communication and collaboration within the network.

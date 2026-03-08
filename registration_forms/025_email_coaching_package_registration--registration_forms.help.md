@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for registering email coaching packages, which are specialized services provided by coaches to their clients. The form aims to collect information about the client, the coaching package details, and the coach's information. The form is likely used for administrative purposes, such as tracking coaching packages and payments.
-
-To ensure the form is completed accurately and consistently, please review the following instructions carefully.
-
-</thinking>
-
 # email_coaching_package_registration - Help Guide
 
 ## Purpose

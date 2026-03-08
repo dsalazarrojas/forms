@@ -1,9 +1,3 @@
-<thinking>
-The form is likely used for customers or prospects to express interest in purchasing or inquiring about a luxury home. The form is likely to be used on a website, possibly on a real estate agency's website, and is designed to gather contact information and other relevant details from potential clients. 
-The form is likely not meant to be used by realtors to submit their own information as they are already known to the platform, so there may be a separate "realtor form" or similar. 
-This form should only be filled out for real estate properties that are actually for sale, so there will be no need for a filter on property status.
-</thinking>
-
 # Luxury Home Inquiry Form - Help Guide
 ## Purpose
 This form is designed to help us understand your interest in our luxury homes. Please fill out the form with your contact information and any relevant details, and we will get back to you with more information.

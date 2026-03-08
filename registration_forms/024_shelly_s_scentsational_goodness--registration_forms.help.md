@@ -1,13 +1,3 @@
-<thinking>
-The "Shelly's Scentsational Goodness" form is designed to gather information for a party planning system. The form is intended for party hosts to submit their party details, including guest count, party dates, times, and contact information. The form will not be used to store sensitive or personal data.
-
-When filling out this form, please note that most fields are optional, but providing accurate information will help party planners better understand your event.
-
-The form will be submitted to a party planning system, and any submitted data will be used to create a party profile.
-
-If you've already submitted a similar form, it's possible that your data has been previously recorded. Please review your previous submissions before filling out this form.
-</thinking>
-
 # Shelly's Scentsational Goodness - Help Guide
 ## Purpose
 This form is for party hosts to submit their party details to the party planning system.

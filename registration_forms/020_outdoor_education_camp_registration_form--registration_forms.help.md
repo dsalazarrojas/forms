@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for registering outdoor education camps, which are programs that take place in natural settings, such as forests, mountains, or beaches, aimed at educating children and adults about environmental awareness, conservation, and outdoor skills. The purpose of this form is to collect information from campers, including their personal details, additional information, emergency contacts, medical conditions, and camp details. This form is designed to be used by organizations or groups that offer outdoor education camps, and it is intended to be completed by the campers themselves or their authorized representatives.
-
-</thinking>
-
 # outdoor_education_camp_registration_form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals participating in outdoor education camps. Please fill out this form carefully and accurately to ensure a smooth and enjoyable experience at the camp.

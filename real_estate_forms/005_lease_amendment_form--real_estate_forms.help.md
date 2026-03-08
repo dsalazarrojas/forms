@@ -1,7 +1,3 @@
-<thinking>
-This form is used to amend existing lease agreements. The purpose of this form is to provide a structured way to document changes to a lease, ensuring that all necessary information is captured accurately and consistently. Before proceeding, please verify that this form is relevant to your situation and that you are not duplicating efforts by completing a similar form.
-</thinking>
-
 # Lease Amendment Form - Help Guide
 ## Purpose
 The Lease Amendment Form is used to document changes to existing lease agreements. This form helps ensure that all necessary information is captured accurately and consistently, providing a clear record of the amendment details.

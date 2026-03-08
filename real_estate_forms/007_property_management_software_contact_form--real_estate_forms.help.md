@@ -1,6 +1,3 @@
-<thinking>
-This form is a contact form for the Property Management Software, intended to collect information from users who want to get in touch with the software's support team or submit a request for property management services. It is not a replacement for the main property management software, but rather a secondary channel for users to reach out for assistance or inquire about specific properties. The form should only be used for general inquiries and not for sensitive or urgent matters that require immediate attention. Before submitting the form, please ensure that you have not already contacted the support team through other means, such as email or phone, to avoid duplicate efforts.</thinking>
-
 # Property Management Software Contact Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who need assistance or have questions about the Property Management Software. It's a contact form for support and general inquiries.

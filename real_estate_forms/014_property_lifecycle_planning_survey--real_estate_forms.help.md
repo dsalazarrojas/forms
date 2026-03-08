@@ -1,8 +1,3 @@
-<thinking>
-This form is likely to be used for a real estate-related purpose, such as assessing client preferences and property characteristics for real estate planning or investment purposes. However, without more context, it's difficult to pinpoint the exact use case. 
-This form is not a duplicate of a similar form, and its fields appear to be designed to gather information from clients regarding their property and preferences.
-</thinking>
-
 # Property Lifecycle Planning Survey - Help Guide
 ## Purpose
 The Property Lifecycle Planning Survey is a tool to help us understand your property and preferences. Please take a few minutes to complete this survey to give us a better understanding of your needs and goals.

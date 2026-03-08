@@ -1,7 +1,3 @@
-<thinking>
-The Client Registration Intake Form is used to collect relevant information from clients, ensuring that they can be properly registered and served by the organization. This form is designed to gather personal details, address, and service preferences of the clients. It also helps in identifying potential duplicate registrations and ensuring that the form is filled out correctly. The form's fields are carefully curated to collect the essential information needed for efficient and personalized service provision. 
-</thinking>
-
 # Client Registration Intake Form - Help Guide
 
 ## Purpose

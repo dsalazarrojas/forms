@@ -1,7 +1,3 @@
-<thinking>
-The Tenant Application Form is a crucial document used by landlords or property managers to collect information from potential tenants before offering them a rental property. This form helps to streamline the application process and ensures that all necessary details are collected in a structured and organized manner. By reviewing this form, you can ensure that you are providing the necessary data required for the leasing process. This form should only be used for genuine inquiries and applications.
-</thinking>
-
 # Tenant Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential tenants to facilitate the rental application process. It's essential to fill out the form accurately and completely to ensure a smooth leasing experience.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information for a Uniform Residential Loan Application. The purpose of this form is to gather data from the applicant or borrower about their loan application, including their contact and employment details, income sources, and income verification methods. The form is likely used in the loan application process to assess the borrower's eligibility for a loan.
-
-To determine if this form is relevant for your needs, consider the following:
-
-* If you are a lender or financial institution, this form might be useful for collecting loan application information from customers.
-* If you are an applicant or borrower, this form could be used to apply for a loan by providing the required information.
-* This form does not collect sensitive financial information, so it is likely not a form for collecting loan payment or credit score data.
-* This form does not appear to be a duplicate of any existing form, but it is recommended to review the form carefully to ensure it meets your specific needs.
-</thinking>
-
 # Uniform Residential Loan Application Form - Help Guide
 ## Purpose
 The Uniform Residential Loan Application Form is a tool used to collect information from loan applicants to assess their eligibility for a loan.

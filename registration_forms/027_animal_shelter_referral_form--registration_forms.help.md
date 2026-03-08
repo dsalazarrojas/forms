@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Shelter Referral Form - Help Guide
 ## Purpose
 The Animal Shelter Referral Form is designed for individuals or organizations to refer animals to an animal shelter for adoption or rescue. This form provides crucial information about the animal, allowing the shelter to effectively care for and find a new home for the animal.

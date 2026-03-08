@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for registering retail store data into the data lab. It's essential to fill out this form accurately and completely to ensure that your data is properly recorded and analyzed. Before proceeding, please ensure that you have the necessary information and permissions to complete this form. Additionally, check that you're not duplicating any existing entries, as this may cause data redundancy and affect the accuracy of your data analysis.
-
-</thinking>
-
 # Retail Store Data Lab Registration Form - Help Guide
 ## Purpose
 The Retail Store Data Lab Registration Form is used to collect and record data from retail stores. It's crucial to provide accurate and complete information to ensure that your data is properly recorded and analyzed.

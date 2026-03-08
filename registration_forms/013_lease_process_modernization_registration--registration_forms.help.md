@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from participants in the Lease Process Modernization process. It is intended for individuals or teams that wish to participate in this process. The form should only be filled out once per participant or team. Please make sure to fill out the form accurately and thoroughly.
-</thinking>
-
 # Lease Process Modernization Registration - Help Guide
 ## Purpose
 This form is used to register participants in the Lease Process Modernization process.

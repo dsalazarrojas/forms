@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Smart Mystery Shop Report form is to document the details of a mystery shop visit, including information about the shopper, the shop date and time, and the shop status. This form is likely used by real estate professionals to gather feedback and assess the quality of service provided by shops or agents. The form may be used for internal reporting and quality control purposes.
-
-This form has multiple pages, and the fields are likely used to capture different aspects of the shop visit. The form seems to be designed for use in a real estate context, where the shopper's information and shop details are collected.
-
-Before filling out this form, please ensure that you have all the necessary information and attachments ready.
-
-</thinking>
-
 # Smart Mystery Shop Report - Help Guide
 ## Purpose
 The Smart Mystery Shop Report form is designed to capture details of a mystery shop visit in the real estate industry.

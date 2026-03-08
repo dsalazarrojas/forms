@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used in a real estate context, presumably for a real estate agent or agent company to respond to a counter offer from a buyer. It appears to be a simple form with a few fields for collecting information about the buyer, property address, and counter offer terms. However, there seems to be some redundancy and potential confusion in the field structure and labels. For example, it seems like some fields are not strictly necessary for the form's purpose.
-</thinking>
-
 # Real Estate Counter Offer Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The "Beauty Technician Skills Upgrade Registration" form is used to register a beauty technician for a skills upgrade program. This form gathers essential information from the technician, including their personal details, current area of specialization, preferred course schedule, and payment and billing details.
-To ensure that the form is completed correctly, it's essential to review and understand each field's purpose to avoid duplication or incomplete information. Please ensure that you have all necessary permissions before completing this form. 
-</thinking>
-
 # Beauty Technician Skills Upgrade Registration - Help Guide
 ## Purpose
 The Beauty Technician Skills Upgrade Registration form collects essential information from beauty technicians to register them for a skills upgrade program. The form is used to gather detailed information about the technician, their current area of specialization, preferred course schedule, and payment and billing details.

@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a registration form for the Christmas Food Basket program, which provides food assistance to families in need during the holiday season. The form is designed to collect information about the household, including family details, contact information, and financial data. This form likely serves as the first step in the application process for households seeking assistance.
-To avoid duplication of effort and ensure accurate data collection, it is essential to complete this form accurately and thoroughly.
-The form will be reviewed and processed internally to ensure that the correct information is recorded.
-</thinking>
-
 # Christmas Food Basket Registration Form - Help Guide
 ## Purpose
 

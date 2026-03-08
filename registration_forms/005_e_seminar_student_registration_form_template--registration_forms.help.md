@@ -1,13 +1,3 @@
-<thinking>...thinking>
-
-The form is designed to collect registration information from students for a seminar or educational event. The purpose of this form is to gather essential details from students, such as their names, contact information, and any other relevant particulars that the event organizers may need to know.
-
-The form will be used to ensure that students are registered properly and that their information is accurate and up-to-date.
-
-Before proceeding, please note that the information provided will be used for registration purposes only and will not be shared or sold to any third party.
-
-</thinking>
-
 # e Seminar Student Registration Form Template - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from students for a seminar or educational event.

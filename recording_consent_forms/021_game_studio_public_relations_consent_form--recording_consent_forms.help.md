@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Game Studio Public Relations Consent Form - Help Guide
 
 ## Purpose

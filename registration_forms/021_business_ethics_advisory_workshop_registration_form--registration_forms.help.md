@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from individuals and organizations interested in registering for a Business Ethics Advisory Workshop. This form captures essential details such as registrant's personal and professional information, workshop preferences, and accessibility needs. The form will help us tailor the workshop to meet the needs of our attendees and ensure a positive experience for all.
-
-To prevent duplicate registrations and maintain data accuracy, we will verify the submitted information before allowing registration.
-
-This form is for internal use only, and the submitted data will not be shared publicly or used for any other purpose than workshop organization and attendee management.
-
-</thinking>
-
 # Business Ethics Advisory Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from registrants for the Business Ethics Advisory Workshop. Please follow the instructions carefully to ensure accurate and complete submission.

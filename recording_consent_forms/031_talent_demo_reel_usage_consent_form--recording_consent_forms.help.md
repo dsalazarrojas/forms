@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information for talent demo reels usage, which is a critical component for talent agencies, management companies, and other related professionals to obtain consent and agreement from talent before using their demo reels. This form ensures that the talent has explicitly agreed to the terms and conditions of their demo reel usage, which helps to establish a clear and legal foundation for its usage. This form is typically used by talent agencies and management companies to obtain consent before sharing or using the demo reels for marketing, casting, or other related purposes. The form may not be used in other contexts, so please review the form carefully to understand its purpose and requirements.
-
-</thinking>
-
 # Talent Demo Reel Usage Consent Form - Help Guide
 
 ## Purpose

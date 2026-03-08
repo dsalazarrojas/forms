@@ -1,13 +1,3 @@
-<thinking>
-To determine if the form is correctly filled out before processing, we can check for the following:
-* Customer Name is not empty.
-* Order Number and Product Name match the actual order being returned.
-* Reason for Return, Return Preferences, and Product Description are filled out, but not all are required for processing.
-* Shipping Method and Shipping Address are filled out and match the actual shipping method and address.
-* Product Price is a valid number and Customer Email is a valid email address.
-* Customer Phone and Customer Address are not empty.
-</thinking>
-
 # Gift Return Authorization Contact Form - Help Guide
 ## Purpose
 This form is used to obtain authorization for gift returns. It's designed to gather information required for processing returns, ensuring that all relevant details are captured accurately and efficiently.

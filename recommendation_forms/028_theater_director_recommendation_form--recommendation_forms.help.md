@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and that users understand what information is required to provide a valid submission. The form is designed to collect recommendations for a theater director position, and the fields should be filled out accordingly. We should check that the required fields are filled out and that the recommender's relationship with the candidate is clearly stated. This will help maintain data quality and ensure that the recommendations are accurate and useful for decision-making.
-</thinking>
-
 # Theater Director Recommendation Form - Help Guide
 ## Purpose
 Theater Director Recommendation Form is used to collect recommendations for candidates applying for a theater director position. The form should be completed by someone who knows the candidate, such as a colleague, teacher, or mentor.

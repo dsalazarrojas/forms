@@ -1,11 +1,3 @@
-<thinking>
-This form is for registering a user for an e-commerce UX design study. It's essential to provide accurate and valid information to ensure a smooth registration process.
-
-To avoid duplication, please note that this form is designed to gather user information for the study. If you have already participated in the study, do not register again.
-
-Before proceeding, ensure you have filled in all required fields accurately and completely.
-</thinking>
-
 # E-Commerce-UX-Design-Study-Registration - Help Guide
 ## Purpose
 This form is for users to register for an e-commerce UX design study. It collects user information and other relevant details to help facilitate the study.

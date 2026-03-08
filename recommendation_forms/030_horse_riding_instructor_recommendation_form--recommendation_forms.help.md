@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's review the form's purpose and ensure the explanations are clear and concise. This form seems to be designed to collect feedback and recommendations about horse riding instructors, including their focus, equipment, and education.</thinking>
-
 # Horse Riding Instructor Recommendation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and recommendations about horse riding instructors, including their primary focus, equipment, and education.

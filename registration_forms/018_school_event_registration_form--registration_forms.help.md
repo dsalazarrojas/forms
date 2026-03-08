@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information about school events for organizational and administrative purposes. This form is likely to be used by staff members who need to register events, and it serves as a means to gather necessary details about each event. 
-
-To prevent duplication of effort, it's essential to review the form carefully before proceeding to avoid missing any crucial information.
-
-</thinking>
-
 # School Event Registration Form - Help Guide
 ## Purpose
 

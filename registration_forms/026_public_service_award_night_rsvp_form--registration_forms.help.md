@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for registering guest attendance at a public service award night. The goal is to collect information from guests about their attendance status, dietary preferences, and any special requests or instructions. The form is used to track RSVPs and ensure that guests have confirmed their attendance and provided necessary details. This form is intended to be completed by guests, not by organizers or administrators.
-
-</thinking>
-
 # public_service_award_night_rsvp_form - Help Guide
 ## Purpose
 This form is used to register guest attendance at a public service award night. Please fill out the form with your details and confirm your attendance.

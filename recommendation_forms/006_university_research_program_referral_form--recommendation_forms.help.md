@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This thinking block is where I will check for relevance, non-duplication, and provide a brief internal explanation for the form purpose.
 This is a referral form used by faculty members to refer colleagues, research collaborators, or students to a research program. This form will help in tracking and managing referrals for the program. It is used internally for reference and record-keeping purposes.
 

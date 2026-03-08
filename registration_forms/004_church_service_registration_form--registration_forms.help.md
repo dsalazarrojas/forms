@@ -1,10 +1,3 @@
-<thinking>
-This form is used for registering attendees for a church service. The purpose of this form is to collect information about the attendees, including their name, event date, service type, number of guests, special requests or accommodations, contact email, contact phone number, interest in volunteering, and registration acknowledgement. This form ensures that the church can effectively plan and manage the event.
-
-To avoid duplication, please note that this form is intended for one-time use by each attendee. If you have already registered for a service, you do not need to fill out this form again.
-
-</thinking>
-
 # Church Service Registration Form - Help Guide
 ## Purpose
 

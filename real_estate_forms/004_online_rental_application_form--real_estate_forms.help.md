@@ -1,7 +1,3 @@
-<thinking>
-The form "Online Rental Application Form" is likely designed for individuals or entities seeking rental properties, whether for residential or commercial purposes. It gathers contact, rental history, personal, employment, rental preferences, emergency contact, and rental agreement information from the applicant.
-</thinking>
-
 # Online Rental Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from applicants seeking rental properties. It covers contact, rental history, personal, employment, rental preferences, emergency contact, and rental agreement details.

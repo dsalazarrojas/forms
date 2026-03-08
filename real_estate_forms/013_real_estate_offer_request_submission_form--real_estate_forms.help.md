@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from buyers who are interested in purchasing a property. It is intended for real estate agents to gather relevant details about the buyer's offer, such as their contact information, property address, price, and description. The form is designed to be completed by the buyer, and the information collected will be used by the real estate agent to review and process the offer. Please ensure that you only complete this form once for each property you are interested in, and do not submit duplicate submissions for the same property.
-</thinking>
-
 # Real Estate Offer Request Submission Form - Help Guide
 ## Purpose
 This form is used to provide real estate agents with information about potential buyers' offers on a property.

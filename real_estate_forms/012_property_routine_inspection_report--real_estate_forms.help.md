@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # property_routine_inspection_report - Help Guide
 ## Purpose
 The Property Routine Inspection Report form is a tool used by property inspectors to report on the condition of a house. This form gathers information on the property's current condition, including the inspector's findings and photos.

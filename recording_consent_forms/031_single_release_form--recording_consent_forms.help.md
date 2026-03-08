@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to record permission and other necessary information for a single project release. The form is designed to be completed by a project owner and a contributor. It includes fields for recording whether a contributor has given permission, their signature, name, and email. The project owner is also required to fill out fields for their name, email, phone, and signature. Additionally, there are fields for contributor and project owner permission comments. This form aims to ensure that all necessary permissions and information are properly recorded before a project release.
-
-</thinking>
-
 # Single Release Form - Help Guide
 ## Purpose
 The Single Release Form is used to record permission and other necessary information for a project release.

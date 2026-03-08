@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a General Request Form for real estate related requests. It's intended for users to submit general requests regarding real estate properties. The form is designed to gather information about the requestor's needs and preferences for a specific property. The form does not require any specific knowledge or expertise in real estate, and users with varying levels of experience can complete it. Before proceeding, please make sure that this form is relevant to your request and not a duplicate. If you're unsure, please contact the support team for guidance.
-
-</thinking>
-
 # General Request Form - Help Guide
 ## Purpose
 The General Request Form is designed to collect information about the user's needs and preferences for a real estate property. This form is not intended for sales or listings, but rather for general inquiries and requests.

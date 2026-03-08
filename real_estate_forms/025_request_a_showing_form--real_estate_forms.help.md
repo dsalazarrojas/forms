@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request a showing for a property listing. The purpose of this form is to gather information from the end-user about their showing preferences and contact details. The form is designed to be completed by real estate agents or brokers to facilitate a showing of a property. Before filling out this form, please ensure you have read and understood the instructions. If you have already submitted a showing request for this property, please do not submit another. 
-
-This form has multiple pages with varying fields to collect different types of information. Please navigate through the pages and fill in the required fields to submit your request.
-
-The form fields are designed to be user-friendly and intuitive. However, if you are unsure about any field, please refer to the explanations provided below.
-</thinking>
-
 # request_a_showing_form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>... internal reasoning and checks for relevance and non-duplication ...
-
-This form is designed for performers to provide consent for the use and distribution of their audition recordings. It covers various aspects of the recording's usage, including distribution, promotion, residuals, credit requirements, data collection, storage duration, deletion, union affiliation, and compensation terms. The form requires a clear and concise understanding of the performer's consent, ensuring that they are aware of how their recorded audition will be used.
-
-Please note that some questions are optional or dependent on specific conditions, so users may not need to fill out all sections.
-
-</thinking>
-
 # Audition Tape Usage Consent Form - Help Guide
 ## Purpose
 

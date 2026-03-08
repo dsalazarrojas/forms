@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # guarantor_recommendation_letter_request_form - Help Guide
 
 ## Purpose

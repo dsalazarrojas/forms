@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals attending a church event, specifically during the COVID-19 pandemic. The form collects personal details, attendance status, and health screening information to facilitate contact tracing and ensure the well-being of all attendees. It's essential to complete this form accurately and truthfully to help the church management take necessary precautions to prevent the spread of COVID-19.
-
-Before filling out this form, please ensure that you are completing it for yourself or someone in your household who will be attending the event. If you're unsure about any of the questions, please ask a church representative for clarification.
-
-Please note that some questions are optional, but it's crucial to answer them to help the church provide the best possible experience for all attendees.
-
-</thinking>
-
 # Church Attendance Registration C-19 - Help Guide
 ## Purpose
 This form is designed to collect information from individuals attending a church event during the COVID-19 pandemic. The information gathered will be used for contact tracing and to ensure the well-being of all attendees.

@@ -1,8 +1,3 @@
-<thinking>
-Internal note: This form is for registering participants in a social entrepreneurship workshop. It is likely intended for attendees of the workshop, such as students, community groups, or non-profit organizations. The form asks for basic contact information, workshop preferences, and accessibility needs. This form will likely be used for internal tracking and registration purposes.
-This form should only be filled out by individuals who have been invited to the workshop.
-</thinking>
-
 # social_entrepreneurship_workshop_registration - Help Guide
 ## Purpose
 This form is for registering participants in a social entrepreneurship workshop. Please fill out the form completely to ensure proper registration and workshop preparation.

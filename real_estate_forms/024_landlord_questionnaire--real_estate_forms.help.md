@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from landlords about their properties, including general information, contact details, property address, tenant preferences, lease terms, security deposits, move-in and move-out dates, rental income, rent frequency, and lease status. The form is used to gather data for various purposes, such as property management, tenant relationships, and lease agreements.
-
-To prevent duplication of efforts, this form is typically used by authorized personnel in the property management team to ensure consistency and accuracy in data collection. Non-duplication measures are in place to avoid unnecessary redundancy and to maintain data integrity.
-
-</thinking>
-
 # Landlord Questionnaire - Help Guide
 ## Purpose
 The Landlord Questionnaire is designed to collect information from landlords about their properties and lease agreements. This form is used to gather data for property management, tenant relationships, and lease agreements.

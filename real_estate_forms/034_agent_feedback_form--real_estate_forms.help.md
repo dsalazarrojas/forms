@@ -1,22 +1,3 @@
-<thinking>
-To create an effective help guide for the Agent Feedback Form, I will analyze the provided YAML fields to understand the form's purpose and functionality. This form appears to be designed for collecting feedback from clients about their interactions with real estate agents, likely to improve agent performance and provide valuable insights to the agents.
-
-The form is divided into several sections, which include:
-
-*   Client details
-*   Feedback about the agent's performance
-	+ Transaction type
-	+ Communication rating
-	+ Timeliness rating
-	+ Local market knowledge
-	+ Overall satisfaction
-*   Referral likelihood
-*   Additional comments
-
-The form requires some fields to be filled out, while others are optional. The fields are mostly rating-based, with select_one type questions asking the client to rate the agent's performance in various aspects.
-
-</thinking>
-
 # Agent Feedback Form - Help Guide
 ## Purpose
 The Agent Feedback Form is designed to collect feedback from clients about their interactions with real estate agents. This form helps to evaluate the agent's performance in several key areas, including communication, timeliness, local market knowledge, and overall satisfaction.

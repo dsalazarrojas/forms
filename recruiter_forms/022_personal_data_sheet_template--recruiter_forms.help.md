@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Data Sheet Template - Help Guide
 ## Purpose
 This form is designed to collect personal data from individuals for internal use within your organization. It is a generic template with a simple and clear structure, intended to provide a comprehensive understanding of the individual's personal details.

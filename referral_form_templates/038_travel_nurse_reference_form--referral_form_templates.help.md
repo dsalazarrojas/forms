@@ -1,18 +1,3 @@
-<thinking>
-We are providing a form to collect information about a travel nurse's reference. This form is used to gather details about the person being referred and the travel nurse's experience working with them. The form helps to identify the strengths and weaknesses of the person, their work environment, and any other relevant information that can be used to make informed decisions about future travel assignments.
-
-To ensure that the travel nurse has a comprehensive view of the person being referred, we will be reviewing the responses to this form for relevance and non-duplication. Please provide accurate and complete information.
-
-The form is divided into different sections that cover the following areas:
-
-* Basic contact information (First Name, Last Name, Email)
-* Contact information for the person being referred (Name, Title, Department, Phone Number)
-* Supervision information (Supervisor Name, Title, Email, Phone Number)
-* Relationship and work environment details
-
-Please provide detailed and honest feedback about the person you are referring, and any additional comments or insights that you may have.
-</thinking>
-
 # travel_nurse_reference_form - Help Guide
 ## Purpose
 This form is used to collect information about a travel nurse's reference, which includes the person's basic contact details, supervision information, and work environment.

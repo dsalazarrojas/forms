@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gather information to recommend a suitable battery for a trail camera based on the user's usage pattern, environment, and other factors. The form is designed to be completed by a retailer or a customer service representative to provide personalized recommendations to customers. 
 
 Please ensure that you only fill out this form once for each customer, and that you have their permission to share their information with our team. If you have already completed this form for a customer, please do not re-complete it. 

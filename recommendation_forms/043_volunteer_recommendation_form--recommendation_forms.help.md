@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Recommendation Form - Help Guide
 ## Purpose
 The Volunteer Recommendation Form is designed to collect information about an individual's recommendation of a volunteer. This form helps us to gather details about the person being recommended, their relationship with the volunteer, and the reasons for the recommendation.

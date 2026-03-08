@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is filled out correctly and accurately to capture the necessary information for team recruitment videos. This form is used to obtain consent from participants for their appearance in the video, and it's essential to get the right information for each field to ensure that the video is properly recorded and consent is valid. Let's review the form schema to double-check that each field is correctly filled out.
-
-</thinking>
-
 # Team Recruitment Video Appearance Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from participants for their appearance in team recruitment videos.

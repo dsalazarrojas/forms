@@ -1,7 +1,3 @@
-<thinking>
-This form is used for local chapter registration. It allows users to provide information about their local chapter, including chapter name, ID, and leadership team members. The form is divided into three sections: Chapter Information, Leadership Information, and Contact and Operations. Users will need to provide contact information, meeting frequency, and other chapter details. This form checks for non-duplication of local chapter information before submitting.
-</thinking>
-
 # City Wide Chapter Registration - Help Guide
 ## Purpose
 The City Wide Chapter Registration form is designed to collect information about local chapters, including chapter details, leadership team members, and contact information.

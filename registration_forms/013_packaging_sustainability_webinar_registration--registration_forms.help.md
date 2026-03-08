@@ -1,11 +1,3 @@
-<thinking>
-This form is a registration form for the Packaging Sustainability Webinar. It's used to collect attendee information for the event. To complete this form, follow these steps:
-
-- Fill out the registration form with the required and optional questions as needed.
-
-The purpose of the form is to gather information about attendees, such as name, contact details, and other relevant data for the event. This information is used to tailor the event experience for the attendees and for follow-up communication.
-</thinking>
-
 # Packaging Sustainability Webinar Registration - Help Guide
 ## Purpose
 

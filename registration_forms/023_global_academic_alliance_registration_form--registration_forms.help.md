@@ -1,19 +1,3 @@
-<thinking>
-To create this form, I'll consider the following fields and purpose:
-
-*   The form is used for registration for Global Academic Alliances.
-*   It appears to be used for collecting information about institutions and their partnerships.
-*   There is an option to upload a document for the agreement.
-*   This form seems to collect information about partnerships in various formats, including partnership types, status, and relationship levels.
-
-The purpose of this form is likely to register and track global academic alliances for an organization, collecting information about the partner institutions, partnership status, agreement, and other relevant details.
-
-The form appears to be designed for administrators or users who will be handling these registrations and partnerships.
-
-The following instructions and field explanations are provided to help the user understand how to complete the form correctly:
-
-</thinking>
-
 # Global Academic Alliance Registration Form - Help Guide
 ## Purpose
 This form is used to register and track global academic alliances for your organization. It collects information about partner institutions, partnership status, agreement, and other relevant details.

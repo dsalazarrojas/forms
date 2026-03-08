@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for employees to register for the Wellness Leadership Conference. The form is divided into several sections, each with a specific purpose. To avoid duplication, please ensure that you only fill out this form if you have not already registered for the conference. If you're unsure about your registration status, you can check with your HR representative.
-</thinking>
-
 # employee_wellness_leadership_conference_registration - Help Guide
 ## Purpose
 This form is for registering employees for the Wellness Leadership Conference. It helps us gather information about your session choices and preferences for the conference.

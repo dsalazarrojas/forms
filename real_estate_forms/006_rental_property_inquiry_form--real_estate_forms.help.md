@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from renters interested in renting a rental property. The form asks for personal details such as name, contact information, and preferred location. Additionally, it asks for information about the type of property they are looking for, such as the number of bedrooms and amenities. The form also includes fields for agent information and terms and conditions.
-It is assumed that the form is intended for internal use within an organization, and the agent information fields are likely used for communication and follow-up purposes.
-It is also possible that the form is used for lead generation, and the preferred location field is used to narrow down potential leads.
-</thinking>
-
 # Rental Property Inquiry Form - Help Guide
 ## Purpose
 The Rental Property Inquiry Form is designed to collect information from renters interested in renting a rental property. This form will help us understand their preferences and needs, and provide them with relevant information and support.

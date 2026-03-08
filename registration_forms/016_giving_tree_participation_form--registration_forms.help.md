@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Giving Tree Participation Form - Help Guide
 
 ## Purpose

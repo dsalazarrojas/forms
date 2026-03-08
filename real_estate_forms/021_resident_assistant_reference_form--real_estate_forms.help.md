@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # resident_assistant_reference_form - Help Guide
 ## Purpose
 The resident_assistant_reference_form is a reference form used to gather essential information from residents in a building or facility. The form is meant to be completed by residents to provide accurate and up-to-date information about their living situation, contact details, and preferences. This information will be used by building staff to effectively assist residents and communicate with them.

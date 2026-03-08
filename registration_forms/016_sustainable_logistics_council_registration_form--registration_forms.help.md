@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the registration process for the Sustainable Logistics Council. The primary purpose of this form is to collect information about individuals who wish to join the council. The fields are designed to be completed by the individual themselves, making it a self-service registration process. Before filling out this form, please ensure that you have not previously registered with the Sustainable Logistics Council. If you have already registered, you do not need to fill out this form again.
-</thinking>
-
 # sustainable_logistics_council_registration_form - Help Guide
 ## Purpose
 The Sustainable Logistics Council Registration Form is used to register new members to join the council. This guide will walk you through each section of the form, explaining what each field is and how to complete it.

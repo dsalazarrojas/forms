@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_referral_questionnaire - Help Guide
 
 ## Purpose

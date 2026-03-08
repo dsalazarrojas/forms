@@ -1,7 +1,3 @@
-<thinking>
-The main purpose of this form is to collect information from children who wish to participate in an art workshop. It gathers essential details such as student's personal and parental information, workshop preferences, and special interests. By using this form, we can ensure that we're prepared for each student's needs and tailor the workshop experience accordingly. To avoid confusion, this form should only be filled out by the student who will actually be attending the workshop.
-</thinking>
-
 # Children's Art Workshop Registration Form - Help Guide
 ## Purpose
 The Children's Art Workshop Registration Form is designed to collect necessary information from students and their parents or guardians to create a tailored workshop experience.

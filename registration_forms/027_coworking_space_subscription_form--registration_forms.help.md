@@ -1,7 +1,3 @@
-<thinking>
-We need to confirm that this form is being used for a specific purpose and not being used in duplicate. The form is for registering a coworking space subscription. This form is used to collect information from users about their subscription to a coworking space, including the workspace they are subscribed to, their name, email, phone number, subscription type, subscription term, start date, end date, description, and any tools they are assigned. This form does not seem to be designed for duplicate use, as each field has a unique id.
-</thinking>
-
 # coworking_space_subscription_form - Help Guide
 ## Purpose
 This form is used to register your coworking space subscription. Please provide the required information to complete your subscription.

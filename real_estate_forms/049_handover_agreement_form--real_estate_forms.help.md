@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for documenting handover agreements between landlords and tenants. It's essential to ensure that all parties involved understand their roles, responsibilities, and commitments when transferring property ownership or possession. Please review the form carefully to avoid any confusion or misunderstandings.
-</thinking>
-
 # Handover Agreement Form - Help Guide
 ## Purpose
 The Handover Agreement Form is a document that helps establish a clear understanding between landlords and tenants when handing over property ownership or possession. It outlines the terms and conditions of the handover, including property details, agreements, and expectations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents/guardians about their child's basic details such as name, contact information, and other relevant data. The fields are mostly text-based and include a mix of select options for gender and contact permission. Please make sure you fill in all required fields, marked with <code>required: true</code>.
-</thinking>
-
 # Preschool Admission Form - Help Guide
 ## Purpose
 This form is used to collect information from parents/guardians to ensure the child's smooth transition into the preschool environment.

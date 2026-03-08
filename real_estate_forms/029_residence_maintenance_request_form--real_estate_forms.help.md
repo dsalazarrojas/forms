@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Residence Maintenance Request Form - Help Guide
 
 ## Purpose

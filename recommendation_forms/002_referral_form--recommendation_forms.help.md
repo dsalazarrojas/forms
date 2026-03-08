@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information about a referral, including the referee's name, contact information, and any additional notes or comments. The form is typically used in situations where someone is being referred for a specific purpose, such as a job interview or a business opportunity. The information collected on this form will help the referrer (the person submitting the referral) to provide a more complete and accurate description of the referee to the hiring manager or decision-maker. This form is meant for internal use within the organization and is not intended to be publicly accessible.
-
-</thinking>
-
 # Referral Form - Help Guide
 ## Purpose
 The Referral Form is used to collect information about a referee for internal purposes within the organization.

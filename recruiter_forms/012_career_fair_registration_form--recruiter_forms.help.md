@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to register for the Career Fair. The form is designed to collect information about the attendee's role, preferences, and requirements for the event. Please make sure to fill out the form carefully, as some fields are required to complete registration. This guide will walk you through each field to help ensure you provide accurate and complete information.
-</thinking>
-
 # Career Fair Registration Form - Help Guide
 ## Purpose
 This form is for registering for the Career Fair, which is a platform for students, job seekers, employers, recruiters, and other stakeholders to connect with each other and explore opportunities.

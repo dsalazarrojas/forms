@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be used for checking out of an exhibition booth after an event. The purpose of this form is to gather information about the event and the booth's status. This form is likely to be used by event managers, technical teams, and exhibition representatives to confirm that the booth has been properly checked out. This form should not be used for other purposes.
-
-It is possible that this form is being used for multiple purposes or that it is a duplicate form. However, without further information about the form's usage or the context in which it is being used, we can assume that it is being used as intended for exhibition booth checking out.
-
-</thinking>
-
 # Exhibition Booth Check Out Form - Help Guide
 ## Purpose
 The Exhibition Booth Check Out Form is used to gather information about the status of an exhibition booth after an event. This form is used to confirm that the booth has been properly checked out by the event manager, technical teams, and exhibition representatives.

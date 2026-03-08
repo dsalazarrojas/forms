@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a referral form for a transmission specialist. It's likely used for customers to report issues or requests related to their vehicle's transmission. The purpose of this form is to gather information about the customer's vehicle and their inquiry.
-
-To determine if this form is relevant, I would check if the company has a transmission specialist department and if customers would likely be interacting with them. Non-duplication should be considered by checking if a similar form already exists within the company's forms library.
-
-If the form is indeed relevant and not a duplicate, the content of the form suggests it's for collecting details from customers about their vehicle's transmission issues or inquiries, which would help the transmission specialist department respond accordingly.</thinking>
-
 # transmission_specialist_referral_form - Help Guide
 ## Purpose
 The transmission_specialist_referral_form is a referral form used for customers to report issues or requests related to their vehicle's transmission.

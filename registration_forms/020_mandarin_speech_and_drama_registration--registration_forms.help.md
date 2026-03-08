@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is intended for enrolling a student in a Mandarin Speech and Drama program. It collects information from the student and parent/guardian for enrollment purposes.
-
-Before proceeding, please ensure that you are filling out this form for the correct purpose and that you have not already submitted this form for the same student. 
-</thinking>
-
 # Mandarin Speech And Drama Registration - Help Guide
 ## Purpose
 This form is for enrolling a student in the Mandarin Speech and Drama program. It collects information from the student and parent/guardian for enrollment purposes.

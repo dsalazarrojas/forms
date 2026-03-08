@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to obtain approval for a commission request from a salesperson. This form is likely used within a real estate organization to track and manage commission requests. The form should only be used for new commission requests, not for updates or revisions to existing ones. Please ensure that you've reviewed the form carefully before completing it to avoid errors.
-</thinking>
-
 # Commission Approval Form - Help Guide
 
 ## Purpose

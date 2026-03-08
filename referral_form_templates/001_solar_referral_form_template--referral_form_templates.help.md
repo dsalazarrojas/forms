@@ -1,5 +1,3 @@
-<thinking>This help guide is intended for users who need to complete the Solar Referral Form. The form is used to collect information about a patient's medical condition, their contact information, and details about their doctor's information. It is not meant for internal use only and should not be used for duplicate entries. Please ensure that all required fields are filled out accurately.</thinking>
-
 # Solar Referral Form Template - Help Guide
 ## Purpose
 This form is used for patients to refer a doctor for their medical condition. It is designed to collect essential information about the patient, their contact details, and doctor's contact information.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information from clients who are reaching out for DJ service referrals. This form helps in understanding their contact details, the type of event they're looking for DJ services for, and the preferred contact date and time. It's essential to complete this form accurately as it will help our team assess the client's request and provide the most suitable services. Before proceeding, please ensure you have not already contacted us and that your information is up-to-date.
-</thinking>
-
 # DJ Service Referral Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients who are interested in our DJ services. Please complete it accurately to help us better understand your requirements.

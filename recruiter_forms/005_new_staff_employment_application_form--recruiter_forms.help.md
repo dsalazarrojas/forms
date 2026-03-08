@@ -1,9 +1,3 @@
-<thinking>
-This help guide will help users understand the purpose and usage of the New Staff Employment Application Form. The form is designed to streamline the hiring process for businesses by collecting relevant information about the job posting. This includes the job title, location, description, employment type, status, and contact information. The form is composed of multiple pages, each with a specific set of fields that need to be filled out by the user. The form is not mandatory, but it provides a structured way to collect and process job postings.
-
-The form can be used by businesses to post job openings and gather information from potential applicants. The form is not meant to be used for personal or non-business purposes.
-</thinking>
-
 # New Staff Employment Application Form - Help Guide
 ## Purpose
 The New Staff Employment Application Form is designed to facilitate the hiring process for businesses by collecting relevant job posting information.

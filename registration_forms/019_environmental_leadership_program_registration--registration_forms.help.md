@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll provide a user-facing help guide for the Environmental Leadership Program Registration form. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section. This will ensure that end-users understand the form's requirements and can accurately fill it out.</thinking>
-
 # Environmental Leadership Program Registration - Help Guide
 
 ## Purpose

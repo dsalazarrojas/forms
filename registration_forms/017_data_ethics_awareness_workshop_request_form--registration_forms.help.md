@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a registration form for individuals or organizations to request a data ethics awareness workshop. The purpose of this form is to gather information about the workshop details and preferences of the registrants. The form ensures that the workshop is tailored to the needs and interests of the attendees. By filling out this form, registrants can help the workshop organizers understand their requirements and preferences, allowing for a more effective and engaging workshop experience.
 
 # Data Ethics Awareness Workshop Request Form - Help Guide

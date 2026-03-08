@@ -1,11 +1,3 @@
-<thinking> 
-To create a user-facing help guide for the "Script Reading Broadcast Consent Form", I'll first need to understand the form's purpose and ensure it's not a duplicate effort. The form appears to be used for recording consents for script reading broadcasts, and it's likely intended for a specific audience such as script writers, directors, or production teams. However, I'll review the provided YAML fields to provide a comprehensive explanation.
-
-This form is likely used to collect necessary information and consents from individuals or groups before proceeding with script reading broadcasts. It's essential to understand the fields and their requirements correctly to ensure accuracy and consistency in the process.
-
-After reviewing the form's fields, I'll create a clear and concise help guide using the required Markdown structure.
-
-</thinking>
 # Script Reading Broadcast Consent Form - Help Guide
 ## Purpose
 This form is used to record consents for script reading broadcasts. It helps ensure that all parties involved in the broadcast process have provided their necessary consents and information.

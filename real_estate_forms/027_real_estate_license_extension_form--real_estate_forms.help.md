@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect data for real estate license extensions. The form will likely be used by real estate professionals to apply for an extension of their real estate license, which may be necessary when a license is about to expire and the professional needs more time to complete the renewal requirements. The form's main goal is to gather essential information for processing the extension request. 
-
-The form's fields suggest that the user will need to provide information on the status of their current license, the type and number of the license, the license renewal date and expiration date, the extension period, and the renewal fee details. The fields also allow the user to indicate whether the license is active or inactive, the type of license renewal, and whether the extension period has been certified. 
-
-Before proceeding, ensure that you have all the required information and that you are not duplicating an existing extension request. This form is designed for single-use purposes and is not meant for continuous submissions. If you need to make changes or updates, please reach out to the relevant authorities for assistance.
-
-</thinking>
-
 # real_estate_license_extension_form - Help Guide
 ## Purpose
 The Real Estate License Extension Form is designed to assist real estate professionals in submitting a request for an extension of their real estate license. This form collects essential information required for processing the extension request and helps ensure that you meet the necessary requirements for a successful application.

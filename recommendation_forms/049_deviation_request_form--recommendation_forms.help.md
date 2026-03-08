@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect deviation requests from users, allowing them to submit their needs or concerns related to a project or process. This form aims to gather essential information for further investigation or action. To ensure accurate and efficient processing, please ensure that you only submit a single request per form. If you need to submit multiple requests, please use multiple forms.
-To avoid duplication, please check that the form's purpose and your request align with existing deviations or similar requests already submitted. If you're unsure, please ask your supervisor or project lead for guidance.
-</thinking>
-
 # Deviation Request Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-The form is used to collect information from individuals, likely photographers or fitness studio staff, who will be participating in media coverage or other activities where their likeness is involved. This form is likely used to obtain their consent for the use of their likeness in various media, and to provide a record of their consent status and any associated information such as release dates, media outlets, and photographers involved. This form is not meant to be a comprehensive record of all possible media-related activities, but rather a general template for recording consent for various types of media coverage. It is likely to be used by management or administration staff who need to manage the consent of multiple individuals. This form is likely not intended for use by individuals who will be participating in media coverage themselves. 
-
-Form fields should be reviewed for completeness and consistency with existing policies and procedures. It is also recommended that this form be reviewed for completeness and consistency with existing policies and procedures. The form fields are likely to be used to record and track information related to media coverage, and may need to be reviewed and updated regularly to ensure that the information collected is accurate and up-to-date. 
-
-Please note that the fields may need to be customized or expanded for specific requirements, and the form may need to be adapted to specific business needs and use cases. Additionally, it is also recommended that this form be reviewed for accessibility and usability for all potential users.
-</thinking>
-
 # Fitness Studio Press Coverage Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals, usually photographers or staff members, for media coverage purposes, including obtaining their consent for the use of their likeness in various media.

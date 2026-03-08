@@ -1,5 +1,3 @@
-<thinking>Private School Referral Form is used for private schools to collect referral information from individuals who bring new students to their schools. This form helps track referrals and provides necessary details for follow-up activities. It's essential to complete this form accurately and thoroughly to ensure that the referral process is successful. Please ensure that you are filling out this form for a valid referral and not as a duplicate or fake entry.</thinking>
-
 # Private School Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who refer new students to private schools. It's essential to fill out this form accurately to provide the school with the necessary details for follow-up activities.

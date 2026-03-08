@@ -1,7 +1,3 @@
-<thinking>
-This form is a Commercial Appraisal Review Form. It is used for reviewing commercial properties to ensure that they are appraised accurately and in compliance with relevant standards. Reviewers will go through the form to evaluate the property's details and provide their findings and recommendations. This form should be used after an initial appraisal has been conducted. Please ensure that the form is not used for properties that have not been previously appraised. The form is designed to capture the reviewer's opinion on the property's value, accuracy, and compliance with standards. Ensure that the form is completed accurately and thoroughly to ensure that the review is comprehensive and meaningful.
-</thinking>
-
 # Commercial Appraisal Review Form - Help Guide
 ## Purpose
 

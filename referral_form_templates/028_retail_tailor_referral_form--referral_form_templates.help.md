@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about retail referrals, including customer details, referral details, follow-up information, and tailor details. The form has been structured to gather relevant information in a logical and straightforward manner, ensuring that the user has a clear understanding of what to expect. To avoid duplication or redundancy, we will only include fields that are actually relevant to the referral process.
-
-</thinking>
-
 # Retail Tailor Referral Form - Help Guide
 ## Purpose
 The Retail Tailor Referral Form is used to collect information about retail referrals, customer details, and tailor details. This form is intended for use by retail customers to provide information about their referral experience.

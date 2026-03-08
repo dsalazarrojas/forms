@@ -1,14 +1,3 @@
-<thinking>
-The Property Valuation Request Form is used to request a property valuation from a real estate expert. This form is typically filled out by a client who is seeking an assessment of the value of their property. The form captures essential information about the property, including its type, address, description, and size. The client can select the type of property (e.g., Land, Office, Commercial, or Residential) and provide details about the property's address, description, and size. They can also choose the date for the valuation and the method of valuation (e.g., Inspection, Review, or Calculation). Additionally, the client can provide their contact information and any additional notes they would like to include.
-
-This form is used to gather all the necessary information for the real estate expert to perform a thorough property valuation. It's essential to fill out the form as accurately as possible to ensure that the expert can provide the most precise valuation.
-
-The client should be aware that the valuation result can be High, Medium, or Low. However, this is not a required field, and the client can choose to leave it blank if not applicable.
-
-Also, please note that some fields are not required and can be left blank if not relevant to the property valuation.
-
-</thinking>
-
 # Property Valuation Request Form - Help Guide
 ## Purpose
 The Property Valuation Request Form is used to gather information for a property valuation request from a real estate expert.

@@ -1,8 +1,3 @@
-<thinking>
-We can assume this form is used to collect information from buyers to understand their preferences and needs for a real estate transaction. This form likely helps real estate agents or brokers gauge the buyer's requirements and provide personalized services. Since most fields are not required, users have flexibility to input the information they feel is relevant to their needs. This form might not be suitable for critical business transactions or high-security applications, but for a basic real estate inquiry, it should suffice. We will focus on creating a user-friendly and clear help guide to walk users through each field. 
-
-</thinking>
-
 # Real Estate Buyer Information Form - Help Guide
 ## Purpose
 This form is designed to gather information from buyers about their preferences and needs for a real estate transaction. The data collected will help real estate agents or brokers understand the buyer's requirements and provide personalized services.

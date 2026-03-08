@@ -1,8 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and usage of the Mortgage Advisor Referral Form. The form is designed to collect information about a potential mortgage advisor referral. The form has several fields that gather details about the client, contact information, property, referral, and other relevant details. This guide will walk users through each field and explain its purpose.
-
-</thinking>
-
 # Mortgage Advisor Referral Form - Help Guide
 ## Purpose
 The Mortgage Advisor Referral Form is a tool to collect information about a potential mortgage advisor referral. The form is used to gather details about the client, their contact information, property, and other relevant details. This information will help the mortgage advisor to evaluate the potential referral opportunity and decide on the next course of action.

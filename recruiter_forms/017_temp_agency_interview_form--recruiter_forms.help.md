@@ -1,7 +1,3 @@
-<thinking>
-We're designing a form that will serve as a centralized hub for tracking and managing temp agency interviews. This form will be used to collect information about the job titles, candidates, and submissions. It will help the agency to keep track of candidate details, interview outcomes, and submission records. The form will be used by recruiters, agents, and other agency personnel. We should ensure that this form is user-friendly and easy to use, so let's break down each field's purpose and requirements to make it clear and concise.
-</thinking>
-
 # Temp Agency Interview Form - Help Guide
 ## Purpose
 The Temp Agency Interview Form is designed to collect and store information about job titles, candidates, and submissions. This form will help the agency track and manage all the data related to temp agency interviews.

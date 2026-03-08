@@ -1,12 +1,3 @@
-<thinking>
-The form "music_lesson_intake_form" is designed to collect information from students who are interested in taking music lessons. This form is typically used by music instructors or schools to gather details about the students' requirements, preferences, and availability for lessons.
-
-Before proceeding, please ensure that you are not duplicating your submission. If you have already submitted this form for a different student, you might not be able to proceed with this new submission.
-
-The purpose of this form is to provide the music instructor with essential information needed to tailor the lessons according to the student's needs. This form is meant for new students only, so if you have already taken lessons with this instructor, please do not submit this form again.
-
-</thinking>
-
 # music_lesson_intake_form - Help Guide
 ## Purpose
 This form is designed to collect information from students interested in taking music lessons. The data collected will be used by the music instructor to tailor the lessons according to the student's needs.

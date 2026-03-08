@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for self-referrals in a medical context. The form is intended to gather patient details such as name, address, and contact information, as well as referral specifics like the type of referral and preferred contact method. It is a crucial part of the referral process, ensuring that the necessary information is collected accurately and efficiently.
-To use this form, please check that you are not duplicating an existing referral and that your referral is relevant to the current context. If you're unsure, please consult your organization's referral guidelines.
-</thinking>
-
 # Self Referral Form - Help Guide
 ## Purpose
 The Self Referral Form is designed to collect relevant and accurate information for self-referrals in a medical context. It is used to gather patient details, referral specifics, and contact information.

@@ -1,9 +1,3 @@
-<thinking>
-We are creating a help guide for a form designed to register perishable goods alliances. The form aims to gather basic information from users, including base information, user information, partner information, contact information, and a submit button. This form is intended for registering entities involved in perishable goods alliances, such as suppliers, distributors, or consumers. Before proceeding, please ensure that you are not a duplicate registration and that you have all necessary permissions to register on behalf of the entity you are representing.
-
-To ensure accuracy and consistency in the registration process, please review the following help guide carefully.
-</thinking>
-
 # Perishable Goods Alliance Registration Form - Help Guide
 ## Purpose
 This form is designed to collect basic information from users to register their entities involved in perishable goods alliances. The purpose of this form is to gather the necessary details to create a registration record for each entity.

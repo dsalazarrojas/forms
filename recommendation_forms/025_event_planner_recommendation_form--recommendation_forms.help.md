@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # event_planner_recommendation_form - Help Guide
 ## Purpose
 

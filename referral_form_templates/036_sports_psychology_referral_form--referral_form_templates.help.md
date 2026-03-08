@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used correctly and only for its intended purpose. The sports psychology referral form is designed to collect information from a parent or guardian regarding a student's involvement in school sports. It's crucial that the form is used in a genuine and non-duplication sense to prevent any confusion or miscommunication with the sports psychology services. This form is not meant to be filled out for any other reason than its intended purpose, and users should avoid submitting duplicate or incomplete information.
-</thinking>
-
 # sports_psychology_referral_form - Help Guide
 ## Purpose
 The sports psychology referral form is a tool for parents or guardians to provide information about a student's involvement in school sports. This form helps the sports psychology services team to gather essential details about the student's needs and experiences.

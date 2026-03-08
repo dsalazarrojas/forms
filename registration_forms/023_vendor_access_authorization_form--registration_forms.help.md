@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Vendor Access Authorization Form, we need to consider the form's purpose and the fields it contains. The form is likely intended to provide authorization for vendors to access certain resources, products, or services. The fields include basic information about the vendor, such as name, email, phone number, and address, as well as more specific fields like security questions, security answers, vendor status, type, and level. 
-
-The form likely requires the vendor to select their status, type, and level, and also provide security answers. The vendor's status could be Active or Inactive, type could be type1 or type2, and level could be level1 or level2. The security questions and answers seem to be used to verify the vendor's identity. 
-
-The form might be used for internal purposes within a company, such as granting vendors access to certain resources or information. It's also possible that this form is part of a more extensive system for managing vendor relationships. 
-
-Given this, the form should be easy to fill out and clear in its instructions, and each field should have a clear explanation to help users understand the purpose behind it.
-
-</thinking>
-
 # Vendor Access Authorization Form - Help Guide
 ## Purpose
 The Vendor Access Authorization Form is used to grant access to vendors for certain resources, products, or services. It collects information about the vendor, including their name, email, phone number, address, and security details to verify their identity.

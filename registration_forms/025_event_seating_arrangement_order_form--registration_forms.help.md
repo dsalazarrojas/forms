@@ -1,7 +1,3 @@
-<thinking>
-This form is used for event organizers to collect information about an event, including the event name, description, guest count, seating preferences, and contact information. The purpose of this form is to allow event organizers to efficiently collect and track event information, ensuring that all necessary details are captured for seating arrangement purposes.
-</thinking>
-
 # Event Seating Arrangement Order Form - Help Guide
 ## Purpose
 This form is used to collect information about events from event organizers. It helps event organizers to submit their event details, seating preferences, and contact information for efficient event planning and coordination.

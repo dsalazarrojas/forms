@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a mortgage lien release form used to release a lien on a property. The form will likely be used by a lender or property owner to confirm payment has been made or to provide instructions for release of a lien. To avoid duplication, the form will only be used in cases where a payment has been made or a lien is being released, and not for general inquiries or other types of requests.
-</thinking>
-
 # Mortgage Lien Release Form - Help Guide
 ## Purpose
 The Mortgage Lien Release Form is used to confirm that a lien on a property has been released due to payment of the loan or to provide instructions for release of the lien.

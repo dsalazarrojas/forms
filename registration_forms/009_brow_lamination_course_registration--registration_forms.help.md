@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in registering for a brow lamination course. It gathers data on personal details, preferences, and needs to provide an efficient and personalized experience for the training. The form is divided into several sections, which are explained in detail below.
-
-This form is a crucial part of the registration process, and it's essential to understand what information is collected and how it's used to tailor the course to each individual's needs.
-</thinking>
-
 # Brow Lamination Course Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals interested in registering for a brow lamination course. The form is used to gather personal details, preferences, and needs to provide an efficient and personalized experience for the training.

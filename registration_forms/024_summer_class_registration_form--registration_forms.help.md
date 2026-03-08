@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering students for a summer class. It's a simple form that collects the necessary information from students to enroll them in the program. Please check that this form is being used for its intended purpose and not for other purposes. If you're unsure, double-check the form's purpose and ensure it's not being used for other forms.
-</thinking>
-
 # Summer Class Registration Form - Help Guide
 
 ## Purpose

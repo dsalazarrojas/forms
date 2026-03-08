@@ -1,8 +1,3 @@
-<thinking> 
-The form is likely used for recording consent from individuals or teams participating in emergency response simulations. This form may be used by emergency management teams, researchers, or other stakeholders to record and track consent, potentially for further use in debriefing, training, or documentation purposes. It's possible that this form is intended for use in a specific industry or organization, such as emergency services or healthcare, given the category options. To avoid duplication of efforts, it's essential to review the form carefully and ensure all required fields are filled out accurately.
-
-</thinking>
-
 # Emergency Response Simulation Recording Consent Form - Help Guide
 
 ## Purpose

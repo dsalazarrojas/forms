@@ -1,17 +1,3 @@
-<thinking>
-To create a form that recommends an individual for a job, we need to gather specific information about the candidate and the job they are being considered for. This form is designed to collect data from the recommender, who is usually someone who knows the candidate well, such as a manager or colleague. The purpose of this form is to capture the recommender's opinion on the candidate's skills, experience, and fit for the job.
-
-The form is composed of several sections that will help us understand the candidate's background, job history, and qualifications. Here's a breakdown of what each section is for:
-
-* The first section will ask for basic information about the candidate, including their first and last name, job title, and years known.
-* The second section will ask for details about the recommender, including their first and last name, title, and company.
-* The third section will ask for information about the job the candidate is being considered for, including the job title, job duties, and job category.
-* The fourth section will ask for ratings and comments from the recommender, including their overall rating of the candidate and any additional comments they may have.
-* The final section will ask for any additional comments or information that the recommender thinks may be relevant to the candidate's application.
-
-Before completing this form, please make sure that the candidate's information is up-to-date and accurate, as this will ensure that your recommendation is helpful and relevant to the hiring process. Please also note that the recommender's rating and comments are subjective and should reflect their honest opinion of the candidate.
-</thinking>
-
 # Recruiter Recommendation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a candidate from a recommender, who is usually someone who knows the candidate well, such as a manager or colleague. This information will be used to help make informed decisions about the candidate's fit for a job.

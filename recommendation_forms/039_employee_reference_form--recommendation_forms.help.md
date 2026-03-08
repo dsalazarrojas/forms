@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's first analyze the form purpose and fields. The Employee Reference Form appears to be a form used to collect information about an employee's professional references, typically for employment or promotion purposes. The form likely aims to gather details about the employee's work experience, position, and performance evaluation. Each field is designed to collect specific information about the employee's professional background and work history. The form's purpose is to provide a structured way to gather references for employee evaluations or recommendations.</thinking>
-
 # Employee Reference Form - Help Guide
 ## Purpose
 The Employee Reference Form is used to collect information about an employee's professional references for employment or promotion purposes.

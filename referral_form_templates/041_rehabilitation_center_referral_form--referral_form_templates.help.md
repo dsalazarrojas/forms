@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information for potential patients referred to the rehabilitation center. The form ensures that the necessary information is collected for the patient's referral process, including demographic data, medical history, and contact information. The form helps the center to assess the patient's eligibility for the program and provide a comprehensive understanding of their needs. To ensure that the form is filled out correctly, please review the following instructions carefully.
-</thinking>
-
 # Rehabilitation Center Referral Form - Help Guide
 ## Purpose
 The Rehabilitation Center Referral Form is used to collect information from potential patients referred to the center. This form is required to ensure that the patient's needs are properly assessed and that they can be referred to the most suitable program.

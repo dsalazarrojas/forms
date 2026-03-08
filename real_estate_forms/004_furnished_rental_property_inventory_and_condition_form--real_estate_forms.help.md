@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to gather detailed information about a furnished rental property, including its address, current occupancy status, type, size, rent amount, move-in and move-out dates, utilities, condition, and contact details. The purpose of this form is to create a comprehensive inventory and condition report for the property. This report can be used to keep track of property details for various stakeholders, such as property managers, agents, or owners.
-
-Before proceeding, please ensure that you have the necessary information and permissions to complete this form accurately. This form is not intended for duplicate submissions. If you're unsure about any of the fields or have any questions, please refer to the relevant sections below for guidance.
-
-This form collects data for the following pages: 
-
-* Property Details 
-* Occupancy Status
-* Property Information 
-* Rental Information 
-* Maintenance and Services 
-* Contact Information
-
-Please complete each page carefully, and make sure to review your answers before submitting the form.
-
-</thinking>
-
 # Furnished Rental Property Inventory And Condition Form - Help Guide
 ## Purpose
 The purpose of this form is to gather detailed information about a furnished rental property, including its address, current occupancy status, type, size, rent amount, move-in and move-out dates, utilities, condition, and contact details. This information will be used to create a comprehensive inventory and condition report for the property.

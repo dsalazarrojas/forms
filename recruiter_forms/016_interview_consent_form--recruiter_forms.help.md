@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to capture the details of an interview or session, including the consent of the interviewee, session details, and notes from the recruiter and interviewer. The form is used to ensure that the interview is conducted fairly and that the interviewee's rights are respected. This form should only be used when an interview is conducted, and the consent of the interviewee is a necessary step to validate the integrity of the process.
-
-To ensure that the form is filled out correctly, please follow the instructions below:
-
-</thinking>
-
 # Interview Consent Form - Help Guide
 ## Purpose
 This form is used to record the details of an interview or session, including consent from the interviewee, and to ensure that the interview is conducted fairly.

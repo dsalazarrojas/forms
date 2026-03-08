@@ -1,5 +1,3 @@
-<thinking>...this form is designed for users to request teaching references. Before submitting, ensure that you are not already registered or that this is not a duplicate request. To complete this form, please follow the steps below:</thinking>
-
 # Teaching Reference Request Form - Help Guide
 ## Purpose
 The Teaching Reference Request Form is used to collect information from teachers for teaching references.

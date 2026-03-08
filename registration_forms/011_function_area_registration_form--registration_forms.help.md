@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering participants in a "Function Area" program. The purpose of this form is to collect participant information, function area details, and registration status. This form will help in maintaining accurate records and track participant registrations. It's recommended to fill out the form carefully and accurately as any incorrect information may cause confusion and affect registration status.
-</thinking>
-
 # Function Area Registration Form - Help Guide
 ## Purpose
 This form is designed to register participants in a "Function Area" program. It collects essential information about the participant, the function area, and the registration status.

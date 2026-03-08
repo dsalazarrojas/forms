@@ -1,7 +1,3 @@
-<thinking>
-We'll create a comprehensive user-facing help guide for the "Real Estate Broker Price Opinion Form" based on the provided YAML fields. This form is likely used for real estate agents or brokers to provide their professional opinion on the price of a property. Before starting, let's consider if this form is intended for internal use within the real estate company or if it will be shared with external clients. Assuming it's meant for internal use, the form will allow real estate agents to submit their price opinions on properties. We'll ensure the explanation is concrete, concise, and practical for end-users. We'll also provide tips for completing the form correctly.
-</thinking>
-
 # Real Estate Broker Price Opinion Form - Help Guide
 ## Purpose
 This form is for real estate agents or brokers to provide their professional opinion on the price of a property. It's likely used to gather their assessments and feedback on the current market value of a specific property.

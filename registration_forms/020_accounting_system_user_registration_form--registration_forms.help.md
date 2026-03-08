@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the Accounting System User Registration Form. Its purpose is to register new users with the accounting system, ensuring they have the necessary access rights and permissions. To prevent data duplication, the system checks for existing users with the same username and email. Before proceeding, ensure you are aware of the company's data security and password policies.
-</thinking>
-
 # Accounting System User Registration Form - Help Guide
 ## Purpose
 The Accounting System User Registration Form is used to register new users with the accounting system, allowing them to access system features and perform tasks. It is essential to complete this form correctly to ensure proper system configuration and data security.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information from users who want to pre-order a learning game. This form is intended for users who want to express their interest in purchasing a game before its official release. The purpose of this form is not for users who are already in stock and ready to buy. This form will likely be used by customers service team to keep track of pre-orders and communicate with users once the game is available for sale. The form should not be filled out if the user has already purchased the game or if it's not available for pre-order. 
-</thinking>
-
 # Pre Order Learning Game Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is a digital mapping application form for real estate projects. The form is designed to collect information about a project, including its details, owner, name, location, type, size, documents, description, contacts, email, website, and notes. The purpose of this form is to gather essential data about a project that will be used for further processing and analysis. The form does not have any required fields, so users can fill it out with as much or as little information as they need to.
-</thinking>
-
 # real_estate_digital_mapping_application_form - Help Guide
 ## Purpose
 This form is a digital mapping application form for real estate projects. It is designed to collect information about a project, including its details, owner, name, location, type, size, documents, description, contacts, email, website, and notes.

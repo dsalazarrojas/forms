@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture essential information related to patient referrals in a healthcare setting. The primary purpose of the form is to collect details about patients, their contact information, referring providers, healthcare providers, referral details, facility information, facility contact details, and patient consent. This information will help healthcare professionals streamline the referral process, reduce errors, and improve patient outcomes.
-
-Before filling out this form, please ensure that you have the necessary permissions to collect and share patient information. Additionally, double-check that you are not duplicating information that is already available in the patient's medical records.
-
-The form is not intended to be a comprehensive medical record but rather a supplementary document for referrals. Please use it in accordance with relevant regulations and guidelines in your healthcare setting.
-
-</thinking>
-
 # healthcare_provider_referral_form - Help Guide
 ## Purpose
 The healthcare provider referral form is a tool for healthcare professionals to collect and share essential information related to patient referrals.

@@ -1,5 +1,3 @@
-<thinking>This form is a tool designed to help website owners or managers collect and store information about their website, including its title, URL, and relevant keywords. It's an essential form for maintaining up-to-date records and improving website visibility on search engines.</thinking>
-
 # Submit Website Form - Help Guide
 ## Purpose
 The Submit Website Form is a simple form designed to gather essential details about a website, enabling its owner or manager to update and maintain accurate records.

@@ -1,10 +1,3 @@
-<thinking>
-The "Business Funding Review Registration Form" is a crucial document for businesses seeking funding. This form is designed to gather essential information about a company's official registration details, financial status, and contact information. The form is intended to help lenders, investors, or other stakeholders understand a business's identity, financial standing, and goals, ensuring that they can make informed decisions about potential funding opportunities.
-
-To ensure that the form is completed accurately and effectively, we need to verify that the business entity providing the information has the authority to do so and is not duplicating existing applications. This form should not be used for other purposes, such as applying for multiple funding opportunities or submitting information on behalf of another entity.
-
-</thinking>
-
 # Business Funding Review Registration Form - Help Guide
 
 ## Purpose

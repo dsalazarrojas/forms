@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for individuals or businesses that sell houses and need to provide information about their properties. This form should be used to collect details about the house, including its price, contact information, property type, size, and status. The form will likely be used by real estate agents or companies to list houses for sale, and the collected data will be used to populate a database or system for easier house search and management. It is crucial to ensure that all relevant information is accurate and up-to-date to avoid potential issues or miscommunication. 
-</thinking>
-
 # House Seller Form - Help Guide
 ## Purpose
 The House Seller Form is designed to collect detailed information about houses being sold by individual sellers or real estate agents. This form will be used to create a comprehensive database of houses for sale, making it easier for potential buyers to find and contact the seller.

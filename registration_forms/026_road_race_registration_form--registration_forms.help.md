@@ -1,11 +1,3 @@
-<thinking>
-The road race registration form is used to collect information from participants for a specific road race event. This form aims to gather detailed personal and event-related data from each participant. 
-
-To avoid duplication of effort, please ensure you have reviewed the form requirements and understand the necessary information to be filled in. If you're unsure about any field or have questions, please contact the relevant authorities or refer to the provided guidelines.
-
-This guide will walk you through the road race registration form step-by-step, providing explanations for each field to ensure you complete it accurately and efficiently.
-</thinking>
-
 # road_race_registration_form - Help Guide
 ## Purpose
 This guide is intended for participants registering for the road race event. It will walk you through each field of the road race registration form, explaining their purpose and requirements.

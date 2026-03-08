@@ -1,10 +1,3 @@
-<thinking>
-  This form is intended to collect information from patients for referral purposes. 
-  This form is not intended to collect sensitive or confidential information. 
-  Please note that all fields are optional and the form's layout and structure may be adjusted based on the specific needs of your organization. 
-  If you need to duplicate this form, you can use the provided information without restrictions, but please give credit to the original form creator.
-</thinking>
-
 # Physician Referral Form - Help Guide
 ## Purpose
 This form is designed to collect referral information from patients to facilitate efficient and accurate communication between healthcare providers. The form is intended to be used by healthcare professionals to gather necessary details for referral purposes, ensuring a smooth transition of care.

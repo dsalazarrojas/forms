@@ -1,13 +1,3 @@
-<thinking>... 
-
-We will design a user-facing help guide for the "Subscription Services Intake Form" that explains its purpose, completion instructions, and each field's meaning.
-
-The form is used to collect information about subscription services, including company details, service types, contact information, billing cycles, and payment gateways. It is essential to provide accurate and clear instructions to ensure users understand the form's purpose and fill it out correctly.
-
-Before starting the form, please ensure you are authorized to create a new subscription service. This form is not intended for duplicate or test data entry. 
-
-</thinking>
-
 # Subscription Services Intake Form - Help Guide
 
 ## Purpose

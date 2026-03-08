@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer School Completion Discharge Form - Help Guide
 ## Purpose
 This form is for discharging students from summer school programs. It helps school administrators gather necessary information to update student records and ensure a smooth transition for students returning to regular school or moving on to other educational programs.

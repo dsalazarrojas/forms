@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about an employee's intention to retire early. The form is used to document the employee's reasons for leaving, their future plans, and other relevant details. This form is intended for use in HR or personnel management contexts where keeping track of employee information is crucial. It is essential to ensure that the form is filled out accurately and thoroughly to avoid any confusion or disputes later on.</thinking>
-
 # Early Retirement Form - Help Guide
 
 ## Purpose

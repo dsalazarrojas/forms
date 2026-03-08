@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from recommenders for students who are applying for scholarships. The purpose of this form is to capture a student's relationship with the recommender, the nature of their relationship, and a brief recommendation for the student. This form should only be completed by a recommender who knows the student and is able to provide a genuine recommendation. Please do not submit a form if you are not a recommender for this student.
-</thinking>
-
 # Scholarship Recommendation Form - Help Guide
 ## Purpose
 This form is used to collect information from recommenders for students who are applying for scholarships. The purpose of this form is to capture a student's relationship with the recommender, the nature of their relationship, and a brief recommendation for the student.

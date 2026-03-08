@@ -1,7 +1,3 @@
-<thinking>
-We will first need to verify that this form is not used for any other purpose other than what it's intended for. We'll also need to ensure that the form's fields and their corresponding explanations are consistent with the form's purpose.
-</thinking>
-
 # Childcare Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed to help us understand your qualifications, experience, and availability as a potential volunteer for our childcare program. We require certain information to ensure a safe and nurturing environment for the children we care for.

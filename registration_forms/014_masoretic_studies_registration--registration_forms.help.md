@@ -1,7 +1,3 @@
-<thinking>
-The form "Masoretic Studies Registration" is intended to collect information from users regarding their registration for a study or research project. The form is likely used by researchers or educators to gather data on individuals interested in participating in a study. This form is not affiliated with any specific form platform and is an original adaptation of a form created using public survey topic metadata. It is released under a Creative Commons license, allowing others to use, modify, and distribute the form as they see fit. The form does not appear to be related to any specific industry or category, so it may be used in a variety of contexts, such as academic or research settings.
-</thinking>
-
 # Masoretic Studies Registration - Help Guide
 ## Purpose
 The Masoretic Studies Registration form is designed to collect basic information from users interested in participating in a study or research project. It is not a comprehensive survey, but rather a brief registration form to gather contact and demographic details.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to obtain security audio recording consent from individuals, ensuring that they are aware of and agree to the recording of audio content during interactions with security personnel. This form is not intended for general security purposes, but rather for specific security-related situations where audio recording may be necessary, such as during interrogations or investigations. Please note that this form will only be used for recording purposes and not for storing or processing any other type of information.
-
-To avoid duplication, ensure that this form is only used for situations where consent for audio recording is explicitly required or has not been previously obtained.
-
-</thinking>
-
 # Security Audio Recording Consent - Help Guide
 ## Purpose
 This form is used to obtain audio recording consent from individuals during security-related interactions. It is not to be used for general security purposes, but rather for specific situations where consent for audio recording is required or necessary.

@@ -1,6 +1,3 @@
-<thinking> 
-The form "Artist Management Form" is designed to collect information from artists about their management details. This form is likely used by management companies or agencies to onboard new artists and manage their contracts. The form is divided into various sections to gather essential data about the artist's contact information, professional details, and management terms. This form might be used in conjunction with other systems or databases to track and analyze artist data. It is crucial to complete this form accurately and truthfully to ensure seamless and effective management of the artist's career. Ensure this form is completed only once for each artist.</thinking>
-
 # Artist Management Form - Help Guide
 ## Purpose
 The Artist Management Form is a comprehensive form designed to collect and store artist management information. This form is used to gather essential details about the artist's contact information, professional background, and management agreements.

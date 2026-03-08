@@ -1,8 +1,3 @@
-<thinking>
-The real_estate_visitor_check_out_form form is designed to be completed by visitors to a real estate property. The form is meant to gather information about the visitor, their purpose of visit, and the property they are visiting. The form is used to track visitors and their interactions with the property, and to ensure that the property is being managed and maintained properly.
-This form should only be used for real estate properties, and not for other types of visits or purposes.
-</thinking>
-
 # real_estate_visitor_check_out_form - Help Guide
 ## Purpose
 The real_estate_visitor_check_out_form is used to collect information from visitors to a real estate property. This form is used to track visitors, their purpose of visit, and the property being visited.

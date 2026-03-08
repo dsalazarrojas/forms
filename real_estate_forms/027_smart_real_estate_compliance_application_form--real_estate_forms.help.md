@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Real Estate Compliance Application Form - Help Guide
 
 ## Purpose

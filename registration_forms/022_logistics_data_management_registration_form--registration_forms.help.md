@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for the registration of logistics data management information. It is crucial to provide accurate and up-to-date information to ensure effective logistics data management. Before filling out this form, please ensure that you have not already registered your information and that it is accurate.
-</thinking>
-
 # Logistics Data Management Registration Form - Help Guide
 ## Purpose
 This form is for registering logistics data management information. It is essential to provide accurate and up-to-date information to enable effective logistics data management. Please fill out this form carefully to ensure that your information is correctly recorded.

@@ -1,12 +1,3 @@
-<thinking>
-A Chargeback Withdrawal Request Form is a document used to request a withdrawal of a previously submitted chargeback. This form is used to formally request a refund or reversal of a chargeback that has already been submitted. This form is only applicable when a chargeback has already been initiated and the account holder wishes to withdraw or reverse the chargeback.
-
-The following checks should be performed before submitting this form:
-- The chargeback has already been submitted and is not currently in progress.
-- There is no pending or active chargeback cases on the account.
-- The account holder is aware of the potential consequences of withdrawing a chargeback, including any potential impact on their account balance or status.
-</thinking>
-
 # Chargeback Withdrawal Request Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Chargeback Withdrawal Request Form, which is used to request a refund or reversal of a previously submitted chargeback.

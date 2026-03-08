@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for registering new partners. The purpose of this form is to collect information about the partner, including their contact details, business information, and status. The goal is to create a partner record in the system for future reference and communication.
-To ensure that the form is not duplicated, it is recommended to check for existing partners in the system before submitting a new registration.
-</thinking>
-
 # partners_registration_form - Help Guide
 ## Purpose
 The partners_registration_form is used to register new partners in the system. This form helps collect necessary information about the partner, including contact details, business information, and status.

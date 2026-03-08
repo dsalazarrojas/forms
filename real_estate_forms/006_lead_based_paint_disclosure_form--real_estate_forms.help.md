@@ -1,7 +1,3 @@
-<thinking>
-The Lead Based Paint Disclosure Form is a mandatory form used to collect information about lead-based paint on a property. This form ensures that buyers and sellers are aware of the potential presence of lead-based paint and agree on the necessary procedures to be followed during the sale. 
-</thinking>
-
 # Lead Based Paint Disclosure Form - Help Guide
 ## Purpose
 The Lead Based Paint Disclosure Form is a mandatory form used to collect information about the presence or absence of lead-based paint on a property. The form helps to:

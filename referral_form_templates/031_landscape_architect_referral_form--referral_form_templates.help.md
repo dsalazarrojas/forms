@@ -1,8 +1,3 @@
-<thinking>
-We need to consider the purpose of this form and how it's used in the context of a referral form for landscape architects. It's likely that this form is used to collect information from clients or customers about a project they're referring to a landscape architect, including details about the project, the referral source, and the recommended landscape architect. The referral method and reason are also important fields to capture, as well as follow-up information. Additionally, we may need to collect contact information for the project manager, project contact, and the landscape architect themselves, including their license, name, phone, email, and address. This form may be used in a professional services firm or a design firm that provides landscape architecture services. The form should be completed by the client or customer to provide accurate information for the referral process. We should also note that some fields are optional and only required for specific scenarios or follow-up purposes.
-
-</thinking>
-
 # Landscape Architect Referral Form - Help Guide
 ## Purpose
 This form is used to collect information from clients or customers about a project referral for a landscape architect. It captures details about the project, referral source, recommended landscape architect, and follow-up information.

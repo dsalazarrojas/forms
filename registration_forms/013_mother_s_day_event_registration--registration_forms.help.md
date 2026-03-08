@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registration for the Mother's Day event. It is not required, but highly recommended, for attendees to register to help us better plan and accommodate for the number of guests and activities they would like to participate in. This form should only be filled out once per attendee, and not for each individual guest. It's essential to provide accurate information, especially for email addresses and phone numbers, to ensure we can contact you about any updates or changes.
-</thinking>
-
 # Mothers Day Event Registration - Help Guide
 ## Purpose
 This form is for registration for the Mother's Day event. It helps us plan and accommodate for attendees and their guests.

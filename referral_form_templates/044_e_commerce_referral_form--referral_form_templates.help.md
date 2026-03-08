@@ -1,5 +1,3 @@
-<thinking>...The referral form for e-commerce is used to capture information about customers and their referrals. Before filling out this form, please check that you're not already registered and that the information you're providing is accurate. Also, note that the form is not affiliated with, endorsed by, or derived from any form platform. It's an original adaptation created using public survey topic metadata. You can use, modify, and even sell forms derived from it, giving credit to its creators. Contact <form@gic.mx> for any queries...</thinking>
-
 # e_commerce_referral_form - Help Guide
 ## Purpose
 The e_commerce_referral_form is designed to gather information about customers who refer other customers to an e-commerce business.

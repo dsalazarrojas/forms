@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a clear and concise help guide for the "Eyelash Training Registration Form Template". This guide will explain the form's purpose, how to complete it, and each field's meaning in a step-by-step and field-by-field manner.</thinking>
-
 # Eyelash Training Registration Form Template - Help Guide
 ## Purpose
 The Eyelash Training Registration Form Template is designed to collect information from students and trainers for eyelash training purposes. This form serves as a registration tool to capture essential details about students and trainers for eyelash training sessions.

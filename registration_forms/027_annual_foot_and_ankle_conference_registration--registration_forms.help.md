@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from conference attendees for the purpose of registration and attendance management. The form will help the organizers to track attendee details, preferences, and requirements. This includes their name, contact information, medical specialty, conference year, registration type, selected days, workshop selection, CME credits needed, dietary restrictions, networking events, exhibit hall interest, hotel accommodation needed, transportation assistance, first-time attendee status, referral source, payment method, total fee, cancellation policy, and any special requests or additional comments.
-
-To prevent duplication of effort and ensure accurate representation of attendee needs, this form will serve as the primary source of information for conference management.
-
-It is crucial to note that some fields are required for the conference organizers to process your registration and provide the necessary services. Please ensure that you provide accurate and complete information in the required fields.
-
-Please do not hesitate to reach out to the conference organizers if you have any questions or concerns regarding the form or any of its fields.</thinking>
-
 # Annual Foot And Ankle Conference Registration - Help Guide
 ## Purpose
 This guide provides an overview of the Annual Foot And Ankle Conference Registration form, including its purpose, explanation of how to complete it, and a field-by-field guide to ensure accurate and complete submission.

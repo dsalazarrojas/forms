@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow users to submit job openings or positions that are being recruited for within the organization. This form is used to collect relevant information about the job, including the job title, job type, job description, location, and contact information of the submitter. The form should not be filled out if the user has already submitted a job opening with the same title within the past 3 months.
-</thinking>
-
 # Recruitment Submission Form - Help Guide
 ## Purpose
 This form is used to submit job openings or positions that are being recruited for within the organization. It is essential to fill out this form accurately and honestly, providing all required information to ensure a smooth and effective recruitment process.

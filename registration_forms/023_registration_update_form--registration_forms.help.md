@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # registration_update_form - Help Guide
 
 ## Purpose

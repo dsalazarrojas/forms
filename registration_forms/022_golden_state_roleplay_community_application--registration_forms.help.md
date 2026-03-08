@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from potential new members of the "Golden State" roleplay community. It's essential for existing members to understand the form's purpose to ensure they can provide accurate information about themselves and their characters. This form aims to gather details about a person's character, roleplay experience, and interests to better integrate new members into the community.
-
-When completing this form, please be thorough and honest. The information provided will help the "Golden State" team understand your character's background, roleplay habits, and expectations. This will enable us to create a welcoming and inclusive environment for everyone.
-
-</thinking>
-
 # golden_state_roleplay_community_application - Help Guide
 ## Purpose
 

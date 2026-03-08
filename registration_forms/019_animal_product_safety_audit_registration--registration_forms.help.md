@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering an Animal Product Safety Audit. The purpose of this form is to collect information from facilities requesting an audit. This form ensures that we have all the necessary information to perform an audit that meets the facility's needs and scope. The form should only be completed once per facility, and it's essential to fill it out carefully, as it will help us understand your audit requirements.
-</thinking>
-
 # Animal Product Safety Audit Registration - Help Guide
 ## Purpose
 This form is used to register a facility's interest in conducting an Animal Product Safety Audit. Please provide accurate and thorough information to ensure we can tailor the audit to meet your facility's specific needs.

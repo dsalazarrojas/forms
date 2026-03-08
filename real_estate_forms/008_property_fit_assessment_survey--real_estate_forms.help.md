@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "Property Fit Assessment Survey", is designed to gather information about a user's preferences and needs related to a property. The purpose of this form is to assess whether a property fits the user's requirements. This form should only be used for properties where a fit assessment is necessary, such as when evaluating a potential tenant's suitability for a rental property or a buyer's needs for a residential property. 
-
-This form should not be used for other purposes such as creating a rental application or a property listing, as it is not designed for those use cases.
-
-</thinking>
-
 # Property Fit Assessment Survey - Help Guide
 ## Purpose
 The Property Fit Assessment Survey is designed to help us understand your needs and preferences when searching for a property. By completing this survey, you will be able to get a better sense of whether a property fits you.

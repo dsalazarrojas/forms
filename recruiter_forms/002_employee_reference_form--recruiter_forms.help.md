@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information and employment details from an employee's reference. The purpose of this form is to gather data that will be used to verify the employee's professional background. This data will be used to support the employee's job application or internal promotions. To ensure accuracy, please fill out this form carefully and thoroughly.
-</thinking>
-
 # Employee Reference Form - Help Guide
 ## Purpose
 The form is used to collect contact information and employment details from an employee's reference.

@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: this form is intended to allow employees to submit suggestions that contribute to improving workplace safety. Submissions are optional and should only be made for suggestions that have not already been proposed or considered in prior discussions. Duplicate submissions will be removed to avoid redundancy and promote efficient discussion. Submissions will be reviewed and addressed by the relevant team members... </thinking>
-
 # Safety Suggestion Form - Help Guide
 ## Purpose
 The Safety Suggestion Form is a tool designed to collect suggestions from employees that aim to improve workplace safety. It's essential to contribute to a safer work environment. Please ensure that you only submit suggestions that have not been previously discussed or proposed.

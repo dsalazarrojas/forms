@@ -1,20 +1,3 @@
-<thinking>
-This form is used to collect information for a character reference letter, which is a personal endorsement of an individual's character and qualifications. 
-
-To ensure consistency and prevent duplication, please verify that no identical letter has been submitted on your behalf before starting this form.
-
-This form will be used as input for writing the character reference letter.
-
-The purpose of this form is to gather structured information about the reference letter, which will be used to write a detailed and accurate letter. 
-
-The form will ask about the requester's contact information, the subject's information, the purpose of the letter, key points to include, the length of the relationship, and how the letter should be delivered. 
-
-The form also asks about the confidentiality and submission deadline of the letter. 
-
-Please note that the submission deadline is not always required and is an optional field, but if you know the deadline please input it.
-
-</thinking>
-
 # Character Reference Letter Form - Help Guide
 ## Purpose
 The Character Reference Letter Form is used to collect structured information for writing a character reference letter, which is a personal endorsement of an individual's character and qualifications.

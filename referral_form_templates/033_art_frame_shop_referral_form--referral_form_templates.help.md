@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to help art framing shops manage referrals from customers, artists, or other art professionals. It collects contact information, project details, and preferences for follow-up. This form will be used internally to organize and track referrals for further action. Please ensure that the form is filled out correctly, as incorrect submissions may delay or misdirect the referral process.
-</thinking>
-
 # Art Frame Shop Referral Form - Help Guide
 ## Purpose
 The Art Frame Shop Referral Form is a tool used to collect and manage referrals from customers, artists, or other art professionals. It helps the shop to track and follow up on potential projects, ensuring timely and efficient communication.

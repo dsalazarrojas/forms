@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow students to register for and obtain permission to participate in innovation projects. It's intended for students to declare their interest in specific projects, and for parents to provide their consent. The form includes a range of fields that gather essential information about the student, their project, and their parent's permission status.
-</thinking>
-
 # Student Innovation Project Permission Form - Help Guide
 ## Purpose
 This form is used to register and obtain permission for students to participate in innovation projects. It's a crucial step for students to declare their interest in specific projects and for parents to give their consent.

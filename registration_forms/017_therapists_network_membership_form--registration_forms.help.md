@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to capture user registration information for the Therapists Network Membership Form. The form collects personal details such as name, contact information, and a username and password for membership. This form is intended for therapists to create a professional profile on the network, allowing them to connect, share knowledge, and access resources. 
-
-The main objective of this form is to ensure that users register their correct details accurately, so the platform can facilitate secure and effective communication between therapists. 
-
-Before proceeding, ensure you have checked the terms and conditions, which is not a required field but it's recommended to read through it before proceeding. 
-
-The form fields are designed to be user-friendly and straightforward. Each field has been carefully crafted to capture the necessary information without overwhelming the user. 
-
-Below is the detailed help guide for the Therapists Network Membership Form.
-</thinking>
-
 # Therapists Network Membership Form - Help Guide
 ## Purpose
 The Therapists Network Membership Form is designed to help therapists create a professional profile on our platform, allowing them to connect with others, access resources, and share knowledge.

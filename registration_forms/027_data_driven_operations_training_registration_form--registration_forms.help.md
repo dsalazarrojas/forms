@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect data from participants for training events. The form will collect information such as the participant's name, email, contact phone number, and participant start and end dates and times. It will also collect the registration status of the participant and the type of registration. This information will be used to track and manage participant registrations. This form is only for training participants, not for other types of registrations. Please make sure you are filling out this form for the correct purpose.
-</thinking>
-
 # Data Driven Operations Training Registration Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from submitters to ensure that their business plans meet certain requirements before approval. The form is intended to be a thorough evaluation tool for reviewing and approving business plans. It is used by reviewers to assess the completeness and quality of the submitted plans, and to make an informed decision on approval status. Before completing this form, please ensure that you have reviewed the submission carefully and have all the necessary information available.
-
-Note: Please do not submit duplicate forms, as each submission will be reviewed and evaluated individually. If you have previously submitted a plan, please do not submit another one until the approval status is known.
-</thinking>
-
 # Business Plan Submission Approval Form - Help Guide
 ## Purpose
 This form is used to gather information from submitters to ensure that their business plans meet certain requirements before approval.

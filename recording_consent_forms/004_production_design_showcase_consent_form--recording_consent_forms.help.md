@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Production Design Showcase Consent Form - Help Guide
 ## Purpose
 The Production Design Showcase Consent Form is a tool used to collect information and consent from participants in a production design showcase event. This form is designed to gather essential details about the participant and their project, as well as their consent to showcase their work. It is a crucial document that helps ensure a smooth and respectful experience for all participants.

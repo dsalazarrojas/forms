@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my first step is to analyze the form's purpose and ensure it's being used correctly. This form is intended for participants in community center activities, and it's likely used for risk management and liability purposes. The form requires participants to provide personal information, medical conditions, and acknowledge potential risks involved in activities. It's essential that participants understand the form's purpose and fill it out accurately.</thinking>
-
 # Community Center Activity Waiver Form - Help Guide
 ## Purpose
 The Community Center Activity Waiver Form is a mandatory form for participants in community center activities. It's designed to collect essential information about each participant, including their personal details, medical conditions, and liability release. The form is used to ensure the participant's safety and to protect the community center from potential liability claims.

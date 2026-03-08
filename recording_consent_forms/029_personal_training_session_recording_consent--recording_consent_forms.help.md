@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # personal_training_session_recording_consent - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from clients for recording personal training sessions. This form ensures that clients acknowledge and agree to the terms and conditions of recording sessions, including the method, location, and other relevant details.

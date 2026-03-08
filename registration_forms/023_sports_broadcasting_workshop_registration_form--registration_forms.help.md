@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect information from attendees who wish to register for the Sports Broadcasting Workshop. This form is a crucial part of the registration process, and the data collected will be used to tailor the workshop experience to each attendee's needs. The form will not be duplicated, and each attendee can only register once.
 
 ## Sports Broadcasting Workshop Registration Form - Help Guide

@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect information from landlords who are interested in registering with the Landlord Cooperation Council. This information will be used to create a record of their participation and interests in the council. The form should only be completed by landlords who are not already registered with the council, to avoid duplication of records.
-
-</thinking>
-
 # Landlord Cooperation Council Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from landlords interested in joining the Landlord Cooperation Council. Please complete this form to create a record of your participation and interests in the council.

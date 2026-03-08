@@ -1,7 +1,3 @@
-<thinking>
-To ensure this help guide is relevant and not a duplication, let's confirm the form purpose and target audience. The lender application form is intended for individuals or entities seeking financing or investment opportunities from the lender. The form will gather basic contact information, property details, loan amount and term, loan type, loan purpose, and contact preferences. The form is likely to be used by the lender to assess the applicant's eligibility and suitability for the loan or investment opportunity. The target audience is therefore individuals or entities seeking financing or investment opportunities, who will be filling out the form to provide basic information about themselves and their property.
-</thinking>
-
 # lenderApplicationForm - Help Guide
 ## Purpose
 The lender application form is a tool used to gather basic information from individuals or entities seeking financing or investment opportunities from the lender.

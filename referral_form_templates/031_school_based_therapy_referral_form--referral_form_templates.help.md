@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for school-based therapy referrals. This form is intended to gather details about the student's referral status, school year, and other relevant factors. Please ensure that you only complete this form for students who have been referred for school-based therapy services. If you have already completed a referral form for this student in the past, please do not complete this form again.
-</thinking>
-
 # School Based Therapy Referral Form - Help Guide
 ## Purpose
 The School Based Therapy Referral Form is designed to collect information for school-based therapy referrals. This form will guide you through the necessary steps to complete the referral process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help hosts or organizers of events, such as galas, collect RSVPs from their guests. By filling out this form, hosts can get an overview of who will be attending their event, including any dietary restrictions, the number of guests attending, and the size of table needed for each guest. It's essential that the host completes the form accurately, as it will help them plan and prepare for the event accordingly.
-</thinking>
-
 # Gala Host Table RSVP Form - Help Guide
 ## Purpose
 The purpose of this form is to enable hosts or organizers of events, such as galas, to collect RSVPs from their guests. This will help them plan and prepare for the event by getting an overview of who will be attending, including their dietary restrictions, the number of guests attending, and the size of table needed for each guest.

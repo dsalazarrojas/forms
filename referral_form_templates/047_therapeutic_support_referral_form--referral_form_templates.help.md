@@ -1,8 +1,3 @@
-<thinking>
-This form is used to refer a patient to a support service provider. This form is designed to collect information from the user who is referring the patient and the patient's information. Before filling out this form, please ensure that the patient's referral is not already registered in the system. Please verify that the patient does not have an existing referral form with a similar referral date or reason.
-
-</thinking>
-
 # Therapeutic Support Referral Form - Help Guide
 ## Purpose
 The Therapeutic Support Referral Form is used to refer a patient to a support service provider. This form collects information from the user referring the patient and the patient's details.

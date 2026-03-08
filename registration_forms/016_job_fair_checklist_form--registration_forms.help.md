@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Job Fair Checklist Form - Help Guide**
 
 ## Purpose

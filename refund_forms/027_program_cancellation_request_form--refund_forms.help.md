@@ -1,6 +1,3 @@
-<thinking>
-This form is used for program cancellation requests. It is intended for program managers to initiate the cancellation of a program in the system. This form helps gather necessary information for the cancellation process, including program details, reason for cancellation, and participant information. The form is used internally, and its completion is required for accurate and efficient program management. Please make sure to complete this form only when a program cancellation is necessary. To avoid duplication, ensure that a cancellation request is not already in process.</thinking>
-
 # Program Cancellation Request Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential homebuyers about their preferences and requirements for purchasing a property. This information will help us better understand their needs and provide them with more accurate and relevant property listings. Please note that this form is not a commitment to purchase, and the information provided will be kept confidential.
-</thinking>
-
 # CRG_Realty Buyers Information Form - Help Guide
 ## Purpose
 The CRG_Realty Buyers Information Form is designed to collect essential details from potential homebuyers about their property preferences and needs. This form will help us tailor our services to provide you with the most suitable property listings that match your criteria.

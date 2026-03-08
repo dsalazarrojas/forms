@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to capture essential information about a business for registration purposes. It is designed for businesses to provide accurate and complete data about their identity, structure, and operations. The form will be used to ensure compliance with relevant regulations and laws. Please ensure that all fields are completed accurately and thoroughly. Note that some fields are marked as required to ensure the completeness of the registration process.
-
-</thinking>
-
 # Business Registration Form - Help Guide
 ## Purpose
 This form collects information about your business for registration purposes. It helps us understand your business structure, operations, and identity.

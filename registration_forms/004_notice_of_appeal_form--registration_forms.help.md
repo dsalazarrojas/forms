@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Notice Of Appeal Form", let's first consider the form's purpose and the fields it contains. This form is a Notice Of Appeal Form, which likely allows users to file a formal notice of appeal. The form should be clear and easy to understand, especially for individuals who may not be familiar with the appeal process.
-</thinking>
-
 # Notice Of Appeal Form - Help Guide
 ## Purpose
 The Notice Of Appeal Form is a formal document used to submit a notice of appeal. This form will help you initiate the appeal process, which will be reviewed and processed accordingly.

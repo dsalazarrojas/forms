@@ -1,15 +1,3 @@
-<thinking>
-This form is used to collect payment information from real estate agents for transactions related to property sales or purchases. The purpose of this form is to ensure that agents accurately report their payment activities and provide necessary details for accounting and tax purposes. It is crucial to complete this form accurately to prevent errors and ensure compliance with financial regulations. 
-
-This form will be used in a variety of contexts, including but not limited to, agent payments, commission fees, and other related transactions. 
-
-Please note that this form is not a substitute for financial accounting software, and any discrepancies found during auditing or review may require additional documentation or reconciliation. 
-
-Ensure that each field is filled in correctly and accurately before submitting the form. 
-
-The fields in this form are as follows:
-
-</thinking>
 # real-estate-agent-payment-portal - Help Guide
 ## Purpose
 This form is used to collect payment information from real estate agents for transactions related to property sales or purchases.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about a patient's referral from a neurologist. The form should only be completed for patients who are new to the system. 
-If the patient already has an existing profile or has been referred to another specialist before, do not fill out this form. 
-Referrals for follow-up appointments or consultations with the same specialist should be submitted through a different form.
-</thinking>
-
 # Neurologist Referral Form - Help Guide
 
 ## Purpose

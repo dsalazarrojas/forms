@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a Professional Certification Referral Form. The purpose of this form is to collect information about a professional certification, including details about the referrer, the candidate, and the certification itself. Before starting the form, please take a moment to ensure you have the necessary permissions to proceed. This form should not be completed if a similar form has been submitted recently, as it may be a duplicate submission.
-</thinking>
-
 # Professional Certification Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information about professional certifications, including referrer details, candidate details, and certification information. Please fill out the form accurately and completely to ensure the necessary information is collected.

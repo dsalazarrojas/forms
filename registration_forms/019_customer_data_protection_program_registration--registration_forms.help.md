@@ -1,7 +1,3 @@
-<thinking>
-The form is for registering a customer data protection program with the goal of ensuring that companies are properly managing their sensitive data. The form is likely used by data protection officers to collect information about a company's data handling practices. The fields on the form are designed to capture details about the company, the data protection officer, and the program being registered. This form will help ensure that the company is compliant with relevant regulations and guidelines related to data protection.
-</thinking>
-
 # customer_data_protection_program_registration - Help Guide
 ## Purpose
 This form is used to register a customer data protection program, which is a process to ensure that companies are properly managing their sensitive data.

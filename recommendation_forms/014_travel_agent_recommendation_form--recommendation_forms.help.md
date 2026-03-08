@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and ensure that this guide is relevant to the users, let's clarify its purpose and relevance first.
-The "travel_agent_recommendation_form" is a form designed to help travel agents provide recommendations to customers based on their preferences. This form is used to gather information about the travel agent's expertise, the customer's information, and their travel preferences, which will help the travel agent tailor their recommendations accordingly.
-</thinking>
-
 # travel_agent_recommendation_form - Help Guide
 ## Purpose
 The travel_agent_recommendation_form is a tool used by travel agents to provide personalized recommendations to customers based on their preferences.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about real estate agents' outreach scripts. The form has 27 fields that cover various aspects of real estate activities, including agent name, contact method, preferred time and date, lead source, property type, and more. This form is meant to gather information from real estate agents to understand their preferences and behaviors.
-
-This form is not meant for internal agents or employees of the company, as it has no required fields. It's likely intended for external agents or clients who are interacting with the real estate company.
-
-This form is not intended for mass duplication, and the information collected is likely meant for specific follow-up or follow-up analysis.
-
-</thinking>
-
 # real_estate_agent_outreach_script - Help Guide
 ## Purpose
 This form is designed to collect information from real estate agents about their outreach scripts. It will help the company understand their preferences and behaviors.

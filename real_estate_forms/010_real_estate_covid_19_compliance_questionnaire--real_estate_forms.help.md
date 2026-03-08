@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_estate_covid_19_compliance_questionnaire - Help Guide
 
 ## Purpose

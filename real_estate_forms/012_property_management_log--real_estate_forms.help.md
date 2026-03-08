@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to record and document visits to properties managed by the organization. The purpose of this form is to ensure consistency and accuracy in recording property details, owner information, and visit data. The form serves as a centralized repository for tracking property management activities.
-
-This form is intended for property managers and other relevant personnel within the organization. It is not designed for external users.
-
-The form is not designed to be used for any other purpose besides property management. 
-</thinking>
-
 # Property Management Log - Help Guide
 ## Purpose
 The Property Management Log is a form used to record and document visits to properties managed by the organization. It captures details of the properties, owners, and visit activities.

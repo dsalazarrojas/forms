@@ -1,5 +1,3 @@
-<thinking>...the form is meant to collect information related to damage disputes involving real property, such as disputes between landlords/property managers, tenants, or other stakeholders. This form should ensure that users provide all necessary details to resolve the conflict efficiently and fairly. To avoid duplicate submissions, make sure to review the form before submission...</thinking>
-
 # Damage Dispute Form - Help Guide
 ## Purpose
 The Damage Dispute Form is designed to collect information about damage disputes involving real property. This form helps users provide all necessary details to resolve conflicts efficiently and fairly.

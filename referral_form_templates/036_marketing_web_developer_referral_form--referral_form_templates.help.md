@@ -1,10 +1,3 @@
-<thinking>
-We are designing a form for referring a web developer to an agency. The form is intended to collect information from the user about a new web developer referral. The form should not be filled out if a project is already active or if the agency has an existing partnership with the developer. The form should be filled out by a user who wants to refer a new web developer to an agency. 
-The form has multiple pages, each with different fields to be filled out. Each field is a separate step in the referral process. The fields are designed to collect the required information from the user. 
-Before filling out the form, please make sure that the project is not active and that the agency does not have an existing partnership with the developer. 
-Please fill out the form carefully and accurately, as it will be reviewed by the agency staff. 
-</thinking>
-
 # Marketing Web Developer Referral Form - Help Guide
 ## Purpose
 The Marketing Web Developer Referral Form is a tool used to refer web developers to an agency. It helps the agency to identify potential new web developers to work with.

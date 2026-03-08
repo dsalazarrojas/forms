@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help property owners estimate the cost of renewing their leasehold. The form collects relevant information about the property, including its location, type, status, and owner's details. This information will be used to provide a rough estimate of the costs involved in renewing the leasehold. If you are a property owner looking to renew your leasehold, please fill out this form to get a better understanding of the costs involved.
-
-</thinking>
-
 # Leasehold Renewal Cost Estimator - Help Guide
 ## Purpose
 This form is designed to help property owners estimate the cost of renewing their leasehold. It collects information about the property and its owner's details to provide a rough estimate of the costs involved.

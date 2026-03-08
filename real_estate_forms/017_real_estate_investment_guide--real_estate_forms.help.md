@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the real_estate_investment_guide form, which is part of the real_estate_forms category. This guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # real_estate_investment_guide - Help Guide
 ## Purpose
 The real_estate_investment_guide form is designed to collect information from clients about their investment preferences and goals. This information will help you provide personalized guidance and recommendations for their real estate investments.

@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: The Home Appraisal Form is used to gather information about a property's characteristics, such as its size, features, and condition. This form helps users to provide detailed and accurate data for property evaluation and analysis.
-Internal reasoning check: The form seems to be a generic form with a mix of text, number, select, and date fields. It's likely used for collecting information about a single residential property. There are 25 fields in total, which might be excessive for a simple form. Some fields seem redundant or unnecessary. However, without further context, it's difficult to provide a more specific reasoning about the form's purpose and fields selection.
-</thinking>
-
 # Home Appraisal Form - Help Guide
 ## Purpose
 The Home Appraisal Form is used to collect information about a property's characteristics and features.

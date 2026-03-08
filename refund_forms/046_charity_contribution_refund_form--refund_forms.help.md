@@ -1,7 +1,3 @@
-<thinking>
-This form is used for donors to request a refund for a charitable contribution they made. The form ensures that the donor can accurately provide information required for the refund process, including their name, email, and details about the original contribution. The form is also used to gather any necessary supporting documents and ensure the donor's consent for the refund. This form is typically used when the original contribution meets the criteria for a refund and the donor needs to initiate the refund process.
-</thinking>
-
 # Charity Contribution Refund Form - Help Guide
 ## Purpose
 This form is used to request a refund for a charitable contribution made to our organization.

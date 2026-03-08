@@ -1,11 +1,3 @@
-<thinking>
-
-This is a form design project. I will need to analyze the form structure and purpose. The form is called "property_ecosystem_collaboration_survey". It appears to be a survey form designed to collect information from users related to property and collaboration interests.
-
-After careful analysis, I think this form is intended for a property management or development company to gather information from users about their properties. The form asks for contact information, property details (address, type, price range, etc.), and interest in collaboration. I'll provide a help guide based on this understanding.
-
-</thinking>
-
 # property_ecosystem_collaboration_survey - Help Guide
 ## Purpose
 The property_ecosystem_collaboration_survey form is a questionnaire designed to gather information from users about their properties and interests in collaboration. This form will help property management or development companies understand user needs and interests.
