@@ -1,8 +1,3 @@
-<thinking>
-This guide will explain the purpose of the Accounting Ethics Survey form, how to complete it, and each field in detail to ensure end-users understand its importance and requirements.
-
-</thinking>
-
 # Accounting Ethics Survey - Help Guide
 ## Purpose
 

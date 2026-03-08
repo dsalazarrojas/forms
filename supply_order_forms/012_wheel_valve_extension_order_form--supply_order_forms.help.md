@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in completing the Wheel Valve Extension Order Form. The form serves to collect contact information, product details, and payment information for the purpose of placing an order. Users are required to provide contact information, including name, phone number, and email, to facilitate communication and order delivery. Product information includes details about the wheel size, extension type, valve orientation, and material. Payment information is also collected, including payment method, card number, expiration date, and CVV. Users can select options for various product attributes, such as wheel size, extension type, valve orientation, and material. This form helps ensure accurate and complete order placement.
-
-</thinking>
-
 # Wheel Valve Extension Order Form - Help Guide
 ## Purpose
 The Wheel Valve Extension Order Form is a tool for collecting contact, product, and payment information for the purpose of placing an order.

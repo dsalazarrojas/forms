@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by students or staff members in a school setting to document a student's completion of a summer school program. It provides a way to record and track student progress, completion dates, and other relevant details. To ensure accuracy, please check that the student has not already filled out this form before submitting it.
-</thinking>
-
 # Summer School Completion Discharge Form - Help Guide
 ## Purpose
 This form is used to document and track a student's completion of a summer school program. It includes fields for student name, program completion dates, hours completed, and student progress. Please use this form to accurately report a student's progress and completion status.

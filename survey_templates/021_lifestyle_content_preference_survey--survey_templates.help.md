@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey designed to collect information about a user's lifestyle content preferences. The form likely aims to gather insights into how users feel about various aspects of their lives, such as social media and different topics of interest.
-</thinking>
-
 # Lifestyle Content Preference Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your personal preferences and interests. The information you provide will help us better understand what type of content you'd like to engage with, and we'll use this data to improve our services.

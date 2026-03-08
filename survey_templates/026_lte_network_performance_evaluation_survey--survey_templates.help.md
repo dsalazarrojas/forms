@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance of LTE networks. It is intended for use by network engineers and managers to assess the quality of their LTE networks. It should only be completed by those with knowledge and experience in the field. If you are not familiar with LTE networks, please do not complete this form. If you have already completed this form previously, please do not complete it again as it is meant to be a one-time evaluation.
-</thinking>
-
 # lte_network_performance_evaluation_survey - Help Guide
 ## Purpose
 This form is used to evaluate the performance of LTE networks. It consists of a series of questions that assess the quality of your LTE network in different areas.

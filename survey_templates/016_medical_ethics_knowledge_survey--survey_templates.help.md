@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and structure of the "medical_ethics_knowledge_survey" form. Before proceeding, please ensure that you have read this guide carefully to avoid confusion or missing critical information.
-</thinking>
-
 # medical_ethics_knowledge_survey - Help Guide
 ## Purpose
 The "medical_ethics_knowledge_survey" form is a comprehensive survey designed to assess users' knowledge of various medical ethics-related topics. This form will help identify areas where users may require additional education or training on medical ethics.

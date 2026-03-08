@@ -1,12 +1,3 @@
-<thinking>
-To ensure that the form is used correctly, we must consider the following:
-
-*   **Purpose**: The form is for expressing interest in being a camp staff member, which implies that the purpose of the form is to gather information from potential staff candidates.
-*   **Relevance**: The form is relevant because it asks questions that are necessary for the camp to assess a candidate's suitability for the staff role.
-*   **Non-duplication**: The form does not duplicate any other forms that the camp already uses, as indicated by the unique fields and options provided.
-
-</thinking>
-
 # Camp Staff Expression Of Interest - Help Guide
 ## Purpose
 This form is designed to help us understand your interest in joining our summer camp staff. We use the information you provide to assess your suitability for the role and to contact you for further discussion or application.

@@ -1,7 +1,3 @@
-<thinking>
-The Avalanche Incident Form is used to record and report information about avalanche incidents. This form aims to gather data on the observer, details about the incident, and the response efforts to aid in analysis and decision-making processes. Ensure that you are submitting reports for incidents that have not been previously reported.
-</thinking>
-
 # Avalanche Incident Form - Help Guide
 ## Purpose
 The Avalanche Incident Form is a crucial tool for recording and reporting avalanche incidents. This form helps gather essential information that aids in understanding the circumstances surrounding the incident, allowing for better decision-making and analysis processes.

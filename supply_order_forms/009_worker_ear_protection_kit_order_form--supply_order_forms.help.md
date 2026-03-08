@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for workers to order a worker ear protection kit, which is a safety device used to protect workers' ears from harmful sounds and environments. This form is designed to collect information from workers who need a kit, including their delivery details, employee requests, order confirmation, kit selection, order status, employee name, phone number, and email address. The form is used for internal purposes and is not intended for external use or public access. 
 
 </thinking>

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose and requirements of the camp liability waiver form. This form is designed to be completed by parents or guardians of campers attending a summer camp program. The form is a legal release of liability for the camp, and it's a requirement for camper registration. It's essential to carefully review the form and ensure that all fields are completed accurately and truthfully.
-</thinking>
-
 # Camp Liability Waiver Form - Help Guide
 ## Purpose
 This form is a legal release of liability for your camper, allowing them to participate in the summer camp activities. It's a requirement for registration and ensures that you, as the parent or guardian, understand the risks associated with the camp program.

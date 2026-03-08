@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for online summer camp applications. 
-This form will be used to collect data on different types of summer camps, their names, descriptions, dates, contact information, and assigned tools or equipment. This is an important form that helps our organization manage summer camp applications effectively.
-Before filling out the form, make sure that you are submitting your own application and not a duplicate. If you are submitting an application for someone else, please ensure that you have permission to do so.
-</thinking>
-
 # online_summer_camp_application_form - Help Guide
 ## Purpose
 This form is designed to collect and manage online summer camp applications.

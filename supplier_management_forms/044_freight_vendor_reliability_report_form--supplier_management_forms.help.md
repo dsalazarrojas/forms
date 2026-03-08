@@ -1,11 +1,3 @@
-<thinking>
-The Freight Vendor Reliability Report Form is used to gather information about the reliability of freight vendors and their performance in delivering shipments. This form is designed to help identify any issues or trends that may be affecting the reliability of these vendors.
-
-Before filling out this form, please check if you have already submitted a similar report for this vendor. Duplicate reports should be avoided to prevent unnecessary processing and potential confusion.
-
-Please fill out this form to ensure that you have the most up-to-date information about the vendor's performance.
-</thinking>
-
 # Freight Vendor Reliability Report Form - Help Guide
 ## Purpose
 

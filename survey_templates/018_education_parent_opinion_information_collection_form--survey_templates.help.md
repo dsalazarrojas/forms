@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect opinions and feedback from parents about their experience with a school or educational institution. Its primary purpose is to gauge parent satisfaction and identify areas for improvement. This form will not be used for any other purpose, and responses will be treated as confidential. Please note that this guide is only for understanding the form's purpose and usage, and actual answers will not be visible to the general public.
-</thinking>
-
 # Education Parent Opinion Information Collection Form - Help Guide
 ## Purpose
 This form is created to collect your opinions and feedback about your experience with our educational institution. Your input will help us to understand your satisfaction with our services and identify areas for improvement.

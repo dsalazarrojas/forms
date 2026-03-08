@@ -1,9 +1,3 @@
-<thinking>...
-This form appears to be a survey designed to assess the health perception among adults, gathering information on age, gender, lifestyle habits, occupation, income, physical activity, mental health, stress levels, and medical history.
-The form includes questions on age group, occupation, income, smoking, drinking, and exercise habits, as well as questions on mental health, stress levels, and medical history.
-Before filling out this form, please ensure that you have not filled it out previously and that your responses are accurate and honest.
-</thinking>
-
 # Health Risk Perception Among Adults Survey - Help Guide
 ## Purpose
 This form is designed to gather information on the health perception among adults, with a focus on factors such as age, lifestyle, and medical history.

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a Summer Camp Consent Form. To ensure this form is effective, let's clarify the purpose and fields to ensure users understand its relevance and importance.
-</thinking>
-
 # Summer Camp Consent Form - Help Guide
 
 ## Purpose

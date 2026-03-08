@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a user's current employment status, location, and work experience. This form is likely used for tracking and monitoring graduate careers. 
-
-The form is likely used by administrators or HR departments to collect data for various purposes such as career development, job placement, or research. 
-
-Please make sure to fill this form accurately and honestly, as the information collected will be used for official purposes. 
-
-If you are unsure about any field, please refer to the "Tips" section for guidance.
-
-</thinking>
-
 # graduate_career_monitoring_survey - Help Guide
 ## Purpose
 The graduate_career_monitoring_survey form collects data about your current employment status, location, company details, and work experience. The information collected is used for tracking and monitoring graduate careers.

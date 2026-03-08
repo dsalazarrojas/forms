@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help camps collect health screening information from campers before they arrive at the camp. The purpose of this form is to ensure that each camper's health status is assessed and that any necessary medical clearance is obtained, if required. 
-
-The form will help camps gather information about the camper's medical history, allergies, medications, and any other health-related concerns. The form will also ask for contact information to ensure that camps can reach out to parents/guardians in case of an emergency. 
-
-This is a general-purpose form, and it's possible that some questions may not be relevant to your specific camp's needs. If you're unsure about a question or need customization, please review your camp's policies and procedures.
-
-</thinking>
-
 # Pre Camp Health Screening Form - Help Guide
 
 ## Purpose

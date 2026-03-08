@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the Car Buying Survey form, I'll focus on ensuring that end-users understand the form's purpose, how to complete it, and what each field means. This guide will be concrete, concise, and practical, using the provided YAML fields as a base for explanations.
-
-</thinking>
-
 # Car Buying Survey - Help Guide
 ## Purpose
 The Car Buying Survey is designed to gather information about your car buying preferences, habits, and expectations. This survey will help us understand your needs and behaviors when purchasing a vehicle, enabling us to provide better services and products tailored to your needs.

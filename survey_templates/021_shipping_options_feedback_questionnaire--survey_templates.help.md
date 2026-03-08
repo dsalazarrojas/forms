@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect feedback on shipping options from users, helping the organization to better understand their preferences and needs. The form will likely be used by logistics and customer service teams to improve their shipping services.
-
-To ensure that you're providing accurate feedback, make sure to answer the questions truthfully and only answer what you actually experience or know. If you've never had experience with shipping services, you might be able to provide general assumptions or preferences. 
-
-Also, be aware that this form is meant to be a subjective feedback tool, so there's no right or wrong answer. The goal is to collect opinions and help us improve our shipping options.
-
-If you've already completed a similar form in the past, you might be able to provide more informed answers. However, if you're unsure about any option, feel free to provide your best guess or estimate.
-
-Please take about 5-10 minutes to complete this form, and let us know your honest thoughts on our shipping options!
-</thinking>
-
 # Shipping Options Feedback Questionnaire - Help Guide
 ## Purpose
 This guide explains the purpose of the Shipping Options Feedback Questionnaire, a form designed to collect your preferences and needs regarding shipping options.

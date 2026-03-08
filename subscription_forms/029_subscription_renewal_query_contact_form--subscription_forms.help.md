@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from customers regarding their subscription renewal queries. The form is meant to collect details such as customer contact information, contact method, issue descriptions, preferred contact methods, renewal dates, renewal statuses, follow-up information, and any additional customer messages. This form is intended to be filled out by customers or their representatives to inform the company about their subscription renewal needs.
-
-The form is not designed to be filled out by internal personnel, but rather as a communication tool between the customer and the company. The form is meant to be a straightforward, simple, and easy-to-use tool that allows customers to provide their information in a clear and concise manner.
-
-Before filling out the form, ensure that you have all the necessary information ready. If you have any issues or concerns, please reach out to us directly.
-
-</thinking>
-
 # Subscription Renewal Query Contact Form - Help Guide
 ## Purpose
 This form is used to submit a subscription renewal query. It collects your contact information, preferred contact method, and any issues or concerns you may have regarding your subscription.

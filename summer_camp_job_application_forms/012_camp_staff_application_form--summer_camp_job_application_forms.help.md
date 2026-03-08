@@ -1,9 +1,3 @@
-<thinking>
-
-We're using this form to collect information from applicants who are interested in working as staff at our summer camp. We want to ensure that each applicant provides accurate and relevant information so we can properly consider them for available positions. Before filling out this form, please make sure you have not already submitted an application, as submitting multiple applications can cause delays in processing your application and may not be considered for review.
-
-</thinking>
-
 # Camp Staff Application Form - Help Guide
 ## Purpose
 The Camp Staff Application Form is designed to gather information from applicants interested in working as staff at our summer camp. This form is used to collect personal contact information, position preferences, availability, and other relevant details that will help us consider your application.

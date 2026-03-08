@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from dental professionals for the purpose of ordering dental supplies. The form will be used by the dental team to order essential items, ensuring they are well-stocked and prepared to provide high-quality care to their patients. The form's design is intended to be user-friendly and efficient, allowing the dental team to quickly and accurately submit their supply requests. This form will not be used for any other purpose.
-</thinking>
-
 # Dental Supply Order Form - Help Guide
 ## Purpose
 This form is designed to help dental professionals order dental supplies in an efficient and user-friendly manner.

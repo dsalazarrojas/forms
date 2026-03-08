@@ -2,10 +2,6 @@
 ## Purpose
 This form is used to track attendance for Girl Scout troop meetings. It captures information about the date of the meeting, the number of scouts and leaders present, and other relevant details.
 
-<thinking>
-To ensure accuracy, please complete this form for every troop meeting. If you are submitting for multiple meetings, please create a new form for each meeting. This form is not intended for duplicate or redundant submissions.
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

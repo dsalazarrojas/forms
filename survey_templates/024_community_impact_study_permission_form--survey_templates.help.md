@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that participants understand the purpose of this form and what they're consenting to. The purpose of this form is to obtain permission from participants to conduct a study, gather data, and use their quotes or recordings in the study. This form ensures that participants are informed and aware of their rights, understand how their data will be stored and protected, and are given the option to withdraw from the study at any time.
-</thinking>
-
 # Community Impact Study Permission Form - Help Guide
 ## Purpose
 This form is required to be completed by participants before starting a community impact study. It ensures that you understand the study's purpose, agree to participate, and provide consent for data collection and use. Please take a few minutes to review the form carefully.

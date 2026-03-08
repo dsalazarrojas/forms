@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a vendor's quality issues, including details about the issue, the vendor's response to the issue, and the resolution status of the issue. The form is meant to be used when a quality issue arises with a vendor, and the organization needs to document and track the progress of resolving the issue. The form is not intended to be a comprehensive quality control system, but rather a means to gather necessary information to address and resolve quality issues efficiently.
-
-</thinking>
-
 # Vendor Quality Report Request Form - Help Guide
 ## Purpose
 This form is used to document and track vendor quality issues. Please fill out this form when you identify a quality issue with a vendor.

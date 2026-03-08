@@ -1,13 +1,3 @@
-<thinking>
-
-To avoid duplication of effort and ensure the correct completion of the form, it's essential to establish a clear understanding of the form's purpose and expectations. The Broker Survey Template is designed to gather valuable feedback from brokers and industry professionals about their experiences, satisfaction, and challenges within the real estate industry. By completing this form, brokers will be providing crucial insights that can help shape the development of new features, services, and solutions to better meet their needs.
-
-The form consists of multiple sections, each with specific questions designed to capture detailed information about the broker's background, business practices, and preferences. The questions are carefully crafted to ensure that the collected data is accurate, reliable, and actionable.
-
-To confirm that the form purpose and goals are well understood and met, please ensure that each question is answered thoroughly and honestly. If you have any questions or concerns about the form, please feel free to contact us.
-
-</thinking>
-
 # Broker Survey Template - Help Guide
 ## Purpose
 The Broker Survey Template is designed to collect feedback from brokers and industry professionals to help improve services and features that cater to their needs.

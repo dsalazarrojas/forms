@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # procurement_payment_audit_registration_form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from teenagers about their interests, preferences, and experiences. The form is part of a larger survey project aimed at understanding the habits, hobbies, and favorite activities of teenagers. The form will help to gather data on a wide range of topics, including their favorite foods, movies, music, places, and activities. By completing this form, you will be contributing to a research project that aims to gain insights into the interests and preferences of teenagers.
-
-</thinking>
-
 # Teens Survey - Help Guide
 ## Purpose
 This form is designed to collect information from teenagers about their interests, preferences, and experiences. It will help researchers to understand their favorite activities, foods, movies, music, places, and more.

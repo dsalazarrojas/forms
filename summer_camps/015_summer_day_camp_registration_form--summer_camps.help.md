@@ -1,6 +1,3 @@
-<thinking>
-This form is a registration form for the summer day camp. It is used for parents/guardians to enroll their children in the summer day camp program. The form is used to collect demographic information from the parents/guardians and their children. The form is not intended for use by anyone other than parents/guardians of children attending the summer day camp. Please do not use this form to enroll non-parents or non-guardians or individuals who are not attending the summer day camp in the program. This form is not intended for multiple registrations at once. Please ensure that each form submitted is for a single child registering for the summer day camp program.
-</thinking>
 # Summer Day Camp Registration Form - Help Guide
 
 ## Purpose

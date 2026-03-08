@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cargo Delivery Simulation Feedback Form - Help Guide
 
 ## Purpose

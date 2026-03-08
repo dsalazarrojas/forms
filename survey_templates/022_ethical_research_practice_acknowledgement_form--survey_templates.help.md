@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the ethical research practices used in various scenarios. It is a multi-page form that consists of a survey templates consent form, participant information, research practice guidelines, and acknowledgement sections. The form is intended to be used in a research context, where researchers need to acknowledge their adherence to ethical guidelines.
-
-The form is not affiliated with any form platform and is an original adaptation created by AI using public survey topic metadata. The form can be used, modified, and distributed under the Creative Commons BY 4.0 license.
-
-</thinking>
-
 # Ethical Research Practice Acknowledgement Form - Help Guide
 ## Purpose
 This form collects information about the ethical research practices used in various scenarios, including survey templates consent forms, participant information, research practice guidelines, and acknowledgements.

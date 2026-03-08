@@ -1,7 +1,3 @@
-<thinking>...The form "Science Presentation Feedback" is designed to collect feedback and ratings from users about science presentations. This feedback form is meant to be filled out by the speaker of the presentation or the audience member. The goal is to provide a clear and concise way to collect data about the presentation's quality, content, and overall experience. To ensure that the feedback is relevant and not redundant, please fill out this form only for presentations that you have attended.
-
-</thinking>
-
 # Science Presentation Feedback - Help Guide
 
 ## Purpose

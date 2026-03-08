@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "App User Satisfaction Survey" form, we first need to understand the purpose of this form and ensure that it is being used as intended. This form is designed to gather user feedback on their experience with the app, which is crucial for the development team to understand areas of improvement and identify trends in user behavior. This guide will help ensure that users complete the form accurately and provide valuable feedback.
-
-The form has several key sections, including respondent information, overall satisfaction, feature evaluation, performance & usability, and additional comments. Each section is designed to collect specific data points that will help the development team refine the app to meet user needs.
-
-Before completing the form, please review each section carefully to ensure that you provide accurate and detailed information.
-
-</thinking>
-
 # App User Satisfaction Survey - Help Guide
 ## Purpose
 The App User Satisfaction Survey is designed to gather feedback on your experience with the app. This feedback will help us identify areas of improvement and enhance your overall satisfaction with the app.

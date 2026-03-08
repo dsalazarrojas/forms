@@ -1,12 +1,3 @@
-<thinking>
-To create an intuitive and user-friendly help guide for the Daycare Supplies Order Form, I'll need to understand the context and purpose of this form. The purpose of this form is to collect information about the supplies needed by a daycare center. This form will likely be used by daycare administrators or staff to order supplies for the center. To complete this form, users will need to select a delivery or pickup option and provide information about the items needed. This information includes the name, quantity, and price of each item. The form also asks about the delivery method. 
-
-The form is designed to be flexible, allowing users to add multiple items, each with its own name, quantity, description, and price. 
-
-The form will not be used for critical, time-sensitive, or confidential information that requires immediate attention.
-
-</thinking>
-
 # Daycare Supplies Order Form - Help Guide
 ## Purpose
 The Daycare Supplies Order Form is designed to help daycare administrators or staff order supplies for their center. This form collects information about the supplies needed and their delivery preferences.

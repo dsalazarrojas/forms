@@ -1,27 +1,3 @@
-<thinking>
-
-This form is intended to facilitate the retail snack shelf display order process. The form should be completed by the store manager or representative to provide information about the retail store's order, including the store's name, address, and contact information. The store will also need to provide details about the delivery, including the date and time, and the frequency and total amount of the order. The store will also need to list the products ordered, specify the payment terms, and provide any additional comments or notes.
-
-To ensure the form is filled out correctly, please ensure that all required fields are filled in accurately and thoroughly. This includes:
-
-- **title**: The name of the order, which should be clearly stated as "Retail Snack Shelf Display Order Form".
-- **store_name**, **store_address**, **city**, **state**, and **zip**: These fields should include the store's name, physical address, city, state, and zip code respectively.
-- **delivery_date** and **delivery_time**: These fields should be filled in with the date and time of delivery, in MM/DD format and 24-hour format respectively.
-- **merchandising_details**: This field should include any details about the merchandising, such as any promotions or special requests.
-- **order_details**: This field should include any additional comments or details about the order.
-- **delivery_instructions**: This field should include any special instructions for the delivery of the order.
-- **contact_phone** and **contact_email** (if required): These fields should include the store's phone number and email address respectively.
-- **order_frequency**: This field should be selected from the options "Weekly", "Bi-Weekly", or "Monthly", indicating the frequency of the order.
-- **order_amount**: This field should be filled in with the total amount of the order.
-- **product_list**: This field should be selected from the available options, listing the products ordered.
-- **payment_terms**: This field should include any payment terms, such as any discounts or special payment arrangements.
-- **notes** and **order_comments** (if required): These fields should include any additional comments or notes about the order.
-- **store_manager_name**, **store_manager_phone**, **store_manager_email**, **store_manager_ext_phone**, and **store_manager_ext_email** (if required): These fields should include the store manager's name, phone number, email address, external phone number, and external email address respectively.
-
-Please ensure that all required fields are filled in accurately and thoroughly. If there are any issues or concerns, please do not hesitate to reach out to the support team.
-
-</thinking>
-
 # Retail Snack Shelf Display Order Form - Help Guide
 ## Purpose
 This form is used to place an order for retail snack shelf displays. It captures essential information about the order, including store details, delivery information, merchandising details, and payment terms.

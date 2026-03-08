@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to allow vendors to request updates to their existing credentials in the vendor management system. The form can be completed by the vendor themselves or on their behalf by an authorized representative. The purpose of this form is to ensure that vendor credentials are up-to-date and accurate, and to facilitate the review and approval of these updates.
-
-The form consists of several fields that require information from the vendor to support their credential update request. Each field is described below, so please review these instructions to ensure you complete the form correctly.
-
-</thinking>
-
 # Vendor Credential Update Request Form - Help Guide
 ## Purpose
 This form is used to update vendor credentials in the vendor management system. Vendors can use this form to request changes to their existing credentials, such as updates to their status or categories.

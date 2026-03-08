@@ -1,7 +1,3 @@
-<thinking>
-This form is for suppliers to apply to become sustainable printing partners with our company. The purpose of this form is to gather information about the supplier, their contact person, and their capabilities and certifications. This form will help us assess their suitability as a printing partner and ensure that they meet our sustainability standards.
-</thinking>
-
 # Sustainable Printing Partner Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from suppliers who wish to become sustainable printing partners with our company. It is essential to ensure that you complete this form accurately and thoroughly to increase the chances of being considered as a partner.

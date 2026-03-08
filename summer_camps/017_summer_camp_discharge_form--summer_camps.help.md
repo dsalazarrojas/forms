@@ -1,5 +1,3 @@
-<thinking>Summer camps have been a fun and enriching experience for many children. To ensure the smooth transition of campers to the next stage or back home, it's crucial to have a clear understanding of the reasons and procedures for discharging them from the camp. This form is designed to collect essential information for the discharge process, and it's mandatory for camp staff to fill it out for every camper. Please ensure that you're not duplicating efforts and that the form is filled out only when it's really necessary, as it can be time-consuming and might not be required for every camper. To avoid any potential issues, please review the camper's file before filling out this form, and ensure that all fields are accurate and up-to-date. If you're unsure about any field, feel free to reach out to the camp director or other team members for clarification.</thinking>
-
 # Summer Camp Discharge Form - Help Guide
 ## Purpose
 This form is used to document the discharge process of a camper, providing important information for the next stage of their summer camp journey or for their return home.

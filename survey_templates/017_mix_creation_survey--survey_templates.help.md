@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the survey will be used to gather data from DJs (Disc Jockeys) who create mixes for various platforms. The form is designed to collect information about their habits, preferences, and experiences related to creating mixes. The goal is to understand the demographics and behavior of DJs to inform decisions on how to improve the platform and provide better services for them. This guide is intended for DJs who are familiar with mix creation and online platforms, but may not have experience with online forms.
-</thinking>
-
 # Mix Creation Survey - Help Guide
 
 ## Purpose

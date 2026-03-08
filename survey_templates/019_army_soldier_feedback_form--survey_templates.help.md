@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from Army soldiers on their experiences and perceptions of their service. It covers various aspects of their experience, including their personal information, leadership and command effectiveness, working conditions, morale and well-being, and areas of concern. The form is intended to be completed by the soldiers themselves, and their responses will help the Army identify areas for improvement and make data-driven decisions.
-The purpose of this form is to collect qualitative and quantitative feedback from Army soldiers on their experiences, opinions, and concerns. This will help the Army understand what works well and what needs improvement, ultimately enhancing the service experience for its soldiers.
-To avoid duplication, the form is designed to be completed by individual soldiers, and responses will not be duplicated or influenced by any other sources.
-</thinking>
-
 # Army Soldier Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from Army soldiers on their experiences and perceptions of their service.

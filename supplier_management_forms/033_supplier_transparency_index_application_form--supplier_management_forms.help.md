@@ -1,6 +1,3 @@
-<thinking>
-This guide will be used by end users who need to complete the supplier transparency index application form. The form is used to gather information about a supplier's transparency levels, ethics, certifications, and other relevant details. It is likely that this form will be used in a business or organizational context where transparency and accountability are key considerations. It is also possible that this form will be used to assess the sustainability of a supplier. To ensure the form is completed accurately and efficiently, it is recommended to review the form carefully before proceeding.</thinking>
-
 # supplier_transparency_index_application_form - Help Guide
 ## Purpose
 The supplier_transparency_index_application_form is used to collect information about a supplier's transparency levels, ethics, certifications, and other relevant details. This form will be used to assess the transparency and accountability of suppliers.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from participants and parents for the summer chess camp. It includes fields for participant name, contact information, medical conditions, dietary restrictions, and payment status. The form also includes fields for additional information and notes.
-To complete this form, please follow these steps:
-1. Fill in the participant's name.
-2. Enter the parent's name and contact information (email and phone number).
-3. Select the participant's age level (beginner, intermediate, or advanced).
-4. Enter the participant's medical information, including any allergies, medical conditions, and special needs.
-5. Select the participant's T-shirt size and color.
-6. Choose the payment method (credit card, debit card, or bank transfer).
-7. Enter any additional information or notes about the participant.
-8. Sign and date the form.
-</thinking>
-
 # Summer Chess Camp Registration Form - Help Guide
 ## Purpose
 This form is used to register participants for the summer chess camp. It collects information from both the participant and parent to ensure a safe and enjoyable experience for all attendees.

@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form for quality assurance surveys of animal products. This form aims to gather information about the quality and compliance of animal products during inspections. The form should be used to ensure that animal products meet the required standards of quality and safety. This form will help inspectors evaluate and provide feedback on the products, and it will also aid in tracking and monitoring the performance of product batches or lots.
-</thinking>
-
 # Animal Product Quality Assurance Survey - Help Guide
 ## Purpose
 

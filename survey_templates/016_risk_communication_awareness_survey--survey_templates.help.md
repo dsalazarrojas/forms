@@ -1,7 +1,3 @@
-<thinking>
-We are considering the creation of a user-facing help guide for a risk communication awareness survey form. This form is used to understand the awareness and agreement levels of individuals about risk communication strategies. The form's purpose is to gather insights on how well participants understand risk communication strategies, how they perceive their implementation, and their agreement or disagreement with them. The form's completion is not strictly required, as it's an optional step for users to provide their feedback. The fields on this form are mostly text and numeric, with some select options for categorization and agreement level. The survey form is part of a broader set of survey templates, which might be used for different purposes, such as assessments and other evaluations. This guide will walk users through the form's purpose, how to fill it out, and what each field means, with the aim of making the process clear and user-friendly.
-</thinking>
-
 # Risk Communication Awareness Survey - Help Guide
 ## Purpose
 This form is designed to assess the awareness and agreement levels of individuals about risk communication strategies. It helps to identify areas of improvement and understanding of risk communication among participants.

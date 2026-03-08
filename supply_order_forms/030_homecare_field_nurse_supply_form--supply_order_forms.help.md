@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to collect information from homecare field nurses about the supply needs of their patients. The form is used to ensure that the supply needs of patients are accurately recorded and communicated to relevant personnel. 
-
-The form is divided into several sections, each of which corresponds to a different type of information that needs to be collected. 
-
-The form is designed to be completed by homecare field nurses, who will be using it to document the supply needs of their patients. 
-
-The form is not intended to replace any existing processes or systems, but rather to support them by providing a standardized and structured way of collecting and recording information. 
-
-Before filling this form, please ensure that you are using the most up-to-date version and that it is appropriate for your context and role.
-
-</thinking>
-
 # homecare_field_nurse_supply_form - Help Guide
 ## Purpose
 This form is designed to collect information about the supply needs of patients, ensuring accurate and structured data collection for efficient communication with relevant personnel.

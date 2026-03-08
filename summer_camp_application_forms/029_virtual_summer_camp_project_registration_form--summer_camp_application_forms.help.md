@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Summer Camp Project Registration Form - Help Guide
 
 ## Purpose

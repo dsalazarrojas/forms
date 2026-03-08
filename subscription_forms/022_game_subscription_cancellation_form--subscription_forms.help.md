@@ -1,12 +1,3 @@
-<thinking>
-**Form Purpose**
-This form is designed to gather information from users who wish to cancel their game subscription. It aims to collect relevant details to facilitate a smooth cancellation process.
-
-**Rationale**
-This form has been created to cater to a diverse range of customers with varying needs. To prevent duplicate cancellations, users must provide their unique game details, customer information, and cancellation reason. This ensures that our team can efficiently process each cancellation request.
-
-</thinking>
-
 # Game Subscription Cancellation Form - Help Guide
 ## Purpose
 This form is designed to help you cancel your game subscription. Please fill out the form with the required information to ensure a smooth cancellation process.

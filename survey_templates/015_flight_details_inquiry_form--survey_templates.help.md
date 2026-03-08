@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to gather information about flight details. To check if this form is relevant to your needs, please consider whether you are looking to collect data related to flights, such as passenger or traveler information or flight numbers and dates. If you are looking to collect other types of data, you might not need this form.
-</thinking>
-
 # flight_details_inquiry_form - Help Guide
 ## Purpose
 The flight_details_inquiry_form is designed to collect data about flight details. This form is useful when you need to gather information related to flights, including passenger or traveler information, flight numbers, or dates.

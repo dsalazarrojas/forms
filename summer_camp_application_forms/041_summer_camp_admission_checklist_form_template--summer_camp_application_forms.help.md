@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I would like to review the form purpose and ensure it is not a duplicate. The form is intended for campers to provide their information and medical clearance for summer camp admission. It appears to be a comprehensive form covering various aspects of a camper's health and medical history, as well as contact information. To prevent duplication, I will focus on explaining each field clearly, ensuring users understand what is required and what is not.</thinking>
-
 # Summer Camp Admission Checklist Form Template - Help Guide
 ## Purpose
 The purpose of this form is to gather necessary information for campers to provide their medical clearance and contact details for summer camp admission. Please fill out this form to ensure a smooth and safe camp experience.

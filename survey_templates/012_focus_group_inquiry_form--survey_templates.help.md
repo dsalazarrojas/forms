@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from potential participants about a focus group inquiry event. It asks for their personal details such as participant name, contact information, and event-specific details like name, type, date, and duration. The event type field is a required select-one field with options to specify the type of event (e.g., Event, Seminar, Webinar, Conference, or Workshop). The form is likely used for internal tracking and planning purposes, and it's essential to ensure that participants provide accurate and relevant information to help organizers manage the event smoothly.
-
-Before proceeding, please ensure that you have not filled out this form previously. This will help prevent duplication of effort and ensure that your information is accurately recorded.
-
-</thinking>
-
 # Focus Group Inquiry Form - Help Guide
 ## Purpose
 The "Focus Group Inquiry Form" is a tool used to collect information from potential participants for a focus group inquiry event. This form will help event organizers understand who is attending and what their expectations are for the event.

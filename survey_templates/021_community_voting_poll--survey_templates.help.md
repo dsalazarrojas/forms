@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect community feedback and opinions on a proposal or poll topic. The purpose of this form is to gather data on how community members feel about a specific issue, allowing the community to make informed decisions and have a say in decision-making processes. It is essential that the form is completed accurately and truthfully to provide valuable insights and ensure a fair representation of community views.
-
-To ensure the accuracy and relevance of the collected data, please note that:
-
-* Each field is carefully designed to gather specific information.
-* Some fields are required to ensure that essential details are captured.
-* Optional fields allow for additional context and insights to be provided.
-
-Before starting, please ensure that you have all necessary information ready to be filled in.
-
-</thinking>
-
 # Community Voting Poll - Help Guide
 ## Purpose
 The Community Voting Poll form is designed to collect feedback and opinions from community members on a specific proposal or issue. This form helps gather data on community views, allowing for informed decision-making.

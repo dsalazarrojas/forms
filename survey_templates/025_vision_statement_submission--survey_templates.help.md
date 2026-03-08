@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vision Statement Submission - Help Guide
 ## Purpose
 This form is used to collect information about your vision statement, a brief statement that describes the purpose, mission, and goals of your team, department, or organization. Your vision statement submission will help us better understand your organization's direction and objectives, which will be used for internal and external communication purposes.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to order a Race Course Supply Kit, which likely refers to a collection of supplies and equipment needed for a racing event or course. This form will ask for basic information about the order, including the desired delivery date and any special instructions. It will also ask users to select the type of race course supply kit they need, which could be a 5K, Marathons, School Run, or something else.
-To ensure that users understand the correct options for the "race_course_supply_kit_type" field, it's worth considering adding some guidance or examples to help them make informed choices. This could be done through an additional note or hint field to provide context.
-This form appears to be designed to be relatively simple and flexible, allowing users to optionally provide their contact information and other details as needed.
-</thinking>
-
 # Race Course Supply Kit Order Form - Help Guide
 ## Purpose
 The Race Course Supply Kit Order Form is used to order a Race Course Supply Kit, which is a collection of supplies and equipment needed for a racing event or course.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect data on the effectiveness of an environmental awareness program. The purpose of this form is to gather feedback from participants on various aspects of the program, including its background, impact, and overall evaluation. This data will help the program organizers to identify areas of improvement and make informed decisions about future program development.
-
-Before starting, please ensure that you have not already completed this form. To avoid duplication of effort, please only fill out the form if you have not previously submitted your feedback.
-
-</thinking>
-
 # Environmental Awareness Program Effectiveness Survey - Help Guide
 ## Purpose
 The Environmental Awareness Program Effectiveness Survey is designed to collect feedback from participants on various aspects of the environmental awareness program. This data will help the program organizers to identify areas of improvement and make informed decisions about future program development.

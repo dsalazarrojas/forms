@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and that users don't submit duplicate requests. This form is meant to collect information about software promo items that need to be ordered. It's crucial to fill out the form accurately and completely to avoid any confusion or delays in processing the requests. Before proceeding, make sure to review the available options carefully and fill out the form with the necessary information.
-</thinking>
-
 # Software Promo Items Order Request Form - Help Guide
 ## Purpose
 The Software Promo Items Order Request Form is a tool to help you request software promo items from the team. This form will guide you through the process of specifying what you need, and submitting your request for processing.

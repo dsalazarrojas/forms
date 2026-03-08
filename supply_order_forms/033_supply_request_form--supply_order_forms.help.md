@@ -1,10 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the purpose and process of completing the Supply Request Form, ensuring accurate and efficient submission of supply requests.
-The form is intended for customers to submit requests for supplies and materials, providing essential information for the supply management process. This guide will walk users through the form's purpose, completion process, and field explanations to minimize confusion and errors.
-The form is not intended for internal use within the organization, but rather for customers to communicate their supply needs. Please ensure that each field is filled in accurately and according to the guidelines provided below.
-To ensure the form is completed correctly and efficiently, please review each field carefully.
-</thinking>
-
 # Supply Request Form - Help Guide
 ## Purpose
 The Supply Request Form is designed for customers to submit their supply requests, providing essential information for processing and delivery.

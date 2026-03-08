@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the user understands that this form is designed to collect feedback on their experience at the carnival. The purpose of the form is to gather data on what attendees enjoyed, what they didn't enjoy, and how the carnival can be improved for next year. The form is divided into three sections: Attendee Overview, Event Experience, and Value and Logistics. Each section is designed to collect specific information that will help us improve the carnival. We should ensure that the attendee fills out all required fields and that the information they provide is accurate and honest. By using this form, we hope to get valuable feedback that will help us create a better experience for everyone at the carnival.
-</thinking>
-
 # Carnival Event Feedback Survey - Help Guide
 ## Purpose
 The Carnival Event Feedback Survey is a form designed to gather feedback from attendees on their experience at the carnival. The feedback collected will help us understand what we do well and what we can improve on for next year's event.

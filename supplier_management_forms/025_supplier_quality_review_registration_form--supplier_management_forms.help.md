@@ -1,13 +1,3 @@
-<thinking>
-The form "Supplier Quality Review Registration Form" seems to be a general-purpose document designed for collecting information from suppliers. Based on the provided YAML, it appears that the form is meant for registration purposes, likely for suppliers to provide details about their business. The form doesn't seem to require any special expertise or knowledge, as the fields are all basic text input types. However, the form's purpose and the exact use case might vary depending on the context in which it's being used.
-
-To confirm, I'll review the form structure and provide a concrete help guide. Here are my thoughts:
-
-- The form has four sections or "pages" (supplier_info, certification_info, audit_info, and contact_info).
-- Each section contains a single text field.
-- The form is not explicitly required for any of the fields, suggesting that the supplier can choose what information to provide.
-</thinking>
-
 # Supplier Quality Review Registration Form - Help Guide
 
 ## Purpose

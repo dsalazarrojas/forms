@@ -1,19 +1,3 @@
-<thinking>
-This form is designed for staff members to register participants for a summer camp program. The purpose of this form is to gather information necessary for the participant's safety and well-being during the camp. The form is divided into several sections, each covering different aspects of the participant's information.
-
-To complete this form, follow these steps:
-
-1.  Fill in the participant's name, email, phone number, date of birth, and address.
-2.  Enter the participant's emergency contact information, including the contact's name and phone number.
-3.  Provide any medical information that is relevant to the participant, such as allergies, medical conditions, and medication.
-4.  Enter the participant's medical doctor and phone number.
-5.  Enter the participant's medical email address.
-6.  Enter the participant's staff information, including their name, email, phone number, position, and any special needs.
-7.  Assign a tool to the staff member.
-
-Note that the form is split into sections, and each section is dedicated to a specific category of information. Be sure to fill in all required fields and provide accurate information to ensure that the participant's needs are well understood and met during the camp.
-
-</thinking>
 # Summer Camp Detailed Registration Form - Help Guide
 ## Purpose
 This form is designed for staff members to register participants for a summer camp program. The purpose of this form is to gather information necessary for the participant's safety and well-being during the camp.

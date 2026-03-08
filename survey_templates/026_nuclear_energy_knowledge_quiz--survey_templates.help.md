@@ -1,9 +1,3 @@
-<thinking>
-We'll design a user-friendly help guide for the "Nuclear Energy Knowledge Quiz" form, ensuring that end users can easily understand its purpose, complete it accurately, and get the most out of each field.
-This form seems to be a comprehensive quiz designed to assess participants' knowledge about nuclear energy. It asks for general information about the participant, such as name and email, and then dives into more specific questions and answers related to nuclear energy.
-We can break down the form into two main sections: "How To Complete This Form" and "Field-by-Field Explanation".
-</thinking>
-
 # Nuclear Energy Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about nuclear energy. It will guide you through a series of questions, asking for your name, email, and specific answers related to nuclear energy. Please fill out this form carefully to provide accurate information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for generating paper supply quotes for a business or organization. It collects contact information and details about the paper type, page size, quantity, unit price, and total price of the order. The form is designed to be completed by customers or users who want to place an order for paper supplies. It's essential to ensure that only one instance of this form is created in the database, as it's meant to serve a specific purpose. If there are multiple instances, it may lead to confusion and incorrect data.
-</thinking>
-
 # Paper Supply Quote Form - Help Guide
 ## Purpose
 The Paper Supply Quote Form is used to collect information from customers to generate quotes for paper supply orders. It's crucial to fill out this form accurately to ensure that the quote is generated correctly.

@@ -1,5 +1,3 @@
-<thinking>Reusing a container program is a process where an organization reuses or repurposes a container for future events or projects. This form is used to request a reusable container program from the campus. The purpose of this form is to gather information about the container request, including the organization's name, the type of container, and other relevant details. The form is designed to be completed by the campus representative to provide accurate information about the container request.</thinking>
-
 # reusable_container_program_request_form - Help Guide
 ## Purpose
 This form is used to request a reusable container program from the campus. It collects information about the container request, including details about the organization, container type, and other related information.

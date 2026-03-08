@@ -1,31 +1,3 @@
-<thinking>
-This form is designed to collect information from suppliers for queries and inquiries related to the supply chain process. The form will help gather essential details such as the supplier's contact information, the nature of the inquiry, and the priority level of the query. This information will be used to effectively manage and track supplier interactions.
-
-Before filling out this form, please ensure that you are not duplicating an existing inquiry. If you have already submitted a similar inquiry, please refer to the relevant existing record.
-
-This form is intended for use by suppliers who need to submit queries or inquiries related to the supply chain process. It is crucial that you provide accurate and relevant information to enable efficient communication and resolution of your queries.
-
-To complete this form, follow these steps:
-
-1.  Enter the title of the query.
-2.  Provide the supplier's name.
-3.  Enter the contact person's name.
-4.  Enter the contact's email address.
-5.  Enter the contact's phone number.
-6.  Enter the contact's position.
-7.  Enter the contact's company name.
-8.  Enter the contact's address.
-9.  Enter the date of the query.
-10.  Enter a description of the query.
-11.  (Optional) Attach any relevant files or documents.
-12.  Specify the priority level of the query (yes or no).
-13.  Select the status of the query (high, medium, or low).
-14.  Enter the expected time for response or resolution.
-15.  Enter any comments or further details about the query.
-16.  (Optional) Attach any supporting documents or files.
-17.  Enter the date and time for the query.
-</thinking>
-
 # Supply Chain Query Contact Form - Help Guide
 
 ## Purpose

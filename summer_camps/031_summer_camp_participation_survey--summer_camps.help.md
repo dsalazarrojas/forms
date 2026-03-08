@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about summer camp participation from users. It is used to determine the level of interest in summer camps and gather demographic data. Please make sure to only fill out this form once, as it is not intended to be a recurring or transactional process. This form should only be completed by users who have participated in summer camps, and not by those who are interested in participating but have not yet done so.
-</thinking>
-
 # Summer Camp Participation Survey - Help Guide
 ## Purpose
 This form is used to collect information about summer camp participation from users. The data collected will help us better understand the demographics of summer camp participants and improve our services.

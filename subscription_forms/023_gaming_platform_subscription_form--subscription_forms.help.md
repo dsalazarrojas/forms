@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to process subscriptions for users. To avoid duplication, users should not submit this form multiple times. Before submitting, please ensure you have reviewed and accepted the User Agreement.
-
-</thinking>
-
 # gaming_platform_subscription_form - Help Guide
 ## Purpose
 The gaming_platform_subscription_form is used to collect subscription information from users, including payment details and billing information.

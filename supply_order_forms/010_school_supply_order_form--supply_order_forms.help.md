@@ -1,9 +1,3 @@
-<thinking>
-Form purpose is to provide a platform for students to place orders for school supplies.
-Form fields allow students to submit their name, email, select school supplies, and optionally add order notes and date/time.
-Form fields are not part of any existing form platform and are original adaptations from public survey topic metadata.
-</thinking>
-
 # School Supply Order Form - Help Guide
 ## Purpose
 The School Supply Order Form is designed to allow students to submit orders for school supplies. This form aims to gather information necessary for the school administration to fulfill student requests.

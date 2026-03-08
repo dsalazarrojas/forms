@@ -1,17 +1,3 @@
-<thinking>
-This form is designed for users to subscribe to an auto wash service. It collects member details, subscription plans, vehicle information, payment and scheduling preferences, and account notes or referrals.
-The form consists of multiple pages, each with its own set of fields. The form is intended to be completed in a specific order, with each field building upon the information provided in the previous page.
-
-The form's pages and fields are designed to follow a logical sequence: 
-- Member Details: The first page collects basic contact information, including member's name, email address, phone number, and membership level.
-- Subscription Plan: The second page offers subscription options and payment frequency choices.
-- Vehicle Enrollment: The third page collects vehicle details, including make and model, license plate number, and color.
-- Payment and Scheduling: The fourth page collects payment method and scheduling preferences.
-- Accept Subscription Terms: The last page confirms subscription agreement and acceptance of terms.
-
-The form will guide the user through a series of questions, making it easier for them to complete the form and subscribe to the service.
-</thinking>
-
 # Auto Wash Subscription Form - Help Guide
 ## Purpose
 The Auto Wash Subscription Form is designed for users to sign up for an auto wash service, providing their contact information, subscription preferences, and vehicle details.

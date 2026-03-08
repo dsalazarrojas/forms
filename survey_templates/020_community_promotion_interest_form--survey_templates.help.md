@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Community Promotion Interest Form", we need to understand the form's purpose, which is to collect information from users who are interested in promoting the community. The form is designed to help identify potential community promoters by gathering their details, their areas of interest, and their ability to help with promotion. This form will help us reach out to potential promoters and work together to create a stronger and more active community.
-
-Before filling out this form, please ensure that you are not duplicating efforts by checking if there's already a form submission with your email address or phone number. This is to prevent over-subscription and maintain the quality of our promotional efforts.
-
-The form is divided into several sections, each with its own purpose and requirements. Please read the explanation for each field carefully to ensure you fill out the form accurately.
-</thinking>
-
 # Community Promotion Interest Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in promoting our community. By filling out this form, you'll be helping us understand your areas of interest and your ability to help with promotional efforts.

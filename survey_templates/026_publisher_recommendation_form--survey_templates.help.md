@@ -1,5 +1,3 @@
-<thinking>...We need to ensure that only relevant and non-duplicative data is collected through this form. This means that only publishers who meet specific criteria should be listed in this form, and their details should be entered only once. The form should also be filled out by a single person in order to avoid any confusion or discrepancies in the recommendation. This form will help in collecting contact information of publishers, including their name, email, phone number and Twitter handle, which will be used for internal communication and collaboration purposes...</thinking>
-
 # Publisher Recommendation Form - Help Guide
 ## Purpose
 The Publisher Recommendation Form is a tool to collect contact information of potential publishers for internal communication and collaboration.

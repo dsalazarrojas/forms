@@ -1,8 +1,3 @@
-<thinking>
-This form is for users to sign up for a 5K run event. The primary goal of this form is to collect basic information required for event management and participant placement. Please ensure to only submit the form once you have read and completed all the necessary fields. If you are unsure or have questions, please don't hesitate to reach out to the event organizers.
-
-</thinking>
-
 # 5K Sign Up Form - Help Guide
 ## Purpose
 This form is designed for participants to sign up for a 5K run event. It collects necessary information for event management, participant placement, and waiver purposes.

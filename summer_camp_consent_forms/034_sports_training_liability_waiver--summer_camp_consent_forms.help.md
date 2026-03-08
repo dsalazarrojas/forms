@@ -1,10 +1,3 @@
-<thinking>
-This is a sports training liability waiver form. The form collects information from participants in a sports training program and requires certain fields such as name, address, contact information, and emergency contact information. It also includes sections for insurance and medical information, as well as a section for the participant to sign and date the waiver. This form is likely used for liability protection and to ensure that participants are aware of and agree to certain risks and responsibilities associated with the training program. I assume this form is used in a sports training setting such as a summer camp, which is why it is categorized under "summer_camp_consent_forms".
-
-To create a user-facing help guide for this form, we should aim to break down each section and field in a clear and concise manner. This will help users understand what information is being collected and how to fill out the form accurately.
-
-</thinking>
-
 # Sports Training Liability Waiver - Help Guide
 ## Purpose
 This form collects information from participants in a sports training program and is used for liability protection and to ensure that participants are aware of and agree to certain risks and responsibilities associated with the training program.

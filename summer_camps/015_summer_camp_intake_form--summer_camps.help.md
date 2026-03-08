@@ -1,6 +1,3 @@
-<thinking>
-The form's purpose is to collect information about the camper and their parent's contact details for the summer camp. The form will help us understand their needs, preferences, and any special requirements they may have for a fun and safe summer experience. By reviewing this form, you will be able to verify the relevance and avoid duplication of information for the same individual.
-</thinking>
 # Summer Camp Intake Form - Help Guide
 ## Purpose
 The Summer Camp Intake Form is used to collect essential details about campers and their parents' information. This form is designed to ensure that each camper has a fun and safe experience at the summer camp.

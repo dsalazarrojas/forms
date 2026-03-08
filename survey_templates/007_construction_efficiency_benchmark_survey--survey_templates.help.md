@@ -1,19 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Construction Efficiency Benchmark Survey form, let's first consider the purpose and relevance of the form. This form seems to be designed to help organizations assess their construction operations' efficiency and gather baseline data for future improvements.
-
-Assuming the form's purpose is to collect benchmark data for construction companies, we can infer that the form's output will be used to:
-
-* Analyze and compare companies' efficiency metrics (e.g., project schedule accuracy, budget adherence, site waste management)
-* Identify areas for improvement and potential opportunities for investment in digital tools and training
-* Track progress towards future performance goals
-
-We should also note that the form's structure and field labels suggest it's likely used for companies of various sizes, with different levels of digital adoption and BIM (Building Information Modeling) usage.
-
-To prevent duplication of efforts, we'll aim to provide clear and concise guidance on how to complete the form accurately and efficiently.
-
-</thinking>
-
 # Construction Efficiency Benchmark Survey - Help Guide
 ## Purpose
 This form is designed to help construction companies assess their operational efficiency and gather baseline data for future improvements. Please answer the questions accurately and thoroughly to provide a comprehensive view of your company's performance.

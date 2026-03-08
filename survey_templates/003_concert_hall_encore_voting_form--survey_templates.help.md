@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather feedback and suggestions from concert attendees about their experience at the concert hall. The form is meant to be completed by attendees who want to provide their opinion on various aspects of the concert, such as the performance section, favorite composer, overall rating, and suggestions for future programs. The form is not intended to be used for any commercial or promotional purposes.
-
-To ensure that each attendee's input is unique and valuable, please do not complete this form if you have already done so for the same concert. This will help prevent duplicate responses and ensure that your feedback is taken seriously.
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Concert Hall Encore Voting Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions from concert attendees about their experience at the concert hall.

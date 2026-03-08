@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from financial consultants about their efficiency in providing services to clients. It is intended to be completed by financial consultants who have recently finished an engagement. It should not be completed by anyone who has not actually performed a financial consulting engagement. 
-</thinking>
-
 # Financial Consulting Efficiency Survey - Help Guide
 ## Purpose
 This form is a self-reporting tool designed to gather data about your experience as a financial consultant. It will help us understand your processes, approaches, and client outcomes. Your feedback will inform our training and support efforts to improve your efficiency and effectiveness.

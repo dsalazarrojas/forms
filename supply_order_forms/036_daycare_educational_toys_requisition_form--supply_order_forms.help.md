@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daycare Educational Toys Requisition Form - Help Guide
 ## Purpose
 This form is used to request educational toys from the daycare department. Fill out the form to provide necessary information for the toys' delivery and processing.

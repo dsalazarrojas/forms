@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed for users to subscribe to one or more magazines, choosing the type of subscription (print or digital), subscription duration, and other relevant details. This form is used to collect information for both subscription and payment processing. 
-  To ensure accurate and efficient processing, please fill out the form carefully and thoroughly. This guide will walk you through each field to help you complete the form correctly.
-</thinking>
-
 # Annual Magazine Subscription Form - Help Guide
 ## Purpose
 This form is for users to subscribe to one or more magazines, providing necessary information for subscription and payment processing.

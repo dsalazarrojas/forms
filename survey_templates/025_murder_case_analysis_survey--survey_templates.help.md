@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this "Murder Case Analysis Survey" form, I need to ensure I understand the form's purpose and context. This form is likely used by law enforcement or investigators to gather information about a murder case. The form's sections include gathering information about the suspect, the crime scene, the investigation's progress, and other relevant details.
-
-Upon reviewing the form's fields, it seems to be asking for a range of information, including the suspect's demographics, relationship to the victim, distinguishing features, and physical characteristics. The form also asks for details about the crime scene, the investigation's progress, and the case's status. The form's fields seem to be designed to guide the user through a comprehensive analysis of the murder case.
-
-To avoid duplication, I will only include the form's purpose in the help guide. I will also ensure that the explanations are concrete, concise, and practical, and only include details that are explicitly mentioned in the form fields.
-
-</thinking>
-
 # Murder Case Analysis Survey - Help Guide
 ## Purpose
 This form is used to gather information about a murder case, including details about the suspect, crime scene, and investigation's progress.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information on the wellbeing of caregivers, specifically in the context of their caregiving role. The goal is to understand the challenges and needs of caregivers in terms of stress, emotional wellbeing, physical health, support, and self-care. The form is divided into sections covering demographics, stress and emotional wellbeing, physical health, support and resources, self-care habits, and suggestions for improvement. 
-
-The questions are designed to be answered by the caregiver themselves, and the responses will be used to better understand their experiences and needs. The form does not aim to provide medical or professional advice, but rather to gather data for internal use by the organization.
-
-Note that the form is meant to be completed by the caregiver themselves, and that the questions are designed to be answered honestly and confidentially.
-
-This form is a part of an organizational process to improve the wellbeing of caregivers, and by completing it, the caregiver will be contributing to a better understanding of their needs and challenges.
-</thinking>
-
 # Caregiver Wellbeing Index Survey - Help Guide
 ## Purpose
 

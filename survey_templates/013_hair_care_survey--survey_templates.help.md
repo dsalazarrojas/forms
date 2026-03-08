@@ -1,11 +1,3 @@
-<thinking>
-
-This form purpose is to collect information about users' hair care habits and preferences. It is not affiliated with, endorsed by, or derived from any form platform. The form was created using AI and public survey topic metadata as inspiration. It is an original adaptation and does not copy, extract, or use proprietary content from any other form creation, data collection, or survey platform.
-
-It is released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it, just give credit. For any inquiries, contact form@gic.mx.
-
-</thinking>
-
 # Hair Care Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your hair care habits and preferences. Your input will help us understand your opinions and behaviors related to hair care.

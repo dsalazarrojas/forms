@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from players registering for a football camp. The purpose of this form is to gather essential details about each player, including their name, contact information, and specific team and player attributes. To ensure that the form is completed accurately and efficiently, it is recommended that players review the form carefully before submitting it. 
-
-The form should only be filled out by players or their authorized representatives, and any duplication or misuse of the form will be reviewed on a case-by-case basis.
-</thinking>
-
 # Football Registration Form - Help Guide
 ## Purpose
 The Football Registration Form is designed to collect information from players registering for a football camp. This form is used to gather essential details about each player, including their name, contact information, and specific team and player attributes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about respondents' attitudes towards data sharing in academic settings. The purpose of this survey is to gather insights into how academics perceive and practice data sharing. By completing this survey, you will contribute to the development of data sharing best practices and improve research collaboration. Please note that your responses will be anonymous and will not be associated with your personal identity.
-</thinking>
-
 # Academic Data Sharing Attitudes Survey - Help Guide
 ## Purpose
 The Academic Data Sharing Attitudes Survey is designed to collect information about respondents' attitudes towards data sharing in academic settings. Your participation will help researchers understand how academics perceive and practice data sharing, which will inform the development of data sharing best practices and improve research collaboration.

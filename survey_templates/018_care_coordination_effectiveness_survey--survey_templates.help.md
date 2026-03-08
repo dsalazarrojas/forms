@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the effectiveness of care coordination in a healthcare setting. It is intended for individuals who have experienced care coordination, such as patients, family members/caregivers, or healthcare providers/staff. The form assesses various aspects of care coordination, including timeliness of communication, ease of access to services, clarity of care plan, support from care managers, coordination with specialists, patient and family engagement, and overall satisfaction. This form is meant to provide valuable feedback for care teams to improve their care coordination processes.
-
-</thinking>
-
 # Care Coordination Effectiveness Survey - Help Guide
 ## Purpose
 The Care Coordination Effectiveness Survey is a tool to evaluate the effectiveness of care coordination in a healthcare setting. It helps care teams understand what works well and what can be improved.

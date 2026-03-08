@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guest Preparation Survey - Help Guide
 
 ## Purpose

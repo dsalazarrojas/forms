@@ -1,7 +1,3 @@
-<thinking>This form is designed to collect information about the Telebehavioral Ethics Survey, which aims to gauge the effectiveness of our organization's policies and procedures in ensuring patient safety and satisfaction. The survey will help us identify areas of improvement and provide valuable insights to inform future development and updates.
-
-To ensure accurate and relevant data, please only fill out this form once per healthcare provider. If you have already submitted a survey, please do not repeat the process.</thinking>
-
 # Telebehavioral Ethics Survey - Help Guide
 ## Purpose
 The Telebehavioral Ethics Survey is a tool to collect feedback from healthcare providers on their experiences and challenges faced while working with our organization.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the installation of a cath lab in a healthcare facility. The purpose of this form is to gather essential details about the facility, its location, and the requirements for the cath lab installation. It's intended for use by hospital administrators or facility managers who need to provide information about their facility's readiness for a cath lab installation. This form should only be used once per facility. If you have already completed a survey for this facility, please do not repeat this process.
-</thinking>
-
 # Cath Lab Installation Survey - Help Guide
 ## Purpose
 This form is used to gather essential information about the installation of a cath lab in a healthcare facility.

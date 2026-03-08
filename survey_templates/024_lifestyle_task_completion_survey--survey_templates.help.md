@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lifestyle Task Completion Survey - Help Guide
 ## Purpose
 The Lifestyle Task Completion Survey is a form designed to gather information about an individual's habits and completion of tasks. This survey is used to help understand an individual's habits and identify areas for improvement. It is a crucial tool for professionals, researchers, and individuals looking to understand their own habits and behaviors.

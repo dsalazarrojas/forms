@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Annual Performance Review Survey - Help Guide
 ## Purpose
 This form is designed to conduct annual performance reviews of employees. It gathers feedback on their accomplishments, areas for improvement, and overall performance. The form helps managers evaluate and provide constructive feedback to employees, promoting growth and development.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Supply Order Form - Help Guide
 ## Purpose
 The Medical Supply Order Form is used to order medical supplies from suppliers. It captures essential information about the patient, order details, and payment method. This form ensures accurate and efficient communication with suppliers, facilitating a smooth order fulfillment process.

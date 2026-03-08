@@ -1,10 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Market Research Questionnaire" form, we need to consider the purpose and goals of the form, the fields and their labels, and the user's perspective. The purpose of this form is to gather market research data, which will likely be used to inform product development and customer service decisions. To achieve this goal, we need to make sure users understand each field's purpose and how to complete it correctly. The form includes fields for demographics, product usage, customer experience, and feedback, which will provide valuable insights into customers' perceptions and behaviors.
-
-Before proceeding, it's essential to verify that the form is not a duplicate or unnecessary. This form is designed to provide unique and relevant information for market research, so we can assume that it's a necessary tool for business intelligence.
-
-</thinking>
-
 # Market Research Questionnaire - Help Guide
 
 ## Purpose

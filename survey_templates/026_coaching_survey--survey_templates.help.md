@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-friendly help guide for the "Coaching Survey" form, following the specified structure and guidelines. This form is designed to gather feedback from users about their coaching experience, focusing on the coach's performance, areas for improvement, and overall effectiveness. The form is composed of various sections, each with multiple fields that require different types of input, including text, email, and select_one (multiple-choice questions).
-
-To create the help guide, we will analyze the form's purpose, fields, and options to provide clear explanations and instructions for end-users. Before proceeding, let's confirm that the form is for evaluating coaching effectiveness, athlete development, and overall retention of a coach, and that it's not intended to be used for other purposes.
-
-</thinking>
-
 # Coaching Survey - Help Guide
 ## Purpose
 The Coaching Survey is designed to gather feedback from respondents about their coaching experience, focusing on the coach's performance, areas for improvement, and overall effectiveness.

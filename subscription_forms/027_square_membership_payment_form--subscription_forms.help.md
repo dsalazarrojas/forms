@@ -1,8 +1,3 @@
-<thinking>
-This is a form that collects data for a Square membership payment form. The form is meant to be used for users to input their payment method, name, email, phone number, card details, expiration date, CVV, and other relevant information. The form is likely to be used for subscription-based services, such as membership programs. The form has 12 fields, including a payment method, name, email, phone, card number, expiration month and year, CVV, payment amount, membership ID, and submit button. To avoid duplication, the form should only be used for subscription-based services, such as membership programs, and not for general payments or other unrelated purposes.
-
-</thinking>
-
 # Square Membership Payment Form - Help Guide
 ## Purpose
 This form is designed to collect information for subscription-based membership payments through Square. It is intended for use in situations where users are signing up for a membership program.

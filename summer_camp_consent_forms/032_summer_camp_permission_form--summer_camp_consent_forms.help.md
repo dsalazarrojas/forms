@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from parents or guardians of children attending summer camp. The form is used to ensure that the camp director has the necessary contact information and relationships in case of an emergency.
-The form is not to be used as a medical form or a form for reporting any medical conditions. If a child has any health concerns, the camp staff will ask you about this separately.
-Please ensure you fill out the form completely and accurately, providing the necessary information to ensure we can reach your child in case of an emergency.
-</thinking>
-
 # Summer Camp Permission Form - Help Guide
 ## Purpose
 The Summer Camp Permission Form is used to gather essential contact information and relationships from parents or guardians of children attending summer camp.

@@ -1,12 +1,3 @@
-<thinking>
-We have to create a user-facing help guide for a "Material Source Validation Request Form" which is used by the supplier management team to collect information about the source of materials. This form is crucial in verifying the authenticity and quality of the materials received from various suppliers. It's essential to ensure that we are not duplicating efforts and that our internal systems are accurate.
-
-Before proceeding, ensure that you are not creating a duplicate form. This form should only be used for new material sources or updates to existing sources. If the supplier is already validated, please use the existing form.
-
-To complete this form, follow the steps below:
-
-</thinking>
-
 # Material Source Validation Request Form - Help Guide
 ## Purpose
 The Material Source Validation Request Form is used to collect and validate information about the source of materials. This form helps the supplier management team verify the authenticity and quality of materials received from various suppliers.

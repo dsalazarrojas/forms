@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's break down the purpose and requirements of the form. This form seems to be a comprehensive survey template with a mix of multiple-choice questions, text fields, and date/time fields. The form appears to be designed for users to create and configure their own surveys. The purpose of the form is to gather information on themes and practices from users. The form has sections for choosing a theme, practice options, survey questions, and other relevant details. It's likely intended for users to customize their surveys according to their specific needs.</thinking>
-
 # Theme Practice Survey - Help Guide
 
 ## Purpose

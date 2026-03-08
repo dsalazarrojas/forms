@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to assess the symptoms and experiences of individuals who may be struggling with depression. The purpose of this form is to collect data on various aspects of mental health, including mood, outlook, past experiences, and physical symptoms. It's essential to ensure that the user understands the context and relevance of this assessment. Please note that this form is not a substitute for professional medical advice and should not be used as a diagnostic tool.
-
-Before proceeding, please confirm that you have not taken the Beck Depression Inventory (BDI) in the past 2 weeks, and you are not currently experiencing a severe emotional crisis. If you are unsure about your eligibility, please contact the administrator or a mental health professional for guidance.
-
-This form will ask you to answer a series of questions about your feelings, thoughts, and experiences over the past two weeks. Please answer each question honestly, and select the response that best describes your current situation.
-
-</thinking>
-
 # Beck Depression Inventory Questionnaire - Help Guide
 ## Purpose
 This form is designed to assess your mental health and help identify potential signs of depression. It is not a substitute for professional medical advice, and it's essential to consult a mental health professional if you're struggling with your mental health.

@@ -1,5 +1,3 @@
-<thinking>...The Pharmaceutical Distribution Compliance Audit Form is used to document the details of a compliance audit performed on a pharmaceutical distribution company. This form helps in tracking the company's compliance status, ensuring that they are following all the necessary regulations and guidelines. The form is designed to collect information about the company's contact details, company information, audit date and time, location, auditor's details, audit results, and follow-up details. Before filling this form, please make sure you are filling it for a valid reason and not duplicating existing records...</thinking>
-
 # Pharmaceutical Distribution Compliance Audit Form - Help Guide
 ## Purpose
 

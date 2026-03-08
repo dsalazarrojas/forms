@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive evaluation tool for art professionals to assess the quality and potential value of contemporary art pieces. It will likely be used by curators, museum directors, or art critics to evaluate artworks and make informed decisions about acquisition, exhibition, or recommendation. The form is designed to capture multiple aspects of the artwork, including its technical execution, conceptual strength, originality, and emotional resonance.
-</thinking>
-
 # Contemporary Art Evaluation Form - Help Guide
 
 ## Purpose

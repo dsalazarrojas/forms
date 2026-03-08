@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from parents to register their children for summer camp bus services. The form is likely used by parents to provide necessary details for the bus drivers to know, such as student name, school, bus route, and pickup/drop-off points. It's also a way to collect the electronic signature of parents, which includes details about the device they're using to sign, their IP address, device type, and language preferences. This form is probably used by schools or summer camps that offer bus services to their students.
-To ensure accuracy, please check that this form is not submitted multiple times for the same student, and that the student's information is correctly entered.
-</thinking>
-
 # Summer Camp Bus Registration Form - Help Guide
 ## Purpose
 This form is used to register your child for summer camp bus services. It helps our drivers know your child's details and pickup/drop-off points.

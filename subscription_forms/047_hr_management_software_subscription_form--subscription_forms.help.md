@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "hr_management_software_subscription_form" form, which is part of a larger system for managing HR-related software subscriptions. This form is used to collect information from customers or clients for subscription purposes, such as company details, contact person, payment terms, and more. The form will guide users on the form's purpose, how to complete it, and what each field means. To avoid duplication, I will ensure that the explanations are concise and focused on the most essential information.</thinking>
-
 # hr_management_software_subscription_form - Help Guide
 ## Purpose
 The hr_management_software_subscription_form is used to collect subscription details from customers or clients for HR management software. It gathers essential information about the company, contact person, payment terms, and other relevant details.

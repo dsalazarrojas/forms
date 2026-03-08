@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Publishing Paper Supply Requisition Form - Help Guide
 ## Purpose
 This form is designed to collect information on publishing paper supply requests from employees, allowing for accurate and efficient management of paper supplies.

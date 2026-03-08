@@ -1,16 +1,3 @@
-<thinking>
-
-The Material Requisition Form is designed to collect information about material requisitions from users. This form is intended for users who need to request materials for a specific purpose. The form should only be completed by users with a genuine need for materials, and not for speculative or test purposes. 
-
-To determine whether the form is suitable for your use case, consider the following criteria:
-  - You are a valid user who needs to request materials for a specific purpose.
-  - You are authorized to complete this form.
-  - You have a genuine need for the materials requested.
-
-If you are unsure about any of these points, please contact your supervisor or HR representative for guidance.
-
-</thinking>
-
 # Material Requisition Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and opinions from existing members on various aspects of the membership program, such as membership benefits, communication, events, website, and overall satisfaction. This data will help the organization understand its members' needs, preferences, and areas for improvement.
-To avoid duplication of efforts, please ensure that each member fills out the form only once. If you are unsure about any of the questions, please feel free to contact the organization's contact person.
-This form is designed to be completed by existing members. If you are not a member, please do not fill out this form.
-</thinking>
-
 # Annual Membership Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your experiences and opinions on being a member of our organization. Your responses will help us understand what we do well and where we can improve.

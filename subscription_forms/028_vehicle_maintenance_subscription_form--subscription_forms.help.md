@@ -1,8 +1,3 @@
-<thinking>
-The `vehicle_maintenance_subscription_form` is a form designed to collect information from customers for vehicle maintenance subscription services. This form is intended for customers who wish to subscribe to various vehicle maintenance services, such as oil changes, tire rotations, and tire inspections. 
-To use this form, the customer will be able to input their contact details, choose their preferred services, provide additional vehicle information, and select their preferred payment method and subscription confirmation. The form is designed to be flexible and allow customers to customize their subscription services based on their needs. By completing this form, customers will be able to efficiently and accurately provide their information for vehicle maintenance subscription services.
-</thinking>
-
 # vehicle_maintenance_subscription_form - Help Guide
 ## Purpose
 

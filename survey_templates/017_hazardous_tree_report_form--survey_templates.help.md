@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit a hazardous tree report. It is intended to help users report any hazardous conditions found in trees within a specific area. The form is designed to be simple and user-friendly, allowing users to easily provide essential information about the hazardous tree. It is not a duplicate of other forms, and its purpose is to gather accurate and reliable data.
-</thinking>
-
 # hazardous_tree_report_form - Help Guide
 ## Purpose
 The hazardous tree report form is used to report any hazardous conditions found in trees within a specific area. This form helps gather accurate and reliable data to ensure the safety and well-being of the community.

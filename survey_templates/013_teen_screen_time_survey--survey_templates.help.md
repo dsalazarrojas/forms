@@ -1,30 +1,3 @@
-<thinking>
-This form is designed to collect data on teenagers' screen time habits, focusing on their frequency and types of screen use, parental involvement, and potential consequences of excessive screen time. To complete this form, you should only consider participants who are at least 13 years old, and the data collected will be used to inform and develop strategies for responsible screen use among this age group.
-
-The purpose of this form is to gather information that can be used to educate teenagers and their parents about the potential risks and benefits associated with screen use, and to identify areas where parents can intervene to set boundaries and guidelines for healthy screen use.
-
-Please review the form carefully to ensure that you are providing the most accurate and relevant information about your screen time habits and those of your child/teenager.
-
-Please note that the following questions are part of the form but are not required:
-
-* Comments
-* Other consequences
-* Other reasons for screen time
-* Other parental involvement
-* Other parental rules
-* Other parental monitoring
-* Other parental approval
-* Other parental screen time
-* Screening time for screen time
-* Other reason for screen time limit
-* Other type of screen time limit
-
-Also, be aware that this form is part of a survey, so please provide honest and accurate information.
-
-Before you start, please make sure that you understand what each field means and what is expected from you. Each section is divided into several fields with clear labels. Below is an explanation of each field.
-
-</thinking>
-
 # Teen Screen Time Survey - Help Guide
 ## Purpose
 The Teen Screen Time Survey is designed to collect information about teenagers' screen time habits and parental involvement to inform and develop strategies for responsible screen use among this age group.

@@ -1,7 +1,3 @@
-<thinking>...
-This help guide is meant to assist respondents in filling out the Concert Experience Feedback Form. Please ensure you have the necessary information before starting. Ensure this form is being used for its intended purpose (concert feedback) and not for spamming or malicious activities.
-</thinking>
-
 # Concert Experience Feedback Form - Help Guide
 ## Purpose
 This form aims to gather feedback from concert attendees about their experience. It is meant to help event organizers improve their events and provide a better experience for attendees in the future.

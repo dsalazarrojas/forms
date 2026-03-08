@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect and record information about a goal, which is an actionable plan or objective that an individual or team seeks to accomplish in the future. The form is part of a broader system for tracking and managing goals across a given scope (e.g., personal, team, or organizational level). The form helps to establish and refine the goal, including its type, description, priority, and associated deadlines, and also allows the owner to track progress and status updates.
-
-To avoid duplication of effort and ensure that goals are well-defined, it is essential to understand the goal-planning process. This form should be filled out for each new goal, and not used for updating or modifying existing goals.
-
-</thinking>
-
 # Goal Planning Form - Help Guide
 ## Purpose
 The Goal Planning Form is used to record and track information about a goal, including its type, description, priority, and associated deadlines.

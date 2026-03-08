@@ -1,15 +1,3 @@
-<thinking>... 
-
-The Calmness Coaching Survey is a form designed to collect information from potential clients about their stress levels, coping mechanisms, and goals for coaching. This form helps the coaching service understand the client's needs and tailor their approach to provide effective support.
-
-Before filling out the form, please note that:
-
-* The survey is not meant to be taken lightly, and it's essential to answer honestly to get the most accurate results.
-* Some fields are required, while others are optional. Please make sure to fill out all required fields to ensure your input is processed correctly.
-* If you have any questions or concerns, feel free to reach out to us for assistance.
-
-</thinking>
-
 # Calmness Coaching Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's consider the purpose of this form. The "Diagram Assessment Survey" form is likely used to collect feedback and assessment from team members, educators, or other stakeholders on a diagram-related project or initiative. This form likely aims to gather opinions on the design, documentation, and overall quality of the diagram or project. To ensure the form's purpose is clear, let's review the fields and their labels to provide an accurate explanation.</thinking>
-
 # Diagram Assessment Survey - Help Guide
 ## Purpose
 The "Diagram Assessment Survey" form is used to collect feedback and assessment from team members, educators, or other stakeholders on a diagram-related project or initiative. It helps to gather opinions on the design, documentation, and overall quality of the diagram or project.

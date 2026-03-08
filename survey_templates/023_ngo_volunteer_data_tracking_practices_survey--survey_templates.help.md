@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from non-governmental organizations (NGO) about their volunteer data tracking practices. The purpose of this form is to collect data on how NGOs collect, analyze, and use data to track volunteer activities and satisfaction. The form is meant to be completed by NGOs to help them reflect on their own data tracking practices and identify areas for improvement.
-
-Before starting, please make sure you are familiar with your NGO's data tracking practices and are authorized to complete this form on behalf of your organization.
-
-</thinking>
-
 # NGO Volunteer Data Tracking Practices Survey - Help Guide
 ## Purpose
 This form is designed to gather information from non-governmental organizations (NGO) about their volunteer data tracking practices. The purpose of this form is to collect data on how NGOs collect, analyze, and use data to track volunteer activities and satisfaction.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather user feedback about a cancelled service or product. It's essential to provide a clear and comprehensive guide for users to complete the form accurately, ensuring they understand what information is requested and why.
-
-To avoid duplication, we'll first check if a similar cancellation survey has already been submitted by the user. If so, we'll guide them through an abbreviated version of the form, focusing on the sections that have changed since their previous submission.
-
-</thinking>
-
 # Cancellation Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your cancelled service or product. It will help us understand the reasons behind your cancellation and provide us with valuable feedback to improve our services.

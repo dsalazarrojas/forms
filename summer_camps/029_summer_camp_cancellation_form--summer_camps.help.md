@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to facilitate the cancellation of summer camps by collecting necessary information from both parents and camp staff. The form is intended to be used in the event of a camp cancellation and should only be used for that specific purpose. Please ensure that you are using this form for its intended use case and not for general inquiries or other purposes. This form should not be used to resubmit previously submitted requests.
-</thinking>
-
 # summer_camp_cancellation_form - Help Guide
 ## Purpose
 The summer_camp_cancellation_form is a form used to request the cancellation of a summer camp. It is designed to collect necessary information from both parents and camp staff to facilitate a smooth cancellation process.

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form "Teen Health Myths Inquiry Form" is designed to gather information on commonly held myths among teenagers about their health. This form is intended for educational and research purposes, and the data collected will help to better understand the beliefs and attitudes of students. Before proceeding, please ensure that you have not already completed this form and that the data you enter is accurate and honest. Your input will contribute to a greater understanding of the subject and improve health education for the community.
-</thinking>
-
 # Teen Health Myths Inquiry Form - Help Guide
 
 ## Purpose

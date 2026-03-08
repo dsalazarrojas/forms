@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a quiz that assesses the user's knowledge about lighting and shading in a specific context. The form consists of multiple select-one and select-multiple questions, each asking whether a specific statement is true or false. The user is required to answer each question with either "Yes" or "No". The purpose of this quiz is to gauge the user's understanding of the relevant concepts and principles in the field of lighting and shading.
-The form is a series of sequential questions, with each page containing one question or multiple questions related to a specific topic. The user is expected to answer each question carefully, as their responses will influence the outcome of the quiz.
-Each question is a separate field, and the user is expected to select one of the provided options ("Yes" or "No") for each question.
-The user's response to each question will contribute to their overall score. Please note that the scoring system is not specified in this form.
-</thinking>
-
 # Lighting And Shading Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge about lighting and shading.

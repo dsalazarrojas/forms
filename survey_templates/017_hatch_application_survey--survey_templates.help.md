@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hatch Application Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for users to provide information about their participation in sports clubs and their level of commitment, enjoyment, and support for the club's sustainability, charities, and volunteering activities.
-The form is designed to collect data on the types of sports that users participate in, the frequency of their participation, their level of commitment, and their enjoyment of the club's activities. The form also asks users to indicate their support for the club's sustainability, charities, and volunteering activities.
-Before filling out this form, please review the following sections carefully to ensure you understand what each field is asking for.
-</thinking>
-
 # sports_club_social_responsibility_survey - Help Guide
 
 ## Purpose

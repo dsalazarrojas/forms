@@ -1,10 +1,3 @@
-<thinking>
-To create a helpful guide for the "Liability Waiver For Youth Activities" form, I first need to understand the context and purpose of the form. This form is used to gather information from parents or guardians of children participating in youth activities, such as sports, camps, or other programs. The form aims to collect essential contact and medical information to ensure the child's safety and well-being in case of emergencies or medical issues. It also includes a section for the child to sign a liability waiver, indicating that they understand and accept the risks involved in the activity.
-
-To avoid duplication of effort, I will assume that the form is being created for a specific use case, such as a summer camp or sports program, and the information gathered will be used to create a secure environment for the children participating in these activities.
-
-</thinking>
-
 # Liability Waiver For Youth Activities - Help Guide
 ## Purpose
 

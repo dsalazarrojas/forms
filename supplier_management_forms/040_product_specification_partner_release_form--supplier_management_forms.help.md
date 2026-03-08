@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for a form used by product specification partners to release product information. This form is used to collect essential data from partners, including supplier details and product specifications. It is crucial to ensure that the information is accurate and complete, as it will be used for further processing and product management. Before proceeding, please double-check that this form is relevant to your task and not a duplicate of an existing one. If this form is intended for another purpose, kindly let us know to avoid duplication of effort.
-</thinking>
-
 # Product Specification Partner Release Form - Help Guide
 
 ## Purpose

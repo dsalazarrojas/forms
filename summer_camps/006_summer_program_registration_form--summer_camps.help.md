@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from students for the summer program. This form will be used by the program administrators to verify student details and schedule. Please note that this form is not intended for duplicate or outdated entries. If you have already registered for the summer program, please do not fill out this form again.
-</thinking>
-
 # Summer Program Registration Form - Help Guide
 ## Purpose
 The Summer Program Registration Form is designed to collect essential information from students for the summer program. This form is used by program administrators to verify student details and schedule. Please ensure that you fill out the form completely and accurately to avoid any issues with your program registration.

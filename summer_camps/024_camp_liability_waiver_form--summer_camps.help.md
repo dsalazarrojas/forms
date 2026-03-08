@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Camp Liability Waiver Form - Help Guide
 
 ## Purpose

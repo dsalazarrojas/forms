@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_time_simulation_feedback_form - Help Guide
 
 ## Purpose

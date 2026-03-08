@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from farmers about their current practices and interests regarding agricultural record keeping. The form is likely used for research or educational purposes, such as evaluating the effectiveness of different record keeping methods or identifying training needs among farmers. The questions cover various aspects of record keeping, including methods, frequency of updates, types of records kept, challenges, and interest in training. By analyzing the collected data, researchers or educators can gain insights into the state of agricultural record keeping and identify areas for improvement.
-</thinking>
-
 # Agricultural Record Keeping Survey - Help Guide
 ## Purpose
 The Agricultural Record Keeping Survey is designed to gather information from farmers about their current practices and interests regarding agricultural record keeping.

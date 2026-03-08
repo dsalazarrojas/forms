@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from users for specialty oil procurement orders. It is essential to provide accurate and detailed information about the oil required, including the order date, quantity, and type. The form is divided into several sections, including personal details (first name, last name, address, email, and phone number), order details (order date, order type, quantity, and special oil), and optional fields for notes, confirm, confirm message, specialty oil type, oil type, oil sub-type, oil category, oil brand, oil viscosity, oil capacity, oil temperature, oil sulfur, oil viscosity type, oil sulfur level, order status, assigned to, and notes. The form is used for internal purposes and is not intended for external public access. 
-
-The form is designed to collect information for order fulfillment and inventory management. It may be filled out by authorized personnel, such as purchasing managers, procurement officers, or inventory specialists. 
-
-It's crucial to fill out the form accurately and correctly to ensure that the required information is captured and that the order is processed efficiently.
-</thinking>
-
 # Specialty Oil Procurement Order Form - Help Guide
 
 ## Purpose

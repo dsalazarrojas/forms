@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shelf Label Adhesive Refill Order Form - Help Guide
 
 ## Purpose

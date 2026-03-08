@@ -1,5 +1,3 @@
-<thinking>This help guide is designed to assist users in completing the "Application Advisor Feedback Form" in a clear and concise manner. This form is intended to collect feedback from students about their experiences with their application advisors. Please ensure that you have reviewed this guide before proceeding, as the form is required for providing valuable insights to the advisors and the advising process. This guide will help you understand the purpose and usage of each field to complete the form efficiently. Please review the form carefully to ensure that you have not duplicated any feedback that you have already submitted, as this helps in maintaining the accuracy and relevance of your feedback.</thinking>
-
 # Application Advisor Feedback Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The form is for users to express their preferences for local theater plays, including selecting their favorite play, providing additional information, and voting to indicate whether they would like to see the selected play. This form is not intended for users who have already expressed their opinion on the same play selection or have previously submitted a vote. To ensure accuracy and relevance, users will be guided through the form to make informed decisions.
-</thinking>
-
 # Local Theater Play Selection Voting Form - Help Guide
 ## Purpose
 This form is designed to gather user opinions and preferences on local theater plays. It's essential to complete this form to help us better understand what plays our community is interested in seeing. Your input will be used to decide which plays to feature at the theater.

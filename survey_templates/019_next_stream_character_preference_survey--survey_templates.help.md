@@ -1,5 +1,3 @@
-<thinking>...checking the form YAML for relevance and non-duplication...</thinking>
-
 # next_stream_character_preference_survey - Help Guide
 ## Purpose
 This form, titled "next_stream_character_preference_survey", is designed to collect information about the user's preferences regarding characters and streams. It gathers data on the user's chosen character, stream content, and character choices, among other details.

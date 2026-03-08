@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's commuting habits and preferences. It aims to collect data on the zip codes of their home and work locations, their primary and secondary modes of transportation, and various other factors influencing their commute. This form is likely used for geographic planning and analysis purposes, such as creating more efficient transportation systems or identifying areas with limited options for public transit. Please note that this is a general template and may not be specific to your organization or use case. Ensure you understand the context before proceeding.
-
-</thinking>
-
 # Commuting Survey - Help Guide
 ## Purpose
 The Commuting Survey form is used to gather information about your commuting habits and preferences for geographic planning and analysis purposes.

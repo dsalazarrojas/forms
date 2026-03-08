@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users about their interest in attending a summer camp. The form will be used by administrators to review and process user requests. To avoid duplication, users are not required to complete the form if they have already submitted an application for the same summer camp.
-</thinking>
-
 # Summer Camp Interest Form - Help Guide
 ## Purpose
 The purpose of this form is to help us understand your interest in attending a summer camp. By providing your information, you'll be helping us plan and prepare for the upcoming summer camp season.

@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to be used in conjunction with a larger system or process that manages facility operations. 
-Ensure this form is not submitted for general or speculative purposes, such as to fulfill a one-time task. 
-This form will be used for ongoing operations, such as regular maintenance or restocking. 
-The information provided in this guide is general in nature and specific requirements may change over time.
-</thinking>
-
 # Sports Facility Restroom Supply Order Form - Help Guide
 ## Purpose
 The Sports Facility Restroom Supply Order Form is used to order restocking and maintenance supplies for sports facility restrooms. 

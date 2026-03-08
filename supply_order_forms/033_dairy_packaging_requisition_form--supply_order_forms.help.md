@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # dairy_packaging_requisition_form - Help Guide
 ## Purpose
 The dairy packaging requisition form is designed to collect information from customers about their packaging requests. This form aims to gather essential details about the customer's product needs, including the type of packaging they require, the desired delivery date, and the delivery time. The collected data will help the dairy packaging team to efficiently process and fulfill the customer's packaging needs.

@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Camp Participant Selfie Collection Form". This form is designed to collect selfies of camp participants, including their name, date the photo was taken, the name of the person uploading the photo, and other relevant information. This form will help the camp staff to collect and store participant selfies and metadata for future reference.
-
-Before proceeding, please ensure that this form is relevant to your needs and not already created. If you are not a camp staff member, please do not submit this form.
-
-</thinking>
-
 # Camp Participant Selfie Collection Form - Help Guide
 ## Purpose
 The purpose of this form is to collect selfies and relevant metadata of camp participants for the camp's records and communication purposes.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from beverage consumers regarding their preferences and experiences. This form is designed to be completed by customers who have purchased or are considering purchasing a beverage product. The goal is to gather insights on the consumer's perception of the product's quality, value, and overall satisfaction. 
-This form should only be completed once per consumer for a specific product and time frame. Repeating this form for the same consumer and product will result in duplicate submissions and may be considered a form of abuse.
-</thinking>
-
 # Beverage Consumer Flavor Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from beverage consumers about their experiences and preferences related to a specific product. It helps us to understand their satisfaction, preferences, and opinions.

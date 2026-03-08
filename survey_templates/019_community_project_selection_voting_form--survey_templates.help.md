@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather input from community members on their preferences and priorities for various community projects. The purpose of the form is to help the community decision-making process by providing valuable feedback from residents. This form is not intended to be a duplicate of the town hall meeting, but rather a way to gather input from those who cannot attend or prefer to provide their feedback anonymously.
-
-</thinking>
-
 # Community Project Selection Voting Form - Help Guide
 ## Purpose
 This form is designed to gather input from community members on their preferences and priorities for various community projects. By providing this feedback, you will help the community decision-making process.

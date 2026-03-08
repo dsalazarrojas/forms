@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form, "gap_analysis_survey," is to help identify the gap between the current state of a business and its goals. It's meant to be completed by someone familiar with the business's current performance and goals, such as its leaders or team members. This form should not be completed multiple times by the same person, as this may skew the results. It's essential to review previous submissions before filling this form.
-
-</thinking>
-
 # gap_analysis_survey - Help Guide
 ## Purpose
 This form is designed to help identify the gap between the current state of a business and its goals. It's meant to be completed by those familiar with the business's current performance and goals.

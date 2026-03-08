@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect general information, health conditions, medications, vaccinations, emergency contact details, signature, and medical history of a summer camp participant. The purpose of this form is to gather essential data for the summer camp's health and safety protocols. Before proceeding, please review the form carefully to ensure that you are providing accurate and relevant information. Please note that this form is not a medical evaluation or diagnosis, but rather a collection of information to help the summer camp staff provide better care and support for the participants.
-</thinking>
-
 # Summer Camp Medical Form - Help Guide
 
 ## Purpose

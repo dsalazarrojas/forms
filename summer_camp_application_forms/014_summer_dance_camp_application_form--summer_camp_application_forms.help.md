@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for the "summer-dance-camp-application-form" that explains its purpose, how to complete it, and what each field means. This form is likely used for applicants to provide information about themselves and their preferences for a summer dance camp. Let's assume that the form is used by a organization that hosts summer dance camps for students. We need to make sure that the form is completed correctly and efficiently.
-</thinking>
-
 # summer-dance-camp-application-form - Help Guide
 ## Purpose
 The "summer-dance-camp-application-form" is used for students to apply for a summer dance camp. You will need to provide personal and contact information, make preferences for the camp, and sign the application.

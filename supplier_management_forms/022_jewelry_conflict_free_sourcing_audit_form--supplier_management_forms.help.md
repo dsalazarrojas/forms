@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about jewelry suppliers' conflict-free sourcing practices. It's intended for internal use within the company, and it's essential to fill it out accurately to maintain consistency and accuracy in our records. Before filling out this form, please ensure that you're familiar with our supplier conflict-free sourcing policies and procedures. If you're not sure about any of the information requested or have questions, please reach out to your supervisor or our supplier management team for clarification. This form is not meant to be filled out multiple times for the same supplier; if you need to update information, please use the "Conflict Free Status" field to indicate the current status and add a note explaining the changes.
-</thinking>
-
 # jewelryConflictFreeSourcingAuditForm - Help Guide
 ## Purpose
 The jewelryConflictFreeSourcingAuditForm is a form used to collect information about a supplier's conflict-free sourcing practices. This form helps ensure that suppliers are in compliance with our company's conflict-free sourcing policies and procedures.

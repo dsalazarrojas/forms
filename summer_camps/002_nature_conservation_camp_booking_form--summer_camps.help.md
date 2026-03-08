@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information for the Nature Conservation Camp Booking Form, which is intended for booking purposes, specifically for participants of the conservation camp. The purpose of this form is to gather necessary details about the participant, including their name, contact information, and booking preferences. This form is used by the staff or administrators of the camp to manage bookings and ensure that all participants have the required information.
 
 Please note that this form is not a duplicate of any other form in the system, and it is specifically designed for the purpose of nature conservation camps.

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, we need to ensure that our form's purpose and the information it requests are relevant and not duplicated with other forms. The "Packing List Form" is used to gather essential information about campers to ensure they have a safe and enjoyable experience. This form asks for general information such as contact details and medical conditions, as well as specific requirements like dietary needs and transportation needs. We also want to capture any additional comments or concerns campers may have, ensuring that we can provide the best possible care for them.
-</thinking>
-
 # Packing List Form - Help Guide
 ## Purpose
 The "Packing List Form" is designed to help us prepare for your summer camp experience. Please fill out this form to provide us with the necessary information to ensure your stay is comfortable and enjoyable.

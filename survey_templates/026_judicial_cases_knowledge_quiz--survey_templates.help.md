@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to test the user's knowledge on judicial cases. The form has a variety of fields that require the user to select or input different types of information. The purpose of this form is to assess the user's understanding of judicial cases. Please ensure that you have reviewed all the instructions and fields before proceeding. If you have any questions or doubts, feel free to ask.
-</thinking>
-
 # Judicial Cases Knowledge Quiz - Help Guide
 ## Purpose
 This form is intended to gauge the user's knowledge on judicial cases by asking them to select or input different types of information.

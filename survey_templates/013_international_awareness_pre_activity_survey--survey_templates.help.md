@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about the respondent's background, demographics, and international awareness. This form is likely used to gather data for research or educational purposes, such as assessing the level of international awareness among a group of individuals. This form may be used by educational institutions, research organizations, or organizations that promote global understanding and exchange.
-
-To ensure data quality and relevance, it's essential to complete this form carefully and accurately. Please note that some fields are optional, but completing them can provide more detailed and nuanced information. If you're unsure about any field, please ask your supervisor or the form's administrator for clarification.
-
-Before starting, please review the form's instructions and make sure you have all the necessary information to complete it accurately. If you have any questions or concerns, you can reach out to the form's administrator for assistance.
-
-</thinking>
-
 # international_awareness_pre_activity_survey - Help Guide
 ## Purpose
 

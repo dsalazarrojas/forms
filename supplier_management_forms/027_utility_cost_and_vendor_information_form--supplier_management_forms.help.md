@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information about the utility costs and vendor details associated with a specific utility provider. The purpose of this form is to gather essential data from the supplier, such as their name, address, contact information, and utility type. This information is crucial for efficient management of utility services and accurate cost calculations.
-
-When creating this form, ensure that it is not duplicated or unnecessary, as it may lead to data redundancy and errors. The information collected through this form will be used for internal purposes only.
-
-For example, if a user previously filled out this form for a different utility provider, you should not fill it out again unless the provider or the utility type changes.
-</thinking>
-
 # Utility Cost And Vendor Information Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about utility costs and vendor details from suppliers.

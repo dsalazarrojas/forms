@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an office party poll, asking users to provide their preferences and contact details. The purpose of this form is to gather feedback and data on the best venue for the office party, taking into account factors such as food preferences, party date, and contact information.
-</thinking>
-
 # office-party-venue-poll - Help Guide
 ## Purpose
 This form collects information for an office party poll, aiming to gather feedback on venue preferences and other relevant details.

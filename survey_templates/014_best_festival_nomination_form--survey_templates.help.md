@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used by the right person for the right festival, and not duplicated by mistake. Let's think through the purpose of this form: it's designed to collect information about festivals that are worthy of recognition, such as awards or recognition. The form is meant to guide the nominator through the process of providing details about the festival they want to nominate, including its name, location, category, and quality assessment. We should also consider the fields that are required and which ones are optional to ensure that the nominator knows what to focus on. With that in mind, let's create a help guide that will make it easy for the end user to understand what to do and what to expect.
-</thinking>
-
 # Best Festival Nomination Form - Help Guide
 ## Purpose
 This form is designed to collect information about festivals that you would like to nominate for recognition. Please fill out this form with as much detail as possible to help us understand why your festival is deserving of recognition.

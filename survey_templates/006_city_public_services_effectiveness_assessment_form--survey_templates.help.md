@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the effectiveness of city public services such as police, fire, public works, parks and recreation, waste management, transportation, library, and public health services. It aims to gather information from residents about their experiences and perceptions of these services. The form is intended to be completed by city residents who have lived in the city for a certain amount of time and are familiar with its services.
-</thinking>
-
 # City Public Services Effectiveness Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from residents on the effectiveness of various city public services. Your input will help us understand what we're doing well and where we can improve.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about data utilization capabilities in an organization. The goal is to assess the current state of data management practices and identify areas for improvement. To complete this form, users will be asked to provide information on the types of data sources they use, the challenges they face, and their training priorities. This form should only be completed by those with direct knowledge of data management practices within the organization.
-</thinking>
-
 # data_utilization_capability_survey - Help Guide
 ## Purpose
 The "data_utilization_capability_survey" form is designed to help organizations assess their data utilization capabilities and identify areas for improvement.

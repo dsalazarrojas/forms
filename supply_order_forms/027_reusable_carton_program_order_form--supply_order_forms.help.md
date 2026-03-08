@@ -1,5 +1,3 @@
-<thinking>Reusable Carton Program Order Form is used for customers to place orders for custom cartons. This form is designed to collect information about the customer, their contact details, order details, and payment terms. The form is intended to be completed by customers to place orders, and is used by sales representatives to process and fulfill the order. This form is likely to be used for business-to-business (B2B) sales scenarios, where customers are ordering custom cartons in bulk. The form is likely to be used by sales representatives to process and fulfill the order. This form is not intended for personal or consumer ordering, such as online shopping. It's also possible that this form is used for order tracking or management.</thinking>
-
 # Reusable Carton Program Order Form - Help Guide
 ## Purpose
 The Reusable Carton Program Order Form is used by customers to place orders for custom cartons. This form collects information about the customer, their contact details, order details, and payment terms.

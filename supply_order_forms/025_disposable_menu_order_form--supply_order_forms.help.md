@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Disposable Menu Order Form is a form designed to collect information from users to place an order for a disposable menu. This form is intended for users to input their order details, including date, time, quantity, email, phone number, and other relevant information. The form also includes fields for menu type, menu price, menu item, menu status, and other optional fields. This form is likely used for businesses that offer disposable menus, such as takeout or delivery services, where customers can input their order information and any special instructions or preferences.
 
 To determine if this form is relevant to your use case, please consider the following questions:

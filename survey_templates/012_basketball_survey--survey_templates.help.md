@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather feedback from players about their experience with the basketball program, including their thoughts on the coaching, team chemistry, skill development, facilities, favorite moments, and overall satisfaction with the program. It's essential to ensure that the form is completed only once per player to avoid duplication of efforts and maintain accurate data. The form should be completed by participants who have had a significant experience with the program.
-</thinking>
-
 # Basketball Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from players about their experience with the program, allowing us to identify areas of improvement and make informed decisions to enhance the program.

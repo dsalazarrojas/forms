@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for the Child Marriage Awareness Survey, which aims to gauge awareness and attitudes towards child marriage. This survey gathers information from individuals, aiming to better understand their opinions on the legal marriage age, awareness of the term child marriage, and community attitudes towards this practice.
-
-**Relevance Check:** This form will gather insights from diverse individuals, ensuring a broad and representative sample size to inform policies and awareness-raising initiatives. To ensure data quality, the form will be completed by individuals who are at least 18 years old.
-
-**Non-Duplication Check:** This form will not collect any information that would compromise personal identity or sensitive data. All responses will be anonymous, and the data will be used for research and awareness purposes only.
-
-</thinking>
-
 # Child Marriage Awareness Survey - Help Guide
 ## Purpose
 

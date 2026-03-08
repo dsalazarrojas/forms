@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from delivery workers on their experiences and challenges they face in their work. The form is divided into two main sections: "Deliveries" and "Working Conditions". The "Deliveries" section asks about the quality of deliveries made, while the "Working Conditions" section inquires about the working environment, physical demands, and overall work experience. This form should only be completed by delivery workers who have experience in making deliveries. It is optional, but completing this survey will help the company better understand the challenges faced by delivery workers and identify areas for improvement.
-
-</thinking>
-
 # Survey On Delivery Workers' Challenges - Help Guide
 ## Purpose
 This form is designed to gather feedback from delivery workers on their experiences and challenges they face in their work.

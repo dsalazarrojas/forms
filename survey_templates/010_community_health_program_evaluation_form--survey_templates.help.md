@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from evaluators on the effectiveness of a community health program. The program evaluation form is a self-contained survey that allows participants to provide their experiences, perceptions, and ratings of the program. It includes questions about the program's content, impact, efficiency, and overall rating.
-Please ensure this form is relevant to your evaluation purpose before proceeding. This guide will help you understand the form's purpose and requirements.
-</thinking>
-
 # Community Health Program Evaluation Form - Help Guide
 ## Purpose
 The Community Health Program Evaluation Form is designed to collect feedback from evaluators on the effectiveness of a community health program.

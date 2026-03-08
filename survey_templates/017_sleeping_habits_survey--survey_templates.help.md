@@ -1,10 +1,3 @@
-<thinking>
-This help guide will cover the purpose and instructions for completing the "sleeping_habits_survey" form. The purpose of this form is to collect information about the user's sleeping habits, including their sleep patterns, quality of sleep, and disturbances that may affect their sleep. This form is used to gather data that will help in understanding the user's habits and patterns related to sleep.
-The form is not required, but it is recommended that users complete all the questions accurately to provide a comprehensive picture of their sleeping habits.
-The form is divided into several pages, each with its own questions. Users will need to navigate through each page to complete the form.
-The form has several types of fields, including time fields for asking about the user's sleep and wake times, select_multiple fields for asking about the user's sleep patterns, select_one fields for asking about the specific details, and text fields for asking for descriptive information.
-</thinking>
-
 # sleeping_habits_survey - Help Guide
 ## Purpose
 The sleeping_habits_survey form is designed to collect information about your sleeping habits, including your sleep patterns, quality of sleep, and disturbances that may affect your sleep. Completing this form will help us understand your habits and patterns related to sleep.

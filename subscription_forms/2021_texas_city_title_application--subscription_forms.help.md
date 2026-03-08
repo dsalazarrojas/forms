@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for a 2021 Texas City Title Application. The purpose of this form is to gather data from applicants seeking to title a vehicle in Texas. This form will be used to verify the accuracy of the information provided and ensure that all required documents and fees are submitted with the application.
-
-Before starting, please ensure that you have all the necessary documents and information ready. This form is not intended to be a comprehensive title application for a vehicle; rather, it is a guide to help you provide the required information. If you are unsure about any of the fields, please refer to the Texas Department of Motor Vehicles guidelines for clarification.
-
-Please complete the form carefully, and if you need assistance, you can contact the relevant authorities for guidance.
-
-</thinking>
-
 # 2021 Texas City Title Application - Help Guide
 ## Purpose
 The 2021 Texas City Title Application form is a tool for gathering information from applicants seeking to title a vehicle in Texas. This form is designed to help you provide the necessary details for a successful title application.

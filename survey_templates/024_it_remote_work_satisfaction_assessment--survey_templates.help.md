@@ -1,5 +1,3 @@
-<thinking>This form, IT Remote Work Satisfaction Assessment, is a self-reporting form designed to gather feedback from IT personnel on their experiences and perceptions of remote work arrangements within the organization. It aims to help identify strengths and weaknesses of the current remote work setup and gather insights to improve it. This form will likely be used by managers, HR, or other organizational leaders to assess and adjust policies and resources for IT personnel working remotely. This form is meant to be completed by IT personnel, providing their personal experiences and opinions on remote work. Please note that responses will be kept anonymous, allowing for open and honest feedback.</thinking>
-
 # IT Remote Work Satisfaction Assessment - Help Guide
 ## Purpose
 This form is designed to gather feedback from IT personnel on their experiences and perceptions of remote work arrangements within the organization, aiming to identify areas for improvement.

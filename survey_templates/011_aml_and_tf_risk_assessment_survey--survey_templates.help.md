@@ -1,12 +1,3 @@
-<thinking>
-To ensure that the form is being used correctly, please review the following internal reasoning:
-
-The "AML And TF Risk Assessment Survey" form is a critical tool for evaluating and managing Anti-Money Laundering (AML) and Terrorist Financing (TF) risks within an organization. This form assesses various factors related to an organization's risk exposure, including their business sector, customer base profile, geographic exposure, and more. The form is designed to be completed by organizations to provide a comprehensive overview of their AML/TF risks and to help them identify potential areas for improvement. 
-
-Please ensure that the organization is the correct entity being assessed, and that the survey is being completed by the relevant authority within the organization. Additionally, please review the answers carefully and answer all required questions to ensure a complete and accurate assessment.
-
-</thinking>
-
 # AML And TF Risk Assessment Survey - Help Guide
 ## Purpose
 This form is designed to assess an organization's Anti-Money Laundering (AML) and Terrorist Financing (TF) risks. Please complete this form to provide a comprehensive overview of your organization's risk exposure.

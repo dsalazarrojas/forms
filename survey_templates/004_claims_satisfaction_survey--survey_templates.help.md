@@ -1,12 +1,3 @@
-<thinking>
-This is a survey template designed to gauge the satisfaction of claimants with the claims process. It is intended to gather feedback on various aspects of the process, including the overall satisfaction, ease of filing, communication, timeliness, clarity, fairness, professional conduct, and likelihood of recommending the company to others. The survey is not intended to be a comprehensive evaluation of the claim, but rather a snapshot of the claimant's experience during a specific interaction. This template can be useful for understanding what improvements can be made to the claims process and providing better service to customers.
-
-This survey template is part of a larger effort to continually improve the company's claims process and overall customer experience.
-
-**Note: This template is for internal use only and should not be shared with external parties without approval.**
-
-</thinking>
-
 # Claims Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback on the claims process from claimants, to help us understand their experiences and identify areas for improvement.

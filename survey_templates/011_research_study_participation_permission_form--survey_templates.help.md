@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect participant information for research studies, including their personal details, study-specific information, and consent for data collection and usage. It is crucial to ensure that the participant is aware of their rights and responsibilities during the study. The purpose of this form is to obtain informed consent from the participant before proceeding with the research study.
-</thinking>
-
 # Research Study Participation Permission Form - Help Guide
 ## Purpose
 The Research Study Participation Permission Form is designed to collect essential information from participants before initiating a research study. This form serves as a formal consent document, ensuring that participants understand their rights and responsibilities during the study.

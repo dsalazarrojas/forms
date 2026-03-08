@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians of children with special needs for a summer camp experience. The form is divided into four sections: Registration Information, Medical Information, Camper Information, and Payment Information. Each section is meant to gather relevant details to ensure a safe and enjoyable experience for the camper. Please note that the form is not affiliated with or endorsed by any specific summer camp, and it is not a substitute for actual registration with a camp or organization. Before filling out this form, please confirm that you are registering for a specific summer camp that aligns with the camp's actual registration requirements.
-
-</thinking>
-
 # Special Needs Summer Camp Registration Form - Help Guide
 ## Purpose
 The Special Needs Summer Camp Registration Form is designed to help parents or guardians of children with special needs to gather essential information for a summer camp experience. The goal of this form is to ensure that the camper has a safe and enjoyable time at the camp.

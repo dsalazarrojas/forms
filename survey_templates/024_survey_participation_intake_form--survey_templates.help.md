@@ -1,9 +1,3 @@
-<thinking>
-This form is used for collecting basic participant information during surveys. The purpose of this form is to obtain contact information and demographic data from participants. This form will be used to collect data that will be used for survey analysis. 
-Please ensure that this form is filled out by participants in its entirety and in accordance with the instructions. Duplicate entries will not be accepted. 
-Please ensure that all required fields have correct information to ensure successful submission.
-</thinking>
-
 # Survey Participation Intake Form - Help Guide
 ## Purpose
 This form collects contact information and demographic data from participants.

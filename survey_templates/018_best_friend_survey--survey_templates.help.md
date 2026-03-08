@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about the best friend of an individual, assessing the depth and quality of their friendship. The purpose of this survey is to collect data on various aspects of a person's relationship with their best friend, including their familiarity with each other's personal details, communication habits, level of trust, and the impact of the friend on their personal growth. This survey aims to be a comprehensive and fun way to reflect on friendships, encouraging respondents to think critically about their relationships and what makes them special.
-</thinking>
-
 # Best Friend Survey - Help Guide
 ## Purpose
 The Best Friend Survey is a comprehensive tool to gather information about your best friend, assessing the depth and quality of your relationship. This survey will guide you through various aspects of your friendship, helping you reflect on what makes your friend special and meaningful to you.

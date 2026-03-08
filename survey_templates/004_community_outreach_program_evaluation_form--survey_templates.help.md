@@ -1,14 +1,3 @@
-<thinking>
-To design an effective help guide, I need to understand the purpose and scope of this form. The "Community Outreach Program Evaluation Form" seems to be a tool for assessing the outcomes and effectiveness of community outreach programs. It appears to be used to gather information about the program's duration, budget, target audience, and outcomes achieved. 
-
-This form is likely used by program managers, coordinators, or evaluators to provide a comprehensive assessment of the program's performance. It might be used to identify areas of improvement, track progress, and make informed decisions about future programs. 
-
-Upon further review of the form's fields, I notice that it asks for various types of information, including program duration, budget, target audience, outcomes achieved, and recommendations for future programs. The form seems to be quite comprehensive, covering both quantitative and qualitative aspects of the program.
-
-To avoid duplication, I will ensure that the help guide is concise and covers all the necessary information to help users understand the form's purpose, completion process, and each field's significance. I will also review the form's fields to ensure that each field's label, hint, and type are clear and self-explanatory.
-
-</thinking>
-
 # Community Outreach Program Evaluation Form - Help Guide
 ## Purpose
 The Community Outreach Program Evaluation Form is a tool used to assess the outcomes and effectiveness of community outreach programs. This form helps program managers, coordinators, or evaluators gather information about the program's duration, budget, target audience, and outcomes achieved.

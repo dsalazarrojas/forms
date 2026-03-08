@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information on healthy habits from users. It's essential to ensure that each user understands the form's purpose and the meaning behind each question. To prevent duplication, we must verify that users have not already completed this form, and if they have, we should redirect them to a specific page with a link to this form. This is crucial to avoid confusion and maintain the integrity of the data collected.
-</thinking>
-
 # Healthy Habits Questionnaire - Help Guide
 ## Purpose
 This form is designed to assess your healthy habits, covering various aspects of well-being, such as physical activity, sleep, diet, relationships, mental health, emotional intelligence, and self-awareness. It helps users understand their current habits and provides a comprehensive overview of areas that need improvement.

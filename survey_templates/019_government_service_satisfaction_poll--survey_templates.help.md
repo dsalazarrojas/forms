@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Government Service Satisfaction Poll - Help Guide
 ## Purpose
 

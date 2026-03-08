@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's clarify the purpose of this form. This form is designed to collect information about cities, specifically their demographics, economy, and attractions. It's essential to ensure that the information provided is accurate and up-to-date to help users make informed decisions. To avoid duplication of efforts, please fill out this form only if you are authorized to do so.</thinking>
-
 # City Information Collection Form - Help Guide
 
 ## Purpose

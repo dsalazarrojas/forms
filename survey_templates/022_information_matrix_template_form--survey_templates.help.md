@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive survey template designed to gather information about a person's preferences, interests, and demographics. It includes questions about favorite colors, animals, wake-up times, age, email addresses, phone numbers, favorite foods, drinks, hobbies, sports, music genres, artists, social media platforms, websites, and other personal preferences. The form is likely used to create a user profile or for market research purposes.
-
-To avoid duplication of questions, we should focus on the unique questions and provide a clear and concise explanation of each field in the help guide.
-
-</thinking>
-
 # Information Matrix Template Form - Help Guide
 ## Purpose
 

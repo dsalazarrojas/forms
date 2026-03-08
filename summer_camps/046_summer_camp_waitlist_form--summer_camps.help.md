@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is for individuals to sign up for summer camps, including programs A and B. The form is designed to collect information from both camp attendees and their sponsors, if applicable. When completing this form, please ensure you are providing accurate and relevant information for each field. 
 
 To complete this form, please follow the steps below:

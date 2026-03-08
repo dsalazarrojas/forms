@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect information about the event planning platforms used, priorities, timeframe, duration, teams involved, expected use, teams used, teams, and expectations of the event planning process. This form is essential for the platform administrators to understand the event planning needs and preferences of the users, which will help them to improve the platform's features and services. Before filling out this form, please ensure that you have not completed it earlier, as it is a unique opportunity to provide feedback and help shape the platform's development.
-</thinking>
-
 # Event Platform Requirements Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your event planning needs and preferences. Your input will help us understand what features and services we should prioritize to improve our platform.

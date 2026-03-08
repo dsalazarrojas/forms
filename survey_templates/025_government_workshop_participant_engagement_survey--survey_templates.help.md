@@ -1,9 +1,3 @@
-<thinking>
-We are implementing a form to gather feedback from government workshop participants. This form is intended to collect information on their overall experience, satisfaction, and areas for improvement. We aim to understand what worked well and what didn't, to help us refine future workshops. Please take a few minutes to complete this form. Your feedback is invaluable in helping us improve the quality of our workshops.
-
-Before proceeding, please note that this form is a survey, and all responses are voluntary. Your input will help us create more engaging and informative workshops. Please answer the questions accurately, and do not hesitate to provide any additional comments or suggestions.
-</thinking>
-
 # Government Workshop Participant Engagement Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely part of a larger initiative to gauge the awareness and understanding of various medical innovations among a target audience, probably healthcare professionals or patients. The purpose of the form is to collect data on the respondents' perception of new medical innovations, specifically AI, Gene Therapy, and Blockchain, as well as their sources of information and attitudes towards these innovations. The form is designed to be filled out by users with varying levels of familiarity with these innovations.
-</thinking>
-
 # Medical Innovation Awareness Survey - Help Guide
 ## Purpose
 This form aims to collect information on the awareness and understanding of medical innovations among respondents, focusing on AI, Gene Therapy, and Blockchain.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their transportation needs and logistics for the summer camp. The purpose of this form is to collect relevant details such as transportation requirements, pickup locations, and contact information. Before proceeding, ensure that the form is relevant to the user's current situation and has not been completed recently. 
-
-</thinking>
-
 # summer_camp_transport_logistics_survey - Help Guide
 ## Purpose
 This form is used to collect information from users regarding their transportation needs and logistics for the summer camp. It is essential to provide accurate and complete data to ensure smooth transportation arrangements.

@@ -1,6 +1,3 @@
-<thinking> 
-This help guide is designed to assist end-users in understanding the Post Appointment Evaluation Form, which is intended to gather feedback and evaluations from customers after their interactions with a service. It is essential to complete the form accurately to ensure that the service provider receives reliable and valuable feedback. The form should be filled out only once, and not duplicate any questions or information that may already be present in other forms. </thinking>
-
 # Post Appointment Evaluation Form - Help Guide
 
 ## Purpose

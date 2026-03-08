@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students who have taken a personal development course. It aims to gather information on their course experience, including course name, type, length, rating, and any feedback they may have on the course. The form also asks for additional comments and contact information, including email and phone numbers. This form is likely used by course instructors or administrators to assess the quality of their courses and identify areas for improvement.
-
-The form has 13 fields in total, each with its own label, type, and purpose. The first page of the form asks for general information about the course, including the course name, type, length, and rating. The second page asks for specific feedback questions, which could be used to gather detailed insights from students. The last page asks for any additional comments and contact information, in case students need to be contacted for more information.
-
-Before filling out this form, please ensure that you have all the necessary information required. If you are unsure about any of the fields, you can refer to this guide for clarification.
-
-Please note that all fields are optional, unless marked as required. However, providing as much information as possible will help course instructors and administrators to better understand your experience and provide more effective feedback.
-
-</thinking>
-
 # Personal Development Course Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from students who have taken a personal development course. It aims to gather information on their course experience, including course name, type, length, rating, and any feedback they may have on the course.

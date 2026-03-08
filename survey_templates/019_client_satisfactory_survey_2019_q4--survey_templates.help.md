@@ -1,10 +1,3 @@
-<thinking>
-The following is a form that was created using an AI algorithm, and I'll do my best to provide a clear and concrete guide on how to use it.
-
-Before proceeding, I'd like to mention that this form is a client satisfaction survey for the 4th quarter of 2019. It's designed to gather feedback from clients about their experience with your service. Please take a few minutes to go through each section carefully, and provide as much detail as possible. Your input is valuable to us!
-
-</thinking>
-
 # Client Satisfactory Survey 2019 Q4 - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from clients about their experience with your service during the 4th quarter of 2019. Your input will help us understand what we did well and what we can improve on, allowing us to provide better service in the future.

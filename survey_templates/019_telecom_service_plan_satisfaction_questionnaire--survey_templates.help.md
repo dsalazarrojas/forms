@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form, "telecom_service_plan_satisfaction_questionnaire," is to collect feedback from end-users about their experience with a telecom service plan. This form is designed to gather information about the service quality, communication experience, and potential issues encountered during the service usage. It is likely used for quality control and improvement purposes.
-
-To ensure that this form serves its intended purpose and provides actionable data, it is essential to ensure that it is not duplicated or filled out unnecessarily. This form is likely part of a feedback loop where responses are used to improve the service offering.
-
-</thinking>
-
 # telecom_service_plan_satisfaction_questionnaire - Help Guide
 ## Purpose
 The goal of this form is to collect end-user feedback and experiences related to their telecom service plan.

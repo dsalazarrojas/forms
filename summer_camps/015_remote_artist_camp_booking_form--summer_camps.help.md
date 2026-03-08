@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I'm designing a user-facing help guide for the Remote Artist Camp Booking Form. This form is used to collect information from artists and camps for remote artist camps. The form is likely used for administrative purposes and is not intended for general public use. It may have been created for internal use within the organization. The purpose of this form is to gather data on artist camps, preferences, and other relevant details. It's essential to ensure that the form is completed accurately and consistently to avoid confusion and duplication of efforts in the backend.</thinking>
-
 # Remote Artist Camp Booking Form - Help Guide
 ## Purpose
 The Remote Artist Camp Booking Form is designed to collect information from artists and camps for remote artist camps. This form helps the organization gather data on various aspects of the camps and artists, such as dates, discipline, preferences, and artist and camp contacts.

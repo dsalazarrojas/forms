@@ -1,8 +1,3 @@
-<thinking>
-This form is for users to submit their summer camp application. This will help us to get information about the user's favorite summer camp(s) and their contact information. We will use this information to create a customized summer camp experience for them. To avoid duplication, please note that this form is designed to be submitted once per user. 
-
-</thinking>
-
 # online_summer_camp_application_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about their favorite summer camps and contact details. This information will be used to create a customized summer camp experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Camera Demo Request Survey - Help Guide
 
 ## Purpose

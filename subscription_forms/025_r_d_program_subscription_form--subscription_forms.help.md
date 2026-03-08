@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for users to subscribe to a program or service. The form is typically used for internal purposes within a specific organization or business. This guide is intended to ensure that users understand the form's purpose and how to complete it correctly. Please make sure you are reading this guide carefully and that you understand each field's intended use before submitting your form.
-
-</thinking>
-
 # r_d_program_subscription_form - Help Guide
 
 ## Purpose

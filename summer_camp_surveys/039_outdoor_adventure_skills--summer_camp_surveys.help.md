@@ -1,7 +1,3 @@
-<thinking>...
-This form is intended to collect information from participants for a summer adventure skills survey. The form is not designed to be filled out by non-participants or as a replacement for other forms. Please ensure that you are eligible to submit this form and do not duplicate your entry. This form is designed to gather essential details about your outdoor adventure skills, experiences, and preferences. It will help us better understand your qualifications and prepare you for your summer adventure journey.
-...</thinking>
-
 # Outdoor Adventure Skills - Help Guide
 ## Purpose
 The purpose of this form is to collect information from participants for a summer adventure skills survey.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from accounting professionals about their skills, knowledge, and areas for improvement in accounting. It will help identify areas where employees may need training or support to improve their skills and productivity. The form is intended to be completed by accounting professionals and their supervisors or managers to provide feedback on the employee's current skills and areas where they would like to develop.
-
-</thinking>
-
 # Accounting Skill Improvement Survey - Help Guide
 
 ## Purpose

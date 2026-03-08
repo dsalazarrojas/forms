@@ -1,7 +1,3 @@
-<thinking>Summer Camp Waiver Form is used to collect information for campers participating in a summer camp program. It's essential to ensure that all necessary contact and medical information is up-to-date and accurate. Before starting the camp, it's crucial to complete this form carefully and thoroughly. It's recommended to have it reviewed and signed by both the camper and a guardian or emergency contact before the start of the program.
-
-This form is a one-time form, not a recurring form. You should only submit it once when the camper starts the program. If you need to update any information, please contact the camp administration.</thinking>
-
 # Summer Camp Waiver Form - Help Guide
 ## Purpose
 The Summer Camp Waiver Form is used to collect essential information from campers and their guardians for the summer camp program. Please complete this form carefully to ensure all necessary details are accurate.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback and reflection from users after a specific event, likely for training, workshop, or meeting purposes. It may be used to identify areas of improvement for future events, understand attendee engagement, and assess the effectiveness of the event in achieving its goals. Before proceeding, please ensure that you're not already familiar with the form's purpose and questions. If you've recently filled out a similar form, try to reflect on your previous experiences and provide fresh insights.
-</thinking>
-
 # feedback_and_reflection_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and reflection from users after an event, aiming to improve future events and assess the effectiveness of the event in achieving its goals.

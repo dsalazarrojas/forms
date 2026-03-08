@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a subscription pause for a customer's subscription. A subscription pause allows customers to temporarily stop their subscription services for a specified period. This form is intended for customers who need to pause their subscription due to valid reasons such as testing, moving, or financial difficulties. To prevent abuse, the form will only be accepted if the customer has a valid reason for pausing their subscription and the request is not made in bad faith. Please ensure that you have a valid reason for requesting a pause and that it aligns with our company's subscription policies.
-</thinking>
-
 # Subscription Pause Request Form - Help Guide
 
 ## Purpose

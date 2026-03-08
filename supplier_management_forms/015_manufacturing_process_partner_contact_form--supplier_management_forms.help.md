@@ -1,13 +1,3 @@
-<thinking>...thinking>
-
-The purpose of the "manufacturing_process_partner_contact_form" is to gather essential information from potential manufacturing partners who are interested in working with the company to produce or co-produce goods or materials. This form is meant to collect details about the partner's company, contact person, and capabilities, as well as any relevant information about their manufacturing processes and location.
-
-This guide is designed to be read by those who will fill out the form, so it will only be useful if the form's purpose and requirements are correctly understood and applied. Please review the form carefully and make sure you are completing it for the right reason.
-
-If you are not sure if you should be completing this form, you may want to ask your internal contact or the form's creator if it's relevant to your business needs.
-
-</thinking>
-
 # manufacturing_process_partner_contact_form - Help Guide
 ## Purpose
 This form is used to collect information from potential manufacturing partners about their company, contact person, and manufacturing capabilities.

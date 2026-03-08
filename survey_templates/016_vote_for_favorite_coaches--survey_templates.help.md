@@ -1,9 +1,3 @@
-<thinking>
-
-This form, "Vote For Favorite Coaches," is intended to gather user feedback on their favorite coaches in a survey format. The form is likely being used to collect data for internal purposes, such as employee engagement or customer satisfaction surveys. Before filling out this form, it's essential to confirm that you haven't already completed this survey, as the answers are anonymous and non-sensitive. Please take a moment to review each field below and ensure you are answering sincerely.
-
-</thinking>
-
 # Vote For Favorite Coaches - Help Guide
 ## Purpose
 This form is designed to collect your honest opinions on your favorite coaches. Your responses will be used to gather valuable feedback for internal purposes.

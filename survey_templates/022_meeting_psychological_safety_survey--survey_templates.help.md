@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Meeting Psychological Safety Survey - Help Guide
 ## Purpose
 This form is designed to assess the psychological safety of a meeting or team environment. It helps to identify areas where team members feel comfortable speaking up and sharing their thoughts, and where they may feel uncomfortable or silenced. The information gathered from this survey will be used to inform future meeting facilitation strategies and improve the overall psychological safety of the team.

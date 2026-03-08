@@ -1,7 +1,3 @@
-<thinking>
-The form is a tool for collecting information about phone calls and their outcomes. This form is used for tracking and documenting phone verification processes. The form should be completed for each phone call that requires verification. To ensure that this form is completed correctly and consistently, review the fields below and ensure that all relevant information is provided.
-</thinking>
-
 # Tele Verification Survey - Help Guide
 ## Purpose
 This form is used to track and document phone calls that require verification.

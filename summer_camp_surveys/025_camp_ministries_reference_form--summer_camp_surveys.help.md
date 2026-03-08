@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from referees who have had personal or professional interactions with candidates for camp ministry positions. This form is part of the evaluation process to assess a candidate's suitability for the role. It is crucial that the information provided is accurate and relevant to ensure fair and unbiased evaluation. To avoid duplication, please note that only one reference per candidate is required. Referees should only provide their own information once per candidate, even if they have multiple interactions with the same candidate. 
-</thinking>
-
 # Camp Ministries Reference Form - Help Guide
 ## Purpose
 The Camp Ministries Reference Form is designed to gather information from referees who have had personal or professional interactions with candidates for camp ministry positions. This form helps assess a candidate's suitability for the role by gathering feedback from individuals who can vouch for their character and abilities.

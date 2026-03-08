@@ -1,23 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I will analyze the input YAML fields. 
-The form is titled "Microbrewery Equipment Supply Order Form", suggesting that it is used for ordering supplies for a microbrewery. 
-Looking at the fields, I can see that they are divided into several sections, including "Equipment Needed", "Contact Info", "Shipping Details", "Delivery Terms", "Supplier Info", and "Order Terms". 
-This form is likely used by microbrewery staff or management to place orders for equipment and supplies, and provide details about the order, contact information, and terms of delivery. 
-To confirm, I will review the fields:
-
-- "Equipment Needed" suggests that the form is for ordering specific equipment. 
-- "Contact Info", "Supplier Info", and "Shipping Details" indicate that the form is for gathering information about the order, the contact person, and the shipping options. 
-- "Delivery Terms" and "Order Terms" imply that the form is for specifying the terms of delivery and any special conditions of the order.
-
-The purpose of this form is to collect information for a microbrewery to place an order for equipment and supplies, including details about the equipment, contact information, and terms of delivery.
-
-This form appears to be a straightforward order form, but I will review the fields more closely to ensure that I provide accurate and relevant information to users.
-
-I will now create a help guide based on this understanding.
-
-</thinking>
-
 # Microbrewery Equipment Supply Order Form - Help Guide
 ## Purpose
 This form is used by microbrewery staff or management to place orders for equipment and supplies, providing details about the order, contact information, and terms of delivery.

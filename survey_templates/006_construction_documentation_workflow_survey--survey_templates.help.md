@@ -1,12 +1,3 @@
-<thinking> 
-We are creating a help guide for the "Construction Documentation Workflow Survey" form. This survey is designed to collect information from construction professionals about their current documentation workflow. The purpose of this form is to gather data that will help us understand the challenges and pain points in the construction documentation process. This form will help us identify areas where we can provide solutions and improve the efficiency and quality of documentation.
-
-The survey is composed of several sections, each designed to gather specific information about the respondent's current workflow.
-
-This form is intended for construction professionals who are actively involved in the documentation process. Please answer the questions honestly, and provide as much detail as possible to help us better understand your current challenges.
-
-</thinking>
-
 # Construction Documentation Workflow Survey - Help Guide
 ## Purpose
 This form is designed to collect information from construction professionals about their current documentation workflow, with the goal of identifying areas for improvement and providing solutions to enhance efficiency and quality.

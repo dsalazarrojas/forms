@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # kitchen_and_bath_onboarding_survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supplier Sustainability Audit Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about the impact of various tools on their productivity in the tech software industry. The purpose is to understand how different tools are affecting user experience, efficiency, and overall job satisfaction. This form will collect qualitative and quantitative data that will help us improve our understanding of the tech software ecosystem. Please ensure that each field is filled with as much detail as possible so we can get the most accurate data.
-</thinking>
-
 # Tech Software Productivity Impact Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about the impact of various tools on their productivity in the tech software industry.

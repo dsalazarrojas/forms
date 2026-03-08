@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Are You Feeling Well Survey - Help Guide
 ## Purpose
 The "Are You Feeling Well Survey" is designed to assess participants' overall well-being, physical and mental health, and lifestyle factors. This survey aims to collect information about how participants are feeling, their physical and emotional state, and their daily habits. The data collected will help us better understand participants' needs and provide support when necessary.

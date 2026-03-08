@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect feedback and evaluation from service vendors. The form is intended to help the evaluator assess the performance of the vendor in various aspects such as service quality, timeliness, professionalism, cost, and problem resolution. The form is likely to be used by facilities management or procurement teams within an organization to evaluate and compare different service vendors. </thinking>
-
 # Building Service Vendor Evaluation Survey - Help Guide
 ## Purpose
 This form is used to collect feedback and evaluation from service vendors on their performance and areas for improvement.

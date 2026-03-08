@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # favorite_booking_app_poll - Help Guide
 
 ## Purpose

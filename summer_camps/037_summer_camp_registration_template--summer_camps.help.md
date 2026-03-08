@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect information from campers and their parents/guardians for a summer camp registration process. The form is used to gather essential details such as camper name, birth date, camp dates, and medical information. This form is typically used by parents or guardians to register their child for the summer camp program.
-</thinking>
-
 # Summer Camp Registration Template - Help Guide
 ## Purpose
 This form is used to register a camper for the summer camp program. It collects essential details such as name, birth date, camp dates, and medical information.

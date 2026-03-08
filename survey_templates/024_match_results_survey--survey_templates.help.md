@@ -1,12 +1,3 @@
-<thinking>... (internal reasoning block)
-
-We need to verify that the form is being used to collect information about a sports match. The "match_outcome" and "home_score" and "away_score" fields suggest that the form is for recording the result of a match between two teams, with the home team playing against the away team. The "match_winner" field further supports this, indicating that the form is interested in determining which team won the match.
-
-The "match_date" and "match_time" fields indicate that the form may also be interested in when and where the match took place. The "match_winner" field and "referee_id" fields suggest that the form may be used to track the match's outcome and any referees involved. The "match_venue" field further supports this, indicating that the form is interested in where the match took place.
-
-Given this analysis, the form is likely being used to collect data about a sports match, specifically the match's outcome, scores, and details about the match's timing and location.
-
-</thinking>
 # Match Results Survey - Help Guide
 
 ## Purpose

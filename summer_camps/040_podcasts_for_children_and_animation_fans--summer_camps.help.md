@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a metadata collection form for a podcast targeting children and animation fans. It's likely used for categorization and filtering of existing podcasts or to generate new podcast entries. To ensure accuracy, please confirm that you have a valid use case for this form. If the form is being filled out multiple times, it's possible that a business rule or process is in place to prevent duplicate entries.
-</thinking>
-
 # Podcasts For Children ( And Animation Fans) - Help Guide
 ## Purpose
 This form collects metadata for a podcast targeting children and animation fans. It helps in categorizing and filtering existing podcasts or generating new podcast entries.

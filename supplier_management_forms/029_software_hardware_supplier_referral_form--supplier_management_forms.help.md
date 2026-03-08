@@ -1,13 +1,3 @@
-<thinking>
-
-The `software_hardware_supplier_referral_form` form is a tool used to gather information about a supplier referral, which is a recommendation made by an employee to a colleague about a potential software or hardware supplier. This form is meant to be used by employees to provide details about a referral, including the referral source, referred company, and other relevant information. 
-
-This form will help in identifying potential suppliers to be considered for purchase decisions, and will help in tracking the progress of the referral process. It's essential to ensure that all required fields are filled out accurately and thoroughly, as this information will be used to determine the next steps in the referral process.
-
-Before proceeding, ensure that you are not duplicating a referral already in progress. To check if a referral is already active, please search for it in the referral database.
-
-</thinking>
-
 # Software Hardware Supplier Referral Form - Help Guide
 
 ## Purpose

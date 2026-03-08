@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians to register their child for a summer camp experience. The form is intended to gather personal and demographic details about the child, parent/guardian contact information, and medical history, as well as authorization and consent for the child's participation. It is essential to ensure that the form is filled out accurately and completely to ensure a smooth and safe experience for the child. Please review each field carefully to provide the necessary information.
-</thinking>
-
 # Kids Summer Camp Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from parents or guardians to register their child for a summer camp program. The form is used to gather demographic details, medical history, and consent for the child's participation.

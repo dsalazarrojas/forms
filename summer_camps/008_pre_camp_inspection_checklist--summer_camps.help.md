@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for pre-camp inspection checklists. The purpose of this form is to ensure that camps have all necessary resources and personnel in place before the camp season begins. This form is likely to be used by camp administrators or staff members to review and update the checklist before or during the camp's opening. It's essential to fill out this form accurately to avoid any potential issues or risks that may arise during the camp season.
-</thinking>
-
 # pre-camp-inspection-checklist - Help Guide
 ## Purpose
 The "pre-camp-inspection-checklist" form is used to collect information for pre-camp inspections, ensuring that camps have all necessary resources and personnel in place before the camp season begins.

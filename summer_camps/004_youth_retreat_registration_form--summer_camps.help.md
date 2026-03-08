@@ -1,12 +1,3 @@
-<thinking>
-The form "youth-retreat-registration-form" is designed to collect information from participants who are attending a summer camp program. This form is used to gather details about each participant, their emergency contacts, dietary preferences, activities they can participate in, special needs, relationships, medical information, and any additional notes for staff. The form is likely to be used by the summer camp organizers to ensure that they have all the necessary information to provide a safe and enjoyable experience for the participants.
-
-Before starting to fill out the form, please ensure that you are completing it for the correct participant and that all the information is accurate and up-to-date.
-
-The form is divided into several sections, each focusing on different aspects of the participant's information. Please read through each section carefully and fill out the form accordingly.
-
-</thinking>
-
 # youth-retreat-registration-form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from participants who are attending the summer camp program. This information will be used to ensure the participant's safety and well-being during the camp.

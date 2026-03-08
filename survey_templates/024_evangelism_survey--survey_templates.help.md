@@ -1,7 +1,3 @@
-<thinking>
-We need to design a form that captures user information for a survey about evangelism. The purpose of this form is to collect data on users' personal details, beliefs, and interests. This data will help us understand how to effectively communicate the values and mission of our organization.
-</thinking>
-
 # Evangelism Survey - Help Guide
 ## Purpose
 This form is designed to gather information about you for the purpose of understanding our evangelism efforts. It's a survey that asks for personal details, interests, and background information to better serve you and improve our communication.

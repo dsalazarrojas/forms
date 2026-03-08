@@ -1,9 +1,3 @@
-<thinking>... internal reasoning about form purpose and relevance ...
-
-This form is for placing cleaning supply orders, and it's used by employees in a facility or organization to request cleaning materials and equipment. The form is used to gather information about the order, including the date, contact information, the products being ordered, and delivery details. The purpose of this form is to streamline the ordering process and ensure that all necessary information is collected to process the order correctly. This form is likely used by facilities or departments that need to order cleaning supplies regularly, such as janitorial services, maintenance teams, or facilities management.
-
-</thinking>
-
 # Cleaning Supply Order Form - Help Guide
 ## Purpose
 This form is used to place orders for cleaning supplies, including products, equipment, and materials. It helps ensure that all necessary information is collected to process the order correctly and efficiently.

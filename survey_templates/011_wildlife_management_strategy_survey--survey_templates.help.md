@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather feedback and insights from individuals on wildlife management strategies and practices in their area. It is meant to be completed by individuals who have a stake in wildlife management, such as local communities, conservationists, government agencies, and researchers. The purpose of this form is to collect information on conservation issues, policy effectiveness, and stakeholder involvement in decision-making processes. This form should only be completed by individuals who are familiar with wildlife management and conservation in their area.
-
-Before starting the form, please note that it is designed to collect personal opinions and experiences, not to provide a comprehensive review of all wildlife management strategies. Your input is valuable and will help inform future wildlife management decisions. Please provide as much detail as possible, but feel free to skip questions that are not relevant to your experience.
-
-This form will ask you to provide your name, email address, phone number, and location, which will help us reach out to you for follow-up questions or to provide updates on our findings. However, you can leave any of these fields blank if you don't want to be contacted.
-
-If you have any additional comments or concerns that you would like to share with us, feel free to include them in the additional information section.
-
-We appreciate your time and input, and we value your contribution to this survey!</thinking>
-
 # Wildlife Management Strategy Survey - Help Guide
 ## Purpose
 This guide will walk you through how to complete the Wildlife Management Strategy Survey form.

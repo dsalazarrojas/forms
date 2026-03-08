@@ -1,5 +1,3 @@
-<thinking> This form is intended to gauge the respondent's understanding, awareness, and opinions on constitutional rights. The form will help to identify areas where education and awareness on constitutional rights need improvement, which can inform the development of targeted programs and resources to enhance constitutional rights knowledge in the community. This form is not intended to be a comprehensive assessment of the respondent's personal experiences or opinions, but rather a general survey to gather data on the community's understanding and perceptions of constitutional rights. It's essential to complete this form honestly, and the answers will be kept anonymous to ensure the respondents' comfort and trust. </thinking>
-
 # Constitutional Rights Feedback Form - Help Guide
 ## Purpose
 The Constitutional Rights Feedback Form is designed to collect information about the community's understanding and awareness of constitutional rights. This form aims to gauge the public's knowledge, attitudes, and opinions about constitutional rights and identify areas where education and awareness may be needed.

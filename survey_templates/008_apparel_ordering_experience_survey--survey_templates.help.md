@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their apparel ordering experience. It's intended to help us understand what we do well and what we can improve on to better serve our customers in the future. Please ensure that the form is only filled out by customers who have actually placed an order with us, as this feedback is specifically tailored to their experience. If you're a non-customer, please do not fill out this form. This will help us maintain the quality and relevance of our feedback data.
-</thinking>
-
 # Apparel Ordering Experience Survey - Help Guide
 ## Purpose
 

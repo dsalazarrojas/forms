@@ -1,7 +1,3 @@
-<thinking>
-The Student Software Subscription Verification Form is designed to verify the student information and subscription status for students who have registered for software access. This form is intended for use by administrative personnel to quickly and accurately gather essential information and status updates for student subscriptions. To ensure data quality and consistency, it's crucial to complete the form thoroughly and accurately. Before proceeding, check that the form is not already filled out or submitted by the student. If the student's subscription status is already verified, do not fill this form.
-</thinking>
-
 # Student Software Subscription Verification Form - Help Guide
 
 ## Purpose

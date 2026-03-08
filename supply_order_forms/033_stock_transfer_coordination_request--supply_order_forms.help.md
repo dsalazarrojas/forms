@@ -1,7 +1,3 @@
-<thinking>
-We can use this form to request stock transfers between warehouses. It's used for internal purposes only, so only people with relevant permissions should access it. To ensure we're not duplicating work, please check the stock transfer log before filling out this form.
-</thinking>
-
 # Stock Transfer Coordination Request - Help Guide
 ## Purpose
 The Stock Transfer Coordination Request form is used to request stock transfers between warehouses. It captures essential information about the transfer, such as the stock item, quantity, and status.

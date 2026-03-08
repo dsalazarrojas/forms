@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from camp participants about the games they played during the camp. The purpose of this form is to understand their experience, satisfaction, and areas for improvement of each game. The form will help the camp organizers to identify trends and insights that can be used to adjust and enhance the games for future camps. 
-
-To ensure that this form is not filled out more than once by a single participant, the camp organizers are using a unique ID system to track responses. Please be aware that providing anonymous feedback is optional, and participants can leave their name if they choose to do so.
-
-To fill out this form, start by selecting the appropriate page (page 1) and then fill out the fields as instructed.
-</thinking>
-
 # Camp Games Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from camp participants about their experience with the games played during the camp.

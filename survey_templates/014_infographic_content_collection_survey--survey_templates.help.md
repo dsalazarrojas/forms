@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from project leads and team members about infographic content, including its creation status, target audience, and deadline. It appears that the form is used for internal purposes within an organization, likely for project management and collaboration. There is no clear indication that the form is used for external purposes or customer-facing interactions.
-</thinking>
-
 # Infographic Content Collection Survey - Help Guide
 ## Purpose
 This form is used to collect information about infographics, including their status, target audience, deadline, and other relevant details.

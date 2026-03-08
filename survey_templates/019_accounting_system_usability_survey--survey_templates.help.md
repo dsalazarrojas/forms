@@ -1,7 +1,3 @@
-<thinking>
-The "Accounting System Usability Survey" form is designed to gather feedback and insights from users about the usability of an accounting system. The form is likely used by accountants, finance professionals, or system administrators to provide their honest opinion on the system's performance, ease of use, and potential areas of improvement. This form aims to identify pain points, gather feedback on feature requests, and measure the likelihood of users recommending the system to colleagues.
-</thinking>
-
 # Accounting System Usability Survey - Help Guide
 ## Purpose
 The Accounting System Usability Survey is a form designed to collect feedback on the usability of an accounting system. It helps us understand the strengths and weaknesses of the system, allowing us to identify areas for improvement and make informed decisions about system development.

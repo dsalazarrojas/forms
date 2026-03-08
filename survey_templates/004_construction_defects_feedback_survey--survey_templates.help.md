@@ -1,11 +1,3 @@
-<thinking>
-
-To create an effective help guide for the Construction Defects Feedback Survey, it's essential to first understand the context and purpose of the form. This form is designed to collect feedback and information about defects in a construction project, allowing project managers or maintenance teams to efficiently identify and address these issues. The form's purpose is to standardize the process of reporting and handling defects, ensuring that all necessary details are gathered in a consistent and structured manner.
-
-Before we dive into the guide, it's also crucial to verify that the information in this guide is relevant to the current version of the form. Please ensure that your form's configuration has not changed, and if so, update this guide accordingly.
-
-</thinking>
-
 # Construction Defects Feedback Survey - Help Guide
 
 ## Purpose

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Skin Barrier Awareness Survey - Help Guide
 ## Purpose
 This form is designed to help assess individual skin barrier awareness, importance, frequency, and concerns. It is intended to be a brief assessment tool for users to provide insights into their skin health.

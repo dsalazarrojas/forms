@@ -1,13 +1,3 @@
-<thinking>
-To avoid duplication, we first need to confirm whether this form is being used within our system or if it's a new form that needs to be created. If it's a new form, we should ensure that it's not a duplicate of an existing form. If it's not a new form but rather a variation of an existing one, we should verify that the changes made are significant enough to warrant a separate form.
-
-Before creating this form, please ensure you have the necessary permissions and access rights. If you're unsure about any of the fields or questions, please refer to the form's metadata or consult with the form creator.
-
-Once you have confirmation, we can proceed with creating this form.
-
-For this form, we have two main sections: General Information and Program Selection.
-</thinking>
-
 # Summer School Application Form - Help Guide
 
 ## Purpose

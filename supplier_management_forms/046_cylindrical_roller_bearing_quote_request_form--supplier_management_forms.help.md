@@ -1,19 +1,3 @@
-<thinking>
-The form purpose is to allow suppliers to submit quote requests for cylindrical roller bearings with specific dimensions and sizes. This form is intended to streamline the quote request process, making it easier for suppliers to provide quotes in a standardized format. 
-
-To avoid duplication, please ensure that this form is not used for purposes other than quote requests for cylindrical roller bearings. If you need to create a new quote request for a different product or purpose, please use the appropriate form. 
-
-This form will be used by suppliers to provide quotes for the following types of cylindrical roller bearings: Cylindrical Roller Bearing 50x100x20, Cylindrical Roller Bearing 60x120x25, and Cylindrical Roller Bearing 70x140x30. 
-
-Please note that this form is not for internal use within the company, but rather for external suppliers to provide quotes. 
-
-Please make sure to complete this form accurately and thoroughly to ensure that the supplier can provide a correct quote. 
-
-Please also note that this form is for quote requests only, and any other type of request or message will not be processed. 
-
-If you are unsure about any of these requirements or have any questions, please do not hesitate to contact us. 
-</thinking>
-
 # Cylindrical Roller Bearing Quote Request Form - Help Guide
 ## Purpose
 

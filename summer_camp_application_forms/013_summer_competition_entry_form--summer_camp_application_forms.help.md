@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is intended to collect information from individuals interested in participating in the "Summer Competition Entry Form" event. The form serves as a gateway for entrants to declare their interest in the summer carnival event and provide relevant details about their preferences and consents. To prevent duplicate submissions, the form will be checked internally to ensure only unique entries are accepted. 
 
 </thinking>

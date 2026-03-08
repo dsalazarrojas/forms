@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from agricultural cooperative members about their experience and satisfaction with the cooperative's services. This will help the cooperative to understand its strengths and weaknesses and make data-driven decisions to improve its services.
-
-Form "Agricultural Cooperative Member Satisfaction Report" has two main sections: "Member Information" and "Feedback and Comments". The form is designed to gather demographic information about the member, their satisfaction with various aspects of the cooperative's services, and their feedback and suggestions for improvement.
-
-Before completing this form, make sure to answer honestly, and only answer questions that are relevant to your experience with the cooperative.</thinking>
-
 # Agricultural Cooperative Member Satisfaction Report - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from agricultural cooperative members about their experience and satisfaction with the cooperative's services. This will help the cooperative to understand its strengths and weaknesses and make data-driven decisions to improve its services.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the navigation system's performance and user experience. The goal is to gather information on the accuracy, reliability, and user-friendlyness of the system. This form will help to identify areas of improvement for the navigation system, providing a comprehensive view of flight and pilot information, system performance, and user satisfaction. 
-
-Please fill in the relevant fields to provide your feedback. Ensure all required fields are completed and provide as much detail as possible in the optional fields.
-
-</thinking>
-
 # Aviation Navigation Feedback Form - Help Guide
 
 ## Purpose

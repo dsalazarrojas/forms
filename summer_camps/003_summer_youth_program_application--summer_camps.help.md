@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from summer program applicants. The form is not meant to collect sensitive or personally identifiable data. The purpose of the form is to gather details about the applicant's category preferences and tool assignments. It is recommended to fill out this form carefully and accurately to ensure that the submitted application is complete and correct. Please note that some fields are optional, which means you can skip them if you don't want to provide information for that category. However, it's best to fill out as much information as possible to increase the chances of being selected for the program.
-</thinking>
-
 # Summer Youth Program Application - Help Guide
 ## Purpose
 This form is used to collect information from applicants to the summer youth program. It is essential to fill out this form carefully and accurately to ensure that your application is complete and correct.

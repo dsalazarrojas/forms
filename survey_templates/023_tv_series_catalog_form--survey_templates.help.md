@@ -1,8 +1,3 @@
-<thinking>
-The form is used to catalog and store information about TV series. The purpose of this form is to provide a centralized repository of TV series data, allowing users to easily access and manage their collection of TV shows. This form is meant to be a comprehensive guide for users to input all relevant information about a TV series, from its basic details such as title and description to more advanced attributes like genres, cast, and ratings. By filling out this form, users can create detailed entries for each TV series in their catalog.
-This form is part of a larger system that aims to reduce duplication of effort and provide quick access to relevant information for users.
-</thinking>
-
 # TV Series Catalog Form - Help Guide
 ## Purpose
 This form is used to catalog and store information about TV series. The purpose of this form is to provide a centralized repository of TV series data, allowing users to easily access and manage their collection of TV shows.

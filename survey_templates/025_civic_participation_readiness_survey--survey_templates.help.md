@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Civic Participation Readiness Survey - Help Guide
 
 ## Purpose

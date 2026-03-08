@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I need to carefully review the provided YAML schema to understand the form's purpose, functionality, and requirements. This form appears to be a liability waiver for sports training camps, which requires information from both the participant and the parent/guardian for emergency contact details, medical conditions, and authorization. I will make sure to clearly explain each field and provide a step-by-step guide on how to complete the form effectively. I also need to check for any potential conflicts or inconsistencies in the fields, ensuring that the form is user-friendly and easy to understand.</thinking>
-
 # Sports Training Liability Waiver - Help Guide
 ## Purpose
 This form is a liability waiver for participants in sports training camps, aiming to gather essential information for emergency contact, medical conditions, and authorization. It's crucial to complete this form accurately and honestly to ensure a safe and enjoyable experience.

@@ -1,16 +1,3 @@
-<thinking>**Form Purpose and Relevance Check**
-
-This form is designed to collect information about a camper's special dietary needs to ensure their safe and healthy participation in the summer camp program. It's essential to review and complete this form carefully to provide accurate and detailed information about the camper's requirements.
-
-Please confirm that you have the following:
-
-* You are the parent or guardian of the camper.
-* You have the camper's medical information and dietary needs.
-
-If you've completed this form before or have already submitted it, please disregard this form. You're ready to start filling it out.
-
-</thinking>
-
 # Camper Special Dietary Needs Form - Help Guide
 ## Purpose
 The Camper Special Dietary Needs Form is used to gather essential information about your child's special dietary needs to ensure their safe and healthy participation in the summer camp program. This form helps us to understand their requirements, allergies, and medical conditions to provide suitable accommodations and support.

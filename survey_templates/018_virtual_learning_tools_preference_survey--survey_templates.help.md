@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # virtual_learning_tools_preference_survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback and preferences from users regarding virtual learning tools. This information will help us understand how often you use the platform, what you like and dislike about it, and what features you would like to see improved or added.

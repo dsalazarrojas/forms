@@ -1,9 +1,3 @@
-<thinking>
-This guide helps users understand the purpose of this form and how to complete it effectively.
-This form is designed to collect feedback from employees about the internal communication within the organization. It helps identify areas of improvement and gather suggestions for enhancing internal communication effectiveness.
-Before filling out this form, please ensure you haven't already provided feedback on this topic, to avoid duplication.
-</thinking>
-
 # Internal Communication Staff Opinion Survey - Help Guide
 ## Purpose
 This form collects your opinions on internal communication within the organization. Please provide your honest feedback on the effectiveness and channels of communication.

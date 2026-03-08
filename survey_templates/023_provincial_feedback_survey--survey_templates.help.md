@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about their experience with the provincial agency, specifically regarding public services, contact methods, and geographic location. This form is intended for users to provide their input on what region they serve, their level of satisfaction with public services, and how they would like to be contacted.
-To avoid duplication and ensure the form is used correctly, users should not fill out this form if they have already done so, especially if they have provided feedback on the same topic recently. 
-</thinking>
-
 # Provincial Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users about their experience with the provincial agency, specifically regarding public services, contact methods, and geographic location.

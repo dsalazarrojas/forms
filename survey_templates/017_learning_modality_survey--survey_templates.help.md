@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather feedback and insights from teachers and students about their learning modalities, such as their preferences, challenges, and experiences. 
-It appears to be a comprehensive survey to collect information on various aspects of teaching and learning, including question types and difficulty levels.
-This form does not duplicate any existing survey form and was created by analyzing public metadata of survey topics in the "Learning Modality" category.
-</thinking>
-
 # Learning Modality Survey - Help Guide
 ## Purpose
 The Learning Modality Survey is designed to gather feedback and insights from teachers and students on their learning experiences, preferences, and challenges. This survey aims to understand their perceptions and opinions on various aspects of teaching and learning.

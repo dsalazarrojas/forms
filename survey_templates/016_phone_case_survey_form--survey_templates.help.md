@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from users on phone case features, design, and functionality. The goal is to gather information on what users like and dislike about phone cases, what they would like to see improved or added, and what they would recommend to others. This form is intended for internal use and will help us understand user needs and preferences. Please fill out the form honestly, and we appreciate your input.
-</thinking>
-
 # Phone Case Survey Form - Help Guide
 ## Purpose
 This form is a collection of questions and suggestions to help us better understand your preferences and needs for phone cases.

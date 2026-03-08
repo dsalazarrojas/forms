@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help us get an overview of the summer camps' enrollment. By filling this form, you will be able to submit information about the camps you are enrolling your kids in, which will allow us to better manage summer camps' enrollment process.
-We will be needing a few more forms in the future, so if you are seeing this again, please check if you have already submitted this form.
-</thinking>
-
 # Kids Baking Camp Enrollment Form - Help Guide
 
 ## Purpose

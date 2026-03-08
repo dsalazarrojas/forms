@@ -1,11 +1,3 @@
-<thinking>
-
-To create this help guide, I will first review the form schema to understand its purpose and content. The form is titled "summer_camp_parental_release_medical_information_code_of_conduct". It appears to be a form used to collect medical and consent information from parents or guardians for a summer camp. The form has 14 fields, including sections for general information, student medical history, and consent/term agreements.
-
-The form will likely be used by parents or guardians to provide their child's medical information and acknowledge the terms and conditions of the summer camp. The fields seem to be a mix of text fields for general information, date fields for date of birth, and select_one fields for consent and medical condition-related questions.
-
-</thinking>
-
 # summer_camp_parental_release_medical_information_code_of_conduct - Help Guide
 ## Purpose
 This form is for parents or guardians to provide medical information and acknowledge the terms and conditions of the summer camp for their child.

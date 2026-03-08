@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect survey responses about music influence on youth. It is intended to gather information about the general information, music habits, music influence, listening frequency, music sources, music preferences, liked and disliked music, and survey complete responses. This form is likely to be used by researchers or professionals in the music industry who need to collect data about music's impact on young people.
-
-Please note that this form has multiple pages with identical field labels, which might seem redundant. However, each page is designed to gather information from a different perspective or at a different stage in the data collection process.
-
-The form is divided into several sections: General Information, Music Habits, Music Influence, Listening Frequency, Music Sources, Music Preferences, Liked/Disliked Music, and Survey Complete. Each section is designed to gather specific information about the survey participant.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Music Influence On Youth Survey - Help Guide
 ## Purpose
 This form is designed to collect survey responses about music influence on youth.

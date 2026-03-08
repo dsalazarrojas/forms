@@ -1,7 +1,3 @@
-<thinking>
-A help guide for a "Summer Camp Registration and Refund Policy Form". The form is designed to capture information from customers registering for a summer camp program and any potential refund requests. It is meant to be completed by the customer or their representative, and its purpose is to ensure accurate registration and refund handling.
-</thinking>
-
 # Summer Camp Registration And Refund Policy Form - Help Guide
 ## Purpose
 This form is for customers to register for summer camp programs and to request refunds in case of cancellation or other reasons. Please fill it out completely and accurately for a smooth and efficient registration and refund process.

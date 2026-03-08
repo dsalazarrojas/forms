@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pharmaceutical Lab Coats Requisition Form - Help Guide
 ## Purpose
 The Pharmaceutical Lab Coats Requisition Form is used to request lab coats for your work area. This form is essential for ensuring that you have the necessary lab coats for your work.

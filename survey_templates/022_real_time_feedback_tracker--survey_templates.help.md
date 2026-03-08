@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather real-time feedback from customers about their interactions with our service. To ensure that we're capturing accurate and relevant information, it's essential to understand that the form is designed to be completed by customers immediately after their visit or interaction. Please note that the form is divided into sections, and each question is designed to capture specific aspects of the customer's experience.
-</thinking>
-
 # Real Time Feedback Tracker - Help Guide
 ## Purpose
 This form is designed to collect real-time feedback from customers about their interactions with our service. It helps us understand the customer's experience, gather suggestions, and identify areas for improvement.

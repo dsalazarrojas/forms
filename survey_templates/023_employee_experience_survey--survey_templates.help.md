@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess an employee's experience and satisfaction with their workplace. It is a comprehensive survey that covers various aspects of an employee's job, including their perception of the company culture, communication, management, and benefits. The survey is divided into different sections, each focusing on a specific area, such as company survey questions, work environment, manager survey questions, benefits, job satisfaction, employee satisfaction, retention and turnover, and comments and suggestions.
-Before filling out this form, please make sure that you have not filled it out before, as it is designed to collect unique and honest feedback from each employee. If you have any concerns or questions, please feel free to reach out to us at form@gic.mx.
-</thinking>
-
 # Employee Experience Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather honest feedback from employees about their experience and satisfaction with their workplace. It is a tool for managers and HR teams to understand employee needs and improve work environments and policies.

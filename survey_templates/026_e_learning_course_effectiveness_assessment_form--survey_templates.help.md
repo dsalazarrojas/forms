@@ -1,5 +1,3 @@
-<thinking>...thinking about the form's purpose and required fields...</thinking>
-
 # E Learning Course Effectiveness Assessment Form - Help Guide
 
 ## Purpose

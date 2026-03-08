@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from clients about their experience with mobility coaching sessions. The form is divided into several sections that ask questions about the quality of the sessions, client satisfaction, current sentiment towards mobility coaching, and how the coaching sessions can be improved. The form is not intended for mandatory completion, and users are encouraged to provide feedback on their experience. The goal is to understand the client's perspective and gather suggestions for improvement. This form is likely to be used to evaluate the effectiveness of the mobility coaching program and inform future sessions.
-
-This form is not a part of a critical process that requires strict attention to detail, so users should be able to complete it with ease and without feeling rushed. The form is designed to be user-friendly, and each field is labeled clearly and concisely. However, if users have any questions or concerns, they are welcome to contact the mobility coaching team for assistance.
-</thinking>
-
 # Mobility Coaching Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients about their experience with mobility coaching sessions. It is a tool to help us understand your perspective and gather suggestions for improvement.

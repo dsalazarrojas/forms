@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather user feedback and contact information from users who have interacted with the system. 
-It is intended for users who wish to report bugs, provide suggestions, or simply want to get in touch with the support team. 
-The form is not meant for users who are looking for general information about the system or its features, as there is a separate section of the website that provides this information. 
-To ensure that the feedback and contact information is valid and not duplicated, users will be asked to provide a valid email address. 
-</thinking>
-
 # tech_user_feedback_contact_form - Help Guide
 ## Purpose
 The tech_user_feedback_contact_form is a contact form designed to gather user feedback, bug reports, and suggestions for the system. This form is intended for users who need to report an issue or have a comment about their experience.

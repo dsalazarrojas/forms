@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect subscription preferences from customers, including their personal and contact information, subscription plans, delivery preferences, and payment methods. The form is composed of 20 fields, each with a specific label, type, and set of options. The form is divided into sections based on these categories. It's essential to complete this form accurately and thoroughly to ensure that your subscription preferences are met.
-To complete this form, please follow the instructions below. If you have any doubts or questions, please contact our support team.
-</thinking>
-
 # Bread Subscription Preferences - Help Guide
 ## Purpose
 This form is used to collect information for your bread subscription preferences. Please fill out this form to ensure that we deliver your preferred bread on time and in the right quantity.

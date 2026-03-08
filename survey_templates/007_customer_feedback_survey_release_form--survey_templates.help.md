@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect customer feedback and survey data from customers. The form will be used to gather information about customer experiences and opinions, which will help the company understand their customers' needs and expectations. To ensure that the form is filled out correctly, please double-check that you have not already submitted a survey form with the same customer name and email address. This will prevent duplication of data and ensure that your feedback is not lost.
-
-</thinking>
-
 # Customer Feedback Survey Release Form - Help Guide
 ## Purpose
 The Customer Feedback Survey Release Form is a tool used to collect customer feedback and survey data from customers. This information will help the company to better understand customer experiences and opinions, which will enable us to improve our services.

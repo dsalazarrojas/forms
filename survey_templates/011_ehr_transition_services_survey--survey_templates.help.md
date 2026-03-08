@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used to collect feedback and experiences from end-users regarding EHR (Electronic Health Records) implementations. This feedback is crucial for identifying areas of improvement and enhancing future EHR implementation processes. The form is likely part of a larger process to refine and optimize the EHR system based on user experiences. Before completing this form, ensure that you have not already provided feedback on the same topic. This form is designed to gather specific and relevant information about your EHR implementation experiences, so please answer the questions accordingly.
-
-</thinking>
-
 # ehr_transition_services_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect your feedback on your EHR implementation experiences, including your experiences with training, transition challenges, and suggestions for future improvements. Your input will help us refine and optimize the EHR system for better user experiences.

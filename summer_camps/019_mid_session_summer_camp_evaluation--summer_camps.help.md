@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the "mid_session_summer_camp_evaluation" form, which is used to collect feedback from summer camp attendees after the mid-session evaluation. The purpose of this form is to gather input from attendees to improve the camp experience. This form should only be filled out by summer camp attendees, and it is not necessary to fill out the form if you are not an attendee.
-
-This form consists of several fields, each with its own purpose. Please read through each field carefully to ensure you fill out the form accurately. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # mid_session_summer_camp_evaluation - Help Guide
 ## Purpose
 The mid_session_summer_camp_evaluation form is used to collect feedback from summer camp attendees after the mid-session evaluation. This feedback will help us to improve the camp experience.

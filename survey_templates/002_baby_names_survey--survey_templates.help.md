@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect user input on baby name suggestions. This form will be used to gather information on the preferences and opinions of users on various names that fit a specific criteria. The form will be used for internal research and development to improve our naming processes. To ensure the collected data is relevant and not duplicated, we will filter out responses that are not new and unique. We will also use this form to gather diverse opinions and ideas from users with different backgrounds and demographics. This form is intended for users who want to contribute their thoughts and suggestions on baby names.
-</thinking>
-
 # Baby Names Survey - Help Guide
 ## Purpose
 This form is designed to collect your opinions and suggestions on baby names. We value your input and appreciate your participation in this research.

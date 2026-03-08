@@ -1,11 +1,3 @@
-<thinking>
-This is a critical task to ensure that the form purpose and usage are properly understood by end-users.
-We need to verify that the form is being used as intended and not duplicated for other purposes. 
-This form is meant to collect feedback from facilitators on the quality of the training sessions they lead. 
-The facilitator rating and comments fields should be completed by those who have attended the training sessions. 
-This form is meant to be used to improve the quality of training sessions, not for other purposes.
-</thinking>
-
 # Facilitator Feedback Survey - Help Guide
 ## Purpose
 The Facilitator Feedback Survey is a tool used to collect feedback from facilitators on the quality of the training sessions they lead. The goal of this survey is to gather information that can be used to improve the training sessions and better support facilitators in their role.

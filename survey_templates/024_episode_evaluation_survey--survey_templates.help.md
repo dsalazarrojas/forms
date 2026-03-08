@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "episode_evaluation_survey" form. To start, let's break down the form's purpose and required information for the user.
-
-The form is likely used for evaluating episodes, such as TV shows or movies, to gather feedback from users on their experience. The form is likely used for quality control and improvement purposes. It's likely that the form is not meant to be filled out by the same user multiple times for the same episode, as there is no indication of unique episode IDs for each user.
-
-To determine if a user can fill out the form, we can check if an episode_id is provided, and if so, check if the user has already filled out an episode_id for that episode. If not, then allow the user to fill out the form.
-
-</thinking>
-
 # episode_evaluation_survey - Help Guide
 ## Purpose
 The episode_evaluation_survey form is used to evaluate episodes, such as TV shows or movies, to gather feedback from users on their experience. This form is used for quality control and improvement purposes.

@@ -1,8 +1,3 @@
-<thinking>
-This form, "Athlete Feedback Form Template," is designed for athletes to provide feedback on their experiences with our programs. This form is intended for use by athletes who have been or are currently participating in our programs. Please note that filling out this form is optional but greatly appreciated, as it helps us understand the effectiveness of our programs and make informed improvements. 
-
-</thinking>
-
 # Athlete Feedback Form Template - Help Guide
 ## Purpose
 This form collects feedback from athletes on their experiences with our programs. It is essential to provide accurate and honest feedback to help us improve the quality of our services. Please fill out this form carefully and thoroughly.

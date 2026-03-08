@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the Bank Survey form, a comprehensive questionnaire designed to gather feedback from customers on their experience with our banking services. This form is used to collect information on various aspects of our services, including customer type, primary banking channel used, overall satisfaction, service timeliness, product satisfaction, likelihood to recommend, suggestions for improvement, and permission to contact.
-To complete this form, follow these steps:
-</thinking>
-
 # Bank Survey - Help Guide
 
 ## Purpose

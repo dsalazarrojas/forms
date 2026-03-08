@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from event vendors regarding an event they have participated in. This feedback will help the event organizers to understand the experience and satisfaction level of the vendors during the event. Before proceeding, it's essential to ensure that you have not already provided feedback for the same event and vendor. If you are unsure, please check your previous submissions or contact your event management team for confirmation. If a vendor is not listed, you can add a new vendor by filling in the details below.
-</thinking>
-
 # event_vendor_feedback_questionnaire - Help Guide
 ## Purpose
 This guide is intended for event vendors to provide feedback about their experience with events they have participated in. The feedback will help the event organizers to improve their services and create a better experience for future events.

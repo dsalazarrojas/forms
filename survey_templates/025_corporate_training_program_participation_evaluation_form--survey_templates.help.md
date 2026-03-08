@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the effectiveness and satisfaction of the corporate training program. It is used to gather feedback from participants on various aspects of the program, including their participation, overall rating, satisfaction level, and areas for improvement. This form helps to identify areas where the program can be enhanced to better meet the needs of the participants and organization.
-
-Before starting, please note that the form is not a mandatory requirement and is meant to be filled out on a voluntary basis. If you have already filled out a similar form for the same training program, your responses may not need to be duplicated.
-
-To ensure consistency in the responses, please follow the instructions below:
-
-1. Answer each question truthfully and to the best of your ability.
-2. Use the options provided in the drop-down menus to select the most suitable response.
-3. Do not leave any fields blank unless you have no answer to provide.
-4. If you have any additional comments or feedback, please use the "Comments" field to provide them.
-</thinking>
-
 # Corporate Training Program Participation Evaluation Form - Help Guide
 ## Purpose
 

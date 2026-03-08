@@ -1,6 +1,3 @@
-<thinking>
-This form is used to submit a request for charity relief supplies. The form will be reviewed by staff to ensure the supplies requested are necessary and meet the criteria for urgent or standard requests. Please note that duplicate or non-emergency requests may be denied. The form is designed to help us understand the scope of the request, including the location and quantity of supplies needed, to ensure accurate and timely delivery.</thinking>
-
 # Charity Relief Supply Requisition Form - Help Guide
 ## Purpose
 

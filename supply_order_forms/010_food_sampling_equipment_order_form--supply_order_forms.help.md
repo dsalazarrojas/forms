@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This is the internal reasoning block that explains the form purpose and checks for relevance and non-duplication.
 
 The `food_sampling_equipment_order_form` is a crucial document that helps users order food sampling equipment and tools. Its primary purpose is to gather information about the order, including equipment and tool requirements, sample size and weight, sampling date and time, sample type, additional information, and other relevant details. This form ensures that users provide accurate and consistent data, which is essential for efficient processing and delivery.

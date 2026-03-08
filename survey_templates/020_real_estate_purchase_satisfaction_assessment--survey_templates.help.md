@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_estate_purchase_satisfaction_assessment - Help Guide
 ## Purpose
 This form is designed to assess your satisfaction with the real estate purchase experience, providing an opportunity for you to share your feedback on the service provided by the real estate agent. Your input will help us improve our service and better serve future clients.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for fastener orders from customers. It is intended to be used by internal stakeholders to gather all necessary details for processing and shipping the orders. The form should only be used for orders that have not already been processed or shipped. 
-
-Before proceeding, ensure that you are not duplicating an existing order. Please check with your team or the customer to confirm the order status before initiating the process.
-
-The form collects information on the customer's name, order type, order date and time, order quantity, order description, customer PO, order priority, delivery date and time, delivery location, order status, shipping cost, total cost, customer contact, order notes, customer email, customer phone, customer address, delivery note, fastener type, fastener size, fastener material, and fastener description.
-
-</thinking>
-
 # Factory Equipment Fastener Order Form - Help Guide
 ## Purpose
 This form is used to collect information for fastener orders from customers.

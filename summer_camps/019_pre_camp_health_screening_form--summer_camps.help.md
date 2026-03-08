@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from individuals attending a summer camp. This form is designed to gather general information, contact tracing data, medical information, and other relevant details to ensure the health and safety of all camp attendees. The form is meant to be completed by each individual before or upon arrival at the camp.
 
 To prevent duplication and ensure that each form submission is valid, please fill out this form carefully and honestly. If you are unsure about any field, please contact the camp staff for guidance.

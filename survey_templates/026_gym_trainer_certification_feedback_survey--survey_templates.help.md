@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from gym trainers regarding their certification, professionalism, and overall experience. It will help identify areas of improvement and measure the effectiveness of the gym's certification process. 
-
-This form does not collect information for any other purpose than to collect feedback, so it is not necessary to take the same survey multiple times. 
-
-</thinking>
-
 # Gym Trainer Certification Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from gym trainers on their certification, professionalism, and overall experience.

@@ -1,6 +1,3 @@
-<thinking>
-This form was created by AI using public survey topic metadata to create an original adaptation. It is not affiliated with, endorsed by, or derived from any form platform. It is released under CC BY 4.0 and can be used, modified, and even sold, just give credit. Contact: form@gic.mx</thinking>
-
 # Concert Goer Future Event Preferences Survey - Help Guide
 ## Purpose
 This form helps us understand your preferences for future concert events. We want to know what type of events, venues, and experiences you would enjoy, so we can plan better for you.

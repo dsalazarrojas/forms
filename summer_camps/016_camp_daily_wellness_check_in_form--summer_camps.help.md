@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to record the daily well-being status of summer campers, ensuring that each camper's health and safety are monitored and addressed appropriately. This form is used to capture essential information that helps staff track any symptoms, medications, and medical concerns that may arise during the camp day. This form is not intended for duplicate reporting, so ensure that you only submit one form per camper per day. If you have already submitted a form for this camper, please do not resubmit the information.
-</thinking>
-
 # Camp Daily Wellness Check In Form - Help Guide
 ## Purpose
 The Camp Daily Wellness Check In Form is used to track the daily well-being of summer campers. It ensures that each camper's health and safety are monitored, and any potential issues are addressed promptly.

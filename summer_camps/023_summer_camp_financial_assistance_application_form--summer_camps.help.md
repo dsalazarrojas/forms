@@ -1,5 +1,3 @@
-<thinking>...this form is intended to collect information from applicants for financial assistance for summer camps. The form is designed to gather details about the applicant's household income, family members, camper information, and other relevant details to evaluate their eligibility for financial assistance. This form is to be completed by the applicant or their parent/guardian, and all fields are self-explanatory and clear in their purpose. Please ensure you only submit the form once and not duplicate efforts. If you need to apply for multiple summer camps, fill out a new form for each camp...</thinking>
-
 # Summer Camp Financial Assistance Application Form - Help Guide
 ## Purpose
 This form is to collect information from applicants for financial assistance for summer camps.

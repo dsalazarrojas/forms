@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from users to request facilities at a summer camp for a specific event. The form is not intended to be completed by camp staff, but rather by event organizers or event coordinators who need to book facilities for their event. The form should only be submitted once for each event, and not multiple times for the same event. Please ensure that the information provided is accurate and complete before submitting the form.
-
-</thinking>
-
 # Summer Camp Facilities Request Form - Help Guide
 ## Purpose
 This form is used to request facilities at a summer camp for a specific event. Please fill out this form with the required information to help us process your request efficiently.

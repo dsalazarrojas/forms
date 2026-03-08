@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about neighborhood safety and security concerns from residents. It is intended to be a comprehensive assessment tool for community safety analysis, and is used to gather data on various aspects of neighborhood safety, including safety ratings, crime frequency, crime types, and community measures. This form is typically filled out by residents to provide their perspective on their neighborhood's safety and security. The data collected through this form will be used to inform decision making and policy development.
-</thinking>
-
 # Neighborhood Security Assessment Form - Help Guide
 
 ## Purpose

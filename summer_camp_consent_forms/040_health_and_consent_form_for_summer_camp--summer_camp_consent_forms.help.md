@@ -1,22 +1,3 @@
-<thinking>
-This guide aims to ensure end-users understand the purpose and completion process of the "Health And Consent Form For Summer Camp" form. The form is meant to gather essential camper and parent information, obtain consent for medical procedures, and establish authority for medical treatment in the event of an emergency. This guide will cover the form's purpose, the step-by-step process to complete it, and a detailed explanation of each field.
-
-To confirm, the form has 10 fields:
-- 1 camper_info (Camper Information)
-- 2 parent_info (Parent Information)
-- 3 medical_conditions (Medical Conditions)
-- 4 medical_procedures (Medical Procedures)
-- 5 treatment_authority (Treatment Authority)
-- 6 treatment_permission (Treatment Permission)
-- 7 emergency_contact (Emergency Contact)
-- 8 medical_insurance (Medical Insurance)
-- 9 camper_signature (Camper Signature)
-- 10 parent_signature (Parent Signature)
-- 11 staff_signature (Staff Signature)
-
-The form's primary purpose is to ensure the campers' health and safety. It requires camper and parent information for emergency contact and medical procedures, as well as consent for treatment and authority to make decisions in case of emergencies.
-</thinking>
-
 # Health And Consent Form For Summer Camp - Help Guide
 ## Purpose
 

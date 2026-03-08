@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to gather reviews and feedback on marketing assets, such as landing pages, email campaigns, social media posts, and banner ads, to assess their effectiveness in promoting calls-to-action (CTA) and guide improvement efforts. This form aims to standardize the review process, ensuring consistency in the evaluation of marketing assets. To avoid duplication, please only submit reviews for unique marketing assets. The form's fields are carefully selected to capture specific aspects of a CTA's performance, including its placement, visual clarity, relevance, perceived value, and likelihood of users clicking on it. By filling out this form, reviewers can provide valuable insights to help improve marketing assets and enhance the overall user experience.
-</thinking>
-
 # Call To Action Review Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on marketing assets' call-to-action (CTA) performance.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for the "Contest Scoring Survey". It's intended to gather data from judges on their evaluations of contest submissions, specifically on the scoring criteria such as originality, technical execution, presentation, and more. This data will help identify trends and patterns in the judges' feedback and provide insight into the contest's performance. Please ensure that each judge fills out the form correctly, as any inconsistencies or inaccuracies in the responses could impact the reliability of the data.
-
-</thinking>
-
 # Contest Scoring Survey - Help Guide
 ## Purpose
 The Contest Scoring Survey is a critical tool for contest organizers to understand the quality of contest submissions and make informed decisions about award distribution. The data collected from this survey will help improve future contests and provide valuable insights into the strengths and weaknesses of submissions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We are developing a form to evaluate contact data lookup tools, which are used to gather and verify contact information from various sources. This form will help us gather feedback on the performance and usability of these tools. We want to understand how accurately and quickly these tools can provide contact information, as well as how easy they are to use and integrate with existing systems. This form will also help us understand if the tools are worth their cost and provide a final recommendation on whether or not to use them. We will use this form to identify tools that are effective and worth considering for our use case.
 
 </thinking>

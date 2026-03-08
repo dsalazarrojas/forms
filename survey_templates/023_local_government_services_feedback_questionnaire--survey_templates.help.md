@@ -1,7 +1,3 @@
-<thinking>
-We are creating a survey form to gather feedback on local government services. This form is designed to capture users' experiences and perceptions of the services provided. The goal is to identify areas of improvement and provide insights for service optimization. Please ensure that the form is filled out for a specific local government service usage event, and do not duplicate responses.
-</thinking>
-
 # local-gov-services-feedback-questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback on local government services. It helps us understand your satisfaction level, the service you used, and any issues you may have encountered.

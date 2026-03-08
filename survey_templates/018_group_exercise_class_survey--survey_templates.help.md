@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data from participants about their experiences in a group exercise class. It should be used to gather information about specific details about classes, instructors, and participants. To fill this out, ensure you are in a context where you need to collect information about group exercise classes.
-</thinking>
-
 # Group Exercise Class Survey - Help Guide
 ## Purpose
 This form is used to collect information about participant experiences and feedback in group exercise classes.

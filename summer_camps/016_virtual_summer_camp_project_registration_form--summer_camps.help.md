@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for registering a project for a virtual summer camp. To ensure that the registration is complete and accurate, please make sure that all the required fields are filled out correctly. This form is designed to collect information that will be used for the camp's administration and operations. Please note that the "State" field is a multiple-select field, meaning you can select multiple states.
-
-</thinking>
-
 # Virtual Summer Camp Project Registration Form - Help Guide
 ## Purpose
 The Virtual Summer Camp Project Registration Form is used to register a project for a virtual summer camp. This form helps the camp's administration collect necessary information from participants, including their personal details, contact information, and state of residence.

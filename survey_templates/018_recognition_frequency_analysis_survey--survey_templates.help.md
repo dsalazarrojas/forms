@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect data on employee recognition frequency and its relation to employee performance. The form is intended to help employers and HR managers understand how often employees receive recognition, what barriers might prevent them from doing so, and how to improve it. This form is part of a larger effort to analyze and optimize employee recognition processes. It is not intended to be a comprehensive evaluation tool, but rather a starting point for further discussion and analysis.
-
-It is essential to complete this form carefully and honestly to ensure the collected data is accurate and meaningful. Please note that all answers are confidential and will not be shared publicly. This form has been designed to collect data on individual responses, not to track individual performance or individual recognition.
-
-Before starting the survey, consider the following:
-
-*   You can select "Other" in some fields if your answer is not among the provided options.
-*   If you are unsure about an answer, choose "Don't know what to say" and provide further comments if possible.
-*   Please be honest and thorough in your responses.
-
-Please ensure that you have not filled out this form in the past. If you have, your answers will not be included in the analysis. This will help us to avoid duplication and ensure the accuracy of the results.
-
-</thinking>
-
 # Recognition Frequency Analysis Survey - Help Guide
 ## Purpose
 

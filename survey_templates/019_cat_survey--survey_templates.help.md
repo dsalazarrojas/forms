@@ -1,12 +1,3 @@
-<thinking>
-To be honest, I don't have the actual data about the cats in question, so I'm going to assume I'm creating a help guide for a hypothetical user of this form. I'm not sure what kind of data this form will collect, but based on the labels and hints, I'll do my best to create a comprehensive help guide.
-
-This form appears to be a cat survey, collecting information about a cat's life habits, personality, and health habits. I'm assuming it's designed to help owners or caregivers understand their cat's behavior, needs, and preferences.
-
-To complete this form, a user will need to fill out the following fields:
-
-</thinking>
-
 # Cat Survey - Help Guide
 ## Purpose
 The Cat Survey is a form designed to collect information about a cat's life habits, personality, and health habits. This form will help cat owners or caregivers gain a better understanding of their feline friend's behavior, needs, and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to material orders, including customer details, material description, quantity, unit cost, and order details. This form is designed to be filled out by customers or contractors who need to place a material order.
-</thinking>
-
 # Material Order Form - Help Guide
 ## Purpose
 The Material Order Form is used to collect information related to material orders. Please fill out this form to provide the necessary details for your material order.

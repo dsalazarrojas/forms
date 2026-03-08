@@ -1,10 +1,3 @@
-<thinking>
-The "Camp Evaluation Form" is designed to gather feedback from participants on their experience at the summer camp. It's meant to be filled out by participants who have attended the camp program. 
-This form helps us evaluate the overall quality of our summer camp services and identify areas of improvement. It's an optional form, meaning you can skip it if you want to provide anonymous feedback. 
-To prevent duplication, please only fill out this form if you haven't already provided feedback on this same camp program. 
-If you have any questions or concerns, please reach out to us and we'll be happy to help.
-</thinking>
-
 # Camp Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants on their experience at the summer camp program. It's an optional form, and you can skip it if you want to provide anonymous feedback.

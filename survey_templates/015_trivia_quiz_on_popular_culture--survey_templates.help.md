@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gauge users' knowledge and engagement on popular culture. The purpose of this form is to collect information about users' preferences and familiarity with various movies, music, and trends. The form will ask users about their favorite movies, music genres, and current trends. The collected data will be used to create a trivia quiz on popular culture. To avoid duplication of effort, please note that this form is not a comprehensive or official knowledge assessment, but rather a light-hearted, user-friendly exercise to gauge general knowledge.
-
-</thinking>
-
 # trivia_quiz_on_popular_culture - Help Guide
 ## Purpose
 The form "trivia_quiz_on_popular_culture" is designed to gather information about users' familiarity with popular culture, including movies, music, and trends. This will help in creating a trivia quiz that can be used for educational or entertainment purposes.

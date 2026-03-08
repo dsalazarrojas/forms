@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a citation guide for APA 7 direct quotations. The purpose of this form is to guide users through the process of collecting necessary information for citing direct quotations in APA 7 style. Before proceeding, ensure that you have the necessary information for the citation, and note that this form should not be used for multiple sources with similar characteristics. If you have already completed a citation for a similar source, please do not repeat the effort. This form is intended to be a one-time submission process. Complete the form below to create a properly formatted APA 7 direct quotation citation.
-</thinking>
-
 # APA 7 Direct Quotation Citation Guide - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to create a registration invoice for a summer camp, which is a crucial document for parents or guardians to pay for their child's attendance. The form collects information about the camper, their contact details, and the payment information.
-To avoid duplication of effort and ensure accuracy, we recommend that the form is filled out carefully and thoroughly.
-</thinking>
-
 # Camp Registration Invoice - Help Guide
 ## Purpose
 The Camp Registration Invoice is a document that summarizes the registration details and payment information for a summer camp. It is used to communicate the total amount due for the camp session, including any applicable discounts, fees, and payment methods.

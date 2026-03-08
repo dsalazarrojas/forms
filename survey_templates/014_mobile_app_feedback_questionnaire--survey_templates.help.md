@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about a mobile app. The purpose of this form is to gather information about the user's experience with the app, including their rating, feedback, and demographic information. This form is not meant for users to report bugs or technical issues, but rather to provide a subjective assessment of their experience. Please note that this form will only be used for internal analysis and improvement of the app, and responses will be kept anonymous.
-</thinking>
-
 # Mobile App Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with our mobile app. It will help us understand how you think the app performed and what we can do to improve it.

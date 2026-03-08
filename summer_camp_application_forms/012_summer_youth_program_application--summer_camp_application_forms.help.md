@@ -1,17 +1,3 @@
-<thinking>This form is designed to collect information from applicants for the summer youth program. This form will be used to assess an applicant's eligibility and suitability for the program. The form is divided into several sections: Personal Details, Essay, Contact Details, Address, Email, Phone, Birth Date, Camp Experience, Camp References, List of References, Type of Reference, and Application Status. Each section is designed to gather relevant information about the applicant.
-
-The form is not meant to be a one-size-fits-all solution, and applicants may choose to submit additional information if they deem it necessary. However, it is essential that the applicant's personal details and contact information are complete and accurate to facilitate communication with the program administrators.
-
-To ensure that the form is filled out correctly, please note that:
-
-* Personal Details section is optional.
-* Essay section is not required but is an opportunity to provide additional context.
-* Contact Details, Address, and Email are optional but recommended for communication purposes.
-* Camp Experience is optional but will be reviewed for suitability.
-* Camp References are optional but provide valuable insights into the applicant's background and experience.
-
-Please fill out the form accurately and completely, and if you have any questions or concerns, do not hesitate to reach out to us for assistance.</thinking>
-
 # summer_youth_program_application - Help Guide
 ## Purpose
 This form is used to collect information from applicants for the summer youth program.

@@ -1,12 +1,3 @@
-<thinking>
-This form is a "Subscription Tracker Worksheet" designed to collect information about recurring subscriptions. The purpose of this form is to gather data on services that require regular renewals, such as software or service subscriptions. It helps to track and document the details of these subscriptions, including their renewal timelines, spend, and involved teams. This form will be used by [team/department] to ensure consistency and accuracy in tracking subscriptions.
-
-This form will only be used to track recurring subscriptions and should not be used for other types of data.
-
-**Please note that this form has been designed for the specific purpose of subscription tracking and any data collected through this form will be used for this purpose only.**
-
-</thinking>
-
 # Subscription Tracker Worksheet - Help Guide
 
 ## Purpose

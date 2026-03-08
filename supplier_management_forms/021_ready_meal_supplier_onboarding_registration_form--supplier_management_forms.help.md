@@ -1,7 +1,3 @@
-<thinking>
-To prevent non-duplication of effort and ensure accuracy, let's review the provided form structure. This form appears to be for registering new ready meal suppliers onboarding information. It seems like a standard onboarding form used for supplier management in a business setting. We'll create a user-friendly help guide that covers the form's purpose, how to complete it, and a detailed field-by-field explanation for each field, ensuring end-users understand the form's requirements and limitations.
-</thinking>
-
 # Ready Meal Supplier Onboarding Registration Form - Help Guide
 ## Purpose
 This form is designed to register new ready meal suppliers during onboarding. Please fill in the required and relevant information for your ready meal supplier.

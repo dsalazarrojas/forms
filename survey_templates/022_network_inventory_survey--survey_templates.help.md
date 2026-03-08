@@ -1,7 +1,3 @@
-<thinking>
-The Network Inventory Survey form is intended to collect information about devices on the network. It's used to gather data about devices in the network, including inventory details such as department and location, device type and status, serial number, asset tag, last contacted date and time, priority level, upgrade status, and contact details (email and phone). This form will help administrators keep track of the network devices' condition, upgrade status, and other relevant information.
-</thinking>
-
 # Network Inventory Survey - Help Guide
 ## Purpose
 The Network Inventory Survey form collects information about devices on the network, including inventory details, status, and contact information.

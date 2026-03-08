@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'd like to clarify the purpose and design of this Construction Job Site Safety Employment Survey. The form appears to be a comprehensive tool for gathering feedback from employees on various aspects of safety and job site culture. The goal is to collect information on employees' perceptions of their supervisor's prioritization of safety, their access to Personal Protective Equipment (PPE), the quality of safety training received, and their experience with near-misses or incidents. This information can help management identify areas of improvement and develop targeted strategies to enhance job site safety.</thinking>
-
 # Construction Job Site Safety Employment Survey - Help Guide
 ## Purpose
 This form is designed to collect your feedback on your experiences with safety on your job site. Your input will help us improve safety procedures and protocols to create a safer work environment.

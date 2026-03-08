@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Introductory Questionnaire Sheet For Graphics - Help Guide
 ## Purpose
 

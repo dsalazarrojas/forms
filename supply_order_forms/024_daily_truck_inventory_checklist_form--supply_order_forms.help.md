@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly by users. The purpose of this form is to track the daily inventory of trucks, collecting relevant information about the trucks, including their serial number, model, mileage, color, type, fuel level, engine oil, transmission fluid, tire pressure, vehicle status, notes, contact email, contact phone, created date, updated date, assigned date, due date, completed date, completed by, submitted by, submitted date, and other relevant details. This form should be filled out for each truck, and users should be able to navigate through its pages to input the required information.
-The form's fields should be explained clearly to avoid any confusion.
-</thinking>
-
 # Daily Truck Inventory Checklist Form - Help Guide
 ## Purpose
 The Daily Truck Inventory Checklist Form is used to track and maintain accurate and up-to-date information about the trucks, including their serial number, model, mileage, and other key attributes.

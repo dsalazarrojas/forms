@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data from educational institution staff on their training needs, role, years of service, job title, current program, training needs, priority, and any additional comments. The purpose of this form is to gather information on the training needs of educational institution staff to identify areas where training and development are required.
-</thinking>
-
 # Educational Institution Training Needs Survey - Help Guide
 
 ## Purpose

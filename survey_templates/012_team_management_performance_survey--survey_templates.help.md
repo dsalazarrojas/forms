@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool used for assessing team management performance. It appears that the form is designed for collecting information about team dynamics, communication, feedback, leadership, and ratings. It is likely intended for team members or managers to fill out and provide valuable insights for the team or organization. It's not immediately clear if this form is for internal or external use. It might be a part of a performance evaluation process or a regular check-in to monitor team performance. It is possible that the form is for a specific team or department within an organization. Before filling out this form, please ensure you have read and understand the purpose and context of the form, and that you have the necessary permissions and access to complete it.
-</thinking>
-
 # Team Management Performance Survey - Help Guide
 ## Purpose
 This form is a tool for assessing team management performance. It collects information about team dynamics, communication, feedback, leadership, and ratings.

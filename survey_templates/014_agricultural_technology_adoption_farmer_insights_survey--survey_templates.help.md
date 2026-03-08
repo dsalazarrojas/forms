@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect insights from farmers about their current and future adoption of agricultural technology. It aims to gather information on their demographics, current technology usage, barriers to adoption, sources of information, likelihood to adopt new technology, and specific interests. This data will help stakeholders better understand the needs and challenges of farmers in adopting new technologies, inform the development of targeted support services, and improve agricultural productivity.
-
-This form is a crucial tool for gathering valuable input from farmers, enabling the development of tailored solutions to address the unique challenges and needs of each group. It will help in creating effective strategies for promoting the adoption of agricultural technologies, ensuring that farmers are able to leverage these tools to improve their productivity and efficiency.
-
-This guide is intended to provide clear instructions and explanations on how to complete this form accurately and efficiently. It is designed to support farmers in navigating the form's sections and fields, ensuring that their input is accurate and comprehensive.
-
-Please review the form carefully before starting the survey, and ensure that you answer all questions accurately and completely. If you have any difficulties or concerns, please refer to this guide for help.
-
-This form is a crucial tool for improving agricultural practices, and your input is invaluable. Thank you for taking the time to complete it.
-
-</thinking>
-
 # Agricultural Technology Adoption Farmer Insights Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather insights from farmers about their current and future adoption of agricultural technology.

@@ -1,7 +1,3 @@
-<thinking>
-A client supply order form is used to gather information about a client's supply order. This form is used for internal purposes only and is not intended for public use. To avoid duplication of effort, please only complete this form for new orders. This form is designed to be simple and easy to fill out, and it is broken down into several sections to make it easier for the client to provide the necessary information.
-</thinking>
-
 # Client Supply Order Form - Help Guide
 
 ## Purpose

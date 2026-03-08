@@ -1,7 +1,3 @@
-<thinking>
-We want to make sure this form is filled out correctly and is not a duplicate. This form is for registering children for our virtual summer camps. Please do not fill out this form for multiple children or multiple camps at once, as each one needs to be registered separately. Also, make sure to fill out all fields correctly and accurately.
-</thinking>
-
 # Virtual Summer Camp Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register children for virtual summer camps. Please fill out this form to provide necessary information for their registration.

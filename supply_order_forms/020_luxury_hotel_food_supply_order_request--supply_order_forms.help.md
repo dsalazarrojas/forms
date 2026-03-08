@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by staff at a hotel to request supplies from the purchasing team. The form is intended to be used for requesting food supplies and other essential materials. It is not meant for internal use by employees, but rather for external suppliers to fulfill orders for the hotel. This form should only be used by authorized personnel to ensure that orders are properly processed.
-</thinking>
-
 # Luxury Hotel Food Supply Order Request - Help Guide
 ## Purpose
 The Luxury Hotel Food Supply Order Request form is used by hotel staff to request food supplies and other materials from the purchasing team. This form helps to ensure that supplies are properly ordered, and that the hotel's purchasing team is aware of the requested items.

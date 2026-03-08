@@ -1,7 +1,3 @@
-<thinking>
-  This form is for requesting a registration counter supply. The form is likely used by staff or management to request supplies for the registration counter, such as paper, pens, or other office materials. To complete this form, users should ensure that they are submitting a legitimate request and not duplicating one already submitted. This form is meant for new or updated requests.
-</thinking>
-
 # Registration Counter Supply Request Form - Help Guide
 ## Purpose
 This form is used to request supplies for the registration counter. Please ensure that you only submit new or updated requests to avoid duplicating existing ones.

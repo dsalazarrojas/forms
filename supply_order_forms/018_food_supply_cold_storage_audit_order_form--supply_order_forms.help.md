@@ -1,11 +1,3 @@
-<thinking>
-This form is used for food supply chain audits to record requests for cold storage audits, which helps in maintaining accurate inventory and ensuring the safety of stored food items. 
-
-Please ensure that you are using this form for its intended purpose. This form is for cold storage audits for food supply chains. Do not use it for other purposes as it may lead to incorrect information being captured and potentially compromise the safety and quality of food items.
-
-Before starting, ensure that you have all necessary information and data required for this form. It is also recommended that you review the form's fields below for a better understanding of each field's purpose.
-
-</thinking>
 # food_supply_cold_storage_audit_order_form - Help Guide
 ## Purpose
 The purpose of this form is to record requests for food supply chain cold storage audits. It is used to gather information about the storage condition, storage status, and audit request details to maintain accurate inventory and ensure the safety of stored food items.

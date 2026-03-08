@@ -1,19 +1,3 @@
-<thinking>
-The form is designed to collect information from parents or guardians of children who are registered for the Brain Chase Escape Room Summer Camp - Staker Version. This form aims to gather essential details about the camper, their family, and their preferences for the camp experience. It includes fields for general contact information, camper's details, medical information, behavioral needs, emergency contacts, and payment details. The form is essential to ensure a smooth and safe experience for the campers, and it helps the camp organizers to get to know the campers and their families better.
-
-Before proceeding, please review the following:
-
-*   Are you a parent or guardian of a camper?
-*   Is this your first time registering a camper for the Brain Chase Escape Room Summer Camp - Staker Version?
-*   Are you registering for the first time for a specific camp session?
-*   Do you need to register a camper for more than one session?
-
-This form will only collect information for the camper you are registering.
-
-Please note that the form is divided into several pages and each page has multiple fields. Please make sure to fill out all required fields accurately and completely before proceeding.
-
-</thinking>
-
 # Brain Chase Escape Room Summer Camp - Staker Version - Help Guide
 ## Purpose
 

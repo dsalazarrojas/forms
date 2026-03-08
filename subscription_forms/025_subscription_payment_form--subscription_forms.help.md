@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to gather information from users for subscription payments. Its purpose is to collect payment method, subscription type, start date, end date, card details (if applicable), email, and phone number. This form will likely be used for online subscription services, e.g., monthly or yearly membership plans, or one-time payments. The form does not require a specific payment method, subscription type, or dates. It is designed to accommodate multiple payment methods, subscription types, and flexible dates. It's crucial to ensure that the form is filled out correctly to avoid any issues with payment processing or subscription activation.
-
-Before proceeding, ensure that you are filling out the form for the correct purpose and that your information is accurate. Double-check that you have filled out all required fields and that your payment method and subscription type align with your intended use case.
-</thinking>
-
 # Subscription Payment Form - Help Guide
 ## Purpose
 This form is designed to collect information for subscription payments, such as payment method, subscription type, and other relevant details. It is meant to be used for various subscription services, including online memberships, one-time payments, and recurring payments.

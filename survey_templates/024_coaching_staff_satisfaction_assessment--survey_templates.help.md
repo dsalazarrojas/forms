@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from coaching staff members on their satisfaction with their role, responsibilities, and overall experience within the organization. It is intended to help identify areas of strength and weakness, and provide actionable insights for improvement. This form is not meant to be a comprehensive evaluation tool, but rather a tool to gather qualitative feedback from staff members. It is recommended to review the form and ensure that the questions and options are relevant and clear before distributing it to staff members. Additionally, it is suggested to consider using a mix of quantitative and qualitative methods to complement this form and gather more comprehensive feedback.
-</thinking>
-
 # Coaching Staff Satisfaction Assessment - Help Guide
 ## Purpose
 This form is designed to collect feedback from coaching staff members on their role satisfaction, responsibilities, and overall experience within the organization.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about football cleat preferences. It is likely used to collect feedback or preferences from coaches, players, or organizations within a football program or team. The form might be used to understand cleat preferences, satisfaction levels, and purchasing priorities among users. It might also be used to gather data on whether users have purchased specific cleats or completed a survey.
-</thinking>
-
 # Football Cleat Preference Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your preferences for football cleats. Your responses will help us understand your needs and preferences for cleats.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Employment Information Form - Help Guide
 ## Purpose
 This form is designed to collect medical employment information from employees, providing essential data to facilitate smooth medical care and emergency planning. 

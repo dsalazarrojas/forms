@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # summer_camp_evaluation_form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from participants about their experiences at the summer camp. This feedback will help us improve and provide better services in the future.

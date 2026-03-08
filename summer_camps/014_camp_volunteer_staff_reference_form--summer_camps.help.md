@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to gather information from reference providers about their relationship and opinion of the volunteer applicant. It's a way for the camp to verify the applicant's character, work style, and other relevant skills. We use this form to ensure that we are making informed decisions about who we bring to our camps. Please fill out this form carefully and honestly, and make sure to answer all required fields.
-
-Note: If you've filled out this form for an applicant before, you may not need to fill it out again if you're providing an update or additional reference. In that case, just provide the new information and we'll take care of the rest.
-</thinking>
-
 # Camp Volunteer Staff Reference Form - Help Guide
 ## Purpose
 This form is used by reference providers to provide their opinion on the character and work style of volunteer applicants. Your input will help us make informed decisions about who we bring to our camps.

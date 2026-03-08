@@ -1,8 +1,3 @@
-<thinking>
-This form is a survey template for product research, aiming to collect information about products in a concise and structured way. Each field is designed to gather specific details, making it easier for researchers to compare and analyze product data. Before starting the form, ensure that you have all the required information and relevant data for accurate completion. This guide will walk you through each field and its purpose, ensuring you understand what's needed for a comprehensive product research.
-
-</thinking>
-
 # Product Research Checklist - Help Guide
 ## Purpose
 This form is a tool for collecting and comparing product data. It helps to gather essential information about products, such as name, description, pricing, ratings, and contact details.

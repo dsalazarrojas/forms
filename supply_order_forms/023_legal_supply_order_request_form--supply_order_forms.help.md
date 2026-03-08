@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for legal supply orders, likely for official use within a company or organization. Its purpose is to gather necessary details to process and fulfill such orders efficiently. It's likely that this form will be used by employees or staff members who need to request supplies, and the information collected will help the supply chain team or management to process and deliver the required items. This form will likely be used by people familiar with the company's supply ordering process, but may require some guidance to ensure that all necessary information is provided.
-</thinking>
-
 # Legal Supply Order Request Form - Help Guide
 ## Purpose
 The Legal Supply Order Request Form is designed to collect information for official legal supply orders. This form helps staff members who need to request supplies to ensure that all necessary details are provided for processing and fulfillment.

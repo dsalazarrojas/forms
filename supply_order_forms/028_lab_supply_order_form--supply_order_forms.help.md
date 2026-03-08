@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for lab supply orders from customers. The purpose of this form is to streamline the ordering process, making it easier for customers to place orders and for lab staff to manage and track those orders. This form should only be used for ordering lab supplies, and not for other purposes. Please ensure that the customer's order number from the invoice is entered in the correct field to avoid any discrepancies.
-</thinking>
-
 # Lab Supply Order Form - Help Guide
 ## Purpose
 The Lab Supply Order Form is used to collect information from customers for lab supply orders.

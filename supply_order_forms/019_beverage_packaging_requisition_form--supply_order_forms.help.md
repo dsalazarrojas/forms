@@ -1,13 +1,3 @@
-<thinking>
-This form is used to request beverage packaging supplies from a designated team. The purpose of this form is to ensure that the request is properly documented and reviewed by the relevant parties before being fulfilled. This form should not be used for other types of supply requests. 
-
-This form is designed to be filled out by those requesting the packaging, and it will guide them through the necessary fields to provide the required information. The form will be reviewed and processed internally, and the requester will be contacted if additional information is needed. 
-
-The form fields are divided into several sections to make it easier to understand and fill out. Please make sure to fill out each section thoroughly and accurately. 
-
-The following is a detailed explanation of each field in the form:
-</thinking>
-
 # Beverage Packaging Requisition Form - Help Guide
 ## Purpose
 The purpose of this form is to request beverage packaging supplies from a designated team. 

@@ -1,7 +1,3 @@
-<thinking>
-This is a guide for the "Wall Consumption Survey" form. The form is designed to collect information about wall usage and consumption habits from respondents. The purpose of this form is to gather insights on wall usage patterns, types of walls used, and other related factors. It's essential to complete this form accurately to ensure the collected data is useful for analysis. 
-</thinking>
-
 # Wall Consumption Survey - Help Guide
 
 ## Purpose

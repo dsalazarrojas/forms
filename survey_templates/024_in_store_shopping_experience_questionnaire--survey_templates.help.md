@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## in_store_shopping_experience_questionnaire - Help Guide
 
 ## Purpose

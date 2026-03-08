@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information for the manufacturing supply chain process. The purpose of this form is to gather data that will be used by the supply chain team to track and manage the flow of materials and products throughout the manufacturing process. This form should not be used for other purposes and is intended for internal use only. Please ensure you complete this form accurately and with the required fields marked.
-</thinking>
-
 # Manufacturing Supply Chain Form - Help Guide
 ## Purpose
 This form is designed to capture information for the manufacturing supply chain process, helping the supply chain team to track and manage the flow of materials and products throughout the manufacturing process. It is intended for internal use only and should not be used for other purposes.

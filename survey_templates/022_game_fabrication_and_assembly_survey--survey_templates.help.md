@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from game fabrication and assembly stakeholders on their satisfaction and suggestions for improvement in the manufacturing process. This information will help identify areas of excellence and areas that require attention to enhance the overall process. It's essential to ensure that this form is filled out by stakeholders who have a direct involvement in the game fabrication and assembly process.
-
-Before starting the survey, check that you have not already completed it. If you have any previous responses, you might find that your current answers might be similar or identical, and it's a time-waster to repeat them. If you're not sure or have questions about the form, feel free to ask your supervisor or a colleague for guidance. If you're ready to provide your valuable insights, let's get started!
-
-</thinking>
-
 # Game Fabrication And Assembly Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from stakeholders about the game fabrication and assembly process to help us improve the overall quality and performance.

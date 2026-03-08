@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tennis Summer Camp Application Form - Help Guide
 ## Purpose
 The Tennis Summer Camp Application Form is designed to collect information from applicants to ensure a smooth and enjoyable experience for all participants. This form gathers personal and contact details, medical information, and emergency contact data to help the camp staff prepare and manage the camp activities.

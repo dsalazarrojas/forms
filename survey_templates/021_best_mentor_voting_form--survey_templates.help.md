@@ -1,5 +1,3 @@
-<thinking>What this form is for: The purpose of this form is to collect feedback and ratings on the quality of mentoring provided by an individual. This form allows voters to rate the mentor's guidance and support, accessibility and availability, knowledge sharing, encouragement of personal and professional growth, and professionalism and ethical conduct. The feedback will help the organization assess and improve its mentorship program.</thinking>
-
 # Best Mentor Voting Form - Help Guide
 
 ## Purpose

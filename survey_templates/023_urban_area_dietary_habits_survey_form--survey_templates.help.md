@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on the dietary habits of urban areas. It is intended to be used to understand the preferences and behaviors of urban dwellers related to food and their lifestyle. The form is structured into sections asking about daily food intake, transportation methods, free time use, access to amenities, income level, and other aspects of daily life. Before proceeding, please ensure that you are in the urban area you are reporting for and that your answers reflect your actual habits. Also, be aware that this form is for research purposes and your responses will be kept confidential.
-</thinking>
-
 # Urban Area Dietary Habits Survey Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for students to register for a summer tutoring camp, providing basic information about the student and their parents. The form is not intended for duplicate registrations. If a user has already registered, they should not attempt to complete this form again.</thinking>
-
 # Summer Tutoring Camp Registration Form - Help Guide
 ## Purpose
 The purpose of this form is for students to register for a summer tutoring camp, providing essential information about themselves and their parents. This form should only be completed once per student.

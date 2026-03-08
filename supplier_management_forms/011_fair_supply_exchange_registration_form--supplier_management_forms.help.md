@@ -1,10 +1,3 @@
-<thinking>
-This is a guide for creating a user-facing help document in Markdown for a "Fair Supply Exchange Registration Form", a form used to register participants and their supply exchange needs and offers. The form is designed to gather information about participants, their roles, and the supplies they have or need. It is essential to use this form to avoid duplication of efforts and ensure accurate data collection.
-
-Before proceeding, it is crucial to review the form's purpose and the fields included in it. This guide will walk you through each step of the form completion process, ensuring that users understand what each field represents and how to fill it out correctly.
-
-</thinking>
-
 # Fair Supply Exchange Registration Form - Help Guide
 ## Purpose
 The Fair Supply Exchange Registration Form is designed to register participants and their supply exchange needs and offers. It helps in collecting accurate and efficient data about participants, their roles, and the supplies they need or have.

@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from volunteers about their COVID-19 vaccination status, medical history, and understanding of the risks associated with volunteering at the summer camp. This form is designed to ensure that all volunteers are aware of the potential risks of COVID-19 transmission and are taking necessary precautions to protect themselves and others. 
-
-Before completing this form, please review it carefully to ensure that you understand the questions and provide accurate information. If you have any questions or concerns, please contact the camp administration. 
-
-This form may be used to assess the risk of COVID-19 transmission among volunteers and take necessary measures to mitigate it. 
-
-Please be aware that providing false or incomplete information may lead to denial of access to the camp or other consequences. 
-
-Please answer all questions truthfully and accurately. 
-
-This form may be duplicated for multiple volunteers, but please ensure that each volunteer completes it independently and accurately. 
-
-</thinking>
-
 # COVID 19 Volunteer Consent Form For Summer Camp - Help Guide
 ## Purpose
 The purpose of this form is to collect information from volunteers about their COVID-19 vaccination status, medical history, and understanding of the risks associated with volunteering at the summer camp.

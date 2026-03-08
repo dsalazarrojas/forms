@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about an individual's dietary restrictions and preferences, including allergies, medical conditions, and special diets. The purpose of this form is to gather accurate and complete data to ensure that the individual receives the necessary accommodations and services. The form is intended for people who are planning to visit a hospital or healthcare facility and need to provide this information for their visit.
-
-After filling out this form, the results will be used to determine the best course of action for the individual's visit, including providing food and beverage options that cater to their dietary needs. This form is a crucial part of the healthcare facility's process to ensure that each patient receives the highest level of care and comfort during their stay.
-
-This form does not collect any sensitive or personal information, and all responses will be kept confidential. If you have any concerns or questions about filling out this form, please let us know.
-
-</thinking>
-
 # Dietary Restriction Validation Form - Help Guide
 
 ## Purpose

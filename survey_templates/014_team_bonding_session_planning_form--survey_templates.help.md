@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a planning tool for Team Bonding Session events. It appears to be focused on gathering information from team members about their preferences regarding session details, date, time, activities, budget, team size, and session type. However, I'm assuming it's not a duplicate or a copy-paste error in the provided YAML. Please let me continue to create the help guide for this form based on the provided fields.
-</thinking>
-
 # Team Bonding Session Planning Form - Help Guide
 ## Purpose
 The Team Bonding Session Planning Form is designed to gather essential information from team members to plan an engaging and effective team bonding session. This form helps organizers understand individual preferences for the session details, allowing them to tailor the event to suit the team's needs.

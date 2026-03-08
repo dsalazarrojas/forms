@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I've reviewed the form and will provide a clear and concise help guide for end-users. The purpose of this form is to gather information for safety floor marking supply orders. It is crucial to ensure that each field is properly completed to ensure accurate and timely delivery. Please double-check the form before submitting it to prevent errors or duplication. This guide will walk you through each field and its intended use.</thinking>
-
 # Safety Floor Marking Supply Order Form - Help Guide
 ## Purpose
 The Safety Floor Marking Supply Order Form is used to collect information for the ordering of safety floor marking supplies. This form ensures that all necessary details are provided to ensure the correct and timely delivery of the supplies.

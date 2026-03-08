@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the water utility supply chain audit process, which involves assessing the performance and risks of water utilities. The form is intended for water utility companies to evaluate their supply chain, identify potential risks, and take corrective actions. The purpose of the form is to provide a structured approach to conducting an audit of the water utility supply chain. It helps in identifying areas of improvement and ensuring compliance with regulatory requirements.
-</thinking>
-
 # Water Utility Supply Chain Audit Form - Help Guide
 ## Purpose
 This form is designed to gather information about the water utility supply chain audit process. The purpose of this form is to help water utility companies evaluate their supply chain, identify potential risks, and take corrective actions.

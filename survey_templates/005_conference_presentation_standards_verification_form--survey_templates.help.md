@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for this "Conference Presentation Standards Verification Form" that explains its purpose, how to complete it, and what each field means, ensuring clarity, concision, and practicality in the explanation.</thinking>
-
 # Conference Presentation Standards Verification Form - Help Guide
 
 ## Purpose

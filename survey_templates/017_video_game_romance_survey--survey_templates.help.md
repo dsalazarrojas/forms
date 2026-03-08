@@ -1,6 +1,4 @@
-> <thinking> This form is designed to collect information about players' experiences and preferences regarding video games. It's intended to be used by players to share their opinions and feedback about games they have played. If you have already completed this form, please note that your responses will not be duplicated. If you have not completed the form before, proceed with your responses, and your feedback will contribute to the improvement of video game development. Please be as honest and detailed as possible in your responses. </thinking>
-
-# Video Game Romance Survey - Help Guide
+> # Video Game Romance Survey - Help Guide
 ## Purpose
 
 This form is designed to collect information about players' experiences and preferences regarding video games. It's intended to be used by players to share their opinions and feedback about games they have played.

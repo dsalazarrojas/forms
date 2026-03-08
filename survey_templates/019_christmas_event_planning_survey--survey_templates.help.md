@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is used to collect information about respondents' Christmas event planning preferences. It aims to help event planners create a suitable event that meets their needs. This form is likely to be used in a holiday planning context, and the responses will inform the type and scale of the event. The form should not be filled out by people without personal preferences or plans for the holiday season.</thinking>
-
 # Christmas Event Planning Survey - Help Guide
 
 ## Purpose

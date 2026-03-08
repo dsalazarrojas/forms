@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer Camp Participation Survey - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-**Form Purpose:**
-
-This form is designed to collect information from parents and guardians of children attending a summer camp. It is used to gather essential details about the camper, such as contact information, medical information, and emergency contact details. The form is meant to be filled out by parents or guardians before the child's admission to the summer camp.
-
-**Form Non-Duplication and Relevance Check:**
-
-To prevent duplicate submissions, please ensure that you have not filled out this form previously. This form is relevant for campers who are new to the summer camp or if there have been changes to their information since the previous year.
-
-</thinking>
-
 # summer_camp_parent_handbook_and_application_form - Help Guide
 ## Purpose
 ## How To Complete This Form

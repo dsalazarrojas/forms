@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # KOL Review Form - Help Guide
 ## Purpose
 The KOL Review Form is used to collect feedback from Key Opinion Leaders (KOLs) on specific aspects of a product or service. This form helps to gauge their performance, engagement, and recommendation of the product. It's a crucial tool for businesses to understand the strengths and weaknesses of their products and services from the perspective of their target audience.

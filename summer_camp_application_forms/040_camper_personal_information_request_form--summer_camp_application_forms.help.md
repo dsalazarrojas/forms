@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the camper's personal information is accurate and up-to-date to ensure a smooth and safe camp experience. To avoid any duplication of efforts, please check if the camper has already registered for this summer camp before submitting this form. This form is intended for parents or guardians to provide their child's personal information, including medical details, contact information, and other relevant data.
-</thinking>
-
 # Camper Personal Information Request Form - Help Guide
 ## Purpose
 The Camper Personal Information Request Form is a form designed to gather essential details about your child's personal information, medical history, and contact information. This form is required to be completed by parents or guardians to ensure their child's safety and well-being during their stay at the summer camp.

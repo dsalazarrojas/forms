@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback from parents regarding the summer camps. It is essential to ensure that the camps are well-organized and enjoyable for the campers. To avoid duplication, please ensure that you only complete this form once per camp session.
-
-The form should only be filled out by parents or guardians of the campers, and it's required to provide feedback for the camps they have attended.
-
-</thinking>
-
 # Summer Camp Feedback Form For Parents - Help Guide
 ## Purpose
 

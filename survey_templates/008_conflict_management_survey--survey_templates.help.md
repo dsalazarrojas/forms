@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about the respondents' experiences and perceptions of conflict in the workplace. It is intended to help management and HR identify areas where conflict management could be improved. The form is meant to be completed by employees who have experienced or are aware of conflicts in the workplace. 
-
-This form is not a survey about the respondents' personal opinions or biases but rather an objective assessment of the conflicts they have experienced or observed. The responses will help in identifying patterns and areas that require attention to improve conflict management in the organization.
-
-Please review the form carefully and consider providing honest and objective responses. Your input will be invaluable in helping us improve the workplace environment.
-
-</thinking>
-
 # Conflict Management Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences and perceptions of conflict in the workplace. Your responses will help management and HR identify areas where conflict management could be improved.

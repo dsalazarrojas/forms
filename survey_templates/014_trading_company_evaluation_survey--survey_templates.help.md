@@ -1,8 +1,3 @@
-<thinking>
-This is a survey form designed to evaluate a trading company's performance and customer experience. It is intended to gather feedback from customers who have used the company's services. The form is not intended to be a comprehensive assessment, but rather a concise way to gather qualitative feedback. This form is designed to be used by customers who have interacted with the company in the past, and the results will help the company to identify areas of improvement and provide better services to its customers.
-Please use this form only if you have interacted with our company in the past and are providing feedback about your experience.
-</thinking>
-
 # Trading Company Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to help us evaluate our trading company's performance and customer experience. Please take a few minutes to answer the questions below.

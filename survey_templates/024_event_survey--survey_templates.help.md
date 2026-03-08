@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback and information about an event, which will help to improve future events and enhance the participant's experience. This form is intended for event organizers and participants to assess the success and satisfaction of the event. To avoid duplication, only one survey will be created per event.
-
-</thinking>
-
 # Event Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information about an event, allowing event organizers to assess the success and satisfaction of the event.

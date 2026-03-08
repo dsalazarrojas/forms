@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to register a camper for the summer camp, collecting personal and contact information from parents or guardians, medical details, dietary restrictions, and other essential data. It's essential to ensure that the provided information is accurate and up-to-date to guarantee the best experience for the camper during the camp session. It's also crucial to check for duplicates before proceeding, as this form will be used to manage and process multiple registrations.
-</thinking>
-
 # Camp Registration Form - Help Guide
 ## Purpose
 The Camp Registration Form is designed to collect essential information from parents or guardians to ensure a safe and enjoyable experience for each camper at the summer camp. Please follow this guide to understand what to expect and how to complete the form.

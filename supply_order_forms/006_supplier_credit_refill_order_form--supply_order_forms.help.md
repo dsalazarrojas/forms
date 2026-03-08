@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of the "Supplier Credit Refill Order Form" is to facilitate the ordering process for suppliers to refill their credit, allowing them to track and manage their credit replenishment requests. The form is designed to be simple and user-friendly, ensuring that suppliers can easily provide the required information for their credit refills. Before proceeding, please confirm that this form is relevant to your current situation. If you are not a supplier looking to refill credit, please do not proceed.
-
-</thinking>
-
 # Supplier Credit Refill Order Form - Help Guide
 ## Purpose
 The "Supplier Credit Refill Order Form" is a tool for suppliers to request a credit refill. This form helps us track and process your credit refill requests efficiently.

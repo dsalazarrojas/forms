@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Scentscrate Subscription Form is used by customers to subscribe or opt out of our subscription services.
 
 To complete this form, follow these steps:

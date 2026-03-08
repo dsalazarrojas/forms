@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record attendance and activities of Cub Scouts during summer camps. It is used to gather information about each scout's participation and achievements during the camp. This form should only be filled out by the scout who is attending the camp, or by a parent/guardian if the scout is a minor. This form should not be filled out multiple times for the same scout.
-</thinking>
-
 # Cub Scout Attendance Form - Help Guide
 ## Purpose
 This form is used to record attendance and activities of Cub Scouts during summer camps.

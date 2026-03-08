@@ -1,12 +1,3 @@
-<thinking>
-The form is a crucial part of the onboarding process for users of a digital health app. This form will guide them through the process of cancelling their subscription. It's essential to ensure that users have a clear understanding of how to complete this form properly to avoid any discrepancies or issues during the cancellation process.
-
-As the user interacts with the form, the app will need to ensure that all required fields are completed. This includes providing clear hints and labels for each field to help with the process. Each field has a specific purpose and is designed to collect relevant information from the user.
-
-Upon completion, the user will be able to submit their request for subscription cancellation. 
-
-</thinking>
-
 # Digital Health App Subscription Cancellation - Help Guide
 ## Purpose
 This form is designed to guide users through the process of cancelling their subscription with the digital health app. Please follow the instructions below to complete the cancellation request.

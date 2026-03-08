@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback and opinions from users on their experiences and perceptions about people with Autism Spectrum Disorder (ASD). The goal of this form is to understand how individuals in the community view and interact with autistic individuals, as well as identify areas where support mechanisms and resources are needed to improve social integration and inclusion.
-
-The form is organized into two main sections: General Perception and Social Integration. The General Perception section aims to understand the individual's level of familiarity with ASD, their personal connection to the autism community, and their opinion on the community's inclusion.
-
-The Social Integration section is further divided into two sub-sections: Community Support and Social Barriers. The Community Support sub-section seeks to gauge the individual's opinion on the current adequacy of community resources and their willingness to participate in awareness events. The Social Barriers sub-section aims to identify the main obstacles that prevent people with ASD from being fully integrated into the community, as well as what specific changes would make the biggest difference.</thinking>
-
 # Autism Survey - Help Guide
 ## Purpose
 

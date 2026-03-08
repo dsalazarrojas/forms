@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Research Data Release Form - Help Guide
 ## Purpose
 This form is used to collect information about the research data release. It is intended to gather details about the research project, institution, and contact person in charge of the data.

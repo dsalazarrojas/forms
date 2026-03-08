@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be a health questionnaire for a summer camp, likely for medical history and allergy information of camp participants. This form seems to be designed for collecting information on two separate medical conditions: "1" and "2". Each condition may have multiple medical conditions, allergies, medications, medical devices, and other relevant information. The form likely aims to gather comprehensive medical data for the camp's medical records and safety.
-</thinking>
-
 # Summer Camp Health Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect medical information for participants in the summer camp. It helps the camp's medical team to understand the participants' health status, including any medical conditions, allergies, medications, and medical devices they may be using.

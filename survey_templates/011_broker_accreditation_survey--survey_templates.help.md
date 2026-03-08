@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect feedback from brokers about their experience with an accreditation program. The form is meant to be a comprehensive assessment of the accreditation process, covering various aspects such as the clarity of requirements, application ease, response time, communication quality, support services, and overall satisfaction with the accreditation program. The form is divided into sections to guide the respondent through the different facets of their experience.
-
-Before starting, please review this guide to ensure you provide accurate and complete feedback.
-
-This form has a total of 28 fields across 9 sections. Please answer all required fields and fill in any additional comments if you have further remarks.
-
-Please note that answers should reflect your personal experience and opinion. If you're unsure about a question, please select the option that best represents your perspective.
-
-Also, please be mindful that this form is meant to be a constructive assessment tool to help improve the accreditation program. Your feedback is highly valued and will be taken into consideration for future improvements.
-
-Please answer the questions honestly and provide detailed explanations when required.
-</thinking>
-
 # Broker Accreditation Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from brokers about their experience with the accreditation program. It will help identify areas of improvement and provide valuable insights for better service.

@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect user feedback on a specific event, likely for DJ recommendation. The form collects the title of the event, date, preferred music style, a list of preferred DJs, email address, phone number, favorite band, and a submit button. Ensure the form is not used for other purposes, e.g., to collect event details other than title, date, and DJ recommendations. Avoid duplication of efforts and ensure each user has only one active instance of the form.</thinking>
-
 # DJ Recommendation Form - Help Guide
 ## Purpose
 This form is designed to collect user feedback and DJ recommendations for specific events.

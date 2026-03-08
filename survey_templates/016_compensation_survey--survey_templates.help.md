@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive survey designed to gauge employee satisfaction and perceptions on various aspects of their compensation. The purpose of this survey is to gather data on employee views on their base salary, bonuses, benefits, paid time off, and overall job satisfaction. It also aims to identify areas for improvement in these areas. Given the variety of questions, this survey seems to be targeting both current employees and HR professionals looking to understand the compensation landscape within the organization. It's essential to review the survey questions to ensure that they align with the company's specific policies, practices, and goals. Before proceeding, consider if you have already conducted similar surveys or gathered similar data to avoid duplication of efforts.
-</thinking>
-
 # Compensation Survey - Help Guide
 ## Purpose
 The compensation survey is designed to collect feedback on various aspects of employee compensation, including base salary, bonuses, benefits, paid time off, and overall job satisfaction. This survey aims to gather insights from employees on their perceptions and experiences with their compensation, helping HR professionals to identify areas for improvement and make data-driven decisions.

@@ -1,7 +1,3 @@
-<thinking> 
-This form, "swim_camp_registration_form", is used for registering swimmers for summer camps. It is used to collect contact information and medical details of the swimmers. This form will be used by camp administrators to gather necessary details to ensure the swimmer's safety and proper care during the camp. Please ensure that you fill out all required fields accurately and completely. Note that this form is not intended for general inquiries or feedback. This form will be used solely for registration purposes. 
-</thinking>
-
 # swim_camp_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect contact and medical information of the swimmer for summer camp registration.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess a construction project billing software from various perspectives. The evaluation context, including the evaluator's name and title, is established at the beginning. The software being evaluated is specified, and its core billing features, such as progress billing support and change order management, are evaluated. The technical aspects, including integration with accounting software and mobile accessibility, are considered. Usability, cost, and support factors are also evaluated, and a final recommendation is made based on these factors.
-The form's purpose is to provide an objective and structured way to evaluate construction project billing software, helping to make an informed purchase decision.
-
-</thinking>
-
 # Construction Project Billing Software Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to help users evaluate construction project billing software based on various factors.

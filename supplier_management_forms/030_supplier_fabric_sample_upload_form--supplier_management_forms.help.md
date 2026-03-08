@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supplier Fabric Sample Upload Form - Help Guide
 ## Purpose
 The Supplier Fabric Sample Upload Form is a form used to collect information about a fabric sample from a supplier. This form is used to record the details of a fabric sample, including its description, color, weight, length, and other relevant details. The form is used by the purchasing team to verify and confirm the fabric sample before making a purchase decision.

@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to ensure form purpose and field relevance ...
-The form purpose is to collect feedback from staff members about their experience at a summer camp. The goal is to gather information on staff members' performance, strengths, and areas for improvement. This form should be used by staff members to evaluate their own experience and provide feedback to the camp administrators.
-The form fields are meant to collect information on the staff member's position at the camp (staff, camp, or counselor), their rating of their own performance, and any comments they may have about their experience.
-To prevent duplication of effort, this form should only be filled out once by each staff member after the end of the summer camp season.
-... </thinking>
-
 # Summer Camp Staff Evaluation Form - Help Guide
 ## Purpose
 The Summer Camp Staff Evaluation Form is a self-assessment tool designed to help staff members reflect on their experience and performance at a summer camp. It allows staff members to evaluate their own strengths and areas for improvement, providing valuable feedback to camp administrators.

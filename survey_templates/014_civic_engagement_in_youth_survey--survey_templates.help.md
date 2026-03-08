@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on how youth engage in civic activities, what motivates or demotivates them, and how they learn about civic and political issues. The goal is to understand the current state of civic engagement among youth and identify potential barriers or opportunities for increasing participation. This form is part of a larger project aimed at promoting civic engagement and participation among young people.
-</thinking>
-
 # Civic Engagement In Youth Survey - Help Guide
 
 ## Purpose

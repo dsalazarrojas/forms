@@ -1,7 +1,3 @@
-<thinking> 
-This form is for evaluating the potential supply sources for copper materials. A supplier is expected to answer if they have the capacity to supply from specific sourcing regions, if they have certifications, and if they have a name, address, and contact information. This form is likely to be filled out by a supplier to provide their information to a business or organization looking for copper supply sources. The form does not allow for duplicate submissions for the same supply source, so suppliers should only complete this form once. Suppliers can choose from multiple sourcing regions and select only the ones that apply to them. They can also choose their available capacity and provide any additional notes for the rating if they choose to rate themselves. The rating field is optional and allows the supplier to provide any additional comments or context for their rating. 
-</thinking>
-
 # Copper Supply Source Survey - Help Guide
 ## Purpose
 This form is used to collect information from potential copper supply sources. It helps the organization to evaluate the suppliers' capabilities and determine if they can meet their needs.

@@ -1,10 +1,3 @@
-<thinking>
-The goal of the urban_redevelopment_impact_survey form is to collect information about urban redevelopment projects, gathering user feedback on various aspects of the project, including the project's impact, satisfaction levels, and contact information. The form is likely used by project managers or other stakeholders to gather input from users or stakeholders. It's crucial to ensure that the form is not duplicated or used for the same purpose, as the collected data will be used to inform future urban redevelopment decisions.
-
-Before proceeding with the form, please take a moment to review it and ensure that you understand the purpose and the requirements. If you're unsure about any aspect of the form, please don't hesitate to ask for clarification.
-
-</thinking>
-
 # urban_redevelopment_impact_survey - Help Guide
 
 ## Purpose

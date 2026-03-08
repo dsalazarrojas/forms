@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from the art gallery for exhibition supplies orders. The purpose of this form is to gather necessary details for the procurement and delivery of exhibition supplies. This form is meant to be filled out by the person placing the order, typically the exhibition coordinator or a staff member. The form is used to create a record of the order, including the required supplies, delivery address, and budget code for internal accounting purposes. This form is not intended to be used for general exhibition inquiries or event planning, but rather for specific supply orders. It is essential to fill out this form accurately and thoroughly to ensure smooth delivery and proper accounting.
-
-</thinking>
-
 # Art Gallery Exhibition Supplies Order Form - Help Guide
 ## Purpose
 The Art Gallery Exhibition Supplies Order Form is a tool used to collect necessary information for the procurement and delivery of exhibition supplies. This form is a crucial part of the internal process to ensure accurate tracking and accounting of supplies.

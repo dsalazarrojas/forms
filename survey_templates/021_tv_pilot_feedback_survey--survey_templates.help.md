@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting feedback on a TV pilot, likely to gauge audience engagement, preferences, and demographic information. To avoid duplication, users may not fill out this form if they have already provided feedback on the same pilot.
-</thinking>
-
 # TV Pilot Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from viewers on a TV pilot. The goal is to understand their impressions, preferences, and demographic information.

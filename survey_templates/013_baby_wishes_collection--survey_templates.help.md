@@ -1,13 +1,3 @@
-<thinking>
-This form is a collection of heartwarming messages and wishes for a new baby. It's designed to collect the well-wishes and messages from friends, family, and loved ones to create a special keepsake for the new parents. The form is intended to be filled out by people who want to offer their congratulations and share their best wishes with the new family. It's a personal and emotional way to celebrate the arrival of the baby.
-
-Before filling out this form, please make sure to:
-
-*   Check if you've already filled out this form before. If you have, you might not need to fill it out again.
-*   Make sure you're filling out the form for the right baby and the right parents.
-
-</thinking>
-
 # Baby Wishes Collection - Help Guide
 ## Purpose
 The Baby Wishes Collection form is a way for friends, family, and loved ones to share their heartwarming messages and wishes with the new parents of a baby. It's a special keepsake for the family to treasure and cherish.

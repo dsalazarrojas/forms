@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information from suppliers that are requesting financing. The form will help us assess their financial stability and determine the likelihood of approving their loan application. The form will ask for general supplier information, contact details, and specific financial and banking information. Please note that all fields are optional but are crucial for a comprehensive evaluation. If this form is being used for a supplier with whom the company has had previous dealings, it may be unnecessary to fill out. If so, please indicate this in the "loan_status" field.</thinking>
-
 # Supplier Financing Application Form - Help Guide
 ## Purpose
 The Supplier Financing Application Form is designed to collect information from suppliers that are requesting financing. This form will help our team assess their financial stability and determine the likelihood of approving their loan application.

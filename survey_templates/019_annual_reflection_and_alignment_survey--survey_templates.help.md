@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from employees on their reflections and alignment with the company goals and culture. It is intended to help management understand the strengths and weaknesses of the organization and identify areas for improvement. The purpose of this form is to gather honest and open-ended responses from employees, and it is not meant to be a performance evaluation or a source of stress. Please note that responses will be kept confidential and anonymous.
-</thinking>
-
 # Annual Reflection And Alignment Survey - Help Guide
 ## Purpose
 This survey aims to gather your thoughts, reflections, and feedback on your experiences, goals, and challenges within the company. It is essential to provide honest and open-ended responses to help us better understand your needs and concerns.

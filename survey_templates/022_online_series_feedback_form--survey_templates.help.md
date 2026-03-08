@@ -1,5 +1,3 @@
-<thinking>Let's start by understanding the purpose of the "Online Series Feedback Form". It seems to be designed to collect feedback from viewers or customers about a series, likely a TV show, online series, or streaming content. The form is probably intended to gauge their satisfaction, opinions, and recommendations. To ensure relevance and avoid duplication, let's assume this form will only be used for feedback purposes and not for any other type of data collection, such as surveys or polls. If the form is being used in a context where feedback is already being collected through other means, it's best to clarify the purpose and scope of this form with the end-users to avoid any confusion.</thinking>
-
 # Online Series Feedback Form - Help Guide
 
 ## Purpose

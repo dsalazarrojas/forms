@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to be used for students to register for summer school programs. The form is intended to gather relevant information about the student, their school preferences, and other relevant details. The form will be used by school administrators to process the student's application.
-
-Before submitting this form, please ensure that you are not submitting duplicate applications. If you are unsure, please double-check your previous submissions.
-
-</thinking>
-
 # Summer School Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students and parents to register for summer school programs.

@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used to collect feedback and information about mahjong participations and events, possibly for event organizers or Mah Jongg club administrators. This form might be sent to players after an event to gauge their experience, gather feedback, and understand their preferences. The purpose of this form is not immediately clear, and without further information, it's uncertain if it's for internal use only or if it's a public feedback form. It's possible that this form is part of a larger survey or questionnaire, and its content might be duplicated in other forms. However, based on the fields provided, it seems to be a comprehensive form that covers various aspects of the event, including player information, event details, and feedback.</thinking>
-
 # mah_jongg_participation_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information and feedback about mahjong participations and events.

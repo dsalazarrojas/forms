@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive help guide for the Referrer Check Questionnaire form. This guide will cover the purpose of the form, how to complete it, and an explanation of each field. This form appears to be designed to collect information about a referee or reference contact person, likely for professional or educational purposes. The form is likely used in a context where someone is seeking a reference or recommendation, and this form is a way to standardize and streamline the process. Before diving into the form explanation, let's make sure this form is not a duplicate or copy of an existing form, and it's original adaptation by our AI system.</thinking>
-
 # Referrer Check Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a referee or reference contact person. It's used to standardize and streamline the process of seeking a reference or recommendation.

@@ -1,7 +1,3 @@
-<thinking>...
-This form is used to collect information from vendors who supply heat resistant materials. The form helps to verify the vendor's identity, their contact person, and their company information. It also collects information about the material type, application date, and application reason. Additionally, it collects technical documents and certification attachments related to the heat resistant material. The form is designed to be completed by the vendor to provide accurate and complete information about their heat resistant material supply. By completing this form, the vendor can demonstrate their ability to supply heat resistant materials that meet the required standards. This form is used internally for review and approval purposes. Please ensure that all fields are filled in completely and accurately before submission.
-</thinking>
-
 # Heat Resistant Material Vendor Application Form - Help Guide
 
 ## Purpose

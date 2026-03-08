@@ -1,11 +1,4 @@
-# <thinking>
-  The form is designed to be filled out by festival-goers to gather information about their experiences, habits, and health status in relation to COVID-19. The questions cover a range of topics, including festival attendance frequency, travel history, mask-wearing habits, handwashing frequency, social distancing practices, and vaccination status. This form will help identify areas of potential risk and provide guidance on how to minimize exposure to COVID-19.
-  The form is a self-reported survey, meaning that users are required to answer questions honestly to the best of their ability.
-  Please make sure you complete the form accurately to help us better understand your circumstances.
-  Please avoid duplicate responses, as this can skew the data.
-</thinking>
-
-# pre_festival_survey - Help Guide
+# # pre_festival_survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your experiences, habits, and health status in relation to COVID-19. Please be honest when answering the questions to help us understand your circumstances.
 

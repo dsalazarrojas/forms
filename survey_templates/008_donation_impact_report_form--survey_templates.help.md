@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the impact of donations received by your organization. The purpose of this form is to help you track the effects of donations on your cause or organization. By filling out this form, you will be able to provide detailed descriptions of the positive impacts of donations, which can be used to improve your fundraising strategies and demonstrate the value of your organization's work to stakeholders. This form should only be used for donations that have already been received, not for planned or prospective donations. Please fill out this form carefully and accurately to ensure that the data collected is reliable and useful.
-</thinking>
-
 # Donation Impact Report Form - Help Guide
 
 ## Purpose

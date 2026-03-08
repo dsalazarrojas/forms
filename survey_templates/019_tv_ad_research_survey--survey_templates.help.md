@@ -1,8 +1,3 @@
-<thinking>
-This form is for conducting research on television advertisements. The purpose of this form is to gather information on viewer demographics, ad characteristics, and viewer feedback. The goal is to analyze and improve the effectiveness of TV ads.
-To determine if this survey is relevant and not a duplicate, consider if you are looking to understand viewer behavior and preferences related to TV ads. If you are seeking to create or analyze a specific ad campaign, consider if this survey will provide valuable insights for your current project.
-</thinking>
-
 # tv_ad_research_survey - Help Guide
 ## Purpose
 This form is designed to gather information on viewer demographics, ad characteristics, and viewer feedback to conduct research on television advertisements.

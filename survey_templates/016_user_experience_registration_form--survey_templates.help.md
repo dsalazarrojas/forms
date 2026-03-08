@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose and requirements of this form. This form is used to collect user experience information for registration purposes. It's essential to fill it out accurately to ensure that we can properly process and store the data. Please note that some fields are optional, but filling out all required fields will give us a more comprehensive understanding of your experience.
-</thinking>
-
 # User Experience Registration Form - Help Guide
 ## Purpose
 The User Experience Registration Form is used to collect information about your user experience. This form is designed to help us understand your background and experiences, which will help us tailor our services to your needs.

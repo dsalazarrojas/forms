@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather insights from consumers about our advertising efforts. This form is intended to be completed by individuals who have recently seen or interacted with our ads. The purpose of this form is to understand how our ads are perceived by the target audience, identify areas for improvement, and gauge the effectiveness of our advertising campaigns. This form will not collect personally identifiable information, and all responses will be kept confidential. Please ensure that you have read this guide carefully before proceeding, and that you are filling out the form as a genuine consumer who has interacted with our ads.</thinking>
-
 # Advertising Survey Form - Help Guide
 ## Purpose
 The purpose of this form is to gather insights from consumers about our advertising efforts.

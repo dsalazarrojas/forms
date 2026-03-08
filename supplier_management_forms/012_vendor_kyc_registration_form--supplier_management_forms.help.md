@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Vendor KYC Registration Form", we need to understand the form's purpose and the fields it contains. Based on the provided YAML, the form aims to register a vendor's KYC (Know Your Customer) information, which includes basic personal details such as name, email, phone number, and address, as well as nationality and country of residence. Additionally, it seems to be collecting information about the vendor's identity documents, which is likely for verification purposes. This form is likely used for vendors to register themselves, providing their KYC information, to be onboarded into the system.
-</thinking>
-
 # Vendor KYC Registration Form - Help Guide
 ## Purpose
 This form is used to register a vendor's KYC information, including their name, contact details, nationality, and identity documents. This information is used to onboard the vendor into the system and for verification purposes.

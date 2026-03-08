@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for camp administrators to collect information from parents or guardians of children attending summer camp. It helps to track camper arrival details, medical information, and other relevant details to ensure a smooth and safe experience for all campers. This guide will help you understand what each field is for, how to fill it out correctly, and some tips to make the process smoother. 
-
-</thinking>
-
 # Summer Camp Arrival Form - Help Guide
 ## Purpose
 The Summer Camp Arrival Form is a tool used by camp administrators to collect information from parents or guardians of children attending summer camp. This form ensures that the camp has accurate and up-to-date information about each camper, including their arrival details, medical information, and special requests.

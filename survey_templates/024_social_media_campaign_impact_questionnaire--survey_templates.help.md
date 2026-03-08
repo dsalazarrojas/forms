@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # social_media_campaign_impact_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to measure the impact of a social media campaign on various aspects of the company's social media presence. This form is to be filled out by users who have participated in or have information about a social media campaign, and is meant to gather data on the campaign's effects on platform awareness, brand awareness, engagement, conversion rates, and customer satisfaction.

@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information for a worker respirator supply order, which includes details about the respirator type, order quantity, shipping information, contact details, and order notes. This form likely belongs to the "supply_order_forms" category and is intended for workers who need to order respirators for their work. 
-Before proceeding, please ensure you are using this form correctly and do not fill out any fields that are not relevant to your needs. Duplicate orders may lead to confusion and delay in processing. 
-</thinking>
-
 # Worker Respirator Supply Order Form - Help Guide
 ## Purpose
 The Worker Respirator Supply Order Form is used to collect information for a worker respirator supply order. This form is intended for workers who need to order respirators for their work.

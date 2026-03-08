@@ -1,14 +1,3 @@
-<thinking>
-This guide will explain the Social Comfort Questionnaire form, its purpose, and how to complete it with clarity and precision.
-
-The Social Comfort Questionnaire is a form designed to gauge a person's level of comfort in different social situations. It helps users evaluate their comfort in various settings, allowing for a comprehensive understanding of their social comfort level. This form is used for internal purposes within the organization.
-
-Please note that this form is not intended to be a scientifically validated assessment tool. The purpose of this form is to facilitate internal discussions and provide a general understanding of individual perspectives.
-
-Before proceeding, ensure you have not filled this form before, as it may be a duplicate effort. If you are unsure, please verify with your team or contact the form owner.
-
-</thinking>
-
 # Social Comfort Questionnaire - Help Guide
 ## Purpose
 The Social Comfort Questionnaire is a form designed to evaluate a person's level of comfort in various social settings.

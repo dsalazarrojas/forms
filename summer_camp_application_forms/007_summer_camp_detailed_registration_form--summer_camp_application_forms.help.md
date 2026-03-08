@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect detailed information from participants to register them for a summer camp. This form is meant to gather essential details about the participant, including their personal information, medical conditions, allergies, and employment status. The information collected will be used to ensure a smooth and safe experience for the participant during the summer camp. This form is not intended for duplicate registrations and should only be submitted once per participant. 
-</thinking>
-
 # Summer Camp Detailed Registration Form - Help Guide
 ## Purpose
 The Summer Camp Detailed Registration Form is designed to collect personal and medical information from participants to ensure a safe and enjoyable experience at the summer camp.

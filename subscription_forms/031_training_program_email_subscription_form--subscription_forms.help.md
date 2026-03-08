@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to subscribe to a training program, providing information about their personal details, preferences, and interests. It's crucial to ensure that the form is filled out correctly and consistently to prevent duplication of efforts and ensure accurate data collection. 
-Please note that the following fields are required: First Name, Email, and Program Interest. 
-</thinking>
-
 # Training Program Email Subscription Form - Help Guide
 ## Purpose
 This form is used to collect information from users who are interested in our training programs. It helps us to better understand their needs and preferences, which enables us to provide them with tailored services.

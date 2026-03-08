@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # History Quiz European Conflicts - Help Guide
 ## Purpose
 This form is designed to help users test their knowledge of European conflicts by asking a series of questions about history. The form is divided into sections, each representing a different part of a historical event or period. The form is used for educational purposes and is not affiliated with any specific survey platform.

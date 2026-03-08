@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process book supply orders from customers. It's essential to fill it out accurately to ensure that the order is processed correctly and the customer receives their books on time. Please ensure that you are filling out this form for a valid reason and not for testing or demonstration purposes. You can fill out the form multiple times if you need to process multiple orders.
-</thinking>
-
 # Book Supply Order Request Form - Help Guide
 
 ## Purpose

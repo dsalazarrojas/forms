@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees at scientific conferences. The purpose is to understand their thoughts on the quality and overall experience of the event, including their satisfaction with various aspects such as presentation quality, overall satisfaction, and areas where the event could improve. The form is intended to be completed by conference attendees to provide their personal feedback and suggestions, which will help us understand their needs and preferences better.
-The form has 18 fields, each with a specific purpose and type. The fields are designed to be easy to understand and complete, and they cover various aspects of the event. To ensure the best results, we encourage users to complete the form as thoroughly as possible.
-Please note that some fields are optional, and users can choose not to complete them if they don't see a need to. The fields that are marked as 'required' are essential for understanding and analyzing the feedback, while others provide additional insights but are not mandatory.
-To minimize duplication of effort, please don't fill out the form if you've already done it in the past or if it's not relevant to your experience.
-</thinking>
 # Scientific Conference Feedback Questionnaire - Help Guide
 ## Purpose
 ## How To Complete This Form

@@ -1,13 +1,3 @@
-<thinking>...
-
-As an AI-generated form, I've analyzed the provided YAML field to understand the form's purpose and relevance. This form appears to be designed for attendees of a chapter meeting to provide feedback on their experience. The form collects personal and meeting-specific information, such as name, email, chapter meeting details, and feedback on various aspects of the meeting, including organization, content, speaker quality, and overall satisfaction. The form also inquires about the attendee's intentions to attend future meetings.
-
-The form's purpose is to gather data for improvement and understanding the needs and expectations of the attendees, which could help in refining the chapter meetings and creating a positive experience for the attendees.
-
-To ensure the form is completed accurately and effectively, it's essential to provide clear guidance on each field's purpose and expectations...
-
-</thinking>
-
 # Chapter Review Feedback Form - Help Guide
 ## Purpose
 The Chapter Review Feedback Form is designed to gather feedback from attendees on their experience at chapter meetings. This form helps the chapter organizers understand what works well and what needs improvement to create a more engaging and valuable experience for attendees in the future.

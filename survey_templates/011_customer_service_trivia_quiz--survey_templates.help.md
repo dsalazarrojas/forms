@@ -1,15 +1,3 @@
-<thinking>
-This help guide is intended for users who will be completing the "customer_service_trivia_quiz" form. This form is designed to assess the knowledge of customer service agents on various aspects of customer service, including the primary objective, key characteristics, complaint handling process, role of the agent, common complaints, procedure for resolving complaints, importance, challenges faced, effectiveness, characteristics of a team, role of a complaint manager, common trends, key performance indicators, impact of technology, best practices, common best practices, key characteristics of an agent, customer service knowledge, common skills, and key characteristics of a team.
-
-Before starting the form, ensure that you are familiar with the topics listed above and have sufficient time to complete the form.
-
-The form is divided into 21 questions, each targeting a different aspect of customer service.
-
-To complete the form, simply follow the instructions for each question, and select the most appropriate option for each question.
-
-Please note that some questions allow for multiple selections.
-</thinking>
-
 # customer_service_trivia_quiz - Help Guide
 ## Purpose
 The customer service trivia quiz is designed to test your knowledge on various aspects of customer service. It is not a timed test, and you can complete it at your own pace. The goal is to gauge your understanding of customer service concepts and principles.

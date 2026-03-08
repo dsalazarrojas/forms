@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's employment status and work-related details for waiver eligibility assessment. This form is designed to collect data on employment status, income, work type and location, pay frequency, and other relevant details.
-To ensure accurate completion of this form, please be aware that each section has a unique purpose. Please do not complete this form if you are not an employee or have not been instructed to do so by a relevant authority.
-This form is intended to be filled out by individuals who are currently or have previously been employed. Please note that answers will be reviewed to determine waiver eligibility.
-Before filling out this form, please review the fields and ensure that you have all necessary information available. If you are unsure about a particular field, please contact your administrator or relevant authority for clarification.
-</thinking>
-
 # pslf_waiver_eligibility_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's employment status and work-related details for waiver eligibility assessment.

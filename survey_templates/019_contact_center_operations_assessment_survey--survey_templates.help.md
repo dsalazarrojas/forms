@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive assessment of contact center operations, gathering feedback from agents on various aspects of their job, including training, resources, communication, job satisfaction, and challenges. The form aims to collect quantitative data on agent experiences, perceptions, and needs, which will help in identifying areas for improvement and informing decisions on training and resource allocation. This form is intended to be completed by agents who have been with the contact center for at least 6 months to ensure consistent and comparable data. The form will help in identifying trends and patterns in the data collected, which will be used to drive improvements in contact center operations. Please ensure that you have been with the contact center for at least 6 months before proceeding with the survey.
-</thinking>
-
 # Contact Center Operations Assessment Survey - Help Guide
 
 ## Purpose

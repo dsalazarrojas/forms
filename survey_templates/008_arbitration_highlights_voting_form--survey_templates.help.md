@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect voting data for arbitration highlights. It asks voters to provide their name, email, and affiliation or organization, followed by three separate highlights with a description and impact rating. The voter is then asked to select their top choice from the three options. The form is designed to be completed by individuals or organizations who are voting on arbitration highlights.
-</thinking>
-
 # Arbitration Highlights Voting Form - Help Guide
 ## Purpose
 This form is used to collect voting data for arbitration highlights. It allows voters to provide their name, email, and affiliation or organization, followed by three separate highlights with a description and impact rating. The form then asks the voter to select their top choice from the three options.

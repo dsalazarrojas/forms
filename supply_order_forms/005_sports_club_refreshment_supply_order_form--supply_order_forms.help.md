@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a supply order for a sports club. The primary purpose of this form is to allow users to input relevant details about the order, such as the quantity, item description, and contact information. This form is used to ensure that the orders are processed correctly and delivered to the right people. 
-
-Before proceeding, make sure you have all the necessary information ready and that this is not a duplicate order. If you are unsure about any part of the form, please contact your supervisor for clarification.
-
-</thinking>
-
 # sports_club_refreshment_supply_order_form - Help Guide
 ## Purpose
 The sports club refreshment supply order form is used to collect information about orders for sports club supplies. This form helps the staff process orders correctly and ensure timely delivery of the supplies.

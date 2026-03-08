@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and satisfaction ratings from parents about their experience with a program (English Language and Literacy, Mathematics and Science, etc.). The form is designed to capture their perceptions about the quality of communication, support from parents, teachers, and school staff, and overall satisfaction with the program. This form is likely used to evaluate the effectiveness of the program and identify areas for improvement.
-</thinking>
-
 # Parent Satisfaction Survey - Help Guide
 ## Purpose
 This form is used to collect feedback and satisfaction ratings from parents about their experience with a program.

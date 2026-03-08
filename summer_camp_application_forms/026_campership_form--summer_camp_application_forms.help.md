@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Campership Form" that is concrete, concise, and practical. I will base the explanation on the provided YAML fields and aim to be concrete without inventing unsupported business logic. The form is designed for campership applications, and the user needs to provide information about themselves and their family member or guardian. The form is divided into four main sections: Applicant Information, Parent or Guardian Information, Financial Information, and Camp Interest and Background. I will cover each section and field to ensure the user understands how to complete the form correctly.</thinking>
-
 # Campership Form - Help Guide
 ## Purpose
 The Campership Form is designed for campership applications. It is a comprehensive form that gathers information about the applicant, their parent or guardian, financial situation, and camp interest. This form is required to be completed accurately and thoroughly to ensure that your application is considered for a campership.

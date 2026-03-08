@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a simple survey form designed to gather information about users' vacation plans. The purpose of this form is to gather basic details about users' vacations, such as whether they have a plan, their current state of mind about taking a vacation, and some basic contact and category information. This form may be used by organizations to gather information about employees' vacation plans to ensure that work is properly covered during their absence.
-</thinking>
-
 # Vacation Questioner - Help Guide
 ## Purpose
 The purpose of this form is to gather basic information about users' vacation plans, including whether they have a plan, their current state of mind about taking a vacation, and some basic contact and category information.

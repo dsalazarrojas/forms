@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather information about respondents' interactions with anime characters, including their viewing habits, favorite genres, character preferences, and level of engagement with the anime community. The goal is to collect data that can help creators and fans better understand audience behavior and preferences.
-
-The form has 23 fields, which can be divided into several sections: Respondent Information, Viewing Habits, Character Preferences, Character Attachment, Community and Fandom, and Additional Feedback. Each section focuses on a specific aspect of the survey.
-
-This form is not intended to be a comprehensive survey, but rather a starting point for gathering insights and suggestions. It's essential to review and refine the form's questions and structure to ensure they align with the project's goals and objectives.
-
-Before filling out this form, please ensure that you're aware of your rights as a respondent. This form is not associated with any specific anime or media platform, and responses will be used for research purposes only.
-
-Please complete this form with the information that best represents your experiences and preferences.
-
-</thinking>
-
 # Anime Character Interaction Survey - Help Guide
 ## Purpose
 The Anime Character Interaction Survey is a research tool designed to collect information about how anime fans interact with anime characters. The survey aims to understand audience behavior and preferences, helping creators and fans better understand their audience.

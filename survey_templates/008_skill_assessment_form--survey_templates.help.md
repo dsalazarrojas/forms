@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assess a candidate's skills and abilities. This form is designed to gather information about the candidate, their assessment details, and any additional comments or notes that may be relevant to their evaluation. Before starting this form, ensure that you are using it for its intended purpose and that the candidate's information is up-to-date. Please do not duplicate efforts or use this form for purposes other than skill assessment, as it may lead to incomplete or inaccurate data.
-
-This form is typically used by assessors to evaluate candidates for various roles or positions within the organization. It helps to gather specific information about the candidate, which can be used to inform decisions about their suitability for a particular job or role.
-
-When filling out this form, ensure that you are completing all required fields and providing accurate and detailed information. This will help to ensure that the assessment is thorough and fair.
-</thinking>
-
 # Skill Assessment Form - Help Guide
 ## Purpose
 The Skill Assessment Form is designed to collect information about a candidate's skills and abilities. It helps assessors to evaluate candidates for various roles or positions within the organization.

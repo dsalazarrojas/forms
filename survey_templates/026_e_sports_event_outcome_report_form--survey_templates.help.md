@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about electronic sports (e-sports) events, focusing on the outcome of a specific tournament or competition. It's intended for e-sports organizers, players, or enthusiasts to collect data about the event, including its details, performance, and overall experience.
-
-To ensure the form is used correctly, we want to prevent duplication of reports for the same event. To achieve this, please make sure to fill out the form with accurate and unique information for each e-sports event.
-
-Please note that this form is an original adaptation created by AI using public metadata as inspiration. It does not extract or copy content from any form platform or proprietary system. You are free to use, modify, and distribute this form, giving credit to the creator.
-</thinking>
-
 # e_sports_event_outcome_report_form - Help Guide
 ## Purpose
 This form is designed to gather information about e-sports events, such as tournament details, performance, and overall experience.

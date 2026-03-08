@@ -1,5 +1,3 @@
-<thinking>Before proceeding, let's clarify the purpose of this form and check for any potential duplication of information. This form, "Check In Scheduling Survey," aims to gather essential details from participants for scheduling purposes. The form appears to cover various aspects, including participant details, scheduling preferences, and communication preferences. To ensure the form's purpose is clear and concise, let's break it down into sections and fields that explain each component in detail.</thinking>
-
 # Check In Scheduling Survey - Help Guide
 ## Purpose
 The Check In Scheduling Survey is designed to collect information from participants for scheduling purposes, ensuring that their preferences and needs are considered when organizing events or activities.

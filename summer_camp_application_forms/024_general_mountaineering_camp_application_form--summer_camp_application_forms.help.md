@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the General Mountaineering Camp Application Form, I will review the provided YAML fields and create a concise and practical help guide in Markdown format.
-
-</thinking>
-
 # General Mountaineering Camp Application Form - Help Guide
 ## Purpose
 The General Mountaineering Camp Application Form is designed to collect information from users who are interested in attending the camp. The form is used to gather details about the user, their application information, and other relevant details such as medical information, payment status, and camper type.

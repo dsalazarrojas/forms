@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shopper Website Feature Preference Poll - Help Guide
 
 ## Purpose

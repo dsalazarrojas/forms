@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure we're targeting the right audience with this form. Based on the input schema, it appears that this survey is intended for players who have participated in a gaming beta release. The purpose of this form is likely to gather feedback from players on their experience with the game, including their goals, gameplay experience, encountered issues, control and difficulty level, and overall satisfaction. To ensure we're not duplicating efforts or collecting redundant data, let's review the form carefully and focus on essential fields that provide valuable insights. For example, it might be redundant to have "goals_in_game" and "goals_in_game" (id 8). We can merge or remove them to avoid confusion.
-</thinking>
-
 # Gaming Beta Release Player Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from players who have participated in a gaming beta release. Your input will help us improve the game and provide a better experience for all players.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a feedback questionnaire designed to gather information from clients about their experience with a consultancy project. The goal is to understand their satisfaction with the project's overall success, communication, professionalism, and technical expertise of the assigned consultant, as well as the project's timeline and budget adherence. This form is intended to help the consultancy team improve their services and deliverables in future projects. Please ensure that the form is filled out completely and truthfully to provide valuable insights for future collaborations.
-</thinking>
-
 # Consultancy Project Management Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients on their experience with a consultancy project. The goal is to understand how well the project met its objectives, the consultant's performance, and the overall satisfaction with the project's outcome.

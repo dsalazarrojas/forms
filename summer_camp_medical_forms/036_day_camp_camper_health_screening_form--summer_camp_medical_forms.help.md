@@ -1,7 +1,3 @@
-<thinking>
-The form was created based on the provided YAML fields and is designed to be a health screening form for day camp campers. The form's primary purpose is to gather essential information about the camper's health status, allergies, and other relevant medical details to ensure their safety and well-being during the camp. This form can be used by camp staff to assess the health risk of each camper and take necessary precautions. It should be noted that the form fields are mostly optional, but completing this form accurately and thoroughly is essential for the camper's health screening process.
-</thinking>
-
 # Day Camp Camper Health Screening Form - Help Guide
 ## Purpose
 This form is used to gather essential information about day campers to ensure their health, safety, and well-being during the camp.

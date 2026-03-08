@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # gun_survey - Help Guide
 ## Purpose
 The purpose of this form, "gun_survey", is to collect information and gather insights on various aspects related to gun control laws, firearms, and survey-related questions. The form is designed to be comprehensive, covering different areas of inquiry to provide a well-rounded understanding of the topic.

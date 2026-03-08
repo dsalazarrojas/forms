@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive help guide for the "Name Our New Equipment" form, we'll first break down the form's purpose and fields.
 
 The purpose of this form is to collect information about a new piece of equipment, focusing on its name, role, and context. The form is designed to be flexible, allowing users to input text-based information in various fields.

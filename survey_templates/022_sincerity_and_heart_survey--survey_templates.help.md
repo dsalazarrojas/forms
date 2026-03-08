@@ -1,13 +1,3 @@
-<thinking>
-This form seems to be related to survey templates, possibly for gathering opinions or feedback on a specific topic. The "Sincerity And Heart Survey" title suggests a personal and empathetic focus, which could be used in settings such as relationships, coaching, or personal development. To determine the purpose and relevance of this form, let's review the fields:
-- "survey_template" seems to be a selection of options, possibly for choosing a pre-made template or survey type.
-- "emotional_openness" is a numerical value that may be used to gauge emotional intelligence or openness.
-- "authentic_relationships" and "coaching_goals" are selections of options that could be related to relationships or coaching goals.
-- "sincere_conversation" and "heartfelt_comments" are text fields for free-form feedback or comments.
-- "feedback" is a selection of options that may be used to gather feedback on the survey itself.
-- "coaching_approach" is also a selection of options that could be related to the coaching approach used.
-Considering the fields, it appears that this form is designed to gather feedback and opinions on relationships, coaching, or personal development, possibly with a focus on emotional intelligence, sincerity, and authenticity. There seems to be no clear overlap with other existing forms. I'll create a guide based on this understanding.</thinking>
-
 # Sincerity And Heart Survey - Help Guide
 ## Purpose
 The Sincerity And Heart Survey is designed to gather feedback and opinions on relationships, coaching, or personal development, focusing on emotional intelligence, sincerity, and authenticity. This survey aims to understand your perceptions and experiences in these areas.

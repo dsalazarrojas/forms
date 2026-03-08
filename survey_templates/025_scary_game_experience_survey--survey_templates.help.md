@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # scary_game_experience_survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experience with scary games. The data collected will help us understand your preferences, fears, and satisfaction with the games you play.

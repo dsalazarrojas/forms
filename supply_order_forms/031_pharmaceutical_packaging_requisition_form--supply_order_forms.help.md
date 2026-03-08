@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, this form should only be used to create new packaging requisitions, not edit existing ones. Please ensure that you have the required permissions to create new packaging requisitions. The purpose of this form is to gather information about the pharmaceutical packaging, such as the package type, product ID, and manufacturing date. This form will help in ensuring that all necessary information is captured accurately and completely for packaging purposes.
-</thinking>
-
 # Pharmaceutical Packaging Requisition Form - Help Guide
 ## Purpose
 This form is used to create new packaging requisitions for pharmaceutical products.

@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used for users to reflect on their future goals, experiences, and personal details. It seems to be a template for a journaling or surveying purpose. To prevent duplication, we should check if the user has already completed this form before. If they have, we should prompt them to review and update their previous entries instead of letting them fill out the form again.</thinking>
-
 # Future Narrative Journal - Help Guide
 ## Purpose
 The "Future Narrative Journal" form is a tool for users to reflect on their future goals, experiences, and personal details.

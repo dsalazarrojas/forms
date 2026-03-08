@@ -1,9 +1,3 @@
-<thinking>
-
-The form is meant to help trainees and session administrators assess their understanding of the Community Impact Framework, a structured approach to evaluating and improving community development programs. This framework is used to measure and manage social, economic, and environmental impact. The form aims to collect data on the trainees' knowledge of the framework's key components, such as the three primary pillars, foundational tools, and essential feedback collection methods.
-
-</thinking>
-
 # Community Impact Framework Quiz - Help Guide
 ## Purpose
 The purpose of this form is to gauge your understanding of the Community Impact Framework, a tool used to evaluate and improve community development programs. Please answer the questions to the best of your ability, using your knowledge from the training session.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about a facility's hazardous materials handling and management practices. It is likely used by safety inspectors, facility managers, or regulatory compliance officers to evaluate and improve the safety and compliance of a facility with hazardous materials. This form should not be used to report or investigate incidents, nor is it a replacement for other safety-related forms. Please ensure that the same information is not duplicated across multiple forms or surveys to avoid redundant data collection.
-</thinking>
-
 # Hazmat Facility Inspection Survey - Help Guide
 ## Purpose
 This form is used to gather information about a facility's hazardous materials handling and management practices.

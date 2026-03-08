@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from parents or guardians regarding their child's enrollment in a summer camp. The purpose of this form is to obtain necessary contact and emergency contact information for the child's stay at the camp. The form will be used to ensure the camp can reach the parent or guardian in case of an emergency. This form is not intended to be used for any other purpose, such as camp registration. Please do not submit this form if your child is not enrolled in the summer camp or if you are not a parent or guardian of a child enrolled in the summer camp.</thinking>
-
 # Summer Camp Permission Form - Help Guide
 
 ## Purpose

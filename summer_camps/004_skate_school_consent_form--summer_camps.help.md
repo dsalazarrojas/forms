@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for obtaining consents from parents or guardians for participants to join a skate school or program. It is essential to ensure that the participant and their parent/guardian are aware of the risks and requirements associated with skateboarding, which may include injuries, medical conditions, and other safety precautions. The form's fields cover the participant's personal information, parent/guardian's contact details, and medical information, which is crucial for the skate school to provide a safe environment for the participants. To avoid duplication, please ensure that this form is only filled out once per participant. This will help the skate school to gather the necessary information to provide an efficient and safe service for the participants. Please fill out this form carefully and accurately.
-</thinking>
-
 # Skate School Consent Form - Help Guide
 ## Purpose
 The Skate School Consent Form is used to gather information from participants and their parents/guardians about their consent to join a skate school program. This form is essential for ensuring that participants are aware of the risks and requirements associated with skateboarding.

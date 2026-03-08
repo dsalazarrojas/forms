@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather information for the order of cleaning materials for the gym. This form will ask for the date and time of the order, location of the order, contact information, comments, and other relevant details. It is likely used by gym staff or management to coordinate the supply of cleaning materials. The form does not appear to be designed for emergency or urgent situations, as there are no time-sensitive fields or critical fields that require immediate attention. It is also not clear whether this form is meant to be a one-time request or a recurring order. Given the variety of fields, it seems to be used for general supply ordering and management.
-
-</thinking>
-
 # Gym Cleaning Material Supply Order Form - Help Guide
 
 ## Purpose

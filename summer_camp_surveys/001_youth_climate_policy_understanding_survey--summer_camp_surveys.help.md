@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on youth climate policy understanding from survey responses. The purpose of this form is to gauge awareness and influence of climate policy among different age groups, providing insights into how different age groups perceive and are affected by climate policy. This form should only be completed by individuals who are part of the target audience, i.e., those who are 10-50 years old. To ensure data quality, please do not attempt to complete this form if you do not fit the specified age criteria.
-</thinking>
-
 # Youth Climate Policy Understanding Survey - Help Guide
 ## Purpose
 This survey aims to collect information on awareness and influence of climate policy among different age groups. Your responses will help us understand how climate policy affects and influences your life.

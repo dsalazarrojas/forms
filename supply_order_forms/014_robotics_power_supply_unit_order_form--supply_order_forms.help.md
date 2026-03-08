@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used to collect information from customers to process a request for a robotics power supply unit. The form is likely used in an internal business context, where the organization sells or provides power supplies to customers, and the goal is to get accurate and relevant customer information, shipping details, and other relevant data for the order.
-It seems that the form is quite comprehensive, with a variety of fields covering customer information, shipping details, order specifics, and notes for the supplier. The form does not seem to be used for external users, but rather for internal purposes, such as for employees or internal teams.
-The form appears to be used for a business-to-business (B2B) context, where customers are likely other companies or organizations.
-The form does not seem to be intended for public use, so it's likely not meant to be used directly by end-users.
-The form's fields appear to be well-suited for the intended purpose and are likely designed for internal use.
-</thinking>
-
 # Robotics Power Supply Unit Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers to process a request for a robotics power supply unit.

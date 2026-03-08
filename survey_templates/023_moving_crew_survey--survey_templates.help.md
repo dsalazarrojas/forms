@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from customers about their experience with a moving company's moving crew. The purpose of this form is to gather information about the service level, punctuality, attentiveness, equipment quality, and overall satisfaction of the moving crew. This form is likely to be used by the moving company to improve their service and customer satisfaction.
-</thinking>
-
 # moving_crew_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with a moving company's moving crew.

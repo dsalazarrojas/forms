@@ -1,5 +1,3 @@
-<thinking>...The swim team survey form is used to collect information from swimmers and their coaches about their swim team experience. This information is intended to be used to analyze and understand team performance in various events. To avoid duplication of data, make sure to fill out this form only once per swim meet. If you're unsure about any of the fields, please don't hesitate to ask for guidance...</thinking>
-
 # Swim Team Survey - Help Guide
 ## Purpose
 

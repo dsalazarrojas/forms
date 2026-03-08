@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # detox_prophets_subscription_form - Help Guide
 
 ## Purpose

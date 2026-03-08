@@ -1,5 +1,3 @@
-<thinking>As a church leader, you are likely looking to gauge the comfort levels and concerns of your congregation as you navigate the process of reopening your church for in-person services. This form helps you gather feedback on various aspects of reopening, including member status, comfort levels, safety measures, and more. By completing this form, you'll be able to tailor your reopening strategy to better meet the needs and concerns of your congregation. This form is not a duplicate, and the information gathered will help inform your decision-making process. Please provide accurate and honest feedback to help your church reopen in a safe and effective manner.</thinking>
-
 # Church Reopening Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail On Hand Stock Order Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This guide will help users complete the Agriculture Survey form efficiently and effectively. This form is designed to gather information about farm profiles, and its purpose is to collect data about farming activities, resource management, and future plans for agricultural development. This guide will ensure that users understand the form's purpose and requirements, and complete it accurately.
-</thinking>
-
 # Agriculture Survey - Help Guide
 ## Purpose
 The Agriculture Survey form is a tool used to collect data about farming activities, resource management, and future plans for agricultural development. The data collected will be used to inform decisions and improve agriculture practices in the region.

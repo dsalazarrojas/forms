@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to provide feedback on TV commercials. The form should be used to collect data on TV commercial effectiveness, category, and other relevant details. The fields should be filled out with the following information: commercial ID, channel, category, commercial effectiveness, and message. The user can also provide any additional feedback, their email, phone number, and date and time of the commercial. The feedback form is a tool for users to help evaluate and improve TV commercials.
-
-</thinking>
-
 # tv_commercial_feedback_survey - Help Guide
 ## Purpose
 The tv_commercial_feedback_survey form is designed to collect feedback on TV commercials from users. It helps us evaluate and improve the effectiveness and quality of commercials.

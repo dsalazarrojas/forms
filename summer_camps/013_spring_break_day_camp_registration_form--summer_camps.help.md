@@ -1,12 +1,3 @@
-<thinking>
-This form is for registering campers to attend a spring break day camp. The purpose of this form is to collect information about the camper, their contact details, payment information, file uploads, and registration details. 
-This form should only be filled out by campers or their legal guardians if the camper is a minor. 
-Duplicate entries should not be submitted. If you have already registered for this camp, do not fill out this form again. 
-The form has multiple pages, and you will be able to fill out each one individually. 
-Please fill out all pages to ensure a complete registration. 
-Please do not use this form for any other purpose than to register for the spring break day camp. 
-</thinking>
-
 # spring-break-day-camp-registration-form - Help Guide
 ## Purpose
 This form is a registration form for the spring break day camp, a program designed for campers to have fun and learn during their spring break.

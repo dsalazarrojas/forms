@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for retail sensor battery orders. It is intended for retailers who need to place orders for sensor batteries. The form is divided into two main sections: "Retailer Information" and "Shipping Details". The form is meant to be completed by retail staff or store owners who need to order sensor batteries for their business. 
-
-The form does not require any specific authentication or login credentials. It is a general-purpose form for any retail business that needs to order sensor batteries.
-
-The form's fields are explained below in this help guide.
-</thinking>
-
 # Retail Sensor Battery Order Form - Help Guide
 ## Purpose
 The Retail Sensor Battery Order Form is designed to collect information from retailers who need to place orders for sensor batteries. This form helps streamline the ordering process and ensures that all necessary information is collected accurately.

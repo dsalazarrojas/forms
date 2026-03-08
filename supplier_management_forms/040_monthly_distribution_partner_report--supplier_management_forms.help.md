@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for monthly distribution partner reporting. It is intended to capture information about a partner's distribution performance, including their monthly distribution data and performance indicators. This form should only be used to report data for a specific partner on a specific month, so it's best to complete this form one partner at a time. Please do not use this form for reporting data for multiple partners or months. Ensure you have all necessary information for each field before filling out the form.
 
 # monthly_distribution_partner_report - Help Guide

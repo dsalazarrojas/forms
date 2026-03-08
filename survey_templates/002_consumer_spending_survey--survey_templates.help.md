@@ -1,12 +1,3 @@
-<thinking>
-This help guide aims to explain the purpose and usage of the Consumer Spending Survey form. This form is designed to gather information about an individual's consumer spending habits, financial situation, and attitudes towards money. The survey is meant to be completed by individuals who are willing to share their personal financial information in order to provide insights for businesses and organizations.
-
-Before continuing, please note that this form is intended for general use and not for any specific marketing or sales purposes. The information collected will be used to understand consumer behavior and preferences, and will not be used for any other purpose without explicit consent.
-
-This guide assumes that the reader has a basic understanding of the survey questions and their context. If you're unsure about any question, please refer back to this guide for clarification.
-
-</thinking>
-
 # Consumer Spending Survey - Help Guide
 ## Purpose
 

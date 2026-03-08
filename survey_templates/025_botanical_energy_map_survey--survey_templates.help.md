@@ -1,12 +1,3 @@
-<thinking>
-We will create a comprehensive help guide for the Botanical Energy Map Survey form.
-
-## Purpose
-
-The Botanical Energy Map Survey aims to understand participants' experiences and perceptions of different green spaces or gardens. This form will collect information on participant's overall energy and vitality, their emotional response to specific spots, and the environmental factors that influence their experience.
-
-</thinking>
-
 # Botanical Energy Map Survey - Help Guide
 
 ## Purpose

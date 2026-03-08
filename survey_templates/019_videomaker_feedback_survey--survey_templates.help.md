@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for this form, based on the provided YAML fields. This guide will explain the form's purpose, how to complete it, and what each field means. I will use concrete and concise language to ensure that end-users understand the form's requirements and can fill it out accurately.</thinking>
-
 # Videomaker Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients about their experience with Videomaker. The goal is to understand their satisfaction with our services and gather insights to improve future projects.

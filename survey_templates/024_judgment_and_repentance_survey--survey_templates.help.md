@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's emotional response to their own behavior, particularly in relation to feelings of remorse, repentance, and self-reflection. The form is designed to gather information about how individuals experience and respond to remorse, as well as how they measure its intensity and value in personal and social relationships. By completing this form, users are providing insight into their emotional states and behaviors, and the form's results can be used to identify areas for personal growth and development.
-
-Before proceeding, please ensure that this form is relevant to your current situation and that you haven't already completed it. This will help you provide accurate and meaningful responses, and ensure that you're not duplicating effort.
-
-Please note that all responses will be treated with respect and confidentiality, as this form is designed to be a personal and introspective exercise.
-</thinking>
-
 # Judgment And Repentance Survey - Help Guide
 ## Purpose
 This form is designed to help you explore your emotional response to your own behavior and actions. It will ask you questions about your feelings, thoughts, and behaviors related to remorse, repentance, and self-reflection.

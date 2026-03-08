@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Safety Equipment Order Form - Help Guide
 ## Purpose
 This form is used for customers to place orders for retail safety equipment. It is intended for internal use within the company, and it's used by customers to provide their information and preferences for the order.

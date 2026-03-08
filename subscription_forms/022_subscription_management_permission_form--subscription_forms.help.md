@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## subscription_management_permission_form - Help Guide
 
 ## Purpose

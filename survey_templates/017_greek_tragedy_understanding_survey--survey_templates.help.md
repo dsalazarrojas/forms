@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information from users to better understand their perception and experience with Greek Tragedy, a genre of drama that originated in ancient Greece. This form is designed to collect data on various aspects of Greek Tragedy, including the user's familiarity with different types of tragedies and their preferred forms of engagement. By providing their responses, users will contribute to a comprehensive understanding of Greek Tragedy, which can inform educational, artistic, and cultural initiatives.
 
 Before starting the survey, please ensure that you have not already completed this form. If you have, your response will not be recorded, and you will not be able to contribute to the survey.

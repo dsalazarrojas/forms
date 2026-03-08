@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for a research study on internet speeds and user experiences. It's intended for end-users to share their thoughts and opinions about their internet speeds and online behaviors. Before proceeding, please ensure you have not completed this form in the past to avoid duplication of effort. If you're unsure about any question, please ask for clarification.
-</thinking>
-
 # internet-speed-research-survey-0608 - Help Guide
 ## Purpose
 This form is designed to collect data on internet speeds and user experiences. Your responses will help us understand your perceptions and behaviors when using the internet.

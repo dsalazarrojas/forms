@@ -1,7 +1,4 @@
 >
-<thinking>...
-This form is for surveyors and researchers to collect data on bat hibernation sites. It is likely to be used in the field, where surveyors will be interacting with natural or man-made structures where bats are likely to hibernate. The form is designed to capture metadata about the observation site, as well as the environmental conditions and hibernation characteristics of the site. Surveyors are expected to provide accurate and detailed information about the site and their observations. If this form has been used previously, surveyors should ensure they are not collecting redundant data and that their submissions are consistent with other records.
-</thinking>
 # Bat Hibernation Survey - Help Guide
 ## Purpose
 This form is designed to collect data on bat hibernation sites. Surveyors use it to capture metadata and observation details about the sites where bats hibernate.

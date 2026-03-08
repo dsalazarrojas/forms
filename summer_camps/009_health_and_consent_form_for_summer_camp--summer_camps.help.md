@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from parents or guardians of children attending summer camp. The purpose of this form is to gather medical history, identify any health issues, and obtain consent for potential treatment of the camper. The form is intended for both staff and parents to review and reference in case of an emergency. Please ensure you are familiar with the camper you are entering information for to complete this form accurately. If you are entering information for multiple campers, you will need to complete this form for each one.
 
 # Health And Consent Form For Summer Camp - Help Guide

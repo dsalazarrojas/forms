@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a professional networking event from attendees. It is intended for events where people have met and interacted with each other in a work or business setting. The form is not affiliated with, endorsed by, or derived from any form platform, and its creation was inspired by public survey topic metadata. It is an original adaptation and does not copy, extract, or use proprietary content from any other platform. The form can be used, modified, and even sold, with proper credit given.
-</thinking>
-
 # Professional Networking Event Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback about a professional networking event from attendees. It is meant to gather information about the event's effectiveness in facilitating meaningful connections and relationships among participants.

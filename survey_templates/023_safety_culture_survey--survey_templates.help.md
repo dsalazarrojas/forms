@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the safety culture within an organization. Safety culture refers to the attitudes, behaviors, and conditions that affect safety in the workplace. The form aims to gauge how employees perceive and contribute to a safe working environment. This assessment will help identify areas for improvement and inform strategies for enhancing safety practices.
-
-Before completing this form, please ensure you are familiar with the concept of safety culture and the questions asked. This form should only be filled out once by each employee, and responses are kept confidential.
-
-</thinking>
-
 # Safety Culture Survey - Help Guide
 ## Purpose
 The Safety Culture Survey is a tool used to gather information about your perceptions and experiences regarding safety in the workplace. Your input will help us understand how we can improve safety practices and create a better working environment for everyone.

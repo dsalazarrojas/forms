@@ -1,17 +1,3 @@
-<thinking>
-
-The goal of this form is to help restaurant supply chain management by collecting relevant information about suppliers. This form is not intended to be used as a survey, but rather as a tool for auditing and analyzing data related to suppliers. To determine if this form is suitable for your purposes, ask yourself:
-
-* Are you responsible for managing or improving a restaurant's supply chain?
-* Do you need to gather specific information from suppliers about their practices and performance?
-* Do you want to track and analyze data related to supplier performance over time?
-
-If you've answered "yes" to these questions, then this form should help you achieve your goals. 
-
-However, if you have specific requirements or need more tailored solutions, you may need to modify or expand on this template.
-
-</thinking>
-
 # Restaurant Supply Chain Audit Form - Help Guide
 ## Purpose
 

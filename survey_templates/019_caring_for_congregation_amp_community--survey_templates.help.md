@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form that caters to the needs of a congregation and community. This form is designed to be completed by individuals who either require assistance or wish to offer aid to others within the community. It's essential that only those relevant to the community fill out this form and not duplicate entries. The purpose of this form is to gather information about the individual's personal details, their needs or offers, and any other relevant details to provide or receive assistance effectively. This form should only be filled out by those who genuinely require or offer help, ensuring accurate and reliable data for the community.
-</thinking>
-
 # Caring For Congregation & Community - Help Guide
 ## Purpose
 This form is designed to facilitate communication and assistance between members of the congregation and community. It helps to gather information about personal details, needs or offers, and other relevant information to provide effective support.

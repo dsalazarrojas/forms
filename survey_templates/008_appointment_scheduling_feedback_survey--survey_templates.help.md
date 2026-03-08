@@ -1,12 +1,4 @@
-# <thinking>...thinking>
-
-The purpose of this form is to gather feedback from users about their experience with the appointment scheduling process, with the goal of improving the system and providing better services in the future.
-
-This form is designed to be a comprehensive and standardized feedback tool that helps the organization identify areas of improvement and make informed decisions to enhance the user experience. To avoid duplication of effort and ensure consistency, please only complete this form if you have a specific appointment or experience you would like to feedback on.
-
-</thinking>
-
-# Appointment Scheduling Feedback Survey - Help Guide
+# # Appointment Scheduling Feedback Survey - Help Guide
 
 ## Purpose
 This form is designed to gather feedback about your experience with our appointment scheduling process.

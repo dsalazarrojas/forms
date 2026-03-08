@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from attendees of a community exhibition, gathering information about their experience and suggestions for future events. This data will help organizers better understand the attendees' expectations, preferences, and areas for improvement. It's essential to ensure that the provided information is clear, concise, and relevant, avoiding duplication of effort and ensuring that the form is completed accurately and thoroughly.
-</thinking>
-
 # Community Information Exhibition Survey - Help Guide
 ## Purpose
 The Community Information Exhibition Survey is designed to gather feedback from attendees on their experience at the exhibition. This information will be used to improve future exhibitions and better serve the community.

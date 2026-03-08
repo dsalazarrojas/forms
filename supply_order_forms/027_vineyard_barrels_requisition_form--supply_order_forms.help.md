@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the requisition process for vineyard barrels, allowing the winery's operations team to request and manage wine deliveries. This form should only be used by authorized personnel within the winery to ensure accurate and efficient processing of requests.
-
-When filling out this form, please make sure you are submitting it for the correct purpose and not duplicating existing requests. If you are unsure, please contact the form maintainer at form@gic.mx.
-
-Please note that this form is for internal use only and should not be shared with external parties without permission.
-</thinking>
-
 # Vineyard Barrels Requisition Form - Help Guide
 ## Purpose
 The Vineyard Barrels Requisition Form is used by the winery's operations team to request and manage wine deliveries. This form serves as a centralized platform for submitting and tracking barrel requests.

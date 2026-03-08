@@ -1,12 +1,3 @@
-<thinking> 
-To create a help guide for the "Financial Advisor Annual Review Survey" form, I will consider the fields provided in the YAML configuration. This form appears to be a survey that collects various pieces of information related to a financial advisor's annual review. The form's purpose is likely to gather data from financial advisors to assess their performance and identify areas for improvement. The form might be used by financial institutions or organizations to evaluate the advisors' work and provide feedback. Before completing this form, it's essential to ensure that the information is accurate and relevant to the specific context in which it will be used.
-
-It's also important to note that some fields might not be required for every survey respondent, as indicated by the `required` property in the YAML configuration. This means that the form is designed to be flexible and accommodate different types of financial advisors or situations.
-
-To create the help guide, I will break down the form into sections, explaining each field's purpose and requirements in a clear and concise manner.
-
-</thinking>
-
 # Financial Advisor Annual Review Survey - Help Guide
 
 ## Purpose

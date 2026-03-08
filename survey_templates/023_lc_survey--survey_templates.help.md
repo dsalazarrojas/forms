@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Form "lc_survey" is used to collect information from users about their experiences with a specific survey template. This form should only be used for users who have been specifically directed to it or have a clear understanding of its purpose. It's essential to ensure that users understand the form's purpose and fill it out correctly to collect accurate and relevant data.
 
 To complete this form, follow these steps:

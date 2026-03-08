@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about an athlete's motivation and participation in sports research. It is intended to be filled out by the athlete themselves. This form is not meant for athletes under 18 years old. Please fill out this form if you are participating in the motivation research study. Ensure you understand the purpose, requirements, risks, and benefits of the study before proceeding.
-</thinking>
-
 # Athlete Motivation Research Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent and gather information from athletes about their motivation and participation in sports research. It is a crucial step in ensuring that athletes understand the study's purpose, requirements, and risks involved.

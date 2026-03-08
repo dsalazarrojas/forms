@@ -1,5 +1,3 @@
-<thinking>...The Girl Scout Product Permission Form is used for permission to sell products such as cookies, candy, and calendars. Please ensure that you are filling out this form correctly, as it may be used for official Girl Scout business. Ensure that you are only filling out this form once per product, and not for multiple products simultaneously. If you are unsure what product to fill in, please refer to your Girl Scout leader or manager for guidance...</thinking>
-
 # Girl Scout Product Permission Form - Help Guide
 ## Purpose
 This guide will walk you through the fields of the Girl Scout Product Permission Form, which is used to manage the sale of Girl Scout products such as cookies, candy, and calendars.

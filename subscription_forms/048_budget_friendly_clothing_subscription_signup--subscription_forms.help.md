@@ -1,9 +1,3 @@
-<thinking>
-This form is a subscription form for a clothing subscription service. It allows users to sign up for a subscription service that caters to their clothing needs. The form is designed to collect user information to provide a personalized clothing subscription experience. The form should only be used for individuals who are interested in receiving clothing items on a regular basis.
-
-Please ensure that this form is not used for any other purpose. If you need help with anything else, please refer to other relevant resources.
-</thinking>
-
 # Budget Friendly Clothing Subscription Signup - Help Guide
 ## Purpose
 This form is designed to help you sign up for our clothing subscription service, where you can receive regular shipments of clothes that fit your style and budget.

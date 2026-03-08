@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal and medical information from users to assess their risk of cancer. The form is intended to be completed by individuals who are concerned about their cancer risk, and the data collected will be used to guide further medical consultations or assessments. The form is divided into several sections: Personal Information, Lifestyle Factors, Medical and Family History, Symptoms, and Assessment Date. To ensure accurate results, please answer all questions truthfully and provide as much detail as possible. This form is not intended for minors or individuals with severe cognitive impairments. Please note that the data collected will be kept confidential and used only for medical purposes. If you have any concerns or questions, please contact a medical professional.
-</thinking>
-
 # Cancer Risk Assessment Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information about your personal and medical history to assess your risk of cancer. This information will help guide further medical consultations or assessments.

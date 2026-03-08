@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from parents or guardians about their child's experience at a summer camp. The form is designed to collect information about the camper's satisfaction with the camp, their perception of the staff and facilities, and their overall enjoyment of the camp experience. This information will help the camp administrators to evaluate and improve the quality of services provided.
-
-This form has been created using AI, and its original metadata comes from public survey topics. It does not rely on any proprietary content from other form platforms, and is released under CC BY 4.0 license. This form is free to use, modify, and even sell, as long as you give credit.
-
-To ensure that this form is not duplicated, a check is in place to prevent copying or extracting proprietary content from other form platforms.
-
-</thinking>
-
 # Camp Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from parents or guardians about their child's experience at a summer camp.

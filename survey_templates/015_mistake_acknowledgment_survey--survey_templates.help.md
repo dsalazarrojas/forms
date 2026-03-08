@@ -1,21 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a mistake or incident that occurred in an organizational context. The purpose of this form is to help individuals acknowledge and document the details of the mistake, its impact, and the steps taken to address it. This form is intended to be used by teams or individuals to identify areas for improvement and ensure accountability.
-
-To complete this form, follow these steps:
-
-1. Provide a brief introduction to the mistake or incident.
-2. Describe the mistake or incident.
-3. Identify the responsible party or parties involved.
-4. Describe the impact of the mistake or incident.
-5. Document any lessons learned from the experience.
-6. Outline the action plans to prevent similar mistakes in the future.
-7. Describe the next steps to be taken.
-8. Identify the root cause of the mistake or incident.
-9. Confirm that the responsible party has acknowledged and agreed to take responsibility for their actions.
-
-</thinking>
-
 # mistake_acknowledgment_survey - Help Guide
 ## Purpose
 This form is designed to gather information about a mistake or incident that occurred in an organizational context.

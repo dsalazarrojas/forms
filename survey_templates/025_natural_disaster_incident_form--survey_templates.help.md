@@ -1,8 +1,3 @@
-<thinking>
-The "naturalDisasterIncidentForm" is used to collect information about incidents caused by natural disasters, such as floods, fires, earthquakes, and hurricanes. This form helps us to gather data on incidents that affect organizations and individuals, including damage assessments and relief efforts. It is essential that you complete this form accurately and thoroughly to ensure that we have a clear understanding of the situation.
-Before filling out this form, please ensure that you are familiar with the incident and have access to the necessary information. This form should only be completed once for each incident, and please do not duplicate efforts by completing multiple forms for the same incident.
-</thinking>
-
 # naturalDisasterIncidentForm - Help Guide
 ## Purpose
 The naturalDisasterIncidentForm is used to collect information about incidents caused by natural disasters, such as floods, fires, earthquakes, and hurricanes. This form helps us to gather data on incidents that affect organizations and individuals, including damage assessments and relief efforts.

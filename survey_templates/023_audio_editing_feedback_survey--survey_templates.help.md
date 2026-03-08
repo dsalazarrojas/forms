@@ -1,12 +1,3 @@
-<thinking>
-AI-generated survey template: a tool to help improve user experience. The "Audio Editing Feedback Survey" is designed to gather opinions and insights from clients on the quality of audio editing services received. This form helps identify areas of improvement, track progress, and foster a relationship with clients.
-
-By using this template, users can provide constructive feedback, rate the quality of work done, and suggest ways for the service to improve. The survey questions cover various aspects of the audio editing process, including project information, sound quality, timeliness, communication, and overall satisfaction.
-
-To ensure the form is filled out correctly and effectively, users should follow the instructions below.
-
-</thinking>
-
 # Audio Editing Feedback Survey - Help Guide
 ## Purpose
 The Audio Editing Feedback Survey is a tool to gather opinions and insights from clients on the quality of audio editing services received. This form helps identify areas of improvement, track progress, and foster a relationship with clients.

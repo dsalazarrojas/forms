@@ -1,8 +1,3 @@
-<thinking>
-The Supplier Delivery Schedule Request Form is a form used for requesting a delivery schedule from a supplier. It's intended for suppliers to provide their availability for delivering products or services to the company. This form is a standard form to be filled out by all suppliers and is used in conjunction with other forms to ensure accurate and timely deliveries. This form should only be filled out once per supplier and is used for internal tracking and reporting purposes. Please ensure that you only fill out this form once per supplier and that all required fields are correctly filled out.
-
-</thinking>
-
 # Supplier Delivery Schedule Request Form - Help Guide
 ## Purpose
 The Supplier Delivery Schedule Request Form is used to request a delivery schedule from a supplier for the delivery of products or services. This form is a standard form that all suppliers are required to fill out for internal tracking and reporting purposes.

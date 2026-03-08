@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users in creating a new order for retail shelf test units. The form is part of the "Supply Order Forms" category, and its purpose is to collect necessary information from customers for the purpose of placing an order for shelf test units. This information includes unit type, quantity, price, order date, tester unit name, unit number, customer name, email, phone, shipping address, city, state, and country. The form also includes two optional fields for customer notes.
-</thinking>
-
 # Retail Shelf Tester Unit Order Form - Help Guide
 ## Purpose
 This form is used to create a new order for retail shelf test units. It collects information from customers to facilitate the order process.

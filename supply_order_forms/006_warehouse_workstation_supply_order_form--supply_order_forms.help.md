@@ -1,17 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the field names and types. The form appears to be designed for managing supply orders for a warehouse, likely for stocking, maintenance, or other operational purposes. It asks for information about supplies, including item numbers, descriptions, quantities, locations, dates, and statuses. This form likely serves as a tool for warehouse staff to submit requests for supplies, track stock levels, or for supply managers to manage orders and deliveries. 
-Given the various fields, it seems to be a comprehensive form for collecting and managing multiple aspects of supply chain operations. 
-
-The form fields can be grouped into several categories:
-- General information (Item Number, Item Description, Unit of Measurement)
-- Supply details (Supply Type, Supply Location, Quantity Needed)
-- Order management (Order Date, Order Time, Supply Status, Supply Priority)
-- Additional information (Note, Email, Phone, Assigned To)
-- Management and tracking (Category, Sub Category, Item Status, Supply Requester, Supply Manager, Warehouse, Workstation)
-
-The fields are mostly optional, which suggests that users can fill in as much or as little information as needed, depending on the specific supply order.
-</thinking>
-
 # Warehouse Workstation Supply Order Form - Help Guide
 ## Purpose
 This form is designed to collect information about supplies needed for warehouse operations. It helps warehouse staff submit requests for supplies, stock management, and track supply orders. 

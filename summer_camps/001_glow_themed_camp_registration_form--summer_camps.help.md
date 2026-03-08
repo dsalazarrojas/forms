@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who want to participate in a Glow Themed Camp. The camp is focused on providing a unique and fun experience for its participants. To ensure that the form is completed correctly and that we can cater to the participant's needs, it's essential that we understand the purpose of each field. 
-
-Each field should be filled out according to the participant's preference, and it's crucial that the participant understands what information we need to process their registration. If a participant has already registered for the camp, they should not submit the form again. If a participant is unsure about any information, they should ask the camp staff for clarification. This form's fields and their corresponding labels should be completed according to the following guide.
-</thinking>
-
 # Glow Themed Camp Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants who wish to join the Glow Themed Camp. Please read each field explanation carefully to ensure you provide accurate details for your camp experience.

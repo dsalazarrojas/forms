@@ -1,7 +1,3 @@
-<thinking>
-Internal note: The form "data_upload_form" is used for uploading data and files. It is used within the category "survey_templates" and allows users to input a description, select assigned tools and category, and upload additional files. To avoid data duplication, the form checks for existing data before submitting new information.
-</thinking>
-
 # data_upload_form - Help Guide
 ## Purpose
 This form is used to upload data and files within the "survey_templates" category. It helps users provide a description, choose assigned tools and category, and upload additional files to support their data.

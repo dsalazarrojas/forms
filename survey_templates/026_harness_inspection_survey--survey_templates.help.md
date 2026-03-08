@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather information about the inspection process of a harness, which is a crucial process in ensuring the quality and integrity of industrial equipment. The purpose of this form is to guide users in providing accurate and comprehensive information about the inspection process, which will help in identifying potential issues and taking corrective actions.
-
-Before proceeding, please ensure that you have the necessary permissions and qualifications to conduct the inspection, and that you have the relevant information and resources required to complete this form.
-
-This form is part of a larger process, so please ensure that you do not complete it if you have already submitted a similar form or have access to the relevant information through other means.</thinking>
-
 # Harness Inspection Survey - Help Guide
 ## Purpose
 The Harness Inspection Survey is used to gather information about the inspection process of a harness, ensuring the quality and integrity of industrial equipment.

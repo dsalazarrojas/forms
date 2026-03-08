@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # royal_family_kids_camp_application_form - Help Guide
 
 ## Purpose

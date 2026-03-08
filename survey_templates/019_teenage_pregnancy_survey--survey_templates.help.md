@@ -1,10 +1,3 @@
-<thinking>
-This form is a survey designed for collecting information about incidents of teenage pregnancy. It aims to gather data on the circumstances surrounding the pregnancy, including what happened and what may have caused it. Please note that this form should only be completed if the case meets specific criteria and is not a duplicate case.
-
-The survey consists of five sections: "What happened", "What caused it", a date question, a time question, a question, and another question.
-
-</thinking>
-
 # Teenage Pregnancy Survey - Help Guide
 ## Purpose
 This form is designed to collect information about incidents of teenage pregnancy.

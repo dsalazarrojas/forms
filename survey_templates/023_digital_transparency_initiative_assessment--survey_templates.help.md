@@ -1,14 +1,3 @@
-<thinking>
-This form is used to assess the team's digital transparency initiative. Digital transparency refers to the practice of making information and processes accessible and open to all team members, stakeholders, and the public. The purpose of this form is to gather information about the team's current state of digital transparency, which will help the organization to understand where they stand in terms of their digital transparency journey. This assessment will help identify areas for improvement and provide recommendations for increasing digital transparency within the team.
-
-This form is designed to collect information about the team's characteristics, such as their size, type, and lead's contact information. The assessment date and time of the form completion are also required. This information will be used to provide a comprehensive understanding of the team's digital transparency state.
-
-Before starting the assessment, please ensure that the team lead has authorized the completion of this form. If the team lead is not available, please contact the responsible person to confirm their contact information.
-
-Please note that the assessment date and time should match the actual date and time of the team's current state. If there are any changes in the team's size or type, please update the form accordingly.
-
-</thinking>
-
 # Digital Transparency Initiative Assessment - Help Guide
 ## Purpose
 This form is used to assess the team's digital transparency initiative and gather information about their current state, which will help the organization identify areas for improvement and provide recommendations for increasing digital transparency.

@@ -1,17 +1,3 @@
-<thinking>
-The Frozen Ingredient Replenishment Order Form is a form used by suppliers to place orders for frozen ingredients to be replenished. It is an essential document for maintaining inventory levels, ensuring that frozen goods are not depleted and that there is always a steady supply. The form is typically used by procurement teams, logistics coordinators, or inventory managers who need to keep track of order cycles and replenishment schedules.
-
-This form helps to clarify the process of placing orders for frozen ingredients, providing a standardized framework for communication between suppliers and internal teams. By following this guide, users will be able to efficiently submit orders and ensure that their frozen goods are consistently replenished.
-
-The following fields are relevant to the form: 
-* `order_details` 
-* `order_frequency`
-* `delivery_frequency`
-* `order_notes`
-
-These fields will be explained in detail below.
-</thinking>
-
 # Frozen Ingredient Replenishment Order Form - Help Guide
 
 ## Purpose

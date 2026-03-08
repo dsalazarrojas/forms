@@ -1,11 +1,3 @@
-<thinking>
-
-Summer camps require various facilities for events and activities. To ensure a smooth experience, this form helps us gather information about your camp's rental and event details. Please fill out this form to request summer camp facilities, and our team will review your request.
-
-We will not process duplicate requests. If you've already submitted a request for summer camp facilities, please do not resubmit. Our team will follow up with you once your request is processed.
-
-</thinking>
-
 # Summer Camp Facilities Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your summer camp's rental and event details so that our team can review and process your request for summer camp facilities.

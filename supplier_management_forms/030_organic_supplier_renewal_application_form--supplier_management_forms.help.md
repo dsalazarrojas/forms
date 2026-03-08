@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to support suppliers in renewing their organic certification with the organization. This process involves providing necessary details about the supplier, their certifications, and other relevant information. To confirm that this form is suitable for the supplier, you should ensure that the supplier has the necessary knowledge of the certifications and other required information. Please note that this form does not include any sensitive or confidential information fields, and all data collected will be used for organizational purposes only. If you are unsure whether this form is relevant or suitable for your supplier, please review the provided instructions carefully before proceeding.
-</thinking>
-
 # Organic Supplier Renewal Application Form - Help Guide
 ## Purpose
 The Organic Supplier Renewal Application Form is designed to gather the necessary information from suppliers to renew their organic certification with the organization. This form will help you provide the required details for the renewal process.

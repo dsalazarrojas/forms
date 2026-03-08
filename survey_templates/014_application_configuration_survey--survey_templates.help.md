@@ -1,6 +1,4 @@
-> <thinking>... this form is intended to help users provide feedback on application configuration and identify areas for improvement. This feedback will inform application development and refinement. Ensure you answer questions based on your actual experience with the application. Do not provide speculative or hypothetical responses. This form is a one-time submission. If you have a recurring issue, please submit a new response for each occurrence. Duplicate submissions will be discarded. Please answer honestly and thoroughly, providing as much detail as possible. If you're unsure about any question, try to answer it as you would in a regular conversation. Your input is invaluable for the application's development and success. Thank you for taking the time to share your thoughts. Please note that the application may request follow-up contact if needed... </thinking>
-
-# Application Configuration Survey - Help Guide
+> # Application Configuration Survey - Help Guide
 ## Purpose
 This survey is designed to gather your feedback on the application's configuration and identify areas for improvement. Your input will help us refine the application and provide a better user experience.
 

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to assist users in understanding the purpose and usage of the Factory Emergency Exit Signage Order Form. The form is designed to collect information for ordering emergency exit signage for a factory setting. The form is typically used by authorized personnel to submit orders for custom-made emergency exit signs that meet specific factory regulations and safety standards. Before filling out the form, please verify that you have the necessary authority to place an order for emergency exit signage.
-</thinking>
-
 # Factory Emergency Exit Signage Order Form - Help Guide
 ## Purpose
 This form is used to order emergency exit signage for a factory setting. Please provide accurate information to ensure proper completion of the order.

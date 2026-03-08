@@ -1,14 +1,3 @@
-<thinking>
-This form is used to evaluate the performance of business partners' stores. It assesses various aspects of store operations, including overall condition, cleanliness, inventory accuracy, product display, staff appearance, customer service quality, compliance status, and other relevant factors.
-
-The form aims to provide a comprehensive picture of the store's strengths and weaknesses, allowing for targeted improvements and better business decisions. It's essential to fill out the form accurately to capture a true representation of the store's state.
-
-The evaluation is typically conducted by a designated evaluation manager, who should be aware of the store's history and background. This form is used to gather feedback from evaluation managers who need to assess the stores regularly.
-
-This form should not be used for other purposes or shared with unauthorized parties.
-
-</thinking>
-
 # Business Partner Store Evaluation - Help Guide
 ## Purpose
 This form is used to evaluate the performance of business partners' stores.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this template is to gather information on customer attitudes and behaviors, specifically their satisfaction with various aspects of the product or service. This template is meant to be used by customers to provide feedback on their experiences. It's essential to understand the purpose of this template and ensure that it is used correctly to avoid duplication of effort. For example, if another template is already being used to collect similar data, it's best to use the existing one instead of creating a new one. This will save time and resources and ensure that the data is accurate and consistent.
-</thinking>
-
 # Customer Attitudes Survey Template - Help Guide
 ## Purpose
 The Customer Attitudes Survey Template is a tool designed to collect information on customer attitudes and behaviors, specifically their satisfaction with various aspects of the product or service. This template is meant to be used by customers to provide feedback on their experiences.

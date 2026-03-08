@@ -1,7 +1,3 @@
-<thinking>
-This is a form used to collect feedback from customers about the health of a product launch. The form is intended to gauge the overall satisfaction and potential for improvement of a product. It should only be filled out by customers who have interacted with the product or have some level of familiarity with it. The form should not be filled out by customers who are completely unfamiliar with the product or who did not interact with it at all. To ensure the form is filled out correctly, please verify that the product launch is complete and that you have some level of experience with it. If you're not sure if you're eligible to fill out this form, please contact the product team for clarification.
-</thinking>
-
 # product-launch-health-survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about the health of a product launch. It will help us understand how well the product met your expectations and where we can improve it for future launches.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from members about their communication preferences and needs. The form asks for basic personal details such as first name, email, and member ID, as well as their preferred communication methods, frequency, and time slots. This information will help the organization understand the members' individual requirements and tailor their communication approach accordingly.
-
-To ensure data quality, please fill in the form accurately and completely. If you're unsure about any field, please ask for help or clarification before submitting the form.
-
-This form has multiple pages. Please fill out one page at a time, and you will be able to navigate between pages using the 'Next' and 'Back' buttons.
-</thinking>
-
 # Member Communication Form - Help Guide
 ## Purpose
 This form is used to collect member communication preferences and feedback.

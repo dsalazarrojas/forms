@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about the civic awareness of individuals in various aspects. The form is not affiliated with any form platform and is created using public survey topic metadata. It is free to use, modify, and distribute under CC BY 4.0.
-
-</thinking>
-
 # Civic Education Awareness Survey - Help Guide
 ## Purpose
 This form aims to collect data on civic awareness, including knowledge of government structure, voting rights, and citizen responsibilities. It also assesses participants' engagement in civic activities, interest in civic issues, and sources of civic education. The survey aims to identify areas of improvement in civic education programs.

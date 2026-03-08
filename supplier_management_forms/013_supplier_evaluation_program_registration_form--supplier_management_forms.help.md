@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "supplier_evaluation_program_registration_form" form. This form is used to register suppliers for an evaluation program. Its purpose is to collect information about the supplier, their evaluation program details, and their consent to participate in the program. The form is used to ensure that suppliers are properly registered and their programs are evaluated accordingly. To prevent duplication, the form should be filled out only once per supplier. If a supplier has already been registered, they will not be able to register again. This guide will help users understand what information is required and how to fill out the form correctly.</thinking>
-
 # supplier_evaluation_program_registration_form - Help Guide
 ## Purpose
 The supplier evaluation program registration form is used to register suppliers for an evaluation program. This form is necessary to collect information about the supplier and their evaluation program details.

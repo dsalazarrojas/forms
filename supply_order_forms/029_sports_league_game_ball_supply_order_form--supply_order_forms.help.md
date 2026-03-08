@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for sports league game ball supply orders. The purpose of this form is to collect information from customers for game ball supplies. This form is designed to be completed by customers to place an order for game balls for their sports league game. The form collects customer's first name, email, phone number, order date, order time, select one option, select multiple options, and note. This form does not require any specific information, but it is recommended to provide accurate and complete data for a successful order.
 
 # Sports League Game Ball Supply Order Form - Help Guide

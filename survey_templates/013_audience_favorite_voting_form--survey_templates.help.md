@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Audience Favorite Voting Form - Help Guide
 ## Purpose
 This form is designed to collect audience feedback and ratings for a show, event, or performance. It aims to gather information on the audience's favorite act or performance, overall show rating, and other aspects of the event such as venue satisfaction and how they heard about it. The collected data will help event organizers understand their audience's preferences and improve future events.

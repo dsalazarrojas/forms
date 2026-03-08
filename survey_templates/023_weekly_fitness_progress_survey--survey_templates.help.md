@@ -1,6 +1,3 @@
-<thinking>
-This form's purpose is to collect weekly fitness progress data from users, likely to track their workout and exercise habits, and provide a comprehensive snapshot of their progress towards fitness goals. This form's design suggests it's meant to be a recurring assessment, possibly for weekly, bi-weekly, or monthly tracking. The fields appear to encompass various aspects of physical activity, motivation, and goal-oriented metrics, implying a focus on both physical progress and mental motivation. Before proceeding, let's ensure this form is not a duplicate of another survey and that the data collected here is not redundant with another form's data.</thinking>
-
 # Weekly Fitness Progress Survey - Help Guide
 ## Purpose
 The Weekly Fitness Progress Survey is designed to help you track your physical activity, motivation, and progress towards your fitness goals. This survey should be completed weekly or as needed to provide a comprehensive view of your fitness journey.

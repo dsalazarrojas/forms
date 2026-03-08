@@ -1,23 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I first need to understand the purpose and requirements of the form based on the provided YAML fields. The form is for subscribing to a Data Analytics Platform, and it appears to be a simple form for collecting user information and subscription details. The form has 11 fields, with the following properties:
-
-*   First Name (id: 1, type: text)
-*   Last Name (id: 2, type: text)
-*   Email (id: 3, type: email)
-*   Phone (id: 4, type: text)
-*   Plan (id: 5, type: select_one)
-*   Payment Method (id: 6, type: select_multiple)
-*   Subscription Period (id: 7, type: select_one)
-*   Notes (id: 8, type: note)
-*   Agreement (id: 9, type: text)
-*   Agreement Acknowledgement (id: 10, type: select_multiple)
-*   Payment Terms (id: 11, type: text)
-
-All fields are not required, except for the Agreement Acknowledgement field, which has a default value of "No" and should be set to "Yes" in order to complete the form.
-
-Given this information, I will create a user-facing help guide for the form.
-</thinking>
-
 # Data Analytics Platform Subscription Form - Help Guide
 ## Purpose
 This form is for subscribing to the Data Analytics Platform. It requires some basic user information and subscription details to complete.

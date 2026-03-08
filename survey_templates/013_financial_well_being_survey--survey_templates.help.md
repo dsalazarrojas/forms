@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's financial well-being by asking a series of questions about their financial status, income, debt, savings, risk tolerance, and investment goals. It is likely used to assess the user's financial literacy, investment strategy, and financial priorities. This form is not intended to be completed by users who are not interested in investing or managing their finances. To ensure the form is being used correctly, please review the following guide.
-</thinking>
 # Financial Well Being Survey - Help Guide
 ## Purpose
 The Financial Well Being Survey is a form designed to collect information about a user's financial well-being. It asks questions about their financial status, income, debt, savings, risk tolerance, and investment goals. This information will help the user assess their current financial situation and identify areas for improvement.

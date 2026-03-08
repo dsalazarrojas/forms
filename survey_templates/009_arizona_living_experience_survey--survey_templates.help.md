@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about the living experience in Arizona, focusing on various aspects such as housing, community connection, quality of life, services, and challenges. It is intended for respondents who have lived in Arizona for at least a year. The form aims to gather data on their satisfaction with housing, community, and services, as well as their main concerns and future plans for the state. The form includes a mix of multiple-choice questions and open-ended fields for additional comments. This form is not affiliated with any specific platform and is created by an AI using public survey topic metadata as inspiration.
-
-</thinking>
-
 # Arizona Living Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather information from individuals about their living experience in Arizona. It collects data on their satisfaction with housing, community, and services, as well as their main concerns and future plans for the state.

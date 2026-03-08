@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # App User Onboarding Survey - Help Guide
 
 ## Purpose

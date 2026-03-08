@@ -1,19 +1,3 @@
-<thinking>
-This form is for users who have experienced betrayal in their relationships, and it's designed to help them assess their current level of well-being, identify their support needs, and explore their interest in recovery patterns and resources. To prevent duplication, users are not allowed to access this form if they've already completed it in the past 30 days.
-
-This form has 10 fields, each with a specific purpose:
-- The first page asks about the user's current well-being level and what kind of support they need.
-- The second page asks about the recovery patterns they're familiar with or interested in.
-- The third page asks about the current support systems in place.
-- The fourth and fifth pages cover their current involvement with counseling and coaching.
-- The sixth and seventh pages ask about their desired frequency of meetings with a counselor or coach.
-- The eighth page asks about their involvement with a peer support group.
-- The ninth page asks about their desired meeting frequency with a peer support group.
-- The tenth page is not used in this version of the form.
-
-Please note that some fields are optional and allow for multiple selections.
-</thinking>
-
 # Post Betrayal Support Survey - Help Guide
 ## Purpose
 This form is designed to help individuals who have experienced betrayal in their relationships assess their current well-being, identify their support needs, and explore recovery patterns and resources. It's essential to complete this form honestly, as the data will help us provide more accurate support and guidance.

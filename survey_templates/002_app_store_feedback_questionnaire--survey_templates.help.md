@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users who have used the app to help improve its development and user experience. This feedback will be used to identify areas of improvement and make data-driven decisions to enhance the app's features, performance, and overall user satisfaction.
-
-To ensure accurate and relevant feedback, please complete all required fields. The form has been designed to gather information on various aspects of the app, including user experience, features, and support. Your responses will help us understand your needs and preferences, and we appreciate your time in providing detailed and honest feedback.
-
-Before starting, please ensure that you have not already submitted feedback for this questionnaire. If you have, your responses will not be recorded or considered.
-
-</thinking>
-
 # App Store Feedback Questionnaire - Help Guide
 ## Purpose
 

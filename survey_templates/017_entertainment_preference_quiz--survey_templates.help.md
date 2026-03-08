@@ -1,5 +1,3 @@
-<thinking>By using this form, you will be helping us collect data on how people enjoy entertainment. This form asks for preferences for movies, music, live events, and social media. It is intended for entertainment industry professionals to learn about audience interests. If you are a developer, you can modify or sell this form as a starting point for your own projects. Please note that this form does not collect any sensitive or personal information, as it is designed to be public and shareable under CC BY 4.0 license. If you have any issues or concerns, feel free to contact form@gic.mx for assistance.</thinking>
-
 # Entertainment Preference Quiz - Help Guide
 ## Purpose
 

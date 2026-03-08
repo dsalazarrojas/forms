@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Store Opening Staff Badge Order Form - Help Guide
 ## Purpose
 The Store Opening Staff Badge Order Form is a document used to place an order for store opening staff badges. This form is used to collect information about the staff member who will be receiving the badge, including their details, shipping and billing information, payment method, and badge preferences.

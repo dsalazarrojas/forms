@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for the order of anti slip mats for supply purposes. It collects contact and order details such as company name, contact person, and contact information. It also gathers information about the delivery address, including city and state, zip code and the specific dimensions, thickness and color of the mats. Additionally, it collects details about the quantity of mats required, the application area where the mats will be used, budget amount per mat, any special requirements or customizations needed, and the preference for rush delivery and warranty. All this information is crucial for the production and delivery of the anti slip mats as per the client's requirements.
-</thinking>
-
 # Anti Slip Mat Supply Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for the supply of anti slip mats. It is essential to provide accurate and complete details to ensure that the mats are delivered correctly and efficiently.

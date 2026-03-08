@@ -1,11 +1,3 @@
-<thinking>
-
-We're creating a help guide for a "net_promoter_score_questionnaire" form. This form is used to collect feedback from customers about their satisfaction with a business. The purpose of this form is to gauge the customer's likelihood to recommend the business and their overall satisfaction with it. By filling out this form, customers can provide valuable insights that can help the business improve its services and offerings.
-
-Before proceeding, please make sure you're completing this form for the right purpose and not duplicating it, as this can skew the data.
-
-</thinking>
-
 # net_promoter_score_questionnaire - Help Guide
 ## Purpose
 The net_promoter_score_questionnaire is a survey designed to measure customer satisfaction and the likelihood of customers recommending a business. By answering the following questions, you will help us understand how we can improve our services and offerings.

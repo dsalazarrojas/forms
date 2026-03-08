@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information about a vendor's sustainability practices and compliance status. The form will be used to track and report on a vendor's sustainability performance, which is essential for companies to make informed decisions about their business relationships. To ensure that this form is completed accurately and effectively, please review the following instructions and explanations.
-
-The vendor is required to complete the form by providing information on their sustainability practices, certifications, report status, and other relevant details. This form will help the company assess the vendor's commitment to sustainability and make decisions based on this information.
-
-Please note that the form is not meant to be a comprehensive sustainability report, but rather a snapshot of the vendor's current sustainability status. The information collected will be used to track progress and identify areas for improvement.
-
-To complete this form, the vendor should provide information on their sustainability practices, certifications, report status, and other relevant details. Please make sure to provide accurate and up-to-date information to ensure that the company can make informed decisions.
-
-Please review the explanations below for each field to ensure that you understand what information is required and how to complete the form correctly.
-</thinking>
-
 # Vendor Sustainability Compliance Report Form - Help Guide
 ## Purpose
 The Vendor Sustainability Compliance Report Form is designed to collect information about a vendor's sustainability practices and compliance status. This form will help the company assess the vendor's commitment to sustainability and make informed decisions about their business relationship.

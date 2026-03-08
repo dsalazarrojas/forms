@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to select a dog breed based on their lifestyle and preferences. It is not meant to be completed multiple times, and users are expected to provide honest and accurate information to get the best possible results. The form will guide users through a series of questions to narrow down their preferences and suggest suitable dog breeds that fit their needs.
-</thinking>
-
 # dog_breed_selector_survey - Help Guide
 ## Purpose
 This form is designed to help you find the perfect dog breed that suits your lifestyle and preferences. Please answer the following questions to get started.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # film_camp_detailed_registration_form - Help Guide
 ## Purpose
 The "film_camp_detailed_registration_form" is designed to collect detailed information from participants for a summer film camp. This form is meant to gather essential data for camp organizers to better understand participants' needs, preferences, and requirements.

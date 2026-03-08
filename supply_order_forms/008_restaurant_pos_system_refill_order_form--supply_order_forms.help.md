@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect refill order information for restaurant POS systems. The form is designed to be completed by restaurant staff or management to request supplies, and the information collected will be used to track and process orders efficiently. This form is not intended to be used for other purposes, such as customer order taking or sales transactions. Please ensure that you only complete this form for refill orders.
-</thinking>
-
 # Restaurant POS System Refill Order Form - Help Guide
 ## Purpose
 The Restaurant POS System Refill Order Form is designed to collect refill order information for restaurant POS systems. This form helps restaurant staff or management to request supplies and track orders efficiently.

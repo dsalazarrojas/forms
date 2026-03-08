@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to streamline the supply ordering process for vegan cheese products. It allows users to select the products they want to order, choose a delivery date and time, and specify the quantity of each product. This form is intended to cater to the needs of businesses that sell or distribute vegan cheese products, such as online retailers or brick-and-mortar stores. The form aims to make it easier for them to place orders with their suppliers. 
-
-This is a general-purpose form and does not cater to the specific needs of individual customers. 
-
-Note that all fields are optional, which means users do not have to fill them in if they do not need to. 
-
-</thinking>
-
 # Vegan Cheese Supply Order Form - Help Guide
 ## Purpose
 The Vegan Cheese Supply Order Form is designed to streamline the ordering process for vegan cheese products. It allows businesses to select products, choose a delivery date and time, and specify the quantity of each product.

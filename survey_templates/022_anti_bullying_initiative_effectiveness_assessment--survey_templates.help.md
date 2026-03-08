@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to assess the effectiveness of anti-bullying initiatives within a school. The form is designed to gather information from respondents about their role in the school, their awareness of anti-bullying policies, their perception of safety, and their experience with bullying behaviors. This data will help the school administration and staff understand the impact of their initiatives and identify areas for improvement.
-
-It's essential to review this form carefully to ensure that the respondent is the intended target audience (e.g., students, parents, staff) and that the answers provided are accurate and relevant to their experience. If a respondent has completed this form before, please review the changes to this form and provide feedback on the updated questions.
-
-Please note that the fields are designed to be clear and concise, and each field has a specific purpose in mind. If you're unsure about a particular field or question, please refer to the explanations provided below to understand its meaning and relevance.
-
-</thinking>
-
 # Anti-Bullying Initiative Effectiveness Assessment - Help Guide
 ## Purpose
 This form is designed to gauge the effectiveness of anti-bullying initiatives within the school. It's essential to be honest and accurate when answering the questions, as the data collected will help the school administration and staff make informed decisions about future initiatives.

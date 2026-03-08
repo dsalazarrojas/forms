@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information about a customer's journey mapping experience with our business. It's meant to be completed by customers who have interacted with us at some point in time, but it's also relevant for those who haven't. This form doesn't collect personal identifiable information, so it's suitable for anyone willing to provide feedback. This form is part of our effort to better understand our customers' experiences with our business and improve our services. Please complete this form to help us improve our services for you and other customers in the future.</thinking>
-
 # Customer Journey Mapping Survey - Help Guide
 ## Purpose
 This is a survey designed to help us understand your experience with our business. Your input will help us improve our services and create a better journey for you and others.

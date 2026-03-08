@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their communication preferences, including how they would like to be contacted (e.g., email, phone, or both), their preferred communication time of day, and any additional notes or information they may want to provide. This form is likely used to gather user data for internal purposes, such as creating a communication plan or calendar.
-
-To prevent duplication and ensure accurate data collection, it's essential to fill out the form correctly and only once. If you're unsure about any of the fields or options, please refer to this help guide for clarification.
-
-Before proceeding, ensure you've filled out the form only once for each user. If you need to update information, it's best to use the same user ID or handle to avoid creating duplicate entries.
-
-Please note that this form is designed to be completed by individual users, not for group or company-wide communications.
-
-</thinking>
-
 # Low Text Communication Preference Form - Help Guide
 
 ## Purpose

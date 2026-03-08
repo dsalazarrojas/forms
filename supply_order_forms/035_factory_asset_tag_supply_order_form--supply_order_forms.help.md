@@ -1,7 +1,3 @@
-<thinking>
-The Factory Asset Tag Supply Order Form is used to create a request for ordering factory assets or supplies. This form should only be used for requesting new orders and not for reordering or canceling existing orders. Please review your internal processes to confirm that this is the correct form for your use case and that you are not duplicating work. To complete this form, select the "Yes" option for "Select Item" to indicate that you are creating a new order. Enter a brief description of the item in the "description" field. For items that require a specific tag, select the corresponding "Item Tag" field. The "Order Date" field should be the date you are requesting the order for, while the "Order Time" field should be the time of the day you are requesting the order for. Enter the quantity of the item you are requesting in the "Item Quantity" field. Select the "Order Frequency" field to indicate how often you would like to receive the ordered items. Finally, select the "Order Status" field to indicate the current status of the order. Use the "Order Note" field to add any additional comments or details about the order.
-</thinking>
-
 # Factory Asset Tag Supply Order Form - Help Guide
 ## Purpose
 This form is used to create a request for ordering factory assets or supplies.

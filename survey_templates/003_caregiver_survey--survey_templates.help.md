@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand the purpose of the "Caregiver Survey" form, which appears to be a questionnaire designed to assess the quality of care provided by a caregiver. The form collects information about the respondent's relationship with the care recipient, the duration and frequency of their interaction, and their opinions on various aspects of the care provided, such as communication, safety, and overall satisfaction. It seems to be a survey tool used for evaluation and feedback purposes.
-
-Before proceeding, I should check if the survey is intended for a specific use case or if there's any other specific documentation or context available. Please confirm if there's any additional information available that would help me tailor the help guide to the specific needs of the users.
-
-Assuming the form is intended for a generic use case, I will proceed to create the user-facing help guide.</thinking>
-
 # Caregiver Survey - Help Guide
 ## Purpose
 This help guide is intended to assist users in completing the "Caregiver Survey" form, which is used to evaluate and provide feedback on the quality of care provided by caregivers. The survey collects information about the respondent's relationship with the care recipient, their interaction frequency and duration, and their opinions on various aspects of care provided.

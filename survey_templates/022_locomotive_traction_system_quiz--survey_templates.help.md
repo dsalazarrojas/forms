@@ -1,8 +1,3 @@
-<thinking>
-This form, the locomotive_traction_system_quiz, is used in a training context to assess an individual's knowledge on locomotive traction systems. The form is used to test the ability to identify the correct answers to various questions related to locomotive traction systems, specifically regarding traction systems' components, failure causes, maintenance, control, capacity, and performance. 
-It's essential to ensure that the form is filled out accurately, and the questions are answered truthfully, to get reliable results. The form is designed to be completed in a single session, and the required fields are traction_system_control, traction_system_capacity, and traction_system_performance.
-</thinking>
-
 # locomotive_traction_system_quiz - Help Guide
 ## Purpose
 The locomotive_traction_system_quiz form is designed to test the knowledge on locomotive traction systems.

@@ -1,5 +1,3 @@
-<thinking>**This form is designed to collect information on childhood trauma from respondents. It is a confidential survey and all information provided will be handled accordingly. To ensure accurate and comprehensive data, please answer all questions honestly, and if you need help or support, you may contact us at any time. This form is part of a larger research project aimed at understanding the prevalence and impact of childhood trauma. Please answer carefully and to the best of your ability.</thinking>
-
 # Childhood Trauma Survey - Help Guide
 ## Purpose
 The Childhood Trauma Survey is a series of questions designed to collect information on your experiences and perceptions of childhood trauma. Please answer all questions honestly and to the best of your ability. Your participation is crucial in helping us better understand the impact of childhood trauma on individuals.

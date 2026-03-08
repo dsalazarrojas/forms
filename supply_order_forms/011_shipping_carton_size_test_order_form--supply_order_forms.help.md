@@ -1,8 +1,3 @@
-<thinking>
-This form is used to facilitate shipping carton size testing orders. The form is designed to collect information from users regarding their test request, carton size, delivery preference, delivery date, delivery time, order details, contact email, contact phone number, and vendor name. This form serves as a centralized platform for users to provide necessary information for their shipping carton size test orders. Before starting, ensure you are familiar with the form's requirements and have the necessary information ready. If you are unsure about any field, it is recommended that you consult with your supervisor or refer to the internal guidelines for further guidance.
-
-</thinking>
-
 # shipping_carton_size_test_order_form - Help Guide
 ## Purpose
 The shipping carton size test order form is used to collect information for shipping carton size testing orders. 

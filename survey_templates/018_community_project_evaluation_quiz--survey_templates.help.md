@@ -1,5 +1,3 @@
-<thinking> ... </thinking>
-
 This is a help guide for the "Community Project Evaluation Quiz" form. 
 
 The purpose of this form is to evaluate the success of community projects, gathering feedback on their outcomes, effectiveness, and areas for improvement. It is essential to complete this form accurately to provide a comprehensive assessment of the project's achievements and challenges.

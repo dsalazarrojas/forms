@@ -1,15 +1,3 @@
-<thinking>
-The Water Based Adhesive Order Form is used to collect information for orders of water-based adhesives. The form is used to capture customer details, adhesive type, quantity ordered, and other relevant information necessary for fulfilling the order. 
-
-This form is typically used for internal business purposes and is not intended for public access. It is crucial to complete this form accurately to ensure that the order is processed correctly and that all required information is provided.
-
-Before starting the form, review the fields below to ensure you have all the necessary information before proceeding.
-
-To prevent duplication of effort, please check that a form for the same adhesive type and customer information has not already been submitted before creating a new form.
-
-Please ensure that all mandatory fields are filled out correctly before submitting the form.
-</thinking>
-
 # Water Based Adhesive Order Form - Help Guide
 
 ## Purpose

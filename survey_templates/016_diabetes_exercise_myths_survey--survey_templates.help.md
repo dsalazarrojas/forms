@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for surveying individuals about their knowledge and beliefs regarding diabetes, exercise, and physical activity. The survey might be used for research purposes or to understand public awareness about diabetes management through exercise. It's essential to ensure that this survey doesn't duplicate any existing knowledge or research, especially if there are similar studies already published. Please ensure that the survey questions are clear and concise and follow the best practices for questionnaire design.
-</thinking>
-
 # Diabetes Exercise Myths Survey - Help Guide
 ## Purpose
 This form aims to gather information from individuals about their knowledge and beliefs regarding diabetes, exercise, and physical activity. It is designed to understand public awareness and perceptions of diabetes management through exercise.

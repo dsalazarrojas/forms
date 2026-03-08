@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Playground Design Voting Form - Help Guide
 ## Purpose
 This form is designed to collect information about the community's preferences and opinions on the design and features of a playground in our community. The input will help inform the design process and ensure that the final product meets the community's needs and expectations.

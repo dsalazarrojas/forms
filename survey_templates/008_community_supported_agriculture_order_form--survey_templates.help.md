@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for customers who are new to CSA programs and need assistance understanding the order process. It's also for existing customers who may want to review the process or need a refresher. This guide will cover the essential information to complete the Community Supported Agriculture (CSA) Order Form and ensure a smooth ordering experience.
-</thinking>
-
 # Community Supported Agriculture Order Form - Help Guide
 ## Purpose
 The Community Supported Agriculture Order Form is a crucial document that helps us understand your preferences and needs for our produce delivery program. It's a comprehensive form that guides you through choosing the perfect share size, delivery frequency, and additional add-ons for your optimal produce experience.

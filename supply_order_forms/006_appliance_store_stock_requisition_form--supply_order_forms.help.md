@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Appliance Store Stock Requisition Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Survey templates are used to create standardized forms for collecting and storing participant information and survey data in a structured and organized way. The purpose of this form is to ensure consistency and accuracy in data collection, which is important for survey analysis and research. This form can be used for various types of surveys, including those for academic, research, or business purposes. To avoid confusion, please make sure to fill out the form with the correct information for your specific survey purpose.</thinking>
-
 # survey_participation_consent_form - Help Guide
 ## Purpose
 This form is used to collect participant information and survey data for the purpose of survey analysis.

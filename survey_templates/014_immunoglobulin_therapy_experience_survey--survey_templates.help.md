@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "immunoglobulin_therapy_experience_survey" form, let's analyze the provided YAML fields and consider the form's purpose, user interaction, and potential pain points.
-
-The form appears to be designed for collecting feedback and data from patients who have undergone immunoglobulin therapy. The form is likely used in a healthcare setting to gather information about the patient's experience, treatment outcomes, and satisfaction levels. To ensure users complete the form accurately and effectively, it's essential to provide clear explanations and guidance.
-
-</thinking>
-
 # immunoglobulin_therapy_experience_survey - Help Guide
 ## Purpose
 

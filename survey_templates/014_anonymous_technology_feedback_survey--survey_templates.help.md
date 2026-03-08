@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect anonymous feedback from users about a specific technology or software. The purpose of this form is to gather information about the user's experience with the technology, including their ease of use, reliability, performance, and satisfaction with available features. This feedback will help the technology developers to identify areas of improvement and make informed decisions about future development.
-
-To ensure that this form is not duplicated, we'll be using a unique identifier or token to track submissions.
-
-The form is divided into several sections, each with a specific set of questions that target different aspects of the user's experience. The form will ask for the user's name (not required), the frequency of use, the primary purpose of using the technology, ease of use, reliability, performance, satisfaction with features, known issues or bugs, adequate training received, and quality of technical support. The user will be able to provide suggestions for improvements or new features.
-
-Please note that some questions may have a predefined set of options or ratings, which are provided below.
-
-</thinking>
-
 # Anonymous Technology Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect anonymous feedback from users about a specific technology or software.

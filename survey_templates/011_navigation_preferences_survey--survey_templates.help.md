@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Navigation Preferences Survey" form is to gather feedback from users about their preferences for navigation tools within a system or application. This form is designed to elicit opinions and opinions on the satisfaction level of current navigation features, as well as priorities for future feature development. The form should be completed by a user who has used the navigation tools in the past and can provide informed opinions. Please ensure this is not a duplicate response from the same user. This survey is meant to provide valuable insights to improve the navigation experience for all users.
-</thinking>
-
 # Navigation Preferences Survey - Help Guide
 ## Purpose
 The Navigation Preferences Survey aims to gather your opinions about the navigation tools you've used in the past and help us understand your preferences for future development.

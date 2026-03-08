@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I'll analyze the form's metadata and structure. The form appears to be a survey for individuals to assess their current emotional state using the Bach Flower Remedies framework. This framework is a form of energetic healing and personal development that aims to help individuals identify and address emotional imbalances. The form is designed to guide users through a series of questions to help them identify their current emotional state and select the remedies that best match their needs.
-
-To ensure the form is used as intended, I'll provide a detailed help guide to explain each field and its purpose.
-
-</thinking>
-
 # Bach Flower Remedies Selection Survey - Help Guide
 
 ## Purpose

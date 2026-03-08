@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request feed for zoo animals. The purpose of this form is to provide zoo staff with information about the needs of each animal in the zoo. This form must be filled out for each animal to ensure that their needs are met in a timely manner. Before filling out this form, ensure that you have filled one out for each relevant animal and that it is complete and accurate. If you need to make a revision to an existing form, please fill out all fields again instead of making individual changes.
-</thinking>
-
 # Zoo Animal Feed Requisition Form - Help Guide
 ## Purpose
 The purpose of this form is to request feed for zoo animals. It helps staff to quickly and accurately gather the necessary information to fulfill the needs of each animal in the zoo.

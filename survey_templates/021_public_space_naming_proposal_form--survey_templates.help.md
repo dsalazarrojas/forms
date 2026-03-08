@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Space Naming Proposal Form - Help Guide
 
 ## Purpose

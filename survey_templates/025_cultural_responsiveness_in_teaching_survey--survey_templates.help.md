@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cultural_responsiveness_in_teaching_survey - Help Guide
 
 ## Purpose

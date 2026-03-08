@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from individuals who have participated in a health initiative or program. The purpose of the form is to gather information about their experience, satisfaction, and areas for improvement. This form will help us understand what worked well and what didn't, and identify potential areas to focus on for future programs.
-</thinking>
-
 # Community Health Initiative Feedback Poll - Help Guide
 ## Purpose
 This form is used to gather feedback from individuals who have participated in a health initiative or program. The information collected will help us understand your experience, satisfaction, and areas for improvement.

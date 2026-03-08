@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Browsing History Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is for collecting information about youth handball players. The purpose of this form is to gather data on the player's personal details, playing experience, and team information. This form is likely used by administrators or coaches to register or update player information in their database.
-To avoid data duplication, please ensure that you are not submitting duplicate entries for the same player.
-</thinking>
-
 # youth_handball_selection_survey - Help Guide
 ## Purpose
 This form is for collecting information about youth handball players.

@@ -1,10 +1,3 @@
-<thinking>
-As the designer of this form, I need to consider the user experience and ensure that the form's purpose and instructions are clear and concise. This form is designed to gather feedback from bank employees on various aspects of their job satisfaction, management, and work environment. The form is likely intended for internal use, such as HR or management teams, to understand employee sentiment and identify areas for improvement. 
-
-To minimize duplication, it's essential to review the existing documentation and ensure that this form aligns with the current state of knowledge.
-
-</thinking>
-
 # Bank Employees Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from bank employees on their job satisfaction, management, and work environment. The goal is to identify areas for improvement and provide insights to help the bank's management and HR teams make informed decisions.

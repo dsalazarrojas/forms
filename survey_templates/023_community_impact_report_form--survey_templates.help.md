@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used by community members to report on the impact of community programs during a specific reporting period. The purpose is to collect data on the progress and outcomes of these programs, allowing for better evaluation and improvement of community initiatives. It is crucial that community members report accurately and thoroughly, as this information will be used to make informed decisions about future program development and resource allocation.
-
-Before starting, ensure you have all the necessary information and resources ready for accurate reporting. If you have reported on the same period previously, please make sure to update your report to reflect any changes or progress made since the last submission.
-
-This guide will walk you through the form fields, explaining what each one means and how to complete it effectively.
-
-</thinking>
-
 # Community Impact Report Form - Help Guide
 ## Purpose
 The Community Impact Report Form is designed to collect information on the progress and outcomes of community programs during a specific reporting period. This data will be used to evaluate and improve these initiatives.

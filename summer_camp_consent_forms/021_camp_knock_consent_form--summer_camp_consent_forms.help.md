@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information for camp consent purposes. This form is meant to collect data for camper safety and well-being, and is typically filled out by a parent or guardian. The form is usually completed at the beginning of the camp season. 
 
 This form is used in conjunction with other safety-related forms, but its main purpose is to establish an electronic record of consent. 

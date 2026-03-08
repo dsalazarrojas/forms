@@ -1,5 +1,3 @@
-<thinking>...This form is intended for travel agency clients to subscribe to the agency's services. The purpose of the form is to collect contact information and travel preferences. It does not include any fields related to payment or financial information. To ensure a smooth user experience, please make sure to complete each field correctly and accurately. This form will not be used for any purpose other than travel agency services...</thinking>
-
 # Travel Agency Subscription Form - Help Guide
 ## Purpose
 The Travel Agency Subscription Form is designed for travel agency clients to provide their contact information and travel preferences. This will help us understand who you are and how we can assist you in planning your trip.

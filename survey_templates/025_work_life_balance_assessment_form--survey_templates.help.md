@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Work Life Balance Assessment Form - Help Guide
 ## Purpose
 The "Work Life Balance Assessment Form" is designed to evaluate your current work-life balance. This form helps you assess how you allocate your time and energy between work and personal life activities. It's meant to help individuals identify areas of improvement to achieve a better balance between professional and personal well-being.

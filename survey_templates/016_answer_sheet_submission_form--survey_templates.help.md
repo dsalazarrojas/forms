@@ -1,9 +1,3 @@
-<thinking>...<thinking>
-
-This form is designed to collect information from students for an assignment or quiz submission. The purpose of this form is to gather essential data such as student name, ID, and assignment/quiz title, as well as answers to specific questions or prompts. The form also includes fields for extended response, source citations, instructor name, and additional notes. This form is intended to be a general-purpose answer sheet submission form and should not be used as a final grade submission form.
-
-</thinking>
-
 # Answer Sheet Submission Form - Help Guide
 ## Purpose
 This form is designed to collect student submissions for assignments or quizzes. It is intended to be used as an intermediate step before submitting assignments or quizzes.

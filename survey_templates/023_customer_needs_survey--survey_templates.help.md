@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer feedback and needs information from customers. This form is designed to be a survey that asks customers various questions about their needs and preferences. The form includes fields for first name, last name, email address, customer needs, preferred communication channel, product or service preference, and additional feedback. The form is meant to be completed by customers who are looking to get help or information from the company. It's essential to complete this form carefully as the information collected will be used to improve the customer experience and provide better services.
-</thinking>
-
 # Customer Needs Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect customer feedback and needs information to improve the customer experience and provide better services.

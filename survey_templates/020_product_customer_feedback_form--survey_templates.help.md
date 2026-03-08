@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used as intended and that users don't fill it out for every product they purchase. This form should only be filled out for products that have a known issue or problem.
-</thinking>
-
 # Product Customer Feedback Form - Help Guide
 ## Purpose
 The Product Customer Feedback Form is used to collect feedback from customers about a product that they are experiencing issues with. This form should only be filled out by customers who are experiencing difficulties with a specific product and are willing to provide detailed feedback.

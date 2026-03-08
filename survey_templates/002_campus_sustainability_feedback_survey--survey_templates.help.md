@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I will review the form to understand its purpose and content.</thinking>
-
 # Campus Sustainability Feedback Survey - Help Guide
 ## Purpose
 

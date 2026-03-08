@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Army Supply Request Form - Help Guide
 ## Purpose
 This form is used by military personnel to request supplies for their units or departments. It collects information about the requestor, the supply requested, and the required delivery information. The form helps ensure that the supply request is properly documented and submitted to the relevant authorities for approval and processing.

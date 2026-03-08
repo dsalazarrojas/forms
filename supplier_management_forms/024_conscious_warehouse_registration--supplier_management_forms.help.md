@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a warehouse's registration details. The purpose of this form is to ensure that warehouses are properly registered and meet the required standards for operation. This form should only be filled out by authorized personnel and is not intended for general public use. Please ensure that you have the necessary permissions and authorization to access and complete this form.
-
-Before proceeding, check that you have not already submitted this form for the same warehouse. Duplicate submissions may cause confusion and delay the registration process.
-
-Please complete the form carefully and accurately. If you are unsure about any information, contact the relevant authorities for guidance.
-
-</thinking>
-
 # Conscious Warehouse Registration - Help Guide
 ## Purpose
 This form is designed to collect information about a warehouse's registration details. The purpose of this form is to ensure that warehouses are properly registered and meet the required standards for operation.

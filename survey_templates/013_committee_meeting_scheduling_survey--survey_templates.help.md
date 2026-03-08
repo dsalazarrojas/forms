@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from committee members to schedule a meeting that suits everyone's needs and preferences. The purpose of this form is to gather data on committee member's availability, preferred meeting days and times, meeting format, and other logistical requirements. To avoid confusion, please fill out the form carefully, and be as specific as possible when answering the questions. Note that some fields may have multiple options, so be sure to select the option that best describes your needs and preferences.
-
-Before completing this form, please check if you have filled out the same form previously. If you have, your previous answers will be reflected in this form, and you can adjust them accordingly.
-</thinking>
-
 # Committee Meeting Scheduling Survey - Help Guide
 ## Purpose
 This form is designed to collect information from committee members to schedule a meeting that suits everyone's needs and preferences.

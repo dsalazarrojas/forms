@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect information from clients about their personal fitness goals, habits, and preferences. It appears to be used to help personal fitness coaches or trainers understand the client's needs and tailor their services accordingly. The form is divided into several sections, each addressing a specific aspect of the client's fitness goals and preferences. 
-
-The form is relatively simple, with most fields not being required, which suggests that the client can choose which information they want to provide. However, some critical fields like "Workout Frequency", "Preferred Workout Time", and "Preferred Workout Duration" are marked as required, indicating that these are essential data for the personal fitness coach or trainer to understand the client's needs. 
-
-The form includes fields for basic client information (First Name, Last Name, Email, Phone Number), birth date, and client notes. There are also several fields related to fitness goals, including weight loss, muscle gain, improving athletic performance, enjoying activities, enjoying life, and maintaining health and wellness. 
-
-Some fields seem to be duplicates (e.g., "Goal Enjoy Activities" and "Goal Stay Active"), which might be a result of a design oversight or inconsistency. The form could benefit from some consolidation or removal of redundant fields to improve user experience and make it more efficient. 
-
-Overall, this form is likely used to help personal fitness coaches or trainers understand the client's needs and preferences, and tailor their services accordingly. However, some improvements in terms of form design and content could be made to enhance user experience and data quality.
-
-</thinking>
-
 # personal_fitness_coach_information_form - Help Guide
 ## Purpose
 

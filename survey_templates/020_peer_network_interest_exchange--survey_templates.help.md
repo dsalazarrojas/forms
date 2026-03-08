@@ -1,8 +1,3 @@
-<thinking>
-We are checking for relevance and non-duplication of the provided form fields.
-We will now output the user-facing help guide for the Peer Network Interest Exchange Form.
-</thinking>
-
 # Peer Network Interest Exchange Form - Help Guide
 ## Purpose
 The Peer Network Interest Exchange Form is designed to collect information about your preferences and interests in a network setting. This form helps us understand your availability, communication preferences, and other essential details to better connect you with the right people.

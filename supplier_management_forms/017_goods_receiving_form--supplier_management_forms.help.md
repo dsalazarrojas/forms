@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Goods Receiving Form - Help Guide
 
 ## Purpose

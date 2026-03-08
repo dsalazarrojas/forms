@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from Chauffeurs (professional drivers) on their experience, satisfaction, and challenges in their role. This form is intended to gather insights on the industry and help identify areas for improvement. Please answer the questions based on your genuine experience and opinions. This guide is intended to ensure you understand the purpose and requirements of the form.
-</thinking>
-
 # Chauffeurs Survey - Help Guide
 ## Purpose
 This survey aims to gather honest feedback from Chauffeurs on various aspects of their role, including their experience, job satisfaction, and challenges. Your input will help us understand the profession's strengths and weaknesses, allowing us to make informed decisions to improve the industry.

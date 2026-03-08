@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback and evaluation from volunteers who have participated in the Volunteer Recognition Program. The purpose of this form is to assess the effectiveness and satisfaction of the program in meeting its goals and objectives.
-To avoid duplication and ensure accurate evaluation, please do not complete this form if you have already provided feedback or evaluation on the same program in the past.
-This form is intended for volunteers who have recently participated in the program and are willing to provide their honest feedback and evaluation.
-</thinking>
-
 # Volunteer Recognition Program Evaluation Form - Help Guide
 ## Purpose
 The Volunteer Recognition Program Evaluation Form is designed to gather feedback and evaluation from volunteers who have participated in the program. This form helps us understand their experiences, satisfaction, and areas for improvement.

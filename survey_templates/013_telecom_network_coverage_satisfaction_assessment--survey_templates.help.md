@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is meant to gauge the end user's satisfaction with their telecom network coverage. It will be used to gather feedback on their experience with various coverage areas and specific issues they have encountered. The purpose of this form is to collect data that will help improve the telecom network's performance.
 
 </thinking>

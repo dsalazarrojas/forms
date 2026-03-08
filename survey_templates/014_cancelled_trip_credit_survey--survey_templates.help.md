@@ -1,8 +1,4 @@
-> <thinking>
-  This form is designed to collect feedback from customers who have had their trips cancelled. The purpose of this form is to gather information about the customer's experience with the cancellation process, including their satisfaction with the credit process, ease of receiving their credit, and feedback on the communication during the cancellation process. This form is intended to be completed by customers who have had their trips cancelled and are providing feedback on their experience. To ensure accurate and relevant responses, please ensure that you have completed the form as a result of a cancelled trip. If you are not a customer who has had their trip cancelled, please do not complete this form. 
-</thinking>
-
-# Cancelled Trip Credit Survey - Help Guide
+> # Cancelled Trip Credit Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from customers who have had their trips cancelled. Your responses will help us improve our cancellation process and better serve you in the future.
 

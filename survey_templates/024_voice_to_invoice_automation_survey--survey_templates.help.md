@@ -1,11 +1,3 @@
-<thinking>
-
-We're creating a help guide for the "Voice To Invoice Automation Survey" form. This form is likely used to gather information from users about their current workflow and readiness for automation. The purpose of this form is to understand how users handle invoices and their potential adoption of automation tools to streamline this process. This form might be used by the business or IT teams to identify areas of improvement and plan for future implementations.
-
-We should check if there's any overlap or redundancy in the form fields before proceeding.
-
-</thinking>
-
 # Voice To Invoice Automation Survey - Help Guide
 ## Purpose
 The Voice To Invoice Automation Survey is designed to gather information about your current workflow and readiness for automation in handling invoices. This survey will help us understand how you handle invoices and identify potential areas for improvement.

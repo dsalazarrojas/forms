@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the performance of a board of directors or governing body in an organization. The survey aims to gather information on various aspects of the board's functioning, including attendance, effectiveness, communication, decision-making, financial oversight, and alignment with the organization's mission and values. The questions are designed to be concrete and specific, allowing the respondent to provide a clear and honest assessment of the board's performance. This form is not affiliated with or endorsed by any specific form platform, and its content is original and adapted from public metadata. The form is released under CC BY 4.0 license, allowing users to modify and use it as they see fit.
-</thinking>
-
 # Board Performance Survey - Help Guide
 ## Purpose
 

@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's analyze the provided YAML fields. The form appears to be a "Logistics Recovery Planning Survey" used for recovery planning and assessment. It seems to gather information about supply orders, recovery planning, readiness, team collaboration, logistics recovery readiness, survey completion details, and recovery status.
-
-The form has 20 fields in total, divided into several sections, and is likely used for logistics recovery planning and assessment purposes. The required fields indicate that this form is critical for recovery planning and assessment.
-
-To confirm, let's analyze the required fields: `readiness_assessment`, `team_collaboration`, `logistics_recovery_readiness`, `survey_completion_date`, `survey_completion_time`, `recovery_status`, `logistics_recovery_status`, and `recovery_date`. These fields are essential for completion and likely used to assess and plan logistics recovery efforts.
-
-</thinking>
-
 # Logistics Recovery Planning Survey - Help Guide
 ## Purpose
 The "Logistics Recovery Planning Survey" is a form used for recovery planning and assessment. It gathers information about supply orders, recovery planning, readiness, team collaboration, and other relevant details to help with logistics recovery efforts.

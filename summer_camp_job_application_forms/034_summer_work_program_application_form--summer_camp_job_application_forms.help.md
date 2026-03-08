@@ -1,10 +1,3 @@
-<thinking>
-The form is used to collect information from applicants for a summer work program. This form will be used internally by the organization to review and evaluate applicants. Each field should be completed with accurate and relevant information to ensure a successful evaluation. Please note that the form is not intended for external sharing or public display, so sensitive information should not be shared through this form. 
-
-This form has 15 fields and is divided into several categories: Personal Information, Contact Information, Work Experience, Education, Skills, Job Type, Work Availability, Work Schedule, Notes, Email, Phone Number, Date of Submission, Date Created, Date Updated, Date Deleted. Each field will be explained in more detail in the "Field-by-Field Explanation" section.
-
-</thinking>
-
 # Summer Work Program Application Form - Help Guide
 ## Purpose
 This form is for collecting information from applicants for the summer work program. Please fill out the form with accurate and relevant information to ensure a successful evaluation.

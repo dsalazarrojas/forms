@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information about the camper, including their personal details, medical history, and contact information. This information will help us ensure the camper's safety and well-being during their stay at the summer camp. 
-
-This information will be reviewed by our staff to make informed decisions about the camper's care and to communicate with their parents or guardians effectively. 
-
-Please note that this form should only be completed by the parent or guardian of the camper.
-
-</thinking>
-
 # Camper Confidential Information Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To ensure we're designing the right user interface for this form, let's review the purpose of the form and its relevance. This United States Marine Corps Officer Screening Form is likely used for officer recruitment, candidate evaluation, or internal screening processes within the Marine Corps. Its purpose is to gather specific information about candidates, including their personal details, military experience, education, and medical status. This form might be used by officers or screening teams to assess candidates' qualifications, evaluate their suitability for officer positions, and potentially make recommendations for further training or selection. Before we proceed, let's verify that there's no duplication of effort or similar forms already in use within the organization or department.
-</thinking>
-
 # United States Marine Corps Officer Screening Form - Help Guide
 ## Purpose
 This form is designed to gather information about candidates interested in joining the United States Marine Corps as an officer. The form helps the screening team evaluate their qualifications, background, and suitability for officer positions.

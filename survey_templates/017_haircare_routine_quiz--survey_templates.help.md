@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for a "Haircare Routine Quiz" to gather information about a user's hair characteristics and habits. The goal is to provide recommendations for hair care routines based on the user's hair type, condition, color, length, and other factors. The form is divided into several sections, each with its own set of questions. To avoid duplication of questions, users are not required to answer all questions, and they can skip any question that does not apply to them. This form will only be used for internal purposes, and the collected data will be used to provide personalized hair care recommendations.</thinking>
-
 # Haircare Routine Quiz - Help Guide
 ## Purpose
 The Haircare Routine Quiz is designed to help us understand your hair characteristics and habits so we can provide you with personalized hair care recommendations.

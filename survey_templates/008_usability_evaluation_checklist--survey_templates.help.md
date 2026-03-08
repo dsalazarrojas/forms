@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the usability of a product. Its purpose is to gauge the user's experience, satisfaction, and feedback to identify areas for improvement. This form is not a one-time use case, but rather a recurring assessment that will help us track and analyze the user's interaction with our product over time. To ensure accurate results, please answer truthfully and without bias.
-</thinking>
-
 # usability_evaluation_checklist - Help Guide
 ## Purpose
 The Usability Evaluation Checklist is a form designed to gather feedback and assess the usability of our product. It helps us understand how users interact with our product and identify areas for improvement.

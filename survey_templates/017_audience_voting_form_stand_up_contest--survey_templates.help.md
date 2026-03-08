@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from the audience on the performance of comedians in a stand-up contest. The form is intended to be completed by audience members who wish to cast their vote for the comedian they found to be the most entertaining. It is essential to complete the form accurately, as the feedback will be used to evaluate the performers and identify areas of improvement. To avoid duplication, please fill out the form only once.
-</thinking>
-
 # Audience Voting Form - Stand Up Contest - Help Guide
 ## Purpose
 This guide will walk you through the Audience Voting Form for the Stand-up Contest, which aims to collect feedback from audience members on the performers' shows.

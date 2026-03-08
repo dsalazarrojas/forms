@@ -1,8 +1,3 @@
-<thinking>
-This form seems to be for gathering information about beauty habits and preferences of users, including demographics, skincare routines, makeup usage, hair care importance, shopping habits, and product preferences. It appears to be designed to collect data for market research or analysis. To confirm, I will assume that the form is intended to collect data on beauty-related behaviors and opinions from users. This form does not seem to have any duplicate fields or conflicting requirements. Please let me know if I'm correct and if there's anything else I should be aware of before proceeding with the help guide.
-
-</thinking>
-
 # Beauty Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your beauty habits, preferences, and routines. Your feedback will help us understand your needs and interests in the beauty industry.

@@ -1,5 +1,3 @@
-<thinking>...The Camper Confidential Information Form is intended to gather personal and health-related information from campers and their parents or guardians. This form serves as a crucial document to ensure the camper's well-being and safety during their stay at the camp. It is essential that the information provided is accurate and up-to-date. Please note that this form is not a duplicate of any other form and is a unique record for each camper. Ensure that you fill out the form for each camper accurately and truthfully...</thinking>
-
 # Camper Confidential Information Form - Help Guide
 
 ## Purpose

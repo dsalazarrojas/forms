@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information about the campers' medical history, allergies, and current medical conditions to ensure their safety and well-being during the camp season. The form is designed to be completed by the camper or their parent/guardian, and it serves as a crucial document for the camp administration to have on file in case of any medical emergencies.
-It is crucial to note that this form should not be filled out for every camper, only those who require specific medical considerations or have pre-existing medical conditions that may impact their participation in camp activities.
-To ensure accuracy, please only fill out this form for campers who have pre-existing medical conditions, allergies, or require medication administration.
-</thinking>
-
 # Camper Medical Administration Form - Help Guide
 ## Purpose
 The Camper Medical Administration Form is used to collect medical information about each camper, including their personal details, medical history, and any necessary authorization and consent for emergency medical treatment.

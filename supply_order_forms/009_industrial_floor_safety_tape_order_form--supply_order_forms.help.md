@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for end-users to place an order for industrial floor safety tape. The purpose of this form is to gather information for the fulfillment of this order. The form is a standard order form with a few key fields that need to be filled out for the order to be completed successfully.
 
 # industrial_floor_safety_tape_order_form - Help Guide

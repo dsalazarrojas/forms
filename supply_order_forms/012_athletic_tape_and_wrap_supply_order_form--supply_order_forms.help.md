@@ -1,15 +1,3 @@
-<thinking>
-
-To ensure relevance and non-duplication, I will first analyze the form's purpose and fields before generating the help guide.
-
-The form appears to be designed for athletic facilities or teams to order supplies, specifically athletic tape and wraps. The fields are divided into several categories, including ordering information, facility details, product selection, and billing information.
-
-The form's purpose is to collect necessary details from the customer (athletic facility or team) to process their supply order, including the type and quantity of products needed, delivery information, and billing details.
-
-The form is intended for internal use within the organization, and the guide will focus on explaining each field in a clear and concise manner to facilitate efficient completion of the form.
-
-</thinking>
-
 # Athletic Tape And Wrap Supply Order Form - Help Guide
 ## Purpose
 This form is designed for athletic facilities or teams to order supplies of athletic tape and wraps. It gathers essential information for processing the order, including product selection, delivery details, and billing information.

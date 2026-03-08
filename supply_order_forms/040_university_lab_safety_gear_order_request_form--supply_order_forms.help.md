@@ -1,15 +1,3 @@
-<thinking>
-To ensure the form is being used as intended, please review the following:
-
-* Ensure the form is being used only for requesting lab safety gear and not for other purposes.
-* Check if the form has been completed correctly before submitting it, as incorrect or incomplete submissions may cause delays or incorrect orders.
-* Review the options in the "Lab Location" field to ensure you are requesting the correct lab location.
-* Make sure to enter the correct date and time for the requested delivery in the "Date Needed" and "Time Needed" fields.
-* Be accurate when selecting the "Requested By" field, as it may impact the order processing and delivery.
-* Verify the "Submitted By" field is accurate, as it will be used to track who submitted the form.
-
-</thinking>
-
 # University Lab Safety Gear Order Request Form - Help Guide
 ## Purpose
 This form is designed to request lab safety gear from the university. It is intended for staff, faculty, and students to submit requests for necessary equipment and supplies. Please use this form to ensure accurate and timely delivery of lab safety gear.

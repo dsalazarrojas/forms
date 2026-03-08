@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a camper's drop off and pick up details for a summer camp. It is intended for parents or guardians to provide essential information about their child's medical needs, insurance, and other important details. 
-The form should be filled out by a parent or guardian and submitted before the camper's arrival at the summer camp.
-</thinking>
-
 # Summer Camp Drop Off & Pick Up Form - Help Guide
 ## Purpose
 This form is used to collect information about a camper's drop off and pick up details for a summer camp. It is designed to ensure a safe and smooth experience for your child while at the camp.

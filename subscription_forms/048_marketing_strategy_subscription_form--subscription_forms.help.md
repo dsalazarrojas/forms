@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information from users regarding their marketing strategy and preferences. The purpose of this form is to collect relevant data that can help marketing teams tailor their approach according to the user's needs and preferences. It's essential to provide accurate and relevant information to ensure the best possible results. Please ensure that you're not duplicating efforts or wasting time on unnecessary tasks. Review the form carefully and ensure you're answering all questions to the best of your ability.
-</thinking>
-
 # Marketing strategy subscription form - Help Guide
 ## Purpose
 This form is designed to collect information about your marketing strategy and preferences to help our marketing team better understand your needs and provide tailored solutions.

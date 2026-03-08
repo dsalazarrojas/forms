@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather feedback from players about their experience with a classic tank battle game. The form is used to collect information about the player's username, email address (if provided), the date of the feedback, and the date of their playing session. The form also asks for an overall rating of the gameplay experience, feedback about the game mechanics, difficulty balance, and graphics and audio quality. Additionally, players can report any bugs or technical issues they encountered, suggest new features or improvements, and express their interest in multiplayer features. The form is designed to be simple and easy to use, with clear and concise questions that allow players to provide valuable feedback.
-
-</thinking>
-
 # Classic Tank Battle Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from players about their experience with the classic tank battle game.

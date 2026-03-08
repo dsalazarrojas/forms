@@ -1,5 +1,3 @@
-<thinking>...The Automation Line Replacement Part Order Form is a crucial tool for requesting and tracking automation line replacement parts. Its purpose is to gather essential information from the requester, including contact details, equipment specifics, part requirements, and urgency of the order. This form helps ensure that the requested parts are accurately identified and fulfilled in a timely manner. The form is designed to be completed by the requester, who must provide accurate and detailed information to facilitate a smooth ordering process...</thinking>
-
 # Automation Line Replacement Part Order Form - Help Guide
 ## Purpose
 This form is used to request and track replacement parts for automation lines. It is essential to provide accurate and detailed information to ensure timely and correct fulfillment of the requested parts.

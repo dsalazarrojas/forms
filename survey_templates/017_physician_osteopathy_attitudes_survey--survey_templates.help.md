@@ -1,11 +1,4 @@
-> <thinking> 
-This form is intended to gather information on the attitudes and opinions of physicians regarding osteopathy, a form of manual therapy that involves the application of gentle, non-invasive manipulative techniques to the body's soft tissues to promote health and well-being. It is designed to understand the perspectives of physicians on osteopathy, its benefits, and challenges. This form is a survey and responses will be kept confidential. The purpose of this form is to gather quantitative and qualitative data to better understand the attitudes and opinions of physicians. To ensure accurate and useful data, please answer all questions to the best of your ability and avoid duplicating responses. You can submit this form at any time. 
-
-Please note that the form has multiple pages, and each page will be displayed separately. You will be able to navigate between pages using the provided navigation buttons.
-
-</thinking>
-
-# Physician Osteopathy Attitudes Survey - Help Guide
+> # Physician Osteopathy Attitudes Survey - Help Guide
 
 ## Purpose
 This form is designed to gather information on the attitudes and opinions of physicians regarding osteopathy.

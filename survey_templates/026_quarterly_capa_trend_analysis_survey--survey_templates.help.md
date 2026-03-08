@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather information about the quarterly CAPA (Corrective and Preventative Action) trend analysis survey from various departments. The purpose of this form is to collect data on the frequency of CAPAs, their impact, and the actions taken to address them. This information will help in identifying trends and patterns in the data and provide insights for future improvements.
-
-To ensure accurate and relevant data collection, please note the following:
-
-* Each question is designed to be specific and clear, making it easier for respondents to provide precise answers.
-* The form is divided into sections, each focusing on a specific aspect of the CAPA trend analysis.
-* The questions are designed to collect both quantitative and qualitative data, providing a comprehensive view of the current state of CAPAs.
-
-Please review the form carefully before starting to fill it out, and ensure you have all the necessary information before submitting your answers.
-
-</thinking>
-
 # quarterly_capa_trend_analysis_survey - Help Guide
 ## Purpose
 The quarterly CAPA trend analysis survey is designed to gather information about the frequency, impact, and actions taken to address Corrective and Preventative Actions (CAPAs) within the organization. This data will help in identifying trends and patterns in the CAPA process and inform future improvements.

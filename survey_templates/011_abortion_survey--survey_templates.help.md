@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Abortion Survey - Help Guide
 
 ## Purpose

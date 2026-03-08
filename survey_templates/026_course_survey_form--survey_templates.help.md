@@ -1,6 +1,3 @@
-<thinking> 
-The form is designed to collect user feedback and opinions on various aspects of a course. It is meant to be completed by course participants, instructors, or administrators. The form should only be used for the intended purpose and not for any other use. It is recommended to review the form carefully before completing it to ensure that all required fields are understood correctly. If the form is being used for a different purpose or has already been completed, it is recommended to use a different form to avoid any confusion or data duplication.</thinking>
-
 # Course Survey Form - Help Guide
 ## Purpose
 The Course Survey Form is designed to collect feedback and opinions from course participants, instructors, or administrators to help improve the course content, structure, and teaching methods.

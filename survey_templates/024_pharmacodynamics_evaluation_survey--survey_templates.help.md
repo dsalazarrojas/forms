@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the pharmacodynamics of a particular substance or treatment. Pharmacodynamics refers to the study of the effects of drugs or other pharmaceuticals on the body. This form is intended for healthcare professionals to gather information about their training effectiveness, patient knowledge levels, and support needs. It is essential to complete this form accurately to ensure that the information collected is reliable and useful for further research and analysis.
-</thinking>
-
 # pharmacodynamics_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to collect data on the pharmacodynamics of a substance or treatment. It is meant to assess the effectiveness of training, knowledge levels, and support needs of healthcare professionals.

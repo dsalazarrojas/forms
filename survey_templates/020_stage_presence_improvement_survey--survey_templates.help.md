@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback from stage performers regarding their stage presence improvement needs. The purpose of this form is to gather anonymous feedback to help identify areas where performers can improve their stage presence skills, which can be shared with them in order to facilitate personal development. This form is typically completed by performers who have attended a stage presence coaching session and need feedback on how to improve their stage confidence.
-
-When you complete this form, you should answer as accurately as possible to provide useful feedback to the performer. Please ensure that you answer honestly and provide thoughtful responses.
-
-</thinking>
-
 # Stage Presence Improvement Survey - Help Guide
 ## Purpose
 This survey is designed to help stage performers improve their stage presence skills by providing them with anonymous feedback on areas where they can improve.

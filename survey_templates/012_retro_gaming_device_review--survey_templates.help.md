@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retro Gaming Device Review - Help Guide
 
 ## Purpose

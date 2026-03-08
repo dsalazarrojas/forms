@@ -1,16 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from parents or guardians about their child's participation in sports summer camps. The form is likely used by a sports organization or facility to gather necessary details from parents to ensure the best experience for each camper. 
-
-To avoid duplication or incorrect submissions, it's essential to review the following fields carefully:
-
-* First Name and Last Name should match the name of the camper.
-* The Email and Parent Phone fields are for contact purposes, ensure they are correct and up-to-date.
-* Schedule and Sport preferences should match the camp's schedule and available sports activities.
-* Payment Method should be accurate to avoid processing delays.
-
-</thinking>
-
 # Sports Summer Camp Application Form - Help Guide
 ## Purpose
 The Sports Summer Camp Application Form is designed to collect necessary details from parents or guardians to ensure a smooth and enjoyable experience for their child at the summer camp.

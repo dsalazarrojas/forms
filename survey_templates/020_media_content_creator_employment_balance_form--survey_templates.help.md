@@ -1,9 +1,3 @@
-<thinking>...checking the form purpose and ensuring no duplication...
-
-The form "media_content_creator_employment_balance_form" is a survey designed to gather information about the balance between work and personal life among media content creators. The purpose of this form is to collect data on the time spent on work and available time for personal activities. This form is likely used in HR or organizational settings to assess the work-life balance of media content creators and identify areas for improvement.
-
-</thinking>
-
 # media_content_creator_employment_balance_form - Help Guide
 ## Purpose
 The media content creator employment balance form is a survey designed to gather information about the balance between work and personal life among media content creators.

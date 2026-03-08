@@ -1,9 +1,3 @@
-<thinking>As the form designer and technical writer, I'll create the help guide for the "Camp Participant Registration Form." This form is intended for registering participants in a camp program, gathering essential information about each participant, such as personal details, medical conditions, and camp session preferences. The form will be used by parents or guardians to provide accurate and complete information about their child's needs and preferences.
-
-Before starting the form, it's essential to review the purpose and relevance of each field to ensure you're completing it accurately. Please note that some fields are required, marked as "true," and must be filled out to proceed with the registration. Optional fields can be skipped if not applicable.
-
-</thinking>
-
 # Camp Participant Registration Form - Help Guide
 
 ## Purpose

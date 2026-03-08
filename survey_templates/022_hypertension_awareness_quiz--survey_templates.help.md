@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of this form, I will examine the form's fields and options, which suggest that it is related to health, wellness, and medical history. The form appears to be a survey template for collecting information about an individual's blood pressure, medical history, and lifestyle habits. 
-
-Given the required fields and options, it is likely that the form is intended for patients or individuals to report their own health status, medical history, and habits. 
-
-This form does not appear to be intended for duplicate or triplicate submissions, as each field has a unique id and the required fields are not marked as optional. 
-
-</thinking>
-
 # Hypertension_Awareness_Quiz - Help Guide
 ## Purpose
 

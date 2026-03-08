@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback and satisfaction data, aiming to understand customer experiences and improve customer service. This form should only be filled out once a customer has completed an interaction with your product or service. Please ensure you're not submitting duplicate responses.
-</thinking>
-
 # Customer Survey - Help Guide
 ## Purpose
 The Customer Survey form is designed to collect customer feedback and satisfaction data to help us understand your experiences with our product or service. Your responses will help us identify areas for improvement and provide better services to you and our other customers.

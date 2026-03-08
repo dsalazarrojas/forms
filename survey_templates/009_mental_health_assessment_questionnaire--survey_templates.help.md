@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect demographic data and assess mental health status for patients. It is likely used in a clinical or medical setting to gather information about a patient's mental health, medical history, and treatment plans. This form is designed to be completed by patients or healthcare providers, and the data collected will be used to inform treatment decisions and provide a comprehensive understanding of a patient's mental health status.
-
-To ensure accurate and complete data collection, please ensure that the form is filled out carefully and thoroughly. This guide will walk you through each section of the form to help you complete it effectively.
-
-</thinking>
-
 # mental_health_assessment_questionnaire - Help Guide
 ## Purpose
 The mental health assessment questionnaire is a tool used to collect demographic data and assess mental health status for patients.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from Key Opinion Leaders (KOLs) in the field of Anti Infectives, which is a crucial component in the development and implementation of healthcare policies and treatment guidelines. The form aims to capture the KOLs' expertise and opinions on various aspects of anti-infective agents, including their familiarity with the subject matter, perceived unmet needs in treatment, and treatment preferences. 
-
-This form should only be filled out by KOLs who have not already completed the survey in the previous survey cycles. Please ensure that you only submit your responses once to avoid duplication of effort.
-
-</thinking>
-
 # Anti Infectives Key Opinion Leader KOL Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information from Key Opinion Leaders (KOLs) on their expertise and opinions on anti-infective agents, treatment preferences, and willingness to participate in advisory activities.

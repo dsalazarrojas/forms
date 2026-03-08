@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form, "Discover Your Character Personality", is designed to assess a user's personality traits, preferences, and characteristics. It is a comprehensive form that gathers information on various aspects of the user's personality, including their name, age, character's name, personality traits, personality type, preferences, communication style, conflict style, decision-making style, work style, core values, goals, self-care, stress management, relationship status, education background, work history, personality assessment, personality score, personality type score, and final question about seeking coaching or advice. Each field is carefully crafted to understand the user's unique personality profile. To ensure a comprehensive assessment, the form requires answers to all fields, except for education background, work history, and stress management which are optional. This form will guide users through a series of questions that will help identify their strengths, weaknesses, and areas for personal growth.</thinking>
-
 # Discover Your Character Personality - Help Guide
 ## Purpose
 

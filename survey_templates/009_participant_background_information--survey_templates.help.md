@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Participant Background Information - Help Guide
 
 ## Purpose

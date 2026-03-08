@@ -1,8 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for this E Grocery Shopping Survey form to ensure that end-users understand its purpose, how to complete it, and what each field represents. Before we proceed, let's review the form structure to ensure we're not duplicating any existing help guides and that the explanation aligns with the provided YAML fields.
-
-The form appears to be designed to gather information about users' shopping habits, including how often they shop, their preferred shopping channels, store experience, and demographic information. There might be some overlap between fields, but overall, the form seems to aim to gather data on shopping behavior and user demographics.</thinking>
-
 # E Grocery Shopping Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your shopping habits and demographics to help improve the grocery shopping experience.

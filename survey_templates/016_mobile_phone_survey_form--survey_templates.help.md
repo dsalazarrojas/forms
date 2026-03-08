@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather data on user demographics and preferences related to mobile phone use. It collects information on age group, gender, country of origin, language, mobile phone operating system, and other related attributes. The form is designed to be used by users to provide their demographic data for research purposes. Please ensure that this form is filled out accurately and completely to provide meaningful insights. Also, note that there are two separate sections for collecting information, which may be intended for comparing or contrasting different groups of users.</thinking>
-
 # Mobile Phone Survey Form - Help Guide
 ## Purpose
 This form is designed to collect demographic and preference data from mobile phone users for research purposes.

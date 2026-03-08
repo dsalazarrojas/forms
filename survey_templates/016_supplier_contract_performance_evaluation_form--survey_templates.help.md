@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to ensure that the user-facing help guide for this form is clear, concise, and practical. First, I will analyze the provided YAML fields to understand the purpose and requirements of the form. This form is designed to evaluate the performance of a supplier contract, gathering information on various aspects such as communication, quality, delivery, payment, and satisfaction. To avoid duplication of effort, I will focus on highlighting the essential fields and provide examples and tips where necessary.</thinking>
-
 # Supplier Contract Performance Evaluation Form - Help Guide
 ## Purpose
 The Supplier Contract Performance Evaluation Form is designed to assess the performance of a supplier contract based on various parameters such as communication, quality, delivery, payment, and satisfaction.

@@ -1,19 +1,3 @@
-<thinking>
-The form "summer_apprenticeship_application_form" is a multi-page application form for summer camps that allows users to select options, input information, and upload a resume. 
-
-Before filling out the form, please ensure that you are using the correct application form for the summer camp you are applying to. If you are unsure, please contact the camp administration to confirm the correct form and application process. 
-
-To fill out the form, follow these steps:
-- Select the relevant information for each page from the provided options.
-- Enter your name, email, and phone number in the designated fields.
-- Choose relevant programs and skills from the select options.
-- Choose a date and time for your availability.
-- Upload your resume if required.
-- Review and submit the form once completed.
-
-Each field is explained below.
-</thinking>
-
 # summer_apprenticeship_application_form - Help Guide
 ## Purpose
 The purpose of this form is for applicants to apply for summer camps, select relevant programs and skills, and provide necessary contact information.

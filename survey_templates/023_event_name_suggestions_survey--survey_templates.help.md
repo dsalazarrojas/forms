@@ -1,14 +1,3 @@
-<thinking>
-The Event Name Suggestions Survey form is designed to collect suggestions for event names from users. The form is intended to be completed by users who wish to propose names for events. The purpose of the form is to gather diverse and creative suggestions that can be used by event organizers to choose from. 
-
-To ensure that the suggestions are useful, the form checks for duplication and relevance before submission.
-
-The form is structured into two main sections: "Event Name" and "Additional Suggestions". The "Event Name" section asks users to select a specific name for the event, while the "Additional Suggestions" section allows users to provide any other ideas they may have.
-
-Each field in the form is designed to provide users with the necessary information to provide accurate and helpful suggestions.
-
-</thinking>
-
 # Event Name Suggestions Survey - Help Guide
 ## Purpose
 This form is used to collect suggestions for event names from users. Please use the form to propose names for events you are interested in, and we will review them for duplication and relevance before adding them to the list.

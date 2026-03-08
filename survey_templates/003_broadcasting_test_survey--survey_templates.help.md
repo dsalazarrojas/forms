@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this survey is to gather feedback from users on their experience with a broadcast test. The survey will ask about their test date, time, location, and the type of broadcast test performed. It will also ask for ratings on video quality, audio quality, stream stability, and latency. Additionally, it will gather information on the devices and platforms used, internet connection type, any issues experienced, and overall satisfaction with the broadcast service. The survey is designed to be completed by users who have participated in a broadcast test and will help improve the service by providing valuable feedback.
-</thinking>
-
 # Broadcasting Test Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from users on their experience with a broadcast test. Your input will help us improve the service and ensure a better experience for future users.

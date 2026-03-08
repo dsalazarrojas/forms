@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather user feedback on the "History Quiz: Division And Unification" test, which aims to assess users' knowledge and opinions on European history. This form is designed to collect data on users' experiences and perceptions of the test, and will be used to evaluate and improve the quiz in the future.
-</thinking>
-
 # History Quiz: Division And Unification - Help Guide
 ## Purpose
 This form is designed to gather feedback on your experience with the "History Quiz: Division And Unification" test. Please take a few minutes to answer the questions to help us improve the quiz and provide a better experience for future users.

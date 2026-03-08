@@ -1,10 +1,3 @@
-<thinking>
-The Wheelchair Assistance Training Survey is designed to gauge the effectiveness of the training session for individuals who require assistance with wheelchairs. This form is meant to gather feedback from participants to help improve the training program and ensure that it meets the needs of those who attend. The survey will help to identify areas of improvement and provide suggestions for future trainings.
-
-Please note that this form is not intended for users who have not attended the training session.
-
-</thinking>
-
 # Wheelchair Assistance Training Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants about their experience with the wheelchair assistance training session. Your responses will help us improve the training program and better serve users in the future.

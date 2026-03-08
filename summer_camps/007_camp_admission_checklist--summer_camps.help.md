@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for campers' admissions for summer camps. It is a comprehensive checklist for providing camper information, parent/guardian contact details, medical history, dietary restrictions, and other relevant details. This form helps ensure that all necessary information is collected for the camper's safety and well-being during the camp stay. It also reduces errors and discrepancies that may arise due to incomplete or incorrect information. This form is not intended to be used for other purposes such as registration for other programs or activities.
-</thinking>
-
 # Camp Admission Checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect comprehensive information about the camper, including personal details, medical history, and other relevant data for their safety and well-being during the camp stay.

@@ -1,6 +1,3 @@
-<thinking>... 
-The form "Contemporary World Survey" is designed to gather information from individuals on various global issues, demographics, and perspectives. This form should only be accessed by those who are eligible to take the survey. Please check that this form is relevant and not a duplicate before proceeding.</thinking>
-
 # Contemporary World Survey - Help Guide
 ## Purpose
 The Contemporary World Survey is designed to collect information from individuals on their perspectives on global issues, demographics, and educational background. This survey aims to gather diverse views and opinions on various topics to help us better understand the global community.

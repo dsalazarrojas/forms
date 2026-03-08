@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to allow users to create a new supply order for the government office. This form is likely used by office staff to request supplies from the facilities or procurement department. It is a crucial part of the office operations, and the accuracy of the data collected will directly impact the efficiency of the supply chain process.
-
-This form is a self-contained object with multiple fields. Each field is designed to collect a specific type of information.
-
-The form will be completed by office staff to order supplies, so the fields should be clear and easy to understand. The form will be used by the facilities or procurement department to process the order, so the accuracy and completeness of the information are crucial.
-
-Before completing the form, the user should review the available options and make sure they understand the required fields.</thinking>
-
 # Government Office Supply Order Form - Help Guide
 ## Purpose
 This form is used to create a new supply order for the government office. It is intended to be completed by office staff to request supplies from the facilities or procurement department.

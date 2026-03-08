@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to evaluate a user's experience within a network, specifically their satisfaction and perception of its usefulness and quality. This guide will help end-users understand the purpose of the form, how to complete it, and what each field entails. 
-
-Before starting this survey, ensure that it is relevant and not already known to the user or their organization; otherwise, the feedback might not provide accurate and actionable insights. 
-</thinking>
-
 # Animal Network Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on your experience within the Animal Network, understanding your satisfaction with its quality, leadership, and overall usefulness. The survey aims to identify areas for improvement and help shape the network to better serve its members.

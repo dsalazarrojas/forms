@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information from users after an event or activity has taken place. It is intended for attendees to reflect on their experience, provide suggestions, and rate their overall satisfaction. This form is part of a larger process to improve future events and activities.
-
-To use this form, please ensure that it is not a duplicate submission and that you are responding to the correct event.
-
-Please note that the information provided in this form will be used to improve event planning and execution. Your feedback is valuable and we appreciate your honest input.
-
-</thinking>
-
 # Event Reflection Survey - Help Guide
 ## Purpose
 This survey is designed to gather information and feedback from attendees after an event or activity has taken place. The goal is to improve future events and activities based on attendee experiences.

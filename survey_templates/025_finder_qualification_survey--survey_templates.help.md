@@ -1,11 +1,3 @@
-<thinking>
-The Finder Qualification Survey form is designed to collect information about applicants and their skills and abilities. 
-This form has multiple pages and sections, including "Applicant Details", "Sourcing Experience", "Skills", "Availability", "Contact Information", "Form Submissions", "Qualification", and "Finder Abilities". 
-This form is meant for internal use, and the purpose is to help find the best candidate for a job. 
-
-Please make sure to fill out this form thoroughly and accurately, as it will be used to assess the candidate's qualifications and make a decision.
-</thinking>
-
 # Finder Qualification Survey - Help Guide
 ## Purpose
 The Finder Qualification Survey is used to collect information about applicants and their skills and abilities for internal use.

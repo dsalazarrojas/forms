@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help train supportive parents in their role of supporting their child's development and well-being. The form is likely used to gather information from parents or caregivers about their ability to provide support, their experiences with parenting, and their needs for further support or training. It appears to be a self-reported survey, where parents can share their thoughts and opinions in a non-confrontational manner. Each field in this form serves a specific purpose, and this guide aims to provide a clear understanding of what each field means and how to complete it.
-
-</thinking>
-
 # supportive_parent_training_survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect contact and order information from customers who are interested in purchasing farm harvest equipment. The primary goal is to capture the essential details required for order placement and delivery, including contact and order details, delivery information, and customer details. This form will help to efficiently process orders and ensure that the necessary information is obtained from customers for successful order fulfillment.
-
-</thinking>
-
 # Farm Harvest Equipment Order Form - Help Guide
 ## Purpose
 This form is used to collect order and contact information from customers interested in purchasing farm harvest equipment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Vaccine Survey - Help Guide
 
 ## Purpose

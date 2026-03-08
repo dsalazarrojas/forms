@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Anonymous Survey Template" form, which is designed to collect feedback from employees on their experiences and perceptions of their company. This form aims to gather opinions on various aspects of the work environment, such as management satisfaction, work-life balance, compensation and benefits, and more. It's essential to complete this form honestly and thoroughly to provide valuable insights for the organization.
-</thinking>
-
 # Anonymous Survey Template - Help Guide
 ## Purpose
 The "Anonymous Survey Template" is designed to collect feedback from employees on their experiences and perceptions of their company. This form will help the organization understand employee opinions on various aspects of the work environment, which will aid in making informed decisions to improve the workplace.

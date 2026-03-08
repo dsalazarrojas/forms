@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for inventory management purposes at a university cinema. It's essential to fill it out accurately to ensure the university cinema has an up-to-date and accurate inventory count. To prevent errors, ensure that you only submit this form once for each item being inventoried. If you're unsure about any information, contact your supervisor for clarification. Please fill out the form carefully, and if you need any additional guidance, refer to this help guide for clarification.
-</thinking>
-
 # University Cinema Inventory Form - Help Guide
 ## Purpose
 The University Cinema Inventory Form is used to update the university cinema's inventory data, ensuring accurate and up-to-date information is available for future reference.

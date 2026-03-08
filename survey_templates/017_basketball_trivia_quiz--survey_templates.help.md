@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "Basketball Trivia Quiz," is to evaluate the user's knowledge of the game of basketball. The form is designed to test their understanding of various aspects of the game, including its history, rules, and notable achievements. This form will ask for personal details such as participant name and submission date but will not collect any sensitive or personal identifiable information.
-</thinking>
-
 # Basketball Trivia Quiz - Help Guide
 ## Purpose
 The Basketball Trivia Quiz is designed to test your knowledge of the game of basketball. It will cover a range of topics, including the game's history, rules, and notable achievements.

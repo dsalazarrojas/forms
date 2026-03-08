@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine the purpose of this form, we need to analyze the fields it contains. The form has a section called "Party Details" which suggests it's meant for planning a team celebration party. It also has a field "Party Supply Selections" which implies the party will need various supplies. Additionally, there's a "Delivery Details" section, indicating the form is used to coordinate logistics for supplying the party. 
 
 Considering the fields, it seems the form is used to order party supplies for a team celebration.

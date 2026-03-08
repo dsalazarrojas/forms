@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from suppliers about their data sharing preferences and consent for utility data sharing. The purpose of this form is to ensure that suppliers are aware of the data sharing process and are able to provide their consent for the data sharing of their utility usage data. This form should only be filled out by authorized personnel in the company and should not be accessed by suppliers directly. The information collected in this form will be used to update the supplier's profile in the database and to inform their data sharing consent status.
-</thinking>
-
 # utility_supplier_data_sharing_consent_form - Help Guide
 ## Purpose
 This form is used to collect information from suppliers about their data sharing preferences and consent for utility data sharing.

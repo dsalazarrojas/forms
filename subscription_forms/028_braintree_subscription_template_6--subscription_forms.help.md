@@ -1,8 +1,3 @@
-<thinking>
-This form is for customers to subscribe to a Braintree plan, choosing a subscription plan, billing frequency, and providing necessary billing information. The form has three main sections: Customer Information, Subscription Plan, and Billing Information. 
-Each section is designed to collect specific details to complete the subscription process.
-</thinking>
-
 # Braintree Subscription Template 6 - Help Guide
 ## Purpose
 This form is used to subscribe to a Braintree plan, selecting a subscription plan, billing frequency, and providing necessary billing information.

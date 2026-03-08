@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about consumer behavior related to social media ads. The purpose of this form is to collect data on users' trust in social media ads, their engagement with ads, and factors that affect their purchase intent and engagement. This data can be used to improve the effectiveness of social media marketing campaigns.
-
-This form is a survey, and as such, the answers provided are intended to be personal and honest. Please note that this form is for research purposes only and the data collected will not be used for any commercial or promotional activities.
-
-Before starting this survey, please make sure you have not completed it before as the questions are designed to be answered only once.</thinking>
-
 # social-media-ads-consumer-behavior-questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about consumer behavior related to social media ads. The purpose of this form is to collect data on users' trust in social media ads, their engagement with ads, and factors that affect their purchase intent and engagement. This data can be used to improve the effectiveness of social media marketing campaigns.

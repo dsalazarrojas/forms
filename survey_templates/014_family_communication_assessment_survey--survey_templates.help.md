@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are not familiar with the Family Communication Assessment Survey form. The form is designed to assess the level of communication and conflict resolution within a family member's relationship. The form consists of 11 questions that cover various aspects of family dynamics, including communication level, emotional support, conflict frequency, and conflict resolution. This guide will walk you through each question in detail to ensure you can complete the form accurately.
-
-</thinking>
-
 # Family Communication Assessment Survey - Help Guide
 ## Purpose
 The Family Communication Assessment Survey is a tool used to assess the level of communication and conflict resolution within a family member's relationship. This survey helps identify areas of improvement and provides a better understanding of the relationship dynamics.

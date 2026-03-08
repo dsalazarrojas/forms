@@ -1,12 +1,3 @@
-<thinking>
-We're creating a help guide for the Canadian Financing Initiative Survey form. This guide will walk users through the form's purpose, how to complete it, and a field-by-field explanation of each field. 
-
-The Canadian Financing Initiative Survey is designed to collect information from applicants seeking financing under the Canadian government's financing initiatives. It aims to gather detailed information about their organization, including their industry, financial situation, and project details. 
-
-To avoid duplication and ensure accuracy, we will check for existing applications from the same organization before processing this form. If a user has already submitted a similar application, they will be notified and directed to review and update their existing application. 
-
-</thinking>
-
 # Canadian Financing Initiative Survey - Help Guide
 
 ## Purpose

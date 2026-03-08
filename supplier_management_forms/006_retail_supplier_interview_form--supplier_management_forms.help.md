@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Retail Supplier Interview Form" is to gather information from retail suppliers, including their name, company name, contact number, email address, and physical address. The form also includes a series of questions to assess the supplier's ability to meet certain criteria or provide specific services. The goal is to collect relevant data to evaluate and qualify potential suppliers for retail operations.
-Before starting the form, please ensure that you are only submitting the form once for each supplier, and not duplicating entries for the same supplier.
-</thinking>
-
 # Retail Supplier Interview Form - Help Guide
 ## Purpose
 The "Retail Supplier Interview Form" is a tool used to collect information from retail suppliers. This form helps in gathering essential details about the supplier's name, contact, and address, along with assessing their ability to provide specific services or meet certain criteria.

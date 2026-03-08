@@ -1,13 +1,3 @@
-<thinking>Here's a brief internal reasoning block to explain the purpose and context of the form.
-
-The "Camp Supplies Preparation Check Form" is a critical document used to ensure that campers are well-prepared for their stay at the summer camp. This form is designed to gather information about the camper's personal items, such as clothing, toiletries, and other essential gear, to ensure that they have everything they need for a safe and enjoyable experience.
-
-The form is intended for parents or guardians to complete, providing an opportunity to double-check what their child has packed and what they need to purchase or borrow. This helps to prevent last-minute rush or forgetting essential items, reducing the risk of accidents or inconveniences during the camp stay.
-
-The form's structure is based on the standard categories of items typically required for a summer camp, including sleeping gear, clothing, toiletries, and miscellaneous items. Each field is designed to elicit specific information, such as the camper's name, session details, and the status of specific items like a sleeping bag, toiletries, or a flashlight.
-
-Upon reviewing the form, camp staff can quickly identify potential issues or concerns and address them before the camper's arrival. This ensures a smoother transition for the camper and a more enjoyable experience for everyone involved.</thinking>
-
 # Camp Supplies Preparation Check Form - Help Guide
 ## Purpose
 The "Camp Supplies Preparation Check Form" is a critical document used to ensure that campers are well-prepared for their stay at the summer camp. This form helps parents or guardians double-check what their child has packed and what they need to purchase or borrow, reducing the risk of accidents or inconveniences during the camp stay.

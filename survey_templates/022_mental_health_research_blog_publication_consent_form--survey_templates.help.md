@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from mental health researchers who wish to publish their work on our blog. The purpose of this form is to gather participant consent for publication, ensuring that researchers understand and agree to the terms and conditions of publishing their work on our platform. This form will help researchers provide necessary details about their publication, including participant information, experience description, and publication details. It will also help us track the status of publication consent for each researcher. By completing this form, researchers will be able to submit their work for consideration for publication on our blog.
-</thinking>
-
 # Mental Health Research Blog Publication Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from mental health researchers to facilitate the publication of their work on our blog.

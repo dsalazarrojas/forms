@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended to help users understand how to fill out the Summer Camp Registration Form. Please make sure you are reading this guide because you are either a staff member or a camp attendee. Filling out this form correctly will ensure that we get the necessary information to provide a safe and enjoyable camp experience.
-
-The form is not meant to be a substitute for medical evaluation, but it will help us to identify any potential health risks and take necessary precautions. If you have any concerns or doubts, please contact us at [insert contact information].
-
-Please note that some of the fields are optional, but it's still crucial to fill them out as required or if you have any relevant information. Do not fill out the form multiple times; it will create duplicate records.
-</thinking>
-
 # Summer Camp Registration Form - Help Guide
 
 ## Purpose

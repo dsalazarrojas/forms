@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a survey designed to gather information about apparel shopping habits and preferences. It is meant to be filled out by individuals who are interested in sharing their opinions on how they shop for clothing and what factors influence their purchasing decisions. The form is not affiliated with any specific form platform and is a generated adaptation based on public survey topic metadata.
-
-</thinking>
-
 # Apparel Shopping Preferences Survey - Help Guide
 ## Purpose
 This form aims to collect data on your apparel shopping habits, preferences, and priorities. Your responses will help us understand how people shop for clothing and what factors influence their purchasing decisions. Your participation is voluntary, and you can fill it out if you're interested in sharing your opinions on the topic.

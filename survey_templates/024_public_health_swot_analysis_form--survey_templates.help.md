@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Health SWOT Analysis Form - Help Guide
 ## Purpose
 This form is designed to help you conduct a SWOT (Strengths, Weaknesses, Opportunities, and Threats) analysis to identify potential areas of improvement and opportunities in the context of public health initiatives. A SWOT analysis is a strategic management tool used to identify and assess the main internal and external factors that can affect an organization's performance. It helps to identify the strengths and weaknesses of the organization, as well as the opportunities and threats that it faces.

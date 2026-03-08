@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for parents or legal guardians to register their child or ward for a youth soccer camp. The form will be used to collect information about the athlete, their parents/guardians, contact details, agreement and consent, payment information, and additional athlete information. The form will be used to gather necessary data for the camp's administration and staff to ensure a smooth and safe experience for all camp attendees.
-</thinking>
-
 # Youth Soccer Camp Registration Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from parents or legal guardians to register their child or ward for a youth soccer camp.

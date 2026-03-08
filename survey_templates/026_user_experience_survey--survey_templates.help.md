@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect user feedback on the overall user experience of your product or service. It's used to gather quantitative and qualitative data on the user's satisfaction with accessibility, content, and presentation. This information can help you identify areas of improvement and make data-driven decisions.
-The form is not intended to be a comprehensive feedback tool, and it's up to the end user to decide which aspects of the user experience they want to comment on.
-</thinking>
-
 # User Experience Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on the user experience of your product or service. It's divided into several sections that cover Accessibility, Content, and Presentation.

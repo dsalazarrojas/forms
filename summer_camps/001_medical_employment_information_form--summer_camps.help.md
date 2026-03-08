@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Medical Employment Information Form - Help Guide
 
 ## Purpose

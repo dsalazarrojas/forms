@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather essential medical information for summer campers. The form's purpose is to ensure that campers' health and well-being are protected during their stay at the camp. It's crucial to fill out this form thoroughly and accurately to guarantee a safe and enjoyable camp experience. 
-The information collected in this form will not be used for any other purpose other than what is described above, and it will be kept confidential. 
-This form is not affiliated with, endorsed by, or derived from any form platform, but is an original adaptation created using public survey topic metadata (summer camps and medical forms). It's released under a Creative Commons license, allowing you to use, modify, and even sell forms derived from it as long as you give credit.
-</thinking>
-
 # Summer Camp Medical Form - Help Guide
 ## Purpose
 The Summer Camp Medical Form is designed to gather important medical information about summer campers to ensure their health and safety during their stay at the camp.

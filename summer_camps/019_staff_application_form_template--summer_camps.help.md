@@ -1,8 +1,3 @@
-<thinking>
-To determine the correct form purpose, we need to consider the form category and title. This form falls under the "summer_camps" category and has a title "staff_application_form_template". Based on the category, it's likely that this form is intended for staff members who are applying for a summer camp position. The title suggests that this form template is a basic template for such applications.
-The fields on this form seem to be focused on general information and experience, rather than specific skills or qualifications. This is consistent with a basic staff application form. However, without more context, it's also possible that this form could be used for other types of staff positions or applications.
-</thinking>
-
 # staff_application_form_template - Help Guide
 ## Purpose
 This form is intended for staff members to provide their basic information and experience when applying for a position at a summer camp.

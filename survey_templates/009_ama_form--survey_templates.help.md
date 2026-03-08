@@ -1,5 +1,3 @@
-<thinking>...the form was created to collect information from users about their questions, concerns, and interests. This form is a survey template designed to gather feedback from participants about their needs, preferences, and expectations. Before filling out the form, please ensure that you haven't already submitted a similar question or concern to avoid duplication of effort. This form is a public domain adaptation of a survey template, released under CC BY 4.0 license. You are free to use, modify, and share it as you see fit... </thinking>
-
 # AMA Form - Help Guide
 ## Purpose
 The AMA Form is designed to collect your questions, concerns, and interests in a structured and organized manner. It helps the respondent provide detailed and accurate information about their needs and preferences.

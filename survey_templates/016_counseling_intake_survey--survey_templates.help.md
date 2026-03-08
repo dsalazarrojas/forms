@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about a client's demographics, mental health history, treatment goals, and medical information, as well as their history with counseling and crisis services. This survey will help the counselor understand the client's background and needs to provide effective counseling services. Please note that this form does not collect any personal or sensitive information that may trigger any adverse action. If you are concerned about the information collected by this form, please do not proceed. If you are not a qualified counselor, please do not use this form for your purposes. This form is intended to be used within a professional counseling setting, and any unauthorized use may be considered a violation of client confidentiality and the counselor's code of ethics.
-
-</thinking>
-
 # Counseling Intake Survey - Help Guide
 ## Purpose
 This form is designed to gather information about a client's demographics, mental health history, treatment goals, and medical information, as well as their history with counseling and crisis services.

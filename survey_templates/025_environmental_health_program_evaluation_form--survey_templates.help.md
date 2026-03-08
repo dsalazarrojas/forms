@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the effectiveness and accessibility of an Environmental Health Program. It is intended for use by program administrators, managers, or users to gather information on program frequency, satisfaction, and accessibility. The form should only be completed once for each program being evaluated.
-
-</thinking>
-
 # Environmental Health Program Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather information on the effectiveness and accessibility of an Environmental Health Program. It includes questions on program frequency, satisfaction, and accessibility, which are necessary to understand the program's impact and areas for improvement.

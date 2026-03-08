@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Summer Camp Permission Form" in a concise and practical manner, I'll first need to infer the form's purpose and context. The form seems to be designed for collecting parental information, likely for a summer camp setting where parents or guardians need to provide consent for their child's participation. This implies that the form is meant for administrative purposes within a school or organization offering summer camps. The purpose is to collect relevant contact information and permissions for each child attending the camp.
-
-To confirm, there's no indication of any complex business logic or specific technical requirements that would require a more in-depth explanation. Therefore, the guide will focus on explaining the form's purpose, how to complete it, and what each field means in a straightforward way.
-
-</thinking>
-
 # Summer Camp Permission Form - Help Guide
 ## Purpose
 The Summer Camp Permission Form is designed to collect necessary contact information and permissions from parents or guardians for their child's participation in a summer camp.

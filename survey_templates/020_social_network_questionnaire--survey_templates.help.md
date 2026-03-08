@@ -1,7 +1,3 @@
-<thinking>
-This form is a social network questionnaire designed to collect demographic and social media usage data from users. The purpose of this form is to gather information about a company's social media presence and usage habits. This form is likely used in a business or organizational context, possibly for market research or social media strategy development.
-</thinking>
-
 # social_network_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect data about a company's social media presence and usage habits.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to facilitate the refilling of first aid kits for workers in a company or organization. The purpose of this form is to gather necessary information for the refilling process, including the location where the kit needs to be refilled, the type and size of the kit, and the frequency of the refilling request. It is essential to fill out this form accurately to ensure that the first aid kits are refilled correctly and that the workers have access to the necessary supplies. Please check that the location is correct before proceeding, as this will determine the correct delivery address and contact details for the kit refill. It is also crucial to select the correct type and size of the kit according to the needs of the workers and the location where it will be used. The frequency of the refill request should be chosen based on the usage of the first aid kit, ensuring that it is refilled regularly to maintain stock levels. This form should not be used for any other purpose than the refilling of first aid kits for workers.
-</thinking>
 # Worker First Aid Kit Refill Order Form - Help Guide
 ## Purpose
 This form is used to request the refilling of first aid kits for workers. Please fill out the form accurately to ensure that the kits are refilled correctly and that the workers have access to the necessary supplies.

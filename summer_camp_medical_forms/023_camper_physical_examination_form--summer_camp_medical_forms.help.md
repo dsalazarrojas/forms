@@ -1,10 +1,3 @@
-<thinking>
-To check for relevance and non-duplication before creating the user-facing help guide, I've reviewed the provided YAML fields. Here's a brief internal reasoning block:
-
-The Camper Physical Examination Form is designed to collect essential health information from campers to ensure their well-being and safety during the summer camp season. The form gathers details such as full name, date of birth, age, gender, height, weight, blood pressure, pulse rate, body temperature, and medical history. This data is crucial for the medical staff to assess the camper's overall health status and provide necessary clearance for camp activities. The form also captures information on recent illnesses, chronic conditions, allergies, current medications, and immunization status. Additionally, the form includes a section for the physician's signature and date, indicating their approval or clearance for the camper to participate in camp activities. This form is a critical document that ensures the camper's health and safety are prioritized.
-
-</thinking>
-
 # Camper Physical Examination Form - Help Guide
 
 ## Purpose

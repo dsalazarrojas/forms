@@ -1,13 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-This form is intended for users to collect and average numeric values for a specific purpose, likely for business or scientific research. The form collects basic user information, including name and email, to ensure accountability and data integrity. The form also allows users to input up to five numeric values to be averaged. After collecting values, users are prompted to rate the data quality, provide comments on data sources, select a frequency of collection, and confirm if the data has been verified.
-
-The form's purpose is to facilitate efficient calculation and organization of averaged values, while also maintaining data integrity and transparency. This form is not intended for general use, but rather for specific projects or studies that require frequent averaging of numeric values. Users should only complete this form if they have a clear reason to do so, to avoid duplication of effort and data redundancy.
-
-To avoid duplication of effort, users should check if a similar form has already been completed for the same purpose. If so, they can review the existing form to ensure that their submission will not interfere with ongoing projects or studies.
-
-</thinking>
-
 # Average Calculation Survey - Help Guide
 ## Purpose
 

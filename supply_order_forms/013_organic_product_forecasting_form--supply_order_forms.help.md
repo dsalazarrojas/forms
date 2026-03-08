@@ -1,7 +1,3 @@
-<thinking>
-This form is used by sales and purchasing teams to forecast and prepare for upcoming organic product orders. The form is used to collect information about the product being ordered, including its name, type, quantity, unit price, production date, delivery date, and any additional notes. This form is typically used for internal planning and forecasting purposes, and is not intended for public consumption. It is essential to fill out this form accurately to ensure that the organic product is produced and delivered on time and in the correct quantity.
-</thinking>
-
 # Organic Product Forecasting Form - Help Guide
 ## Purpose
 The Organic Product Forecasting Form is used by sales and purchasing teams to forecast and prepare for upcoming organic product orders.

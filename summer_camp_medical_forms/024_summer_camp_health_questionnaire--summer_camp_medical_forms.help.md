@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect health information from campers attending summer camp. It is intended for use by camp administrators or healthcare professionals to gather necessary medical data for the camper's safety and well-being. Please ensure that this form is used in a secure and private environment, and do not share or use this form without proper authorization.
-
-Form fields should not be duplicated or used for any purpose other than summer camp health questionnaires. This form is an original work and does not copy or derive content from any form creation or survey platform.
-
-The form fields are designed to gather general camper information, medical conditions, medications, allergies, medical history, emergency contact information, insurance details, and doctor information. Please note that this form is for informational purposes only and should not be used as a medical diagnosis tool.
-
-Please use this form in accordance with applicable laws and regulations, and always prioritize camper confidentiality and data security.
-
-</thinking>
-
 # summer_camp_health_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect health information from campers to ensure their safety and well-being during the summer camp experience.

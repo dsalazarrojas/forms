@@ -1,7 +1,3 @@
-<thinking>
-This is a form used to collect information about a camper's medical history and health status before attending a summer camp. The form is designed to be completed by the camper's guardian or parent. The purpose of this form is to ensure that the summer camp staff has accurate and up-to-date information about the camper's medical conditions, vaccinations, allergies, and medications. This information will be used to provide appropriate care and attention to the camper during their stay at the camp.
-</thinking>
-
 # Summer Camp Medical Form - Help Guide
 
 ## Purpose

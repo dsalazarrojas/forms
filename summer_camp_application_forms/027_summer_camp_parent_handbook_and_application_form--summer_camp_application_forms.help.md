@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive application form for parents and guardians to provide necessary information about their child's health and emergency contact details in preparation for a summer camp experience. The form will help the camp administration understand any potential health risks or allergies that the child may have, ensuring that the child's safety is ensured. It also helps to establish a clear line of communication in case of an emergency. The purpose of this form is to provide a safe and enjoyable environment for all campers.
-</thinking>
-
 # Summer Camp Parent Handbook And Application Form - Help Guide
 
 ## Purpose

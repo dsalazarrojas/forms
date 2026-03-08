@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather technical survey information from users. To ensure that the survey results are accurate and useful, please make sure to complete the form carefully and thoroughly. If you have already taken this survey in the past, please do not submit duplicate responses. This form is designed to collect data about your project, contact information, and technical skills. Your input will help us better understand your needs and preferences, and we appreciate your participation.
-</thinking>
-
 # Technical Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your project, contact details, and technical skills. Your input will help us better understand your needs and preferences.

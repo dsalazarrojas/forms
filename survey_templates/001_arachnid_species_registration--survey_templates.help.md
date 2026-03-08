@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Arachnid Species Registration - Help Guide
 ## Purpose
 This form is designed to collect information about arachnid species for the purpose of documenting and registering new species discoveries. The data collected will help scientists and researchers to better understand and manage arachnid diversity.

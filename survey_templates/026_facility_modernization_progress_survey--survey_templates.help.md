@@ -1,7 +1,3 @@
-<thinking>
-This form is used to monitor the progress of facility modernization projects. It asks users to report on the completion status of each project phase, identify any obstacles they are experiencing, and provide additional comments or feedback. This form should only be used for facility modernization projects that are part of the modernization program. Users should not submit this form if they are not directly involved in a facility modernization project. 
-</thinking>
-
 # Facility Modernization Progress Survey - Help Guide
 ## Purpose
 The Facility Modernization Progress Survey is used to track the progress of facility modernization projects. It helps the program team to identify which projects are completed, which ones are ongoing, and which ones are facing obstacles.

@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is used to collect information about a client's hair health routine, including their hair type, condition, problems, and treatment services used. This information can be used to create personalized hair care recommendations and treatment plans for the client. The form is designed to be completed by a client who is assessing their own hair health routine.
-
-</thinking>
 # Hair Health Routine Self Assessment Survey - Help Guide
 
 ## Purpose

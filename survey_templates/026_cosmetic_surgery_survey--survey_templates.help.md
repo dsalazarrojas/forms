@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and satisfaction data from patients who have undergone cosmetic surgery. The purpose of this form is to gauge the overall experience, satisfaction, and outcomes of the surgery, as well as to collect any additional comments or concerns. By filling out this form, you will be helping to improve the quality of care provided by the surgical team.
-</thinking>
-
 # Cosmetic_Surgery_Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and satisfaction data from patients who have undergone cosmetic surgery.

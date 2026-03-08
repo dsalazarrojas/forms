@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used for scheduling committee meetings, and its purpose is to gather information from committee members about their availability and preferences for meeting times and dates. The form is designed to be filled out by individual committee members, and it should not be duplicated or used for any other purpose. This form is not affiliated with or endorsed by any form platform, and it is an original creation based on public survey topic metadata.
-
-</thinking>
-
 # Committee Meeting Scheduling Form - Help Guide
 ## Purpose
 This form is designed to help committee members schedule meetings at times that are convenient for everyone.

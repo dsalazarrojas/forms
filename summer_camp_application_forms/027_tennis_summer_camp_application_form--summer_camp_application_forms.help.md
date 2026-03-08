@@ -1,11 +1,3 @@
-<thinking>
-This form is for students to apply to a tennis summer camp. It is intended for students who wish to be part of this summer's tennis camp program. 
-
-This form will be used to collect demographic information from the students, as well as medical and tennis-related details. 
-
-Please make sure to fill out the form completely and accurately to ensure you get considered for the camp. 
-
-</thinking>
 # Tennis Summer Camp Application Form - Help Guide
 ## Purpose
 The Tennis Summer Camp Application Form is designed for students to apply to a summer tennis camp program. This form helps the camp administrators to gather demographic information, medical details, and tennis-related information from the students.

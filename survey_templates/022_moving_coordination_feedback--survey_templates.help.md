@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their experience with a moving company, specifically on the coordination aspect of the move. The form is designed to be completed by a customer after their move has taken place, to help the moving company identify areas of improvement and provide better service in the future. This form is not mandatory, so users can choose to complete it if they wish to provide feedback.
-
-Before completing this form, please ensure you have a clear understanding of the questions asked and provide honest feedback about your experience. To avoid duplication of effort, please only complete this form once, after your move has taken place.
-
-</thinking>
-
 # Moving Coordination Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience with a moving company on the coordination aspect of the move.

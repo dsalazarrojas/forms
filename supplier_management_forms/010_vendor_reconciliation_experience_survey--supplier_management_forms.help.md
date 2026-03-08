@@ -1,19 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from suppliers about their experience with the company's reconciliation process. This form will help identify areas of improvement and ensure a smooth experience for all parties involved. 
-
-The main goal of this form is to collect data and gather insights on how well the company's reconciliation process is performing, specifically in terms of communication and finance contact. The questions asked are designed to be concise and straightforward, allowing the supplier to provide a honest and unbiased response. The company can then use this feedback to make adjustments and improvements to the process, which will benefit both the company and the suppliers.
-
-The data collected will be used to:
-
-* Improve communication between the company and suppliers
-* Enhance the finance process
-* Ensure accuracy and efficiency in the reconciliation process
-
-The data will be reviewed by the company's internal team to identify areas of improvement and make necessary adjustments.
-
-</thinking>
-
 # Vendor Reconciliation Experience Survey - Help Guide
 ## Purpose
 The Vendor Reconciliation Experience Survey is a form designed to collect feedback from suppliers regarding their experience with the company's reconciliation process. The goal is to gather data and insights to improve communication and finance processes.

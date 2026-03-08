@@ -1,19 +1,3 @@
-<thinking>Internal reasoning block to determine the purpose and relevance of the form, and to check for duplication:
-
-The form "Fitness Program Completion Feedback Survey" is intended to gather feedback from users who have completed a fitness program. The purpose of this form is to collect information about the user's experience, satisfaction level, and ratings of the program. This form likely belongs to a fitness or health-related category, as indicated by the "fitness_program" title.
-
-Upon reviewing the form fields, the following conclusions can be drawn:
-
-- The form collects demographic information (first name, email, contact number) which is likely used for communication and tracking purposes.
-- The "Program Completed" field is a multiple-choice field with two options ("Yes" and "No"), which indicates that the form is asking about the user's completion status of the program.
-- The "Feedback" field is a text field for users to provide additional comments about their experience.
-- The rest of the fields collect feedback and ratings about the program, such as satisfaction level, goals achieved, goals not achieved, program completion rating, and ratings explanations.
-- Some fields like "Program Progress", "Program Completion Date", "Program Completion Time", and "Program Duration" seem to be redundant and could be removed or simplified.
-
-The form seems to be designed for a general fitness program completion feedback survey, and there doesn't appear to be any duplication of purpose or fields. However, the "Survey Comments" and "Survey Suggestions" fields seem to be unnecessary and could be removed.
-
-</thinking>
-
 # Fitness Program Completion Feedback Survey - Help Guide
 ## Purpose
 

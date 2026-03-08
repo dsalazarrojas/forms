@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the vendor onboarding experience. This form is designed to collect data on key aspects of the vendor relationship, including contact information, supplier type, and follow-up actions. By completing this form, vendors can provide important details about their experience with the company, enabling the company to improve its onboarding processes and provide better service to its suppliers. Please ensure that you have completed all relevant forms and have not duplicated any information already provided.
-</thinking>
-
 # Vendor Onboarding Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the vendor onboarding experience. Completing this form will help the company improve its onboarding processes and provide better service to its suppliers.

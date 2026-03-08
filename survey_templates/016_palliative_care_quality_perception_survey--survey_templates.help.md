@@ -1,10 +1,3 @@
-<thinking>
-The palliative care quality perception survey is used to gather data about a patient's experience with their care team, including their perceptions of the care they receive, the effectiveness of communication, and the continuity of care. This form is designed to help palliative care teams and healthcare providers understand the patient's needs and preferences, allowing them to provide more effective and compassionate care.
-
-This form is intended for patients or their caregivers to complete. It is not meant to be a medical record or a substitute for clinical assessment.
-
-Please ensure that this form is not filled out by anyone who is not authorized to do so. If you are unsure about the purpose or scope of this form, please do not proceed.</thinking>
-
 # palliative_care_quality_perception_survey - Help Guide
 ## Purpose
 This survey is designed to gather data about your experience with your care team and the care you receive.

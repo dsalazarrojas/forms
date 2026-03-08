@@ -1,5 +1,3 @@
-<thinking>As a parent or guardian, you are required to complete this form for your camper to participate in the summer camp program. This form is used to gather essential information about your child, including their name, contact details, health conditions, and medical history. By filling out this form, you are providing us with necessary information that will help us ensure your child's safety and well-being during their stay at the camp.</thinking>
-
 # Camp Knock Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information about your child and your relationship with them. It will help us understand your consent for various camp activities, such as medical treatment, transportation, and photo release. Please fill out the form accurately and thoroughly to ensure we can provide the best possible experience for your child.

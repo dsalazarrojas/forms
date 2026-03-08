@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to help supply chain managers forecast potential disruptions in the supply chain. Disruptions can occur due to various reasons, such as supply chain delays, material shortages, quality issues, or other unforeseen events. This form is designed to collect information about the specific segment, region, product group, and type of disruption. By completing this form, users can provide valuable insights that help identify potential risks and inform decision-making processes.
-This form is only required to be filled out when a disruption is expected or suspected. If no disruption is anticipated, there is no need to fill out this form.
-The following fields should be filled out based on the specific disruption scenario. Please ensure that the correct segment, region, product group, and disruption type are selected accurately.
-</thinking>
-
 # Supply Chain Disruption Forecast Request - Help Guide
 ## Purpose
 The Supply Chain Disruption Forecast Request form is a tool for supply chain managers to predict and prepare for potential disruptions in the supply chain. This form helps gather information about the segment, region, product group, and type of disruption to identify potential risks and inform decision-making processes.

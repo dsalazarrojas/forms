@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the stress levels of teenagers in various areas of their lives, including school, home, relationships, health, finances, self-confidence, academic pressure, peer pressure, family support, parent involvement, school support, teacher support, peers support, parents support, friends support, school climate, family climate, parent-child interaction, teacher-child interaction, peers-child interaction, family-child interaction, school environment, teacher environment, and peers environment. The purpose of this form is to help identify potential areas where teenagers may be experiencing high levels of stress and provide guidance on how to address these issues.
-</thinking>
-
 # Teen Stress Survey - Help Guide
 ## Purpose
 

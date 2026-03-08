@@ -1,18 +1,3 @@
-<thinking>
-This help guide is intended for users who need to complete a Document Scanning Subscription Cancellation Form. The form is designed to collect information from the customer and the staff member handling the cancellation request.
-
-To ensure a smooth cancellation process, please review the form carefully before filling it out. This guide will walk you through each field and provide explanations to ensure you understand the purpose of each section.
-
-Before filling out the form, please check that you are not already cancelled or that the subscription is not already closed. If you have any doubts or questions, feel free to reach out to our support team.
-
-This guide will cover:
-
-* The overall purpose of the form
-* How to complete the form step-by-step
-* A field-by-field explanation of each section
-
-</thinking>
-
 # Document Scanning Subscription Cancellation Form - Help Guide
 
 ## Purpose

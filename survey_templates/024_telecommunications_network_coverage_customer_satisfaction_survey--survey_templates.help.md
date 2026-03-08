@@ -1,7 +1,3 @@
-<thinking>
-We are building a survey for customers to gather feedback on their experience with their telecom operator's network coverage. The purpose of this survey is to understand customer satisfaction and identify areas for improvement. Please note that the fields and questions are designed to be clear and concise, and answers should be based on the customer's personal experience. This form will gather information on the customer's location, service quality, call quality, data quality, network reliability, and customer service interaction. Please provide honest and accurate answers to help us improve our services.
-</thinking>
-
 # Telecommunications Network Coverage Customer Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from customers on their experience with their telecom operator's network coverage. Your responses will help us understand your satisfaction and identify areas for improvement.

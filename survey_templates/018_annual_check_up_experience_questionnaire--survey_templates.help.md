@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect feedback from patients on their experience with the healthcare provider. It is designed to gather information on various aspects of the visit, including the patient's demographics, visit experience, and overall satisfaction. 
-
-Before completing this form, please ensure that you are not duplicating existing feedback and that your comments are specific to your personal experience. This will help us to better understand your needs and improve our services.
-
-The following guide will walk you through each section of the form and how to complete it accurately.
-</thinking>
-
 # Annual Check Up Experience Questionnaire - Help Guide
 ## Purpose
 This form is used to gather feedback from patients on their experience with our healthcare provider. Your responses will help us to identify areas of improvement and provide better care for you and other patients.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and ratings from parents about the summer camp experience for their children. It will help the camp administrators to understand the strengths and weaknesses of the camp, identify areas of improvement, and make informed decisions about future programming and resources. The form should be completed by parents who have sent their children to the summer camp.
-
-</thinking>
-
 # Summer Camp Survey Form For Parents - Help Guide
 ## Purpose
 The Summer Camp Survey Form For Parents is a tool for parents to provide feedback and ratings about the summer camp experience for their children. This will help the camp administrators to understand your opinions and make informed decisions to improve the camp.

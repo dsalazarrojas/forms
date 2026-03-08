@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential participants in an AI tutoring research study. It is intended for individuals who are interested in participating in the research study and want to provide their details for consideration.
-
-The form is divided into several sections, each addressing a different aspect of the participant's profile and preferences. The fields are designed to be clear and concise, ensuring that the participant can easily provide the required information.
-
-Before proceeding, we'll review the provided YAML fields and create a detailed help guide to assist the end-users in completing the form correctly and effectively.
-
-</thinking>
-
 # AI Tutoring Research Participation Registration - Help Guide
 ## Purpose
 This form is for individuals interested in participating in the AI tutoring research study. It gathers information on your profile, preferences, and availability to help researchers in better understanding how AI tutoring can be effectively used.

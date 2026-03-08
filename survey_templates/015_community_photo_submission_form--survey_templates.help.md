@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information and metadata for photos submitted for community use. The purpose of this form is to gather relevant details about the photo, including the submissionter's contact information, photo title, description, location, and usage rights. This information will help the community manage and utilize the submitted photos effectively.
-Please ensure you submit a photo that meets the required standards, and be accurate in your responses to help the community properly utilize your work.
-Please note that this form is for submission of original photos. Do not submit work that has been previously published or copyrighted.
-</thinking>
-
 # Community Photo Submission Form - Help Guide
 ## Purpose
 The Community Photo Submission Form is designed to collect metadata and information for community use, ensuring that your photos are properly credited and utilized.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from vendors that want to provide low-emission transport services. The purpose of this form is to verify the details of the vendor before approval, ensuring that they meet the necessary qualifications and requirements for participating in low-emission transport services. It's crucial to have accurate information about the vendor, their services, and their documents to facilitate smooth communication and collaboration between the vendor and the approval team. This form should only be filled out by vendors who are genuinely interested in offering low-emission transport services and not by those who are merely testing the system or duplicating efforts.
-</thinking>
-
 # Low Emission Transport Vendor Application Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from vendors offering low-emission transport services. It's crucial to fill out this form correctly to ensure that your application is processed smoothly.

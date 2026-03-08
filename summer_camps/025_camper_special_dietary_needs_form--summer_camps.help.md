@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to help users understand the purpose and function of this form while also considering the context and audience. This form, the Camper Special Dietary Needs Form, is designed to gather information about the campers' dietary restrictions, allergies, and preferences for a summer camp setting. The form is intended for parents or guardians to provide accurate and comprehensive information about their child's needs, ensuring the camper's safety and well-being during the camp experience. It is crucial to fill out this form correctly, as it will help the camp staff provide appropriate care and accommodations for the camper.</thinking>
-
 # Camper Special Dietary Needs Form - Help Guide
 ## Purpose
 The Camper Special Dietary Needs Form is used to gather information about a camper's dietary restrictions, allergies, and preferences to ensure their safety and well-being during the camp experience.

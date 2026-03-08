@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on various aspects of an event, including the event's organizer, name, description, location, date, time, category, and other relevant details. The form also allows users to provide feedback on the event's status, whether it was submitted by the event organizer or not, and other related attributes. This form is intended to ensure that events are up-to-date and accurate, and to provide valuable feedback to event organizers. 
-
-Please note that some fields are optional and only include them if they are relevant to the specific event being processed.
-</thinking>
-
 # Feedback Form Requisition Tool - Help Guide
 ## Purpose
 The Feedback Form Requisition Tool is used to collect feedback on events from users. This form helps event organizers to gather information on various aspects of events, including the event's details and status.

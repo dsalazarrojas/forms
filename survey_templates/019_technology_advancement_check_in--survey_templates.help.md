@@ -1,12 +1,3 @@
-<thinking>
-We need to check if this form is for a real use case, not just a theoretical exercise. Let's assume it's for a Technology Advancement Check In form used to gauge employee feedback, technology adoption, and other relevant metrics for team members.
-
-Before we start, let's make sure we're not duplicating efforts. Is this form already being used somewhere else? Are there any similar forms that we can use instead? Let's also review the form's purpose and scope. Is it meant for regular check-ins or one-off assessments? 
-
-Assuming this form is a necessary tool for the team, let's proceed with creating the help guide.
-
-</thinking>
-
 # Technology Advancement Check In - Help Guide
 ## Purpose
 The Technology Advancement Check In form is used to collect information about team members' technology adoption, feedback, and other relevant metrics. This form helps the team to stay updated on progress, identify areas of improvement, and make informed decisions.

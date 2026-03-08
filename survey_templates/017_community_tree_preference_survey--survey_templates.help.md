@@ -1,11 +1,3 @@
-<thinking>
-The form "Community Tree Preference Survey" is designed to collect information from community members about their preferences and opinions on tree planting and maintenance in their area. The purpose of this survey is to gather data that can help inform decision-making on community tree planting initiatives.
-
-This survey is not affiliated with any form platform and is an original adaptation of a generic survey template. The form has 22 questions across 9 pages, covering various aspects of tree planting and maintenance.
-
-Before proceeding, please ensure that you have not filled out this survey previously. If you have, your responses will be recorded as duplicates, which may affect the survey's outcome.
-</thinking>
-
 # Community Tree Preference Survey - Help Guide
 ## Purpose
 The Community Tree Preference Survey is a tool to gather information from community members about their preferences and opinions on tree planting and maintenance.

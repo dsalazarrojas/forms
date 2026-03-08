@@ -1,14 +1,3 @@
-<thinking>
-We'll create a comprehensive help guide for the "Candidate Experience Survey" form, ensuring that end users understand its purpose and know exactly what to expect.
-
-The form is designed to gather feedback from candidates about their experience with the hiring process. This feedback will help us identify areas of improvement and make necessary adjustments to enhance the overall experience.
-
-Before proceeding, check if you've already provided feedback to this survey to avoid duplicating your response.
-
-Please note that this guide will cover each field individually, making it easy to understand what information is needed for each section.
-
-</thinking>
-
 # Candidate Experience Survey - Help Guide
 ## Purpose
 The Candidate Experience Survey is a crucial step in our hiring process, allowing us to gather valuable feedback from candidates and make data-driven decisions to improve the overall experience for everyone.

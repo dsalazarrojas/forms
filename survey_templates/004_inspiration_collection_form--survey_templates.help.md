@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect inspiration from users. It is likely used by designers, artists, or creatives to gather ideas, themes, or concepts for a project or project series. The form is structured with multiple pages, each with a specific type of field (text, select_one, select_multiple, etc.). This guide is intended to help users understand the purpose and requirements of the form.
-
-</thinking>
-
 # Inspiration Collection Form - Help Guide
 ## Purpose
 The "Inspiration Collection Form" is designed to gather creative ideas, themes, or concepts for a project or project series.

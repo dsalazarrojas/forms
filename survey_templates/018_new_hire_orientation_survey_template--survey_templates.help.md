@@ -1,8 +1,4 @@
-> <thinking>
-This template is intended to gather feedback from new hires about their onboarding experience. It is crucial to understand how well the company has prepared and supported the new employee's transition into their new role. This form ensures that the feedback is comprehensive and objective, allowing management to identify areas of improvement and provide necessary adjustments for future onboarding processes. To avoid duplication, please fill out this form only once after the onboarding process is complete and before the employee has settled in.
-</thinking>
- 
-# New Hire Orientation Survey Template - Help Guide
+> # New Hire Orientation Survey Template - Help Guide
 
 ## Purpose
 This form is designed to collect feedback from new hires about their onboarding experience to help the company improve the onboarding process.

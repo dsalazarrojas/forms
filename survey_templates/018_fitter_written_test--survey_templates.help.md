@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect data from users on their written tests, specifically to get feedback on the questions or other aspects of the written tests.
-</thinking>
-
 # fitter_written_test - Help Guide
 ## Purpose
 The "Fitter Written Test" form is used to collect information from users on their written tests. This form is designed to gather feedback on the questions or other aspects of the written tests.

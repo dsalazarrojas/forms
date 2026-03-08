@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gauge the effectiveness of a marketing campaign for pet products by gathering information on various customer and product-related parameters. This form will help us evaluate how well the campaign reached and resonated with the target audience, and what areas need improvement. The questions asked in this form are carefully curated to collect data on pet owners' awareness, behavior, and preferences regarding their pets' products. Please make sure to fill out the form honestly and thoroughly to provide the most accurate and informative results.
-</thinking>
-
 # Pet Product Marketing Effectiveness Survey - Help Guide
 
 ## Purpose

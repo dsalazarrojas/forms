@@ -1,5 +1,3 @@
-<thinking>...the form "Genetic Feedback Loop Research Data Collection Form" aims to collect information about participants in genetic research studies...this form is part of a larger research project and is intended for researchers to gather data on participant demographics, genetic information, and relationships...please ensure only one participant is selected per form submission...</thinking>
-
 # Genetic Feedback Loop Research Data Collection Form - Help Guide
 ## Purpose
 The Genetic Feedback Loop Research Data Collection Form is designed to collect participant information for genetic research studies. Please ensure that you provide accurate and complete information for each participant.

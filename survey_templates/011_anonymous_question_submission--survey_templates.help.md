@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect anonymous questions and feedback from users, allowing them to submit their inquiries and concerns related to events or meetings. This form is designed to be a quick and convenient way to capture user input, helping to ensure that their voices are heard and their questions are answered. To prevent duplication, the system checks for duplicate questions based on the event name, category, and question text. This helps to maintain the quality and relevance of the collected feedback.
-</thinking>
-
 # Anonymous Question Submission - Help Guide
 ## Purpose
 This form is used to submit anonymous questions and feedback related to events or meetings. It collects relevant information such as the event name, category of the question, and priority level of the question, along with other details.

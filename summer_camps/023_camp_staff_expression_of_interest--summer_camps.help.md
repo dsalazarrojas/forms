@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture the expression of interest of potential staff members to work at a summer camp. It will help us understand their background, availability, and preferences to determine suitability for various roles. We should ensure that each applicant is aware of what information we are collecting and how it will be used to process their application.
-
-To confirm, this form is not for current employees of the camp. We are looking for new staff members who are interested in volunteering, being paid, or taking on an internship. Please review the form carefully to ensure you are providing accurate and relevant information.
-
-Before proceeding, please make sure you have not filled out this form in the past. If you have, it will not be processed.
-
-</thinking>
-
 # Camp Staff Expression Of Interest - Help Guide
 ## Purpose
 The purpose of this form is to help us understand your background, interests, and qualifications to work at the summer camp. This information will be used to process your application and determine the best fit for you among our various staff roles.

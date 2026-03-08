@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from campers and their parents about the camper's interests, availability, and other relevant details. The purpose of this form is to gauge the interest in virtual summer camps and understand the preferences and availability of potential campers. By completing this form, campers and their parents can help us to better tailor our virtual summer camps to their needs and interests.
-
-This form is not meant to be completed by the same person more than once. Each section is designed to collect specific information that will help us to determine which virtual summer camps are the best fit for each camper.
-
-Please ensure that you fill in all required fields, and use the options provided in each field as guidance. If you are unsure about any section, please ask for help or clarification.
-
-</thinking>
-
 # Virtual Summer Camp Interest Survey - Help Guide
 ## Purpose
 This form is used to collect information from campers and their parents about their interests, availability, and other relevant details to help us tailor our virtual summer camps to their needs and interests.

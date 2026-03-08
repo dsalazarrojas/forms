@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about the respondents' music preferences and habits. It is not a requirement to fill out the form, and respondents can choose to answer as many or as few questions as they'd like. Please note that the form is meant to be completed by teenagers and young adults.
-
-If you have already filled out this form in the past, please do not fill it out again. Your responses will not affect your chances of participating in any future surveys.
-</thinking>
-
 # teenage_life_music_quiz - Help Guide
 ## Purpose
 This form is designed to gather information about your music preferences and habits. It's completely optional and will not affect your participation in any future surveys.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a collection of various input fields that gather information from users, likely for a survey or data collection purpose. The form includes multiple pages with different types of input fields such as select multiple, number, select one, date, time, and text fields. This form may be used in a variety of contexts, such as gathering demographic information, collecting feedback, or tracking progress.
-
-To avoid duplication of effort, it's worth noting that several of the fields are similar in nature (e.g., multiple "number_input" fields), and some fields (e.g., "note" fields) may not be necessary or could be replaced with more specific fields.
-
-The form appears to be designed to collect a wide range of information, including numbers, dates, times, and text. Some fields are labeled with clear and concise labels, while others may benefit from more descriptive labels or hints to aid users in providing accurate and relevant information.
-
-</thinking>
-
 # Number Input And Range Survey - Help Guide
 ## Purpose
 This form is a collection of various input fields designed to gather information from users.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sexual Harassment Prevention Training Form - Help Guide
 ## Purpose
 This form is designed to collect information about your sexual harassment prevention training session. It will help us tailor the training to meet your needs and ensure a safe and respectful environment.

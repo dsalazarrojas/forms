@@ -1,6 +1,3 @@
-<thinking>
-This form is used to gather feedback and experiences from facilitators on their peer learning activities. The form aims to understand the facilitators' perspectives on the effectiveness and challenges of the facilitation process, including their experiences with program improvements, facilitator support, and other relevant factors. Before proceeding, ensure you are the intended recipient of this form and not a duplicate entry. Please complete this form only once for each unique facilitation experience.</thinking>
-
 # Peer Learning Facilitation Experience Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback from facilitators about their experiences with peer learning activities.

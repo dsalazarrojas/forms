@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the company car program, specifically regarding the vehicle assigned to each employee. This form aims to collect data on vehicle make and model, year of manufacture, average monthly mileage, overall condition, satisfaction with the fuel card process, maintenance service responsiveness, adequacy of safety features, and desired features in future company vehicles. This information will help the company assess the effectiveness and areas of improvement of the program.
-Before attempting to complete this form, ensure that you are only completing it once per vehicle. If you are currently assigned to multiple vehicles, please complete the form for each vehicle separately.
-</thinking>
-
 # Company Car Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the company car program, specifically regarding the vehicle assigned to each employee.

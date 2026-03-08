@@ -1,5 +1,3 @@
-<thinking>This form is used to input data related to inventory forecasts. The form is used to gather information about the product, forecasted date, forecasted value, location, forecasted frequency, forecasted UOM (Unit of Measure), and notes for different product variants. The form is designed to be filled out by users who need to input forecasted data for inventory management purposes. To ensure accurate and consistent data entry, users should only fill out this form when they have access to the necessary information. To avoid duplication of effort, users should only fill out this form when new data is available, and not when updating existing data. The form has multiple sections, each representing different product variants. Users should fill out each section accordingly, using the same format for all sections.</thinking>
-
 # Inventory Forecast Input Form - Help Guide
 ## Purpose
 The Inventory Forecast Input Form is used to input data related to inventory forecasts for different product variants.

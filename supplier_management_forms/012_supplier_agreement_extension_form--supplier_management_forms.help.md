@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supplier Agreement Extension Form - Help Guide
 ## Purpose
 The Supplier Agreement Extension Form is used to extend a supplier agreement, updating relevant information and providing a new extension date and other details. This form is essential for managing supplier contracts and maintaining accurate records.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to process office supply orders. It is designed to collect information about the order details, customer contact information, and payment method. The order details section collects the item being ordered, the desired quantity, and the price. The payment method selects the payment method to be used for the order, with options for credit card, PayPal, and Apple Pay. This form is not intended to be a comprehensive order management system, but rather a simple tool to gather necessary information for processing office supply orders. There is no requirement for the fields to be filled, as this form is primarily for demonstration purposes. This form will likely need additional fields and features to be suitable for most office supply ordering scenarios.</thinking>
-
 # Office Supply Order Form - Help Guide
 ## Purpose
 The Office Supply Order Form is used to collect information about office supply orders, including order details, customer contact information, and payment method.

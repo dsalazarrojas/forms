@@ -1,13 +1,3 @@
-<thinking>
-
-This form, Muscle Function Knowledge Quiz, appears to be designed for educational purposes, possibly to test users' knowledge on muscle functions in the human body. It's likely used in a medical or anatomy-related context, where users need to identify the primary functions of different muscle groups. Given the layout and structure of the form, it seems to cover a wide range of muscles, from the biceps to the latissimus dorsi. Each page is dedicated to a specific muscle, asking users to either select or state the primary function of the muscle in question. 
-
-Considering the options provided for each question, they seem to be categorized as 'Yes' or 'No' for questions with multiple options, and 'Option 1, Option 2, Option 3, Option 4' for questions that ask for a single selection. 
-
-This form may be intended for users with some basic knowledge of anatomy, and it does not appear to be specifically designed for experts or professionals, given the simple layout and the 'required: false' option for most fields, suggesting that it's more of a learning tool than a rigorous assessment. The form does not seem to be designed for data collection or analysis in a business setting.
-
-</thinking>
-
 # Muscle Function Knowledge Quiz - Help Guide
 
 ## Purpose

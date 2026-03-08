@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # RV Camping Checklist Template - Help Guide
 ## Purpose
 This template is designed to help RV campers and outdoor enthusiasts prepare for their camping trips. It allows users to create a comprehensive checklist for their RV camping adventures, ensuring they don't forget essential items and details.

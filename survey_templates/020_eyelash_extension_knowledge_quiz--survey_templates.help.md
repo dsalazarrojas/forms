@@ -1,10 +1,4 @@
-> <thinking>
-This form is designed to assess the knowledge and understanding of eyelash extension practices, common complications that may arise, and safety and hygiene protocols. 
-The form is intended for lash technicians and artists in the eyelash industry, but it may also be useful for students or those interested in learning about this topic. 
-Please do not fill this form unless you have some basic understanding of eyelash extension and safety protocols.
-</thinking>
-
-# Eyelash Extension Knowledge Quiz - Help Guide
+> # Eyelash Extension Knowledge Quiz - Help Guide
 ## Purpose
 The Eyelash Extension Knowledge Quiz is a series of questions designed to evaluate your knowledge of eyelash extension practices. It is intended to help you identify areas for improvement and ensure you are up-to-date with industry standards.
 

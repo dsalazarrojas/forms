@@ -1,10 +1,3 @@
-<thinking>
-# Purpose: This form is used for customers to request a restock order for eco-friendly bags.
-# Non-duplication: To ensure that customers do not submit duplicate orders, the system checks for existing orders and prevents resubmission of the same order details.
-# Relevance: A customer can only submit an order if the current date is within the reorder interval set by the supplier.
-
-</thinking>
-
 # Eco Friendly Bag Restock Order Form - Help Guide
 ## Purpose
 The Eco Friendly Bag Restock Order Form is used to request a restock of eco-friendly bags from a supplier. This form is meant for customers who want to reorder their bags on a regular basis. 

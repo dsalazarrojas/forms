@@ -1,10 +1,3 @@
-<thinking> 
-We need to determine the purpose of this form to provide the best help guide possible. Based on the input schema, it appears that this form is designed to collect information about user reactions to various products. However, there are a large number of fields with similar labels, which may indicate that the form is intended to be used for a specific product or set of products. To provide a helpful guide, we will make assumptions based on the schema provided.
-
-The form appears to be intended for use by salon spas organizations, and it may be used to collect feedback or ratings from users about their experiences with various products. The multiple fields with "Reactions To Products" as labels suggest that the form is collecting data on how users react or respond to different products. This is likely used for product development or improvement purposes.
-
-We will provide a guide that explains each field in a way that is clear and concise, based on the provided schema.</thinking>
-
 # Wax Product Skin Reaction Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experience with various products used at salon spas. Your input will help us understand your reactions and improve our products for better service.

@@ -1,11 +1,3 @@
-<thinking>
-To determine if the form is relevant and not a duplicate, I'll review the YAML fields. The form is called "Call For Composers" and appears to be a form for composers to submit their work, provide details about themselves, and agree to terms and conditions. The form has 25 fields in total, with various sections for composer information, composition details, premiere and rights, recording information, and submission agreement.
-
-The form's purpose seems to be to collect data from composers for some sort of call or opportunity. The form requires the composer's personal information (name, email, phone number), professional experience (years of composing experience, music education or training), and composition details (composition title, style or genre, duration, instrumentation, description). Additionally, the form asks for specific details about the composition, such as whether it's a world premiere, if the composer holds all performance rights, and if they agree to have their work performed publicly. Finally, the form includes fields for agreement and submission terms.
-
-Upon reviewing the YAML fields, there doesn't seem to be any duplication or irrelevant fields. All fields appear to be relevant to the form's purpose. Therefore, the form should be relevant and not a duplicate.
-</thinking>
-
 # Call For Composers - Help Guide
 ## Purpose
 The Call For Composers form is designed to collect information from composers for a call or opportunity. This form gathers personal details about the composer, composition information, and agreement terms for submission and performance.

@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to gather information from staff members or team members for a reference or record-keeping system within the summer camps context. The form is used to collect basic contact information (name, phone, email) and additional details about the staff member's qualifications and experience. This form is likely used in human resources or staff management processes to create a quick reference for future use. Please ensure that the information is accurate and up-to-date to maintain a reliable staff reference system.</thinking>
-
 # Staff Reference Form - Help Guide
 ## Purpose
 The Staff Reference Form is a tool used to collect and document information about staff members' contact details and professional background for easy reference in the future.

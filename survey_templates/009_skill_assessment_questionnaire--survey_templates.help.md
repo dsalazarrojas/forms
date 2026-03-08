@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's skills and knowledge in various areas. It is meant to be completed by a subject matter expert (SME) to provide an evaluation of the individual's proficiency in different skills. The form is divided into sections, each focusing on a specific skill area. The questions are designed to be answered with a 'Yes' or 'No' response, indicating whether the individual has the skill or not.
-</thinking>
-
 # skill_assessment_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to assess an individual's skills and knowledge in various areas. It is meant to be completed by a subject matter expert (SME) to provide an evaluation of the individual's proficiency in different skills.

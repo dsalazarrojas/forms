@@ -1,4 +1,3 @@
-<thinking>This form is designed to assess the impact of academic exchange programs on participants. The form is intended to collect information about the participant's experience, outcomes, and challenges faced during the program. This data can help program administrators and evaluators understand the effectiveness and potential areas for improvement of the exchange program.</thinking>
 # Academic Exchange Program Impact Assessment - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from participants about their experience in an academic exchange program. This information will help us assess the impact of the program on participants and make it more effective for future students.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their experience with the website, including demographic details, feedback, and suggestions. It is likely used for analytics and improvement purposes. Before proceeding, please ensure that you have not filled out this form before, as the data will not be recorded.
-</thinking>
-
 # Quick Website Survey - Help Guide
 ## Purpose
 This form is designed to gather information from users about their experience with the website. It is meant to help us understand your thoughts, suggestions, and preferences.

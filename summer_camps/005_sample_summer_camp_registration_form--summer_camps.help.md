@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering campers for a summer camp program. The purpose of this form is to collect essential information about the camper and their guardian. This information will be used to ensure a smooth and enjoyable experience for the camper during the camp. This form is typically filled out by a parent or guardian on behalf of the camper. To avoid errors, please review the form carefully and fill it out accurately. Note that some fields are optional and some are required. If you have any questions or concerns, please contact the summer camp administration.
-</thinking>
-
 # Sample Summer Camp Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the camper and their guardian for a smooth and enjoyable experience during the summer camp.

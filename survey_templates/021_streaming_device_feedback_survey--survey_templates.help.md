@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for users to provide feedback on streaming devices, specifically on their performance and any issues they may have experienced. The form asks for general information about the streaming device, as well as specific details on any technical issues they've encountered. This feedback will help the development team understand user experiences and improve the streaming device for better performance.
-To confirm, this form will help to collect:
-- Technical issues and their severity.
-- Release notes and additional information.
-- Contact information and any other necessary details.
-This form is a survey for internal use to gather feedback on the performance of our streaming devices.
-
-Please note that some form fields are not required as they are intended for users to provide additional information only if they wish.
-</thinking>
-
 # Streaming Device Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback on streaming devices, including any issues experienced and suggestions for improvement. Your input will help us better understand your needs and improve the streaming devices.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide assumes that you are a subscriber to our craft kit program. Before proceeding, please note that this guide is for informational purposes only and does not supersede any agreement or policy that may be in place.
 
 **craft_kit_subscription_form - Help Guide**

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to help you, as a company employee, disclose potential conflicts of interest related to your work. It is essential to fill out this form carefully and accurately, as it helps us maintain trust and transparency within the organization. Please make sure to answer all questions truthfully, and if you are unsure about any information, please ask your supervisor or HR representative for guidance. This form will help us identify any potential conflicts of interest and prevent any issues that may arise from them. Please complete this form thoroughly to avoid any confusion or misrepresentation. 
-
-</thinking>
-
 # Conflict And Exclusivity Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about potential conflicts of interest that may affect your work or relationships with the company. It is crucial to provide accurate and honest answers to help the organization maintain a fair and transparent work environment.

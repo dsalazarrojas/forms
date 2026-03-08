@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from users to generate catchy username suggestions for their social media handle or online presence. The primary purpose of this form is to help users create a unique and appealing username that reflects their personality, interests, and preferences. The form is divided into two main sections: "About You" and "Username Preferences". The "About You" section collects basic information about the user, including their full name and email address. The "Username Preferences" section is where users can specify their specific requirements for their desired username, such as the type of platform they'll be using it on, the desired vibe or style of their username, and the maximum length of their username. 
-
-This form helps us understand the user's needs and provide suggestions based on their preferences, ensuring that the generated usernames are tailored to their specific requirements.</thinking>
-
 # Catchy Username Suggestions - Help Guide
 ## Purpose
 This form is designed to gather information from users to generate catchy username suggestions for their social media handle or online presence.

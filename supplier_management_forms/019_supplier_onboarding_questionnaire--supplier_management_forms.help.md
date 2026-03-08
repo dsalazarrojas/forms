@@ -1,7 +1,3 @@
-<thinking>This form is designed to collect information from new suppliers that are being onboarded into the system. It helps to gather essential details about the supplier, including their contact information and any other relevant data that may be required for their onboarding process. This form is intended for internal use only and is not meant for external parties to fill out. Please ensure that you only access this form if you are authorized to do so.
-
-</thinking>
-
 # Supplier Onboarding Questionnaire - Help Guide
 ## Purpose
 The Supplier Onboarding Questionnaire is a form used to collect information from new suppliers that are being onboarded into the system. It helps to gather essential details about the supplier, including their contact information and other relevant data.

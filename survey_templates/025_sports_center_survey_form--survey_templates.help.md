@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sports Center Survey Form - Help Guide
 
 ## Purpose

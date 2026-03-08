@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for referring summer programs or camps to be considered for partnership with our organization. 
-Before completing this form, please ensure that you have a legitimate reason to refer this program. 
-Duplicate submissions for the same program will not be accepted.
-</thinking>
-
 # Summer Referral Form - Help Guide
 ## Purpose
 The Summer Referral Form is designed to receive referrals of summer programs or camps that we might consider partnering with. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track attendance at Boy Scout events or meetings. The form will ask for the meeting date, the scout's name, their assigned troop number, attendance status, optional arrival and departure times, any special notes, and the leader's initials. The form does not need to be completed multiple times, and any information already entered will be saved for future reference. This form is meant for internal use within the Boy Scout organization and is not affiliated with any external form platforms.
-</thinking>
-
 # Boy Scout Attendance Form - Help Guide
 ## Purpose
 This form is used to track attendance at Boy Scout events or meetings.

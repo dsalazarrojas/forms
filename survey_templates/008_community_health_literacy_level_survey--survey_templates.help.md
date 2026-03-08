@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for a Community Health Literacy Level Survey form. This form aims to assess the level of health literacy among community members. It is used to understand the respondents' basic demographic information, their knowledge and understanding of health and nutrition, and their preferences for health information sources. We will cover the purpose of the form, how to complete it, and provide explanations for each field.
-</thinking>
-
 # Community Health Literacy Level Survey - Help Guide
 ## Purpose
 The Community Health Literacy Level Survey is designed to gauge the level of health literacy among community members. This survey will help us understand how well community members understand health and nutrition concepts, their preferences for health information sources, and their level of comfort in interacting with healthcare professionals.

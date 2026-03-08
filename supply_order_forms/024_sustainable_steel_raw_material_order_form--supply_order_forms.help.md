@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the ordering process for sustainable steel raw materials from suppliers. The form aims to gather essential information about the supplier, order type, material description, delivery details, and contact method. By using this form, suppliers can provide accurate and detailed information about their materials, and buyers can efficiently place orders while ensuring smooth delivery.
-
-The form will be used to check for relevance and non-duplication of orders by suppliers, ensuring that the data provided is accurate and up-to-date.
-
-This guide will walk you through each field of the form, explaining each component in a clear and concise manner.
-
-</thinking>
-
 # Sustainable Steel Raw Material Order Form - Help Guide
 
 ## Purpose

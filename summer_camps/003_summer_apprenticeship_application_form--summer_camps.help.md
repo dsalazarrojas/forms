@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for individuals to apply for summer apprenticeships, providing information about themselves and their qualifications for the apprenticeship. The form is used to collect general information about the individual, their education, skills, and experience, as well as specific details about the expected start and end dates, hours of work per week, location, and tools used. This form is not intended for internal use within the organization, so no login credentials are required.
-
-The form is intended for individuals who are looking for summer apprenticeships, and the information collected will be used by the organization to evaluate their qualifications and suitability for the apprenticeship. 
-
-To ensure that the application process is thorough and fair, please ensure that the form is not filled out multiple times by the same individual. Duplicate applications will not be considered.
-
-</thinking>
-
 # Summer Apprenticeship Application Form - Help Guide
 ## Purpose
 

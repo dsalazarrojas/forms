@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help respondents understand their current career situation and goals, and provide insights to help them navigate their career path. The form is intended for individuals looking to advance their career, and the questions are tailored to help them identify areas of improvement and potential career development opportunities. To ensure accuracy, please complete the form only if you are an individual looking to improve your career prospects.
-
-The form is divided into several sections, each addressing a different aspect of career development. Respondents are asked to provide demographic information, such as their name, email address, and job experience. They are also asked about their career goals, education level, and skills assessment. Additionally, the form inquires about their preferred work environment, salary expectations, and expected timeline for achieving their career goals.
-
-Please ensure that you have the necessary information and consent to complete this form accurately. If you are unsure about any section, please seek clarification before proceeding.
-
-</thinking>
-
 # Career Path Survey - Help Guide
 ## Purpose
 The Career Path Survey is designed to help you understand your current career situation and identify areas for improvement and growth. The survey will guide you through a series of questions to help you assess your current career status, skills, and goals.

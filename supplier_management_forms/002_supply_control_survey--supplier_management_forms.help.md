@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supply Control Survey - Help Guide
 ## Purpose
 

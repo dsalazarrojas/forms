@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be filled out when a new stock replenishment order is required to restock the snack bar with products. The order form is used to gather information about the order such as the location to deliver to, the delivery date, and the customer's contact information. The purpose of this form is to facilitate the replenishment process by ensuring that the correct products are ordered in the correct quantities. 
-This form is part of a larger system used by the organization to manage stock replenishment orders. It is not intended for general use or as a generic contact form. Please fill out this form to submit a new stock replenishment order.
-</thinking>
-
 # Snack Bar Product Replenishment Order Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-We need to create a user-facing help guide for the "Sustainability And Supplier Diversity Spend Report" form, which seems to collect information for sustainability and diversity spend reports. This form likely aims to provide a comprehensive overview of a company's sustainability and diversity spend, which can help companies make informed decisions and improve their supply chain diversity.
-
-Before diving into the guide, let's ensure that the form's purpose and requirements are clear. This form appears to be designed for internal use within an organization, and its purpose is to collect relevant data for sustainability and diversity spend reports. The fields included in the form seem to cover essential information about the period, supplier list, sustainability updates, and contact details.
-
-</thinking>
-
 # Sustainability And Supplier Diversity Spend Report - Help Guide
 ## Purpose
 This form is designed to collect information for sustainability and diversity spend reports. The report helps organizations track and analyze their sustainability and diversity spend, enabling informed decisions and improvements in their supply chain diversity.

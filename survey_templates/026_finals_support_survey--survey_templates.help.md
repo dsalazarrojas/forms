@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from students regarding their experience with finals support. This will help our support team identify areas of improvement and make informed decisions for better supporting students during finals. Please only fill out this form once, as it may be used to aggregate and analyze responses. If you have already completed this form, please do not resubmit.
-
-</thinking>
-
 # Finals Support Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from students regarding their experience with finals support. Your responses will help our support team identify areas of improvement and make informed decisions for better supporting students during finals.

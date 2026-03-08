@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from individuals who have had their abstracts declined by a conference, journal, or program. The survey aims to understand their experience with the review process and identify areas for improvement.
-</thinking>
-
 # Abstract Decline Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from abstract declinees to improve the submission process. Your response will help us understand your experience and suggestions for enhancements.

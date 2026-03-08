@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a Technology Subscription Box Signup. The purpose of this form is to obtain details from customers who are interested in subscribing to a technology-related product or service. The form will guide users through a series of fields to collect the necessary information for processing their subscription. Before filling out this form, please ensure that you have read our terms and conditions and that this is not a duplicated request (e.g., you already have an account with us).
-
-To ensure accuracy, kindly fill in the required fields carefully.
-</thinking>
 # Technology Subscription Box Signup - Help Guide
 ## Purpose
 The form is designed to gather information for a Technology Subscription Box Signup. Please follow these steps to complete the form successfully.

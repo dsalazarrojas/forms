@@ -1,11 +1,3 @@
-<thinking>
-The form "Avalanche Safety Feedback Form" is designed to collect valuable feedback from users who have experienced an avalanche in the backcountry. This feedback is crucial in helping us improve the accuracy and clarity of our safety information, ultimately reducing the risk of accidents and fatalities in the backcountry. 
-
-To ensure the collected feedback is relevant and not a duplication of effort, this form is intended for users who have recently visited a ski resort or backcountry area. If you're unsure whether this form applies to you, please consider the following: Have you recently visited a ski resort or backcountry area? Have you experienced an avalanche in the past 30 days? If you answered no to both questions, it's likely that this form does not apply to you. Please consider reaching out to other relevant parties for their feedback.
-
-The form is designed to be straightforward and easy to navigate. The following guide will walk you through each section to ensure you complete it accurately and efficiently.
-
-</thinking>
 # Avalanche Safety Feedback Form - Help Guide
 ## Purpose
 The Avalanche Safety Feedback Form is designed to collect feedback from users who have experienced an avalanche in the backcountry. This feedback is used to improve the accuracy and clarity of our safety information, ultimately reducing the risk of accidents and fatalities in the backcountry.

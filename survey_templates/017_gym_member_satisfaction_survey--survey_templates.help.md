@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from gym members about their satisfaction with various aspects of the gym experience, including overall satisfaction, facilities, services, cleanliness, value for money, staff attitude, staff helpfulness, and more. This will help the gym management understand their strengths and weaknesses and make data-driven decisions to improve the overall experience for their members.
-The form will collect data on various aspects of the gym experience, such as facilities, services, cleanliness, and staff attitude, which will be used to identify areas for improvement and enhance the overall satisfaction of the members.
-The form is designed to be completed by gym members, and the data collected will be used for internal purposes only. No external entities will have access to the collected data.
-</thinking>
-
 # gym_member_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect information from gym members about their overall satisfaction and experience at the gym.

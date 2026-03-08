@@ -1,29 +1,3 @@
-<thinking>
-This form is designed for customers or users to order replacement filters for their ice machines. The form is used to collect relevant information about the order, including the machine's ID, customer's contact details, order date, filter model, quantity, and total cost. The form is likely used by a business or organization that sells or services ice machines, and the goal is to efficiently and accurately process orders.
-
-The form has several fields to collect information:
-
-*   Machine's ID: A unique identifier for the machine that needs a replacement filter.
-*   Customer Name: The name of the person placing the order.
-*   Contact Number: The customer's phone number for communication.
-*   Email: The customer's email address for communication.
-*   Order Date: The date the order is being placed.
-*   Filter Model: A yes or no field indicating whether the filter model is required.
-*   Filter Quantity: The number of filters ordered.
-*   Total Parts: The total number of parts needed for the order.
-*   Filter Cost: The cost of the filters being ordered.
-*   Total Amount: The total cost of the order.
-*   Shipping: A selection field for shipping options (Shipping, Local Pickup, In-Store Pickup).
-*   Notes: Any additional information about the order.
-*   Assigned To: A yes or no field indicating whether the order is assigned to a specific person.
-*   Assigned By: A yes or no field indicating whether the order is assigned to a specific person.
-*   Created At: The timestamp when the order was created.
-*   Updated At: The timestamp when the order was last updated.
-*   Created By: A yes or no field indicating whether the order was created by a specific person.
-
-The form is not required, so users are not obligated to fill out all fields. However, filling out all relevant fields will make it easier for the business or organization to process the order accurately and efficiently.
-</thinking>
-
 # Ice Machine Filter Replacement Order Form - Help Guide
 ## Purpose
 This form is designed for customers or users to order replacement filters for their ice machines.

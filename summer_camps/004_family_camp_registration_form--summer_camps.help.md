@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form for registering a camper for the summer camp program. It is intended for parents or guardians to provide information about the camper's medical history, emergency contact information, and previous camping experiences. 
 
 This form is not required for all campers, but it is recommended for campers who have specific medical needs or allergies. It will help our camp staff better understand the camper's situation and ensure a safe and enjoyable experience for them.

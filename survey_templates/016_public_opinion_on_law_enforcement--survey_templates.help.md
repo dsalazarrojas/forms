@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to gather public opinion on law enforcement, aiming to collect information on people's trust levels, safety perception, and suggestions for improvement. The form is composed of multiple pages with different types of questions, including rating questions, yes/no questions, text fields, and demographic fields. 
-
-To avoid duplication and irrelevant submissions, please ensure you've completed this form for the correct purpose. This form is not intended for commercial use or sharing. Only one submission per individual is allowed. 
-
-Before starting, please review the following guidelines:
-- For "how would you rate your trust level...", please answer with numbers (e.g., 1-10).
-- For "Do you feel safe in your neighborhood?", select 'Yes' or 'No'.
-- For "What do you think is the main reason for lack of trust?", select all that apply.
-- For "Do you have any suggestions?", provide text-based answers.
-- For "Contact Information", please enter a valid contact info (e.g., name, title, role).
-- For "Agreement", select 'Yes' or 'No'.
-
-Please fill out the form carefully and accurately.
-</thinking>
-
 # Public Opinion On Law Enforcement - Help Guide
 ## Purpose
 This form is designed to gather public opinion on law enforcement, aiming to collect information on people's trust levels, safety perception, and suggestions for improvement.

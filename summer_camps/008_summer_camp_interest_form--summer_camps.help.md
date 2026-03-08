@@ -1,8 +1,3 @@
-<thinking>
-This form is for registering interest in a summer camp event. The form will be used to gauge interest and anticipate the number of people who would like to register for the event. The fields in this form are designed to collect contact information and event details from interested individuals. It's essential to complete this form only once per person or organization, as multiple submissions from the same entity may be considered duplicate and will not be processed.
-
-</thinking>
-
 # Summer Camp Interest Form - Help Guide
 ## Purpose
 The Summer Camp Interest Form is designed to collect information about individuals or organizations interested in attending the summer camp event. The data collected will help us anticipate the number of people who may register for the event.

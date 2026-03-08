@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from marine refit users. The purpose of this form is to gather information on users' satisfaction levels with the refit process, identify areas of improvement, and gather any additional comments or suggestions they may have. 
-
-Before filling out this form, ensure that you have not already provided feedback on the same project and are not logged in or authorized to access this survey multiple times.
-
-</thinking>
-
 # Marine Refit Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and suggestions from marine refit users to improve the service.

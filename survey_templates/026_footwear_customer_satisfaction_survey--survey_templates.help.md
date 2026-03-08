@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback on a product, specifically a footwear product. The purpose of this form is to gather information on customer satisfaction, rating of satisfaction, rating of quality, rating of value for money, recommendation of the product, purchase intent, feedback, contact information (email and phone number), and the date of purchase. This form is intended to be completed by customers who have purchased a footwear product and are willing to provide their feedback. 
-</thinking>
-
 # Footwear Customer Satisfaction Survey - Help Guide
 ## Purpose
 

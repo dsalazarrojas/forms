@@ -1,7 +1,3 @@
-<thinking>
-This form is used for wholesalers to request a transfer of stock from one location to another. It's a simple, three-page form that allows users to choose between 'Yes' or 'No' answers for each page, select a collection location from which to transfer, and enter a quantity and transfer date/time. This form should only be completed by authorized personnel, as it does not appear to be required in any case. It's worth noting that the "quantity" field seems to be a numeric field but is not validated in the YAML, so users may enter non-numeric characters. It's also unclear what the "notes" field is for, as it's labeled as a "note" but doesn't have any additional options or hints. Lastly, the form seems to be asking for both "assigned to" and "assigned by" options, which may be redundant or contradictory.
-</thinking>
-
 # Wholesale Transfer Request Form - Help Guide
 ## Purpose
 The Wholesale Transfer Request Form is used to request a transfer of stock from one location to another.

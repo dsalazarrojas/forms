@@ -1,8 +1,3 @@
-<thinking>
-The Staff Reference Form is used to provide a professional reference for a current or former staff member of the summer camp. The form is used by staff members to provide contact information for a reference, which can be used by the camp to verify employment history or performance.
-This form is not intended to be completed by the referee. The referee will not be aware that their contact information is being used for the purpose of providing a reference.
-</thinking>
-
 # Staff Reference Form - Help Guide
 ## Purpose
 The Staff Reference Form is a tool used by the summer camp staff members to provide a professional reference for a current or former staff member. This form allows staff members to submit contact information for a reference, which can be used by the camp to verify employment history or performance.

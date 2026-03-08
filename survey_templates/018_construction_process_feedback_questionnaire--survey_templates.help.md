@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers or stakeholders about their experience with a construction project. The form is divided into several sections, each focusing on different aspects of the project process. The goal is to gather information about the project's overall satisfaction, the efficiency of the construction process, and areas for future improvement. This form should only be filled out by those who have completed the project. 
-</thinking>
-
 # Construction Process Feedback Questionnaire - Help Guide
 
 ## Purpose

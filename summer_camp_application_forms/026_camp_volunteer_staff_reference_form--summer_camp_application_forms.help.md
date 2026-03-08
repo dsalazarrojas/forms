@@ -1,16 +1,3 @@
-<thinking>
-We are creating a form for a summer camp to collect references for potential volunteer staff members. This form will gather information about the applicant, their skills, and experiences, and allow the reference to provide feedback on the applicant's character, reliability, responsibility, and other qualities. The form will be used by the camp staff to make informed decisions about which applicants to select for volunteer positions. Please ensure that only relevant and up-to-date references are submitted, as this form is used to evaluate potential staff members.
-
-This form will be used to assess the applicant's:
-* Character and personal qualities
-* Reliability and responsibility
-* Ability to work with others and interact with youth
-* Strengths and areas for growth
-* Ability to be trusted with children
-
-Please submit only one reference per applicant. If you have any concerns, please describe them in the section for additional comments.
-</thinking>
-
 # Camp Volunteer Staff Reference Form - Help Guide
 ## Purpose
 The Camp Volunteer Staff Reference Form is a document that helps us assess the character, reliability, and other qualities of potential staff members. It is used by our camp staff to make informed decisions about who to select for volunteer positions.

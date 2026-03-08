@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in working as staff members for summer activities. It is intended to gather details about their personal and professional background, as well as their availability and preferences for work schedules.
-</thinking>
-
 # summer-activities-staff-application-form - Help Guide
 ## Purpose
 This form is for individuals who are interested in working as staff members for summer activities. It aims to collect information about their background, availability, and preferences.

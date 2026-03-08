@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in volunteering for the Alternative Summer Camp 2020. The purpose of this form is to gather contact information and volunteer experience from interested individuals. To prevent duplication of efforts, this form should only be filled out by individuals who have not already volunteered for the Alternative Summer Camp 2020. 
-
-</thinking>
-
 # Volunteering For Alternative Summer Camp 2020 - Help Guide
 ## Purpose
 This form is used to collect information from individuals interested in volunteering for the Alternative Summer Camp 2020. 

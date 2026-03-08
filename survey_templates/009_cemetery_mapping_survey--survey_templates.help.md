@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help cemetery staff, researchers, and volunteers collect data on cemetery plots, monuments, and occupancy records. The purpose of this form is to standardize the collection of data, reduce errors, and improve the overall quality of the cemetery's records. This form is not affiliated with any specific form platform and is a original adaptation of public survey topic metadata. The form consists of sections on surveyor information, plot data collection, monument details, occupancy records, and additional survey notes. The surveyor information section collects personal details of the surveyor, including their name and the date and time of the survey. The plot data collection section includes essential details such as section number, row number, plot number, and current plot status. The monument details section assesses the type, condition, and enclosure type of the monument. The occupancy records section contains information on the names on the monument and the dates of burial. The additional survey notes section allows surveyors to add any other relevant notes or observations during the survey.
-
-</thinking>
-
 # Cemetery Mapping Survey - Help Guide
 ## Purpose
 The Cemetery Mapping Survey form is designed to collect standardized data on cemetery plots, monuments, and occupancy records. It helps to improve the overall quality of the cemetery's records and reduce errors during the survey process.

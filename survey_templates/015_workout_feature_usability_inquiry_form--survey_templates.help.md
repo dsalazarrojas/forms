@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and usability insights about specific features in a product or service. This form allows users to report their experience and suggest improvements for a given feature. It is designed for both product owners and end-users to provide a structured way to gather valuable information about the feature's effectiveness and areas for improvement.
-
-</thinking>
-
 # Workout Feature Usability Inquiry Form - Help Guide
 ## Purpose
 The Workout Feature Usability Inquiry Form is a tool to help us better understand how users interact with our product features, allowing us to identify areas of improvement and implement changes to meet your needs.

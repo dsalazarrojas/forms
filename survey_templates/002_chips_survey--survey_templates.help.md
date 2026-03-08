@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chips Survey - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-This form is a technology and connectivity survey aimed at gathering insights into individuals' habits and usage patterns related to their devices, internet access, and time spent online. The form is designed to collect data on various aspects of technology usage, such as devices used for work and leisure, internet access methods, and time spent on different activities online. 
-
-The survey is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created by AI using public survey topic metadata. It is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it while giving credit.
-
-Please note that some questions may have similar or identical options, which can be due to the nature of the survey and the options available to the form creator. However, the intention behind these questions is to gather specific data points related to technology and connectivity.
-
-Before proceeding, ensure that you have the necessary permissions to complete this survey on behalf of others, and be aware that the answers provided may be used for research or other legitimate purposes.
-
-To avoid duplication or redundancy, please answer each question truthfully and accurately based on your personal experiences and habits.
-</thinking>
-
 # Technology And Connectivity Survey - Help Guide
 
 ## Purpose

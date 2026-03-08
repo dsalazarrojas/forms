@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about a specific podcast episode. The feedback form includes several fields that gather information from the user, including their name, email, rating, and comments. The form is intended to be completed by users who have listened to the episode and want to share their thoughts and opinions with the podcast team. It's likely that this form will be used to track user engagement and sentiment towards the podcast, helping the team to make data-driven decisions about future content and episodes. It's worth noting that the form does not ask for any sensitive or personal information, so users should feel comfortable providing honest and constructive feedback. 
-</thinking>
-
 # Podcast Episode Feedback Survey - Help Guide
 ## Purpose
 

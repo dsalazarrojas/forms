@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and reviews on project implementation. It is meant for project team members and stakeholders to evaluate the effectiveness of a project and provide insights for future projects. Before filling out this form, please ensure that you have a clear understanding of the project's goals and objectives. If you have already submitted a similar form for the same project, please do not re-submit it, as this may cause duplication of effort.
-</thinking>
-
 # project_implementation_review_request_form - Help Guide
 ## Purpose
 This form helps project team members and stakeholders evaluate the effectiveness of a project and provide insights for future projects.

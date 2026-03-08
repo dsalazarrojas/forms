@@ -1,12 +1,3 @@
-<thinking> 
-This form is used to evaluate the effectiveness and quality of a caregiver support workshop. The purpose of this form is to gather feedback from participants about their experience, satisfaction, and expectations for future workshops. 
-
-This form is designed to collect information from caregivers who have attended the workshop and will help identify areas of improvement and opportunities for future development.
-
-Before starting, make sure you have attended a caregiver support workshop and are ready to provide honest feedback about your experience. 
-
-</thinking>
-
 # Caregiver Support Workshop Evaluation - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Constructive Feedback And Self Assessment Form - Help Guide
 
 ## Purpose

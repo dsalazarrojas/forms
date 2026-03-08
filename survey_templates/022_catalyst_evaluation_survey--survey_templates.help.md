@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about a catalyst's performance and evaluation. It appears to be used for assessing the efficacy of a catalyst in various industries such as automotive exhaust, chemical synthesis, petroleum refining, environmental remediation, and industrial processing. The form includes fields for study details, project or study ID, catalyst code, evaluator name, evaluation date, primary application area, performance metrics (efficiency, selectivity, and durability), stability and cost considerations (thermal stability, cost-effectiveness, and scalability recommendations), and additional technical observations. This form seems to be used for internal evaluation and possibly benchmarking purposes. I will provide a detailed explanation of the form's fields and instructions for users.</thinking>
-
 # Catalyst Evaluation Survey - Help Guide
 
 ## Purpose

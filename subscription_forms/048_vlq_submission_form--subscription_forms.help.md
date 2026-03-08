@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the form purpose, I've reviewed the provided YAML fields. The form seems to be designed for gathering information about participants in a VLQ (Visual Literacy Quotient) program or assessment, likely for research or evaluation purposes. The fields collected include various personal details, participation information, and agreements.
-
-Before proceeding, please confirm that the form's purpose is indeed to collect data for a VLQ program and that the fields accurately reflect the required and optional information to be collected.
-
-</thinking>
-
 # VLQ Submission Form - Help Guide
 
 ## Purpose

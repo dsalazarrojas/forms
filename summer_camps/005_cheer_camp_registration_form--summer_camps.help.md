@@ -1,11 +1,3 @@
-<thinking>
-
-To help the user complete this form correctly, we will create a help guide for the "Cheer Camp Registration Form". This form is used to register participants for the Cheer Camp. It is required to be filled out for each participant. 
-
-This form should not be filled out if the participant is already registered for the same camp. 
-
-</thinking>
-
 # Cheer Camp Registration Form - Help Guide
 ## Purpose
 The "Cheer Camp Registration Form" is used to register participants for the Cheer Camp. This form collects information needed to ensure a safe and enjoyable experience for the participant. 

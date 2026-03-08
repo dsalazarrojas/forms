@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information about alumni's participation and interest in a school choir. The purpose of this form is to understand the alumni's background in music, their interest in participating in the choir, and their preferences for communication and performance. This form is likely used by the school's choir organization to gather data on alumni who are interested in participating in the choir's activities, such as concerts and performances.
-
-To avoid duplication, this form should only be filled out by people who have not already filled out a similar form.
-
-</thinking>
-
 # Alumni Choir Participation Survey - Help Guide
 ## Purpose
 The Alumni Choir Participation Survey is designed to gather information about your background, interest, and preferences related to the school choir. This survey will help us understand your potential involvement in the choir's activities, including concerts and performances.

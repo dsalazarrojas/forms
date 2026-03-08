@@ -1,7 +1,3 @@
-<thinking>
-To create an effective argumentative essay outline form, it's essential to have a clear understanding of the form's purpose and what information is needed to complete it. This form is designed to collect data for a specific project or assignment, and the information gathered will be used to support the student's argument. The form is intended to guide students through the process of creating a well-structured essay.
-</thinking>
-
 # Argumentative Essay Outline Form - Help Guide
 
 ## Purpose

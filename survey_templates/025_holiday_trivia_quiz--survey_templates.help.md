@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Holiday Trivia Quiz - Help Guide
 
 ## Purpose

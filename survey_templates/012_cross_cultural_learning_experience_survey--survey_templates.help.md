@@ -1,8 +1,3 @@
-<thinking>... (Internal reasoning block) ...
-This form is designed to gather data from respondents regarding their experiences with cross-cultural learning, particularly in a professional or academic setting. The form consists of multiple sections, each addressing a different aspect of cross-cultural learning. Respondents will be asked to provide their opinions, experiences, and ratings across various fields. The form's structure ensures that each section is distinct and relevant to the theme of cross-cultural learning. By completing this form, respondents contribute valuable insights that can help shape future cross-cultural learning initiatives. To ensure accurate and meaningful data collection, please complete the form attentively and without duplication of answers, as repeated answers might lead to inaccurate analysis results. Please ensure that you have read the entire form before starting to complete it, and take the necessary time to provide thorough and thoughtful answers.
-
-</thinking>
-
 # Cross Cultural Learning Experience Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about your experiences with cross-cultural learning. It will help us understand your opinions and thoughts on this topic.

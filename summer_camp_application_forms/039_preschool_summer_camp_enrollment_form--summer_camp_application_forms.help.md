@@ -1,7 +1,3 @@
-<thinking>**Preschool Summer Camp Enrollment Form Help Guide**
-
-To help us better serve our campers, please ensure that you fill out this form completely and accurately. This form is for enrolling your child into our preschool summer camp program. If you're already enrolled and would like to make updates or changes, please do not fill out this form again. Instead, contact our customer support team to assist you with any changes or updates.</thinking>
-
 # Preschool Summer Camp Enrollment Form - Help Guide
 ## Purpose
 This form is for enrolling your child into our preschool summer camp program. We need some basic information about you and your child to better serve you and ensure a smooth and enjoyable experience for your child.

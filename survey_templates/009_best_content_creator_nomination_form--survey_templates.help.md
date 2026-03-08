@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect nominations for the "Best Content Creator" award. The purpose of this form is to gather information from users about their favorite content creators, including their name, email address, and nomination details. The form is structured into several sections: nominator information, nominee information, nomination details, and ratings of the nominee's impact and quality. This form is intended to be completed by users who wish to nominate a content creator for this award, and the data collected will be used to evaluate the nominees and ultimately select the winner.
-Before starting the nomination process, please ensure that:
-- You have not already nominated the same creator for this award. To avoid duplicate nominations, please verify that your previous nomination for the same creator has not been received.
-- You are nominating a creator who meets the eligibility criteria for this award (e.g. they meet the specific requirements for the category you are nominating them in).
-</thinking>
-
 # Best Content Creator Nomination Form - Help Guide
 ## Purpose
 The Best Content Creator Nomination Form is designed to collect nominations for the "Best Content Creator" award. This form is used to gather information from users about their favorite content creators, including their name, email address, and nomination details.

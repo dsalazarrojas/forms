@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Healthcare Financing Interest Survey - Help Guide
 ## Purpose
 This form is designed to gather information from pet owners about their interest in pet healthcare financing options. It helps us understand what type of pet they have, what payment plans they are interested in, and other relevant details. This information will be used to tailor our services and provide better support to pet owners.

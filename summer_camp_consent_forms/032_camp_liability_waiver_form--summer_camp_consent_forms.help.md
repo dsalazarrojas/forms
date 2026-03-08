@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our users understand the importance of this form in protecting the camp and its staff from potential legal claims. This form is a legally binding contract that outlines the risks involved in participating in the camp activities and releases the camp and its staff from liability in case of any accidents or injuries. It's essential that the users understand and acknowledge the risks, release the liability, and agree to indemnify the camp against costs resulting from their child's actions.
-</thinking>
-
 # Camp Liability Waiver Form - Help Guide
 ## Purpose
 This form is a legally binding contract that requires parents or guardians to acknowledge and accept the risks involved in participating in the camp activities. It releases the camp and its staff from liability in case of any accidents or injuries.

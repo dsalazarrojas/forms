@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information for a telecom project material request. It is intended for use by internal stakeholders to request materials for a specific project. The form is part of the internal process for managing and tracking project resources. Before filling out this form, please ensure that you are submitting a legitimate request and that the project ID is accurate. This form should not be used for duplicate or test requests. 
 
 </thinking>

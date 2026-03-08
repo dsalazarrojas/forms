@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for vendors to request verification of their products, which is a crucial process in ensuring the quality and authenticity of products sold on the platform. This form collects necessary information about the supplier and their product, including product details, documentation, and additional comments. The form is not intended to be a duplicate or a replacement for any existing process, and the purpose is to provide accurate and clear information to the platform's moderators for review and verification.
-
-This guide is intended to help vendors complete the form correctly and efficiently, ensuring that their products are verified and listed accurately on the platform.
-
-Before starting, please note that all fields are optional except for the fields with the "required" tag.
-</thinking>
-
 # Vendor Product Verification Request Form - Help Guide
 ## Purpose
 The Vendor Product Verification Request Form is a tool for suppliers to provide detailed information about their products, which is then reviewed by the platform's moderators for verification and listing on the platform.

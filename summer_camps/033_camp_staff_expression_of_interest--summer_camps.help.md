@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to allow camp staff to express their interest in working at the summer camp. The form is meant for staff members to provide information about themselves, their availability, and their motivation for working at the camp. The form will be reviewed by the camp management team to assess the applicant's qualifications and suitability for the role.
-
-This form will be used to determine if an applicant is a duplicate or not. If the applicant has already submitted a similar application, the system will flag it for review by the management team to assess whether it's an exact duplicate or a variation of a previous application that should be merged.
-
-</thinking>
-
 # Camp Staff Expression Of Interest - Help Guide
 ## Purpose
 The Camp Staff Expression Of Interest form is used by staff members to apply for various roles at the summer camp. It helps the management team to assess the qualifications and suitability of applicants for specific roles and dates.

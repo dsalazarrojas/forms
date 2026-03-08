@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that the summer camp waiver form is filled out correctly by the parent/guardian to provide necessary information and ensure a safe and enjoyable experience for the child. This form should only be filled out once per child. Before completing this form, please review and follow all the required fields and instructions to ensure you've covered all necessary information.
-</thinking>
-
 # Summer Camp Waiver Form - Help Guide
 ## Purpose
 This form is intended to be filled out by parents/guardians of children attending summer camp. It is used to provide important information about the child, including medical conditions, allergies, and emergency contacts.

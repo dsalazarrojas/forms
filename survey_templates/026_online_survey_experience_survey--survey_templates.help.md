@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's online experience, focusing on their visiting frequency, device usage, satisfaction levels, common challenges, comments, contact information, and date. The form's purpose is to gather data that can be used to improve online services. To ensure that the data collected is accurate and relevant, we will check for duplication before allowing users to proceed. This will prevent the creation of duplicate surveys and maintain data consistency.
-</thinking>
-
 # online_survey_experience_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your online experience, including your visiting frequency, device usage, satisfaction levels, common challenges, and contact information. The collected data will be used to improve online services.

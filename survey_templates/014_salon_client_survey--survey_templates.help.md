@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # salon_client_survey - Help Guide
 
 ## Purpose

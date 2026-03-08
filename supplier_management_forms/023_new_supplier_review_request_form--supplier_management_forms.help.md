@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to be used by suppliers to request a review from the organization. The form will collect information about the supplier, their contact details, their product or service offerings, any relevant documents, and the specific review request. This form is not meant to be filled out by suppliers multiple times for the same review request.
 
 </thinking>

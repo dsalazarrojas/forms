@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information on security awareness within an organization. It's intended for employees, IT staff, and management. The purpose of this survey is to assess the level of security awareness among the respondents, and gather data on their practices and behaviors related to security. This guide will help users understand how to complete the form correctly and what each question is designed to measure.
-
-</thinking>
-
 # Security Awareness Survey - Help Guide
 ## Purpose
 The Security Awareness Survey is a questionnaire designed to assess the level of security awareness among employees, IT staff, and management within an organization. This survey aims to gather data on their practices and behaviors related to security.

@@ -1,7 +1,3 @@
-<thinking>...This form, called "Athlete Burnout Prevention Awareness Survey," is designed to gather information from athletes about their experiences with burnout in sports. Burnout is a condition of physical or mental exhaustion caused by prolonged stress, overexertion, or other factors. This survey aims to understand the prevalence and causes of burnout among athletes, as well as their perceptions of current prevention strategies and initiatives that could be helpful. By understanding athlete experiences and needs, the survey results can inform the development of programs and resources to support athlete well-being.
-
-Before answering this survey, athletes are asked to consider that responses are confidential and will be treated as such...</thinking>
-
 # Athlete Burnout Prevention Awareness Survey - Help Guide
 
 ## Purpose

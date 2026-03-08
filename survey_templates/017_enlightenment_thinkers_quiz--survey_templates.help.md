@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a quiz about the Enlightenment era, a period in history characterized by a shift towards reason, critical thinking, and intellectual curiosity. It appears that the form is designed to gather information about users' thoughts and opinions on various aspects of the Enlightenment era, including notable thinkers, publications, events, and personal preferences. This form is likely used for educational or research purposes, and the questions cover a mix of historical facts, intellectual preferences, and personal characteristics. Please ensure that you are answering these questions in the context of the Enlightenment era, and not providing personal contact information or unrelated data.
-</thinking>
-
 # Enlightenment Thinkers Quiz - Help Guide
 ## Purpose
 This form is a quiz designed to test your knowledge and interests related to the Enlightenment era. It covers various aspects of this historical period, including notable thinkers, publications, and events.

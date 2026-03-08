@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential subscribers of Color Street's subscription box service. The form aims to gather details about the subscriber's preferences, such as their name, email address, preferred subscription frequency, box customization options, and budget. By completing this form, the subscriber can provide Color Street with valuable feedback and help shape the service's offerings to meet their needs. This form is a crucial tool for the company to understand its target audience and provide personalized experiences. Before starting, ensure that the subscriber has read through the form thoroughly to avoid any confusion or duplication of information.
-</thinking>
-
 # Color Street Subscription Box Form - Help Guide
 ## Purpose
 This form is designed to collect your subscription preferences and help Color Street tailor its subscription box service to meet your needs.

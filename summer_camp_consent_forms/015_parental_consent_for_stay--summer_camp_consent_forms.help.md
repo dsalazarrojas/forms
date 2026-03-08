@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect parental consent for a child to stay at a summer camp. When a parent or guardian is filling out this form, they are providing their consent for their child to participate in a stay at a summer camp. This form will help ensure that the parent or guardian has all the necessary information to provide informed consent. This form should only be filled out by the parent or guardian of the child, as it is their legal right to consent on behalf of their child. Please fill out the form carefully and accurately to ensure the child's stay is smooth and safe.
-
-Before you start, please note that this form is a one-time submission. If you need to update or change any information, please contact the summer camp administration directly.
-
-Also, please ensure that you fill out all required fields, as they are marked with an asterisk (*) in the form.
-
-</thinking>
-
 # Parental Consent For Stay - Help Guide
 ## Purpose
 This form is designed to collect parental consent for a child to stay at a summer camp. It includes information about the child's details, contact information, medical history, and emergency contact information.

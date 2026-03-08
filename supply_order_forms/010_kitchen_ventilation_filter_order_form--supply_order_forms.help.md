@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kitchen Ventilation Filter Order Form - Help Guide
 ## Purpose
 The Kitchen Ventilation Filter Order Form is designed to gather information for ordering kitchen ventilation filters. It is intended for use by individuals or businesses that require filters for their kitchen ventilation systems. This form should only be used for ordering purposes and not for other uses.

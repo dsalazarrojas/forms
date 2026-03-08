@@ -1,7 +1,3 @@
-<thinking>...internal reasoning block to check for relevance and non-duplication...
-
-This form is likely used to collect suggestions for a podcast, specifically for topics or episodes. The form is designed to be completed by users, possibly staff or contributors, to submit new ideas for discussion or content. Each field is carefully crafted to guide the user through the process, ensuring the most relevant and accurate information is collected. Upon form submission, the gathered data will be used to generate new content or discussion topics for the podcast. To avoid duplication, users are not allowed to submit the same idea multiple times, as indicated by the required field 'suggestion_type' which is checked against a set of predefined options. The form's purpose is to collect quality suggestions while maintaining data integrity... </thinking>
-
 # podcast_topic_suggestions - Help Guide
 
 ## Purpose

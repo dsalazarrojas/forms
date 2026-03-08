@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to gather community service project voting information from residents. It is meant to be used for community development and project prioritization purposes.
-The form is not to be used for any other purpose than for community service project voting.
-The form does not store any user data and the information collected will only be used to inform project prioritization.
-This form is an original adaptation of the provided metadata and does not copy or extract content from any other form platform.
-</thinking>
-
 # Community Service Project Voting Form - Help Guide
 ## Purpose
 This form is used to gather information from community members on which community service projects they would like to support. The goal is to prioritize projects based on community input and feedback.

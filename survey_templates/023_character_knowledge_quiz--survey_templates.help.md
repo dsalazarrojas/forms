@@ -1,10 +1,3 @@
-<thinking>
-This form is a character knowledge quiz designed to assess users' understanding of a story's characters, their relationships, and the plot. The form is used to gather information about the quiz taker's knowledge of the story, allowing creators to evaluate their audience's engagement and understanding of the narrative. 
-
-Before proceeding, ensure that you have a basic knowledge of the story being analyzed and understand the context of the form. This guide is meant to walk you through each section of the form, explaining each field and its purpose.
-
-</thinking>
-
 # Character Knowledge Quiz - Help Guide
 ## Purpose
 The Character Knowledge Quiz is designed to test your knowledge of a story's characters, their relationships, and the plot. It's a series of questions that will help the creators of the story understand your understanding of the narrative.

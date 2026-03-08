@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a user's interest and engagement with Steam, a popular online platform for gamers. The purpose of this form is to collect information about the user's background, interests, and experiences with Steam. This form is likely being used by Steam developers or researchers to better understand user behavior and preferences.
-</thinking>
-
 # Steam Learning Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about your background, interests, and experiences with Steam.

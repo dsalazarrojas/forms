@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback on airport service quality from passengers, visitors, or staff members. It is designed to be completed by users who have recently visited an airport, providing their honest opinions on various aspects of their experience. The form is intended to be a useful tool for airport management to gauge their services and identify areas for improvement. Before starting, please ensure that you have visited the airport and are familiar with its facilities.
-</thinking>
-
 # Airport Service Quality Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the quality of services provided by the airport. Your input will help airport management understand how they can improve the overall passenger experience.

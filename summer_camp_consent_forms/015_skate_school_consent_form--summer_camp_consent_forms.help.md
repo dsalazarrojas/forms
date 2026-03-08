@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information from students and parents regarding participation in the skate school summer camp program. The purpose of this form is to ensure that all individuals involved in the program are aware of and consent to the rules and regulations of the program. This form is intended for students who are interested in participating in the skate school summer camp program... </thinking>
-
 # Skate School Consent Form - Help Guide
 ## Purpose
 This form is used to gather consent from students and parents for participation in the skate school summer camp program.

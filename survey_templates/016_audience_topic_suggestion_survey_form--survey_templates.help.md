@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect suggestions from the audience on topics they would like to learn about. It is intended to help the content creators understand what types of content would be engaging and valuable to their audience. The form is part of a larger effort to shape the future content of a platform or publication. It is not affiliated with, endorsed by, or derived from any form platform. This form is a unique creation based on public survey topic metadata and is released under a Creative Commons BY 4.0 license, allowing for modification and use. The form is designed to be user-friendly and collects information on various aspects of the audience's preferences and interests. It is crucial to complete this form carefully, as the information collected will be used to create valuable content for the audience. The form has been created using AI but is still designed to be accessible and understandable by the user.
-
-The form consists of several sections, each collecting specific information from the user. It is essential to complete each section carefully to ensure that the information collected is accurate and complete. The form is not intended to be time-consuming and should take around 5-10 minutes to complete, depending on the user's familiarity with the topic.
-
-Please note that the form is not designed to collect sensitive or personal data. If you have any concerns, please don't hesitate to contact the form creators at form@gic.mx. The information collected will be used to create engaging content for the audience, and the creators appreciate your contribution to this process.
-</thinking>
-
 # Audience Topic Suggestion Survey Form - Help Guide
 ## Purpose
 The Audience Topic Suggestion Survey Form is a tool designed to help content creators understand what topics the audience is interested in. It collects suggestions on topics that would be engaging and valuable to the audience, helping to shape the future content of a platform or publication.

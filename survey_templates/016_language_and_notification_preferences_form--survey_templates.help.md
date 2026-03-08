@@ -1,29 +1,3 @@
-<thinking>
-The "Language and Notification Preferences Form" is designed to collect information on users' language preferences and notification settings. This form is intended for users who want to configure their language and notification settings to suit their needs. It is not designed for users who simply need to test or experiment with various options.
-
-To complete this form, users will select their preferred language, choose their notification settings, and optionally provide their email and phone numbers. The form will guide users through the process, ensuring that all required fields are filled in correctly.
-
-Each field on this form has a specific purpose:
-* **Language Preferences**: This field allows users to select their preferred language for the system.
-* **Notification Settings**: This field determines whether users want to receive notifications for various types of events.
-* **Notification Channels**: This field allows users to select the notification channels they prefer (e.g., email, phone, etc.).
-* **Notification Frequency**: This field decides how frequently users want to receive notifications.
-* **Notification Method**: This field decides whether users want to receive notifications using a specific method (e.g., email, phone, etc.).
-* **Language**: This field allows users to enter their preferred language in a more detailed format.
-* **Email**: This field is for users who want to provide their email address.
-* **Phone**: This field is for users who want to provide their phone number.
-* **Notification Email**: This field is for users who want to receive notifications via email.
-* **Notification Phone**: This field is for users who want to receive notifications via phone.
-* **Notification Message**: This field is for users to enter a custom notification message.
-* **Custom Message**: This field is for users to enter a custom notification message.
-* **Notification Sound**: This field determines whether users want to receive notification sounds.
-* **Notification Vibration**: This field determines whether users want to receive notification vibrations.
-* **Notification Popup**: This field determines whether users want to receive notification popups.
-* **Test**: This field is currently not in use and can be ignored.
-* **Test 2**, **Test 3**, **Test 4**, **Test 5**, **Test 6**, **Test 7**, **Test 8**: These fields are also not in use and can be ignored.
-
-Please fill out the form carefully, and make sure to select all required fields.</thinking>
-
 # Language and Notification Preferences Form - Help Guide
 
 ## Purpose

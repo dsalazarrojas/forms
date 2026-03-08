@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees on the professional development seminars they have attended. The purpose of this form is to help organizers and speakers assess the quality and effectiveness of the seminars, identify areas for improvement, and make informed decisions about future seminar planning. By completing this form, attendees can provide constructive feedback that will help shape the future of professional development seminars.
-</thinking>
-
 # Professional Development Feedback Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback from attendees on their experience with professional development seminars. The feedback will be used to improve the quality and effectiveness of future seminars.

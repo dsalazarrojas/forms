@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from accounting team members to assess their experience, satisfaction, and challenges within the team. The goal is to identify areas of improvement and provide insights for the management to make informed decisions. This form is designed to be completed by accounting team members themselves, ensuring their honest and direct input. 
-Please note that this form is intended to be a one-time assessment and should be filled out by team members at the end of each quarter.
-
-</thinking>
-
 # Accounting Team Feedback Survey - Help Guide
 ## Purpose
 The Accounting Team Feedback Survey is designed to gather feedback from accounting team members to assess their experience, satisfaction, and challenges. The goal is to identify areas of improvement and provide insights for the management to make informed decisions.

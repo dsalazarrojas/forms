@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback on customer satisfaction with the bank, including demographic information, experience with various banking products, satisfaction with services and communication, and overall brand perception. The goal of this form is to gather specific, actionable feedback from customers to help improve the bank's services and customer experience. This form is designed to be a comprehensive survey that covers all aspects of banking, ensuring that the bank gets a well-rounded picture of its customer satisfaction and areas that need improvement.
-
-</thinking>
-
 # Bank Customer Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on customer satisfaction with the bank's services, products, and overall experience.

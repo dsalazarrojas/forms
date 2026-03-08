@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather input and feedback from users on their favorite car of the year. This form will help us understand what features and characteristics users value most in a vehicle. We want to know what cars they would consider their top pick and why. This information will be used to identify trends and preferences in the automotive industry. To avoid duplication, please ensure that you're providing feedback for a vehicle that you've actually driven or researched thoroughly. If you've already submitted feedback for the same vehicle, please do not resubmit.
-
-This form is divided into several sections, each with its own set of questions and fields. To complete this form, follow the instructions below.
-
-</thinking>
-
 # Car Of The Year Voting - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and input from users on their favorite car of the year. This information will help us understand what users value most in a vehicle and identify trends in the automotive industry.

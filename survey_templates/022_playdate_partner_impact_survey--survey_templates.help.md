@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used by partners to collect feedback on their interactions with our organization. We will be using this data to assess the quality and effectiveness of our partnerships. Please note that this form should only be filled out by actual partners, and not by internal staff members.
-
-Before filling out this form, please make sure that you are a partner and that you have not already filled out this form in the past. If you are unsure, please contact us to confirm.
-
-Please also note that all fields are optional, and you can skip any questions that are not relevant to you or your experience with this partner.
-
-</thinking>
-
 # Playdate Partner Impact Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback on your experience with our partner. Your input will help us understand how we can improve our partnership and better serve you and your organization.

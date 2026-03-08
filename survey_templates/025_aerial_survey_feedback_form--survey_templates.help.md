@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users who have participated in an aerial survey. The purpose of the form is to gather information about the quality of the survey outputs, the accuracy of the spatial data, and overall user satisfaction. Please note that this form is not affiliated with any proprietary form platforms and is an original adaptation created using only public survey topic metadata. It is free to use, modify, and even sell, just give credit.
-</thinking>
-
 # Aerial Survey Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users who have participated in an aerial survey. It aims to assess the quality of the survey outputs, the accuracy of the spatial data, and overall user satisfaction.

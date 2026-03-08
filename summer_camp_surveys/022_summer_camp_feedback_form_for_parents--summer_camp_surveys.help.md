@@ -1,16 +1,3 @@
-<thinking>
-We need to create a help guide for the "Summer Camp Feedback Form For Parents" that explains the form's purpose, how to complete it, and what each field means. The form seems to be designed to collect feedback and information from parents about their child's experience at the summer camp. It appears to cover various aspects, including whether the camper(s) attended the camp, their names, contact method, phone number, camp details (name, address, city, state, and zip), and possibly some demographic information.
-The form has a mix of required and optional questions, which should be clearly marked in the guide.
-
-Before we start creating the guide, let's confirm that the form will be used to gather feedback from parents who have or have not attended the summer camp with their children.
-
-Please confirm or correct the following assumptions:
-*   The form will be used by parents who have or have not attended the summer camp.
-*   The form is designed to collect feedback and demographic information from parents.
-
-Please provide feedback on these points to ensure we create an accurate and helpful guide.
-</thinking>
-
 # Summer Camp Feedback Form For Parents - Help Guide
 ## Purpose
 The "Summer Camp Feedback Form For Parents" is designed to gather information and feedback from parents about their child's experience at the summer camp. This form helps the camp administrators understand the needs and concerns of parents and their children.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and insights about the fashion supply chain industry. By filling out this form, users can provide their input on various aspects of the industry, such as segments, challenges, and performance metrics. This form is meant to gather information to help improve the fashion supply chain, but it is not a survey in the classical sense. It's a tool for users to express their opinions and share their experiences. Please note that this form is an original creation and does not copy or derive from any existing form or survey platform. It is released under the Creative Commons Attribution 4.0 license.
-</thinking>
-
 # Fashion Supply Chain Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and insights about the fashion supply chain industry.

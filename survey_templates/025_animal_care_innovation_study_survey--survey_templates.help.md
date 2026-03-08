@@ -1,13 +1,3 @@
-<thinking>
-The form is designed to gather insights from animal care professionals on their awareness, adoption, and utilization of new innovations in the field. The purpose of this survey is to understand the current state of innovation in animal care, identify areas where professionals feel that innovation has had the greatest impact, and explore potential barriers to adoption. By understanding the needs, interests, and challenges faced by professionals in animal care, this survey aims to provide valuable information for researchers and policymakers to inform the development and implementation of future innovations.
-
-Before starting, please note that this survey is designed to be anonymous, and all responses will be kept confidential. If you have any concerns about your participation, please feel free to contact us.
-
-The survey consists of 25 questions that cover a range of topics, including professional role, years of experience, work setting, innovation awareness, technology adoption, innovations used, barriers to adoption, areas of interest for future innovation, collaboration, and more. Please answer the questions to the best of your ability and provide any additional comments or insights you may have.
-
-Please ensure that all answers are accurate and honest, as this will help us better understand your perspectives and needs.
-</thinking>
-
 # Animal Care Innovation Study Survey - Help Guide
 ## Purpose
 The Animal Care Innovation Study Survey is designed to gather insights from animal care professionals on their awareness, adoption, and utilization of new innovations in the field.

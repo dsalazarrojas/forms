@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by staff members to acknowledge and document their understanding of the company's policies and procedures. The purpose of this form is to ensure that staff members are aware of and agree to comply with the company's policies and procedures. This form should only be completed once for each staff member, and it is intended to be a one-time acknowledgement. If a staff member has already completed this form, they should not need to repeat it.
-</thinking>
-
 # Staff Acknowledgement Survey - Help Guide
 ## Purpose
 The purpose of this form is to ensure that staff members are aware of and agree to comply with the company's policies and procedures.

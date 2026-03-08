@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is used to collect information from customers to create a personalized nail wishlist for Southern Beil Nails. The form is designed to provide the stylist with all the necessary details to fulfill the customer's nail request. The form asks for the customer's name, email, product name or code, desired color or design, quantity, preferred delivery method, budget per unit (optional), note for the stylist, and whether to subscribe to product updates. The form ensures that the customer's needs are met, and the stylist has a clear understanding of what to expect. Before filling out this form, please ensure that you're requesting a wishlist for a new order and not a duplicate.
-
-After ensuring that this form is for a new request and not a duplicate, fill out the form as follows:
-</thinking>
-
 # Clone Of Nail Wishlist Southern Beil Nails - Help Guide
 ## Purpose
 This form is used to collect information for a personalized nail wishlist from customers.

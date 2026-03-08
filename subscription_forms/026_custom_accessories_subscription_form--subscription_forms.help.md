@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Custom Accessories Subscription Form - Help Guide
 ======================================
 

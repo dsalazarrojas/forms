@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect demographic information from users anonymously. The goal is to gather data about the age group, gender identity, race or ethnicity, education level, employment status, income range, geographic region, marital status, and number of people in the household. This form will help us understand the diversity of our users and improve our services accordingly. We will not store any personally identifiable information, and all responses are anonymous. 
-</thinking>
 # Anonymous Demographic Survey - Help Guide
 ## Purpose
 This form is designed to collect demographic information from users anonymously to improve our services.

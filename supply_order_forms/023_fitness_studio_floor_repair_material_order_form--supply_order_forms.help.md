@@ -1,8 +1,3 @@
-<thinking>
-To create this user-facing help guide, I'll follow the provided structure and use the information from the inputSchema YAML fields to create a comprehensive guide for end-users.
-The form "fitness_studio_floor_repair_material_order_form" is likely used by fitness studios to order materials and repair their floors. To ensure that the form is correctly completed and that users understand its purpose, I will write a help guide that covers its purpose, step-by-step completion instructions, and field-by-field explanations.
-</thinking>
-
 # fitness_studio_floor_repair_material_order_form - Help Guide
 
 ## Purpose

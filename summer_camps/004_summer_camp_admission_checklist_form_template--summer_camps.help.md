@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Summer Camp Admission Checklist Form Template" that explains its purpose, how to complete it, and what each field means. This guide will be concise and practical, using the provided YAML fields as a reference.
-</thinking>
-
 # Summer Camp Admission Checklist Form Template - Help Guide
 ## Purpose
 The Summer Camp Admission Checklist Form Template is designed to gather essential information from students attending a summer camp. This form is used to collect personal details, medical information, and emergency contact information to ensure the student's safety and well-being during the camp. It's crucial to complete this form accurately and thoroughly to facilitate a smooth and enjoyable experience for both the student and the camp staff.

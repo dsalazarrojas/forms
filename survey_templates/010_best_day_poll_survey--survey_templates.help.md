@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a participant's availability and preferences for an event or meeting. It is meant to be completed by event attendees to provide the organizers with their preferred dates and times for the event. The form is composed of several sections, each with a set of fields that ask for specific information.
-</thinking>
-
 # Best Day Poll Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information about a participant's availability and preferences for an event or meeting.

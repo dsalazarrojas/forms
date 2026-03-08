@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for parents to provide their consent and signature for their child to attend a summer camp. It's a requirement for ensuring that the child's information is accurately documented and accounted for, particularly for the camp organizers. This form ensures the camp organizers are aware of the child's emergency contact information, allergies, and other relevant details. It's a simple and straightforward form designed to gather necessary information from the parents or guardians of enrolled camp participants. This form will be used for internal documentation purposes only and will not be shared with any external parties.
-</thinking>
-
 # Parental Consent And Release Form - Help Guide
 
 ## Purpose

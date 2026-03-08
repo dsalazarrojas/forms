@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on technology usage from users. It is intended for internal use within the organization and should only be filled out if you are an authorized user. Please note that each field is designed to collect specific information and should be filled out accordingly. If you are not sure about any field, please contact the form owner for clarification.
-</thinking>
-
 # technology_usage_survey - Help Guide
 ## Purpose
 This form is used to collect information on technology usage from users, which will help us better understand how technology is being used within the organization.

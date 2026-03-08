@@ -1,12 +1,3 @@
-<thinking>
-To determine the form purpose and ensure relevance, I'll review the provided YAML fields. This form is for "Industrial IoT Subscription Management", which implies it's a form for customers to manage their Industrial IoT subscriptions. The form contains various fields for collecting information such as subscription plans, account details, onboarding information, and notes. 
-
-Upon analyzing the form structure, it seems that the form is primarily used for collecting subscription information and onboarding details from customers. It's likely used for internal purposes such as subscription management, customer relationship management, or order fulfillment.
-
-There are no obvious signs of duplication of effort or redundant fields, so the form appears to be well-designed for its intended purpose.
-
-</thinking>
-
 # Industrial IoT Subscription Management - Help Guide
 
 ## Purpose

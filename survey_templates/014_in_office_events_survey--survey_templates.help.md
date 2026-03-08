@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "In Office Events Survey" form is to gather information about events that occur within the office. This form is intended to be used to collect data on various aspects of office events, such as their name, date, time, attendees, and other relevant details. This form is likely used for administrative or management purposes, such as tracking event attendance, assessing event feasibility, or improving future event planning.
-
-This form is not designed for public use, so ensure that access is restricted to authorized personnel. Before proceeding, verify that you have the necessary permissions and clearance to complete this form.
-
-</thinking>
-
 # In Office Events Survey - Help Guide
 
 ## Purpose

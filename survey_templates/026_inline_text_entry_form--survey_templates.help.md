@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather basic information from users, likely for demographic or contact purposes. The form is not affiliated with any proprietary form platforms, and its creation was inspired by public survey topic metadata. This form is released under the Creative Commons BY 4.0 license and can be used, modified, or even sold, as long as credit is given.
-</thinking>
-
 # Inline Text Entry Form - Help Guide
 ## Purpose
 This form is designed to collect various types of text-based information from users. It is intended to be a straightforward and simple form for gathering basic contact or demographic details.

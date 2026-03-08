@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with a specific application process. The goal is to understand how well the application process was understood, if any assistance tools were used, and what improvements can be made to make the process easier and more user-friendly. This form is likely to be used by administrators or support teams to evaluate and refine the application process.
-
-Please note that this form is not a duplicate of any existing form, and the purpose is to collect feedback from users about their experience with a specific application process.
-
-The feedback collected from this form will help in making informed decisions to improve the application process and provide better services to users in the future.
-
-</thinking>
-
 # Application Assistance Survey - Help Guide
 ## Purpose
 The Application Assistance Survey is designed to gather feedback from users about their experience with a specific application process. This form will help administrators or support teams evaluate and refine the application process to make it easier and more user-friendly.

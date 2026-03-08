@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about green suppliers, allowing users to evaluate and manage their supplier relationships. The form is used to gather data on key aspects of a supplier, including their name, company name, location, contact person, and contact email. It also includes fields for certifications, sustainability practices, and ESG (Environmental, Social, and Governance) scores. The form is used to track the status of these suppliers and the evaluation process. This form is not intended for use with sensitive or confidential data.
-
-</thinking>
-
 # Green Supplier Evaluation Application Form - Help Guide
 ## Purpose
 The Green Supplier Evaluation Application Form is used to collect and manage information about green suppliers. It helps users to evaluate and track the performance of suppliers based on their sustainability practices and ESG scores.

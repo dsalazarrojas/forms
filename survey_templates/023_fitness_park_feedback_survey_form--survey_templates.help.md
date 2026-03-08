@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to gather feedback from Fitness Park users. Before we proceed, let's quickly review the form's purpose and check for any potential duplication or redundancy. This form is meant to collect feedback on the overall fitness experience at Fitness Park, including ratings on equipment, cleanliness, and overall satisfaction. It's essential to use this form to gauge user experience and identify areas for improvement, rather than duplicating information already collected elsewhere.
-</thinking>
-
 # Fitness Park Feedback Survey Form - Help Guide
 ## Purpose
 The Fitness Park Feedback Survey Form is designed to collect feedback from Fitness Park users on their overall fitness experience, including their ratings of the equipment, cleanliness, and overall satisfaction. Your input will help us improve the park and provide a better experience for all users.

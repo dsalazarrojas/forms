@@ -1,10 +1,4 @@
-## <thinking>
-This form is designed to collect contact information and preferences from users who are interested in subscribing to a newsletter related to the coronavirus pandemic. The form has a mix of fields that require basic personal information (full name and email) and preferences that help us understand how users heard about the newsletter (source of information) and what they are interested in (multiple selection options). Some fields are meant to gather additional context (notes) and preferences (select one or multiple options). 
-
-This form is used for internal purposes to track user engagement and interests.
-</thinking>
-
-# coronavirus_newsletter_subscription_form - Help Guide
+## # coronavirus_newsletter_subscription_form - Help Guide
 ## Purpose
 This form is used to subscribe to a newsletter about the coronavirus pandemic. It collects your name, email, and preferences to provide relevant and targeted information.
 

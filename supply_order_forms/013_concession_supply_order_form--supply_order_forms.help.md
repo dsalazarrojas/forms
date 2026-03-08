@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for concession supply order submission. It captures essential information 
-for the purpose of fulfilling a supply order from an individual or group within an 
-organization. Before filling this form, please ensure that you haven't submitted a similar 
-order recently or have an active one that hasn't been resolved.
-</thinking>
-
 # Concession Supply Order Form - Help Guide
 ## Purpose
 The Concession Supply Order Form is designed to collect essential details for ordering 

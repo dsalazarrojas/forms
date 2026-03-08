@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who wish to access premium membership for software. The purpose of this form is to gather details about the customer's software requirements, company information, and other relevant details to ensure a smooth and efficient premium membership experience. This form should only be filled out by customers who are interested in accessing premium membership for software, and not by customers who are simply looking for general information or technical support. Please fill out this form carefully and completely, as it will help us better understand your requirements and provide you with the best possible experience.
-</thinking>
-
 # Software Premium Membership Access Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who wish to access premium membership for software.

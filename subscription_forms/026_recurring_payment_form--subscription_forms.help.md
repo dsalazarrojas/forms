@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a recurring payment form designed for users to input their payment details and preferences. Its purpose is to collect information for recurring payments such as subscription plans, invoices, or other regular transactions. The form is likely to be used by customers or users to manage their recurring payments, and it's crucial to ensure that the fields are accurately filled out to reflect the correct payment information.
-
-Before proceeding, let's ensure that this form is not being used for multiple purposes or to collect unnecessary information. This form appears to be focused on collecting payment details, which implies it's for billing or subscription management.
-
-The form has multiple fields with different types and required/optional settings. It's essential to understand each field's purpose to fill it out correctly.
-
-</thinking>
-
 # Recurring Payment Form - Help Guide
 ## Purpose
 The Recurring Payment Form is designed for users to input their payment details and preferences for recurring transactions such as subscription plans or invoices.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from cardiologists and other medical professionals about events they have attended. The form helps to gather information on event details, satisfaction, and areas for improvement. It is essential to provide honest and constructive feedback to help organizers create more valuable and engaging events in the future.
-This form is part of an assessment process aimed at understanding how cardiologists perceive and participate in events. By gathering their feedback, organizers can identify trends, strengths, and weaknesses of past events and make informed decisions about future events.
-This form is designed to be as objective as possible, but it is not a comprehensive evaluation tool. It is a starting point for gathering insights and opinions from attendees. The information collected through this form will be kept confidential and used to improve the quality of events for the benefit of all participants.
-</thinking>
-
 # Cardiologists Event Log Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from cardiologists and other medical professionals about their experiences with events. Your input is invaluable in helping us create more valuable and engaging events for our community.

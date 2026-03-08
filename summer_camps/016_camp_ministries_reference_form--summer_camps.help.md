@@ -1,12 +1,3 @@
-<thinking>
-This form is likely used by church or youth organizations to assess the suitability and reliability of potential volunteer or employee applicants for various camp ministries. This form helps the reference provider (someone vouching for the applicant) to provide an evaluation based on their personal experience with the applicant. The form is probably used for a specific role such as a summer camp counselor or a part-time employee.
-
-To ensure relevance, we will be looking for a match between the reference provider's relationship with the applicant (e.g., pastor, employer, teacher, etc.) and their rating or comments on the applicant's character, work ethic, reliability, and other relevant qualities.
-
-To prevent duplication, this form should not be used for applicants who are already known to the organization or for which a reference has already been submitted.
-
-</thinking>
-
 # Camp Ministries Reference Form - Help Guide
 ## Purpose
 This form is used to gather information from the reference provider about a potential volunteer or employee applicant for various camp ministries. The form is to be completed by someone who knows the applicant, such as a pastor, employer, teacher, or colleague, and is meant to provide an evaluation of the applicant's character, work ethic, and other relevant qualities.

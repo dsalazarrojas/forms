@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Store Cleaning Crew Supply Order Form - Help Guide
 ## Purpose
 The purpose of this form is to allow store owners to place orders for cleaning crew supplies. It gathers information for delivery scheduling and product distribution purposes.

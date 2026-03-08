@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the Supplier Standardization Application Form is to collect information from suppliers for the standardization of their processes and procedures. This form is used to collect data on supplier details, contact information, certifications, agreements, onboarding requirements, and notes. The form helps suppliers provide accurate and consistent data, which is used to evaluate and onboard them into the system.
-
-Before starting, please ensure you have all the necessary information ready and are filling out the form for the intended supplier. Duplicate entries can cause confusion and delay the onboarding process.
-
-</thinking>
-
 # Supplier Standardization Application Form - Help Guide
 ## Purpose
 The Supplier Standardization Application Form is used to collect information from suppliers for the standardization of their processes and procedures.

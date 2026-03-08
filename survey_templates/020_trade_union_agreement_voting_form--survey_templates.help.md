@@ -1,7 +1,3 @@
-<thinking>
-Trade union agreement voting form is a form used to gather information from union members regarding the approval or rejection of a trade union agreement. The form typically asks for the member's vote, personal details, and any other relevant information. The following guide will walk you through the process of filling up this form correctly.
-</thinking>
-
 # trade_union_agreement_voting_form - Help Guide
 ## Purpose
 This form is designed to collect information from union members regarding their agreement to a trade union agreement. It helps the union to gauge the collective opinion of its members on the agreement.

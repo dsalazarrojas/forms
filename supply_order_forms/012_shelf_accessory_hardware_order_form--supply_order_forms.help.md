@@ -1,9 +1,3 @@
-<thinking>
-
-The form purpose is to collect user information, order details, and payment information for shelf accessory hardware orders. This form is designed to be user-friendly and easy to complete, with clear field explanations and required fields indicated. The form is not affiliated with, endorsed by, or derived from any form platform and is released under CC BY 4.0.
-
-</thinking>
-
 # Shelf Accessory Hardware Order Form - Help Guide
 ## Purpose
 This form is used to collect user information, order details, and payment information for shelf accessory hardware orders.

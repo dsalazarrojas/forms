@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to guide users through a SWOT (Strengths, Weaknesses, Opportunities, and Threats) analysis for an advocacy group or organization. This analysis is a strategic planning technique used to identify and assess the internal and external factors that can impact an organization's mission and goals. 
-
-The form is intended to be a self-contained, user-facing help guide for completing the SWOT analysis, with the ultimate goal of helping users derive strategic priorities based on their organization's internal strengths and weaknesses, as well as external opportunities and threats. 
-
-The form's design is based on the provided YAML input schema, which outlines the necessary fields for the analysis, including organization information, primary advocacy focus, key strengths and weaknesses, and opportunities and threats. This analysis is a key tool in strategic planning, helping users to identify areas of strength and weakness, as well as potential areas of improvement and external factors to consider when making decisions.
-
-Please note that this analysis is not a formal, scientific, or academic tool and should not be used for academic or research purposes without proper context and understanding of the subject matter. 
-
-Please ensure that the form is used in a way that is respectful and fair to the organization and stakeholders being analyzed. 
-
-Before proceeding, please ensure you have permission to conduct this analysis and that the data collected will be used responsibly. 
-
-If you are unsure about any part of this process, please reach out to the form creators for guidance.
-</thinking>
-
 # Advocacy SWOT Analysis Survey - Help Guide
 
 ## Purpose

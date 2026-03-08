@@ -1,12 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "Community Recreation Participation Survey" form. This guide will provide clear instructions on how to fill out the form, explain each field, and include any necessary tips or notes to ensure users understand what information is being collected and why.
-
-The form is intended to gather input from community members to improve local parks and recreation services. The goal is to understand user participation habits, preferences, and concerns, which will help the Parks and Rec team make informed decisions and tailor services to meet the needs of the community.
-
-Before starting the form, note that the survey is anonymous and will not collect any personal identifiable information. The data collected will be used to improve recreation services and programs in the community.
-
-</thinking>
-
 # Community Recreation Participation Survey - Help Guide
 
 ## Purpose

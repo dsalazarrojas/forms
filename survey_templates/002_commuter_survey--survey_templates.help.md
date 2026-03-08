@@ -1,10 +1,3 @@
-<thinking>
-The form's purpose is to collect data on commuters' habits and experiences. The Commuter Survey likely aims to gather insights into how people travel for work or other regular activities, their preferred modes of transportation, and their satisfaction levels with their current commuting arrangements. This could help in creating more effective and user-friendly public transportation services, or identifying areas where improvement is needed. 
-
-This form is not intended for internal use, given its name and structure, but rather for data collection for research or business purposes. There might be overlap or repetition in questions, so the user should review each question carefully. 
-
-</thinking>
-
 # Commuter Survey - Help Guide
 ## Purpose
 The Commuter Survey is designed to gather information about your daily commute habits and experiences. This data will help us understand how you travel, what you like about your current commute, and what could be improved.

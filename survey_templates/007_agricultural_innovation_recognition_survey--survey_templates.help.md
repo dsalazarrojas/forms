@@ -1,16 +1,3 @@
-<thinking>
-This form appears to be a survey for recognizing agricultural innovations, designed to collect data on new products, processes, or sustainable practices within the agricultural industry. The form likely aims to assess the impact, scalability, and environmental sustainability of these innovations. Given the fields and options provided, it seems to be a structured survey to collect qualitative and quantitative data on agricultural innovations.
-
-To determine if this form is a duplicate or non-relevant, I would consider the following:
-
-- Does the form ask for information that is not typically collected in a survey (e.g., sensitive personal data)?
-- Does the form ask for information that is not relevant to the agricultural industry?
-- Is the form overly broad or too narrow in scope?
-
-If the form is not a duplicate, it could be relevant to agricultural industry professionals, researchers, or organizations interested in recognizing and promoting innovations in agriculture. If it is a duplicate, it may already be covered by other forms or surveys in the industry. If it is too broad or narrow in scope, it might not effectively capture the necessary data.
-
-</thinking>
-
 # Agricultural Innovation Recognition Survey - Help Guide
 ## Purpose
 This form is designed to collect data on new products, processes, or sustainable practices in the agricultural industry. It aims to assess the impact, scalability, and environmental sustainability of these innovations.

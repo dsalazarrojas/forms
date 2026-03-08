@@ -1,11 +1,3 @@
-<thinking>Before generating the help guide, I'd like to clarify a few assumptions:
-
-* The form is intended for users applying for a summer camp scholarship, likely for children or youth.
-* The form consists of 25 pages, but the fields are mostly empty and only contain labels (e.g., "Page 1", "Page 2", etc.).
-* Since the form structure is identical for all pages, I will use this information to provide a general explanation for the field types.
-* I will assume that the form requires the most basic information from users, such as name, contact information, and possibly demographic data.
-</thinking>
-
 # Summer Camp Scholarship Application Form - Help Guide
 ## Purpose
 The Summer Camp Scholarship Application Form is designed to collect information from applicants for a summer camp scholarship. This form is used to gather essential details about you, your child/ward, and your family situation to help us evaluate your eligibility and provide support.

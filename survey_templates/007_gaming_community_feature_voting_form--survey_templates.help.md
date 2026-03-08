@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial tool for gathering feedback and suggestions from the gaming community on features they'd like to see implemented in a game or platform. It is essential to fill out this form accurately to provide the best possible experience. Please note that this form is a one-time submission and any subsequent submissions with the same email address will be ignored to prevent duplication of efforts. 
-</thinking>
-
 # Gaming Community Feature Voting Form - Help Guide
 
 ## Purpose

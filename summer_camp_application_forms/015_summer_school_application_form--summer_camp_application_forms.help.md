@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a template for a Summer School application form, used to collect information from students or guardians applying for summer school programs. The purpose of this form is to gather essential details about the applicant's interest in the summer school program, including their tuition fees, academic background, and contact information. The form has multiple pages and sections, and some fields are optional. 
-
-The form's design follows best practices for form creation, with clear labels, hints, and required/optional status indications. However, some field labels may seem unclear or redundant. The main objective is to help users understand the form and fill it out accurately and efficiently.
-
-</thinking>
-
 # Summer School Application Form - Help Guide
 ## Purpose
 The Summer School Application Form is a template used to collect information from students or guardians applying for summer school programs. This form helps the application team gather essential details about the applicant's interest in the summer school program.

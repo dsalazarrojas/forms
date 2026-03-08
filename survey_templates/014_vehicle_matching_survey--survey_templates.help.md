@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from customers about their vehicle preferences and needs. The form is designed to help the sales team better understand the customer's requirements and match them with the suitable vehicles. The form is not intended to be filled out by customers who are already in the process of purchasing a vehicle.
-
-This form is used in conjunction with other forms and data to prevent duplication of effort and ensure that the sales team is not wasting time on unqualified leads. The form is not meant to be a comprehensive survey of a customer's vehicle purchase history or preferences, but rather a quick assessment of their immediate needs and preferences.
-
-To ensure that the sales team is not wasting time on unqualified leads, this form is not to be filled out by customers who have already made a purchase or are not serious about making a purchase in the near future.
-</thinking>
-
 # Vehicle Matching Survey - Help Guide
 ## Purpose
 The Vehicle Matching Survey is designed to help the sales team better understand the customer's vehicle preferences and needs, and match them with suitable vehicles.

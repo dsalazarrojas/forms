@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a tool for users to cancel their digital wallet subscription. The purpose of this form is to gather information from users about why they are cancelling their subscription, their email address, and their billing address. This form is intended to be a simple and straightforward way for users to communicate their cancellation reasons, which can help the company understand their customers' needs and preferences better.
-
-When a user fills out this form, they will be asked to select a reason for cancellation, enter their email address, and optionally provide their billing address. This information will help the company understand the user's motivations for cancelling their subscription and potentially improve their services accordingly.
-
-The main goal of this form is to collect accurate and complete information from users in an efficient and user-friendly way.
-</thinking>
-
 # Digital Wallet Subscription Cancellation Form - Help Guide
 ## Purpose
 The Digital Wallet Subscription Cancellation Form is designed to be completed by users who want to cancel their digital wallet subscription. This form collects information about the reason for cancellation and the user's contact details.

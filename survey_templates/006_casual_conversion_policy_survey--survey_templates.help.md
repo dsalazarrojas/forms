@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Casual Conversion Policy Survey - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to facilitate the process of industrial cleaning chemical orders, collecting crucial information from suppliers for the delivery of industrial cleaning chemicals. This form likely aims to standardize and streamline the ordering process, ensuring that all necessary details are captured and communicated efficiently. It is likely used within an organization responsible for managing industrial cleaning chemicals supplies and their deliveries.
-
-Please note that the purpose of this form appears to be focused on the delivery process, implying it's used for internal purposes rather than for public-facing information collection. This assumption is based on the presence of fields like 'Order Status', 'Order Date', and 'Supplier Order ID', which are unlikely to be exposed to end-users.
-
-To confirm the purpose and correct any assumptions, additional information about the organization and intended use case would be necessary.
-
-Before proceeding, I'll create the corresponding help guide for the given form based on the provided YAML structure.
-
-</thinking>
-
 # Industrial Cleaning Chemical Order Form - Help Guide
 ## Purpose
 This form is used to collect information for the delivery of industrial cleaning chemicals. It is designed to streamline the ordering process and ensure that all necessary details are captured and communicated efficiently.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about users' favorite songs on the dance floor. The purpose of this form is to collect data on users' favorite dance floor songs, genres, and artists. This form is not meant to be a comprehensive survey, but rather a brief assessment of users' preferences. To prevent duplicate responses, users are not allowed to save their results.
-
-</thinking>
-
 # favorite_dance_floor_songs_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your favorite songs on the dance floor.

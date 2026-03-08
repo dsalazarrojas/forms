@@ -1,7 +1,3 @@
-<thinking>
-We're creating this form to gather information about the virtual summer camp's details for our team. This form helps us ensure that we don't have any duplicate or irrelevant information about upcoming camps. Before proceeding, please ensure that you're providing accurate and up-to-date information about the virtual summer camp you're interested in. We appreciate your cooperation in keeping our database organized and reliable.
-</thinking>
-
 # Virtual Summer Camp Interest Survey - Help Guide
 
 ## Purpose

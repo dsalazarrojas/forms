@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record and track goods movements within the organization. Before starting, please ensure that this form is not being used to record a movement that has already been documented. The fields provided are intended to guide you through the process of accurately and efficiently recording goods movements. This form is meant to be used by personnel involved in the movement and storage of goods within the organization.
-</thinking>
-
 # goods_movement_record_form - Help Guide
 ## Purpose
 The "Goods Movement Record Form" is a tool used to record and track goods movements within the organization. It ensures that all necessary information is accurately documented for future reference and efficient management.

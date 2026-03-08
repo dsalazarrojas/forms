@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to understand the impact of a temporary closure on our fitness center's services. This form will help us gather feedback from customers, assess the effectiveness of our communication, and improve our future operations. Please note that we will not duplicate responses from customers who have already completed this form, so if you have already submitted your feedback, you don't need to do so again.
-</thinking>
-
 # Fitness Center Closure Feedback - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback from customers about their experience with the temporary closure of our fitness center. Your input will help us understand the impact of the closure and identify areas for improvement.

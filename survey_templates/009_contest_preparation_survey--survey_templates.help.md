@@ -1,8 +1,3 @@
-<thinking> 
-This form is a "Contest Preparation Survey" for participants to gather information about their preparation for a contest. The purpose of this form is to help the contest organizers understand the level of preparation and expectations of the participants, ensuring a smooth and enjoyable experience for all. Please ensure that you are filling out this form for the correct contest and that you have not filled it out previously. If you have already filled out this form for this contest, please do not submit it again.
-
-</thinking>
-
 # Contest Preparation Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your preparation and expectations for the contest. Please answer the questions honestly, and provide as much detail as possible.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # BIM Evaluation Survey - Help Guide
 
 ## Purpose

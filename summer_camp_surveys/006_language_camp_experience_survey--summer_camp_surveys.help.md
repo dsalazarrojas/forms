@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and experience data from participants of language camps, which are sessions that combine language training with other activities such as art, sports, and education programs. The purpose of this form is to gather information on participants' experience, preferences, and ratings of the session. This data will be used to improve future language camp sessions.
-
-This form should only be filled out by participants who have attended a language camp session, and should not be duplicated by the same participant.
-
-</thinking>
-
 # Language Camp Experience Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and experience data from participants of language camps.

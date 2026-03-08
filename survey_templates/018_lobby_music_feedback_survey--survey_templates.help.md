@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users about the lobby music in a specific setting, likely a hotel or office lobby. The purpose of this form is to collect opinions on the music volume, type, and preference, as well as gather contact information from users who are willing to provide it. This form will likely be used to gauge the current music selection and make improvements to better suit the audience's tastes.
-</thinking>
-
 # รับบ Lobby Music Feedback Survey - Help Guide
 ## Purpose
 

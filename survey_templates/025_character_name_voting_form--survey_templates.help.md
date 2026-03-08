@@ -1,7 +1,3 @@
-<thinking>
-To prevent non-duplication and ensure relevant feedback, let's review the form purpose and potential edge cases. This form appears to be designed for users to vote on character names, likely for a story, game, or project. The form is likely intended for users to provide their top choice for the character's name, along with a brief explanation for their choice. The form also allows users to suggest additional names and provide feedback on those suggestions. Finally, users can rate their voting interest level and choose to receive notifications about the voting results.
-</thinking>
-
 # Character Name Voting Form - Help Guide
 ## Purpose
 The Character Name Voting Form is designed for users to vote on character names for a story, game, or project. This form is used to gather feedback on character name options and gather additional name suggestions.

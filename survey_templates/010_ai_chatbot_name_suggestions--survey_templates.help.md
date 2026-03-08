@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect suggestions for an AI chatbot's name from various contributors. The purpose of this form is to gather diverse ideas and opinions from different individuals to identify a suitable name for the AI chatbot. To ensure the quality of the suggestions, the form includes fields to evaluate the reasoning behind the proposed name, its tone, and other factors such as memorability, pronunciation, and potential keywords to avoid. The form also allows contributors to provide feedback on existing internal suggestions and submit their personal preferences. By collecting this information, the form aims to generate a list of potential names for the chatbot that are both appealing and functional.
-
-This form is not intended for general feedback or free-form suggestions. It is specifically designed to capture detailed and specific information about each proposed name. The form's fields are structured to guide contributors in providing clear and concise answers to help evaluate each suggestion systematically.
-</thinking>
-
 # AI Chatbot Name Suggestions - Help Guide
 ## Purpose
 This form is designed to collect suggestions for an AI chatbot's name from various contributors. The goal is to gather diverse ideas and opinions to identify a suitable name for the AI chatbot.

@@ -1,14 +1,3 @@
-<thinking>
-
-To create a helpful guide, let's consider the following points:
-
-*   This form is used to record information about a camp activity, including the camp name, activity name, date, counselor, session time, activity type, location, camper names and attendance status, total number present, weather conditions, incident occurrences, and activity notes.
-*   The form is divided into several sections, each representing a different aspect of the activity.
-*   Some fields are required (marked as "true" in the YAML schema), while others are optional.
-*   The form aims to provide a comprehensive record of the activity, making it easier to review and analyze the data.
-
-</thinking>
-
 # Camp Activity Attendance Form - Help Guide
 ## Purpose
 This form is used to record and document the details of a camp activity, including the name of the camp, activity date, time, location, and attendance of campers. It also captures any incidents that may have occurred during the activity.

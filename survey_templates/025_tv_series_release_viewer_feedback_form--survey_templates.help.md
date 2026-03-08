@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and viewer information for TV series releases. It aims to gather data on the quality and popularity of each episode, allowing content creators and production teams to better understand their audience's preferences and opinions. The form should not be filled out by users who have not watched or watched a small portion of the series, as the feedback is specific to the episodes they've seen. To avoid duplication of effort, the form should be filled out for each episode separately, and not as a general feedback form for the entire series.
-</thinking>
-
 # TV Series Release Viewer Feedback Form - Help Guide
 ## Purpose
 The TV Series Release Viewer Feedback Form is designed to collect viewer information and feedback on each episode of a TV series. This feedback is crucial for content creators and production teams to understand their audience's preferences and opinions.

@@ -1,5 +1,3 @@
-<thinking>...This form is designed for registering participants in a leadership camp. It collects essential information required for a safe and enjoyable camp experience. Please review the form carefully to ensure you provide accurate and truthful responses. If you're unsure about any field, you can consult with the camp staff for assistance. This form will be used internally to create a participant roster and for camp preparation purposes. We will not use this information for any other purpose without your consent. If you've already registered in the past, please ensure you're not duplicating your registration. If you're still unsure, please contact us for clarification...</thinking>
-
 # leadership-camp-registration-form - Help Guide
 ## Purpose
 The leadership camp registration form is designed to collect personal and medical information from participants. This information will be used to create a participant roster and for camp preparation purposes.

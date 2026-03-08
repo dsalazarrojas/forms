@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from parents about their experience with the summer camp. This form is likely intended to be filled out by parents who have participated in the summer camp program and are now being asked to provide their thoughts and opinions on the program. It's possible that this form is used to assess the effectiveness of the summer camp and identify areas that need improvement. However, it's also possible that this form is used for other purposes, such as gathering demographic information or evaluating the quality of service provided by the summer camp.
-
-Before filling out this form, please ensure that you are the intended recipient (i.e., a parent who participated in the summer camp program) and that you haven't already filled out this form in the past.
-
-This form should be filled out only once per participant, and it's recommended that you review the form carefully before submitting it to ensure that your answers accurately reflect your experience and opinions.
-
-The feedback gathered from this form will help the summer camp improve its services and better serve its participants in the future.</thinking>
-
 # Summer Camp Survey Form For Parents - Help Guide
 ## Purpose
 This form is designed to gather feedback from parents about their experience with the summer camp. Your input will help us improve our services and provide a better experience for all participants.

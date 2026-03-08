@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in a scientific study. The purpose of this form is to gather demographic and socioeconomic data from participants, which will be used to analyze and understand the characteristics of the study population. This information will help researchers to identify trends and patterns in the data.
-
-To avoid duplication, please ensure that each participant fills out the form only once. If you are filling out the form multiple times, please contact the study administrator for guidance.
-
-Please note that all the information collected through this form will be kept confidential and used solely for research purposes.
-</thinking>
-
 # scientific_study_participant_questionnaire - Help Guide
 ## Purpose
 

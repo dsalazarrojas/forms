@@ -1,7 +1,3 @@
-<thinking>
-This is a form used to collect user information for legal support purposes. It is designed to collect details such as user contact information, billing information, and payment details. The form is used to ensure that users have a clear understanding of their responsibilities and expectations regarding legal support. The form is part of the onboarding process for new users and is meant to be filled out by the user prior to the activation of their account. This form is not intended for use in other contexts or for other purposes. Please ensure that you have the necessary permissions and approvals before filling out this form.
-</thinking>
-
 # legal_support_subscription_form - Help Guide
 ## Purpose
 The legal_support_subscription_form is used to collect user information for legal support purposes. It is part of the onboarding process for new users and is meant to be filled out by the user prior to the activation of their account.
