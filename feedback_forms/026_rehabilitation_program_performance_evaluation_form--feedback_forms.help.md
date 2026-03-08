@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for evaluating the performance of a rehabilitation program. It's essential to fill out this form accurately to provide useful feedback on the program's progress and outcome. Before completing this form, make sure you're familiar with the program's details and have the necessary information handy.
-
-The following fields are required to be filled in for the form to be submitted, so please make sure to provide accurate information for the following fields: User ID, Program Start Date, Program End Date, Program Name, Program Type, and Staff ID.
-
-The form is split into multiple pages, which will be displayed one by one. Please fill out the current page before proceeding to the next one.
-
-</thinking>
-
 # Rehabilitation Program Performance Evaluation Form - Help Guide
 ## Purpose
 The Rehabilitation Program Performance Evaluation Form is used to collect feedback on the progress and outcome of a rehabilitation program. This form helps in understanding the effectiveness of the program and identifying areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Favorite Channel Submission Form - Help Guide
 
 ## Purpose

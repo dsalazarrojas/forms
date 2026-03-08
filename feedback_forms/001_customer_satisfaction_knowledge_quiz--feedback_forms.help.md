@@ -1,14 +1,3 @@
-<thinking>
-To create an effective help guide for the "Customer Satisfaction Knowledge Quiz" form, I must first understand the form's purpose, the type of users who will be filling it out, and the required information for completion.
-
-The form appears to be a knowledge quiz designed to measure customers' satisfaction levels. It consists of several questions, multiple select options, and fields for notes, contact information, and category selection. The purpose of this form is likely to gauge customer satisfaction with various aspects of the product or service, and to gather additional information for future reference.
-
-However, I need to ensure that this form is not being used as a replacement for the actual customer satisfaction survey, which might be the primary source of such data. It's possible that this form is designed to be a quick assessment tool for customers to share their feedback, but it's also possible that it's meant to be used in conjunction with other methods.
-
-Before proceeding, I'll assume that the form is meant to be used by customers to share their opinions on their satisfaction levels with a product or service. If this assumption is incorrect, please let me know and I'll adjust the explanation accordingly.
-
-</thinking>
-
 # Customer Satisfaction Knowledge Quiz - Help Guide
 ## Purpose
 This form is a knowledge quiz designed to help us understand your satisfaction levels with our product or service. Please answer the questions honestly to provide us with valuable feedback.

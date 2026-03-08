@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about the quality of workplace training materials. The purpose of this form is to evaluate the effectiveness of training materials provided to employees, which will help improve their knowledge and skills. 
-
-The form has 8 fields, but not all fields are required. The form is designed to be easy to complete and can be filled out by users with a basic understanding of their training experience.
-
-</thinking>
-
 # Workplace Training Materials Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about the quality of workplace training materials. It will help us evaluate the effectiveness of the training and provide insights to improve the training process.

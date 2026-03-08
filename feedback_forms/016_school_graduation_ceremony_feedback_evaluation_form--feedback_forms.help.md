@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback from attendees of the school graduation ceremony. The goal is to gather insights into the ceremony's organization, quality, and overall attendee experience. By completing this form, you will help the organizers understand what worked well and what could be improved. Please ensure you are providing honest feedback as your input will help create a better event for future graduates and their families.
-
-</thinking>
-
 # School Graduation Ceremony Feedback Evaluation Form - Help Guide
 
 ## Purpose

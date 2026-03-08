@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the delivery timeline of a project. It's essential to provide accurate and timely feedback to project stakeholders, clients, or team members. This form will help ensure that the project team receives the necessary information to adjust their workflow and meet the project's needs. To avoid duplication of effort, please review your project delivery timeline and ensure that you have not already submitted feedback on this topic before proceeding.
-
-</thinking>
-
 # Project Delivery Timeline Feedback Form - Help Guide
 ## Purpose
 This form is used to provide feedback on the project delivery timeline. It helps project stakeholders, clients, or team members to track progress and make necessary adjustments.

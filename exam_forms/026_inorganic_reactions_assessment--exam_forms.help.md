@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inorganic Reactions Assessment - Help Guide
 
 ## Purpose

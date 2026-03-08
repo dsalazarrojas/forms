@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to collect feedback from users on various subjects, allowing them to share their thoughts and suggestions with us. To prevent duplicate submissions, we'll be checking for existing feedback on the same subject. Please make sure to provide clear and concise feedback, as it will help us to better understand your concerns.
-</thinking>
-
 # Field Feedback Form - Help Guide
 ## Purpose
 The Field Feedback Form is designed to gather feedback from users on various subjects. This feedback will help us to improve our services and features.

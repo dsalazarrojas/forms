@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the "Lighting And Camera Setup Checklist" form. This form is designed to gather information about a photography session setup, including the type of camera and lens used, the lighting setup, and the location and time of the shoot. It's intended for photographers to provide details about their shoots, and it's not a duplicate or affiliated with any specific form platform.
-
-The form is split into several sections, each with its own specific purpose. The form is not overly complex, but it requires some basic information from the user. The user needs to select the type of camera and lens used, specify the lighting setup, and provide a list of equipment used. Additionally, they need to provide the date and time of the shoot, as well as the location. They also have the option to specify the crew members involved and provide contact information for emergency contact in case of an issue during the shoot.
-</thinking>
-
 # Lighting And Camera Setup Checklist - Help Guide
 ## Purpose
 This form is a checklist for photographers to provide information about their lighting and camera setup for a shoot.

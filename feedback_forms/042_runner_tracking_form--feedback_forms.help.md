@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information about a runner's personal details, running habits, and preferences. The form's primary purpose is to gather data for the organization's internal use. Please ensure that you are filling out the form only once for each runner to avoid duplication. If you are unsure about the form's purpose or have any questions, please refer to the form's title and section explanations.
-</thinking>
-
 # Runner Tracking Form - Help Guide
 ## Purpose
 This form is designed to collect information from runners to help us better understand their habits, preferences, and needs.

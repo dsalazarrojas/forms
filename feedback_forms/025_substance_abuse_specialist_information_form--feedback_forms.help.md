@@ -1,8 +1,3 @@
-<thinking>
-To provide a better understanding of the form, we need to consider the purpose and usage context of this "Substance Abuse Specialist Information Form". This form likely serves as a means to collect and document information related to substance abuse services provided to clients. It's probable that this form is used within the healthcare or social services sector to record client data, medical histories, and treatment plans. The form may be required to ensure that clients receive consistent and high-quality services. This form might also be used for billing or insurance purposes, as it could contain identifying information like medical record numbers. The form's fields seem to collect various types of data, including client identifying information (name, address, phone number, email), medical history (birth date, social security number, substance abuse issue), treatment details (treatment plan start and end dates), and submitter information (submittor's name, signature, and contact information). It's essential to consider the potential for non-duplication of effort or data redundancy when filling out this form, especially when submitting multiple forms for the same client. 
-
-</thinking>
-
 # Substance Abuse Specialist Information Form - Help Guide
 ## Purpose
 

@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect user data for a Hiragana Recognition Quiz. The form is intended for users who want to test their knowledge of Hiragana (Japanese writing system) by recognizing and answering multiple-choice questions. The form is likely used by language learners or instructors to gauge understanding of the correct Hiragana characters. 
-
-Before filling out the form, ensure you are familiar with the Hiragana writing system and have a basic understanding of the correct characters. 
-
-The form should only be filled out once per individual, and users are not allowed to submit the same form multiple times. 
-
-This form is meant to be completed by users who are willing to participate in the quiz. 
-
-The form is not intended for users who are not willing to learn or recognize Hiragana characters. 
-
-Please do not attempt to submit this form with incorrect or misleading information. 
-
-Please fill out this form accurately and honestly. 
-
-</thinking>
-
 # Hiragana Recognition Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of Hiragana characters. 

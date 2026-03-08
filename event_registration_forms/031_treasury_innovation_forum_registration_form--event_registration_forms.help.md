@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to register users for events, allowing them to provide personal details, select their registration type (Attendee, Speaker, or Exhibitor), and specify their payment method. The form is designed to be completed by individuals, not organizations. The form fields are self-explanatory and include options for payment types and methods. Please review the fields carefully to ensure you are registering correctly. If you are unsure about any field, please refer to this help guide for clarification.</thinking>
-
 # treasury_innovation_forum_registration_form - Help Guide
 ## Purpose
 This form is used to register users for events held by the treasury innovation forum.

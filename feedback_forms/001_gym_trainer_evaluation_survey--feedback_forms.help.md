@@ -1,7 +1,3 @@
-<thinking>
-This is a Gym Trainer Evaluation Survey form. It is designed to gather feedback from users about their experience with a gym trainer. The form will help us understand their overall satisfaction, professionalism, and communication skills. We are checking to see if the form is being completed for the same trainer multiple times, so please make sure to fill it out only once per trainer.
-</thinking>
-
 # Gym Trainer Evaluation Survey - Help Guide
 
 ## Purpose

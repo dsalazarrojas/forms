@@ -1,9 +1,3 @@
-<thinking>
-
-The 30 Day Review Feedback Form is a crucial tool for both the company and the employee. Its purpose is to gauge the employee's experience during their first month on the job, providing valuable insights for the onboarding process improvements and helping to retain top talent. To ensure you provide actionable feedback, please complete this form within 30 days from your start date. Please note that your responses will be treated confidentially and used only to improve the employee experience.
-
-</thinking>
-
 # 30 Day Review Feedback Form - Help Guide
 ## Purpose
 The 30 Day Review Feedback Form is a tool to gather feedback from new hires to understand their experience and perceptions during their first month in the company. The insights gained from this form will be used to refine our onboarding process, ensuring it is effective and enjoyable for all future employees.

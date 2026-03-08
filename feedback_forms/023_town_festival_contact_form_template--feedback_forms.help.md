@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect contact information and messages from users about a town festival. The form should only be completed once for each person, and it is not a duplicate submission form. The purpose of this form is to ensure that the town festival team can get in touch with the user and to provide relevant information about the festival. The form should not be used for commercial purposes or to sell products.
-
-</thinking>
-
 # Town Festival Contact Form Template - Help Guide
 
 ## Purpose

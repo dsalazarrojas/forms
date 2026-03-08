@@ -1,8 +1,3 @@
-<thinking>
-This form is used to record the experiences of clients with the legal service provided. It's essential to fill out this form accurately to provide valuable feedback and help improve the service. Before proceeding, ensure you have all the necessary information and documents related to the service provided. If you've already submitted feedback on the same service, please do not resubmit.
-
-</thinking>
-
 # legal_client_service_experience_report_form - Help Guide
 ## Purpose
 

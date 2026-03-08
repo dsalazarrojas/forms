@@ -1,7 +1,3 @@
-<thinking>
-The form "parent_teacher_meeting_feedback_questionnaire" is designed to gather feedback from students about their meetings with teachers. This form is intended to be completed by students to provide their honest opinions about the meetings they had. It is likely to be used by administrators or teaching staff to monitor and improve the quality of teaching provided to students.
-</thinking>
-
 # parent_teacher_meeting_feedback_questionnaire - Help Guide
 ## Purpose
 The parent-teacher meeting feedback questionnaire is designed to collect students' opinions on their meetings with teachers. This helps teachers and administrators identify areas of improvement and make informed decisions to enhance the teaching experience.

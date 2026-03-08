@@ -1,11 +1,3 @@
-<thinking>Before we begin, let's confirm that this form is for registering pine needles. If you're reading this guide, it's because you're either a participant or a submitter of a pine needle event. Please take a few minutes to review this help guide to ensure you're using the form correctly.
-
-If you're a participant, please make sure you've filled out all required fields accurately to help our team process your registration efficiently.
-
-If you're a submitter, please double-check that you've entered correct information for the participant and yourself. Your accuracy will help our team track events smoothly.
-
-To avoid duplication, please check that someone else has not already registered this event. If you're unsure, contact our support team for assistance.</thinking>
-
 # Pine Needles Registration Form - Help Guide
 ## Purpose
 The Pine Needles Registration Form is used for participants to register for events and for submitters to record event information.

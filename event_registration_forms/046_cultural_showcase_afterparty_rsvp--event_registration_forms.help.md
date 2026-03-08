@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from guests attending the cultural showcase's after-party event. It will help us ensure we have accurate headcount and dietary needs for catering and seating arrangements. Please fill out this form only once per guest attending the event.
-</thinking>
-
 # cultural-showcase-afterparty-rsvp - Help Guide
 ## Purpose
 

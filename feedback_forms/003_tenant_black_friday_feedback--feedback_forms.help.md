@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tenant Black Friday Feedback - Help Guide
 ## Purpose
 The Tenant Black Friday Feedback form is designed to collect feedback from tenants about their experience with Black Friday. This form allows you to provide feedback on performance, product, or experience. Your input will help us improve our service. Please note that this form is for Black Friday events, and your feedback will be considered for future improvements and enhancements. We do not use this form for sales or marketing purposes. If you've filled this form before, please make sure to only submit new feedback, as we will not consider duplicate submissions.

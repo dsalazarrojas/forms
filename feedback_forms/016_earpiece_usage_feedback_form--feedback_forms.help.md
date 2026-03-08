@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the usage of earpieces, likely from users who have worn or plan to wear earpieces for hearing enhancement or other purposes. The goal is to gather information on the effectiveness, comfort, and overall experience of wearing earpieces. This form will help the earpiece manufacturers or service providers to identify areas of improvement and optimize their products or services accordingly.
-
-This form is not intended for general comments or open-ended feedback. Each field is designed to collect specific information to ensure accurate and actionable data. The form's design is based on the assumption that users will answer questions in the context of their earpiece usage experience.
-
-Please ensure that you answer all the fields truthfully to help us improve the earpiece services. If you have already submitted feedback, please do not repeat it.
-
-</thinking>
-
 # Earpiece Usage Feedback Form - Help Guide
 ## Purpose
 

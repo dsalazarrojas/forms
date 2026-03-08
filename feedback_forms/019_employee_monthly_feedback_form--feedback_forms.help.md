@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's ensure that this form is being used for its intended purpose and that you're not duplicating effort. This form is designed to collect feedback from employees on their work environment, job satisfaction, and other relevant topics. If you've already submitted feedback or have concerns about your work, please don't submit duplicate feedback.</thinking>
-
 # Employee Monthly Feedback Form - Help Guide
 
 ## Purpose

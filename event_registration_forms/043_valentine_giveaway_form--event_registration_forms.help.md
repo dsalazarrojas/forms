@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to capture participant information for the Valentine's Day giveaway event. The fields are intended to collect participant names, emails, shirt sizes, and win choices for the event. To ensure accurate and efficient data collection, please review this help guide carefully.
-
-The form has multiple pages of fields, which may seem overwhelming. However, you can complete it step by step. Please answer only the required fields, and leave the optional ones for participants who are interested in additional information.
-
-The form includes fields for participant name, email, phone, date of birth, and time of birth. These fields are for general participant information and demographics.
-
-The form also includes fields for shirt sizes and colors. Please select the options that match the participant's preferences. 
-
-The fields with labels "win choice" are for indicating whether the participant would like to win a prize. Select "True" if they are interested in winning.
-
-Please do not fill in the additional fields if they do not apply to the participant's preferences.
-
-</thinking>
-
 # valentine giveaway form - Help Guide
 ## Purpose
 This form is designed to collect participant information for the Valentine's Day giveaway event.

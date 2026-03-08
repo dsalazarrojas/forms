@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect proposals for girls sports events. These events aim to promote girls' participation in sports, which has been shown to have numerous benefits for their physical, mental, and emotional well-being. Before filling out this form, please ensure that your proposal is relevant to the event's purpose and hasn't already been submitted. This form is not a general event registration form, but rather a specific tool designed to facilitate girls' sports event proposals. Please take a moment to review the following guide to fill out the form accurately and efficiently.
-
-</thinking>
-
 # Girls Sports Event Proposal Form - Help Guide
 ## Purpose
 This form is designed to collect proposals for girls sports events that promote girls' participation in sports. The goal is to support and foster a healthy and active lifestyle for girls, and this form is a crucial step in making these events a reality.

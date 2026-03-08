@@ -1,7 +1,3 @@
-<thinking>
-We are considering the purpose of this form as a feedback mechanism where users can provide their thoughts, suggestions, or complaints about our services. This form is intended to collect contact information for further communication and feedback for rating and attachment or file upload is optional.
-</thinking>
-
 # we_want_to_hear_you - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about our services. It allows them to share their thoughts, suggestions, or complaints, helping us to improve our services.

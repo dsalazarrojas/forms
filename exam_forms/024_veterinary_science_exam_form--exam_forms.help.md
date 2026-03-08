@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information from users about their knowledge in various fields of veterinary science. The fields are: Anatomy, Physiology, Biochemistry, Pathology, Microbiology, and Pharmacology. This form is likely to be used for assessment or evaluation purposes. It is recommended to fill out this form carefully and thoroughly to ensure accurate results.
 
 # veterinary_science_exam_form - Help Guide

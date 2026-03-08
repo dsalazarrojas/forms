@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect employee suggestions and feedback on various departments within the company. It is meant to be completed by employees to provide input on how they think the company can improve, and the submissions will be reviewed and addressed by the management. To avoid duplication, please make sure to check the submission status before resubmitting. Also, please note that the submission status will be updated once the management has reviewed the submission... </thinking>
-
 # Employee Suggestion Submission Form - Help Guide
 ## Purpose
 The Employee Suggestion Submission Form is a tool for employees to provide feedback and suggestions on how to improve the company. It is used to collect ideas and comments from employees on various departments, which will be reviewed and addressed by the management.

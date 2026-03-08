@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Crew Accommodation Booking Form - Help Guide
 ## Purpose
 This form is designed for crew members to book their accommodation for travel-related events. It captures essential details such as contact information, event details, and accommodation preferences.

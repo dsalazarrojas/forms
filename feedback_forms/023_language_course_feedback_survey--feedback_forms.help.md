@@ -1,13 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I understand the importance of creating a user-friendly help guide for this form. The Language Course Feedback Survey is a crucial tool for gathering feedback from students about their language course experience. To ensure accurate and helpful feedback, it's essential to clearly explain the form's purpose, how to complete it, and what each field means.
-
-Upon reviewing the provided YAML structure, I notice that the form collects feedback on various aspects of the language course, including instructor performance, course materials, student interaction, and overall experience. The form requires several pieces of information, including the instructor's name, course name, email, and phone number. The feedback section appears to be open-ended, allowing students to provide any comments or suggestions they may have.
-
-Before diving into the form instructions, I want to ensure that users understand the importance of providing honest and constructive feedback. This feedback will help course designers and instructors improve their teaching methods, materials, and overall course structure. Therefore, it's crucial to approach this feedback process with an open mind and a willingness to share genuine opinions.
-
-</thinking>
-
 # Language Course Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from students about their language course experience. Your input will help course designers and instructors refine their teaching methods, materials, and overall course structure.

@@ -1,14 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "frost_protection_application_form" that explains its purpose, how to complete it, and what each field means. This form appears to be related to farmers and their frost protection needs.
-
-The form has several fields that require user input, including contact information, farm details, crop type, acreage, frost protection methods, and additional info. The form likely collects data for farmers to request frost protection services or support.
-
-To ensure that the user completes the form correctly, we need to provide clear explanations for each field, considering the type of user who will be completing the form. We want to avoid confusion and help the user understand what is expected of them.
-
-Let's assume that the form is used by farmers to request frost protection services for their crops. The form might be used by an office or help desk to provide support to farmers affected by frost events.
-
-</thinking>
-
 # frost_protection_application_form - Help Guide
 ## Purpose
 The frost_protection_application_form is designed to help farmers request frost protection services for their crops. It's a form that collects contact information, farm details, and other relevant data to ensure that the farmer receives the necessary support during frost events.

@@ -1,7 +1,3 @@
-<thinking>...
-The purpose of this form is to collect information from jurors who are required to perform jury duty. Jurors can use this form to check in with the relevant authorities, indicating how they plan to fulfill their duty. This form appears to be designed to handle various scenarios, including both in-person and virtual check-ins. Given the provided YAML, there is no explicit indication that the form is for any specific event or location, so this form will likely be used as a general-purpose juror check-in form. However, to ensure relevance and non-duplication, it would be beneficial to add a unique identifier for each juror or event to the form, allowing for more tailored information collection. This form requires juror information, including name, email, phone number, date, and time. Additionally, it includes options for check-in method and event details, including date, time, and location. The form concludes with a field for the juror's signature.
-</thinking>
-
 # Jury Duty Check In Form - Help Guide
 ## Purpose
 This form is used to collect information from jurors who are required to perform jury duty.

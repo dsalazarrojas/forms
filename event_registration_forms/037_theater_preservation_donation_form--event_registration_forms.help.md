@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about donations made to the theater preservation organization. This form is used to collect details about the donation amount, frequency, and date. The form will be used to track and record donations, helping the organization to manage their resources effectively.
-</thinking>
-
 # theater_preservation_donation_form - Help Guide
 ## Purpose
 This form is used to gather information about donations made to the theater preservation organization.

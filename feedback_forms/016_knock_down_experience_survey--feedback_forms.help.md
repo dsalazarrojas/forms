@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for internal consumption only, to ensure that end users understand the purpose and usage of the Knock Down Experience Survey form. The purpose of this form is to collect feedback from customers, specifically their satisfaction level, safety concerns, and potential improvement opportunities. To prevent duplication and ensure relevance, please only submit feedback for issues or concerns that you have experienced firsthand.
-</thinking>
-
 # Knock Down Experience Survey - Help Guide
 ## Purpose
 The Knock Down Experience Survey is a form designed to gather feedback from customers regarding their experience with our product or service. The goal of this survey is to identify areas of improvement and ensure that we are meeting our customers' expectations.

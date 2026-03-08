@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a patient feedback form for providing input on the quality of service at a dental practice. The purpose of this form is to capture comments and ratings from patients to help the practice identify areas of improvement. It's essential to fill this form out accurately to ensure the feedback is helpful. Please ensure you're filling out the form for the correct purpose and not for any other reason.
-
-</thinking>
-
 # dental_patient_feedback_form - Help Guide
 ## Purpose
 The dental_patient_feedback_form is a patient feedback form used to gather comments and ratings on the quality of service provided by the dental practice. This form helps the practice identify areas of improvement and make data-driven decisions to enhance patient care.

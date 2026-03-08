@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to gather feedback from customers about their experience with an installation specialist. The feedback form is designed to gather specific information about the customer's satisfaction with the services provided, including their overall experience, communication, and service quality. The feedback form is an essential tool for improving the quality of service provided by the installation specialists and enhancing the customer experience.
-
-Before filling out this form, please ensure that you have not submitted feedback on this installation already. To submit feedback, please complete the form with accurate and honest information.
-
-</thinking>
-
 # Installation Specialist Feedback Form - Help Guide
 
 ## Purpose

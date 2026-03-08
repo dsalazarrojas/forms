@@ -1,5 +1,3 @@
-<thinking>Financial Statement Review Satisfaction Survey is a form designed to gather feedback from users about their experience with the financial statement review process. This form helps us understand how well we are meeting our users' expectations and identify areas for improvement. Please note that we are not collecting any personally identifiable information, and all responses will be treated as anonymous. If you have already completed a similar survey or provided feedback on this topic, your response will not be recorded to avoid duplication.</thinking>
-
 # Financial Statement Review Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with the financial statement review process. Your responses will help us understand your satisfaction with the process and identify areas for improvement.

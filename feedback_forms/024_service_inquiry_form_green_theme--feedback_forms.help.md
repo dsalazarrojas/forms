@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Inquiry Form Green Theme - Help Guide
 ## Purpose
 This form is designed to collect information from end users about their service inquiry. It helps us understand their needs and preferences for our services, allowing us to provide better support and guidance.

@@ -1,7 +1,3 @@
-<thinking>
-Is this form designed for users to create a birthday party invitation template, and will it be used to gather information about the party details, guest preferences, and RSVP responses? This form seems to be a comprehensive template for hosts to collect necessary information from guests, including party details, dietary restrictions, transportation needs, and gift preferences. I will assume that this form is for a birthday party invitation template and will design the help guide accordingly.
-</thinking>
-
 # Birthday Party Invitation Template - Help Guide
 ## Purpose
 This form is designed to help hosts create a comprehensive birthday party invitation template to gather information from guests about the party details, their preferences, and RSVP responses.

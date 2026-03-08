@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Debrief Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback and insights from individuals or teams after an event or project has been completed. It aims to identify what went well, what could be improved, and overall effectiveness, providing valuable information for future events and projects.

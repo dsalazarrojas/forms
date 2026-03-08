@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # NDT Feedback Collection Survey - Help Guide
 ## Purpose
 The NDT Feedback Collection Survey is a form designed to collect feedback and comments from users. It is intended to help us understand your thoughts, suggestions, and concerns about our services or products. Your input will help us improve our services and provide better experiences for our customers.

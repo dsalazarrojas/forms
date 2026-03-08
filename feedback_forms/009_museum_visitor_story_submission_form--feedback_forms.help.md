@@ -1,10 +1,3 @@
-<thinking>
-This help guide is for the "Museum Visitor Story Submission Form". The form's purpose is to collect stories, feedback, and other information from museum visitors. This form is designed to gather a wide range of information, including visitor stories, photos, and feedback. The form is optional, but filling it out helps the museum better understand visitors' experiences and improve its services.
-
-Before submitting the form, please check that the information you are providing is accurate and not redundant. If you've already submitted a similar story, feedback, or photo, there's no need to resubmit it.
-
-</thinking>
-
 # Museum Visitor Story Submission Form - Help Guide
 ## Purpose
 The Museum Visitor Story Submission Form is designed to collect stories, feedback, and other information from museum visitors. By filling out this form, you're helping the museum better understand your experience and improve its services.

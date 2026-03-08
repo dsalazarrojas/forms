@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential sponsors for the annual ride event. Sponsors are asked to provide their company or organization name, contact person, and contact information. They are also asked to specify their sponsorship history, level, amount, and preferred payment method. Additionally, they are asked about their interest in providing in-kind donations and the details of such donations. Sponsors are required to provide the date and location of the event and the expected number of participants. They can also provide information about their company's logo usage rights and their interest in booth spaces and volunteer support. Finally, they can request special recognition and promotional materials.
-</thinking>
-
 # Annual Ride Sponsorship Form - Help Guide
 ## Purpose
 The Annual Ride Sponsorship Form is designed to collect information from potential sponsors for the annual ride event. This form helps us understand your company's interests and needs as a sponsor and ensures we can tailor our event to meet your expectations.

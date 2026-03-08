@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the "real_estate_agent_feedback_form" effectively. The form is intended to gather feedback from real estate agents, which will be used to improve the overall services provided by the real estate organization. This guide is meant to be a comprehensive resource to ensure that users understand the purpose and usage of each field in the form.
-</thinking>
-
 # real_estate_agent_feedback_form - Help Guide
 ## Purpose
 The real_estate_agent_feedback_form is a tool to collect feedback from real estate agents, aiming to improve the quality of services provided by the organization. This feedback will help in identifying areas of improvement and make necessary adjustments to better serve the real estate agents.

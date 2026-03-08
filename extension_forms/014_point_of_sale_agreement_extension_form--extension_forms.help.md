@@ -1,12 +1,3 @@
-<thinking>
-The point of sale agreement extension form is used by customers to provide additional information or terms to an existing agreement. This form is designed to be completed by the customer in order to ensure that all necessary details are documented and agreed upon. The purpose of this form is to extend the agreement and provide a record of any changes or amendments to the original terms. It is essential that customers complete this form carefully and accurately to avoid any future discrepancies or conflicts.
-
-This form is a general form and is not specific to any particular type of agreement or transaction. It is intended to be used in conjunction with other relevant forms and documents to ensure a comprehensive record of the agreement.
-
-Before filling out this form, ensure that you have a clear understanding of the terms and conditions of the agreement and any changes you wish to make. Review the form carefully and complete it accurately to avoid errors or misunderstandings.
-
-</thinking>
-
 # point_of_sale_agreement_extension_form - Help Guide
 ## Purpose
 The point of sale agreement extension form is used by customers to provide additional information or terms to an existing agreement. This form is designed to be completed by the customer in order to ensure that all necessary details are documented and agreed upon.

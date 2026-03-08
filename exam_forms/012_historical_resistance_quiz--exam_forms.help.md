@@ -1,8 +1,3 @@
-<thinking> 
-This form was created to assess the user's knowledge about historical resistance movements. The form is composed of 7 pages, each page containing a single field. The form's purpose is to collect information about the user's familiarity with different historical resistance movements. The user is asked to select the correct resistance movement from a list of options and provide a reflection on their understanding of the topic. The form also includes a confirmation field at the end to ensure that the user has submitted their answers correctly.
-
-</thinking>
-
 # Historical Resistance Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about historical resistance movements. Please answer the questions to the best of your ability and provide a reflection on your understanding of the topic.

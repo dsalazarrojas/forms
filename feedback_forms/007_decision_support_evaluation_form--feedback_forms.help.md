@@ -1,13 +1,3 @@
-<thinking>
-The "decision_support_evaluation_form" form is designed to gather feedback from users about the quality of decision support they received during their interaction with a service. This form is used to evaluate the effectiveness of the decision support provided by the service. The main goal is to understand how users perceive the quality of the support they received and identify areas for improvement.
-
-To prevent duplication of effort and ensure the information is relevant and accurate, please make sure to:
-
-* Only complete this form if you have actually interacted with the service.
-* Be honest and provide your genuine thoughts and experiences.
-* If you have already provided similar feedback, please do not complete this form again.
-</thinking>
-
 # decision_support_evaluation_form - Help Guide
 ## Purpose
 

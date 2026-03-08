@@ -1,5 +1,3 @@
-<thinking>...The goal of the "Psychology Exam Registration Form" is to gather information from candidates to facilitate a smooth and efficient exam experience. This form is used to collect data about the candidate's enrollment status, session scheduling preferences, accommodation needs, and other relevant details. Before completing this form, please ensure that you have all the necessary information and haven't already registered for the exam in the past. If you're unsure about any field, refer to this guide for clarification.</thinking>
-
 # Psychology Exam Registration Form - Help Guide
 
 ## Purpose

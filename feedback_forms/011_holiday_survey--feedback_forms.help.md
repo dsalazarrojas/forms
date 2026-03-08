@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We are going to create a user-facing help guide for the holiday survey form. The purpose of the form is likely to collect feedback from users about their holiday experiences and experiences with specific tools, such as "Chatjimmy". The form might be used by managers or administrators to understand customer experiences and make data-driven decisions. The form could also be used by product teams to gather feedback and improve their products.
 
 Let's make sure that the form is not being used for any other purpose than for holiday feedback or experiences with tools, as it would defeat the purpose of the form and might lead to inaccurate or biased results.

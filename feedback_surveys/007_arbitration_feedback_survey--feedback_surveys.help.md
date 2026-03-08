@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from individuals who have participated in an arbitration process. The feedback will help identify areas of improvement for the arbitration process, assess the quality of the arbitrators, and gauge overall satisfaction with the process. This form is intended for individuals who have been a part of an arbitration, and it's essential to fill it out to contribute to the improvement of the process. Please note that the form is not a duplicate of any other form, and it's a unique adaptation of public survey topic metadata.
-</thinking>
-
 # Arbitration Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from individuals who have participated in an arbitration process. The feedback will help identify areas of improvement for the arbitration process, assess the quality of the arbitrators, and gauge overall satisfaction with the process.

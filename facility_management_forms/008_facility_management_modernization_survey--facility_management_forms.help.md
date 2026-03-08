@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clearly understood by the end-users, and that they are not duplicating effort. This form is intended to gather information and feedback from facility management teams on modernization initiatives, challenges, and projects. It should be completed by those directly involved in facility management or related projects. 
-The information gathered will be used to inform and improve the facility management modernization process. 
-Please note that the form is not a mandatory requirement, but rather a voluntary feedback and information-gathering tool. 
-Please make sure to complete the form accurately and thoroughly, and do not duplicate any information that has already been provided. 
-</thinking>
-
 # Facility Management Modernization Survey - Help Guide
 ## Purpose
 This form is designed to gather information and feedback from facility management teams on modernization initiatives, challenges, and projects. It aims to help inform and improve the facility management modernization process.

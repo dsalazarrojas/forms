@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear and concise explanation of the Self Service Booth Payment Form, its purpose, and how to complete it. The form is designed to collect information from users about their self-service booth payment, including personal details and payment preferences. This guide will cover the form's purpose, how to complete it, and provide a field-by-field explanation of each section.
-
-</thinking>
-
 # Self Service Booth Payment Form - Help Guide
 ## Purpose
 The Self Service Booth Payment Form is used to collect information from users about their self-service booth payment. This form is intended to be completed by customers who have visited a self-service booth and would like to provide feedback or payment information.

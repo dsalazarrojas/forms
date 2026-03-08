@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help vendors apply to participate in the Night Market event. The form will collect information about the vendor, their product or service, and their preferred booth setup. This information will be used to evaluate and approve vendors for participation in the event. It is recommended to fill out the form completely and truthfully to ensure a smooth application process. Please do not duplicate or reuse the form, as it will help the organizers to track the number of unique and genuine applications received.
-</thinking>
-
 # Vendor Application For Night Market - Help Guide
 ## Purpose
 The purpose of this form is to allow vendors to apply to participate in the Night Market event by providing necessary information about themselves, their products or services, and their preferences.

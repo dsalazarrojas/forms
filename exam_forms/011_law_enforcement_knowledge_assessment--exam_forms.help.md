@@ -1,18 +1,3 @@
-<thinking>
-The Law Enforcement Knowledge Assessment form is designed to evaluate the knowledge and understanding of law enforcement officers regarding various aspects of their duties and responsibilities. This form is intended to assess their comprehension of legal principles and procedures, as well as their ability to perform tasks related to their role. The form is used to gauge the officer's knowledge in these areas and provide a basis for training and development programs.
-
-To determine if this form is relevant to your work, consider the following questions:
-
-* Are you a law enforcement officer looking to assess your knowledge in areas such as legal understandings and core duties?
-* Are you a trainer or supervisor looking to evaluate the knowledge and skills of law enforcement officers?
-* Are you a student looking to learn about the responsibilities and duties of law enforcement officers?
-
-If you answered yes to any of these questions, this form may be relevant to your work.
-
-Please note that this form is not a substitute for official training or certification programs. Its purpose is to provide a basic assessment of knowledge and understanding.
-
-If you have already completed this form, please proceed to the instructions below. If you are new to this form, please take a few moments to read through the instructions and field explanations to familiarize yourself with the form's purpose and structure.</thinking>
-
 # Law Enforcement Knowledge Assessment - Help Guide
 ## Purpose
 The Law Enforcement Knowledge Assessment form is designed to evaluate the knowledge and understanding of law enforcement officers regarding various aspects of their duties and responsibilities.

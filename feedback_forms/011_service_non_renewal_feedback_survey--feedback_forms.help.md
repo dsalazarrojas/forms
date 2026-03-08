@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Service Non Renewal Feedback Survey - Help Guide
 
 ## Purpose

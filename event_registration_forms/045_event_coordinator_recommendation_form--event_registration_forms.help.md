@@ -1,9 +1,3 @@
-<thinking>... (Internal reasoning)
-
-This form is designed to gather feedback and recommendations on event coordinators from users. The event coordinators are rated on their performance, communication, and overall satisfaction. The form is divided into two main sections: User Input and Event Details. The User Input section collects basic information about the user, while the Event Details section gathers more specific details about the event. The form also includes fields to rate the coordinators' performance and overall satisfaction.
-
-</thinking>
-
 # Event Coordinator Recommendation Form - Help Guide
 ## Purpose
 This form is used to gather feedback and recommendations on event coordinators. It helps event organizers to evaluate the performance and satisfaction of their coordinators.

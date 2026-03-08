@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to solicit feedback from customers on their experience with a specific service or product. It is designed to gather their satisfaction ratings and comments, as well as any improvement ideas they may have. To ensure that the form is used correctly, we check internally for duplicates to prevent multiple responses from the same customer. This is to ensure that we get a representative sample of feedback and can accurately analyze it.
-</thinking>
-
 # Submit Your Responses - Help Guide
 ## Purpose
 This form is used to collect feedback from customers on their satisfaction with a service or product. We use this feedback to understand their experiences and make improvements accordingly.

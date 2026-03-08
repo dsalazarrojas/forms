@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect media release information from individuals or organizations that have used the organization's media resources. This form will help to track and verify the usage of media materials to ensure that they are used correctly and in accordance with the organization's guidelines. It's essential to complete this form accurately to prevent misrepresentation or misinterpretation of the media content. 
 
 </thinking>

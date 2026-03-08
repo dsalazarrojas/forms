@@ -1,7 +1,3 @@
-<thinking>
-The Volunteer Program Feedback Questionnaire is designed to gather feedback from volunteers about their experience in the program. The form aims to collect data on the overall satisfaction of the volunteers, their experience with the program, and areas for improvement. 
-</thinking>
-
 # Volunteer Program Feedback Questionnaire - Help Guide
 
 ## Purpose

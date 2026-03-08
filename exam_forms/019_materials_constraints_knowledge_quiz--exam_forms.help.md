@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from end-users about materials constraints. This form is part of the "exam_forms" category, which implies it's related to exams or assessments. However, it does not specify what type of exam or what materials it's about. Assuming it's a general knowledge quiz, the form appears to be asking about materials-related knowledge, likely in a safety or risk assessment context. The "material_constraints_1_hazard" and "material_constraints_2_hazard" fields, for example, suggest that the form is asking about the risk level associated with certain materials. The "exam_form_id" field seems to be an identifier for the exam or assessment. The "category" field, which is a select_multiple field with options "Exam Forms" and "Other", implies that the form might be part of a larger assessment or exam suite, but it's not entirely clear what this means in the context of the form. Given the structure and content of the form, it appears to be a knowledge quiz or assessment tool for materials-related knowledge, possibly in a safety or risk management context.
-</thinking>
-
 # Materials Constraints Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about materials constraints. It consists of multiple sections, each asking about different aspects of materials-related knowledge.

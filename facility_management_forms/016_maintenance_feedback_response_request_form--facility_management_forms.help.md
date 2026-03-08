@@ -1,7 +1,3 @@
-<thinking>
-We want to collect feedback from users on their experience with our facility management system, so we can understand how to improve it. This form will be used to gather quantitative and qualitative data on user experience. The form is divided into several sections to help us better understand different aspects of user experience. We will check for non-duplication and ensure only users with a genuine experience with our system can submit responses. Please take a few minutes to complete this form.
-</thinking>
-
 # Maintenance Feedback Response Request Form - Help Guide
 ## Purpose
 This form is used to collect feedback from users on their experience with our facility management system. Your input will help us understand how to improve the system and provide better services to you.

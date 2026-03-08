@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about clients' business profiles and metrics, as well as their interest and goals related to the GROW program. The data collected will be used to help us understand the demographics of our clients and tailor our support and resources to their needs. Please note that this form is the primary means of collecting this information, and we appreciate your attention to detail in filling it out accurately.</thinking>
-
 # Aviatra Client Interest and Metrics - Help Guide
 ## Purpose
 This form is used to gather information about your business profile, metrics, and interest in the GROW program. We will use this data to understand your business needs and provide tailored support and resources.

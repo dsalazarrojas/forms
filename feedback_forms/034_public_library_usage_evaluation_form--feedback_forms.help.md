@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation data from public library users. The form aims to understand how users interact with public libraries, the services they use, and their suggestions for improvement. 
-This form will be used by library administrators to assess the effectiveness of their services and make data-driven decisions to enhance user experience.
-
-The form is divided into multiple pages, each focusing on a specific aspect of public library usage. The questions are designed to be simple and straightforward, allowing users to provide clear and concise feedback.
-
-Before completing this form, please make sure that you have not already submitted a similar evaluation form in the past. This will help us to get a more accurate picture of your experiences and avoid duplicate data.
-
-</thinking>
-
 # public_library_usage_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation data from public library users to help library administrators assess the effectiveness of their services and make data-driven decisions to enhance user experience.

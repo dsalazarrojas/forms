@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scholarship Workshop Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from attendees of the scholarship workshop on their experience and opinion about the event. The feedback will be used to improve the workshop and future events.

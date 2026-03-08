@@ -1,12 +1,3 @@
-<thinking>
-We should first explain that the Stigma Awareness Feedback Form is used to gather feedback from end-users about the impact of a program on stigma and mental health. This form is meant to help the program's creators understand how the program affects individuals' perceptions of stigma and mental health. It's essential to fill out the form completely and truthfully to provide valuable insights. Please ensure that you're not filling out this form if you've already done so in the past.
-
-This form has 25 fields, and some of the fields are repeated, which may seem confusing. To clarify:
-
-- Fields with 'Hint' labels, like "Program Questions Hint" and "User Mental Health Hint," are not actual fields to fill in but rather explanations or additional guidance for the corresponding questions.
-- Fields with "Hint" labels are for your reference and should not be filled in.
-</thinking>
-
 # Stigma Awareness Feedback Form - Help Guide
 ## Purpose
 The Stigma Awareness Feedback Form is designed to gather feedback from end-users about the impact of a program on stigma and mental health. This form will help the program's creators understand how the program affects individuals' perceptions of stigma and mental health.

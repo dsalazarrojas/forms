@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to gather feedback from participants after they have completed a leadership skills training session. The feedback is used to assess the effectiveness of the training and identify areas for improvement. Please note that the form should only be completed by participants who have attended the training session, and should not be completed by non-participants. If you are not a participant, please do not complete this form.
-
-</thinking>
-
 # leadership_skills_training_feedback_form - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants after a leadership skills training session. The feedback is used to evaluate the effectiveness of the training and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Post Promotion Feedback Survey - Help Guide
 
 ## Purpose

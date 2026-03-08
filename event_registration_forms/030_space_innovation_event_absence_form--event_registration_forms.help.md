@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Space Innovation Event Absence Form - Help Guide
 
 ## Purpose

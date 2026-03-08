@@ -1,8 +1,3 @@
-<thinking>
-This form is used for internal communication with podcast guests. It's essential to use this form to ensure that podcast guests have a way to provide their information and communicate with the team efficiently. This form is not affiliated with or endorsed by any form platform, and it was created using AI-generated form design based on public metadata. The purpose of this form is to provide a structured way for podcast guests to share their information and communicate with the team. This form is not intended to collect sensitive or personal data, but rather to facilitate communication and coordination. To avoid duplication of effort, please use this form for each new guest separately.
-
-</thinking>
-
 # Podcast Guest Communication Form - Help Guide
 ## Purpose
 This form is designed for internal communication with podcast guests, allowing them to provide their information and communicate with the team efficiently.

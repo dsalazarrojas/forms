@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback about compassionate behavior, specifically to identify and promote positive actions that demonstrate empathy and care towards others. This form is intended for internal use within the organization, and responses will be kept confidential. Before filling out this form, please ensure that you have not already submitted a similar form for the same event or interaction. If you're unsure, please contact your supervisor or HR representative for guidance.
-</thinking>
 # Compassion Feedback Form - Help Guide
 ## Purpose
 The Compassion Feedback Form is a tool for sharing observations about compassionate behavior, with the goal of promoting positive and supportive actions within the organization. By filling out this form, you can help highlight the impact of kindness and empathy on individuals and situations.

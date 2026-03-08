@@ -1,5 +1,3 @@
-<thinking>This form is used to allow end-users to report issues or concerns to the organization's support team. The goal is to gather relevant information about the reported issue in order to address it efficiently. This form ensures that all relevant details are collected, including report type, description, and contact information, to facilitate a quick and effective resolution. It's recommended that end-users review the form carefully and submit it only when it's complete and accurate.</thinking>
-
 # Reporting Channel Form - Help Guide
 
 ## Purpose

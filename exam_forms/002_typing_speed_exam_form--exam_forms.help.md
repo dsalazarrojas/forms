@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the Typing Speed Exam Form. To ensure the form is filled out correctly, follow this guide carefully.
-
-Please note that this form is used to collect information related to typing speed and proficiency. The form is designed to gather data on individual typing speed and accuracy, and is likely used for testing and evaluation purposes.
-
-Before proceeding, ensure that the form has not been previously completed, and there is no duplicate entry for the user. This can be checked by looking for a confirmation prompt or checking the form's submission status.
-
-</thinking>
-
 # Typing Speed Exam Form - Help Guide
 ## Purpose
 The Typing Speed Exam Form is designed to assess an individual's typing speed and proficiency. It collects information on a user's ability to quickly and accurately type out given text.

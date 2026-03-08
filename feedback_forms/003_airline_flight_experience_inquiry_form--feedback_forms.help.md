@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from passengers about their recent flight experience with the airline. This form aims to collect information about various aspects of the flight, including check-in and boarding satisfaction, cabin cleanliness, seat comfort, staff professionalism, and overall rating. The form is intended to help the airline identify areas of improvement and make informed decisions about its operations.
-
-Before filling out this form, please note that:
-
-* If you have already submitted feedback about this flight, your responses will be considered duplicate and will not be processed.
-* If you are submitting feedback about a flight that occurred more than 3 months ago, it may not be processed due to data retention policies.
-* Please fill out the form completely and honestly to provide the most helpful feedback.
-
-</thinking>
-
 # Airline Flight Experience Inquiry Form - Help Guide
 ## Purpose
 The Airline Flight Experience Inquiry Form is designed to collect feedback from passengers about their recent flight experience. Your responses will help the airline identify areas of improvement and make informed decisions about its operations.

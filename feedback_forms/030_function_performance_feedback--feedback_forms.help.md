@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback from users about a function's performance, typically after a training session, meeting, or other company function. The purpose of this form is to help the company understand the effectiveness of a particular function and identify areas for improvement. 
-The form is meant to be completed by users who have attended a function and have some knowledge about its performance. It is not meant to be completed by users who did not attend the function, or who do not have first-hand knowledge about its performance. 
-Before completing this form, please make sure that you have actually attended the function and have some knowledge about its performance. If you are not sure about your feedback, please do not complete this form. 
-We will review your feedback and use it to improve our functions. Your input is valuable to us!
-</thinking>
-
 # Function Performance Feedback - Help Guide
 ## Purpose
 This form is used to collect feedback from users about a function's performance. Please provide your honest feedback to help us improve our functions.

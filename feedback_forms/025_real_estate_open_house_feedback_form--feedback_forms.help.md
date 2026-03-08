@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication, this form is only accessible to real estate agents and their clients, who can provide feedback on open houses they have attended. The purpose of this form is to collect feedback from real estate agents and their clients about their experiences with open houses they have attended. This feedback will help us improve our services and provide better experiences for our clients in the future.
-</thinking>
-
 # Real Estate Open House Feedback Form - Help Guide
 ## Purpose
 

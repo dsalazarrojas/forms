@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect event details and logistics information for recycling purposes. It is likely used to gather necessary data for coordinating and scheduling recycling collection events. Each field in the form will help the user provide relevant information for the event. For example, the "recycling_needs" field will help determine the type of recycling service needed, and the "collection_date" and "collection_time" fields will help schedule the collection. The "services_request" field will allow users to specify any additional services they require for the event.
-
-To ensure that the form is filled out correctly, please review the information below.
-</thinking>
-
 # event_recycling_logistics_application_form - Help Guide
 ## Purpose
 This form is used to gather event details and logistics information for recycling purposes, including the type of recycling service needed, schedule of collection, and any additional services required.

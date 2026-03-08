@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to collect feedback from users on the punctuality, professionalism, communication, and overall satisfaction of the delivery personnel. This form is designed for end-users to provide their honest opinions on these key aspects of the delivery experience. Before filling out the form, please ensure that you have had a recent delivery experience and are providing feedback on a specific event. To avoid submitting duplicate feedback, please use a unique identifier or code provided to you by our team to track your submission...</thinking>
-
 # Delivery Personnel Evaluation - Help Guide
 ## Purpose
 This form is used to collect feedback on the delivery experience, specifically on the punctuality, professionalism, communication, and overall satisfaction of the delivery personnel. Please fill out this form to provide your honest opinions.

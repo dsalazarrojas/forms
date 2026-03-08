@@ -1,6 +1,3 @@
-<thinking>
-The form "Producer Evaluation Form" seems to be used to gather feedback from farmers on their producers. It might be used for internal quality assurance or evaluation purposes. I'm assuming it's not a duplicate of another form, and I'm not sure about the exact business logic, so let's stick to the provided YAML structure. I'll create a user-facing help guide based on this information.</thinking>
-
 # Producer Evaluation Form - Help Guide
 ## Purpose
 The Producer Evaluation Form is used to collect feedback from farmers on their producers. This form gathers information about the farmer's experience, farm details, and evaluation metrics.

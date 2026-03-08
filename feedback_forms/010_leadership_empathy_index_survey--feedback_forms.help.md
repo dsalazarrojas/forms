@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "leadership_empathy_index_survey", is to gather feedback about a leader's leadership skills, communication style, and ability to foster a supportive culture in the workplace. The form is likely intended for leaders to self-assess their own strengths and areas for improvement, and for their teams to provide feedback on their performance. To ensure the form is filled out accurately, it's essential to understand its purpose and the questions it asks. This guide is meant to clarify the form's purpose and make it easier for end-users to fill it out correctly.
-</thinking>
-
 # leadership_empathy_index_survey - Help Guide
 ## Purpose
 The leadership_empathy_index_survey form is designed to collect feedback on a leader's ability to demonstrate empathy in the workplace. This form is meant to be used by leaders to gauge their own self-awareness and self-improvement, and by team members to provide constructive feedback on their leader's performance.

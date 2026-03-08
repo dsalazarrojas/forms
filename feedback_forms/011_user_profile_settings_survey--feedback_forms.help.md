@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to help users complete the User Profile Settings Survey form, which is a collection of text fields that aim to gather user preferences and feedback. The form is meant to collect information on various aspects of user experience and preferences, including user settings, survey preferences, user experience, and feedback. This guide will walk users through each field, explaining its purpose and how to complete it correctly.
-
-</thinking>
-
 # user_profile_settings_survey - Help Guide
 ## Purpose
 The User Profile Settings Survey form is designed to collect information from users on their preferences and experience with our product/service. The form consists of multiple text fields that gather feedback, suggestions, and improvement ideas from users. This form is meant to be completed by users who want to provide their input and help us improve our product/service.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from team members about a celebration event or activity. This form aims to understand what moments stood out to them, how they felt the celebration went, and what could be improved. It also asks about their favorite participants and how they would rate the overall celebration. This information will help the team organize more engaging and enjoyable celebrations in the future.
-
-To ensure the collected feedback is accurate and useful, please complete the form carefully and honestly. If you have already provided feedback on the same celebration, your answers will not be recorded as the form does not track individual responses over time.
-</thinking>
-
 # Team Celebration Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback about a team celebration, helping us better understand what worked well and what could be improved.

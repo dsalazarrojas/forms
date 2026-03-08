@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather necessary information for the Expense Recovery Program, a program that allows employees to recover expenses related to work-related activities and events. This form is designed to ensure that employees submit their expense claims in a standardized and easily traceable manner. Please note that this form should only be used for work-related expenses and not for personal expenses. 
-
-Before starting, please ensure that you have all the required information and that you're not duplicating an existing expense claim. If you've already submitted an expense claim for the same date of expense, you will need to update the submission remarks to indicate that this is a revision of your previous claim.
-
-</thinking>
-
 # Expense Recovery Program Application Form - Help Guide
 ## Purpose
 The form is used to gather information for the Expense Recovery Program, a program that allows employees to recover expenses related to work-related activities and events.

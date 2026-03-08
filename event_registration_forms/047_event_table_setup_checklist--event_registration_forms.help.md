@@ -1,10 +1,3 @@
-<thinking>
-The form is for event registration and setup, used by event coordinators and planners to ensure that all necessary elements are in place before an event takes place. This form helps to gather information about the event's tables and chairs, audio-visuals, power, and event stage settings to guarantee a smooth and successful event experience.
-
-This guide aims to provide a clear and concise explanation of the form's purpose and how to complete it, as well as a field-by-field explanation for each section.
-
-</thinking>
-
 # event-table-setup-checklist - Help Guide
 ## Purpose
 The "event-table-setup-checklist" form is a crucial tool for event coordinators and planners to prepare for an event. It helps to gather essential information about the event's setup, ensuring that everything is in order for a successful event.

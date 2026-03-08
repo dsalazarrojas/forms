@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to track milk distribution information, including milk delivery dates, quantities, and production methods. This form is used for monitoring and recording milk distribution activities. It's crucial to fill in accurate information to maintain proper records and ensure smooth milk distribution processes. It's also essential to review and update this form regularly to reflect the latest milk distribution data. This form should only be used for milk distribution purposes and not for other types of milk-related activities. Please ensure that all required fields are filled in accurately to ensure proper tracking.
-</thinking>
-
 # Milk_Distribution_Tracker - Help Guide
 ## Purpose
 The Milk Distribution Tracker is a form used for monitoring and recording milk distribution activities. It's essential for tracking milk delivery dates, quantities, and production methods.

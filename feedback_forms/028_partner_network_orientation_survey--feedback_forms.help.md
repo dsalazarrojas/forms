@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, "Partner Network Orientation Survey", is designed to collect feedback and information from partners regarding their experiences with the partner network. It is intended for both new and existing partners to help us better understand their needs, preferences, and areas of improvement. 
 
 The goal of this form is to ensure that the partner's feedback and experiences are accurately reflected in the survey and that the information gathered is used to improve the overall partner experience and network effectiveness.

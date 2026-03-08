@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients to provide feedback about their healthcare provider's performance. The form is used to collect patient experiences, concerns, and overall satisfaction with their healthcare provider. It is essential to complete this form accurately and thoroughly to help us understand patient needs and improve our services. Please ensure that the form is submitted only once per patient visit, as duplicate submissions can lead to confusion and data redundancy. Before starting, ensure you have all the required information and have read the provided instructions.
-</thinking>
-
 # Healthcare Provider Review Form - Help Guide
 ## Purpose
 This form is used to collect patient feedback about their healthcare provider, which helps us improve our services and provide better patient care.

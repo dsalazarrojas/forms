@@ -1,7 +1,3 @@
-<thinking>
-The form "Daily Life Feedback Survey" is used to collect feedback about an individual's work life balance and satisfaction. To determine if the form is relevant to your situation, consider if you're looking to assess how well your work and personal life are aligned. If so, proceed with the following guide.
-</thinking>
-
 # Daily Life Feedback Survey - Help Guide
 ## Purpose
 The Daily Life Feedback Survey is a tool for evaluating your work life balance and satisfaction. It consists of multiple questions that ask about your feelings towards your job, work hours, and communication skills. The collected data will help to identify areas for improvement in your work and personal life.

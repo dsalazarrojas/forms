@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # policy_analyst_exit_offboarding_form - Help Guide
 
 ## Purpose

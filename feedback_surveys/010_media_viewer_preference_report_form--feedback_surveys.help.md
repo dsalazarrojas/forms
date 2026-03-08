@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect feedback from users about their media viewing preferences. It is meant to be completed by users who wish to report their media viewing habits, such as preferred viewing devices, when they view media, and how frequently they do so. This form is likely to be used to gather data for research or analysis purposes, but the exact use case is not specified in the provided YAML.
 
 The form is composed of multiple pages, but only one page is defined in the provided YAML.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skilled Labor Exit Offboarding Form - Help Guide
 ## Purpose
 The Skilled Labor Exit Offboarding Form is used to collect information about an employee's departure from the company. This form is intended to be completed by the employee as part of the offboarding process, and it helps the HR department to track and manage the offboarding process efficiently. This form is typically completed near the employee's exit date.

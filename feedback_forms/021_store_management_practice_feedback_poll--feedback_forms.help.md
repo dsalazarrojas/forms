@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to gather feedback from store management practices users on how to improve the store's management practices. The feedback is anonymous, and the form is divided into several sections to make it easier for users to provide their opinions. This form is not meant to be a comprehensive survey, but rather a quick and easy way to get users' thoughts and suggestions.
-
-The form asks for feedback on various aspects of store management practices, including user role, implementation, and comments. The form is intended to be completed by store management practices users, likely employees or stakeholders, and is meant to be used to understand their perspective on how to improve the store's management practices.
-
-Before starting, please ensure that you have a valid reason for filling out this form and that your comments are not repetitive or redundant. Your input is valued, and your feedback will help shape the store management practices improvement plan.
-
-</thinking>
-
 # Store Management Practice Feedback Poll - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users on how to improve the store's management practices.

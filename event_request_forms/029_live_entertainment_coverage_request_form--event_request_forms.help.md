@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Live Entertainment Coverage Request Form - Help Guide
 ## Purpose
 The Live Entertainment Coverage Request Form is a tool used to gather information from users regarding their requests for live entertainment coverage. This form is intended to collect details about the user's event and their preferred media coverage options. It's essential to complete this form accurately to ensure that your live event coverage needs are met.

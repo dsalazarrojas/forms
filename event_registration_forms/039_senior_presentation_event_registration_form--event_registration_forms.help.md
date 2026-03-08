@@ -1,9 +1,3 @@
-<thinking>
-
-As the designer of this form, I've taken into account the fields provided in the YAML configuration to create a user-facing help guide that addresses the purpose, completion, and explanations for each field. This guide is designed to be concrete, concise, and practical, and covers the required and optional fields for the senior presentation event registration form.
-
-</thinking>
-
 # senior_presentation_event_registration_form - Help Guide
 ## Purpose
 

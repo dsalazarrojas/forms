@@ -1,5 +1,3 @@
-<thinking>...Internal reasoning block: This form is for collecting feedback on workplace conflict management. It's crucial to ensure that every employee has a safe and respectful work environment. Before filling out this form, please ensure you've tried to resolve the conflict through open communication and mediation. If you're unsure about any questions or have concerns, reach out to your supervisor or HR department for guidance. Ensure this form is not duplicated and that you're not filling it out for every interaction. This form is designed for serious conflicts that cannot be resolved through regular channels. Please fill it out thoughtfully and truthfully...</thinking>
-
 # Workplace Conflict Management Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help employees provide feedback on workplace conflicts that have not been resolved through open communication and mediation. It's essential for maintaining a safe and respectful work environment.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from trainees who have attended an Electronic Health Records (EHR) Training Class. The form is designed to gather information on their experience with the training session, including how it was organized, what was covered, and what could be improved. This feedback will help us evaluate and refine the training program to better meet the needs of our trainees.
-</thinking>
-
 # EHR Training Class Feedback Survey - Help Guide
 ## Purpose
 This form is a collection of questions and ratings designed to gather feedback from trainees who have recently attended an EHR Training Class.

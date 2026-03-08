@@ -1,6 +1,4 @@
-# <thinking> ... </thinking>
-
-This form allows event organizers to purchase tickets for an event, which will be paid for using Skrill, an online payment service. The form is designed for events with fixed dates and times, and it provides fields to specify the event date, start and end times, name, price, and a unique Skrill account ID for payment processing.
+# This form allows event organizers to purchase tickets for an event, which will be paid for using Skrill, an online payment service. The form is designed for events with fixed dates and times, and it provides fields to specify the event date, start and end times, name, price, and a unique Skrill account ID for payment processing.
 
 ## Ticket Purchase Form With Skrill - Help Guide
 

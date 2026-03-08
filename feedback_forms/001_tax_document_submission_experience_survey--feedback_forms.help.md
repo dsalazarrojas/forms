@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tax Document Submission Experience Survey - Help Guide
 ## Purpose
 This form is designed to gauge the user's experience with the tax document submission process. It will help us understand their satisfaction with the clarity, support, and overall process.

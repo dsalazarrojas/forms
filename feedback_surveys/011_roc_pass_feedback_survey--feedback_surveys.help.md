@@ -1,5 +1,3 @@
-<thinking>...The ROC Pass Feedback Survey is used by users to provide feedback on their experience with the service. This form gathers information on the user's demographic details such as name and email, their interaction with the service, and their overall satisfaction with the service. The form is designed to be completed by customers, operational team members, and management personnel. To avoid duplication of feedback, please ensure that you are not submitting the same survey multiple times. If you are unsure about any question, please feel free to provide additional context or details in the "Additional Comments" field, if available. Please note that some fields are optional, but providing accurate information will allow us to better understand your experience...</thinking>
-
 # ROC Pass Feedback Survey - Help Guide
 ## Purpose
 The ROC Pass Feedback Survey is used to collect feedback from customers, operational team members, and management personnel on their experience with the service.

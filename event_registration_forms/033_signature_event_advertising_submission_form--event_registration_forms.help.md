@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for event organizers to submit event information, including event details such as name, date, time, and type, as well as contact information for the event organizer. The form is intended to gather necessary information for advertising and promoting events on a platform or website. To avoid duplication, users should only submit new events that have not been previously registered.
-
-</thinking>
-
 # Signature Event Advertising Submission Form - Help Guide
 ## Purpose
 The Signature Event Advertising Submission Form is designed for event organizers to submit event information for advertising and promotional purposes.

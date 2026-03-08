@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register developers for meetups, allowing them to share their details, preferences, and event information. It's essential to complete this form accurately and honestly to ensure that the organizers have a clear understanding of the attendees' needs and expectations. Please note that this form is not meant to be filled out multiple times by the same person, as it's intended for each individual attendee.
-</thinking>
-
 # Developer Meetup Signup Form - Help Guide
 ## Purpose
 The "Developer Meetup Signup Form" is a registration form designed for developers to share their details, preferences, and event information with the meetup organizers. It's a crucial tool for the organizers to get a clear picture of the attendees and plan the event accordingly.

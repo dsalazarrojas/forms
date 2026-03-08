@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect personal journal entries from users, capturing their thoughts, experiences, and reflections on a particular topic or event. The form is intended to provide a flexible and structured way for users to reflect on their personal growth, learning, and experiences. This form is not affiliated with any specific form platform and is a unique adaptation created using AI-generated form schema. Please ensure that you have a legitimate reason for filling this form and that the information entered is not duplicated in any other form... </thinking>
-
 # Personal Journal Entry Form - Help Guide
 ## Purpose
 

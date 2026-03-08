@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "Outdoor Event Participation Survey" is to gather information from participants about their experiences and preferences regarding outdoor events. This form is designed to help the event organizers better understand their target audience's demographics, event frequency, and satisfaction levels. The information collected will help in tailoring future events to meet the needs and expectations of the participants.
-
-Before proceeding, ensure that you have not already completed this survey in the past. This survey is meant to be completed by unique individuals, and repeating the same survey may skew the results.
-
-</thinking>
-
 # Outdoor Event Participation Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experiences and preferences regarding outdoor events. Your input will help us understand what you enjoy and what we can improve for future events.

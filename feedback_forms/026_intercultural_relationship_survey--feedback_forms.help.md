@@ -1,7 +1,3 @@
-<thinking>
-The Intercultural Relationship Survey is a form designed to collect feedback and data from individuals about their experiences and interactions with people from diverse cultural backgrounds. This data can help inform and improve intercultural relationship initiatives and programs. Please make sure to complete this form only if you have had a meaningful interaction with someone from a different cultural background. 
-</thinking>
-
 # Intercultural Relationship Survey - Help Guide
 ## Purpose
 The Intercultural Relationship Survey is a tool to gather information about your experiences and interactions with people from diverse cultural backgrounds. Your input will help us better understand what works well and what could be improved in intercultural relationships.

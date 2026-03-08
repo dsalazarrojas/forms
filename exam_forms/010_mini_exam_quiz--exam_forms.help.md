@@ -1,9 +1,3 @@
-<thinking>
-The "Mini Exam Quiz" form is designed to test users' knowledge on specific topics by presenting a series of questions and scoring their answers.
-The form is not a formal assessment tool, and scores are not used for any official purpose.
-Before proceeding, ensure that you have not already taken this quiz, and that your answers are accurate and consistent with your actual knowledge.
-</thinking>
-
 # Mini Exam Quiz - Help Guide
 ## Purpose
 The Mini Exam Quiz form is a series of short questions designed to assess your knowledge on specific topics. It is meant to be a fun and interactive way to gauge your understanding of the subject matter.

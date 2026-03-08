@@ -1,7 +1,3 @@
-<thinking>
-This form is used to allow event attendees to register complaints about ticket pricing for specific events. The purpose of this form is to collect relevant information from the attendees to investigate and address their concerns. This form is not intended for general event registration or other types of complaints. Please make sure to only use this form for ticket pricing complaints and provide as much detail as possible to facilitate investigation.
-</thinking>
-
 # Ticket Pricing Complaint Form - Help Guide
 ## Purpose
 The Ticket Pricing Complaint Form is used to collect information from event attendees who have experienced issues with ticket pricing. This form is a crucial tool for event organizers to understand attendees' concerns and investigate these issues efficiently.

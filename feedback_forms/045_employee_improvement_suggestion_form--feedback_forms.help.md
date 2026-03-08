@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's consider the form purpose and requirements. This "Employee Improvement Suggestion Form" is designed to collect suggestions, ideas, and feedback from employees to help management understand their needs and improve work processes. To avoid redundancy, users are encouraged to submit only new and fresh ideas, avoiding repetition of previously suggested ideas. When completing the form, please be concise and to the point, providing enough information for the intended use. Each field has a specific purpose and requirements, which are outlined below.</thinking>
-
 # Employee Improvement Suggestion Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document employee suggestions, ideas, and feedback to aid management in improving work processes and addressing employee needs. To ensure relevance, please submit only new suggestions, and avoid duplicating ideas that have already been suggested.

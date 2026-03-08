@@ -1,20 +1,3 @@
-<thinking>
-
-This form is intended for vendors to select their set up time for an event. The form should be easy to fill out by vendors, and the explanation should be clear and concise. The form fields and options should be self-explanatory, and any unclear or ambiguous fields should be explained in this help guide.
-
-Upon reviewing the provided YAML, I noticed that the form has six fields:
-
-* "Vendor Set Up Time Selection" (page 1) is likely a header or introductory page.
-* "Select One Move In Time" (page 2) seems to ask the vendor to choose a time of day for their set up.
-* "Select Multiple Set Up Details" (page 3) asks the vendor to choose one or more options for their set up needs.
-* "Move In Date" (page 4) is a date field.
-* "Move In Time" (page 5) is likely a time field, possibly related to the move in time selected in the previous field.
-* "Date Time" (page 6) is a text field with no clear purpose, likely a leftover or duplicate field.
-
-To avoid duplication and ensure relevance, I recommend removing the "Date Time" field. The remaining fields should be self-explanatory, and I will focus on explaining each field's purpose and requirements in the help guide below.
-
-</thinking>
-
 # Vendor Set Up Time Selection - Help Guide
 ## Purpose
 This form is for vendors to select their set up time for an event. Please fill out the form to provide us with your preferences.

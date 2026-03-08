@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the Club Event Authorization Form is used correctly, please note that this form is only for club events. If you're not associated with a club, you may not be able to access this form. Also, please fill out the form only once for each event. Duplicating or submitting incomplete forms may cause delays in processing your authorization request.
-</thinking>
-
 # Club Event Authorization Form - Help Guide
 ## Purpose
 The Club Event Authorization Form is used by clubs to request authorization for events, ensuring that the event complies with relevant policies and guidelines. Fill out this form to get authorization for your event.

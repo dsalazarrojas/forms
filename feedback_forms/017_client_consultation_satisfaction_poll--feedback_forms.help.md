@@ -1,5 +1,3 @@
-<thinking>As we are constantly striving for excellence in our client services, we need to gauge our performance from the clients' perspective. This form is designed to collect feedback on various aspects of our consultation services, from the consultant's knowledge and professionalism to the comfort of our facility and the ease of scheduling appointments. This information will help us identify areas of improvement and ensure that our clients receive the best possible experience. It's essential that we don't duplicate any existing feedback, so please ensure that you fill out this form accurately and thoroughly. Thank you for taking the time to help us improve our services.</thinking>
-
 # Client Consultation Satisfaction Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback on our client consultation services, allowing us to gauge our performance and identify areas for improvement.

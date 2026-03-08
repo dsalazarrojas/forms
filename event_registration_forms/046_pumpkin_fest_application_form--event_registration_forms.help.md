@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended for users who are not familiar with the form and want to understand its purpose, how to complete it, and what each field means. The form is a registration form for the Pumpkin Fest event, and its main goal is to collect information from applicants who want to participate in the event. The form is divided into several sections, each with a specific purpose. The fields are designed to be clear and concise, with labels and hints provided to guide the user through the process.
 
 # Pumpkin Fest Application Form - Help Guide

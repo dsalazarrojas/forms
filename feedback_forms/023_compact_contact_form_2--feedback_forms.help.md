@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to provide feedback to the support team. We want to ensure that all feedback is accurate and non-duplication, hence we need to ensure users understand what the form is for and how to complete it correctly. This form should not be used for other purposes.
-</thinking>
-
 # Compact Contact Form 2 - Help Guide
 ## Purpose
 This form is designed for users to provide feedback, such as comments, suggestions, or complaints about our services. Your input is crucial in helping us improve and provide better services to you and our customers.

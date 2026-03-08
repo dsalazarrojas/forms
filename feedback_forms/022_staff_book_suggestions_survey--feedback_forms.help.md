@@ -1,15 +1,3 @@
-<thinking>... internal reasoning to create a user-facing help guide...
-
-This form is intended to collect book suggestions from staff members. To ensure that the form is completed correctly, please read through each field explanation carefully.
-
-This form is designed for staff members to provide their book suggestions. The goal is to collect a variety of book suggestions that can be used to inform purchasing decisions for the organization.
-
-To avoid duplicating suggestions, please check the current catalog before filling out this form.
-
-The form should be completed in a few steps:...
-
-</thinking>
-
 # Staff Book Suggestions Survey - Help Guide
 ## Purpose
 

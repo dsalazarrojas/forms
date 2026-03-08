@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect user feedback on the delivery experience. The form will collect information on the date and time of the delivery, the delivery team responsible for the delivery, the location of the delivery, and other relevant details. 
-This form is intended for users who want to report their delivery experience, provide feedback, and rate their satisfaction with the delivery service. 
-It is essential to fill out this form accurately and completely to ensure that the feedback is helpful and actionable.
-</thinking>
-
 # Delivery Experience Request Form - Help Guide
 ## Purpose
 

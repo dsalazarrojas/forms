@@ -1,17 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "prepaid_package_feedback_survey" form that explains its purpose, how to complete it, and each field's meaning. This form is designed to collect feedback from customers about their experience with a prepaid package, which is a product or service that is paid for in advance. We will ensure that the guide is concise, practical, and easy to understand.
-
-The form has a total of 25 fields, including text fields, select options, and number fields. We will explain each field's purpose and how to fill it out correctly.
-
-Before we start the guide, let's review the form schema:
-
-The form is divided into several sections, including:
-1. Form title and introduction (Field 1: form_title)
-2. Rating and feedback section (Fields 2-8)
-3. Contact information section (Fields 9-10)
-4. Rating and feedback questions (Fields 11-22)
-
-</thinking>
 # Prepaid Package Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with a prepaid package. Your feedback will help us understand your satisfaction with the package and identify areas for improvement.

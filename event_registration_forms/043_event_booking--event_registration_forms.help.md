@@ -1,20 +1,3 @@
-<thinking>
-This task is asking me to create a user-facing help guide for an "event_registration_forms" form, specifically the "event_booking" form. The form is likely used to book events, such as conferences or meetings. The purpose of the form is to gather information about the event, including the type, date, start and end times, venue, location, description, and status. The fields on this form are designed to capture the necessary details to create or update an event booking.
-
-The form has the following fields:
-
-*   Event Type: This is a select-one field that asks the user to choose the type of event (e.g., conference, meeting, workshop).
-*   Event Date: This is a date field that asks the user to input the date of the event.
-*   Event Start Time: This is a time field that asks the user to input the start time of the event.
-*   Event End Time: This is a time field that asks the user to input the end time of the event.
-*   Event Venue: This is a text field where the user can input the name of the event venue (e.g., conference hall, meeting room).
-*   Event Location: This is a text field where the user can input the location of the event (e.g., downtown area, park).
-*   Event Description: This is an optional text field where the user can provide a brief description of the event.
-*   Event Booking ID: This is an optional number field that is not used for any validation purpose. It is likely an auto-generated field for internal use.
-*   Event Status: This is a select-one field that asks the user to select the status of the event (e.g., active, inactive, pending).
-
-</thinking>
-
 # event_booking - Help Guide
 ## Purpose
 The "event_booking" form is used to book events, such as conferences or meetings. It gathers information about the event, including the type, date, start and end times, venue, location, description, and status.

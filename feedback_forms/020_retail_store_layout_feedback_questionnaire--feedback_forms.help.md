@@ -1,6 +1,3 @@
-<thinking>
-We will be using this Retail Store Layout Feedback Questionnaire to gather feedback from various departments and stakeholders in the organization. The purpose is to collect data on what works well in the store layout and what can be improved. We need to ensure that the form is completed accurately and without duplication, so please only submit one response per form ID. If you're unsure about a particular field or have any questions, don't hesitate to reach out to the form administrators.</thinking>
-
 # Retail Store Layout Feedback Questionnaire - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-  The form is designed to collect feedback from users on the performance and usability of the access control system, which is a critical component of the building's security and management infrastructure. The goal of this form is to gather insights from users on their experiences with the system, including its technical performance, user interface, and overall satisfaction. By providing feedback, users can help identify areas for improvement and suggest changes that can enhance the system's effectiveness and user experience. 
-  Before completing this form, please ensure that you have not already submitted feedback on this same topic. This form is intended to be a quick and straightforward way to provide feedback, and your responses will help us refine our access control system to better serve your needs and the needs of others.
-</thinking>
-
 # Access Control Feedback Form - Help Guide
 ## Purpose
 

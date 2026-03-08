@@ -1,7 +1,3 @@
-<thinking>
-Is the form used for collecting feedback from individuals who have undergone a body transformation program? The purpose of the form is to gather data on their experiences, successes, and challenges during the program. It's essential to ensure that this form is not completed by people who have not undergone the program to maintain the integrity of the data. Additionally, please check that you have not filled out this form before to avoid duplication of effort. If you're unsure if you have already completed this form, please review your recent activities and ensure you're not duplicating your response. After confirming that you're eligible and have not completed the form before, you can proceed.
-</thinking>
-
 # Body Transformation Feedback Form - Help Guide
 
 ## Purpose

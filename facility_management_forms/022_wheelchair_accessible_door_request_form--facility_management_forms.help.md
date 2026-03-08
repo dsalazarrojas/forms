@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect requests from users to make facilities more accessible to people with mobility impairments. This form helps staff identify and address wheelchair-accessible door requests in a timely and organized manner. To complete this form, users should ensure that all required fields are filled and that their request is accurately represented.
-</thinking>
-
 # Wheelchair Accessible Door Request Form - Help Guide
 ## Purpose
 The Wheelchair Accessible Door Request Form is a tool used to submit requests for making facilities more accessible to people with mobility impairments. This form helps staff to identify and prioritize requests for wheelchair-accessible doors and ensure that necessary modifications are made in a timely and organized manner.

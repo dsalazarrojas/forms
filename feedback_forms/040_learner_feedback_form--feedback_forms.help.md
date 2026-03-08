@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather feedback from learners, providing them with an opportunity to provide input on their learning experience. It is intended to be filled out after a learner has completed a project or test, and before they close their project or test. This form should only be filled out once for each project or test. 
-
-The form is not intended for learners who are not ready to provide feedback or are experiencing difficulties with a project or test. If a learner needs help or support, they should contact their instructor or a project administrator. 
-
-To complete this form, the learner must have a project or test closed.
-
-</thinking>
-
 # Learner Feedback Form - Help Guide
 
 ## Purpose

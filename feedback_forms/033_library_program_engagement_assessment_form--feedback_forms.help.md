@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather information from library program users about their engagement with the library program. This includes their attendance habits, overall rating of the program, and contact information. The internal purpose of this form is to help library staff better understand user engagement with the library's programs, which is essential for providing quality services and improving user experience. 
-
-To prevent form duplication, please note that this form should only be filled out once per user.
-
-</thinking>
-
 # Library Program Engagement Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information from library program users about their engagement and experiences with the library's programs.

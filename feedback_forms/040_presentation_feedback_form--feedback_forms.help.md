@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about a presentation, allowing presenters and organizers to receive input and insights on how to improve future presentations. This form should be used to gather opinions on various aspects of the presentation, including feedback for the presenter, suggestions for improvement, and ratings. It is not designed for immediate action or decision-making. This form has the following fields:
-
-</thinking>
-
 # Presentation Feedback Form - Help Guide
 ## Purpose
 The presentation feedback form is designed to collect feedback from users to help improve future presentations. It's meant for users to provide their honest opinion on the content, organization, and overall quality of the presentation.

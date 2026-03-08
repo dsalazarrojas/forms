@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to ensure form purpose and non-duplication check...
-
-The Grant Application Check In Form is used for tracking and verifying grant applications. This form collects various information related to the grant application process, including grant details, applicant information, and application status. Before proceeding, please ensure that you have a legitimate use case for the form and have not already completed this form for the same grant application. If you are unsure, please reach out to the relevant authority for confirmation. 
-
-</thinking>
-
 # Grant Application Check In Form - Help Guide
 ## Purpose
 The Grant Application Check In Form is used for tracking and verifying grant applications.

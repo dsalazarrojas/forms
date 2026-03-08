@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nonprofit Board Governance Practices Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about the board governance practices of a nonprofit organization. The goal is to assess the current state of the board's composition, meeting frequency and length, documentation, and attendance.

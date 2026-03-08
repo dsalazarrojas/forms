@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users about the image research specialist team's performance. The form is used to assess the quality of service provided by the specialist. The form is not intended to be filled out by specialists themselves, but rather by their managers or supervisors. This form should only be filled out once per specialist, and not for every interaction or project.
-</thinking>
-
 # image_research_specialist_feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users about the image research specialist team's performance.

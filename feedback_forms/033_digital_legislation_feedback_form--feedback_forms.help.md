@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on digital legislation, providing a platform for individuals to share their thoughts, concerns, and suggestions. It's essential to complete this form accurately and thoroughly to ensure that the feedback is helpful and actionable. Before starting, please ensure that you're not duplicating a submission, as this form is intended for new, unique feedback only. If you're unsure or have already submitted feedback on the same topic, please do not complete this form again.
-</thinking>
-
 # Digital Legislation Feedback Form - Help Guide
 ## Purpose
 The Digital Legislation Feedback Form is a tool for users to provide feedback on digital legislation. This form helps gather information on how users perceive and interact with digital legislation, which is essential for improving its effectiveness and user experience.

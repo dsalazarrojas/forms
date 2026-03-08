@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form for users to provide feedback on memorial planning. This form should not be used for other purposes. Please ensure that all feedback is submitted once and only once. This guide is intended for end-users who need to fill out the form.
-</thinking>
-
 # Memorial Planning Survey - Help Guide
 ## Purpose
 The Memorial Planning Survey is a form designed to gather feedback from users on memorial planning, allowing us to understand their preferences and needs for this service.

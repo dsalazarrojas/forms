@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # women_s_self_defense_course_feedback - Help Guide
 ## Purpose
 This form is used to collect feedback from students who have completed the women's self-defense course. It helps us understand their perception of the course's quality, instructor performance, and overall satisfaction. Please fill out this form to provide constructive feedback that will help us improve the course and provide better services to future students.

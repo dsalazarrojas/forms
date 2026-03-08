@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals interested in becoming a host or hostess at a restaurant. The form is intended to gather data on the applicant's contact information, availability, experience, education, language skills, work experience, emergency contacts, and other relevant details. This form is not intended for duplicate entries, so please fill it out carefully and accurately to avoid any inconvenience.
-
-</thinking>
-
 # Restaurant Host/Hostess Application Form - Help Guide
 ## Purpose
 This form is used to collect application information from individuals interested in becoming a host or hostess at a restaurant.

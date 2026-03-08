@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # menu_sequence_survey - Help Guide
 ## Purpose
 The menu sequence survey form is used to gather feedback on the sequence of menu items in a specific menu. This feedback is used to improve the menu's layout and content.

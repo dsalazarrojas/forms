@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: This form is designed to evaluate the timed accuracy of users on a given set of questions. It captures information about the user's performance on each question, including the time taken to answer, the correctness of the answer, and other related factors. The form is likely used to assess user expertise in a specific domain or subject matter. The "timed_accuracy_question_number" and "timed_accuracy_score_out_of" fields ensure that the user is only evaluated on a limited number of questions and that the maximum score is capped... </thinking>
-
 # Timed Accuracy Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate the timed accuracy of users on a given set of questions. It captures information about the user's performance on each question, including the time taken to answer, the correctness of the answer, and other related factors. This form is likely used to assess user expertise in a specific domain or subject matter.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Winter Apparel Feedback Survey is to gather end-users' opinions and feedback on their experience with winter apparel, including its quality, features, price, and overall satisfaction. The form aims to identify areas of improvement and provide insights for the brand to enhance its product offerings and customer experience. It's essential to fill out the form carefully, as it will help the brand better understand the end-user's needs and preferences. Please ensure that you have filled out the form only once, and if you need to update your feedback, please don't repeat the same response.
-</thinking>
-
 # Winter Apparel Feedback Survey - Help Guide
 ## Purpose
 The Winter Apparel Feedback Survey is designed to collect your opinions and feedback on your experience with winter apparel. Your input will help us better understand your needs and preferences, allowing us to improve our products and services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to track and document employee travel expenses. It captures relevant information such as travel dates, expense descriptions, expense amounts, expense types, and reimbursement information. This form is used for internal purposes to facilitate the approval process for employee travel expenses. It is essential to complete this form accurately and thoroughly to ensure that all necessary information is provided for reimbursement and to maintain accurate financial records. Please ensure that you are filling out a new form and not a duplicate. If you're unsure, check with your supervisor or the finance department.
-</thinking>
-
 # travel_expense_claim_form - Help Guide
 ## Purpose
 This form is used to track and document employee travel expenses.

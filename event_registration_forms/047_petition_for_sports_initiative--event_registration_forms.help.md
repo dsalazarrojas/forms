@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to register and submit a Petition For Sports Initiative, which is a request to organize a specific sport-related event. This form is likely used by event organizers to collect information about the event they wish to hold. 
-
-To complete this form, follow the instructions below.
-
-This form is likely to be completed by event organizers who want to propose a new sports event. However, it's possible that it could be used for other purposes as well, such as creating a new petition for an existing event. To determine if this form is relevant to your needs, consider the following:
-
-* Is the purpose of your petition to organize a sports-related event? If so, this form is likely relevant.
-* Are you an event organizer looking to collect information about a specific event? If so, this form is likely relevant.
-* Have you already submitted a similar petition in the past? If so, double-checking the information might not be necessary.
-
-</thinking>
-
 # Petition For Sports Initiative - Help Guide
 ## Purpose
 The Petition For Sports Initiative form is used to gather information about a new sports-related event. This includes details such as the event title, category, and location.

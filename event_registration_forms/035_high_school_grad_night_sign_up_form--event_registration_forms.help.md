@@ -1,7 +1,3 @@
-<thinking>
-We need to confirm that this form is relevant and not a duplicate of other forms used for this purpose within the organization. The form is intended for students and parents to sign up for an event related to high school graduation, such as a graduation night event. This form should gather information about the student, including their name, email, phone number, and graduation details. The organization should already have a similar form in place for event registration. This form will be used in conjunction with other forms and systems to track and coordinate event attendance. 
-</thinking>
-
 # High School Grad Night Sign Up Form - Help Guide
 
 ## Purpose

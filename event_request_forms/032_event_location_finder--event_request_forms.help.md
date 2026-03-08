@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an event location. The form is used to gather details about the event, such as the date, budget, guest count, venue type, event size, parking availability, and contact information of the planner and agency involved. This form is intended to be completed by event planners or coordinators to provide a comprehensive overview of the event location.
-
-The form is designed to be flexible and adaptable to different types of events. The "event_date" field allows for the selection of a specific date for the event, while the "event_budget" field allows for the entry of a budget for the event. The "guest_count" field enables the selection of the estimated number of guests attending the event. The "venue_type" field provides options for different types of venues such as ballrooms, bistros, catering spaces, and more. The "event_size" field allows for the selection of the size of the event, such as small, medium, large, or extra large. The "parking_available" field indicates whether parking is available at the venue. The "planner_name", "planner_phone", "planner_email", and "planner_note" fields collect contact information of the event planner. The "agency_name", "agency_phone", "agency_email", and "agency_note" fields collect contact information of the agency or organization involved in the event.
-
-The form is designed to be completed by event planners or coordinators to provide a comprehensive overview of the event location. This information will be used to facilitate communication and coordination between the event planner, agency, and other stakeholders involved in the event.
-
-</thinking>
-
 # Event Location Finder - Help Guide
 ## Purpose
 The Event Location Finder form is designed to collect information about an event location. This form is used by event planners and coordinators to provide a comprehensive overview of the event location, including date, budget, guest count, venue type, event size, parking availability, and contact information of the planner and agency involved.

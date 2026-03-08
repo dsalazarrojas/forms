@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "Local Attraction Satisfaction Assessment," is a set of questions designed to gauge visitors' satisfaction and perceptions of a local attraction. Its purpose is to collect feedback on various aspects of the attraction, such as staff service, facilities, and overall experience. By filling out this form, visitors can provide valuable insights that help the attraction's management identify areas of improvement and make informed decisions to enhance the visitor experience.
-
-To avoid duplication, we kindly request that visitors submit this form only once per visit.
-
-</thinking>
-
 # Local Attraction Satisfaction Assessment - Help Guide
 ## Purpose
 The Local Attraction Satisfaction Assessment is a set of questions designed to gauge visitors' satisfaction and perceptions of a local attraction. Its purpose is to collect feedback on various aspects of the attraction, such as staff service, facilities, and overall experience.

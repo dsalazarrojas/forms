@@ -1,5 +1,3 @@
-<thinking>...This form is for requesting adjustments to office furniture. Users should only use this form for legitimate reasons, such as reporting missing or damaged items. Duplicate or unnecessary requests will not be processed. Please ensure the form is filled accurately and completely before submission. The form can be accessed via [link to form]...</thinking>
-
 # Office Furniture Adjustment Request Form - Help Guide
 ## Purpose
 The Office Furniture Adjustment Request Form is a tool used to report and request adjustments to office furniture. This form helps ensure that any issues with office furniture are addressed promptly, and the office remains a comfortable and productive space for all employees.

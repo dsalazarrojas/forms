@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients after a group therapy session, allowing therapists to assess the effectiveness of their sessions and make improvements in their practice.
-The purpose of this form is to gather client feedback on the session's overall rating, rating of the therapist's performance, and client satisfaction with the session's quality. 
-This form helps therapists to track client feedback and make adjustments to improve future sessions. 
-Please note that all fields are optional, and the form is meant to be filled out by the client themselves. 
-The session ID and client name are optional but can be useful for tracking and referencing the session. 
-The session date and time are also optional but can help therapists keep track of sessions. 
-The form does not require a specific submission order, so clients can fill it out in any order they prefer.
-</thinking>
-
 # group_therapy_client_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect client feedback after a group therapy session. It helps therapists track client satisfaction and make improvements to their practice.

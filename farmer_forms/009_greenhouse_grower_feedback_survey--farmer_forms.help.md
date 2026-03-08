@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for farmers to provide feedback on their operations, challenges, and satisfaction with various sections of the greenhouse grower program. This form aims to collect data on the effectiveness of the program and identify areas for improvement. It is likely used for internal program evaluation and improvement. Please ensure this form is only used for its intended purpose and not for commercial use.
-
-</thinking>
-
 # Greenhouse Grower Feedback Survey - Help Guide
 ## Purpose
 This form is intended to gather feedback from farmers about their experience with our greenhouse grower program. Your input is valuable in helping us understand how to improve our services and make the program more effective.

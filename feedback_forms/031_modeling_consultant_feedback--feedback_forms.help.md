@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients or customers about the performance of a modeling consultant. The purpose of this form is to help the consultant identify areas for improvement and provide better service in the future. To fill out this form, users will be asked to provide their first name, last name, email, phone number, rating of the consultant's performance, rating of the project's quality, and any feedback they may have. Additionally, the form will ask users to rate their level of satisfaction with the consultant's communication skills. 
-
-</thinking>
-
 # Modeling Consultant Feedback - Help Guide
 ## Purpose
 This form is used to collect feedback from clients or customers about the performance of a modeling consultant.

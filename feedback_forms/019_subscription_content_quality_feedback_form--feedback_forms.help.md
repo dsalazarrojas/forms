@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect feedback on the quality of our subscription content. This form will help us understand what our customers think of our latest content and identify areas for improvement. By collecting feedback, we can refine our content creation process and better serve our audience. To prevent duplicate feedback, please only submit this form once after completing a recent viewing or engagement with our content.
-</thinking>
-
 # Subscription Content Quality Feedback Form - Help Guide
 
 ## Purpose

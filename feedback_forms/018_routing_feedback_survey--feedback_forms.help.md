@@ -1,7 +1,3 @@
-<thinking>
-We need to check if this form is being used by the right people and if they're not duplicating efforts. This form is meant to gather feedback from users about their routing experience, so only users with access to this form and those who have not recently submitted feedback should be able to access it. If a user has recently submitted feedback, they will be prompted to review and edit their previous submission before being able to submit again.
-</thinking>
-
 # Routing Feedback Survey - Help Guide
 ## Purpose
 The Routing Feedback Survey form is a tool to gather user feedback about their routing experience. This feedback will help us improve the performance and efficiency of our routing services.

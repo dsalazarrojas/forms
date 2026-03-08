@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect RSVPs from individuals in the entertainment industry for an upcoming gala event. This form is designed to gather information on the guest's event details, preferences, and any special requests they may have. The fields in this form are meant to be filled out by the guests themselves, ensuring that the organizers have an accurate headcount and can tailor the event according to the attendees' needs.
-</thinking>
-
 # entertainment industry gala rsvp - Help Guide
 ## Purpose
 This form is designed to collect RSVPs from individuals in the entertainment industry for an upcoming gala event. Please fill out this form to let us know if you will be attending and make any necessary arrangements.

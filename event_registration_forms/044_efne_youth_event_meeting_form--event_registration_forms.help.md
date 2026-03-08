@@ -1,10 +1,3 @@
-<thinking>
-This is a basic help guide for the EFNE Youth Event Meeting Form, designed for users who are not familiar with the form or need a quick reference. This form is used to collect information from team members about a specific meeting. It's not a form for general meetings, but rather for events related to the EFNE (Ejercicios Físicos Nativos y Escolares, which stands for Physical Native and Scouting Exercises) youth organization. 
-
-The form is divided into two sections: Team Member and Meeting Details. The form is not required, and users can fill it out voluntarily.
-
-</thinking>
-
 # EFNE Youth Event Meeting Form - Help Guide
 ## Purpose
 The EFNE Youth Event Meeting Form is used to collect information about a specific meeting related to the EFNE youth organization. It's designed for team members to report their attendance, meeting details, and other relevant information. 

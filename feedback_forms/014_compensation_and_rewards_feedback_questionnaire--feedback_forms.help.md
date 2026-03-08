@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the compensation and rewards program within the company. This form is meant to be filled out by employees to provide their honest opinions and suggestions on how to improve the program. It's essential to complete this form thoroughly and honestly to help the company understand the current state of the rewards program and make informed decisions to enhance it. Please make sure to answer the questions based on your personal experience and knowledge of the program. If you have already provided feedback on this topic, it's best to skip this form or discuss it with the admin before proceeding.
-</thinking>
-
 # Compensation And Rewards Feedback Questionnaire - Help Guide
 ## Purpose
 This form aims to gather feedback from employees on the current compensation and rewards program within the company. Your input will help us understand your opinions and suggestions to improve the program.

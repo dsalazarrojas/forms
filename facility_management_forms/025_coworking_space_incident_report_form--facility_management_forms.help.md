@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help employees report incidents that occur within the coworking space, allowing for swift action to be taken in response to any incidents. This form ensures that incidents are documented accurately and thoroughly, providing essential information for the Facility Manager to address the issue promptly. The form is designed to be completed by the person reporting the incident, who will be able to provide detailed information about what happened, including the date, time, location, and details of the incident. The Facility Manager will then be able to take appropriate action to resolve the issue.
-
-</thinking>
-
 # Coworking Space Incident Report Form - Help Guide
 ## Purpose
 This form is used to report incidents that occur within the coworking space, including accidents, injuries, or other events that may be of concern to facility management.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that end-users understand the purpose and context of the form to provide valuable feedback. This form is designed to gather information about product prototypes, specifically the title and description of the product, contact information, and category. This form will help us better understand the requirements and preferences of our customers, which will inform our product development process. 
-</thinking>
-
 # Product Prototype Inquiry Form - Help Guide
 
 ## Purpose

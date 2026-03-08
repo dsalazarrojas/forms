@@ -1,11 +1,3 @@
-<thinking>
-This form is for registering employees for industry conference time off, allowing them to request time off for attending conferences related to their industry. 
-The form is used to collect information about the employee's conference attendance, including the name of the conference, dates of attendance, conference location, and type of event. 
-The form also includes fields for employee ID, department ID, and manager approval. 
-Manager approval is required for all conference time off requests. 
-The form is designed to be completed by employees and reviewed by managers. 
-</thinking>
-
 # industry_conference_time_off_form - Help Guide
 ## Purpose
 This form is used to register employees for industry conference time off, allowing them to request time off for attending conferences related to their industry.

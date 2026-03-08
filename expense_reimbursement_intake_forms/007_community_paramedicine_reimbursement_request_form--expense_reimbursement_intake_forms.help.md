@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for paramedics and other employees of the Community Paramedicine Program to request reimbursement for expenses related to their work. This form is a one-time request for a single expense category. The form is designed to gather specific information from the employee to facilitate reimbursement process, and to prevent non-duplication of effort in the reimbursement process.
-
-The form is divided into several sections. The first section is a note that informs the user about submitting one form per expense category. The remaining sections collect information about the employee (name, employee ID, email, and phone number), the expense (date of occurrence, category, amount, description, and purpose), and the approval process (supervisor name and submission date).
-
-Before filling out this form, ensure that you have all necessary documents and information at hand, including a copy of the receipt, which can be attached to the form.
-
-</thinking>
-
 # Community Paramedicine Reimbursement Request Form - Help Guide
 ## Purpose
 This form is designed for Community Paramedicine Program employees to request reimbursement for work-related expenses.

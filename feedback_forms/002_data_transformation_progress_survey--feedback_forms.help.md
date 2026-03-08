@@ -1,5 +1,3 @@
-<thinking>Before diving into the detailed help guide, I want to clarify the purpose and context of this form. This is a "data_transformation_progress_survey" form, which is likely used to gather information about project progress, adoption, and feedback. The form appears to be designed to collect various metrics and comments about project completion, milestones, and other project-related details.</thinking>
-
 # data_transformation_progress_survey - Help Guide
 ## Purpose
 This form is used to collect information about project progress, adoption, and feedback. It helps to assess the current state of projects and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for gathering feedback about sports equipment used by users. The goal is to understand user satisfaction with the equipment, its quality, durability, and other aspects of their experience. This form will help in identifying areas of improvement for the equipment and providing better service to users. Before proceeding, please ensure that you have not filled out this form before, and that the information you provide is accurate and relevant. If you have any questions or concerns, you can contact our support team.
-</thinking>
-
 # Sports Equipment Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback about your experience with sports equipment. Your input will help us improve our products and services.

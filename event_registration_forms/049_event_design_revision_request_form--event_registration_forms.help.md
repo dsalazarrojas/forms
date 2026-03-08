@@ -1,8 +1,3 @@
-<thinking>
-The Event Design Revision Request Form is used to collect feedback and revisions from clients regarding event designs. It's intended for clients to express their thoughts on event designs, allowing event planners to make adjustments and improvements. The form should only be used for clients who have already received a draft event design. Please ensure that this form is not used for unsolicited requests or general feedback. This form will not be used for internal purposes, so please ensure that you only submit relevant and actionable feedback for event designers.
-
-</thinking>
-
 # Event Design Revision Request Form - Help Guide
 
 ## Purpose

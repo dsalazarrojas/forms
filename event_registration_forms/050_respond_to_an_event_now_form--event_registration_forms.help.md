@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from attendees to RSVP to an event. It is essential to fill out the form correctly to ensure accurate RSVP status and event details. To prevent duplication, only one form per attendee can be submitted. If a user submits multiple forms with the same email address, only the first submission will be recorded.
-
-</thinking>
-
 # Respond To An Event Now Form - Help Guide
 ## Purpose
 This form is intended for attendees to RSVP to an event by providing essential information about the event and themselves. The form helps to track RSVP status, event details, and attendee participation.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Presentation Peer Feedback Form - Help Guide
 
 ## Purpose

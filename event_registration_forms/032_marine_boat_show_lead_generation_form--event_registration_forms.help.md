@@ -1,7 +1,3 @@
-<thinking>
-Please note that the Marine Boat Show Lead Generation Form is used to collect information from potential attendees for the Marine Boat Show. This form should be used by people who are interested in attending the event, and by filling it out, they will be provided with more information about the event and potential follow-up communication. Please make sure to fill it out only once, as it is not intended for repeat submissions. The form collects general information about the attendee and their interest in the Marine Boat Show.
-</thinking>
-
 # Marine Boat Show Lead Generation Form - Help Guide
 ## Purpose
 This form is used to collect information from potential attendees of the Marine Boat Show, enabling us to provide them with more information about the event and follow-up communication.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the Church Event Catering Payment Form. It is a crucial step in processing payments for events such as the Annual Banquet or Women's Retreat. The form should only be filled out once per attendee to ensure accurate calculations and prevent duplicate entries. Ensure that you have filled out the entire form accurately and completely to avoid any issues with event registration.
-</thinking>
-
 # Church Event Catering Payment Form - Help Guide
 
 ## Purpose

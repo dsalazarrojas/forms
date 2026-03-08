@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers or guests who want to reserve a stay at a farm. This form will likely be used by farm administrators or staff to collect relevant details such as the start date, stay type, checkin and checkout dates, guest count, guest names, contact information (phone number and email), stay duration, any additional message, payment type, payment method, payment amount, and the farm name.
-</thinking>
-
 # Farm Stay Reservation Form - Help Guide
 ## Purpose
 This form is designed to help farm administrators or staff collect necessary information from customers or guests who wish to book a stay at a farm. It provides a convenient and organized way to gather details such as dates, stay preferences, contact information, and payment details.

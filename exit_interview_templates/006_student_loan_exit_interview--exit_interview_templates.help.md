@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from students after they have completed their studies and are exiting their loan agreements. The purpose of this form is to gather essential details about the student's loan experience, including their graduation date, employment details, and any outstanding payments or arrangements. This information will help the institution or lender to better understand the student's post-graduation journey and provide necessary support.
-</thinking>
-
 # Student Loan Exit Interview - Help Guide
 ## Purpose
 The Student Loan Exit Interview form is a crucial tool for students to provide information about their loan experience after graduation. This form helps the institution or lender to understand the student's post-graduation journey, including their employment status, graduation date, and any outstanding payments or arrangements.

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for end-users to provide their feedback on our shipping service. The form is meant to be a simple and straightforward way to gather customer opinions and suggestions. We want to understand how our customers perceive our shipping service and use this feedback to improve our operations. We encourage customers to be honest and detailed in their feedback, so we can provide the best possible service to them.
-
-The form is not meant to be a survey or a test, but rather an opportunity for our customers to share their genuine thoughts and feelings about their shipping experience. By completing this form, customers are helping us to identify areas of improvement and refine our services to better meet their needs.
-</thinking>
-
 # Customer Shipping Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather your thoughts and opinions about our shipping service. We value your feedback and use it to improve our operations and provide a better experience for you and all our customers.

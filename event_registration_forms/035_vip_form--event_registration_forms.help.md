@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # VIP Form - Help Guide
 ## Purpose
 The **VIP Form** is used to collect registration information from guests attending exclusive events. This form ensures that event organizers can efficiently register and manage their attendees' details.

@@ -1,13 +1,3 @@
-<thinking>
-To create a help guide for the "Speech Writing Volunteer Application Form", we need to consider the form's purpose, which is to collect information from potential volunteers who want to contribute to speech writing projects. The form is designed to gather details such as volunteer application, personal details, contact information, speech writing preferences, availability, experience, languages, special skills, available dates, volunteer shifts, volunteer hours, speech writing rate, volunteer start and end dates, reference, email, and additional information.
-
-To ensure that the form serves its intended purpose, it's essential to understand that the fields are not mutually exclusive, and each section should be filled out based on the volunteer's actual experiences and preferences. 
-
-The purpose of the form is to get a comprehensive overview of the volunteer's capabilities and interests, which will help us to determine their suitability for speech writing projects.
-
-Before filling out the form, please review the sections carefully and ensure that you answer all required fields (marked as "required" in the form). If you have any questions or need clarification on any section, feel free to reach out to us.
-</thinking>
-
 # Speech Writing Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential volunteers who want to contribute to speech writing projects. It helps us to determine their suitability and gather details that are essential for the volunteer role.

@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Exit Ticket - Help Guide
+> # Exit Ticket - Help Guide
 
 ## Purpose
 The purpose of this form is to provide feedback on students' performance and understanding during a course. It helps teachers evaluate the effectiveness of the course and identify areas for improvement. This feedback form is designed to be completed by students and submitted to the teacher after the course completion.

@@ -1,10 +1,3 @@
-<thinking>
-This guide is for the "Retail Security Guard Entrance Exam Registration" form, which is used to collect information from individuals who want to take the retail security guard entrance exam. This form is designed to be completed by potential candidates who want to register for the exam.
-
-Before starting, please ensure that you have not already registered for the exam, as this form is not a duplicate registration form. If you are unsure about your eligibility or have already registered, please contact the exam administrators before proceeding.
-
-</thinking>
-
 # Retail Security Guard Entrance Exam Registration - Help Guide
 
 ## Purpose

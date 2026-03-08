@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the State Seal Design Feedback form effectively. 
-The form is meant to gather feedback from users regarding the design of a state seal, which is a symbol that represents the state or region. This feedback will be used to inform and improve the design of the state seal.
-</thinking>
-
 # State Seal Design Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from users regarding the design of a state seal, which will be used to inform and improve the design.

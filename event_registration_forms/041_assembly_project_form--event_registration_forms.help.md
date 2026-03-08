@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an assembly project. It is intended for project managers, team leaders, or other stakeholders to gather essential details about the project, including its name, start and target completion dates, team members, materials and tooling requirements, budget, and current status. This form aims to streamline project management and tracking processes.
-</thinking>
-
 # Assembly Project Form - Help Guide
 ## Purpose
 This form is used to collect and record crucial information about an assembly project, enabling project managers and team leaders to track and manage project progress and resources effectively.

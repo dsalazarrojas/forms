@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Suicide Prevention Feedback Form - Help Guide
 
 ## Purpose

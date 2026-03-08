@@ -1,9 +1,3 @@
-<thinking>
-
-The LLC Extension Request Form is used to request an extension for an LLC (Limited Liability Company) in [insert context, e.g., tax purposes]. When filling out this form, please ensure that you have all necessary information and documents ready, and that you have not submitted a similar request in the past. If you are unsure about any field, please review the relevant regulations or consult with our office.
-
-</thinking>
-
 # LLC Extension Request Form - Help Guide
 ## Purpose
 The LLC Extension Request Form is used to request an extension for an LLC in [insert context, e.g., tax purposes]. To be eligible for an extension, please ensure that you have a valid reason for the extension and that all required documents are attached.

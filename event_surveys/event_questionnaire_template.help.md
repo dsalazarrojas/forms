@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees on a recent event, with the aim of improving future event experiences. It's essential to complete this form accurately to provide valuable insights to event organizers. To ensure the collected data is helpful, please note that you should only fill this form if you attended the event. If you did not attend, your responses might not be relevant, and your answers might not reflect the actual event. Please do not duplicate the responses with the same content; each submission should contain unique feedback.
-</thinking>
-
 # event_questionnaire_template - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees on a recent event.

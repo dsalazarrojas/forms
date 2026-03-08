@@ -1,7 +1,3 @@
-<thinking>
-The form "tech-conference-speaker-award-nomination" is intended to collect information for a speaker award nomination, which can be completed by anyone who wants to nominate a deserving speaker at a tech conference. This form is designed to collect the necessary details about the nominee and the reason for the nomination. Please ensure that you only complete this form for a valid reason, such as recognizing an outstanding contribution to the tech industry or an exceptional speaking performance. You can complete this form multiple times if you want to nominate multiple speakers.
-</thinking>
-
 # tech-conference-speaker-award-nomination - Help Guide
 ## Purpose
 This form is designed to collect information for a speaker award nomination, which can be completed by anyone who wants to nominate a deserving speaker at a tech conference.

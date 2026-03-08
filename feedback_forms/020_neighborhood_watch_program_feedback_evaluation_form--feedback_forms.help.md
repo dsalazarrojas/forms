@@ -1,8 +1,3 @@
-<thinking>
-As a form designer and technical writer, I understand the importance of creating a user-friendly help guide that effectively communicates the purpose and expectations of the form to end users. The Neighborhood Watch Program Feedback Evaluation Form is designed to gather feedback and suggestions from community members about their experiences and perceptions of the Neighborhood Watch Program. This form aims to capture their opinions on the program's effectiveness, areas for improvement, and any suggestions they may have. To ensure that users complete the form accurately, I will provide a clear and concise explanation of the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Neighborhood Watch Program Feedback Evaluation Form - Help Guide
 ## Purpose
 The Neighborhood Watch Program Feedback Evaluation Form is designed to collect your thoughts and opinions on the Neighborhood Watch Program. Your feedback will help us understand how to improve the program to better serve our community.

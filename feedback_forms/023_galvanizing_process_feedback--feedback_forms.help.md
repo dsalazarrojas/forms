@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather feedback from users about the galvanizing process, including any issues encountered, satisfaction ratings, and cost and production details. This form is designed to collect data on the performance of the galvanizing process, which can be used to identify areas for improvement and optimize the process. To ensure accurate and comprehensive data collection, please fill out this form thoroughly and truthfully.</thinking>
-
 # Galvanizing Process Feedback - Help Guide
 ## Purpose
 The Galvanizing Process Feedback form is designed to gather information on the galvanizing process, including issues, satisfaction, and production details. This data helps identify areas for improvement and optimizes the process.

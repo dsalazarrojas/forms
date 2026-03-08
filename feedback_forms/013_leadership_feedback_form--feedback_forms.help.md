@@ -1,7 +1,3 @@
-<thinking>Here's a brief internal reasoning block to help us understand the form purpose and context:
-
-This form is designed to collect feedback from employees on leadership performance. The form is intended to be completed by employees who want to provide constructive feedback on their leadership team members, including CEOs, Managers, and Team Members. The feedback will help identify areas of improvement and facilitate open communication within the organization. The form is not intended for formal reporting or disciplinary actions, but rather for informal feedback and growth opportunities. Please ensure that the form is only used for genuine feedback purposes and not for personal complaints or grievances.</thinking>
-
 # Leadership Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on leadership performance from employees. This form is a platform for open communication, allowing employees to express their thoughts and suggestions on how their leaders can improve.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students about their experience in the graduate program at [University Name]. The purpose of this form is to gather information about the quality of service provided to students, their satisfaction with the program, and any comments or suggestions they may have.
-
-To ensure the form is filled out correctly, check that you have all the necessary permissions and that this form is relevant to your role.
-
-</thinking>
-
 # graduate_student_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their experience in the graduate program at [University Name].

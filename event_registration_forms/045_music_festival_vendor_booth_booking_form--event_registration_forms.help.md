@@ -1,29 +1,3 @@
-<thinking>
-
-This form is intended for vendors to book a booth at a music festival. The purpose of this form is to collect vendor information, preferences, and payment details. This form is used to streamline the vendor registration process and ensure that all necessary information is provided to the festival organizers. 
-
-The following fields are required to be filled in order to proceed with the registration: 
-- Booth Location
-- Vendor Name
-- Vendor Address
-- Email
-- Phone
-- Booth Type
-- Booth Size
-- Vendor Services
-- Payment Method
-- Tax ID
-- Vendor License
-- Payment Terms
-- Terms of Agreement
-- Terms of Service
-- Terms of Payment
-- Review Policy
-
-The rest of the fields are optional but are used to provide additional information or preferences.
-
-</thinking>
-
 # Music Festival Vendor Booth Booking Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for vendor registration for the music festival. Fill out the form to provide your booth information, preferences, and payment details.

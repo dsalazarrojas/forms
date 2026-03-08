@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on a variety of subjects. This form is designed to gather information on a wide range of questions, including but not limited to demographics, preferences, and opinions.
-It is recommended that you complete this form only once. If you have already completed this form in the past, it will not ask you to complete it again.
-Please note that this form contains sensitive data collection fields, and your responses will be kept confidential.
-</thinking>
-
 # Subject Matter Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on a variety of subjects.

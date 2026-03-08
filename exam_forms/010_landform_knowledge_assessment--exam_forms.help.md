@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for assessing knowledge about landforms, possibly for educational or research purposes. The form might be used to collect information about landforms, such as understanding of various landform types, their characteristics, and their relationships. It's possible that this form is part of a larger assessment or evaluation system. However, without more context, it's unclear what specific landforms are being assessed or what specific knowledge is being evaluated. The form appears to be quite comprehensive, covering a range of fields such as multiple-choice questions, text answers, and scoring. It's possible that the form is used in an academic or professional setting, such as in geography or environmental science courses.
-</thinking>
-
 # landform_knowledge_assessment - Help Guide
 ## Purpose
 This form is designed to assess your knowledge about landforms. It consists of multiple sections and fields that ask you to provide information and answers related to landforms.

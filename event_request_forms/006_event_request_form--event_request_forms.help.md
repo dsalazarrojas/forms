@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for event requests. To ensure that your request is processed efficiently, please fill out the form accurately and thoroughly. Before submitting, make sure you have checked the fields for any errors or missing information. This will help the event organizer process your request quickly and correctly. 
-</thinking>
-
 # Event Request Form - Help Guide
 ## Purpose
 The Event Request Form is designed to collect information for event requests. To use this form, fill out the fields accurately and thoroughly.

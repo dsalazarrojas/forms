@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants of an individual strategy lab, providing an opportunity for them to share their thoughts and opinions on the experience. The form is intended to help us understand their satisfaction and any suggestions or comments they may have. We encourage participants to provide detailed and specific feedback, as it will help us improve our services and make the lab experience more valuable for everyone.
-</thinking>
-
 # Individual Strategy Lab Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from participants of an individual strategy lab, allowing us to gather their opinions and suggestions for improvement.

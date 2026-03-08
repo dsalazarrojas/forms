@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supervisor Observation Feedback Report Form - Help Guide
 ## Purpose
 The Supervisor Observation Feedback Report Form is used by supervisors to provide feedback to employees, peers, or students on their performance, behavior, or progress. This form helps gather constructive feedback to support professional development, address performance issues, or recognize outstanding performance.

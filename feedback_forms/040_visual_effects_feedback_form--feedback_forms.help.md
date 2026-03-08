@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Visual Effects Feedback Form - Help Guide
 
 ## Purpose

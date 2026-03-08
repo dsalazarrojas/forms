@@ -1,5 +1,3 @@
-<thinking>... internal logic is used to determine if the form is relevant, i.e. the participant has an active program and has not yet been terminated, and has not already completed the program termination acknowledgment form. If the participant's program status changes or they are already terminated, they will not be presented with this form...</thinking>
-
 # Program Termination Acknowledgment - Help Guide
 ## Purpose
 This form is used to acknowledge the participant's program termination, ensuring that all required information is captured and that the participant is aware of their program status change.

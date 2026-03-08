@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback on curbside service experiences. It allows customers to provide ratings and comments on the service they received. The purpose of this form is to gather data on the effectiveness and quality of curbside service, which can help us improve our services and better meet customer needs. To ensure that the feedback collected is valuable, please complete the form only if you have a genuine experience to share.
-
-Before filling out the form, please note that all fields are optional unless explicitly marked as required. If you're unsure about any field or have any questions, feel free to ask.
-
-Please ensure that you have the necessary permissions to access the contact information of the customer, as some fields may require it.
-
-Also, please be aware that some fields may have specific formatting requirements, such as date and time formats. If you're unsure about the formatting, please follow the examples provided in the form.
-
-This form is designed to be completed by customers and employees of the service provider. If you're an employee, please ensure that you're using the correct contact information of the customer to avoid any confusion.
-</thinking>
-
 # curbside_service_customer_feedback - Help Guide
 ## Purpose
 This form is designed to collect customer feedback on curbside service experiences. It allows customers to provide ratings and comments on the service they received, which helps us improve our services and better meet customer needs.

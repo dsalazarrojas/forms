@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Fountain Inspection Checklist" form, I'll start by understanding the form's purpose and requirements. The form is designed to collect information about the status of a fountain, specifically its water quality, maintenance needs, and safety issues. It's likely used by facilities management teams to perform regular inspections of fountains and record their findings.
-
-The form includes 11 fields, each asking for different types of information. To ensure that this form is completed correctly, it's essential to understand each field's meaning and purpose.
-
-</thinking>
-
 # Fountain Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to help facilities management teams conduct regular inspections of fountains and record their findings. It ensures that the fountain is in good working order and identify potential maintenance needs or safety issues.

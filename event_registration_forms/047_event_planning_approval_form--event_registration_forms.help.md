@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to obtain approval for event planning from relevant stakeholders. 
-The form is designed to guide users through a series of questions related to event planning, ensuring that all necessary information is captured and approved before proceeding with event execution. This form should only be used for event planning purposes and not for any other use case, as it is specifically designed to address event planning concerns. It's worth noting that the form is structured in a way that is easy to understand and fill out, with clear labels and instructions for each field.
-</thinking>
-
 # Event Planning Approval Form - Help Guide
 ## Purpose
 The Event Planning Approval Form is designed to obtain approval for event planning from relevant stakeholders. This form ensures that all necessary information is captured and approved before proceeding with event execution.

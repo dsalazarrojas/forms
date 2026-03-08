@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from agricultural consultants for estimation purposes. It is intended to be filled out by consultants to provide an estimate of their services for clients. The form includes a range of fields that ask for details about the consultant, client, farm, and services offered. The fields are meant to capture specific information necessary for the consultant to provide a clear and accurate estimate of their work. 
-The main purpose of the form is to facilitate communication and transparency between consultants and clients. It helps consultants provide an estimate of the work involved and the expected cost. This form does not require any additional information that is not directly relevant to the consulting services offered. 
-This form is designed to be filled out once a consultation visit or project is initiated. 
-</thinking>
-
 # Agricultural Consultant Estimate Form - Help Guide
 
 ## Purpose

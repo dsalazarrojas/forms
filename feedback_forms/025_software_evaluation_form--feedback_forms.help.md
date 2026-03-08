@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "software_evaluation_form" that is clear, concise, and practical. The form is used for software evaluation, and we want to ensure that end users understand its purpose, how to complete it, and what each field means. The form has 14 fields, including text, number, select_multiple, time, note, email, text, select_one, text, text, date, and date fields. We need to carefully consider the meaning and requirements of each field to provide the best possible explanation.
-
-To start with, let's break down each field into its core components and determine the best possible explanation for each. 
-
-</thinking>
-
 # software_evaluation_form - Help Guide
 ## Purpose
 The "software_evaluation_form" is a form designed to collect feedback and evaluation data from users about software they've used. This form is used to gather information on overall ratings, features used, ease of use, and contact information. It's essential to provide clear and concise feedback to help software developers improve their products.

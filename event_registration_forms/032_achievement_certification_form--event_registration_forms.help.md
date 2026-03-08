@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose and usage of the Achievement Certification Form. The form is designed to collect information for issuing achievement certificates, ensuring that all necessary details are captured accurately.
-</thinking>
-
 # Achievement Certification Form - Help Guide
 ## Purpose
 The Achievement Certification Form is a tool used to collect relevant details for issuing achievement certificates. It captures the recipient's information, achievement title, date of award, issuing body, and other essential details required to create a comprehensive certificate.

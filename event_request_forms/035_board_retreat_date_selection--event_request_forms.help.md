@@ -1,8 +1,3 @@
-<thinking>
-This form is used for board members to select their availability for a retreat, indicating their preferred dates, accommodation needs, dietary requirements, and travel assistance needs. This form serves as a planning tool for the board to organize the retreat effectively. Before filling out this form, please ensure you have not already completed it, as duplicate entries can lead to confusion during the planning process.
-
-</thinking>
-
 # Board Retreat Date Selection - Help Guide
 
 ## Purpose

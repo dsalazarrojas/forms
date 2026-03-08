@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? It seems to be a form for gathering feedback and performance reports on products, but I need to confirm. The form title suggests it's for product improvement, but the fields suggest it's more about feedback and reporting. I'll assume it's a form for customers or users to provide feedback on products, and the form will help us improve or address their concerns. I will not assume any specific business logic or processes that are not explicitly mentioned in the form fields.</thinking>
-
 # Product Improvement Performance Report Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and performance reports from customers or users on products. Your input will help us understand your concerns and needs, which will guide our efforts to improve our products.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Quality Score Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I've reviewed the provided YAML and extracted the necessary information to create a comprehensive user-facing help guide for the "Parent Teacher Organization Guidelines Feedback" form. This guide will walk users through the form's purpose, explain how to complete it, and provide field-by-field explanations to ensure they understand each section's significance.</thinking>
-
 # Parent Teacher Organization Guidelines Feedback - Help Guide
 ## Purpose
 The "Parent Teacher Organization Guidelines Feedback" form is designed to gather valuable feedback from parents and teachers on the clarity, effectiveness, and overall user experience of the parent-teacher organization guidelines. This feedback will help the school's administration identify areas for improvement and make informed decisions to enhance the guidelines and provide a better experience for all stakeholders.

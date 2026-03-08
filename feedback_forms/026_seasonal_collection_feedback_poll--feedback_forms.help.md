@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seasonal Collection Feedback Poll - Help Guide
 ## Purpose
 

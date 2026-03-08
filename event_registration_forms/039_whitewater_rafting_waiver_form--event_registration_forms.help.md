@@ -1,6 +1,3 @@
-<thinking>
-Before designing the help guide, let's quickly review the form purpose and ensure it's not a duplicate. The Whitewater Rafting Waiver Form appears to be a standard waiver form for participants to consent to their participation in whitewater rafting activities, providing personal and medical information, and acknowledging certain risks. To confirm, is this form intended for whitewater rafting events or activities, and is there a specific group or organization associated with this form (e.g., a company, school, or organization)? Also, please confirm that the form is not a duplicate and that we won't be creating a new help guide for an existing form.</thinking>
-
 # Whitewater Rafting Waiver Form - Help Guide
 
 ## Purpose

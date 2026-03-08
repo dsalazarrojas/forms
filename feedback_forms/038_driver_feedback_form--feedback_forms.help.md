@@ -1,6 +1,3 @@
-<thinking>
-This form is used to gather feedback from customers about their experience with a driver. The form is typically filled out by customers after a ride has been completed. The feedback form is designed to be completed by a single customer, and it is not intended to be filled out by multiple people at the same time. It's best to fill out the form immediately after the ride, while the experience is still fresh in your mind. If you have completed multiple rides with the same driver, please use this form for each ride separately.</thinking>
-
 # driver_feedback_form - Help Guide
 ## Purpose
 This form is used to gather feedback from customers about their experience with a driver. Fill out this form to share your thoughts and opinions on the service, cleanliness, communication, and overall satisfaction with the driver.

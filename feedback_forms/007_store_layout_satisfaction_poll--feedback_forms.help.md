@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their satisfaction with the store's layout. The purpose is to help the store improve its layout to better serve customers. This form is likely to be used by customers who have visited the store and want to provide their input. It is likely that the store has previously collected similar feedback to identify areas for improvement.
-
-It's worth noting that the form is not required and customers can choose not to answer any of the questions or questions they do not want to answer. Also, the form is likely to be used as one-time feedback, not as a recurring form, based on the fact that it has no required questions. 
-</thinking>
-
 # Store Layout Satisfaction Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their satisfaction with the store's layout. The purpose is to help the store identify areas for improvement and make informed decisions about the design and organization of the store.

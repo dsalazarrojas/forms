@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help us gather feedback from users on educational kits, ensuring we provide valuable resources to our customers. Before proceeding, please confirm that you're filling this form to give feedback on a specific educational kit, and that you're not duplicating your submission. This survey is meant to be a quick and concise way to provide your opinions and suggestions. 
-</thinking>
-
 # Educational Kit Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your thoughts on educational kits. We appreciate your honest feedback, which will help us improve our kits to better serve you and others.

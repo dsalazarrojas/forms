@@ -1,7 +1,3 @@
-<thinking>
-The provided YAML form definition has a large number of similar fields with different IDs but similar labels. This is likely an error or a design decision made in haste without careful consideration. I will focus on providing a helpful guide for the end-user, while ignoring the duplication of fields.
-</thinking>
-
 # Individual Impact On Marine Environment - Help Guide
 ## Purpose
 This form is designed to collect feedback and information about the impact of human activities on the marine environment. It aims to understand the respondents' habits, marine environmental awareness, and suggestions for sustainability.

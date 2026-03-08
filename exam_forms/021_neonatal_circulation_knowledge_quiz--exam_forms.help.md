@@ -1,6 +1,3 @@
-<thinking> 
-The provided form is intended to assess the knowledge of healthcare professionals, specifically those in the neonatal care field, on various aspects of neonatal circulation. The form is structured into multiple pages with different types of questions, including text input, multiple-choice select_one, and select_multiple options. The purpose of this form is to gauge the understanding of clinicians in the field of neonatal circulation, likely for training or certification purposes. It is essential to ensure that the form is completed accurately, as the responses will be used to evaluate the knowledge of the respondents. This guide will walk you through each field in the form to help you complete it effectively.</thinking>
-
 # Neonatal Circulation Knowledge Quiz - Help Guide
 ## Purpose
 The Neonatal Circulation Knowledge Quiz is designed to assess the understanding of healthcare professionals on various aspects of neonatal circulation. It consists of multiple pages with different types of questions to gauge your knowledge in this field.

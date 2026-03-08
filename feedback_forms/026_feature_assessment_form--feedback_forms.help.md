@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess the features of a product or service. It is used to gather information about the features' priority, impact, and business value, as well as the product owner, stakeholders involved, business risks, and cost of changes. The form is meant to be completed by product managers or development teams to document and review the features' characteristics.
-
-To determine the relevance and non-duplication of the form, consider the following questions:
-- Are all the features being assessed being developed or considered for development?
-- Are all the relevant stakeholders involved in the assessment process?
-- Is the form being used for a specific product or product line, or is it a general assessment template?
-
-If the form is being used for a specific product or product line, it is essential to ensure that only relevant features are being assessed and that the correct stakeholders are involved in the process.
-</thinking>
-
 # Feature Assessment Form - Help Guide
 ## Purpose
 The Feature Assessment Form is used to document and review the features of a product or service, gathering information about their priority, impact, and other important characteristics.

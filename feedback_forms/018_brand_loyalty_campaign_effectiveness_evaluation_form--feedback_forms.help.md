@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Brand Loyalty Campaign Effectiveness Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help evaluate the effectiveness of a brand loyalty campaign. It will guide you in assessing the campaign's reach, engagement, and conversion impact, as well as gathering feedback for future improvements.

@@ -1,9 +1,3 @@
-<thinking>Internal use cases for this form include:
-- This form will be used as a survey invitation and consent form to gather participant information and obtain their consent for participation in a research study.
-- The form collects general contact information, participant survey details, and additional comments for researchers.
-- It is not intended for internal usage; this is a public-facing form.
-</thinking>
-
 # survey_invitation_consent_form - Help Guide
 
 ## Purpose

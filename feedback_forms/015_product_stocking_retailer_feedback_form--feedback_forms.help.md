@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from retailers on their experience with the product stocking process. The form is intended to gather information on various aspects of the retailer's experience, including stocking issues, ordering experience, delivery issues, promotional needs, communication channels, frequency of contact, feedback on stocking, ordering, and delivery, and other relevant details such as email, phone number, and notes. The form is meant to be completed by the retailer to provide valuable insights that can be used to improve the product stocking process. It's essential to fill out this form completely and accurately to ensure that your feedback is captured correctly.
-
-Before starting, please note that this form is designed to be completed by retailers who have had experience with the product stocking process. If you are a retailer who has not yet stocked the product, this form is not intended for you.
-
-Also, please ensure that you have filled out all the required fields correctly. If you have any issues or difficulties while filling out the form, please don't hesitate to contact us for assistance.
-
-</thinking>
-
 # Product Stocking Retailer Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from retailers on their experience with the product stocking process. Your input will help us to identify areas for improvement and enhance the overall experience for all our valued customers.

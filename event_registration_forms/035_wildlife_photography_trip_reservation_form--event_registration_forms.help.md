@@ -1,7 +1,3 @@
-<thinking>
-The Wildlife Photography Trip Reservation Form is designed to collect information from participants for a wildlife photography trip. This form is intended for individuals who wish to join the trip and provides the necessary details for the trip organizers to process the registrations and facilitate the event. Before proceeding, please check if you have already submitted your registration form, as duplicate submissions may cause confusion and delay the processing of your application. Ensure that you fill out the form accurately and completely, as any missing or incorrect information may lead to rejection of your registration.
-</thinking>
-
 # Wildlife Photography Trip Reservation Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information from participants for the Wildlife Photography Trip.

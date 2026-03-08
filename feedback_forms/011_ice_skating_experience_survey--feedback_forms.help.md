@@ -1,15 +1,3 @@
-<thinking>
-
-This is a help guide for the "Ice Skating Experience Survey" form. The form is designed to capture information about ice skating experiences, including details about the skater, their ice skate equipment, and other relevant information. 
-
-This form is intended for both internal and external use, but it's likely that the form will be used by customers or clients of an ice skating rink or organization. The form is meant to gather feedback and data about ice skating experiences, which can be used to improve services, products, or experiences offered by the organization. 
-
-It's possible that some questions may be redundant or unnecessary, but the form has been designed with the intention of collecting comprehensive data about ice skating experiences. 
-
-The form has a mix of text fields, select options, and notes fields, which is intended to capture a range of information types. Before filling out the form, please make sure that the information you provide is accurate and relevant to the topic of ice skating experiences. If you are unsure about any of the questions, please contact us for clarification. 
-
-</thinking>
-
 # Ice Skating Experience Survey - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is used for participants to request permission to attend, present, and take notes at skill development sessions. The form helps the organizers verify the participant's identity, contact information, and permissions before granting access to the sessions. This form is intended for internal use within the company and is not intended for external sharing or distribution.
-
-The form will be used in conjunction with other systems, so make sure to fill it out accurately and completely.
-
-To prevent duplication, please ensure that you are not submitting the same form multiple times. If you have already registered for a session, please do not register again.
-</thinking>
-
 # Skill Development Session Permission Form - Help Guide
 ## Purpose
 The Skill Development Session Permission Form is designed to help us verify your identity and contact information to grant you permission to attend, present, and take notes at our skill development sessions.

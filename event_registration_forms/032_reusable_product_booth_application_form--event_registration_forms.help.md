@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow vendors to register for a reusable product booth, which is a common feature at trade shows and events. The form should only be filled out once per event or per product. Vendors who have already registered for a previous event with this company should not need to fill out this form again.
-</thinking>
-
 # Reusable Product Booth Application Form - Help Guide
 ## Purpose
 This form is designed to provide event organizers with necessary information about vendors who want to exhibit at a trade show or event.

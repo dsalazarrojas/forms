@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback on consulting delivery quality from clients. The purpose of this form is to gather information on the quality of work, timeliness of delivery, and overall experience with the consultancy. Feedback from clients is essential for consultants to improve their services and provide better value to future clients.
-
-This form is not intended to be duplicated or used as a template for other purposes. Its original creation and adaptation from public metadata are acknowledged, and it is released under the Creative Commons BY 4.0 license.
-
-</thinking>
-
 # Consulting Delivery Quality Survey - Help Guide
 ## Purpose
 

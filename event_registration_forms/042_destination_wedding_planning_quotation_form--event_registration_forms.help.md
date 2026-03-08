@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I want to make sure that the form purpose is clear and that the form is being used correctly. This form is intended to help event planners create quotations for destination weddings. The form is used to gather information about the event, including the couple's name, event date, start and end times, location, number of guests, contact information, event type, venue, and description. The form also asks for estimated costs and budget. The purpose of this form is to streamline the process of creating quotations for event planners, so they can get accurate information from the couple and provide a professional quote for their services.</thinking>
-
 # Destination Wedding Planning Quotation Form - Help Guide
 ## Purpose
 This form is used to create a quotation for a destination wedding. It helps event planners gather information about the couple's event and provides a professional quote for their services.

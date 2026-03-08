@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # counseling_method_preferences_survey - Help Guide
 ## Purpose
 This form is designed to gather information on your preferences for counseling methods. Your responses will help us understand how you would like to approach counseling and what methods you prefer for our sessions. This will aid us in tailoring our services to your needs and interests.

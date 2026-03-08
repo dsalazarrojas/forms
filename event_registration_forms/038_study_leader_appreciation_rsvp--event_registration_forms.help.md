@@ -1,10 +1,3 @@
-<thinking>...thinking>
-
-This internal reasoning block will check for relevance and non-duplication:
-We created this form to gather information from study leaders about upcoming events. This form is only meant for event registration and appreciation purposes, and is not meant to be a general contact form. Please fill out this form to let us know if you will be attending the event, and if so, provide us with any relevant details such as the event name, number of guests, and date/time of the event. If you will not be able to attend, please let us know the reason for your non-attendance.
-
-</thinking>
-
 # Study Leader Appreciation RSVP - Help Guide
 ## Purpose
 The purpose of this form is to allow Study Leaders to RSVP for upcoming events and provide necessary details for the event.

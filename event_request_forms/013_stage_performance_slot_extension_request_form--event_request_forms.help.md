@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to allow users to submit extension requests for stage performance slots. This form serves as a means to communicate additional time needed for stage performance slots to accommodate specific circumstances. It is essential for users to understand that submitting this form will trigger internal review and approval processes. Before filling out this form, please ensure that the original performance slot schedule has not been already been approved or updated, as this form is intended to extend existing slots, not create new ones. It is recommended to review the original performance slot schedule and check with the relevant stakeholders before submitting this form... </thinking>
-
 # Stage Performance Slot Extension Request Form - Help Guide
 
 ## Purpose

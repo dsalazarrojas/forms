@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to track participants' activities and comments during School Spirit Week. This form is likely to be used by students, teachers, or faculty members to provide feedback on school spirit week events, which could include activities like the School Dance, Pep Rally, and Spirit Week Parade. The form will capture information such as the participant's school name, class, email, and date and time of participation. The participant will also be asked to select their spirit role (Student, Teacher, or Faculty) and choose which day of the week they participated. Additionally, the form will allow for optional comments and feedback on the events.
-</thinking>
-
 # School Spirit Week Participation Tracker - Help Guide
 ## Purpose
 This guide is designed to help you complete the School Spirit Week Participation Tracker form. The form is used to track participants' activities and comments during school spirit week events.

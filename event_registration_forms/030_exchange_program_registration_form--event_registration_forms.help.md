@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-facing help guide for an event registration form, which is used to collect information from participants about their exchange program registration. This form should be easy to understand and fill out by the user.
-
-The form purpose is to gather essential details such as participant information, program information, dates, and contact information. This guide will explain each field, its label, and any specific instructions to ensure that users can fill out the form accurately and efficiently.
-
-</thinking>
-
 # Exchange Program Registration Form - Help Guide
 ## Purpose
 The Exchange Program Registration Form is used to collect participant information, program details, and other essential data from individuals interested in enrolling in the exchange program. Fill out the form to register for the program.

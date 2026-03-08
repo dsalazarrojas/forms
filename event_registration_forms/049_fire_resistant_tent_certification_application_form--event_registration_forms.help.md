@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to register and verify their Fire Resistant Tent (FRT) for certification. The goal is to collect data on the tent's compliance with the necessary fire resistant standards. The form will help the certification body assess and process the application. It's assumed that users are already familiar with the requirements for fire resistance, and this form will help gather the necessary information for the certification process. The following form fields are explained below.
-</thinking>
-
 # Fire Resistant Tent Certification Application Form - Help Guide
 ## Purpose
 

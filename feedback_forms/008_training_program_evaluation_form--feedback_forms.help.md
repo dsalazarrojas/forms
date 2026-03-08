@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for participants to evaluate training programs, providing feedback on session quality, topic relevance, and overall satisfaction. This form is meant to gather data that can be used to improve future training sessions. Please ensure that you are using this form to provide feedback on a specific training session and not on other programs or general topics. Also, try not to duplicate feedback on the same session, as each submission will be treated as a separate entry.
-
-To confirm, this form is used for the following purposes:
-* Evaluate session quality and relevance
-* Gather participant feedback on training sessions
-* Identify areas for improvement
-
-Before proceeding, please review the form fields to ensure you have the necessary information available.
-
-</thinking>
-
 # Training Program Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate a training program and provide feedback on its quality and effectiveness. 

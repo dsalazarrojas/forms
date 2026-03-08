@@ -1,10 +1,3 @@
-<thinking> 
-This form is used to track the details of a camper's discharge from the summer camp program. The purpose of this form is to gather information about the camper's departure, including their name, contact information, and reason for discharge. This form will help the camp staff to keep accurate records and ensure that the camper's departure process is smooth and efficient. 
-
-Please ensure that you are filling out this form for the correct camper and that you are not duplicating efforts. If you have already submitted a discharge form for this camper, please do not submit another one. 
-
-</thinking>
-
 # Summer Camp Discharge Form - Help Guide
 ## Purpose
 The Summer Camp Discharge Form is used to track the details of a camper's discharge from the summer camp program.

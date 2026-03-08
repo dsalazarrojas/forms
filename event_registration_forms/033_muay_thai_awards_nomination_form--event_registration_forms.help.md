@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for the Muay Thai Awards. The purpose of this form is to gather details about a person or entity being nominated for an award. The nomination form is required for all award categories. It is used to ensure that the nomination meets the criteria for the award and is properly submitted.
-</thinking>
-
 # Muay Thai Awards Nomination Form - Help Guide
 ## Purpose
 This form is used to nominate individuals or entities for the Muay Thai Awards. It collects information about the nominee, the category they are being nominated for, and the reason for the nomination.

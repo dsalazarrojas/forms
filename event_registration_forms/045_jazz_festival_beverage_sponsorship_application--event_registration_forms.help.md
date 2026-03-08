@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm the form purpose and context: this form is for registration of beverage sponsorship for a jazz festival. The fields provided are for general information collection from potential sponsors, which includes company name, contact person, contact person's email, and contact person's phone number. The form also requires sponsorship details, type, and agreement to terms. A contract status and contract date are also collected, indicating whether a contract has been signed and the date it was signed. This information will be used internally to review and manage sponsorship applications.
 
 # Jazz Festival Beverage Sponsorship Application - Help Guide

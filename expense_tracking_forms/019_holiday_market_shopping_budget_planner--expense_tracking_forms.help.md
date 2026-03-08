@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used by employees or team members to track their expenses and budgets for holiday markets or events. The form is meant to provide a structured and organized way to capture key information, such as shopper names and emails, event start and end dates, and budgeted and actual costs. This form is likely to be used by people who are responsible for organizing and managing holiday market shopping events, and it's intended to make it easier for them to track expenses, stay organized, and ensure that all necessary information is captured.
-To avoid duplication, this form's design should not overlap with existing forms used for tracking expenses or budgets. The goal is to provide a clear and concise way to input and view data that will help event organizers and shoppers stay on top of their holiday market shopping events.
-</thinking>
-
 # Holiday Market Shopping Budget Planner - Help Guide
 ## Purpose
 This guide is designed to help you complete the Holiday Market Shopping Budget Planner form. This form is a tool for tracking and managing holiday market shopping events.

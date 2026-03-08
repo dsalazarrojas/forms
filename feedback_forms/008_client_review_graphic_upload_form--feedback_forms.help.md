@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect client feedback and upload graphics for various projects. It's meant for clients to provide detailed feedback on the current design state, and for designers to receive input on areas that need improvement. This form is likely to be used by designers and clients working on projects requiring visual input and feedback. Before filling out this form, make sure to check if you've already provided feedback on this project to avoid duplication.
-
-</thinking>
-
 # Client Review & Graphic Upload Form - Help Guide
 ## Purpose
 

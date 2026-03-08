@@ -1,7 +1,3 @@
-<thinking>
-...the form is used to collect feedback from employees regarding their trust and loyalty towards the company, and also to collect demographic information about the employees, such as department and job title. This form helps to identify areas where employees feel they can improve their trust and loyalty. The goal is to use this information to inform HR strategies and initiatives to increase employee engagement and satisfaction. This form should be used by employees to provide their honest and genuine feedback, and all answers will be kept confidential. Please note that this form should not be used to collect information about employees who do not want to provide it or do not have a computer with access to this form.
-</thinking>
-
 # Employee Trust And Loyalty Survey - Help Guide
 
 ## Purpose

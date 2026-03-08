@@ -1,7 +1,3 @@
-<thinking>
-To create this help guide for the "Personal Story Sharing Form", I will focus on explaining the form's purpose, how to complete it, and what each field means, using the provided YAML as a reference.
-</thinking>
-
 # Personal Story Sharing Form - Help Guide
 ## Purpose
 The Personal Story Sharing Form is designed to collect stories from individuals who want to share their personal experiences, thoughts, and feelings. This form is meant to be a platform for people to express themselves, share their stories, and potentially connect with others who have gone through similar experiences.

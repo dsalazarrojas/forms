@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # win_your_dream_week_contest_entry - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>...
-This form is intended to gather feedback from candidates who have completed a pre-employment assessment. The purpose of this form is to gather their thoughts on their practice experience, gather feedback on their performance, and measure their relevance score.
-The form is not designed to be filled out by candidates who have not completed the pre-employment assessment, and filling it out would be considered duplication of effort.
-</thinking>
-
 # pre_employment_assessment_practice_feedback - Help Guide
 ## Purpose
 The **Pre-Employment Assessment Practice Feedback** form is used to gather feedback from candidates who have completed a pre-employment assessment. This feedback is essential for us to understand the candidate's experience and performance in the assessment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information for the Moment Recognition Program, a way to acknowledge and celebrate individuals or teams that have made significant contributions to the organization. The purpose of this form is to collect details about the nominee(s), including their name, role, award name, category, and reason for nomination. It also captures the date and time of submission. The form is designed to be completed by a submitter, who can choose to remain anonymous or reveal their name. This form is used to prevent duplicate nominations, ensuring that only unique entries are recorded.
-</thinking>
-
 # Moment Recognition Nomination Form - Help Guide
 ## Purpose
 The Moment Recognition Nomination Form is used to submit nominations for the Moment Recognition Program. This program aims to recognize and celebrate individuals or teams that have made significant contributions to the organization.

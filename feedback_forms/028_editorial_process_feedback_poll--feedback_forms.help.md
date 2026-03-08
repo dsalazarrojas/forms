@@ -1,13 +1,3 @@
-<thinking>
-This form is used to collect feedback from users on the editorial process, which is a crucial step in the content creation process. The purpose of this form is to help identify areas of improvement, gather suggestions, and track progress towards overall satisfaction and workflow efficiency. This form is likely to be used by content creators, editors, and reviewers to provide their input on the editorial process and suggest improvements.
-
-Before proceeding, please note that:
-
-* This form is not intended for general feedback, but rather for specific, actionable feedback on the editorial process.
-* Please answer the questions honestly and provide concrete suggestions or concerns, if any.
-* Some fields are optional, but providing detailed feedback will help us improve the process.
-</thinking>
-
 # editorial_process_feedback_poll - Help Guide
 ## Purpose
 This form is designed to collect feedback on the editorial process, aiming to identify areas of improvement and gather suggestions for enhancing the overall content creation experience.

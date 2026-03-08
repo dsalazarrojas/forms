@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure the form is completed accurately and efficiently, please verify that the form purpose and requirements are clear in your organization's communication channels.
 
 The Aquarium Photography Tournament Entry Form is intended to collect information about photographers entering their photos into a tournament, which is likely used for showcasing and evaluating the best photos in the aquatic photography niche. Ensure that all required fields are completed, and the submission method and category match the photographer's work.

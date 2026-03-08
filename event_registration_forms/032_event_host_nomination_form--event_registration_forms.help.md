@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to help administrators identify potential event hosts for a given event. It's a tool to collect information from various individuals about events they are hosting or have hosted. This form will be used to determine the suitability of the nominated hosts for the event and to provide them with necessary information and resources.
 
 </thinking>

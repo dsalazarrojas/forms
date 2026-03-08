@@ -1,6 +1,3 @@
-<thinking>
-This guide is intended for users who want to complete a primary stage letter recognition quiz. This form is part of a larger system for managing student data and providing insights for teachers. The purpose of this form is to gather information about a student and their teacher, which will be used to analyze and provide feedback on the student's progress. The form has multiple pages, but this guide will cover all the fields in one comprehensive explanation. Before starting the form, please ensure you have the necessary information and permissions to complete it accurately. If you have already completed a similar form, you may notice some overlap in the fields, but please review this guide for any new or updated fields.</thinking>
-
 # primary_stage_letter_recognition_quiz - Help Guide
 ## Purpose
 This form is used to gather information about a student and their teacher, which will be used to analyze and provide feedback on the student's progress.

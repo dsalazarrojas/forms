@@ -1,15 +1,3 @@
-<thinking>
-We have a form titled "Virtual Assistant Feedback Form" aimed at collecting valuable feedback from users of our virtual assistant. The feedback form is designed to help us better understand areas we can improve our AI-powered virtual assistant and provide the best experience for our users. 
-
-This form will be used internally by support teams, which means we will review and act on the provided feedback promptly. 
-
-Before starting this guide, make sure you understand that filling out the form doesn't necessarily mean that your feedback will be visible to other users. Our team will use this form to make improvements behind the scenes, ensuring that our virtual assistant becomes more helpful and user-friendly. 
-
-Please fill out the form with as much detail as you can so we can better understand your concerns or suggestions. You can fill out this form anonymously if you prefer, but please note that it will be more helpful for us to know your email address or phone number if you're willing to share it. 
-
-If you're not sure what any of the fields mean, just leave them blank or contact our support team for assistance. They will help you fill out the form correctly.
-</thinking>
-
 # Virtual Assistant Feedback Form - Help Guide
 ## Purpose
 The Virtual Assistant Feedback Form is designed to help us understand your experience with our AI-powered virtual assistant and identify areas where we can improve.

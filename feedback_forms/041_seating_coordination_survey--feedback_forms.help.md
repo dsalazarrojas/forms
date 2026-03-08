@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users regarding seating coordination for events. It is meant to be completed by individuals who are interested in attending or have attended an event. The form will help event organizers and coordinators understand the preferences and needs of attendees, ensuring that events are well-organized and enjoyable for all. This form should only be filled out once per person, to prevent duplication of responses.
-
-The form is divided into multiple sections, each addressing different aspects of event planning and organization. The questions cover various topics such as arrival and departure times, preferred contact methods, and additional information.
-
-When completing this form, please ensure that you answer each question accurately and thoroughly. If you are unsure about any question, please provide your best guess or answer.
-
-This form is intended to help event organizers create a more enjoyable and convenient experience for all attendees. Your input is valuable, and we appreciate your time and consideration.
-
-Please review the form below to understand each section and question clearly.
-</thinking>
-
 # seating_coordination_survey - Help Guide
 ## Purpose
 The Seating Coordination Survey is designed to collect feedback from attendees to help event organizers better understand their needs and preferences for event planning and coordination.

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to allow users to submit a highlight request for a specific event. This form should only be filled out by users who are authorized to do so and have not already submitted a similar request. The form is meant to be a simple and quick way to request a highlight or highlight package for an event. 
-
-</thinking>
-
 # Highlight Request Form - Help Guide
 ## Purpose
 

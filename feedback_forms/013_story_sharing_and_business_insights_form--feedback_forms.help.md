@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather user feedback and business insights on story sharing. It is designed to collect multiple select options, a single select option, numerical data, and text information from users. This form is likely used to analyze customer stories and their business insights in a multiple-choice format.
-To ensure data quality and relevance, we should check for non-duplication and ensure users understand what each field means.
-</thinking>
-
 # Story Sharing And Business Insights Form - Help Guide
 ## Purpose
 The purpose of this form is to gather user feedback and business insights on story sharing. It is designed to collect multiple select options, a single select option, numerical data, and text information from users.

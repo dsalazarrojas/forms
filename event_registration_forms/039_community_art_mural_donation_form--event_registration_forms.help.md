@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering donations for mural projects in the community. It is a crucial document that captures essential details about the donation, including the donor's information, donation amount, and project specifics. This form will be used by the administration to track and manage donations, ensuring accurate records and efficient communication with donors. Ensure that this form is filled out completely and accurately to ensure that your donation is processed correctly. 
-</thinking>
-
 # Community Art Mural Donation Form - Help Guide
 ## Purpose
 The Community Art Mural Donation Form is a crucial document that captures essential details about your donation to a mural project in the community. It helps the administration track and manage donations, ensuring accurate records and efficient communication with donors.

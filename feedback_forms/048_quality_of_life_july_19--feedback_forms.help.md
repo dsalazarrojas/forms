@@ -1,18 +1,3 @@
-<thinking>... internal reasoning block to check form purpose and non-duplication ...
-
-This form is designed to collect feedback and quality of life information from employees or team members. It seems to be a daily or shift-based feedback form, asking about various aspects of work-life balance, breaks, and time management. The fields are mostly optional, indicating that this form might not be a mandatory or required form. The purpose of this form is likely to help management or HR departments understand how employees are doing and identify areas for improvement.
-
-The form collects a mix of personal and work-related information, including:
-
-* Personal details (name, email)
-* Department and team membership status (optional)
-* Feedback and comments (required)
-* Time management information (shift length, break length, time of visit, shift length 2, etc.)
-
-To avoid duplication, this form seems to be designed for a specific team or department, as indicated by the department field.
-
-</thinking>
-
 # Quality Of Life July 19 - Help Guide
 ## Purpose
 This form is designed to collect feedback and quality of life information from employees or team members to help management or HR departments understand how employees are doing and identify areas for improvement.

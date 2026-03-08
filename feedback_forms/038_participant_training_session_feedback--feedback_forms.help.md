@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from participants about their training sessions. This feedback will help us understand participants' experiences and perceptions of the training, which can be used to improve future sessions. To ensure that the feedback provided is relevant and valuable, we ask that participants only complete this form once per training session and that they have attended the session in question.
-
-Before filling out this form, please ensure that you have attended the training session and are providing feedback on your personal experience. If you have already filled out this form for the same session, your entry will be discarded, and we kindly request that you do not attempt to submit duplicate feedback.
-
-This guide will walk you through the steps and fields to complete the form successfully.
-
-</thinking>
-
 # Participant Training Session Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants about their training sessions. It is essential that you provide honest and constructive feedback, as it will help us improve future sessions and better serve you and other participants.

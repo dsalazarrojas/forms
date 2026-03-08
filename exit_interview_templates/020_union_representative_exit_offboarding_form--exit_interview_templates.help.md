@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Union Representative Exit Offboarding Form - Help Guide
 ## Purpose
 The Union Representative Exit Offboarding Form is a tool used to capture essential information from union representatives as they exit their role. This form helps to document the reason for departure, dates of employment, and other relevant details to ensure a smooth offboarding process.

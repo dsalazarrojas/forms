@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students on their interaction with a teacher, which can help evaluate the effectiveness and quality of the teacher's supportiveness, clarity, and availability. The goal is to gather data on how well the teacher interacts with students, which can inform future teacher-student interactions.
-This form should only be completed by students and will likely be used by the institution or the teachers' department to assess and improve the quality of interactions. 
-</thinking>
-
 # Teacher Student Interaction Feedback Evaluation Form - Help Guide
 ## Purpose
 The form is designed to collect feedback from students about their experiences with their teachers, focusing on aspects like support, clarity, and availability of the teacher.

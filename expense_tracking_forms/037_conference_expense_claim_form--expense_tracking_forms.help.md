@@ -1,20 +1,3 @@
-<thinking>
-Internal reasoning block:
-
-The "Conference Expense Claim Form" is used for submitting expenses related to conference or event attendance. This form is used to track and reimburse employees for their expenses incurred during company-sponsored events. The form should only be used for legitimate business purposes and should not be used for personal expenses.
-
-The form has two main sections: "Claim Information" and "Expense Details". The "Claim Information" section includes general details such as claim date, employee information, and conference information. The "Expense Details" section is where employees itemize their expenses, including registration fees, airfare, accommodation, meals, and incidentals.
-
-To prevent duplication and ensure accuracy, it's essential to follow these guidelines:
-
-* Only submit expenses that are directly related to the conference or event.
-* Ensure all required fields are filled in accurately and completely.
-* Attach all relevant receipts for reimbursement.
-* Obtain approval from managers before submitting the claim.
-* Ensure expenses are categorized correctly.
-
-</thinking>
-
 # Conference Expense Claim Form - Help Guide
 ## Purpose
 The Conference Expense Claim Form is used for submitting expenses related to conference or event attendance.

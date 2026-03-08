@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users regarding industry nominations. It is used for communication purposes, and the data collected will help in identifying and recognizing outstanding performances within the industry. This form should be used for legitimate and valid nominations only, and please ensure that you are not submitting duplicate nominations for the same event or individual. Duplicate submissions can lead to confusion and unnecessary work for our team.
-
-</thinking>
-
 # Industry Nomination Communication Form - Help Guide
 ## Purpose
 This form is used to collect information about industry nominations for recognition and communication purposes.

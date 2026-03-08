@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Health Examination Form" is to collect information about the patient's medical history, vital signs, medications, allergies, and medical examinations. This form aims to gather data that can be used to provide a comprehensive assessment of the patient's health status. To ensure the form is completed accurately, it is essential to follow the guidelines provided below.
-</thinking>
-
 # Health Examination Form - Help Guide
 ## Purpose
 The Health Examination Form is designed to collect vital information about the patient's health status, medical history, and other relevant factors. By filling out this form, healthcare professionals can gather accurate data to provide the best possible care for the patient.

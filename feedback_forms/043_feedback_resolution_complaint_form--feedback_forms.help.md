@@ -1,12 +1,3 @@
-<thinking>
-This form is used for users to provide feedback and complaints about their experiences. To ensure that feedback is constructive and actionable, we want to make sure that users understand the purpose and process of this form. This guide will cover the steps to complete the form and explain each field in detail.
-
-Before starting, please note that this form is for providing feedback and complaints only. It is not intended for general comments or suggestions. Please make sure that your feedback is specific and actionable.
-
-Also, to avoid duplication of effort, we encourage users to submit only one complaint per form. If you have multiple complaints, please submit a new form for each one.
-
-</thinking>
-
 # feedback_resolution_complaint_form - Help Guide
 ## Purpose
 This form is used to provide feedback and complaints about your experiences. It will help us understand your concerns and take action to resolve them.

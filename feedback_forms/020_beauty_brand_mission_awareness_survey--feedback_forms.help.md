@@ -1,12 +1,3 @@
-<thinking> 
-We can generate a help guide for the "Beauty Brand Mission Awareness Survey" form. To confirm, the form's purpose is to collect information about the respondent's awareness and perception of a beauty brand's mission, values, and communication. This will help the brand understand its target audience and tailor its mission awareness strategies accordingly.
-
-To avoid duplication, we will ensure that the form's fields are accurately described, and the explanation will be concrete and concise.
-
-We will use the provided YAML fields to explain each field in the form, making sure that the explanation is in-line with the field's label and type.
-
-</thinking>
-
 # Beauty Brand Mission Awareness Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your awareness and perception of a beauty brand's mission, values, and communication. Your participation will help the brand understand its target audience and improve its mission awareness strategies.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # College In Person Event Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees registering for events hosted by the college. It captures details about the attendee, their event preferences, and any special requirements they may have.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in the St. Patrick's Day Parade. The form gathers details such as entry information, contact details, payment information, entry fee, entry type, entry subtype, entry description, entry photo, entry time, email, phone number, address, city, state, zip code, payment method, sponsorship status, and any additional information. To ensure that each entry is accurately represented, please ensure that all required fields are completed. This form will help us better understand and categorize the entries for the parade.
-</thinking>
-
 # St. Patrick's Day Parade Entry Form - Help Guide
 ## Purpose
 The St. Patrick's Day Parade Entry Form is a crucial part of the parade's organization process. It allows participants to provide necessary details about their entry, ensuring a smooth and successful event.

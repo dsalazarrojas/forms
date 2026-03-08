@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and documentation for Track and Field incidents. It appears to be intended for use in a sports-related setting, possibly in a school or athletic organization. The form has multiple sections and fields for collecting information from athletes, witnesses, and incident reporters. It is not affiliated with any specific form platform and can be used as a template for similar purposes. There is no indication that the form has any specific requirements or submission limits, so it seems to be a general-purpose template.
-</thinking>
-
 # Track And Field Incident Form - Help Guide
 
 ## Purpose

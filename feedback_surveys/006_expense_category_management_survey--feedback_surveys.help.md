@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect user feedback on expense category management. It is meant for users to provide information about expense categories, including selecting and categorizing expenses. The form has multiple pages, each asking for different information, such as category names, descriptions, and dates. The form is intended for employees or users who need to provide feedback on their current expense category management practices. However, please ensure you are taking this survey only if you are authorized to provide feedback and are not duplicating effort or reporting information already known to the administrator.
-
-</thinking>
-
 # Expense Category Management Survey - Help Guide
 
 ## Purpose

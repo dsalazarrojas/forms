@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Editorial Service Satisfaction Assessment - Help Guide
 ## Purpose
 This form is designed to gather your feedback about the editorial service you received. It is used to assess the quality of the editorial work, communication, and project delivery time. Your input is crucial in helping us improve our services.

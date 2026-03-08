@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users request support for events in the system. The form will likely be used when an event is not displaying properly or the user has encountered issues with an event. The fields are mostly straightforward and are meant to provide a clear understanding of the issue. The form does not seem to require any specific business logic or calculations to be performed on the data. The form will likely be a one-time submission form. It's worth noting that the form does not seem to require any validation rules based on the provided YAML fields. Therefore, the form will likely be a simple form for user input.
-</thinking>
-
 # event_listing_support_request - Help Guide
 ## Purpose
 This form is used to request support for events that are not displaying properly. Fill out this form to report any issues you've encountered with an event in the system.

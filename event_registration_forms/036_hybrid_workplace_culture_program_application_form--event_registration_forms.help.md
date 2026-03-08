@@ -1,11 +1,3 @@
-<thinking>
-The goal of this form is to collect relevant information for the Hybrid Workplace Culture Program. This form should only be filled out by employees who are interested in participating in the program. Please ensure that you are not applying for events that you are already registered for. 
-This form is used to gather data on employee preferences, event schedules, and other relevant details. It will help us better understand employee needs and preferences. 
-The information collected will be used to tailor future events to meet the needs of the team. 
-This form should be filled out by employees who are interested in attending events related to team-building, training, or other activities. 
-Please note that some fields are required, while others are optional. 
-</thinking>
-
 # Hybrid Workplace Culture Program Application Form - Help Guide
 ## Purpose
 The Hybrid Workplace Culture Program Application Form is designed to collect information from employees interested in participating in the program. This form will help us understand employee preferences and tailor future events to meet their needs.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form, "Daily Session Summary", is to collect information from trainers about each daily session they lead. This includes details such as trainer's name, session date, start and end times, session notes, activities conducted, comments from the trainer, and session goals.
-
-To avoid duplication, please ensure that you only fill out this form once per session, and not on multiple sessions. This will help to maintain accurate records and streamline the process for the trainer.
-
-</thinking>
-
 # Daily Session Summary - Help Guide
 ## Purpose
 The Daily Session Summary form is designed to gather information from trainers about their daily sessions, providing a record of each session's details.

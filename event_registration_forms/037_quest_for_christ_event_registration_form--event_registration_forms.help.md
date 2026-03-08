@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Quest For Christ Event Registration Form, I'll analyze the form's purpose and fields based on the provided YAML schema. This form appears to be for registering event-related information, possibly for events or activities organized under the "Quest For Christ" banner. The internal logic and business rules are unclear, so I'll focus on providing a practical guide based on the fields and their labels.
-
-</thinking>
-
 # Quest For Christ Event Registration Form - Help Guide
 ## Purpose
 The Quest For Christ Event Registration Form is used to collect event-related information from attendees. This form helps us understand who is attending the event, what type of event it is, and other relevant details.

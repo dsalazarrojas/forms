@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide end-users with a clear understanding of the Grievance Form, its purpose, and how to fill it out correctly. The form is designed to gather information about grievances or complaints that users may have, and it is used to track and resolve these issues efficiently. Before filling out the form, please ensure that you have not already submitted a similar grievance, as duplicate submissions may cause confusion and delay resolution. It is also essential to provide as much detail as possible to facilitate effective resolution.
-</thinking>
-
 # Grievance Form - Help Guide
 ## Purpose
 The Grievance Form is a tool for reporting and tracking grievances or complaints that users may have. It helps to identify issues, gather more information, and provide a resolution in a timely manner.

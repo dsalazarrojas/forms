@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect attendee information for affiliate marketing events. Its purpose is to gather essential details about attendees, including their name, company, job title, email, phone number, ticket type, event preferences, dietary restrictions, and payment method. The form also aims to understand their areas of interest and how they found out about the event. To ensure accuracy and relevance, please note that this form is meant for affiliate marketing events and not for general audience purposes.
-</thinking>
-
 # Affiliate Marketing Event Registration Form - Help Guide
 ## Purpose
 This form is designed to collect attendee information for affiliate marketing events. It helps us understand your preferences, needs, and demographics to provide you with the most relevant content and experience.

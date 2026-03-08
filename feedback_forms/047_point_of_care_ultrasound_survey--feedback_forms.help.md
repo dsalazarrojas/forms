@@ -1,7 +1,3 @@
-<thinking>What is the purpose of the form? The "Point of Care Ultrasound Survey" form is designed to collect feedback on the quality of care provided at the point of care, including the type of technology used, rating, and comments on the care process. This form is intended to help healthcare professionals identify areas of improvement and provide better patient care.
-
-</thinking>
-
 # point_of_care_ultrasound_survey - Help Guide
 ## Purpose
 The "Point of Care Ultrasound Survey" form is designed to collect feedback on the quality of care provided at the point of care, including the type of technology used, rating, and comments on the care process.

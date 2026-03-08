@@ -1,12 +1,3 @@
-<thinking>
-We need to verify that the form "team_collaboration_feedback_questionnaire" is intended to gather feedback from team members on their experiences and perceptions of team collaboration within a team or organization. This form is likely used in a team setting to assess the effectiveness of collaboration practices, identify areas for improvement, and inform changes to team dynamics.
-
-To ensure that this form is not duplicated in other projects or teams, we should consider adding a unique identifier or project code to the form title or description. This will help us track and manage feedback data across different teams or projects.
-
-The form appears to be a structured questionnaire with multiple sections, each focusing on a different aspect of team collaboration. Sections include collaboration frequency, communication channels, collaboration tools, barriers to collaboration, communication styles, feedback frequency, feedback methods, feedback recipients, and collaboration outcomes.
-
-Before creating the help guide, let's review the form's structure and fields to ensure we cover all necessary information for the end-users.</thinking>
-
 # team_collaboration_feedback_questionnaire - Help Guide
 ## Purpose
 The team collaboration feedback questionnaire is designed to gather feedback from team members on their experiences and perceptions of team collaboration. This form is used to assess the effectiveness of collaboration practices, identify areas for improvement, and inform changes to team dynamics.

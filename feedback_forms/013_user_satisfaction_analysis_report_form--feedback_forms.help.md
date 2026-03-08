@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather user feedback and satisfaction data from customers who have visited a specific branch of an organization. The purpose of this form is to understand how customers perceive the quality of service they received and whether they would return to the branch in the future. It is essential to complete the form accurately and thoroughly to provide valuable feedback.
-It is crucial to note that the form has several sections that need clarification and understanding. The rating questions and their respective options seem to be designed to gauge satisfaction levels with various aspects of the service provided. Some fields, such as "rating_1" and "rating_6", are select_one fields with options 'Yes' or 'No', likely indicating whether the customer would return or if the service was delivered on time. Others, like "rating_7" and "rating_8", are select_one fields with options 'Good' or 'Poor', indicating satisfaction levels with service quality. There are also fields for free text comments and select_multiple fields for "rating_5", which allows customers to specify if they experienced any problems during their visit.
-</thinking>
-
 # User Satisfaction Analysis Report Form - Help Guide
 ## Purpose
 The purpose of this form is to gather user feedback and satisfaction data from customers who have visited a specific branch of an organization. The form is designed to understand how customers perceive the quality of service they received and whether they would return to the branch in the future.

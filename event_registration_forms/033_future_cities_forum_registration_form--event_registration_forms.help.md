@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed for users to register their attendance and preferences for events. It will likely be used by event organizers to track attendee information and preferences for event planning purposes. To ensure the form is filled out correctly, please ensure that all required fields are filled out accurately and that the attendee is registered for the correct event. Please note that this form may be used for multiple events, and attendees should ensure they are registering for the correct event by double-checking the "Registration Method" and "Event Attendee Type" fields. This form will be used to gather relevant information for event planning, so please ensure that you are providing accurate and complete information.</thinking>
-
 # Future Cities Forum Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from attendees for event planning purposes.

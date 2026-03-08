@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # intern_feedback_questionnaire - Help Guide
 ## Purpose
 The intern_feedback_questionnaire is a form designed to collect feedback from interns about their experience with the company. The form aims to gather information about the company culture, overall rating, and rating of various aspects of the internship program. This feedback is crucial in helping us improve our internship program and provide a better experience for future interns.

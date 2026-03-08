@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended for users to provide feedback on the WhatsApp automation feature, which is a tool for automating tasks on the messaging platform. 
-</thinking>
-
 # whatsapp_automation_feedback_form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on the WhatsApp automation feature, allowing us to understand how we can improve it.

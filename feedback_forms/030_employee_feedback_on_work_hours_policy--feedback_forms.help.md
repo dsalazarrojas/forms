@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Feedback On Work Hours Policy - Help Guide
 ## Purpose
 

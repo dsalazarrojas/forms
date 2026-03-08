@@ -1,8 +1,3 @@
-<thinking> 
-  This form is designed to collect information about an event for signage customization purposes. It's intended for events of different types (e.g., conferences, meetings, seminars) of varying sizes (e.g., small, medium, large). The form captures details such as event name, date, time, location, and contact information. The customization options include font size, color, family, style, alignment, kerning, tracking, weight, stretch, variant, slant, and casual. This form is likely used by events teams or organizers to standardize the design and presentation of event signage.
-  Ensure that the information entered in this form is accurate and consistent with your event's branding and style guide.
-</thinking>
-
 # Event Signage Customization Order Form - Help Guide
 ## Purpose
 This form is used to collect event registration and customization information for signage production. Please fill in the details below to ensure accurate and consistent signage for your event.

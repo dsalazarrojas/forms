@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Peer To Peer Relationship Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on your peer relationships. It will ask you questions about your interactions and perceptions of your peers, as well as any additional comments you may have. The purpose of this form is to collect data that can help us better understand and improve our peer relationships.

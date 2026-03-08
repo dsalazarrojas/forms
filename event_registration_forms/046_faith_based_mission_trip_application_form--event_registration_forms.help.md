@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants who wish to apply for a faith-based mission trip. The form is likely used by organizations or groups that organize and lead mission trips for religious or spiritual purposes. The form's purpose is to gather essential details from applicants, including their personal and contact information, trip details, and payment methods. This guide will walk you through each section of the form to help you complete it accurately.
-</thinking>
-
 # Faith Based Mission Trip Application Form - Help Guide
 ## Purpose
 This form is for participants who wish to apply for a faith-based mission trip. It collects personal and contact information, trip details, and payment methods.

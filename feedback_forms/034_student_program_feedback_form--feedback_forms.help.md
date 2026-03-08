@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect feedback from students on the programs they have attended. It is essential to ensure that the feedback provided is relevant and not duplicate. Please make sure to complete only the questions that apply to your specific experience.
-To prevent duplicate feedback, please do not submit multiple instances of the same form. If you need to update your feedback, please contact the form administrators.
-This guide is designed to walk you through each section of the form, providing a clear understanding of what we are looking for in your feedback.
-</thinking>
-
 # Student Program Feedback Form - Help Guide
 ## Purpose
 The Student Program Feedback Form is designed to collect feedback from students about the programs they have attended. This feedback is crucial for us to understand your thoughts, opinions, and experiences, which help us to continually improve our programs and services.

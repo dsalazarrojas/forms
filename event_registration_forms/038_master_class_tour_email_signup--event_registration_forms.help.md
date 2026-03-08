@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to register for the Master Class Tour, which is a guided tour that allows users to explore specific locations or topics with an experienced artist or instructor. The form's purpose is to gather necessary information for the tour registration process, including contact information, tour preferences, and event-specific details.
-The form is divided into sections, with each section focusing on specific aspects of the tour registration process. Users are encouraged to fill out the form in a step-by-step manner, ensuring that all required fields are completed before moving on to the next section.
-</thinking>
-
 # Master Class Tour Email Signup - Help Guide
 ## Purpose
 This form is for users to register for the Master Class Tour. Please fill out the form accurately and completely to ensure a smooth registration process.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback and suggestions from engineering students for the purpose of reviewing their exam session. The feedback will help to identify areas of improvement and suggest ways to better support students. Please ensure that this form is used correctly and without duplication to gather accurate and comprehensive feedback. 
-Please note that not all fields are required and students are free to provide feedback based on their experience and suggestions.
-</thinking>
-
 # engineering_final_exam_review_survey - Help Guide
 ## Purpose
 The engineering final exam review survey is designed to collect feedback and suggestions from engineering students for the purpose of reviewing their exam session. This form will help to identify areas of improvement and suggest ways to better support students.

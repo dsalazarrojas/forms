@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mentor Evaluation Form - Help Guide
 
 ## Purpose

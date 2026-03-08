@@ -1,9 +1,3 @@
-<thinking> 
-This form is used to submit a request to update or modify building signage. Users will need to provide information about the current and proposed signage, including the type of change requested, the description of the current and proposed signage, and other relevant details such as estimated cost and desired installation timeline. This form is likely used by facilities management, maintenance, or property management teams to review and process signage change requests from tenants, property owners, or other stakeholders.
-
-It's essential to ensure that the correct form is filled out to avoid duplication of effort and miscommunication. Please review the form carefully to ensure that all required fields are completed accurately and comprehensively.
-</thinking>
-
 # Building Signage Change Request Form - Help Guide
 ## Purpose
 

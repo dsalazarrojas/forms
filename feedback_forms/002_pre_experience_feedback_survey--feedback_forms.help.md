@@ -1,5 +1,3 @@
-<thinking>Before we dive into the form purpose and usage, let's quickly review the form's purpose. This form is designed to collect feedback from participants after an event, helping the event organizers understand the attendees' experiences, preferences, and areas for improvement. This information is crucial for future event planning and tailoring the event to better meet the needs of attendees.</thinking>
-
 # Pre Experience Feedback Survey - Help Guide
 ## Purpose
 The Pre Experience Feedback Survey is a form designed to gather feedback from participants after an event. This feedback is essential for event organizers to understand what worked well and what didn't, allowing them to improve future events.

@@ -1,9 +1,3 @@
-<thinking>... 
-
-As an expert form designer and technical writer, I will create a user-facing help guide for this "Exit Interview Checklist" form. The form's purpose is to collect information from employees who are leaving the company, providing a structured and standardized way to gather insights and feedback on their reasons for departure, company contributions, and next steps. This form will help HR managers and administrators to identify trends and patterns in employee turnover, improve retention strategies, and create a more comprehensive understanding of the reasons behind employee departures.
-
-</thinking>
-
 # Exit Interview Checklist - Help Guide
 ## Purpose
 The Exit Interview Checklist is a form designed to gather information from employees who are leaving the company. This form helps to identify reasons for departure, assess company contributions, and determine next steps.

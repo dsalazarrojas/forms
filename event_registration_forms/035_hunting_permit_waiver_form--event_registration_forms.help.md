@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hunting Permit Waiver Form - Help Guide
 
 ## Purpose

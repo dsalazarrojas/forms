@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Survey Template - Help Guide
 ## Purpose
 The Training Survey Template is a form used to gather feedback from learners after training sessions. This form helps us understand how our training programs are performing and identify areas for improvement.

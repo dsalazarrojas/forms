@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Additive Manufacturing Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and understanding of additive manufacturing, a layer-based manufacturing process that uses 3D printing technologies to create complex parts and products. The quiz aims to evaluate your understanding of various aspects of additive manufacturing, including materials, processes, and technologies.

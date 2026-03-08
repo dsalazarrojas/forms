@@ -1,7 +1,3 @@
-<thinking>
-We are checking for internal consistency and relevance of the form fields and questions to ensure the form is being used as intended. The form is intended to collect feedback from users on their experiences at a spa facility, specifically regarding comfort and comfort-related aspects. We will review the form to confirm that each field is relevant and properly configured for this purpose.
-</thinking>
-
 # Spa Facility Comfort Evaluation Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from spa facility visitors on their comfort experiences during their visit. It aims to gather insights on various aspects of the facility's comfort, such as temperature, seating, beds, pillows, towels, and overall comfort.

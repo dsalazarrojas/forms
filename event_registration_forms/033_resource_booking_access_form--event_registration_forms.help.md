@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for users to book and manage resources such as meeting rooms, equipment, and other assets. It's a crucial tool for resource allocation and tracking within the organization. The form is designed to be completed by users who need to access or book resources, and it helps them to provide necessary information about their resource requests.
-
-To prevent potential misuse or miscommunication, it's essential to ensure that users understand the purpose and usage of the form correctly. This guide will help users navigate the form efficiently and effectively.
-
-The form has multiple pages, and each page is designed to collect specific information related to resource booking. Below is a detailed explanation of each field in the form:
-
-</thinking>
-
 # Resource Booking Access Form - Help Guide
 ## Purpose
 This form is used to book and manage resources such as meeting rooms, equipment, and other assets within the organization.

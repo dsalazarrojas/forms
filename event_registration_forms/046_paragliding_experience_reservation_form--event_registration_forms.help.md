@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers or clients who are interested in reserving a paragliding experience. The form will be used to gather details such as the desired experience type, date and time of the event, number of people attending, contact information, payment method, and other relevant details. This form is designed to be user-friendly and efficient, allowing clients to provide their preferences and information in a straightforward and clear manner. 
-</thinking>
-
 # Paragliding Experience Reservation Form - Help Guide
 ## Purpose
 The Paragliding Experience Reservation Form is designed to collect necessary information from clients to reserve a paragliding experience. This form will help us understand their preferences and needs to provide the best possible experience for them.

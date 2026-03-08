@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ### Exhibitor Feedback Form - Help Guide
 
 #### Purpose

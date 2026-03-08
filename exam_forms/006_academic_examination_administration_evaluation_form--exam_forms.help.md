@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure that the Academic Examination Administration Evaluation Form is completed correctly and thoroughly, let's first discuss the form's purpose and any potential areas of duplication or confusion. This form is designed to evaluate the administration of an academic examination, capturing various aspects of the exam process, from logistical and technical aspects to the performance of proctors and the overall experience of students. The form aims to identify areas of improvement for future exam administrations, making it an essential tool for academic staff to gauge the success of their events. Before we start, let's review the form to avoid any unnecessary duplication and to ensure a smooth experience for the evaluator.
-
-</thinking>
-
 # Academic Examination Administration Evaluation Form - Help Guide
 ## Purpose
 The Academic Examination Administration Evaluation Form is a tool used by academic staff to assess the effectiveness of their examination administration. It provides a comprehensive evaluation of various aspects of the exam process, including logistical, technical, and performance-based aspects.

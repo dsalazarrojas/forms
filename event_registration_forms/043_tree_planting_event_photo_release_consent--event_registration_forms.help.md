@@ -1,18 +1,3 @@
-<thinking>
-This help guide will focus on the "Tree Planting Event Photo Release Consent" form, which is likely intended for event attendees to provide consent for their photos to be taken and used by the organization. The purpose of this form is to obtain the necessary permissions from participants to use their images for various purposes, including social media, print/online publications, and video/audio recordings. This form is designed to be filled out by attendees who have attended the event, and it's essential to ensure that everyone understands the terms and conditions of photo release. It's crucial that this form is completed accurately to avoid any potential misuse of images or misunderstandings. The fields within this form should be carefully reviewed to ensure that each field is filled out correctly. 
-
-This form likely has multiple fields for different types of media, such as photos and videos, and each has its own set of options. The "Photo Media Type" field might be confusing for users, but it's intended to determine the type of photo or video media being released. The "Photo Credit" fields are essential for crediting the photographer or videographer, and the "Photo Use" field allows attendees to specify where their image will be used. 
-
-Please note that this form might be used for both photo and video releases, and some fields might be similar or identical. Ensure that each field is filled out correctly and that you understand the permissions and agreements stated. 
-
-To complete this form, follow these steps: 
-
-1. Review each field carefully and determine the correct options for each media type. 
-2. Fill out each field accurately and truthfully. 
-3. Make sure to read and agree to the terms and conditions stated.
-
-</thinking>
-
 # Tree Planting Event Photo Release Consent - Help Guide
 ## Purpose
 The purpose of this form is to obtain the necessary permissions from event attendees to use their photos and videos for various purposes.

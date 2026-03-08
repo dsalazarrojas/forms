@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to be a user-facing resource for those completing the Landing Page Review Checklist form. The form is designed to collect feedback on the visual and design aspects of landing pages, focusing on the headline section and hero section. This includes the font size, alignment, color, and style of the headline, as well as the background image and background color of the hero section.
-
-The form is not intended to be a comprehensive design review, but rather a quick and focused assessment of the visual and design elements of a landing page. This form will help identify potential issues with the page's design and provide suggestions for improvement.
-
-Before proceeding, please ensure you have reviewed the landing page in question and have access to the design elements. This form is designed to be completed in conjunction with the page's visual and design elements.
-
-This guide is not intended to be a substitute for human judgment or a comprehensive design review. It is a tool to help identify potential issues and areas for improvement.
-
-</thinking>
-
 # Landing Page Review Checklist - Help Guide
 ## Purpose
 The Landing Page Review Checklist is a form designed to help users assess and improve the visual and design aspects of a landing page. This form collects feedback on the headline section and hero section, including font size, alignment, color, and style.

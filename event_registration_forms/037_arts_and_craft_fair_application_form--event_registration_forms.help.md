@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Arts And Craft Fair Application Form - Help Guide
 ## Purpose
 The Arts and Craft Fair Application Form is used for vendors to register and provide necessary information for the fair. This form collects vendor details, such as name, contact information, and product category. It also includes sections for booth size requirements, power needs, and special requests. 

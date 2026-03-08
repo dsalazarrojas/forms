@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning block to check for relevance and non-duplication:
-This form is for registering a guest for an event. The event is called "yay it's turkey day." The form will ask the guest for some basic information such as their name, what they will be bringing, if they are bringing anyone else, when they plan to visit, what time they plan to visit, if they have any notes, their email, and their phone number. This form is for internal use only and will not be publicly accessible.
-
-</thinking>
-
 # yay_it_s_turkey_day - Help Guide
 ## Purpose
 This form is for registering a guest for the "yay it's turkey day" event. It is a private form for internal use and will not be publicly accessible.

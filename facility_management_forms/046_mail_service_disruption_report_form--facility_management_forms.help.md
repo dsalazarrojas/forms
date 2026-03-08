@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this Mail Service Disruption Report Form is to collect information about incidents of mail service disruptions that have occurred. The form is used to report issues related to mail services, such as delays or problems within mailrooms. 
-
-The form will not be used for other types of disruptions or incidents. It is recommended that the form only be completed by authorized personnel who are familiar with mail service disruptions and have first-hand experience with the incidents being reported. 
-
-Before proceeding, ensure that the report is not a duplicate of a previously submitted report.
-
-</thinking>
-
 # Mail Service Disruption Report Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about incidents of mail service disruptions that have occurred in the mail service department. It helps to track and record these incidents for analysis and resolution.

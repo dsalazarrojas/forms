@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll provide a clear and concise help guide for the Sector Icons Feedback Survey form. Before proceeding, let's quickly review the form's purpose and ensure it's not a duplicate effort. The form is designed to collect feedback from users on the design and usability of sector icons, which is crucial for improving the overall user experience. This form will help identify areas of improvement and gather insights on the effectiveness of the sector icons in different aspects, such as design, navigation, and overall satisfaction. I'll make sure to explain each field clearly and concisely, ensuring that end-users understand the purpose and relevance of each question.</thinking>
-
 # Sector Icons Feedback Survey - Help Guide
 ## Purpose
 The Sector Icons Feedback Survey is designed to collect feedback from users on the design and usability of sector icons. This form will help identify areas of improvement and gather insights on the effectiveness of sector icons in different aspects, such as design, navigation, and overall satisfaction.

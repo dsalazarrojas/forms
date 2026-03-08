@@ -1,9 +1,3 @@
-<thinking>
-
-To create an effective help guide for the "Pet Adoption Agreement Extension Form", it's essential to ensure that users understand its purpose, how to complete it, and the meaning of each field. This guide will provide an explanation of each field in a clear and concise manner.
-
-</thinking>
-
 # Pet Adoption Agreement Extension Form - Help Guide
 ## Purpose
 The Pet Adoption Agreement Extension Form is a document used to formalize the adoption process for a pet. It ensures that both the adopter and the organization are clear on their responsibilities and commitments.

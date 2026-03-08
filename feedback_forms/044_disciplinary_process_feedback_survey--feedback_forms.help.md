@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block explaining the form purpose and checking for relevance and non-duplication ...</thinking>
-
 This form is intended to be used for providing feedback on disciplinary processes within an organization. The form will help employees and managers to document and communicate about incidents, their resolutions, and actions taken. It's essential to fill out this form accurately and thoroughly to ensure that all relevant information is captured and that the process is completed correctly.
 
 **disciplinary_process_feedback_survey - Help Guide**

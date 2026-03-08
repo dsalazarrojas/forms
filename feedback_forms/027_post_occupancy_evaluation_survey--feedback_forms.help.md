@@ -1,7 +1,3 @@
-<thinking>
-The "Post Occupancy Evaluation Survey" form is designed to collect feedback from occupants of a building about their experiences and perceptions. The form is not affiliated with any specific platform or company, and its purpose is to gather data about the building's functionality, comfort, and overall satisfaction. This form is an original adaptation of public survey metadata and is released under CC BY 4.0. It may be used, modified, or even sold, provided the original creator is credited. You are free to contact the form's creator at form@gic.mx for any questions or concerns.
-</thinking>
-
 # Post Occupancy Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from occupants about their experiences in the building. The survey aims to gather information about the building's functionality, comfort, and overall satisfaction.

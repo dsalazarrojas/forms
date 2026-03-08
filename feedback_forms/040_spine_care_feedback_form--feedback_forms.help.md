@@ -1,5 +1,3 @@
-<thinking>...This form is intended to collect feedback from users about the care they received at a Spine Care facility. This form will likely be filled out by patients or their representatives after a visit or treatment. The purpose of this form is to gather information about the user's experience, including their name, contact information, and any comments or ratings they may have about their visit... </thinking>
-
 # Spine Care Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience at Spine Care facilities. Your input helps us improve the quality of care we provide.

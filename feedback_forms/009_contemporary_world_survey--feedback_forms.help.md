@@ -1,5 +1,3 @@
-<thinking>Before generating this help guide, I'll ensure that I understand the form's purpose and the provided YAML fields. The form seems to be a survey focused on various aspects of contemporary world issues, collecting information from respondents about their demographics, opinions, and attitudes towards global issues. I'll aim to make the help guide clear and concise while explaining each field's meaning and purpose. I'll also check for internal relevance and avoid duplication of information. After this, I'll output the final help guide in Markdown format.</thinking>
-
 # Contemporary World Survey - Help Guide
 
 ## Purpose

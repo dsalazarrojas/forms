@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from candidates who have gone through an interview process. The purpose of this form is to gather information about their overall satisfaction with the interview experience, communication before and after the interview, and other aspects of the interview process. This form is intended for internal use only and will help the organization improve its interview process and improve candidate experience. To avoid duplication, please only complete this form once after the interview.
-
-</thinking>
-
 # Candidate Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from candidates who have gone through an interview process. It helps us understand their experience, satisfaction, and areas of improvement for future interviews.

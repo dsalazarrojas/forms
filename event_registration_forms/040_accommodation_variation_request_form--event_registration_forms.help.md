@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from guests requesting variations to their booking, such as changes to the check-in and check-out dates, room type, or other accommodations. The form is used to ensure that the guest's requests are properly documented and communicated to the accommodation team. To complete this form, please carefully provide accurate and relevant information in the required fields. The form should not be submitted multiple times for the same booking, as this may cause confusion and delay in processing the request.
-</thinking>
-
 # Accommodation Variation Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from guests requesting variations to their booking. Please use this form to provide accurate and relevant information about your request.

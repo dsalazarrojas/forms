@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial tool for facility management teams to collect and analyze data on site and equipment status. It should only be used for its intended purpose and not duplicated for other use cases. The form's purpose is to gather information on the condition of facilities and equipment, enabling teams to make informed decisions on maintenance, repairs, and upgrades. It's essential to fill out the form accurately and thoroughly, as the data collected will be used to make strategic decisions about resource allocation and budgeting.
-</thinking>
-
 # Site And Equipment Management Survey - Help Guide
 
 ## Purpose

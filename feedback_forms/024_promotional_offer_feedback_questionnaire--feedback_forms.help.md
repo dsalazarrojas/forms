@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect feedback on promotional offers, likely from customers or potential customers, to gauge their perceptions and outcomes related to those offers. This form helps us to refine and improve our promotional strategies by gathering information on how customers respond to different types of offers, what outcomes they expect or experience, and any additional comments or suggestions they might have. It's essential to ensure that the information collected is accurate and relevant to our marketing efforts. Therefore, please complete this form with care and attention to detail. If you have already provided feedback on this offer, please do not submit another response, as it may be considered duplicate feedback.
-</thinking>
-
 # promotional_offer_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback on promotional offers, helping us refine and improve our promotional strategies.

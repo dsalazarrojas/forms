@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect feedback from sports club members about their food and beverage preferences, as well as their ideas for improvement. 
-The form is designed to be simple and user-friendly, with multiple-choice questions for food and beverage selection and a text field for ideas. 
-The purpose of this form is to gather information about the member's preferences and opinions, which can be used by the sports club management to make informed decisions. 
-
-This form is not intended for duplicate submissions, as it is primarily used for one-time feedback collection.
-
-</thinking>
-
 # sports_club_survey_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from sports club members about their food and beverage preferences, as well as their ideas for improvement. 

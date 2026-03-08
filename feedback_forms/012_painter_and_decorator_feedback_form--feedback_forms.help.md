@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers on their experience with a painter and decorator service. The form should be filled out by customers to provide information about their visit, including their name, contact information, and feedback on the service provided. The form will help the business understand what customers like and dislike about the service and make improvements accordingly. This form should be filled out only once per visit, and the provided fields are relevant to this specific visit. Please ensure you only fill out this form once, and do not reuse your feedback for multiple visits. This form is for collecting feedback only and not for any other purpose.
-</thinking>
-
 # Painter And Decorator Feedback Form - Help Guide
 ## Purpose
 The Painter And Decorator Feedback Form is designed to collect feedback from customers on their experience with a painter and decorator service. This form helps the business understand what customers like and dislike about the service and make improvements accordingly.

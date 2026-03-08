@@ -1,29 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from teams and athletes for a pre-season tournament. It gathers details such as team name, athlete name, email, phone number, division, team type, team level, and various status and tourney information.
-
-This form is designed to be completed by teams and athletes registering for the tournament, providing them an opportunity to submit their entries and confirm their participation.
-
-The form has been structured to ensure that all necessary details are captured for efficient processing and to reduce the chances of missing crucial information.
-
-This helps the tournament organizers and management team to have accurate and complete data for better planning and decision-making.
-
-Before starting, please review this help guide to ensure that you provide all the required information for a smooth registration process.
-
-This guide is designed to be easy to follow and will help you fill in the form accurately.
-
-Please note that this form has multiple sections with varying types of fields. Some fields may require more than one option, and some fields are required for all teams and athletes.
-
-Make sure to review each field carefully before filling in your response.
-
-This guide is intended to be comprehensive and will help you fill out the form correctly.
-
-If you have any questions or doubts, please contact the tournament organizers for clarification.
-
-Please take a few minutes to read through the guide carefully to avoid missing any important details.
-
-This guide is your resource to a successful and stress-free registration process.
-</thinking>
-
 # Pro Sports Pre Season Tournament Entry Form - Help Guide
 ## Purpose
 The Pro Sports Pre Season Tournament Entry Form is designed to collect registration information from teams and athletes for a pre-season tournament. This form helps the tournament organizers and management team to have a smooth and organized registration process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Decision Follow Up Survey - Help Guide
 
 ## Purpose

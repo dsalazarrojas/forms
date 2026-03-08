@@ -1,8 +1,3 @@
-<thinking>
-We're checking the form's purpose and fields to ensure this helps guide is relevant and accurate.
-The form is called "Wedding rsvp form" and appears to be a form for guests to respond to the invitation with their RSVP information. It includes fields for guest details, RSVP status, date and time, contact information, and more. We'll break down each field in detail to help users complete the form accurately.
-</thinking>
-
 # Wedding rsvp form - Help Guide
 
 ## Purpose

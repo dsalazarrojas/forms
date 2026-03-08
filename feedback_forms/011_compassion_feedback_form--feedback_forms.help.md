@@ -1,7 +1,3 @@
-<thinking>
-**This form is designed to collect feedback and stories of compassionate acts that have occurred within our organization or community. It helps us understand the impact of these acts and identify areas for improvement in fostering a kinder culture. By submitting this form, you may provide information that can be used to inspire others and encourage more compassionate behavior. Please ensure that the information you provide is accurate and relevant to the form's purpose. If you have already submitted a similar form, please review your previous submission before filling out this form again.**
-</thinking>
-
 # Compassion Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and stories of compassionate acts that have occurred within our organization or community. It helps us understand the impact of these acts and identify areas for improvement in fostering a kinder culture.

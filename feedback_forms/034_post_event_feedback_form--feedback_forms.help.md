@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users after an event, gathering information about the event date, attendees, overall rating, event organization, event location, comment, rating comment, event topic, rating score, and rating outlook. The form is intended for internal use, and the data collected will be used to evaluate and improve future events. Please ensure that you are providing feedback on the correct event and that your feedback is specific to that event. To avoid duplication, please do not submit feedback on an event more than once.
-</thinking>
-
 # Post Event Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users after an event, helping us evaluate and improve future events.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a street festival event, including event details, contact information, and authorization data. This form is likely used by event organizers or coordinators to submit event registration information to a local government or event management agency. 
-The goal is to ensure that all required fields are filled out correctly, as indicated by the 'required' field in the form configuration.
-
-Before starting, make sure the event date and details are accurate and up-to-date. If you need to submit multiple events, it is recommended to create a new form for each event. 
-
-Each field should be filled out correctly according to the field type and options provided.
-</thinking>
 # Street Festival Authorization Form - Help Guide
 ## Purpose
 The Street Festival Authorization Form is used for event registration for local street festivals. Please fill out the form accurately and completely to ensure smooth processing of your event application.

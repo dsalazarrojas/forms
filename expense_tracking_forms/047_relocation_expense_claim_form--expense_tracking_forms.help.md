@@ -1,10 +1,3 @@
-<thinking>
-The relocation expense claim form is used to record and document business-related moving expenses incurred by employees when they change their residence to a new location. The form helps employees keep track of their expenses and submit them for reimbursement. This form is typically used when an employee's new work location is at least 50 miles from their previous residence.
-
-Before using this form, ensure that you have not already submitted a relocation expense claim form for the same expense date. If you have any questions or concerns, please reach out to your HR representative or finance department for assistance.
-
-</thinking>
-
 # Relocation Expense Claim Form - Help Guide
 ## Purpose
 The Relocation Expense Claim Form is used to document business-related moving expenses incurred by employees when they relocate to a new work location that is at least 50 miles from their previous residence.

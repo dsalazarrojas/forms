@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a parent's or guardian's role and relationship with their child, specifically for the purpose of updating or reviewing a child's records. The form aims to capture the parent's name, contact information, and their child's skills and needs. The data collected will be used to maintain accurate and up-to-date records for the child's educational and support programs.
-</thinking>
-
 # Parent Roles And Responsibilities Survey - Help Guide
 ## Purpose
 

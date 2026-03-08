@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Automotive Module Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their recent experience with our automotive services. It helps us understand what we did well and what we could improve on to provide better services in the future.

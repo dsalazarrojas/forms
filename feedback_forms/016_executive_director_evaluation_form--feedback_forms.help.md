@@ -1,10 +1,3 @@
-<thinking>
-The Executive Director Evaluation Form is designed to assess the performance and effectiveness of the Executive Director in their role. This form aims to gather feedback from various stakeholders, including employees, peers, and superiors, to provide an honest and unbiased evaluation of the Executive Director's leadership skills, communication abilities, and overall impact on the organization. This evaluation is essential for identifying areas of improvement and providing guidance for future development.
-
-Before proceeding, please ensure that you have read and understood the form's purpose and the expected outcomes. If you have already completed a similar form for this Executive Director, please note that this is not a duplicate evaluation.
-
-</thinking>
-
 # Executive Director Evaluation Form - Help Guide
 ## Purpose
 The Executive Director Evaluation Form is designed to assess the performance and effectiveness of the Executive Director in their role.

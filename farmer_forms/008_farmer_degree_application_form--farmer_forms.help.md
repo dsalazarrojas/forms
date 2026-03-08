@@ -1,7 +1,3 @@
-<thinking>
-This form is used for farmers to apply for degree programs related to agricultural sciences. The form will help the university to identify potential students for the program. The form is divided into several sections that require information about the applicant's personal details and program of interest. The fields are designed to be easy to understand and complete.
-</thinking>
-
 # Farmer Degree Application Form - Help Guide
 ## Purpose
 The Farmer Degree Application Form is used to collect information from farmers interested in applying for degree programs in agricultural sciences. This form helps the university to understand the applicant's background, interests, and preferences.

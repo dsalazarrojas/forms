@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Process Optimization Feedback Survey - Help Guide
 
 ## Purpose

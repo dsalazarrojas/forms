@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my thought process goes like this: This form is likely used for performance evaluations of employees within an organization. It's probably completed by the evaluator to assess an employee's performance, provide feedback, and track goals and objectives. The form should be easy to navigate, with each page dedicated to a specific section of the evaluation. I'll aim to keep the explanations concise and practical, focusing on the fields that require input from both the employee and the evaluator.</thinking>
-
 # Multi Page Employee Evaluation Form - Help Guide
 ## Purpose
 This form is designed to facilitate performance evaluations of employees, allowing the evaluator to assess an employee's performance, provide feedback, and track goals and objectives.

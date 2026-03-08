@@ -1,13 +1,3 @@
-<thinking>
-
-To prevent duplicate submissions, we will be reviewing this form for existing submissions before creating a new one. If you are a returning user, you can simply log in to access your existing submissions and edit them. If you are a new user, this is the place to start.
-
-We are collecting information to tell the story of your donation. The story can be a one-time gift or an ongoing relationship. We want to hear about your experience and how your donation made an impact. Your story will be shared on our website and may be used in future promotional materials.
-
-The goal of this form is to collect the necessary information to tell a compelling story about your donation. By filling out this form, you will be helping us to share the stories of our amazing donors and supporters, and in turn, inspire others to give back.
-
-</thinking>
-
 # Donor Story Submission Request Form - Help Guide
 ## Purpose
 

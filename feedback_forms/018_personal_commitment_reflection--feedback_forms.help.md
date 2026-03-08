@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a Personal Commitment Reflection form, designed to help individuals reflect on their personal growth, goals, and challenges. It's meant to be a self-assessment tool for individuals to identify areas where they need improvement, recognize their strengths, and plan their next steps. The form is not meant to be a mandatory or evaluative tool, but rather a personal development aid.
 
 # Personal Commitment Reflection - Help Guide

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback on video synthesis, which is likely a process of creating or enhancing a video file to improve its quality or realism. The form is intended for users to provide their opinions and comments on specific aspects of the video synthesis process. The form's design is likely to cater to both internal and external users, and the required fields (Email and Submit) suggest that the feedback collected will be used for communication or follow-up purposes.
-
-Please ensure that the form's purpose and content are relevant to your organization's goals and that there is no duplication of existing feedback mechanisms or forms with similar goals.
-
-</thinking>
-
 # Video Synthesis Feedback Form - Help Guide
 ## Purpose
 The Video Synthesis Feedback Form is designed to collect opinions and comments on the video synthesis process from users. This feedback will help us improve the quality and realism of our video files.

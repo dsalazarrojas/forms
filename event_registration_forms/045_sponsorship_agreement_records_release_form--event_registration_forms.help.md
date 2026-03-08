@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover a form with fields that seem to be focused on storing sponsorship details and agreement information. It appears to be part of a larger system for managing sponsorship agreements and their status. The form might be used to update or report on the status of existing agreements. This guide will aim to cover how to fill out this form accurately and efficiently. There might be overlap with other forms or sections within the same system, so be sure to check if a similar form is already available before completing this one.
-</thinking>
-
 # Sponsorship Agreement Records Release Form - Help Guide
 ## Purpose
 This form is used to record and update sponsorship agreements. It captures essential details about the agreement, including contact information, contract dates, and agreement status.

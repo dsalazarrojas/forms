@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from examinees about their experience with the exam process. This feedback will help us understand their satisfaction levels and identify areas of improvement. It is essential to fill out this form honestly and thoroughly to provide valuable insights.
-</thinking>
-
 # Exam Process Feedback Survey - Help Guide
 ## Purpose
 

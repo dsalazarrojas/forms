@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect feedback from panelists about the candidates after a panel interview. The form helps to gather information about the candidate's performance, the interviewer's opinion, and any additional comments or recommendations. 
-
-The form consists of multiple fields that allow panelists to select options for different aspects of the interview, such as the candidate's performance, their feedback on specific questions, and their overall rating of the interview. 
-
-Please make sure that you are the appropriate person to fill out this form and that your feedback is honest and accurate. If you have already filled out this form for the same interview, please do not fill it out again, as this will create duplicate entries in the system. 
-
-</thinking>
-
 # Panel Interview Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from panelists about candidates after a panel interview.

@@ -1,8 +1,3 @@
-<thinking> 
-The form purpose is to gather information from security guards regarding their exam details. This includes their personal information such as name, contact, and language proficiency. Additionally, the form captures their security clearance level, shift, assigned tools, and exam status. This form is likely used for administrative purposes, such as recording and tracking security guard information and exam results. Before proceeding, please ensure you have not already submitted the form for this exam. If you have any questions or concerns, feel free to ask your supervisor or HR representative.
-
-</thinking>
-
 # Security Guard Exam Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from security guards regarding their exam details.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from teams registering for a Community League Tournament. This form is designed to gather essential details about the team, including team name, coach or manager name, contact email, division or age group, roster size, entry fee payment status, special requests or notes, emergency contact information, and agreement to tournament rules. This form is intended for team representatives to provide accurate and complete information to ensure a smooth and efficient registration process.
-
-Before proceeding, please ensure that you are filling this form on behalf of your team and that you are not duplicating efforts by registering multiple teams or filling out this form for another team.
-</thinking>
-
 # Community League Tournament Enrollment Form - Help Guide
 ## Purpose
 The Community League Tournament Enrollment Form is designed to collect essential details from teams registering for a Community League Tournament.

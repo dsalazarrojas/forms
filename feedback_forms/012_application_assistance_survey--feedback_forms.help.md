@@ -4,10 +4,6 @@
 
 This guide is intended to aid you in completing the Application Assistance Survey form, ensuring that you provide valuable feedback to help us improve our services. Before proceeding, please note that:
 
-<thinking>
-This form is designed to gather feedback from users who have interacted with our application assistance service. It's essential to ensure that the information you provide is genuine and reflects your personal experience. Please do not fill out this form if you have already provided feedback for the same issue, as it may lead to duplicate submissions.
-</thinking>
-
 ## How To Complete This Form
 
 1.  Fill out each field clearly and accurately, taking into account the hints provided next to each field.

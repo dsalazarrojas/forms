@@ -1,7 +1,3 @@
-<thinking>
-We'll assume this form is used to collect feedback from in-flight service requests, and it's likely meant for customer service teams to quickly gather information and take necessary actions. This form might be used during flights or after they've landed. We'll make sure that the form is completed correctly and that the required information is accurate. We'll also check for duplicates or irrelevant entries to prevent unnecessary work and minimize the impact on our teams.
-</thinking>
-
 # in-flight-service-request-form - Help Guide
 
 ## Purpose

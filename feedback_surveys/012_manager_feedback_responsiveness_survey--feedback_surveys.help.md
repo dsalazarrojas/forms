@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "manager_feedback_responsiveness_survey", is to collect feedback from employees regarding their manager's responsiveness. This form is designed to gauge the manager's ability to respond to employee concerns and needs in a timely and effective manner. Before proceeding, ensure this is the correct form for your purpose and that you have not already submitted this form. Please complete the form carefully, providing honest and thoughtful feedback.
-</thinking>
-
 # manager_feedback_responsiveness_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from employees regarding their manager's responsiveness, which is essential for improving work relationships and fostering a positive work environment.

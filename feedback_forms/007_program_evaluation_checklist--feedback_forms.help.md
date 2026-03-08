@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about a program's quality and effectiveness. The purpose of this form is to collect data that will help the program team identify areas of improvement and make informed decisions about future development. Before completing this form, please ensure that you have thoroughly reviewed the program and are providing honest and accurate feedback.
-</thinking>
-
 # Program Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about a program's quality and effectiveness. The goal is to collect data that will help the program team identify areas of improvement and make informed decisions about future development.

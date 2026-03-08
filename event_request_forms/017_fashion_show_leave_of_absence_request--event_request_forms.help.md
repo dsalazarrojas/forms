@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request a leave of absence for a fashion show. The purpose of this form is to notify the production team and management of an employee's absence during a specific production period. 
-
-The form is intended to ensure that all necessary information is collected and documented for the employee's leave, including the show name, start and end dates, production status, production dates, supervisor's name, email, and phone number, request type, reason for request, and approval date. The goal is to streamline the process and minimize errors. To avoid duplication, please ensure that the request is only submitted once and not multiple times. 
-
-</thinking>
-
 # Fashion Show Leave Of Absence Request - Help Guide
 ## Purpose
 The Fashion Show Leave Of Absence Request form is designed to collect necessary information from employees requesting leave during a fashion show production period.

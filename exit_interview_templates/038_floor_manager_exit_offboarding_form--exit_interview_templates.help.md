@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document the exit interview of a floor manager, which is a crucial step in the offboarding process. This form will help the manager provide important information about their departure, such as their manager's contact information, department, and reason for leaving. This information will be used to facilitate a smooth transition and ensure that the departing manager's responsibilities are transferred to someone new.
-The form is designed to be completed by the departing manager and should not be duplicated or altered in any way. Please review the form carefully and complete it accurately to ensure that all necessary information is captured.
-</thinking>
-
 # Floor Manager Exit Offboarding Form - Help Guide
 ## Purpose
 The Floor Manager Exit Offboarding Form is a document used to collect information from a departing floor manager, including their manager's contact information, department, reason for leaving, and other relevant details.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from pro bono agents, allowing them to rate the quality, usefulness, and overall impact of the services they provided. This feedback is essential for improving the performance and services of the pro bono program. 
-
-The form is designed to be completed by pro bono agents to provide their candid evaluation of the services they participated in. The feedback is not intended for public consumption, so agents can feel safe sharing their honest opinions. 
-
-Please ensure you have read through the form carefully before providing your feedback. If you have any questions or concerns, reach out to the pro bono program administrators. 
-
-This form will not be used to evaluate or judge agents based on their personal characteristics or demographics. The goal is to collect constructive feedback that can aid in refining the pro bono program and improving future services. 
-
-</thinking>
-
 # Pro Bono Agent Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from pro bono agents on their experience with the services provided by the program. This feedback will help us improve our services and better serve our clients.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback and impact assessment data from art projects that aim to bring about social change. The data collected will help Art for Social Change, the project's organizers, to evaluate and improve their program, identify effective approaches, and inform future project development. Before filling the form, please ensure that you have completed the project and are providing accurate information.
-
-When filling the form, please answer the questions honestly and to the best of your ability. The form is divided into two sections: 'Project Information' and 'Impact and Evaluation'.
-
-In the 'Project Information' section, you will be asked to provide details about your project, including its title, start date, category, target audience, budget, and funding sources. In the 'Impact and Evaluation' section, you will be asked to report on the project's impact, challenges faced, lessons learned, and any additional feedback or insights you may have.
-
-Please note that some fields are marked as 'required', which means that they are mandatory and must be filled in order to submit the form. However, you can skip optional fields if you do not have any information to provide.
-
-</thinking>
-
 # Art For Social Change Impact Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data on art projects that aim to bring about social change. The data will be used to evaluate and improve the project, identify effective approaches, and inform future project development.

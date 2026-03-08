@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Design Evolution Feedback Survey - Help Guide
 ## Purpose
 The Design Evolution Feedback Survey is designed to gather feedback from users on the current design evolution process. This feedback is used to improve and refine the design process to better meet the needs of our users.

@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the feedback system used to collect public feedback. Its purpose is to allow users to upload documents related to their feedback, providing relevant details such as the type of feedback, description of the feedback, a file upload option, and the submitter's information. To avoid duplication, the system will prevent users from submitting feedback with the same document title in a short period.
-</thinking>
-
 # Public Feedback Document Upload Form - Help Guide
 ## Purpose
 This form is designed to collect public feedback, including document uploads, for improvement and analysis purposes. It ensures that the submitted feedback is accurate, up-to-date, and relevant, helping to reduce duplication and improve the overall feedback process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beauty Service Environment Comfort Survey - Help Guide
 
 ## Purpose

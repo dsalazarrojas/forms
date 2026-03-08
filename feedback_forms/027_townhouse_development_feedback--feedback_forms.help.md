@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using AI to create a Townhouse Development Feedback form. Its purpose is to collect opinions and feedback from residents on various aspects of townhouse development, including resident, community, and other factors that affect their living experience. Before proceeding, ensure you've filled out this form to the best of your knowledge and don't duplicate your feedback if you've already submitted it before.
-</thinking>
-
 # Townhouse Development Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from residents on various aspects of townhouse development, including resident opinions, community satisfaction, and satisfaction with different departments involved in the development process.

@@ -1,12 +1,3 @@
-<thinking>
-... (checking if the form purpose and fields are clear and not duplicated)
-... (ensuring the guide is easy to follow and understand)
-... (reviewing the form structure and fields to create an accurate field-by-field explanation)
-... (verifying the required fields and ensuring the form is not too complex)
-... (writing the internal reasoning block in the background)
-
-</thinking>
-
 # UML And Use Case Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about UML (Unified Modeling Language) and Use Case Quiz data. It is used to gather user responses for a specific quiz that covers UML and use case concepts.

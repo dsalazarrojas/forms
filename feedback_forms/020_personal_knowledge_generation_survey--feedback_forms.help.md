@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Knowledge Generation Survey - Help Guide
 
 ## Purpose

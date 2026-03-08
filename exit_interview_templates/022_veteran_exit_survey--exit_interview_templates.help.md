@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from veterans who have exited the program. It is meant to be a one-page document that captures the veteran's details such as their name, date of exit, reason for exiting, and other relevant information. This form will serve as a template to be filled out by program staff members when a veteran exits the program.
-</thinking>
-
 # Veteran Exit Survey - Help Guide
 
 ## Purpose

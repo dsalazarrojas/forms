@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from participants on a specific event or experience related to a movement or activity. The form is designed to be completed by participants to provide insights on their experience, which can be used to improve future events or activities. This feedback is crucial for understanding the effectiveness of the experience and identifying areas for improvement.
-
-The form is used to collect data on various aspects of the experience, including the date, time, and category of the event, as well as feedback on the event itself, the participant's feedback, and their contact information. The form also includes fields to capture notes on the movement experience, which can be used to provide additional context and insights.
-
-Before starting, make sure you are completing this form for the correct purpose and not duplicating your feedback. This will ensure that your feedback is accurate and useful for the event organizers.
-
-</thinking>
-
 # Movement Experience Feedback Survey - Help Guide
 ## Purpose
 The Movement Experience Feedback Survey is designed to collect insights and feedback from participants on a specific event or experience related to a movement or activity. This feedback is crucial for understanding the effectiveness of the experience and identifying areas for improvement.

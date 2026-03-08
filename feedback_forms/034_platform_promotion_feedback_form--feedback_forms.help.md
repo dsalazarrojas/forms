@@ -1,5 +1,3 @@
-<thinking>Before providing the help guide, let me clarify the purpose and relevance of this form. It appears to be a feedback form for platform promotions, allowing users to provide feedback on promotional campaigns, promotional links, follow-up information, and other relevant details. This form aims to gather valuable insights from users, likely for marketing or analytics purposes. To ensure that this form is completed accurately, I will focus on providing a clear and concise explanation of each field, making it easy for end-users to navigate and provide quality input.</thinking>
-
 # Platform Promotion Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on platform promotional campaigns, including campaign details, user experience, and follow-up information. Please provide honest and detailed feedback to help us improve our services.

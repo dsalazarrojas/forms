@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback on bureaucratic processes within an organization. It is meant to be completed by employees, managers, or anyone who interacts with the organization's internal processes. 
-The form is not affiliated with or endorsed by any form platform, and it is an original creation based on public survey topic metadata. 
-It collects information about the respondent's experience with the organization, their role, department, and specific aspects of the bureaucratic process, such as clarity, efficiency, communication, and decision-making speed. 
-This form helps identify areas that need improvement, challenges faced, and suggestions for process optimization. It is meant to be a valuable tool for organizational growth and development.
-
-</thinking>
-
 # Bureaucracy Understanding Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on bureaucratic processes within an organization, providing valuable insights to improve and optimize these processes.

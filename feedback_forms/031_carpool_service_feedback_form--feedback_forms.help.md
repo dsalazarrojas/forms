@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from carpool users about their experience with the service. This guide will help users understand the purpose of the form and how to complete it in order to provide valuable feedback. Before starting, please note that this form is for users who have taken a trip using the carpool service.
-
-This form has multiple sections, and each section guides you through specific aspects of your experience. You can choose to complete as much or as little of the form as you need. Please answer honestly, and provide specific details whenever possible.
-</thinking>
-
 # Carpool Service Feedback Form - Help Guide
 
 ## Purpose

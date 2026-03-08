@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Webinar Follow Up Form Template - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees after a webinar has taken place. It aims to gauge their overall satisfaction with the webinar, gather suggestions for improvement, and provide a platform for attendees to share their thoughts on the presentation. 

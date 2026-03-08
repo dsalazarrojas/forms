@@ -1,8 +1,3 @@
-<thinking>
-This form is used for teams to register and provide information about their team-building activities, including whether they want to participate in certain events, their team name and size, accommodation preferences, and contact details. This form is likely part of a larger event registration process, and teams are registering for events in order to participate. It's worth noting that there is no duplication or overlap in this form, and teams can fill out the form with the information they have.
-
-</thinking>
-
 # Team Building Accommodation Form - Help Guide
 ## Purpose
 This guide will walk you through completing the Team Building Accommodation Form, a form used for teams to register and provide information about their team-building activities.

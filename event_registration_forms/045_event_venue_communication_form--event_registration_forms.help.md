@@ -1,9 +1,3 @@
-<thinking>... internal reasoning about the form purpose and relevance checks ...
-
-The "Event Venue Communication Form" is designed to collect event-specific information from users, including event name, location, date, start and end times, description, contact information (name, email, and phone number), and attached documents. This form is likely used for internal tracking and communication purposes, such as sending reminders or updates to event organizers or attendees. It is essential to fill out this form accurately and completely to ensure that event organizers and attendees have the necessary information to communicate effectively.
-
-</thinking>
-
 # Event Venue Communication Form - Help Guide
 
 ## Purpose

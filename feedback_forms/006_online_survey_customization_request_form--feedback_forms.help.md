@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information from users to create an online survey with custom features, format, and other details. This form is intended for internal use only and should not be filled out by external users.
-</thinking>
-
 # online_survey_customization_request_form - Help Guide
 ## Purpose
 This form is used to collect information from the user to customize an online survey. You will be asked to provide the name of the organization, desired features, format, contact information, and other details. Please fill out the form accurately to ensure the survey meets your needs.

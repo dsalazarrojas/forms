@@ -1,5 +1,3 @@
-<thinking>This form is intended to help parents and students register for a meeting with their teacher. It collects information on the meeting check-in, including the parent's contact information, meeting date and time, and any comments or notes related to the meeting. This form serves as a way to keep track of important details about the meeting and ensure that everyone is accounted for. Before filling out this form, please ensure that you have the necessary permissions to access the information you are providing, as it is sensitive in nature.</thinking>
-
 # parent_teacher_meeting_check_in_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a meeting check-in between parents and teachers, ensuring everyone is accounted for and on the same page.

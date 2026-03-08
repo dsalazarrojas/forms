@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the Horse Registration Form, which is used to register horses in a database for farm management and record-keeping purposes. This form ensures that accurate and up-to-date information is collected about each horse, including its owner, farm, and breed. The form is typically completed by the farm owner or their representative and is an important document for maintaining accurate records and ensuring compliance with any applicable laws and regulations.
-Before proceeding, please confirm that this is the correct form and that you are completing it for the right purpose. If you have already registered this horse, please do not submit a duplicate form.
-</thinking>
-
 # Horse Registration Form - Help Guide
 ## Purpose
 The Horse Registration Form is a crucial document for registering horses in a database, providing accurate and up-to-date information about each horse, its owner, and farm.

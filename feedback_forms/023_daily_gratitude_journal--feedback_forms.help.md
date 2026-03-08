@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users practice the habit of daily gratitude by recording three to five good things that happened during the day. It's a simple and efficient way to cultivate a positive mindset and reflect on the good experiences, no matter how small they may be. This form can be used by anyone, regardless of their background or profession, as a personal journaling tool to boost their mental well-being. It is not a replacement for professional help or therapy. Please note that this form is a general template and may not suit specific needs or requirements.
-</thinking>
-
 # Daily Gratitude Journal - Help Guide
 ## Purpose
 The Daily Gratitude Journal is designed to help you reflect on the good things that happened during the day, fostering a positive mindset and promoting gratitude.

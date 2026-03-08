@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from attendees of the Veterinary Technology Exhibition, specifically their consent to be recorded and the purpose for which the media will be used. The form will be used to ensure that attendees are aware of the recording and the intended use of the media, and to obtain their consent before proceeding with the recording.
-</thinking>
-
 # Veterinary Technology Exhibition Media Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain your consent for the recording of your likeness and image during the Veterinary Technology Exhibition. Please review the form carefully and provide your consent before attending the exhibition.

@@ -1,8 +1,3 @@
-<thinking>
-This form was created using public survey topic metadata as inspiration, but it is an original adaptation and not a direct copy of any existing form. Its purpose is to gather knowledge on stimulants and their effects.
-Before proceeding, ensure that this form is relevant to your needs and does not duplicate any existing knowledge base you may have. This form is a comprehensive quiz designed to test your understanding of stimulants.
-</thinking>
-
 # Stimulants Knowledge Quiz - Help Guide
 ## Purpose
 This form is a comprehensive quiz designed to test your knowledge on stimulants and their effects. It is intended to be a self-assessment tool to gauge your understanding of the subject matter.

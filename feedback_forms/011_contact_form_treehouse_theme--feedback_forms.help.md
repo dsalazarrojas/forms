@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather feedback or report issues from users, and it's intended to be used by anyone in the Treehouse community. Please use this form to share your thoughts, questions, or concerns about the Treehouse, and our team will get back to you as soon as possible.
-
-Before filling out this form, ensure that your feedback is not a duplicate of an existing issue that has already been reported. This will help us save time and focus on new, unique concerns.
-
-This guide is meant to walk you through the steps to complete the form, so you can submit your feedback effectively.
-</thinking>
-
 # Contact Form Treehouse Theme - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback or report issues from users in the Treehouse community. Please use this form to share your thoughts, questions, or concerns about the Treehouse.

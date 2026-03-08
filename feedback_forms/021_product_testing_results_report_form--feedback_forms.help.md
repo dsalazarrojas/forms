@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, "product_testing_results_report_form", is designed to collect data on the testing results of a specific product. It is used to gather information on how a product has performed during testing, including its test status, assigned date, due date, priority, status, task status, and other relevant details. The form is intended to be completed by the tester who conducted the testing, and it is a crucial part of the product development process. This form should not be duplicated, as it is a specific and essential part of the testing process.
 
 # product_testing_results_report_form - Help Guide

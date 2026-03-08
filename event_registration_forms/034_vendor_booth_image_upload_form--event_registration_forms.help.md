@@ -1,6 +1,3 @@
-<thinking>
-The Vendor Booth Image Upload Form is designed to collect essential information about an exhibitor's booth, including the exhibitor's name, image upload, vendor details, booth address, booth type, booth description, contact person, email, phone, file upload and file type. This form aims to gather relevant details for exhibition management, including contact information and booth specifics. This guide is intended to help users understand and complete the form correctly, ensuring accurate and complete submissions.
-</thinking>
 # Vendor Booth Image Upload Form - Help Guide
 
 ## Purpose

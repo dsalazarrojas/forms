@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Employee Evaluation Form - Help Guide
 ## Purpose
 The Restaurant Employee Evaluation Form is used to gather feedback and evaluation of restaurant employees. This form helps managers and supervisors assess an employee's performance, provide coaching, and identify areas for improvement. It is used to ensure that employees are meeting the expected standards of the restaurant and to help them grow professionally.

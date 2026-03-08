@@ -1,7 +1,3 @@
-<thinking>
-This guide helps users understand the purpose and functionality of the "Workplace Code Of Conduct Revision Request Form". The form is intended to be used by employees or staff to request revisions to the company's Code of Conduct. Before proceeding, please ensure that you haven't already submitted a similar request, as duplicate requests may be considered non-consequential. This guide is meant to be a helpful resource for users who are new to the form or require a refresher.
-</thinking>
-
 # Workplace Code Of Conduct Revision Request Form - Help Guide
 ## Purpose
 The "Workplace Code Of Conduct Revision Request Form" is designed to facilitate the process of revising the company's Code of Conduct. This form allows employees or staff to submit suggestions, changes, or improvements to the Code of Conduct by providing a clear and concise description of their request.

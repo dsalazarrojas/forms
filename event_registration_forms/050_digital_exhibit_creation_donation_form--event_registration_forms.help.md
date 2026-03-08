@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information and donation details for digital exhibit creation donations. The form is intended to be used by individuals who wish to contribute to the digital exhibit project. Please ensure that you are using this form for its intended purpose and do not attempt to use it for other types of donations or purposes. If you are unsure about the form's purpose or have any questions, please contact the form administrators.
-</thinking>
-
 # digital_exhibit_creation_donation_form - Help Guide
 ## Purpose
 This form is used to collect donations for digital exhibit creation projects. It is a simple form that gathers user information and donation details for further processing and review.

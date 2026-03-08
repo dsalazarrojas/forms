@@ -1,6 +1,3 @@
-<thinking>
-This form is for registering a Father's Day event. The form will be used by event organizers to collect information from attendees. The form is designed to be simple and straightforward, asking for basic contact information and a preferred assigned tool. The fields included are: first name, last name, email, phone number, address, city, zip code, and assigned tool. The assigned tool field is a multi-select field, allowing attendees to choose multiple tools that they would like to be assigned to. This form is not intended to be used for any other purpose than registering for the Father's Day event. Please ensure that you are using this form for its intended purpose and not duplicating efforts by using it for other events.</thinking>
-
 # Father's Day Stall Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for the Father's Day event.

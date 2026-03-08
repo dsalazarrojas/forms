@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to import team scores for a specific event. This form should only be used by authorized users to import scores for events that are not yet complete or for events that have been rescheduled. If an event is already complete, the scores will not be updated. This form will not overwrite existing scores.
-</thinking>
-
 # Team Scores Import Form - Help Guide
 ## Purpose
 The Team Scores Import Form is used to import team scores for a specific event. This form should be used by authorized users to import scores for events that are not yet complete or for events that have been rescheduled.

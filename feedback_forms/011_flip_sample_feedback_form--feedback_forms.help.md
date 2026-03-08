@@ -1,10 +1,3 @@
-<thinking>
-The "flip_sample_feedback_form" is used to gather feedback from customers about their experience with a sample product. This form helps us understand what customers like and dislike about the product, their frequency of use, and their overall satisfaction. 
-Before submitting your feedback, please ensure that you're not submitting duplicate feedback, as your responses will help us improve the product.
-
-To ensure accurate and helpful feedback, please make sure to fill in all the required fields.
-</thinking>
-
 # flip_sample_feedback_form - Help Guide
 
 ## Purpose

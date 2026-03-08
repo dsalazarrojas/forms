@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used for tracking harvest information for farmers or agricultural experts. The fields are designed to collect various details about a plant's harvest, including plant name, harvest date and time, plot and farm IDs, and notes for further details. The "Farmer Information" field likely indicates whether the farmer has provided information or not, and the "Location" field might be used to track the location where the harvest took place. The form does not duplicate any fields, and all required fields are marked as such. This form is probably used for administrative or record-keeping purposes, and the fields are intended to be filled out by farmers or their representatives after a harvest has occurred.</thinking>
-
 # Harvest Tracking Form - Help Guide
 ## Purpose
 This form is designed to collect information about a plant's harvest, including details about the plant, harvest date and time, plot and farm IDs, and additional notes.

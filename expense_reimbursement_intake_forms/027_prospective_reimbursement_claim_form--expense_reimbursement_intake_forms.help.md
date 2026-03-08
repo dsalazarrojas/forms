@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from claimants who are seeking reimbursement for expenses related to company-provided travel. The purpose of this form is to ensure that the claimant has provided accurate and complete information about their travel expenses. This form will be reviewed and processed internally to determine if the expenses are eligible for reimbursement.
-
-To complete this form, the claimant will need to provide their name, email address, phone number, address, city, state, zip, country, and amount of expenses incurred. They will also need to upload any relevant receipts or supporting documents for their expenses. Additionally, they will need to provide the date of service and the date of the claim.
-
-Please note that this form is not intended to be used for duplicate claims. If a claimant has already submitted a reimbursement claim for the same expense, please do not submit this form again.
-</thinking>
-
 # Prospective Reimbursement Claim Form - Help Guide
 ## Purpose
 This form is designed to collect information from claimants who are seeking reimbursement for expenses related to company-provided travel.

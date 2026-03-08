@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge of an individual on air compressors and their related systems. The purpose of this form is to evaluate the understanding of various aspects of air compressors, including their types, components, and maintenance procedures. This form will help in identifying knowledge gaps and providing a comprehensive overview of the subject matter.
-</thinking>
-
 # Air Compressor Knowledge Quiz - Help Guide
 ## Purpose
 The purpose of this quiz is to evaluate your knowledge on air compressors and their related systems. It will assess your understanding of various topics such as types of compressors, components, and maintenance procedures. This quiz is designed to help you identify knowledge gaps and provide a comprehensive overview of the subject matter.

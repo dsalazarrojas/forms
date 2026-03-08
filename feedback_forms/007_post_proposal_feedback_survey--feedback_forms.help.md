@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from reviewers on project proposals, allowing project owners to gain insight into the strengths and weaknesses of their proposals. The form is intended to be completed by the project reviewer, and it should only be filled out after the project proposal has been reviewed. This form will help project owners understand what they did well and what they could improve on. The project owner's information and the reviewer's information should be filled out for each project that they are working on. This will help ensure that all project owners and reviewers have consistent information and can provide clear feedback to each other. Please fill out each section thoroughly and accurately, and only fill out each section once per project.
-</thinking>
-
 # Post-Proposal-Feedback-Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from reviewers on project proposals, allowing project owners to gain insight into the strengths and weaknesses of their proposals.

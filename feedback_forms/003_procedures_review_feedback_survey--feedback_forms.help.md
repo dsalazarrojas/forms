@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from staff members and stakeholders about the procedures in place. The purpose of this form is to collect information on the effectiveness of the procedures, the overall score or rating given by the staff and stakeholders, and any comments or feedback they may have. This form is meant to be completed by staff and stakeholders who have had experience with the procedures and will be providing input on their experiences. It is expected that the responses will be honest and constructive, and will help in improving the procedures. It is also assumed that the staff and stakeholders have the necessary expertise and knowledge to provide accurate and relevant feedback. The fields included in this form are designed to gather specific types of feedback, such as the role of the individual, their score or rating, and their comments or feedback. Please take a moment to review each field to ensure you are comfortable with the questions being asked. If you have any questions or concerns, please don't hesitate to contact us.
-
-</thinking>
-
 # Procedures Review Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from staff and stakeholders about the procedures in place. Your input is valuable and will help us improve the procedures.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for users who want to provide feedback on the internal processes used within the organization. This form is designed to identify areas where processes can be improved to reduce friction points and make it easier for users to accomplish tasks efficiently. Please note that this form is not meant to be a complaint form, but rather a constructive feedback form to help the organization identify areas for improvement. By completing this form, you will be helping your organization to better understand your experience and make adjustments accordingly.
-</thinking>
-
 # Internal Process Friction Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the internal processes used within the organization, with the goal of identifying areas that can be improved to reduce friction points and make it easier for users to accomplish their tasks.

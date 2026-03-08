@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate peer reviews of employees within an organization. The form is used to collect feedback, suggestions, and overall ratings from peers on an employee's performance. Reviewers are asked to provide a thorough evaluation of the employee's strengths and areas for improvement, as well as an overall rating and comments. The form includes fields for the reviewer's contact information, ensuring a clear understanding of who is providing the review and why. The form also allows for an opportunity for the employee to provide comments and suggestions. By using this form, organizations can ensure that employee reviews are thorough, fair, and actionable. Before starting to fill out the form, please make sure that you are reviewing an employee in your organization, and that the employee being reviewed is also aware that this review is taking place. Please ensure that you have read and understood the review guidelines and protocols in your organization before proceeding.
-</thinking>
-
 # Employee Peer Review Template - Help Guide
 ## Purpose
 The Employee Peer Review Template is designed to facilitate thorough and objective evaluations of employees' performance. The form allows reviewers to provide feedback, suggestions, and an overall rating of the employee's strengths and areas for improvement.

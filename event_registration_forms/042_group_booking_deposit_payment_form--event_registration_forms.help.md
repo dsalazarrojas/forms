@@ -1,10 +1,3 @@
-<thinking>
-As a form expert and technical writer, I'll aim to create a user-facing help guide for the "Group Booking Deposit Payment Form" that is clear, concise, and easy to understand. To begin, let's break down the form's purpose and ensure that it's not duplicating any existing forms in the category "event_registration_forms".
-
-The purpose of this form is to collect payment information for group bookings, allowing users to input details such as deposit amounts, payment methods, and booking status. This form is likely used in the context of events, tours, or other types of group bookings where payment information is required. I'll ensure that this guide is relevant and does not duplicate any existing forms.
-
-</thinking>
-
 # Group Booking Deposit Payment Form - Help Guide
 
 ## Purpose

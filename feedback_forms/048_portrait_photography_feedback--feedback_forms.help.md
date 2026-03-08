@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers who have had a portrait photography session. The purpose of this form is to gather information about their experience, preferences, and contact details. To ensure you're using the correct form, check that the form title is "Portrait Photography Feedback" and the form name is "portrait_photography_feedback_form". If you've already provided feedback on this session, please do not submit duplicate feedback.
-</thinking>
-
 # Portrait Photography Feedback - Help Guide
 ## Purpose
 This form is used to collect feedback from customers who have had a portrait photography session. It helps us understand their experience and preferences, and ensures we can improve our services for future clients.

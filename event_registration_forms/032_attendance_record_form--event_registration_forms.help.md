@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to record attendance and track attendance status for events or classes. The fields are categorized into several sections for clarity. Please consider whether this form is suitable for your use case. If you're unsure, please consult with the form's administrator.
-</thinking>
-
 # Attendance Record Form - Help Guide
 ## Purpose
 This guide explains how to complete the Attendance Record Form. It is a structured form with several sections, each designed to collect specific information about an event or class.

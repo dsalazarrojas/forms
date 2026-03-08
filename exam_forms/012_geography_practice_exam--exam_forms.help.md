@@ -1,11 +1,3 @@
-<thinking>
-
-The "Geography Practice Exam" form is designed to assess students' knowledge and understanding of geographical concepts and terminology. This form is intended to be used as a practice assessment for students preparing for geography exams or as a tool for teachers to gauge their students' grasp of geographical concepts. By completing this form, students and teachers can evaluate their knowledge and identify areas of improvement.
-
-Please note that this form is not intended for formal academic or certification purposes. It is a practice tool to help students and teachers gauge their understanding of geographical concepts and terminology.
-
-</thinking>
-
 # Geography Practice Exam - Help Guide
 ## Purpose
 The "Geography Practice Exam" form is a tool for students and teachers to assess their knowledge and understanding of geographical concepts and terminology.

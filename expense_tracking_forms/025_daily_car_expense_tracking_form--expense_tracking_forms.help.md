@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track daily car expenses, including fuel consumption, vehicle repairs, parking fees, tolls and taxes, and other miscellaneous expenses. It is intended for use by car owners or managers to keep a record of daily car usage and related costs. The form should be used to report daily expenses for a single day. If you need to report expenses for multiple days, you should fill out this form for each day. Please ensure that all required fields are filled in for accurate reporting. 
-
-</thinking>
-
 # Daily Car Expense Tracking Form - Help Guide
 ## Purpose
 This form helps users track daily car expenses, including fuel consumption, maintenance, and other costs.

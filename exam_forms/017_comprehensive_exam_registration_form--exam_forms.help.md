@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering candidates for comprehensive exams. It collects personal and exam-related information to facilitate the exam process and ensure a smooth experience for candidates. The form is designed to be completed by candidates to provide their details and preferences for the exam. 
-</thinking>
-
 # Comprehensive Exam Registration Form - Help Guide
 ## Purpose
 The Comprehensive Exam Registration Form is used to register candidates for comprehensive exams. This form collects personal and exam-related information to facilitate the exam process and ensure a smooth experience for candidates.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Expense Statement - Help Guide
 ## Purpose
 The Expense Statement form is designed to collect information about a user's expenses. This form is used to document and track expenses for accounting and financial purposes.

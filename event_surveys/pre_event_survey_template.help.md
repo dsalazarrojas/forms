@@ -1,11 +1,3 @@
-<thinking>
-The pre_event_survey_template form is designed to gather valuable information from attendees about their expectations and feedback on pre-event information and registration. This form ensures that the organizers have a clear understanding of the attendees' needs and experiences, which can inform the event planning and execution process.
-
-To ensure data quality and relevance, please note that this form is only to be used for events of the category "event_surveys" and should not be used as a general-purpose form.
-
-Before using this form, please check if a similar form already exists in your organization or if there are any internal policies that may duplicate this form's purpose.
-</thinking>
-
 # pre_event_survey_template - Help Guide
 ## Purpose
 The pre_event_survey_template form is designed to collect feedback and expectations from event attendees before the event takes place.

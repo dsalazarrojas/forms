@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to evaluate the outcomes of volunteer skill-building activities. It captures participant names, descriptions of the skills built, evaluation dates and times, feedback, and any skills acquired or additional comments. This form will help to track progress, identify areas of improvement, and document the effectiveness of volunteer skill-building initiatives. Please note that this form is not a comprehensive evaluation tool, and its primary use is for internal tracking and monitoring purposes.
-
-This form will not replace existing evaluation tools or processes used within an organization. If you are already using a formalized evaluation process, please do not use this form for official evaluation purposes. Use it for tracking and monitoring progress only.
-</thinking>
-
 # Volunteer Skill Building Outcome Evaluation Form - Help Guide
 ## Purpose
 The Volunteer Skill Building Outcome Evaluation Form is a tool for tracking and monitoring progress in volunteer skill-building activities. It helps to identify the outcomes of these activities, provide feedback, and document skills acquired.

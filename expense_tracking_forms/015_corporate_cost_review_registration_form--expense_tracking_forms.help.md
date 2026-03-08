@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about corporate expenses for review and approval. It will be used to track employee spending, ensure compliance with company policies, and provide visibility into expense categories. Please ensure that you are filling out this form for legitimate business purposes and not for personal expenses. This form is not intended to replace any other expense tracking system or process in place, so please do not duplicate efforts.
-
-</thinking>
-
 # Corporate Cost Review Registration Form - Help Guide
 ## Purpose
 

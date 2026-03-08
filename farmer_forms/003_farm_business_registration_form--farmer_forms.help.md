@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information about a farm business. It will likely be used by the farm owner or operator to register their farm with the relevant authorities. The form is designed to be completed in multiple pages, each with a specific set of questions or fields. 
-
-This form will likely be used by people who are registering their farm business for the first time or making changes to their existing registration. It's possible that some of the fields may require additional information or clarification in order to be completed accurately. The form will be used by farm owners or operators to register their business with the relevant authorities and provide necessary information for their farm.
-
-</thinking>
-
 # Farm Business Registration Form - Help Guide
 ## Purpose
 The Farm Business Registration Form is a multi-page form used to register a farm business with the relevant authorities. This guide will walk you through each page of the form and explain the purpose of each field.

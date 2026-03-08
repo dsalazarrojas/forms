@@ -1,8 +1,4 @@
-> <thinking>
-The form is designed to collect information from guests attending a bridal shower for the bride-to-be. The form is used to gather essential details such as the guest's name, contact information, relationship to the bride, and RSVP status. It also collects information about the guest's ability to attend, their willingness to help with the event, and any dietary restrictions they may have. The form is used by the event organizers to plan and prepare for the shower, and to tailor the event to the guests' needs.
-</thinking>
-
-# Bridal Shower Form - Help Guide
+> # Bridal Shower Form - Help Guide
 ## Purpose
 The Bridal Shower Form is designed to collect information from guests attending the bridal shower for the bride-to-be. This form will help the event organizers plan and prepare for the event.
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Satisfaction Survey Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the satisfaction of volunteers with our program. We value your feedback and opinions, and this form helps us understand how to better serve you and improve our services.

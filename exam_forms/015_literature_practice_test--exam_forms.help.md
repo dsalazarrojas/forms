@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess a user's knowledge and skills in literature, providing a practice test to evaluate their understanding of literary concepts, texts, and questions. This form is intended to help educators, researchers, or students gauge their proficiency in literary analysis, criticism, and comprehension. It's recommended to complete the form only if the user is familiar with the relevant literature and has a good grasp of the subject matter.
-
-Before starting, ensure this is the correct form for your needs, and that you're not duplicating your effort. If you're new to literature practice tests, this form is a starting point, and you might want to consider consulting with your instructor or supervisor to determine the most suitable assessment method for your specific purposes.
-
-</thinking>
-
 # Literature Practice Test - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and skills in literature, providing a practice test to evaluate your understanding of literary concepts, texts, and questions.

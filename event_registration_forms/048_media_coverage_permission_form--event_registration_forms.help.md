@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used for obtaining media coverage permissions for events. Media coverage includes photography, recording, and other forms of media coverage. The form is used to inform event organizers and participants about the terms of media coverage, including what kind of media use is allowed, when and where the media will be used, and what kind of credits are required.
-
-This form is designed to be completed by event organizers to provide detailed information about the event, including the event name, location, dates, and organizer. Participants are also asked to provide information about their media use, such as photography and recording information.
-
-Before completing this form, please ensure that you have the necessary permissions and approvals from the event organizers and participants before sharing any media coverage of the event.
-
-</thinking>
-
 # Media Coverage Permission Form - Help Guide
 ## Purpose
 This form is used to obtain media coverage permissions for events, including photography, recording, and other forms of media coverage. It is used by event organizers to inform participants about the terms of media coverage and by participants to provide information about their media use.

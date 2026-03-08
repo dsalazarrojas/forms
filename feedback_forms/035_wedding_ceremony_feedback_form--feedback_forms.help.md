@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users who attend wedding ceremonies. The purpose of this form is to gather information about the ceremony, including the date, time, location, and type, as well as feedback from attendees. This form is not intended to be used for other purposes, such as RSVP management or gift registries. 
-</thinking>
-
 # Wedding Ceremony Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from wedding ceremony attendees. It includes questions about the ceremony, such as date, time, location, and type, as well as space for attendees to provide comments or suggestions. 

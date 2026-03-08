@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Favorite Notification Feedback - Help Guide
 
 ## Purpose

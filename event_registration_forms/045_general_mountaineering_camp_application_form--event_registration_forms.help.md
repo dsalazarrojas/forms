@@ -1,20 +1,3 @@
-<thinking>
-This is a form designed to collect information from camp attendees. The form is intended for general mountaineering camps and the purpose is to gather essential details about each attendee, including their name, contact information, and preferences. 
-The form is required to be completed in full, as indicated by the "required: true" flag on each field. The form does not have any duplicate fields, and all fields are designed to be filled out by the attendee themselves. 
-
-The form has several fields, each with a specific purpose: 
-- First Name: This is a text field asking for the attendee's first name. 
-- Last Name: This is a text field asking for the attendee's last name. 
-- Email: This is an email field asking for the attendee's email address. 
-- Phone: This is a text field asking for the attendee's phone number. 
-- Camp Preferences: This is a select_one field with three options for the attendee to choose their camp preference. 
-- Date: This is a date field asking for the attendee's date of arrival. 
-- Time: This is a time field asking for the attendee's time of arrival. 
-- Notes: This is a note field for any additional information the attendee may want to provide.
-
-Please refer to the following help guide for further details.
-</thinking>
-
 # General Mountaineering Camp Application Form - Help Guide
 ## Purpose
 This form is intended for collecting information from general mountaineering camp attendees. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential attendees of campus events. The form is used to register attendees for upcoming events on campus, such as conferences, workshops, or seminars. To be eligible to register, an attendee must have a valid email address, and their name, school or university, event name, date, time, and location must be accurately filled out. This form will guide you through the process of providing the necessary information required to register for events on campus.
-</thinking>
-
 # Campus Outreach Event Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register attendees for upcoming events on campus.

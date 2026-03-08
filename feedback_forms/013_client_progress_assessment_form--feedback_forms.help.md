@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Progress Assessment Form - Help Guide
 ## Purpose
 The Client Progress Assessment Form is a tool used to evaluate the progress of clients in various programs or services provided by the organization. This form helps track client progress, identify areas of improvement, and adjust support strategies accordingly. 

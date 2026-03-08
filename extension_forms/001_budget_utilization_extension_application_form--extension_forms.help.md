@@ -1,8 +1,3 @@
-<thinking>
-This form is for applicants to request a budget utilization extension. The purpose of this form is to provide a structured way for employees to submit an extension request for a project or budget line item that needs more time to complete. By completing this form, the applicant can provide all the necessary information for the reviewer to make an informed decision on the extension request.
-To ensure a smooth application process, please only submit one extension request per budget line item. Multiple requests for the same budget line item will be considered duplicates and may not be processed.
-</thinking>
-
 # Budget Utilization Extension Application Form - Help Guide
 ## Purpose
 

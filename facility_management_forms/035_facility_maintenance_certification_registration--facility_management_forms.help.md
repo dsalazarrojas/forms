@@ -1,8 +1,3 @@
-<thinking>
-The form is used to register facility maintenance certification. It captures information about the participant, employer, and certification session. The form is designed to ensure that participants are properly certified and that their certification is up-to-date. This form is relevant to employees who need to be certified to perform maintenance tasks and to facilities that require certification for their employees. It is essential to ensure that the certification is valid and that participants are properly trained and certified. This form should not be filled out if the employee is not certified or if the certification is already up-to-date.
-
-</thinking>
-
 # facility_maintenance_certification_registration - Help Guide
 ## Purpose
 The facility maintenance certification registration form is used to register facility maintenance certification. It captures information about the participant, employer, and certification session.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about equipment rental bookings for events. The purpose of the form is to gather essential details from event organizers and attendees to facilitate efficient and organized equipment rental management. This form is not affiliated with, endorsed by, or derived from any form platform.
-</thinking>
-
 # Prop Rental Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information about equipment rental bookings for events. It helps event organizers and attendees provide necessary details for successful event execution.

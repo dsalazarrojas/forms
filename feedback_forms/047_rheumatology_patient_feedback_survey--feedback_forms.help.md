@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rheumatology_patient_feedback_survey - Help Guide
 
 ## Purpose

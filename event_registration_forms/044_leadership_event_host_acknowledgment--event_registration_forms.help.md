@@ -1,22 +1,3 @@
-<thinking>
-A Leadership Event Host Acknowledgment form is used by hosts or coordinators to acknowledge that an event has occurred. This form is meant to be filled out by the host after the event has taken place. It is crucial to prevent duplication of records and ensure accurate information is recorded.
-
-The main objective of this form is to gather the host's confirmation that an event occurred, along with event details and host information. The form will then help in maintaining an accurate record of events and aid in future reference.
-
-This form can be completed in the following steps.
-
-1. Ensure that the event has occurred and you are the rightful host or coordinator for the event.
-2. Enter the name of the event.
-3. Select the date of the event.
-4. Select the time of the event.
-5. Enter your name as the host.
-6. Enter your role in the event.
-7. Enter your email address.
-8. Confirm if you have received the necessary information, resources, or support for the event.
-9. Review and submit the form.
-
-</thinking>
-
 # Leadership Event Host Acknowledgment - Help Guide
 ## Purpose
 

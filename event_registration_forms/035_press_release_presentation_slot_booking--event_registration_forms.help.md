@@ -1,7 +1,3 @@
-<thinking>
-This form is for scheduling press releases, which are events where a press representative will be presenting information to a wider audience. The purpose of this form is to create and book slots for these events. The form has multiple pages with various fields for different event details. It's essential that each field is completed correctly to ensure accurate event information. Please make sure to carefully review each field and fill it out accordingly.
-</thinking>
-
 # press_release_presentation_slot_booking - Help Guide
 ## Purpose
 The "press_release_presentation_slot_booking" form is designed to create and manage slots for press releases. This form will help you schedule and organize press releases with the required details.

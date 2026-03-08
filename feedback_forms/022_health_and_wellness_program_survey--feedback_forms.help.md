@@ -1,11 +1,3 @@
-<thinking>
-  This help guide is intended to provide a clear understanding of the purpose and requirements of the Health and Wellness Program Survey form. 
-  This form is designed to collect information about an individual's preferences and habits related to health and wellness. 
-  The form will ask questions about exercise, sleep quality, nutrition, and other relevant aspects of a person's lifestyle.
-  Please ensure that you are not already responding to this survey, as it is intended for first-time respondents.
-  The form's fields are explained below:
-  </thinking>
-
 # Health and Wellness Program Survey - Help Guide
 ## Purpose
 The Health and Wellness Program Survey is designed to collect information about your habits and preferences related to health and wellness. This information will help us understand your needs and provide you with personalized guidance and resources.

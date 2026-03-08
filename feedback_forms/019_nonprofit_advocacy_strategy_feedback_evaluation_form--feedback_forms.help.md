@@ -1,7 +1,3 @@
-<thinking>
-This form was designed using AI to create a feedback evaluation form for nonprofit organizations to assess the effectiveness of their advocacy strategy. This form is used to gather opinions and suggestions from individuals who have experience with the nonprofit's advocacy efforts. The purpose of this form is not to create duplicate or redundant surveys, but rather to gather concrete and actionable feedback to improve the nonprofit's advocacy strategy. The form is designed to be concise and easy to complete, while providing the necessary information for the nonprofit to make data-driven decisions.
-</thinking>
-
 # Nonprofit Advocacy Strategy Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on the effectiveness of your nonprofit's advocacy strategy. Please take a few minutes to complete this form and provide your thoughts on how we can improve our advocacy efforts.

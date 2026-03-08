@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students who have met with a writing advisor, typically a tutor or instructor, to provide them with guidance on their writing assignment. This feedback form is meant to be completed by the student after the meeting to ensure that the advisor has a clear understanding of what the student gained from the meeting and to identify areas where the student may need further support.
-
-The form is used to evaluate the effectiveness of the writing advisor in helping students understand the topic and their assignment objectives. The feedback form is not intended to be completed by the writing advisor themselves, but rather by the student who received the feedback. 
-
-By using this form, we can avoid duplication of effort and ensure that the advisor's time is utilized efficiently. 
-
-</thinking>
-
 # Writing Advisor Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from students about their meeting with a writing advisor. The feedback provided will help us evaluate the effectiveness of the writing advisor and identify areas where students may need further support.

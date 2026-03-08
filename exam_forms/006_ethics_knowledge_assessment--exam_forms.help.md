@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the respondent's knowledge on ethics-related questions. It is a comprehensive assessment tool to gauge their understanding of various ethical dilemmas. The purpose of this form is to ensure that the respondent is aware of the ethical implications of their actions and decisions.
-
-The form has several questions, including multiple-choice questions, select-all-that-apply questions, open-ended questions, and date/time questions. The form is designed to be completed in multiple pages, with each page having several questions.
-
-The form does not contain any duplicated questions.
-
-</thinking>
-
 # Ethics Knowledge Assessment - Help Guide
 ## Purpose
 The Ethics Knowledge Assessment form is designed to test the respondent's knowledge on various ethical matters.

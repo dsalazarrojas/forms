@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information about Access Control Units, which are likely part of a secure access control system used to manage access to restricted areas in a facility. The form is used to set up a new Access Control Unit, which involves entering details about the installation project, hardware configuration, access groups programmed into the unit, and testing and verification of the unit's functionality. The form requires information such as project details, hardware model number, number of readers connected, communication type, firmware version, access groups, door logic configuration, and testing status. The form also captures approval from the authorized technician and facility manager, indicating that the installation and configuration are complete and accepted.</thinking>
-
 # Access Control Unit Setup Form - Help Guide
 ## Purpose
 This form is used to collect information about Access Control Units to ensure proper setup and configuration.

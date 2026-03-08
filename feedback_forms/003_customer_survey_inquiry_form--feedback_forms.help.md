@@ -1,5 +1,3 @@
-<thinking>...the form's purpose is to gather information about customer interactions with a business or organization, specifically to collect feedback and scores related to customer service and satisfaction. This form will likely be used to identify areas of improvement and make data-driven decisions. To ensure accurate and relevant data collection, the form should not be submitted multiple times by the same customer. Please ensure you complete the form only once for each interaction...</thinking>
-
 # Customer Survey Inquiry Form - Help Guide
 ## Purpose
 The form is designed to collect customer feedback and scores related to customer service and satisfaction. This information will help us identify areas of improvement and make data-driven decisions.

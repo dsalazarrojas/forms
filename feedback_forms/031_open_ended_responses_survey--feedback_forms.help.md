@@ -1,13 +1,3 @@
-<thinking>
-
-We're creating a help guide for a form designed to collect open-ended responses from customers about a product. This form is intended to gather qualitative feedback, allowing customers to express their thoughts and opinions in a free-form text format. The form has four fields, each asking a different question related to the customer's experience with the product. 
-
-The form is designed to be flexible and adaptable, allowing customers to respond in a way that feels comfortable for them. The fields are not mutually exclusive, and customers can provide as much or as little information as they want in each field. The goal is to gather rich and detailed feedback that will help us better understand our customers' thoughts and emotions about the product.
-
-Before we start, please note that this form is not affiliated with, endorsed by, or derived from any form platform. It's an original adaptation created using AI and public survey topic metadata.
-
-</thinking>
-
 # Open-Ended Responses Survey - Help Guide
 ## Purpose
 The Open-Ended Responses Survey is designed to collect open-ended, qualitative feedback from customers about a product. This form allows customers to express their thoughts, opinions, and feelings in a free-form text format.

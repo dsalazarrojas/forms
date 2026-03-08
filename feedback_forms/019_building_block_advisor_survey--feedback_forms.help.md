@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Building Block Advisor Survey" form. The purpose of this form is to gather feedback and recommendations from advisors on a project or program. It is intended for advisors who have experience and knowledge in their field and can provide valuable insights and advice. 
-
-This form is not designed for general public use; it is intended for advisors who are familiar with the project or program's context and goals. Therefore, it is essential to have some basic knowledge of the project or program before completing this form.
-
-Before proceeding, please ensure that you have reviewed the project or program's information and have a clear understanding of the goals and objectives.
-
-</thinking>
-
 # Building Block Advisor Survey - Help Guide
 
 ## Purpose

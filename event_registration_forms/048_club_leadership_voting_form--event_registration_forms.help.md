@@ -1,6 +1,3 @@
-<thinking>... internal reasoning and checks for duplication ...
-</thinking>
-
 # Club Leadership Voting Form - Help Guide
 ## Purpose
 The Club Leadership Voting Form is designed to collect votes for club leadership positions. It allows users to select their preferred candidates for president, vice president, secretary, treasurer, and other positions. The form also includes fields for voter identification, verification, and submission confirmation.

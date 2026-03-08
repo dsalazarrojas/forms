@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the suitability of a remote worker, evaluating their performance, productivity, and other relevant aspects. To prevent duplication, please fill out the form only when the assessment is not already completed for the same worker.
-
-</thinking>
-
 # remote_worker_assessment_form - Help Guide
 ## Purpose
 This form helps assess the suitability of a remote worker, evaluating their performance, productivity, and other relevant aspects.

@@ -1,6 +1,3 @@
-<thinking>...
-We want to ensure that our support team receives valuable feedback to improve our support sessions. This form is designed to collect feedback from customers who have participated in support sessions. Please note that if you're not sure what to fill in, just provide the best information you can, and we'll take it into consideration.</thinking>
-
 # Support Session Progress Survey - Help Guide
 ## Purpose
 The Support Session Progress Survey is a tool that helps us understand how well our support sessions are going. Your feedback is invaluable in helping us identify areas of improvement and provide better support in the future.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Habitat Build Volunteer Time Off Form - Help Guide
 
 ## Purpose

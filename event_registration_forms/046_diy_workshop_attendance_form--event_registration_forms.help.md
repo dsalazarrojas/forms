@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # DIY Workshop Attendance Form - Help Guide
 ## Purpose
 This form is for participants to register their attendance for a DIY Workshop event. You will need to provide your personal and workshop preferences to help us better organize and prepare for the event.

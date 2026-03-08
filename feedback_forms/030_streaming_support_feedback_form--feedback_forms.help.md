@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their streaming experience. The purpose of this form is to help us understand the quality of our streaming service and identify areas for improvement. By providing feedback, users can help us make our streaming service better for everyone. Please note that this form is for collecting individual feedback, so please do not submit multiple responses for the same issue. If you have a recurring issue or complaint, please submit one response for the entire issue.
-</thinking>
-
 # Streaming Support Feedback Form - Help Guide
 ## Purpose
 The Streaming Support Feedback Form is a tool for users to provide feedback about their streaming experience. This form helps us understand the quality of our streaming service and identify areas for improvement.

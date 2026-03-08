@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # office_cleaning_service_feedback_questionnaire - Help Guide
 ## Purpose
 The office cleaning service feedback questionnaire is designed to gather information about your experience with our office cleaning services. This form will help us understand your satisfaction with our service quality, timeliness, and overall value. Please take a few minutes to complete this form and provide your honest feedback.

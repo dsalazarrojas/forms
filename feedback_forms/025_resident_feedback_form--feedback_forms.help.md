@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Resident Feedback Form - Help Guide
 
 ## Purpose

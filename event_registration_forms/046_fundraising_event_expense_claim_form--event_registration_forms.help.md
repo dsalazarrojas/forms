@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for claiming expenses related to fundraising events. The form is likely used by event organizers or volunteers to document and submit their expenses incurred during an event, so we need to ensure the form is completed correctly and thoroughly. We should consider that this form will be reviewed and processed internally, so it's essential to provide clear and concise explanations for each field. It's also worth noting that some fields may be optional, but it's still crucial to provide guidance to avoid duplication or missing critical information.
-
-</thinking>
-
 # Fundraising Event Expense Claim Form - Help Guide
 ## Purpose
 The Fundraising Event Expense Claim Form is designed for event organizers or volunteers to document and submit their expenses related to fundraising events. Please complete this form accurately and thoroughly to facilitate a smooth review and processing process.

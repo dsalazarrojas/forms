@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from clients about their pre-consultation requirements. The form is likely used to determine the type of consultation or service needed by a client. To ensure accurate completion, please fill out the form carefully and select the relevant options. Ensure that you are not duplicating your request as this may cause confusion.
-</thinking>
-
 # Stamped Extension Pre Consultation Form - Help Guide
 ## Purpose
 The Stamped Extension Pre Consultation Form is designed to gather information from clients about their specific needs and requirements before a consultation. This form helps to ensure that the consultant has the necessary information to provide effective assistance.

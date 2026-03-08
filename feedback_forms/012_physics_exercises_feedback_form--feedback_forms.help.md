@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from students regarding their experience with physics exercises. The purpose of this form is to collect data on students' satisfaction with the exercises, their performance, and any issues they faced while completing them. The form is a simple text-based feedback form that aims to collect actionable feedback from students to improve the quality of the physics exercises provided.
-
-To ensure the form's relevance to our internal processes, we will review and update this form regularly to reflect any changes in the exercises or teaching approach.
-
-</thinking>
-
 # Physics Exercises Feedback Form - Help Guide
 ## Purpose
 The Physics Exercises Feedback Form is designed to collect feedback from students on their experience with physics exercises. This feedback is crucial to improving the quality of the exercises and providing a better learning experience for students.

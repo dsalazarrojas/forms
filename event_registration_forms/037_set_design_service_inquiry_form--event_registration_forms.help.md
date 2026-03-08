@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for customers to inquire about setting up a design service for an event or production project. The form collects relevant information about the service name, type, project name, project type, start and end dates, service location, contact number, contact email, and service details. This information will be used to assess the project's requirements and feasibility.
-
-To ensure accurate and efficient processing, please complete the form carefully and thoroughly. Please note that some fields are required and must be filled out.
-
-</thinking>
-
 # Set Design Service Inquiry Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your event or production project so we can provide you with the best possible design service.

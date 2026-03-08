@@ -1,5 +1,3 @@
-<thinking>Why is an exit interview form necessary? An exit interview form is a document that helps to understand the reasons why employees are leaving a company. It provides valuable insights into the reasons behind the departure, which can be used to improve employee retention, identify areas of improvement, and make data-driven decisions for future growth and development. This guide will walk you through the process of completing the exit interview form, field by field, to ensure you provide accurate and helpful feedback.</thinking>
-
 # Exit Interview Form - Help Guide
 
 ## Purpose

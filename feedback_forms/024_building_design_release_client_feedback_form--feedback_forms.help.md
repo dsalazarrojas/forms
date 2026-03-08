@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients on their experience with the building design release. The form is meant to gather information on various aspects of the design, including project information, aesthetic appeal, material selection, spatial layout, and technical feasibility. The client will be asked to provide their overall satisfaction with the design, whether the design meets project requirements, and their level of innovation and creativity. Additionally, the form will collect feedback on specific areas such as buildability, cost and timeline alignment, and concerns or issues with the design. The client will also be able to provide suggestions for improvement. The form is intended to provide valuable insights to the design team on areas that require improvement and help them make informed decisions for future projects. This form was created using AI to gather feedback from clients on building design releases, and it is not affiliated with any specific form platform.
-</thinking>
-
 # Building Design Release Client Feedback Form - Help Guide
 ## Purpose
 

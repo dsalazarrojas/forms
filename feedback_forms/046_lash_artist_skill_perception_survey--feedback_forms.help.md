@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from lash artists about their skill level, experience, and work habits. This form is intended to help us better understand the lash industry and identify areas where we can improve our products and services. By filling out this form, you will be providing valuable insights that will help us tailor our offerings to meet the needs of lash artists like you.
-
-Before proceeding, please ensure that you are not duplicating your answers, as this form is designed to collect unique and diverse feedback from different lash artists. Your input will help us create a more comprehensive understanding of the lash industry.
-
-</thinking>
-
 # lash_artist_skill_perception_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from lash artists about their skill level, experience, and work habits.

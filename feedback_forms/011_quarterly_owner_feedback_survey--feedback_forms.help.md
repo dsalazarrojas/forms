@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Quarterly Owner Feedback Survey form. The purpose of this form is to collect feedback from property owners on their experiences and satisfaction with the service provided. This form will only be visible to authorized personnel, ensuring that the feedback is kept confidential and used for internal purposes only. Please note that this form should not be filled out if you have already provided feedback in the past quarter. If you have filled out this form previously, you may not need to fill it out again. However, if you have significant changes in your experiences or satisfaction, please feel free to fill it out again.
-</thinking>
-
 # Quarterly Owner Feedback Survey - Help Guide
 ## Purpose
 The Quarterly Owner Feedback Survey is designed to gather information on your experiences and satisfaction with our service. Your feedback is crucial in helping us improve our services and better serve you in the future.

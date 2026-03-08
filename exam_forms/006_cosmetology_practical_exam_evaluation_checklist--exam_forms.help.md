@@ -1,9 +1,3 @@
-<thinking>
-
-The Cosmetology Practical Exam Evaluation Checklist is designed to help examiners evaluate a student's performance during a cosmetology practical exam. This form will guide the examiner in assessing the student's skills and providing feedback on their performance. The examiners use this form to document the student's strengths and areas for improvement, helping them to receive a well-rounded evaluation. This form is used for internal evaluation purposes only and will not be shared with the student.
-
-</thinking>
-
 # Cosmetology Practical Exam Evaluation Checklist - Help Guide
 ## Purpose
 The Cosmetology Practical Exam Evaluation Checklist is a tool for examiners to evaluate a student's performance during a cosmetology practical exam. It helps examiners assess the student's skills and provide feedback on their strengths and areas for improvement.

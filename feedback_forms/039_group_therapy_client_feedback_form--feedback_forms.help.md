@@ -1,12 +1,3 @@
-<thinking>
-# Internal reasoning block
-
-This form is used to collect feedback from clients about their group therapy sessions. It is designed to help us understand their overall satisfaction with the therapy process, their rating of the therapist, and their progress in achieving their goals. The feedback will be reviewed by our team to improve the services we offer. 
-
-Before filling out this form, please make sure you have attended at least one session and have a clear understanding of your goals and expectations from the therapy process.
-
-</thinking>
-
 # group_therapy_client_feedback_form - Help Guide
 ## Purpose
 The group_therapy_client_feedback_form is designed to collect feedback from clients who have attended group therapy sessions. It helps us understand their overall satisfaction with the therapy process, their rating of the therapist, and their progress in achieving their goals.

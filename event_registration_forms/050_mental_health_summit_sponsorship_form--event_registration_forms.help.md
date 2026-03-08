@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mental_health_summit_sponsorship_form - Help Guide
 
 ## Purpose

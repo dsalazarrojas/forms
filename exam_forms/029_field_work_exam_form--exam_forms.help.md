@@ -1,5 +1,3 @@
-<thinking>...The goal of this form is to collect information about field work exams. A field work exam is used to evaluate the competence and performance of individuals in the field. It may be a part of employee assessment or performance evaluation process. To ensure that this form is properly filled out and to prevent duplication, it is best to have only one form per field work exam instance, with the exam date and duration information being filled out only once.</thinking>
-
 # Field Work Exam Form - Help Guide
 ## Purpose
 

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Mergers And Acquisitions Feedback Form - Help Guide
 ## Purpose
 The Mergers And Acquisitions Feedback Form is a tool used to collect feedback and information about mergers and acquisitions from team members. This form is used to help the team track and analyze the progress of mergers and acquisitions, and to provide a platform for team members to express their thoughts and concerns. **Please note that this form is not for soliciting sensitive or confidential information.**

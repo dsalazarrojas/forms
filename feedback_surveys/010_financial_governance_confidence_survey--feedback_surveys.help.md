@@ -1,5 +1,3 @@
-<thinking>...This form is a survey designed to assess the confidence in the financial governance of an organization. It is intended to be filled out by end-users to provide insights on their level of trust and satisfaction with the financial governance practices within the organization. This form is not meant to be completed by the same user multiple times, so please only fill out the form once per user.</thinking>
-
 # Financial Governance Confidence Survey - Help Guide
 ## Purpose
 This form is designed to gather insights on the level of confidence end-users have in the financial governance practices of the organization.

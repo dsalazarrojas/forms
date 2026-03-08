@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Important Information Acknowledgment Form - Help Guide
 ## Purpose
 The Important Information Acknowledgment Form is a document used to record and acknowledge receipt of critical information. It is meant to ensure that all important details are accurately documented and understood by all parties involved.

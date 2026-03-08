@@ -1,7 +1,3 @@
-<thinking>
-We need to consider the context in which this form will be used. This form is designed for collecting feedback from users of word puzzle games. The purpose of this form is to gather information from users about their experience with the games. It will help us understand their satisfaction with the games, their game development preferences, and ideas for improvements. This form will be used by game developers to make data-driven decisions about their game development strategy. It is essential to ensure that the form is easy to understand and complete for the users. This form will be filled out by users who have played word puzzle games and want to provide their feedback.
-</thinking>
-
 # Word Puzzle Game Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with word puzzle games. It will help us understand their satisfaction with the games, their game development preferences, and ideas for improvements.

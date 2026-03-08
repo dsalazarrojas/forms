@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user feedback and ratings from end-users, and it is only accessible to authorized personnel within the organization. Please check that you have the necessary permissions to access and submit this form. Also, be aware that duplicate submissions will not be processed.
-</thinking>
-
 # rankings_submission_form - Help Guide
 ## Purpose
 This form is designed to collect rankings and feedback from end-users, helping the organization to better understand user needs and preferences.

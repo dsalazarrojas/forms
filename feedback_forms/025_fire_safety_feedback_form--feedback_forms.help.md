@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from participants about a fire safety training session. It aims to gather information about what they found most important, how they rated the training quality, and any areas for improvement. The form is designed to be completed by participants after the event, allowing the organizers to gather constructive feedback and use it to enhance future trainings. This form does not duplicate or copy content from other platforms, and it is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Fire Safety Feedback Form - Help Guide
 ## Purpose
 The Fire Safety Feedback Form is designed to collect feedback from participants about their experience during a fire safety training session.

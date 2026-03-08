@@ -1,6 +1,3 @@
-<thinking>...
-This form is designed for users to provide feedback on the CTL-U Leasing tool. The purpose of this form is to understand the user's satisfaction level with the tool, reasons for choosing or not choosing the tool, and any other comments they may have. This form is intended to gather quantitative and qualitative feedback from users, making it an essential tool for the development and improvement of the CTL-U Leasing tool.
-</thinking>
 # ctl_u_leasing_survey - Help Guide
 ## Purpose
 The CTL-U Leasing survey is designed to gather feedback from users on the CTL-U Leasing tool. The information collected will help us understand users' satisfaction levels, reasons for choosing or not choosing the tool, and any other comments they may have.

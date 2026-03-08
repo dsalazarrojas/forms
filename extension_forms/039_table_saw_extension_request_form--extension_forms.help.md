@@ -1,5 +1,3 @@
-<thinking>...The Table Saw Extension Request Form is used to request an extension to a table saw in our organization. This form ensures that all necessary information is captured and reviewed by supervisors to evaluate the request. Please make sure to complete the form only once and do not reuse a request for the same table saw. If you have completed this form before and need to request an extension for the same table saw, please reach out to your supervisor or support team for assistance...></thinking>
-
 # Table Saw Extension Request Form - Help Guide
 ## Purpose
 The Table Saw Extension Request Form is used to request an extension to a table saw in our organization. This form is required for all table saw requests to ensure accurate and efficient processing.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used to register talent for a search process. The search is likely to be for artists, performers, or other creatives. This form does not seem to be a duplicate of any other existing form within the organization, and it does not appear to have any sensitive or proprietary information being collected. The purpose of this form is to gather information about the talent, including their name, contact information, skills, and experience. This form may be used by internal users or external users, likely talent agents, to submit information about potential artists to be considered for future events or projects.
-</thinking>
-
 # Talent Search Registration Form - Help Guide
 ## Purpose
 The Talent Search Registration Form is used to collect information about artists and performers for a talent search process. This form helps talent agents and other users to gather details about potential candidates, including their name, contact information, skills, and experience.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from individuals about their experiences with Freedom Advocacy, a campaign or event. The purpose of this form is to help us understand how Freedom Advocacy is perceived by its participants, including its impact and importance, and what methods are being used to reach out to the public in the future. This form is intended to gather information from a wide range of individuals, including participants, organizers, and supporters. Please fill out the form thoroughly and honestly, and if you have any suggestions or ideas, feel free to share them. We are not collecting any sensitive or personal data, and all the information collected will be kept confidential and used for research and evaluation purposes only.
-
-</thinking>
-
 # Freedom Advocacy Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from individuals about their experiences with Freedom Advocacy, a campaign or event.

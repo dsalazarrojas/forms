@@ -1,10 +1,4 @@
-> <thinking>
-We are creating a user-facing help guide for the "housewarming_rsvp_form" form. The purpose of this form is to collect guest information and housewarming details from event attendees. This form is designed to be completed by guests who have been invited to a housewarming party. The form will help the host gather essential details from attendees, including their guest information and whether they will be attending the event.
-The form is not intended to be a comprehensive survey or a detailed questionnaire. It is a simple, straightforward form designed to gather the most critical information from guests.
-We should ensure that the form is not duplicated or used for any other purpose than its intended use. This form was created using AI-generated form design and does not copy or extract content from any form platform.
-</thinking>
-
-# housewarming_rsvp_form - Help Guide
+> # housewarming_rsvp_form - Help Guide
 ## Purpose
 The housewarming_rsvp_form is a simple form designed to collect guest information and housewarming details from event attendees.
 

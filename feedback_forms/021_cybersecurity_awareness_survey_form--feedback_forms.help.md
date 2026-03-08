@@ -1,7 +1,3 @@
-<thinking>
-As the cybersecurity awareness survey form is designed to gather feedback from employees on various aspects of cybersecurity, including their knowledge, threat practices, and training and improvement suggestions. This form helps to understand employees' perceptions of cybersecurity threats, reporting procedures, and security measures. By using this form, employees can provide valuable insights to inform and strengthen the company's cybersecurity strategies.
-</thinking>
-
 # cybersecurity_awareness_survey_form - Help Guide
 ## Purpose
 The cybersecurity awareness survey form is designed to gather feedback from employees on their perceptions of cybersecurity threats, reporting procedures, and security measures. It aims to help the company understand employees' knowledge, threat practices, and training and improvement suggestions.

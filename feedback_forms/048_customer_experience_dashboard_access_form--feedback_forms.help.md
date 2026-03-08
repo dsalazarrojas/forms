@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a comprehensive feedback form designed to collect various aspects of a customer's experience, including demographics, contact information, feedback type, and visit details. It seems to cater to different types of feedback such as comments, suggestions, and complaints. The form also includes fields for collecting ratings, photos, locations, contact numbers, and websites, which could be used for follow-up communication or to identify areas of improvement. 
-
-Considering the variety of fields, it's likely this form is used for multiple purposes, such as customer satisfaction surveys, incident reports, or user feedback analysis. However, it's essential to ensure that the form is not duplicated or used for unrelated purposes, as this could lead to data inconsistencies and unnecessary complexity.
-
-Before proceeding, ensure that this form is indeed relevant to your project's goals and objectives, and that the fields and their labels align with your project's specific requirements. Double-check that there are no duplicate fields or unnecessary ones that could be omitted to streamline the process.
-
-</thinking>
-
 # customer_experience_dashboard_access_form - Help Guide
 ## Purpose
 This form is designed to collect comprehensive customer feedback, including demographic information, feedback type, visit details, and other relevant data. It's meant to help analyze and improve customer experience.

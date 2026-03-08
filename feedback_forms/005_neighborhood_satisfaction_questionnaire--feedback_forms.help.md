@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from residents about their experience living in a particular neighborhood. It's designed to be user-friendly and easy to complete, with clear and concise questions that help us understand their satisfaction and feelings about the neighborhood. Before proceeding, please note that this form is not intended to be a complaint form, but rather a way for us to gather constructive feedback to improve the neighborhood's quality of life. Please answer the questions honestly and provide any additional comments or suggestions you may have. We'll review your feedback carefully and use it to make informed decisions to enhance the neighborhood's facilities and services.
-
-</thinking>
-
 # Neighborhood Satisfaction Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from residents about their experience living in a particular neighborhood. Your responses will help us understand their satisfaction and feelings about the neighborhood, which will aid in making informed decisions to improve its quality of life.

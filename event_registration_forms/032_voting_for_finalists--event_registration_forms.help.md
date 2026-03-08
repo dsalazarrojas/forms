@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Voting For Finalists - Help Guide
 ## Purpose
 This form is used to collect votes for finalists in an event. It has three fields to cast votes for three different finalists and a submit button to submit the votes. The purpose of this form is to gather information from users about their preferences for each finalist. It's recommended to fill out the form only once for each event.

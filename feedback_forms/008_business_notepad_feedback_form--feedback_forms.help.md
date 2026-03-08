@@ -1,9 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the Business Notepad Feedback Form. The purpose of this form is to gather feedback from users about their experience with our company's product or service. This form is designed to be a structured and organized way for users to provide their opinions, thoughts, and suggestions. Before starting the form, we should check to see if the user has already provided feedback or if the feedback session is still relevant. If the user has already given feedback, we should not ask them to fill the form again to avoid duplication of effort.
-
-The guide will cover the form's purpose, how to complete it, and each field's explanation, along with some helpful tips to make the process smoother and more efficient.
-</thinking>
-
 # Business Notepad Feedback Form - Help Guide
 ## Purpose
 The Business Notepad Feedback Form is designed to collect feedback from users about their experience with our company's product or service. This form is a structured way for users to share their opinions, thoughts, and suggestions to help us improve our services.

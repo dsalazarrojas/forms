@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback and information about a souvenir item purchased by a customer. The form is designed to capture various details about the souvenir, including its rating, description, additional information, and recommendations. The fields are structured to collect relevant data to help the organization providing this service to better understand customer preferences and experiences. Before proceeding, please ensure you have not already submitted this type of feedback to prevent duplicate submissions.
-
-</thinking>
-
 # Messages And Souvenir Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback and information about a souvenir item purchased by a customer, enabling the organization to better understand customer preferences and experiences.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for school administrators to plan and organize the administration of exams for students. The form likely gathers information to ensure that exams are conducted smoothly and efficiently, including details about the school name, exam date, test start time, test duration, exam location, staff and student inclusions, test documents required, special requests, and contact information for exam supervisors and coordinators.
-</thinking>
-
 # School Test Administration Plan - Help Guide
 ## Purpose
 This form is used to plan and organize exams for schools, ensuring that all necessary details are gathered to facilitate a smooth and efficient exam administration process.

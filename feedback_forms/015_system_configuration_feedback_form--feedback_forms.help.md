@@ -1,7 +1,3 @@
-<thinking>
-This form is for providing feedback on system configuration. It is meant to be used by users to report any issues or suggestions they may have regarding the system's configuration. The form should only be filled out once per issue, and users should not re-fill the form for the same issue.
-</thinking>
-
 # System Configuration Feedback Form - Help Guide
 ## Purpose
 This form is used to report any issues or suggestions you may have regarding the system's configuration. Please fill out this form to help us improve our system.

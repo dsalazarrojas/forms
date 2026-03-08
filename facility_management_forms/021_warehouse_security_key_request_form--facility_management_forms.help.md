@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is for facility management, covering various aspects of facility operations and management. It captures essential information from users, including facility managers, shift managers, and other stakeholders. The form helps track and record facility-related activities, requests, and approvals in a structured and organized manner.

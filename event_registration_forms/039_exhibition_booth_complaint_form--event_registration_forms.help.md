@@ -1,7 +1,3 @@
-<thinking>
-  The "Exhibition Booth Complaint Form" is designed to capture issues or concerns regarding exhibition booths at events. This form aims to streamline communication between event organizers, exhibitors, and event staff for efficient issue resolution and documentation. The form should be completed by an event staff member or organizer to report any problems encountered during the exhibition. Ensure that each form is submitted only once, as repeating the same issue may not be necessary.
-</thinking>
-
 # exhibition_booth_complaint_form - Help Guide
 ## Purpose
 This form is for reporting issues or concerns related to exhibition booths at events. It helps event organizers and staff track and resolve problems efficiently.

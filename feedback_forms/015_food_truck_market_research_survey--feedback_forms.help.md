@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather market research data from customers about their experiences with food trucks. This form will help us understand customer preferences and behaviors when it comes to food trucks, such as their favorite flavors, cuisines, and ratings of their experiences. This information will be used to inform future business decisions and improve our services.
-
-This form should not be filled out by customers who have already completed it. If you have already filled out this form, please do not fill it out again.
-
-</thinking>
-
 # Food Truck Market Research Survey - Help Guide
 ## Purpose
 This form is designed to collect data from customers about their experiences with food trucks.

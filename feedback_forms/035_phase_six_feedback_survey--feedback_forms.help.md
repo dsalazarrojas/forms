@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on various pages. The form is intended to be completed by users who are familiar with the concept of feedback, and the purpose of this form is to collect feedback for future improvements. Please ensure that you have not filled out this form in the past, as your feedback will not be registered if you have already completed this form. 
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The form is designed to collect feedback from users on various pages. This feedback will be used to improve the overall user experience.

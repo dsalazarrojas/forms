@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the usability of our system. It collects feedback from users about their experience with the system's usability, which will help us to identify areas for improvement and make data-driven decisions for enhancing the system's user experience. This form will be used internally to analyze user feedback and identify trends or patterns.
-</thinking>
-
 # System Usability Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users about their experience with the system's usability. Please take a few minutes to complete this form and provide your honest opinions about your interaction with the system.

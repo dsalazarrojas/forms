@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exercise Physiology Course Feedback - Help Guide
 
 ## Purpose

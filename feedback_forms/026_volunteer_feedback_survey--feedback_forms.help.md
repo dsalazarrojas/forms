@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture feedback from volunteers on their experiences, preferences, and availability. The purpose of this form is to gather valuable insights for the organization to improve its volunteer program. This guide will help volunteers understand how to complete the form correctly, ensuring their feedback is accurately captured.
-</thinking>
-
 # Volunteer Feedback Survey - Help Guide
 ## Purpose
 The Volunteer Feedback Survey is designed to gather information from volunteers about their experiences, preferences, and availability to help the organization improve its volunteer program.

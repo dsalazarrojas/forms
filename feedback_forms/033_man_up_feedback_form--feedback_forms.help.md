@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users on events, allowing the user to provide details about the event, including its name, date, time, parent name, comments, email, phone number, and other relevant information. This form is intended for internal use and is not meant for public access. 
-It is essential to fill out the form accurately, especially the email address, which should be in the proper format (e.g., `john.doe@example.com`). 
-Please ensure that you do not submit duplicate feedback, as it may create confusion in the feedback process. 
-If you have previously submitted feedback on the same event, it is a good idea to review your previous submission to avoid repeating information. 
-</thinking>
-
 # Man Up Feedback Form - Help Guide
 ## Purpose
 The Man Up Feedback Form is a tool for users to provide feedback on events. This form helps us understand your experiences and gather valuable insights for improvement.

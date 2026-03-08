@@ -1,9 +1,3 @@
-<thinking>
-This form is for vendors to register for the Easter event. 
-The form is not for event organizers, so make sure you are a vendor to fill it out.
-This form will be used to collect information from vendors who want to participate in the Easter event.
-</thinking>
-
 # easter_event_vendor_registration_form - Help Guide
 ## Purpose
 The easter_event_vendor_registration_form is a form designed for vendors to register for the Easter event. This form allows vendors to provide their contact information and other details necessary for participation.

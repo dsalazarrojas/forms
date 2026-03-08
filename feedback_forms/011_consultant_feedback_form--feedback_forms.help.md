@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients who have received consulting services from an organization. The form allows clients to provide their opinions on the consultant's expertise, communication skills, and professionalism, as well as the overall satisfaction with the service received. The form also collects feedback on the consultant's ability to meet expectations, any results achieved from the consultation, and whether the client would recommend the consultant to others. By providing detailed feedback, clients can help the organization improve its services and provide better experiences for future clients.
-</thinking>
-
 # Consultant Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients who have received consulting services from our organization. Your input is valuable in helping us improve our services and ensure that our consultants provide the best possible experience for our clients.

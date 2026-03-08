@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the "vip_shopping_experience_survey" form is used correctly by end users. This form is designed to collect information about customers' shopping experiences. To avoid duplication and ensure accurate data collection, we must be careful when filling out this form. The form has two pages: "Survey Form" and other fields. The "Survey Form" page is optional, but the other fields are required for data collection purposes. We will now provide a detailed help guide to assist end users in completing this form correctly.</thinking>
-
 # vip_shopping_experience_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your shopping experiences. Please take a few minutes to answer the questions accurately and honestly. Your feedback is crucial in helping us improve our services.

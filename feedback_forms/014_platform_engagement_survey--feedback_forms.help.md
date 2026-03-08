@@ -1,8 +1,3 @@
-<thinking>
-This form, platform_engagement_survey, is designed to gather user feedback on their engagement with the platform. The purpose of this form is to understand user behavior, identify areas of improvement, and gauge overall platform satisfaction. 
-We've designed the form to be user-friendly and minimize the risk of duplication. We're asking users to report their experiences and opinions without requiring them to log in or remember past interactions.
-</thinking>
-
 # platform_engagement_survey - Help Guide
 ## Purpose
 The platform_engagement_survey form aims to collect user feedback on their usage of the platform. This helps us understand how users interact with the platform and identify areas for improvement.

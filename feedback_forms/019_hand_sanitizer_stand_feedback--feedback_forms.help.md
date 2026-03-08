@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about the hand sanitizer stand, which is a product used to provide a clean and sanitized environment for hand washing. This form is designed to collect information about the user's overall usage and satisfaction with the hand sanitizer stand, as well as any improvement suggestions they may have. It's intended to help the product team understand how well the hand sanitizer stand is meeting the needs of its users and what areas may need improvement.
-The form is not mandatory, and users can submit it voluntarily.
-</thinking>
-
 # Hand Sanitizer Stand Feedback - Help Guide
 ## Purpose
 This form is designed to help us understand your experience with our hand sanitizer stand and gather feedback for improvement.

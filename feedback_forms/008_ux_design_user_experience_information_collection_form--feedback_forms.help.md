@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user experience information to help designers and product teams better understand the user's needs, preferences, and pain points. This feedback will be used to inform design decisions and product development. It's essential to fill out this form accurately and honestly to ensure that the feedback is valuable and actionable. Please review each field carefully and make sure to select the correct options for your user experience.
-</thinking>
-
 # UX Design User Experience Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect user experience information to help designers and product teams better understand the user's needs, preferences, and pain points. The feedback collected through this form will be used to inform design decisions and product development.

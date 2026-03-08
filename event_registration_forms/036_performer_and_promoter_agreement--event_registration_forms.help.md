@@ -1,12 +1,3 @@
-<thinking>
-This form is for collecting information from performers and promoters to create an agreement that outlines the terms of their collaboration. This includes details about the performer, the promoter, and the event they will be performing at. The purpose of this form is to ensure that both parties have a clear understanding of their responsibilities and expectations. It is recommended to review the agreement carefully before signing, as it will be a binding contract between the two parties.
-
-Before filling out this form, please note that some fields are optional, but it's essential to fill out all required fields to ensure a complete and accurate agreement.
-
-Please make sure to answer all questions honestly and accurately, and if you're unsure about any field, it's best to ask for clarification before proceeding.
-
-</thinking>
-
 # Performer and Promoter Agreement - Help Guide
 ## Purpose
 The Performer and Promoter Agreement is a form used to create an agreement between performers and promoters for events. This document outlines the terms of their collaboration, ensuring that both parties have a clear understanding of their responsibilities and expectations.

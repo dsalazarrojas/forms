@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect feedback from youth ministers about their experiences and suggestions for the program. This form is designed to be completed by youth ministers and should not be filled out by other individuals. Each field has been included based on the requirements and feedback collected by the program administrators. Please fill out the form completely and honestly. If you have any suggestions or ideas, please use the "What can we improve?" field. If you would like to be contacted for a follow-up, please choose how you would like to be contacted in the "Would you like to be contacted?" field.
-
-</thinking>
-
 # Youth Ministry Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from youth ministers about their experiences and suggestions for the program. It should only be completed by youth ministers.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by users to provide feedback on the wire management system used in the facility. This feedback can help us identify areas of improvement and make necessary adjustments to the system. Please note that each field is designed to capture specific information, and filling out the form will help us understand your concerns and suggestions. Before filling out the form, take a moment to review the fields below to ensure you are providing the most accurate and relevant information.
-</thinking>
-
 # Wire Management Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on the wire management system used in the facility. Your input will help us identify areas of improvement and make necessary adjustments to the system.

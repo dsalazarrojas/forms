@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Extension Pre Consultation Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your project goals, budget, scheduling preferences, and schedule. The data collected will help us to better understand your project needs and provide you with more effective assistance in the pre-consultation process.

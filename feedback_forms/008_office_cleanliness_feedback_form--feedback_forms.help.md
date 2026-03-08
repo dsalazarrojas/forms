@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Office Cleanliness Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the overall cleanliness of the office. It is used by maintenance staff to assess the cleanliness standards and make necessary changes to maintain a healthy and hygienic environment.

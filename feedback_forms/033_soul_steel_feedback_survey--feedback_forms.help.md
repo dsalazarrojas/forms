@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about their experiences with Soul Steel. The form is used to gather information on how satisfying the event was, how satisfying the staff was, suggest improvements, and gather contact information (email and phone number). This form is intended for end-users to provide their honest feedback to help Soul Steel improve their services. Before proceeding, please ensure that you have not already submitted feedback for this event, as duplicate submissions may not be necessary or may even cause confusion.
-
-To complete this form, simply fill in the required fields and submit it when finished.
-</thinking>
-
 # Soul_Steel_Feedback_Survey - Help Guide
 
 ## Purpose

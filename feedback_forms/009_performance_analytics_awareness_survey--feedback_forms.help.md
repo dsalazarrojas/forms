@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to gather information about the performance of various teams or individuals within an organization. It's meant to be used by team members or individuals to provide awareness about their performance data, including Key Performance Indicators (KPIs), reports, and analytics. This form is not meant to be used for actual performance evaluations, but rather as a tool to help teams and individuals track and analyze their progress. It's essential to fill out this form carefully and accurately to ensure that the data collected is reliable and useful for future reference. Please make sure to review the form carefully before submitting it.
-
-</thinking>
-
 # Performance Analytics Awareness Survey - Help Guide
 ## Purpose
 The Performance Analytics Awareness Survey is a tool used to gather information about team or individual performance data. It's designed to help teams and individuals track and analyze their progress.

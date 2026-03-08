@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect feedback from trial participants on their experiences during a trial. The form is used to gather information on the participant's details, trial location, date, and rating of the trial. It also allows participants to provide additional feedback and notes.
-
-The form is divided into several sections, each focusing on different aspects of the trial experience. By providing feedback, participants help the organization improve future trials and ensure that their experience is as smooth and enjoyable as possible.
-
-Please ensure that you complete the form accurately and thoroughly, and only submit it once per participant.
-
-Before filling out the form, please note that some fields are marked as "required" which means that they are mandatory and must be filled out. The form is intended to be completed by one participant per trial.
-
-Please ensure that you do not submit duplicate forms for the same participant. If you have already submitted a form for a particular trial, please do not submit another one.
-</thinking>
-
 # Nitrate Trial Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from trial participants on their experiences during a trial.

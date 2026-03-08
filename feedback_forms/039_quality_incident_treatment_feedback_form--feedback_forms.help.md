@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on quality incident treatments. It is intended for employees, customers, or other stakeholders to provide their input on the treatment process. The form should not be used to report new incidents, but rather to evaluate the effectiveness of the treatment process after an incident has been resolved. To ensure consistency, please do not complete this form if you have already submitted feedback on the same incident.
-</thinking>
-
 # Quality Incident Treatment Feedback Form - Help Guide
 
 ## Purpose

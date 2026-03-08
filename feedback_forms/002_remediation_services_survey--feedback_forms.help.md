@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form for our customers to rate and provide feedback on our remediation services. To ensure you are completing the correct form, please note that this form is specific to remediation services, and any feedback or ratings provided here will be reviewed and used to improve our service. We kindly ask that you only complete this form once, as any duplicate entries may lead to confusion and misinterpretation of your feedback. If you are unsure about any of the fields, please refer to this help guide for clarification.
-</thinking>
-
 # Remediation Services Survey - Help Guide
 ## Purpose
 This form is designed to allow you to rate and provide feedback on our remediation services. We value your input and will use this information to continuously improve our service.

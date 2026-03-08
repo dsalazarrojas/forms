@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist citizens in completing the "public_service_issue_contact_form" form, which is used to report public service issues. To ensure the form is used effectively, the following internal reasoning block will check for duplication and ensure that the user has provided sufficient information to report the issue. This form is designed to gather information about the issues citizens encounter with public services. The system will check for duplication based on the issue details and location, and will not accept duplicate reports. Please provide as much detail as possible about the issue you are experiencing, including the location and date/time it occurred. This will help our team to provide a more efficient response to your concern.
-</thinking>
-
 # public_service_issue_contact_form - Help Guide
 ## Purpose
 This form is used to report public service issues encountered by citizens. It will guide you through the necessary steps to provide all required information to ensure efficient handling of your issue.

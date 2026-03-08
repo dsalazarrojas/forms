@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users submit revisions to conference agendas. It is intended to be filled out by individuals who want to request updates to the current agenda, providing details about the changes they want to make and the reasons behind them. The purpose of this form is to streamline the revision process, making it easier for conference organizers to manage and track revision requests.
-</thinking>
-
 # Conference Agenda Revision Request Form - Help Guide
 ## Purpose
 This form is for requesting updates to the conference agenda. If you would like to make changes to the current agenda, please fill out this form with the necessary details.

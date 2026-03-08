@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Pet Care Quality Owner Feedback Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to gather feedback from pet owners on their experience with your pet care services. It aims to evaluate the quality of care provided, communication, and overall satisfaction with the visit.

@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's knowledge on ectoparasite-related topics, such as flea biology, types of fleas, prevention methods, and treatment options for ectoparasite-related diseases. This form is designed to be a self-assessment tool for animal health professionals, students, or pet owners who want to gauge their understanding of these important topics. This form is not intended to be a comprehensive exam, but rather a quick and easy way to evaluate one's knowledge in a fun and interactive manner.
-
-Before starting, please note that this form is not a substitute for professional medical or veterinary advice. If you are unsure or have concerns about a particular ectoparasite-related issue, please consult a qualified professional for guidance.
-
-Also, please be aware that this form is designed to be completed by one person at a time. If you are a teacher or instructor, you may want to consider creating a group account or multiple accounts to accommodate multiple users.
-
-Finally, please let us know if you have any feedback or suggestions on how to improve this form. We value your input and appreciate your help in making this tool more helpful and user-friendly.
-</thinking>
-
 # Ectoparasite Knowledge Quiz - Help Guide
 ## Purpose
 

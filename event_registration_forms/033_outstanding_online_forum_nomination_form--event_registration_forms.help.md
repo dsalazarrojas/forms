@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Outstanding Online Forum Nomination Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow guests to submit feedback or complaints about their stay at the resort. This form is meant for guests who have experienced issues or concerns during their stay and would like to share their feedback with the resort management. It's essential to ensure that the form is completed in a way that provides clear and actionable information, helping the resort to identify areas of improvement and make necessary changes.
-</thinking>
-
 # Resort Complaint Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and complaints from guests about their stay at the resort. Please submit your concerns or suggestions to help us improve our services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect feedback from participants who have attended the employee diversity workshop. The form is designed to gather information about the participant's overall experience, including their first name, email, workshop feedback, and a rating of their experience. This feedback will be used to help us improve future workshops and ensure that they are meeting the needs of all attendees. 
 
 Please make sure you have filled out your feedback form before submitting it.

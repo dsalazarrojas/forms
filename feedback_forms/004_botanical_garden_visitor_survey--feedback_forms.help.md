@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about visitors to the botanical garden, including their date of visit, arrival time, visitor type, group composition, number in party, and demographics. This information will be used for demographic analysis and to improve visitor experience. Please note that some fields are marked as "required" which means that you must provide a value for them in order to submit the form. Also, note that some fields may not be applicable to your specific situation, but please feel free to provide any relevant information you feel comfortable sharing.
-</thinking>
-
 # Botanical Garden Visitor Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from visitors to the botanical garden, allowing us to understand their experiences and improve the garden's offerings.

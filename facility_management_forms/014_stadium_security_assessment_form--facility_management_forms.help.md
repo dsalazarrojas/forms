@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stadium Security Assessment Form - Help Guide
 ## Purpose
 

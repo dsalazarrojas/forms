@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Facility Management Workflow Survey" form. The purpose of this form is to gather information from facility management staff about their workflow, including their feedback on satisfaction, challenges, and improvement ideas. This information will be used to improve the facility management process and make informed decisions about resource allocation and process optimization.</thinking>
-
 # Facility Management Workflow Survey - Help Guide
 ## Purpose
 The Facility Management Workflow Survey is a form designed to gather information from facility management staff about their current workflow, challenges, and improvement ideas. This survey aims to improve the facility management process by gathering feedback and insights from staff members who are directly involved in the process.

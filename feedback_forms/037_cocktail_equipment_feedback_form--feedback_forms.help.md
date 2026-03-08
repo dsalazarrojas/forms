@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cocktail Equipment Feedback Form - Help Guide
 ## Purpose
 

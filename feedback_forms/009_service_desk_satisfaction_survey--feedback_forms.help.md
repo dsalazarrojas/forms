@@ -1,9 +1,3 @@
-<thinking>
-The Service Desk Satisfaction Survey is designed to help us understand your experiences with our service desk. By completing this survey, you will be helping us identify areas where we excel and areas where we need improvement. Your feedback is crucial in shaping the quality of our service and ensuring that we meet your expectations.
-Please note that the survey will cover various aspects of your interactions with our service desk, including service quality, communication style, resolution time, and preferred communication channels. Your input will be treated confidentially and will not affect any existing or ongoing issues.
-To ensure accurate results, please answer every question honestly and to the best of your knowledge.
-</thinking>
-
 # Service Desk Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to gather your feedback on our service desk's performance. Your input will help us identify areas where we're doing well and areas that need improvement.

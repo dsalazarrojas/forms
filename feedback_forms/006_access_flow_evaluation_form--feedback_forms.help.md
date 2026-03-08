@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Access Flow Evaluation Form - Help Guide
 
 ## Purpose

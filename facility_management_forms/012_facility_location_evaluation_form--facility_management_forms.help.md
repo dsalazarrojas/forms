@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is for the "facility_location_evaluation_form" form used in facility management. The form is designed to collect information about a facility's location, including its details, address, contact information, and evaluation metrics. This form is intended to be completed by facilities staff or managers to evaluate and track the status of facilities within an organization. 
-
-Before starting, ensure that you have the necessary permissions and access to complete this form. If you have any doubts or concerns about the form's purpose, contact your supervisor or facilities team.
-
-</thinking>
-
 # Facility Location Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...We need to create a user-facing help guide for the exit interview form. This form is used to gather feedback from employees who are leaving the company. It's crucial that the form is filled out accurately and thoroughly to provide valuable insights for the company. To avoid duplication of information, please ensure that you only answer the questions truthfully and without bias. If you're unsure about any question or its relevance, please contact your HR representative for clarification. Please note that all information collected will be kept confidential and used for internal purposes only... </thinking>
-
 # Exit Interview Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees who are leaving the company. Your honest and thorough responses will help us improve our work environment and policies.

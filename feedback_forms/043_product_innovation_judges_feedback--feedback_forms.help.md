@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from Product Innovation Judges about a product or idea. The feedback is crucial for product development and improvement.
-It should be used to collect feedback from judges on various aspects of the product or idea, including its feasibility, potential impact, and overall value. The form is intended to gather both quantitative and qualitative data that will help in making data-driven decisions.
-Before submitting the form, please make sure that you have not already submitted feedback on this product or idea. Duplicate feedback submissions may lead to confusion and may not be considered for evaluation.
-</thinking>
-
 # Product Innovation Judges Feedback - Help Guide
 
 ## Purpose

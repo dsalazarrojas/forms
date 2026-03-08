@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the attendance and participation details of seniors in a specific program or activity. To ensure that the form is completed correctly, let's walk through the process.
-</thinking>
-
 # Senior Activity Attendance Form - Help Guide
 ## Purpose
 The Senior Activity Attendance Form is used to track the attendance and participation details of seniors in a specific program or activity. It helps staff and administrators gather essential information to monitor the attendance and engagement of seniors in various programs.

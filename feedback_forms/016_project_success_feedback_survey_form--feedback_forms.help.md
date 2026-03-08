@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Success Feedback Survey Form - Help Guide
 
 ## Purpose

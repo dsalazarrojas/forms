@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information for travel expense receipts. 
-Travel expense receipts are used to document expenses incurred on company business trips, meetings, or other work-related activities. 
-This form will help employees to provide accurate information about their travel expenses, which will enable the accounting team to process the expense reimbursement efficiently.
-To prevent duplication, ensure that you have not previously submitted a travel expense receipt with the same date, employee, and expense type.
-</thinking>
-
 # Travel Expense Receipt Validation Form - Help Guide
 ## Purpose
 

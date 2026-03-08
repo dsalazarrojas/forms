@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose of the Zumba Feedback Form, I'll analyze the form's fields and structure. The form appears to be designed for students to provide feedback on a Zumba class. The fields indicate that it's used to capture information about the class, such as its name, date it was offered, whether it's a type of class, student feedback, instructor's name, instructor's ID, and any additional feedback. This form might be used by administrators or instructors to evaluate and improve the quality of Zumba classes.
-
-To ensure that the form doesn't serve as a duplicate effort, I'll make sure that this guide is concise and doesn't include any redundant information.
-
-</thinking>
-
 # Zumba Feedback Form - Help Guide
 ## Purpose
 This form is used to capture student feedback on a Zumba class, which can help instructors and administrators evaluate and improve the quality of the classes.

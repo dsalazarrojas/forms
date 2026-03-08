@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the cleanliness and overall experience of the Wash Bay And Paint Bay facility. It's essential to complete this form thoroughly and honestly to provide valuable insights for maintenance and improvement. Please ensure that you have not submitted feedback on this facility recently, as duplicate submissions may be discarded. If you are unsure about any aspect, you can refer to this guide for clarification.</thinking>
-
 # Wash Bay And Paint Bay Feedback - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be a checklist for facilities management teams to verify that a facility has been properly closed for the day. The purpose of this form is to ensure that all necessary tasks have been completed before staff are allowed to leave the premises. 
-
-The form can be used to verify that general information such as the staff member's name, closing date and time, and department are correct. It also checks on the cleaning and maintenance of the facility, including the cleaning of floors, removal of trash and waste, and the wiping down of surfaces. The form also checks on security measures, such as the locking of doors and windows, and the arming of the alarm system. Finally, it checks on the status of equipment and systems, including the turning off of lights, HVAC, and appliances. 
-
-The form is designed to be completed by the staff member who is closing the facility, and is intended to be a quick and easy way to ensure that all necessary tasks have been completed before they leave the premises.
-
-</thinking>
-
 # Closing Check Survey - Help Guide
 ## Purpose
 The purpose of this form is to ensure that all necessary tasks have been completed before a facility is closed for the day.

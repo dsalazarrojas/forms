@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help short film producers reserve and manage their production requirements, including contact information, production details, and booking of locations, equipment, and crew. The form is intended for use in the film industry, specifically for short film productions that require coordination and organization of various resources. 
-
-To ensure accuracy and completeness of the form, please review the following instructions carefully and only submit the form if you have all the necessary information.
-
-</thinking>
-
 # Short Film Production Reservation Form - Help Guide
 
 ## Purpose

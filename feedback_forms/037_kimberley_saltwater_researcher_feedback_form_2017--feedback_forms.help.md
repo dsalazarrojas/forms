@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect feedback from researchers working at the Kimberley Saltwater region. It's meant to be completed by researchers who have participated or are participating in research activities in this area. 
-The form is not intended for researchers working on different topics or projects. If you've already submitted feedback for this form, please don't resubmit. Your input is valuable, and we'd be happy to hear your thoughts on your research experience, but we don't want to overwhelm our analysis with redundant information.
-
-This form will help us gather information on researchers working in the Kimberley Saltwater region. Please complete this form to help us understand your research goals and areas of focus, and share any valuable feedback.
-
-Please note that the form includes fields for collecting data on your research focus area, location, and goals. We're looking to understand your specific research goals and any challenges you're facing.
-</thinking>
-
 # Kimberley Saltwater Researcher Feedback Form 2017 - Help Guide
 ## Purpose
 This form is intended to collect feedback from researchers working at the Kimberley Saltwater region.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Outcome Measurement Survey - Help Guide
 ## Purpose
 The Project Outcome Measurement Survey is designed to capture information about the project's outcome and its measurement. This form will help you to assess the project's success and identify areas for improvement.

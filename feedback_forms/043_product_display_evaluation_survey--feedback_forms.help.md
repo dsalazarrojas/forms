@@ -1,20 +1,3 @@
-<thinking>
-This form will be used to collect feedback from customers about product display in a store. It will help us understand how well our products are displayed in the store and what can be improved.
-
-To determine if this form is relevant for your specific use case, please consider the following questions:
-
-* Are you a customer or a store manager?
-* Are you looking to collect feedback on product display or other aspects of the store experience?
-* Have you already completed similar forms for this purpose in the past?
-
-If you answered "yes" to the first question, this form might be relevant to your needs. If not, you might need to adapt the form or consider other options.
-
-Please keep in mind that this form is designed to be a general feedback collection tool and might not cover all the specifics of your use case. If you need more tailored help, please refer to your organization's documentation or seek additional support from your internal teams.
-
-This form is designed to be completed by customers or store managers and does not require technical expertise. The instructions below will guide you through the completion process in a step-by-step manner.
-
-</thinking>
-
 # Product Display Evaluation Survey - Help Guide
 ## Purpose
 This survey aims to collect feedback from customers or store managers on the product display in a store.

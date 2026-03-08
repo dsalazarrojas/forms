@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PTA Donation Form - Help Guide
 
 ## Purpose

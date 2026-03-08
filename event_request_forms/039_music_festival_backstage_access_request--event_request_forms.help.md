@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be used by event staff and production team members to ensure that festival attendees with backstage access requests are properly vetted and granted access to the festival grounds. This form helps event staff to quickly and efficiently process requests, and reduces the likelihood of duplication or miscommunication. By using this form, event staff can ensure that requests are processed in a fair and consistent manner. Before filling out this form, please ensure that you have reviewed our backstage access policy and that you are aware of any specific rules or restrictions that may apply to your request.
-</thinking>
-
 # Music Festival Backstage Access Request - Help Guide
 ## Purpose
 This form is used to request backstage access for music festival events. Fill out this form to submit your request for access to the festival grounds.

@@ -1,8 +1,3 @@
-<thinking>
-To confirm, this form is designed to collect feedback from instructors on the effectiveness and satisfaction of a typing lesson they have delivered. This feedback will help us identify areas of improvement for future lessons and provide valuable insights to enhance the overall quality of our typing lessons. We kindly request that you fill out this form to share your honest thoughts and suggestions. Please note that you can skip any questions that do not apply to you. Your feedback is crucial in helping us refine our lesson delivery and better serve our students.
-
-</thinking>
-
 # Typing Lesson Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from instructors on the effectiveness and satisfaction of their delivered typing lessons. Your input will help us improve the quality of our lessons.

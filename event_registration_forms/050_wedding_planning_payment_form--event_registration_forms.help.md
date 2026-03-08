@@ -1,5 +1,3 @@
-<thinking>Before diving into the user-facing help guide, let's take a moment to understand the purpose of this form and its relevance. This form, titled "Wedding Planning Payment Form," appears to be designed for collecting payment information related to wedding planning services. It may be used for various purposes, such as creating invoices, tracking payments, or coordinating with vendors and service providers. The form seems to cover a range of fields related to payment details, event information, and communication with service providers. However, it's essential to review the fields to confirm their relevance and ensure there's no duplication or overlap of information. Let's review the fields to provide a clear and concise user guide.</thinking>
-
 # Wedding Planning Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment information related to wedding planning services. It will help you to track payments, communicate with service providers, and keep records of wedding-related transactions.

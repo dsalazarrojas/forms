@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shade Structure Feedback Survey - Help Guide
 ## Purpose
 The Shade Structure Feedback Survey is used to collect feedback from users about their experiences with shades structures. The purpose of this form is to gather information on various aspects of the shade structure, such as its canopy, maintenance, and overall satisfaction. This feedback is crucial for improving the design and functionality of shade structures in the future.

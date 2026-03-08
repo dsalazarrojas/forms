@@ -1,13 +1,3 @@
-<thinking>
-To determine the internal reasoning:
-1) The form's purpose is to collect user feedback, which is essential for improving the digital platform's quality and user experience.
-2) The form is designed to be completed by users of the platform, and its content should be user-friendly and easy to navigate.
-3) The form's fields are likely to be populated with data that will be used for internal analysis and improvement of the platform.
-4) The form is not intended to be used for external sharing or publication.
-5) There is no indication of any non-duplication checks in the form logic.
-6) The fields are mostly self-explanatory, but some require additional clarification.
-</thinking>
-
 # Digital Platform User Feedback Information Form - Help Guide
 
 ## Purpose

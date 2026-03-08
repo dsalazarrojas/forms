@@ -1,9 +1,3 @@
-<thinking>...checking for non-duplication and relevance...
-
-This form is for collecting feedback on construction defects reported on-site. Defects can be reported by any individual who has observed a potential issue, and the form is designed to guide them through the process of providing a detailed report. The form is used to collect information on the reporter's identity, the defect's location, type, and severity, as well as any photos or recommended actions associated with the defect.
-
-</thinking>
-
 # Construction Defects Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on construction defects reported on-site. It is intended to be used by anyone who has observed a potential issue to provide a detailed report.

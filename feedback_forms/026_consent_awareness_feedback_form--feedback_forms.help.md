@@ -1,9 +1,5 @@
 # Consent Awareness Feedback Form - Help Guide
 ## Purpose
-<thinking>
-The purpose of this form is to gather feedback from trainees on the effectiveness of the consent awareness training program. The form is designed to collect information on several aspects of the training, including the date of submission, the trainee's name and contact information (optional), the training session attended, the facilitator's performance, the quality of the training materials, and the trainee's level of comfort and confidence before and after the training. The feedback will help us improve the training program and make it more effective for future trainees.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, please follow these steps:
 

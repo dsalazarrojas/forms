@@ -1,11 +1,3 @@
-<thinking>
-This form is used to obtain permission from schools to allow students to participate in events outside of the school. The event registration forms are used to identify which events a student is registered for. The county permission slip form is used to provide the necessary information for the school to verify the student's identity and contact information. This form is not intended for events that are not organized or sanctioned by the school.
-
-This form should only be completed by authorized school personnel.
-
-Before completing this form, please ensure that you have the necessary permissions and approvals from the school administration and relevant authorities.
-</thinking>
-
 # county_permission_slip_form - Help Guide
 ## Purpose
 This form is used to obtain permission from schools to allow students to participate in events outside of the school, and to verify the student's identity and contact information.

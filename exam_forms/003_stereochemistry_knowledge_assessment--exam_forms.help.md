@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stereochemistry Knowledge Assessment - Help Guide
 ## Purpose
 The Stereochemistry Knowledge Assessment form is designed to evaluate a user's knowledge of stereochemistry, a branch of chemistry that deals with the three-dimensional arrangement of atoms in molecules. The form helps to gauge a user's understanding of the concepts and principles that govern the spatial arrangement of atoms and molecules.

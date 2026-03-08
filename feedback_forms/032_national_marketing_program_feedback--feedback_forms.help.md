@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect feedback from customers on the National Marketing Program. The purpose of this form is to gather information on customer satisfaction, suggestions, and comments about the program. This form will help us understand what customers like or dislike about the program and identify areas for improvement.
 
 Before proceeding, please ensure you have not filled out this form recently. If you have already provided feedback, your previous response will be considered. If you are unsure whether you have filled out this form before, please contact us and we will verify your status.

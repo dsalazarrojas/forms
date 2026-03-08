@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive help guide for the "performance_review_feedback_acknowledgement_form" form, let's first understand its purpose and the context in which it is used. This form is likely used for capturing feedback and comments from employees after a performance review. It's essential to ensure that the form is used correctly to gather accurate and useful feedback.
 
 After gathering the necessary information, we can create a clear and concise guide for end-users to understand the form's purpose, how to complete it, and what each field means.

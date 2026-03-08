@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is only filled out by people who attended the Town Hall meeting, and that no one fills it out more than once. We will use the data collected from this form to improve our meetings and make sure everyone has a great experience.
-</thinking>
-
 # Town Hall Meeting Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants of the Town Hall meeting. It will help us understand what you thought about the meeting and how we can improve it for future events.

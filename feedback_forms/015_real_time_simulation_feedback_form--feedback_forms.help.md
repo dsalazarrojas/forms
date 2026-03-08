@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from participants and facilitators on real-time simulation sessions. The form helps us understand the participant's experience, gather suggestions for improvement, and evaluate the facilitator's performance. Please note that this form will be used to track feedback on each session, and you should only submit feedback for the session you participated in.
-
-</thinking>
 # real_time_simulation_feedback_form - Help Guide
 ## Purpose
 This form is used to collect feedback on real-time simulation sessions. It is essential to fill it out for each session you participate in to help us improve our sessions.

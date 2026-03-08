@@ -1,16 +1,3 @@
-<thinking>
-This form is used to evaluate the customer's wait time experience at our establishment. It aims to understand how long customers had to wait before being attended to and how it affected their satisfaction. This form will help us to identify areas where we can improve our services and provide better experiences for our customers.
-
-This form is designed to collect feedback from customers in real-time, allowing us to make adjustments on the spot and provide instant feedback to staff. It will help us to:
-
-* Understand wait time and its impact on customer satisfaction
-* Identify factors contributing to long wait times
-* Make data-driven decisions to improve services
-
-Please ensure that you complete this form accurately and honestly, as it will help us to better serve you and our other customers in the future.
-
-</thinking>
-
 # Customer Wait Time Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their wait time experience at our establishment.

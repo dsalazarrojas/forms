@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for students to express their preferences for exam packages, which are essentially bundles of courses or resources designed to support their learning goals. The form is intended to help students select the most suitable exam package that aligns with their interests and study format preferences. By providing this information, students can help administrators or educators create more relevant and effective exam packages. The form is not meant to be a comprehensive assessment of student abilities, but rather a guidance tool to inform exam package creation.
-</thinking>
-
 # Exam Package Preference Survey - Help Guide
 ## Purpose
 This form is designed to help you, as a student, express your preferences for exam packages. By filling out this form, you will be able to suggest the type of exam package that best suits your learning goals and interests.

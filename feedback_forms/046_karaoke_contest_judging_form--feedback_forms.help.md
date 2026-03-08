@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and feedback from judges on a karaoke contest. It is intended for use during or after an event where contestants are judged on their singing performance. The form will help gather data on each song's performance, providing a score for each song and a total score for the contest. The form also allows judges to provide feedback and comments on each song.
-</thinking>
-
 # Karaoke Contest Judging Form - Help Guide
 ## Purpose
 The Karaoke Contest Judging Form is used to collect scores and feedback from judges for each song in a karaoke contest. This information will help determine the winner of the contest and provide valuable feedback to participants.

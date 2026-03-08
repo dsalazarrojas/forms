@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to request indoor green space for meetings, events, or other purposes. The form aims to gather details about the request, including the facility name, date and time of visit, capacity of the space, special needs, and contact information. This form is not intended for general inquiries or routine matters, but rather for formal requests that require specific arrangements. Please ensure that you have a legitimate reason for requesting indoor green space before submitting this form.
-</thinking>
-
 # Indoor Green Space Request Form - Help Guide
 ## Purpose
 This form is used to request indoor green space for specific purposes. Please fill out the form with accurate and complete information to ensure that your request is processed efficiently.

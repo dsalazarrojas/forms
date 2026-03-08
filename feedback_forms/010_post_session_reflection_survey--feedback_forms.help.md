@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and reflections from users after a session, which can be used to improve the session's content, format, or overall user experience. This form is designed to gather information about the user's satisfaction, comments, and suggestions, as well as their contact information. It is essential to provide clear and accurate information to fill out this form correctly to ensure that the feedback is helpful and relevant.
-</thinking>
-
 # Post Session Reflection Survey - Help Guide
 
 ## Purpose

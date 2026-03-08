@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from customers on the global food export market. The form will ask for information on the export markets that are being targeted, the products being exported, the logistics and delivery time frames, and any additional notes or contact information. This information will be used to improve the food export process and provide a better experience for our customers. It is essential that the form is filled out accurately and completely, as the information gathered will be used to make informed business decisions. Please make sure to review the form carefully and answer all questions to the best of your ability.
-</thinking>
-
 # Global Food Export Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information on the global food export market. Your input is crucial in helping us better understand your needs and preferences.

@@ -1,10 +1,3 @@
-<thinking>
-This form, named "Laboratory Experiment Feedback Questionnaire," is designed to collect feedback from students about their experience with a laboratory experiment. Its primary purpose is to assess the quality of the lab experiment in terms of instructor availability, knowledge, support, organization, presentation of course materials, and overall experience. The form will serve as a tool for instructors to evaluate and improve their teaching methods and experiment design.
-
-The form is divided into six sections, each addressing a different aspect of the lab experiment. This guide will walk you through each section to help you provide clear and accurate feedback.
-
-</thinking>
-
 # Laboratory Experiment Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their experience with a laboratory experiment. Your input will help instructors evaluate and improve the experiment design and teaching methods.

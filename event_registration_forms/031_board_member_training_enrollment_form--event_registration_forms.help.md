@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for board members to register for a training session. The form is designed to collect relevant information about the participant, including their name, email address, preferred training session, and any dietary or accessibility requirements they may have. The form will be used to ensure that the training is properly organized and prepared for the participant's needs. 
-
-Please note that this form will be used for multiple purposes including, but not limited to, sending confirmation and materials to the participant, and ensuring that the training is properly organized. 
-
-Before submitting the form, please ensure that you are registering for a session that is relevant to your role and position. Please do not register for sessions that are not relevant to your role and position.
-
-</thinking>
-
 # Board Member Training Enrollment Form - Help Guide
 ## Purpose
 This form is used to register for a board member training session. 

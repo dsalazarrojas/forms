@@ -1,9 +1,3 @@
-<thinking>
-We're creating a help guide for the public utility worker exit offboarding form. Before starting, let's ensure the form purpose and structure align with the provided YAML fields.
-The form is used to collect information about a public utility worker's exit status, reason for exit, exit date, next step, feedback, contact information, comments, assigned tool, output file, and category. The form seems to be designed for collecting data from utility workers who are leaving the company or organization.
-The fields are categorized into different sections, which makes it easy to navigate and understand. However, some field labels might need further clarification to ensure end-users understand their purpose accurately.
-</thinking>
-
 # public_utility_worker_exit_offboarding_form - Help Guide
 ## Purpose
 This form is used to collect information from public utility workers when they are exiting the company. It gathers details about their exit status, reason for leaving, and other relevant information to facilitate a smooth transition.

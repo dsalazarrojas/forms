@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their sleepover experience. It is intended to be used by organizations or individuals in the events industry to gauge the quality of sleepovers they host. The form asks for a rating of the sleepover, space for comments, contact information, and details about the event. The purpose is to gather information that can be used to improve the sleepover experience.
-</thinking>
-
 # Sleepover Experience Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from users about their sleepover experience. It will help organizations or individuals in the events industry to gauge the quality of the sleepovers they host and make improvements accordingly.

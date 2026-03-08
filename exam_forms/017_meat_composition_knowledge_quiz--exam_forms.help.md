@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather participant information and their knowledge about meat composition. The purpose of this form is to capture a participant's details and their answers to a short quiz about meat composition. This form is likely used in a research or educational setting to collect data on participants' knowledge and preferences. 
-
-Before creating the help guide, I will review the form's structure and fields to ensure that the guide is comprehensive and clear. The form has 8 fields, each with its own label, type, and options (if applicable). 
-
-</thinking>
-
 # Meat Composition Knowledge Quiz - Help Guide
 ## Purpose
 This form is a survey designed to collect participant information and their knowledge about meat composition. It is intended for educational or research purposes.

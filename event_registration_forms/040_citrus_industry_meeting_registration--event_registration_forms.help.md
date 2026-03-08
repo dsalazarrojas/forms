@@ -1,7 +1,3 @@
-<thinking>
-This form is used for individuals to register for the Citrus Industry Meeting. This guide will walk you through how to fill out the form correctly.
-</thinking>
-
 # Citrus Industry Meeting Registration - Help Guide
 ## Purpose
 This form is for attendees to register for the Citrus Industry Meeting. Please fill out the form with accurate and up-to-date information to ensure a smooth registration process.

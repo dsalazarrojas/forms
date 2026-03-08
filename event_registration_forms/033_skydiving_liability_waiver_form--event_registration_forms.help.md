@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from participants, guardians, and emergency contacts for a skydiving event. This includes collecting participant details, medical information, emergency contact details, and waiver agreement. The form is designed to ensure that participants and their guardians are aware of and agree to the terms and conditions of the event, including medical procedures and emergency response plans.
-
-This form is intended to be completed by participants, guardians, and emergency contacts. However, please note that some fields may not be applicable to all parties involved.
-
-Before starting, make sure to read this guide carefully to understand each field's purpose and how to complete it correctly.
-</thinking>
-
 # Skydiving Liability Waiver Form - Help Guide
 ## Purpose
 The Skydiving Liability Waiver Form is a mandatory document that needs to be completed by all participants and their guardians before participating in a skydiving event. It is designed to ensure that all parties are aware of and agree to the terms and conditions of the event, including medical procedures and emergency response plans.

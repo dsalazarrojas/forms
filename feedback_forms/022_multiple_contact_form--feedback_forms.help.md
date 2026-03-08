@@ -1,5 +1,3 @@
-<thinking>This is a form designed to collect multiple contact information from users. It is intended to be used for gathering feedback and concerns from customers. The form is divided into several fields that require users to provide their name, email address, phone number, and feedback about their experience. The form also asks if the user has any other concerns or issues and provides an option to share any additional information.</thinking>
-
 # Multiple Contact Form - Help Guide
 ## Purpose
 The Multiple Contact Form is designed to gather contact information and feedback from customers. It is intended to be used for customer support and issue resolution.

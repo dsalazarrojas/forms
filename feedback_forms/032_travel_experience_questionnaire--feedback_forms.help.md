@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We should ensure that the form is used correctly for its intended purpose. The form, "Travel Experience Questionnaire," is designed to collect feedback about a travel experience. Its fields should be filled out only by individuals who have actually participated in a trip. The form is required, so it's essential to fill it out accurately and thoroughly.
 
 </thinking>

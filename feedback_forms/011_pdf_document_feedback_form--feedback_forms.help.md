@@ -1,12 +1,3 @@
-<thinking>
-The form "pdf_document_feedback_form" is designed to gather feedback on PDF documents from users. It's meant to be used by those who have viewed or interacted with a PDF document and want to provide input on it. The form is divided into several sections, asking about specific aspects of the document, such as the date of publication, what the user likes or dislikes about it, and any additional comments or notes they might have.
-
-Before starting the form, please ensure you have a good understanding of the document you're providing feedback on. This will help you answer questions more accurately and provide valuable insights.
-
-To avoid duplication of effort, please only provide feedback on one document at a time.
-
-</thinking>
-
 # pdf_document_feedback_form - Help Guide
 ## Purpose
 The pdf_document_feedback_form is meant to gather feedback on PDF documents from users who have viewed or interacted with the document. It's a tool for providing input on the document's content, structure, and overall quality.

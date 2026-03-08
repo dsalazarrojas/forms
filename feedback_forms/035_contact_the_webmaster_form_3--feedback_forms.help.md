@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contact The Webmaster Form 3 - Help Guide
 ## Purpose
 The purpose of this form is to allow you to provide feedback and report issues to the webmaster, so they can be addressed effectively. Please note that this form is not intended for emergency or time-sensitive issues.

@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes you have a basic understanding of the form's purpose in the physiotherapy context. This form is not a replacement for formal patient feedback mechanisms, but rather a tool to collect qualitative feedback from physiotherapists on session performance. Ensure you are submitting feedback on your own session, or one you have directly participated in, to maintain form accuracy and reliability. Duplicate submissions can skew the overall feedback statistics, which might affect future sessions' quality and resource allocation.
-</thinking>
-
 # Physiotherapy Session Feedback Form - Help Guide
 ## Purpose
 This form is a qualitative feedback tool for physiotherapists to provide feedback on their own or peer sessions, helping to improve performance, identify areas of improvement, and optimize resource allocation.

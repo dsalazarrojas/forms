@@ -1,7 +1,3 @@
-<thinking>
-The form is for collecting user responses to a series of questions about pharmacodynamics, which is the study of the mechanisms and dynamics of how drugs interact with the body to produce their effects. This form is intended to gauge the user's understanding of pharmacodynamics concepts.
-</thinking>
-
 # Pharmacodynamics Knowledge Quiz - Help Guide
 ## Purpose
 The Pharmacodynamics Knowledge Quiz is a series of questions designed to test your understanding of pharmacodynamics concepts.

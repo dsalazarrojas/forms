@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to be a survey for evaluating the gym staff's performance in terms of interaction, communication, cleanliness, facilities, overall experience, and other areas. This form aims to gather feedback from users, allowing the gym management to understand their strengths and weaknesses. This feedback will help the gym to improve its services and provide a better experience for its users in the future.
-The form is meant to be filled out by users after their visit to the gym, so it's essential to understand each field's purpose and provide clear and concise explanations. The goal is to make it easy for users to provide their feedback, and for the gym management to get a clear and accurate picture of their performance.
-</thinking>
-
 # Gym Staff Courtesy Evaluation Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from users about their experience with the gym staff. Your input will help us understand our strengths and weaknesses and improve our services to provide a better experience for all our members.

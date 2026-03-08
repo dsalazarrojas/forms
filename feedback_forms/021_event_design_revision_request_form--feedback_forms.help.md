@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, I'd like to clarify that this form is an AI-generated adaptation of a public survey topic metadata, created using the title and industry/category as inspiration. There's no affiliation with or endorsement from any form platform. This form is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it, as long as you give credit. Contact: form@gic.mx for more information.</thinking>
-
 # Event Design Revision Request Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and revisions for event designs. It's intended for event organizers, planners, or designers to provide input on specific aspects of event design, such as layout, content, and overall aesthetic. The feedback collected will help refine and improve event designs for better user experience.

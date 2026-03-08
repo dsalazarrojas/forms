@@ -1,12 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-This form is intended to collect registration information for a digital marketing webinar. It captures essential details such as attendee interests, confirmation status, confirmation method, and confirmation time. This form helps the webinar organizers to track attendee registrations and confirmation status, making it easier to manage the event. 
-
-The form has multiple fields that allow users to input various information such as attendee interests, event date, event time, webinar title, event description, event location, attendee name, attendee phone, and notes. The confirmation fields help in tracking the confirmation status, confirmation method, and confirmation time of the attendees.
-
-</thinking>
-
 # Digital Marketing Webinar Signup Form - Help Guide
 ## Purpose
 The Digital Marketing Webinar Signup Form is designed to collect registration information for a digital marketing webinar. This form helps in tracking attendee registrations and confirmation status, making it easier for the webinar organizers to manage the event.

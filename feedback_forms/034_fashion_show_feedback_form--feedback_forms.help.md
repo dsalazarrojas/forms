@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees of fashion shows. The purpose of this form is to gather information about the overall quality of the event, its organization, and other aspects such as value for money and likelihood of attending similar events in the future. The form is intended for internal use, and the feedback collected will help improve future fashion shows. Please note that all fields are mandatory except for "Comments", which is optional. The form is divided into several sections: event date, time slot, fashion show name, feedback questions, comments, attendee's name, email, and questions about the event's value for money and likelihood of attending similar events in the future.
-</thinking>
-
 # Fashion Show Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of fashion shows. The collected feedback will help improve future fashion shows.

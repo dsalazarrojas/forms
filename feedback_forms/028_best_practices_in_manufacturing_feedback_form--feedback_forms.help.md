@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Best Practices In Manufacturing Feedback Form - Help Guide
 
 ## Purpose

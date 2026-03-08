@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback from users on a product. The form is designed to be simple and easy to use, asking for minimal information to provide a clear understanding of the user's thoughts and suggestions. This feedback is used to improve the product and services offered... </thinking>
-
 # Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users on a product. The form is designed to be simple and easy to use, asking for minimal information to provide a clear understanding of the user's thoughts and suggestions.

@@ -1,7 +1,3 @@
-<thinking>
-  The media_outreach_volunteer_application_form is a form designed to capture information from individuals interested in participating in media outreach efforts. This form is used to collect relevant details such as contact information, availability, skills, and preferred communication methods to facilitate smooth communication and effective collaboration. It is essential to carefully fill out this form to ensure that we can match you with the right opportunities. Please note that it is optional, but filling this form will help us better understand your interests and availability.
-</thinking>
-
 # media_outreach_volunteer_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in participating in media outreach efforts. By filling out this form, you will help us better understand your interests and availability, which will enable us to match you with the right opportunities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on excavation services provided by the company. The purpose of this form is to gather information from customers on their experience with the excavation services, including their overall rating of the service and any comments or recommendations they may have. This form is intended to be used by customers who have recently received excavation services from the company. The form is not meant to be used by employees or internal staff of the company. To ensure that the feedback collected is relevant and accurate, it is recommended that customers fill out the form within a week after receiving the excavation services.
-</thinking>
-
 # Excavation Services Feedback - Help Guide
 ## Purpose
 The Excavation Services Feedback form is designed to collect feedback from customers on their experience with the company's excavation services.

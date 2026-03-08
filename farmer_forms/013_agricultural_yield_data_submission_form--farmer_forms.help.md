@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect agricultural yield data from farmers or farm managers for submission to the relevant authorities. The form is divided into several sections to capture various aspects of the harvest, including farmer information, farm details, crop specifics, yield metrics, and other relevant factors. To ensure data accuracy and completeness, some fields are marked as required.
-</thinking>
-
 # Agricultural Yield Data Submission Form - Help Guide
 ## Purpose
 This form is for submitting agricultural yield data for official reporting and evaluation purposes.

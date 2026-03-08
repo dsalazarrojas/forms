@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by customers to provide feedback or support on their masterclass experience. It is meant to be filled out when a customer needs to report an issue, ask a question, or provide suggestions. 
-When filling this form, it is best to make sure that the information provided is accurate and clear to ensure efficient support. Please do not repeat issues or submissions, as this can delay the resolution process. This form is intended for use on a per-issue or per-suggestion basis.</thinking>
-
 # Masterclass Support And Feedback Form - Help Guide
 ## Purpose
 The Masterclass Support And Feedback Form is intended to be used by customers to provide feedback or support on their masterclass experience.

@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I will create a user-facing help guide for the Bird Feeder Feedback Survey form. The purpose of this form is to collect feedback from customers who own or have used bird feeders to help improve the product and provide a better experience for future customers. To ensure that users understand the form's purpose and provide relevant feedback, it is essential to have clear and concise language throughout the guide. The survey aims to gather information on various aspects of the bird feeder, including the customer's experience, product quality, and value for money. By collecting this data, the company can identify areas for improvement and make informed decisions to enhance the product and customer experience.</thinking>
-
 # Bird Feeder Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from customers who own or have used our bird feeders. Your input will help us improve the product and provide a better experience for future customers.

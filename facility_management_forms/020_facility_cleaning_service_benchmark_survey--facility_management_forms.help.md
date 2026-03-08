@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about the quality of the facility cleaning services. It will help to assess the overall performance of the cleaning services and identify areas of improvement. The form is designed to be completed by facility users, and it will help to understand their experience and expectations. To avoid duplication of efforts, please ensure that the form is not filled out in duplicate, and it's filled out only by authorized personnel.
-</thinking>
-
 # Facility Cleaning Service Benchmark Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information on the quality of the facility cleaning services.

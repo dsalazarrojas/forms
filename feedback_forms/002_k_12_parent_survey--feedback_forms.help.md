@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from parents of high school students (K-12). The form will be used to gather information about their experiences, suggestions, and comments. To ensure that the form is filled out correctly, please make sure to fill out each section completely and accurately. If you've already filled out this form in the past, please do not submit it again.
-</thinking>
-
 # K 12 Parent Survey - Help Guide
 ## Purpose
 The K 12 Parent Survey is a form designed to collect feedback from parents of high school students. The survey will be used to understand their experiences, suggestions, and comments about their child's education.

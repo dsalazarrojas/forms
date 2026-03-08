@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about event accommodations, specifically for documentary teams. It is essential to complete this form accurately to ensure that the necessary details are captured for the event. Please ensure that you fill out the form carefully, and if you're unsure about any field, please refer to the field explanation below.
-</thinking>
-
 # Documentary Team Accommodation Form - Help Guide
 ## Purpose
 

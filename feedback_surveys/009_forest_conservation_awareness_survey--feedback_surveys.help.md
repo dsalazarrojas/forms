@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback and information from end-users about their knowledge, feelings, and experiences regarding forest conservation. The purpose of this form is to collect data that will help us understand the level of awareness and engagement among our audience about forest conservation practices and policies. It is expected that the responses will help us refine our strategies to better support forest conservation efforts.
-
-To ensure that the feedback is relevant and not duplicated, end-users will need to complete their contact information only if they choose to provide feedback that requires it.
-
-</thinking>
-
 # Forest Conservation Awareness Survey - Help Guide
 ## Purpose
 This form aims to gather information about your knowledge, feelings, and experiences regarding forest conservation practices and policies.

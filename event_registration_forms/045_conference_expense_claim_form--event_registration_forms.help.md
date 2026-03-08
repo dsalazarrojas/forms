@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this Conference Expense Claim Form is to collect information about an expense claim submitted by an individual, which will then be reviewed and processed by the finance team for reimbursement. The form is designed to be completed by conference attendees who need to claim expenses related to a work-related trip. Before proceeding, please ensure you are submitting a claim that is not already accounted for in your project's budget or has been previously claimed in a prior submission. This form must be completed with accurate and valid information to ensure proper processing and avoid delays in reimbursement. 
 
 # Conference Expense Claim Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This is where the internal reasoning and checks for form purpose and non-duplication go.
-</thinking>
-
 # Enquiry Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from users to provide assistance with their inquiries. Please use this template to submit your enquiry and we will do our best to respond promptly.

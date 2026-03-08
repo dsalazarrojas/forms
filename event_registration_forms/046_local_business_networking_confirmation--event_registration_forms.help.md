@@ -1,8 +1,3 @@
-<thinking>
-The form "Local Business Networking Confirmation" is intended to gather information from attendees to confirm their participation in a local business networking event. This form is designed to collect contact information, event attendance status, and other relevant details from individuals who wish to attend or have already attended the event. 
-This form is not meant to collect redundant or sensitive information. Please ensure that all required fields are filled out accurately to facilitate smooth event coordination. 
-</thinking>
-
 # Local Business Networking Confirmation - Help Guide
 ## Purpose
 The "Local Business Networking Confirmation" form is used to gather information from attendees to confirm their participation in a local business networking event. This form helps event organizers ensure that attendees are registered and have the necessary details to facilitate successful event coordination.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for participants to register for an international event, gathering information such as event name, participant details, and event specifics. The form includes fields for event name, participant name, email, phone number, address, city, country, zip code, event type, participant type, arrival and departure dates, note, assigned tool, form ID, category, description, title, event dates, country of origin, contact person, contact email, contact phone, category ID, and event ID. The form's fields are a mix of single-value and multiple-value fields, indicating it caters to different types of events and participants.
-</thinking>
-
 # international_participant_registration_form - Help Guide
 ## Purpose
 This form is designed to gather information from participants for an international event.

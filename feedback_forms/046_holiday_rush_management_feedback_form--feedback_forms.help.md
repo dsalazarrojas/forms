@@ -1,16 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "holiday_rush_management_feedback_form" form. This form is used to collect feedback from customers during peak holiday seasons, such as New Year's, Easter, Christmas, and other special events. The form helps our employees to identify areas of improvement and make necessary adjustments to better serve our customers during these busy periods. We want to ensure that we provide the best possible experience for our customers, and this form plays a crucial role in achieving that goal.
-
-When filling out this form, please note that some fields are optional, but providing as much information as possible will help us get a more accurate picture of your experience. If you have filled out this form before, please make sure to let us know so we can avoid duplicate feedback.
-
-This form is used to:
-
-* Gather feedback on your experience during our holiday events
-* Help us understand areas for improvement
-* Allow us to make necessary adjustments to better serve our customers
-
-</thinking>
-
 # holiday_rush_management_feedback_form - Help Guide
 ## Purpose
 This form is used to collect feedback from customers during peak holiday seasons. Your input will help us identify areas of improvement and make necessary adjustments to provide better service.

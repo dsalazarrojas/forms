@@ -1,15 +1,3 @@
-<thinking>
-**Internal reasoning block**: To confirm that the form is properly set up as "Feedback Forms" with a clear purpose and a straightforward design, let's analyze its properties:
-
-- The form's title, "Menu Feedback Form", confirms its purpose as a feedback tool related to menu options.
-- The "MenuCategory" field is a required select_one field, implying that users will be selecting one category from a set of options.
-- The "Rating" field is optional and a number type, suggesting a numerical rating system.
-- The "Comments" field is also optional, indicating that users have the freedom to provide written comments.
-- The "Email" field is optional but still included, implying that email addresses are an important piece of information for the feedback process.
-- The "Phone" field is optional and a text type, suggesting a field for users to input their phone numbers.
-
-</thinking>
-
 # Menu Feedback Form - Help Guide
 
 ## Purpose

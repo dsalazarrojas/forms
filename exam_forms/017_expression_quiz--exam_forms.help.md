@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # expression_quiz - Help Guide
 
 ## Purpose

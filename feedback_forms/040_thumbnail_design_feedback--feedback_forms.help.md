@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # thumbnail_design_feedback - Help Guide
 
 ## Purpose

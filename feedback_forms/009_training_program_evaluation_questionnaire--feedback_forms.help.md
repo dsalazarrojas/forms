@@ -1,8 +1,3 @@
-<thinking>
-We are creating a form for evaluating training programs. This form will help us gather data on the effectiveness and quality of our training programs. We are looking for information on program name, rating, evaluation scale, potential areas of improvement, participant feedback, program satisfaction, and evaluation period. Please make sure to complete the form accurately and thoroughly to provide us with the most valuable feedback.
-
-</thinking>
-
 # training_program_evaluation_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and evaluation of our training programs. Please provide your honest and detailed answers to help us improve our programs.

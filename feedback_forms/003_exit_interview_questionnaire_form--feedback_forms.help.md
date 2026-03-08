@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about an employee's reasons for leaving the company, their experiences with the organization, and suggestions for improvement. It is intended to be filled out by employees leaving the company, and the data collected will be used to identify areas for improvement and help shape future company policies. Please fill out this form carefully, ensuring that you answer each question truthfully and to the best of your ability. If you've already answered this form, please don't worry about repeating yourself. Your responses will be kept confidential, and we appreciate your honesty.</thinking>
-
 # Exit Interview Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences and reasons for leaving the company. Your responses will help us understand what we can do to improve and make our workplace better for future employees.

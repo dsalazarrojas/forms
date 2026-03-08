@@ -1,11 +1,3 @@
-<thinking>
-The form "Administrative Area Evaluation" is designed to assess the condition and quality of administrative areas within an organization. It is intended to be completed by evaluators who are familiar with the areas being evaluated. The form is used to collect data on various aspects of the administrative areas, including cleanliness, maintenance, lighting, temperature comfort, noise level, furniture condition, equipment availability and functionality, space utilization, safety compliance, accessibility compliance, positive aspects, areas for improvement, maintenance issues, and improvement suggestions. This form is meant to be a comprehensive tool for evaluating the overall condition of administrative areas and identifying areas that require improvement.
-
-Before filling out this form, please ensure that you have a good understanding of the areas being evaluated and are familiar with the options provided for each field. This form is not intended to be a subjective or opinion-based assessment, but rather a factual and objective evaluation of the areas based on your observations and experiences.
-
-To avoid duplication of effort, please ensure that you have not previously completed this form for the same area or time period. If you have any questions or concerns, please reach out to the form maintainers for clarification.
-</thinking>
-
 # Administrative Area Evaluation - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the condition and quality of administrative areas within an organization, providing a comprehensive assessment of various aspects of these areas.

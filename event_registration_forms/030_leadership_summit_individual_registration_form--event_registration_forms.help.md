@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for participants to register themselves for the Leadership Summit. The form is used to gather information about each participant, including their contact information, role, and job title. The form is not meant to be completed by multiple people at once, but rather, each individual is expected to fill it out themselves. It's recommended that participants register themselves to ensure accurate and up-to-date information.
 
 # Leadership Summit Individual Registration Form - Help Guide

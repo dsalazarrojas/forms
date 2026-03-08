@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from employees on their experience with the workplace feedback channel. This form is designed to gather information on their satisfaction with the channel, how often they use it, and any comments or suggestions they may have. By collecting this feedback, the organization can identify areas for improvement and make necessary changes to enhance the effectiveness and efficiency of the channel.
-
-</thinking>
-
 # Workplace Feedback Channel Survey - Help Guide
 
 ## Purpose

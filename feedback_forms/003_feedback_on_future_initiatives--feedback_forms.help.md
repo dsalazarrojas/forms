@@ -1,7 +1,3 @@
-<thinking>
-This help guide will be used by end-users to understand the purpose and requirements of the "Feedback On Future Initiatives" form. The form is designed to gather feedback on proposed programs and initiatives from team members. It's essential to provide clear and concise instructions to ensure that end-users understand what information is needed and how to submit their feedback effectively. To achieve this, we will create a comprehensive help guide that covers the form's purpose, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # Feedback On Future Initiatives - Help Guide
 ## Purpose
 The "Feedback On Future Initiatives" form is used to gather feedback from team members on proposed programs and initiatives. This feedback will help inform and improve the development of new programs and initiatives that align with the organization's goals and priorities.

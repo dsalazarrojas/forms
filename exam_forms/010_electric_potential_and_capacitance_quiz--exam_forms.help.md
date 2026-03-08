@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's ensure the form purpose and relevance are well-understood. The "Electric Potential And Capacitance Quiz" form seems to be a series of text input fields, likely designed to collect information about electricity and capacitance-related topics. The form is likely used for educational or testing purposes, possibly to assess users' understanding of electric potential and capacitance concepts. The fields are mostly named "questionX" and "submissionX", indicating they might be used to collect answers to specific questions and a final submission. I'll review the fields to provide clear explanations and instructions.</thinking>
-
 # Electric Potential And Capacitance Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about electricity and capacitance-related topics through a series of text input fields. It's intended to be used for educational or testing purposes, possibly to assess users' understanding of these concepts.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide aims to assist users in completing the Exhibit Promotion Release Form accurately and effectively. The form is designed to obtain information on promoting an exhibit, including the event and exhibit name, promoter's details, and marketing channels. This form will help in streamlining the release process and ensuring that all necessary information is captured accurately. To complete this form, please ensure that it is not duplicated or outdated.
-
-</thinking>
 # Exhibit Promotion Release Form - Help Guide
 ## Purpose
 The Exhibit Promotion Release Form is a tool used to collect information from exhibitors about their promotion of events and exhibits. It helps in organizing and tracking the promotional activities of exhibitors, ensuring that all necessary details are captured accurately.

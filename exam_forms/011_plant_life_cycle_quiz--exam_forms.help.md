@@ -1,14 +1,3 @@
-<thinking> 
-The purpose of this form is to gather information about a plant's life cycle. This form is used to collect data on various aspects of a plant's life cycle, including its growth stages, reproduction methods, and other relevant details. 
-
-The form will be used to provide insights into the life cycle of plants, which is essential for research and development in botany and agriculture. 
-
-This form should only be filled out for educational or research purposes, and the information collected should not be used for commercial purposes. 
-
-Before starting the form, please make sure that you have not already filled out this form. If you have any doubts or questions, please contact the form owner. 
-
-</thinking>
-
 # Plant Life Cycle Quiz - Help Guide
 
 ## Purpose

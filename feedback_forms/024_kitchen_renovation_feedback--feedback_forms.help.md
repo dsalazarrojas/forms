@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect feedback from customers regarding their experiences with a kitchen renovation project. The form is likely intended for customers who have received services from a company or contractor and are providing an assessment of the quality of work done. The form should be completed by a customer who has recently undergone a kitchen renovation project... </thinking>
-
 # Kitchen Renovation Feedback - Help Guide
 ## Purpose
 The Kitchen Renovation Feedback form is designed to collect information from customers about their experiences with a kitchen renovation project. This feedback will help us improve our services and provide better support to our customers in the future.

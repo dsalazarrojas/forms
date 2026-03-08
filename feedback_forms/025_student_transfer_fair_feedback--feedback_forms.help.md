@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be used by students to provide feedback on the Student Transfer Fair event. This form is designed to gather information about students' experiences during the event, including their overall impression, what they learned, and what they liked or disliked about the presenters and colleges. This guide will walk you through each page and field to help you complete the form accurately and effectively.
-</thinking>
-
 # Student Transfer Fair Feedback - Help Guide
 ## Purpose
 The Student Transfer Fair Feedback form is a tool for students to provide their thoughts and opinions on the Student Transfer Fair event. Your feedback will help us understand what worked well and what could be improved for future events.

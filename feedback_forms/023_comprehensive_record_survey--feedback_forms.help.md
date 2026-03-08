@@ -1,9 +1,3 @@
-<thinking>
-We will now explain the internal considerations for this comprehensive record survey form.
-The form's purpose is to gather feedback from customers about their experience with a service provider. This form aims to collect information about the service provided, the quality of service, staff friendliness and knowledge, response time, problem resolution, value for money, cleanliness, wait time, likelihood to recommend, and likelihood to return. It also inquires about the best aspect of the customer's experience and areas for improvement. The form is designed to gather actionable data for business improvement.
-We will check for relevance to the survey's intended purpose and avoid duplication of information.
-</thinking>
-
 # Comprehensive Record Survey - Help Guide
 ## Purpose
 The Comprehensive Record Survey is designed to gather feedback from customers about their experience with our service provider. This form aims to collect information about the service provided, its quality, and other relevant factors that influence customer satisfaction and loyalty.

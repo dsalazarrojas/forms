@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users request an expense report export for their organization. The purpose of this form is to gather information from the user about the desired export, such as the date range, category, format, delivery method, and report type. This information will be used to generate a customized expense report that meets the user's specific needs. The form is intended for internal use within the organization and is not affiliated with any external form platforms. By filling out this form, users can efficiently and accurately request an expense report export without any duplication or redundancy. The form is designed to be user-friendly and easy to navigate, with clear instructions and explanations for each field. Please note that filling out this form is not a one-time process and users can submit multiple requests if needed.
-</thinking>
-
 # Expense Report Export Request Form - Help Guide
 ## Purpose
 The Expense Report Export Request Form is a tool for users to request an expense report export for their organization. This form helps to gather information from the user about the desired export, such as date range, category, format, delivery method, and report type.

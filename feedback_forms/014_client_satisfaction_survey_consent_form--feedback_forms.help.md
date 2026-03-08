@@ -1,13 +1,3 @@
-<thinking>
-
-This form collects data about client satisfaction with our services or products, providing feedback and suggestions for improvement. It's intended for clients who have used our services or products. To prevent duplication and ensure accurate representation, we'll filter out responses from users who have already provided feedback in the past six months.
-
-This form is designed to be completed online, and it's recommended to have an administrator present during the process to help guide users when needed.
-
-Before proceeding, please review our company's <a href="https://example.com/privacy-policy">Privacy Policy</a> for details on how we collect, store, and use client data.
-
-</thinking>
-
 # Client Satisfaction Survey Consent Form - Help Guide
 ## Purpose
 This form aims to collect feedback from clients about their experiences with our services or products. It helps us identify areas of improvement and ensures we provide the best possible experience for our clients.

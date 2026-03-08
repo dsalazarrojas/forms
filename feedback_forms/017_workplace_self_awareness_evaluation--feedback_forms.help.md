@@ -1,7 +1,3 @@
-<thinking>
-The Workplace Self Awareness Evaluation form is designed to help employees evaluate their own self-awareness, self-regulation, and self-motivation skills, as well as their ability to navigate the workplace dynamics and conflicts that arise. This form aims to provide a comprehensive self-assessment of an individual's strengths and areas for improvement, allowing them to identify development opportunities and create a growth plan. This form should only be filled out once for each assessment period, and any changes to previous responses should be reviewed and updated accordingly.
-</thinking>
-
 # Workplace Self Awareness Evaluation - Help Guide
 ## Purpose
 The Workplace Self Awareness Evaluation form is designed to help employees assess their self-awareness, self-regulation, and self-motivation skills, as well as their ability to navigate workplace dynamics and conflicts.

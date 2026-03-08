@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # DJ Recommendation Form - Help Guide
 ## Purpose
 

@@ -1,6 +1,3 @@
-<thinking>
-We will assume that the purpose of this form is to gather information from farmers or their representatives to provide support or assistance with the livestock monitoring system, likely for maintenance, issues, or general inquiry. This form likely serves as a first point of contact to collect details before further interactions. The form might not be used to collect data for official registration or certification purposes. Before proceeding, let's confirm that this form aligns with your actual use case. Please note that the provided YAML schema doesn't contain any fields related to specific livestock monitoring system details or data entry for monitoring purposes. This form seems to be more about providing contact information and general inquiries.
-</thinking>
 # Livestock Monitoring System Inquiry Form - Help Guide
 ## Purpose
 The Livestock Monitoring System Inquiry Form is a tool for farmers or their representatives to contact support or gather information about the livestock monitoring system. It is likely used for maintenance issues, general inquiries, or other assistance.

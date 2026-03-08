@@ -1,9 +1,3 @@
-<thinking>
-We are creating a feedback mechanism to collect participant feedback on an anxiety course, ensuring that we gather valuable insights on course effectiveness and areas for improvement. 
-This form is not required for every participant and is intended to be filled out on a case-by-case basis, allowing us to tailor our approach to the needs and experiences of each individual participant. 
-The form is part of a larger effort to continuously improve the quality of our anxiety course, and your feedback is greatly appreciated.
-</thinking>
-
 # Anxiety Course Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from participants on the anxiety course to help us understand what we do well and what areas need improvement.

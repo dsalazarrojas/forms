@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the Livestock Feed Optimization Survey form. The form is designed to gather information about a farm's livestock feeding practices and habits. It is likely used by farm owners or operators to assess their current feeding strategies and identify areas for improvement. It is possible that this form is part of a larger initiative to optimize feeding practices, potentially to increase efficiency, reduce costs, or improve animal health. The form may be used by agricultural extension services, veterinarians, or other experts in the field. However, without further context, it is unclear who exactly would be using this form and for what specific goals.
-</thinking>
-
 # Livestock Feed Optimization Survey - Help Guide
 ## Purpose
 The Livestock Feed Optimization Survey is designed to collect information about your farm's current feeding practices, habits, and challenges. This form will help you assess your feeding strategies and identify areas for improvement.

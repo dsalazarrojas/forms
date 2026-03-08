@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback about the PDF merging process. It is designed to help us understand if the PDF merging feature is functioning correctly and identify areas for improvement. This form should not be used to report general issues or concerns. 
-
-Please make sure to fill out this form only when you have encountered a specific issue with PDF merging.
-
-</thinking>
-
 # PDF Document Merging Survey - Help Guide
 ## Purpose
 This guide provides information on how to complete the PDF Document Merging Survey form, which is used to gather feedback about the PDF merging process.

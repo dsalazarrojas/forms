@@ -1,11 +1,3 @@
-<thinking>
-We'll create a help guide for the "VIP Event Invitation Form" that explains its purpose, how to complete it, and what each field means. This form is designed to register VIP events, including the event details and the information of the invitees. We'll aim to make the form as user-friendly as possible while ensuring that each field is explained clearly.
-
-Before we proceed, please note that this form has 15 fields that are mostly self-explanatory, but some fields like "invitee_list" and "event_organizer_phone" might require some clarification.
-
-Also, we'll check for potential duplication of fields and ensure that this form is not meant to be used in a duplicate way. Let's assume that the form is not a duplicate and proceed with creating the help guide.
-</thinking>
-
 # VIP Event Invitation Form - Help Guide
 ## Purpose
 The "VIP Event Invitation Form" is designed to register VIP events, providing essential details about the event and its invitees.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent Communication Checklist - Help Guide
 ## Purpose
 The Parent Communication Checklist is a form designed to collect information about communication between a parent and their child. It helps to ensure that parents are aware of and have responded to important updates about their child's events and updates.

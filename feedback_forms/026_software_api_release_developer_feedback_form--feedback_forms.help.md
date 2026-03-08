@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from developers regarding software releases. 
-It is intended to gather information about the version being released, the date it was released, the type of feedback (bug report, feature request, or other), and any additional comments or issues. 
-This form is used by the development team to improve the software and provide better services to the users. 
-Please ensure that you only submit feedback for a specific version of the software and avoid submitting duplicate feedback.
-</thinking>
-
 # software_api_release_developer_feedback_form - Help Guide
 ## Purpose
 This form is used to collect feedback from developers regarding the software release.

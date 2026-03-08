@@ -1,8 +1,3 @@
-<thinking>
-The form is intended for users to register events with the option to rent event spaces for the duration of the event. This form is used to capture the necessary details for event registration and payment purposes. 
-It is recommended that users only create one event per form. If users need to create multiple events, they can submit the form multiple times.
-</thinking>
-
 # Event Space Rental Payment Form - Help Guide
 ## Purpose
 The Event Space Rental Payment Form is used to register events and rent event spaces for the duration of the event.

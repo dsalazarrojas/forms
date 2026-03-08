@@ -1,5 +1,3 @@
-<thinking>... This form appears to be a part of a project management system, designed to capture information for project extensions. It likely allows project managers to request or track extensions to project completion dates. The form might be used for internal projects within an organization, and the fields might be related to project administration, such as requesting more time or resources to complete a project... (This is a brief internal reasoning block, to ensure that the form's purpose is clear and that the information is not duplicated elsewhere.)</thinking>
-
 # Transportation Project Extension Form - Help Guide
 ## Purpose
 The Transportation Project Extension Form is used for project managers to request or track extensions to project completion dates.

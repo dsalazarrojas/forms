@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users who have attended meetings. Meeting attendees can use this form to provide their opinions on meetings with meeting assistants. The form will help identify potential issues with the meeting assistant's performance and suggest improvements.
-It's recommended that users fill out the form only once per meeting to avoid duplication of feedback.
-</thinking>
-
 # Meeting Assistant Feedback Form - Help Guide
 ## Purpose
 The Meeting Assistant Feedback Form is a tool to gather feedback from users who have attended meetings with meeting assistants. This form will help us identify potential issues with the meeting assistant's performance and suggest improvements.

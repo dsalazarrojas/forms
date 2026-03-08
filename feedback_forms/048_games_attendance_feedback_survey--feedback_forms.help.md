@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from game attendees about their experience at a game event. This feedback is essential for the event organizers to improve future events. Please note that you should only submit a survey if you attended the event. If you haven't attended, please do not submit the survey.
-
-To prevent non-duplication, please only submit a survey for each unique event. If you've already submitted a survey for a particular event, do not resubmit.
-
-</thinking>
-
 # Games Attendance Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from game attendees about their experience at a game event. Your input will help us improve future events.

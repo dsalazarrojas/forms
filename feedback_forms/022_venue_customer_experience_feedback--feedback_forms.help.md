@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Venue Customer Experience Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience at a venue. This form helps us understand their satisfaction with various aspects of their visit, such as staff helpfulness, facilities, and overall experience. The information collected will be used to improve our services and make future events more enjoyable for all customers.

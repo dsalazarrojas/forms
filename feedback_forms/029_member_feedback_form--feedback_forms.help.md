@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this Member Feedback Form, I'll consider the following:
-
-* The form is likely used for gathering feedback from members about their experience with the service or product provided by the organization.
-* The purpose of the form may be to identify areas of improvement and to understand what members like or dislike about the service.
-* Each field in the form will be explained in a clear and concise manner to help users understand what information is being asked and how to provide accurate feedback.
-
-</thinking>
-
 # Member Feedback Form - Help Guide
 
 ## Purpose

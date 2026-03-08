@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure that the form is used for its intended purpose and that users understand what each field represents to avoid duplication and inaccuracies. This form aims to gather information from users who claim ownership of NFTs (Non-Fungible Tokens), which are unique digital assets. To verify ownership, users must provide specific details about the NFT, including its name, contract address, and proof of its existence. The form is designed to be completed by the actual owner of the NFT or their representative, who will input their information and any supporting documentation to support their claim.
-
-</thinking>
-
 # NFT Ownership Claim Form - Help Guide
 ## Purpose
 The NFT Ownership Claim Form is used to claim ownership of a Non-Fungible Token (NFT) in a secure and transparent manner. This form gathers essential information from the claimant to verify their ownership and provide proof of the NFT's existence.

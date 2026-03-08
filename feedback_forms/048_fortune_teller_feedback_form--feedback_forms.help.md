@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fortune Teller Feedback Form - Help Guide
 
 ## Purpose

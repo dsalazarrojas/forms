@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback on our service, allowing us to identify areas for improvement and make data-driven decisions. The form is intended to capture a comprehensive view of the customer experience, including their satisfaction with our service, reasons for choosing our service, and any suggestions or complaints they may have. This form will help us track and analyze customer feedback, ensuring that we are meeting their needs and making necessary adjustments to provide a better overall experience.
-
-To avoid duplication, this form will not be used to collect feedback from customers who have already provided feedback in the past.
-
-</thinking>
 # Customer Feedback Tracker - Help Guide
 
 ## Purpose

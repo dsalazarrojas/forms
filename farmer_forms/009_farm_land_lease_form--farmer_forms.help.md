@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about a farm land lease agreement between a farmer and a land owner. The form will be used to store data about the land size, tenant details, lease duration, and payment terms. This information will be used for administrative and record-keeping purposes. It is essential that the form is completed accurately and consistently to ensure the data's quality and integrity. This form should not be used for other purposes, as it is specifically designed for this particular use case. The form will be reviewed and validated for completeness before submission, ensuring that all required fields are filled in.
-</thinking>
-
 # Farm Land Lease Form - Help Guide
 ## Purpose
 The Farm Land Lease Form is designed to collect essential information about a farm land lease agreement between a farmer and a land owner. The completed form will be used to store and manage farm land lease data for administrative and record-keeping purposes.

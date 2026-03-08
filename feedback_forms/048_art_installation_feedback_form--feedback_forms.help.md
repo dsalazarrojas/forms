@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather feedback from visitors on the art installations, allowing the art center to understand how engaging the installations are, identify any accessibility issues, and gather suggestions for improvement. The form is designed to collect information on the visitor's name, the name of the installation they visited, the date of their visit, their engagement level with the installation, any accessibility issues they faced, and their feedback on the installation's sensory experience and learning outcome. This form will not be used to gather sensitive or personal information that would require a higher level of vetting or protection.
-The form is part of the art center's efforts to create a more engaging and accessible experience for visitors. By completing this form, visitors will be able to provide feedback that will help the art center improve future installations.
-</thinking>
-
 # Art Installation Feedback Form - Help Guide
 ## Purpose
 The Art Installation Feedback Form is designed to gather information from visitors about their experiences with the art installations at the art center. Completing this form will help us understand how engaging the installations are and what improvements we can make to create a better experience for all visitors.

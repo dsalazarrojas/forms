@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to book a yoga class. The form collects information about the participant, including their name, contact details, and preferences for the class they are booking. The form is not intended to be a comprehensive registration process for all events, but rather a specific form for booking a yoga class. It is expected that users will have already been invited or registered for a yoga class and this form is being used to collect additional information and confirm their booking.
-
-This form is not intended to be used for other types of events and the fields are specifically designed to cater to the requirements of a yoga class booking process.
-
-This guide is intended to provide step-by-step instructions on how to complete this form correctly.
-</thinking>
-
 # yoga_class_booking_form - Help Guide
 ## Purpose
 This form is used to book a yoga class and collect relevant information about the participant.

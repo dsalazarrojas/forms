@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Short Term Rental Guest Check Out Form", I will first need to understand the purpose and context of the form. This form appears to be used for recording and managing the check-out process of short-term rental guests, including collecting feedback, recording payment status, and handling additional charges. The form seems to be designed to ensure accurate and efficient guest check-out processes.
-
-The form is composed of 15 fields, each with its own specific type and requirements. Some fields appear to be optional, while others are required for accurate and complete information.
-
-To create the help guide, I will break down each section and explain each field in a concise and practical manner to assist users in completing the form correctly.
-
-</thinking>
-
 # Short Term Rental Guest Check Out Form - Help Guide
 ## Purpose
 The Short Term Rental Guest Check Out Form is used to document the check-out process of short-term rental guests, ensuring accurate and efficient management of guest information, payment status, and additional charges.

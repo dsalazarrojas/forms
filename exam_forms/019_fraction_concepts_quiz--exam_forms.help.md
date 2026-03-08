@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to assess students' understanding of fraction concepts, such as equivalent ratios and comparison of fractions. The form likely collects data for educational purposes, and the fields are designed to gather information about a student's problem-solving skills, such as identifying the type of problem, the numerator and denominator values, equivalent ratios, and other relevant details. However, further investigation is necessary to confirm the exact purpose and scope of this form. 
-</thinking>
-
 # Fraction Concepts Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate students' knowledge of fraction concepts, covering essential skills such as solving problems and identifying equivalent ratios.

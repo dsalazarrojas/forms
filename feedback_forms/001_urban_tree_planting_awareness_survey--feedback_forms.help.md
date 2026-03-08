@@ -1,9 +1,3 @@
-<thinking>
-The Urban Tree Planting Awareness Survey is designed to gauge the level of awareness and interest in tree planting among individuals in the urban setting. This form aims to collect feedback on the perceived barriers to tree planting, the frequency and methods of tree planting, and other related factors. The survey will help us understand the needs and preferences of urban tree planters, which will inform our initiatives to promote urban forestry and tree planting activities.
-
-Please ensure that you complete this survey only once. If you have already completed this survey, do not submit it again.
-</thinking>
-
 # Urban Tree Planting Awareness Survey - Help Guide
 ## Purpose
 The Urban Tree Planting Awareness Survey is designed to gather information on the awareness, interest, and experiences of individuals regarding urban tree planting. This survey will help us better understand the needs and preferences of urban tree planters and inform our initiatives to promote urban forestry and tree planting activities.

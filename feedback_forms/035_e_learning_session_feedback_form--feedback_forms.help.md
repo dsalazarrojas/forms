@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # e_learning_session_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their e-learning session experiences. It helps us understand their satisfaction and areas for improvement.

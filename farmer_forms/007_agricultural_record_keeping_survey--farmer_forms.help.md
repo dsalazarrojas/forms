@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information from farmers about their record keeping practices, comfort with technology, and potential challenges they face in maintaining accurate and up-to-date records. The form aims to collect data on various aspects of record keeping, including the methods used, frequency of updates, and importance placed on record keeping. By analyzing this data, we can better understand the needs and pain points of farmers and provide targeted support and training programs to improve their record keeping practices.
-This form has been designed with the following considerations:
-
-*   To minimize redundancy, we will be checking for duplicate entries and preventing them from being submitted.
-*   The form has a clear and concise structure, with each page dedicated to a specific category of questions.
-*   The options provided are based on the options available in the form's schema and are designed to be relevant and logical.
-*   The form has been reviewed for clarity and consistency, ensuring that each field's label and description accurately reflect its purpose.
-*   The help guide will be kept up-to-date to reflect any changes made to the form.
-
-</thinking>
-
 # Agricultural Record Keeping Survey - Help Guide
 ## Purpose
 

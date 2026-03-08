@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is completed correctly and that the feedback is helpful, we will only consider feedback from users who have attended the training session and have some level of interaction with the session (e.g., attended the session, participated in activities, etc.). We will also check for duplication by requiring a unique email address per session. This means you must complete the form for each training session only once. If you have already completed the form for this session, please do not attempt to complete it again.
-</thinking>
-
 # post_test_assessment_survey - Help Guide
 ## Purpose
 This form is for participants to provide feedback on a training session they have attended. The feedback will help us improve our training programs and provide better services.

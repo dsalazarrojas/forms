@@ -1,6 +1,3 @@
-<thinking>
-...The form is for requesting a Zoom link for an information session. The goal is to collect information from attendees about their session preferences. This form will help organizers manage the session effectively by getting details about attendees' availability and interests. It's crucial to ensure that the session dates and times are correctly reflected in the form to avoid conflicts or miscommunications. Before filling out this form, please make sure you are only submitting one request per session, as duplicate submissions might cause confusion.</thinking>
-
 # Zoom Link Request For Info Session - Help Guide
 ## Purpose
 The purpose of this form is to request a Zoom link for an information session. It helps us collect essential details from attendees about their session preferences, ensuring that the session runs smoothly and efficiently.

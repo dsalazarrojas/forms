@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by customers to book a helicopter tour. It's a simple form that collects essential information from customers to provide them with a unique experience. To avoid duplication, please use this form only for helicopter tour bookings.
-</thinking>
-
 # Helicopter Tour Booking Form - Help Guide
 ## Purpose
 This form is used to book a helicopter tour. Fill out the form to provide your details and schedule your tour.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to authorize photography at events, ensuring that participants are aware of and agree to the terms of event photography. It's essential to understand this form's purpose and complete it accurately to ensure the event organizers and participants' interests are respected. Before starting, ensure you have a clear understanding of the event's details and the photography requirements. This form should not be used in situations where a similar form already exists or is already covered by other means (e.g., a separate photo release form).
-
-</thinking>
-
 # Event Photography Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain authorization from participants for photography at events. It ensures that participants are aware of the photography activities, the terms of their participation, and their consent for the use of their likeness in photos.

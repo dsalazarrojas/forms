@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-**Laboratory Biosafety Quiz - Help Guide**
+# **Laboratory Biosafety Quiz - Help Guide**
 
 ## Purpose
 This form is designed to assess your knowledge and understanding of laboratory biosafety protocols and procedures. It covers various aspects of laboratory safety, including personal protective equipment (PPE), spill response, biohazard handling, and emergency preparation. By completing this form, you will be able to evaluate your knowledge and identify areas where you need further training or clarification.

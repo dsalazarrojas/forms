@@ -1,7 +1,3 @@
-<thinking>
-To ensure that project execution is well-planned and executed, it's essential to gather information about the project's readiness for launch. This survey aims to collect data on the project's status, lead and team structure, and other critical factors that can impact its success. By filling out this form, project managers and team leads can gain insights into their team's and project's readiness for launch, allowing them to take necessary steps to improve its execution.
-</thinking>
-
 # Project Execution Readiness Survey - Help Guide
 
 ## Purpose

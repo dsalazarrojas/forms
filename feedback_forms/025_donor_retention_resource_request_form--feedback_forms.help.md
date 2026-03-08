@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to support internal staff and stakeholders in tracking and managing requests for resources and support from donors, helping to enhance donor retention and relationships. This form should be used by non-profit staff or volunteers who need to request support for donors. To ensure accurate tracking and follow-up, we recommend submitting only one request per donor at a time. Please note that the form is intended for staff and volunteers to provide information about the resource requested and any additional context, and the submit-to field will direct the form to the most relevant team or contact for follow-up.
-
-</thinking>
-
 # Donor Retention Resource Request Form - Help Guide
 ## Purpose
 

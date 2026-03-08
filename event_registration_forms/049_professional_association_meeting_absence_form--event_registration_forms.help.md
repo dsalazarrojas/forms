@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # professional_association_meeting_absence_form - Help Guide
 ## Purpose
 The purpose of this form is to report the absence of a professional association meeting. This form will help track attendance and absence for meetings within the organization. 

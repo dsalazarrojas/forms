@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain participant's information and consent before they participate in a survey. It is meant to be filled out by participants who are being asked to participate in a survey. The fields in this form are meant to gather information about the participant, including their information, survey details, survey conduct, survey frequency, participant consent, participant declaration, date, and time. This form is required for participants who are being asked to participate in a survey. To ensure accurate data collection, please fill out this form carefully and truthfully. If you have filled out this form previously, please do not submit this form again.
-</thinking>
-
 # Survey Participation Permission Form - Help Guide
 ## Purpose
 This form is used to obtain participant's information and consent before they participate in a survey.

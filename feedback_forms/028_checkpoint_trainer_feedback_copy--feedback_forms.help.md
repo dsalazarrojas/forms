@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from trainees on the effectiveness of a training session. The purpose of the form is to help the trainer understand what worked well, what didn't, and areas for improvement. This feedback will be used to enhance future training sessions and improve the trainer's skills.
-
-To ensure that the feedback is useful, please fill out the form accurately and thoroughly.
-
-Before filling out this form, please ensure that you have already filled out your own feedback form (if applicable). This ensures that your comments are not repeated and that you're able to provide a clear and concise feedback to the trainers.
-
-</thinking>
-
 # Checkpoint Trainer Feedback Copy - Help Guide
 ## Purpose
 This form collects feedback from trainees on the effectiveness of a training session with a specific trainer. The feedback is used to improve the training program and help the trainer grow in their role.

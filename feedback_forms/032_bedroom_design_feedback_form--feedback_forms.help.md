@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from clients regarding their bedroom design project. The purpose of this form is to ensure that the design meets the client's needs and expectations. This form will help us refine the design and make any necessary adjustments to create a space that is tailored to the client's preferences. By completing this form, clients can provide feedback on various aspects of the design, including the overall spatial layout, color palette, furniture selection, and specific design elements.
-</thinking>
-
 # Bedroom Design Feedback Form - Help Guide
 ## Purpose
 The Bedroom Design Feedback Form is a tool used to gather feedback from clients on their bedroom design project. It helps us refine the design and make adjustments to create a space that meets the client's needs and expectations.

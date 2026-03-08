@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Feedback Process Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect feedback and evaluation on our customer service process. It will help us identify areas of improvement and provide us with valuable insights to enhance our customer experience.

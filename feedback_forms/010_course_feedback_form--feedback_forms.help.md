@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students about their experience with a course. It is a crucial part of the course evaluation process, as it helps instructors and course administrators understand areas of strength and weakness in the course content, delivery, and overall learning experience. This feedback is used to make informed decisions about course improvements, revisions, and future offerings. Please ensure that each field is completed accurately and thoroughly, as it will help to provide valuable insights for course development. If you have already submitted feedback about this course, please do not submit multiple forms. Your feedback will only be recorded once.</thinking>
-
 # Course Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their experience with a course. It is a crucial part of the course evaluation process, as it helps instructors and course administrators understand areas of strength and weakness in the course content, delivery, and overall learning experience.

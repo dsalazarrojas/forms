@@ -1,16 +1,3 @@
-<thinking>
-To begin with, let's understand the purpose of this workshop registration form. This form is designed for participants to sign up for various workshops offered by an organization or entity. The form's primary goal is to collect essential information from attendees, including their name, email, phone number, preferred workshop type, and date and time of the workshop they want to attend. Having this information will help the organizers ensure that they can manage the workshops effectively and provide relevant details to the attendees.
-
-Before filling out this form, make sure you have all the necessary details ready. If you are unsure about any of the fields, please refer to this guide for clarification.
-
-This form is a multi-page form, and each page is designed to collect specific information. Please go through each page carefully to ensure you complete all the required fields accurately.
-
-Please note that some fields are optional, but it's essential to fill them out if you want to receive important updates or communications from the organizers.
-
-Now, let's dive into each field's explanation to ensure you complete the form correctly.
-
-</thinking>
-
 # Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to help you sign up for various workshops offered by our organization. Please fill it out carefully to ensure you receive the necessary updates and information about the workshops you've selected.

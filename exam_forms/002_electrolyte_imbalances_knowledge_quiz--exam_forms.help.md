@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to test the knowledge of medical professionals, particularly nurses, on electrolyte imbalances. The purpose of this form is to assess their understanding of the subject matter, and it's likely used in a medical education or certification context. Each field is designed to evaluate different aspects of electrolyte imbalances, from general knowledge to specific nursing interventions and lab values. To ensure that each question is relevant, we should avoid duplication and ensure that each field has a clear and concise label that accurately conveys what it's meant to capture.
-
-This form seems to be a self-contained assessment tool and is not intended for general user registration or account creation. Therefore, most fields are not required, and those that are, are likely meant to be filled with specific information related to electrolyte imbalances.
-
-With the given YAML schema, each field type is well-defined, and I'll make sure to explain each field in a way that's clear and concise.
-
-</thinking>
-
 # Electrolyte Imbalances Knowledge Quiz - Help Guide
 ## Purpose
 The Electrolyte Imbalances Knowledge Quiz is a tool designed to assess the knowledge of medical professionals on the subject of electrolyte imbalances. This quiz is meant to test their understanding of general knowledge, electrolyte disorders, nursing interventions, lab values, time, note-taking, and contact information.

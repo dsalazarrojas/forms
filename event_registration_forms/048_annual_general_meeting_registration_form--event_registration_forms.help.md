@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for attendees to register for the Annual General Meeting (AGM). The main goal of this form is to gather attendee information and track their attendance and preferences for the meeting. This form will help the organizers of the meeting to prepare for the event and ensure that everyone has a good experience.
-
-The following fields are required: Full Name, Email Address, Attendance Status, Meal Attendance, Contact Preference, and Will you Vote by Proxy.
-
-This form includes various sections to gather more detailed information from attendees, such as their organization role, meeting details (date, time, and location), and special needs (accessibility, transportation, and dietary restrictions).
-
-Attendees can also provide their interest in specific agenda topics and any questions or comments they may have for the meeting.
-
-The form is designed to be easy to navigate and fill out. Please follow the instructions below to complete the form correctly.
-</thinking>
-
 # Annual General Meeting Registration Form - Help Guide
 ## Purpose
 The Annual General Meeting Registration Form is designed for attendees to register for the meeting and provide their information and preferences.

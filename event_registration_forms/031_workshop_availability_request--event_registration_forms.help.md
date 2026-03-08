@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is meant to gather information from users regarding their availability for a workshop or event. The purpose of this form is to collect the necessary details to schedule a workshop effectively. It is essential to provide accurate information to ensure that the workshop is scheduled correctly and that all required details are captured.
 
 </thinking>

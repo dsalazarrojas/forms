@@ -1,10 +1,3 @@
-<thinking>
-As a form designer and technical writer, I'm going to create a user-friendly help guide for this form that explains its purpose, how to complete it, and what each field means. I'll base this guide on the provided YAML fields and aim for concise and practical explanations.
-
-The purpose of this form is to assess the availability and accessibility of library resources. The form is likely used to gauge the effectiveness of a library's resources in serving its patrons. This form is a collection of questions that help library administrators and staff evaluate the quality and availability of their resources.
-
-</thinking>
-
 # Library Resources Assessment Form - Help Guide
 ## Purpose
 

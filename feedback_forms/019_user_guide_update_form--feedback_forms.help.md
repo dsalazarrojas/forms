@@ -1,7 +1,3 @@
-<thinking>
-The form is used to update user information, specifically their name and contact details. This form is used within the organization for internal purposes, and it should not be shared with external parties. To ensure consistency, please do not submit multiple updates for the same user without approval from a designated authority. 
-</thinking>
-
 # user_guide_update_form - Help Guide
 
 ## Purpose

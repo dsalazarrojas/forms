@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We'll use the provided YAML fields to create a user-facing help guide for the "Network Service Evaluation Survey" form.
 
 # Network Service Evaluation Survey - Help Guide

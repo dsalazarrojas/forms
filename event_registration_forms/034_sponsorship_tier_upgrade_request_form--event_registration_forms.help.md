@@ -1,8 +1,3 @@
-<thinking>
-Before creating this form's help guide, I'll make sure to understand its purpose and the requirements for users to fill it out correctly. This form is used to request an upgrade of a sponsorship tier. To confirm that this is the correct form, let's check if the user has already completed the registration process, as this form is typically filled out after the registration process is finished. Additionally, we should check that the user doesn't try to submit an upgrade request multiple times. If these conditions are met, let's proceed to create the help guide.
-
-</thinking>
-
 # Sponsorship Tier Upgrade Request Form - Help Guide
 ## Purpose
 This form is used by sponsors to upgrade their sponsorship tier for a specific event. To access this form, you should have already completed the event registration process and be logged in as a sponsor. If you haven't completed the registration process or are not a sponsor, you will not be able to access this form.

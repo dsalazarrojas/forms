@@ -1,8 +1,3 @@
-<thinking> 
-This form is used by HR personnel to collect feedback from new hires after a certain period following the new hire orientation process. This feedback is essential for identifying areas that need improvement in the orientation process. The form collects feedback on various aspects of the orientation, such as the overall experience, areas for improvement, and specific comments. This information will help in refining the orientation process to make it more effective and engaging for new hires. It is expected that the form will be filled out after a specific time period, typically after a few days or weeks following the orientation. The form should not be filled out before this time frame, as the feedback will not be relevant at that point. Before proceeding, please ensure that you have waited for the specified time frame and that the feedback is being given based on your actual experience with the orientation.
-
-</thinking>
-
 # New Hire Orientation Feedback Evaluation Form - Help Guide
 ## Purpose
 The New Hire Orientation Feedback Evaluation Form is used to collect feedback from new hires after the orientation process. This feedback is essential for understanding the effectiveness of the orientation and identifying areas that need improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on hair styling tool safety from users. This form is not a mandatory field for every user and is intended to be filled out on a volunteer basis. Please ensure you're filling out this form only if you have an actual concern regarding the safety of hair styling tools in order to provide meaningful feedback for improvement.
-</thinking>
-
 # Hair Styling Tool Safety Survey - Help Guide
 
 ## Purpose

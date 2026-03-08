@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from users who have inquiries or requests related to the fashion week event. To ensure that each inquiry is handled accurately and efficiently, please note that this form should not be filled out if you are a repeat inquiry or have already been contacted by our team regarding the same event. If you have already submitted an inquiry, please do not resubmit. This form is intended to be used for new inquiries only. Thank you for your understanding.</thinking>
-
 # fashion_week_inquiry_contact_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users who have inquiries or requests related to the fashion week event. It is intended to help our team understand your needs and provide accurate information to assist with your query.

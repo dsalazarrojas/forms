@@ -1,5 +1,3 @@
-<thinking>This form is designed to test the knowledge and understanding of an individual about telecommunication systems. It covers a range of topics related to telecommunication systems, including their primary function, different types, and various components such as network protocols, devices, and management systems. The form is meant to assess the respondent's expertise in these areas. Please ensure that you have a good understanding of these topics before attempting to complete this form. Note: This form is for informational purposes only and is not meant to be taken as a comprehensive assessment of one's knowledge.</thinking>
-
 # Telecommunication Systems Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge and understanding of telecommunication systems. It covers various topics related to telecommunication systems, including their primary function, different types, and various components.

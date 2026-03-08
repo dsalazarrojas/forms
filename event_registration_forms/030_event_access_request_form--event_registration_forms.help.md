@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request access to an event for a person or entity. It is typically used by event organizers or management to verify the identities and affiliations of individuals or vendors accessing an event. The form is meant to be filled out by individuals or entities requesting access, and the information collected will help event staff and management make informed decisions regarding access to the event. Please ensure that you fill out this form accurately and thoroughly, and that the information provided is up-to-date and relevant to the event you are seeking to access.
-
-</thinking>
-
 # Event Access Request Form - Help Guide
 ## Purpose
 The Event Access Request Form is used to request access to an event for a person or entity. This form is meant to collect information from individuals or entities seeking access to the event and help event staff and management make informed decisions.

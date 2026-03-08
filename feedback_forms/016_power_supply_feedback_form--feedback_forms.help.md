@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback on power supply products. It is meant to gather information on the user's experience with the product, including their general feedback, the product they are using, and specific details about their usage habits. The form is not intended for urgent or emergency use cases.
-
-This form is intended to be a general feedback and survey form. It is not a replacement for more specific forms like a support request form or a complaint form. Users should only use this form if they have general feedback or opinions about power supply products that they would like to share.
-
-To ensure that your feedback is captured correctly, please fill out the form carefully and make sure to answer all required questions.
-
-This form is designed to be accessible to all users, including those with disabilities. If you need assistance or have any issues accessing the form, please contact us.
-
-</thinking>
-
 # Power Supply Feedback Form - Help Guide
 ## Purpose
 

@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be for assessing the proficiency in passive voice in language learners, likely as part of an educational assessment or evaluation tool. It may be used to evaluate students' understanding of different voice tenses. The form asks for basic information such as name and email, but also specific details about the student like grade level, class, school, and teacher. The "Voice Type" field seems to be a critical part of the assessment, where the student is asked to select the correct voice type for a given sentence or passage. The "Score" field is likely where the student would input their answer or score for the assessment. The form does not seem to be redundant or unnecessary, and it is focused on a specific topic.</thinking>
-
 # Passive Voice Proficiency Quiz - Help Guide
 ## Purpose
 This form is designed to test your understanding of passive voice in language. It will ask you for some basic information and then evaluate your knowledge of different passive voice tenses.

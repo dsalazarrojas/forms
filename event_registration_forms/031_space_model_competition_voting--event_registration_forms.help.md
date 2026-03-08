@@ -1,12 +1,3 @@
-<thinking> 
-This form is used for participants to cast their vote and provide feedback on other participants' work in a space modeling competition. The purpose of the form is to collect data on the participant's perception of each other's work and help identify the winner of the competition. The form is designed to be simple and easy to fill out, while collecting sufficient information to make informed decisions.
-
-To ensure data integrity, we will only allow each participant to vote and provide feedback once per event.
-
-Before filling out the form, please make sure you have access to the participant's work and have reviewed the competition guidelines.
-
-</thinking>
-
 # space_model_competition_voting - Help Guide
 ## Purpose
 This form is used for participants to cast their vote and provide feedback on other participants' work in a space modeling competition.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from users about the most likely scenarios involving superheroes in a fictional world. It is a unique adaptation of a public survey topic and is not affiliated with or endorsed by any form platform. By filling out this form, users can provide their thoughts on who would be most likely to spy, most likely to survey, and provide additional feedback through the description fields.
-</thinking>
-
 # Most Likely To Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from users about the most likely scenarios involving superheroes in a fictional world.

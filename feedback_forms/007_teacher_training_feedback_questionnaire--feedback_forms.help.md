@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teacher Training Feedback Questionnaire - Help Guide
 ## Purpose
 The Teacher Training Feedback Questionnaire is a survey designed to collect feedback from teachers on their experiences with a training session. This form helps us understand their overall satisfaction, rating, and areas for improvement. Your input is crucial in helping us to refine and improve our training programs.

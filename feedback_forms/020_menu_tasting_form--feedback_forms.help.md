@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to provide feedback on menu items from a menu tasting event. This form ensures that all required information is captured accurately and efficiently, making it easier to process and analyze the feedback. It's essential to fill out this form carefully and completely to get the most out of it.
-</thinking>
-
 # Menu Tasting Form - Help Guide
 ## Purpose
 The Menu Tasting Form is a tool for users to provide feedback on their menu tasting experience. Please use this form to give your honest feedback on the menu items you tasted.

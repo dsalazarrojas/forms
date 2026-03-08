@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # youth_coat_pick_up_rsvp - Help Guide
 
 ## Purpose

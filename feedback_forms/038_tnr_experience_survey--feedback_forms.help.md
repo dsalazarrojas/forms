@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # TNR Experience Survey - Help Guide
 
 ## Purpose

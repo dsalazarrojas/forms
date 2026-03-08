@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be a satisfaction survey for food service, which is a crucial aspect of a business that provides food-related services. The purpose of this survey is to gather feedback from customers about their experience with the food service. 
-
-Given the fields provided in the YAML, it seems that the form is designed to collect both qualitative and quantitative data. The form has multiple pages with various types of fields such as select_multiple, number, text, email, date, time, select_one, and select_multiple.
-
-Before creating this guide, I ensured that the form fields are not overlapping or redundant, and they cover all the necessary aspects of a typical customer satisfaction survey. 
-
-Please note that some fields are not marked as required, which means that customers can skip them if they are not relevant to their experience.
-</thinking>
-
 # Food Service Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience with the food service. The survey aims to measure customer satisfaction with the food service.

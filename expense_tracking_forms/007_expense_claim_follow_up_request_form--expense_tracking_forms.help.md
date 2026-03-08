@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose and process of filling out the Expense Claim Follow Up Request Form. This form is used to update the status of an expense claim submitted earlier. Before proceeding, we should check if there is already an existing form with the same ID or submitted at a similar date/time to avoid duplication of work. It is crucial to provide accurate and complete information to ensure the correct follow-up actions are taken. Each field should be filled in accordingly and with precision to avoid any misinterpretation or delays in processing.
-</thinking>
-
 # Expense Claim Follow Up Request Form - Help Guide
 ## Purpose
 The Expense Claim Follow Up Request Form is a document used to update the status of an expense claim submitted earlier. It is essential to fill this form accurately and completely to ensure the correct follow-up actions are taken.

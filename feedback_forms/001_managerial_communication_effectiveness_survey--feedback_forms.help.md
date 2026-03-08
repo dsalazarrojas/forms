@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the "Managerial Communication Effectiveness Survey" form. Before creating this content, ensure you're familiar with the purpose and scope of the original form, as well as the context in which it's being used. The form is designed to assess the effectiveness of manager communication with their team or staff. It appears that the form is meant to collect feedback on managerial skills such as communication, approachability, listening, and support. The form may be used for team evaluations or to identify areas for improvement in management practices.
-</thinking>
-
 # Managerial Communication Effectiveness Survey - Help Guide
 ## Purpose
 The Managerial Communication Effectiveness Survey is designed to assess the communication effectiveness of managers with their team or staff. The survey will help you evaluate how well your manager communicates with you and identify areas for improvement.

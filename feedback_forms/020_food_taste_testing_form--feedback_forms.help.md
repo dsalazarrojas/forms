@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about their experience with a particular food product. It's essential to provide accurate and honest feedback to help us improve our offerings. To ensure the quality and relevance of this feedback, please fill out the form carefully, and avoid duplicate submissions. If you've already filled out this form for the same product or have the same feedback, consider revising your existing response rather than resubmitting.
-</thinking>
-
 # Food Taste Testing Form - Help Guide
 ## Purpose
 The purpose of this form is to collect your honest feedback about a food product's taste. Your input will help us understand your preferences and make informed decisions to improve our food offerings.

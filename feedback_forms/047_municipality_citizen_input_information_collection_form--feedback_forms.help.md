@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to be used internally, to ensure that the form is being completed correctly and that the information collected is valid and relevant. The form is not intended for external use, and the purpose of this guide is to prevent duplication and misinterpretation of the form's purpose and fields. The form is designed to collect specific information from citizens about their interactions with the municipality, and any deviation from the guide could result in incorrect or misleading data.
-
-</thinking>
-
 # Municipality Citizen Input Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from citizens about their experiences and interactions with the municipality. It helps us to identify areas of improvement and ensure that our services meet the needs and expectations of our citizens. Please take a few minutes to complete this form, and make sure to fill in all required fields to ensure that your input is taken into account.

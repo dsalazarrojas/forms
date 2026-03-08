@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential adventurers who are interested in subscribing to adventure tours. The form is used to gather demographic data, personal preferences, and subscription preferences from individuals who want to stay updated on adventure tour opportunities. 
-
-This form is meant to be completed by those who are interested in exploring various types of adventures, such as mountain climbing, water sports, jungle expeditions, and more. The form asks for basic contact information, such as full name, email, phone number, and location, to help the organizers get in touch with subscribers for updates and offers.
-
-By completing this form, users will be able to choose their preferred adventure types, experience level, trip duration, budget range, travel companions, and communication frequency and channel. Additionally, they will have the opportunity to mention any special interests, dietary restrictions, or medical considerations that may impact their adventure experience.
-
-The form also includes a subscription agreement, where users can opt-in or opt-out of receiving updates and offers from the adventure tour organizers.
-
-</thinking>
-
 # Adventure Tour Subscription Form - Help Guide
 ## Purpose
 The Adventure Tour Subscription Form is designed to collect information from potential subscribers who are interested in staying updated on adventure tour opportunities. By filling out this form, you will be able to choose your preferred adventure types, experience level, trip duration, budget range, and more.

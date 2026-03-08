@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for a regatta event organized by a sailing club. The purpose of this form is to collect data from participants, sailing club staff, and organizers to facilitate smooth event execution and communication. This form will be used to collect information about the participant's details, sailing club information, regatta details, and other relevant information.
-To complete this form, please follow the instructions below.
-</thinking>
-
 # Sailing Club Regatta Attendance Form - Help Guide
 ## Purpose
 The Sailing Club Regatta Attendance Form is designed to collect necessary information from participants, sailing club staff, and organizers to ensure a successful and enjoyable regatta event. This form will help streamline communication, enhance event execution, and provide valuable insights for future events.

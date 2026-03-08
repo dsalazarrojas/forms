@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to collect information from students about their readiness and preferences for a literature exam. The form is divided into two main sections, "Basic Information" and "Exam Preferences". 
-
-The "Basic Information" section is used to gather personal details such as first name, last name, email, phone number, and exam date and time. 
-
-The "Exam Preferences" section is divided into four sub-sections: "Literature Exam Readiness", "Exam Subject", "Exam Location", and "Exam Notes". 
-The "Literature Exam Readiness" sub-section asks students to self-assess their readiness for the exam, providing options to select from "Not Ready", "Somewhat Ready", and "Very Ready". 
-The "Exam Subject" sub-section allows students to choose one or more subjects related to literature. 
-The "Exam Location" sub-section asks students to select the location where they plan to take the exam. 
-The "Exam Notes" sub-section is a text field for students to provide any additional comments or information about the exam. 
-
-The form is designed to be completed in sections, with clear labels and concise explanations for each field, ensuring that students can easily understand what is required and how to complete it accurately. 
-
-</thinking>
-
 # Literature Exam Review Quiz - Help Guide
 ## Purpose
 The Literature Exam Review Quiz form is used to collect information from students about their readiness and preferences for a literature exam. It is used to ensure that students are aware of their own strengths and areas where they need more practice and guidance.

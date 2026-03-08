@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from specialists in a specific domain, likely for performance evaluation or satisfaction assessment. The form is intended to be used by specialists to provide their input on various aspects of their work or interactions with other teams. It is possible that the form is part of a regular evaluation process, such as a weekly or monthly check-in. The form's purpose is to gather information and opinions from specialists to help improve their work environment or services provided by other teams. 
-
-To prevent duplication and ensure relevance, it is suggested that each specialist can only fill out the form once every [insert time period, e.g., week or month].
-
-Before filling out this form, please make sure to review the form carefully and ensure you are providing feedback for the correct time period.
-</thinking>
-
 # Specialist Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from specialists in a specific domain, intended for performance evaluation or satisfaction assessment.

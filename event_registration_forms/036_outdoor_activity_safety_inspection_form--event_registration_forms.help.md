@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture essential safety information for outdoor activities. The purpose of this form is to help organizers and participants assess the risks associated with an outdoor activity and take necessary safety precautions. This form is typically used by event planners, outdoor enthusiasts, or organizations that conduct outdoor activities, such as hiking, camping, or adventure sports. 
-
-The form aims to reduce the risk of accidents and ensure a safe environment for participants by gathering information on the activity's risk level, hazards, and safety measures.
-
-This form is not a substitute for a comprehensive risk assessment or a thorough safety plan. It is a tool to help identify potential risks and take steps to mitigate them.
-
-Before completing this form, please ensure that you have a thorough understanding of the activity's risk profile and have taken steps to mitigate any potential hazards.
-
-</thinking>
-
 # Outdoor Activity Safety Inspection Form - Help Guide
 ## Purpose
 This form is designed to help event planners and organizers assess and mitigate risks associated with outdoor activities.

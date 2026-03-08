@@ -1,12 +1,3 @@
-<thinking>
-The ARFID Feedback Survey is designed to gather insights from respondents about their experiences with your service or product. This form is meant to be a comprehensive tool for collecting feedback on various aspects of your offering, including product quality, customer service, user experience, and technical support. By using this form, you'll be able to identify areas of improvement and make data-driven decisions to enhance your service or product.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using public survey topic metadata as inspiration.
-
-Before completing this form, please note that all fields are optional unless marked as "required" in the form.
-
-</thinking>
-
 # ARFID Feedback Survey - Help Guide
 ## Purpose
 The ARFID Feedback Survey is designed to gather insights from respondents about their experiences with your service or product. This form helps you to identify areas of improvement and make data-driven decisions to enhance your service or product.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for organizational trust and accountability assessment, which is a crucial process for maintaining a healthy and productive work environment. 
-Before completing this form, please ensure you are in a quiet and private setting where you can focus on your thoughts without distractions or interruptions. Also, please be honest in your responses, as your input will contribute to the betterment of the organization.
-
-</thinking>
-
 # Organizational Trust And Accountability Survey - Help Guide
 ## Purpose
 This survey is designed to gauge the level of trust and accountability within the organization, gathering input on various aspects of the work environment and processes.

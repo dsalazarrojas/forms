@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Volunteer Engagement Feedback Evaluation Form - Help Guide
 
 ## Purpose

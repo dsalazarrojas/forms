@@ -1,24 +1,3 @@
-<thinking>
-To create a help guide for the "gaming_convention_payment_form" form, I must first understand its purpose. This form appears to be related to a gaming convention, likely for registrants to provide payment and additional information for attending the event. The fields include payment details, attendee information, and preferences for t-shirts and special requests. The form seems to cater to the needs of attendees to customize their experience during the convention.
-
-Before proceeding, let's validate that the form doesn't duplicate or overlap with other forms in terms of purpose or function. A quick review of the schema reveals that it's a unique combination of payment and attendee information fields, indicating no duplication or overlap.
-
-Next, let's analyze each field to ensure it's clearly explained and the labels are accurately described:
-
-*   "payment_amount" is the amount paid by the registrant
-*   "attendee_name" is the attendee's name
-*   "email_address" is the attendee's email address
-*   "tshirt_size" is the size of the t-shirt ordered
-*   "payment_method" is the method used to make the payment (e.g., cash, credit card, PayPal)
-*   "tshirt_color" is the color of the t-shirt ordered
-*   "diet_request" is a note field for special dietary requests
-*   "tshirt_design" is a preference for the design on the t-shirt
-*   "tshirt_design_color" is the color preference for the t-shirt design
-*   "tshirt_design_size" is a preference for the t-shirt design size
-*   "tshirt_design_type" is a preference for the t-shirt design type
-
-Now, let's create the help guide for the form based on the analysis.</thinking>
-
 # gaming_convention_payment_form - Help Guide
 ## Purpose
 This form is for registrants to provide payment details and additional information for attending the gaming convention. It includes fields for payment, attendee information, and preferences for t-shirts and special requests.

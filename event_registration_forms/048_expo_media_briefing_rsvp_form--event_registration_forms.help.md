@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Expo Media Briefing RSVP Form - Help Guide
 ## Purpose
 This form is designed for attendees to RSVP to the Expo Media Briefing event, allowing them to confirm their media type preference (e.g., Press Briefing, Video Conference, or Phone Call) and provide any special requirements.

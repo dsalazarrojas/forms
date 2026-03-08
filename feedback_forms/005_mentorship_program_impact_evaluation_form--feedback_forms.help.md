@@ -1,7 +1,3 @@
-<thinking>
-This form was created to help assess the impact of a mentorship program. The purpose of this form is to gather feedback from participants, stakeholders, and program administrators to evaluate the effectiveness and areas of improvement of the mentorship program. The insights collected will help inform future program development and optimization. To ensure that your feedback is valuable, please provide specific, concrete, and constructive comments. Duplicate or vague submissions will be discarded.
-</thinking>
-
 # mentorship_program_impact_evaluation_form - Help Guide
 ## Purpose
 This form is designed to help evaluate the impact of a mentorship program by gathering feedback from participants, stakeholders, and program administrators.

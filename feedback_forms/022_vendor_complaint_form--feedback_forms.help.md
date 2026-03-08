@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect feedback from vendors about their experiences with the system or services provided. It is used to identify potential issues and areas for improvement. Please ensure that each submission is reviewed and addressed promptly to maintain vendor relationships and improve overall system performance. 
-
-To avoid duplicating efforts, please ensure that the form is completed accurately and only submitted once.
-
-The form will be reviewed internally, and the information will be used to identify areas for improvement and make necessary adjustments to the services provided.
-</thinking>
-
 # Vendor Complaint Form - Help Guide
 ## Purpose
 The Vendor Complaint Form is designed to collect feedback from vendors about their experiences with the system or services provided. It helps us identify potential issues and areas for improvement to better serve our vendors and improve overall system performance.

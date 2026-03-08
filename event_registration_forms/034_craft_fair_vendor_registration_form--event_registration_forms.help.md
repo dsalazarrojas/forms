@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from vendors who wish to participate in a craft fair. The form is intended to gather essential details about the vendor, their contact information, and their product offerings. This form will help the craft fair organizers to verify the identity of the vendors and their products, and to ensure they meet the necessary requirements to participate in the fair.
-Please note that this form is used for internal use by the craft fair organizers and its purpose is not intended for public consumption.
-</thinking>
-
 # Craft Fair Vendor Registration Form - Help Guide
 ## Purpose
 This form is used to register vendors for the craft fair. It collects necessary information about the vendor, their contact details, and product offerings.

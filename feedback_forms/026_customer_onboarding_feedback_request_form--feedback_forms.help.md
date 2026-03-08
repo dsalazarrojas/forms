@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers regarding their onboarding experience with our company. This form helps us understand how well our onboarding process is meeting their expectations and identify areas for improvement.
-Before filling out this form, ensure you have not already provided feedback on this specific topic or issue. This will help us to track and address your concerns efficiently.
-</thinking>
-
 # Customer Onboarding Feedback Request Form - Help Guide
 ## Purpose
 The Customer Onboarding Feedback Request Form is designed to collect feedback from customers on their onboarding experience with our company. This form helps us identify areas of improvement and ensure that our onboarding process is meeting our customers' expectations.

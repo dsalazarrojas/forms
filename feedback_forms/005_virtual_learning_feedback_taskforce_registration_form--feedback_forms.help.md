@@ -1,7 +1,3 @@
-<thinking>
-The form is used to register feedback and suggestions from Virtual Learning Taskforce participants. It ensures that all submitted feedback is unique and helps to avoid duplication by checking against an internal database. This form is used to gather valuable insights from participants about their experiences with Virtual Learning, and will be reviewed and addressed by relevant stakeholders. Before filling out this form, make sure to only submit new feedback, and avoid repeating existing ideas already registered in the past.
-</thinking>
-
 # Virtual Learning Feedback Taskforce Registration Form - Help Guide
 
 ## Purpose

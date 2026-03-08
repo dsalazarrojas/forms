@@ -1,8 +1,3 @@
-<thinking>
-This form is part of an expense reimbursement workflow process aimed at gathering critical information from approvers, managers, and submitters for efficient and effective expense approval. It may not be a perfect replica of the original form, but an adapted version generated based on the public metadata provided in the survey topic title and category. Before using this form, please ensure it meets your company's specific requirements and is approved for use by relevant personnel.
-
-</thinking>
-
 # Expense Approval Workflow Survey - Help Guide
 
 ## Purpose

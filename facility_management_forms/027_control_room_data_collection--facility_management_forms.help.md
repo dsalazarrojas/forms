@@ -1,35 +1,3 @@
-<thinking>
-
-This help guide will explain the purpose and process for completing the "Control Room Data Collection" form. This form is used to collect information about the status of control room systems, environmental conditions, and incidents that occurred during a specific shift. The form is designed to be completed by control room operators to provide accurate and timely information for shift-to-shift handovers and for tracking system status and incident resolution.
-
-The form is divided into several sections, each focusing on a specific aspect of the control room's operations. The sections include:
-
-* Operator information (name, ID, and contact details)
-* Shift details (shift type, date, start and end times)
-* System status (primary systems, power, network, and security systems)
-* Environmental conditions (temperature, humidity)
-* Incidents and events (reported incidents, incident severity, and resolution status)
-* Maintenance activities (maintenance performed, systems affected)
-* Communications log (important calls made or received)
-* Handover notes (pending actions for next shift, ongoing issues to monitor)
-
-To complete this form, the operator will need to:
-
-1. Fill in their name and ID
-2. Select the shift type and date
-3. Record the start and end times of the shift
-4. Report the status of primary systems, power systems, network, and security systems
-5. Report environmental conditions (temperature, humidity)
-6. Record any reported incidents, their severity, and resolution status
-7. Indicate if maintenance was performed and describe the activities
-8. Record important calls made or received
-9. Log any pending actions for next shift and ongoing issues to monitor
-10. Record any additional notes.
-
-Each field in this form is essential for providing accurate and comprehensive information about the control room's operations. Completing this form will help ensure that all relevant information is collected and recorded, enabling effective shift-to-shift handovers and monitoring of system status and incident resolution.
-
-</thinking>
-
 # Control Room Data Collection - Help Guide
 ## Purpose
 The Control Room Data Collection form is used to gather information about the status of control room systems, environmental conditions, and incidents that occurred during a specific shift. This information is essential for shift-to-shift handovers and for tracking system status and incident resolution.

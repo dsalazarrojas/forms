@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be filled out by a participant or parent/guardian to sign a waiver for the music festival. Before filling out this form, make sure you have not already submitted a waiver for this participant. If you're unsure, please check with the festival organizers or event administrators to confirm.
-</thinking>
-
 # Music Festival Waiver Form - Help Guide
 ## Purpose
 The Music Festival Waiver Form is a document that must be filled out by participants or parents/guardians to sign a waiver for the music festival. It's an essential step to ensure that all participants are covered by the necessary agreements before attending the event.

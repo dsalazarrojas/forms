@@ -1,13 +1,3 @@
-<thinking>
-The internal purpose of this form is to collect feedback on a debate participation event. This form is intended for participants to express their thoughts and experiences about the event. The goal is to gather qualitative and quantitative feedback to help improve future events.
-
-The form will be used by debaters and participants to share their perspectives on the debate topic, their own information (debater info), and rate their experience. Additionally, it will collect time spent on the debate and date of participation.
-
-Before filling out this form, make sure to answer all questions honestly and thoroughly.
-
-Note that some fields are mandatory (required: true), meaning you need to fill them out for the form to be saved. Other fields are optional, so feel free to skip them if you don't have relevant information.
-</thinking>
-
 # debate_participation_feedback - Help Guide
 ## Purpose
 The debate participation feedback form is designed to gather information about your experience in the debate event. Your feedback will help us improve future events and make them more enjoyable for all participants.

@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to gather feedback from customers about their experience at a hair salon. We want to know about their satisfaction with the rating and service quality they received, which will help us to identify areas of improvement and provide better service.
-</thinking>
-
 # Hair Salon Review Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their visit to a hair salon. Please take a few minutes to fill out this form and let us know about your experience.

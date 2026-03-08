@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from community members on accessibility needs, challenges, and suggestions for improvement. The goal is to understand the experiences and perceptions of community members with disabilities, ensuring that their needs are met and that the community is accessible and inclusive. This form will help us identify areas for improvement and make data-driven decisions to enhance accessibility in our city or community. 
-
-Before filling out this form, please be aware that your responses will help us create a more inclusive and accessible environment for all community members. If you have already provided similar feedback, your input will not be duplicated in our records. Please provide your honest and thoughtful responses, as they will help us better understand your needs and experiences.
-</thinking>
-
 # Disability Friendly Community Survey - Help Guide
 
 ## Purpose

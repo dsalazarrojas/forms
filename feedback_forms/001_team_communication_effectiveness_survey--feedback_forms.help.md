@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Communication Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to assess the effectiveness of team communication within your team. It will help us understand how well you perceive the team's communication and collaboration processes, which will guide us in identifying areas for improvement and development.

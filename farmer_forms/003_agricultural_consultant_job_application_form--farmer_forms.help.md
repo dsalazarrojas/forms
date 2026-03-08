@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning: This form is intended for farmers or organizations seeking agricultural consulting services. 
-The purpose of this form is to collect applicant information for the position of an agricultural consultant. 
-The form collects information about the applicant, their contact details, experience, qualifications, and references. 
-This helps in evaluating the applicant's suitability for the position. 
-Please note that the background check consent is mandatory for all applicants.
-</thinking>
-
 # Agricultural Consultant Job Application Form - Help Guide
 ## Purpose
 The Agricultural Consultant Job Application Form is designed to gather information from applicants seeking to work as agricultural consultants. This form helps farmers or organizations identify suitable candidates for the position of agricultural consultant.

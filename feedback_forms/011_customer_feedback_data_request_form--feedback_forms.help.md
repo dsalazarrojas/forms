@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for customers to provide feedback on the products and services they have experience with. It is meant to help our team gather information about the customer's experience, including their satisfaction with the product or service, any comments they may have, and their contact information. To ensure that we are gathering relevant and unique feedback, we will check for duplicate forms and only display them if they are not already recorded.
-
-</thinking>
-
 # customer_feedback_data_request_form - Help Guide
 
 ## Purpose

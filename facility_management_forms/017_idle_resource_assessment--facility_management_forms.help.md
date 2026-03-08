@@ -1,5 +1,3 @@
-<thinking>Is the form used for tracking and assessing the status of idle resources, such as equipment, assets, or facilities, to identify opportunities for improvement and optimization? Is the form intended to be used by facility management personnel to monitor and record the status of idle resources, and provide a clear and consistent approach to tracking and follow-up actions? Is the form designed to be completed by authorized users, such as facility management team members, who can input data and make decisions on resource allocation and prioritization?</thinking>
-
 # idle_resource_assessment - Help Guide
 ## Purpose
 The idle_resource_assessment form is used by facility management personnel to track and assess the status of idle resources, such as equipment, assets, or facilities. The form helps identify opportunities for improvement and optimization, and provides a clear and consistent approach to tracking and follow-up actions.

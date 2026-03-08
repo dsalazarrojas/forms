@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Continuing Legal Education Attendance Form - Help Guide
 
 ## Purpose

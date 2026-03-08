@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create this help guide, we'll follow the provided YAML fields and explain each section accordingly.
 
 # Financial Seminar Referral Form - Help Guide

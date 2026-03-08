@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect feedback and insights from users on learning possibilities. Its purpose is to gather information on the topics that users are interested in learning about and how they think they can apply the knowledge gained. The form is composed of 12 pages, each with a text field that asks users to provide their thoughts and ideas on specific topics. The form does not store or collect any personal identifiable information and is meant to be a platform for users to share their opinions and perspectives.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, but rather a created using AI-generated code. It was made available for free use, modification, and distribution under the Creative Commons BY 4.0 license.
-
-Before filling out this form, please make sure you have read and understood its purpose and the explanations of each field. If you have any questions or concerns, contact form@gic.mx.
-
-</thinking>
-
 # learning_possibilities_survey - Help Guide
 ## Purpose
 The learning_possibilities_survey is designed to collect feedback and insights on learning possibilities. The form is composed of 12 pages with text fields to gather information on topics that users are interested in learning about.

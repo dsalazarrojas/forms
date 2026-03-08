@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # G Protein Quiz - Help Guide
 ## Purpose
 This form, "G Protein Quiz," is designed to test your knowledge of G proteins, a crucial component in cellular signaling pathways. The form will assess your understanding of the primary function, main components, activation mechanisms, and regulation of G proteins. It's a self-assessment tool to gauge your understanding of these complex biological molecules.

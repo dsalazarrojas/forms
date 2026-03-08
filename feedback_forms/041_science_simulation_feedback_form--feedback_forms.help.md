@@ -1,5 +1,3 @@
-<thinking>... This form was created using AI to generate a feedback form for science simulations, likely for educational purposes. The form is designed to collect feedback from students and teachers about their experience with science simulations. The internal logic and purpose might be related to assessing the effectiveness of science simulations in an educational setting. It does not appear to be related to any specific platform or service, but rather an original creation using public metadata. </thinking>
-
 # Science Simulation Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from students and teachers about their experience with science simulations. It aims to gather information on the effectiveness, usability, and overall experience of the simulations.

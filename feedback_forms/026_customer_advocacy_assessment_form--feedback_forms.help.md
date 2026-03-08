@@ -1,7 +1,3 @@
-<thinking>
-We're using the Customer Advocacy Assessment Form to gather feedback from customers about their experiences with our company. The goal is to understand how customers perceive our company, its services, and how we can improve. The form should only be completed by customers who have previously interacted with us or have a reason to contact us. To avoid duplication of efforts, please only complete the form once.
-</thinking>
-
 # Customer Advocacy Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect customer feedback on their experience with our company. It is intended for customers who have interacted with us in the past or have a reason to contact us.

@@ -1,5 +1,3 @@
-<thinking>This form, "running_course_feedback_form", is designed to gather feedback from course participants regarding their experience with the running course. To ensure the feedback is relevant and useful, please refrain from submitting duplicate or irrelevant comments. If you've already provided feedback, your response will be ignored. The form has multiple sections, each focusing on different aspects of the course, such as participant satisfaction, coaching support, and overall impression. Please fill out the form thoroughly and accurately, as your input will help us improve the course.</thinking>
-
 # running_course_feedback_form - Help Guide
 ## Purpose
 The "running_course_feedback_form" is designed to collect feedback from course participants on their experience with the running course.

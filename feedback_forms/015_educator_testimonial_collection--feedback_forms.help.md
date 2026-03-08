@@ -1,7 +1,3 @@
-<thinking>
-This is a form to collect feedback from educators on their experience with a particular course or educational program. The form is designed to gather testimonials from educators who have worked with our organization. To avoid collecting duplicate testimonials from the same educator, a check is performed to prevent submission of the same educator's name. This helps to ensure that we only receive unique and diverse feedback.
-</thinking>
-
 # Educator Testimonial Collection - Help Guide
 ## Purpose
 The Educator Testimonial Collection form is a tool to gather feedback from educators on their experiences with our educational programs. This feedback is invaluable in helping us understand the impact of our initiatives and improve our services.

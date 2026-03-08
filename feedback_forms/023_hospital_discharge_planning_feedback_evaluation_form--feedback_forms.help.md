@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Hospital Discharge Planning Feedback Evaluation Form", I'll provide a step-by-step walkthrough of the form's purpose, how to complete it, and explain each field in detail. The guide will be presented in Markdown format, following the required structure.
-
-</thinking>
-
 # Hospital Discharge Planning Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their hospital discharge planning experience. The form aims to gather information on their satisfaction with the discharge process, communication with hospital staff, and overall experience in the hospital.

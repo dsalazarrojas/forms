@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback on the Saddle Bench, likely to gauge user satisfaction and identify areas for improvement. This form is likely being used for product development, and it's essential to have clear understanding of the form's purpose and the information it seeks to collect. 
-
-To avoid duplication of effort and confusion, it's crucial to confirm that the feedback collected will not be used for duplicate purposes (e.g., for non-product development projects).
-
-</thinking>
-
 # Saddle Bench Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the Saddle Bench experience. It aims to understand how users feel about the Saddle Bench, whether they are satisfied with it, how comfortable they are using it, and if they have any suggestions for improvement. The data collected will be used to refine and improve the Saddle Bench.

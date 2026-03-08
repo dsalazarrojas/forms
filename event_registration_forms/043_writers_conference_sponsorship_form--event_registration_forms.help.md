@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to capture the information required for writers' conference sponsorship. A sponsor is someone who supports the event financially or through other means. This form will help the organizers of the event to get to know the sponsor better and provide them with the necessary information to process their sponsorship application. 
-We have checked with our team members and there is no existing form for Writers' Conference Sponsorship Form that is similar to this one. Therefore, the following help guide will be useful for end-users who have this form for the first time.
-
-</thinking>
-
 # Writers' Conference Sponsorship Form - Help Guide
 
 ## Purpose

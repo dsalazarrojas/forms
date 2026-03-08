@@ -1,7 +1,3 @@
-<thinking>
-The form "Physics Forces Quiz" is designed to gather information on students' understanding of various physics-related concepts. It is intended to be completed by individuals who are familiar with the basics of physics and can answer questions related to forces, motion, and energy.
-</thinking>
-
 # Physics Forces Quiz - Help Guide
 ## Purpose
 This form is intended for students who are taking a physics course or have an interest in physics-related concepts. The quiz will assess their understanding of forces, motion, and energy.

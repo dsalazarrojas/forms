@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to provide microvolunteering participation data, allowing us to collect information on volunteer hours, roles, and dedications. This form is meant for internal use within the organization, and the data will be used to analyze and report on volunteer engagement.
-We expect users to fill out this form accurately and completely. Please ensure that you are providing information relevant to your own volunteer work, and avoid submitting on behalf of others.
-</thinking>
-
 # Microvolunteering Participation Survey - Help Guide
 ## Purpose
 This form is designed to collect information on microvolunteering participation, including volunteer name, organization, role, hours, and dedication.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to provide feedback about a new hire, likely for the benefit of HR or management to assess onboarding success or areas for improvement. The form will ask multiple questions to gather data on the new hire's performance, skills, or other relevant aspects of their onboarding process.
-
-When completing this form, please ensure you are not repeating the same feedback for multiple new hires. This guide will help you understand each field's purpose to ensure accurate and complete responses.
-
-Please note that some questions are optional, but providing as much information as possible will help provide a more comprehensive picture of the new hire's progress.
-
-</thinking>
-
 # new_hire_feedback_form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>**Volume Preferences Survey: Purpose and Rationale**</thinking>
-
 # Volume Preferences Survey - Help Guide
 ## Purpose
 This form is designed to understand your customers' volume preferences, allowing us to provide better services and tailor our offerings to your needs. This form will gather information about your customer's volume, volume preferences, and email preferences.

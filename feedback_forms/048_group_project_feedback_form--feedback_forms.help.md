@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about a group project, providing a structured format for users to express their thoughts and opinions about the project's title, overall satisfaction, and specific aspects. This feedback will help project stakeholders understand the users' perspectives and identify areas for improvement. To ensure accurate and relevant feedback, please do not fill out this form if you have already provided feedback on this project. 
-</thinking>
-
 # Group Project Feedback Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to track and calculate the mileage rate for vehicle expenses. This form will help users to input their vehicle information, travel details, and expense data to calculate the total mileage and reimbursement amount. It's essential to fill out the form accurately to ensure the correct calculation and submission status.
-The form will be used by employees to submit their vehicle expenses for reimbursement. To ensure that the submission is successful, it's crucial to follow the guidelines provided below.
-</thinking>
-
 # Mileage Rate Calculator - Help Guide
 ## Purpose
 The Mileage Rate Calculator form is designed to track and calculate vehicle expenses for employees. This form helps to determine the total mileage and, if applicable, the reimbursement amount.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect event registration information from clients. The form is used by event coordinators to register events with specific details such as date, time, location, and assigned contacts.
-</thinking>
-
 # Pre Event Client Information Form - Help Guide
 ## Purpose
 This form collects essential information from clients for event registration purposes.

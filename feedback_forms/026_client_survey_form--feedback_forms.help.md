@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is only filled out by people who have actually interacted with our services, and not just to test the form. This form is designed to collect feedback from clients about their experiences with our services, and the responses will be used to improve our processes and offerings. To prevent duplication, we will check for duplicate email addresses and names before processing the responses. We will also ensure that all responses are kept confidential and only viewable by authorized personnel. 
-</thinking>
-
 # Client Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients about their experiences with our services. Your responses will help us improve our processes and offerings.

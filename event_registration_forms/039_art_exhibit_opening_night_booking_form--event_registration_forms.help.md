@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I need to ensure that the form is designed to meet the user's needs and expectations. I will review the provided YAML and analyze the form's purpose, structure, and content. The form "Art Exhibit Opening Night Booking Form" appears to be designed for attendees to RSVP and provide information about their preferences and interests for an art exhibit opening night event. The form has various fields to collect personal details, RSVP status, event logistics, and special requests. I will create a user-facing help guide that explains each field's purpose and how to complete the form correctly.</thinking>
-
 # Art Exhibit Opening Night Booking Form - Help Guide
 ## Purpose
 This form is designed to help you RSVP and provide information about your preferences and interests for the Art Exhibit Opening Night event. Please complete this form accurately to ensure we can prepare for your arrival and provide a great experience for you.

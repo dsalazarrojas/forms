@@ -1,14 +1,3 @@
-<thinking>
-The theme-park-attraction-inquiry-form is a tool used to collect feedback and information from customers about their experience with theme park attractions. This form aims to gather insights on the most popular rides, the quality of customer service, and other relevant details that can help theme park management improve their services.
-
-To ensure that the data collected is comprehensive and accurate, it's crucial to understand the purpose and structure of the form.
-
-Before completing this form, please note that it's not a duplicate submission form, and each submission should be a new, unique entry. If you're experiencing issues or have already submitted feedback, please refer to the internal feedback system or contact the form administrators for assistance.
-
-The form is divided into multiple pages, each with distinct fields designed to collect specific information.
-
-</thinking>
-
 # theme-park-attraction-inquiry-form - Help Guide
 ## Purpose
 The theme-park-attraction-inquiry-form is designed to collect information and feedback from customers about their experiences with theme park attractions. This data helps theme park management identify areas of improvement and make informed decisions to enhance their services.

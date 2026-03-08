@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form for collecting feedback on cross-team collaboration. This form will help us understand how well team members are collaborating with each other, which can be useful for team management and decision-making. To prevent duplicate responses, we'll ask you to fill out this form only once. Please make sure to answer honestly, and if you have any concerns or questions, don't hesitate to reach out.
-</thinking>
-
 # Cross Team Collaboration Feedback Survey - Help Guide
 ## Purpose
 This form is designed to help us understand the dynamics of cross-team collaboration. It will help us to identify areas of improvement and make informed decisions about team management and development.

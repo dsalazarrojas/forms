@@ -1,7 +1,3 @@
-<thinking>
-This form is used to nominate an employee for recognition within the organization. The form is intended for employees to submit nominations for their colleagues who have made significant contributions to the company. The form will be reviewed by management to consider awarding recognition to the nominated employee. Please note that this form should not be used to nominate oneself or a manager. 
-</thinking>
-
 # Employee Recognition Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a way for employees to recognize and reward their colleagues who have made significant contributions to the company. This form allows employees to nominate their peers for recognition in a structured and formalized manner.

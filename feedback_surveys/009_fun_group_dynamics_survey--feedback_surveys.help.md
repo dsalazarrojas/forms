@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about a group's dynamics, communication styles, collaboration frequency, and leadership structure. This form helps to understand how well a group collaborates, communicates, and functions as a team, and what makes it "fun" and productive. 
-
-This guide will help you complete the form correctly. 
-
-The form will ask for information on collaboration frequency, communication styles, group culture, team size, team dynamics, collaboration type, communication level, team leader, and group name. 
-
-Please make sure to fill out the form completely and answer all the questions truthfully, as your input will help us better understand group dynamics.
-
-</thinking>
-
 # Fun Group Dynamics Survey - Help Guide
 ## Purpose
 The Fun Group Dynamics Survey is designed to gather information about a group's collaboration, communication, and leadership dynamics. This survey will help us better understand how well your group works together, communicates with each other, and functions as a team.

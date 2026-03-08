@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help users register their vote in the director election. This form is used to collect information from board members and allow them to select their preferred method of voting. It also gathers personal details such as first name, last name, email, and phone number. This form is not meant to be used for other types of elections or purposes, and users should only fill out this form if they are indeed a board member participating in the director election.
-</thinking>
-
 # Director Election Ballot - Help Guide
 ## Purpose
 The Director Election Ballot form is used to register your vote and select your preferred method of voting in the director election.

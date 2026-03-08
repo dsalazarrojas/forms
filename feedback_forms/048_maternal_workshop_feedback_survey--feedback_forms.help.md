@@ -1,5 +1,3 @@
-<thinking>... This form is intended to gather feedback from participants of a maternal workshop. The form is designed to be completed by attendees to provide their opinions, suggestions, and ratings regarding the workshop's content, organization, and overall experience. Please ensure you are providing honest and constructive feedback to help us improve future workshops. Before completing the form, please review each section carefully and answer truthfully. Note that this form is not intended for participants who are not actual attendees of the workshop... </thinking>
-
 # Maternal Workshop Feedback Survey - Help Guide
 ## Purpose
 This form is intended to gather feedback from participants of a maternal workshop, providing an opportunity for you to share your thoughts, opinions, and suggestions about the workshop's content, organization, and overall experience.

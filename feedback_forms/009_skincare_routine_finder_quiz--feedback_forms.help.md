@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to help users find a suitable skincare routine tailored to their individual skin type and concerns. The form is designed to collect information about the user's skin type, concerns, current skincare habits, ideal routine preferences, and goals. This data will be used to provide personalized recommendations for the user's skincare routine.
-
-To prevent duplicate submissions from the same user, we will check for the presence of a tracking ID in the user's session data. This ensures that the form is only completed once per user.
-
-This form is created using AI-generated code and is not affiliated with, endorsed by, or derived from any form platform.
-
-</thinking>
-
 # Skincare Routine Finder Quiz - Help Guide
 ## Purpose
 The purpose of this form is to help users find a suitable skincare routine tailored to their individual skin type and concerns.

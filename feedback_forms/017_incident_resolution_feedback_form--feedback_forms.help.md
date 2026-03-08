@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about the resolution of a specific incident. The purpose of this form is to gather information about the user's experience with the incident resolution process, including their satisfaction with the resolution method, resolution time, and follow-up questions. Please ensure that you have answered all necessary questions truthfully and to the best of your knowledge. If you have answered this form previously, please do not submit it again, as your feedback will not be recorded.
-</thinking>
-
 # Incident Resolution Feedback Form - Help Guide
 ## Purpose
 The Incident Resolution Feedback Form is designed to collect feedback from users about the resolution of a specific incident. This form helps us understand your experience with our incident resolution process and identify areas for improvement.

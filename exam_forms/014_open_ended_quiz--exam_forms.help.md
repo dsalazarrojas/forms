@@ -1,11 +1,3 @@
-<thinking>
-This form is an "OpenEndedQuiz" form, which allows users to provide open-ended answers to questions. 
-The form's purpose is to collect user responses that are not limited by predefined options. 
-The form is designed to be a simple and efficient way to collect open-ended feedback or opinions. 
-However, this form's structure and content may not be suitable for all types of user input or feedback collection.
-
-</thinking>
-
 # OpenEndedQuiz - Help Guide
 ## Purpose
 The OpenEndedQuiz form is a tool for collecting open-ended answers from users. It is designed to be a simple and efficient way to collect user feedback or opinions that are not limited by predefined options.

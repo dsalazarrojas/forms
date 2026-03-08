@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to inspect and report on the storage conditions of exhibits stored in various locations within the facility. 
-The form is divided into multiple pages, with each page containing specific fields to collect relevant information about the exhibits. 
-The form should only be used for the intended purpose and not for other purposes.
-</thinking>
-
 # Exhibit Storage Inspection Form - Help Guide
 ## Purpose
 The Exhibit Storage Inspection Form is used to inspect and report on the storage conditions of exhibits stored in various locations within the facility.

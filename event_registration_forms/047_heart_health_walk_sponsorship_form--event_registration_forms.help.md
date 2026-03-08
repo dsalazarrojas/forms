@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for registration of sponsors for a "Heart Health Walk" event. The form will capture necessary information about the sponsor, including their name, type of sponsorship, contact information, payment details, and sponsorship status. This form should be used by event organizers to collect relevant information from potential sponsors.
-To ensure that the correct information is captured, please review the form fields below to understand the purpose of each field.
-</thinking>
-
 # Heart Health Walk Sponsorship Form - Help Guide
 ## Purpose
 This form is used for registration of sponsors for the "Heart Health Walk" event.

@@ -1,14 +1,3 @@
-<thinking>
-This help guide is generated based on the provided YAML fields.
-
-The "Mini Math Quiz" form is designed to create a series of text-based math problems for educational purposes. The form has 24 pages, each with a unique label (First Page, Second Page, and so on). The form is meant to collect data for a math quiz, likely for students or math enthusiasts.
-
-The form's purpose is to collect answers to a series of math problems. Each page will have a single text field where the respondent will enter their answer to the problem presented on that page.
-
-Before starting the quiz, make sure you understand the problems and have the necessary skills to solve them. This form is not meant for timed submissions.
-
-</thinking>
-
 # Mini Math Quiz - Help Guide
 ## Purpose
 The "Mini Math Quiz" form is designed to create a series of text-based math problems for educational purposes.

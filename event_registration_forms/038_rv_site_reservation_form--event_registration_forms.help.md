@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a vehicle site reservation. This form is likely used in an RV rental or parking management context where users need to manage reservations for specific vehicle sites. The form is likely used by staff to record and monitor the status of vehicle site reservations. 
-To prevent duplication and ensure accurate information, it is essential to verify the site's availability before submitting the reservation. 
-The form is designed for both staff and users to access and manage the data in the system.
-</thinking>
-
 # RV Site Reservation Form - Help Guide
 
 ## Purpose

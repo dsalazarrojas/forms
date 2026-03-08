@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from users about the cleaning requirements for an event that has taken place. It will help the event organizers to efficiently schedule and prepare for the cleaning services requested. Before filling out this form, please ensure that you have not already submitted a similar request for this event, as duplicate requests may lead to confusion and delay the cleaning process. 
-Please fill out the form carefully, as any missing information may affect the accuracy of the cleaning services.
-</thinking>
-
 # Post Event Cleaning Request Form - Help Guide
 ## Purpose
 This form is used to collect information from users about the cleaning requirements for an event that has taken place. It helps event organizers to efficiently schedule and prepare for the cleaning services requested.

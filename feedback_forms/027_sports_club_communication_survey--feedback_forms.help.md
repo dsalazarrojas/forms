@@ -1,7 +1,3 @@
-<thinking>
-We are going to create a help guide for the "Sports Club Communication Survey" form. This form is designed to gather feedback from sports club members about their experiences and perceptions of the club's communication. The purpose of this form is to provide insight into what members think about the club's communication methods, identify areas of improvement, and ensure that the club is meeting its communication goals. 
-</thinking>
-
 # Sports Club Communication Survey - Help Guide
 
 ## Purpose

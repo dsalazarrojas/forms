@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from staff members for event scheduling purposes. The form is used to determine staff availability and roles for events. It is a multi-page form that gathers details from the staff member, including their event scheduling preferences and any additional information they may need to provide.
-</thinking>
-
 # event_staff_scheduling_booking_form - Help Guide
 ## Purpose
 This form is used to collect staff scheduling information for events.

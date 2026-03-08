@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and suggestions from users. It is designed to be completed by filling in the blanks with the required information. This form should only be filled out by users who have actually interacted with our product or service, to ensure that we can gather accurate and relevant feedback.
-</thinking>
-
 # Fill In The Blank Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and suggestions from users who have interacted with our product or service.

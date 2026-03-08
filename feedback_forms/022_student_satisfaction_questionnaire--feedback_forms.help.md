@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students about their experiences in a particular course. The form will help instructors and course designers improve the course content, organization, and overall experience. Please note that you should only fill out this form once for each course you have taken. This guide will walk you through each section of the form.
-</thinking>
-
 # Student Satisfaction Questionnaire - Help Guide
 ## Purpose
 The Student Satisfaction Questionnaire is designed to gather feedback from students on their experiences in a course. Your input will help us improve the course content, organization, and overall experience.

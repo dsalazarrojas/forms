@@ -1,7 +1,3 @@
-<thinking>
-The form was created using AI and public survey topic metadata (industry: "exam_forms" and category: "critical_thinking") as inspiration. This form is an original adaptation and does not copy, extract, or use proprietary content from other form platforms. 
-</thinking>
-
 # Critical Thinking Exam Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form was created for the purpose of helping users prepare for a survey, likely in an organizational or academic setting. Its 24 sections are meant to guide the user in identifying and organizing essential tasks and considerations for a successful and effective survey preparation process. The form's design appears to be focused on gathering information and thoughts from the user, and it may be used in a research or academic context.
-</thinking>
-
 # Survey Preparation Checklist Form - Help Guide
 ## Purpose
 This form is designed to support users in preparing for a survey, helping them ensure they have considered all the necessary factors and details for a successful and effective survey preparation process.

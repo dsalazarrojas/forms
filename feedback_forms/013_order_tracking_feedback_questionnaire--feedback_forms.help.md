@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their order tracking experience. The form is meant to be completed by customers who have received their orders and are able to provide feedback on how their order was fulfilled. This form is not intended to be completed by customers who have not received their orders yet. Please ensure that the customer has received their order before asking them to complete this form.
-</thinking>
-
 # Order Tracking Feedback Questionnaire - Help Guide
 ## Purpose
 This form is used to collect feedback from customers about their order tracking experience. It helps us understand how well we are tracking and fulfilling orders.

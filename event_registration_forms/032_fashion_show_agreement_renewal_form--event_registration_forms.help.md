@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to renew the Fashion Show Agreement between participants and event organizers. This form is used to collect necessary information from participants to update their agreement status.
-
-Before proceeding, please ensure that this form is not already completed for the participant. If the participant has already submitted their agreement renewal form, there is no need to complete this form again. 
-
-To ensure efficient and accurate processing, please fill out this form thoroughly and accurately. 
-
-Please note that this form includes personal identifiable information and sensitive data about the participant and event.
-
-</thinking>
-
 # Fashion Show Agreement Renewal Form - Help Guide
 ## Purpose
 

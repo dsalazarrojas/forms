@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is being created to assist users in completing the event planning survey template. The template is designed to gather feedback from event attendees to improve future event planning and enhance the overall attendee experience. This form will be used to collect data on various aspects of the event, including satisfaction levels, session value, event organization, and likelihood of attending similar events.
-
-Please ensure that you are completing this form for a valid purpose and not duplicating efforts. If you are not sure or have questions about the purpose or scope of this form, you may want to contact form support for clarification.
-
-</thinking>
-
 # event_planning_survey_template - Help Guide
 ## Purpose
 This form is designed to collect feedback from event attendees to help improve future event planning and enhance the overall attendee experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect information about an employee recruitment process. This template is designed to gather essential details about a job posting, including job title, job requirements, contact information, and job posting details. It is intended to be used in a professional setting, such as a company or organization, to streamline the recruitment process.
 
 To complete this form, follow these steps:

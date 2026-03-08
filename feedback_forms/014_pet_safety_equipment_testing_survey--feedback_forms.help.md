@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Safety Equipment Testing Survey - Help Guide
 ## Purpose
 The Pet Safety Equipment Testing Survey is designed to collect feedback and information from users about pet safety equipment, including testing methods and results. This data will help us to better understand the safety and effectiveness of pet safety products.

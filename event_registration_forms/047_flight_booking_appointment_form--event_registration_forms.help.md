@@ -1,8 +1,3 @@
-<thinking>
-This form is a Flight Booking Appointment Form for customers to book flights with your company. The form is used to collect information from customers about their flight preferences, details, and contact information. The form is not strictly necessary for business operations, but it may be used as a reference point for customer service and sales teams to follow up on customer inquiries.
-Please ensure you have read the form instructions carefully and understand its purpose before proceeding. If you have already completed this form, there is no need to do so again.
-</thinking>
-
 # Flight Booking Appointment Form - Help Guide
 ## Purpose
 This form is designed for customers to book flights with your company. It collects information on flight details, customer contact information, and preferences for a smooth and efficient booking experience.

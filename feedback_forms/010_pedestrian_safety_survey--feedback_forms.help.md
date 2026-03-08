@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback on pedestrian safety. The form is designed to collect information on various aspects of pedestrian safety, including pedestrian concerns, safety measures, and safety risks. The form is not mandatory and the answers are intended to be subjective. Please note that the form is not a duplicate of any other form in the system, and its purpose is to serve as a feedback mechanism to help improve pedestrian safety in your area. 
-</thinking>
-
 # Pedestrian Safety Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on pedestrian safety. Your input will help us understand how to improve pedestrian safety in your area. Please answer the questions below to provide your feedback.

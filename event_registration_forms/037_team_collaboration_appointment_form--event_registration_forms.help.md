@@ -1,7 +1,3 @@
-<thinking>
-To be honest, I'm a large language model, I don't have direct knowledge about the specific application or context of this form. However, based on the provided YAML, I will make an educated guess about its purpose and create a help guide for it.
-</thinking>
-
 # Team Collaboration Appointment Form - Help Guide
 ## Purpose
 

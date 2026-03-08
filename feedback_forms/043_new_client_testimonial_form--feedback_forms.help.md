@@ -1,7 +1,3 @@
-<thinking>
-To create a help guide for the "New Client Testimonial Form", I will first need to understand the purpose and context of the form. The form is likely created for collecting feedback and testimonials from clients after a project or service has been completed. It will be used to gauge the quality of services provided and to identify areas for improvement. This form will be used by clients to share their experiences and opinions about the project or service they received. It's a one-page form that will collect minimal information from the client. I will make sure the help guide is clear, concise, and easy to follow. I will also check for any existing help guides or similar forms to avoid duplication of content.
-</thinking>
-
 # New Client Testimonial Form - Help Guide
 ## Purpose
 The New Client Testimonial Form is designed to collect feedback and testimonials from clients after a project or service has been completed. This form will help us gauge the quality of our services and identify areas for improvement.

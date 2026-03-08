@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from event hosts who want to create an event. This form is used to gather essential details such as the event's name, date, and venue. The form is designed to be completed by event hosts who want to create a new event and have all the necessary information in one place. The information collected will be used to create a comprehensive event registration form that will be used for event management. The form is not intended for general public use and is primarily for internal use within the organization. 
-
-Before proceeding, ensure that the event host is authorized to create events within the organization. If you're an event host, please confirm that you have the necessary permissions before filling out this form.
-
-To avoid any potential duplication of efforts, please ensure that the event is not already registered in the system.
-</thinking>
-
 # event_host_registration_form - Help Guide
 
 ## Purpose

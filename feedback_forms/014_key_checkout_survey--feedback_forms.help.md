@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect feedback from customers after a key event or issue has been resolved. It could be used to gauge the quality of service provided and identify areas for improvement. To avoid duplication, this form may be used to update the status of a support ticket or feature request.
-</thinking>
-
 # Key Checkout Survey - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect data from individuals who are participating in a milestone achievement event. The purpose of this form is to gather essential information about the event, including the title of the photo being submitted, a brief description of the milestone achievement, the date the photo was taken, and any supporting files or documents related to the event.
-
-To prevent duplication of effort and ensure accurate data collection, please ensure that:
-
-* You are only submitting unique and original work.
-* You have not previously submitted a photo or document related to this milestone achievement.
-* You are not using a pre-existing submission as a template or copy-paste from another source.
-
-</thinking>
-
 # Milestone Bonus Photo Submission - Help Guide
 ## Purpose
 

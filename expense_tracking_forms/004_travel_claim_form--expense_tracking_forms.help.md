@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from an employee or representative about a travel claim, including details of the claim, type of expense, the date the expense was incurred, a description of the expense, and contact information for the claimant and the person submitting the form. This form is intended to help the organization efficiently gather necessary data for travel expense reimbursement.
-</thinking>
-
 # travel_claim_form - Help Guide
 
 ## Purpose

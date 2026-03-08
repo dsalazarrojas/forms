@@ -1,5 +1,3 @@
-<thinking>... this form is intended for parents to provide feedback on the school's service, and the fields collected will help us understand their concerns and suggestions, so we can improve our service. It is recommended that parents complete the form only once, as repeating the same feedback will not be considered. If you have already submitted feedback, please do not resubmit. This form is not intended for general inquiries or requests; please use our contact form for those purposes. If you're unsure, please refer to our contact form for assistance... </thinking>
-
 # Parent Feedback Contact Form - Help Guide
 ## Purpose
 This form is designed for parents to provide feedback on our school's service. Your input will help us improve our services and better understand your concerns.

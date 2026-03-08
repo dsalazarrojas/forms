@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end-users to assist them in understanding the purpose and usage of the store_employee_training_session_registration_form form. It should serve as a reference for users to complete the form correctly and efficiently. Please ensure you read this guide thoroughly before completing the form to avoid any confusion.
-
-This guide has been created to assist with clarity and understanding of the form's requirements. Please report any issues or discrepancies found while using this form to the relevant authorities for resolution.
-
-This form is intended to be used for store employee training session registration. Users should be familiar with the form's purpose before proceeding.
-
-</thinking>
-
 # store_employee_training_session_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to allow store employees to register for training sessions. It collects relevant information for training session planning and organization.

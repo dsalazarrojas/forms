@@ -1,13 +1,3 @@
-<thinking>... internal reasoning block that explains the form purpose and checks for relevance and non-duplication ...
-
-This form is used for registering participants for corporate seminars. It collects information from event organizers, participant details, payment information, and event details. The form is designed to be completed by event organizers to register participants for seminars. 
-
-The form is relevant when an event is about to start or has already started, and the organizers need to track participant registrations and payments.
-
-The form should not be used as a generic form for any other purpose.
-
-</thinking>
-
 # Corporate Seminar Billing Form - Help Guide
 
 ## Purpose

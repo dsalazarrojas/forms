@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluate the effectiveness of the Volunteer Appreciation Program. It's meant to be completed by volunteers who have participated in the program, and it will help us to better understand their experiences and make improvements. Before starting, please ensure that you haven't already submitted this form, as it's essential to capture your fresh and unique perspective. If you're a repeat user, your responses will be recorded, but it's better to provide new input each time to help us gauge the program's evolution over time.
-</thinking>
-
 # Volunteer Appreciation Program Evaluation Form - Help Guide
 ## Purpose
 The Volunteer Appreciation Program Evaluation Form is designed to gather feedback from volunteers who have participated in the program. Your input will help us improve and refine the program to better meet your needs and preferences.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from volunteers who want to book their experience for an event. The form is likely used by event organizers to collect contact details, availability, and skills of potential volunteers. This guide is to ensure that volunteers know what to expect and how to fill out the form correctly.
-
-To confirm, this form is used for internal purposes and should not be filled out by non-volunteers or non-event-related individuals. It is crucial that only relevant users fill out this form to avoid unnecessary work and data duplication.
-</thinking>
-
 # Volunteer Experience Booking Form - Help Guide
 ## Purpose
 The Volunteer Experience Booking Form is designed for volunteers to book their experience for an event. By filling out this form, you will be able to provide your contact information and availability for the event, which will help event organizers understand your interest in volunteering.

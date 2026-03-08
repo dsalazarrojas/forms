@@ -1,8 +1,3 @@
-<thinking>
-To confirm that the form is correctly filled out and the information provided is accurate.
-The Birthday Party Itinerary Form is designed to help the birthday person plan and coordinate their special day with their guests. This form collects essential details about the party, including the celebrant's name, date, time, location, and schedule of events. It also gathers information about the guests' attendance, dietary needs, and any special requests or limitations. Completing this form will ensure that the birthday person has a clear understanding of their guests' expectations and can plan accordingly.
-</thinking>
-
 # Birthday Party Itinerary Form - Help Guide
 ## Purpose
 The Birthday Party Itinerary Form is used to collect information about the birthday party, including the celebrant's details, party schedule, and guests' expectations. This form helps the birthday person plan and organize their special day effectively.

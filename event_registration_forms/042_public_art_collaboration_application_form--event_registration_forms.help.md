@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help artists register for a public art collaboration event. It collects information about the artist, their project details, and collaboration form. The form is meant to be completed by artists applying to participate in the event, and its purpose is to streamline the registration process for event organizers and administrators.
-
-To determine the relevance of this form, I'll consider the context of public art collaborations, which often involve multiple artists working together on a project. This form should cater to the needs of both the artist and the event organizers.
-
-The form is not a copy of any existing form and is an original adaptation created using AI. It's released under CC BY 4.0, allowing users to modify and share it freely.
-
-</thinking>
-
 # Public Art Collaboration Application Form - Help Guide
 ## Purpose
 The Public Art Collaboration Application Form is designed to collect information from artists applying to participate in a public art collaboration event. This form is meant to make it easier for event organizers to manage registrations and assess applications.

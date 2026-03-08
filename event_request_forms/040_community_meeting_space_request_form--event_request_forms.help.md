@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users to request a community meeting space, ensuring that all necessary details are captured for a successful event. To avoid duplication and maintain accurate records, this form serves as a centralized resource for community meeting space requests.
-</thinking>
-
 # Community Meeting Space Request Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is used correctly, please verify that the form is being used for its intended purpose: evaluating store features. This form should not be used for other purposes or for duplicate submissions. Before submitting the form, please make sure you have completed all required fields and have selected the correct options for each field. If you are unsure about any field, please ask for clarification.
-</thinking>
-
 # store_features_evaluation_form - Help Guide
 ## Purpose
 The store features evaluation form is designed to collect feedback and evaluation of store features from users. This form is used to gather information about the features of a store, including the overall score and comments.

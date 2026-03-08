@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to collect information about an art exhibition, including details about the artist and the artwork, as well as permissions and terms regarding the exhibition's use and display. This form helps gallery owners, curators, or art administrators manage permissions and agreements related to art exhibitions.
-
-The form collects information on the artist's name, email, phone number, and permission date. It also requests the artist's name, exhibition name, date and duration, venue, and artwork details such as title, medium, and dimensions. The form asks for permissions to display, photograph, and use the artwork in promotional materials, as well as require artist attribution, insurance responsibility, commission agreement, and removal procedures. It also allows artists to agree or disagree to certain conditions, and acknowledge the permissions granted.
-
-By using this form, gallery owners, curators, or art administrators can ensure that they have the necessary permissions and agreements in place for a successful and respectful art exhibition.
-</thinking>
-
 # Art Exhibition Permission Form - Help Guide
 
 ## Purpose

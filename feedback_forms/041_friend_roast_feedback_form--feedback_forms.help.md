@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used to collect feedback from users on a specific event, taking into account humor levels, types, tone, impact, target, mood, value, importance, and like scales. It's crucial that users understand the purpose of the form and how to complete it accurately. We also need to double-check that the collected data is valid and complete, avoiding duplication or irrelevant information.
-</thinking>
-
 # Friend Roast Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on the Friend Roast, a lighthearted activity where friends roast (good-naturedly) each other in a social setting. The form helps in evaluating the effectiveness and enjoyment of the roast.

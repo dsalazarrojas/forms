@@ -1,9 +1,3 @@
-<thinking> 
-  1) Purpose: This form is designed to facilitate 1:1 meeting requests between users. It gathers essential information for scheduling meetings that align with the requester's preferences and availability.
-  2) This form is intended for individuals who want to request a meeting with a specific person or team. It captures critical details such as contact information, meeting purpose, desired outcome, and availability to ensure that the meeting is scheduled effectively.
-  3) Before filling out this form, please review the fields carefully to ensure you're providing accurate and complete information. Duplicate requests may lead to unnecessary delays or missed opportunities.
-</thinking>
-
 # 1:1 Meeting Request Form - Help Guide
 ## Purpose
 This form is designed to help you request a 1:1 meeting that meets your needs and preferences.

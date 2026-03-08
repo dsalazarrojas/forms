@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with a counter. The purpose of this form is to collect information on how often the user uses the counter, their level of satisfaction, and any suggestions or comments they may have. This form will help us understand user behavior and improve the counter's functionality accordingly. Please note that this form is not intended for users who have not used the counter before, so if you haven't used our counter, please don't fill out this form. Also, if you've filled out this form before, your submission has already been recorded, so there's no need to fill it out again.
-</thinking>
-
 # Counter Usage Survey - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants on their experience in a soundscape session. The purpose of this form is to gather insights on what participants enjoyed or did not enjoy about the session, what they would suggest to improve it, and any other comments they might have. This feedback is crucial for the sound artists to understand their audience and make data-driven decisions to enhance the overall experience.
-
-This form will be completed by participants on a per-session basis, meaning that each participant will fill out the form once after each session they attend. To prevent duplication, participants will be asked to complete a unique session ID or participant ID to ensure that their feedback is not recorded multiple times.
-
-</thinking>
-
 # Soundscape Experience Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback on participants' experience in soundscape sessions. Please fill out this form to provide your honest opinion on how we can improve the sessions for future participants.

@@ -1,16 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Parent Volunteering Session RSVP Form", we need to ensure that end-users understand the purpose and usage of each field. This form is used to register parent volunteers for a volunteering session, and it's essential to gather accurate information to manage their involvement effectively.
-
-Before proceeding, let's consider the following:
-
-* The form is designed for parents who wish to volunteer for a specific session.
-* Each field is intended to capture relevant information about the parent and their volunteering preferences.
-* The form includes a mix of required and optional fields to ensure that essential data is collected while being mindful of the user's experience.
-
-The form's fields are designed to be easy to understand, and this guide will help users navigate each section efficiently.
-
-</thinking>
-
 # Parent Volunteering Session RSVP Form - Help Guide
 ## Purpose
 The "Parent Volunteering Session RSVP Form" is designed to register parent volunteers for a specific session. It's a crucial step to ensure that we have accurate information about their availability and preferences.

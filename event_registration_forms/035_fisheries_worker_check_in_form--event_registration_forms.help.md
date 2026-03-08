@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fisheries Worker Check In Form - Help Guide
 
 ## Purpose

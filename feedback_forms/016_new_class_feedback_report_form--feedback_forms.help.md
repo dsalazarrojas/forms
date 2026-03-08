@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect feedback reports from users regarding a new class.
-The purpose of this form is to gather information about the class, including
-the class ID, trainer ID, date taken, feedback given, suggestions, 
-comments, and the ability to submit the report. The fields are
-designed to be optional, allowing users to provide as much or as
-little information as needed.
-
-Before filling out this form, please ensure that the feedback is
-relevant to this specific form and not a duplicate. If you're unsure,
-please contact the form administrator at form@gic.mx.
-
-</thinking>
-
 # new_class_feedback_report_form - Help Guide
 ## Purpose
 The new_class_feedback_report_form is a tool designed to collect feedback reports from users regarding a new class.

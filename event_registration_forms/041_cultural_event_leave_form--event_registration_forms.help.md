@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to register employees for cultural events. It is intended for employees to sign up for events that the company is hosting or participating in. The form will help employees keep track of who is attending which events and provide essential information for event planning and coordination.
-</thinking>
-
 # cultural_event_leave_form - Help Guide
 ## Purpose
 The cultural event leave form is a tool for employees to register for cultural events. It is designed to keep track of event attendance and provide valuable information for event planning and coordination.

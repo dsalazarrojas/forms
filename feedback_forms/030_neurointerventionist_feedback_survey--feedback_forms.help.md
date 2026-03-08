@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive feedback survey, likely used for evaluating the quality of service or performance of a NeuroInterventionist. It consists of multiple sections with various types of questions, including text fields, select options, and multiple-select options. The form might be used by clients or patients to provide their ratings and opinions on different aspects of the NeuroInterventionist's service. 
-
-It's possible that this form is used for both qualitative and quantitative analysis, allowing for a more in-depth understanding of the service's strengths and weaknesses. The survey's scope could cover various areas, such as communication skills, knowledge, and overall experience with the NeuroInterventionist. 
-
-To avoid duplication of effort and ensure the accuracy of the data, it's essential to carefully consider whether a user has already completed this form. This might involve checking for user identification or IP address blocking to prevent repeated submissions.
-
-</thinking>
-
 # NeuroInterventionist Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with a NeuroInterventionist. It covers various aspects of the service and helps to identify areas for improvement.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with Falling Kisses. The form is intended to be completed by event organizers and brands to understand user satisfaction and improve their offerings. To ensure that users provide meaningful feedback, the form is designed to be simple and straightforward. Please note that this form is for feedback purposes only, and providing contact information is optional. If you have already completed this form, please do not resubmit it. If you are experiencing issues with the form, please contact us at your convenience.</thinking>
-
 # Falling Kisses Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with Falling Kisses. The purpose of this form is to allow event organizers and brands to understand user satisfaction and improve their offerings.

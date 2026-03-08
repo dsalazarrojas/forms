@@ -1,8 +1,3 @@
-<thinking> 
-This guide is designed for end-users to complete the Activity Feedback Form, a survey aimed at gathering input on participant experiences with an activity. The form is not meant to be filled out more than once by the same participant to prevent duplication of feedback. This form collects data on overall satisfaction, staff performance, and various aspects of the activity to help organizers better understand the participant's perception of the event. To ensure consistency in feedback, please provide honest and detailed answers for each question.
-
-</thinking>
-
 # Activity Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants on their experience with the activity. Your input will help us to identify areas of improvement and make future events more enjoyable for you and others.

@@ -1,5 +1,3 @@
-<thinking>...This form is intended to gather feedback from customers or stakeholders about their experience with our Humanization Specialist services. The goal is to provide valuable insights that can be used to improve our services and ensure we are meeting our customers' expectations. This form will help us identify areas of success and areas that need improvement. We will review the submitted feedback and use it to make informed decisions about our services...</thinking>
-
 # Humanization Specialist Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers or stakeholders about their experience with our Humanization Specialist services. Your input is essential in helping us understand where we excel and where we can improve.

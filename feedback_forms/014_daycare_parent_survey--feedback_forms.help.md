@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from parents about their experience at a daycare center. It's likely intended to gather insights and opinions about the quality of care, helping the daycare center to improve its services. Before completing this form, make sure you're not already providing feedback on the same topic, as duplicate feedback might not be considered. This form is meant to be a quick and easy way for parents to share their thoughts and suggestions.
-</thinking>
-
 # Daycare Parent Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from parents about their experience at a daycare center.

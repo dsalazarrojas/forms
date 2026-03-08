@@ -1,35 +1,3 @@
-<thinking>
-This form is designed to facilitate the booking process for hotel reservations, allowing users to input relevant details such as booking dates, reservation type, room types, guest information, payment method, and more. This form will guide users through each step of the booking process, ensuring they provide all necessary information for a successful reservation. 
-
-The form is composed of 11 fields, each with its own purpose:
-
-*   Booking dates: Select the dates for your hotel booking.
-*   Reservation Type: Choose whether you're booking a Hotel or Package.
-*   Room Type: Select the type of room you'd like to book (Yes or No).
-*   Guest Name: Enter the guest's name.
-*   Guest Phone: Enter the guest's phone number.
-*   Guest Email: Enter the guest's email address.
-*   Special Request: If you have any special requests, enter them here.
-*   Payment Method: Choose the payment method to be used (Visa, Mastercard, American Express).
-*   Reservation ID: Enter your reservation ID.
-*   Room Rate: Enter the room rate for the booking.
-*   Room Rate Currency: Select the currency for the room rate (USD, Euro, Pound).
-*   Total Cost: Enter the total cost for the booking.
-*   Payment Status: Select the payment status (Pending, Approved, Declined).
-*   Booking Status: Select the booking status (Available, Occupied, Cancelled).
-*   Notes: Add any additional notes about the reservation.
-*   Assigned to: Check if the booking is assigned to someone (Yes or No).
-*   Assigned Date: Select the assigned date for the booking.
-*   Completed Date: Select the completed date for the booking.
-*   Paymentwall ID: Enter your Paymentwall ID.
-*   Customer Name: Enter your name.
-*   Customer Email: Enter your email address.
-*   Customer Phone: Enter your phone number.
-*   Customer Address: Enter your address.
-*   Customer Company: Enter your company name.
-
-</thinking>
-
 # Paymentwall Hotel Reservation Form - Help Guide
 
 ## Purpose

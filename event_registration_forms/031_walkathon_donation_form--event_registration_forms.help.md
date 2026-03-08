@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect donations for a walkathon event. Its primary purpose is to gather information from donors about their contributions, including the participant's details, donation amount, and payment method. This form will help us understand who is donating, how much they are giving, and how they want to be contacted.
-
-When filling out this form, it's essential to ensure that all required fields are accurately completed. This will ensure that we can follow up with the donors correctly and process their donations efficiently.
-
-This form is not designed to be used for registration for the walkathon event itself; if you're interested in participating in the event, please refer to the registration process.
-
-</thinking>
-
 # Walkathon Donation Form - Help Guide
 
 ## Purpose

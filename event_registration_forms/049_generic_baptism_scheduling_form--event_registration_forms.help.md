@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to the scheduling of a generic baptism event. It will gather details about the event, including the date, time, location, type, and other relevant details. This form aims to provide a unified structure for capturing information about different types of baptisms, allowing event organizers to collect all necessary data in one place.
-</thinking>
-
 # Generic Baptism Scheduling Form - Help Guide
 ## Purpose
 This form collects information about the generic baptism event details, including the date, time, location, type, and other relevant details. It's designed to be used by event organizers to gather all necessary data in one place.

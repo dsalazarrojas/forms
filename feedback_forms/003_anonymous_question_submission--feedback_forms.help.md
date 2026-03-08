@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Anonymous Question Submission - Help Guide
 ## Purpose
 This form is designed to allow users to submit anonymous questions to the organization, ensuring that their concerns or inquiries can be addressed in a private and confidential manner. The form is intended to provide a safe and comfortable way for users to seek guidance or clarification on various topics.

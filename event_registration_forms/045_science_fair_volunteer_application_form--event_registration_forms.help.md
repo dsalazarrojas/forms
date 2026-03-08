@@ -1,13 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Science Fair Volunteer Application Form. This form is used to collect information from individuals who wish to volunteer at the science fair. The form is used to capture personal details such as first name, last name, email, and phone number of the volunteer. It also captures role type, event date, and event time. Additionally, it asks for the availability of the volunteer during the science fair, any additional information they want to provide, and their agreement to participate. The form is used for both the volunteer and the person submitting the volunteer's application. 
-
-This form is intended for use by the general public, and it's a required field for anyone wanting to participate. The form will be used to organize the volunteers for the science fair. The form should not be used for any other purpose, and the information collected will be used for internal purposes only.
-
-Please note that the form is divided into two pages: one for the volunteer and one for the submitter. Each page has its own fields that should be filled out accordingly.
-
-We need to ensure that the form is filled out correctly and consistently to avoid any confusion and errors in the data collection process.
-</thinking>
-
 # Science Fair Volunteer Application Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who wish to volunteer at the science fair. It's a required field for anyone wanting to participate.

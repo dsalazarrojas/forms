@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose and not duplicated. This form is designed to collect data from users about their nail art DIY practice habits, skills, and preferences. By understanding the form's purpose and structure, we can better serve our users and improve our services. Let's review the form schema to ensure it's being used correctly.</thinking>
-
 # Nail Art DIY Practice Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your nail art DIY practice habits, skills, and preferences. Your input will help us better understand your needs and improve our services.

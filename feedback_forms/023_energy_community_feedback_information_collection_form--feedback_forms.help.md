@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback information from energy community members. The goal is to understand their experiences, opinions, and suggestions about various initiatives related to energy conservation and sustainability. This form will help us better understand the strengths and weaknesses of our programs and make data-driven decisions to improve them. Before starting, please make sure you have not already filled out this form, as your feedback will be considered a duplicate and will not be processed.
-</thinking>
-
 # Energy Community Feedback Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from energy community members to help us understand their experiences and opinions about our initiatives and improve our programs.

@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Account Meeting Feedback Form", I'll need to understand the purpose and structure of the form. This form appears to be a feedback mechanism for clients to evaluate their experience during meetings with account managers. The purpose of the form is likely to gather information about the client's satisfaction with the meeting, the account manager's preparedness, and the overall communication. 
-
-The form consists of two sections: "Meeting Information" and "Meeting Feedback". The "Meeting Information" section captures details such as client name, company, email, meeting date, meeting type, and account manager's name. The "Meeting Feedback" section contains multiple select_one and text fields that ask for ratings or comments on various aspects of the meeting, including overall satisfaction, preparedness, agenda coverage, communication clarity, action items definition, and additional topics or feedback.
-
-This form likely aims to help improve the client's experience and the account manager's performance. It's essential to ensure that this form is easy to complete and that every field has a clear and concise label that accurately conveys the expected response. I'll need to review each field carefully to provide accurate explanations for the user-facing guide.</thinking>
-
 # Account Meeting Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from clients after a meeting with their account manager. This information will help us improve the quality of our services and better serve you and your business.

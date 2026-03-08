@@ -1,7 +1,3 @@
-<thinking>
-The Quarantine Birthday Event Registration Form is a form used for people to register their birthday events. The form collects personal details and preferences for the event such as party details, cake design, guest list, time and date, timezone, email, and phone. This form is used to gather information for event planning. Ensure that you fill out this form carefully and accurately, as it will be used to create a memorable and enjoyable experience for the birthday person and their guests. Please do not submit duplicate or invalid information, as it may cause confusion or errors in the event planning process.
-</thinking>
-
 # Quarantine Birthday Event Registration Form - Help Guide
 ## Purpose
 The Quarantine Birthday Event Registration Form is used to collect information for a birthday event, including party details, guest list, and contact information.

@@ -1,10 +1,3 @@
-<thinking>
-The form is used to register attendees for an awards event, gathering information for ticketing and logistical purposes.
-It is designed to accommodate both individual and group registrations, with options for guests and dietary restrictions.
-The form should not be submitted multiple times with the same information; each unique registration should be made once.
-This guide will walk you through how to complete each field in the form.
-</thinking>
-
 # Awards Nominations Event Registration Form - Help Guide
 ## Purpose
 The Awards Nominations Event Registration Form is designed to collect information from attendees for an awards ceremony. The form helps us understand your registration details, guests and dietary preferences, and payment information to ensure a smooth and enjoyable event experience.

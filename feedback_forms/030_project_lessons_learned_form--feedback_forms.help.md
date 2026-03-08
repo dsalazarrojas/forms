@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for project leads and team members to share their insights and feedback on project lessons learned. The form's purpose is to gather information on the project's outcomes, successes, and areas for improvement. It is essential to complete this form accurately and thoroughly to provide valuable feedback that can help the project team and stakeholders make informed decisions for future projects.
-
-Before starting, please note that this form should only be filled out once per project. If you have already submitted feedback on this project, please do not repeat the process.
-
-This form is divided into sections, each with its own specific fields that you need to fill out. Please make sure to fill out all required fields and provide as much detail as possible in optional fields. If you are unsure about any field, please ask your team or project lead for clarification.
-
-Please be accurate and honest in your feedback, as it will help us improve future projects and processes.
-
-</thinking>
-
 # Project Lessons Learned Form - Help Guide
 ## Purpose
 The Project Lessons Learned Form is designed to gather feedback and insights from project leads and team members to improve project management processes and outcomes. Please complete this form to provide valuable information on your project experience.

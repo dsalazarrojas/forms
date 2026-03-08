@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review why this form was created and its purpose. This Seasonal Inventory Feedback Questionnaire was designed to help businesses gather customer insights on their seasonal products. It aims to improve inventory management and customer satisfaction by gathering feedback on product offerings, customer experiences, and potential improvements. Please ensure that you're filling out this form based on your real experiences with the seasonal products and services offered by this business.</thinking>
-
 # Seasonal Inventory Feedback Questionnaire - Help Guide
 
 ## Purpose

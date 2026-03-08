@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from individuals who have participated in one-on-one feedback sessions. It's designed to gather information on the session's title, details, goals, session notes, follow-up plans, session outcomes, and the individuals involved. This form is not affiliated with any specific platform and is an original creation based on public survey metadata. It's released under the CC BY 4.0 license, allowing users to modify or sell the form. Contact form@gic.mx for any inquiries.
-</thinking>
-
 # One On One Feedback Session Form - Help Guide
 ## Purpose
 The One On One Feedback Session Form is designed to collect feedback from individuals who have participated in one-on-one feedback sessions. This form helps to gather essential information on the session's title, details, goals, and outcomes.

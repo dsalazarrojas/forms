@@ -1,19 +1,3 @@
-<thinking>
-This help guide is intended to provide end users with a clear understanding of the purpose and requirements of the global_diversity_summit_registration_form. The form is designed to collect information from individuals interested in attending the global diversity summit, including their personal details, work-related information, and preferences. The form's purpose is to ensure that attendees have a good understanding of the summit's objectives and can provide relevant information to facilitate their participation.
-
-Before filling out the form, please note that it is essential to have a clear understanding of the following:
-
-* The attendee's identity and contact information
-* Their work-related information, including job title, position, and department
-* Their company's details, such as size, type, and revenue
-* Their job-related preferences, including job type, level, and industry
-* Their availability for travel
-* Their comments and any additional information they would like to share
-
-This guide will walk you through each field of the form, providing detailed explanations to ensure a smooth and accurate completion of the form.
-
-</thinking>
-
 # global_diversity_summit_registration_form - Help Guide
 ## Purpose
 The global_diversity_summit_registration_form is designed to collect information from individuals interested in attending the global diversity summit. The form helps to identify relevant attendees and their needs, ensuring a successful and meaningful experience.

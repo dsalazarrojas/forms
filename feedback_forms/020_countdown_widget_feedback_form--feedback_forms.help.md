@@ -1,12 +1,3 @@
-<thinking>
-This is a help guide for the Countdown Widget Feedback Form. The form is used to gather feedback from users about the countdown widget, which is a feature-rich widget used to display a countdown timer on web pages or applications. To ensure that feedback is actionable and useful, the form is designed to collect specific and concrete information from users.
-
-When completing this form, please keep in mind that it is meant to be completed only once per issue or suggestion. If you have multiple issues or suggestions, please submit a separate form for each one.
-
-Before filling out the form, please read through the fields carefully to ensure you have filled out all relevant information.
-
-</thinking>
-
 # Countdown Widget Feedback Form - Help Guide
 ## Purpose
 The Countdown Widget Feedback Form is used to provide feedback on the countdown widget. This form helps us understand how users like or dislike the widget, what they like or dislike about it, and any suggestions they may have for improvement.

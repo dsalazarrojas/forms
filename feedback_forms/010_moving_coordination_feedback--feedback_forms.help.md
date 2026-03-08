@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Moving Coordination Feedback - Help Guide
 ## Purpose
 The Moving Coordination Feedback form is designed to collect feedback from users regarding moving coordination activities. It's intended to help identify areas of improvement and provide valuable insights for better service delivery. 

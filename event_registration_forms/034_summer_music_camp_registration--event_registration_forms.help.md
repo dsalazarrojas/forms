@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer Music Camp Registration - Help Guide
 
 ## Purpose

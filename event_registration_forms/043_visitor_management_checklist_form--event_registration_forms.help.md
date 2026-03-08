@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather essential information about visitors, including their contact details, visit date and time, security clearance, and any additional comments or concerns. This form helps ensure that visitors' needs are met and their visit is managed efficiently.
-
-This form has been carefully crafted to cover all the necessary steps to manage a visitor's registration. The fields below provide clear explanations to help the user understand each section's purpose.
-
-</thinking>
-
 # Visitor Management Checklist Form - Help Guide
 ## Purpose
 This form is designed to provide a checklist for visitor management, ensuring that all necessary information is gathered to effectively manage visitors' interactions.

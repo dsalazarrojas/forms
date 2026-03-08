@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from patients who have been released from the hospital. The purpose of this form is to gather information about the release process, including the release process, incident details, and demographic information about the patient. It is intended to be filled out by patients or their representatives after being released from the hospital. This form will be reviewed by hospital staff to ensure that all necessary information is collected for patient care and hospital operations.
-
-Before filling out this form, please note that it is designed to collect information for both the patient and the hospital staff. Please fill out the form accurately and completely to help us improve our services.
-
-</thinking>
-
 # medication_release_feedback_form - Help Guide
 ## Purpose
 The medication_release_feedback_form is a form used to collect feedback from patients who have been released from the hospital. It is intended to gather information about the release process, incident details, and demographic information about the patient.

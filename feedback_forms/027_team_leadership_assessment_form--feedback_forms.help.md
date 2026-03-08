@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Leadership Assessment Form - Help Guide
 ## Purpose
 The Team Leadership Assessment Form is designed to evaluate the skills and qualities that team leaders should possess to effectively lead their teams. The form aims to identify strengths and areas for improvement, enabling teams to work more efficiently and harmoniously.

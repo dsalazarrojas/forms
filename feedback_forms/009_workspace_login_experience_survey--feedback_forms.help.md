@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with the workspace login process. The purpose of this form is to gather information about the frequency of login, devices used, browsers used, issues encountered, satisfaction with the login experience, and open-ended comments. This feedback will help us to identify areas for improvement and make data-driven decisions to enhance the overall login experience for our users.
-</thinking>
-
 # Workspace Login Experience Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from customers regarding their experience with our lead-free products. The form is designed to be a one-time survey that will help us understand the customer's satisfaction with our products and services. Please only submit this form if you have had experience with our lead-free products. If you have already submitted feedback, please do not resubmit. Your feedback is crucial in helping us improve our products and services.
-
-</thinking>
-
 # Lead Free Relabeling Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather your feedback and suggestions on our lead-free products. Your input will help us improve our products and services.

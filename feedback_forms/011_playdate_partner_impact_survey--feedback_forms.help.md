@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form to collect feedback and impact data from our partners on their experience with our playdate program. The form will help us understand what outcomes have been achieved through the partnership, gather suggestions for improvement, and collect contact information for communication purposes. We aim to create a comprehensive understanding of the partnership's performance and identify areas for enhancement. Please ensure that your feedback is genuine and accurate to help us create a better experience for everyone involved.
-</thinking>
-
 # Playdate Partner Impact Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and impact data from our partners on their experience with our playdate program. Your input will help us understand what we're doing well and what we can improve to create a better partnership.

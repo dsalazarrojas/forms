@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for a historic walking tour. The purpose of this form is to gather essential details such as participant names, dates, contact information, tour scheduling preferences, and other relevant details to ensure a smooth and enjoyable tour experience for all participants. This form will be reviewed and processed internally to ensure that the participant meets the required criteria and that the tour can be scheduled accordingly. To avoid duplication, this form will only accept one submission per participant.
-</thinking>
-
 # HistoricWalkingTourSignupForm - Help Guide
 ## Purpose
 The Historic Walking Tour Signup Form is designed to collect information from participants for a historic walking tour. The form helps us to gather essential details such as participant names, dates, contact information, tour scheduling preferences, and other relevant details to ensure a smooth and enjoyable tour experience for all participants.

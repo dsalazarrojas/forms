@@ -1,7 +1,3 @@
-<thinking>...
-The form is intended to collect information from users to facilitate emergency response efforts. It is essential to provide accurate and clear guidance to ensure users understand the purpose and requirements of this form. Before proceeding, ensure you are submitting an emergency response petition and not a general inquiry or support request. If you have already submitted a similar response, please refrain from duplicating your request, and instead, contact the relevant organization directly.
-
-</thinking>
 # emergency_response_petition_form - Help Guide
 ## Purpose
 The emergency_response_petition_form is a tool used to collect information and support for emergency response efforts. It helps organizations receive and manage feedback, petitions, and requests from users in a structured and organized manner.

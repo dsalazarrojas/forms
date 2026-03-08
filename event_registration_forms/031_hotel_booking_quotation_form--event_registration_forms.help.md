@@ -1,7 +1,3 @@
-<thinking>
-This form is for guests to book a room at a hotel. The goal is to collect essential information about their stay. I will not output duplicate information, so please do not input redundant data if it's already provided in other sections. This form will be used by the hotel staff to process the booking.
-</thinking>
-
 # Hotel Booking Quotation Form - Help Guide
 ## Purpose
 This form is for guests to book a room at a hotel. Please fill it out with the required information to facilitate a smooth booking process.

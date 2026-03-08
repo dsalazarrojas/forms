@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Creative Contributions Survey - Help Guide
 ## Purpose
 This form collects feedback and suggestions from users, aiming to improve creative content creation. Please take a few minutes to fill out this form and contribute your thoughts.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide will assist users in completing the "share_a_story_form" form, which is used to share their experiences and stories related to social work. The form helps in gathering feedback, sharing stories, and connecting social workers with their colleagues and clients. It is not to be used for sharing sensitive or confidential information.
-Please ensure that you are filling out this form for a genuine purpose and not duplicating a story already submitted. This form is meant for sharing new or unique stories.
-</thinking>
-
 # share_a_story_form - Help Guide
 ## Purpose
 The "share_a_story_form" is a form designed to share experiences and stories related to social work. It's a platform for social workers to connect with each other, exchange feedback, and learn from one another's stories.

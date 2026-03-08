@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information about the users' opinions and perceptions on various policies and initiatives that aim to reduce poverty. The purpose of this survey is to gather data that will help policymakers and organizations understand the public's awareness and opinions on these policies. This will inform and guide the development of more effective poverty-reduction strategies. 
-
-To ensure data quality, we will be checking for duplicate responses to prevent skewing the data.
-
-</thinking>
-
 # Poverty-Reduction-Policy-Awareness-Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your opinions and perceptions on various policies and initiatives to reduce poverty. Your feedback will help policymakers and organizations develop more effective poverty-reduction strategies.

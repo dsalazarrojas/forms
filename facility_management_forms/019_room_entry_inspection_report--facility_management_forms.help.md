@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for users to document the condition and status of a room after an inspection. It allows users to select the condition of the room, upload photos of the room, and provide notes about the room's condition, status, and any photos. This form should help users keep track of room maintenance, repairs, and other relevant information for facility management. 
-
-Before starting the form, please ensure you are authorized to complete it, and that you have permission to access and update the relevant room records.
-
-When completing this form, please be as detailed and thorough as possible, as it will aid in accurate and efficient maintenance and decision-making processes.
-
-</thinking>
-
 # Room Entry Inspection Report - Help Guide
 ## Purpose
 The Room Entry Inspection Report form is used to document the condition and status of a room after an inspection. It helps facility managers and maintenance teams to keep track of room maintenance, repairs, and other relevant information.

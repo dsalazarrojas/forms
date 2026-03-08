@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to authorize or disauthorize the usage of photographs taken by a specific photographer. This form is to be filled out by the photographer and the client. The form is used to clarify the terms of use and any restrictions or permissions granted to the photographer for specific events. Please ensure that you have reviewed the form carefully and filled it out accurately, as this will help prevent any potential issues or miscommunications regarding the usage of the photographs.
-</thinking>
-
 # Photography Use Authorization Form - Help Guide
 ## Purpose
 The Photography Use Authorization Form is used to clarify the terms of use and any restrictions or permissions granted to the photographer for specific events.

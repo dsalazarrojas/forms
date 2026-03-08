@@ -1,15 +1,3 @@
-<thinking>
-The form is used to register guests to a yurt for an event. The event organizers use this form to gather information about the guests, such as their name, arrival date and time, yurt preferences, and contact information.
-
-The form is not intended to be used in any other context. To ensure accuracy, it's crucial to understand the purpose of the form and its intended use case.
-
-Please note that the form is designed to be filled out by event guests, so the information collected will be used solely for event management purposes.
-
-Also, the form's fields are designed to be completed in a specific order to ensure consistency and accuracy.
-
-This guide is intended to provide a clear understanding of the form's purpose and usage, and to help event guests complete it correctly and efficiently.
-</thinking>
-
 # Yurt Reservation Form - Help Guide
 ## Purpose
 This form is used to register guests to a yurt for an event. The event organizers use this form to gather information about the guests, such as their name, arrival date and time, yurt preferences, and contact information.

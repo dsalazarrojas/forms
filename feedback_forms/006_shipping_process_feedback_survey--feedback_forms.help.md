@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather feedback on the shipping process. It is designed to help us understand your experience with our shipping service. 
-Please fill out the form only once for each incident, to avoid duplication of feedback.
-</thinking>
-
 # shipping_process_feedback_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on your experience with our shipping process. 

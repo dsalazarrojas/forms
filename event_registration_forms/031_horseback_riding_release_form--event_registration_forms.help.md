@@ -1,12 +1,3 @@
-<thinking>
-This form is likely used to gather information from participants before they engage in horseback riding activities. The purpose of this form is to collect their participant information, legal consent, facility information, risk awareness, and contact details. This form should not be used for other purposes, such as general feedback or complaints. Before completing this form, please make sure that you have all necessary permissions and approvals in place.
-
-This form is designed for horseback riding activities, and it's assumed that the participant is aware of the risks involved. However, it's essential to inform them of their rights and responsibilities as a participant.
-
-The form fields are designed to be straightforward and easy to understand. Each field has a specific purpose, and the participant should fill it in accordingly.
-
-</thinking>
-
 # Horseback Riding Release Form - Help Guide
 ## Purpose
 

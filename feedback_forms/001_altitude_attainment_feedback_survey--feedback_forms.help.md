@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and that users understand its purpose before they start providing feedback. This guide is a critical step in validating the relevance and accuracy of the feedback collected. By using this guide, we can minimize duplication of effort and maximize the usefulness of the feedback provided.
-</thinking>
-
 # Altitude Attainment Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants in altitude attainment training sessions. The purpose of this form is to understand their overall satisfaction, relevance, and perceived value of the training content. The feedback collected will help us improve future sessions.

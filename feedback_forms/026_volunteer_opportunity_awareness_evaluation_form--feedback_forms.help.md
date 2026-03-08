@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect data on volunteer opportunities, specifically program names, lengths, and feedback from users. It's meant to be a quick and easy way for volunteers to report their experiences and provide input on the programs they've participated in. The form is optional, meaning users are not required to fill out every field.
-</thinking>
-
 # Volunteer Opportunity Awareness Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and data on volunteer programs. The information collected will help us understand more about the volunteer opportunities available and how we can improve them.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from users who are exiting the virtual assistant service. The purpose of this form is to collect data on why users are leaving the service and what their experience was like while using it. This information will help us improve the service and provide better support in the future. 
-Please note that filling out this form is optional, but it will help us better serve you. If you have already submitted feedback, please do not fill out this form again. 
-</thinking>
-
 # Virtual Assistant Exit Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users who are exiting the virtual assistant service. It will help us understand why users are leaving the service and what their experience was like while using it, which will enable us to improve the service and provide better support in the future.

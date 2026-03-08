@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about candlelight events. This form is meant to be a survey that will help us understand how our event policies are perceived and understood by users. This feedback will be used to refine and improve our event policies to ensure a safer and more enjoyable experience for all participants. Before starting, please note that your feedback will be collected anonymously, and your identity will not be shared with other users. If you have already submitted feedback on a similar form in the past, please note that this is a separate submission, and your responses will be recorded independently.
-</thinking>
-
 # Candlelight Event Policy Survey - Help Guide
 ## Purpose
 The Candlelight Event Policy Survey is a tool for gathering feedback on our current candlelight event policies. Your input is valuable in helping us refine and improve these policies to ensure the safety and enjoyment of all participants.

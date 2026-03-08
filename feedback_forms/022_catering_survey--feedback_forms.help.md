@@ -1,19 +1,3 @@
-<thinking>
-This guide is intended for the end-users who will be filling out this form, which is used to gather feedback from event respondents about their experience with a catering service. This form is crucial in helping the catering service provider to understand their customers' satisfaction levels and areas for improvement. Please ensure that you complete this form only once you have had a comprehensive experience with the catering service.
-
-This guide will cover the following sections: 
-
-* Respondent Information
-* Event Reference
-* Overall Satisfaction
-* Food Quality
-* Service Quality
-* Value and Pricing
-* Additional Feedback
-
-Please note that some fields may not be relevant to your response. You are not obligated to provide information for any of the sections that do not pertain to your experience.
-</thinking>
-
 # Catering Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from customers about their experience with a catering service. It will help us to identify areas where we are meeting or failing to meet your expectations, and make adjustments accordingly.

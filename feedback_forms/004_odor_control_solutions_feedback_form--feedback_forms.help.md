@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a comprehensive and user-friendly help guide that explains the purpose and usage of the "Odor Control Solutions Feedback Form". I will carefully review the provided YAML fields and provide clear explanations for each field to ensure that users understand the expected input and outcome of the form.</thinking>
-
 # Odor Control Solutions Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with odor control solutions. The goal is to gather information about the effectiveness, performance, and user experience with these products.

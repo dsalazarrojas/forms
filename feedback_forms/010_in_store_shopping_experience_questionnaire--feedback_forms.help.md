@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # In Store Shopping Experience Questionnaire - Help Guide
 ## Purpose
 The In Store Shopping Experience Questionnaire is designed to gather feedback from customers about their shopping experience in our store. This form helps us understand how we can improve our services and provide a better experience for our customers.

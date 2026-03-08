@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Behavior Study Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants in an animal behavior study. Researchers use this information to improve the study's procedures and ensure that the data collected is accurate and reliable.

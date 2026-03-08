@@ -1,8 +1,4 @@
-> <thinking>
-This form is used to obtain non-profit participation waiver forms from participants. It should only be used for events or programs where the non-profit organization is the event organizer. If you are not the non-profit organization, you should not use this form. Please ensure that the participant has a clear understanding of their waiver before completing this form.
-</thinking>
-
-# Nonprofit Participation Waiver Form - Help Guide
+> # Nonprofit Participation Waiver Form - Help Guide
 ## Purpose
 This form is used to obtain non-profit participation waivers from event participants. It is used to ensure that participants have a clear understanding of their waiver before participating in the event or program organized by the non-profit organization.
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I have created a user-facing help guide for the "Game Feedback Form" based on the provided YAML form structure. Here is the guide in Markdown format:
 
 # Game Feedback Form - Help Guide

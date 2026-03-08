@@ -1,7 +1,3 @@
-<thinking>
-This guide helps ensure that the form is filled out correctly, and that the information entered is accurate. 
-</thinking>
-
 # Real Estate Sustainability Webinar Registration Form - Help Guide
 ## Purpose
 The Real Estate Sustainability Webinar Registration Form is designed to gather information from attendees of the webinar on real estate sustainability, including event details, attendee's name, company and job title, and other relevant contact information.

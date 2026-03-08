@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fuel Expense Review Request Form - Help Guide
 ## Purpose
 The "Fuel Expense Review Request Form" is used for employees to request reimbursement for fuel expenses incurred for official company business. This form is used to gather information about the employee's fuel expenses, including details about the expense date, fuel type, cost, and status of reimbursement. It also captures information about the employee's ID, name, and company name. This form is designed to ensure accurate and transparent tracking of company fuel expenses.

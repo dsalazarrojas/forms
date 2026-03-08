@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from speakers who want to submit their presentations for an event. The form is used to ensure that the speaker's presentation is properly uploaded and associated with the correct event and session. This form is not intended for speakers who have already uploaded their presentations or have not yet received a confirmation of their presentation schedule.
-</thinking>
-
 # speaker presentation upload request form - Help Guide
 ## Purpose
 The Speaker Presentation Upload Request Form is a tool used by speakers to submit their presentation files and associated event information for an upcoming event.

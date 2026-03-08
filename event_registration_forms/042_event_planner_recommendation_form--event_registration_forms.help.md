@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for event planners to recommend an ideal candidate for an event, likely for a job interview or other professional opportunity. This form collects information to create a comprehensive profile of the recommended candidate.
-</thinking>
-
 # Event Planner Recommendation Form - Help Guide
 ## Purpose
 

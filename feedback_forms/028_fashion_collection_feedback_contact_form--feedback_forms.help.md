@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to gather feedback from users about a fashion collection. The purpose of this form is to collect information from customers about their experience with the collection, including contact information, the item(s) they purchased, purchase date and price, and their overall rating of the collection. This form will help us understand customer satisfaction and make improvements to future collections. Please fill out the form completely and honestly to provide valuable feedback. 
-
-</thinking>
-
 # fashion_collection_feedback_contact_form - Help Guide
 ## Purpose
 This form is used to gather feedback from customers about a fashion collection.

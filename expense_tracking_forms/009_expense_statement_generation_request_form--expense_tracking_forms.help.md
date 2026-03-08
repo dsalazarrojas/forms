@@ -1,7 +1,3 @@
-<thinking>
-This form is used to generate an expense statement for employees to request reimbursement for expenses incurred on behalf of the company. To complete this form, the user must be an authorized employee of the company who needs to request an expense statement for a specific employee. The form is used internally to track employee expenses and ensure that all necessary information is collected before processing the request.
-</thinking>
-
 # Expense Statement Generation Request Form - Help Guide
 ## Purpose
 The purpose of this form is to enable employees to request an expense statement for themselves or on behalf of another employee. The form collects necessary information to process the request and ensure accurate reimbursement.

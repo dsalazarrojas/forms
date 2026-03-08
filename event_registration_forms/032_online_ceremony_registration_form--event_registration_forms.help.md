@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect participant information for an online ceremony. It captures details about the event date, time, location, and participant's personal details such as name, email, phone number, and message. The form also allows participants to indicate their attendance status and any additional comments or notes. It's a simple and concise way to gather information from participants, making it a helpful tool for event organizers and administrators...+</thinking>
-
 # Online Ceremony Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect participant information for an online ceremony. It is designed to gather details about the event date, time, location, and participant's personal details.

@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees of a business webinar, allowing the organizers to gauge the effectiveness of the presentation and identify areas for improvement. The form is intended for use by business professionals attending webinars related to industry-related topics, such as management, marketing, or finance. 
-
-To confirm, this form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata. You are free to use, modify, and even sell forms derived from it, just give credit.
-
-Before proceeding, ensure that you have not already provided feedback on the same webinar, and that your comments are specific, constructive, and respectful.
-
-The form collects information on the attendee's name, company, email address, and the title of the webinar they attended. It also assesses the relevance and quality of the content, the effectiveness of the speaker, the depth of the content, and the overall experience. The form includes a text field for the most valuable takeaway and suggestions for future webinars. Attendees are also asked if they would recommend the webinar to colleagues and what topics they would like to see covered in future events.
-
-Please note that this form does not collect any sensitive or personal information, and the answers are used solely for improving future webinars. 
-
-Before providing feedback, consider the following:
-
-* Be specific about your experience and the areas for improvement.
-* Provide constructive suggestions for the organizers.
-* Be respectful and professional in your tone.
-* Keep in mind that the form is anonymous, and your identity is not revealed.
-
-By filling out this form, you are contributing to the quality and effectiveness of future webinars. Thank you for your time and input!
-
-</thinking>
-
 # Business Webinar Feedback Form - Help Guide
 ## Purpose
 The Business Webinar Feedback Form is designed to gather feedback from attendees to help improve future webinars. 

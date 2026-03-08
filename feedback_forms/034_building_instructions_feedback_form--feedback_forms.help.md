@@ -1,13 +1,3 @@
-<thinking>Before creating this form, we considered the purpose of a feedback form for building instructions and the need to collect specific and actionable feedback from respondents. We aimed to create a form that is comprehensive, yet easy to understand and complete. We also aimed to avoid duplication of questions and keep the form concise and focused on the essential aspects of the feedback process. The form has been designed with the following goals in mind: 
-- **Specificity**: Collect feedback on specific aspects of building instructions such as clarity, accuracy, and usability. 
-- **Actionability**: Provide clear and actionable feedback that can be used to improve the instructions. 
-- **Relevance**: Ensure that the form is not too broad or too narrow, striking a balance between collecting essential information and avoiding unnecessary data. 
-- **Comprehension**: Make it easy for respondents to complete the form by using clear and concise language, making it easy to understand. 
-- **Feedback**: Allow for open-ended responses and suggestions to capture additional feedback. 
-- **Consistency**: Follow a logical structure that makes it easy to review and analyze the data.
-
-This form was designed using only public survey topic metadata and is an original adaptation, not derived from any other form creation or survey platform. It is released under CC BY 4.0 and is free to use, modify, and even sell. If you have any questions or concerns, please contact: form@gic.mx.</thinking>
-
 # Building Instructions Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on building instructions to help improve their quality, clarity, and overall usability. It is meant for respondents who have used the instructions and have valuable insights to share.

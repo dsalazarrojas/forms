@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about the publishing readership of a given content. This form was created based on metadata from public surveys in the category "Feedback Surveys" and is intended to help publishers assess the quality, engagement, and format preferences of their content. Please note that this form is not associated with any specific survey platform and is an original creation for internal use.
-</thinking>
-
 # Publishing Readership Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the readership of publishing content, gathering feedback from users on their satisfaction, format preferences, and content quality.

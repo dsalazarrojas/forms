@@ -1,37 +1,3 @@
-<thinking> 
-This form is designed for registering attendees for the Conference Launch Reception. It collects information for the attendee, their guest (if applicable), and preferences for refreshments and networking. It also gathers details about the attendee's relationship with the host, transportation needs, and special requests. The purpose of this form is to help the host manage the event logistics and provide a seamless experience for the attendees. 
-
-The attendee information section includes:
-
-- **Full Name**: The full name of the attendee as it should appear on the event materials.
-- **Email Address**: The contact email of the attendee.
-- **Organization**: The company or institution the attendee is representing.
-- **Phone Number**: The contact number of the attendee.
-- **Job Title**: The job title or position of the attendee.
-- **Event Details**: A brief description of the event.
-- **Conference Name**: The name of the conference or event.
-- **Reception Date**: The date of the reception.
-- **Reception Time**: The start time of the reception.
-- **Reception Venue**: The location of the reception.
-- **RSVP Response**: Whether the attendee will attend or not.
-- **Guest Information**: Any additional attendees and their details.
-- **Bringing a Guest**: Whether the attendee is bringing a guest.
-- **Guest Name**: The name of the guest.
-- **Guest Relationship**: The relationship of the guest to the attendee.
-- **Refreshment Preferences**: The attendee's preferences for refreshments.
-- **Dietary Requirements**: Any dietary restrictions or allergies.
-- **Beverage Preference**: The attendee's preference for beverages.
-- **Networking Interest**: The attendee's interest in networking.
-- **Accessibility Needs**: Any special accessibility needs.
-- **Transportation Needs**: The attendee's transportation needs.
-- **How Did You Hear About Event**: The source of information about the event.
-- **Special Requests**: Any other special requests.
-- **RSVP Deadline Acknowledgment**: Whether the attendee is aware of the deadline.
-
-The attendee is also asked to confirm that they understand the RSVP deadline and will submit by the given deadline.
-
-</thinking>
-
 # Conference Launch Reception RSVP Form - Help Guide
 
 ## Purpose

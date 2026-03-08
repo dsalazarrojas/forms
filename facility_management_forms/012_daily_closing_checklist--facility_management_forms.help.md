@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to ensure that the daily closing procedures are completed accurately and thoroughly. This form is designed to be a checklist that confirms that all necessary end-of-day tasks have been completed, including confirming handover, lockout, security checks, system checks, equipment checks, waste disposal, staff safety, security logs, review of records, review of equipment, and review of security systems. This form is likely used by facilities or site managers to ensure that all necessary procedures are completed before leaving the site or at the end of the day.
-
-Before proceeding, please verify that you are in the correct context and that the form's questions are relevant to your situation. Also, note that this form is not affiliated with any specific platform or organization, and its content is not copied from any other source. It is an original adaptation based on public metadata from the provided category and title.
-</thinking>
-
 # daily_closing_checklist - Help Guide
 ## Purpose
 The daily closing checklist is a form designed to ensure that all necessary end-of-day procedures are completed accurately and thoroughly.

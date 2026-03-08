@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect event details for the Event DJ Service Request process. The purpose of this form is to provide a structured and organized way to collect necessary information about an event. This form should only be completed if the event has not been previously requested or scheduled. If you are unsure if an event has been previously requested, please check the event calendar or contact the event coordinator before proceeding.
-</thinking>
-
 # Event DJ Service Request - Help Guide
 ## Purpose
 This form is used to request a DJ service for an event. The information collected will be used to determine the type of event, number of guests, and other specific details to provide the best possible service.

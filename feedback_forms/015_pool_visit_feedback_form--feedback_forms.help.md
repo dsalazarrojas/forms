@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that end users understand how to complete the "Pool Visit Feedback Form" and what each field represents to provide valuable feedback to our team. The form should be user-friendly and clear in its purpose, so we should consider including a brief internal reasoning block to justify its creation and explain the reasoning behind its content. This will not only help users understand the importance of the form but also encourage users to provide honest and relevant feedback.
-
-The form's purpose is to gather feedback from users about their experience with our pool visits, including general information, safety, service quality, staff interaction, facilities, overall experience, submission, name, email, and phone number. We want to ensure that users can easily navigate the form and understand what each field represents, so we can create a comprehensive guide to help them complete it correctly.
-
-</thinking>
-
 # Pool Visit Feedback Form - Help Guide
 ## Purpose
 The "Pool Visit Feedback Form" is designed to gather feedback from users about their experience with our pool visits. It helps us understand your opinions, concerns, and suggestions, which we use to improve our services and provide a better experience for our visitors.

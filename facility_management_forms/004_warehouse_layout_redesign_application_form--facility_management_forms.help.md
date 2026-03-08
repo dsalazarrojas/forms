@@ -1,5 +1,3 @@
-<thinking>As a facility manager, you are tasked with redesigning the warehouse layout to optimize its efficiency and productivity. This form will help you gather information about the warehouse's current state and propose improvements. Please fill out this form to provide a comprehensive description of your redesign plan.</thinking>
-
 # Warehouse Layout Redesign Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about your warehouse's current state and goals, allowing you to propose improvements and redesign the layout to optimize efficiency and productivity.

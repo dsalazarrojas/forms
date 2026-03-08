@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I understand that creating a user-friendly help guide is crucial for a seamless user experience. The form is designed for personal budget tracking, allowing individuals to monitor and control their financial resources effectively. By completing this form, users will be able to track their monthly income, expenses, savings, and financial goals. The form consists of 25 pages, each focused on a specific aspect of personal finance. Users will be able to input their income, expenses, savings, and goals, and track their progress in a visually appealing and organized manner. The form's fields will guide users through the process, making it easy to understand and use.</thinking>
-
 # Personal Budget Tracking Form - Help Guide
 ## Purpose
 

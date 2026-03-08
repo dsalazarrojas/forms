@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Faith Based Study Feedback Form - Help Guide
 
 ## Purpose

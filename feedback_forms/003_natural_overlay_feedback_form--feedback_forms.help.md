@@ -1,5 +1,3 @@
-<thinking>... internal note for the form designer and technical writer ...</thinking>
-
 # natural-overlay-feedback-form - Help Guide
 
 ## Purpose

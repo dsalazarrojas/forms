@@ -1,5 +1,3 @@
-<thinking>This form is designed for employees to submit expense requests for reimbursement. The form is used to provide information about the expense, including the date it was incurred, the type of expense, and the amount spent. The form may be submitted to request reimbursement, and the "Date Approved" field is only populated by the administrator when the request is approved. To avoid duplication, please ensure that you are only submitting one form per expense.</thinking>
-
 # Expense Request Form - Help Guide
 ## Purpose
 The purpose of this form is to provide information about an expense request for reimbursement.

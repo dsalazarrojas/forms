@@ -1,10 +1,3 @@
-<thinking>
-The form "gap_correction_feedback_form" is designed to collect feedback on gaps or discrepancies between the actual performance of a system or process and its expected performance. This feedback is crucial for identifying areas of improvement and making necessary adjustments to bridge the gap. Before starting, please ensure that you have read this guide to understand the form's purpose and the fields involved.
-
-This guide is intended for users who want to provide feedback on gaps or discrepancies. If you are an administrator or developer looking to configure this form, you may want to refer to the configuration section instead.
-
-</thinking>
-
 # gap_correction_feedback_form - Help Guide
 ## Purpose
 The gap_correction_feedback_form is used to provide feedback on gaps or discrepancies in the performance of a system or process. This form helps in identifying areas of improvement and making necessary adjustments to bridge the gap.

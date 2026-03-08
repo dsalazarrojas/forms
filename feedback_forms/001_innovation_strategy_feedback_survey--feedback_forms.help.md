@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on the innovation strategy of a company. The form is designed to gather information from respondents about their thoughts and opinions on different aspects of the strategy. However, this form is likely to be used for multiple purposes (e.g., market research, employee engagement, or customer feedback), so ensure the purpose is clear and specific in your communication with the respondents.
-To avoid duplication, this form may already exist in your organization or have similar forms that serve a similar purpose. If that's the case, please review and update the content accordingly.
-</thinking>
-
 # Innovation Strategy Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback on the company's innovation strategy. Your input will help us better understand your thoughts and opinions on our current strategy and how it can be improved.

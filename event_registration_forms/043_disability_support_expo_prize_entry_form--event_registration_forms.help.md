@@ -1,7 +1,3 @@
-<thinking>
-The Disability Support Expo Prize Entry Form is designed to collect information from individuals who wish to enter the Disability Support Expo prize competition. The form is not intended to be completed by organizations or representatives on behalf of someone else, but rather by the individual themselves. It is essential to ensure that each entry is unique and not duplicated. To prevent duplication, we will verify the contact information provided and only allow one entry per individual.
-</thinking>
-
 # Disability Support Expo Prize Entry Form - Help Guide
 ## Purpose
 The Disability Support Expo Prize Entry Form is a simple online form designed to collect information from individuals who wish to enter the Disability Support Expo prize competition. This form will help us verify your eligibility and ensure a unique entry.

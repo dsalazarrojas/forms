@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is filled out by people who are actually attending the event, and not just anyone who stumbles upon it. Let's add a check to prevent duplicate submissions and ensure that the form is only filled out by individuals who have attended the event. We should also note that this form is meant to gather feedback from event attendees, so they should be able to provide their honest thoughts and suggestions for future improvements.
-</thinking>
-
 # Cheer Event Feedback Form - Help Guide
 ## Purpose
 This form is designed for attendees of cheer events to provide feedback on their experiences. It's crucial for us to understand your thoughts and suggestions to improve the overall quality of our events.

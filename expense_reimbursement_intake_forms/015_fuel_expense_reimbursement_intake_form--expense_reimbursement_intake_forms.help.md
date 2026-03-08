@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from employees who need to submit fuel expense reimbursement requests. The purpose of this form is to gather relevant details about the employee's fuel expense, including the start and end dates, mileage readings, fuel type, and total fuel cost. This information will be used to process and approve the reimbursement request.
-
-Before completing this form, please ensure you have all necessary information and documentation related to your fuel expense, such as receipts and invoices. This form is intended for employees who are submitting fuel expense reimbursement requests, so please do not complete this form unless you are authorized to do so.
-
-The form will be reviewed and processed by the approver, who will use the information provided to make a decision on the reimbursement request. Please make sure to fill in all required fields accurately and completely to avoid delays in the processing of your request.
-</thinking>
-
 # Fuel Expense Reimbursement Intake Form - Help Guide
 
 ## Purpose

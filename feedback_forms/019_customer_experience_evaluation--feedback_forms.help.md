@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from customers on their experience with our services. This form is designed to be completed by customers after they have visited us, and it helps us understand their satisfaction with our services, identify areas for improvement, and gather their suggestions for enhancements. This form is meant to be completed by all customers, and it is not intended to be a duplicate or a one-time submission.
-
-The form is divided into several sections, each with its own set of questions and fields. The sections are: Introduction, Rating, Comment, Contact Information, and Preferences. Each section is designed to collect specific information from the customer, and the fields are labeled clearly to make it easy for the customer to understand what is being asked.
-
-</thinking>
-
 # Customer Experience Evaluation - Help Guide
 ## Purpose
 This form helps us understand your experience with our services and gather feedback for improvement.

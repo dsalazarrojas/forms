@@ -1,9 +1,3 @@
-<thinking>
-This help guide is designed to assist users in filling out the "get_in_touch_form" effectively.
-The form is intended for users to express their interest in contacting the organization. It is crucial to fill out this form accurately to ensure that the organization receives the desired information.
-Before proceeding, please ensure that you are filling out the form for the correct purpose and not duplicating efforts. If you have already submitted this form, please do not proceed.
-</thinking>
-
 # get_in_touch_form - Help Guide
 ## Purpose
 The "get_in_touch_form" is a contact form designed to help users get in touch with the organization. Fill out this form to express your interest in contacting us for any reason, and we will get back to you soon.

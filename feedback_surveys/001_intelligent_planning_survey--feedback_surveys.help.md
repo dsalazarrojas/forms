@@ -1,9 +1,3 @@
-<thinking>
-
-The form "Intelligent Planning Survey" is a collection of questions designed to gather feedback and insights from users. It is intended to help the organization understand user needs and preferences. This form is not intended for urgent or critical feedback, but rather for users to provide their thoughts and opinions on various aspects of the organization's services or offerings. Before submitting the form, please ensure that you are not duplicating an existing feedback entry, and that your comments are specific and relevant to the questions asked.
-
-</thinking>
-
 # Intelligent Planning Survey - Help Guide
 ## Purpose
 The Intelligent Planning Survey is designed to gather user feedback and insights to help the organization improve its services and offerings.

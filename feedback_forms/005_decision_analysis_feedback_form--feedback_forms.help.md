@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose and usage of the "Decision Analysis Feedback Form". To ensure relevance, I'll provide a brief internal reasoning block to clarify the form's purpose and potential use cases.
-
-The Decision Analysis Feedback Form is designed to gather feedback from decision-makers and stakeholders on the effectiveness and clarity of the decisions made within the organization. This form is intended to be used by team members, managers, and stakeholders to provide input on decisions made within their department or team.
-
-The form is designed to be completed in a sequential manner, with each page building upon the previous one. The form collects feedback on the decision's clarity, effectiveness, confidence level, and any suggestions or additional comments. Additionally, it captures essential information such as stakeholder ID, team, department, role, date, time, and location.
-
-Before proceeding, it's essential to ensure that the form is not duplicated or submitted multiple times by the same user. This is to prevent redundant feedback and maintain data accuracy.
-
-</thinking>
-
 # Decision Analysis Feedback Form - Help Guide
 ## Purpose
 The Decision Analysis Feedback Form is designed to gather feedback from decision-makers and stakeholders on the effectiveness and clarity of decisions made within the organization. This form is intended to be used by team members, managers, and stakeholders to provide input on decisions made within their department or team.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a patient's knowledge about infective endocarditis, a serious infection of the heart's inner lining (endocardium). The form collects information about the patient's answers to questions about the condition, its symptoms, diagnosis, treatment, and complications. The form is not intended to be a substitute for professional medical advice or diagnosis, but rather a tool to gauge patient understanding of this critical condition.
-</thinking>
-
 # Infective Endocarditis Knowledge Quiz - Help Guide
 ## Purpose
 This form is intended to evaluate your knowledge about infective endocarditis. It is a tool for patients to gauge their understanding of this condition's symptoms, diagnosis, treatment, and complications.

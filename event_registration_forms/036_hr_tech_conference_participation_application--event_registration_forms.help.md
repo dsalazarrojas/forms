@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from participants who wish to attend or participate in the HR Tech Conference. This includes basic contact information, participation preferences, and additional details required for conference planning purposes. The form is intended for HR professionals, conference organizers, and other relevant parties to gather data for the event. To ensure a smooth registration process, please make sure to fill out all required fields and submit the form accurately. If you have any questions or concerns, feel free to contact us.
-</thinking>
-
 # HR Tech Conference Participation Application - Help Guide
 ## Purpose
 The HR Tech Conference Participation Application form is designed to collect information from participants who wish to attend or participate in the HR Tech Conference. This form is for HR professionals, conference organizers, and other relevant parties to gather data for the event.

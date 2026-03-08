@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback from visitors of the Wildlife Safari. The purpose of this form is to understand their experience and opinions about the safari, including their first experience, the performance of the tour operator, safety procedures, and the attitude of the guide. This form will help us to identify areas of improvement and enhance the overall safari experience. Please ensure that you fill this form only once for your safari visit, and provide honest and specific feedback.
-
-</thinking>
-
 # Wildlife Safari Feedback - Help Guide
 ## Purpose
 This guide is to help you complete the Wildlife Safari Feedback form accurately and efficiently.

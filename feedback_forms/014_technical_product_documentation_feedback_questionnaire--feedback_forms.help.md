@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Technical Product Documentation Feedback Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to collect your feedback on our technical product documentation. Your responses will help us understand how our product documentation is meeting your needs and identify areas for improvement. Your feedback will be used to inform future development and ensure that our documentation remains useful and relevant to you.

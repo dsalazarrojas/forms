@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Professional Correspondent Feedback Form - Help Guide
 
 ## Purpose

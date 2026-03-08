@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from homeschooling customers, allowing them to provide input on their experience with a particular program or service. The purpose of this form is to gather valuable information that can be used to improve the quality and effectiveness of homeschooling programs. This form is not affiliated with any form platforms, and its design is based on public survey topic metadata.
-
-To complete this form, follow these steps:
-
-</thinking>
-
 # Homeschooling Customer Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from homeschooling customers, providing valuable insights to improve the quality and effectiveness of homeschooling programs.

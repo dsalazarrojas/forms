@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Purpose
 The Irrigation Audit Form is used to assess the status of irrigation systems on a farm. It is meant to be completed by farmers or their representatives to provide an overview of the current condition and performance of their irrigation systems. This form is used to identify areas for improvement and optimization of water usage.
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from supporters of reforestation efforts. The form is meant to understand how supporters learned about the program, their preferred contact method, and their level of satisfaction with the experience. This form should only be completed by supporters who have not already done so in the past to prevent duplication of feedback.
-</thinking>
-
 # Reforestation Supporter Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from supporters of reforestation efforts. It will help us understand how you learned about our program, your preferred contact method, and your level of satisfaction with the experience.

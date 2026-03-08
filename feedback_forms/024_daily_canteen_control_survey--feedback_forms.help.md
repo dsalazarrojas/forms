@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers about their dining experience at the canteen. 
-The purpose of this form is to gather information about customer satisfaction, preferences, and experiences. 
-This form is intended to be filled out by customers after they have had a meal at the canteen. 
-It is not intended to be filled out by non-customer employees or staff members. 
-</thinking>
-
 # Daily Canteen Control Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from customers about their dining experience at the canteen.

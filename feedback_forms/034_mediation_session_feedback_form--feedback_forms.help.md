@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from participants after a mediation session. This feedback is crucial for the mediation team to learn from their experiences and improve future sessions. Please do not use this form to provide general feedback; ensure that you are providing feedback for a specific mediation session. Additionally, avoid duplicating previous feedback if you have already submitted feedback for the same session or topic. This form is intended for participants who are reflecting on their personal experience, so please provide honest and constructive feedback.
-</thinking>
-
 # Mediation Session Feedback Form - Help Guide
 ## Purpose
 The Mediation Session Feedback Form is designed to gather your thoughts and feelings about a recent mediation session. Your feedback will help us understand what worked well and what could be improved for future sessions.

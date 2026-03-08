@@ -1,9 +1,4 @@
-> <thinking>
-This form is designed to collect feedback from users on the IT Support Service provided by the organization. 
-When submitting feedback, please ensure you are providing constructive and relevant information to help us improve our service. 
-Please do not submit duplicate or off-topic feedback. 
-</thinking>
-# IT Support Service Feedback Form - Help Guide
+> # IT Support Service Feedback Form - Help Guide
 ## Purpose
 The IT Support Service Feedback Form is a form designed to collect feedback from users on the IT Support Service provided by the organization. This form helps us understand how we can improve our service and provide better support to our users.
 

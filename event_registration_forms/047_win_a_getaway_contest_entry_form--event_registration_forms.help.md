@@ -1,10 +1,3 @@
-<thinking> 
-This guide will help you fill out the Win A Getaway Contest Entry Form with ease. The form is designed to collect essential information from participants and businesses for the "Win A Getaway Contest". Please review this guide carefully to ensure you don't miss any important details.
-
-To ensure that your entry is valid, please note that each field is marked as "required" to indicate its necessary presence. If you encounter any issues or have questions, feel free to reach out to us directly.
-
-</thinking>
-
 # Win A Getaway Contest Entry Form - Help Guide
 ## Purpose
 This form is designed to collect participant and business information for the Win A Getaway Contest. It is intended for participants who wish to enter the contest and provide their contact details, while businesses can use it to provide their information and any additional messages.

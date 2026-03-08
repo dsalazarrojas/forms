@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for facility management, which involves maintaining and overseeing the facilities and physical spaces within an organization. The purpose of this form is likely to gather information about facilities for maintenance planning and optimization.
-
-To prevent duplication and ensure accurate completion, I will focus on explaining each field clearly, avoiding internal logic that may be specific to the organization's management system.
-
-</thinking>
-
 # Facility Maintenance Forecasting Survey - Help Guide
 
 ## Purpose

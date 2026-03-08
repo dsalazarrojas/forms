@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive assessment for appliance installers to gauge their knowledge and preparation before performing a series of crucial tasks in their work. The form is designed to test their knowledge on various aspects of appliance installation, including electrical connections, gas line installation, plumbing connections, venting requirements, safety protocols, and local codes. The form also includes scenarios where the participant must demonstrate their critical thinking and problem-solving skills to address common issues that may arise during installation.
-
-This form is not meant to be a substitute for hands-on training or direct supervision, but rather a tool to help ensure that participants are adequately prepared for the task at hand. By completing this form, participants can demonstrate their knowledge and identify areas where they may need additional review or support.
-
-It is recommended that participants complete this form with the guidance of a supervisor or experienced installer to ensure they receive accurate feedback and guidance.
-
-</thinking>
-
 # Appliance Installer License Prep Quiz - Help Guide
 
 ## Purpose

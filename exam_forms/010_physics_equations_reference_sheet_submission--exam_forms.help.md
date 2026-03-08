@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about physics equations. The form is intended for users who want to submit and share their knowledge about physics equations, likely for educational or research purposes. The form is not affiliated with or endorsed by any form platform, and its content is original and created using AI-generated metadata from public sources. This form is released under the Creative Commons BY 4.0 license, allowing users to freely use, modify, and distribute it. The contact information for the form creator is provided at the beginning of the form. The form has six fields in total, each with a unique label and type. The purpose of this form is to collect physics equation-related information from users.
-</thinking>
-
 # Physics Equations Reference Sheet Submission - Help Guide
 ## Purpose
 The Physics Equations Reference Sheet Submission form is designed to collect information from users about physics equations. Users can submit and share their knowledge about physics equations, which can be useful for educational or research purposes.

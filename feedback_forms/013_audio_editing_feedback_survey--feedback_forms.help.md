@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients who have worked with an audio editing service. The form is intended to gather information about their experience with the service, including their satisfaction with the editing process, communication, and value for money. This form should not be used to collect sensitive or confidential information. To ensure that your feedback is useful and actionable, please be as specific as possible in your responses. Also, please fill out the form only once, even if you have worked with the service multiple times.
-</thinking>
-
 # Audio Editing Feedback Survey - Help Guide
 ## Purpose
 

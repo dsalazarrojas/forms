@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is designed to collect feedback and suggestions from employees, customers, or partners about the company's performance, culture, and overall experience. To ensure that the form is completed accurately and efficiently, please review the form carefully before submitting your suggestions. Additionally, please do not submit duplicate or off-topic feedback. We appreciate your input and would like to hear from you about your experiences and thoughts about our company.</thinking>
-
 # Idea Submission Form - Help Guide
 ## Purpose
 

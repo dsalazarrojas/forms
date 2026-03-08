@@ -1,8 +1,3 @@
-<thinking>
-This form is meant for providing feedback on presentations, specifically for speakers and sessions. 
-It is designed to gather information about the speaker, session, and overall experience. 
-The form has 11 fields, each with a specific purpose. To ensure the form is filled out correctly, please review each field's explanation below.</thinking>
-
 # Dynamic Presentation Feedback - Help Guide
 
 ## Purpose

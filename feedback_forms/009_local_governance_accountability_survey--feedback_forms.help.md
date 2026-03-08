@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback on local governance and accountability from users, ensuring that their concerns and suggestions are heard and addressed by the relevant authorities. This form is designed to be a one-time submission, and responses will be reviewed and actioned upon by the responsible parties. This form is not intended for multiple submissions from the same user.
-
-Before filling out this form, please ensure you have not already submitted a feedback form with the same questions. If you have submitted a similar feedback form recently, your responses may not be recorded as a separate submission.
-
-</thinking>
-
 # local_governance_accountability_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on local governance and accountability from users. This feedback will be reviewed and actioned upon by the relevant authorities to ensure that their concerns and suggestions are heard and addressed.

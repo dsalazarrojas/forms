@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? To register for the LSAT (Law School Admission Test) exam. This form allows you to provide essential information required to register for the test. Before completing this form, please ensure you are eligible for the exam and have all necessary details to fill in each field accurately.</thinking>
-
 # LSAT Exam Registration Form - Help Guide
 
 ## Purpose

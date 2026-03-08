@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from parents about their experience at the nursery. The purpose of this form is to collect both quantitative and qualitative feedback to help the nursery improve its services and facilities in the next year. This form should only be completed by parents of children who have attended the nursery. Please do not complete this form if you have already done so in the past year.
-</thinking>
-
 # Nursery Year End Feedback Survey - Help Guide
 ## Purpose
 The Nursery Year End Feedback Survey is a questionnaire designed to gather feedback from parents about their experience at the nursery. The survey aims to collect both quantitative and qualitative feedback to help the nursery improve its services and facilities in the next year.

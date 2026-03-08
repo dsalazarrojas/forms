@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients after they have completed art therapy sessions. The purpose of this form is to gather information about the client's experience, satisfaction, and overall impression of the therapy process. The form is meant to help the therapist evaluate the effectiveness of the treatment and make any necessary adjustments for future clients. Please make sure this form is filled out by a discharged client and not a new client.
-</thinking>
-
 # Art Therapy Client Discharge Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients after they have completed art therapy sessions. The purpose of this form is to gather information about the client's experience, satisfaction, and overall impression of the therapy process.

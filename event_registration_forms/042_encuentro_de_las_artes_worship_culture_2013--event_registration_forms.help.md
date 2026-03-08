@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for the "Encuentro de las Artes Worship Culture 2013" event. The form is designed to gather personal details, event details, and contact information from participants. This form likely serves as a registration form for the event, allowing attendees to provide their basic contact and demographic information, such as name, surname, and birthdate. It also includes fields for participants and event organizers, which might be used for internal tracking and organization purposes.
-</thinking>
-
 # encuentro_de_las_artes_worship_culture_2013 - Help Guide
 ## Purpose
 The form is designed to collect information for the "Encuentro de las Artes Worship Culture 2013" event registration.

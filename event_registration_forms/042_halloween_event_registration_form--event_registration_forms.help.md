@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for users to register for a Halloween event, providing their personal details and event-specific information. The form is designed to be completed in multiple steps, with each step dedicated to a specific field. The form fields are meant to collect relevant data for event organization and planning, without requiring unnecessary information. The fields should be self-explanatory and easy to fill out. Please note that some fields are optional, and users can fill them out based on their preference. To ensure a smooth registration experience, the fields have been designed with the user's needs in mind.</thinking>
-
 # Halloween Event Registration Form - Help Guide
 ## Purpose
 The Halloween Event Registration Form is designed for users to register for the upcoming Halloween event. The form will collect relevant personal and event-specific information for event organization and planning.

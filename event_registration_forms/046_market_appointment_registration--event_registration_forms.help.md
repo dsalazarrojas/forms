@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from users who are interested in scheduling a market appointment. The purpose of this form is to allow market visitors to register for a meeting with a market vendor. Market vendors can also use this form to schedule a visit from a market visitor. This form will collect the necessary contact information and scheduling details for the meeting.
-Please ensure that the information provided is accurate and relevant to the meeting. If you are a market vendor, you may receive visit requests from market visitors. If you are a market visitor, you may schedule a visit with a market vendor. This form should not be used for general contact or sales purposes.
-</thinking>
-
 # Market Appointment Registration - Help Guide
 ## Purpose
 This form is used to schedule a market appointment between a market visitor and a market vendor. It is essential to provide accurate contact information and scheduling details to facilitate a successful meeting.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Full Width Contact Page Responsive - Help Guide
 ## Purpose
 The Full Width Contact Page Responsive form is a contact page designed to collect user feedback and information. It is intended to be a simple and user-friendly way to reach out to our team with questions, suggestions, or comments. This form is typically used by customers, users, or visitors to share their thoughts and experiences with our team.

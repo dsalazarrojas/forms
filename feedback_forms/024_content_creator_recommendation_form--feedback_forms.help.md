@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and recommendations on content creators, helping to identify and promote talented and reliable professionals in the industry. It's essential for the recommender to provide honest and constructive feedback to help creators grow and improve their skills. Please ensure that you're providing a genuine recommendation and not submitting duplicate forms for the same creator.
-
-</thinking>
-
 # Content Creator Recommendation Form - Help Guide
 ## Purpose
 

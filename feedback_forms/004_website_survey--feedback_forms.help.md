@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-
-This form was created using AI to generate a website survey based on public survey topic metadata. The form is an original adaptation and does not copy or use proprietary content from other form platforms. Its purpose is to collect feedback from users to improve the website. 
-
-</thinking>
-
 # Website Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about the website, helping us understand what we can improve to better serve you.

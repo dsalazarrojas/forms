@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect feedback and assessment of different channels for donations. The purpose of this form is to evaluate the trustworthiness of various donation channels, taking into account their level of trustworthiness, communication, and overall rating. It is likely intended for use by organizations or individuals who manage or are involved in donation-related activities.
-
-The form is structured to guide the user through a series of questions and prompts, ensuring that the user provides clear and concise information about the donation channel in question.
-
-Upon reviewing the form, it seems that the user is required to provide information about the donation channel's type, name, and rating. They will also be asked to assess the channel's trustworthiness, communication level, and provide any additional feedback if available.
-
-Given the structure of the form, the following help guide will be created to support users in filling it out correctly.</thinking>
-
 # Donation Channel Trustworthiness Survey - Help Guide
 ## Purpose
 The purpose of this form is to evaluate and gather feedback on different channels for donations, focusing on their trustworthiness, communication, and overall rating.

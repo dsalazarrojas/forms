@@ -1,5 +1,3 @@
-<thinking>Nonprofit Appreciation Gala RSVP Form is designed to collect information from guests and attendees regarding their participation in the gala event. This form ensures that all necessary details are captured accurately and efficiently, ensuring proper organization and planning for the event. It's crucial to fill out this form thoroughly and accurately, as it will help the event organizers in various stages of event planning and coordination. Please ensure that the form is filled out only once per guest, and that all required fields are completed, especially RSVP (Yes/No) and Number of Guests (1-3).</thinking>
-
 # Nonprofit Appreciation Gala RSVP Form - Help Guide
 ## Purpose
 The Nonprofit Appreciation Gala RSVP Form is designed to collect information from guests and attendees for the gala event. This form helps event organizers gather necessary details such as event preferences, guest details, and RSVP responses.

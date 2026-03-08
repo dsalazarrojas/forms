@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for customer support escalations, allowing us to understand the issue's severity and provide effective assistance. This form ensures that support requests are properly routed to the right people, and that the necessary context is captured for swift resolution.
-To prevent duplication, we verify that the form is not submitted multiple times for the same issue.
-</thinking>
-
 # customer_support_escalation_request_form - Help Guide
 ## Purpose
 The customer support escalation request form is used to report issues that require special attention from our support team. This form helps us understand the problem's severity and provide the necessary support to resolve it.

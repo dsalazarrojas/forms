@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback on the resolution and response times of support requests or issues. This feedback is crucial in helping the support team to identify areas of improvement and make data-driven decisions to enhance their performance. It is essential to fill out this form only when you have actually used the support service recently, and not for test purposes or as a duplicate feedback.
-
-</thinking>
-
 # resolution_time_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the resolution and response times of support requests or issues. The data collected will help the support team to improve their performance and provide better services to customers.

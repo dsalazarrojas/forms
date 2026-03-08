@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photography Studio Management Survey - Help Guide
 
 ## Purpose

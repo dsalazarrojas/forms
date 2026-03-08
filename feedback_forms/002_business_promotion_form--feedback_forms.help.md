@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the "Business Promotion Form", let's first analyze the form's purpose and requirements. 
-
-This form appears to be designed to gather customer feedback and preferences for business promotions, allowing the business to understand their target audience's shopping habits, preferences, and experiences. The form likely aims to collect valuable data to enhance customer engagement, improve customer service, and inform marketing strategies. 
-
-Before proceeding, let's ensure that the form isn't a duplicate or unnecessary. If it is, this guide will need to be adjusted accordingly.
-
-</thinking>
-
 # Business Promotion Form - Help Guide
 ## Purpose
 This form is designed to gather customer feedback and preferences for business promotions, aiming to improve customer engagement and inform marketing strategies.

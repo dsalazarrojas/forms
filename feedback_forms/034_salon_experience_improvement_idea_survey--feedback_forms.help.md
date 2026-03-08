@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to collect feedback and ideas from users about the salon experience, aiming to improve the overall experience for future users. This form likely serves as a means for the salon to collect anonymous or non-anonymous feedback, suggestions, and comments from users, which can help them identify areas of improvement and make informed decisions for future developments. 
-
-The form is designed to collect feedback on various aspects of the salon experience, including feedback ideas, overall quality of service, upgrade suggestions, contact information, and other details such as email and phone numbers. The form also includes fields for confirmation of submission and follow-up actions. 
-
-This form does not appear to require any redundant or duplicative fields, but rather a comprehensive range of questions designed to elicit valuable feedback and ideas for improvement.
-
-</thinking>
-
 # Salon Experience Improvement Idea Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from users about the salon experience.

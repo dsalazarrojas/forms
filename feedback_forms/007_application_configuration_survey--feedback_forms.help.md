@@ -1,27 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about their experience with the application. It will help us understand how users use the application, what they like or dislike about it, and areas where we can improve. It is a critical tool for making informed decisions to enhance the application's functionality and user interface.
-
-To fill out this form, please make sure you have the necessary information and consent to provide feedback. This form is not meant to be a substitute for other feedback channels, such as support tickets or phone calls.
-
-Please note that some fields are required and some are optional. You can skip optional fields, but providing more information will help us better understand your needs and concerns.
-
-Before starting, make sure you have the following information:
-
-* The date when you provided feedback.
-* Your full name.
-* Email address (not required).
-* The name of the application you are reviewing.
-* Information about your role in the organization.
-* Your overall satisfaction with the application.
-* Your rating for the application's performance, reliability, and loading speed.
-* Your rating for the application's interface design, navigation clarity, and feature completeness.
-* Information about any missing features you would like to see in the application.
-* Any other comments or suggestions.
-
-Please fill out the form according to your experience and knowledge about the application. Thank you for taking the time to provide us with your feedback!
-
-</thinking>
-
 # Application Configuration Survey - Help Guide
 ## Purpose
 This form collects user feedback on their experience with the application, including overall satisfaction, performance, and feature completeness.

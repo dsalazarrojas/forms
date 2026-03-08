@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about individuals attending a gala event. It is meant to be used by guests to register their attendance and provide any necessary details such as their name, contact email, and any comments they might have. This information will be used by the event organizers to better prepare for the event and to follow up with attendees.
-
-Before starting, please note that this form is designed to be completed once per person attending the gala. If you are registering multiple people from the same household, please fill out this form for each individual.
-
-</thinking>
-
 # Gala Attendance Form - Help Guide
 ## Purpose
 The Gala Attendance Form is a registration form designed to collect information from attendees of a gala event.

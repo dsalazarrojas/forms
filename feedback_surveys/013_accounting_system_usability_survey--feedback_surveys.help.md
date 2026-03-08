@@ -1,15 +1,3 @@
-<thinking>
-The form is designed to collect feedback from users about their experience with the accounting system. The survey is intended to gather information on various aspects of the system, including ease of use, performance, satisfaction with features, and overall usability. This form will help identify areas of improvement and potential solutions to address any issues users may have encountered. 
-
-This form is a one-time submission form, meaning users will only be able to submit their feedback once. 
-
-This form will not collect any personal identifiable information, only anonymous feedback from the users. 
-
-The collected feedback will be reviewed internally to identify areas of improvement and will be kept confidential. 
-
-Please note that all fields marked 'required' must be filled in to submit the form.
-</thinking>
-
 # Accounting System Usability Survey - Help Guide
 ## Purpose
 This survey aims to collect feedback from users about their experience with the accounting system. Your responses will help us identify areas for improvement and enhance the system's overall usability.

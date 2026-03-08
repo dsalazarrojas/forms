@@ -1,7 +1,3 @@
-<thinking>
-This form is a part of a larger system for managing event registrations and video footage use authorization. The form is designed to collect information from users to determine the usage rights for specific video footage. It is not intended to collect any sensitive or personal information. Before proceeding, ensure that you are not duplicating an existing registration. If you're unsure, please contact the event organizer or the person who created this form.
-</thinking>
-
 # Video Footage Use Authorization Form - Help Guide
 ## Purpose
 This form is for video footage use authorization. Fill out the form with the requested information, and you will be granted authorization to use the specified video footage for your event.

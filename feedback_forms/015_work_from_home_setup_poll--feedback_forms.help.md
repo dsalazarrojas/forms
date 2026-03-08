@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Work From Home Setup Poll - Help Guide
 ## Purpose
 The Work From Home Setup Poll is a form designed to gather feedback on the effectiveness of the current work-from-home setup. This feedback will help us understand how to improve the work-from-home experience for employees.

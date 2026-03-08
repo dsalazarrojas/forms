@@ -1,5 +1,3 @@
-<thinking>Before writing the user-facing help guide, let's break down the form purpose and fields. The form is for nominating a principal for an award, and it seems to be a comprehensive form that gathers information about the principal, the nominator, and the nomination reason.</thinking>
-
 # Principal Leadership Award Nomination Form - Help Guide
 ## Purpose
 The Principal Leadership Award Nomination Form is used to nominate a principal for an award. This form gathers information about the nominee, including their school, title, department, and position, as well as the nominator's contact information and the reason for the nomination.

@@ -1,9 +1,3 @@
-<thinking>
-We want to ensure that the "Organic Social Media Feedback" form is completed accurately and efficiently. To prevent duplication, this form will only be available for completion once a week on designated times. Please note that the form is used for capturing organic social media feedback from customers and clients regarding their experience with our company's social media presence.
-
-If you are not familiar with our products or services, please do not complete this form. Your feedback will help us improve our social media presence, and we will use it to make data-driven decisions.
-</thinking>
-
 # Organic Social Media Feedback - Help Guide
 ## Purpose
 The "Organic Social Media Feedback" form is used to gather customer feedback on their experience with our company's social media presence. This form will help us understand what we are doing well and where we can improve to better serve our customers.

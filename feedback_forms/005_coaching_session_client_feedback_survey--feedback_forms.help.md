@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from coaching clients about their experiences in a coaching session. This feedback will help coaches improve their skills, identify areas of improvement, and provide a better experience for future clients. 
-
-To ensure consistency and accuracy in the feedback, we want to confirm that the client is providing their genuine feedback for a specific coaching session. Therefore, we will be checking to prevent duplication and ensure the client has attended a coaching session before submitting their feedback.
-
-We will not be using this form for commercial purposes, and any feedback collected will be kept confidential. The data collected will be used to improve the coaching services and make them more effective for clients in the future.
-
-</thinking>
-
 # Coaching Session Client Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from coaching clients about their experiences in a coaching session. The collected feedback will help coaches refine their skills, identify areas for improvement, and provide a better experience for future clients.

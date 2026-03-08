@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for event organizers to provide detailed information about an event, including venue details, event description, event schedule, and other relevant details. This form aims to collect comprehensive and accurate information to facilitate efficient event planning and management. Before proceeding, please ensure that you have all the necessary information and files ready. This form should only be filled out once per event.
-</thinking>
 # Event Layout Upload Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about an event, including venue details, event description, event schedule, and other relevant details to facilitate efficient event planning and management.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from students who have met with an advisor. The purpose of the form is to gather information on the student's experience with the advisor, including their satisfaction with the advising session, the clarity of the advice provided, and any improvements suggested. This feedback will help the advisors to improve their skills and provide better service to future students.
-
-The form should be completed by the student who met with the advisor. If the student has already completed this form in the past, they may be able to skip to the relevant section or exit the form early, but they should still be able to access and complete the form if needed.
-
-</thinking>
-
 # Application Advisor Feedback Form - Help Guide
 ## Purpose
 This form collects feedback from students about their experience with an advisor. It helps us to understand how the advisor performed and identify areas for improvement.

@@ -1,8 +1,3 @@
-<thinking>
-This form was created using AI and is based on public survey topic metadata. It is an original adaptation and does not copy or use proprietary content from any form platform. It is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it, as long as you give credit. This form aims to assess awareness and understanding of risk communication strategies, communication channels, risk factors, and other related topics. The purpose of this form is to gather feedback from participants on their perceptions of risk communication efforts, channels, and understanding of risk factors. It is essential to complete this form honestly and accurately to ensure that the results are reliable and useful.
-
-</thinking>
-
 # Risk Communication Awareness Survey - Help Guide
 ## Purpose
 This survey aims to assess your awareness and understanding of risk communication strategies, communication channels, risk factors, and other related topics. Your honest feedback is crucial in helping us improve our risk communication efforts.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly confirm the purpose of this form. The B2B Portal User Feedback form is designed to collect feedback and insights from businesses that use the B2B portal. This form aims to gather information on how often users interact with the portal, their overall satisfaction with the portal, and their opinions on its features, support, and areas for improvement. The form also includes fields for users to suggest new features and provide specific suggestions for improvement.</thinking>
-
 # B2B Portal User Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights from businesses that use the B2B portal. Your input will help us understand how we can improve the portal to better meet your needs.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and information about a research study. The form is designed to be used by researchers to evaluate the effectiveness of a study and gather information about its participants. It's likely intended for use in an academic or research setting to document and analyze study results.
-
-This form appears to be a straightforward form for collecting general information and feedback, without any complex conditional logic or business rules that would suggest a more specific purpose or process. As such, it's possible that this form is intended for use as a basic feedback or survey form, rather than as a form with specific business logic.
-</thinking>
-
 # Research Study Evaluation Form - Help Guide
 ## Purpose
 The Research Study Evaluation Form is a tool for researchers to collect and document feedback and information about a research study. This form can be used to gather insights about the study's participants and assess the effectiveness of the study.

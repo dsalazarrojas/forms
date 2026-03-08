@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information from participants for the Easter Drive Thru event. The purpose of this form is to collect contact and event participation details from each participant. The form is likely used to track the number of participants and their corresponding activities. It's assumed that the event organizers will review the submitted data to ensure accurate headcount and plan event logistics.
-
-Please make sure to review the provided information carefully and fill out the form accurately. You can save your progress and come back later if you need to. The form is designed to be easy to fill out, but if you encounter any issues or have questions, feel free to contact us.
-
-This form is intended for individual participants to fill out, not for event organizers or staff members. If you're an event organizer, you're not intended to use this form. Please note that the data will be reviewed by event staff, and participants will be contacted for any further information if required.
-</thinking>
-
 # Easter Drive Thru Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from participants for the Easter Drive Thru event, which includes participant details and their planned activities during the event.

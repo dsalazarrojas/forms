@@ -1,7 +1,3 @@
-<thinking>
-The form "feedback_on_transition_process" is designed to collect feedback from users about their experience with the transition process. This form is meant to be used to gather information about the process's effectiveness, usability, and any issues or suggestions the users may have. It's essential to fill out this form carefully to provide valuable insights for improvement. Please note that if you've already provided feedback about this process in the past, it's likely a duplicate entry. In that case, you can disregard this form, and your previous feedback will be considered.
-</thinking>
-
 # feedback_on_transition_process - Help Guide
 ## Purpose
 The "feedback_on_transition_process" form is designed to collect feedback from users about their experience with the transition process. This form helps us understand how to improve the process and make it more user-friendly.

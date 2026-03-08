@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the effectiveness of the Pomodoro technique, a time management method that involves working in focused, 25-minute increments, typically separated by 5-minute breaks. This form will help us understand how participants apply this technique in their work and daily lives. By completing this form, you will be providing valuable insights that will help us improve our understanding of the Pomodoro technique and its applications.
-</thinking>
-
 # pomodoro_technique_survey - Help Guide
 ## Purpose
 This form is designed to gather information about the effectiveness of the Pomodoro technique in your work and daily life.

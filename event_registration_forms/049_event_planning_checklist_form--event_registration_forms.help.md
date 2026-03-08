@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for event planning and execution. It is meant to be completed by event organizers or planners to ensure that all necessary tasks and considerations are covered. The form should not be used for non-event planning purposes, as it is not suitable for other types of projects or tasks. 
-</thinking>
-
 # event-planning-checklist-form - Help Guide
 ## Purpose
 This form is used to collect essential information for planning and executing events. It helps ensure that all necessary tasks and considerations are covered, making it easier to manage event logistics, budget, and communication.

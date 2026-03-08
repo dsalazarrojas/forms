@@ -1,12 +1,3 @@
-<thinking>
-The form "maintenance_feedback_response_request_form" is designed to collect feedback and responses for maintenance-related activities. This form is intended for use by facility managers and other relevant personnel to report and track progress on maintenance work. 
-
-To ensure the form's purpose is met, responses are usually submitted by authorized users, such as facility managers and maintenance staff. This form is not intended for use by general users without the necessary permissions. 
-
-Before filling out the form, users should review the fields and their descriptions below to avoid duplication of effort.
-
-</thinking>
-
 # maintenance_feedback_response_request_form - Help Guide
 ## Purpose
 The "maintenance_feedback_response_request_form" form is used to collect feedback and responses for maintenance-related activities from facility managers and other authorized personnel. It helps in tracking and reporting progress on maintenance work.

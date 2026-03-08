@@ -1,13 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the Presenter Feedback Survey form. This guide will provide clear instructions on how to complete the form, explain each field's purpose, and offer tips for a successful submission.
-
-The Presenter Feedback Survey is designed to collect feedback from presenters on their experience with our organization. The form is composed of 24 questions divided into two main sections: "Presenter Information" and "Seminar Details".
-
-The purpose of this form is to help us improve our presenter services and provide better experiences for our clients. We kindly request that you fill out this form completely and accurately, as your feedback is valuable to us.
-
-Before starting, please ensure you have all necessary information ready, such as your company, job title, and seminar date. If you're unsure about any question, please don't hesitate to ask.
-
-Please note that this form is not mandatory, but your input will help us improve our services. If you have any questions or concerns, please don't hesitate to reach out to us.</thinking>
-
 # Presenter Feedback Survey - Help Guide
 ## Purpose
 The Presenter Feedback Survey is designed to collect feedback from presenters on their experience with our organization. Your input will help us improve our presenter services and provide better experiences for our clients.

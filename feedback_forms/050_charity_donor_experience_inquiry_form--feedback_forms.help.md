@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from donors about their experience with the organization. The purpose of this form is to understand how the donor feels about the donation process, from making the donation to receiving communication and acknowledgement. The form is designed to be filled out by donors after they have made a donation to the organization. The form should only be filled out once by each donor, to avoid duplication of effort and unnecessary communication with the same donor.
-</thinking>
-
 # Charity Donor Experience Inquiry Form - Help Guide
 ## Purpose
 The Charity Donor Experience Inquiry Form is used to gather feedback from donors about their experience with our organization. This feedback is crucial in helping us improve our services and communication with donors.

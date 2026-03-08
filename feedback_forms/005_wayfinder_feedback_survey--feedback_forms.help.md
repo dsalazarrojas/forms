@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wayfinder Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on their navigation experience with Wayfinder. The purpose of this survey is to help us understand how well we've met your navigation needs, and to gather suggestions for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Faith Based Youth Engagement Survey - Help Guide
 ## Purpose
 This form is designed to collect information from youth who participate in faith-based events or activities. The survey will gather data on demographics, event details, and engagement metrics. This data will help faith-based organizations better understand and serve their youth populations.

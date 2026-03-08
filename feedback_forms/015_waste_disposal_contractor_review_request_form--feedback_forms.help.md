@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from facilities on their experience with waste disposal contractors. The purpose of this form is to gather information on the quality of service provided by the contractor, including their communication, reliability, and overall rating. This feedback will help us better understand the strengths and weaknesses of each contractor and identify areas for improvement.
-
-Before filling out this form, please make sure that you are not submitting duplicate reviews for the same contractor. Please review the list of submitted reviews to see if someone has already submitted a review for the contractor you are trying to submit.
-
-This form is designed to be completed by facilities who have had an experience with a waste disposal contractor.
-</thinking>
-
 # Waste Disposal Contractor Review Request Form - Help Guide
 ## Purpose
 This form is used to collect feedback from facilities on their experience with waste disposal contractors.

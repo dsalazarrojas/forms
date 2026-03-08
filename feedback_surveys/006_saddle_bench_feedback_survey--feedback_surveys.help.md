@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Saddle Bench Feedback Survey - Help Guide
 ## Purpose
 The Saddle Bench Feedback Survey is a tool used to gather feedback from users on their experiences with the saddle bench, a crucial piece of equipment in various facilities. This survey aims to collect information on user satisfaction, comfort, and preferences, which will help us improve the saddle bench experience.

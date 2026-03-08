@@ -1,7 +1,3 @@
-<thinking> This form is designed to collect customer feedback and satisfaction ratings on their experience with the company. It is meant to be completed by customers who have recently visited or interacted with the company. The form has multiple pages, each with a different set of questions that cater to various aspects of the customer's experience. 
-
-The form collects information on the customer's relationship with the company, the main purpose of their visit, their rating of the company's product quality, and other details that help the company understand their customers' needs and improve services. Some questions are required, while others are optional and provide more detailed information. The form also offers the customer an opportunity to provide comments and suggestions, and to be entered in the company's survey pool for future research. Finally, the form provides contact information for customers who want to get in contact with the company.</thinking>
-
 # Customer Satisfaction - Help Guide
 ## Purpose
 The Customer Satisfaction form is designed to collect feedback and ratings from customers who have interacted with the company. This information will help us understand your experience and improve our services.

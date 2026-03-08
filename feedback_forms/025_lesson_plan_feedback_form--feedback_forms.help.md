@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect feedback from users about a specific lesson plan. It is meant to be completed by students or instructors who have experienced the lesson plan. The form is divided into five questions that ask about the structure and quality of the lesson plan, as well as the teacher's performance and the materials used. The form is optional, and users can choose to answer any or all of the questions, depending on their feedback. 
 
 # Lesson Plan Feedback Form - Help Guide

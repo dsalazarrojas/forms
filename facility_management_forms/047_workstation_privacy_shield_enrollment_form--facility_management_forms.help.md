@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to manage workstations, specifically for privacy shield enrollment. It's crucial to understand the purpose of this form before proceeding. The form is used to track and record information about workstations, including their status, location, and employee association. This information is vital for ensuring the privacy and security of sensitive data stored on or accessed from these workstations. Please confirm that you are aware of the form's purpose and understand its importance.
-</thinking>
-
 # workstation_privacy_shield_enrollment_form - Help Guide
 ## Purpose
 The workstation privacy shield enrollment form is used to record and track information about workstations, including their status, location, and employee association. This form ensures the privacy and security of sensitive data stored on or accessed from these workstations.

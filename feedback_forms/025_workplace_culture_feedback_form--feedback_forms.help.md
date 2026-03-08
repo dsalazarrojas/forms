@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather feedback from employees on their satisfaction with the workplace culture and their suggestions for improvement. Please fill out the form only once, and ensure that your feedback is honest and constructive. If you've already submitted feedback, do not resubmit. The purpose of this form is to help us identify areas for improvement and create a more positive and productive work environment. Please take a few minutes to complete this form and provide thoughtful feedback...</thinking>
-
 # Workplace Culture Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on their satisfaction with the workplace culture and their suggestions for improvement. The data collected will help us create a more positive and productive work environment.

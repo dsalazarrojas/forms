@@ -1,7 +1,3 @@
-<thinking>...
-To create an effective user-facing help guide for this form, we need to consider the purpose of the form, how to complete it, and what each field means. The Fraternity Message Submission form is likely used for users to submit messages and feedback about a fraternity organization. However, we don't know for certain without further context.
-</thinking>
-
 # Fraternity Message Submission - Help Guide
 ## Purpose
 This form is a message submission tool for the fraternity organization, allowing you to provide feedback, ask questions, or share concerns with the fraternity. Please use this form to submit your thoughts and opinions.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and process of filling out the "Traffic Safety Campaign Sponsorship Form". The form's purpose is to collect information from potential sponsors for a traffic safety campaign, and it's essential to ensure that the form is completed correctly to avoid duplication and misallocation of resources. This guide will walk through the fields in the form and provide explanations on how to complete each one accurately.
-</thinking>
-
 # Traffic Safety Campaign Sponsorship Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential sponsors for the Traffic Safety Campaign. This includes road safety initiatives, contact details, and sponsorship specifics.

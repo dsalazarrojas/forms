@@ -1,11 +1,3 @@
-<thinking>
-To create this form, we're considering the following:
-- **Form title**: "new_design_feedback_form" - a feedback form for capturing user feedback on new designs.
-- **Form purpose**: This form is intended to collect feedback on new designs, allowing users to provide their opinions on different aspects of the design, such as quality, completeness, and assigned personnel.
-- **Form fields**: The form consists of 10 fields, including text, select multiple, select one, email, phone number, date, time, note, and select one fields.
-- **Field explanations**: Each field should be clearly explained to ensure users understand what information is required and how to provide it.
-</thinking>
-
 # new_design_feedback_form - Help Guide
 ## Purpose
 The new_design_feedback_form is a tool for collecting feedback on new designs. It allows users to provide their opinions on different aspects of the design, such as quality, completeness, and assigned personnel.

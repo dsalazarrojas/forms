@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is intended to gather feedback from users after their first date. The purpose of this form is to collect information about the user's experience, their overall satisfaction, and whether they would recommend the date to others. The form is not intended to be filled out by users who are not on a first date. Please ensure that you have actually been on a first date before filling out this form.</thinking>
 
 # First Date Feedback Form - Help Guide

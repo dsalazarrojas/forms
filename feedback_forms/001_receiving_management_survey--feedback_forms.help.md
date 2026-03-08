@@ -1,5 +1,3 @@
-<thinking>...The Receiving Management Survey form is designed to collect feedback and information from end users about their receiving management experiences. This form will gather insights on the current state of receiving management practices and help identify areas for improvement within the company's receiving management processes. Before completing this form, please make sure you haven't already submitted feedback on the same topic. Your input will help shape the future of receiving management within the organization. Please answer honestly and thoroughly, and don't hesitate to provide additional comments or suggestions if you have any. Thank you for participating in this survey!...</thinking>
-
 # Receiving Management Survey - Help Guide
 
 ## Purpose

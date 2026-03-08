@@ -1,7 +1,3 @@
-<thinking>
-This form is a Social Work Introduction Survey, designed to gather information from individuals to better understand their social work needs and circumstances. Before proceeding, ensure that you have not completed this form before and that you are providing accurate and honest information. Please answer the questions carefully and thoroughly. The form is divided into several sections, each with its own set of questions. You will be asked to provide personal information, contact details, information about services you need, social support, mental health, relationship status, income, employment status, and medical history. It is essential to answer all questions honestly and accurately, as this information will help social workers understand your situation and provide the necessary support.
-</thinking>
-
 # Social Work Introduction Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your personal, social, and medical history to help social workers better understand your needs and circumstances. It will be used to assess your eligibility for certain services and programs.

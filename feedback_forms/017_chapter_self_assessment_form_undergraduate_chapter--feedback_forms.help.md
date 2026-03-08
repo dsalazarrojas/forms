@@ -1,10 +1,3 @@
-<thinking>
-This form is used to help undergraduate chapters of a certain organization self-assess their practices and member support. The form asks for feedback on various aspects of the chapter, such as event participation rate, mentorship programs, and financial stability. This assessment will help chapters identify areas of improvement and provide suggestions for future growth.
-
-The form is designed to be completed by chapter leaders or members who are familiar with the chapter's activities and performance. It's essential to complete the form truthfully, as it will help the organization understand the strengths and weaknesses of each chapter. If you're unsure about any question or option, you can use the "Tips" section below for guidance.
-
-</thinking>
-
 # Chapter Self Assessment Form Undergraduate Chapter - Help Guide
 ## Purpose
 This form is used to collect feedback from undergraduate chapters on their practices and member support. Your input will help us understand the strengths and weaknesses of each chapter and provide suggestions for future growth.

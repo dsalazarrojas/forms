@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering interest in a yoga class. It is likely to be used by someone at the yoga studio to gather information from potential students about their interests and preferences. The form may be used to tailor the yoga class to the individual's needs and interests. The form fields and options were likely chosen to be as inclusive and flexible as possible to accommodate different types of students and their needs.
-</thinking>
-
 # yoga_class_inquiry_form - Help Guide
 ## Purpose
 This form is designed to gather information from potential students about their interests and preferences for a yoga class. It allows you to register interest in a class and provide your contact information.

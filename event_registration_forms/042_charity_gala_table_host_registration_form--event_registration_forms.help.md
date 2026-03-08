@@ -1,13 +1,3 @@
-<thinking>
-
-The Charity Gala Table Host Registration Form is designed to collect information from hosts who will be joining a charity gala. It is intended to be completed by each host before the event. The form is used to determine the host's table assignment and any special requests or needs they may have.
-
-The purpose of this form is to gather essential information from the hosts to ensure a successful and enjoyable experience for everyone attending the charity gala. It will be reviewed by the event organizers to assign tables, track guest attendance, and provide any necessary assistance or accommodations.
-
-Before completing this form, please ensure that you are registering as a host for the correct gala event and have not already done so. If you have any questions or concerns, please contact the event organizers.
-
-</thinking>
-
 # Charity Gala Table Host Registration Form - Help Guide
 ## Purpose
 The Charity Gala Table Host Registration Form is used to collect information from hosts and their guests attending the charity gala. It is essential to complete the form accurately to ensure a smooth and enjoyable experience for everyone.

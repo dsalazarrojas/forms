@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Hypnotherapy Session Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients after a hypnotherapy session. It aims to gather information about the client's experience, satisfaction, and any additional comments they may have.

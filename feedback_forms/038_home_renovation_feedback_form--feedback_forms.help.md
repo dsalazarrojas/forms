@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback from customers about their home renovation projects. The purpose of this form is to gather information about the project details, contact information, and any comments or feedback that the customer may have. The information collected through this form will be used to improve our services and provide better support to our customers. 
-Please note that this form is designed to be a one-time form, and we will not use this form to market or sell your information. We will not contact you again after you submit this form if you do not want us to.
-</thinking>
-
 # Home Renovation Feedback Form - Help Guide
 
 ## Purpose

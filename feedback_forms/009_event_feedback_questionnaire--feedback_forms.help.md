@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Event Feedback Questionnaire is to collect feedback from event attendees about their experience. This form is intended to be filled out by event attendees to provide their honest opinions and suggestions about an event they participated in. The form is designed to be simple and straightforward, collecting information about the event name, attendee name, feedback, event date, event time, start time, and end time, as well as the event location.
-</thinking>
-
 # Event Feedback Questionnaire - Help Guide
 ## Purpose
 The Event Feedback Questionnaire is a tool for collecting feedback from event attendees. Its main goal is to gather information about the event experience.

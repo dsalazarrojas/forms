@@ -1,7 +1,3 @@
-<thinking>
-The Local Governance Feedback Form is designed to collect feedback from the public on various aspects of local governance. This form is intended to be used by local government officials, community leaders, or any other stakeholders to gather information on how to improve the efficiency, transparency, and effectiveness of local governance. It is crucial to note that this form will be used to collect anonymous feedback, so users' responses will not be linked to their personal identity. 
-</thinking>
-
 # Local Governance Feedback Form - Help Guide
 ## Purpose
 

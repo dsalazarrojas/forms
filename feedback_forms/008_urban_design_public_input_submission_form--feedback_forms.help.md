@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting public feedback on urban design ideas. It's intended to help users submit titles, provide their contact information, ask questions, describe their suggestions, mention their location, and specify how they want to proceed. To avoid duplication of submitted feedback, this guide will provide clear explanations of each field, which will help ensure that the user has a smooth and efficient experience.
-</thinking>
-
 # Urban Design Public Input Submission Form - Help Guide
 
 ## Purpose

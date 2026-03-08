@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with a real estate agent. The goal is to help the agent improve their service quality and customer satisfaction.
-We want to ensure that this form is used only once per customer, so we encourage you to submit feedback only for your most recent experience.
-Please note that this form has been created based on public survey topic metadata and is not affiliated with any specific form platform.
-</thinking>
-
 # Agent Feedback Form - Help Guide
 ## Purpose
 The Agent Feedback Form is designed to collect feedback from customers about their experience with a real estate agent. This form helps the agent improve their service quality and build stronger relationships with clients.

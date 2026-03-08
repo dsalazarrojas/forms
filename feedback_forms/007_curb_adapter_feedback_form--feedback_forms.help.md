@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about their experiences with the Curb Adapter product. The form is not to be filled out for every user interaction, but rather for users who are providing feedback on their overall satisfaction and experiences with the product. This form can be completed by a customer support team to get valuable insights on the quality and usability of the Curb Adapter product. There should be no duplication of efforts, as only one response from each user is expected.
-</thinking>
-
 # Curb Adapter Feedback Form - Help Guide
 ## Purpose
 The Curb Adapter Feedback Form is a tool for customers to provide feedback on their overall satisfaction and experiences with the Curb Adapter product.

@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Signature Collection Challenge" form, we should first understand the purpose and requirements of the form. Based on the provided YAML, the form appears to be designed to collect information related to events, specifically signature collection challenges. The form may be used to register events, collect signatures, and gather contact information. However, the exact purpose and requirements are not explicitly stated in the YAML, so we'll need to make some inferences based on the field types and labels.
-
-Before proceeding, let's review the form structure and identify any potential issues or areas for improvement. The form has 9 fields, including a text field for "Event Registration Forms", a select multiple field "signature_collection_challenge", and fields for event name, date, time, event description, nonprofit name, contact email, and contact phone. The required fields are not explicitly specified, but based on the field types, it's likely that the "Event Registration Forms" and "contact_email" fields are required.
-
-To avoid duplication of effort, we should ensure that the form is not being used for multiple purposes. If the form is intended to be used for multiple events or signature collection challenges, we may need to modify the form to accommodate these requirements.
-
-</thinking>
-
 # Signature Collection Challenge - Help Guide
 ## Purpose
 The "Signature Collection Challenge" form is designed to collect information related to events, specifically signature collection challenges. This form allows users to register events and gather contact information for follow-up purposes.

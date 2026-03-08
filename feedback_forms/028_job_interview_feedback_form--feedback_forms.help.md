@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used by hiring managers and recruiters to gather feedback from interviewers on their interactions with candidates. This feedback is used to improve the overall candidate experience and identify areas for growth for the interviewers. To ensure the quality of feedback, please fill out this form in its entirety and provide honest, constructive comments. Please note that this form should not be used for duplicate entries, as each entry will be reviewed and considered individually.
 
 # Job Interview Feedback Form - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...We're collecting feedback from players on our Tabletop Game Feedback Form to improve the game experience, game content, and overall user satisfaction. This form helps us identify areas of improvement and make informed decisions to enhance our game offerings. Please note that feedback will be reviewed regularly and used to make changes as needed. To avoid duplicated submissions, please do not fill out this form if you've already done so previously...</thinking>
-
 # Tabletop Game Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect your feedback and suggestions on our Tabletop Game, helping us refine and improve the game experience, content, and overall user satisfaction.

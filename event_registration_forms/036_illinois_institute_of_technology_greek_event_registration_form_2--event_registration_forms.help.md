@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Illinois Institute of Technology Greek Event Registration Form 2 - Help Guide
 ## Purpose
 This form is designed for registering events within the Illinois Institute of Technology Greek community. It captures essential details about the event, including the event name, date, time, venue, and host information. Additionally, it allows users to specify their RSVP status and preferences, such as food preferences and any special requests. The form also includes fields for additional notes and event importance flags.

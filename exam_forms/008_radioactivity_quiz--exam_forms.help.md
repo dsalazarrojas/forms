@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to educate users about the basics of radioactivity, including radioactive decay, nuclear reactions, half-life, types of radiation, radiation levels, and shielding materials. This form is designed to be a comprehensive and concise way for users to demonstrate their knowledge of these topics. To ensure accuracy, please answer each question truthfully and carefully.
-
-Before proceeding, please note that this form does not collect any personally identifiable information (PII) and is intended solely for educational purposes.
-
-To avoid any confusion, we will go through each field in detail below.
-
-</thinking>
-
 # Radioactivity Quiz - Help Guide
 ## Purpose
 The purpose of this form is to educate users about the basics of radioactivity, including radioactive decay, nuclear reactions, half-life, types of radiation, radiation levels, and shielding materials.

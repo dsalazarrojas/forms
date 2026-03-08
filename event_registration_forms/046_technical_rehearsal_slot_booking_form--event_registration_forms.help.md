@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for technical rehearsal slot bookings. It includes fields for event details, technical requirements, and contact information. The form is likely used by event organizers or technical teams to manage and coordinate technical rehearsals.
-</thinking>
-
 # Technical Rehearsal Slot Booking Form - Help Guide
 
 ## Purpose

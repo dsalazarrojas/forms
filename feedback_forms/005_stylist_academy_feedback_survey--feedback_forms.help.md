@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users on the Stylist Academy, allowing the academy to gauge user satisfaction and gather recommendations for improvement. It is likely used to monitor user engagement and identify areas of the program that need refinement. The feedback collected through this form will help the Stylist Academy to make data-driven decisions to enhance user experience.
-
-Before proceeding with this form, please ensure that you haven't filled it out previously, as this would lead to duplicate feedback.
-
-</thinking>
-
 # Stylist Academy Feedback Survey - Help Guide
 
 ## Purpose

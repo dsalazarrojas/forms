@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Of Concern Form - Help Guide
 ## Purpose
 The Student of Concern Form is used to document incidents or concerns involving students that require administrative support. This form captures relevant information about the student, incident, and support provided. It helps track the progress and resolution of the incident.

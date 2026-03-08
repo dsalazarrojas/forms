@@ -1,7 +1,3 @@
-<thinking>
-We should first consider the purpose of this form and whether it's relevant to the current project goals. This form is designed to collect feedback from attendees of the Community Ownership Webinar, which suggests that the project team wants to gauge the effectiveness of the webinar and gather input from attendees. To avoid duplication of effort, we should ensure that this form is not intended to replace or overlap with any other forms or channels for gathering feedback. We should also consider whether the form is user-friendly and accessible for attendees to complete. Additionally, it's essential to review the fields and their labels to ensure they accurately represent the purpose and objectives of the form.
-</thinking>
-
 # Community Ownership Webinar Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of the Community Ownership Webinar to improve future webinars and better serve the community.

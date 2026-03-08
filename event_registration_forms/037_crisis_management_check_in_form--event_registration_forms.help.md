@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather crucial information for crisis management. It is likely used to report incidents that require immediate attention from a team or organization. The form might be used by employees, teams, or departments within an organization to document and categorize incidents, ensuring that necessary steps are taken to mitigate the crisis and prevent future occurrences.
-
-This form should only be used for incidents that have already occurred or are currently occurring. If the form is filled out for a hypothetical or future event, the information may not be used as it is intended.
-
-Please make sure to complete this form carefully and accurately, as the information provided will help the crisis management team respond to the situation effectively.
-
-</thinking>
-
 # crisis_management_check_in_form - Help Guide
 ## Purpose
 The crisis management check-in form is used to gather information about incidents that require attention from a team or organization. This form helps to document and categorize incidents, ensuring that necessary steps are taken to mitigate the crisis and prevent future occurrences.

@@ -1,15 +1,3 @@
-<thinking>
-Form purpose and explanation: 
-This form is for participants to register for a tournament in the Handmade category. The purpose of this form is to collect information from participants about their entry, such as category they are competing in, and other details about their entry. The form is designed to be simple and easy to use, with clear labels and instructions. 
-
-Form relevance: 
-This form is relevant for handmade tournament organizers and participants who need to register for a competition. It is not relevant for other types of events or forms.
-
-Form non-duplication: 
-This form does not duplicate any existing forms in the marketplace. It is an original adaptation created by an AI using only public survey topic metadata. 
-
-</thinking>
-
 # needlecraft_tournament_entry_form - Help Guide
 ## Purpose
 This form is designed for participants to register for a handmade tournament in a competition.

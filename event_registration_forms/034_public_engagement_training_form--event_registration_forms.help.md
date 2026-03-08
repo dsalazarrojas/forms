@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from participants about their public engagement training needs and preferences. This form is intended to help the training provider understand the participant's background, interests, and availability for training sessions. The form collects details such as participant details, training session preferences, date and time of interest, contact information (email and phone number), and other relevant details about the event. This form is used to facilitate the provision of relevant and targeted training to the participant.
-
-To confirm that this form is relevant for the task, we check the "training_session_details" field, which is a crucial component of the form. This field is required to be filled in for the form to be considered valid. If the training session details field is empty, we will assume that this form is not relevant for the task and guide the user to fill it in.
-
-Please note that this form is designed to be simple and easy to fill out. Each field is clearly labeled and has a specific purpose. The form is also designed to be completed by a single person, making it suitable for individual participant registration.
-
-After ensuring the form's relevance and purpose, we move on to creating the user-facing help guide.
-
-</thinking>
-
 # public_engagement_training_form - Help Guide
 ## Purpose
 

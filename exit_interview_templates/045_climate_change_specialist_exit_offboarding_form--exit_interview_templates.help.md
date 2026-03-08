@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's confirm that this form is intended for employees who are leaving the organization, and it's used to gather feedback and insights on their experience, reasons for departure, and suggestions for improvement. This form will help the organization understand the reasons behind the employee's departure and identify areas for growth and development. It's essential to complete this form carefully and honestly, as it will contribute to making the organization a better place for future employees. Please make sure to fill in all required fields. If you're unsure about a particular question, you can always ask for clarification. We value your feedback and appreciate your time.</thinking>
-
 # Climate Change Specialist Exit Offboarding Form - Help Guide
 ## Purpose
 This form is intended to gather feedback and insights from departing employees on their experience, reasons for leaving, and suggestions for improvement. It will help the organization understand the reasons behind your departure and identify areas for growth and development.

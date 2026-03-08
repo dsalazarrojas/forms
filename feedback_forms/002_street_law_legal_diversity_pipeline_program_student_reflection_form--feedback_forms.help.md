@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The following is a help guide for the street_law_legal_diversity_pipeline_program_student_reflection_form form:
 
 # street_law_legal_diversity_pipeline_program_student_reflection_form - Help Guide

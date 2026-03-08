@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to reserve a table in a restaurant. The form is used to collect details like the user's name, contact information, preferred date and time, and other relevant details that help the restaurant staff manage reservations efficiently. Before proceeding, please ensure that you are not filling out this form for a duplicate reservation or an event that has already passed, as this can lead to confusion and wasted time for the restaurant staff.
-</thinking>
-
 # Restaurant Reservation Portal Access Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from users to reserve a table in a restaurant.

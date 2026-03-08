@@ -1,7 +1,3 @@
-<thinking>
-We need to confirm that this form is for assessing a farm's sustainability and that it is not a duplicated effort. The form appears to be a straightforward tool for collecting information on a farm's practices, progress, and contact details. The purpose of this form is likely to identify areas of improvement for sustainable farming practices and provide guidance on best practices for the farm. It is essential to ensure that this form does not overlap with other initiatives or surveys that already address similar topics.
-</thinking>
-
 # Farm Sustainability Assessment - Help Guide
 
 ## Purpose

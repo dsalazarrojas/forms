@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from management on the status of submissions and attachments. It is intended for use by managers and team leads to report on the progress of their submissions. Please ensure that you are filling out this form only once for each submission, and that you have read and understood the instructions below.
-</thinking>
-
 # Management Communication Feedback Form - Help Guide
 ## Purpose
 The Management Communication Feedback Form is used to provide updates on the status of submissions and attachments from managers and team leads. This form helps to track the progress of submissions, including their submission status and attachment status.

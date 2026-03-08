@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cultural_festival_performance_slot_request_form - Help Guide
 
 ## Purpose

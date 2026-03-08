@@ -1,7 +1,3 @@
-<thinking>
-To create an internal feedback loop to avoid duplication, please check if this form has been completed recently. If a passenger has already submitted feedback for the same route and travel date, it will not be possible to submit again. Please ensure that you are providing unique feedback for each travel date.
-</thinking>
-
 # Passenger Service Feedback Request Form - Help Guide
 ## Purpose
 The Passenger Service Feedback Request Form is a tool used to gather feedback from passengers about their recent travel experience. This form helps us to identify areas of improvement and ensure that our service meets your expectations.

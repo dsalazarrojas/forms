@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "late_retake_exam_form" form. This form is used to handle retake exams, which means that students can retake exams they have previously failed or not completed. The form's purpose is to gather information about the student's reason for retaking the exam and their class schedule. The form is designed to be simple and straightforward, with only a few fields to fill in. We should make sure to clearly explain each field to avoid confusion.
-
-</thinking>
-
 # late_retake_exam_form - Help Guide
 ## Purpose
 This form is used to retake exams that you have previously failed or not completed. Please fill in the form with your reason for retaking the exam and your class schedule.

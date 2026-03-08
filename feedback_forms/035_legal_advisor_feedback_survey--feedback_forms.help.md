@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from Legal Advisors who have interacted with our legal services. The primary goal of this form is to gauge the quality of our legal services and identify areas for improvement. The form should only be filled out by Legal Advisors who have recently interacted with our team. To ensure data quality, this form should only be filled out once by each advisor, and any subsequent submissions should be deleted.
-</thinking>
-
 # Legal Advisor Feedback Survey - Help Guide
 ## Purpose
 The Legal Advisor Feedback Survey is a tool used to collect feedback from Legal Advisors about our legal services. This survey helps us understand your experience and identify areas for improvement.

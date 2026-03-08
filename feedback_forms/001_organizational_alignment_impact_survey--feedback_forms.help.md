@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to measure the impact of the organizational strategy on various aspects of the organization, such as employees, clients, and the community. The form is meant to be completed by organizational leaders and stakeholders to assess the alignment between their strategic goals and the actual progress towards those goals.
-To ensure the form is completed accurately, it's recommended that respondents carefully review the questions and answers before proceeding. This form is a self-assessment tool to help identify areas of strength and weakness in the current strategy implementation.
-Before starting, ensure that you're familiar with the organizational strategy and the current state of its implementation. The form is divided into two main sections: "Feedback Questions" and "Strategy Alignment". Respondents should answer the questions based on their honest assessment of the current situation.
-The form may seem lengthy, but each question is designed to provide valuable insights into the organizational strategy's impact. Please answer each question thoroughly and honestly to gain the most accurate results.
-Please note that the "Email" and "Phone" fields are not required for form submission, they are optional fields for respondents to provide their contact information for follow-up communication.
-</thinking>
-
 # Organizational Alignment Impact Survey - Help Guide
 ## Purpose
 This form is designed to help organizational leaders and stakeholders assess the impact of the organizational strategy on various aspects of the organization, including employees, clients, and the community.

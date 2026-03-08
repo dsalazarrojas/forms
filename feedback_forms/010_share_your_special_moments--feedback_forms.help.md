@@ -1,6 +1,3 @@
-<thinking> 
-This help guide is intended to be a clear and concise resource for users to understand the purpose and completion process of the "Share Your Special Moments" form. This form is designed to collect feedback and special moments from users, allowing them to share their experiences, thoughts, and feelings with others in the organization. The form will help gather feedback from different categories, such as family, friends, colleagues, and public, and will allow users to choose how they want to share their special moments, including through text, photo, video, or audio content. This form is not mandatory, and users are free to share as much or as little as they like.</thinking>
-
 # Share Your Special Moments - Help Guide
 
 ## Purpose

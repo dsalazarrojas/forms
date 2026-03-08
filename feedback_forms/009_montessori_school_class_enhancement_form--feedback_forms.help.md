@@ -1,7 +1,3 @@
-<thinking>
-To provide a clear and concise help guide for the Montessori School Class Enhancement Form, let's first understand the purpose of this form. The form is designed to gather feedback from teachers and staff on the performance of a Montessori class, which can help the school administration to identify areas of improvement and make informed decisions for enhancing the class.
-</thinking>
-
 # Montessori School Class Enhancement Form - Help Guide
 ## Purpose
 The Montessori School Class Enhancement Form is designed to gather feedback from teachers and staff on the performance of a Montessori class. This form will help the school administration to identify areas of improvement and make informed decisions for enhancing the class.

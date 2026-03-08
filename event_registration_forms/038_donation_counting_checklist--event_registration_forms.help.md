@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and record donations, specifically to count and categorize them. The form is likely used by organizations or businesses that receive donations, such as charities or retail stores. It's designed to collect detailed information about each donor, including their contact information, gift card details, and donation amount. This form should not be used for other purposes, such as creating a general contact form or survey.
-</thinking>
-
 # Donation Counting Checklist - Help Guide
 
 ## Purpose

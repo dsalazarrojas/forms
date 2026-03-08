@@ -1,7 +1,3 @@
-<thinking>
-The Wedding Planner Nomination Form is used to collect information from individuals who wish to be considered as a wedding planner. The form is designed to gather essential details about their qualifications, experience, and achievements. The purpose of this form is to help the wedding planning team evaluate potential candidates for a wedding planning role. It's recommended to fill out this form only if you have relevant experience and are interested in being considered as a wedding planner.
-</thinking>
-
 # Wedding Planner Nomination Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from participants in fundraising events. It's used to gather details about each participant, including their name, email, phone number, donation amount, and other relevant information. The form also allows for the collection of event details such as title, start and end dates, and time. The form's purpose is to streamline the registration and donation process for events, making it easier for organizers to track participant information and donations.
-
-The form is designed to be completed by participants, and it's recommended that they fill it out as accurately and completely as possible. This form is not intended for repeated use, so it's best to create a new instance of the form for each new participant.
-
-Before proceeding, please note that this form is a template and may need to be customized for your specific use case.
-
-</thinking>
-
 # Fundraising Event Extension Form - Help Guide
 ## Purpose
 This form is used to collect information from participants in fundraising events.

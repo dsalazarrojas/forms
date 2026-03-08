@@ -1,7 +1,3 @@
-<thinking>
-This form is a quiz on color theory knowledge, designed to assess the participant's understanding of color concepts. The quiz has five questions that test various aspects of color theory, including primary colors, complementary colors, color temperature, and color mixing. The form also includes fields for the participant's name, estimated time taken, self-reported score, and additional feedback. The form is designed to be completed by one person at a time, with each question having a specific type and options. The form requires the participant to answer a mix of multiple-choice and single-choice questions, with some fields being optional. The form's purpose is to collect data on participants' color theory knowledge.
-</thinking>
-
 # Color Theory Knowledge Quiz - Help Guide
 ## Purpose
 

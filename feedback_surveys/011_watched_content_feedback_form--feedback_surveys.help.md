@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Watched Content Feedback Form - Help Guide
 ## Purpose
 The Watched Content Feedback Form is a tool used to collect feedback on content that has been watched. This form helps us understand your thoughts and opinions on the content, allowing us to improve and make it more valuable for you and others in the future.

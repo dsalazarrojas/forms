@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for solo musicians to register themselves for the Mainline Music Festival. The purpose of this form is to collect information about the musician's contact details, musical style, and experience for the festival organizers to review and consider for performance slots. The form is not meant for group applications or non-musical related submissions.
-
-The festival organizers will use this information to review and select solo musicians for the festival. It is recommended that the information provided is accurate and up-to-date to increase the chances of being selected.
-
-Each field in the form is designed to gather specific information that will help the festival organizers assess the applicant's eligibility and suitability for the festival.
-
-</thinking>
-
 # Mainline Music Festival Registration Solo - Help Guide
 ## Purpose
 The Mainline Music Festival Registration Solo form is designed for solo musicians to register themselves for the festival. The festival organizers will review the submitted information to select solo musicians for performance slots.

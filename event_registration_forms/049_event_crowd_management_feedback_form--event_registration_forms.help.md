@@ -1,5 +1,3 @@
-<thinking>As this form is designed to collect feedback from event attendees, organizers, and staff on their experience with event crowd management, its purpose is to gather valuable insights and suggestions for improving future events. This form will help to identify areas of improvement, assess event operations, and make data-driven decisions. It is recommended to ensure that all relevant stakeholders fill out this form to get a complete picture of the event's success and identify potential opportunities for growth. It is not necessary to fill out every field, but it's best to provide as much information as possible.</thinking>
-
 # Event Crowd Management Feedback Form - Help Guide
 ## Purpose
 

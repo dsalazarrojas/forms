@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather feedback from patients after an ethics consultation. It is meant to be used by patients to provide their thoughts, opinions, and feelings about their experience with the service. 
-
-Before proceeding, please ensure that the form is being filled out for the correct purpose and context. If this form has been filled out previously by a patient with the same contact information, the duplicate may be discarded without reviewing its content.
-
-</thinking>
-
 # Ethics Consultation Feedback Form - Help Guide
 ## Purpose
 

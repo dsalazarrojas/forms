@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-We're using these events to learn about what we can do better and what we get right. This form will help us collect feedback on the event. Please make sure your feedback is specific about what happened during the event and what you thought about it. We're also using this form to prevent duplicate comments and feedback, so your input will be reviewed for relevance.
+# We're using these events to learn about what we can do better and what we get right. This form will help us collect feedback on the event. Please make sure your feedback is specific about what happened during the event and what you thought about it. We're also using this form to prevent duplicate comments and feedback, so your input will be reviewed for relevance.
 
 <...thinking>
 

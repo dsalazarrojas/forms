@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "website-management-feedback-form" form, I will first clarify the form's purpose and check for relevance and non-duplication.
-
-The form is designed to gather feedback from users on various aspects of a website. The purpose of this form is to collect information about the user's experience and opinions on the website's management, including their overall performance, usability, and feature preferences.
-
-Upon reviewing the provided YAML, it appears that the form includes several fields to collect feedback on different areas of the website, such as overall performance, usability, and feature categories. The form also allows users to provide free-form text feedback on specific areas, such as usability and feature performance.
-
-To avoid duplication, the form appears to be well-structured, with distinct fields for each area of feedback.
-
-</thinking>
-
 # website-management-feedback-form - Help Guide
 ## Purpose
 The "website-management-feedback-form" is designed to gather feedback from users on various aspects of a website, including overall performance, usability, and feature preferences.

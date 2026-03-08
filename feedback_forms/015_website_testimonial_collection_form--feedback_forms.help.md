@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect testimonials from users about their experiences with our website. This form is not meant to be filled out by users who are already customers of the business, but rather for users who are visiting our site and want to share their feedback. To be eligible to submit a testimonial, a user must provide a valid email address, and a rating of at least 1 star out of 5. This form is only accessible to users who are visiting our website.
-</thinking>
-
 # Website Testimonial Collection Form - Help Guide
 ## Purpose
 This form is used to collect testimonials from users about their experiences with our website. 

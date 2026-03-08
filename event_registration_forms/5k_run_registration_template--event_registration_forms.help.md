@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants for the 5K Run event. It is designed to gather essential details such as name, contact information, and medical alerts for the participant's safety. The form also asks for previous race experience, payment method, and interest in volunteering. It is intended for adults and minors, with additional questions for minors' guardians. The form must be completed in full to ensure accurate and complete records for the event organizers.
-</thinking>
-
 # 5K Run Registration Template - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to be user-facing and should provide a clear understanding of the form's purpose, completion process, and each field's explanation. The form is designed for ordering digital posters and requires users to input specific details for delivery.
-
-Before diving into the form details, it's essential to note that this form is a crucial step in the process of ordering digital posters from a company or service. It's a critical input for the business to receive accurate information and fulfill orders efficiently. To ensure data accuracy and avoid duplication, users should only fill out the form once and with the correct information.
-
-</thinking>
-
 # digital_poster_order_form - Help Guide
 ## Purpose
 This form is designed for customers to order digital posters with specific specifications, delivery details, and instructions. It's used by the business to gather essential information for fulfilling orders accurately and efficiently.

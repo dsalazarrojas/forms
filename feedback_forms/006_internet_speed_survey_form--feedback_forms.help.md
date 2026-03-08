@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a user's internet speed experience, likely for troubleshooting or improvement purposes. The form asks for details about the user's location, internet service provider, and connection speed, as well as the type of router used. The purpose of this form is to gather data to help improve internet services. Please ensure that the form is filled out correctly and accurately. This form should only be filled out once per location, and if this location has already been surveyed, please do not fill out this form again.
-</thinking>
-
 # Internet Speed Survey Form - Help Guide
 ## Purpose
 This form is designed to help us understand your internet speed experience at your location, so we can better serve you and improve our internet services.

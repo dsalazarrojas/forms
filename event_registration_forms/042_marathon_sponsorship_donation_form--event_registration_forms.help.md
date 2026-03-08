@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for users to register for a marathon sponsorship. The form is used to collect information from donors, including their contact details, donation amount, payment method, and payment details. The form also includes fields for category selection and payment gateway selection. The purpose of this form is to collect data from users who are interested in sponsoring the marathon.
-
-The form is designed to be completed by users who want to sponsor the marathon and provide their contact details, donation amount, and payment information. The form is not intended for users who are registering for the marathon as participants or volunteers.
-
-Please ensure that you have read and understand the form instructions and guidelines before proceeding.
-
-</thinking>
-
 # Marathon Sponsorship Donation Form - Help Guide
 ## Purpose
 The Marathon Sponsorship Donation Form is designed for users who want to sponsor the marathon and provide their contact details, donation amount, and payment information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students about their weekly class experience. The feedback will be used to improve the course and provide valuable insights for future developments.
-</thinking>
-
 # Weekly Class Evaluation Form - Help Guide
 ## Purpose
 This form is a tool for students to provide feedback on their weekly class experience. It helps instructors gather information about the most interesting things learned, challenging aspects, and areas for improvement. The feedback will be used to enhance the course content and overall teaching experience.

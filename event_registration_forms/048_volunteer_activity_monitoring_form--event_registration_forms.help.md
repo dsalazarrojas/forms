@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "Volunteer Activity Monitoring Form" used by staff members to track volunteer activities, hours worked, and other relevant information. This form helps to monitor volunteer engagement and ensure accurate reporting for future planning and coordination. Before proceeding, please ensure you are not already tracking the same event/activity using this form.
-</thinking>
-
 # Volunteer Activity Monitoring Form - Help Guide
 ## Purpose
 The form is for tracking volunteer activities, including event types, dates, names, and hours worked by volunteers. This information helps to monitor volunteer engagement and optimize resources for future events.

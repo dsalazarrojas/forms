@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to collect feedback from customers on their experience with our support services. The main goal is to gather information that can help us improve our support quality and overall customer satisfaction. It's not a mandatory form, and you can submit it anonymously. Before submitting, please make sure you haven't filled it out before. If you're unsure about any field, you can always ask for help. Please complete the form in a way that best reflects your true experience with our support services.
-</thinking>
-
-# customer_support_feedback_survey - Help Guide
+> # customer_support_feedback_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers on their experience with our support services, helping us to improve our support quality and overall customer satisfaction.
 

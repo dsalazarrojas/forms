@@ -1,7 +1,3 @@
-<thinking>As an expert form designer and technical writer, I've been tasked with creating a user-facing help guide for a form designed to collect feedback on a doctor's bedside manner. This form is meant to gather opinions on various aspects of the doctor's communication and interpersonal skills, such as their listening style, friendliness, and the amount of time spent with patients. The purpose of this form is to help doctors improve their bedside manner by understanding what patients perceive as positive or negative aspects of their interaction.
-
-Upon reviewing the form's YAML definition, I've identified several fields that are likely intended to gauge the doctor's skills and behavior. However, I will refrain from making assumptions and instead provide a clear, concise guide that explains each field and its purpose.</thinking>
-
 # Doctor Bedside Manner Feedback Form - Help Guide
 ## Purpose
 The Doctor Bedside Manner Feedback Form is designed to gather your opinions and feedback on your recent experience with a doctor. This form is intended to help doctors understand your perceptions of their bedside manner, communication style, and other aspects of their interaction.

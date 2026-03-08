@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering participant attendance for an event, and it is designed to be completed by participants who have participated in or will participate in an event. The purpose of this form is to record participant information and attendance status. It is a one-page form with six fields: participant name, team name, email, phone, attendance status, and comments.
-</thinking>
-
 # Match Attendance Form - Help Guide
 ## Purpose
 This form is used to register participant attendance for events.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to guide the user through the Customer Communication Preference Questionnaire. This form is designed to collect information from customers regarding their preferred methods and frequencies of communication. This helps the organization understand the customer's preferences and tailor the communication approach to meet their needs. It is likely to be used for internal purposes within an organization or business. Before starting, please ensure you haven't completed this form before, as it might be considered a duplicate effort.
-</thinking>
-
 # Customer Communication Preference Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from customers on their preferred methods and frequencies of communication to help us understand their needs and tailor our approach to meet them.

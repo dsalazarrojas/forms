@@ -1,7 +1,3 @@
-<thinking>
-This form is a 12-question quiz designed to test the knowledge of ancient Egyptian architecture. It is intended for students, historians, and enthusiasts of the subject. The form is divided into several sections, including multiple-choice questions and an essay question. This form is a tool for assessing understanding and knowledge of ancient Egyptian architecture, not a substitute for in-depth study or expert analysis. Please ensure that the form is used in an academic or educational context.
-</thinking>
-
 # Ancient Egypt Architecture Quiz - Help Guide
 ## Purpose
 The purpose of this form is to assess your knowledge of ancient Egyptian architecture. This quiz will test your understanding of various aspects of ancient Egyptian architecture, including temples, pyramids, and other structures.

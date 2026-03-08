@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "maritime_exhibition_invitation_rsvp" form is to collect RSVP information from individuals invited to a maritime exhibition. This form is designed to gather essential details such as event name, attendee information, and RSVP status to help organizers manage the event effectively. It's essential to complete this form accurately to ensure that your attendance is registered correctly and that you receive important updates about the event.
-</thinking>
-
 # maritime_exhibition_invitation_rsvp - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Food Quality Assessment Quiz - Help Guide
 ## Purpose
 The Food Quality Assessment Quiz is a form used to gather customer feedback on the quality of food products. It helps us to understand what customers think about our food and identify areas for improvement.

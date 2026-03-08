@@ -1,9 +1,3 @@
-<thinking>
-
-The form "leather_heavens_feedback_form" is designed to collect feedback from users about their experience with the Leather Heavens service. This form is meant to gather user comments, suggestions, and any other information that might help improve the service. It's essential to complete this form to provide valuable insights for the development team to enhance the overall user experience. Please make sure to fill out the form accurately and thoroughly, avoiding duplication of entries.
-
-</thinking>
-
 # leather_heavens_feedback_form - Help Guide
 ## Purpose
 The "leather_heavens_feedback_form" is a tool used by users to provide feedback about their experience with the Leather Heavens service. It helps us understand user needs and preferences, allowing us to make necessary improvements.

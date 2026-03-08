@@ -1,21 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a "Course Instructor Feedback Form" that helps end users understand the form's purpose, how to complete it, and what each field means. This form is likely used for instructors to provide feedback on students, courses, or other aspects of their teaching experience. The purpose of this form is to collect feedback from instructors, which can be used to improve teaching quality, student engagement, and overall learning experience.
-
-To complete this form, the user will need to fill out the following fields:
-- Instructor ID (ID number assigned to the instructor)
-- Student ID (ID number assigned to the student)
-- Feedback Type (type of feedback: Yes/No)
-- Feedback (text input)
-- Course ID (ID number assigned to the course)
-- Feedback Date (date of feedback submission)
-- Additional Feedback (text input)
-- Email (instructor's email address)
-- Phone (instructor's phone number)
-- Instructor Name (instructor's name)
-
-The form is divided into two pages, but since we are not provided with more detailed information about the form's structure, we will assume that each field on each page is a single field.
-</thinking>
-
 # Course Instructor Feedback Form - Help Guide
 
 ## Purpose

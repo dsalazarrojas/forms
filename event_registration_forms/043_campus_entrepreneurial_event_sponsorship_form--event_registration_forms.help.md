@@ -1,33 +1,3 @@
-<thinking>
-The purpose of this form is to register a company or individual as a sponsor for a campus entrepreneurial event. This form will be used to gather information about the sponsor, their company, and their event interest. The form is used to ensure that the sponsor and their company are eligible for sponsorship.
-
-To complete this form, follow the instructions below:
-
-1. Fill out the required fields marked with an asterisk (\*). These fields are:
-   - Company Name
-   - Company Description
-   - First Name
-   - Last Name
-   - Job Title
-   - Email Address
-   - Phone Number
-   - Street Address
-   - Event Name
-   - Event Date
-   - Sponsorship Package Level
-   - Sponsorship Amount Committed
-   - Payment Method
-
-2. Select the correct Industry Type that best describes your company.
-
-3. Choose the benefits you are interested in receiving from this sponsorship.
-
-4. Select the method of payment you would like to use for this sponsorship.
-
-5. If you have any additional comments or questions, please include them in the "Additional Comments or Questions" field.
-
-</thinking>
-
 # Campus Entrepreneurial Event Sponsorship Form - Help Guide
 ## Purpose
 The purpose of this form is to register a company or individual as a sponsor for a campus entrepreneurial event.

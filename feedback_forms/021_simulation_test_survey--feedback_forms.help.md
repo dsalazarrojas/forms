@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from participants after a simulation test. The form is designed to collect data on their overall experience, what they found improved, and what didn't improve, as well as any additional feedback they may have. It is intended for internal use, so there's no need to worry about anonymization or other concerns typically associated with public-facing feedback forms. Before starting, ensure you have completed the simulation test and are ready to provide feedback on your experience.
-</thinking>
-
 # Simulation Test Survey - Help Guide
 ## Purpose
 This form is a Simulation Test Survey, designed to collect feedback from participants after a simulation test. It is used to gather information on their overall experience and identify areas for improvement.

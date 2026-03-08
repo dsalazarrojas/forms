@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the "Healthcare Patient Feedback Request Form", ensuring that users can provide accurate and relevant feedback that is later used for quality improvement and patient care analysis. It's essential to fill out the form completely and accurately, as the information collected will be used to assess the patient's experience and identify areas for improvement. To avoid duplication of effort, please ensure that you've reviewed the form carefully before submitting it. If you have already submitted feedback on the same visit, please do not submit this form again.
-</thinking>
-
 # Healthcare Patient Feedback Request Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their visit to a healthcare facility. It helps us understand the quality of care provided and identify areas for improvement.

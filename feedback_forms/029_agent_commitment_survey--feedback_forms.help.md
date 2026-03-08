@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gauge an individual's commitment and alignment with the organizational goals, identify potential barriers, and understand their willingness to take actions to improve their commitment. This form aims to facilitate a more in-depth understanding of individual team members' perspectives, providing valuable insights for team and management leaders to address potential issues and make data-driven decisions.
-
-This guide will walk you through the steps to complete the form and explain each field in detail. Before starting, ensure you're completing this form for the correct purpose and not duplicating efforts. If you're unsure, please consult with your supervisor or team lead.
-
-</thinking>
-
 # Agent Commitment Survey - Help Guide
 ## Purpose
 The Agent Commitment Survey is designed to gather information about an individual's level of commitment and alignment with organizational goals, as well as their willingness to participate in further discussions.

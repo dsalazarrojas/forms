@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## MUET Results Update Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>... This form is used to collect feedback on the logistics services provided by a company. It is intended for end-users to rate their experience with the service, providing an opportunity for the company to improve its performance. To ensure accurate and useful feedback, please make sure to complete the form carefully and thoroughly. If you have already provided feedback on this service, please do not submit this form again.</thinking>
-
 # Logistics Service Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback on the logistics services provided by our company. Your input will help us understand your experience and identify areas for improvement.

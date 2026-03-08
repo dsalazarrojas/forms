@@ -1,10 +1,3 @@
-<thinking>
-The form is intended for individuals to apply for a Mid Level Hybrid Event Coordinator position. The form captures relevant information such as the applicant's personal details, work experience, job titles, and other relevant factors related to the position. This form will likely be submitted by potential employees interested in or already employed at a company or organization that requires this type of coordination.
-
-Before filling out the form, the applicant should first ensure that they are submitting the application for a legitimate reason and that their submission won't create unnecessary duplicates. This is to prevent misuse of the form. If unsure, contact the relevant authority before proceeding with the submission.
-
-</thinking>
-
 # Mid Level Hybrid Event Coordinator Application Form - Help Guide
 ## Purpose
 The Mid Level Hybrid Event Coordinator Application Form is designed to collect relevant information from individuals interested in or already employed at a company or organization that requires mid-level hybrid event coordination. This form will help applicants showcase their qualifications and experience in their job title and other relevant factors.

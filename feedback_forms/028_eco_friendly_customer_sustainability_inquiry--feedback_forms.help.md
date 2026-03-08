@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Eco Friendly Customer Sustainability Inquiry - Help Guide
 ## Purpose
 The Eco Friendly Customer Sustainability Inquiry form aims to gather information about a customer's interest in environmentally friendly programs and initiatives. This form will help customers share their sustainability concerns and interests, enabling our business to better understand their needs and provide more tailored solutions.

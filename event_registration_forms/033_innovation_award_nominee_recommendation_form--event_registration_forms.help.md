@@ -1,7 +1,3 @@
-<thinking>
-This form is used to recommend an innovation award nominee, either individually or as a team. Before submitting a form, please ensure that you are not duplicating a nomination for the same nominee. This form should only be filled out for new nominations. If you are unsure whether a nominee has already been nominated, please check the internal database or contact the innovation award committee for verification.
-</thinking>
-
 # Innovation Award Nominee Recommendation Form - Help Guide
 ## Purpose
 This form is used to recommend an innovation award nominee. It is designed to gather information about the nominee, including their name, email, phone number, and title. The form also asks for a brief recommendation text, which should describe why the nominee is worthy of the innovation award.

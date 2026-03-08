@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that we are creating this form for the right reason and that it's not a duplicate effort. The purpose of this form is to gather information for a Tourist Group Transport Inquiry. It's likely being created to facilitate the planning and execution of transportation for groups of tourists, which involves coordinating and arranging logistics for multiple people. This form should be used to collect necessary details from the group leader or manager so that they can be assigned to the right transport options. 
-</thinking>
-
 # Tourist Group Transport Inquiry Form - Help Guide
 ## Purpose
 This form is used to collect information from the group leader or manager for a Tourist Group Transport Inquiry. It gathers details such as group size, transport type, travel and return dates and times, and other relevant information.

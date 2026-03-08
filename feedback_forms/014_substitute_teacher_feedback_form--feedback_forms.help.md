@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to ensure that users understand the purpose and proper use of the Substitute Teacher Feedback Form. The form is designed to gather feedback from students or others about their experience with a substitute teacher. This form is not affiliated with any form platform, but rather a public adaptation created using AI-generated metadata. The form is released under CC BY 4.0, allowing users to modify or sell it, providing they give credit.
-</thinking>
-
 # Substitute Teacher Feedback Form - Help Guide
 ## Purpose
 The Substitute Teacher Feedback Form is a tool for students or others to provide feedback about their experience with a substitute teacher. This feedback is intended to help substitute teachers improve their performance and better understand the needs of their students.

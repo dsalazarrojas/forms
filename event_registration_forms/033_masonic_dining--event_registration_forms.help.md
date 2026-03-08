@@ -1,9 +1,3 @@
-<thinking>
-Masonic_dining is a form used for registering Masonic meetings with members attending. The form collects various information such as meeting number, date, time, location, attendees, comments, and dress code.
-The purpose of this form is to create a record of each meeting, which can be used for future reference and organization. The form is designed to be completed by both the meeting organiser and the attendees.
-This guide will help you complete the Masonic_dining form correctly and efficiently.
-</thinking>
-
 # masonic_dining - Help Guide
 ## Purpose
 The Masonic_dining form is used to register Masonic meetings with members attending. It collects information on meeting number, date, time, location, attendees, comments, and dress code.

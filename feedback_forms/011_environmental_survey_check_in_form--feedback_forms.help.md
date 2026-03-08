@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the Environmental Survey Check In Form. This form is designed to collect information from users for various environmental survey purposes. The form is intended to be used by users to report their location, comments, and ratings for different environmental survey categories. It's essential to provide accurate and relevant information to help the survey team gather reliable data. Please ensure that you only fill out this form if it's relevant to your current location and situation.
-</thinking>
-
 # Environmental Survey Check In Form - Help Guide
 ## Purpose
 The Environmental Survey Check In Form is a tool used to collect data from users for environmental surveys.

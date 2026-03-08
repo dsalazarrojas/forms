@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather customer feedback and experiences with our company. The goal is to collect data that can help us improve our services and overall customer experience. By filling out this form, customers can provide their name, rate their experience, state their willingness to recommend, share their contact information, describe their preferred method of contact, indicate their availability for further assistance, and provide any additional comments or suggestions. Please ensure that you're not filling out this form unnecessarily, as it may be time-sensitive or redundant if you've already submitted a similar form in the past. Ensure that you're providing your genuine feedback.
-</thinking>
-
 # Customer Experience Report Form - Help Guide
 ## Purpose
 This form is designed to gather customer feedback and experiences with our company. By filling out this form, you can help us understand what we're doing well and where we can improve our services.

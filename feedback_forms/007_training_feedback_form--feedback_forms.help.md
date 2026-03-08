@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from trainees after a training session. The feedback will help assess the effectiveness of the training session and identify areas for improvement. Please note that submitting feedback is optional, but required for certain fields, as indicated in the form.
-
-This guide is intended for end-users who are submitting feedback on a training session. Ensure you have attended a training session before submitting feedback. If you have already submitted feedback on the same session, please do not submit duplicate feedback.
-
-</thinking>
-
 # Training Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from trainees after a training session.

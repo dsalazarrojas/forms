@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for hosts to grant or deny permission to event participants, including services and products. It is meant for events where there are multiple participants involved. The form ensures that the event host is aware of the participants' involvement and can make informed decisions regarding their services and products. This form is not required for all events, but rather for events where it is necessary to clarify participant roles and permissions. The form is also a good practice for large-scale events or events with many stakeholders. The purpose of this form is to ensure transparency and clear communication between the event host and participants.
-</thinking>
-
 # Host Event Legal Release Authorization - Help Guide
 ## Purpose
 This form is a legal release authorization form for event participants. It aims to collect necessary information from event hosts about their event details, participants, and permissions.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with integrating Jira. It will help us understand what we're doing right and what we can improve. The feedback will be used internally to identify areas for enhancement and to make data-driven decisions.
-Before filling out this form, please ensure that you're providing constructive feedback. If you're experiencing a specific issue, please report it in the "Comment" field. If you have a suggestion for improvement, please provide it in the "Suggestion" field. 
-This form is meant to be a one-time submission, so please fill it out thoroughly but don't worry about being too detailed. We're here to learn and improve.
-</thinking>
-
 # Jira Integration Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with integrating Jira. It's a tool for us to better understand what we can do to improve the integration and ensure it meets our users' needs.

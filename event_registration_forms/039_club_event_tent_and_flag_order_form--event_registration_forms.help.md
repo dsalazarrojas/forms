@@ -1,8 +1,3 @@
-<thinking>
-To ensure relevance and non-duplication, I'll assume the form is used for a club or organization to book tent and flag services for an upcoming event. This guide will explain each field in a concise and practical way, covering the form's purpose, how to complete it, and a field-by-field explanation. Please note that some fields might have default or suggested answers based on the form's structure and the context.
-
-</thinking>
-
 # Club Event Tent And Flag Order Form - Help Guide
 ## Purpose
 The Club Event Tent And Flag Order Form is designed for clubs or organizations to request tent and flag services for their events. This form collects essential information about the event, the club or organization, and the requirements for the event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a feedback form designed to capture user engagement information, specifically to understand how users interact with a particular product or service. The form consists of multiple pages with various types of questions, including text, select_one, select_multiple, date, time, and number fields. This form is intended to help product owners or managers gauge user experience and satisfaction.
-</thinking>
-
 # Interactive User Engagement Form - Help Guide
 ## Purpose
 This form is used to collect feedback from users about their interactions with our product or service.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from participants who have attended the Eco Retreat. The purpose of this form is to gather information about their experience, including their name, email address, feedback, rating, date of experience, duration of stay, and any additional comments. This form is designed to be completed by participants in order to help us improve future retreats. Please note that this form should not be used to resubmit feedback that has already been provided in previous retreats.
-</thinking>
-
 # Eco Retreat Experience Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from participants of the Eco Retreat. Completing this form will help us understand your experience and make it better for future participants.

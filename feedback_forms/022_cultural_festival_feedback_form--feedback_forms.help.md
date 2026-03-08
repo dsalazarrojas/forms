@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal Note:** This form is designed to collect feedback from festival attendees on the cultural festival event they attended. The purpose of this form is to gather information on the quality of the festival, including its entertainment, food, and overall experience. This form should only be filled out by festival attendees who have actually attended the event. Please ensure that the festival name is accurately filled out, as this will help us understand which festival the attendee is providing feedback about. If the event date is not filled out, we will assume the attendee is providing feedback about the most recent festival.
-
-</thinking>
-
 # Cultural Festival Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from festival attendees on the cultural festival event they attended. We appreciate your input to help us improve future festivals!

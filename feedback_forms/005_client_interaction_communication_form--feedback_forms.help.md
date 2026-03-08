@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about client interactions, providing a structured way to capture essential details about each interaction. The purpose of this form is to help staff members quickly and efficiently document interactions with clients, allowing for better communication, follow-up, and data analysis. This form is not intended to replace the need for personalized communication or human interaction, but rather supplement it by providing a standardized way to collect and organize client feedback.
-
-</thinking>
-
 # Client Interaction Communication Form - Help Guide
 ## Purpose
 This form is used to document client interactions, gather feedback, and identify potential areas for improvement. It helps staff members quickly capture essential details about each interaction, enabling more effective communication and follow-up.

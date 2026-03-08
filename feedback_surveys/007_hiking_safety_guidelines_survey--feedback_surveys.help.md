@@ -1,9 +1,3 @@
-<thinking>
-
-This form aims to collect information from hikers about their hiking practices, experience, and safety habits to improve the overall safety of hiking trails. It is essential to ensure that the form is filled out by people who genuinely have experience with hiking, so we will try to identify potential users who might not be relevant (e.g., people who never go on hikes or have never answered a survey like this before). We also try to prevent duplication of efforts by checking for users who have already filled out the form.
-
-</thinking>
-
 # Hiking Safety Guidelines Survey - Help Guide
 ## Purpose
 The Hiking Safety Guidelines Survey aims to collect information from experienced hikers about their hiking practices, safety habits, and emergency procedures. This will help improve the overall safety of hiking trails.

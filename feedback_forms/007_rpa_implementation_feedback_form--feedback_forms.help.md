@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # RPA Implementation Feedback Form - Help Guide
 ## Purpose
 The RPA Implementation Feedback Form is designed to collect feedback from users about their experience with the RPA (Robotic Process Automation) implementation. This form helps us understand the user's level of satisfaction and provide insights for future improvement.

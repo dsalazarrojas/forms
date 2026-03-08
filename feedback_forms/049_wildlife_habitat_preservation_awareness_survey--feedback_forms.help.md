@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on wildlife habitat preservation awareness. It is intended for general use and does not require any specific knowledge about the organization. There is no duplicate logic implemented. Please ensure you fill out the form accurately and thoroughly.
-</thinking>
-
 # wildlife_habitat_preservation_awareness_survey - Help Guide
 ## Purpose
 The wildlife habitat preservation awareness survey is a form designed to gather information about users' awareness and understanding of wildlife habitat preservation. It is used to collect feedback on the current state of wildlife habitat preservation and identify areas of improvement.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is used correctly and effectively, the internal logic of this form is checked to avoid duplication of feedback from the same user. If a user has already submitted feedback, it will be flagged and not accepted for this form submission. This form is designed to collect data on customer interactions with our support team, specifically to evaluate the quality of our support interactions. By providing feedback through this form, users can help us improve our services and better serve their needs in the future.
-</thinking>
-
 # Support Interaction Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on customer interactions with our support team. We want to know how well we performed, what we could improve on, and any suggestions you may have for better serving our customers.

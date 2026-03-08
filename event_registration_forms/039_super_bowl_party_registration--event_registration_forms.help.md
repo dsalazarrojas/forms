@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in hosting or attending a Super Bowl party. It is not intended for general event registration, but rather for a specific Super Bowl-themed party. To avoid duplication, users should only register once per person. Please note that this form is meant for internal use only and will not be publicly accessible.
-</thinking>
-
 # Super Bowl Party Registration - Help Guide
 ## Purpose
 This form is used to gather information from users who are interested in hosting or attending a Super Bowl party. It is a private registration form for a specific event and users are expected to register only once.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and comments from event staff about their orientation experience. This could be used by event organizers to identify areas of improvement for future events. The form likely exists to ensure that event staff are well-informed and prepared for their roles at events. This form should not be filled out by individuals who have not attended an event, as their input would not be relevant.
-</thinking>
-
 # Event Staffing Orientation Survey - Help Guide
 ## Purpose
 This guide will walk you through the Event Staffing Orientation Survey form. It's designed to be completed by event staff who attended an event to provide feedback and comments on their experience.

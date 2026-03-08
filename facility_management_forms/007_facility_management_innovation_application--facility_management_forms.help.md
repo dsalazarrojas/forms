@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect and manage innovation ideas from various stakeholders in a facility management context. The form is meant to be filled out by individuals submitting ideas for facility management innovations.
-Please ensure you are submitting a relevant idea and do not duplicate existing ideas in the system. 
-If you are unsure if you are submitting a duplicate idea, you can contact the facility management team to check if an idea with the same title has already been submitted.
-</thinking>
-
 # Facility Management Innovation Application - Help Guide
 ## Purpose
 This form is used to collect and manage innovation ideas for facility management. Users can submit ideas for various stakeholders, including staff, vendors, and innovators, and specify the status of the idea.

@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to gather feedback from customers on their experience with the company. The purpose of this form is to collect information on how customers feel about their recent interactions with the company, and to provide suggestions or comments on areas where they can be improved. The form is optional and can be completed by customers who want to share their thoughts and opinions.
-
-</thinking>
-
 # customer_experience_enhancement_feedback_form - Help Guide
 
 ## Purpose

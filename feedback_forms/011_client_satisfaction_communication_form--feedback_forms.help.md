@@ -1,8 +1,3 @@
-<thinking>
-We are trying to create a form that will help us understand our clients' satisfaction with our communication, identify areas where we can improve, and gather feedback for better service.
-Before you start, please note that this form is meant to be a quick and straightforward way to provide your input. We want to hear your thoughts, but we also want to respect your time, so please be concise and clear in your answers.
-</thinking>
-
 # Client Satisfaction Communication Form - Help Guide
 ## Purpose
 This form is designed to help us understand your satisfaction with our communication and identify areas where we can improve. Please take a few minutes to complete this form and let us know how we're doing.

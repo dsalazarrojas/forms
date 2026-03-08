@@ -1,29 +1,3 @@
-<thinking>Let's think through the purpose and fields of the online course feedback questionnaire. The form aims to gather user feedback on various aspects of the course, including overall impression, course content, rating, completion information, and course names. The feedback will help instructors understand their strengths and weaknesses, allowing them to improve the course content and structure. It's essential to ensure that users complete the form accurately and thoroughly, providing clear and concise feedback.
-
-To prevent duplication of effort and ensure that users only complete the form once, we can include a unique identifier for each user, such as a name or email address, which will be linked to their course completion information. This will help track user progress and prevent multiple submissions from the same user.
-
-The form consists of 7 fields, each with its own purpose and requirements:
-
-*   **overall_impression**: A text field where users can provide a brief description of their overall impression of the course.
-*   **feedback**: A text field where users can provide detailed feedback on the course content.
-*   **rating**: A number field where users can rate the course on a scale of 1-10.
-*   **course_completion_info**: A date field where users can provide the date and time of course completion.
-*   **course_name**: A select-one field where users can select the name of the course they took.
-*   **courses_submitted**: A select-multiple field where users can select all the courses they submitted so far.
-*   **submitted_by**: A text field where users can provide their name.
-
-To complete this form accurately, users should:
-
-*   Read each field carefully and understand its purpose.
-*   Provide clear and concise feedback in the **overall_impression** and **feedback** fields.
-*   Rate the course honestly and objectively in the **rating** field.
-*   Provide accurate completion information in the **course_completion_info** field.
-*   Select the correct course name from the **course_name** field.
-*   Select all applicable courses from the **courses_submitted** field.
-*   Provide their name in the **submitted_by** field.
-
-</thinking>
-
 # Online Course Feedback Questionnaire - Help Guide
 ## Purpose
 The Online Course Feedback Questionnaire is designed to gather user feedback on the course content, structure, and overall experience. The feedback will help instructors improve the course and provide a better learning experience for future students.

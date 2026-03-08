@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Field Leaderboard Form - Help Guide
 
 ## Purpose

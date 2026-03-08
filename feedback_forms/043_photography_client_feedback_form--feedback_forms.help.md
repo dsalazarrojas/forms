@@ -1,24 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Photography Client Feedback Form" to ensure that end-users understand its purpose, how to complete it, and what each field means. This form is designed to collect feedback from clients regarding their experience with a photography service. The form will likely be used by photographers to gather information about their clients' satisfaction, which will help them improve their services. To avoid duplication, we should check if the client has already submitted feedback before allowing them to do so again.
-
-The form is composed of several fields, including:
-
-* A form title
-* Client name
-* Feedback question with options (Not Satisfied, Satisfied, Very Satisfied)
-* Text feedback
-* Email
-* Phone number
-* Form comments
-* Submit
-* Cancel
-* Error message
-* Info message
-* Warning message
-
-The form is likely to be used by photography clients to provide their feedback about their experience with a photography service. This feedback is crucial for photographers to understand their strengths and weaknesses, which will help them improve their services and build strong relationships with their clients.
-</thinking>
-
 # Photography Client Feedback Form - Help Guide
 ## Purpose
 The "Photography Client Feedback Form" is a tool used by photography clients to provide their feedback about their experience with a photography service. This form is designed to collect information about their satisfaction and help photographers improve their services.

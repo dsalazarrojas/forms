@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes the form is intended for users to provide feedback on a presentation given by a peer. The form is likely used for training, evaluation, or other educational purposes within an organization or institution. The form's purpose is to collect structured data about the presentation, including the title, speaker's identity, rating, feedback, and comments. This form is not meant to be filled out by the presenter themselves, but rather by their peers who attended the presentation.
-</thinking>
-
 # Presentation Peer Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on presentations given by peers in a professional or educational setting. It helps trainers, educators, or facilitators assess the quality and effectiveness of their peers' presentations.

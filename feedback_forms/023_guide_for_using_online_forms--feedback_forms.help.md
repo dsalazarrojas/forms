@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guide for Using Online Forms - Help Guide
 ## Purpose
 The purpose of this online form is to provide a convenient and standardized way for users to submit feedback and suggestions on specific guides and tools within our platform. This form helps us understand your needs, preferences, and concerns, which will inform our development and improvement of guides and tools.

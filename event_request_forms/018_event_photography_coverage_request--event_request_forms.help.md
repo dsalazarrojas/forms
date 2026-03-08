@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: The form is used to request event photography coverage. The primary purpose of this form is to gather information about the event, such as its type, schedule, location, and coverage needs. The form is designed to be completed by event planners or organizers to provide information about their event, which will be used to assign the correct photography coverage. The form is not intended for public submission, and the information collected will be used internally for event planning and organization purposes. To ensure accurate and relevant responses, please review the provided options carefully and answer all required fields.</thinking>
-
 # Event Photography Coverage Request - Help Guide
 ## Purpose
 This form is used to request event photography coverage. It is essential to provide accurate and detailed information about your event to ensure the right photographer is assigned.

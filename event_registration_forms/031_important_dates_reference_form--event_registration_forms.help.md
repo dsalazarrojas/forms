@@ -1,7 +1,3 @@
-<thinking>
-The "Important Dates Reference Form" is used to collect and reference essential dates and details related to events. This form aims to ensure that event organizers and attendees are well-informed about the timing and other crucial aspects of the event. This form will help prevent confusion and miscommunication by providing a centralized platform for event dates and details.
-</thinking>
-
 # Important Dates Reference Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # document_revision_request_form - Help Guide
 
 ## Purpose

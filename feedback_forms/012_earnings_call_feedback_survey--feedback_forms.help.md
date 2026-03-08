@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from investors after an earnings call, which is crucial for companies to improve communication and engagement. It helps to gather insights and opinions from investors, which can be used to refine the company's approach to future earnings calls. To avoid duplication, it's essential to fill out this form for each earnings call.
-</thinking>
-
 # Earnings Call Feedback Survey - Help Guide
 ## Purpose
 The Earnings Call Feedback Survey is a tool used by companies to gather feedback from investors after an earnings call. It helps to improve communication and engagement by collecting insights and opinions from investors.

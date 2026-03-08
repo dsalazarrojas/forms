@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect feedback from customers on the reliability of our services. This is a crucial aspect of understanding how our services meet their needs and expectations. By filling out this form, you'll be helping us improve our services, ensure we're on the right track, and create a better experience for all users. Please ensure this is the first time you've submitted feedback for this form, so we can provide the best possible outcome.
 
 # Service Reliability Customer Feedback Form - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Registration Extension Request Form - Help Guide
 ## Purpose
 This form is used to request an extension to an existing volunteer registration. If you are experiencing an extension of your volunteer registration, please fill out this form to submit your request. This form will help our team review and process your request efficiently.

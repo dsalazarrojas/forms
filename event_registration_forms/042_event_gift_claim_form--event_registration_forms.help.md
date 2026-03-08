@@ -1,7 +1,3 @@
-<thinking>
-We need to determine if the form is relevant and if the form has been filled out recently, to prevent duplicate entries from the same user or attendee. This form is designed to help attendees submit claims for event-related gifts, allowing them to keep track of their claimed items and their status. We want to ensure that this process is straightforward and easy to understand for the users.
-</thinking>
-
 # Event Gift Claim Form - Help Guide
 ## Purpose
 This form is used to help attendees submit claims for event-related gifts. 

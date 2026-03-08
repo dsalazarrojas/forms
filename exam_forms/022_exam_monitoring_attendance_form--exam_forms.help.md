@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for exam monitors to report on the attendance of students during exams. It is crucial to track student attendance accurately to ensure that all students are present and accounted for. This form should only be used for exam-related activities, not for other purposes. Please ensure that you are familiar with the form's purpose and content before proceeding.
-
-</thinking>
-
 # Exam Monitoring Attendance Form - Help Guide
 ## Purpose
 The purpose of this form is to monitor and record student attendance during exams, ensuring that all students are accounted for and present.

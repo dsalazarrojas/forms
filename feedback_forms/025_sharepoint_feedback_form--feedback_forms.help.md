@@ -1,8 +1,3 @@
-<thinking>
-This help guide is created for the "SharePoint Feedback Form". This form is designed to collect feedback from users, allowing team members to provide suggestions, comments, and insights about the SharePoint platform. The form is meant to be used by various teams within the organization, and feedback will be reviewed and addressed accordingly. The form will not be used for formal complaints or urgent matters.
-
-</thinking>
-
 # SharePoint Feedback Form - Help Guide
 ## Purpose
 The SharePoint Feedback Form is designed to collect feedback from users, allowing team members to provide suggestions, comments, and insights about the platform. This form will not be used for formal complaints or urgent matters.

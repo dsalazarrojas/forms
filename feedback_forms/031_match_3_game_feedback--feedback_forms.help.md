@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a feedback form for a Match 3 game, allowing players to provide input on their gaming experience. The form has several fields for different types of feedback, including gameplay, technical issues, and feature preferences. It also includes fields for collecting email and phone numbers, player feedback, suggestions, comments, game version, playtime, rating, and willingness to play again. The form seems to be designed to gather a wide range of information from players, likely for the development team to improve the game.
-</thinking>
-
 # Match 3 Game Feedback - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from participants in a bowling activity, including their personal details, parent/guardian information, emergency contact details, and medical conditions. The purpose of this form is to ensure that participants and their emergency contacts are aware of and acknowledge the risks involved in the activity. It's essential to have a valid waiver acknowledgement from participants and their emergency contacts before allowing them to participate. The form also aims to collect contact information for communication and medical purposes. 
-
-This form is not a medical evaluation or assessment, but rather a liability waiver to ensure that participants are aware of the risks and are willing to participate with full knowledge of those risks. Please ensure that all fields are accurately filled in by participants and their emergency contacts before proceeding with the activity.
-</thinking>
-
 # Liability Waiver For Bowling Activities - Help Guide
 ## Purpose
 This form is used to collect participant information and obtain their waiver acknowledgement before participating in bowling activities. It's essential to complete this form carefully and accurately to ensure a smooth and safe experience for all participants.

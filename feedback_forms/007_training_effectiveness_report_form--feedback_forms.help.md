@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on the effectiveness of a training program. It is meant to be completed by training participants to provide an honest assessment of their experience. Please note that this form will be used by training administrators to evaluate and improve the quality of the training programs. 
-
-</thinking>
-
 # Training Effectiveness Report Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from training participants about the effectiveness of the training program they attended.

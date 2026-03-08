@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure that this form is completed accurately and effectively, we should first confirm that it's intended for job fair volunteers who will be participating in the event. We should also make sure that this form is not a duplicate effort, as there may be existing forms with similar purposes. Additionally, we should be clear about the expected outcomes of this form, such as which team or department it will be sent to for review and action. 
-
-This form will help us gather information from potential volunteers for the Job Fair event. It's essential that we collect the right information from them so we can assign them to suitable roles and ensure they have a smooth experience. We will use this form to determine their interests, availability, and skills to place them in a position that suits them best.
-
-</thinking>
-
 # Job Fair Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential volunteers for the Job Fair event. It helps us determine their interests, availability, and skills so we can assign them to suitable roles and ensure a smooth experience.

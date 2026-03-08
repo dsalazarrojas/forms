@@ -1,18 +1,3 @@
-<thinking>
-This form is for requesting the verification of a maintenance record. Maintenance records are documents that contain information about a work order, such as the start and completion dates, equipment ID, location, and description of the work performed. The purpose of this form is to request verification of a specific maintenance record, ensuring that all necessary information is accurate and up-to-date. 
-
-To ensure accuracy, please fill out this form carefully and completely. The form is used to gather information about a work order, so make sure to provide the correct values for each field. 
-
-This form will be used by maintenance personnel to verify the maintenance record and ensure that the information is accurate and up-to-date. Please fill out the form with the correct information to avoid any potential issues.
-
-Before filling out this form, make sure that you are requesting verification for a specific work order and that the information you are providing is accurate. 
-
-This form will not be used for any other purpose other than the verification of a maintenance record. 
-
-Please fill out this form carefully and accurately to ensure that the maintenance record is verified correctly. 
-
-</thinking>
-
 # Maintenance Record Verification Request - Help Guide
 ## Purpose
 The purpose of this form is to request the verification of a maintenance record, ensuring that all necessary information is accurate and up-to-date.

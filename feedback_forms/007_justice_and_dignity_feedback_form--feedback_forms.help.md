@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users about their experience with the service. The goal is to understand how they feel they have been treated fairly, whether they received respect and dignity in the service, and what areas of improvement are needed. This form will help the service to identify areas where they can improve and provide better experiences for their users in the future.
-
-The following questions are designed to gather specific information about users' experiences, such as how they were treated in the service, whether they had to wait for a service that was delayed, and how satisfied they are with the service overall, staff, environment, and communication.
-
-To avoid duplication, users are not allowed to submit the form multiple times. The form will only be available for users who have not previously submitted feedback.
-
-</thinking>
-
 # Justice And Dignity Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users about their experience with the service, specifically on how they feel they have been treated fairly, whether they received respect and dignity, and what areas of improvement are needed.

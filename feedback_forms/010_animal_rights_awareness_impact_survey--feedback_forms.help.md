@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from respondents on the impact of the Animal Rights Awareness Campaign. It is essential to understand how effective the campaign was in raising awareness about animal rights issues, what messages resonated with the audience, and what areas for improvement exist. This information will help in refining future campaigns to better serve the audience.
-</thinking>
-
 # Animal Rights Awareness Impact Survey - Help Guide
 ## Purpose
 This form aims to gauge the effectiveness of the Animal Rights Awareness Campaign by asking respondents about their experience and perceptions of the campaign.

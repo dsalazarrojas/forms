@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from individuals and organizations about energy solutions. It is intended to be completed by those who have experienced or have interest in the energy solutions provided. This form will help us understand their thoughts, suggestions, and concerns about the energy solutions, which will aid us in improving and refining them. 
-
-Please note that this form is for feedback and comments purposes only. The information collected will be used to enhance our energy solutions and will not be shared without proper attribution or permission. 
-
-If you have already completed this form, kindly be assured that the information you provided earlier is taken into consideration and valued. This form is a continuation of our efforts to gather diverse feedback.
-
-</thinking>
-
 # Energy Solutions Feedback Release Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from individuals and organizations about their experience with energy solutions. It is intended to gather their thoughts, suggestions, and concerns to help us improve and refine our energy solutions.

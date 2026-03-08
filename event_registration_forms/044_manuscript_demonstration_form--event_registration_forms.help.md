@@ -1,12 +1,3 @@
-<thinking>
-Manuscript Demonstration Form is used for registering and showcasing manuscripts, providing information about the manuscript's status, location, description, and other related details.
-
-Before filling out this form, please ensure that all required fields are filled out. Some fields are not required, but providing as much information as possible will help ensure accurate and thorough manuscript registration. If you have any doubts or need help, refer to this guide for more information.
-
-This guide explains each field's purpose and requirements in detail to help you complete the form accurately and quickly.
-
-</thinking>
-
 # Manuscript Demonstration Form - Help Guide
 ## Purpose
 The Manuscript Demonstration Form is used to register and showcase manuscripts, providing essential details about the manuscript, its status, location, and other relevant information.

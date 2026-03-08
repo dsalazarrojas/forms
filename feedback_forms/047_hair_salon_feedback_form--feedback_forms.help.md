@@ -1,7 +1,3 @@
-<thinking>As I create this help guide, I'll keep in mind that the form is called "Hair Salon Feedback Form" and is intended to collect feedback from customers. To ensure this guide is helpful, I'll assume the form is used by customers who have visited the salon. This will help me understand their needs and preferences. I'll also check that the form is not duplicating any other form or process, to avoid confusing the user.
-
-The guide will cover three main topics: the purpose of the form, how to complete it, and a detailed explanation of each field. I'll use the YAML to provide concrete and concise explanations.</thinking>
-
 # Hair Salon Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect your thoughts and opinions about our hair salon. Your feedback is valuable to us, and we appreciate your input. Please take a few minutes to fill out this form and share your experiences.

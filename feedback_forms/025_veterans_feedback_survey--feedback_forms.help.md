@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from veterans on their experiences with a particular program or service. The form is meant to gather information on the overall satisfaction with the service, rating of the service quality, and suggestions for improvement. The form also asks for demographic information such as name, organization, and program name to help in categorizing and analyzing the feedback. The form will help in understanding the areas of improvement and will aid in making data-driven decisions for future services and programs.
-</thinking>
-
 # Veterans Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from veterans on their experiences with a particular program or service. The form will help in understanding the areas of improvement and will aid in making data-driven decisions for future services and programs.

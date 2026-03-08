@@ -1,12 +1,3 @@
-<thinking>
-**Rationale and Duplication Check**
-
-This form is designed to collect information about musical notation knowledge, specifically for the purpose of assessing or creating musical scores or pieces. Each field in this form is intended to represent different aspects of musical notation, such as the type of notation used, time signature, beat pattern, note value, staff size, note position, clef sign, key signature, and score validation.
-
-Before proceeding, we'll check if the form has been filled out correctly to avoid duplication or incorrect information. This ensures that the user has a clear understanding of the form's purpose and can fill it out accurately.
-
-</thinking>
-
 # Notation Knowledge Quiz - Help Guide
 
 ## Purpose

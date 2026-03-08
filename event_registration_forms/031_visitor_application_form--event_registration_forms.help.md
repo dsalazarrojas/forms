@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from visitors for events, meetings, or seminars that are being organized. The form will ask for event details, visitor contact information, and other relevant event-specific data. Before filling out this form, make sure that you are submitting information for the correct event and that you have not already registered for this event.
-</thinking>
-
 # Visitor Application Form - Help Guide
 ## Purpose
 This form is for collecting information from visitors for events, meetings, or seminars.

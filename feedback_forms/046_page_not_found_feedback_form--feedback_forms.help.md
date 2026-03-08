@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users when they encounter a "Page Not Found" error on a website. The purpose of this form is to help the development team understand what users were trying to access when they got the error, how the issue impacted them, and what they suggest to fix the problem. This form will be filled out by users who encountered the "Page Not Found" error, and the feedback collected will be used to improve the website's performance and user experience. This form will not be used to collect sensitive information or personal data.
-
-</thinking>
-
 # Page Not Found Feedback Form - Help Guide
 ## Purpose
 This form helps us understand what users were trying to access when they got the "Page Not Found" error, and how we can improve our website to prevent such issues in the future.

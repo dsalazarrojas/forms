@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's analyze the YAML fields. The form is called "Event Planner Nomination Form", suggesting that it is used for nominating event planners for an event. The "Nominator" fields such as "nominator_name", "nominator_email", "nominator_phone", "nominator_organization", "nominator_title", and "nominator_agreement" indicate that the form is used to provide information about the person or organization nominating an event planner. The fields for the event planner, "event_planner_name", "event_planner_email", "event_planner_phone", suggest that it is also used to provide information about the event planner. The form seems to be used for both nominating and providing information about event planners. This form does not seem to be redundant with other forms as it provides a unique combination of fields for both nominators and event planners.
-
-The purpose of this form is to collect information from both the event planner and the nominator for an event. It seems to be used for internal nomination and event planning purposes.
-
-</thinking>
-
 # Event Planner Nomination Form - Help Guide
 ## Purpose
 The Event Planner Nomination Form is used to collect information from both the event planner and the nominator for an event. This form is used for internal nomination and event planning purposes.

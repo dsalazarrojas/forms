@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from renters about their perception of their tenant empowerment and communication with their apartment community. This form is designed to assess the satisfaction and effectiveness of communication and the level of empowerment felt by the renters. The form will ask about their awareness of the community, the effectiveness of communication channels, and their participation in the community. This feedback will help the community management to better understand the renters' needs and improve the community's performance.
-Before filling out this form, please make sure you have not already filled it out. If you have previously filled out this form, your responses will be saved and you will not need to fill it out again.
-</thinking>
-
 # Tenant Empowerment Perception Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from renters about their perception of their tenant empowerment and communication with their apartment community.

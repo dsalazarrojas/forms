@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from users on their global health equity awareness. It is meant to be a general feedback form, collecting contact information, and specific details about the user's awareness on various health equity topics. 
-
-This form is not meant to be a survey for specific events or projects, but rather a general form to collect information about the user's overall understanding and awareness on these topics. It is recommended to use this form only once for each user, and not to duplicate efforts. 
-
-Please note that this form is designed for collecting feedback and information, not for collecting data for any specific projects or initiatives. If you are looking to collect information for a specific project, please use the project's specific form.
-
-</thinking>
-
 # global_health_equity_awareness_survey - Help Guide
 ## Purpose
 The global health equity awareness survey is designed to collect information from users on their overall awareness on various health equity topics. This form aims to provide a general understanding of the user's perspective on the current state of health equity in the community.

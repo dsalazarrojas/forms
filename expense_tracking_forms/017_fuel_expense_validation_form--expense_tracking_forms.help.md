@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from employees for expense tracking and validation. The form asks employees to provide details about their fuel expenses, including whether they are traveling, the date of the expense, the amount spent, location, purpose of the expense, mileage driven, vehicle used, and other relevant details. This form helps to ensure that all expenses are properly validated and accounted for within the organization.
-</thinking>
 # Fuel Expense Validation Form - Help Guide
 
 ## Purpose

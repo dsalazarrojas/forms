@@ -1,7 +1,3 @@
-<thinking>
-The Top Shopper Giveaway Entry Form is used for customers or participants to enter a giveaway contest hosted in a shopping environment, such as a mall or shopping center. This form is used to gather information about the participant, including their name, contact details, and other relevant information. The form is designed to be completed by shoppers who are interested in participating in the contest. Please note that only one participant per shop name can be registered. To avoid duplication, please check if a participant with the same shop name and participant ID has already been registered.
-</thinking>
-
 # Top Shopper Giveaway Entry Form - Help Guide
 ## Purpose
 This form is used for customers or participants to enter a giveaway contest hosted in a shopping environment.

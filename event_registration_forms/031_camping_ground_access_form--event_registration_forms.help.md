@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering visitors to a camping ground, requiring visitor information, vehicle details, and visit specifics. It is a critical part of the visitor registration process to ensure accurate and efficient management of camping ground access. This form should only be completed by individuals who have not already registered or have not been previously approved to access the camping ground. Please do not duplicate efforts and ensure that all necessary information is accurate and complete before submitting this form.
-</thinking>
-
 # Camping Ground Access Form - Help Guide
 ## Purpose
 The Camping Ground Access Form is used to register and record information about visitors to the camping ground. Completing this form ensures that the visitor's details are accurately recorded and helps us manage access to the camping ground effectively.

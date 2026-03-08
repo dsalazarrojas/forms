@@ -1,5 +1,3 @@
-<thinking>Let's consider the form purpose and structure. This form is designed to gather feedback on the information completeness of a particular topic or dataset. It seems to be used for assessing the quality and relevance of the information. We should confirm that this form is not redundant and ensure it's being used in the right context.</thinking>
-
 # Information Completeness Survey - Help Guide
 ## Purpose
 This form is designed to help assess the quality and relevance of a particular topic or dataset. It collects feedback on various aspects of the information, including its clarity, thoroughness, usefulness, and accuracy. This feedback will help us identify areas for improvement.

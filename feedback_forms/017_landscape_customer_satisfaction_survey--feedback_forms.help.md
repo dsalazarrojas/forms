@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended to provide clear and concise instructions for end-users to complete the Landscape Customer Satisfaction Survey form. Before diving into the form instructions, let's consider the form's purpose: The Landscape Customer Satisfaction Survey is designed to collect customer feedback on their experience with the company's landscaping services, including customer overall experience, services provided, communication with technicians, customer service, technician attitude, workmanship, and contact information.
-
-The form is used to gather feedback that can be used by the company to improve its services, address customer concerns, and identify areas for growth. It's essential to note that the form is only intended for customers who have interacted with the company's services. If you are not a customer or not sure if you are eligible, please contact the company directly.
-
-The form is divided into several sections, each focusing on different aspects of the customer experience. Completing this form helps the company better understand its strengths and weaknesses and improve its overall service quality.
-
-Please ensure to provide accurate and honest feedback as it will help the company to provide better services.
-</thinking>
-
 # Landscape Customer Satisfaction Survey - Help Guide
 ## Purpose
 

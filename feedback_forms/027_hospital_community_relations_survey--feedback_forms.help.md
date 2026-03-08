@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Community Relations Survey - Help Guide
 ## Purpose
 The purpose of this form is to gauge your overall satisfaction with your visit to the hospital, as well as your experiences with our services and communication. Your feedback will help us improve our services and better serve our community. Please take a few minutes to complete this survey, and help us create a more positive experience for all patients.

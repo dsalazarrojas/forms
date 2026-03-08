@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the final form design and documentation guide.
 
 # Exit Interview Questionnaire Form - Help Guide

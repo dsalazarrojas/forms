@@ -1,5 +1,3 @@
-<thinking>...The Office Space Feedback Questionnaire is designed to help us better understand your experiences and perceptions of our office environment. It's intended to be completed by all employees and should take approximately 10-15 minutes to complete. It's crucial that you provide your honest and sincere responses as this will help us make data-driven decisions to improve our office space and create a better working environment for everyone. Please do not provide the same feedback, as it will help us to track and measure improvements over time.</thinking>
-
 # Office Space Feedback Questionnaire - Help Guide
 ## Purpose
 The Office Space Feedback Questionnaire is designed to gather information about your experiences and perceptions of our office environment. Your feedback will help us make data-driven decisions to improve our office space and create a better working environment for everyone.

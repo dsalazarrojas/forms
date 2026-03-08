@@ -1,7 +1,3 @@
-<thinking>
-This form is a Global Forum Participation Survey, designed to collect feedback from participants in a global forum. The purpose of the form is to gather information on the participant's level of involvement and engagement with the forum, as well as their thoughts and opinions on the topics discussed and the overall experience. The form should only be used for participants who have attended the global forum. Please ensure that you have not already completed this form if you're not eligible to do so. This check will ensure that the data collected is accurate and consistent.
-</thinking>
-
 # Global Forum Participation Survey - Help Guide
 ## Purpose
 The Global Forum Participation Survey is a questionnaire designed to gather information on your experience and engagement with the global forum. Your feedback is invaluable in helping us improve the forum and provide better services to our participants.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about crowd control incidents. It's essential to fill out this form correctly to ensure accurate reporting and effective incident management. This form should only be used to report actual incidents that have occurred, and not for hypothetical or speculative purposes.
-</thinking>
-
 # Crowd Control Incident Form - Help Guide
 ## Purpose
 The "Crowd Control Incident Form" is a tool to report incidents related to crowd control, allowing for a thorough understanding of what happened and its consequences. Please use this form to provide detailed and accurate information about the incident, including its circumstances, outcomes, and any relevant details.

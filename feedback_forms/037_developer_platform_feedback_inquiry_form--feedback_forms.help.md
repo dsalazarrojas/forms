@@ -1,7 +1,3 @@
-<thinking>
-To ensure the quality and relevance of feedback, please note that this form is intended for developers to provide their feedback on the platform, and it is meant to help us understand their experiences and suggestions. To avoid duplication, we encourage developers to submit their feedback only once. Please fill out this form with as much detail as possible, and we will make sure to address your concerns and suggestions in a timely and effective manner.
-</thinking>
-
 # Developer Platform Feedback Inquiry Form - Help Guide
 ## Purpose
 The Developer Platform Feedback Inquiry Form is designed to collect feedback from developers on their experiences and suggestions for improving our platform. Your input is crucial in helping us provide a better platform for developers to build, test, and deploy their applications.

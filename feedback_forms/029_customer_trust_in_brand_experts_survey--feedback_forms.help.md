@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experience with our brand experts. It will help us understand what they like or dislike about our experts, what we're doing well, and areas for improvement. Please note that we'll be using this form to evaluate our experts based on the feedback received.
-</thinking>
-
 # Customer Trust In Brand Experts Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their experience with our brand experts. It's meant to be completed by customers who have recently interacted with one of our experts.

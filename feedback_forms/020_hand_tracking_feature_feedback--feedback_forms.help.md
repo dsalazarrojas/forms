@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about the Hand Tracking feature. The form is intended to be filled out by users who have tried the feature and have some insights or issues to report. The form will ask for feedback on the feature's performance, suggestions for improvement, and other relevant details. To ensure consistency and quality of feedback, it's essential to fill out the form in its entirety and provide accurate information.
-</thinking>
-
 # Hand Tracking Feature Feedback - Help Guide
 ## Purpose
 This form is used to collect feedback from users about the Hand Tracking feature.

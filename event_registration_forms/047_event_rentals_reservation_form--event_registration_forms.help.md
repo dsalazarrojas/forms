@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Rentals Reservation Form - Help Guide
 ## Purpose
 This form is used to reserve an event at a venue. It gathers information for event planning and management purposes. Please fill out this form to create or update an event.

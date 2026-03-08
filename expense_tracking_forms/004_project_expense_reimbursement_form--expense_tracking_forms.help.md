@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the project expense reimbursement form that explains its purpose, how to complete it, and the meaning of each field in a clear and concise way. The form is called "project_expense_reimbursement_form" and its purpose is to track project expenses. To ensure that the guide is relevant and does not duplicate any other information, we need to understand the requirements and goals of the form, which is to collect and categorize project expenses accurately and efficiently.
-</thinking>
-
 # project_expense_reimbursement_form - Help Guide
 ## Purpose
 The project expense reimbursement form is used to collect and track project expenses. To complete this form, please follow the steps below.

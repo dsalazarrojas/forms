@@ -1,5 +1,3 @@
-<thinking>... This form is used to assess the pharmacology knowledge of a learner. It is intended to evaluate the knowledge and understanding of pharmacological concepts and their applications in clinical settings. To ensure accuracy and relevance, please check that the form is relevant to the learner's knowledge and does not duplicate any existing evaluation methods. If you're unsure about the form purpose or have concerns about its relevance, please contact us at form@gic.mx. </thinking>
-
 # Pharmacology Knowledge Assessment - Help Guide
 ## Purpose
 The Pharmacology Knowledge Assessment form is designed to evaluate the knowledge and understanding of pharmacological concepts in clinical settings. It is intended for learners who have acquired knowledge in pharmacology and want to assess their understanding of the subject matter.

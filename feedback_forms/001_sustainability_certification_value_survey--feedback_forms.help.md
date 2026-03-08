@@ -1,7 +1,3 @@
-<thinking>
-Is the purpose of this form to gauge the sustainability performance of individuals or organizations that have been certified in various sustainability programs? Is it a one-page form or a multi-page form? Are the fields intended for internal employees to fill out, or is it meant for external stakeholders to provide feedback? What are the specific sections of the form that should be completed or left blank?
-</thinking>
-
 # Sustainability Certification Value Survey - Help Guide
 ## Purpose
 This guide provides an overview of the Sustainability Certification Value Survey form, which aims to collect information about individuals or organizations that have been certified in various sustainability programs. The form is designed to be completed by stakeholders, including internal employees and external individuals or organizations. 

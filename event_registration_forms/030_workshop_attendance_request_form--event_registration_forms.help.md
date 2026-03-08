@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register attendance for a workshop or event. It gathers information about the event itself (name, start and end dates and times, location) and about the attendee (name, email, phone number, and address). The form also asks the attendee to confirm their attendance and to select a tool they will be using during the event. The form is intended for use by attendees to sign up for workshops or events, and it is not meant to be used by event organizers or administrators.
-</thinking>
-
 # Workshop Attendance Request Form - Help Guide
 ## Purpose
 The Workshop Attendance Request Form is used to register attendance for a workshop or event. It collects information about the event and the attendee to help with planning and organization.

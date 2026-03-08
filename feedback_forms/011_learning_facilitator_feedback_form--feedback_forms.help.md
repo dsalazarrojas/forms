@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Learning Facilitator Feedback Form - Help Guide
 
 ## Purpose

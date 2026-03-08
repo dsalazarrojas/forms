@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for indoor sports award nominations, likely for a sports organization or governing body to recognize and reward outstanding athletes or teams. The fields are designed to capture relevant details about the nominee, including their name, contact information, and the award nomination details. It's essential to ensure that each nominee meets the eligibility criteria and that the form is filled out correctly to avoid duplication of efforts and ensure accurate records. Please review the form carefully to ensure you provide the required information and avoid submitting incomplete or duplicate nominations.
-</thinking>
-
 # Indoor Sports Award Nomination Form - Help Guide
 ## Purpose
 The Indoor Sports Award Nomination Form is used to submit nominations for outstanding indoor sports teams or athletes. This form helps the sports organization or governing body to recognize and reward the achievements of deserving nominees.

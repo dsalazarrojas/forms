@@ -1,7 +1,3 @@
-<thinking>
-We should verify that the form is for the purpose of registering participants for a workshop, and not for any other purpose. This form is not intended to be used for any other purpose than registering attendees for the workshop. We should also check that we are not duplicating any existing forms with similar names or purposes.
-</thinking>
-
 # Brow Artist Workshop Registration - Help Guide
 ## Purpose
 This form is for registering participants for the Brow Artist Workshop.

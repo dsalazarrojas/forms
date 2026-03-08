@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users, allowing them to share their thoughts and opinions about a particular experience or product. The feedback form is meant to be a quick and easy way for users to provide input and help improve the product or service they've used. To ensure that feedback is useful and relevant, we've made it easy to fill out and require only the most necessary information.
-</thinking>
-
 # Gathering Feedback Form - Help Guide
 
 ## Purpose

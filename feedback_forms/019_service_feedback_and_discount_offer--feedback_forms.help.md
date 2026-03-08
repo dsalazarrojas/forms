@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting feedback from customers about a service they may have used. It also allows them to provide a discount offer if they feel they received subpar service. This form aims to gather information that can be used to improve service quality and provide incentives for customers to return. Before completing this form, make sure you have not already provided feedback on the same issue or service. If you have, this form will be unnecessary and may lead to duplicate data.
-</thinking>
-
 # Service Feedback And Discount Offer - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about a service they may have received. It also allows them to provide a discount offer if they feel they did not receive the service as expected.

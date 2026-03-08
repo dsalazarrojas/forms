@@ -1,5 +1,3 @@
-<thinking>...this form is used to extend the agreement period for volunteers who have been assigned to a particular event. This form helps to determine whether an extension is necessary and provides fields to collect relevant information for processing this request. Ensure that the form is only used when an extension is genuinely needed, and not for routine requests. To avoid duplication, check the form's purpose and fields before completing it...</thinking>
-
 # Volunteer Agreement Extension Form - Help Guide
 ## Purpose
 The Volunteer Agreement Extension Form is used to extend the agreement period for volunteers who have been assigned to a particular event. This form helps to determine whether an extension is necessary and provides fields to collect relevant information for processing this request.

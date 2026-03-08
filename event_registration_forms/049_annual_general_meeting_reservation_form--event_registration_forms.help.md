@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that our Annual General Meeting Reservation Form serves as a clear and concise platform for guests to provide their details and preferences. It's essential that the form is easily accessible and straightforward to fill out, allowing guests to easily reserve their spot and share their needs with the event organizers. Before proceeding, let's confirm that this form is not a duplicate of any existing form and that it aligns with the intended purpose of the event. By double-checking, we can ensure that the form accurately captures the required information and provides a seamless experience for the guests.
-</thinking>
-
 # Annual General Meeting Reservation Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Annual General Meeting Reservation Form. The form is designed to gather essential information from guests, including their contact details, attendance preferences, and special requirements. By filling out this form, you will be able to confirm your attendance and provide valuable input to help us cater to your needs during the event.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to allow event attendees, artists, or organizers to claim the cancellation of an event. The purpose of this form is to record the reason for cancellation, the date and time of cancellation, and other relevant details. This form is meant to be filled out by the person or entity responsible for the cancellation, and is used to track and verify the authenticity of cancellation claims.
-
-To prevent duplication of work and ensure accurate tracking, we recommend that only one person responsible for the cancellation should fill out this form.
-
-</thinking>
-
 # Performance Cancellation Claim Form - Help Guide
 ## Purpose
 The Performance Cancellation Claim Form is used to document the cancellation of an event, providing necessary details for tracking and verification.

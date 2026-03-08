@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users navigate the "DJ Appoinment Form" to collect information for event booking. The form is crucial for ensuring that all relevant details are captured for both the client and the DJ. Before proceeding, ensure that you are filling the form for a legitimate event booking request. Duplicate forms submitted for the same event may cause confusion and delays in the booking process.
-</thinking>
-
 # dj_appointment_form - Help Guide
 ## Purpose
 This form is for clients to book a DJ appointment or event with relevant details.

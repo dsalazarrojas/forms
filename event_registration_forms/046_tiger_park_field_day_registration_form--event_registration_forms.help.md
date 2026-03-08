@@ -1,10 +1,3 @@
-<thinking>
-This form is used to register an event at Tiger Park. It's used by users to provide their contact information and details about the event they want to register. This form should only be used for events that are relevant to the user's role at Tiger Park, and not for events that are not related to their work.
-
-The fields in this form are meant to capture the necessary information for event registration, including the user's name, contact email and phone number (if available), event details (name, date, start time, duration, entrance fee, and entrance fee currency), and event registration type and attendee count.
-
-</thinking>
-
 # Tiger Park Field Day Registration Form - Help Guide
 ## Purpose
 This form is used to register an event at Tiger Park. It's intended for users to provide their contact information and event details for events relevant to their role at Tiger Park.

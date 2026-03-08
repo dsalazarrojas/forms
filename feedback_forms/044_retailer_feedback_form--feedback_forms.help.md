@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from retailers, likely from customers, employees, or partners. The purpose of this form is to collect various types of feedback, including opinions, suggestions, and ratings. The form is structured into multiple pages, each with its own set of questions or fields. The fields are a mix of text inputs, select options, and date/time inputs. The form requires answers to all fields, indicating that the completion is comprehensive and thorough.
-
-To avoid duplication and improve the accuracy of the feedback, the form should not be filled out by the same user multiple times. The form's structure and content suggest that it is intended for a single instance of feedback, rather than for continuous or periodic feedback.
-
-This form should be completed by providing detailed and honest feedback, with each field requiring a thoughtful and accurate answer. The form's structure and content suggest that it is intended for in-depth feedback, rather than quick opinions or simple ratings.
-
-</thinking>
-
 # Retailer Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from retailers, customers, employees, or partners on various aspects of the retailer's services, products, or experiences. The feedback is intended to be honest and detailed, covering different topics and providing actionable insights for improvement.

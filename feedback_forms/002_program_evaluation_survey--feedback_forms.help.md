@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect feedback and evaluation information about a program or training session. It is designed to gather participant feedback and suggestions for improvement, as well as collect data on the evaluation process itself. This form is typically used by program directors or facilitators to gather valuable insights from participants to refine and improve the program's quality and effectiveness.
-
-To avoid duplication of effort and ensure that the collected data is relevant and useful, it is recommended that participants only complete this form once per program session.
-
-</thinking>
-
 # Program Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and evaluation information about a program or training session. This will help us identify areas of improvement and refine our programs to better meet your needs.

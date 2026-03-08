@@ -1,8 +1,3 @@
-<thinking>
-This form is used for planning and scheduling events. It is designed for events with appointments that need to be planned and coordinated, such as meetings, conferences, or workshops. This form should only be used when the event requires planning and coordination, and should not be used for simple events or events that do not require appointments.
-The form is used to collect information about the event, including event details, start and end times, event notes, email addresses, phone numbers, event dates, event organizers, and event participants. This form is intended for use by event planners and organizers to plan and coordinate events.
-</thinking>
-
 # fundraising_event_planning_appointment_form - Help Guide
 ## Purpose
 This form is used to plan and schedule events with appointments that need to be coordinated.

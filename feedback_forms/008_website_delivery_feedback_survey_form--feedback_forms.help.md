@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers on the delivery of a website. The purpose of this form is to understand customer satisfaction and identify areas for improvement. 
-Please ensure that you complete this form only once. 
-Please note that some of the fields are marked as required, meaning that you must fill in these fields in order to submit the form. 
-</thinking>
-
 # website_delivery_feedback_survey_form - Help Guide
 ## Purpose
 This form is used to collect feedback from customers on the delivery of our website. Your input will help us understand how well we have met your expectations and identify areas for improvement.

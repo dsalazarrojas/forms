@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture the necessary information for offboarding a Housing Project Manager. The form is a crucial tool for ensuring that all necessary details are captured during the offboarding process, which helps to create a smooth transition for the exiting employee and the project. This form should only be filled out by the Project Manager and the exiting employee to ensure that all necessary information is collected and documented. Please ensure that you fill out the form accurately and completely to avoid any discrepancies.
-</thinking>
-
 # Housing Project Manager Exit Offboarding Form - Help Guide
 ## Purpose
 This form is used to capture the necessary information for offboarding a Housing Project Manager.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to evaluate the customer loyalty program. It will help us understand the customer's experience with the program, gather feedback, and identify areas of improvement. Please note that this form is for general feedback and is not intended for urgent or critical issues that require immediate attention. If you have any comments or suggestions, please use this form to provide constructive feedback.
-</thinking>
-
 # Customer Loyalty Program Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers on their experience with our customer loyalty program. We value your opinion and would like to know how we can improve the program to better serve your needs.

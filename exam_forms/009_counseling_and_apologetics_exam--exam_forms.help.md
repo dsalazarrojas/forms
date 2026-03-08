@@ -1,9 +1,3 @@
-<thinking>
-This form is a comprehensive guide to help individuals reflect on their beliefs, values, and experiences related to counseling and apologetics, which is a branch of theology that deals with the defense and explanation of Christianity. This form is designed to assess one's understanding and perceptions on various aspects of Christianity, including its teachings, roles, and implications in daily life.
-The form is not affiliated with, endorsed by, or derived from any form platform. It is an original creation based on public survey topic metadata.
-Please ensure that this form is used in a respectful and constructive manner, and not for any other purpose that may be deemed inappropriate or insensitive.
-</thinking>
-
 # counseling_and_apologetics_exam - Help Guide
 ## Purpose
 

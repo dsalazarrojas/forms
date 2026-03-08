@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for the return process of an Amazon order. The form is divided into several sections, and each section is designed to gather specific information about the return process. The form includes fields for order information, customer information, item details, return reason, return resolution, return shipping, product feedback, seller feedback, and additional comments. The form requires information such as order number, order date, customer name, email address, phone number, item name, item condition, return reason, return resolution, return shipping method, and return date. The form also allows customers to provide photos of any issues with the item and to rate the product and seller. This form is intended to facilitate a smooth return process for customers and provide necessary information for resolution.
-This guide is intended for use by customers who are returning items purchased on Amazon. Please review the following instructions and fill out the form accordingly.
-
-Note: The fields marked as "required" are mandatory and must be filled out to complete the form.
-</thinking>
-
 # Amazon Order Return Form - Help Guide
 ## Purpose
 The Amazon Order Return Form is used to provide information about an order return, including order details, return reason, return resolution, and return shipping information.

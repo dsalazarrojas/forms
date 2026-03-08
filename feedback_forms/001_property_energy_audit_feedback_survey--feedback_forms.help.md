@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on properties that have undergone an energy audit, which is an assessment of the building's energy consumption and efficiency. This form aims to gather information on the property name, address, completion date, building type, and other relevant details to provide a comprehensive understanding of the property's energy audit status. To avoid duplication of effort, end-users should only complete this form once for each property.
-</thinking>
-
 # Property Energy Audit Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on properties that have undergone an energy audit.

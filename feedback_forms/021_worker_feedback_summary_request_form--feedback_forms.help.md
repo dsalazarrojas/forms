@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # worker_feedback_summary_request_form - Help Guide
 
 ## Purpose

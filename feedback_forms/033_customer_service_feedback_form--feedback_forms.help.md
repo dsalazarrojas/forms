@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to gather feedback from customers about their experience with our customer service. To check for duplication, we should verify that the form is not submitted multiple times by the same user, and to prevent misuse, we should add a validation check to ensure that the form is filled out correctly.
-</thinking>
-
 # customer_service_feedback_form - Help Guide
 ## Purpose
 The customer service feedback form is a tool for customers to provide feedback about their experience with our customer service. This form helps us understand areas of improvement and gather insights to better serve our customers in the future.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Benefits Feedback Form - Help Guide
 
 ## Purpose

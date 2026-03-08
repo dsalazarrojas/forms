@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Knowledge Assessment On ERP And ITIL - Help Guide**
 ## Purpose
 This form is designed to assess the knowledge of IT professionals about Enterprise Resource Planning (ERP) and IT Infrastructure Library (ITIL) principles and practices. It is meant to gauge the level of understanding and familiarity of IT service management processes and systems.

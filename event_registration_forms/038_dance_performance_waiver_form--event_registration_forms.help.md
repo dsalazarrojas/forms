@@ -1,17 +1,3 @@
-<thinking>
-This form is intended for dance performance waiver forms, which are used to collect information from individuals or their parents/guardians for dance performances or events. The form is likely used to collect contact information, waiver text, and other relevant details for the event. This form is likely used in a studio or school setting where instructors are responsible for managing event logistics and ensuring participant safety. This form is not intended for general public use or public-facing purposes, so the language and structure are tailored towards a more formal and professional audience.
-
-The following fields are required for this form, indicating that the form is likely used for official purposes: name, email, emergency contact info, parent consent, waiver text, signature, date, time, instructor name, instructor title, instructor studio, instructor email, and instructor address.
-
-The fields that are not required, but could be useful for additional information: emergency contact info, risk awareness questions, risk awareness questions hints, waiver text, and instructor terms.
-
-This form is likely used in conjunction with other forms or systems for event management, and the instructor fields provide a way to track and identify instructors and their role in the event.
-
-This form's structure and language is clear and straightforward, indicating a focus on efficiency and ease of use for event planners and instructors.
-
-Given the fields and structure, this form is not intended for general public use or public-facing purposes. It is likely used within an organization or institution with a specific set of rules and protocols for event management and participant safety.
-</thinking>
-
 # Dance Performance Waiver Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals or their parents/guardians for dance performances or events.

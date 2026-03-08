@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Reservation Extension Form - Help Guide
 ## Purpose
 The Hotel Reservation Extension Form is designed to allow you to extend an existing hotel reservation for a specific period of time. This form helps you to provide additional details and preferences for your stay.

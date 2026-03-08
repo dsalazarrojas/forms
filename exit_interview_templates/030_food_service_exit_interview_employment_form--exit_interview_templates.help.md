@@ -1,7 +1,3 @@
-<thinking> This form is designed to gather information from employees who are leaving the company's food service department. The purpose of this form is to collect data on the reasons for leaving, to gather feedback on their experience, and to help the company understand how to improve its food service operations. This form will be used by the HR department to process exit interviews and to provide support to employees who are leaving the company.
-
-Please note that some of these questions are optional and will only be asked based on the employee's responses to previous questions. </thinking>
-
 # Food Service Exit Interview Employment Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from employees who are leaving the company's food service department. It is used by the HR department to process exit interviews and to provide support to employees who are leaving the company.

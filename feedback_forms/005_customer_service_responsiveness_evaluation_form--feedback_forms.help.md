@@ -1,14 +1,3 @@
-<thinking>
-The purpose of the "Customer Service Responsiveness Evaluation Form" is to collect feedback from customers on how well the customer service representatives have performed in their interactions. This form helps to evaluate the responsiveness, attitude, and knowledge of the customer service representatives. It's essential to fill out this form carefully, as it will help the company improve its customer service quality.
-
-To ensure that the form is filled out correctly, please follow the instructions below.
-
-This form is divided into multiple pages, each with a specific set of questions or fields. The form is designed to be easy to navigate, and each page has a clear purpose.
-
-Before you start filling out the form, please make sure you have a clear understanding of the questions and what is being asked.
-
-</thinking>
-
 # Customer Service Responsiveness Evaluation Form - Help Guide
 ## Purpose
 

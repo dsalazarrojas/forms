@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Agreement Extension Form - Help Guide
 ## Purpose
 This form is used to record and manage vendor agreements and extensions for our organization. It collects information about vendor agreements, such as ID, name, extension dates, contract details, extension reason, and status.

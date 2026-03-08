@@ -1,8 +1,3 @@
-<thinking>
-This help guide will explain the purpose of the form, its functionality, and how to complete it in a way that's clear and concise for the end user. I will review the form structure and identify the relevant fields that are required or optional. The form's main purpose is to collect data from customers or users related to research on specific items, which is reflected in the fields such as "item_research_survey." This form likely aims to gather information on the item's interests, recommendations, and customer satisfaction, which will help in understanding the user's perspective. It's essential to fill out the form carefully, making sure to provide accurate and relevant information. The following sections will walk through each field, providing a clear explanation of what to expect.
-
-</thinking>
-
 # item_research_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and research on items from customers. It's divided into multiple pages, each containing questions and fields that help us understand your thoughts and preferences. Please fill out the form carefully and honestly, providing as much detail as possible.

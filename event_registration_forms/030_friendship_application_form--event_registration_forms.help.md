@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Friendship Application Form - Help Guide
 ## Purpose
 The Friendship Application Form is designed to gather information about potential friendships between individuals. This form helps us understand your preferences, interests, and relationship status to match you with like-minded individuals. Please complete this form to express your interest in forming a connection with others.

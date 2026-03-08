@@ -1,9 +1,3 @@
-<thinking>
-
-This form's purpose is to gather feedback from guests who have visited a cheese plate. The form collects information on the guest's visit details, their evaluation of the cheese selection, their rating of the cheese plate's overall quality, and their feedback on pairings, portion sizes, value for money, and the server's knowledge about the cheeses. This form is designed to collect both quantitative and qualitative feedback to help the establishment understand what works and what doesn't, and make adjustments accordingly.
-
-</thinking>
-
 # Cheese Plate Feedback Survey - Help Guide
 
 ## Purpose

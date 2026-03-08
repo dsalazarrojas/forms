@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from parents on the performance of a child in a given subject or topic. This feedback will be used to help teachers and instructors evaluate the effectiveness of their teaching methods and materials. When filling out this form, please ensure that the information provided is accurate and relevant to the feedback being given. To avoid duplication of feedback, please make sure to fill out this form only once for each child.
-</thinking>
-
 # Parent Feedback Form - Help Guide
 ## Purpose
 The Parent Feedback Form is a tool designed to gather feedback from parents on their child's progress in a specific subject or topic. This feedback is used to help teachers and instructors adjust their teaching methods and materials to better meet the needs of their students.

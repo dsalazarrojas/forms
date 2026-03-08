@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will guide you through the process of creating a user-friendly and informative help guide for the Employee Retention Interview Form.</thinking>
-
 # Employee Retention Interview Form - Help Guide
 ## Purpose
 The Employee Retention Interview Form is designed to gather feedback and information from employees about their job satisfaction, communication with their manager, and other relevant details. This form is intended to help managers and HR representatives understand the employees' experiences and concerns, which can be used to improve job satisfaction, retention, and overall work environment.

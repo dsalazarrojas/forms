@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine if a user has already requested to volunteer, we will be checking against a database of previous requests. This form will allow you to indicate your interest in helping out with events. Please provide as much information as possible in each field to ensure that we can get you properly scheduled to help. If you have any questions or concerns, please reach out to us at your earliest convenience.
 
 # Elections Volunteer Request Form - Help Guide

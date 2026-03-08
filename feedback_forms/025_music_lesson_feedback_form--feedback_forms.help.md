@@ -1,9 +1,3 @@
-<thinking>
-This help guide will be used by end users to understand the purpose and usage of the Music Lesson Feedback Form. The form is designed to gather feedback from students about their music lessons, which will help teachers evaluate their performance, identify areas of improvement, and provide better services in the future.
-
-To ensure that the feedback is constructive and relevant, we should avoid duplication of effort and only collect feedback from students who have taken music lessons. This guide is intended to be a helpful resource for end users, and its purpose is to ensure they understand the form's structure and requirements correctly, reducing the likelihood of errors or misinterpretation during the feedback process.
-</thinking>
-
 # Music Lesson Feedback Form - Help Guide
 ## Purpose
 

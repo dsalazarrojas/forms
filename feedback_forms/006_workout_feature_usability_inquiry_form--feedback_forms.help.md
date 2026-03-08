@@ -1,7 +1,3 @@
-<thinking>
-We've designed this form to collect feedback from users on our workout feature, specifically to understand their experience, how they use the feature, and what they think we can improve. We want to use this information to make data-driven decisions on how to develop and refine the feature. Please answer the following questions to help us better understand your thoughts and suggestions. This form is a one-time submission, and we won't ask you to fill it out multiple times.
-</thinking>
-
 # Workout Feature Usability Inquiry Form - Help Guide
 ## Purpose
 The purpose of this form is to collect your feedback on our workout feature. Your input will help us improve the feature to better meet your needs and expectations.

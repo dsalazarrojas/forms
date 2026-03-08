@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Couples Activity Challenge Registration - Help Guide
 
 ## Purpose

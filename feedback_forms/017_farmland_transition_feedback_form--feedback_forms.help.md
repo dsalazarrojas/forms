@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users regarding their experience with farmland transition. The form is not meant to be used as a formal complaint or support request, but rather as an opportunity for the user to provide constructive feedback on their experience. It is expected that users will be able to complete the form in a few minutes and provide honest feedback about their experience.
-To ensure relevance and non-duplication, users may only submit feedback once per land transfer.
-</thinking>
-
 # Farmland Transition Feedback Form - Help Guide
 
 ## Purpose

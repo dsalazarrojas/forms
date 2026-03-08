@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users on the Global Classroom experience. To ensure this data is useful, please fill it out completely and honestly. If you've already filled out a form recently, please do not submit duplicate responses.
-
-</thinking>
-
 # Global Classroom Feedback Form - Help Guide
 
 ## Purpose

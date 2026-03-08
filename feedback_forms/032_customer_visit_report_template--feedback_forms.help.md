@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used by sales representatives to report on customer visits. The form is not intended for other purposes, such as sales calls or meetings. If you are not a sales representative, please do not use this form. If you are a sales representative and have already filled out this form for a similar visit, please make sure to update the form only for the current visit, instead of duplicating an older form.
-
-The form is designed to collect information about the customer visit, including the sales representative's name, the customer's name and title, the date and time of the visit, the location of the visit, and the customer's visit outcome. The form also includes space for the sales representative to provide notes and recommendations for future visits.
-
-Please make sure to complete all required fields, and provide as much detail as possible in the optional fields.
-
-</thinking>
-
 # Customer Visit Report Template - Help Guide
 
 ## Purpose

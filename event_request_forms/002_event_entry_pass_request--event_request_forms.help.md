@@ -1,11 +1,3 @@
-<thinking>
-This form is used for requesting a special entry pass for an event. An event entry pass grants access to specific areas of the event site, such as restricted access areas or VIP sections. The form is used by event attendees to submit a request for a pass, providing details about the event they wish to attend and their desired level of access. To ensure efficiency, the form is designed to collect necessary information from the attendee to facilitate the evaluation and approval process.
-
-Before starting the form, make sure that you are not submitting duplicate requests for the same event. Ensure that you have filled out the form correctly to increase the chances of your request being approved.
-
-This form is split into multiple pages. Fill out the form by scrolling through the pages and providing information for each section.
-</thinking>
-
 # Event Entry Pass Request - Help Guide
 ## Purpose
 This form is used to request an event entry pass for access to specific areas of the event site.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from hotel guests about their experience at the hotel. The form is intended to be completed by guests who have stayed at the hotel and can provide their honest opinions about various aspects of their stay. The form is not designed to collect sensitive or personal information, and responses are anonymous. 
-
-To ensure the quality of feedback, the form is designed to be easy to complete and understand, with clear labels and options for each question. Each question is carefully crafted to elicit specific information about the guest's experience, and the form is kept concise to minimize completion time.
-
-Before completing this form, please ensure that you have stayed at the hotel and are providing honest and constructive feedback. Your input is valuable to us, and we appreciate your time and effort in helping us improve our services.
-
-</thinking>
-
 # guest_feedback_survey - Help Guide
 ## Purpose
 The guest feedback survey is designed to collect honest opinions from hotel guests about their experience at the hotel. Your feedback is valuable to us, and we will use it to improve our services and provide better experiences for our guests in the future.

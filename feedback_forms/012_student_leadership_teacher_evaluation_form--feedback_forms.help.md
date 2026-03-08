@@ -1,9 +1,3 @@
-<thinking>
-The goal of the Student Leadership Teacher Evaluation Form is to collect feedback on a student's leadership skills and abilities, as well as the strengths and weaknesses of a teacher's teaching approach. This form is used to assess the student's capacity to lead, take responsibility, and demonstrate initiative. It is essential to complete this form thoughtfully and accurately, as it will help in understanding a student's growth and development, as well as the impact of a teacher's approach on their students. 
-Ensure that you are completing the form for the correct student and teacher, and that you are providing honest and constructive feedback. 
-Please review the form carefully before completing it to ensure you are providing the best possible feedback.
-</thinking>
-
 # Student Leadership Teacher Evaluation Form - Help Guide
 
 ## Purpose

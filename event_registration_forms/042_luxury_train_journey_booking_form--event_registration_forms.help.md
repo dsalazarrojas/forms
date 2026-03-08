@@ -1,12 +1,3 @@
-<thinking>
-A luxury train journey involves booking a train travel experience for customers. This form is designed for customers to provide their personal details for the booking.
-The form is intended for booking a luxury train travel experience. The form will only ask for a few personal details that are relevant for booking purposes. We don't need any redundant information. The form will ask for the following information:
-* First name
-* Last name
-* Email address
-* Phone number
-</thinking>
-
 # Luxury Train Journey Booking Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for an employee's exit interview and performance improvement plan during offboarding. It is intended to help the employer understand the reasons for an employee's departure and gather feedback on areas for improvement. It is a crucial document for maintaining a smooth transition of responsibilities and ensuring that necessary steps are taken to address any issues that may have led to the employee's decision to leave.
-
-It is essential to fill out this form accurately and thoroughly to provide the necessary information for future reference and potential improvements.
-
-This guide is provided to help users understand how to complete the form correctly and what each field is intended for.
-
-</thinking>
-
 # performance_improvement_plan_exit_offboarding_form - Help Guide
 ## Purpose
 This form is designed to collect information for an employee's exit interview and performance improvement plan during offboarding.

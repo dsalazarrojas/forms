@@ -1,7 +1,3 @@
-<thinking>...this form is designed to collect feedback from visitors to an art gallery. The purpose of this form is to gather information about the visitor's experience, rating the various aspects of the gallery, such as exhibits, staff service, facilities, and overall value for money. The form is intended to be completed by individual visitors, and responses will help the gallery's administration identify areas of improvement and enhance the overall visitor experience. Note that all fields are optional except for those marked as required. This form will only be used internally for feedback and improvement purposes, so please feel free to provide as much or as little information as you'd like...
-
-</thinking>
-
 # Art Gallery Visitor Experience Report Form - Help Guide
 ## Purpose
 

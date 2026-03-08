@@ -1,8 +1,3 @@
-<thinking> 
-  This form is designed to collect data on foreign conflict awareness among users. It's a multiple-page form where users can provide their awareness and perception on various factors related to foreign conflicts. The form is not strictly required, and users can submit it at their discretion. It's essential to note that the form's purpose and questions are designed to gauge the user's understanding of foreign conflicts and their implications. Please take a moment to review the following help guide to ensure you complete the form accurately. 
-
-</thinking>
-
 # Foreign Conflict Awareness Survey - Help Guide
 ## Purpose
 This form aims to collect information on your awareness and perception of foreign conflicts, their sources, and their implications.

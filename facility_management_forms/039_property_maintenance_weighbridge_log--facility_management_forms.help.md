@@ -1,7 +1,3 @@
-<thinking>
-The Property Maintenance Weighbridge Log form is intended to record and track the weights of vehicles on a property. It appears to be a form for collecting numerical data on the weights of various vehicles at different locations. It could be used for tracking the weights of vehicles during property maintenance activities, such as when vehicles are weighed or checked for weight-related issues. The form is designed to be completed by personnel in charge of property maintenance, and it's likely used for monitoring and reporting on the weights of different vehicles. The purpose of this form is to standardize the process of recording and tracking vehicle weights for efficient property maintenance operations.
-</thinking>
-
 # Property Maintenance Weighbridge Log - Help Guide
 ## Purpose
 This form is used to record and track the weights of vehicles on a property during maintenance activities.

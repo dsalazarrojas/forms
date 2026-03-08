@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for park supervisors to document the details of a park inspection, including the current state of the park, any hazards or issues that need to be addressed, and the names of staff or contractors present during the inspection. The purpose of this form is to provide a comprehensive record of the inspection, which can be used for future reference. This form is typically filled out after an inspection of the park has been completed.
-To determine if this form is relevant, consider the following questions:
-
-* Do you need to document the details of a park inspection?
-* Do you need to record any hazards or issues that need to be addressed?
-* Do you need to note the names of staff or contractors present during the inspection?
-If you answered yes to any of these questions, this form may be relevant to your needs.
-
-Please note that this form has 19 fields, which may be more than what you need for a typical inspection. You may choose to fill out only the fields that are relevant to your specific situation.
-</thinking>
-
 # Park Supervision Checklist - Help Guide
 ## Purpose
 This form is designed for park supervisors to document the details of a park inspection, including the current state of the park, any hazards or issues that need to be addressed, and the names of staff or contractors present during the inspection.

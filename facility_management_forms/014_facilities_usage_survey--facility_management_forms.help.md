@@ -1,22 +1,3 @@
-<thinking>
-The Facilities Usage Survey form is designed to gather information about the usage patterns and preferences of employees in various facilities within an organization. This form will help management understand how often and when employees use different facilities, such as the gym, office, classroom, or community space, and what time of day they tend to visit. The purpose of this form is to improve the facilities management by providing valuable insights into employee usage habits. This information can be used to optimize facility scheduling, allocate resources, and make informed decisions about facility maintenance and upgrades.
-
-To complete this form, follow these steps:
-
-1. **Facility Usage Survey Form**: Please enter your name and any other relevant details.
-2. **Usage Patterns**: Select the time of day you most often visit the facilities.
-3. **Satisfaction Level**: Indicate how satisfied you are with the facilities' overall condition and services.
-4. **Usage Frequency**: Choose how often you visit the facilities.
-5. **Facilities Used**: Select the facilities you have used in the past month.
-6. **Facilities Used (Other)**: If any other facilities have been used, please specify them in this field.
-7. **Comments**: Share any additional comments or suggestions you have about the facilities.
-8. **Email**: If you have any email address where you can be reached for follow-up questions or comments.
-9. **Phone**: If you have any phone number where you can be reached for follow-up questions or comments.
-10. **Date Last Visited**: Please enter the date of your last visit to the facilities.
-11. **Time Last Visited**: Enter the time of your last visit to the facilities.
-
-</thinking>
-
 # Facilities Usage Survey - Help Guide
 ## Purpose
 The Facilities Usage Survey is a form designed to collect information about employee usage patterns and preferences of various facilities within an organization, aiming to improve facilities management by optimizing scheduling, resource allocation, and maintenance decisions.

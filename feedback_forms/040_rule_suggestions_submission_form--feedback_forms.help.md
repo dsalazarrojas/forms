@@ -1,9 +1,3 @@
-<thinking>
-Please ensure that the form is being used for its intended purpose and not as a duplication. The form is intended to collect feedback and rule suggestions from submitters. Please fill out the form carefully and accurately.
-
-This help guide will walk you through the process of completing the Rule Suggestions Submission Form.
-</thinking>
-
 # Rule Suggestions Submission Form - Help Guide
 ## Purpose
 The Rule Suggestions Submission Form is designed to collect feedback and rule suggestions from submitters. Please fill out the form carefully and accurately to ensure your suggestions are properly documented.

@@ -1,5 +1,3 @@
-<thinking>Is this form intended to gather feedback about the performance of team captains within a team? This form likely aims to assess the skills and qualities of team captains, including leadership, communication, problem-solving, and time management abilities. It might be used by team leaders or managers to evaluate team captains' performance, identify areas of improvement, and provide guidance for their development. Please ensure you have the relevant context and permissions to complete this form. Also, make sure you have not already provided feedback for this team captain. If you have, this form will not be submitted successfully. If you're unsure, you can contact the relevant authorities for clarification.</thinking>
-
 # team_captain_leadership_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the performance of team captains, focusing on their leadership, communication, problem-solving, and time management skills.

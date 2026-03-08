@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their gaming habits and preferences in mobile arcade games. The information gathered will help our development team improve and refine their services. Please provide honest feedback in the designated fields, and ensure you're completing all required fields as specified by each question.
-</thinking>
-
 # Mobile Arcade Gaming Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their gaming habits and preferences. The collected data will be used to improve the overall gaming experience for our users.

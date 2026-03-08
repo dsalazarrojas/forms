@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect data on the motivation behind tenant retention, aiming to understand what drives tenants to renew their contracts or continue their relationship with the company. The goal is to gather insights that can inform business decisions and improve the overall tenant experience.
-
-To ensure the data collected is meaningful and relevant, it's essential to verify that the form is being filled out for the intended purpose and not for any other reason. This can be achieved by carefully reviewing the form's design and the explanations provided in this help guide.
-
-Upon reviewing the form, it's clear that it's designed to collect both quantitative and qualitative data. The form includes select_one, select_multiple, and text fields, allowing respondents to provide their opinions and thoughts in a concise and structured manner.
-
-To avoid duplication of effort, it's crucial to ensure that the form is filled out by individuals who are directly involved in the tenant relationship, such as tenants themselves or their representatives.
-
-</thinking>
-
 # Tenant Retention Motivation Survey - Help Guide
 ## Purpose
 This form is designed to collect data on the motivation behind tenant retention, aiming to understand what drives tenants to renew their contracts or continue their relationship with the company.

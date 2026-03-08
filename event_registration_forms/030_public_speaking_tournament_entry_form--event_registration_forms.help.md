@@ -1,14 +1,3 @@
-<thinking>
-The goal of this form is to allow individuals to register for a public speaking tournament. The form is designed to collect information from speakers, including their personal details, event-related information, and additional context. The form will be reviewed and evaluated by the tournament organizers to determine the speaker's eligibility and suitability for the event.
-
-To ensure accurate and relevant submissions, please review the following guidance:
-
-* Only fill out the form if you have a genuine interest in participating in the public speaking tournament.
-* Ensure that you provide accurate and up-to-date information to avoid any issues during the evaluation process.
-* Review each field carefully to ensure you understand the type of information required.
-
-</thinking>
-
 # Public Speaking Tournament Entry Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in participating in the public speaking tournament. It is essential to provide accurate and up-to-date information to ensure a smooth evaluation process.

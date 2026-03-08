@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness of cultural-awareness training, focusing on various aspects such as training level, instructional methods, and participant experience. This guide will walk you through each section of the form to ensure you understand what each field means and how to complete it accurately.
-
-Before you start, please note that some fields are optional, so you can skip them if you don't have the necessary information.
-
-</thinking>
-
 # cultural-awareness-training-evaluation-form - Help Guide
 ## Purpose
 This form is used to evaluate the cultural-awareness training program, providing feedback on its effectiveness in terms of training level, instructional methods, and participant experience.

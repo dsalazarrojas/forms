@@ -1,8 +1,3 @@
-<thinking>
-We need to create a help guide for a form used to register participants in the Livestock Welfare Initiative. This form is used to collect information from farmers and organizations that are involved in animal welfare programs. The purpose of this form is to ensure that participants are registered and their information is accurately recorded for future reference. To prevent duplication of effort, we should check if the participant has already registered before allowing them to submit the form again.
-
-</thinking>
-
 # Livestock Welfare Initiative Registration Form - Help Guide
 ## Purpose
 The Livestock Welfare Initiative Registration Form is designed to collect information from farmers and organizations that are participating in animal welfare programs. This form helps us ensure that participants are accurately recorded and their information is up-to-date.

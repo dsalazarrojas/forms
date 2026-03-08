@@ -1,5 +1,3 @@
-<thinking>...internal reasoning: This form is meant to collect feedback from users on their overall satisfaction with a particular service or product. It's likely used to gauge customer satisfaction and help identify areas for improvement. It seems the form is fairly straightforward, with a mix of text and select fields. There's no obvious indication of any sensitive or personal data collection, so it should be relatively safe to use. I assume it's not a form for collecting payment information, so there should be no need for PCI-DSS or similar compliance explanations...</thinking>
-
 # it_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on your satisfaction with a service or product. Your input will help us understand your experience and identify areas where we can improve.

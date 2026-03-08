@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to gather feedback from clients regarding technical issues they have encountered. It is designed to ensure that the feedback is concrete, specific, and actionable, allowing the development team to improve the product or service based on the client's experience. The goal is to avoid duplication of issues and provide the most effective solution possible. This form is typically used when a client has experienced a problem and needs to report it to the development team.
-</thinking>
-
 # Tech Client Feedback Inquiry Form - Help Guide
 ## Purpose
 The Tech Client Feedback Inquiry Form is a tool for clients to report technical issues they have encountered while using our product or service. It helps the development team understand the problem and provide effective solutions.

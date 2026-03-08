@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our workplace satisfaction interview form is filled out by end users without any issues. This form is intended for end users to rate their level of satisfaction in specific areas of their workplace experience. It will help us gauge their overall experience and gather insights for improvement. To prevent duplication, please ensure that the form is not filled out by the same person more than once.
-</thinking>
-
 # workplace_satisfaction_interview_form - Help Guide
 ## Purpose
 This form is designed to gather information about your experience in the workplace. It will help us understand your satisfaction levels in various aspects of your job and provide valuable insights for improvement.

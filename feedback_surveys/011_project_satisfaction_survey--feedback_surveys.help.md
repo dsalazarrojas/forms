@@ -1,5 +1,3 @@
-<thinking>This form will be used to gather feedback from end users about the project. This feedback will help to gauge end user satisfaction and identify areas for improvement. Before starting to fill out the form, please ensure that you have completed this form for this project in the past and that you are not duplicating effort. Please note that some fields are optional, so only complete the required fields.</thinking>
-
 # Project Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from end users on their experiences with the project. Your input will help us identify areas where we can improve the project to make it more valuable and user-friendly.

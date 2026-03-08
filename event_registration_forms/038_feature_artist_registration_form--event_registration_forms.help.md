@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "feature_artist_registration_form" form is designed to collect information from artists who wish to feature their work in a showcase. This form is used to gather essential details about the artist, including their name, contact information, and a brief description of their art. The form is intended for internal use only and is not meant for public consumption. 
 
 </thinking>

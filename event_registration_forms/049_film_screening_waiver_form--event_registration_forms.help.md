@@ -1,5 +1,3 @@
-<thinking>Internal Note: This form is designed to collect participant information and waiver agreements for film screening events. It's crucial to understand that this form is not affiliated with any form platforms, and its content is derived from public survey topic metadata. The form's purpose is to ensure that participants have a clear understanding of the event's terms and conditions, and that they are aware of how their images will be used. It's essential to fill out this form carefully and accurately to ensure a smooth and secure experience.</thinking>
-
 # Film Screening Waiver Form - Help Guide
 ## Purpose
 The Film Screening Waiver Form is designed to collect participant information and waiver agreements for film screening events. It's intended to be a clear and concise way to communicate the terms and conditions of the event and ensure that participants are aware of their rights and responsibilities.

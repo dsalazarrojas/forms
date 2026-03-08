@@ -1,8 +1,3 @@
-<thinking>
-This form is a registration form for the School Talent Quest Tournament. The purpose of this form is to collect information from students who wish to participate in the tournament. This form is meant to be filled out by students who want to showcase their talents. The form is not for staff or teachers to register students. This form should not be filled out by students who have already registered for the tournament or who are not eligible to participate.
-
-</thinking>
-
 # School Talent Quest Tournament Entry Form - Help Guide
 ## Purpose
 This form is a registration form for the School Talent Quest Tournament, where students can showcase their talents to a panel of judges. Fill out this form to register for the tournament.

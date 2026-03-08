@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their e-commerce shopping experience. It is meant to be used by customers to provide information about a specific purchase they made, such as the product name, rating, feedback, contact information, and details about the purchase date and time, amount, and product ID. This form is likely used for internal analysis and improvement of the e-commerce platform.
-
-To avoid duplication and ensure accurate feedback, it's essential to review the form fields carefully and complete it only once for each purchase. This will help in providing a clear and comprehensive picture of the customer's experience.</thinking>
-
 # E Commerce Shopping Experience Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their shopping experience on the e-commerce platform.

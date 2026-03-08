@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a public event permit application. It is used to collect details about an event such as its date, time, location, type, and organizer's contact information. The form is designed to be completed by event organizers who are applying for a permit for their event.
-</thinking>
-
 # Public Event Permit Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about a public event that requires a permit. It is used by event organizers to apply for a permit and provide the necessary details about the event.

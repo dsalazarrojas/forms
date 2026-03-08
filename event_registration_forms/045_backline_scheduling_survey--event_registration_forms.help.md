@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Backline Scheduling Survey - Help Guide
+> # Backline Scheduling Survey - Help Guide
 
 ## Purpose
 This form is used to collect information from artists and their representatives to schedule backline equipment and services for performances. Please complete this form to provide accurate and timely information to our production team.

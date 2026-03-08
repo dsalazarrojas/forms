@@ -1,11 +1,3 @@
-<thinking>
-Form purpose: This form is used to collect feedback from users about their experience with the sports facility's ventilation system. The form is designed to gather information about the air quality, ventilation, and overall experience of the facility. This feedback will help the facility management to improve the environment and make it more comfortable for users.
-
-Non-duplication check: Before filling out this form, please ensure that you have not already provided feedback on this topic. Duplicate submissions will not be considered.
-
-Internal note: This form is designed to be completed by users who have visited the sports facility. Please fill out this form to provide your honest feedback about your experience.
-</thinking>
-
 # sports_facility_ventilation_feedback_survey - Help Guide
 ## Purpose
 This form is used to collect feedback from users about their experience with the sports facility's ventilation system.

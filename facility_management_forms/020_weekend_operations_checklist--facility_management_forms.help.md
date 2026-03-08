@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be used for checking the status of site-related operations over the weekend. It is likely used in an IT or facility management context. There is an option to check if the site is ready, what tasks are scheduled, and if there are any issues or escalations. The form may be used for quick assessments or check-ins during off-peak hours or weekend shifts. It's not clear if this form is intended for internal or external use, but its design suggests it's for internal purposes, possibly for management or coordination. There's also a field for notes, suggesting it may be used for tracking site-specific details or incidents.
-</thinking>
-
 # Weekend Operations Checklist - Help Guide
 ## Purpose
 The Weekend Operations Checklist is used to track the status of site-related operations during off-peak hours or weekend shifts. It helps assess if a site is ready for use, what tasks are scheduled, and if there are any issues or escalations.

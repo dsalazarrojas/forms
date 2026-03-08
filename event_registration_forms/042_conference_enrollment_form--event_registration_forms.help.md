@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for a conference. It is meant for attendees to enroll in the conference, providing personal details such as their name, organization, and email address. The form also includes options for choosing a registration type (pass or ticket type), meal preferences, payment status, and any accessibility needs. It is essential to fill out this form accurately to ensure proper enrollment and badge pick-up. Please ensure that you fill out this form according to your registration needs.
-</thinking>
-
 # Conference Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect registration information for conference attendees, ensuring accurate enrollment and proper badge pick-up.

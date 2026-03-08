@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Event Sign In Confirmation - Help Guide
 ## Purpose
 This form is used to confirm the attendance of attendees to an event. It is typically used by event organizers to collect information from attendees and track their participation.

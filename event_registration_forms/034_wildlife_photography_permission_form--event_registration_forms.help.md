@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to gather information from wildlife photographers about their activities, including the organization they work with, contact information, the purpose of their photography, and any model releases or consents needed. It's essential to ensure that all fields are completed accurately, as it will help us understand the photographer's intent and the context of their work. Before starting, please review the following help guide to ensure you understand each field's purpose.
-...</thinking>
-
 # Wildlife Photography Permission Form - Help Guide
 ## Purpose
 This form is used by wildlife photographers to provide information about their activities, ensure model releases or consents, and facilitate understanding with our team.

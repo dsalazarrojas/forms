@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of the "Learning Committee Feedback Form" is to gather valuable feedback from students on their learning experiences, allowing the committee to understand what's working well and what areas need improvement. This feedback will help inform decisions on course development, resource allocation, and other initiatives to enhance the learning environment. Before proceeding, please ensure that you are providing feedback on a specific course or program, and that your comments are concise and focused. If you have provided feedback recently, please note that this form is designed to collect new insights and ideas, and your previous comments may not be visible on this form. 
-
-</thinking> 
-
 # Learning Committee Feedback Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from attendees for the Public Speaking Workshop. The form should be completed to ensure accurate and efficient registration processing. Please ensure you only register once to avoid duplication of efforts.
-</thinking>
-
 # Public Speaking Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Public Speaking Workshop. Please fill out the form completely and accurately to ensure a smooth registration process.

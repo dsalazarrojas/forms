@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to request approval for waste recycling at a facility. To ensure that the form is completed correctly and efficiently, please follow these steps and guidelines...</thinking>
-
 # Facility Waste Recycling Approval Request Form - Help Guide
 ## Purpose
 This form is designed to be submitted by facilities to request approval for waste recycling activities. It ensures that the necessary information is provided to facilitate a smooth and efficient recycling process.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their experience with vendors, with the goal of consolidating and analyzing this feedback for improvement. This form is designed to be a simple and efficient way to gather ratings, comments, and other information about vendors.
-
-To ensure data quality and consistency, this form is intended for internal use only. Please refrain from sharing this form with external parties or using it for commercial purposes. If you need to use this form for any other purpose, please contact us at form@gic.mx to discuss further.
-
-</thinking>
-
 # Vendor Feedback Consolidation Report Form - Help Guide
 ## Purpose
 The Vendor Feedback Consolidation Report Form is designed to collect feedback from customers about their experience with vendors. The feedback collected through this form will be used to help improve the quality of services provided.

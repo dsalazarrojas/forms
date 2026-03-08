@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Master Universal Miss Presale - Help Guide
 
 ## Purpose

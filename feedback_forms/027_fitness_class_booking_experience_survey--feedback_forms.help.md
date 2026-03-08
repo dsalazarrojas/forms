@@ -1,12 +1,3 @@
-<thinking>
-The "Fitness Class Booking Experience Survey" is a form designed to gather information from individuals about their experiences with fitness classes. The form is intended to help fitness centers and instructors understand the preferences and opinions of their customers, allowing them to improve their services and provide a better experience for users. 
-
-Before filling out this form, ensure that you have not already provided feedback on this topic, as your responses will be added to a database for analysis. Your input will be anonymous, and all data will be used for internal purposes only. 
-
-This form is not affiliated with any specific form platform and is an original creation based on public data.
-
-</thinking>
-
 # Fitness Class Booking Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experiences with fitness classes. Your input will help our fitness center understand what works well and what doesn't, so we can improve our services and provide a better experience for everyone.

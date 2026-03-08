@@ -1,7 +1,3 @@
-<thinking>
-The "Release Form Submission" is designed to gather information from the participant about their activity or event. This form will help the participant submit their release form, which is required for the event. To avoid duplication, please check if you have already submitted a release form before proceeding.
-</thinking>
-
 # Release Form Submission - Help Guide
 ## Purpose
 The "Release Form Submission" is a form designed to collect information from participants about their activity or event. It is required for all participants to submit the form, which will be verified and reviewed by organizers to ensure a smooth and secure event.

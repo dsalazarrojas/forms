@@ -1,7 +1,3 @@
-<thinking>
-This is a form for capturing inspection data for zoos regarding their habitat conditions. This form is designed for collecting and tracking information about the zoos' facilities. The purpose of this form is to ensure that the habitats are inspected regularly and that any issues are addressed promptly. This form should not be used for other purposes, such as for reporting animal species or for tracking animal care. The fields in this form are designed to capture specific information about the habitat, animal, and inspection details. Before filling out this form, please ensure that you have all the necessary information and that you are familiar with the fields and their purposes.
-</thinking>
-
 # zoo_habitat_inspection_form - Help Guide
 ## Purpose
 This form is designed to collect data about the condition of zoos' facilities during inspections. Please use this form to document the inspection results, which will help the management team address any issues and improve the overall condition of the habitats.

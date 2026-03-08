@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather professional feedback on software tools released for internal use. The goal is to collect structured information from end-users, which can be used to refine and improve the tools. Please ensure that each user completes the form only once for each software tool.
-
-Before proceeding, check that you have not already provided feedback on this software tool. If you have previously submitted feedback, this form will not be accessible.
-
-</thinking>
-
 # software_tool_release_it_professional_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to gather professional feedback on software tools released for internal use. This feedback is crucial for identifying areas of improvement and refining the tools to better meet the needs of our users.

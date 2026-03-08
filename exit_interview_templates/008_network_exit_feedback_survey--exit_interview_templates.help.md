@@ -1,11 +1,3 @@
-<thinking>...The purpose of this form is to gather feedback from employees who are leaving the network to help the network management team understand the reasons behind the departure and identify areas for improvement. This information will be used to inform future decisions and make necessary changes to enhance the employee experience.
-
-Before starting the form, please note that this is a survey to provide your feedback, and all responses will be kept confidential. You are not being penalized or judged for your feedback; we value your opinions and want to hear your thoughts.
-
-Please fill out the form completely and honestly, and be as detailed as possible in your answers. If you have any questions or concerns, please don't hesitate to reach out to the network management team.
-
-</thinking>
-
 # Network Exit Feedback Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback from employees who are leaving the network. Your input will help the network management team understand the reasons behind your departure and identify areas for improvement.

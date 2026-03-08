@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form, and how should we ensure that it is not duplicated in our process?</thinking>
-
 To prevent duplicate forms from being submitted, we should only allow the form to be submitted once the employee's manager has been informed and has signed the form. This ensures that the manager's signature is obtained and that the employee has had a chance to discuss their departure. The form can then be kept on file for record-keeping and reference purposes.
 
 </thinking>

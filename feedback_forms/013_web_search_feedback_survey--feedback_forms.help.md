@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Web Search Feedback Survey - Help Guide
 
 ## Purpose

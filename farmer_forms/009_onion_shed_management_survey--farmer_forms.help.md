@@ -1,15 +1,3 @@
-<thinking>... 
-
-This form is designed for farmers to input information about their onion shed management practices. The form has two primary goals: 
-1. To collect data on the type of operation (onion farm, packing, storage, or other) and its associated shed management details.
-2. To gather information on the shed's infrastructure, such as its location, capacity, and management conditions.
-
-The form is likely used by farmers to keep track of their shed's performance and identify areas of improvement for better onion storage and management.
-
-Please note that this form is not intended for general public users, but rather for farmers and agricultural professionals who need to manage and optimize their onion shed operations.
-
-</thinking>
-
 # Onion Shed Management Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients or clients regarding their therapy sessions. It is intended to be filled out by the individual who attended the session, and is a way for them to provide their honest feedback about the session. 
-</thinking>
-
 # Therapy Feedback Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from patients or clients about their therapy sessions. This feedback is used to help therapists improve their practice and provide better services to their clients.

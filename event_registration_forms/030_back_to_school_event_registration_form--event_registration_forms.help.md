@@ -1,10 +1,3 @@
-<thinking> 
-This form is a Back To School Event Registration Form, designed for parents or guardians to register for their child to attend a school event. 
-This form is intended for school events that require pre-registration to manage attendee numbers, provide necessary information, and facilitate event planning. 
-The form is used by parents or guardians to provide information about themselves, their child, and their family's attendance to the event. 
-The form will be reviewed by the event organizers to ensure accurate records and to provide relevant information for event execution.
-</thinking>
-
 # Back To School Event Registration Form - Help Guide
 ## Purpose
 The Back To School Event Registration Form is designed for parents or guardians to register their child for a school event. 

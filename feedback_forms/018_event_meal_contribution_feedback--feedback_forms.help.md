@@ -1,7 +1,3 @@
-<thinking>
-The form "Event Meal Contribution Feedback" is designed to gather feedback from attendees about their experience with meal contributions at events. This feedback is essential to understand the quality of meal contributions and identify areas for improvement. The form is divided into several sections, each focusing on a specific aspect of the experience. Please ensure you complete this form only once per event, and do not repeat any answers that you've already provided in this or other feedback forms. Your input will help us provide better meal contributions in the future.
-</thinking>
-
 # Event Meal Contribution Feedback - Help Guide
 ## Purpose
 The Event Meal Contribution Feedback form is designed to gather feedback from attendees about their experience with meal contributions at events. This feedback helps us understand the quality of meal contributions and identify areas for improvement to provide better experiences in the future.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from participants for a marathon event registration and t-shirt reservation. The form collects basic personal information such as name, contact details, and participant-specific information like age, gender, and occupation. Additionally, it asks about t-shirt preferences, emergency contact details, and participant's diet and occupation.
-
-The form is designed to be completed by participants who want to register for the marathon event and reserve a t-shirt. It is not intended for use as a general contact form or for other purposes.
-
-The form's purpose is to collect relevant information for the event organizers to prepare for the event and provide participants with their reserved t-shirt details.
-
-</thinking>
-
 # Marathon Registration and Shirt Reservation Form - Help Guide
 ## Purpose
 The marathon registration and shirt reservation form is a simple form designed to collect participant information and t-shirt preferences for the upcoming marathon event. Please read through this guide to understand how to complete the form accurately and efficiently.

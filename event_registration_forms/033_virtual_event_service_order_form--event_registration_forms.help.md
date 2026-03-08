@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a virtual event service order. It is used by customers or clients to place orders for virtual event services, such as webinars, workshops, or conferences. The form is used to gather essential details about the event, including the event name, date, services required, and contact information. This form is intended to be used for internal purposes within the organization, and the data collected will be used to fulfill orders and provide services to customers.
-
-The form is not intended to be used for marketing or public-facing purposes, and it is not designed to be completed by general public. The form fields are designed to be completed by authorized customers or clients who have a legitimate reason to place an order for virtual event services.
-
-Before proceeding, please ensure that you have the necessary permissions and authorization to complete this form. If you are unsure, please contact your organization's customer support team for further assistance.
-
-</thinking>
-
 # Virtual Event Service Order Form - Help Guide
 ## Purpose
 The Virtual Event Service Order Form is used to collect information for virtual event services, such as webinars, workshops, or conferences. This form is intended for internal use and is not for general public.

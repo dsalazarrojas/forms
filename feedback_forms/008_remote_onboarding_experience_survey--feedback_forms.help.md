@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from new hires about their onboarding experience at the company. This feedback will help the company identify areas of improvement to make the onboarding process more efficient and effective. Please ensure that the information provided is relevant and not a duplicate submission. This form will not be used for any other purpose than to gather feedback for the company's internal improvement. 
-</thinking>
-
 # Remote Onboarding Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from new hires about their onboarding experience. Your input will help us identify areas of improvement and make the onboarding process more efficient and effective.

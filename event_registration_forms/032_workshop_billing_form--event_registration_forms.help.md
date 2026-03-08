@@ -1,15 +1,3 @@
-<thinking>
-This form is used to capture workshop participant information and billing details. It is intended for workshops, but the term "workshop" is somewhat generic, so this form can be adapted to other types of events or activities as well. 
-
-The form is designed to collect participant details, which can be useful for event organizers or administrators to keep track of attendees and their associated billing information. 
-
-The form is not intended for live use during event registration, but rather as a tool for collecting information for billing purposes after the fact. 
-
-The form does not enforce business logic for participant capacity or availability, nor does it handle duplicate entries in any way. 
-
-It is recommended to use the participant ID field to prevent duplicate entries.
-</thinking>
-
 # Workshop Billing Form - Help Guide
 ## Purpose
 The purpose of this form is to collect participant and billing details for events, allowing event organizers or administrators to track and manage billing information.

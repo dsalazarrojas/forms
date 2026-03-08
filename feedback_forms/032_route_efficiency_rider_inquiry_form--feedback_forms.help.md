@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from riders regarding the efficiency of a particular route or service. It aims to gather information on the frequency of delays, the level of satisfaction, and any suggestions or additional information the rider may have. The purpose of this form is to improve the route efficiency by identifying areas that need improvement. 
-
-This form should not be used to duplicate or replicate existing data entry processes. Before filling this form, please ensure that you have not already submitted feedback on the same route or service.
-
-Please take a few moments to thoroughly complete this form. The more detailed and accurate information you provide, the more valuable the feedback will be to us.
-
-</thinking>
-
 # Route Efficiency Rider Inquiry Form - Help Guide
 ## Purpose
 The Route Efficiency Rider Inquiry Form is designed to collect feedback from riders on the efficiency of a particular route or service.

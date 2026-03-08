@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Art And Poetry Satisfaction Survey" form. This form is designed to collect feedback from attendees about their experience at an art and poetry event. The form has multiple sections, each focusing on a different aspect of the event, such as attendee information, event experience, art and poetry performances, and logistics. The goal of this guide is to help users understand what to expect and how to complete the form effectively.
-</thinking>
-
 # Art And Poetry Satisfaction Survey - Help Guide
 ## Purpose
 The Art And Poetry Satisfaction Survey is designed to gather feedback from attendees about their experience at an art and poetry event. This feedback will help us understand what worked well and what could be improved for future events.

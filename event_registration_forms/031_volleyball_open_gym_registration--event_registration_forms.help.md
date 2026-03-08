@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, ensure that the form is relevant to the volleyball open gym registration context and not for other similar events. Also, verify with the relevant stakeholders to ensure that the form fields cover all the necessary information for the event.
-</thinking>
-
 # volleyball_open_gym_registration - Help Guide
 ## Purpose
 The Volleyball Open Gym registration form allows participants to register for a volleyball session by providing essential details. This form is designed for the volleyball open gym event and should only be used for this specific event.

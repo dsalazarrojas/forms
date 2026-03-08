@@ -1,12 +1,3 @@
-<thinking>
-This guide is for a form called "video_content_preferences_survey_form". This form is used to collect user preferences for video content, such as the type of content, preferred formats, video length, and language. The form has multiple pages, each with various fields to input user preferences. 
-
-The form is designed to ensure that users can provide their preferences for video content, which will help in understanding their content consumption habits. This form is not required for users to access any service, but it is a helpful tool for content providers to understand user needs.
-
-To complete this form, users will be taken through multiple pages, each with different fields to input their preferences. This guide will walk you through each page and field to ensure that users understand what they need to input.
-
-</thinking>
-
 # video_content_preferences_survey_form - Help Guide
 
 ## Purpose

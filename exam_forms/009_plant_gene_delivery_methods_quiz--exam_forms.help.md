@@ -1,5 +1,3 @@
-<thinking>Before generating the help document, I'll review the provided YAML form to ensure I understand its purpose and requirements. The form is called "plant_gene_delivery_methods_quiz" and it appears to be a survey or questionnaire designed to gather information about gene delivery methods in plants. The form has 9 questions with different types of input fields such as select_one, select_multiple, and text. The purpose of this form seems to be to gather opinions or preferences about gene delivery methods in plants, likely for research or educational purposes. I'll review the field-by-field explanations to ensure I don't invent any unsupported business logic.</thinking>
-
 # plant_gene_delivery_methods_quiz - Help Guide
 ## Purpose
 This form is designed to gather information about gene delivery methods in plants. It is intended to understand how gene delivery methods are used, prepared, evaluated, and their safety considerations.

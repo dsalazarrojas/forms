@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is intended to collect feedback from users, allowing them to share their thoughts, ratings, and age group information. The form will not collect any personally identifiable information, so users can fill it out anonymously. Before filling out this form, please note that you will receive a confirmation email with your submission status.</thinking>
 
 # Youth And Eternity Feedback Form - Help Guide

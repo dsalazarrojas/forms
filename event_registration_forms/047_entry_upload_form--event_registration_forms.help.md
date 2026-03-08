@@ -1,7 +1,3 @@
-<thinking>
-This form is used for uploading entries to a platform, likely for administrative or record-keeping purposes. The form is designed to be simple and straightforward, with only a few fields to collect basic information. It is possible that the form is meant for internal use only, and its content should not be duplicated or shared without permission. If you're unsure about the form's purpose or usage, please contact form@gic.mx.
-</thinking>
-
 # Entry Upload Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking> 
-To determine whether the form is relevant and not already duplicated in the system, we'll assume the form is designed for teams to register for the Remote Team Cohesion Program. This program aims to enhance remote team collaboration, communication, and productivity. The form is likely already duplicated in the system for this purpose, as it is a registration form. We'll proceed with the assumption that the form is a genuine request for registration for the Remote Team Cohesion Program. 
-</thinking>
-
 # Remote Team Cohesion Program Application Form - Help Guide
 ## Purpose
 This form is designed to register your team for the Remote Team Cohesion Program. Please complete this form to provide your team information and schedule.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request electricity for a sponsor booth during an event. The purpose of this form is to gather information from sponsors about their electricity requirements, including the event date, booth location, power request, installation window, approval window, and approval status. The form helps event organizers to manage and coordinate electricity requests from sponsors in a centralized and efficient manner.
-
-To complete this form, users should ensure that the required fields are filled in correctly to avoid any delays in processing the request. The approval status field is not required, but it's intended to track the approval progress of the request.</thinking>
-
 # Sponsor Booth Electricity Request Form - Help Guide
 ## Purpose
 The Sponsor Booth Electricity Request Form is used to request electricity for a sponsor booth during an event.

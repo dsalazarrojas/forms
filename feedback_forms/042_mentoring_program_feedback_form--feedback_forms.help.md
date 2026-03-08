@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mentoring Program Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from mentees about their experience in the mentoring program. The form aims to gather information on the effectiveness of the program, the performance of the mentor, and any feedback or comments that mentees may have.

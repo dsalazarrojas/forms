@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Gym Facility Feedback Form is to collect feedback from users about their experience at a particular gym facility. This form is intended to help management identify areas of improvement and make data-driven decisions to enhance customer satisfaction.
 
 ## Gym Facility Feedback Form - Help Guide

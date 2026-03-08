@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback from users who need to provide input on a subject representative, such as concerns, suggestions, or feedback. The purpose of this form is to ensure that the subject representative is aware of any issues or suggestions that users may have, and to provide an opportunity for them to respond or address these matters.
-The form is typically filled out by users when they have a concern or suggestion regarding the subject representative's performance, communication, or overall experience. To prevent duplication, the form is only accessible to authorized individuals who have been granted permission to fill it out.
-</thinking>
-
 # Subject Representative Feedback Form - Help Guide
 ## Purpose
 The Subject Representative Feedback Form is designed to collect feedback from users on a subject representative's performance, communication, and overall experience. This form ensures that users have a clear and efficient way to share their concerns and suggestions with the subject representative.

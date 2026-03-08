@@ -1,11 +1,3 @@
-<thinking>
-This help guide is for the Reader Tutor Feedback Survey form, used to collect feedback from readers after their tutoring sessions.
-This form is intended for readers to provide their thoughts and experiences about their sessions with a tutor. The form is not mandatory, and the feedback provided is voluntary.
-The form has been designed to be straightforward and easy to use, with multiple-choice questions and text fields to help the reader express their opinions.
-Please note that this form is not intended to replace the actual session notes provided by the tutor, but rather to complement them with additional feedback from the reader.
-The form should be completed by the reader, and the feedback will be reviewed by the tutoring program administrators.
-</thinking>
-
 # Reader Tutor Feedback Survey - Help Guide
 ## Purpose
 This form is intended to collect feedback from readers about their experiences with a tutor, to help improve the tutoring program.

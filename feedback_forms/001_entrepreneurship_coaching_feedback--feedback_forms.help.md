@@ -1,9 +1,3 @@
-<thinking>
-This form, "entrepreneurship_coaching_feedback", is designed to collect feedback from coaching sessions with entrepreneurs and business owners. The form is intended to be a structured evaluation of the coaching process, helping coaches understand the strengths and areas for improvement to enhance their coaching practice.
-This form should only be used for individual coaching sessions. Please do not submit duplicate feedback. Each submission should be unique and relevant to a single coaching session.
-The form is divided into several sections. Each section has its own specific purpose and guidelines. Please ensure you provide clear and concise answers for each field.
-</thinking>
-
 # entrepreneurship_coaching_feedback - Help Guide
 ## Purpose
 This form is used to collect feedback from coaching sessions with entrepreneurs and business owners. The feedback is intended to help coaches evaluate their coaching practice and identify areas for improvement.

@@ -1,14 +1,3 @@
-<thinking>
-We need to ensure that this form is clear and easy to use for our end users, and that the help guide accurately conveys the intended purpose and functionality of the form.
-
-To avoid duplication, we should check if a similar form exists or has been submitted recently. This might involve integrating the form with our content management system (CMS) or database to retrieve existing suggestions and display them alongside the submission form.
-
-The form should also be accessible and compatible with various screen readers and assistive technologies to ensure equal access for all users.
-
-The purpose of this form is to gather topic suggestions for our sharing sessions. We want to encourage users to submit their ideas for new topics to be covered in our sharing sessions. This will allow us to create engaging and relevant content for our community.
-
-The form fields should be self-explanatory, but a clear and concise help guide will still be necessary to ensure users understand what is expected of them and how to complete the form correctly.</thinking>
-
 # Topic Suggestion Form For Sharing Session - Help Guide
 ## Purpose
 The Topic Suggestion Form is designed to collect ideas for new topics to be covered in our sharing sessions. We invite you to submit your suggestions, which will help us create engaging and relevant content for our community.

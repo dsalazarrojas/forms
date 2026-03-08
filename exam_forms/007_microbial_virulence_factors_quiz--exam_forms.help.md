@@ -1,7 +1,3 @@
-<thinking>
-The form is a quiz designed to assess knowledge about microbial virulence factors. The questions cover various bacteria, including E. coli, S. aureus, Listeria, and S. cerevisiae. The form is likely used for educational or training purposes, possibly in a scientific or medical setting. The quiz is not for general public use and requires expertise in the field of microbiology or medicine. The form has multiple questions, and the user is asked to select one or multiple answers depending on the question type. The options for each question seem to be specific factors or properties related to the virulence of the corresponding bacteria.
-</thinking>
-
 # Microbial Virulence Factors Quiz - Help Guide
 
 ## Purpose

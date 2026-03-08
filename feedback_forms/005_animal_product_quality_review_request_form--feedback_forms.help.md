@@ -1,5 +1,3 @@
-<thinking>Internal reasoning and duplication checks should be applied to ensure the form is completed only when there's a legitimate need for a quality review, and that the same request is not duplicated. This form is for requesting quality reviews on animal products. To avoid unnecessary reviews, the form should be filled out only when there's a genuine concern or issue that requires evaluation. Before filling out the form, ensure that the issue has not been previously reviewed or addressed. If the request is for a follow-up review, the form should be filled out only if there's new information or a change in circumstances. To prevent duplication, the form should be checked for existing requests before submitting a new one.</thinking>
-
 # Animal Product Quality Review Request Form - Help Guide
 ## Purpose
 This form is used to request a quality review on an animal product for evaluation and assessment. Fill out this form to inform the quality team of a product issue or concern.

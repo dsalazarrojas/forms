@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experience with purchasing shoes. It will help us understand how our customers rate our products, services, and overall experience. This form is meant for customers who have made a purchase from us.
-Please note that this form is for customers who are willing to provide feedback and is not intended for sales or marketing purposes. We appreciate your time and feedback!
-
-Before proceeding with the form, ensure that you have not filled it out before. Your input will help us improve our service, and we value your opinion.
-
-</thinking>
-
 # Shoe Purchase Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with purchasing shoes from us.

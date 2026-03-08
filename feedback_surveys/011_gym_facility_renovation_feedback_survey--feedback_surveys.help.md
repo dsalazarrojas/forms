@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from gym facility users about their experience with the facility's renovation. The purpose of this form is to gather information on how the users feel about the renovation, what they think could be improved, and their overall satisfaction with the updated facility. Before completing the form, please take a moment to review the form's questions and understand what is being asked.
-</thinking>
-
 # Gym Facility Renovation Feedback Survey - Help Guide
 
 ## Purpose

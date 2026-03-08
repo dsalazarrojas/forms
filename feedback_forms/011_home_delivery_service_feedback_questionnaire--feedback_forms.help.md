@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Delivery Service Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our home delivery service. It is meant to gather information on the areas of service and satisfaction levels experienced by customers. The feedback collected through this form will help us improve our service to better meet your needs.

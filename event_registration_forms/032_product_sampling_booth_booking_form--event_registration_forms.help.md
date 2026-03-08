@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to book a sampling booth for in-store promotions or events. The form is designed to collect essential information from the event organizer, including event dates, required information, product details, and contact information. This form will be used to process and manage booth bookings internally. The current version of the form is a simple, text-based form with dropdown menus for certain fields.
-</thinking>
-
 # product_sampling_booth_booking_form - Help Guide
 ## Purpose
 The product sampling booth booking form is used for customers to book a sampling booth for in-store promotions or events.

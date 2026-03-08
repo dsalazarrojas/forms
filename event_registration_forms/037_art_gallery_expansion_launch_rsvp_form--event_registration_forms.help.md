@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the Art Gallery Expansion Launch RSVP form is used correctly by the end-users. This form is used for guests to register their interest in attending the event and provide necessary information for the organizers. The form should be filled out by each guest who plans to attend the event. We should check if the form has been filled out correctly and if it's not a duplicate submission.
-
-We will be using the provided YAML to create a user-facing help guide that explains the purpose, how to complete the form, and what each field means.
-
-</thinking>
-
 # Art Gallery Expansion Launch RSVP Form - Help Guide
 ## Purpose
 The Art Gallery Expansion Launch RSVP Form is used to register your interest in attending the Art Gallery Expansion launch event. Please fill out this form to provide the necessary information for the event organizers.

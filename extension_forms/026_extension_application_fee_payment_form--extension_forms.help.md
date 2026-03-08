@@ -1,7 +1,3 @@
-<thinking>
-This form is for managing applications and payments for an extension. The form has multiple pages with different fields for various types of information. This form is not meant for general use and should only be used for specific types of extensions. To ensure accurate and efficient processing of applications and payments, please review the fields carefully before submitting the form.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect and manage applications and payments for extensions. It provides a structured format for users to input their information and payment details. The form is intended for specific types of extensions, so please review the form carefully before submitting it.

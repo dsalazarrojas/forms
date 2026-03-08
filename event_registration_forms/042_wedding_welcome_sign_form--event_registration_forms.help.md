@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect RSVP and contact information from guests attending a wedding. It is meant to be used by wedding hosts to gather information about their guests and to ensure that they can plan for the number of attendees. The form does not require any specific information and can be completed voluntarily by guests. It is likely to be used in conjunction with other wedding-related forms, such as a guest list or a seating chart. To avoid duplication of effort, please ensure that guests only complete this form once and do not update their information after the wedding. This form is meant to be completed by the guests themselves, not the wedding hosts or planners.
-</thinking>
-
 # Wedding Welcome Sign Form - Help Guide
 
 ## Purpose

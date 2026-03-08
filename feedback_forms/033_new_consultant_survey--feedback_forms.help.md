@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Consultant Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from new consultants about their experiences, feedback, and suggestions for improving our service. It helps us to identify areas of improvement and make informed decisions to enhance the consultant experience.

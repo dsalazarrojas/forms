@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a clear and concise user-facing help guide for this "Code Of Conduct Agreement Authorization Form". This form is a critical document that outlines the expectations and responsibilities of event participants, ensuring a safe and respectful environment for everyone. I will carefully review the form fields and provide a detailed explanation of each section and field, highlighting the importance of accuracy and truthfulness in the responses. By doing so, I will help end-users understand the purpose and requirements of the form, making it easier for them to complete it correctly and confidently.</thinking>
-
 # Code Of Conduct Agreement Authorization Form - Help Guide
 ## Purpose
 This Code Of Conduct Agreement Authorization Form is a vital document that outlines the expectations and responsibilities of event participants. By completing this form, you will be affirming your commitment to treating all participants with respect and dignity, adhering to safety and security guidelines, and upholding the code of conduct principles.

@@ -1,5 +1,3 @@
-<thinking>**This form's purpose is to gather feedback from participants in a digital wellness education series, with the goal of understanding their experience and improving future workshops. This form is designed to be completed by users who have attended a workshop or series, and the feedback collected will help inform the development of future digital wellness education content. To ensure accuracy and quality of feedback, please make sure to provide thoughtful and honest responses. If you have already filled out this form, please do not submit duplicate responses. This form is intended for individuals who have participated in a workshop or series, and your input will help shape future content and events.</thinking>
-
 # digital_wellness_education_series_evaluation_form - Help Guide
 
 ## Purpose

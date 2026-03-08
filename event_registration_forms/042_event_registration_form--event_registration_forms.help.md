@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for registration purposes for an event. The form should only be filled out for events that are relevant to the user's interests and not for events that are not attended. To prevent duplication of effort, the form will only be filled out once per event.
-</thinking>
-
 # Event Registration Form - Help Guide
 ## Purpose
 This form is used to register attendees for events. Please fill out the form carefully and truthfully to ensure accurate records.

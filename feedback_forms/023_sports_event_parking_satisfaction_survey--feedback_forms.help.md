@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide will explain how to complete the "Sports Event Parking Satisfaction Survey" form, which is designed to gather feedback from users about their parking experiences at sports events. This form should be completed after the event, and its purpose is to improve the parking facilities and services provided.
-
-This help guide will cover how to fill out the survey, what each field is used for, and any additional tips to ensure accurate and helpful responses.
-
-</thinking>
-
 # Sports Event Parking Satisfaction Survey - Help Guide
 ## Purpose
 

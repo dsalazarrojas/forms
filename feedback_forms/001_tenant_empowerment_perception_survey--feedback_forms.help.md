@@ -1,25 +1,3 @@
-<thinking>
-The form purpose is to gauge the perception of tenants about their experience with their landlord/property manager. This survey aims to collect information on various aspects of communication, maintenance, and overall satisfaction with the building/property condition. 
-
-This form has been designed to be filled out once, so it's essential to complete it thoroughly and accurately. 
-
-The survey is divided into several pages, each focusing on a specific topic. The following fields are included:
-
-*   **Communication Satisfaction:** Measures the overall satisfaction with communication from the landlord/property manager.
-*   **Communication Frequency:** Checks how often tenants communicate with their landlord/property manager.
-*   **Communication Channel:** Identifies which communication channel tenants most often use (e.g., email, phone, in person).
-*   **Tenant Awareness:** Measures the overall awareness of maintenance and repairs in the building/property.
-*   **Maintenance Frequency:** Checks how often tenants experience maintenance or repairs in their building/property.
-*   **Communication Effectiveness:** Measures the effectiveness of communication from the landlord/property manager.
-*   **Communication Satisfaction 2:** Measures overall satisfaction with the building/property condition.
-*   **Maintenance Satisfaction:** Measures the overall satisfaction with maintenance and repairs in the building/property.
-*   **Feedback:** Checks how often tenants provide feedback to their landlord/property manager.
-*   **Tenant Survey:** Measures overall satisfaction with the building/property condition.
-*   **Maintenance Awareness:** Measures the awareness of maintenance and repair notifications from the landlord/property manager.
-*   **Maintenance Frequency 2:** Checks how often tenants experience issues with maintenance and repairs in their building/property.
-*   **Maintenance Satisfaction 2:** Measures overall satisfaction with maintenance and repairs in the building/property.
-
-Please make sure to answer each question carefully and accurately, as the information will be used to improve the landlord/property manager's communication and maintenance services. Thank you for taking the time to complete this survey!</thinking>
 # Tenant Empowerment Perception Survey - Help Guide
 ## Purpose
 The Tenant Empowerment Perception Survey is designed to gauge the perception of tenants about their experience with their landlord/property manager. The survey aims to collect information on various aspects of communication, maintenance, and overall satisfaction with the building/property condition.

@@ -1,10 +1,4 @@
-> <thinking>
-This form is a generic event request form designed to collect event information for further processing and planning. 
-This form is intended to be used for creating new events, and the provided fields cover the essential aspects of an event, including its type, category, dates, location, details, and status. To ensure that events are well-organized and non-duplicative, please use this form to submit new event requests.
-
-</thinking>
-
-# Create A New Event - Help Guide
+> # Create A New Event - Help Guide
 ## Purpose
 This form is designed to collect essential information about a new event, which will be used for further processing and planning.
 

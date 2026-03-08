@@ -1,7 +1,3 @@
-<thinking>
-The Tractor Inspection Form is designed to help farmers inspect and report the status of their tractors, ensuring that they are in working condition and compliant with safety regulations. This form should only be filled out by farmers who are responsible for tractor maintenance and inspection. Please ensure that you are eligible to fill out this form before proceeding. If you are unsure, please refer to your supervisor or the relevant guidelines for clarification.
-</thinking>
-
 # Tractor Inspection Form - Help Guide
 
 ## Purpose

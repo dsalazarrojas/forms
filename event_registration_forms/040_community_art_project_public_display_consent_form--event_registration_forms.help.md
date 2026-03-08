@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from artists and creators for the public display of their artwork. The purpose of this form is to obtain their consent for the display, understand their requirements and conditions, and ensure that all parties involved are aware of their responsibilities and rights. This form should not be used for commercial purposes or to gather information about artworks that are not intended for public display.
-</thinking>
-
 # Community Art Project Public Display Consent Form - Help Guide
 ## Purpose
 The Community Art Project Public Display Consent Form is a document that collects information from artists and creators for the public display of their artwork. This form is essential for ensuring that all parties involved are aware of their responsibilities, conditions, and rights related to the display.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients who have received metaphysical consultations. The purpose of this form is to gather information about the client's satisfaction with the session, their feedback and comments, and any improvement areas or recommendations for the practitioner. This form should only be completed by clients after their session has finished. Please ensure that you have not already submitted feedback for this session, as duplicate submissions may cause confusion and be deleted.
-</thinking>
-
 # Metaphysical Consultation Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients who have received metaphysical consultations. It helps us understand their satisfaction with the session, their thoughts on the practitioner, and any areas for improvement.

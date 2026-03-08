@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and information from users about their experience in the city. The form is intended for tourists, locals, and anyone visiting or living in the city. It aims to collect user feedback on their visitation, date, contact information, and preferences. This form is likely to be used by city administrators or event planners to get a better understanding of how the city is being utilized. 
-</thinking>
-
 # Say Hello To The City - Help Guide
 ## Purpose
 The form is designed to gather feedback and information from users about their experience in the city, which will help city administrators or event planners to better understand how the city is being utilized.

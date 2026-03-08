@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to provide instructions and explanations for end-users to efficiently complete the "Streaming Quality Complaint Form". The purpose of this form is to collect feedback and complaints from users regarding streaming quality issues. It is crucial that users understand the form's intent and requirements to ensure accurate and complete submissions.
-
-Internal reasoning check: The form seems to be designed for reporting streaming quality issues, including user feedback on streaming services. The form asks for user details, issue description, and report details such as date, time, and resolution status. 
-
-To avoid duplication, users should not submit multiple forms for the same issue.
-
-</thinking>
-
 # Streaming Quality Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and complaints from users regarding streaming quality issues. Please provide as much detail as possible to help us improve our streaming services.

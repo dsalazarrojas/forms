@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for evaluating the usability of our online retail platform. It is meant to gather feedback from customers to help us understand their experiences and improve our services.
 
 **Online Retail Platform Usability Evaluation Form - Help Guide**

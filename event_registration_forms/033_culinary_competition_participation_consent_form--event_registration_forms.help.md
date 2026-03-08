@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for participants in culinary competitions to register their participation and provide necessary details for the event. It is used to collect essential information from participants, including their personal details, dish information, and consent to participate. The form will be completed by individuals who are interested in participating in the culinary competition.
-
-Before filling out this form, please ensure that you are eligible and interested in participating in the competition. You can check the competition schedule and rules before proceeding.
-
-Note that this form is a one-time use form, and once you have submitted it, you cannot revert back to the previous version. Please make sure to double-check your information before submitting.
-
-This form was created using an AI-powered form generator and is released under the Creative Commons BY 4.0 license. You are free to use, modify, and share this form as needed.
-</thinking>
-
 # Culinary Competition Participation Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants in culinary competitions, including their personal details, dish information, and consent to participate.

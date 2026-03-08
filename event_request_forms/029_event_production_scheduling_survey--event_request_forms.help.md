@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Event Production Scheduling Survey" form, used for event organizers to schedule events such as concerts, performances, or other productions. It is designed to collect essential information about the event, including venue details, production team, resources, and event specifics. When filling out this form, please ensure you are responding to the questions as accurately and thoroughly as possible.
-</thinking>
-
 # Event Production Scheduling Survey - Help Guide
 ## Purpose
 The Event Production Scheduling Survey is a crucial tool for event organizers to provide accurate and comprehensive information about their productions. This form ensures that all necessary details are captured, facilitating efficient planning and execution.

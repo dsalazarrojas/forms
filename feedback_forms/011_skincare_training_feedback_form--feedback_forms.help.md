@@ -1,9 +1,3 @@
-<thinking>
-
-To create a helpful user-facing guide for the "Skincare Training Feedback Form", we first need to understand its purpose and design. The form is designed to collect feedback from trainers who have conducted workshops and seminars on skincare-related training. The form asks for information on the workshop title, trainer's name, feedback questions, additional comments, and demographic details such as email, workshop date, trainer rating, attendees' gender and age range, and more. The form is meant to be filled out by the trainer after the workshop is completed, and the data collected will help the organization evaluate the success of the training sessions.
-
-</thinking>
-
 # Skincare Training Feedback Form - Help Guide
 ## Purpose
 This guide will help you complete the "Skincare Training Feedback Form" efficiently and accurately.

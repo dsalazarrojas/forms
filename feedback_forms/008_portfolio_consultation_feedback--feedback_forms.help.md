@@ -1,12 +1,3 @@
-<thinking>
-This form is a feedback mechanism used by users to provide input on a portfolio consultation, likely used to assess the quality and effectiveness of a portfolio consultation session. The form's purpose is to capture feedback on the session's content, structure, and overall experience. To ensure accuracy and relevance of feedback, it is essential to only submit feedback for sessions that have recently occurred or are upcoming. Please avoid submitting duplicate feedback for the same session.
-
-The feedback form will be reviewed internally, and feedback will be used to improve future portfolio consultation sessions.
-
-Before proceeding, please confirm that you have recently attended or will be attending a portfolio consultation session and that the feedback you are about to submit is not a duplicate.
-
-</thinking>
-
 # Portfolio Consultation Feedback - Help Guide
 
 ## Purpose

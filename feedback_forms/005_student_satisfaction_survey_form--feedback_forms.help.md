@@ -1,7 +1,3 @@
-<thinking>
-  To provide insight into the student feedback process and improve the overall user experience, this guide will help you understand the "Student Satisfaction Survey Form" and its fields.
-</thinking>
-
 # Student Satisfaction Survey Form - Help Guide
 ## Purpose
 The Student Satisfaction Survey Form is designed to gather feedback from students about their experience at our institution. This form is optional and anonymous, and its purpose is to help us understand your perceptions of the school's mission and vision, the quality of the coursework, the quality of the education, the facilities, and your overall satisfaction.

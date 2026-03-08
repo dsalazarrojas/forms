@@ -1,5 +1,3 @@
-<thinking>...This form is designed for users to provide feedback about their Masterclass experience. The purpose of this form is to collect user feedback in a structured and efficient manner, ensuring that the feedback is relevant and non-duplicative. We want to avoid collecting feedback that has already been provided in the past or is not relevant to the specific Masterclass session... </thinking>
-
 # Masterclass Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback about your experience with Masterclass. Your feedback is invaluable in helping us improve our services and provide a better experience for future users.

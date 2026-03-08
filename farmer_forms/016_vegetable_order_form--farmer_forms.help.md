@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect customer information for orders of vegetables from our farm. It's meant for customers who want to place an order with our farm. The form will help us understand their order details and contact information. Please note that the form has no required fields, so customers can choose what to fill in or not. We will still process the order even if some fields are left blank, but we might not be able to contact you or fulfill your order completely.
-</thinking>
-
 # Vegetable Order Form - Help Guide
 ## Purpose
 The Vegetable Order Form is used to collect customer information for orders of vegetables from our farm. It is meant for customers who want to place an order with our farm.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # SBI Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience at the branch. The purpose of this form is to gather information about their first visit, overall satisfaction, and other aspects of their visit. It also aims to collect contact information for follow-up and verification purposes.

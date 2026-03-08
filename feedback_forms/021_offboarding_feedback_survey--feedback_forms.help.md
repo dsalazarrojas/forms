@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I will create a user-facing help guide for the form.
 
 # Offboarding Feedback Survey - Help Guide

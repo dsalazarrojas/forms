@@ -1,8 +1,3 @@
-<thinking>
-The Emergency Room Experience Survey is designed to collect feedback from patients about their experience in the emergency room. This form is intended to gather information about the quality of care and service provided during their visit. It will help us understand how we can improve our emergency room services to better serve our patients in the future. Please note that you may not need to complete this form if you have already submitted feedback through other channels.
-
-</thinking>
-
 # Emergency Room Experience Survey - Help Guide
 ## Purpose
 The Emergency Room Experience Survey is a tool for patients to share their thoughts and opinions about their visit in the emergency room. Your feedback will help us to identify areas of improvement and make necessary changes to enhance the experience of future patients.

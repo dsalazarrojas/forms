@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect anonymous feedback from users, allowing them to provide suggestions, criticisms, or praise about a service, program, or staff interaction. The form is designed to be simple and easy to use, while providing enough structure to allow for focused feedback. When filling out this form, please ensure that you are providing genuine feedback and not duplicating existing comments already submitted. If you have already submitted feedback on the same topic, please do not submit another form.
-</thinking>
-
 # Anonymous Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect anonymous feedback from users about a service, program, or staff interaction. This feedback will help us improve our services and ensure that we meet your needs and expectations.

@@ -1,10 +1,3 @@
-<thinking> 
-This form is used for collecting feedback from participants in a stand-up comedy club event. The form aims to gather opinions on various aspects of the show, such as audience size, performer's ability to make the audience laugh, and overall engagement with the audience. To ensure the accuracy and consistency of collected feedback, please ensure that:
-- You are responding to the feedback form as an attendee who has recently attended a stand-up comedy club event.
-- You are not responding to a feedback form for the same event or show.
-- Your feedback is honest and based on your personal experience.
-</thinking>
-
 # stand_up_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants in a stand-up comedy club event. It helps us understand how well the show was received by the audience and gather valuable insights to improve future events.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from participants for special interest meetings. It captures details about the meeting, participant's name and email, topic of interest, preferred meeting days, any additional comments, meeting location, and start time. The form ensures that meeting organizers have accurate and complete information about each participant.
-</thinking>
-
 # Special Interest Meeting Enrollment Form - Help Guide
 ## Purpose
 The Special Interest Meeting Enrollment Form is used to gather information from participants for special interest meetings. This form helps meeting organizers collect the necessary details to facilitate a smooth and productive meeting experience.

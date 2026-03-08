@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their experience with their headphones purchase. This form aims to gather information on various aspects of the purchase process, including the customer's satisfaction with their purchase, their rating of the product, and any suggestions for improvement. This form will help the business to better understand their customers' needs and preferences, allowing them to make informed decisions to improve their products and services.
-</thinking>
-
 # Headphone Purchase Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their headphones purchase experience. We value your input and would like to hear about your satisfaction with your purchase, any feedback you may have, and any suggestions you might have for us.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants in a Report Writing Workshop. This form is a crucial part of ensuring that the workshop meets its intended goals and provides valuable insights to the organizers and the participants. The form should only be completed by those who have attended the workshop, and ideally, by only one person per organization or institution. This guide is intended to help participants understand the purpose and process of completing the form, ensuring that they provide constructive and actionable feedback.
-</thinking>
-
 # Report Writing Workshop Feedback - Help Guide
 ## Purpose
 The Report Writing Workshop Feedback form is designed to gather feedback from participants on the quality and effectiveness of the workshop. Your input will help the organizers refine the workshop content, format, and overall experience.

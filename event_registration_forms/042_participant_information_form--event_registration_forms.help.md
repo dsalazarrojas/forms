@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Participant Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from participants of an event, including their contact details, emergency contact information, and check-in times.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Feedback Submission Form - Help Guide
 ## Purpose
 This form is used to collect feedback from patients about their visits to our healthcare facility. The form is designed to gather information about the patient's experience, including their overall rating of the visit, the quality of care provided, and any recommendations they may have. By completing this form, patients can provide valuable feedback that helps us improve our services.

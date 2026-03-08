@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for a user-facing form called "cultural_exchange_performance_consent_form". This form is designed to capture participant details, emergency contacts, roles, and signatures for a cultural exchange performance event. The form aims to ensure that all participants have given their consent to participate in the event and to provide necessary contact information for emergency situations.
-</thinking>
-
 # cultural_exchange_performance_consent_form - Help Guide
 ## Purpose
 The "cultural_exchange_performance_consent_form" is a form designed to collect participant details, emergency contacts, and signatures for a cultural exchange performance event. It helps ensure that all participants have provided their consent and necessary contact information.

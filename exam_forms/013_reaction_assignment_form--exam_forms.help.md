@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reaction Assignment Form - Help Guide
 ## Purpose
 The Reaction Assignment Form is a tool used to collect information from participants about their reactions to certain tasks or materials. This form is designed to gather data on participant reactions, materials and safety rules, and participant confirmation.

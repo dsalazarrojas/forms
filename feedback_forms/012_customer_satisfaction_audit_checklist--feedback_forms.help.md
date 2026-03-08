@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback on customer satisfaction after an interaction with a customer-facing department or team. The purpose is to assess how well the customer interaction was conducted and identify areas for improvement. This form should only be used after an initial interaction with the customer, hence the "First Interaction" page. The other pages cover various aspects of the customer interaction, including Communication, Problem Solving, Product Knowledge, Resolution, Satisfaction, and Feedback. The goal is to provide a comprehensive assessment of customer satisfaction to improve service delivery. This form should not be used for other interactions with the customer, but rather to gather feedback for the initial interaction only.
-</thinking>
-
 # Customer Satisfaction Audit Checklist - Help Guide
 
 ## Purpose

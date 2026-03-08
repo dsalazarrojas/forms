@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect suggestions for award naming, aiming to gather ideas from employees and staff members within an organization. Submitters should provide their name, email address, and department/division they belong to. They will be asked to suggest up to three names for the award, along with a rationale for each suggestion. Submitters will also indicate how long they have been with the organization, which type of award they are naming, and the tone they prefer the award to convey. They might also suggest a person to be honored by the award, along with a physical trophy design idea. Lastly, they will be asked about the ideal timing for the award presentation and any additional comments about the award. The form is meant to collect ideas and feedback from employees and staff members, helping to inform the naming process for the award.
-
-It's essential to note that the form is designed to ensure a fair and diverse set of suggestions. Submitters' names, email addresses, and department/division information will be kept private and only used to get in touch with them if their suggestions are selected for the award.
-
-To avoid duplication, submitters will receive a unique ID for each of their suggestions. This way, they can easily keep track of their suggestions and ensure that they do not submit duplicate ideas.
-
-</thinking>
-
 # Award Naming Suggestions - Help Guide
 ## Purpose
 The award naming process aims to create a fitting and meaningful title for the award. This form is designed to gather suggestions from employees and staff members, providing a wide range of ideas for the award's name.

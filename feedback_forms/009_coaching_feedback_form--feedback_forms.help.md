@@ -1,11 +1,3 @@
-<thinking>
-This form is a Coaching Feedback Form. It is designed to collect feedback from clients about their coaching experience. The form is meant to be used by coaches to improve their skills and provide better service to their clients. This form is not affiliated with any form platform and is an original adaptation created using AI.
-
-Before proceeding, please ensure that you have not filled this form before. If you have already submitted feedback, you may not need to fill it again. However, if you have new experiences or changes in your situation, your feedback is welcome and valuable.
-
-Please provide honest and constructive feedback, as it will help the coaches improve their services.
-</thinking>
-
 # Coaching Feedback Form - Help Guide
 
 ## Purpose

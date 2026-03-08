@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a simple order form for ski equipment rental. The form allows customers to provide information about their rental needs, such as the duration of the rental, the equipment they wish to rent, and their contact information. The form also includes fields for payment details and any additional comments. The purpose of this form is to enable customers to easily and conveniently submit their rental requests to the ski shop.
-This form has a simple structure with multiple pages, each with different fields to collect information. Page 1, "Ski Equipment Rental Form", is the main form where customers can input their basic information, such as the start and end dates for their rental, their name and email, and phone number. Page 2, "Ski Shops" is used for multiple select options, where customers can choose which ski shop they wish to rent from.
-The form is well-structured and easy to use, with clear labels and a straightforward process. The required fields are highlighted to ensure customers know what information is necessary to provide.
-</thinking>
-
 # ski_equipment_rental_order_form - Help Guide
 ## Purpose
 This form is designed to be a simple order form for ski equipment rental. The form allows customers to provide information about their rental needs, such as the duration of the rental, the equipment they wish to rent, and their contact information.

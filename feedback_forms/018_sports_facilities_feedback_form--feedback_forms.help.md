@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about sports facilities, allowing facility managers and maintenance teams to identify areas for improvement and make data-driven decisions. This form is not intended for users to report emergencies or request specific services, but rather to provide general feedback on their experience. Please note that this form is not intended for repeat submissions, so please only fill out this form once per facility.
-</thinking>
-
 # Sports Facilities Feedback Form - Help Guide
 ## Purpose
 The Sports Facilities Feedback Form is designed to gather feedback from users about their experience with sports facilities. This feedback will be used to help facility managers and maintenance teams improve the overall quality of the facilities.

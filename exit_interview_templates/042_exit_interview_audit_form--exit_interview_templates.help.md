@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for exit interviews, which are an essential part of an employee's departure process. It helps to gather information about the employee's experience, reasons for leaving, and suggestions for improvements. This form is meant to be filled out by employees before they leave the company. 
-The form is divided into several sections, each asking for different types of information. Please ensure that you have all the required fields filled out before submitting the form. 
-
-This form is meant to be filled out only once, during the exit interview process.
-</thinking>
-
 # exit-interview-audit-form - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's experience and reasons for leaving the company. It will help us improve our processes and employee satisfaction.

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is to inform end users about the purpose and usage of the "Public Policy Initiative Feedback Questionnaire" form. The form is designed to collect feedback from users about the public policy initiative, and each section is structured to gather specific types of feedback.
-The form has been designed to ensure that users understand what is expected of them and to guide them through the process of providing feedback.
-It is recommended to review each section carefully to ensure accurate and comprehensive feedback.
-</thinking>
-
 # Public Policy Initiative Feedback Questionnaire - Help Guide
 
 ## Purpose

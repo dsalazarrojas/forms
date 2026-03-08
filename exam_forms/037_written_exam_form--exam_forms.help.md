@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "written_exam_form" is designed to collect information from users about their educational background and performance. This form is likely used in an academic or educational setting to gather data from individuals for research or assessment purposes. To confirm, this form is used for exams or assessments, and its purpose is to collect demographic and performance information. 
 
 The form consists of 10 questions, including questions about the user's name, grade level, email, phone, date of birth, time of birth, exam performance, grade point average, and two open-ended questions. Each question is either a text input, select option, email, date, time, or note, and most are optional. However, the questions seem to be designed for assessment purposes, so it is reasonable to assume that at least some of the questions, like the grade point average, are intended to be required for accurate evaluation.

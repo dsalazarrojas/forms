@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from participants about their experience with Sunshine Circles, a program aimed at creating positive social connections among participants. The form is designed to collect ratings of the participant's experience, dates of the sessions attended, comments from facilitators and other stakeholders, and other information to help evaluate and improve the program. This form is part of the evaluation process to help program leaders make data-driven decisions to enhance the program's impact and reach.
-</thinking>
-
 # Sunshine Circles Feedback Survey - Help Guide
 
 ## Purpose

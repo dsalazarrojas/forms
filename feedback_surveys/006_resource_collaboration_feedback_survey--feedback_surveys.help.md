@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to gather feedback from users on their experiences with resource collaboration. It should be completed by individuals who have worked on a project with others. Before starting, please ensure that you have not already submitted feedback on this project, as this form is not intended to be a duplicate. The feedback provided through this form will be used to help improve resource collaboration within the organization. Please answer the questions honestly and to the best of your ability.</thinking>
-
 # Resource Collaboration Feedback Survey - Help Guide
 ## Purpose
 The Resource Collaboration Feedback Survey is a tool to gather information about your experiences with resource collaboration. Your input will help us improve our resource collaboration processes.

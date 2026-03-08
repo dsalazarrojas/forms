@@ -1,9 +1,3 @@
-<thinking>
-This form is used to track the reading progress of a student. The purpose of this form is to collect information about the student's reading activity, such as the frequency and duration of their reading, and to provide a log of their progress.
-The form will only be used for this specific purpose, and not for any other reason. Please complete this form accurately and thoroughly.
-This form should only be completed once per student.
-</thinking>
-
 # Reading Progress Log - Help Guide
 ## Purpose
 The Reading Progress Log form is used to track the reading progress of a student, collecting information about their reading activity and providing a log of their progress.

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect user feedback and experience from end-users, likely for the purpose of understanding and improving the overall user experience (UX) of the application or system being used. This form is meant to be a non-repetitive and non-optional form, meaning users are not required to submit it, but the more complete information they provide will help in better understanding their needs and pain points. The form should not be confused with other feedback collection methods, such as support tickets or surveys. 
-
-</thinking>
-
 # User Experience (UX) Assessment Form - Help Guide
 
 ## Purpose

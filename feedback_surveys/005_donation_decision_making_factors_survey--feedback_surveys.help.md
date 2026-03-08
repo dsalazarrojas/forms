@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who are completing the "Donation Decision Making Factors Survey". This guide aims to clarify the purpose of the form and walk users through the process of filling it out correctly. The form is designed to collect information on donation habits, motivations, and preferences from end-users. This information will help organizations better understand the decision-making factors that influence donations. Please fill out this form only if you have not completed it previously. Your responses will be kept confidential and will not affect your personal account or interaction with the organization.
-</thinking>
-
 # Donation Decision Making Factors Survey - Help Guide
 ## Purpose
 This survey is designed to collect information on your donation habits, motivations, and preferences. Your responses will help us better understand what drives your decision to donate, which will inform our organizational strategy to engage with you more effectively.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from respondents on the quality and effectiveness of board meetings. Specifically, it seeks to evaluate how well the meeting flowed, whether time was allocated effectively, and what discussions or topics needed more time or attention. This will help the board improve its meeting processes and communication.
-
-This form is designed for respondents with different roles within the board, such as Board Members, Board Chair, Executive Director, Staff Members, Observers, or others. The form is divided into two pages, and each page has a mix of multiple-choice and text input fields. The fields cover various aspects of the meeting, including the date, type, and topics discussed, as well as the quality of the discussion, time allocation, and overall effectiveness.
-
-The form is not intended to be a comprehensive evaluation of every meeting detail, but rather a general assessment of the meeting's effectiveness and areas for improvement.
-</thinking>
-
 # Board Discussion Points Survey - Help Guide
 ## Purpose
 The Board Discussion Points Survey is designed to collect feedback from board members on the quality and effectiveness of board meetings. The survey will help the board improve its meeting processes and communication.

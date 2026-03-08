@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for event organizers to collect information from attendees who are leaving or have left the event. The purpose of this form is to gather relevant details about the event and the attendee's interaction with it, such as their reason for leaving, event information, and approval status. This form helps event organizers track and manage the event's progress, attendee engagement, and potential issues that may arise.
-
-Before filling out this form, please ensure that:
-
-* You are only completing this form for events where you are an actual attendee.
-* You are not duplicating your entry if you have already submitted it.
-
-</thinking>
-
 # Startup Pitch Event Leave Form - Help Guide
 ## Purpose
 The Startup Pitch Event Leave Form is a tool used by event organizers to collect information from attendees who are leaving or have left the event. This form helps event organizers track and manage the event's progress, attendee engagement, and potential issues that may arise.

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form is for collecting demographic information from respondents, likely for research or market analysis purposes. The form has 25 fields, including text, date, select_one, and select_multiple fields, which ask about personal details such as name, date of birth, employment status, occupation, income group, education level, marital status, residence country, phone, email, language, household size, and income group. The form seems to be focused on collecting data on individuals' personal and economic circumstances. There is no indication that this form is meant to be filled out by multiple people in the same household or with the same income, so it may be intended for individual responses. To confirm, it's essential to ensure that respondents understand the purpose and scope of the form to provide accurate and relevant answers.
-</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

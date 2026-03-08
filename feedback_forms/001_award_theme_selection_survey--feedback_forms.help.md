@@ -1,5 +1,3 @@
-<thinking>...The Award Theme Selection Survey is used to gather information from respondents on their preferences and suggestions for award themes. This form is intended for respondents who have attended or will be attending an award ceremony. The survey aims to collect data on the importance of different themes, potential theme suggestions, and other relevant feedback from the respondents. This information will be used to inform future award theme selections. The form is designed to be completed by one person per submission, and the responses will be reviewed and considered for future award ceremonies...</thinking>
-
 # Award Theme Selection Survey - Help Guide
 ## Purpose
 

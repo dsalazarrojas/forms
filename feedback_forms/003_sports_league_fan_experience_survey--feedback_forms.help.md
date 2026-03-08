@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sports_league_fan_experience_survey - Help Guide
 ## Purpose
 The sports league fan experience survey is designed to gather feedback from fans to improve their overall experience with the sports league. This survey aims to understand fan satisfaction, attendance frequency, preferred activities during events, desired experiences on game days, preferred communication channels, and any additional feedback or suggestions.

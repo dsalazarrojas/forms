@@ -1,5 +1,3 @@
-<thinking> This form is intended to collect feedback from users on various aspects of the Metalectri platform. It's crucial that users understand the purpose and how to complete the form to ensure accurate and helpful feedback. The form should only be filled out by those who are experiencing issues or have suggestions for improvement. Please note that the form is not designed for general comments or unsolicited feedback. Users who have already submitted feedback on the same issue may be asked to refrain from resubmitting the same feedback to avoid duplication of effort. </thinking>
-
 # Metalectri Feedback Form - Help Guide
 ## Purpose
 The Metalectri Feedback Form is designed to collect feedback from users on various aspects of the platform. This form is intended for users who have experienced issues or have suggestions for improvement.

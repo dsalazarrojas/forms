@@ -1,11 +1,3 @@
-<thinking>
-## Form purpose: This form is used to collect feedback from building permit applicants, contractors, architects, city staff, and other stakeholders on their experience with the building permit process. This feedback helps the city identify areas of improvement and make necessary changes to streamline the process, improve communication, and enhance overall service.
-
-### Non-duplication check: 
-Please make sure to only submit this form once. If you've already submitted feedback, please do not fill out this form again.
-
-</thinking>
-
 # Building Permit Process Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the building permit process, helping us improve its efficiency and clarity. Your input is invaluable in shaping our services and ensuring we provide the best possible experience for all applicants.

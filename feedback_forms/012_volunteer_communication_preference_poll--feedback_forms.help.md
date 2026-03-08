@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect volunteer communication preferences. The purpose is to gather information about which methods of communication volunteers are interested in, such as email, phone, or text message. This form is only intended for volunteers who are already engaged with the organization, and it is not meant to be filled out by non-volunteers. Please ensure that you have been invited to participate in this form before filling it out.
-</thinking>
-
 # Volunteer Communication Preference Poll - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Volunteer Communication Preference Poll form. The form is designed to help us understand how to best contact you as a volunteer.

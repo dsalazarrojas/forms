@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the real-time match suggestions survey is to gather feedback and insights from users about their experiences with real-time match suggestions. This form aims to understand what users have learned or discovered from the feature, how they feel about it, and what they liked or disliked about it. It also seeks to gather additional comments or suggestions from users to improve the feature.
-</thinking>
-
 # real_time_match_suggestions_survey - Help Guide
 ## Purpose
 The real-time match suggestions survey is a tool used to collect feedback and insights from users about their experiences with real-time match suggestions.

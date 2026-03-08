@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for guests to provide information about themselves and their coats when checking coats at an event, such as a conference or concert. The form's purpose is to gather necessary details, including event information, guest contact details, and coat details, to ensure a smooth coat-checking process. Before proceeding, please check if you have already completed a coat check form for this event. If you need to, please go back to the previous step. 
-</thinking>
-
 # Guest Coat Check Booking Form - Help Guide
 ## Purpose
 The Guest Coat Check Booking Form is used to gather information from guests who need to check their coats during an event, ensuring a smooth and efficient coat-checking process.

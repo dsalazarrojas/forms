@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect customer feedback on products. The goal is to gather information about customer satisfaction, product preferences, and any areas of improvement. This form will be used to monitor customer responses and make data-driven decisions to better serve our customers and improve our product offerings. The form is designed to be simple and easy to fill out, with a clear and concise structure.
-</thinking>
-
 # Product Customer Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect customer feedback on our products. It's a quick and easy way to let us know about your experience with our products. Your input will help us improve our products and services to better meet your needs.

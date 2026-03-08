@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect feedback from customers about their experiences with a tilling specialist. It's designed to gather information about the service provided, quality of work, communication, responsiveness, timeliness, overall experience, willingness to recommend, and any additional comments or notes. This form is likely to be filled out by customers who have received tilling services and want to provide their feedback.
-
-To avoid duplication of effort, we'll make sure to review each response carefully before sending it to the relevant department or team. This will help us understand where we can improve and provide better services in the future.
-
-This form is meant to be a comprehensive assessment of the tilling specialist's performance, covering various aspects of their work. By providing detailed feedback, customers will help us understand how to refine our services and provide better results.
-
-We appreciate your time and feedback, and we'll use it to enhance our services and provide better experiences for our customers.
-
-</thinking>
-
 # Tilling Specialist Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experiences with a tilling specialist. It's meant to be a comprehensive assessment of the tilling specialist's performance, covering various aspects of their work.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and survey data from end-users about their experience with payment processing. The goal is to understand their satisfaction, ease of payment, and any issues encountered during checkout. The form should be completed by customers or users who have had recent payment experiences and are able to provide honest and clear feedback.
-
-This form is intended to be completed once by each user, and the data collected will help our team identify areas of improvement for our payment processing system.
-
-Please ensure that you only complete this form if you have had a recent payment experience with our platform.
-
-</thinking>
-
 # Payment Processing Experience Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from end-users about their experience with our payment processing system. Your input is valuable to us and will help us improve our services.

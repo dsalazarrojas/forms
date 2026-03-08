@@ -1,10 +1,3 @@
-<thinking>
-The Sustainable Accommodation Form is designed to gather information about accommodations available for booking. This form is used by users to input details about their properties and provide a platform for potential customers to book or find more information about the accommodations. 
-The form fields are designed to be filled out by the accommodation owners or managers. They need to input general details like user contact information, accommodation address, pricing information, and terms and conditions.
-The form will help in maintaining a centralized database of available accommodations and their owners contact information. This data can be used for various purposes such as marketing, advertising and providing booking information to potential customers.
-Note that some of the fields are not required and have been included for completeness and flexibility. It is suggested that users fill out all the required fields for better accuracy.
-</thinking>
-
 # Sustainable Accommodation Form - Help Guide
 ## Purpose
 The Sustainable Accommodation Form is designed to gather information about accommodations available for booking. It is used by accommodation owners or managers to input details about their properties and provide a platform for potential customers to book or find more information.

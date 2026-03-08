@@ -1,14 +1,3 @@
-<thinking>... internal logic:
-- The form is intended to gather information from exhibitors for the Home And Garden Show.
-- The general information page will ask for the exhibitor's name, email, and contact phone number, but these fields are not required.
-- The vendor information page will ask for the vendor's name, address, and website.
-- The contact information page will ask for the contact person's name, email, and phone number.
-- The booth plan page will ask for the type of booth the exhibitor will set up (e.g. "8x8", "10x10") and the setup requirements.
-- The payment page will ask for the payment method (e.g. credit card, cash) and any additional comments.
-- The shipping page will ask for the shipping information (e.g. if the exhibitor needs shipping to be arranged or if they will handle it themselves).
-- There are no options provided for any of the fields, so this form will only ask for text input.
-</thinking>
-
 # Home And Garden Show Exhibitor Registration - Help Guide
 ## Purpose
 The Home And Garden Show Exhibitor Registration form is designed to collect information from exhibitors for the Home And Garden Show. This form will help us better understand your needs and requirements for the event.

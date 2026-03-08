@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their experience at Ramen. This form is designed to be a simple and concise way for customers to provide their thoughts, concerns, and suggestions about the food, service, and ambiance of the restaurant. By providing feedback, customers can help us improve our services and make their dining experience better. Please note that this form is a one-time opportunity for customers to share their thoughts, and it's essential to complete it in one session.
-</thinking>
-
 # Ramen Feedback Survey - Help Guide
 ## Purpose
 The Ramen Feedback Survey is designed to collect feedback from customers about their experience at Ramen. It's essential to provide honest and constructive feedback to help us improve our services.

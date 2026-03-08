@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used by festival vendors to provide their details and payment information. It is not intended for end-users to submit their own festival vendor information, but rather for vendors themselves to confirm and update their own details. This guide will help you complete the form correctly and accurately provide your information.
-
-</thinking>
-
 # Festival Vendor Check Out Form - Help Guide
 ## Purpose
 This form is used by festival vendors to confirm and update their details, including payment information.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users regarding their experience with our mobile services. It will help us understand if our services meet their expectations, if there were any issues, and gather more information about their contact details for follow-up purposes. This form will only be accessible to authorized personnel within the organization who need to process and review the feedback. 
-
-This guide is intended to help users complete the form correctly and understand the purpose and usage of each field. If you're unsure about any field, please don't hesitate to reach out to us for further clarification.
-</thinking>
-
 # Mobile Service Feedback Form - Help Guide
 ## Purpose
 This form aims to collect feedback from users about their experience with our mobile services. It helps us identify areas of improvement and ensure that our services meet user expectations.

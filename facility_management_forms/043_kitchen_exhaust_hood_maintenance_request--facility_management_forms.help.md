@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information about the maintenance requests for kitchen exhaust hoods. The purpose of this form is to help the facilities management team to track and manage the maintenance requests for the kitchen exhaust hoods in a centralized manner. This form is typically used by facilities staff to submit a request for maintenance when a hood is due for maintenance or repair. It's essential to complete this form accurately to ensure the issue is properly documented and assigned to the correct team member.
-
-This form may be used in conjunction with other forms or processes related to facilities management, such as work order tracking or asset management.
-
-Before filling out this form, please ensure that you are authorized to access and submit maintenance requests for kitchen exhaust hoods. If you are unsure, please reach out to the facilities team for guidance.
-
-When filling out this form, be as detailed as possible to ensure accurate documentation of the issue and the maintenance process.
-
-To complete this form, follow the instructions below.
-</thinking>
-
 # Kitchen Exhaust Hood Maintenance Request - Help Guide
 ## Purpose
 This form is designed to collect information about the maintenance requests for kitchen exhaust hoods.

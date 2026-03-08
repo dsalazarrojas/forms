@@ -1,18 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Catering Client Dietary Information Form", we need to consider the following:
-
-* The form is used to gather information about a client's event and their guests' dietary restrictions.
-* The form is designed to be completed by the client or their representative.
-* The form is part of a larger system for managing catering events.
-* The form fields are designed to collect specific information about the client and their guests, including name, contact information, event details, number of guests, and dietary restrictions.
-
-This form should be used to provide accurate and complete information about the client's event and guests' dietary needs, to ensure that the catering team can prepare and provide suitable meals for all guests.
-
-Before filling out this form, please ensure that you have the necessary information and authorization to complete it on behalf of the client.
-
-</thinking>
-
 # Catering Client Dietary Information Form - Help Guide
 ## Purpose
 The Catering Client Dietary Information Form is used to provide us with information about your event and your guests' dietary restrictions. This information will help us prepare and provide suitable meals for all guests.

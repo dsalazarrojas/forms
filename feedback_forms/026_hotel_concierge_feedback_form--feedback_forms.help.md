@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback from customers, guests, or other stakeholders about their experience with the hotel's concierge services. It's a general feedback form, and its purpose is to allow users to provide their overall satisfaction with the hotel's concierge team, rate their experience, and provide more detailed comments or feedback. The collected feedback will be reviewed and used to improve the concierge services.
-
-</thinking>
-
 # Hotel Concierge Feedback Form - Help Guide
 ## Purpose
 

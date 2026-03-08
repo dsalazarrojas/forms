@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "CTE Day 2 Reflections And Feedback" form. The form purpose is to collect feedback from participants on the second day of a professional development session, specifically their reflections, takeaways, and feedback on the event's logistics. This guide will help users understand the form's purpose and provide a clear explanation of each field. The internal reasoning block ensures that the form's purpose and the importance of this feedback collection are understood before diving into the detailed help guide.
-
-</thinking>
-
 # CTE Day 2 Reflections And Feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from participants on the second day of a professional development session. Your input will help us improve and refine the content and logistics for future events. Please take a few minutes to answer the questions honestly, and we'll use your feedback to make a positive impact on education and training.

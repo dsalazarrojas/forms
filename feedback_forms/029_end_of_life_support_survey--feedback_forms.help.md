@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **End Of Life Support Survey - Help Guide**
 
 **Purpose**

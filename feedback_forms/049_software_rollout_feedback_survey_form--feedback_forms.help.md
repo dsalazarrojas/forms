@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## software_rollout_feedback_survey_form - Help Guide
 
 ### Purpose

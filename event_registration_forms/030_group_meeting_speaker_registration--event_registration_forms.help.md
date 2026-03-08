@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Group Meeting Speaker Registration - Help Guide
 ## Purpose
 This form is used to register speakers for group meetings. It gathers information about the speaker, session, and category they will be speaking in. The form is used by meeting organizers to collect relevant details about the speaker before the meeting.

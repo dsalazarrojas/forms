@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on consumer behavior patterns, gathering insights on demographics, shopping habits, and preferences. The form is intended to be used by researchers, businesses, and organizations to gain a better understanding of consumer behavior. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Consumer Behavior Patterns Survey - Help Guide
 ## Purpose
 This guide is designed to assist you in completing the Consumer Behavior Patterns Survey. The survey aims to collect information on your demographics, shopping habits, and preferences to help businesses and researchers understand consumer behavior.

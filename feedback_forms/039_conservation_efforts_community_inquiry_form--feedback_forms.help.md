@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from community members about their knowledge, interests, and involvement in local conservation efforts. It's essential to ensure that each submission is a genuine inquiry and not a duplicate. Please note that this form is intended for individuals who are genuinely interested in conservation efforts and not for commercial purposes.
-</thinking>
-
 # Conservation Efforts Community Inquiry Form - Help Guide
 ## Purpose
 The Conservation Efforts Community Inquiry Form is a tool used to collect information from community members about their involvement and interest in local conservation efforts. This form aims to gather data on their awareness, participation, and interests in conservation activities, allowing the organization to better understand the community's needs and tailor its efforts accordingly.

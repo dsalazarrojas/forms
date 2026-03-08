@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # final_exam_preparation_checklist - Help Guide
 ## Purpose
 This form is designed to help individuals prepare for a final exam by providing a checklist of key areas to review and prepare for the exam. It is intended to be completed by the individual taking the exam to ensure they are adequately prepared.

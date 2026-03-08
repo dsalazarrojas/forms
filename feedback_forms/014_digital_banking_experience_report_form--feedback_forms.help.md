@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their digital banking experience. The purpose of this form is to gather information about the user's account details, their experience with the bank's service, and any issues they may have encountered. This feedback will help the bank identify areas for improvement and provide better service to its customers. The form is designed to be user-friendly and easy to complete, with clear labels and instructions to guide the user through the process.
-
-This form will not be used to duplicate or create any new records. It will only be used to update existing records or for research purposes.
-
-</thinking>
-
 # digital_banking_experience_report_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their digital banking experience. It will help the bank identify areas for improvement and provide better service to its customers.

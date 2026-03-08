@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users on the structural design software. The form is designed to collect both feedback and feature requests from users, allowing the software development team to understand what needs to be improved in the current design and what new features should be added to meet user needs. The form should not be used for general feedback or support requests. 
-
-To avoid duplication of work, please fill out the form only once, as it is designed to gather feedback from all users, not just one user with the same concerns.
-
-The following sections explain how to complete the form and what each field means.
-
-</thinking>
-
 # Structural Design Software Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users on the structural design software. Please provide honest and specific feedback on what you think could be improved in the current design, as well as any new features you think would be beneficial to include.

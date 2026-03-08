@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the overall experience and perception of visitors to an exhibition. The purpose of this form is to gather feedback from visitors on their experiences, interests, and opinions about the exhibition. This feedback is crucial in helping the exhibition organizers to understand what worked well and what didn't, and to make improvements for future events. It is essential to complete this form accurately and thoroughly to provide valuable insights.
-
-</thinking>
-
 # Exhibition Visitor Experience Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from visitors on their experiences, interests, and opinions about the exhibition. It will help the exhibition organizers to understand what worked well and what didn't, and to make improvements for future events.

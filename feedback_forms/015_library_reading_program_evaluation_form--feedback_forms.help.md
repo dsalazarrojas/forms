@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Library Reading Program Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the effectiveness of the Library Reading Program, allowing you to provide feedback on your experience with the program. Your feedback will help us improve and refine the program to better serve the needs of our community.

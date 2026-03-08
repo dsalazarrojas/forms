@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to ensure end-users understand the purpose and functionality of the "skin_tone_finder_quiz" form, as well as each field's meaning and expected input for optimal completion.
-</thinking>
-
 # skin_tone_finder_quiz - Help Guide
 ## Purpose
 The "skin_tone_finder_quiz" form is a tool to help users discover their skin tone and recommended beauty products based on their individual skin characteristics. The form is designed to be simple and user-friendly, guiding users through a series of questions to determine their skin undertone, tone, and recommended product types.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect donations for a charity or organization at the end of a season, such as a sports season. The form will be used by individuals or organizations willing to make a financial contribution to support the charity. The form is likely to be used in a scenario where the charity is seeking donations to support a specific cause or event.
-</thinking>
-
 # end_of_season_party_donations - Help Guide
 ## Purpose
 This form is designed to collect end-of-season party donations from individuals or organizations. Fill out this form to provide financial support for a specific cause or event.

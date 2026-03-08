@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to help schools gather information from attendees to RSVP for a fundraising auction event. The form will likely be used by school staff or event organizers to collect attendee contact information, event details, and RSVP status. This form should be reviewed to ensure that all required fields are filled out, and that each field is clearly labeled and understood. It's possible that this form will be used to create a database or spreadsheet for tracking and analysis after the event.
-
-The form has multiple fields for gathering attendee information, including event details, contact info, and RSVP status. Some fields, like contact info, are optional while others, like the event title, are required but not necessarily filled out by users. The event time and date fields are also important for planning and organization. The attending status field is a select multiple field, allowing users to select multiple options, such as True, Maybe, or False.
-
-The will pay for field has multiple options: True, False, and Partial, which indicates whether the attendee will pay for their tickets or not. This field likely requires some explanation, as it's not immediately clear what "Partial" means. A possible explanation could be: "Partial payment: Please indicate if you will be paying for part of your guests' tickets".
-
-The number of guests field is a number field, allowing users to input a specific number. This could be used to track headcounts for event planning purposes.
-
-The event details field is a text area for users to input any additional event details they'd like to share.
-</thinking>
-
 # School Fundraising Auction RSVP Form - Help Guide
 ## Purpose
 

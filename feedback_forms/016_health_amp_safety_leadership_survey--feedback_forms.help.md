@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health & Safety Leadership Survey - Help Guide
 ## Purpose
 The Health & Safety Leadership Survey is a tool used by management to assess the current state of employee safety efforts, initiatives, and concerns. This survey aims to gather information on employee perceptions of safety efforts, identify areas of improvement, and measure overall safety satisfaction.

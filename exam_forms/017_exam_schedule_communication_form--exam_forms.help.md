@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to capture information from students about their exam schedule, which is crucial for communicating exam dates, times, and locations to the exam staff or proctors. This form is designed to ensure accurate and comprehensive communication, making it easier for students to get their exam schedules updated and ensuring a smooth exam process.
-
-Upon reviewing the form layout, we don't see any fields that would lead to duplication of effort or unnecessary complexity. The form is straightforward and well-structured.
-
-</thinking>
-
 # exam_schedule_communication_form - Help Guide
 ## Purpose
 The exam schedule communication form is used to capture information from students about their exam schedule, which is then used to update their exam schedules and facilitate communication with exam staff or proctors.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about delivery punctuality and gather feedback from customers and carriers. The form is used to inquire about the status of a delivery, and users may fill it out in various scenarios, such as to report a delivery issue or to provide feedback on a successful delivery. It is recommended that users only submit one report per delivery, and if a report is already existing for a specific delivery, it is suggested that the user checks the report before submitting a new one.
-</thinking>
-
 # Logistics Delivery Punctuality Inquiry Form - Help Guide
 ## Purpose
 This form is used to report or inquire about the punctuality of a delivery.

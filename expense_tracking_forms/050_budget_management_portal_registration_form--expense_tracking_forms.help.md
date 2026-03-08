@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for user registration on the Budget Management Portal. The purpose of this form is to gather essential data from users, including their name, contact email, department, role, requested permissions, justification for portal access, manager's approval email, and onboarding notes (if any). This form ensures that each user can be properly onboarded and granted access to the portal, while also maintaining accurate records of user permissions and roles within the organization.
-
-This form is intended to be a one-time registration process, not a recurring or survey-style form. The collected data will be stored in the Budget Management Portal's user database for reference and access control purposes.
-
-Please note that some fields are required, as indicated by the `required` attribute in the form's schema. If a required field is left blank, the form will not submit correctly, and the user will not be registered in the Budget Management Portal.
-
-</thinking>
-
 # Budget Management Portal Registration Form - Help Guide
 ## Purpose
 The Budget Management Portal Registration Form is designed to collect essential information for user registration, ensuring proper onboarding and access control within the portal.

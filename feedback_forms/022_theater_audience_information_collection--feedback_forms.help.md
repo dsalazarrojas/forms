@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from theater audience members. The purpose of this form is to gather details such as name, surname, email, performance date and time, venue, and seat number from the audience. This data will help in organizing and managing the audience for upcoming performances. 
-Please ensure that this form is not completed by the same user multiple times. 
-</thinking>
-
 # Theater Audience Information Collection - Help Guide
 ## Purpose
 The Theater Audience Information Collection form is designed to collect essential details from theater audience members for efficient audience management.

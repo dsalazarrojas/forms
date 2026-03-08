@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Equipment Malfunction Report Form - Help Guide**
 ## Purpose
 This form is designed to report malfunctions or issues with equipment used in our facility. If your equipment is not functioning properly, please fill out this form to notify our maintenance team of the issue. This will help us to troubleshoot and repair the equipment as soon as possible.

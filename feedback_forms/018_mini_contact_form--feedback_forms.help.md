@@ -1,7 +1,3 @@
-<thinking>
-To ensure that users understand the purpose and correct usage of the Mini Contact Form, we need to create a clear and concise help guide. The form is intended for users to provide feedback on different aspects of the website, product, or service. We should avoid duplication of effort by focusing on the essential fields that require feedback, while ensuring that users understand the distinction between required and optional fields. A clear explanation of each field will help users provide accurate and relevant feedback, making it easier to review and process their comments.
-</thinking>
-
 # Mini Contact Form - Help Guide
 ## Purpose
 The Mini Contact Form is designed to gather feedback on your experience with our website, product, or service. Please use this form to share your thoughts, opinions, or suggestions on how we can improve.

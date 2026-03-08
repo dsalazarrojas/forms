@@ -1,6 +1,3 @@
-<thinking>
-This form is used for collecting feedback and comments from users. It's designed to gather information about their experiences and opinions, which can help improve our services. The form is not meant for soliciting personal or sensitive information and should only be completed by those who have had a genuine experience with our service. Please ensure that you have completed this form only once for each visit or interaction. If you are unsure about whether you have already completed the form, you can check with our customer support team.</thinking>
-
 # Q1 Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and comments from users about their experiences with our services.

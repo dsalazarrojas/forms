@@ -1,9 +1,3 @@
-<thinking>
-We'll start by analyzing the provided form YAML to understand the form's purpose and requirements. The form seems to be designed for streaming trivia quiz events, where participants are asked to answer trivia questions. The fields include various types of input fields such as text, select multiple, select one, date, time, and number fields. Some fields are marked as required while others are not. We'll create a help guide that explains each field's purpose and requirements.
-
-After analyzing the form, we'll create a help guide that follows the specified Markdown structure.
-</thinking>
-
 # Streaming Trivia Quiz - Help Guide
 ## Purpose
 The Streaming Trivia Quiz form is designed for participants to answer trivia questions related to streaming trivia events. The form is divided into several sections, each asking a different question or collecting information from the participant.

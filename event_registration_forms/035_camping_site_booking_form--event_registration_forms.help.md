@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from customers for booking a camping site. This form is part of a larger system that manages bookings and customer interactions. To avoid duplication, ensure that this form is only used for new customers or when a customer's information has changed. Before filling out this form, review the provided options for each field to ensure accurate and complete information is submitted.
-</thinking>
-
 # Camping Site Booking Form - Help Guide
 ## Purpose
 This form is used to collect information from customers for booking a camping site. It includes fields for customer contact information, booking period, camping type, site category, and preferences.

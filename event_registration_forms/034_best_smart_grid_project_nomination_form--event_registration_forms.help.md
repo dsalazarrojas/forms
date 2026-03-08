@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Best Smart Grid Project Nomination Form - Help Guide
 
 ## Purpose

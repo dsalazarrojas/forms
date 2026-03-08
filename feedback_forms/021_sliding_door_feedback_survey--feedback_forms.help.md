@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with the sliding door brand. The feedback is likely used to improve the brand's product offerings and customer support. However, the exact use case and target audience are not specified in the inputSchema, so this explanation is based on a best-effort interpretation of the provided fields. Please ensure this explanation aligns with the actual use case and target audience. The form likely has a high level of personalization, but some fields may be redundant or not relevant to the actual use case. It's essential to review and validate this explanation to ensure it meets the required standards.
-
-</thinking>
-
 # Sliding Door Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from customers about their experience with the sliding door brand. Your input will help us understand your satisfaction and preferences, enabling us to improve our products and services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **exit_feedback_form - Help Guide**
 =====================================
 

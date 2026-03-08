@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants in a review process. The purpose of this form is to gather input from participants on their experience with a particular event or service. It will help event organizers and staff to understand what they can improve on.
-
-Before proceeding, please ensure you are providing feedback on a specific event or service and not duplicating a previous submission.
-
-</thinking>
-
 # Round Review Feedback - Help Guide
 ## Purpose
 The Round Review Feedback form is a tool for participants to provide their honest feedback on their experience with an event or service. This feedback will help event organizers and staff to identify areas for improvement and make necessary adjustments.

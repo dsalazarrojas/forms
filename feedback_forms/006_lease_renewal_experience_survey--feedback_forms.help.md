@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is not redundant with other forms or surveys and is relevant to the company's business goals. This form is for collecting feedback from users about their experience with the lease renewal process. It should not be used for any other purpose than gathering this specific type of feedback. If there are any concerns, it's best to revisit the form's purpose and goals with the stakeholders.
-</thinking>
-
 # Lease Renewal Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with the lease renewal process. It's essential to provide your honest feedback to help us improve this process for future users.

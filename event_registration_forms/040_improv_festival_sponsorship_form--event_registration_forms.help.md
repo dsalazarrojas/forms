@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is used for the registration of sponsorships for the Improv Festival. It is a form that allows you to select your sponsorship level, provide branding details, upload a branding image, and obtain signed approval. Please make sure that you have all necessary permissions to use this form, as it involves sensitive information. 
 
 # improv_festival_sponsorship_form - Help Guide

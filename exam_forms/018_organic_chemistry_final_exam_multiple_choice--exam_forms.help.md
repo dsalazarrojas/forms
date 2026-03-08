@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess a user's knowledge on Organic Chemistry, specifically for a final exam on multiple choice questions. The form aims to evaluate a user's ability to identify the correct molecular formula, boiling point, melting point, and chemical structure of various compounds, as well as their reaction order. This form is intended for students or professionals in the field of Chemistry to gauge their understanding of organic chemistry concepts.
-
-To prevent duplication, this form will not be used for any other purpose other than for internal assessment and evaluation. Any external use or duplication will be considered unauthorized.
-
-Before proceeding, please note that this form has a total of 10 questions, divided into several sections. Each question is marked as required or optional, and the user must complete all required fields to submit the form.
-
-Please ensure that you have read and understood the form instructions before starting. If you have any questions or concerns, feel free to ask.
-
-</thinking>
-
 # Organic Chemistry Final Exam (Multiple Choice) - Help Guide
 ## Purpose
 This form is designed to assess a user's knowledge on Organic Chemistry, specifically for a final exam on multiple choice questions.

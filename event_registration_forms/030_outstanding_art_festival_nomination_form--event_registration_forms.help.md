@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect nominations for the Outstanding Art Festival, which aims to recognize and celebrate outstanding art in various categories. This form allows users to submit nominations for artists who have made significant contributions to the art world.
-
-Before filling out this form, please ensure that you are submitting a unique nomination, and not duplicating an existing one. If you are unsure whether a nomination has already been submitted, you can search for existing nominations on the festival's website or contact the festival organizers for clarification.
-
-Please complete this form carefully, providing accurate and detailed information to help the selection committee make informed decisions.
-</thinking>
-
 # Outstanding Art Festival Nomination Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about the safety and condition of playgroups. The purpose of this form is to provide users with an opportunity to share their experiences and concerns about the safety of the playgrounds. This feedback will be used to identify potential issues and make informed decisions to improve the overall safety and user experience at the playgrounds.
-
-Before filling out this form, please ensure you have not already submitted feedback about the same playground.
-
-Please note that this form has duplicate fields for some sections, indicating that the form has multiple sections to collect feedback from different playgrounds. However, please fill out each section completely to provide comprehensive feedback. 
-</thinking>
-
 # playground_safety_feedback_form - Help Guide
 ## Purpose
 

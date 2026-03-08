@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to provide feedback on their recent experience with the food delivery app. This feedback is used to identify areas of improvement and make data-driven decisions to enhance the overall user experience.
-
-Before submitting a form, please ensure that you are not duplicating a previous inquiry, as this form is intended for new and unique feedback.
-
-To complete this form, follow these steps:
-
-1.  Enter your First name in the "First name" field. This will be the first field on the form.
-2.  Enter your Last name in the "Last name" field.
-3.  Provide your email address in the "Email" field, following the standard format of [username@domain.com](mailto:username@domain.com).
-4.  Enter your Phone number in the "Phone number" field, if you wish to be contacted via phone. This is an optional field.
-5.  Rate your experience with the "How would you rate your recent food delivery experience with our app?" field. Choose the best option that describes your experience.
-6.  Provide any additional comments about your experience in the "Do you have any additional comments or feedback about your experience?" field.
-7.  Choose your preferred method of contact for follow-up from the dropdown menu. You can select from the options: "Email", "Phone", "In-app message", or "None of the above".
-8.  If there is anything else you would like to share with us, please enter it in the "Is there anything else you'd like to share with us?" field.
-
-</thinking>
-
 # Food Delivery App Usability Inquiry Form - Help Guide
 ## Purpose
 This form is designed to allow users to provide feedback on their recent experience with our food delivery app. The feedback will help us to identify areas of improvement to enhance the user experience.

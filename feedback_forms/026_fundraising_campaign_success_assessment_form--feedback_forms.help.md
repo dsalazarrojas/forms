@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and assessment from participants and donors after a fundraising campaign. It is designed to help the nonprofit organization understand how successful the campaign was and what improvements can be made for future campaigns. The form should only be filled out by participants and donors who have engaged with the campaign, to avoid duplication of efforts.
-</thinking>
-
 # Fundraising Campaign Success Assessment Form - Help Guide
 ## Purpose
 This form is used to gather feedback and assess the success of our fundraising campaign. It is essential for us to understand your experience and opinions to improve future campaigns.

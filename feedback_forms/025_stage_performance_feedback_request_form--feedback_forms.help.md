@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users on the performance of a stage show or event. The purpose of this form is to gather information on the quality of the performance, which will be used to improve future events. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI.
-
-Before filling out this form, please ensure that you have not already submitted feedback on this event. Duplicate submissions will not be accepted and may cause unnecessary processing delays.
-
-To fill out this form, simply follow the instructions below.
-</thinking>
-
 # Stage Performance Feedback Request Form - Help Guide
 ## Purpose
 This form is used to provide feedback on the performance of a stage show or event. Your comments will help us improve future events and ensure that you have an enjoyable experience.

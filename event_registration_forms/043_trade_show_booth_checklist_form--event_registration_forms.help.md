@@ -1,5 +1,3 @@
-<thinking>...This form is a checklist for trade shows and exhibitions. It appears to be a collection of fields that gather information about the setup and requirements for an event. The form has fields for Show Details, Booth Setup, Equipment Needs, Staff Details, Show Services, Additional Services, Trade Show Details, and Review. It doesn't seem to be a survey, as there are no multiple-choice questions or scales. The form might be used to collect information from booth staff or organizers before or after the event. To ensure relevance and prevent duplication, we'll need to verify that this form is not a duplicate of any existing form and that its purpose aligns with the company's needs. We should also check if the form's fields and structure are clear and concise...</thinking>
-
 # Trade Show Booth Checklist Form - Help Guide
 ## Purpose
 The Trade Show Booth Checklist Form is a tool designed to gather essential information from booth staff or organizers about the setup and requirements for a trade show or exhibition. This form helps ensure that all necessary details are covered, making the event preparation and execution smoother.

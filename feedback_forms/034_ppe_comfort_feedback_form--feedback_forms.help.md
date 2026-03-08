@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll review the provided YAML form schema to understand its purpose and requirements. This form appears to be a feedback form for Personal Protective Equipment (PPE), likely for a workplace or industrial setting. Each field is meant to gather information about a person's comfort level with the PPE provided. I will create a concise and practical help guide that explains each field and its purpose.</thinking>
-
 # PPE Comfort Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback about the comfort level of Personal Protective Equipment (PPE) used in the workplace. Please complete this form to provide your honest feedback on the PPE.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this performance-appraisal-feedback-questionnaire is to gather feedback from employees on various aspects of their performance, including performance, goals, job description, and feedback on areas for improvement. This form is designed to aid in providing constructive feedback and facilitating personal growth and professional development. It is not affiliated with, endorsed by, or derived from any form platform. Instead, it was created using AI-generated code, based on public survey topic metadata, (title + industry/category) as inspiration.
-</thinking>
-
 # performance-appraisal-feedback-questionnaire - Help Guide
 ## Purpose
 This form is designed to help managers and supervisors provide constructive feedback to employees. It helps in evaluating performance, goals, and job description, and provides opportunities for employees to receive feedback on areas for improvement. It also includes questions to determine if a recommended salary increase or a developer salary is needed.

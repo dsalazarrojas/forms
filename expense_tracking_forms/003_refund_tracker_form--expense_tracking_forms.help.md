@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Refund Tracker Form is to track refund requests from customers, ensuring that refunds are processed efficiently and accurately. This form captures essential information about the customer, order details, and refund status, allowing for streamlined refund processing and follow-up. It is crucial to complete this form accurately to ensure that refund requests are properly recorded and handled.
-
-To avoid duplication, please review and update existing refund requests before filling out this form. A duplicate entry may lead to incorrect information being recorded or unnecessary processing delays.
-</thinking>
-
 # Refund Tracker Form - Help Guide
 ## Purpose
 The Refund Tracker Form is a tool used to track and manage refund requests from customers. By filling out this form, you will be able to accurately record important information about the customer, order, and refund status.

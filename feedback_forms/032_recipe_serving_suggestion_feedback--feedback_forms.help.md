@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on their experience with a recipe, specifically their serving and plating suggestions, additional comments, and ratings. This feedback will be used to improve the recipe and provide a more enjoyable dining experience for everyone. Please note that this form should only be completed once per recipe, and not for multiple recipes or unrelated topics. 
-</thinking>
-
 # Recipe Serving Suggestion Feedback - Help Guide
 ## Purpose
 This form is intended to gather your feedback on how to improve the recipe, including serving and plating suggestions, additional comments, and ratings.

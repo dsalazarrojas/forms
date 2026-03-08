@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facility Upgrade Voting Form - Help Guide
 ## Purpose
 This form is designed for facility management voting, allowing users to provide their preferences and opinions on potential facility upgrades. It helps to gather valuable feedback from stakeholders about the upgrade's type, location, timing, budget, and other relevant aspects.

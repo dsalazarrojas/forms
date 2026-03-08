@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers who have used the cab service. The purpose of this form is to gather information about their experience, including their name, contact details, and specific feedback on various aspects of the service, such as the driver's behavior, vehicle condition, and overall satisfaction. This feedback will help us to identify areas of improvement and provide better service to our customers.
-
-Please note that this form is intended to be filled out by passengers who have used our cab service and would like to share their experience. If you are not a passenger who has used our service, please do not fill out this form.
-
-</thinking>
-
 # Cab Service Feedback Form - Help Guide
 ## Purpose
 ## How To Complete This Form

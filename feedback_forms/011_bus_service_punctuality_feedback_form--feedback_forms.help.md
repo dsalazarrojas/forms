@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gather feedback from users about the punctuality of bus services. This form is designed to collect information from users about their experiences with bus delays, including the duration of the delay, the frequency of delays on the route, and their overall satisfaction with the service's punctuality. The form is intended to help the transit team understand the issues with the bus services and make improvements to reduce delays. To ensure accurate feedback, users are asked to provide specific information about their trip, such as the bus route number and the scheduled and actual arrival times. The form is anonymous, and users are only asked to provide their email address if they wish to receive a response from the transit team.
-</thinking>
-
 # Bus Service Punctuality Feedback Form - Help Guide
 ## Purpose
 The Bus Service Punctuality Feedback Form is designed to gather feedback from users about the punctuality of bus services. This form is intended to help the transit team understand issues with bus services and make improvements to reduce delays.

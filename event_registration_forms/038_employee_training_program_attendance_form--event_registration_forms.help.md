@@ -1,6 +1,3 @@
-<thinking>
-We need to make sure that the form's purpose is well understood by the end-users, i.e., the employees who are being asked to register for a training program. This form is intended to gather information about the attendees of an employee training program. The form should not be duplicated in other areas of the organization, as it serves a specific purpose. This form will be used by HR or other department heads to collect and organize data for future reference. The form should only be accessible to authorized personnel and should not be used for any other purpose. This form is part of the organization's employee development program and is used to keep track of who is attending which training sessions. It should be used to provide relevant and accurate information about the training sessions and the attendees.</thinking>
-
 # employee-training-program-attendance-form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the attendees of an employee training program. This includes details about the employee who is attending the program, the training session they are attending, and the leader of the training session.

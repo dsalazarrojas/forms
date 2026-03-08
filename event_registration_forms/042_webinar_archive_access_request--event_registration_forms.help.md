@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Webinar Archive Access Request" form, we need to determine its purpose, the process to complete it, and an explanation of each field. 
-
-The purpose of this form is to gather information from users who want to access archived webinars for their organization's or personal use. The form collects details such as requester's name and email, intended use of the archive, and consent for its usage. The form is intended to be completed by users who have already attended or are interested in accessing archived webinars.
-
-When creating the form, we should consider that it may be completed by both internal and external users. Therefore, we need to ensure that the field labels and description are clear and concise to cater to both audiences.</thinking>
-
 # Webinar Archive Access Request - Help Guide
 ## Purpose
 This form is for requesting access to archived webinars for your organization or personal use. If you have attended or are interested in accessing a webinar that is no longer available, this form is where you should start.

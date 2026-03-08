@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form appears to be a Fitness Center Member Discharge Feedback Form, used to collect feedback from members when they are discharged or terminated from a fitness center. The purpose of this form is to gather information about the member's discharge reason, method, and type, as well as details about the member and staff involved. Before filling out this form, please ensure that you have permission to access the member's information and that you are not duplicating an existing feedback record.
 
 </thinking>

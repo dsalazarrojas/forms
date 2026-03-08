@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information from customers after a point of sale interaction. This form is meant to help store employees gather valuable insights from customers about their experience, including customer name, contact information, and feedback about the product and store. This form is not intended to be used as a sales tool, but rather as a means of collecting data to improve customer service and employee performance.
-</thinking>
-
 # point_of_sale_feedback_form - Help Guide
 
 ## Purpose

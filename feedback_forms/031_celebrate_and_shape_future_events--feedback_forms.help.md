@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from attendees of events, allowing organizers to gauge their overall experience, identify areas for improvement, and gain insights for future events. This guide will walk you through the process of completing the "Celebrate and Shape Future Events" form, providing explanations for each field to ensure a smooth and accurate submission.
-
-</thinking>
-
 # Celebrate and Shape Future Events - Help Guide
 ## Purpose
 This form is intended to gather feedback from attendees on their experience at events, allowing us to identify areas for improvement and shape future events to better meet the needs and preferences of our attendees. Your input is invaluable in helping us create a more enjoyable and engaging experience for everyone involved.

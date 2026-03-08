@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to help wedding planners, organizers, or event coordinators collect necessary information about the accommodation requests for the guests attending a wedding event. This form should be used to gather details about the accommodation preferences of the guests, including the accommodation type, number of guests, arrival and departure dates, and any special requests. This form helps the wedding planner to efficiently manage the accommodation arrangements and communicate effectively with the guests.
-
-To prevent duplication of requests, this form should only be filled out once per guest and should be submitted well in advance of the event.
-
-Please ensure that all required fields (arrival_date, departure_date, number_of_guests, accommodation_request, event_details) are completed accurately and thoroughly.
-</thinking>
-
 # Wedding Accommodation Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the accommodation requests of the guests attending the wedding event.

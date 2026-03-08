@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback from users about sewing patterns. We want to understand their thoughts on the quality and design of the patterns, as well as their preferences for future patterns. The form is designed to be simple and easy to complete, with clear and concise questions that will help us improve our sewing patterns. It is not meant to be a rigorous or time-consuming process, but rather a way to gather valuable insights from users. Please make sure to fill out the form only once, as we want to ensure that we get unique and accurate feedback.
-
-</thinking>
-
 # Sewing Pattern Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about our sewing patterns. We value your opinion and want to hear about your thoughts on our patterns.

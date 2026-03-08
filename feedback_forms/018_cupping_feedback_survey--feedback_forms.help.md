@@ -1,13 +1,3 @@
-<thinking>... (Internal reasoning and checks for relevance and non-duplication)
-
-This form is designed to collect feedback from clients regarding their experiences with a product or service. The form is intended for use in a business-to-business (B2B) context, where clients can provide their input on various aspects of their interactions with the company. The form is likely to be used by customer support teams to gather valuable insights and improve customer experience.
-
-Before completing this form, please ensure that you have not already provided feedback on this topic, as duplicate submissions may cause confusion and delay the processing of your feedback. If you have already submitted feedback, please do not resubmit. However, if you have new or additional comments, please feel free to submit them.
-
-Please note that this form is for internal use only and any submitted feedback will be reviewed by the relevant stakeholders internally.
-
-</thinking>
-
 # Cupping Feedback Survey - Help Guide
 
 ## Purpose

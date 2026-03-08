@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # System Upgrade Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback on the recent system upgrade from users. The feedback is crucial to understanding the effectiveness and usability of the system upgrade, and will be used to inform future development and improvement decisions. Please provide honest and constructive feedback to help us improve the system.

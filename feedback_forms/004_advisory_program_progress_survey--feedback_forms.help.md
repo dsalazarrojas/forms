@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Advisory Program Progress Survey - Help Guide
 
 ## Purpose

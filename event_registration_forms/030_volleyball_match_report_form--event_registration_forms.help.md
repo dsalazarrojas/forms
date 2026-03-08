@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a volleyball match, gathering details such as match results, player performance, and other relevant information. The purpose of this form is to provide a structured way for users to submit reports about volleyball matches, which can be useful for tracking and analyzing match performance, player progress, and other metrics. Please ensure that this is the correct form for your intended use case, as it's designed for collecting match reports. If you're not collecting match report data, please use an alternate form.
-</thinking>
-
 # Volleyball Match Report Form - Help Guide
 
 ## Purpose

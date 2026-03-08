@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students who have attended a health clinic lecture. The form is intended to gather information on the quality of the lecture, overall experience, and any recommendations the students may have. It is also meant to capture contact information from the students in case the clinic needs to follow up with them. The form should only be completed by students who have attended the lecture, and it is recommended that students do not submit duplicate feedback forms. If a student has already submitted feedback, they should not submit another form.
-</thinking>
-
 # Health Clinic Lecture Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from students who have attended a health clinic lecture. The feedback will help the clinic to identify areas of improvement and provide better services to its audience.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users on the quality of a digital assessment. The feedback will help the team to identify areas of improvement and make adjustments to the assessment to provide a better experience for users. It is recommended to fill out this form only once per digital assessment. Please make sure to provide clear and concise feedback, and only select the options that apply to your experience. 
-</thinking>
-
 # Digital Assessment Feedback Quality Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on the quality of a digital assessment. Your input will help the team understand your experience and make improvements to future assessments.

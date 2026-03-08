@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to register a press interview slot for an event. The form is likely used by event organizers or coordinators to collect information from journalists who have expressed interest in conducting interviews at the event. The purpose of this form is to gather relevant details about the journalist, their media outlet, and their availability for an interview.
-The form will not be duplicated, as each event will have its own unique set of registered journalists and interview slots.
-</thinking>
-
 # press_interview_slot_registration - Help Guide
 ## Purpose
 This form is used to register a press interview slot for an event. It helps the event organizers collect information from journalists who are interested in conducting interviews at the event.

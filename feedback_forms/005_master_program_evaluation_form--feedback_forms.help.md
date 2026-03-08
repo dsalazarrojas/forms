@@ -1,5 +1,3 @@
-<thinking>...the form's purpose is to gather feedback from program participants, providing valuable insights into the program's effectiveness, accessibility, and faculty support. This form helps to identify areas of improvement and ensures that the program meets the needs and expectations of its participants. Before proceeding, ensure that you have not already submitted this form, as duplications may be deleted. Please fill out the form thoroughly and honestly, providing detailed comments and ratings where applicable. Ensure that you provide feedback on all fields, as they are all important for the program's overall evaluation... </thinking>
-
 # Master Program Evaluation Form - Help Guide
 ## Purpose
 The Master Program Evaluation Form is used to gather feedback from program participants on their experience within the program. This feedback is crucial in helping us understand the program's effectiveness, accessibility, and overall quality.

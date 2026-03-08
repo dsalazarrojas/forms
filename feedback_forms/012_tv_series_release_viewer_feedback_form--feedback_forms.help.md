@@ -1,5 +1,3 @@
-<thinking>...this form is designed to gather feedback from users who have viewed a tv series release. The form is meant to be filled out by viewers who have opinions on the series and wish to provide constructive feedback to the release team. This form is not meant for general inquiries or requests, but rather for specific feedback on the series. It's best to fill out this form only once you have finished viewing the series, and not while watching it. Please note that some fields are required, marked as such, while others are optional and can be skipped if not relevant to your feedback. This form is meant to be simple and quick to fill out, so please take a few minutes to provide your honest feedback... </thinking>
-
 # tv_series_release_viewer_feedback_form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users who have viewed a tv series release. The form is meant to be filled out by viewers who have opinions on the series and wish to provide constructive feedback to the release team.

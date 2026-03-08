@@ -1,7 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "gachapon_entry_feedback_survey" form. Our goal is to provide clear instructions on how to complete the form and clarify what each field means, making it easier for users to provide feedback.
-</thinking>
-
 # gachapon_entry_feedback_survey - Help Guide
 
 ## Purpose

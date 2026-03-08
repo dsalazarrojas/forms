@@ -54,20 +54,3 @@ The purpose of this form is to gather information on your volunteering behavior 
 * **Notes**: Provide any notes or comments about your volunteering experiences or experiences.
 * **Comments**: Provide any additional comments on the survey or the volunteering process.
 
-<thinking>
-
-This form is designed to gather information on your personal experiences and preferences in environmental volunteering activities. It is not meant to be a comprehensive survey, and you may skip any questions that do not apply to you. Your participation is voluntary, and your input will help us create more effective and efficient volunteer programs.
-
-We will use the data to analyze trends and preferences among volunteers and identify areas for improvement in our volunteer programs. Please provide honest and accurate information, and do not hesitate to contact us if you have any questions or need clarification on any questions.
-
-Please note that the form is designed to be completed in the shortest possible time. You can submit your survey in the provided space at the end of the form.
-
-This form will not be used to contact you or share your information with any third-party organizations. Your data will be stored securely and only used for the purpose of this survey.
-
-If you have already completed this survey, please do not submit it again. We appreciate your participation and look forward to learning from your experiences!
-
-Please ensure that your answers are accurate and complete. If you need help or have any questions, you can contact us at [your contact information].
-
-We value your time and contributions to the survey. Thank you for your participation!
-
-</thinking>

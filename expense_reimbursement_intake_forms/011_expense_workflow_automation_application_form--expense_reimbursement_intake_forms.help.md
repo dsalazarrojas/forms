@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the expense reimbursement intake process. It's meant to collect information from employees or users about their expense reimbursements. The form should only be filled out by authorized personnel and not by anyone without access to the system. To avoid filling out this form, you should not have access to the system. If you're not sure about your access, please contact your supervisor or IT department.
-</thinking>
-
 # Expense Workflow Automation Application Form - Help Guide
 ## Purpose
 The Expense Workflow Automation Application Form is used to collect information from employees or users about their expense reimbursements. This form is part of the expense reimbursement process, which ensures that all expenses are properly documented and approved before being reimbursed.

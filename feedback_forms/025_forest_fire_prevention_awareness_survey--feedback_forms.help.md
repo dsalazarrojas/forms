@@ -1,8 +1,3 @@
-<thinking>
-This form is a tool for users to report their forest fire prevention awareness levels and submit feedback on wildfire risks, prevention measures, and contact information. This guide is to ensure users understand the form's purpose and requirements.
-
-</thinking>
-
 # forest_fire_prevention_awareness_survey - Help Guide
 
 ## Purpose

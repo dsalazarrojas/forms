@@ -1,10 +1,3 @@
-<thinking>
-This form is used to register users for access to a disaster recovery site. The form will be used to collect information from users who need to access the site during a disaster or emergency situation. This form is not intended to be filled out on a regular basis, but rather as a one-time registration for users who need access to the site in a time of crisis. Please ensure that you are only filling out this form if you have a legitimate reason to access the site and understand the rules and regulations for site access.
-
-This form should only be filled out by users who have been previously vetted and cleared for access to the site. If you are not sure if you should be filling out this form, please contact the site administrators for clarification.
-
-</thinking>
-
 # Disaster Recovery Site Access Form - Help Guide
 ## Purpose
 The Disaster Recovery Site Access Form is used to register users for access to a disaster recovery site during a time of crisis. This form is used to collect information from users who need to access the site in order to perform critical operations or activities.

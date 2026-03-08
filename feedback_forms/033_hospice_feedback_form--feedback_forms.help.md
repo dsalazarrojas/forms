@@ -1,7 +1,3 @@
-<thinking>
-The Hospice Feedback Form is intended to gather patient feedback on hospice care services, which is crucial for identifying areas of improvement and providing better care quality. To ensure that patients' voices are heard, the form should only be filled out once per session. Please ensure that if you already submitted feedback, do not reattempt this form without contacting support first.
-</thinking>
-
 # Hospice Feedback Form - Help Guide
 ## Purpose
 The Hospice Feedback Form is designed to collect patient feedback on hospice care services provided during their stay. Your responses will help us better understand your needs and improve our services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users to help improve the overall user experience and identify areas that need improvement on the platform. The form should not be used to collect sensitive or personal information, but rather to gather feedback on specific features or functionality. Please use this form for legitimate purposes only.
-</thinking>
-
 # Mystery Data Collection Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and comments from users to help us improve our platform. Please provide as much detail as possible to help us understand your concerns or suggestions.

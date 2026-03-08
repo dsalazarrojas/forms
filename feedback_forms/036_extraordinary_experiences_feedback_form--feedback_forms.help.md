@@ -1,5 +1,3 @@
-<thinking>**Internal Note: This form is intended for customers or users who have experienced an extraordinary event. Please ensure that users understand the form purpose and that it's not meant to be used for general feedback or complaints. The form should only be submitted once an extraordinary event has occurred. Also, ensure that the form is not duplicated or resubmitted. The form fields are designed to collect feedback on the event, but they are not mandatory. The form will be used to gather information for improvement purposes, so users should be encouraged to provide as much detail as possible. The form will be reviewed by the relevant teams, and their responses will be taken into consideration. Please use the form responsibly and only submit it when it's genuinely necessary.</thinking>
-
 # Extraordinary Experiences Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on extraordinary events that have occurred. Please submit this form only after an exceptional event has happened, and not for general feedback or complaints.

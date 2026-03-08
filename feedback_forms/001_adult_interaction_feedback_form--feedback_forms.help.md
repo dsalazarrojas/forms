@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their interactions with adult individuals, such as colleagues, clients, or customers. The form helps to gather information about the quality of communication, active listening, and effectiveness of the interaction. This information can be used to improve future interactions and enhance overall communication skills. To ensure accuracy, please fill out the form for each interaction that took place after the last time you used the form.
-
-</thinking>
-
 # Adult Interaction Feedback Form - Help Guide
 
 ## Purpose

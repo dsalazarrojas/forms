@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect event registration data for a wine blind tasting event. This form is part of a larger event registration system, and the collected data will be used to track event details and participant information. To prevent duplication, ensure that each form submission is unique and corresponds to a specific event and participant. The form is designed to be used by event organizers and participants alike.
-</thinking>
-
 # Wine Blind Tasting Form - Help Guide
 ## Purpose
 This form is used to register for a wine blind tasting event. It collects information about the event type, wine details, and participant contact information.

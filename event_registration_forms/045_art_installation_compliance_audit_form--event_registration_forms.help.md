@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that is clear, concise, and practical for end-users to complete the "Art Installation Compliance Audit Form" efficiently and effectively. To do this, I'll review the provided YAML fields and create a corresponding help guide that addresses the form's purpose, how to complete it, and a field-by-field explanation of each section. After reviewing the YAML, I can see that the form is designed to audit the compliance of art installations with respect to safety, accessibility, and documentation. The purpose of this form is to ensure that art installations are safe, accessible, and compliant with relevant standards. I'll now create the help guide in Markdown format.</thinking>
-
 # Art Installation Compliance Audit Form - Help Guide
 ## Purpose
 The Art Installation Compliance Audit Form is designed to ensure that art installations are safe, accessible, and compliant with relevant standards. This form is used to audit art installations and identify areas where remediation is required.

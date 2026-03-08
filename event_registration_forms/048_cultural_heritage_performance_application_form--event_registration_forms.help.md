@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the Cultural Heritage Performance Application Form, we need to understand its purpose and ensure it's not duplicated with other forms. This form is designed to collect event registration information for cultural heritage performances, such as concerts, plays, or dance recitals. The event details, date, location, and performance details should be filled out with the relevant information for each event. The form also requests contact information to facilitate communication with the submitter. The event type should be selected from the options provided. The performance length can be entered, but it's not essential. The additional info field allows for any extra comments or notes. The submitter's email and phone number are requested for follow-up purposes.
-
-</thinking>
-
 # Cultural Heritage Performance Application Form - Help Guide
 ## Purpose
 The Cultural Heritage Performance Application Form is designed to collect event registration information for cultural heritage performances. This form helps us gather essential details about each event, including event details, date, location, and performance details. It also collects contact information for communication purposes and allows submitters to provide additional information if needed.

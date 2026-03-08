@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to collect customer feedback on various aspects of our service. Before providing feedback, please ensure that you haven't already submitted feedback on the same topic. If you're unsure whether your feedback is relevant or not, please ask our support team for guidance.
-</thinking>
-
 # customer_feedback_survey_approval_form - Help Guide
 ## Purpose
 The customer_feedback_survey_approval_form is designed to gather feedback from customers on our service. The form collects information on the type of feedback, level of satisfaction, areas for improvement, and potential issues experienced.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from regatta crew members to manage their participation and details in a regatta event. This form ensures that crew members provide essential details about themselves and their boat, including their names, contact information, and boat-specific information. This form helps event organizers to track crew member participation, verify identity, and facilitate communication.
-The form is divided into two sections: Crew Details and Regatta Info. The Crew Details section asks for personal details such as name, age, contact email, phone number, and position. The Regatta Info section asks for specific details about the boat, including its type, length, design, and regatta information.
-To complete this form, follow these steps:
-1.  Enter your crew member details in the Crew Details section.
-2.  Enter your boat information in the Regatta Info section.
-3.  Review and submit the form to register your crew member participation.
-
-</thinking>
-
 # Regatta Crew RSVP Form - Help Guide
 ## Purpose
 This form is designed to collect information from regatta crew members to manage their participation in a regatta event.

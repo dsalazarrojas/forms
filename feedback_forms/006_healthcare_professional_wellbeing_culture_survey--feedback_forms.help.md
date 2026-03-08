@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Professional Wellbeing Culture Survey - Help Guide
 
 ## Purpose

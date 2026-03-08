@@ -1,7 +1,3 @@
-<thinking>
-We want to create a form that helps us measure guest satisfaction with our hotel. This form should be easy to complete and provide us with useful information that can help us improve our services. Before we start, let's make sure that the form is clear and concise, and that every field has a clear purpose and explanation.
-</thinking>
-
 # Guest Satisfaction Quiz - Help Guide
 ## Purpose
 The Guest Satisfaction Quiz is a form designed to help us understand your experience with our hotel. Your feedback is crucial in helping us improve our services and provide the best possible stay for our guests.

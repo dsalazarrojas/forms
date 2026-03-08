@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for a form designed to collect information for a demon summoning request, likely for a fantasy-themed application or game. To complete this form, users will need to select their choices from a series of dropdown menus and text fields over multiple pages. It is essential to ensure that the form is filled out correctly to avoid any potential misinterpretation of the user's requests.
-</thinking>
-
 # Demon Summoning Request Form - Help Guide
 
 ## Purpose

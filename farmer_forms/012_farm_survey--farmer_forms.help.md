@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from farmers about their farm operations. This data will help us better understand the farming practices and conditions on various farms across the region. The form has five pages with different types of questions, and each page is designed to collect specific information. Please make sure to complete each page carefully, as the information provided will be used to inform our research and decision-making.
 
 Before starting, ensure that you are not duplicating any existing information by checking our database for any previously submitted surveys.

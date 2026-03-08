@@ -1,7 +1,3 @@
-<thinking>
-This form is likely being used for ordering graphics printing for a race event, and the fields are likely related to event and contact information, graphic design options, and other specifics. This form might not be used for general events but could be specific to racing events. The fields should be explained clearly and concisely to ensure end-users can easily understand their purpose.
-</thinking>
-
 # Race Event Tent Graphic Printing Order Form - Help Guide
 ## Purpose
 This form is designed to capture event-specific information and graphic printing order details for racing events.

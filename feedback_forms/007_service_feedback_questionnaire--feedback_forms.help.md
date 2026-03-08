@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Service Feedback Questionnaire" form, I will follow these steps:
 
 1.  Determine the form's purpose and potential issues with the provided YAML fields.

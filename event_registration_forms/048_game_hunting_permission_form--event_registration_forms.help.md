@@ -1,7 +1,3 @@
-<thinking>
-The form "Game Hunting Permission Form" is used to gather information from landowners for game hunting permits. This form is typically used when a hunter wants to hunt on a specific property and needs permission from the landowner to do so. The form is designed to capture essential details such as the hunter's and landowner's contact information, dates of the hunt, and any relevant notes. This form should be used on a per-hunt basis, and the landowner's permission is required for each individual hunt.
-</thinking>
-
 # Game Hunting Permission Form - Help Guide
 ## Purpose
 The Game Hunting Permission Form is used to obtain permission from landowners for game hunting on their properties.

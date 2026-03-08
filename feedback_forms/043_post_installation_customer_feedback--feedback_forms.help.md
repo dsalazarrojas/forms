@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather post-installation feedback from customers. The form helps us understand how our customers feel about the products they've installed, and their overall satisfaction level with the experience. It's essential to fill out this form to ensure we're meeting our customers' expectations and identify areas for improvement. To avoid confusion, please note that this form is for customers who have already installed our product. If you're a new customer, please contact us for more information on how to get started.
-</thinking>
-
 # post_installation_customer_feedback - Help Guide
 
 ## Purpose

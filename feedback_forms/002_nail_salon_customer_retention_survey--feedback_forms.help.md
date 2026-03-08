@@ -1,12 +1,3 @@
-<thinking>
-The "Nail Salon Customer Retention Survey" form aims to collect valuable insights from customers to improve the nail salon's services, customer experience, and retention strategies. This form will help the salon understand the customer's satisfaction with services, staff, and their visit habits. It also inquires about participation in the loyalty program and provides an opportunity for customers to share feedback and contact information.
-
-The form is a simple, single-page survey with a mix of select_one, select_multiple, and text fields, making it easy for customers to complete. Each field is designed to gather specific information and provide the salon with actionable data to enhance their services and customer experience.
-
-The form can be completed online, and its responses will be stored for future reference. To avoid duplication, customers can only complete the form once per visit.
-
-</thinking>
-
 # Nail Salon Customer Retention Survey - Help Guide
 ## Purpose
 This survey aims to gather insights from customers about their experience with our nail salon, helping us to improve our services and customer experience.

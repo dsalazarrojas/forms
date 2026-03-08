@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Best Supporting Role Nomination Form", I will need to ensure the form's purpose and requirements are clearly explained. This form appears to be used for nominating an employee for a "Best Supporting Role" award, which likely recognizes an individual's outstanding support to the team or organization. The form asks for various bits of information, including the nominator's details, the nominee's details, their relationship to the nominee, and an evaluation of the nominee's skills, qualities, and contributions. This form may also have a section for additional comments or anecdotes to further illustrate the nominee's supporting role. The form's purpose is to gather information that can be used to evaluate and recognize the nominee's contributions. To prevent duplication of nominations, it would be wise to check internally whether a similar nomination has been made before.
-
-</thinking>
-
 # Best Supporting Role Nomination Form - Help Guide
 ## Purpose
 The Best Supporting Role Nomination Form is used to nominate an individual for recognition of their outstanding support to the team or organization. This form is used to gather information that can be used to evaluate and recognize the nominee's contributions.

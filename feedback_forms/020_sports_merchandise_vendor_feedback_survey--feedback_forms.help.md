@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sports Merchandise Vendor Feedback Survey - Help Guide
 
 ## Purpose

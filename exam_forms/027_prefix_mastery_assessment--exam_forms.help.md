@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prefix Mastery Assessment - Help Guide
 ## Purpose
 The Prefix Mastery Assessment is a form designed to evaluate a person's understanding and proficiency in prefixes. It is used to gauge a person's ability to work with prefixes and understand their meaning and usage. The form is a tool for self-assessment and feedback, helping individuals identify areas of improvement and develop their prefix-related skills.

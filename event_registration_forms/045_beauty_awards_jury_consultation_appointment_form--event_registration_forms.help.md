@@ -1,7 +1,3 @@
-<thinking>
-The "Beauty Awards Jury Consultation Appointment Form" is a form designed to gather information from potential beauty industry experts who may be interested in participating in a Beauty Awards jury. This form aims to collect essential data from the applicant, including their personal details, areas of expertise, and preferences for consultation dates and formats. The form is divided into several sections that require the applicant to fill in their name, contact email and phone number, professional details, areas of expertise, and preferred consultation date and time. The form also asks about the applicant's availability, travel requirements, and any additional comments they may have. The form checks for relevance and non-duplication, ensuring that each applicant's information is unique and valid. This form is intended to facilitate efficient and effective communication with the jury members and ensure a smooth and successful judging process for the Beauty Awards.
-</thinking>
-
 # Beauty Awards Jury Consultation Appointment Form - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Beauty Awards Jury Consultation Appointment Form.

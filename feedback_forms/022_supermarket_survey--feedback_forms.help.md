@@ -1,9 +1,3 @@
-<thinking>
-
-The "Supermarket Survey" form is designed to collect information about customers' experiences and opinions about a supermarket. This form is intended to gather data on various aspects of the supermarket, including customer demographics, service quality, and product selection. It is likely used by store management to monitor and improve customer satisfaction and store operations. This form does not have any specific submission triggers, so users can fill it out at their own pace.
-
-</thinking>
-
 # Supermarket Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback from customers about their experiences with the supermarket. It will help store management to understand customer needs and improve store operations.

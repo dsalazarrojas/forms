@@ -1,5 +1,3 @@
-<thinking>This form is used by hiring managers to provide feedback on candidates after an interview or assessment. Please only fill out this form if you have a strong opinion on a candidate, as feedback from managers who are unsure or neutral will not be considered. To avoid duplication, please do not provide feedback for the same candidate more than once.</thinking>
-
 # Hiring Manager Feedback Form - Help Guide
 ## Purpose
 

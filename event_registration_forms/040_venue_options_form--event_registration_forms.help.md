@@ -1,7 +1,3 @@
-<thinking>
-This guide is used to ensure that the form is filled out correctly to capture the necessary information for a venue.
-</thinking>
-
 # Venue Options Form - Help Guide
 ## Purpose
 This form is used to collect venue-specific information for an event.

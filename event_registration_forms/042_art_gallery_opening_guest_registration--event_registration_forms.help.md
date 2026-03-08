@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for registration of guests for an art gallery opening event, capturing essential information to manage the event smoothly and efficiently. The form is designed to be completed by guests, not event organizers. The fields are chosen based on the assumption that the event will provide a unique experience and may offer special services or amenities to guests, such as VIP support or photography. The purpose of the form is to gather necessary information from guests to ensure a smooth and enjoyable experience.
-
-</thinking>
-
 # Art Gallery Opening Guest Registration - Help Guide
 ## Purpose
 

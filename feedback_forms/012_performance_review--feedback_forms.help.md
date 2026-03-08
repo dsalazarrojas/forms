@@ -1,5 +1,3 @@
-<thinking>Before starting the Performance Review form, please ensure you are using it for its intended purpose and not duplicating work that has already been done. This form is meant to provide a structured process for managers and employees to discuss and document performance goals, progress, and feedback. If you have already completed a similar review, please do not fill out this form. To confirm, please check with your manager or HR department to ensure you are not duplicating efforts.</thinking>
-
 # Performance Review - Help Guide
 
 ## Purpose

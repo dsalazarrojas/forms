@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I will follow the provided Markdown structure and explain each field based on the input schema.
-
-</thinking>
-
 # Dental Trauma Management Quiz - Help Guide
 ## Purpose
 This form is designed to collect information for the management of dental trauma. It's intended for patients who have experienced some form of dental trauma and are seeking guidance on the best course of action. Please ensure you are filling out this form with accurate and relevant information to provide a clear picture of your situation.

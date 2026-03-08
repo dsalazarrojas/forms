@@ -1,7 +1,3 @@
-<thinking>
-The form "Community Incident Form" is likely used by community residents, visitors, or authorities to report incidents that occur within the community. This form helps gather information about the incident, including its type, date, time, location, description, and any involved parties. The form also allows users to provide witness information, notify the police or local authority, and attach photos or videos. Additionally, users can choose to remain anonymous or provide their name and contact information for follow-up. The form is likely designed to be completed by users who witness or have information about an incident, and the collected data will be reviewed by community leaders.
-</thinking>
-
 # Community Incident Form - Help Guide
 ## Purpose
 The Community Incident Form is a tool used to collect information about incidents that occur within the community. By completing this form, you can help community leaders understand and address issues more effectively.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and ratings from users on the quality and standards of Trunk or Treat events. The form is intended to be filled out by users who have attended a Trunk or Treat event and want to provide their thoughts on various aspects of the event.
-
-The purpose of this form is to gather data on the event's overall impression, decoration standards, food standards, entertainment standards, and other relevant aspects that contribute to a well-rounded Trunk or Treat experience. By completing this form, users can provide actionable feedback to event organizers and help improve future events.
-
-Please ensure that you are filling out this form for a specific Trunk or Treat event that you have attended. If you have already submitted feedback for this event, please do not submit duplicate feedback.
-
-</thinking>
-
 # Trunk Or Treat Judging Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings on the quality and standards of Trunk or Treat events.

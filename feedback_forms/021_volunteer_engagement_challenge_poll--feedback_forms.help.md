@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Engagement Challenge Poll - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose and Duplication Check**
-This form is intended to collect information from students for SAT exam registration. Please make sure you have not already registered for this exam before proceeding with this form. If you are unsure, check your previous registrations or contact your administrator.
-</thinking>
-
 # SAT Exam Registration Form - Help Guide
 ## Purpose
 The SAT Exam Registration Form is a document that helps you register for a SAT exam. Fill out this form to provide us with your details so we can register you for the exam.

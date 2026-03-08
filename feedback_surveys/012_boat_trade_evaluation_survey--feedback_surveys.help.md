@@ -1,12 +1,3 @@
-<thinking>
-As a form designer and technical writer, my goal is to create a user-friendly help guide that effectively communicates the purpose and functionality of the form to end users. This guide will help users understand what the form is used for, how to complete it, and what each field means, ensuring they can accurately and confidently submit their feedback.
-
-To confirm, this form is for gathering feedback from customers who have traded in their boats at a dealership or broker. The form asks users to provide their name, email, phone number, and other relevant information about their trade-in experience, including their satisfaction with the process, the dealer's professionalism, and their overall experience.
-
-This guide will be a comprehensive resource that helps users navigate the form and provide accurate and informative feedback that will aid in improving the dealership's or broker's services.
-
-</thinking>
-
 # Boat Trade Evaluation Survey - Help Guide
 ## Purpose
 The Boat Trade Evaluation Survey is a feedback form designed to gather information about your experience when trading in your boat at a dealership or broker. Your feedback will help us understand our strengths and weaknesses, enabling us to improve our services and provide better experiences for our customers.

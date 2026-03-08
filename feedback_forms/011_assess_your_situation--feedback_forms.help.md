@@ -1,5 +1,3 @@
-<thinking>...This form is designed to guide users through a comprehensive assessment of their current situation, providing a clear and structured framework for users to describe their circumstances and preferences. The form is used to capture various aspects of the user's situation, including personal details, context, and desired outcomes. By providing clear and concise instructions, this form aims to reduce user frustration and increase the accuracy of the assessment process... </thinking>
-
 # Assess Your Situation - Help Guide
 ## Purpose
 The purpose of this form is to help you assess your current situation and provide a clear understanding of your needs and preferences. Please fill out this form to the best of your ability, and you will be guided through each step to ensure you have completed all necessary fields.

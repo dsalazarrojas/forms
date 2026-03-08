@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is intended to obtain minor's and parent's consent for a minor to receive body art services. The form is used to record minor and parent information, including minor's name, date of birth, parent's name, contact information, and signatures. The purpose of this form is to ensure that both minor and parent are aware of and consent to the body art services.
-
-</thinking>
-
 # Minor Consent For Body Art - Help Guide
 
 ## Purpose

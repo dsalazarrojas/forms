@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate constructive feedback and self-assessment for individuals, typically in a professional or academic setting. It's designed to help respondents reflect on their performance during a specific period, identify areas for improvement, and provide a summary of peer feedback received. The form is a tool for individuals to take an introspective look at their accomplishments, weaknesses, and development actions needed to grow in their role or function. It's meant to be used by individuals who want to engage in self-reflection and seek feedback from others to aid in their personal and professional development.
-</thinking>
-
 # Constructive Feedback And Self Assessment Form - Help Guide
 ## Purpose
 This form is designed to help individuals reflect on their performance, identify areas for improvement, and provide a summary of peer feedback received.

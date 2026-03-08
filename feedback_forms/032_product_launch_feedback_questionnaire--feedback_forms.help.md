@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block to ensure the form is being used correctly and not duplicated. This form is used to collect feedback about product launch, ensuring that the product meets customer expectations. By filling out this form, users can provide detailed suggestions for improvement, which will be reviewed and addressed by the product team.
-</thinking>
-
 # product_launch_feedback_questionnaire - Help Guide
 ## Purpose
 This form is used to collect feedback about the product launch, helping us understand what customers think about the product and gather suggestions for improvement.

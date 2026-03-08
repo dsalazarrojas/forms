@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is designed to collect feedback and personal stories from participants and organizers of events, programs, and experiences. It aims to gather information on the quality of the event, the participant's personal story, and their willingness to share their story publicly or with specific groups. The form is optional, and participants can choose not to share their story or feedback if they prefer.
-
-</thinking>
-
 # Feedback And Memories Form - Help Guide
 ## Purpose
 

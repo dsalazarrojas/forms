@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our users understand the purpose and relevance of this form. The form is for registering individuals to attend a charity match event, where they can indicate their interest in attending, provide their personal details, and optionally indicate their willingness to make a donation or volunteer. Each field should be clearly explained to facilitate a smooth and efficient registration process. We should also check for any redundancy or duplication of fields to prevent user confusion.
-</thinking>
-
 # Charity Match RSVP Form - Help Guide
 ## Purpose
 The Charity Match RSVP Form is designed to help individuals register for a charity match event, providing their personal details and expressing their interest in attending, donating, or volunteering.

@@ -1,13 +1,3 @@
-<thinking>
-
-To determine whether the user can be registered for this event, the system checks for the following conditions. The user is only allowed to be registered if: 
-1. The user has not already registered for this event. 
-2. The user has not already RSVP'd "No" for this event. 
-
-The form is meant to handle the registration of guests for a spa event. 
-
-</thinking>
-
 # Spa Guest Event RSVP Registration Form - Help Guide
 ## Purpose
 The Spa Guest Event RSVP Registration Form is used to collect information from guests attending a spa event. This information is used to manage the guest list and ensure that each guest's event details are accurate.

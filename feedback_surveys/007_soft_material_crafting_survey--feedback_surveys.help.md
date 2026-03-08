@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Soft Material Crafting Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your soft material crafting projects. Please take a few minutes to fill out this form, and we will use the provided data to better understand your needs and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to register users for an event and collect information for a possible giveaway entry. The purpose of this form is to gather essential details from users, including event attendance status, giveaway entry status, and contact information. It is crucial to fill out the form accurately to ensure that users receive the correct event updates and that their giveaway entry is processed correctly. This form is only available when there is a relevant event scheduled, so please check the event calendar to confirm the event date and details. Please note that the fields marked as "optional" are not required and can be skipped if not relevant.
-</thinking>
-
 # RSVP For Event & Giveaway Entry - Help Guide
 ## Purpose
 This form is designed to collect information from users for an event and a possible giveaway entry. It gathers essential details such as event name, date, and contact information.

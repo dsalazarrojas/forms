@@ -1,9 +1,3 @@
-<thinking>
-This form is used to verify sponsorship agreements for events. The purpose of the form is to collect information about the sponsorship agreement between the event organizer and the sponsor. This includes details such as the sponsor's name, title, address, email, and contract terms. The form also asks about the status and value of the contract. This form is likely used by event organizers to ensure that all necessary information about sponsorships is accurately recorded and up-to-date.
-It's essential to fill out this form carefully and accurately to ensure that the information is correctly recorded. Before proceeding, make sure that you have all the necessary information and documents required for the form.
-This form is not intended for general public use; it's designed for authorized event staff or organizers who need to verify sponsorship agreements.
-</thinking>
-
 # Sponsorship Agreement Verification Form - Help Guide
 ## Purpose
 The Sponsorship Agreement Verification Form is a tool used to gather information about sponsorship agreements for events. It helps event organizers to accurately record and verify the details of these agreements.

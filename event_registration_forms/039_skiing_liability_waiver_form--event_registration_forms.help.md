@@ -1,9 +1,4 @@
-# <thinking>
-This form is intended for skiers or participants in skiing events to acknowledge and accept liability and terms of participation. It is usually completed before engaging in any skiing activity.
-This form is an original adaptation of public survey topics related to skiing and event registration forms.
-</thinking>
-
-# Skiing Liability Waiver Form - Help Guide
+# # Skiing Liability Waiver Form - Help Guide
 ## Purpose
 This form is for you to acknowledge and accept liability and terms of participation in skiing events.
 

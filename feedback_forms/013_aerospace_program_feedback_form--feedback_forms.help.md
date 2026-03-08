@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from participants about the aerospace program they attended. This feedback will help us understand the strengths and weaknesses of the program and identify areas for improvement. Before completing this form, please ensure that you have attended the program and are providing feedback based on your genuine experience. Please do not submit duplicate feedback, as this will be used to track progress and identify trends over time.
-
-This form is divided into several sections, each focusing on a specific aspect of the program. Please answer the questions honestly and thoroughly, providing as much detail as possible. If you have any comments or suggestions, feel free to use the "Additional Comments" field at the end of the form.
-
-Please note that some fields are marked as "required," which means they are essential for us to gather accurate and complete feedback. However, you can leave the optional fields blank if you do not have any information to provide.
-
-If you have any doubts or concerns, please contact us at [contact information]. We appreciate your time and effort in providing this feedback, which will help us improve future programs.
-
-</thinking>
-
 # Aerospace Program Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants about their experience with the aerospace program. Your input will help us identify areas of improvement and enhance future programs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # App Feature Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users about specific features in the app. This form is designed to gather information on how users interact with features, their experience, and suggestions for improvement. 

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather participant feedback on the effectiveness of our cybersecurity awareness training programs. The form is used to assess the participant's level of understanding and perception of the training, their opinion on its effectiveness, and any other relevant feedback that can help us improve the training program. 
-Before filling out this form, please ensure that you have attended the training session in question. 
-If you have already filled out this form, please do not submit it again. 
-Please be as specific as possible when providing your feedback, and make sure to fill out all the required fields. 
-</thinking>
-
 # Cybersecurity Awareness Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from participants on the effectiveness of our cybersecurity awareness training programs.

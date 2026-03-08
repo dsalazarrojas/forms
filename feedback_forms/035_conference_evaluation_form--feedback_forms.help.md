@@ -1,11 +1,3 @@
-<thinking>Internal reasoning block to determine form purpose and non-duplication
-
-This form is intended to gather feedback from conference attendees about their experience at the event. It is designed to be a comprehensive evaluation tool, covering various aspects of the conference, including content, speakers, venue, organization, and overall satisfaction. The form includes a mix of rating and open-ended fields to allow attendees to provide detailed feedback. The form's purpose is to help event organizers improve future events by identifying areas of strength and weakness.
-
-The form's metadata indicates that it was created using AI, which means it is an original adaptation and not a direct copy of any existing form. The form's title and metadata are consistent with this goal, as they emphasize the form's purpose and origin.
-
-</thinking>
-
 # Conference Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from conference attendees about their experience at the event. It covers various aspects of the conference, including content, speakers, venue, organization, and overall satisfaction.

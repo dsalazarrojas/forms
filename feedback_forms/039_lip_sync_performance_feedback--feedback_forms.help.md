@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on Lip Sync performances, which are events where a performer synchronizes their movements with a video or audio track. The purpose of this form is to gather data on the quality of each performance, including synchronization, stage presence, creativity, and overall rating. This data will be used by performance organizers and evaluators to compare and evaluate different performances, as well as to identify areas for improvement.
-</thinking>
-
 # Lip Sync Performance Feedback - Help Guide
 
 ## Purpose

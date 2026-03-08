@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about an event, including event details, host, location, dates and times, RSVP deadline, address, notes, dietary preferences, and RSVP status. This form is meant to be used by event organizers to create a template for event invitations, making it easier to gather necessary information from attendees.
-
-To ensure that the form is not used in duplicate, we will be using a template ID (id: 1) to identify the form. This template ID will be used to track the form's purpose and ensure that the same form is not created multiple times.
-
-Before proceeding, ensure that you have reviewed this help guide to understand the purpose and requirements of the form.
-
-</thinking>
-
 # Event Invitation Form Template - Help Guide
 ## Purpose
 The Event Invitation Form Template is used to collect information about an event, including event details, host, location, dates and times, RSVP deadline, address, notes, dietary preferences, and RSVP status.

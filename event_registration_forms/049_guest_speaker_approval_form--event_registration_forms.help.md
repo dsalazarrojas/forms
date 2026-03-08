@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from guests who wish to speak at events. It is used to ensure that the speaker has all the necessary agreements in place before they can be confirmed as a speaker. This form should only be used for guests who have not previously submitted a speaker agreement form. If a guest has already submitted a form, please refer to their previous submission. The guest speaker agreement form is used to gather more specific details from the speaker and ensure they understand their responsibilities. This form is only accessible to authorized personnel in charge of event management.
-</thinking>
-
 # Guest Speaker Approval Form - Help Guide
 ## Purpose
 This form is a crucial part of the event management process, ensuring that all guest speakers have the necessary agreements and information in place before they can be confirmed.

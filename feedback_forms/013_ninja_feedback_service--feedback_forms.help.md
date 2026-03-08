@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that our ninja feedback service is used correctly. This form is meant for users to submit feedback on our service. We will review this feedback to improve our performance. Please fill out the form only if you have a genuine concern or suggestion. If you have already provided feedback on this form, please do not resubmit. We will use this feedback internally to enhance our user experience.
-</thinking>
-
 # Ninja Feedback Service - Help Guide
 ## Purpose
 This form is used to collect feedback from users about their experience with our ninja feedback service. Your feedback will help us to improve our service and make it more user-friendly.

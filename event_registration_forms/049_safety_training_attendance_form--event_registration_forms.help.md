@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register for and track attendance at safety training sessions. It's designed to capture relevant information about the attendee, the training session, and the attendee's status. This form should only be used for safety training sessions that are relevant to the user's work. To ensure accuracy, please make sure to complete all required fields and only use this form for the correct training session.
-</thinking>
-
 # Safety Training Attendance Form - Help Guide
 ## Purpose
 The Safety Training Attendance Form is used to register for and track attendance at safety training sessions.

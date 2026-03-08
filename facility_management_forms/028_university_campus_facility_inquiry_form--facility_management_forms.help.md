@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help university staff and students report issues or concerns related to university campus facilities. The purpose of this form is to provide a structured way of gathering information about facilities that require attention or maintenance. This form will be reviewed and addressed by the facilities management team to ensure the optimal upkeep and maintenance of university facilities.
-
-The form will only be used for genuine and relevant concerns, to avoid duplication, please only submit a new report if you have not already reported the issue or concern.
-
-</thinking>
-
 # University Campus Facility Inquiry Form - Help Guide
 ## Purpose
 This form is designed to help university staff and students report issues or concerns related to university campus facilities. Please use this form to provide a brief description of the facility's issue or concern.

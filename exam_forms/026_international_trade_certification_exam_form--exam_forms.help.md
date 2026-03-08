@@ -1,10 +1,3 @@
-<thinking>
-This form is used for certification exams, such as language proficiency, professional certification, or academic exams. It captures essential details to track exam schedules, results, and other relevant information. To determine if this form is suitable for your use case, consider the following:
-* Are you creating a certification program or tracking exam schedules for your organization?
-* Do you need to capture exam results, scores, and other relevant details?
-* Are you working with multiple exam types, such as language proficiency or professional certification exams?
-</thinking>
-
 # International Trade Certification Exam Form - Help Guide
 ## Purpose
 The International Trade Certification Exam Form is designed to collect information about certification exams. It includes fields to capture exam details such as exam date, time, location, and scores.

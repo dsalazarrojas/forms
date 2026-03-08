@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ENT Knowledge Quiz - Help Guide
 ## Purpose
 The ENT Knowledge Quiz is a form designed to assess your knowledge of the Endotracheal Tube (ET) in various clinical scenarios. This form consists of 18 questions that cover the primary function of the ET, its impact on tracheal pressure, indications for use, complications associated with it, and post-procedure management. The goal of this quiz is to evaluate your understanding of the ET and its applications in the management of patients with tracheal injuries.

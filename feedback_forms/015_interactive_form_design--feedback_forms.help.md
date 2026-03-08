@@ -1,13 +1,3 @@
-<thinking>...thinking
-
-This form is intended for users who want to provide feedback on the Interactive Form Design template. The purpose of this form is to collect information about the user's experience with the template. The form is designed to be interactive and easy to fill out, with clear labels and options to guide the user through the process. 
-
-To ensure that users provide accurate and relevant feedback, the form is divided into sections that correspond to specific aspects of the template. This helps users focus on one area at a time and provide detailed feedback.
-
-The form is not meant for users to submit new form designs or templates, so fields like "category" and "assigned_tool" might be confusing to some users. In this case, we will treat them as examples of fields that might cause confusion and provide explanations to clarify their purpose.
-
-</thinking>
-
 # Interactive Form Design - Help Guide
 ## Purpose
 

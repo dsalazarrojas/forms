@@ -1,11 +1,3 @@
-<thinking>
-
-We need to create a help guide for the Corporate Retreat Feedback Survey form. This form is meant to gather feedback from attendees of corporate events to improve the overall experience. We want to make sure that we're not duplicating feedback and that it's relevant to the event, so we'll need to check if the user's feedback hasn't already been provided for the same event. If it has, we can skip this survey.
-
-The form will cover various aspects of the event, including personal information, event details, satisfaction, and ratings. We want to make sure that users understand what each section is asking for and how to complete it correctly. This guide will help users navigate the form and provide clear explanations for each field.
-
-</thinking>
-
 # Corporate Retreat Feedback Survey - Help Guide
 ## Purpose
 This guide will walk you through the Corporate Retreat Feedback Survey form. Please follow these steps to provide your feedback and help us improve the corporate events.

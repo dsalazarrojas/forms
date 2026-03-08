@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Values Review Survey - Help Guide
 
 ## Purpose

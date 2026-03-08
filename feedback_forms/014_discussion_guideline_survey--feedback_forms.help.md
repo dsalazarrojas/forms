@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather feedback on the discussion guidelines provided. The feedback will help us understand how well you understood the guidelines and what aspects need improvement. The form will be reviewed internally to ensure the guidelines are clear and helpful. You will be providing a subjective assessment of the guidelines.</thinking>
-
 # Discussion Guideline Survey - Help Guide
 ## Purpose
 The purpose of this form is to help us evaluate the effectiveness of the discussion guidelines. Please answer the questions as honestly as possible to provide us with valuable feedback.

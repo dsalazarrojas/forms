@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to understand the School Withdrawal Survey form. This form is used to gather information from students who have withdrawn from their school for various reasons. It is likely that school administrators or staff will be filling this form to record and track the withdrawal of students in a structured and efficient manner. To prevent duplication of efforts, please ensure that you have reviewed and understood this guide thoroughly before proceeding.
-</thinking>
-
 # School Withdrawal Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect relevant information from students who have withdrawn from their school for various reasons. The information collected will help school administrators or staff track and analyze the reasons behind student withdrawals.

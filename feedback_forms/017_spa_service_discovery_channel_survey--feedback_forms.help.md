@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from spa service providers about their marketing and promotional activities. The form is part of a larger effort to help spa service providers better understand their own marketing channel usage and how to effectively promote their services. This form will help identify gaps and opportunities for improvement in current marketing strategies and provide valuable insights for future marketing initiatives.
-
-</thinking>
-
 # Spa Service Discovery Channel Survey - Help Guide
 ## Purpose
 

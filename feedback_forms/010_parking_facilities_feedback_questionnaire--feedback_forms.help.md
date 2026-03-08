@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose and requirements of the form, so that we can get accurate and meaningful feedback. This is essential for understanding the user's experience and expectations for parking facilities. Before starting, please take a moment to read through the form carefully and ensure that you are filling it out for the correct purpose. This form will help us understand the quality of our parking services and what we can do to improve. 
-
-To avoid duplicating efforts, please check with your department or manager to see if someone else in your organization has already filled out this form. We want to get feedback from different perspectives, so feel free to share your genuine thoughts and experiences.
-</thinking>
-
 # Parking Facilities Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about your experience with our parking facilities. Your feedback will help us identify areas for improvement and make informed decisions about our services.

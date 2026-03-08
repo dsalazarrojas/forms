@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Observation And Input Survey" form. This form is used to collect user information, date and time of observation, location of observation, observation type, ratings, and notes from users. To ensure that the form is completed accurately and efficiently, we need to clearly explain each field's purpose and requirements. Before we begin, let's review the form structure:
-- The form is divided into 8 fields.
-- Each field has a unique id, name, label, hint, type, and options.
-- The required field is not used in this form as it's always set to false.
-</thinking>
-
 # Observation And Input Survey - Help Guide
 ## Purpose
 This form is designed to collect information and feedback from users. It's used to gather specific details about their observations, ratings, and comments related to a particular event or situation.

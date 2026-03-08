@@ -1,13 +1,3 @@
-<thinking>
-
-Analog Color TV Standards Quiz form is used by students to complete a series of questions related to television broadcasting standards. To ensure consistency and correctness of student answers, this form is used to record participant name, select the correct television standard, input specific numeric information (number of lines in NTSC standard and color subcarrier frequency), and agree to have their answers reviewed for grading purposes.
-
-This form is designed to collect information on each student, making it easier for instructors to grade their work and provide feedback.
-
-It is crucial to ensure that each student completes the form correctly to avoid any issues with grading and feedback.
-
-</thinking>
-
 # Analog Color TV Standards Quiz - Help Guide
 ## Purpose
 The Analog Color TV Standards Quiz form is used to collect information from students related to television broadcasting standards.

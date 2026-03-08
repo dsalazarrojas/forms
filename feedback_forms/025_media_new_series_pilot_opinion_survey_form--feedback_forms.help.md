@@ -1,7 +1,3 @@
-<thinking>
-To determine if a user has already completed the form and to prevent duplication of feedback, we should first check if they have already submitted the form. We can do this by checking the form's submission ID, if one exists. This way, we can ensure that the user is only prompted to fill out the form again if they haven't already completed it.
-</thinking>
-
 # media_new_series_pilot_opinion_survey_form - Help Guide
 ## Purpose
 The "media_new_series_pilot_opinion_survey_form" is designed to gather feedback from users who have viewed a new series pilot episode. The form collects information on the user's viewing experience, overall reception, and suggestions for improvement.

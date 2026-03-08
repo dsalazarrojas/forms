@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to register for an off-site retreat. The purpose of this form is to gather information about the employee's details, attendance, accommodation, and preferences for the event. This form will likely be used by HR or event organizers to track attendance and make necessary arrangements for the event.
-</thinking>
-
 # off_site_retreat_employee_rsvp_form - Help Guide
 ## Purpose
 This form is designed for employees to register for an off-site retreat. It is used to gather information about the employee's details, attendance, and preferences for the event.

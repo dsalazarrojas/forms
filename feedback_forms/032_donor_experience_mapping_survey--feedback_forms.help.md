@@ -1,7 +1,3 @@
-<thinking>
-This help guide will provide step-by-step instructions to complete the Donor Experience Mapping Survey form, including explanations for each field to ensure users understand the purpose and requirements of the form.
-</thinking>
-
 # Donor Experience Mapping Survey - Help Guide
 ## Purpose
 The Donor Experience Mapping Survey is a tool used to collect feedback from donors on their interactions with our organization. The survey aims to understand how well we are performing in areas such as communication, reliability, responsiveness, and innovation. By completing this survey, you will be providing valuable insights that will help us improve our services and better serve our donors.

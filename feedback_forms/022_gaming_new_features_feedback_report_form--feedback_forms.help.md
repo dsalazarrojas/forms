@@ -1,9 +1,3 @@
-<thinking>
-The Gaming New Features Feedback Report Form is designed to collect feedback from players regarding new features added to a game. This form will help the development team understand what players think of the new features and what they like or dislike about them. 
-The form is meant to be filled out by players after they try out the new features. It is not a one-time submission form, so players are encouraged to provide feedback on each new feature as it is released. 
-Please do not submit this form if you've already provided feedback on this feature, as this form is meant for new feedback.
-</thinking>
-
 # Gaming New Features Feedback Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from players regarding new features added to the game. Your input helps the development team understand what players think about the features and how to improve them.

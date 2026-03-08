@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from participants in a research study, aiming to understand their experiences and gather suggestions for future sessions. Before proceeding, please note that this form is a tool to gather insights and not a formal evaluation instrument, and your responses will be treated as feedback rather than a formal assessment. To ensure accurate and helpful feedback, please answer the questions truthfully and provide specific examples or details when possible. If you have already submitted feedback, please do not fill out this form again, as your response will be treated as a duplicate and may not be considered in the analysis.</thinking>
-
 # Participant Study Feedback Request Form - Help Guide
 ## Purpose
 The Participant Study Feedback Request Form is designed to gather feedback from research participants to improve future research sessions. This form helps us understand your experiences and gather suggestions for future sessions.

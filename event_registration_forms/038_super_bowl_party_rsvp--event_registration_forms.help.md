@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to RSVP (Respond to a Social Planning Invitation) to the Super Bowl party. The party planning team needs to know who is attending, the number of guests they are bringing, and any additional details or messages they want to share. This form should be filled out by the user to provide their information accurately and completely. To avoid duplication, ensure that you have not filled out this form in the past for the same event. If you need to make changes to your RSVP, please contact the party planning team directly.
-</thinking>
-
 # super_bowl_party_rsvp - Help Guide
 ## Purpose
 The Super Bowl party RSVP form is used to register your attendance and provide necessary details for the party planning team.

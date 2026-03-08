@@ -1,5 +1,3 @@
-<thinking>What's the purpose of this form? This form is designed to gather feedback on document management from users to help the development team understand their needs and experiences. This form is not meant to be a formal, official feedback channel, but rather a friendly way to collect opinions and suggestions from users. Before filling out this form, please ensure that you haven't already submitted similar feedback, as duplicate feedback may cause unnecessary work and confusion. If you have already submitted feedback on document management, feel free to skip this form. If you're unsure about what this form is about or what questions it covers, please read on for guidance.</thinking>
-
 # Document Management Survey - Help Guide
 ## Purpose
 This form aims to understand your experiences and opinions on document management within the company. Your input will help us identify areas for improvement and create a more efficient document management system that meets your needs.

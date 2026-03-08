@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # NailsTurnedGlambyKristaT Wish List - Help Guide
 
 ## Purpose

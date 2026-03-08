@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from guests about their accommodation preferences, dietary needs, and payment details when visiting the Convent. It's essential to complete this form carefully to ensure a comfortable and enjoyable stay. The form is divided into sections, each focusing on a specific aspect of the guest's requirements. Please review the form carefully and answer each question accurately to help the convent staff provide a seamless experience.
-
-</thinking>
-
 # Convent Accommodation Request Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from guests to ensure a smooth and comfortable stay at the convent. It helps the staff understand their needs, preferences, and requirements, allowing us to provide personalized services and accommodate their stay accordingly.

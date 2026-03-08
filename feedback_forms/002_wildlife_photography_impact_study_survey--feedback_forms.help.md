@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wildlife Photography Impact Study Survey - Help Guide
 ## Purpose
 This form is a survey to gather information about the impact of wildlife photography on the environment, conservation, and the local community. It is designed to collect data from individuals who are interested in sharing their thoughts and experiences related to wildlife photography.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect random data for testing and validation purposes. The form is designed to capture various types of feedback from users, including date and time, email, phone number, name, and multiple selection options. The form is not intended for production use and is meant to be used in a controlled environment for testing and validation.
-</thinking>
-
 # Random Test Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect random data for testing and validation purposes. It is not intended for production use and is designed to be used in a controlled environment.

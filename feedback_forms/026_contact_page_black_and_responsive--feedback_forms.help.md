@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be completed by users who want to get in touch with our team for general inquiries, customer support, sales-related questions, technical issues, or partnership opportunities. It's intended for users who want to send a message or request information about our products and services.
-
-The form is a contact page that helps us gather information about the user's preferences and inquiry types, allowing us to tailor our response accordingly.
-
-We've designed this form to be responsive, so it adapts to different screen sizes and devices, ensuring a seamless user experience.
-
-</thinking>
-
 # Contact Page Black And Responsive - Help Guide
 ## Purpose
 This form is for users to get in touch with our team for various types of inquiries, such as general information, customer support, sales questions, technical issues, or partnership opportunities.

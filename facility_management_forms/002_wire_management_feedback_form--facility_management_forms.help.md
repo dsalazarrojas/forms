@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to check for relevance and non-duplication ...
-
-The "Wire Management Feedback Form" is a vital tool for gathering feedback and issues related to wire management within an organization. This form ensures that any problems or concerns are documented and addressed promptly, which is essential for maintaining the reliability and quality of wire services. 
-
-To avoid duplication, this form is designed to only capture issues that are specific to wire management, excluding general IT or technical support requests.
-
-</thinking>
-
 # Wire Management Feedback Form - Help Guide
 ## Purpose
 The Wire Management Feedback Form is a tool used to gather feedback and issues related to wire management within an organization. This form is intended to capture specific problems or concerns related to wire management, ensuring that they are documented and addressed promptly. 

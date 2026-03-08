@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Art Exhibition Submission Intake Form is to collect necessary information from artists who wish to participate in exhibitions organized by the event registration platform. This form aims to gather essential details about the artist, their submitted artwork, and their agreement to the exhibition terms and conditions. 
-This form will be used to streamline the exhibition process, ensure that all required information is collected, and reduce the administrative burden on the exhibition organizers. It is essential that the information provided is accurate and truthful to avoid any issues that may arise during the exhibition process. Please ensure you fill out the form carefully and thoroughly.
-</thinking>
-
 # Art Exhibition Submission Intake Form - Help Guide
 ## Purpose
 The Art Exhibition Submission Intake Form is designed to collect necessary information from artists who wish to participate in exhibitions organized by the event registration platform. This form helps to streamline the exhibition process and ensure that all required information is collected accurately.

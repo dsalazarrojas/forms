@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who wish to register for a mathematics qualification, likely for a certification or accreditation purpose. The form likely serves as an entry point for processing applications for mathematics qualifications. To ensure accurate and efficient processing, it's essential to complete the form accurately and without duplication. If you're a representative of an individual or organization already registered, kindly avoid resubmitting. This will help us prevent data duplication and maintain a more accurate database.
-</thinking>
-
 # Mathematics Qualification Registration - Help Guide
 ## Purpose
 This form is designed to register individuals for a mathematics qualification, allowing them to access specific tools and resources tailored to their needs.

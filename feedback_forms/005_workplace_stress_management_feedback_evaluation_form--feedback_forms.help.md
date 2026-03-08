@@ -1,5 +1,3 @@
-<thinking>Before designing the help guide, I'll review the form to understand its purpose and relevance. This form appears to be a feedback evaluation form for workplace stress management, designed to collect information about employees and their feedback or suggestions for stress management. The form seems to have multiple sections, including employee details, feedback, suggestions, and evaluation information. The purpose of this form is likely to monitor and improve employee feedback and stress management in the workplace. I won't include duplicate fields or unnecessary sections in the help guide. I will focus on explaining each field concisely and practically, ensuring users understand what to do and how to fill out the form correctly.</thinking>
-
 # Workplace Stress Management Feedback Evaluation Form - Help Guide
 
 ## Purpose

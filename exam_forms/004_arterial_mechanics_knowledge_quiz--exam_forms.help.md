@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Arterial Mechanics Knowledge Quiz - Help Guide
 
 ## Purpose

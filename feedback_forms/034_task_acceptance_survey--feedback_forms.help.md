@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to gather feedback on the clarity and acceptance of tasks assigned to team members or stakeholders. It's essential to complete this form to help us understand the effectiveness of our task management process. Please ensure you've reviewed the task carefully before filling out this form to provide accurate and constructive feedback. Note that this form is designed to be completed once per task, so please only submit one response per task.
-
-</thinking>
-
 # Task Acceptance Survey - Help Guide
 ## Purpose
 The Task Acceptance Survey is designed to gather feedback on the clarity and acceptance of tasks assigned to team members or stakeholders.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Press Table Allocation Request Form - Help Guide
 ## Purpose
 The Press Table Allocation Request Form is designed to facilitate the allocation of press tables for events. This form is used to collect information from event organizers and public relations teams to request press table allocations for their events.

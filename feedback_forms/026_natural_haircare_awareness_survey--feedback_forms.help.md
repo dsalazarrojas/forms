@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Natural Haircare Awareness Survey form, we first need to understand the form's purpose and relevance. Based on the provided YAML fields, it appears that this form is designed to gather information about users' haircare habits, preferences, and awareness of different haircare products and practices.
-
-The form's purpose is likely to gather data on users' attitudes and habits related to haircare, including their haircare routine, product usage, and awareness of natural and chemical-based products. This data can be used to improve haircare products and practices, or to inform marketing and advertising strategies.
-
-However, it's worth noting that the form has a mix of required and non-required fields, which may impact the user experience and completion rates. Additionally, some fields have unclear or weak labels, which may require further clarification or refinement. For example, the "haircare_importance" field is a number type, but its label and options are not clearly explained. Similarly, the "haircare_awareness_reason" field is a text field with no options, which may not be intuitive for users.
-
-To create a user-facing help guide, we need to address these concerns and provide clear explanations for each field. We will focus on explaining the purpose and usage of each field in a concise and practical way.
-</thinking>
-
 # Natural Haircare Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your haircare habits, preferences, and awareness of different haircare products and practices. The goal is to help us understand your attitudes and behaviors related to haircare, which will inform our efforts to improve haircare products and practices.

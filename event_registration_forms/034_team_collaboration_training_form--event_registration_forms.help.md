@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants and trainers for team collaboration training sessions. This form is used to gather data about the participant's and trainer's information, training session details, and session status.
-
-To determine if this form is relevant for you, please check if you are a participant or a trainer in a team collaboration training session. If you are a participant, this form will help you to provide your details and feedback about the training session. If you are a trainer, this form will help you to collect participant information and session details.
-
-Please note that this form does not store sensitive data and all fields are optional.
-</thinking>
-
 # Team Collaboration Training Form - Help Guide
 ## Purpose
 This form is used to collect information from participants and trainers for team collaboration training sessions.

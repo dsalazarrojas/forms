@@ -1,8 +1,3 @@
-<thinking>
-We have designed this form to collect feedback from customers on their interests and preferences regarding nail studio clean beauty services. We want to understand what types of nail services you're interested in, what products you prefer, what colors you like, what solutions you need, and your overall satisfaction with our services. This form will help us improve our services and tailor them to your needs.
-To ensure we only receive relevant and useful feedback, we'll review each submission to prevent duplicate or unrelated responses.
-</thinking>
-
 # Nail Studio Clean Beauty Interest Survey - Help Guide
 ## Purpose
 This form is designed to collect your feedback and interests regarding our nail studio clean beauty services. It will help us understand your preferences and improve our services.

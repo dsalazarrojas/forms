@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about the Training Platform's usability. The purpose of this form is to collect opinions on how well the platform meets the user's expectations, and to gather suggestions for improvement. This feedback will help us understand what we're doing well and what we can do better. Please take a few minutes to complete this form and provide your honest feedback.
-</thinking>
-
 # Training Platform Usability Poll - Help Guide
 ## Purpose
 This form is intended to collect your opinions on the usability of the Training Platform. Your feedback will help us improve the platform and make it more user-friendly.

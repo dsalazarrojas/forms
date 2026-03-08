@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Non Payment Information Survey - Help Guide
 
 ## Purpose

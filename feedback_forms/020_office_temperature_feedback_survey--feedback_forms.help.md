@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for users to provide feedback and temperature readings for office settings, likely in a temperature monitoring system. The purpose of this form is to collect data on the office environment, user preferences, and user activity. Users will input their temperature reading, select feedback options, provide their classroom or department information, and optionally input specific details such as time spent in different areas of the office.
-
-To ensure that users do not waste time completing duplicate forms, we should implement a unique identifier for each user, possibly by using user authentication.
-
-</thinking>
-
 # office_temperature_feedback_survey - Help Guide
 ## Purpose
 This form is used to provide temperature readings and feedback on office settings, aiming to collect data on user activity, preferences, and office environment.

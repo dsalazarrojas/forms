@@ -1,21 +1,3 @@
-<thinking>
-The Hover Contact Card form is designed to provide an efficient and organized way for users to submit feedback about a contact. The form is intended for both internal and external stakeholders, allowing them to share their thoughts, suggestions, or concerns. It's recommended that users complete the form only once for each issue to avoid duplication of feedback. Please review the form to ensure you're submitting relevant and actionable feedback that can be used to improve our processes and services.
-
-To complete this form, follow these steps:
-
-1. Ensure you have a clear understanding of the issue or concern you want to report.
-2. Enter your Full Name in the Full Name field.
-3. Provide your Email address to enable us to contact you regarding your feedback.
-4. If applicable, enter your Phone number to allow for quicker follow-up discussions.
-5. Select the Department that best relates to your issue or concern from the Department dropdown list.
-6. Optionally, share any additional Resources that might be helpful for us to understand the context of your issue.
-7. Provide Comments about the issue or concern you're reporting.
-8. If you have an Assigned Tool related to the issue, select it from the Assigned Tool dropdown list.
-9. Finally, provide a brief Description of the issue or concern.
-
-Please note that some fields are optional and only necessary if directly relevant to the issue being reported.
-
-</thinking>
 # Hover Contact Card - Help Guide
 ## Purpose
 The Hover Contact Card form is designed to collect feedback from users about contacts, providing a structured way to share their thoughts, suggestions, or concerns in an organized and efficient manner.

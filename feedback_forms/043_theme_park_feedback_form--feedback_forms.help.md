@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # theme_park_feedback_form - Help Guide
 
 ## Purpose

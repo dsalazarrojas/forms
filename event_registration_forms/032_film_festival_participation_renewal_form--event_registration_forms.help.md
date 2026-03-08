@@ -1,9 +1,3 @@
-<thinking>
-This guide will explain the purpose and usage of the "film-festival-participation-renewal-form" form.
-This form is used for participants to renew their film submission information for a film festival. The purpose of this guide is to help users understand how to complete the form accurately and efficiently.
-The form is a multi-page form with several fields that require user input. It is essential to ensure that each field is filled out correctly to avoid any issues with the submission process. This guide will walk users through each field and explain its purpose, requirements, and expected input.
-</thinking>
-
 # film-festival-participation-renewal-form - Help Guide
 ## Purpose
 This form is used for participants to renew their film submission information for a film festival. The form is designed to collect essential details about the film being submitted, including title, genre, language, format, and more. Accurate and complete input is crucial for a smooth and successful submission process.

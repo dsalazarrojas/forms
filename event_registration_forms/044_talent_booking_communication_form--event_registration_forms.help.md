@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to provide a communication framework for talent booking. The form is designed to capture event information, talent details, and other relevant data that helps ensure smooth communication between talent, agents, and clients. This form is likely used in the event planning and management industry, where effective communication is crucial for a successful event.
-</thinking>
-
 # Talent Booking Communication Form - Help Guide
 ## Purpose
 This guide is intended to help you fill out the Talent Booking Communication Form accurately and efficiently. The form is designed to gather essential information about an event and your availability for booking.

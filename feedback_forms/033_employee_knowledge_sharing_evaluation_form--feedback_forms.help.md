@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from employees on their experience with knowledge sharing initiatives in the company. This feedback is used to identify areas of improvement and areas of excellence. It's meant to be a one-time, subjective evaluation that assesses the overall effectiveness of these initiatives. This form is not a comprehensive review or a performance evaluation. Please ensure you fill this out only once for the current knowledge-sharing experience.
-
-</thinking>
-
 # Employee Knowledge Sharing Evaluation Form - Help Guide
 
 ## Purpose

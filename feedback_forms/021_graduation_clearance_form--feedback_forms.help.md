@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to record and manage the clearance status of students graduating from a program. The purpose of this form is to provide a standardized way of tracking and recording the clearance status of students, ensuring that all necessary information is collected and accurately reflected. This form should be completed for each student that has graduated or is expected to graduate, and should only be filled out once per student. 
-
-</thinking>
-
 # Graduation Clearance Form - Help Guide
 ## Purpose
 The Graduation Clearance Form is used to record and manage the clearance status of students graduating from a program.

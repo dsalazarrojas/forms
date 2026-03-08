@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about the spaces within a facility. It is meant to be used by the facility management team to understand the needs and comfort level of the users who utilize the space.
-This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using AI and public survey topic metadata.
-It is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it as long as proper credit is given.
-Contact: form@gic.mx
-
-</thinking>
-
 # Building And Space Generation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about the spaces within a facility. It is meant to be used by the facility management team to understand the needs and comfort level of the users who utilize the space.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess the candidate's knowledge of cloud systems, including their understanding of cloud service models, scalability, security, and best practices. This assessment aims to evaluate the candidate's ability to apply cloud computing concepts in real-world scenarios.
-
-This form should only be completed by candidates who have a basic understanding of cloud systems and are looking to demonstrate their knowledge to potential employers or clients. Completing this form multiple times will not affect the outcome of the assessment. It is intended for individual completion, and answers can only be submitted once.
-
-</thinking>
-
 # Cloud System Knowledge Assessment - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for fuel expense reimbursement. It's designed for employees to report fuel expenses they've incurred while traveling for work-related activities. The form will help the accounting team to process and reimburse the employee's expenses accurately and efficiently. 
-
-This form will be used by employees who are traveling for work. To ensure accurate expense tracking and processing, it's essential to fill in the form with accurate information. If you've filled in this form in the past, please ensure that you are not duplicating your entry. Duplicate entries can cause errors in expense processing and reimbursement calculations.
-</thinking>
-
 # Fuel Expense Reimbursement Intake Form - Help Guide
 ## Purpose
 The Fuel Expense Reimbursement Intake Form is designed to gather information for fuel expenses related to work trips. This form will be used by employees to report their fuel expenses for reimbursement.

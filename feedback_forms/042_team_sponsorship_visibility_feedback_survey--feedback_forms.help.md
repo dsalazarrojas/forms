@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from the team on the visibility of sponsorships within our team, which is crucial for understanding how our team's performance and progress are perceived by our team members. This survey aims to help us identify areas where sponsorships may be lacking and make data-driven decisions to improve our team's visibility. This form should only be completed by team members who have direct experience with sponsorships within our team.
-
-</thinking>
-
 # Team Sponsorship Visibility Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the visibility of sponsorships within our team. The feedback will help us understand how our team's progress and performance are perceived by team members and identify areas for improvement.

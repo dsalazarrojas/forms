@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a comprehensive user-facing help guide for the "Agriculture Survey" form. To start, I need to understand the form's purpose and ensure it's relevant and non-duplicitous. The Agriculture Survey appears to be a comprehensive form designed to collect information from farmers about their farming practices, challenges, and goals. This form will likely be used for research, policy-making, or other purposes related to the agricultural sector.</thinking>
-
 # Agriculture Survey - Help Guide
 
 ## Purpose

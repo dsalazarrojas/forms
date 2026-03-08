@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from participants of peer support meetings, aiming to provide valuable insights to facilitators and organizers. It is essential that the feedback is genuine and constructive, so we'll check that the form is filled out correctly to ensure we get the most useful information. Before filling out the form, please double-check that you have all the necessary information and that you've filled out each field accurately and completely. Please also make sure to only fill out the form once per participant, to avoid duplication of feedback.</thinking>
-
 # Peer Support Meeting Feedback - Help Guide
 ## Purpose
 The Peer Support Meeting Feedback form is designed to gather feedback from participants on their experience in a peer support meeting. This feedback is valuable in helping facilitators and organizers understand what worked well and what could be improved in future sessions.

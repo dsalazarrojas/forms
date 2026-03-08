@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information related to protests and incidents that have occurred in relation to a protest event. The form is intended to gather details about the protest, including the date, location, number of participants, and any injuries or damage that may have been sustained. The form also seeks to collect information about the interaction between protesters and law enforcement, including any arrests made, police charges filed, and medical treatment provided. The form is likely to be used by law enforcement or other authorities to gather information and assess the situation.
-
-To ensure that the form is completed correctly, please make sure to only fill out the relevant fields as required. This guide will walk you through each field to help you understand what to expect.
-
-</thinking>
-
 # Protest Related Incident Form - Help Guide
 ## Purpose
 The Protest Related Incident Form is designed to collect information about protests and incidents that have occurred in relation to a protest event. This information will help law enforcement or other authorities assess the situation and gather relevant details.

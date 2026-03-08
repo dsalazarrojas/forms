@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users on their experience with speech recordings. It captures information about the speaker, the recording, the evaluation of the recording, and any suggestions for improvement. This form is designed to be simple and easy to use, ensuring that users can quickly provide their feedback without feeling overwhelmed. Before starting to fill out this form, please ensure that the feedback you are providing is original and not a duplicate of a previous submission. This form is not affiliated with or endorsed by any form creation platform, and it is intended for general use only.
-</thinking>
-
 # Speech Recording Feedback Form - Help Guide
 ## Purpose
 The Speech Recording Feedback Form is a tool for users to provide feedback on their experience with speech recordings.

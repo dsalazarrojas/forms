@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "Publishing Reader Feedback Report Form" is to gather feedback from readers about published articles. This feedback helps the publishing team to understand what readers think about the articles, which can be used to improve the quality of future publications. To ensure that feedback from multiple readers is not misinterpreted, the form asks for a specific type of feedback (e.g. positive, negative, neutral) and questions about the article's quality and relevance. The form also includes an option for readers to provide a personal email address, which will be used to contact them for follow-up questions or to send them their feedback summary. This form should not be used for soliciting personal opinions on matters unrelated to the article being published.
-
-The feedback report form should only be submitted once per article. Before filling out the form, please make sure that the form is not a duplicate for the same article.
-
-</thinking>
-
 # Publishing Reader Feedback Report Form - Help Guide
 ## Purpose
 The Publishing Reader Feedback Report Form is designed to gather feedback from readers about published articles. This feedback helps the publishing team to improve the quality of future publications.

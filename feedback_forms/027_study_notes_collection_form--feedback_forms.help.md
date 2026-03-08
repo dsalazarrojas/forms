@@ -1,17 +1,3 @@
-<thinking>
-This form is likely used to collect study-related information and feedback from students or users. The purpose of this form is to gather data on studies, such as materials used, assigned tools, and submitted work. It may also include fields for submitting additional notes, comments, and attachments.
-The form has multiple pages, each with a unique set of fields. Some fields are for personal details (e.g., email, phone), while others are for study-related information (e.g., study materials, assigned tools). The form also includes fields for submission status and submission type.
-To complete this form, follow these steps:
-
-1.  Enter the required information for each field, such as title, notes, and submission status.
-2.  Select the relevant options for study materials, assigned tool, and submission type.
-3.  Choose the correct category for the submission.
-4.  Enter any additional comments or notes.
-5.  Attach any required attachments.
-6.  Submit the form.
-
-</thinking>
-
 # Study Notes Collection Form - Help Guide
 ## Purpose
 The Study Notes Collection Form is used to gather information about studies from students or users.

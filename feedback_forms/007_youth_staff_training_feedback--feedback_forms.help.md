@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from youth staff regarding their training experience. The form is designed to gather information on various aspects of the training session, including the trainer's performance, materials, environment, and overall experience. By collecting this feedback, we can identify areas of improvement and provide better support to our youth staff. To ensure accuracy and consistency in the feedback we receive, we will only accept one submission per user.
-
-The form is divided into several sections, each focusing on a specific aspect of the training session. To complete the form, please select the corresponding answer for each field based on your experience. Please note that some fields are required, marked as "required: true", while others are optional. If a field is not relevant to your experience, please do not provide an answer.
-
-Before starting the form, please ensure that you have the session ID number handy. This will help us identify your submission and ensure that it is accurately recorded.</thinking>
-
 # Youth Staff Training Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from youth staff on their training experience. By completing this form, you will help us improve our training sessions and provide better support to our youth staff.

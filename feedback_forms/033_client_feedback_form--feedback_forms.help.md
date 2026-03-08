@@ -1,5 +1,3 @@
-<thinking>Form purpose: The Client Feedback Form is designed to gather feedback from clients about their experience with our services. The form is used to assess the quality of our service, staff courtesy, response time, and overall satisfaction. By collecting this feedback, we can identify areas of improvement and make data-driven decisions to enhance our client experience.</thinking>
-
 # Client Feedback Form - Help Guide
 ## Purpose
 The Client Feedback Form is designed to gather feedback from clients about their experience with our services. This form will help us to assess the quality of our service, staff courtesy, response time, and overall satisfaction.

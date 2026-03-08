@@ -1,5 +1,3 @@
-<thinking>As we design forms to gather information from users, it's essential to ensure that the form is clear, concise, and easy to understand. In this case, the Stage Hand Crew Addition Request Form is designed for users who want to request a stage crew for a specific event. The form will help event organizers and stage managers add crew members to their team, and the information collected will be used to facilitate communication and organization of the event.</thinking>
-
 # Stage Hand Crew Addition Request Form - Help Guide
 ## Purpose
 The Stage Hand Crew Addition Request Form is designed to help event organizers and stage managers add crew members to their team for a specific event. This form collects essential information about the crew members, such as their name, contact details, and role, to facilitate communication and organization of the event.

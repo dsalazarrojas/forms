@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback about the variety and timing of fitness classes, ensuring that participants' preferences and schedules are considered in future class scheduling. This form will be used to collect information on class preferences, preferred class timing, additional comments, email, phone, and assigned tool for specific participants.
-</thinking>
-
 # Fitness Class Variety And Timing Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants about the variety and timing of fitness classes. It will help us better understand participants' preferences and schedules, ensuring that we can provide the best possible experience for them.

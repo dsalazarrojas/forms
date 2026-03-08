@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gather feedback on the giving and receiving of feedback within an organization or team. It aims to collect input on how feedback is given and received, and identify areas for improvement to foster a more positive and constructive feedback culture. The form is designed to be completed by both the person giving and receiving feedback, providing an opportunity to reflect on their experiences and suggest areas for growth. This form is a valuable tool for organizations to assess their feedback practices and implement changes to promote a more collaborative and open environment.
 
 # Feedback On Giving And Receiving - Help Guide

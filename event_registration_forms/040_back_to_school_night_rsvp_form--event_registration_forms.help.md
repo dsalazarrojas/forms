@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register for Back To School Night, an event where students and their families can attend sessions of interest, such as homeroom, curriculum overview, clubs meeting, and PTA session. It is essential that parents/guardians provide accurate and complete information in this form to allow the event organizers to make appropriate arrangements for the event.
-</thinking>
-
 # Back To School Night RSVP Form - Help Guide
 ## Purpose
 This form is used to register for Back To School Night. Please fill out this form to provide information about yourself and your family to help us prepare for the event.

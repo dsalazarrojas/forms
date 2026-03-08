@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to track subscription-based services or products that a user has signed up for. It's meant to collect and organize information about these services, including their start and end dates, pricing, and status. This information can be useful for accounting, billing, or customer relationship management purposes.
-
-It's essential to ensure that each field is filled in correctly to get an accurate overview of your subscriptions. Before starting, take a moment to read through each field explanation below to understand what information is needed for each one.
-
-</thinking>
-
 # Subscription Tracker Worksheet - Help Guide
 
 ## Purpose

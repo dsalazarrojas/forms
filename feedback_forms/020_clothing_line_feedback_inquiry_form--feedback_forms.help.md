@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experiences with the clothing line. It's intended to help the company understand customer satisfaction, identify areas for improvement, and make data-driven decisions to enhance the product line and shopping experience. By filling out this form, customers can provide detailed information about their purchases, including the types of products they bought, their satisfaction with the product quality, fit, and design, as well as their overall shopping experience. This will help the company to better understand customer needs and preferences. Please fill out the form carefully, providing detailed responses to each section.
-</thinking>
-
 # Clothing Line Feedback Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experiences with the clothing line. By providing this feedback, customers help the company understand their satisfaction with our products and services, identify areas for improvement, and make data-driven decisions to enhance the product line and shopping experience.

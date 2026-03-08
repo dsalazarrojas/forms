@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers regarding their experience with our product or service. The form is intended to verify the validity of customer feedback, ensuring that it is genuine and not fabricated. This is particularly important for maintaining the trust and credibility of our brand. To prevent duplication, we will only accept feedback from customers who have not filled out the form previously.
-</thinking>
-
 # Customer Feedback Validity Verification Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience with our product or service. It helps us verify the authenticity of customer feedback and ensures that we are aware of any issues or concerns that need to be addressed.

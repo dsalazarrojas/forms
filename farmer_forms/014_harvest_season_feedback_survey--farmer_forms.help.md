@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from farmers regarding the upcoming harvest season. It's crucial to get valuable insights from farmers to improve agricultural planning, decision-making, and overall farm management. This form will help us understand their experiences, challenges, and suggestions for the next harvest season. To avoid duplication, please ensure that you have not already submitted a feedback form for the same farm and season.
-
-Before submitting the form, take a moment to review the sections below to ensure you understand what information is required.
-</thinking>
-
 # harvest_season_feedback_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from farmers about their experiences during the upcoming harvest season. This feedback will be invaluable in informing decisions to improve agricultural planning and resource management.

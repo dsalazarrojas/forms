@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Connection Drive Survey - Help Guide
 
 ## Purpose

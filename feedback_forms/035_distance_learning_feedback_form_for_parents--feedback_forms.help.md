@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from parents on their experience with distance learning programs. Its purpose is to gather information on their thoughts, feelings, and suggestions for improvement. The form is intended to be completed by parents who have participated in distance learning programs and want to share their opinions and insights. The form is not affiliated with or endorsed by any form platform, and its content is original and created using AI-generated metadata. This form is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and share it freely.
-</thinking>
-
 # distance_learning_feedback_form_for_parents - Help Guide
 ## Purpose
 This form is designed to collect feedback from parents on their experience with distance learning programs.

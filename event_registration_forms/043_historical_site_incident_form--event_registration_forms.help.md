@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for this Historical Site Incident Form. This form is designed to collect information about historical site incidents, which are events that occur at or near a site during excavation, construction, or other activities. The form helps site managers and security teams to gather necessary data in a structured format, ensuring that incidents are properly documented and investigated.</thinking>
-
 # Historical Site Incident Form - Help Guide
 ## Purpose
 The Historical Site Incident Form is used to collect information about historical site incidents, including dates, locations, types, and resolution details. This form helps site managers and security teams to track and respond to incidents in a timely and efficient manner.

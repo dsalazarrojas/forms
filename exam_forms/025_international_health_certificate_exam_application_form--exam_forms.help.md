@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be for collecting information related to an individual's health certificate exam application. It includes fields for medical history, passport details, nationality, contact details, phone numbers, email addresses, nationality issued by, medical examiner, medical certication, exam location, travel history, medical certication issue date, medical certication number, exam fee, exam prophets, exam prophets issued by, and exam prophets date. The purpose of this form is to gather information for the exam application process. To determine if this form is relevant for your use case, please consider whether you need to collect this specific set of information for your application or examination process.
-It is likely that this form is used in a medical context, such as for international travel or immigration purposes, or for a health-related examination. If this is not the case, please consider whether the form needs to be modified to suit your specific needs.
-If you have already filled out a similar form, some fields may seem redundant or unnecessary. Please review each field carefully to ensure you are providing the required information.
-</thinking>
-
 # International Health Certificate Exam Application Form - Help Guide
 ## Purpose
 This form is used to collect information for the international health certificate exam application process.

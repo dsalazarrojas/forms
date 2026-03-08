@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect registration information from participants for the Hospital Innovation Roundtable event. The event aims to bring together professionals from the hospital and innovation sectors to discuss and share ideas on various topics related to hospital innovation. The form will be used to track participant details, including their name, contact email, organization, department, and role within the event.
-This form is intended for participants who have not registered for the event before. If you have previously registered, please do not fill out this form again.
-Please note that the form fields are not mandatory, but filling out as much information as possible will help us better prepare for the event.
-</thinking>
-
 # Hospital Innovation Roundtable Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants for the Hospital Innovation Roundtable event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for end-users to sign up for a book-themed party. The purpose of this form is to collect information about the attendees, including their name, email address, number of guests, dietary restrictions, preferred book genre, and any comments or accessibility notes. This information will be used to tailor the party activities and ensure that the event is inclusive and enjoyable for all attendees. Before completing this form, please make sure that you are only signing up once and are registering your actual name. 
-</thinking>
-
 # Book Party Signup Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on the denial process, likely for a business or organization. This form is designed to gather specific details about the denial reason, date, time, and time zone, as well as the submitted by field which could be related to user roles or departments. The submission date and time are also included for tracking and record-keeping purposes. The comments field is an optional field for users to provide additional information or context. 
-
-This form is intended to be completed by users who have experienced or witnessed a denial process, and the information collected will likely be used to identify areas for improvement and refine the process.
-
-Please note that the form is designed to be completed by users in a specific time zone, and the time zone selection is a required field. Additionally, the "Submitted By" field is a selection of user roles or departments, which may not be exhaustive and might not reflect real-world scenarios.
-
-</thinking>
-
 # Feedback On Denial Process - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on the denial process experienced or witnessed by users. This information will help identify areas for improvement and refine the process.

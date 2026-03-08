@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a pet's examination. The purpose of this form is to collect data on the pet's name, breed, age, health status, symptoms, and contact phone number. This information can be used by veterinarians to identify potential issues and provide the best possible care for the pet. This form does not require any specific business logic or conditional logic, so it is a simple form meant for general use. It does not need to be filled out by the same user more than once, so there is no need to check for duplication.
-</thinking>
-
 # Pet Exam Form - Help Guide
 ## Purpose
 The Pet Exam Form is a simple form used to collect information about a pet's examination.

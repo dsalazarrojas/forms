@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users who have purchased a life insurance policy. The purpose of this form is to gather information about the user's experience with the policy, including their overall satisfaction and any additional comments they may have. This information will be used to improve the policy and provide better service to customers in the future. To prevent duplication, users are only allowed to fill out this form once per policy.
-
-</thinking>
-
 # Life Insurance Policy Feedback Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users about their experience with a life insurance policy. This information will be used to improve the policy and provide better service to customers in the future.

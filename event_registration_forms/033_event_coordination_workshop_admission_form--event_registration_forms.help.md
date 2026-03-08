@@ -1,7 +1,3 @@
-<thinking>
-This form is for workshop participants to provide their information for event coordination purposes. This form collects essential details from each participant, including their name, email, phone number, workshop preference, and any other relevant information. The form's purpose is to streamline event organization and ensure that all necessary contact and preference data is collected from each participant. 
-</thinking>
-
 # Event Coordination Workshop Admission Form - Help Guide
 ## Purpose
 This form is designed for workshop participants to provide their information for event coordination and communication purposes.

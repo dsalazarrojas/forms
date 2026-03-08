@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for registering an HR Sustainability Forum. The form will collect information about the attendees of the event and help the organizers plan the event accordingly. This form should only be filled out once per person. Please make sure to fill out the form correctly and completely before submitting it.
 
 # HR Sustainability Forum Registration - Help Guide

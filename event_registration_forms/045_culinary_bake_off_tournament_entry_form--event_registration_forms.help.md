@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants to register for the Culinary Bake Off Tournament. To use this form, you should only register once if you plan to participate in the tournament multiple times; otherwise, you'll need to fill out the form each time. Please ensure you're filling out the correct information for your entry, as we will use the data provided to verify your entry in case of any conflicts.
-</thinking>
-
 # Culinary Bake Off Tournament Entry Form - Help Guide
 ## Purpose
 This form is used for registering entries for the Culinary Bake Off Tournament. It gathers essential information about the entrant, entry, and baker.

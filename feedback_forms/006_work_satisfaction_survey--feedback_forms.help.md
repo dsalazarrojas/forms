@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be filling out the "Work Satisfaction Survey" form, also known as "Feedback Forms". The purpose of the form is to elicit honest feedback about their work experience and satisfaction levels across various aspects of their job. By providing feedback, employees will be able to express their opinions and concerns about their job, allowing the management to gain valuable insights and make data-driven decisions to improve the workplace.
-</thinking>
-
 # Work Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to help employees express their satisfaction levels and provide feedback about their work experience. It includes questions about their job satisfaction, pay, benefits, people, job aspects, and communication. Please answer these questions honestly to provide valuable insights for the organization.

@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is used to collect feedback from users after an indoor activity, which could be any type of event, exercise, or session that occurs within a controlled environment, such as a gym or a conference room. To avoid duplication, this form should only be filled out once per indoor activity. 
-
-</thinking>
-
 # Indoor Activity Feedback Survey - Help Guide
 ## Purpose
 This form is used to gather feedback from users after an indoor activity. Your input will help us understand your experience and suggest improvements for future events.

@@ -1,17 +1,3 @@
-<thinking>
-This form aims to collect feedback from visitors about their experience in Downtown. The purpose of this form is to gather information about the visitors' satisfaction and concerns regarding their visit. Please note that the form is not a formal survey, and the information collected will be used to improve the Downtown experience for future visitors.
-
-To complete this form, follow these steps:
-
-1. Select one or more categories that describe your experience from the options provided. 
-2. If you're willing, please provide your name so we can personally follow up with you.
-3. If you have an email address, we can also get in touch with you for more information.
-4. Share a message about your visit, including any concerns or suggestions you may have.
-5. Let us know the date you visited Downtown.
-
-Please be honest and concise in your responses. Thank you for your feedback! 
-</thinking>
-
 # Downtown Visitor Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from visitors to Downtown, allowing us to understand their experiences and areas for improvement.

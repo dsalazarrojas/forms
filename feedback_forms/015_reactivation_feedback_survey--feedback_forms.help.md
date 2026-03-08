@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about the reactivation process of a product or service. This form is designed to gather information on why users might not have reactivated, what factors could improve their likelihood of reactivation, and how they heard about the product/service. The form is meant to be completed by users who have not reactivated, allowing the team to understand their reasons and make improvements.
-To ensure that you are providing valuable feedback, please only complete this form if you have not reactivated. If you have already reactivated, your feedback will not be recorded.
-</thinking>
-
 # reactivation_feedback_survey - Help Guide
 ## Purpose
 The reactivation feedback survey is a tool to gather information from non-reactivated customers. It helps us understand why customers didn't re-reactivate and what we can do to improve our product or service.

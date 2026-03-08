@@ -1,5 +1,3 @@
-<thinking>This form is intended for vendors who have experienced a dispute with a third-party provider and need help resolving the issue. By filling out this form, the vendor can provide essential details about the dispute, including a brief description, any supporting documents that may be relevant to the case, their current satisfaction level with the services provided, and additional feedback about what could be improved. It is recommended that the vendor fills out this form only if they have not already submitted a dispute resolution request or have not received a resolution to a previously submitted request.</thinking>
-
 # Vendor Dispute Resolution Survey - Help Guide
 ## Purpose
 The Vendor Dispute Resolution Survey is a tool for resolving disputes between vendors and their service providers. It's used by vendors to submit their issues and concerns to be reviewed and resolved.

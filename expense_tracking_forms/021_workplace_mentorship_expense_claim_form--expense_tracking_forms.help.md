@@ -1,10 +1,3 @@
-<thinking>
-We've designed this form to help you easily claim expenses for the Workplace Mentorship program. 
-This form should only be used to claim expenses that have occurred within the past 3 months. 
-Before submitting the form, please review your submitted claims to avoid duplicates. 
-This form is used for submitting claims for mentors and mentees within the Workplace Mentorship program.
-</thinking>
-
 # Workplace Mentorship Expense Claim Form - Help Guide
 ## Purpose
 This form is for submitting claims for expenses related to the Workplace Mentorship program. 

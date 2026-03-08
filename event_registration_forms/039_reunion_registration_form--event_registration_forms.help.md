@@ -1,6 +1,3 @@
-<thinking>
-The form "Reunion Registration Form" is intended to collect information about events, specifically for reunions. It's crucial to ensure that the form is filled out accurately and in its entirety to guarantee that the information submitted is up-to-date and correct. To avoid confusion, please do not submit duplicate registrations for the same event. Each field is crucial in its own right, and submitting incorrect or missing information might result in the event not being listed correctly in the database.</thinking>
-
 # Reunion Registration Form - Help Guide
 ## Purpose
 The Reunion Registration Form is designed to gather essential details about an upcoming reunion event. This form helps in creating a centralised database of events, making it easier for participants to find and join the event.

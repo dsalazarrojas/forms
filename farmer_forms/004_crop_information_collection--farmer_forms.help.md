@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to collect data from farmers about their crops and farms. This includes information about the farmer, crop type, yield, seasonal data, farm location, land size, land type, land use, weather conditions, and soil quality. This form will help farmers provide accurate and comprehensive data for analysis and decision-making.
-
-Form "Crop Information Collection" is intended for farmers to input their data for the purpose of crop management, analysis, and planning. It is not intended for other purposes such as sales or marketing.
-
-This form should not be used for other purposes as it is a specialized form for farmers. Please ensure you have the correct context before using this form.
-
-The form is a collection of multiple pages, each containing different fields for input. The following guide will walk you through each page and field.
-
-</thinking>
-
 # Crop Information Collection - Help Guide
 ## Purpose
 The purpose of this form is to collect information from farmers about their crops and farms. This data will be used for analysis, planning, and management.

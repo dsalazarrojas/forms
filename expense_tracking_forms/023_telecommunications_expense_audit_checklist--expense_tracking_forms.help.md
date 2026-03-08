@@ -1,10 +1,3 @@
-<thinking>
-
-This form was designed to aid companies in tracking and managing their telecommunication expenses. It is used to review telecommunication contracts, invoices, usage patterns, vendor management, and other related items to ensure cost control and accurate accounting. The form should not be used for commercial purposes but rather as a tool to help companies maintain transparent financial records and reduce the risk of mismanaged expenses. It is recommended that companies review and adapt the form to suit their specific needs and circumstances.
-
-
-</thinking>
-
 # Telecommunications Expense Audit Checklist - Help Guide
 ## Purpose
 The Telecommunications Expense Audit Checklist is a form designed to help companies review and manage their telecommunication expenses. It is used to document key information and findings, ensuring accurate accounting and cost control.

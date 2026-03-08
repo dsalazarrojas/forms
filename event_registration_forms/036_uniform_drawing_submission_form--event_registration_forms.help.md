@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure the form is used correctly and consistently. This guide is for the uniform_drawing_submission_form, used for artists to submit their drawings. Before filling out this form, please review the following:
-- The form is intended for artists to submit their work for a specific event. If you are not an artist or have not been invited to submit your work, please do not fill out this form.
-- The form should only be filled out once per drawing. If you need to submit multiple drawings, create a new instance of the form for each drawing.
-</thinking>
-
 # uniform_drawing_submission_form - Help Guide
 ## Purpose
 The uniform_drawing_submission_form is a form for artists to submit their work for a specific event. Please use this form to submit your unique artwork for review and consideration.

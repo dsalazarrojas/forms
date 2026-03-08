@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this form, "executive_coaching_feedback_form", which aims to collect feedback from clients on executive coaching sessions. This form will help ensure that the form is completed correctly by end-users, and they understand the purpose and expectations of the form. We also need to clarify the meaning and intent behind each field, as some field labels might be unclear or misleading.
-</thinking>
-
 # executive_coaching_feedback_form - Help Guide
 ## Purpose
 The executive coaching feedback form is used to gather feedback from clients on their executive coaching sessions. This feedback is essential for the coach to understand their strengths and areas for improvement, which will aid in providing better coaching services.

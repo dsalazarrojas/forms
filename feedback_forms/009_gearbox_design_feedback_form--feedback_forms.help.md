@@ -1,22 +1,3 @@
-<thinking>...checking for form purpose and relevance...
-
-The form "gearbox_design_feedback_form" is intended to collect feedback on the design and performance of a gearbox. It seems to be used for rating and evaluating gearboxes, with multiple fields to gather various types of feedback.
-
-To determine the form's purpose, I'll review the field names and labels. The form includes fields for:
-
-* Rating (e.g., rating_scale, rating_outcome, rating_outcome_comments)
-* Design (e.g., trial_design, trial_design_rating)
-* Environment (e.g., trial_environment)
-* Outcome (e.g., trial_outcome, review_outcome)
-* Comments (e.g., comments, rating_comments, continuous_improvement_notes)
-* Continuous Improvement (e.g., continuous_improvement, continuous_improvement_notes)
-* Trial notes and duration (e.g., trial_notes, trial_duration)
-* Attachment-related fields (e.g., attachment_file, attachment_notes, attachment_outcome, attachment_outcome_comments)
-
-This suggests that the form is used to evaluate gearboxes from various angles, including design, environment, and outcome. It appears to be used for continuous improvement and feedback purposes.
-
-</thinking>
-
 # gearbox_design_feedback_form - Help Guide
 ## Purpose
 The gearbox_design_feedback_form is used to collect feedback on the design and performance of a gearbox. It includes fields for rating and evaluating gearboxes from various angles, including design, environment, and outcome.

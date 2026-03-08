@@ -1,7 +1,3 @@
-<thinking>
-This form is a Drug Suffixes Quiz, which is designed to test users' knowledge on drug suffixes. The purpose of this form is to gather information on drug suffixes and their classes. It's essential to complete this form accurately to ensure that the data is up-to-date and reliable. Please ensure you're only filling out this form once and not duplicating effort.
-</thinking>
-
 # Drug Suffixes Quiz - Help Guide
 
 ## Purpose

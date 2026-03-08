@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from individuals who have interacted with law enforcement, providing a means to rate their satisfaction with the interaction and offer comments and suggestions for improvement. The form is intended to be a constructive channel for users to express their experiences and help law enforcement agencies identify areas of strength and weakness. It's possible that this form is part of a larger effort to improve police-community relations, public trust, and overall law enforcement performance.
-
-To avoid duplication or redundant feedback, it's essential to review existing feedback before submitting new comments. If you've already provided feedback, please do not repeat the same issues or concerns.
-
-Please ensure that all required fields are completed accurately, as they are essential for our analysis. This form is not a substitute for official reporting of incidents or crimes.
-
-The form consists of multiple sections, each designed to gather specific information. Please read the instructions for each section carefully and provide clear, concise answers to help us better understand your experience.
-
-</thinking>
-
 # Law Enforcement Performance Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from individuals who have interacted with law enforcement. Your input is crucial in helping us identify areas of improvement and enhance the quality of service provided by our officers.

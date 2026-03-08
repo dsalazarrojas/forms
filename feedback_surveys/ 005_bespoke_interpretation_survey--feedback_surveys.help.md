@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the Bespoke Interpretation Survey form, used to gather information from users for internal feedback and analysis. This form is designed to capture personal details, selections, and comments from users. Please ensure that the information provided is accurate and complete before submitting the form, as it will be used for official internal purposes. To avoid duplication, please only submit once per session. If you're unsure about any section, please refer to this guide for clarification.
-</thinking>
-
 # Bespoke Interpretation Survey - Help Guide
 ## Purpose
 The Bespoke Interpretation Survey form is designed to gather information from users for internal feedback and analysis. It is intended to capture personal details, selections, and comments to better understand the user's perspective.

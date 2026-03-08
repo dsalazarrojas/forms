@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from parents who have sent their children to summer camp. The purpose of this form is to gather information about the parent's experience at the camp, including their overall satisfaction with the camp, any comments or feedback they may have, and demographic information (parent and camper details). This form is not meant to be filled out by staff members or campers, but rather by parents who have visited the camp. Please ensure you are filling out the correct type of feedback form.
-
-</thinking>
-
 # Summer Camp Feedback Form For Parents - Help Guide
 ## Purpose
 This form is designed to collect feedback from parents who have attended summer camp. Please take a few minutes to provide your honest feedback, and help us improve the camp experience for future campers.

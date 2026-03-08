@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended to gather feedback and suggestions from users who have completed the Introduction to Dermatology Module. The purpose of this form is to understand user experiences, identify areas of improvement, and gauge the effectiveness of the module. To ensure accuracy, it's essential to review and complete the form carefully. Please note that this form is optional, and responses will be kept confidential.
 
 # Feedback For Introduction To Dermatology Module Form - Help Guide

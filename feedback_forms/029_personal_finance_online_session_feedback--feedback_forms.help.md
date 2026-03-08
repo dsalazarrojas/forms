@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants who attended a workshop on personal finance. The purpose of this form is to gather information about the participant's experience, satisfaction with the session, and any suggestions they may have for future sessions. To avoid duplication of effort, we will review each submission to ensure that we are not collecting unnecessary or redundant feedback.
-
-The form is divided into several sections that correspond to different aspects of the workshop. 
-
-This help guide is meant to be a clear and concise resource for participants to understand what the form is about and how to complete it.
-
-</thinking>
-
 # Personal Finance Online Session Feedback - Help Guide
 
 ## Purpose

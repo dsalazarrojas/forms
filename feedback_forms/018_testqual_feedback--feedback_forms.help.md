@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Testqual Feedback - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students regarding their internet access at home. The form is intended to help the organization understand student's internet access at home, which is a critical factor in online learning and remote work. This form will help us ensure that students have a clear understanding of their internet access at home and make necessary arrangements to support them. Before filling out this form, please ensure that you have read the form carefully and understand its purpose. If you have already filled out this form previously, please note that your previous responses are not saved and you will need to fill out the form again.
-</thinking>
-
 # Student Internet Access At Home Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their internet access at home, which is an essential factor in online learning and remote work.

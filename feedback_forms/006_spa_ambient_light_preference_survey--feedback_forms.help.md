@@ -1,9 +1,3 @@
-<thinking>
-
-This form aims to collect feedback on the ambient lighting preferences of a spa, likely to inform design decisions or improve the overall experience of spa visitors. However, it's essential to verify that this form won't be duplicated or interfere with any existing surveys.
-
-</thinking>
-
 # Spa Ambient Light Preference Survey - Help Guide
 
 ## Purpose

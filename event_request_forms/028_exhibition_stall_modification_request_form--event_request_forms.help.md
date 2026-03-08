@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exhibition Stall Modification Request Form - Help Guide
 ## Purpose
 This form is used to modify an exhibition stall in a specific event. You can use it to request changes, replacements, or removals of exhibition stalls.

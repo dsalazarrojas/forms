@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback from customers regarding their experience with a specific product. The form will help in identifying potential issues, gathering valuable insights, and ensuring that any concerns raised by customers are addressed in a timely manner. By filling out this form, customers are providing their consent to have their review published on the website.
-
-Before starting the form, please make sure you have not submitted a review recently. This will help in avoiding duplicate submissions and ensuring that we can track and address any issues efficiently.
-</thinking>
 # Product Review Posting Consent Form - Help Guide
 
 ## Purpose

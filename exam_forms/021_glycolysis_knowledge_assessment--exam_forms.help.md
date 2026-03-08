@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Glycolysis Knowledge Assessment - Help Guide
 ## Purpose
 The Glycolysis Knowledge Assessment form is designed to evaluate a user's knowledge about glycolysis, a process by which glucose is converted into energy. It covers various aspects of glycolysis, including the enzymes involved, the energy source, and the final product of the process.

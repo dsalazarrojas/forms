@@ -1,9 +1,3 @@
-<thinking>
-  This form is designed to gather feedback on family benefits applications. It is a crucial part of the application process to ensure that family benefits are being applied effectively and fairly. The information collected through this form helps to identify areas of improvement and makes adjustments to the application process as needed.
-  
-  **Please note that this form is a public adaptation and not affiliated with any form platforms mentioned above.**
-</thinking>
-
 # Family Benefits Application Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback on family benefits applications. It helps to identify areas of improvement and makes adjustments to the application process as needed.

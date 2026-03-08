@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I will create a user-friendly help guide for the "Festival Stallholder Feedback Survey" form. This guide will explain the form's purpose, how to complete it, and provide field-by-field explanations to ensure end-users understand the intended meaning behind each field.</thinking>
-
 # Festival Stallholder Feedback Survey - Help Guide
 ## Purpose
 The Festival Stallholder Feedback Survey is designed to collect feedback from festival vendors about their experience with our festival event. This feedback will help us identify areas of improvement and provide valuable insights to enhance future events.

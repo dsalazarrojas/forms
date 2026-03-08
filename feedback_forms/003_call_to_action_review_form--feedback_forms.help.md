@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Call To Action Review Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on the clarity, sense of urgency, and relevance of a call to action (CTA) in a campaign or asset. It will help us understand how well the CTA communicates its message to the target audience and identify areas for improvement.

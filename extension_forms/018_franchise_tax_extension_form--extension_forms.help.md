@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for the franchise tax extension. The purpose of this form is to provide an extension of the franchise tax return filing deadline for an entity. The form is used for entities that require an extension to file their franchise tax return. 
-
-When completing this form, please note that the entity type, filing period, and entity status are required fields. 
-
-This form is usually used by entities that need to extend their filing deadline for a specific period.
-</thinking>
-
 # Franchise Tax Extension Form - Help Guide
 ## Purpose
 The purpose of this form is to provide an extension of the franchise tax return filing deadline for an entity.

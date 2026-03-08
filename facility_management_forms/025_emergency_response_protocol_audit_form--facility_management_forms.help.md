@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be part of a system used in emergency response management, specifically for conducting audits on emergency response protocols at various locations. Given the fields included, it seems to be focused on collecting information about visits to a location, the protocol in place for responding to emergencies, and follow-up actions taken after the visit. It is likely that this form will be used by emergency responders, location managers, or other relevant stakeholders to document and track the progress of emergency response efforts at different locations. To confirm, this form will be used to ensure that all required information is collected correctly to maintain accurate records and facilitate future responses. 
-
-</thinking>
-
 # Emergency Response Protocol Audit Form - Help Guide
 ## Purpose
 This form is used to document and track emergency response protocol audits at various locations. It is designed to collect information about the visit, the response protocol, and follow-up actions taken after the visit.

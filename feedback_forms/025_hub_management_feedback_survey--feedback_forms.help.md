@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from users about their experiences with the service. This information will help us understand how we're doing and identify areas for improvement.
-
-Before filling out this form, ensure you're not repeating a previous feedback. This feedback is meant to be a fresh perspective from each individual interaction.
-
-</thinking>
-
 # Hub Management Feedback Survey - Help Guide
 ## Purpose
 The Hub Management Feedback Survey is a form designed to collect your honest feedback about your experiences with our services.

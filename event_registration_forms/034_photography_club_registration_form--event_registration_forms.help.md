@@ -1,9 +1,3 @@
-<thinking>
-
-We have a Photography Club Registration Form that is designed for users to register themselves or their non-member attendees to an event or club meeting. This form captures essential details such as member names, contact information, and event specifics. To ensure accurate registration, please make sure to fill out all required fields and double-check your email and password entries. 
-
-</thinking>
-
 # Photography Club Registration Form - Help Guide
 ## Purpose
 The Photography Club Registration Form is used to register members and non-members for events or club meetings.

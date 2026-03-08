@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Ambassador Registration Form - Help Guide
 ## Purpose
 

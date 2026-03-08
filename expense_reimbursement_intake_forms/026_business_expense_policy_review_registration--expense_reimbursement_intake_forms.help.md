@@ -1,5 +1,3 @@
-<thinking>Internal context: This form is part of a larger policy review process for business expenses. It's designed to gather attendee information for a workshop on the company's expense policy. The purpose of this form is to ensure attendees have a basic understanding of the policy and can provide feedback on their current experience with it. The form will be reviewed by experts to identify areas for improvement and potential changes to the policy.</thinking>
-
 # Business Expense Policy Review Registration - Help Guide
 ## Purpose
 This form is part of the company's expense policy review process, and its purpose is to gather information from attendees who are participating in a workshop on the policy. By completing this form, you will be able to provide feedback on your current experience with the policy and suggest potential areas for improvement.

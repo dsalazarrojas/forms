@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to register participants for a film festival. The form is used to collect information about each participant, including their project, category, and submit status. The form is not intended for data collection, and the purpose is to provide a user-friendly interface for participants to register and provide necessary details. This form is a public adaptation of a general form template, and it is not affiliated with or endorsed by any specific platform or organization.
-</thinking>
-
 # Film Festival Delegation Form - Help Guide
 ## Purpose
 This form is designed to facilitate the registration process for participants in a film festival. It collects information about each participant, their project, category, and submit status to streamline the registration process.

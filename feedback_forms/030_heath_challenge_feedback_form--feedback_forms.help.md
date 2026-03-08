@@ -1,9 +1,3 @@
-<thinking>...
-The goal of this form is to gather feedback on the challenges provided by the Heath Challenge program. This form will allow users to submit their comments, suggestions, and ratings on the challenges they have participated in. The form is designed to be simple and easy to fill out, requiring minimal information from the user. It will help us improve the program by identifying areas of improvement and making it more enjoyable and valuable for participants.
-
-The form is not intended to be a comprehensive survey, but rather a way to gather general feedback on the challenges, and it's not meant to be time-consuming or burdensome. The fields are designed to be self-explanatory, but here's a more detailed explanation to ensure you can complete it correctly and accurately.
-</thinking>
-
 # Heath Challenge Feedback Form - Help Guide
 
 ## Purpose

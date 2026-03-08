@@ -1,7 +1,3 @@
-<thinking>
-To be eligible for corporate sponsorship, an organization must be seeking to host an event, and the event must meet specific criteria for sponsorship. This form is for corporate sponsors to request sponsorship for an event. To complete this form, you will need to provide information about your organization, the event you are hosting, the event details, and the contact information for your representative and the corporate sponsor. The form includes a checkbox to agree to the terms of the sponsorship. Please make sure to fill out all required fields.
-</thinking>
-
 # corporate_sponsorship_request_form - Help Guide
 ## Purpose
 This form is for corporate sponsors to request sponsorship for an event.

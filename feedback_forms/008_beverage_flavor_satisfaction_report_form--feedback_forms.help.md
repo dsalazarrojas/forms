@@ -1,14 +1,3 @@
-<thinking>
-To ensure this help guide is accurate and relevant, I will analyze the provided YAML file and extract essential information about the form's purpose, how to complete it, and each field's meaning.
-
-The form is designed to collect feedback from respondents about their experience with a specific beverage flavor. The form is titled "Beverage Flavor Satisfaction Report Form" and is divided into several sections: Respondent Information, Product Information, Flavor Satisfaction, Comparison & Preferences, Feedback for Improvement, and Additional Comments.
-
-To complete this form, respondents will need to provide their personal information, details about the product they purchased, their experience with the flavor, and their opinions about the flavor's satisfaction, authenticity, intensity, and other aspects. They will also be asked about their willingness to repurchase and recommend the flavor to others, and provide suggestions for improvement.
-
-The form is likely used by beverage manufacturers or retailers to gather customer feedback and improve their products.
-
-</thinking>
-
 # Beverage Flavor Satisfaction Report Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from respondents about their experience with a specific beverage flavor. The feedback will help manufacturers or retailers understand customer satisfaction and preferences, ultimately informing product development and improvement decisions.

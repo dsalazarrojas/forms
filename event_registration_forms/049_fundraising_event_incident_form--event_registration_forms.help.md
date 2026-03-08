@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect incident reports for fundraising events. Its purpose is to gather information about events where something unusual occurred, and the form is intended for use during the event or shortly after. To ensure accurate reporting, please complete this form only for incidents that have actually happened. Repeating this form for events with no incidents will not provide valuable information and may be considered redundant. Please only fill out this form for events that require reporting.
-</thinking>
-
 # Fundraising Event Incident Form - Help Guide
 ## Purpose
 This form is used to report incidents that occurred during fundraising events. Please complete it if any unusual or unexpected events took place, such as equipment malfunction, accidents, or unexpected circumstances that affected the event.

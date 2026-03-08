@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # payroll_helpdesk_experience_survey - Help Guide
 
 ## Purpose

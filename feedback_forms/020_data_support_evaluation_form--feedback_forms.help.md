@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Data Support Evaluation Form - Help Guide
 ## Purpose
 The Data Support Evaluation Form is designed to provide a framework for evaluating the support provided by the team. It helps in gathering feedback and ratings on the quality of support, communication, and overall experience.

@@ -1,7 +1,3 @@
-<thinking>
-The event_confirmation_form is a simple form designed to capture essential details about an event, including the date, time, expected and actual number of attendees, and other relevant information. This form is intended for users to input information about events that have occurred or are scheduled to occur. It's crucial to fill out this form accurately to ensure that event details are up-to-date and consistent across the system. If you have already submitted a similar event confirmation form or plan to do so, please refrain from submitting the same form multiple times.
-</thinking>
-
 # event_confirmation_form - Help Guide
 ## Purpose
 The event_confirmation_form is designed to collect information about past or upcoming events, making it easier to track and manage event details.

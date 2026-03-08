@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from participants who are attending an exhibition design training. It is meant to be a straightforward and easy-to-use form that captures the basic details of the participant, their interest in the training session, and their feedback after the training. Before proceeding, please ensure that you are completing this form for the correct purpose and that you have all the necessary information required to fill it out accurately. If you are unsure about any of the fields, please review this guide carefully before submitting the form.
-</thinking>
-
 # Exhibition Design Training Form - Help Guide
 ## Purpose
 The Exhibition Design Training Form is designed to gather information from participants about their interest in and experience with exhibition design training. It is intended to be a simple and intuitive form that captures the necessary details to improve the training process and provide valuable insights.

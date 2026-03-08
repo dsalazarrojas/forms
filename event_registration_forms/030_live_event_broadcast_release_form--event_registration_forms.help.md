@@ -1,8 +1,3 @@
-<thinking>
-This form is for live event broadcast release, allowing users to provide necessary information about the event to be released to the public. It's crucial that users complete this form accurately to ensure the event information is correct and up-to-date. Please ensure that you only submit this form once for each event and that all fields are filled in according to your actual involvement.
-
-</thinking>
-
 # Live Event Broadcast Release Form - Help Guide
 ## Purpose
 This form is designed to collect information about live events for release to the public. It's essential to provide accurate details about the event to ensure a smooth and error-free release process.

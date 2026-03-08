@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback and suggestions from users on what content to cover in the next meeting, preferred meeting times, and other comments or feedback on meetings. 
-</thinking>
-
 # Meeting Content Suggestions Survey - Help Guide
 ## Purpose
 This form is a tool to gather user input on meeting content and frequency. Your responses will help the meeting organizers create more engaging and effective meetings.

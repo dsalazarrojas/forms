@@ -1,5 +1,3 @@
-<thinking>...this form is intended for evaluating an outlet, likely in a retail or restaurant setting. The purpose of this form is to collect data about the store, including its name, address, phone number, email, and category, as well as notes and comments. This form will be used to evaluate the store's performance, likely for customer service purposes. It's essential to complete this form accurately to ensure the evaluation is fair and comprehensive.</thinking>
-
 # Outlet Evaluation Form - Help Guide
 ## Purpose
 The Outlet Evaluation Form is designed to collect relevant information about a store, including its name, address, phone number, email, and category, to help evaluate its performance.

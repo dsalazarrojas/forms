@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process requests for mileage credit from employees. The purpose of this form is to provide a structured way for employees to submit their mileage-related expenses and ensure they receive the correct reimbursement. To be eligible for mileage credit, the request must be submitted within a specific timeframe after the trip. The form will be reviewed and approved by the designated approver before the expense is reimbursed. 
-</thinking>
-
 # Mileage Credit Request Form - Help Guide
 ## Purpose
 This form is used to request mileage credit after a business or personal trip. To ensure accurate reimbursement, please fill out the form carefully and completely.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from end-users about their experience with a travel agency. This form is not required to be filled out by employees or staff members of the travel agency. The information collected will be used to improve customer experience and agency's services. Please fill out this form only if you have had a recent interaction with the agency and have something to say about your experience.
-</thinking>
-
 # Tell Us What You Think - Help Guide
 ## Purpose
 This form is designed to collect feedback from end-users about their experience with a travel agency. It is intended to be filled out by customers who have had a recent interaction with the agency.

@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Center For Children's Rights Townhall" form, which aims to gather feedback and opinions from attendees on the effectiveness of the presentations, advocacy goals, and overall experience. This form is essential for understanding the strengths and weaknesses of the townhall events and to identify areas that need improvement. The goal is to provide a comprehensive guide for end-users to understand the form's purpose, fill it out accurately, and provide valuable feedback to the Center for Children's Rights.
-</thinking>
-
 # Center For Children's Rights Townhall - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees on their experience at the Center for Children's Rights Townhall event. Your input will help us improve future events and better serve the community.

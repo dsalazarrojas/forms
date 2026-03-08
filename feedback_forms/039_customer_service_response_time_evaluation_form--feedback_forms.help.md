@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from customers about their experience with the customer service response time. This form is intended to be used to evaluate the effectiveness of the customer service response time and identify areas for improvement. The form should only be filled out by customers who have interacted with the customer service team within the specified time frame.
 
 Before filling out this form, please ensure that you have not already provided feedback on this topic. Duplicate feedback will not be considered in the evaluation process.

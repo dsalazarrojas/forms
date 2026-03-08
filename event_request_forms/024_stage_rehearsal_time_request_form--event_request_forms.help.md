@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stage Rehearsal Time Request Form - Help Guide
 ## Purpose
 The Stage Rehearsal Time Request Form is used to request a specific time for a stage rehearsal. This form is meant for internal use within the organization and is not intended for external users. Please ensure that you only submit this form once for each requested time period.

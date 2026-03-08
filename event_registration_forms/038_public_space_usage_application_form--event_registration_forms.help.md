@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for public space usage applications. This form is used to collect details about the type of event, dates and times, and contact information for the event organizer. It's essential to fill out this form accurately to ensure that the event planning process runs smoothly and efficiently.
-
-When filling out this form, please ensure that you're not duplicating an already submitted application for the same event. This form is designed to be filled out by one person per event.
-
-</thinking>
-
 # Public Space Usage Application Form - Help Guide
 
 ## Purpose

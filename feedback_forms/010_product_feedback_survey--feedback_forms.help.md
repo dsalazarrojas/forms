@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback on products. The internal logic may include checks to prevent users from filling out the form multiple times, ensuring that the data collected is accurate and reliable. However, this guide will focus on helping end-users understand how to fill out the form correctly.
-</thinking>
-
 # Product Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on products from users. Please take a few minutes to fill out the form with your honest thoughts, and we'll use your input to improve our products.

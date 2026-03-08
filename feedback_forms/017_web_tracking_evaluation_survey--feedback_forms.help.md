@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather feedback from users on their web tracking technology experience. The form collects data on which web tracking technologies users employ, what type of data they collect, how they collect and store it, and how they protect it. It is designed to be completed by users with experience with web tracking technology.
-</thinking>
-
 # web_tracking_evaluation_survey - Help Guide
 ## Purpose
 This form gathers feedback on web tracking technology experience.

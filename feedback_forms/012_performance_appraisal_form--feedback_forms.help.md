@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance of an employee within the organization. It is meant to be completed by a supervisor or evaluator to assess an employee's skills, progress, and areas of improvement. The form should be filled out for each employee and submitted for review.
-
-Before starting this form, make sure you have all the necessary information and that it's not a duplicate evaluation for the same employee. Ensure you're using the correct performance period and evaluating the employee's performance accurately.
-
-</thinking>
-
 # Performance Appraisal Form - Help Guide
 
 ## Purpose

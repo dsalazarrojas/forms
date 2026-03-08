@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure that this form is correctly filled out by the attendees, it's essential to clarify its purpose, which is to gather information about the attendees' preferences and interests for the conference schedule. This form should be used to help attendees plan their experience, select the sessions they want to attend, and provide any dietary requirements or other preferences they may have. The form should not be duplicated or filled out by anyone who has already provided similar information in the past.
-
-</thinking>
-
 # Conference Schedule Overview - Help Guide
 
 ## Purpose

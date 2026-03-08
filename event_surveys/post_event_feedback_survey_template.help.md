@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from event attendees to help event organizers improve future events. The purpose of this form is to collect information about the event's overall satisfaction, the most valuable sessions, and the attendee's likelihood of attending a similar event in the future. Please fill out this form to provide your honest feedback. Before proceeding, please ensure that you haven't already provided feedback on this form to avoid duplication.
-</thinking>
-
 # post_event_feedback_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from event attendees to help event organizers improve future events.

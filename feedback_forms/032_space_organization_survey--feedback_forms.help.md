@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to collect feedback from employees on various aspects of the office space, aiming to improve the work environment. The form asks questions about the employee's work habits, preferences, and experiences. It is essential to ensure that the form is filled out only once per employee to avoid duplication of feedback.
-</thinking>
-
 # Space Organization Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experience and preferences regarding the office space. Your feedback is crucial in helping us create a more comfortable and efficient work environment.

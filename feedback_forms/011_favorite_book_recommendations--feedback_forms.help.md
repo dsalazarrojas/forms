@@ -1,7 +1,3 @@
-<thinking>
-We're going to create a user-facing help guide for the "Favorite Book Recommendations" form that explains its purpose and usage. The form is used to collect feedback and suggestions from users about books they have read or plan to read. It aims to gather information on a user's favorite books, including their ratings, preferences, and reading habits. This form is likely part of a larger survey or feedback mechanism used by publishers, authors, or educators to better understand their audience's reading behaviors and preferences. We will ensure to check for non-duplication of effort and ensure that the form's purpose and content are relevant to its intended use case.
-</thinking>
-
 # Favorite Book Recommendations - Help Guide
 ## Purpose
 This form is designed to collect your book-related feedback, suggestions, and reading habits to help publishers, authors, and educators better understand their audience's reading preferences.

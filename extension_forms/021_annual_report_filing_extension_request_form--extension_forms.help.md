@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request an extension for filing an annual report. The purpose of this form is to provide necessary information for processing and evaluating the request. Please complete the form carefully and accurately to ensure a smooth review process. This form should not be submitted if the original deadline has passed or if the request is not supported by valid reasons. Review each field carefully to avoid duplication of effort.
-</thinking>
-
 # Annual Report Filing Extension Request Form - Help Guide
 ## Purpose
 This form is used to request an extension for filing an annual report.

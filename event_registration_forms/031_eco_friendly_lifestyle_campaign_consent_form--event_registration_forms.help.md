@@ -1,13 +1,3 @@
-<thinking>
-
-The form "Eco Friendly Lifestyle Campaign Consent Form" is intended to capture information from individuals who are interested in participating in an eco-friendly lifestyle campaign. This form is used for registration and to understand participants' interests and consent to be part of the campaign. 
-
-It is assumed that participants are aware of their rights and will provide accurate information. However, if a participant's answer is unclear or does not make sense in the context of the campaign, the campaign team may contact them for additional information or clarification. 
-
-Please note that the participant's consent is not required for all fields. However, it is required for some fields, as indicated by the "required" property in the form YAML. 
-
-</thinking>
-
 # Eco Friendly Lifestyle Campaign Consent Form - Help Guide
 ## Purpose
 This form is for individuals who are interested in participating in an eco-friendly lifestyle campaign.

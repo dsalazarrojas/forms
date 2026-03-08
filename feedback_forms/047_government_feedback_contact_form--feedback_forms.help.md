@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from citizens, ensuring their voices are heard and addressed by the government. It's essential to follow these guidelines to provide a clear and accurate feedback, making it easier to understand and respond to their concerns.
-</thinking>
-
 # Government Feedback Contact Form - Help Guide
 ## Purpose
 This form is intended to allow citizens to send feedback to the government, helping to identify areas of improvement, express concerns, and provide suggestions.

@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Event Load In And Load Out Form", I will first consider the purpose of the form and check for relevance and non-duplication. This form is designed to capture event load-in and load-out information, which suggests it is used for tracking events, shipments, or other movements of goods or personnel. The form's purpose is likely to provide a standardized way to record the load-in and load-out events, including the event name, dates, times, and locations. I will ensure that the help guide is clear, concise, and practical, and I will base the explanation on the provided YAML fields.
-
-</thinking>
-
 # Event Load In And Load Out Form - Help Guide
 ## Purpose
 This form is used to record load-in and load-out events, including event details, dates, times, and locations. This information helps in tracking and managing these events efficiently.

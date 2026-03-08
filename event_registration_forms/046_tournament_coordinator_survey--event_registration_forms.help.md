@@ -42,18 +42,6 @@ To complete this form, please follow these steps:
 * If you have any additional comments or suggestions, please include them in the "Comments" field.
 * If you need assistance or have questions, feel free to contact us.
 
-<thinking>
-
-This form is designed to gather feedback from participants on their experience with the tournament event organization. It includes questions about participant feedback, event organization, venue conditions, and other related aspects. The goal of this form is to help us understand how to improve and make our future events better.
-
-We've carefully reviewed the fields on this form to ensure they provide clear and concise questions that aim to gather relevant feedback. However, this form may need to be adjusted based on feedback and suggestions received. 
-
-We aim to make our events enjoyable and smooth for participants. We want to hear from you to improve and make our events more participant-friendly in the future.
-
-Please let us know if you've had a great experience or if you have any suggestions. Your input is valuable to us!
-
-</thinking>
-
 **Tournament Coordinator Survey**
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a Vision Exam Results Form Template, which is likely used by eye care professionals to document the results of an eye examination. The purpose of this form is to gather information about the patient's vision, including their name, contact information, and test results. The form also includes fields for the doctor's name and any comments or notes related to the examination. This form seems to be used for administrative purposes, such as tracking patient data and communicating with other healthcare professionals.
-
-To ensure that this form is not duplicated or redundant, I've double-checked the provided YAML fields and ensured that the form is not part of a larger template or a subset of another form.
-
-</thinking>
-
 # Vision Exam Results Form Template - Help Guide
 ## Purpose
 The Vision Exam Results Form Template is used to document the results of an eye examination for a patient. This form gathers information about the patient's vision, including their name, contact information, and test results.

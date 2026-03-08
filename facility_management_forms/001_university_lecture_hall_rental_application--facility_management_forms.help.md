@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # university_lecture_hall_rental_application - Help Guide
 
 ## Purpose

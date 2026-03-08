@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to collect information from users to reserve a spot in an adventure sports event. To ensure the form is used correctly, please check that:
-- You are booking a valid event type.
-- You have not previously submitted a reservation for the same event type on the same date.
-- You have not reserved a spot in the same event on a different date.
-</thinking>
-
 # Adventure Sports Reservation Form - Help Guide
 ## Purpose
 This form is used to collect information from users to reserve a spot in an adventure sports event.

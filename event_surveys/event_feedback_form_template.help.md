@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be completing the Event Feedback Form. Before proceeding, it's essential to confirm that the form is being used for its intended purpose and that the information is not duplicated. The Event Feedback Form is designed to collect valuable insights from attendees to help improve future events.
-
-</thinking>
 # event_feedback_form_template - Help Guide
 ## Purpose
 The Event Feedback Form aims to gather your thoughts and opinions on your recent experience with an event. Your feedback will help us make informed decisions to enhance the event experience for you and other attendees.

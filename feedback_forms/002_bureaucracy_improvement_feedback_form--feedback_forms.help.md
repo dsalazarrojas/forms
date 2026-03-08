@@ -1,14 +1,4 @@
-><thinking>... 
-
-The form "Bureaucracy Improvement Feedback Form" is designed to collect information about pain points and suggestions for improvement within the bureaucratic processes within an organization. This form is meant to be used by individuals who have experienced difficulties or inefficiencies in their day-to-day work and want to share their insights with the organization. 
-
-This form will be used by the organization to identify areas of improvement and prioritize initiatives to address these issues. 
-
-To avoid duplication, please ensure that you have not already submitted feedback on this topic.
-
-</thinking>
-
-# Bureaucracy Improvement Feedback Form - Help Guide
+># Bureaucracy Improvement Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and suggestions from employees about areas of improvement within the organization's bureaucratic processes. This feedback will help the organization to identify and prioritize areas to address, ultimately improving the work experience for all employees.
 

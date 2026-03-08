@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from trade show coordinators to onboard them for upcoming trade shows. The form is likely to be used to gather essential details about the coordinator's experience, availability, and preferences to assign them to the most suitable trade show events. The form's fields may appear to be redundant, but each one is designed to capture specific aspects of the coordinator's profile.
-
-The form's purpose is to ensure that the trade show coordinators have a smooth and successful experience. The form will be used by the event organizers to make informed decisions about the coordinators' assignments.
-
-Before proceeding, ensure that you have the necessary information and authorization to complete this form.
-
-</thinking>
-
 # Trade Show Coordinator Onboarding Form - Help Guide
 ## Purpose
 The Trade Show Coordinator Onboarding Form is designed to gather essential details about trade show coordinators to ensure a smooth and successful experience.

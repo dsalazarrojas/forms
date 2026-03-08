@@ -1,7 +1,3 @@
-<thinking>
-We're designing this form to collect feedback from observers about an event. This form will help us understand the observer's experience, opinions, and ratings. It is essential to ensure that the observer's feedback is relevant and we'll only process it once for each observer. If you've already submitted feedback about this event, it will not be possible to submit another form.
-</thinking>
-
 # observer_feedback_sign_up - Help Guide
 ## Purpose
 This form collects feedback from observers about an event, helping us understand their experience and opinions.

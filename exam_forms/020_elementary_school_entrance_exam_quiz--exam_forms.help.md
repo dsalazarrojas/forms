@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for parents or guardians who wish to register their child for an elementary school entrance exam. It captures essential information for the exam administration process, such as the applicant's name, the parent's name, the grade level of the applicant, the date and time of the exam, the school address, the contact email and phone number, and finally, a submission confirmation. The form's purpose is to ensure that all necessary details are collected accurately and efficiently, making it easier for both the school and the applicants to manage the exam process.
-</thinking>
-
 # Elementary School Entrance Exam Quiz - Help Guide
 ## Purpose
 This form is designed for parents or guardians to register their child for an elementary school entrance exam.

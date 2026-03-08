@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to collect feedback on skin treatment experience and satisfaction. It aims to gather information on users' feelings about their skin treatment, helping us improve our services.</thinking>
-
 # Skin Treatment Feedback Survey - Help Guide
 ## Purpose
 The Skin Treatment Feedback Survey is a form designed to collect feedback on users' experiences with skin treatments. Your input will help us improve our services and better serve you in the future.

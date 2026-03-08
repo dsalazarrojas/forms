@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about the user for speed dating events. The form should be completed by users registering for a speed dating event, providing their personal details and preferences to match with other attendees. The form should not be used for any other purpose. 
-
-This form is a template, and its fields are designed to be flexible and adaptable. However, the fields are intended to be completed in a specific way to ensure accurate and consistent data collection. If you're unsure about any field, please refer to this help guide for more information.
-
-</thinking>
-
 # Speed Dating Template - Help Guide
 ## Purpose
 This form is designed to collect information from users registering for speed dating events. It is intended to be filled out by individuals interested in participating in speed dating, providing their personal details and preferences to facilitate efficient matching.

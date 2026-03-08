@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for organizations to request an environmental license extension, which is typically required for various environmental permits or licenses. The purpose of this form is to provide the necessary information and attachments to support an extension request. The form will be reviewed internally to ensure that the request meets the necessary criteria and that all required documents are provided.
-
-</thinking>
-
 # Environmental License Extension Application - Help Guide
 ## Purpose
 The Environmental License Extension Application form is designed to gather information and supporting documents for an environmental license extension request. To complete this form, please follow the instructions below.

@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be an assessment tool created to evaluate foundation skills, likely in a professional setting such as education or workforce development. The purpose is to gather information about a user's foundation skills, which could include fundamental knowledge or abilities required for a particular job or task. The form has three text input fields, each on a separate page. This form is a unique, AI-generated creation and is not affiliated with any specific form platform. It is released under a Creative Commons license, allowing users to modify or sell the form while giving credit. The form appears to be a straightforward, text-based assessment tool without any branching logic or conditional fields.</thinking>
-
 # Foundation Skills Assessment - Help Guide
 ## Purpose
 The Foundation Skills Assessment is a tool used to evaluate users' foundation skills, which are essential abilities or knowledge required for a particular job or task.

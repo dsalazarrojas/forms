@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for music festival vendors to renew their registration and update their contact information. This form is used to collect data about the vendor and their contact details. To avoid any issues, it's recommended that vendors complete the form with accurate and up-to-date information. Please note that this form is not for vendors who are new to the music festival, but rather for those who have already been registered and want to renew their registration.
-</thinking>
-
 # Music Festival Vendor Renewal Form - Help Guide
 ## Purpose
 This form is for music festival vendors to update their registration and contact information. If you have already been registered as a vendor at the music festival, use this form to renew your registration and make any necessary updates to your contact details.

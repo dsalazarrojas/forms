@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect staff feedback on the golf season, which will help event organizers and HR department to identify areas of improvement, suggestions, and overall staff satisfaction and engagement. Please ensure that the form is filled out only once per staff member, to provide accurate and comprehensive feedback. This form is intended for internal use only, so please do not share it publicly. The form will help to identify any issues and opportunities for growth, and will be reviewed by event organizers and HR department to inform future golf season planning and staff engagement.
-</thinking>
-
 # Staff Golf Season Feedback Survey - Help Guide
 
 ## Purpose

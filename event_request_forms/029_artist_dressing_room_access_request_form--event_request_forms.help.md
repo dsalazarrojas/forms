@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information for artist dressing room access requests. This information will be reviewed by staff members to ensure that all necessary requirements for access to the artist's dressing room are met.
-</thinking>
-
 # Artist Dressing Room Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to the artist's dressing room at an event. The form asks for your contact information, event details, access type, and other relevant details to ensure a smooth and secure access experience for the artist.

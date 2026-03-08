@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Paper Reduction Ideas Survey - Help Guide
 
 ## Purpose

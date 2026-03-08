@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to gather information from website visitors, providing a platform for them to share their general experiences and feedback about the website. The form is structured to collect basic demographic information, such as contact details, and gather feedback in a simple and efficient manner. This form does not require any sensitive or complex information, making it accessible to a wide range of users. It is essential to fill out this form honestly and accurately, as the data collected will help improve the website's user experience. Before completing this form, ensure you have permission from the website visitor to share their information, as it will be used to enhance the website. If you're unsure about the purpose or content of this form, please refer to the website's terms and conditions.
-</thinking>
-
 # Website Visitor Survey - Help Guide
 ## Purpose
 This form is designed to gather information from website visitors about their general experiences and feedback about the website.

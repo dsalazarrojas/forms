@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I will need to consider the following steps:
-
-1.  **Form Purpose**: The form is intended for planning events within the church, including events related to various ministries such as children, youth, and men's and women's ministries. 
-2.  **How to Complete the Form**: The form is a multi-page form that guides users through an event planning process, asking for details such as event title, lead organizer, event purpose, target audience, date and time, estimated attendance, resource requirements, budget, funding source, promotional plan, child care and food provision plans, and submission date.
-3.  **Field-by-Field Explanation**: The following is a detailed explanation of each field in the form.
-
-</thinking>
-
 # Church Event Planning Form - Help Guide
 ## Purpose
 The Church Event Planning Form is designed to help you plan and manage various events within the church. This form guides you through the process of planning and submitting event details, including event title, date, time, and logistics.

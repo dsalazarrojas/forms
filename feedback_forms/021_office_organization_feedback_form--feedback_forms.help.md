@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Office Organization Feedback Form - Help Guide
 
 ## Purpose

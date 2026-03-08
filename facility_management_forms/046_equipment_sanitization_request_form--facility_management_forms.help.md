@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to request equipment sanitization. Equipment sanitization is a process of removing or destroying harmful substances from equipment to make it safe for use or reuse. This form is used to submit a request for equipment sanitization.
-
-To ensure that this form is used correctly, we will not allow duplicate requests for the same equipment. If a duplicate request is submitted, it will be rejected and the submitter will be notified.
-
-The submitter will be contacted to confirm their request and provide further information if needed. The submitter will also be notified of any issues or delays with their request.
-
-</thinking>
-
 # Equipment Sanitization Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request equipment sanitization for a specific piece of equipment. This is to be used by authorized personnel to submit requests for equipment to be sanitized.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coworking Space Member Feedback Check In Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from coworking space members on their experience, satisfaction, and any comments they might have regarding their visit. It's a required form to help us improve our services and make the coworking space a better place for everyone.

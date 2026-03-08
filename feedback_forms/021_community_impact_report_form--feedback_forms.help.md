@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect data about the impact of a project or initiative within a community. The purpose of this form is to gather information from report authors, who are typically project team members or coordinators. This form will help to understand the achievements and lessons learned from a project and identify areas for improvement. 
-
-The form will likely be completed by project team members or coordinators who have knowledge about the project. This is not a public opinion survey, so respondents should answer based on their direct involvement and knowledge of the project. The form will be used to generate a report summarizing the impact of the project.
-
-The form will be filled out by one person at a time, and it may take around 15-20 minutes to complete, depending on the depth of information provided. It's recommended that the reporter fill out the form in one sitting, taking their time to ensure accurate and detailed responses.
-
-This form is composed of several fields that are used to provide different types of information. Each field is described below.
-
-</thinking>
-
 # Community Impact Report Form - Help Guide
 ## Purpose
 The Community Impact Report Form is a data collection tool designed to gather information about the impact of a project or initiative within a community. It helps to gather achievements, lessons learned, and areas for improvement for future projects.

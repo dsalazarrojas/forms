@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for clients to register their event catering service contract with the caterer. The form collects essential information about the client, their event, and the terms of the contract. It is crucial to understand this form's purpose and requirements to ensure accurate and complete submission.
-The caterer's team will use this information to provide personalized services and ensure a seamless event experience. Please make sure to fill out this form accurately and thoroughly, as it will be used to create a customized contract for your event.
-</thinking>
-
 # Catering Service Contract Form - Help Guide
 ## Purpose
 The Catering Service Contract Form is designed for clients to register their event catering service contract with the caterer. It collects essential information about the client, their event, and the terms of the contract. This form is required to be filled out to ensure a successful and enjoyable event experience.

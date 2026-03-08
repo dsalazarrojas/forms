@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect participant information for an emotional intelligence raffle entry. This form is likely intended for participants to provide their personal details and reflections, which will be used to assess their emotional intelligence or a similar psychological evaluation. To prevent duplication, we will check for duplicate entries before allowing submission.
-
-This guide will help you complete the form correctly and efficiently.
-</thinking>
-
 # Emotional Intelligence Raffle Entry - Help Guide
 ## Purpose
 The Emotional Intelligence Raffle Entry form is designed to collect participant information for an emotional intelligence assessment. This form requires participants to provide their personal details, reflections, and other information to help assess their emotional intelligence.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Organization Reimbursement Request - Help Guide
 
 ## Purpose

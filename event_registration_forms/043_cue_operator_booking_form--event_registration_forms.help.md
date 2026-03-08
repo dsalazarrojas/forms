@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be a booking form for cue operators to be assigned to events. The purpose of this form is to allow users to book cue operators for specific events, taking into account the event date, time, location, organizer, venues, and whether or not cue operators are present. It's crucial that the form is filled out accurately to ensure the correct cue operators are allocated for the events. Please verify that the form is being filled out for the correct event and that cue operators are correctly selected. Please note that cue operators are not necessarily present at all events, hence the 'Yes/No' field for their presence.
-
-</thinking>
-
 # Cue Operator Booking Form - Help Guide
 ## Purpose
 This form is designed to help event planners book cue operators for specific events.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to submit marketing budget expense information. The purpose of this form is to allow users to provide details about a specific expense, including the date of submission, marketing budget, budget currency, expense category, expense amount, expense type, reason for the expense, any additional notes, the user's email address, and their phone number. To avoid duplication, ensure that you are only submitting a single expense per form.
-
-Before starting, ensure that you have all the necessary information required to complete the form accurately. The form can be submitted on its own, but having all the necessary information beforehand will streamline the process and reduce errors.
-
-</thinking>
-
 # Marketing Budget Expense Submission Form - Help Guide
 ## Purpose
 This form is used to submit marketing budget expense information, providing details on the date of submission, marketing budget, budget currency, expense category, expense amount, expense type, reason for the expense, notes, email address, and phone number. 

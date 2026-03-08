@@ -1,5 +1,3 @@
-<thinking>Periodontal Anatomy Quiz - A form to test knowledge about the anatomy of the mouth and its parts. This form will assess understanding on periodontal ligament, tooth structure, and relationships between teeth and jaw bone. Please answer each question in the text field provided. You will be asked a series of questions about the periodontal ligament's purpose, tooth structure, and anatomy. Each question will have a corresponding field where you will provide your answer. Please ensure that you answer each question accurately and completely to the best of your ability.</thinking>
-
 # Periodontal Anatomy Quiz - Help Guide
 ## Purpose
 The Periodontal Anatomy Quiz is a form designed to test your knowledge about the anatomy of the periodontal ligament and its related structures in the mouth.

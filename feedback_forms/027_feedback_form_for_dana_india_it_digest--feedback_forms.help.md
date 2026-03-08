@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Feedback Form For Dana India It Digest" is designed to collect feedback from clients about their experience with our services. This feedback will help us identify areas for improvement and better serve our clients in the future.
 
 To complete the form, please follow these steps:

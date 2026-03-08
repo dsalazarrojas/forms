@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with a harpist's performance. It's meant to gauge the audience's satisfaction with the harpist's skill level, event organization, and overall experience. The form is not meant to be filled out by the same user multiple times, so there's no need to check for non-duplication. This form is intended for a specific event, and responses will be used to improve future performances. Please answer the questions honestly, and choose the best option that reflects your opinion.
-</thinking>
-
 # harp-performance-feedback-survey - Help Guide
 ## Purpose
 The harp-performance-feedback-survey is a tool used to collect feedback from the audience about the harpist's performance. This feedback will help us improve future performances and better meet your expectations.

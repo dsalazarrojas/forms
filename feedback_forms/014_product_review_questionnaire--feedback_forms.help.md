@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about a product they have used. This form aims to collect information on whether the product is worth the price, the user's rating and recommendation of the product, and other specific details about their experience with the product. 
-This form should only be used for users who have actually used the product and are providing their honest feedback. It should not be used for users who have not used the product or are trying to game the system.
-Please make sure to complete this form only once per product.
-</thinking>
-
 # Product Review Questionnaire - Help Guide
 ## Purpose
 The Product Review Questionnaire is designed to gather feedback from users who have actually used our products. This form helps us understand your experience, likes, and dislikes about the product, which is essential for us to improve our products and services.

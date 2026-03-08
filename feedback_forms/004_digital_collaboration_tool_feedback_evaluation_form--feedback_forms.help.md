@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for evaluating and providing feedback on the Digital Collaboration Tool, which is likely a software application used for team collaboration and productivity. The feedback collected through this form will help the developers understand the tool's strengths and weaknesses, identify areas for improvement, and make necessary enhancements. This form should not be filled out if you are simply testing or exploring the tool, as the feedback collected will only be relevant if you have actually used the tool for a significant period. Please fill out this form only if you have genuine feedback to provide.
-</thinking>
-
 # Digital Collaboration Tool Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the Digital Collaboration Tool, a software application used for team collaboration and productivity.

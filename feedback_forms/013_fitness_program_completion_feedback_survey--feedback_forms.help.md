@@ -1,6 +1,3 @@
-<thinking>
-This form is for collecting feedback from individuals who have completed a fitness program. The purpose of this form is to gather information about the program's effectiveness and identify areas for improvement. Please fill out this form if you have recently completed a fitness program and are willing to provide your feedback. Please note that your input will help us improve the program for future participants. If you have already submitted feedback, please do not fill out this form again.</thinking>
-
 # Fitness Program Completion Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from individuals who have completed a fitness program. Your input will help us understand the effectiveness of the program and identify areas for improvement.

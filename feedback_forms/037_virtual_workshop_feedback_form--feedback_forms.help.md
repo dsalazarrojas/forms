@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users after attending a virtual workshop or event. The purpose of this form is to gather information about the user's experience, including their ratings and suggestions for improvement. This form should only be completed by users who have attended a virtual workshop or event.
-
-This form has been designed to be completed in a sequential manner, with each page building on the previous one. Please ensure that you complete each page before moving on to the next one.
-
-To avoid duplication of effort, please do not complete this form if you have already submitted feedback for the same event or session.
-</thinking>
-
 # virtual_workshop_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users after attending a virtual workshop or event.

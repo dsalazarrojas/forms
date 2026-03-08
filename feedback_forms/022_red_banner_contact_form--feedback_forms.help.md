@@ -1,7 +1,3 @@
-<thinking>
-The Red Banner Contact Form is used to collect feedback from users regarding a specific issue or concern. Before providing feedback, please ensure that you're not submitting duplicate forms. If you've already submitted feedback on the same issue, your new submission will not be recorded.
-</thinking>
-
 # Red Banner Contact Form - Help Guide
 ## Purpose
 The Red Banner Contact Form is designed to collect user feedback and issues related to the "Red Banner" feature. This form helps us understand your concerns, questions, or suggestions, allowing us to improve the feature and provide better service.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Joint Spiritual Revival Invitation - Help Guide
 ## Purpose
 The Joint Spiritual Revival Invitation form is designed to gather information from guests and sponsors for a specific event. This form is meant to collect RSVP responses, event details, and other relevant information to ensure a smooth and enjoyable experience for all attendees.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess a user's understanding of heat transfer, specifically conduction, convection, and radiation. The form is composed of multiple sections, each addressing a different type of heat transfer. The user will be presented with a series of questions, followed by corresponding answer fields and hint fields for clarification. After completing the form, the user will be able to submit their answers and proceed with the next section or submit the form for review. This form is likely used in an academic or educational setting to evaluate student understanding of heat transfer principles.
-
-</thinking>
-
 # Heat Transfer Quiz - Help Guide
 ## Purpose
 The Heat Transfer Quiz is designed to assess your understanding of heat transfer, including conduction, convection, and radiation.

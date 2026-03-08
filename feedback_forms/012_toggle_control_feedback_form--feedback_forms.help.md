@@ -1,25 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand the purpose and structure of the form. This form appears to be a feedback form for users to provide input on their experience with a toggle control. The form is likely used for usability testing and gathering user feedback on the effectiveness and usability of the toggle control. The form is divided into multiple pages, each with different types of input fields. The fields include rating, bug report, improvement suggestion, device, platform, usability rating, description, screenshot, additional feedback, and expected behavior.
-
-The form does not appear to have any conditional logic or dependencies between fields, making it a simple form for collecting user feedback. The form does not require any specific information, as all fields are optional.
-
-The form fields are:
-
-*   Rating: allows users to rate their experience with the toggle control, with options for Good, Fair, or other (though it's not clear what "other" means)
-*   Bug report: a free-text field for users to report any bugs or issues they encountered with the toggle control
-*   Improvement suggestion: a free-text field for users to provide suggestions for improvement
-*   Device: a dropdown field with options for the user's device (e.g., 1, 2, 3, 4, 5)
-*   Platform: a dropdown field with options for the user's platform (e.g., 1, 2, 3, 4, 5)
-*   Usability rating: another dropdown field with options for the user's usability rating (e.g., 1, 2, 3, 4, 5)
-*   Description: a free-text field for users to provide a detailed description of their experience
-*   Screenshot: a free-text field for users to attach a screenshot or image related to their feedback
-*   Additional feedback: a free-text field for users to provide any additional feedback or comments
-*   Expected behavior: a free-text field for users to describe the expected behavior of the toggle control
-
-The purpose of this form is to collect user feedback on their experience with the toggle control, which can be used to improve the usability and effectiveness of the toggle control.
-
-</thinking>
-
 # Toggle Control Feedback Form - Help Guide
 ## Purpose
 This form is a feedback form designed to gather user input on their experience with the toggle control. It is intended to collect information on the usability and effectiveness of the toggle control.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from the youth ministry about their experience with the church services. The purpose of this form is to gather information about the frequency of attendance, the quality of services, and the assigned tools used during the services. It is essential to complete this form accurately to provide valuable insights for the church staff.
-</thinking>
-
 # Youth Ministry Feedback Form Template - Help Guide
 ## Purpose
 The Youth Ministry Feedback Form Template is a tool designed to collect feedback from the youth ministry about their experience with the church services. This form aims to gather information on how often they attend church services, how they rate the music, and which assigned tools are used during the services.

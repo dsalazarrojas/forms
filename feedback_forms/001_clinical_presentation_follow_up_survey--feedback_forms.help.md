@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from patients about their clinical presentation, symptoms, treatment, and follow-up needs. The purpose of this form is to ensure that patients' health status is up-to-date and to identify any potential issues that require further attention. This form should only be filled out by the patient, not by healthcare providers. It's essential to note that this form is not a substitute for regular check-ups with healthcare providers. Please only fill out this form if you have had a clinical presentation or are following up on a previous visit.
-
-To fill out this form, please follow the instructions below:
-
-</thinking>
-
 # Clinical Presentation Follow Up Survey - Help Guide
 
 ## Purpose

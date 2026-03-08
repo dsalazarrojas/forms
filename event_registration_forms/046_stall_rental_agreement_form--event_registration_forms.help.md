@@ -1,7 +1,3 @@
-<thinking>
-This is a form for collecting rental details from event organizers or vendors who are renting out their stalls at an event. The form should help event organizers and vendors provide their rental details, including stall rental terms, payment terms, and any other relevant information. The form should be used to collect information from both the event organizer and the vendor, to ensure that both parties are on the same page. The main objective is to provide a clear and concise way to document the rental agreement between the event organizer and the vendor. 
-</thinking>
-
 # Stall Rental Agreement Form - Help Guide
 ## Purpose
 The Stall Rental Agreement Form is used to collect rental details from event organizers or vendors who are renting out their stalls at an event. This form helps ensure that both parties have a clear understanding of the rental terms and conditions.

@@ -1,9 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'm creating a user-facing help guide for the Continuous Improvement Form. This form is designed to collect feedback and suggestions from users to help the organization improve its processes and service quality. The form is divided into several fields that guide the user through the submission process. 
-
-To complete this form, the user will provide the following information: a brief header for their improvement suggestion, their name (optional), the department or process affected, a description of the current issue or inefficiency, a description of the specific problem or bottleneck, the frequency of the issue, a proposed improvement idea, the primary benefit of the change, an estimate of the impact, any resources or tools needed, a suggested priority level, the date of submission, and interest in being part of the implementation team. The user can also provide their email address for follow-up communication. 
-
-To ensure that the user can easily understand the form and its purpose, I'll explain each field below.</thinking>
-
 # Continuous Improvement Form - Help Guide
 ## Purpose
 The Continuous Improvement Form is designed to collect feedback and suggestions from users to help the organization improve its processes and service quality. Your input is valuable in identifying areas of improvement and implementing positive changes that benefit everyone.

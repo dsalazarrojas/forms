@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide feedback on the festival organizers, allowing users to share their experience, ratings, and suggestions. The form will help us improve the festival organization and ensure that we provide a better experience in the future. To ensure that your feedback is considered, please make sure you complete the entire form without duplicating existing information or submitting the form multiple times.
-</thinking>
-
 # Best Festival Organizer Nomination Form - Help Guide
 ## Purpose
 This form is designed to help us gather feedback on our festival organizers. Your participation will aid us in understanding what went well and areas for improvement, ensuring future events are more enjoyable for everyone.

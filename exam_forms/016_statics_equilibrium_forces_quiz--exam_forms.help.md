@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a user's experience with static equilibrium forces. The form is likely used in a educational or testing setting, such as a quiz or assessment, to gauge a user's understanding of the topic. The form is composed of multiple pages, each with various types of fields to collect different types of information. 
-
-Before proceeding, ensure that you have completed the form in the correct order, and that you have answered each question accurately and thoroughly. This form should not be used for commercial or other purposes, and is intended for educational or testing use only.
-</thinking>
-
 # Statics Equilibrium Forces Quiz - Help Guide
 ## Purpose
 This form is used to collect information about a user's experience with static equilibrium forces in an educational or testing setting.

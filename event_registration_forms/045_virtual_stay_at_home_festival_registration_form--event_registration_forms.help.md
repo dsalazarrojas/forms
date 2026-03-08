@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Stay At Home Festival Registration Form - Help Guide
 
 ## Purpose

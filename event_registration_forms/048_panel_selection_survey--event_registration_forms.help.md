@@ -1,5 +1,3 @@
-<thinking>Before we get started, let's quickly review the purpose of this form and check if it's relevant and non-duplicative. The Panel Selection Survey form seems to be used for selecting a panel of speakers or organizers for an event or conference. It includes various fields such as selecting the event organizer, specifying speaker applications, setting start and end dates, specifying speaker names, email addresses, and phone numbers. This form also requires a brief description of the panel, topic, and speaker bios. It's essential to fill out this form accurately and completely to ensure that your panel selection process is smooth and efficient.</thinking>
-
 # Panel Selection Survey - Help Guide
 ## Purpose
 The Panel Selection Survey form is designed to help you select a panel of speakers or organizers for an event or conference. This form will guide you through the selection process, ensuring that you gather all the necessary information.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to register an attendee's attendance to a workplace safety training session. This form captures essential information about the training session and the attendee's attendance status. Before filling out this form, please ensure that you have attended the relevant training session and are providing accurate information.
-
-This form is designed to be completed by individuals who have attended or have not attended a workplace safety training session. It is not intended to be used for duplicate registrations or to register for a training session that has not taken place.
-
-Please review the form fields below to understand the required and optional information we need from you.
-</thinking>
-
 # workplace_safety_training_attendance_form - Help Guide
 ## Purpose
 The workplace safety training attendance form is used to register an attendee's attendance to a workplace safety training session. This form captures essential information about the training session and the attendee's attendance status.

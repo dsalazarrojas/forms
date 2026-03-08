@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on an employee's development plan. It is meant to be completed by a supervisor or reviewer to provide a rating and comments on the employee's progress in achieving their growth objectives. The form should only be used for evaluating the employee development plan for a specific employee, and not for general employee performance evaluations. If you have already completed a similar form for this employee, please do not submit this form to avoid duplication of effort.
-
-</thinking>
-
 # Employee Development Plan Feedback Evaluation Form - Help Guide
 
 ## Purpose

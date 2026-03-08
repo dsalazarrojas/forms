@@ -1,7 +1,3 @@
-<thinking>
-The form "Fabric Color Poll" is designed to collect feedback and preferences from users regarding their favorite fabric colors. The form has a simple structure with two pages: an introduction page, a color selection page, and a final submission page. The form does not require any personal information, making it a quick and easy way to collect preferences.
-</thinking>
-
 # Fabric Color Poll - Help Guide
 ## Purpose
 The Fabric Color Poll form is a tool to collect feedback and preferences from users regarding their favorite fabric colors. This form is intended to be a fun and interactive way to gather information and provide insights to the design team.

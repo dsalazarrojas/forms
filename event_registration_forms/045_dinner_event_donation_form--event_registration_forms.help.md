@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to allow attendees to register for a dinner event and optionally request specific items or quantities, leaving room for any additional notes.
-The form has three pages: attendee_info, donation_items, and additional_notes. 
-The form requires attendees to provide their attendee info, optionally select one or more items and quantities they are requesting, and provide any additional information they wish to share. This form is not duplicated as a separate instance is required per attendee.
-</thinking>
-
 # dinner_event_donation_form - Help Guide
 ## Purpose
 The dinner_event_donation_form allows attendees to register for a dinner event and optionally select specific items or quantities they would like to request.

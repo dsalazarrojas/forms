@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a protein structure vocabulary quiz, where users are asked a series of questions related to protein structure. The purpose of the form is to test the user's knowledge and understanding of protein structure terminology. The form will be used to collect information from students, specifically their name, email address, and quiz completion status.
-</thinking>
-
 # protein_structure_vocabulary_quiz - Help Guide
 ## Purpose
 The protein structure vocabulary quiz is designed to assess a student's understanding of protein structure terminology. It is a series of questions that cover various aspects of protein structure, and the user's answers will be evaluated against the correct options provided.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information from employees who are leaving a company, including their name, contact information, reason for offboarding, and any other relevant details. The form is typically used during the offboarding process to ensure a smooth transition of responsibilities and to maintain company records. 
 
 Before completing this form, please review the following instructions to ensure you are providing accurate and complete information.

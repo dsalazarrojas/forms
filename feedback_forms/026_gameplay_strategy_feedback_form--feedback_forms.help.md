@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about their gameplay experiences, focusing on strategy, playstyle, and performance. This form allows users to express their thoughts on the balance between competition, social interaction, and performance in the game, providing valuable insights to help developers refine their strategy and game design.
-To ensure the form is completed accurately and effectively, please consider the following:
-
-1.  The form is not a required form.
-2.  The form is divided into several fields, each with its own purpose and requirements.
-</thinking>
-
 # gameplay_strategy_feedback_form - Help Guide
 ## Purpose
 The gameplay strategy feedback form is designed to collect feedback from users about their gameplay experience, focusing on strategy, playstyle, and performance. This feedback is essential in helping developers refine the game design and create a better experience for users.

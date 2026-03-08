@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the condition of a department within an organization. The purpose of this form is to gather information about the department's location, condition, and maintenance status. This form will help the user to provide a clear understanding of the department's state and identify areas that require attention. This form will be used by facility management teams to collect data and make informed decisions about maintenance and resource allocation.
-
-</thinking>
-
 # department_condition_assessment - Help Guide
 ## Purpose
 This form is used to assess the condition of a department within an organization. It collects information about the department's location, condition, and maintenance status to help facility management teams make informed decisions.

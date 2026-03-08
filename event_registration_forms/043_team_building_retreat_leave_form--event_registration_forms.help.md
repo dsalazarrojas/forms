@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about team building retreats, which are events where team members participate in team-building activities outside of their regular work schedule. The purpose of this form is to record leave requests for team members to attend team building activities, and to gather information about the event details and attendees. This form should only be completed by team members who have been invited to or have signed up for a team building retreat.
-
-</thinking>
-
 # Team Building Retreat Leave Form - Help Guide
 ## Purpose
 This form is used to record leave requests for team members to attend team building activities, and to gather information about the event details and attendees.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about various sports, allowing them to provide input on their favorite sports, selected sports, feedback score, comments, athlete name, club name, email, phone number, and submit. To avoid duplicating feedback, users are only allowed to select one sport per form submission. The form will not be displayed if the user has already submitted feedback for the same sport in the past 30 days.
-</thinking>
-
 # Multisport Improvement Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about various sports, allowing us to understand what our users think about each sport.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback from users about a specific skin care product. The form is used to gather information on the product's name, rating, and comments, as well as the user's additional feedback and contact information. The form is intended to be filled out by a single user, but may be used for multiple products with different categories and subcategories. Each subcategory has a "Yes" or "No" option, which may indicate whether the product belongs to that category or not. The form is designed to be submitted once the user has completed all the necessary information.
-</thinking>
-
 # skin_care_product_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about a specific skin care product. It is used to gather information on the product's name, rating, and comments, as well as the user's additional feedback and contact information.

@@ -1,5 +1,3 @@
-<thinking>Let's see if this form is for chapter review feedback, used to evaluate the effectiveness and quality of meetings and events organized by a chapter. This form seems to have several sections, including member information, meeting details, ratings, and detailed feedback. It appears to be designed to collect feedback on various aspects of the meeting, including clarity of the agenda, time management, member engagement, and the overall experience. This form will help the chapter understand areas of improvement and make informed decisions for future events. Before submitting this form, please ensure that your feedback is honest and fair, and that you have filled out all required fields.</thinking>
-
 # Chapter Review Feedback Form - Help Guide
 ## Purpose
 The Chapter Review Feedback Form is a tool used to gather feedback from chapter members on their experience at a meeting or event organized by the chapter. This form helps the chapter understand what went well and what can be improved for future events.

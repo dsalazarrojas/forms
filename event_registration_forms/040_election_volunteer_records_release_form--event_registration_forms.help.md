@@ -1,10 +1,3 @@
-<thinking>
-This form is used to track and record information about election volunteers, including their role, hours worked, and contact information. This form helps to keep track of volunteer status and hours worked for each volunteer. It's essential to complete this form accurately and truthfully, as it will help the event organizers manage volunteer records effectively. Please note that some fields are optional and may not be required in all circumstances.
-
-This guide will walk you through each field of the form to help you understand what information is required and how to input it correctly.
-
-</thinking>
-
 # Election Volunteer Records Release Form - Help Guide
 
 ## Purpose

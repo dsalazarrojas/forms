@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to ensure that users understand the purpose and requirements of the Expense Allowance Adjustment Application Form. It's crucial to verify that this form is being used for its intended purpose and not duplicated or submitted without proper justification.
-</thinking>
-
 # Expense Allowance Adjustment Application Form - Help Guide
 ## Purpose
 This form is used to adjust expense allowances for reimbursement. It's essential to fill it out for legitimate reasons, such as correcting previous reimbursements or requesting changes to existing policies.

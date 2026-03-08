@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for event registration for real estate open houses. The form will help event organizers gather necessary information about the event, including name, location, dates and times, addresses, contact details, and other relevant details that can be used to promote or manage the event.
-The form is likely used internally within the company to keep track of events, or it may be used for public submission by real estate agents to advertise their open houses.
-This form's purpose is likely to gather event details in a standardized format for internal record-keeping and communication.
-The form should not be a part of a larger application or complex workflow, so there's no need for complex instructions.
-</thinking>
-
 # real_estate_open_house_checklist_form - Help Guide
 ## Purpose
 This form is used to collect information about real estate open houses.

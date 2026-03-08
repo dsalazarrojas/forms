@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect feedback from donors about their experiences with the organization. This form will help the organization understand what they are doing well and what they can improve on. To confirm that the form is relevant and not a duplicate for the end user, it can be checked that the user has not previously filled this form, or if they have, then they will be prompted to fill the form again after some time has passed.
-
-</thinking>
-
 # Donor Feedback Survey - Help Guide
 ## Purpose
 The Donor Feedback Survey form is designed to collect feedback from donors about their experiences with the organization. This form will help the organization understand what they are doing well and what they can improve on.

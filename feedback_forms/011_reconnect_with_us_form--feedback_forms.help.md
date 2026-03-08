@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that our team is able to reconnect with users who were unable to complete their previous interactions. This form allows us to gather information from users to improve our services and products.
-
-To prevent data duplication, this form should only be filled out by users who have not filled out this form in the past 30 days.
-</thinking>
-
 # Reconnect_with_us_form - Help Guide
 ## Purpose
 This form is designed to help us reconnect with users who were unable to complete their previous interactions. It's a crucial piece of feedback that helps us understand how to improve and better serve our users.

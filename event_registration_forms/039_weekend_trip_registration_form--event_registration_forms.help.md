@@ -1,13 +1,3 @@
-<thinking>
-This form was created to collect registration information for a weekend trip. The form is meant to be filled out by participants to provide details about themselves and their preferences for the trip. This form is not affiliated with, endorsed by, or derived from any form platform. 
-
-The form consists of three pages, each with its own set of fields. The first page, "Weekend Trip Registration Form", is the main form where participants can provide their details. The second page, "Participant Details", is meant to collect specific details about the participant, such as their name and contact information. The third page, "Preferences", is meant to collect preferences of the participant, such as food allergies and any special requests. 
-
-The form can be completed in any order, but it is recommended to fill it out in the order of the pages. 
-
-Please note that the form is not required, and participants can choose to complete it or not.
-</thinking>
-
 # Weekend Trip Registration Form - Help Guide
 ## Purpose
 The Weekend Trip Registration Form is a form designed to collect registration information for a weekend trip.

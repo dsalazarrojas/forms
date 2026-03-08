@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from QCM (Quality Control Metrics) developers. The purpose of this form is to gather information about the satisfaction of the developers with the QCM system and identify areas for improvement. This form will help developers provide their opinions and suggestions, which can be used to make informed decisions about the development and maintenance of the QCM system. To ensure that the feedback is relevant and accurate, we are asking developers to complete this form only once. Please use this form to provide your feedback, and do not submit multiple responses.
-</thinking>
-
 # QCM Developer Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from QCM (Quality Control Metrics) developers. The purpose of this form is to gather information about the satisfaction of the developers with the QCM system and identify areas for improvement.

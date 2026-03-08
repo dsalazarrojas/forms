@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for collecting feedback from users about properties, likely to be used for property management or real estate related tasks. The form will be used to gather information from users about specific properties, such as property names, addresses, feedback, and other relevant details. Before submitting the form, ensure that the submitted feedback is accurate and not duplicative, to avoid wasting time and effort in reviewing unnecessary submissions. 
-
-</thinking>
-
 # Property Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback about properties from users. It's an essential tool for property managers, realtors, or administrators to gather information and insights about properties they handle.

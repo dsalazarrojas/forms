@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for tracking outstanding payments. It may be part of a larger system for managing financial records or for monitoring progress on specific payments. The purpose is to capture details about outstanding payments and their corresponding payer information.
-</thinking>
-
 # outstanding_payment_tracker - Help Guide
 ## Purpose
 The outstanding_payment_tracker form is used to track outstanding payments. You can use this form to record and manage details about pending and overdue payments.

@@ -1,7 +1,3 @@
-<thinking>
-This form, "free_health_checkup_donation_form", is designed to collect information from donors and event organizers to facilitate donations and event participation. It will help track donor data, event information, and payment details. This form should only be completed by authorized users, and the collected data should not be duplicated or misused. Please ensure to fill in all required fields carefully and accurately.
-</thinking>
-
 # free_health_checkup_donation_form - Help Guide
 ## Purpose
 This form collects information from donors and event organizers for donations and events.

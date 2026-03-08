@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to generate a feedback form for productions. It's designed to collect information about a production, including the name of the producer, production date and time, team name, team members, issue description, and feedback message. The form is intended to be used internally, and its purpose is to gather feedback from individuals who have experienced issues with a production. To confirm, this form is not affiliated with, endorsed by, or derived from any form platform, and it's released under the Creative Commons BY 4.0 license.
-</thinking>
-
 # Production Feedback Form - Help Guide
 ## Purpose
 The Production Feedback Form is designed to collect information about a production and gather feedback from individuals who have experienced issues with it. This form is meant to be completed by those who have had problems with a specific production and wish to inform the team about the issue.

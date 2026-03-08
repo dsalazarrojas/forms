@@ -1,5 +1,3 @@
-<thinking>...This form is a feedback form designed to collect input from press and media outlets. Its primary purpose is to gather comments, feedback, or other media-related information from users. The form was created based on public survey topic metadata and is an original adaptation, not affiliated with or derived from any other form platform. To ensure accurate and efficient completion, this guide explains each field's purpose and requirements...</thinking>
-
 # press_comment_request_form - Help Guide
 ## Purpose
 This form is for press and media outlets to provide comments, feedback, or other media-related information. It is not required, but please fill it out to help us better understand your concerns or suggestions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for creative professionals to provide feedback on their experience with a given project. It is recommended to fill out this form only after completion of a project. Filling out this form will help our team better understand their work and improve on future projects. Please ensure you don't fill out this form multiple times for the same project.
-</thinking>
-
 # Creative Project Follow Up Form - Help Guide
 
 ## Purpose

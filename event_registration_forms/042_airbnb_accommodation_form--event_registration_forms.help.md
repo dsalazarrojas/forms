@@ -1,7 +1,3 @@
-<thinking>
-This form is used for guest registration and accommodation purposes. It's intended for capturing relevant information for hosting guests in an Airbnb-style accommodation. This form likely doesn't need to be filled out by users if they're not guests, or if the information is already known to the accommodation host. The fields are designed to be straightforward and easy to understand, and each one has a specific purpose in mind.
-</thinking>
-
 # Airbnb Accommodation Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from guests for their stay at your accommodation. Please fill out this form to ensure a smooth and enjoyable experience for both you and your guest.

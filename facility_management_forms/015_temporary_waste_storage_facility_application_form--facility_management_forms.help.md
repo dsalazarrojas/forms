@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information about a Temporary Waste Storage Facility. The purpose of this form is to gather details about the facility's capacity, location, and contact information to help the facility management team manage and monitor the facility's operations. This form should only be filled out by authorized personnel with the necessary permissions. Please note that the form may be duplicated if it's already been filled out previously.
-
-</thinking>
-
 # Temporary Waste Storage Facility Application Form - Help Guide
 ## Purpose
 The Temporary Waste Storage Facility Application Form is used to collect information about a Temporary Waste Storage Facility. This form is used to gather details about the facility's capacity, location, and contact information.

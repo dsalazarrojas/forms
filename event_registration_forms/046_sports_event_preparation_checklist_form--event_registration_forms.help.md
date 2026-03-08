@@ -1,10 +1,3 @@
-<thinking>
-This help guide is for the "sports_event_preparation_checklist_form" form, which is designed to help event organizers prepare for a sports event by collecting relevant details about the event, venue, staff, equipment, emergency contact, security, certification, insurance, medical services, and waste disposal. This form is meant for internal use and is not affiliated with any specific platform or organization.
-
-To ensure the form serves its purpose and does not duplicate efforts, please only submit the information relevant to your event. If you have already completed a similar form, please review the fields carefully to avoid unnecessary duplication.
-
-</thinking>
-
 # sports_event_preparation_checklist_form - Help Guide
 ## Purpose
 The "sports_event_preparation_checklist_form" is a checklist designed to gather essential information for event organizers to prepare for a sports event. It includes fields for event details, venue, staff, equipment, emergency contact, security, certification, insurance, medical services, and waste disposal.

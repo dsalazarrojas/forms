@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from workshop participants about their experience with the speaker and the session, allowing us to evaluate and improve our workshop offerings.
-This form should only be used by workshop participants who have attended a session.
-Please ensure that you're providing feedback for the correct workshop session, as it will only be associated with that specific session.
-This guide is intended to help you complete the form correctly, making sure your feedback is as helpful and accurate as possible.
-</thinking>
-
 # Workshop Speaker Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from workshop participants about their experience with the speaker and the session they attended. Your input will help us evaluate and improve our workshop offerings.

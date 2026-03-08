@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from Returns Coordinators on their workflow and processes. It's crucial to ensure that the form is completed by the relevant person and not duplicated. The purpose of this form is to help us understand the effectiveness of our current processes and make data-driven decisions to improve them. Before completing the form, please review your current workflows and ensure that you haven't already provided feedback on the same topic in the past.
-</thinking>
-
 # Returns Coordinator Feedback Form - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking> 
-This form is designed to gather feedback and information from users about tuition and fundraising efforts. It's intended to be used by administrators or managers to collect data on specific aspects of their nonprofit's operations. The form is likely to be part of a larger system for tracking and analyzing this data over time.
-
-Before using this form, please note the following: 
-
-- Make sure you are familiar with the fields and their respective types (e.g. text, select_one, number, etc.). Some fields might require numerical input, while others are text or dropdown select options.
-- Ensure you fill in the required fields accurately, and use the provided instructions for guidance.
-- If you're unsure about a particular field, it's okay to ask for help.
-- You can save your progress and come back later if you need to take a break or want to review your answers.
-
-</thinking>
-
 # Tuition And Fundraising Survey - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information on inspirational discussions and experiences that have positively impacted a person's life. It is meant to help individuals share their personal growth stories, motivations, and challenges. Please note that this form is not affiliated with or endorsed by any form platform, and it is generated using only public survey topic metadata. It is released under a Creative Commons license, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-
-This form is suitable for individuals seeking to share their inspirational stories, identify areas of personal growth, and connect with others who have faced similar experiences. It can also be used by coaches, mentors, or educators to help clients or students reflect on their personal growth and development.
-
-To avoid duplication, please fill out this form only once per person. If you have already filled out this form, please do not re-submit.
-
-</thinking>
-
 # Inspirational Discussion Form - Help Guide
 ## Purpose
 This form is designed to collect inspirational discussions and experiences that have positively impacted a person's life. It is meant to help individuals share their personal growth stories, motivations, and challenges.

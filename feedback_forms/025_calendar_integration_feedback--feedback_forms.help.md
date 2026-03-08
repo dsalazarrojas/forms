@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with calendar integrations. The form is intended to gather information on the user's role, the calendar platform(s) they are using, how long they have used the integration, and how often they use it. It also asks about the features they use most, their overall satisfaction with the integration, and whether they have experienced any issues. Additionally, it provides an opportunity for users to suggest improvements and provide feedback on what features are missing.
-The form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Calendar Integration Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with calendar integrations, gathering information on their role, usage, and satisfaction with the integration.

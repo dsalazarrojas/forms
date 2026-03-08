@@ -1,5 +1,3 @@
-<thinking>Before I dive into writing the help guide, I'll clarify a few points about the form design and purpose to ensure I'm on the same page as the form designer.</thinking>
-
 # Worksheet Completion Survey - Help Guide
 
 ## Purpose

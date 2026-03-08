@@ -1,5 +1,3 @@
-<thinking>Given that this form is generated through AI and does not copy or use proprietary content, I can provide a help guide that explains the form's purpose and usage. However, please note that the form's purpose and content seem to be focused on human body-related topics, such as anatomy and health sciences, and it does not appear to be a standard or conventional form for a specific professional or academic setting. This form might be intended for educational or informational purposes only. To confirm, it would be helpful to have more context about the form's intended use or target audience.</thinking>
-
 # Human Body Cavities And Muscle Quiz - Help Guide
 ## Purpose
 The Human Body Cavities And Muscle Quiz is designed to gather information on various aspects of human anatomy and health sciences. The form is intended to provide a platform for users to learn and explore different topics related to the human body, including cavities, muscle locations, and other related subjects.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Farmer Lease Application Form - Help Guide
 
 ## Purpose

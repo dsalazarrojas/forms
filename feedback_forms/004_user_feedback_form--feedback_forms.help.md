@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This user-facing help guide will help end-users understand how to complete and utilize the "User Feedback Form" effectively.
 
 **User Feedback Form - Help Guide**

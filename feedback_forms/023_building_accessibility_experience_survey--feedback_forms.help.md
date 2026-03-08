@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on the accessibility experience of a building or facility. The purpose of this form is to gather information about the accessibility features and limitations of the building, as well as any positive or negative experiences users may have had during their visit. This form will help us understand the effectiveness of our accessibility efforts and identify areas for improvement.
-
-The questions on this form are meant to gather both qualitative and quantitative data. We are looking for both numerical ratings and written feedback to help us better understand the user's experience.
-
-Please note that all questions are optional, except for those marked as "required" which are marked as such.
-
-</thinking>
-
 # Building Accessibility Experience Survey - Help Guide
 ## Purpose
 The Building Accessibility Experience Survey is designed to collect feedback on the accessibility features and limitations of a building or facility. This form is meant to help us understand the effectiveness of our accessibility efforts and identify areas for improvement.

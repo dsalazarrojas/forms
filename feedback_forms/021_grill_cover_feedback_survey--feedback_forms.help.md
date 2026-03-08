@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive feedback survey for a grill cover product, designed to gather various types of information from users. The form includes multiple fields that cater to different aspects of the product, such as performance, satisfaction, and feedback. 
-
-It seems that this form is intended for customers to provide their opinions and ratings on the product, which will help the product development team to improve the product based on the customer feedback. 
-
-Before providing the actual help guide, I would like to check if this form is not duplicating or redundant in any way. However, based on the provided fields, it appears that the form is well-structured and designed to gather comprehensive feedback.
-
-</thinking>
-
 # grill_cover_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers on the grill cover product. It includes fields to rate the product's performance, satisfaction, and other relevant details. Your responses will help us improve the product to better serve your needs.

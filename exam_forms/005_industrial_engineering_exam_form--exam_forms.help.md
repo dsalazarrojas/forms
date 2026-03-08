@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for collecting information related to industrial engineering exams. The fields appear to be focused on capturing exam and student information, which could include details about the exam format, student demographics, and question-related data. It's possible that this form is meant to be used by instructors or administrators to collect relevant data for exam management, student tracking, or academic research purposes. However, without additional context, it's hard to be certain of the form's specific use case.
-</thinking>
-
 # industrial_engineering_exam_form - Help Guide
 ## Purpose
 This form is designed to collect information related to industrial engineering exams.

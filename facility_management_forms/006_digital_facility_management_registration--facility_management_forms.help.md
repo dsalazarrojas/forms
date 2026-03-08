@@ -1,5 +1,3 @@
-<thinking>...this form is likely for users to provide registration information for facilities within an organization's management system. The form may be used to collect details about the facility, its services needs, and registration information. To ensure accuracy and prevent duplication, users may need to be guided on how to fill out the form correctly.</thinking>
-
 # Digital Facility Management Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information for facilities within an organization's management system.

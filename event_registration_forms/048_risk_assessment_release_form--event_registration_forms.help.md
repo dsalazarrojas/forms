@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The risk assessment release form is used to assess and document potential safety risks for a specific event or activity. This form is essential for identifying and mitigating risks, which can help ensure a safe and successful outcome.
 
 Before completing this form, please ensure that you have conducted a thorough risk assessment and have the necessary information to fill it out accurately. This form should not be duplicated for the same event or activity; instead, use the existing risk assessment release form.

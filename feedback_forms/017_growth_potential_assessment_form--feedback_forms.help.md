@@ -1,9 +1,3 @@
-<thinking>...
-
-The form is used to assess the growth potential of a company or employee. This form will help gather information on whether a company or employee has the potential to grow, meet their goals, and have a contact person to follow up with. This form is likely used for internal or external evaluation purposes, such as performance reviews, business planning, or customer satisfaction surveys.
-
-</thinking>
-
 # Growth Potential Assessment Form - Help Guide
 ## Purpose
 

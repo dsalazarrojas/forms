@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for assessing leadership effectiveness in various areas, providing a structured and comprehensive evaluation of a leader's skills and qualities. The goal is to help identify strengths and areas for improvement in leadership performance. Please ensure this form is only completed for evaluation purposes and not for any other reason. Before starting, consider whether this form has been completed for a similar purpose in the past to avoid duplicate evaluations.
-</thinking>
-
 # leadership_effectiveness_questionnaire - Help Guide
 ## Purpose
 The leadership effectiveness questionnaire is designed to measure the proficiency of a leader across various domains, facilitating a thorough assessment of their performance and providing guidance for future development.

@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Avalanche Safety Feedback Form", we need to carefully consider the purpose and requirements of the form. As we understand, the form aims to gather feedback and information from visitors on their experience with avalanche safety during their visit. This feedback will help in identifying potential issues and areas of improvement for the ski area management.
-
-It's crucial to note that the form is designed for visitors, and the information collected will be used to enhance the overall safety and experience for everyone who visits the ski area. Therefore, the form should be clear, concise, and easy to understand, ensuring that visitors can provide accurate and meaningful feedback.
-
-</thinking>
-
 # Avalanche Safety Feedback Form - Help Guide
 ## Purpose
 The Avalanche Safety Feedback Form is designed to gather information from visitors on their experience with avalanche safety during their visit to the ski area. This feedback is essential for ski area management to identify areas of improvement and enhance the overall safety and experience for all visitors.

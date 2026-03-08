@@ -1,7 +1,3 @@
-<thinking>
-The form "Nutritional Counseling Effectiveness Survey" is designed to gather feedback from users on their experiences with nutritional counseling services. This form aims to capture both quantitative and qualitative feedback, providing a comprehensive understanding of the effectiveness of the counseling provided. The survey is likely to be used by healthcare professionals or organizations offering nutritional counseling services to improve their service delivery and user experience. Please note that this form is a generic adaptation and may not be affiliated with any specific form platform or provider.
-</thinking>
-
 # Nutritional Counseling Effectiveness Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback on the effectiveness of nutritional counseling services provided. Your input will help us understand your experiences and improve our services.

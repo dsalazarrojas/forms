@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Submit Your Location For Holiday Carols - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or groups that want to participate in holiday carol singing. The purpose of this form is to gather personal and event details in order to schedule and coordinate carol singing events across various locations. Please ensure you submit your location once, and do not duplicate your request if you have already submitted before.

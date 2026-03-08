@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is for users who want to provide feedback on their delivery experience. The form is designed to collect information about their delivery experience, including timeliness, communication, product condition, and overall rating. This form will help the delivery team understand where they can improve their services and provide better experiences for users in the future.
-
-To ensure that the form is completed correctly and efficiently, please read this guide carefully.
-
-</thinking>
-
 # dreams_delivery_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback on your delivery experience. We value your opinion and would like to know how we can improve our services to better meet your needs.

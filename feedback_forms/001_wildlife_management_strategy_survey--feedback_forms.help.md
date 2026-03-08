@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is only filled out by people who are genuinely interested in providing feedback on the wildlife management strategy survey. To this end, we should check that the form is not submitted more than once by a single user, and we need to verify that users are not attempting to game the system by selecting all options in the "wildlife_policies" and "conservation_plans" fields. This could be achieved by setting a unique user ID for each submission and tracking user input, and by implementing a validation check to ensure that at least one option is selected in both fields.
-</thinking>
-
 # Wildlife Management Strategy Survey - Help Guide
 
 ## Purpose

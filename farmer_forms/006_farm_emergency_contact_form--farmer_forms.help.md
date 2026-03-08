@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's emergency contacts in case of an unforeseen situation, such as a farm emergency or incident. This form is intended to help the farm management team quickly gather essential information about who to contact and how to reach them during an emergency. The farm staff and management will be using this form to store and reference this information, so the accuracy and completeness of the data is crucial.
-
-The farm management team will be using this form to identify and record an individual's emergency contact information. By completing this form, you will be providing the farm with a vital lifeline in case of an emergency. The information collected will be used to notify and contact emergency contacts in a timely and efficient manner. 
-
-This form is not intended to be used for other purposes such as scheduling appointments or sending general notifications.
-
-Before filling out this form, please ensure that you have the necessary permissions or authorizations to complete it for the individual. If you're unsure or have questions, please reach out to the farm staff for clarification.
-
-</thinking>
-
 # Farm Emergency Contact Form - Help Guide
 
 ## Purpose

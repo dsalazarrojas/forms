@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide feedback on wine and meal experiences. It allows users to select whether or not they had wine and meal, rate their experience, and leave a comment. It also gathers information on the specific date and time of the experience, as well as contact details such as email and phone number. The form is not mandatory, meaning users can choose to skip any of these fields if they do not apply. This form may be duplicated in the future if the same type of feedback is requested multiple times.
-</thinking>
-
 # Wine And Meal News - Help Guide
 ## Purpose
 This form is designed to gather feedback on wine and meal experiences. It's meant to be a simple and concise way to collect information on whether users had wine and meal, their rating, and any comments they might have.

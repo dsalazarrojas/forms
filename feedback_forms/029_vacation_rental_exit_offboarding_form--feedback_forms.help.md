@@ -1,12 +1,3 @@
-<thinking>
-This form is used for the end user to document the status of a vacation rental exit. The form should only be used for vacation rentals that are exiting the system and not for new check-in or other status updates. The fields are designed to capture the necessary information to accurately reflect the status of the vacation rental. 
-
-The form should not be used in conjunction with other forms, and the fields should not be filled out if they are already filled out in other forms. 
-
-The form is used to capture information at the time of exit, and it is used for tracking and reporting purposes.
-
-</thinking>
-
 # Vacation Rental Exit Offboarding Form - Help Guide
 ## Purpose
 The Vacation Rental Exit Offboarding Form is used to document the status of a vacation rental exit. This form should only be used when a vacation rental is exiting the system.

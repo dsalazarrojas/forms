@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form to help employees evaluate the usability of our company's productivity tool. This form will help us collect feedback and suggestions from employees, allowing us to identify areas for improvement and make the tool more user-friendly. It's essential to keep in mind that this form is not affiliated with any specific form platform, and the data collected will be used solely for internal purposes. Please make sure to fill out the form honestly and thoroughly, and do not duplicate your feedback. Your input is invaluable in helping us create a better work environment.
-</thinking>
-
 # Employee Productivity Tool Usability Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions from employees on the usability of our company's productivity tool. Your input will help us identify areas for improvement and make the tool more user-friendly.

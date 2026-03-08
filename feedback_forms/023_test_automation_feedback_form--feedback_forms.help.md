@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and comments from users about their experience using a specific set of automated testing processes. The fields in this form are meant to elicit detailed thoughts and opinions on the user's perception of the test automation experience. This form is likely to be used by test automation teams or product managers to gather insights on how to improve their testing processes and user experience. It is possible that this form is part of a larger feedback system, where responses are collected and analyzed to identify areas for improvement. To avoid duplication of responses, it's recommended to fill out the form only once, with the most honest and detailed account of your experience.
-</thinking>
-
 # test_automation_feedback_form - Help Guide
 ## Purpose
 This form is designed to gather feedback and comments from users about their experience using a specific set of automated testing processes.

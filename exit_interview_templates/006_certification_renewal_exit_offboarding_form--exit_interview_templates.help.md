@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect important information from employees who are exiting the organization. It helps to ensure a smooth transition of their responsibilities and certifications, and provides an opportunity for the employee to provide feedback on their experience and suggestions for improvement. This form should only be completed by employees who are officially leaving the organization, not by those who are on a temporary leave or who are simply transferring to another department within the organization. Please confirm that you are eligible to complete this form before proceeding.
-
-Before starting, make sure you have all the necessary information and materials ready, such as your physical certificates and any relevant documentation. This form is typically submitted to HR upon completion.
-
-To complete this form accurately and efficiently, we recommend that you:
-
-* Answer each question as truthfully and thoroughly as possible.
-* Review each section carefully to ensure that you provide all the necessary information.
-* Double-check your dates and selections for accuracy.
-* Proofread your submissions before finalizing the form.
-</thinking>
-
 # Certification Renewal Exit Offboarding Form - Help Guide
 ## Purpose
 This guide will walk you through the sections and fields of the Certification Renewal Exit Offboarding Form.

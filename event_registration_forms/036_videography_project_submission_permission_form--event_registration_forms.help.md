@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their videography projects, including project name, description, location, and other relevant details. The purpose of this form is to gather essential data for project management and to ensure that clients have provided the necessary permissions and agreements to proceed with their project. This form is intended to be completed by the client or their representative, and it is a critical step in the project submission process.
-</thinking>
-
 # videography_project_submission_permission_form - Help Guide
 ## Purpose
 

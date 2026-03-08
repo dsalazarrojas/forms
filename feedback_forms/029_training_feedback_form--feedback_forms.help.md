@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # training_feedback_form - Help Guide
 ## Purpose
 The "training_feedback_form" is a form designed to gather feedback from users about their training experience. It allows users to provide their thoughts and opinions about the training program, which helps us improve our services.

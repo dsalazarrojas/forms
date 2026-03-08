@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow users to submit questions and receive answers. This form is designed to be a simple and efficient way to collect feedback and inquiries from users. It is not affiliated with or endorsed by any form platform, and its content was generated using public metadata from a survey topic.
-
-To avoid duplication of effort, please ensure that you are not using this form for commercial purposes, and always give credit to the original author if you choose to modify or distribute the form.
-
-</thinking>
-
 # frequently_asked_questions_faq - Help Guide
 ## Purpose
 This form is designed to collect feedback and inquiries from users in an efficient and user-friendly way.

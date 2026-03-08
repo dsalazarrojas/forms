@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to request and submit a performance diagnostic review on a colleague or team member. It's used to gather feedback on performance, suggestions, and comments from the reviewer, which will be shared with the reviewee. To prevent duplication, this form should only be submitted if the reviewer and reviewee are different individuals or teams.
-</thinking>
-
 # Performance Diagnostic Review Request Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from parents on the school's communication strategy. The form is intended to gauge the effectiveness of the communication channels used by the school to keep parents informed and engaged. The form is meant to be completed by parents who have had interactions with the school through various channels such as emails, text messages, phone calls, or in-person meetings. By completing this form, parents can provide valuable insights that will help the school to refine its communication strategy and improve its services.
-
-</thinking>
-
 # School Communication Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from parents on the school's communication strategy, helping the school to identify areas of improvement and ensure that parents are effectively informed and engaged.

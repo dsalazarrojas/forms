@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contact Page Blue And Responsive - Help Guide
 ## Purpose
 This form is designed for users to provide contact information, including their name, email, phone number, and other relevant details, to initiate contact with the organization. The form also allows users to select a topic of inquiry and an urgency level for the contact.

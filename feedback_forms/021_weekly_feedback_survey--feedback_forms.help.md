@@ -1,11 +1,3 @@
-<thinking>
-
-We are creating a form to collect weekly feedback from customers. This form will be used to gather information from users about their experiences with our organization. Please note that this form is designed to be a general-purpose feedback survey, and its content is not specific to any particular product or service.
-
-Before starting, please ensure that you have not filled out this form before, as we want to gather diverse feedback from different individuals. If you have filled out this form in the past, you can still provide your feedback, but please be aware that your previous responses will not be taken into account.
-
-</thinking>
-
 # weekly_feedback_survey - Help Guide
 ## Purpose
 The weekly_feedback_survey form is designed to collect feedback from customers about their experiences with our organization on a weekly basis.

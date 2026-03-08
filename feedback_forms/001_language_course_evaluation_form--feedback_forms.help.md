@@ -1,8 +1,3 @@
-<thinking>
-The form "Language Course Evaluation Form" is designed to collect feedback from students about their experience with a language course, which helps instructors and course administrators assess the quality of the course and make data-driven decisions to improve it. By providing feedback on various aspects of the course, such as materials, facilities, and teacher support, students can contribute to creating a better learning environment. This form is an essential tool for students, teachers, and school administrators to evaluate and improve the course offerings.
-Please ensure that you're providing feedback about the specific course you've taken.
-</thinking>
-
 # Language Course Evaluation Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Sports Parent Communication Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from parents of youth athletes on how effectively you are communicated with by your child's team or league. The information collected will help sports organizations and coaches tailor their communication approach to better engage with parents and provide a more satisfying experience for everyone involved. 

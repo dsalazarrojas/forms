@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from attendees for the Brand Collaboration Reception. It's essential that you understand its purpose and the required fields. This form should not be filled out if you have already registered for the same event or are not attending. Please review each section carefully to ensure a smooth completion process.
-</thinking>
-
 # Brand Collaboration Reception RSVP - Help Guide
 ## Purpose
 

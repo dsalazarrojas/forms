@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure the correct understanding of the form's purpose, I'll provide a brief internal reasoning block to clarify the context and requirements for this "Beef Cut Order Form". The form is designed to gather information from customers who are interested in placing an order for beef products. It is intended for customers who want to specify their preferences for the cut and type of beef they want, as well as their desired packaging and delivery method. The form will guide the customer through selecting their preferences for various aspects of their order, including the type of beef, cut preference, and packaging method. It is also designed to collect demographic information for the customer, such as their name, email, and phone number. The form will help the customer to submit their order and provide any additional information they may need to complete the transaction. This form is part of a larger system for managing orders and providing customer service.
-</thinking>
-
 # Beef Cut Order Form - Help Guide
 ## Purpose
 The "Beef Cut Order Form" is a tool for customers to place orders for beef products, specifying their preferences for cut, type, and packaging. This form is designed to guide customers through the ordering process and gather relevant information for order fulfillment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photography Club Attendance Form - Help Guide
 ## Purpose
 The Photography Club Attendance Form is designed to track the attendance of members at club meetings. It helps the club administrators to keep a record of who attended a meeting, which is useful for organizing events, sending out reminders, and getting feedback from attendees.

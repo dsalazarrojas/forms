@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pickup Stage Survey - Help Guide
 ## Purpose
 The Pickup Stage Survey is designed to collect feedback from customers about their experience with our services. This survey is used to measure customer satisfaction and identify areas for improvement.

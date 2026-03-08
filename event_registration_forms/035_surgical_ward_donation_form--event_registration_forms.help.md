@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this surgical ward donation form is to collect information from donors regarding their donations. This form helps to ensure that the donor's identity, contact, and donation details are captured accurately. The form is crucial for processing and tracking donations efficiently.
-It is essential to ensure that this form is filled out correctly to avoid any errors or duplication of effort. Before proceeding, please review the form carefully to ensure that you have provided accurate information.
-</thinking>
-
 # surgical_ward_donation_form - Help Guide
 ## Purpose
 This form is designed to collect information from donors, including their personal details, contact information, and donation specifics. It is crucial for processing and tracking donations accurately.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients about their experience with the healthcare services provided by the institution. It's essential to complete this form to help us understand the quality of care you received and identify areas for improvement. Please ensure that you are providing feedback on a specific visit or experience with our healthcare services, and not on a general topic. If you have already submitted feedback on this visit, please do not complete this form again.
-</thinking>
-
 # Healthcare Experience Review Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from patients about their experiences with our healthcare services. We use this feedback to understand what we do well and what we can improve on to provide better care for our patients.

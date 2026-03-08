@@ -1,16 +1,3 @@
-<thinking> 
-The purpose of this form is to collect feedback from individuals on their experience with the organization's accessibility features, services, or environment. This form aims to identify areas of improvement and understand the respondent's relationship to the organization, their age group, and their disability status. The form collects data on accessibility awareness, digital, physical, and communication accessibility, as well as barriers and challenges faced by individuals. It also asks about staff knowledge, accommodation request process, and accommodation importance. The form is designed to be completed by various types of respondents, including employees, customers, visitors, students, patients, community members, and others.
-
-The form has 20 questions, with most being multiple-choice questions that aim to gauge the respondent's opinion on various aspects of accessibility. The questions cover different areas, including disability status, accessibility awareness, physical environment, digital accessibility, communication accessibility, barriers, staff knowledge, accommodation request process, and priority recommendations.
-
-Please ensure that you are answering honestly and to the best of your knowledge. Your feedback will help improve accessibility features and services within the organization. If you have any additional comments or suggestions, please include them in the "Additional Feedback" section.
-
-If you are not sure about any of the questions or have any concerns, please do not hesitate to ask for clarification or assistance. Your feedback is valuable and will be treated with confidentiality and respect.
-
-Please complete the form carefully and accurately, and thank you for your participation.
-
-</thinking>
-
 # Accessibility Initiative Survey Form - Help Guide
 ## Purpose
 The purpose of this survey is to collect feedback on accessibility features and services within the organization. The survey aims to understand your experience, identify areas of improvement, and gather recommendations for making the organization more accessible.

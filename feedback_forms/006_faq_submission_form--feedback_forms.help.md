@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and questions from users, allowing them to submit their concerns and suggestions. This form is intended to gather information about user experiences, pain points, and ideas for improvement. It's essential to submit this form only when you have a genuine inquiry, suggestion, or problem you'd like to report, as the information is used to enhance the product and services offered.
-
-To minimize duplication, please ensure you're not submitting the same issue or suggestion that's already been reported. If you're unsure whether your issue or suggestion has been addressed, check the "FAQs" section or contact our support team for clarification.
-
-</thinking>
-
 # faq_submission_form - Help Guide
 ## Purpose
 The faq_submission_form is designed to collect feedback, questions, and suggestions from users. This form serves as a channel for users to share their experiences, report issues, and propose ideas for improvement.

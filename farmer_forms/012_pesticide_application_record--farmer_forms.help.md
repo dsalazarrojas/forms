@@ -1,12 +1,3 @@
-<thinking> 
-To determine the purpose of this form, let's analyze the provided YAML fields. The form is titled "Pesticide Application Record" which suggests that it is used to document or record information related to pesticide applications. The fields provided include "Application Date", "Applicator Name", "Location", "Product", "Application Type", "Treated Area", "Conditions", and "Notes". These fields can be used to store information about the date of the pesticide application, the person who applied it, where it was applied, the type of product used, the type of application, the area treated, and any conditions related to the application. This form is likely used for record-keeping and reporting purposes.
-
-Considering the fields, it's likely that this form is not intended for real-time data entry but rather for recording and storing historical data. The fields are mostly text-based, which suggests that they are for storing descriptive information rather than numeric or calculated data. The optional nature of most fields also suggests that this form is meant to be filled out in a non-mandatory way, possibly for reference or auditing purposes.
-
-Given these observations, the form purpose seems to be to store pesticide application records for future reference, reporting, or auditing.
-
-</thinking>
-
 # Pesticide Application Record - Help Guide
 ## Purpose
 The "Pesticide Application Record" form is used to store and document information related to pesticide applications. This form is meant to record the details of each application for future reference, reporting, or auditing purposes.

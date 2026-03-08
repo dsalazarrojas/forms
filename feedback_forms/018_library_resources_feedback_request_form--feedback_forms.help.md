@@ -1,8 +1,3 @@
-<thinking>
-To prevent duplicates and ensure the form is used correctly, please note that this form is for providing feedback on library resources. It's meant to gather information about your experience with specific library resources, such as books, articles, and media. Before submitting, please make sure you haven't already provided feedback on the same resource. Your feedback is essential in helping us improve our library resources for everyone's benefit.
-
-</thinking>
-
 # Library Resources Feedback Request Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on library resources, such as books, articles, and media. Your feedback will help us identify areas of improvement and better serve the community.

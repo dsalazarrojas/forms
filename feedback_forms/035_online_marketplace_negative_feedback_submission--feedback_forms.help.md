@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help users understand the online marketplace feedback submission form, we should explain that the form's purpose is to collect feedback from users on their negative experiences with the marketplace. This feedback will help us to identify and fix issues, improve the user experience, and provide better services.
 
 The form is designed to be filled out by users who have had a negative experience with the marketplace and want to report it. We will only accept feedback from users who have a genuine reason to report an issue, and we will not tolerate abusive or spammy feedback. We aim to make sure that all feedback is genuine and helpful for us to improve the marketplace.

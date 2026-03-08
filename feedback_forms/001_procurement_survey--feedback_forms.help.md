@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form appears to be a feedback mechanism for procurement, allowing users to rate and comment on the quality of goods or services procured. To confirm, I will create a help guide based on the provided YAML structure.
 
 # procurement_survey - Help Guide

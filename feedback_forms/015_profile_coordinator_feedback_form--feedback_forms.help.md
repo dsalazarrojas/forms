@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Profile Coordinator Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from profile coordinators, allowing us to gauge their experience with our services and identify areas for improvement. Please fill out this form to provide your honest feedback, and help us make our services better for everyone.

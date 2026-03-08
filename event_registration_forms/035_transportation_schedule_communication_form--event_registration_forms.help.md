@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transportation Schedule Communication Form - Help Guide
 ## Purpose
 This form is used to communicate transportation schedules to users. It is designed to provide a convenient way to share transportation information with colleagues, customers, or other stakeholders.

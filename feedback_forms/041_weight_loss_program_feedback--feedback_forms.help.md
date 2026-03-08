@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weight Loss Program Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants of the weight loss program. It aims to understand how you experienced the program, what you liked or disliked, and what we can do to improve it. Your input will help us refine the program to better meet your needs.

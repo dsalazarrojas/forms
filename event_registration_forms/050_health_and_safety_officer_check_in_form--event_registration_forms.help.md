@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health And Safety Officer Check In Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Electric Motorcycle Feedback Form, I need to first understand the internal reasoning behind this form. Based on the YAML configuration, it seems this form is designed to gather user feedback on electric motorcycles. It appears to be a comprehensive form that asks for various details such as name, email, feedback, rating, motorcycle type, color, and transmission. The form likely aims to collect structured feedback for electric motorcycle owners, riders, or potential customers. It might be used for market research, product development, or customer satisfaction analysis. However, without further context, it's hard to confirm the exact purpose. It's essential to ensure this form isn't a duplicate or unnecessary for the intended audience. I will proceed with creating the help guide based on the provided information.
-</thinking>
-
 # Electric Motorcycle Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from electric motorcycle users. Your input will help us improve our electric motorcycle models and services.

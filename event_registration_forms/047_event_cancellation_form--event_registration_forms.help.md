@@ -1,11 +1,3 @@
-<thinking>
-This form is used in a business setting to handle event cancellations. The purpose of this form is to collect information from users who need to cancel an event, allowing the event organizers to process the cancellation and refund (if applicable) in a structured and efficient way.
-
-The form is likely to be used by both event attendees and event organizers to report cancellations, and it is designed to be filled out by one person at a time.
-
-The form is likely used in a business-to-business or business-to-consumer context.
-</thinking>
-
 # Event Cancellation Form - Help Guide
 ## Purpose
 The Event Cancellation Form is used to report event cancellations, allowing event organizers to process the cancellation and refund (if applicable) in a structured and efficient way.

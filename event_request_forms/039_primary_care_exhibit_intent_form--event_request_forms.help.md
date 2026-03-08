@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Primary Care Exhibit Intent Form - Help Guide
 ## Purpose
 The Primary Care Exhibit Intent Form is used to capture information from exhibitors about their exhibit's purpose, focus areas, and availability. This form helps event planners understand the exhibitor's intentions and ensure that their needs are met during the event.

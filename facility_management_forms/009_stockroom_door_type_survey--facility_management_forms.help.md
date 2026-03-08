@@ -1,5 +1,3 @@
-<thinking>As this form is used to collect information about stockroom performance, condition, and access, it seems to be related to facility management. The form might be used by facilities management staff or maintenance teams to assess the condition and accessibility of stockroom doors, and provide recommendations for improvement. This form could be part of a larger process for maintaining and improving facilities. It's likely that the form will be used to track and analyze data, and possibly identify areas for improvement. It might also be used for reporting and documentation purposes. The form appears to be quite comprehensive, covering various aspects of stockroom performance, from door type to access and comments.</thinking>
-
 # Stockroom Door Type Survey - Help Guide
 ## Purpose
 This form is used to collect information about the condition and accessibility of stockroom doors, as well as provide comments and recommendations for improvement.

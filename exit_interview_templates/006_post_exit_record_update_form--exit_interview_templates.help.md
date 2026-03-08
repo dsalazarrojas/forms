@@ -1,11 +1,3 @@
-<thinking>
-This form is used to update post-exit records after an employee has left the company. The purpose of this form is to gather information about the employee's departure, such as their reason for leaving, the date of their departure, and any follow-up actions that were taken. This form should only be used to update records for employees who have already left the company and not to create new records for employees who are still active.
-
-The form is divided into multiple pages, but all the fields are on the same page. Before filling out this form, please review the entire page and ensure that you are not duplicating information.
-
-When filling out this form, please make sure to follow the instructions below.
-</thinking>
-
 # Post Exit Record Update Form - Help Guide
 ## Purpose
 This form is used to update post-exit records after an employee has left the company. The purpose of this form is to gather information about the employee's departure, such as their reason for leaving, the date of their departure, and any follow-up actions that were taken.

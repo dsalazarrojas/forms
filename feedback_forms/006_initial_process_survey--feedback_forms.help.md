@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Initial Process Survey - Help Guide
 
 ## Purpose

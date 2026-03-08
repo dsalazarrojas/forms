@@ -1,8 +1,3 @@
-<thinking> 
-The National Sports Combine Registration form is designed for athletes to sign up for the National Sports Combine event. The form requires a series of personal and event-related information from the athlete. The purpose of this form is to gather necessary details for the event's planning and execution. This information includes the athlete's contact details, emergency contact information, sports participation, event date and time, and other relevant details. This form is a one-page registration form, making it easy to fill out. The form is required to be completed in its entirety to ensure accurate and complete information for the event's planning and execution.
-
-</thinking>
-
 # National Sports Combine Registration - Help Guide
 ## Purpose
 This form is designed for athletes to register for the National Sports Combine event. It's a one-page registration form that captures necessary information for the event's planning and execution.

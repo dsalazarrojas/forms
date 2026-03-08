@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about the e_slam_book service. It's designed to gather information on users' experiences with the service, including their name, contact details, and feedback on specific questions. This form is optional and is intended to help us understand how we can improve the service.
-
-To avoid duplication, this form is only accessible to users who have already interacted with the e_slam_book service.
-
-Please note that the form is not designed for data entry, and the data collected will not be used for any other purpose than improving the e_slam_book service.
-
-</thinking>
-
 # e_slam_book - Help Guide
 ## Purpose
 The e_slam_book form is designed to collect feedback from users about their experience with the e_slam_book service. This feedback will help us understand how to improve the service.

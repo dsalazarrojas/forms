@@ -1,9 +1,3 @@
-<thinking>
-This form, "pricing_estimation_survey", is a feedback collection tool that allows users to provide their ratings and feedback on pricing-related topics. This form is designed to collect data on user perceptions of prices, which will be used internally to improve pricing strategies.
-Before you begin, make sure you have completed this form previously and do not duplicate your feedback.
-Please ensure you are rating each section honestly and accurately based on your personal experience.
-</thinking>
-
 # pricing_estimation_survey - Help Guide
 ## Purpose
 The "pricing_estimation_survey" form is designed to collect user feedback on pricing-related topics, helping us understand your perceptions and improve our pricing strategies.

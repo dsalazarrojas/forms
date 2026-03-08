@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from customers regarding their experiences with a retail challenge, which could be a promotion or event held by a retail store. The purpose of this form is to gather information from customers about their satisfaction with the challenge, their contact information, and any feedback they may have about the challenge or future follow-up actions. 
-
-It is recommended to complete this form only once, when submitting feedback for a specific retail challenge.
-
-</thinking>
-
 # Retail Challenge Feedback Survey - Help Guide
 ## Purpose
 The Retail Challenge Feedback Survey is a form designed to collect feedback from customers about their experiences with a retail challenge. This form will help us understand customer satisfaction and help us improve future retail challenges.

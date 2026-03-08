@@ -1,11 +1,3 @@
-<thinking>
-
-To begin with, the Chromatography Event Registration form is a tool used to collect information from attendees who wish to register for a chromatography-related event. This form should only be used for the specific purpose of registering for an event, and not for other purposes. 
-
-To avoid duplication of effort, please do not use this form for other purposes such as creating new users, editing existing users, or for any other tasks outside the scope of event registration.
-
-</thinking>
-
 # Chromatography Event Registration - Help Guide
 ## Purpose
 The Chromatography Event Registration form is a tool used to collect information from attendees who wish to register for a chromatography-related event. This form will guide you through the necessary steps to complete your event registration.

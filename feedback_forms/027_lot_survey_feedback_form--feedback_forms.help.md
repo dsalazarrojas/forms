@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for collecting feedback from users on a specific lot survey. The purpose of this form is to gather information about the condition of the lot, comments, rating, date, time, contact information, surveyor and developer involvement, and other relevant details. This form is likely used in a real estate or construction context where users need to provide feedback on the survey process.
-Before filling out this form, please ensure that you have all necessary information and authorization to provide feedback. To avoid duplication, only provide feedback on one lot at a time.
-</thinking>
-
 # Lot Survey Feedback Form - Help Guide
 ## Purpose
 The Lot Survey Feedback Form is used to collect feedback from users on a specific lot survey. This form is designed to gather information about the condition of the lot, comments, rating, date, time, contact information, surveyor and developer involvement, and other relevant details.

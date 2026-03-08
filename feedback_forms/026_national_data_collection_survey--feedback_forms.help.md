@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from participants about their experience with the organization. The purpose of this form is to gather information about the participant's name, organization, contact email, and feedback. This form is not intended to collect sensitive information such as phone numbers or dates. Please ensure that you are completing this form for the purpose of providing feedback and not for any other reason.
-</thinking>
-
 # National Data Collection Survey - Help Guide
 ## Purpose
 The National Data Collection Survey is designed to collect feedback from participants about their experience with the organization. This form is meant to be completed by participants to provide their thoughts and opinions on specific questions.

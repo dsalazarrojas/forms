@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To provide a clear and comprehensive help guide, let's break down the form's purpose and functionality, and then create the guide based on the given YAML fields.
 
 The "Strength and Confidence Assessment" form seems to be designed for self-assessment, where an individual evaluates their own strengths, confidence level, and progress towards a goal. The form collects data on various aspects, including self-assessment, growth areas, self-assurance levels, current level, goal level, progress towards goal, barriers, next steps, comments, self-reflection, suggestions, follow-up actions, self-assurance level comments, confidence level comments, and follow-up questions.

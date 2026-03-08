@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is for requesting logistics and planning for annual company parties. It's essential to ensure that all relevant fields are filled out accurately to facilitate efficient planning and organization. Please review this guide carefully before filling out the form to avoid duplication of effort or missed information.</thinking>
-
 # Annual Party Logistics Request Form - Help Guide
 
 ## Purpose

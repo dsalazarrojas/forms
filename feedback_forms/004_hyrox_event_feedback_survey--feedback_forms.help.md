@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect feedback from participants in the HYROX event, gathering information on their satisfaction with various aspects of the event, such as overall satisfaction, event location, event organization, date, and time. It also includes fields for providing contact information and participant name, as well as space for general feedback comments. Note that the "event_location2" field is a duplicate of "event_location" and is not intended for completion. Please ensure that only the "event_location" field is filled in.
-</thinking>
-
 # HYROX_Event_Feedback_Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from participants in the HYROX event, aiming to understand their satisfaction and experiences.

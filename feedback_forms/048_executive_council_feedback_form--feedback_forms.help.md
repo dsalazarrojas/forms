@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees of executive council meetings. This is a one-time feedback form, and responses will only be collected once.
-Please note that this form is not intended for internal use only. It's meant to be filled out by attendees who wish to provide their opinions and suggestions. If you're not an attendee of this executive council meeting, please do not fill out this form.
-Before submitting your feedback, please ensure that you're providing accurate and honest responses. If you have multiple comments or suggestions, you can use the "Comments" fields to provide more detailed information.
-</thinking>
-
 # Executive Council Feedback Form - Help Guide
 ## Purpose
 The Executive Council Feedback Form is a tool for attendees to share their thoughts, opinions, and suggestions about the executive council meetings. This form allows them to provide feedback on meeting satisfaction, initiative suggestions, and overall experience.

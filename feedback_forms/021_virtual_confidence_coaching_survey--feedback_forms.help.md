@@ -1,5 +1,3 @@
-<thinking>Internal Note: The form appears to be designed to collect client feedback and coaching data, possibly for assessment or evaluation purposes. The form contains multiple sections and fields, likely for various aspects of the coaching process. The fields include multiple select options, number inputs, and select multiple options, indicating a focus on frequency and frequency-related data. To ensure accuracy, please review the provided YAML fields and the following help guide to ensure all fields are properly explained.</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and coaching data from clients, covering various aspects of the coaching process.

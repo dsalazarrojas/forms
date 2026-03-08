@@ -1,14 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I understand that creating a clear and user-friendly help guide is crucial for a successful form submission process. Let's analyze the provided YAML fields to determine the purpose, completion process, and field-by-field explanation for the "Back Number Reservation Form".
-
-The form is designed to collect information from registrants or participants for a competition event. The form's purpose is to gather essential details for the event organizers to prepare and deliver kits or items to the registrants. This information includes names, team names, preferred and alternate back numbers, jersey sizes, event dates, contact phone numbers, delivery instructions, payment confirmation, and reservation notes.
-
-Given the form's structure and field types, it appears to be a straightforward registration process, with the exception of the "payment_confirmed" field, which might be a bit confusing to users. This field likely indicates the status of payment, either confirmed or not, which is essential for the organizers to track and prepare for kit delivery.
-
-To ensure the form is completed accurately and efficiently, I'll create a comprehensive help guide that addresses each field and provides clear explanations for end-users.
-
-</thinking>
-
 # Back Number Reservation Form - Help Guide
 ## Purpose
 The Back Number Reservation Form is designed to collect essential information from registrants or participants for a competition event. This information is crucial for the event organizers to prepare and deliver kits or items to the registrants on time.

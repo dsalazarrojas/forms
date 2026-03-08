@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # survey_communication_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and communication information from users. It is used to gather data on how to contact the user and their preferred method of communication. This form is only necessary for users who want to provide feedback or report an issue.

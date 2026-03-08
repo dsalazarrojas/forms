@@ -1,11 +1,3 @@
-<thinking>
-This help guide is for the "Feedback On New Facility" form, which is used to collect feedback and ratings from users about their recent visit to a facility. This form ensures that facilities receive accurate and detailed feedback from their clients, which helps in improving their services and overall experience. 
-
-Before proceeding, please ensure that you are filling this form for a new facility and not an existing one. If you have already provided feedback for this facility, please do not fill this form again. Your feedback is valuable to us, and we appreciate your time and effort in providing your honest opinion.
-
-If you need help with filling this form, please let us know, and we'll be happy to guide you through the process.
-</thinking>
-
 # Feedback On New Facility - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings from users about their recent visit to a facility.

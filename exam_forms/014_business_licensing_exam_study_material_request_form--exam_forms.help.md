@@ -1,7 +1,3 @@
-<thinking>
-We want to ensure that the right students receive the exam study materials they need to prepare for their licensing exams. This form helps us to assess their requirements and provide the necessary resources for each student. The form is intended for students who need exam study materials but may not have access to them otherwise. By submitting this form, students can inform us about their needs and preferences, and we'll do our best to provide them with the materials they need to pass their exam.
-</thinking>
-
 # Business Licensing Exam Study Material Request Form - Help Guide
 ## Purpose
 This form is designed to help us determine which study materials you need to prepare for your licensing exam. Please fill out this form to let us know what kind of materials you require and how you'd like to receive them.

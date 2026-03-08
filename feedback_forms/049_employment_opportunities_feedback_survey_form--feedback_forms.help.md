@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users regarding employment opportunities. It consists of 25 pages with various types of fields such as text, number, select_one, select_multiple, time, and date. The purpose of this form is to gather information about the user's experiences and opinions about employment opportunities. The form is used to identify areas of improvement and provide suggestions for better employment opportunities.
-
-Before proceeding, please check if you have completed this form before. If you have, please do not submit it again as it may lead to duplication of efforts.
-
-</thinking>
-
 # employment_opportunities_feedback_survey_form - Help Guide
 ## Purpose
 The employment opportunities feedback survey form is designed to collect feedback from users about employment opportunities.

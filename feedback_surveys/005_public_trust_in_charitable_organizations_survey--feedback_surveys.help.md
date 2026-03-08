@@ -1,6 +1,3 @@
-<thinking> 
-This form is for collecting feedback and input on the public trust in charitable organizations. It is used to gather data on the trust level of various nonprofits, their type, size, and other related attributes. The form is designed for users who work with or have experience with nonprofit organizations. The responses will help in evaluating the public trust in charitable organizations and inform decision-making processes. Please make sure to fill out this form only once per nonprofit organization. If you need to provide input for multiple organizations, please create a new form for each one. </thinking>
-
 # Public Trust In Charitable Organizations Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and input on the public trust in charitable organizations. It will help in evaluating the public trust in charitable organizations and inform decision-making processes.

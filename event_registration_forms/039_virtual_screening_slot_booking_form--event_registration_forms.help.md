@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for users to book virtual screening slots, which could be for online events, conferences, or meetings. It's designed for users to provide their personal information and preferences for the screening slot they're booking. This form might be used by organizers or administrators to manage bookings and communicate with users about their selected time slots. The form likely has fields for basic user information, such as name and email, and specific details like time and date preferences.
-To prevent duplication, users might be asked to confirm their booking details after filling out the form.
-</thinking>
-
 # Virtual Screening Slot Booking Form - Help Guide
 
 ## Purpose

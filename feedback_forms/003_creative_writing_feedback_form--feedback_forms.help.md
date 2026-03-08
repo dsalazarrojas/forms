@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on a creative writing piece, such as an article, story, or poem. The form is meant to be filled out by users who have read and interacted with the creative writing piece, and the feedback will be used to improve the writing and create a better user experience.
-
-The form is designed to collect both personal and demographic information, as well as ratings and comments. The fields are designed to be simple and easy to fill out, with clear and concise labels and hints where necessary.
-
-To ensure that the feedback is relevant and accurate, please note that:
-
-* This form is not meant for users to provide feedback on multiple creative writing pieces at once.
-* Please only fill out this form if you have actually read and interacted with the creative writing piece.
-* Please do not duplicate your feedback, as this can lead to inaccurate and misleading results.
-
-Before filling out the form, please make sure you have a clear understanding of the questions and fields, and that you are providing accurate and honest feedback.
-
-</thinking>
-
 # creative_writing_feedback_form - Help Guide
 
 ## Purpose

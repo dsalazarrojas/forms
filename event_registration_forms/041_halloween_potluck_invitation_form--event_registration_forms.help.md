@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Halloween Potluck Invitation Form - Help Guide
 
 ## Purpose

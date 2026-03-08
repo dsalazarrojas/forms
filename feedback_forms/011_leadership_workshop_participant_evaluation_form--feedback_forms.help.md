@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # leadership_workshop_participant_evaluation_form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # System Participation Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on system participation from users. This feedback is used to understand user experiences and identify areas for improvement within the system.

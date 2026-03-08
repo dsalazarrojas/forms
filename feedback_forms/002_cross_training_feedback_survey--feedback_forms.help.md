@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I will create a user-facing help guide for the Cross Training Feedback Survey form. I will break down the form into its key components, providing clear explanations for each field to help users understand the purpose and usage of the form.</thinking>
-
 # Cross Training Feedback Survey - Help Guide
 ## Purpose
 The Cross Training Feedback Survey is designed to gather feedback from participants on their experience with our training programs. This feedback is essential for us to understand the effectiveness of our training and identify areas for improvement. Your input will help us provide better training experiences for our participants in the future.

@@ -1,5 +1,3 @@
-<thinking>Is there a specific type of form the user will be interacting with? Given that this form appears to be for a christening, I'm assuming it's a digital form that users will access through a web application or mobile app. If not, please clarify the context. Additionally, please ensure that all fields mentioned in the YAML are properly accounted for in the help guide.</thinking>
-
 # Christening Invitation Form - Help Guide
 ## Purpose
 The Christening Invitation Form is a tool used to collect essential information for the christening ceremony and reception of a child. This form will be used by parents or guardians to provide details about the child, ceremony, and other important aspects of the event.

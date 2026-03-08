@@ -1,11 +1,3 @@
-<thinking>... internal reasoning and validation check for form purpose and duplication ...
-
-The purpose of this form is to collect feedback on harassment incidents, allowing individuals to report and document instances of harassment. This form is designed to be a standardized and confidential reporting mechanism, ensuring that reports are taken seriously and handled promptly. 
-
-To prevent duplication, the form includes unique Report ID field to track individual reports and maintain data integrity.
-
-</thinking>
-
 # Harassment Reporting Feedback Form - Help Guide
 ## Purpose
 The Harassment Reporting Feedback Form is a tool for reporting and documenting harassment incidents. Please use this form to provide detailed information about the incident.

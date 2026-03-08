@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to track expenses, allowing users to record and categorize transactions, associate them with users, and store metadata like transaction dates and statuses. To prevent duplication, ensure that each form entry is distinct and accurately represents the desired transaction. When completing the form, consider carefully which category the transaction belongs to and who is accountable for it. For example, transactions related to work hours should be categorized under 'Yes' and linked to the user 'Yes', while expenses like meals should be categorized under 'Yes' or 'No' depending on your company policies. Please review this document for further guidance.
-</thinking>
 # Expense Tracking Form - Help Guide
 ## Purpose
 

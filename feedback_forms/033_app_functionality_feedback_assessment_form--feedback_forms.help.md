@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback on the functionality of an app, allowing users to report on their overall experience with its performance, stability, and usability. The form aims to gather detailed information on technical environment, device model, and app version to ensure that the feedback is specific to the user's context. The fields are designed to be easy to understand and fill out, with clear and concise labels. By providing detailed feedback, users help developers identify areas of improvement and make necessary updates to enhance the app's functionality. This form should only be filled out once per issue or feature, and not for general comments or bug reports that are not specific to the app's performance. 
-</thinking>
-
 # App Functionality Feedback Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on the overall performance and usability of the app. Your input will help us improve the app's functionality and provide a better user experience.

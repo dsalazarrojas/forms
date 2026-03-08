@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended for parents who are providing feedback on our babysitting service. Please note that this form is designed for one-time feedback submission, and it's not necessary to have prior knowledge or experience with our service. Each question or section has been carefully crafted to gather information about the service and help us improve our quality.
 
 # Babysitting Service Feedback - Help Guide

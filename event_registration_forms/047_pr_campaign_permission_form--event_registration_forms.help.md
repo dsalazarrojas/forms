@@ -1,7 +1,3 @@
-<thinking> 
-This guide is intended for individuals who need to fill out a permission form related to a public relations campaign, but it may also be used in other contexts. To ensure relevance and non-duplication of effort, please review your specific use case before completing this form. If this form is not applicable to your situation, please explore other options or contact the relevant party for assistance.
-</thinking>
-
 # pr_campaign_permission_form - Help Guide
 ## Purpose
 This form is designed to collect information and obtain consent for a public relations campaign. It is meant to be filled out by individuals participating in or associated with the campaign.

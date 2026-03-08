@@ -1,11 +1,3 @@
-<thinking>
-
-To avoid duplicating existing documentation and for clarity, I'll first verify that the provided form fields are not part of a larger system or process that requires a more specific guide. The form appears to be a generic registration form for vendors, likely for a spring festival. Each field is clearly related to vendor registration and seems to cover the basic information needed for a vendor to be registered.
-
-Next, I will proceed with creating the user-facing help guide based on the provided YAML fields.
-
-</thinking>
-
 # spring_festival_vendor_registration_form - Help Guide
 ## Purpose
 The spring festival vendor registration form is a tool used to collect information from vendors who want to participate in the spring festival. This form helps festival organizers to gather essential details about each vendor, such as contact information, payment terms, and terms of service acceptance.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for users who are interested in participating in a survey or have already been assigned to participate in one. It collects information about the participant's participation, including their name, contact information (email and phone number), and details about their survey participation. This form ensures that participants provide the necessary information to be included in the survey and helps the survey administrators to reach out to them for further instructions or clarification. This form should only be filled out by the intended participants, and users are discouraged from filling out this form if they have not been assigned to participate in a survey or if they are not interested in participating in a survey.
-</thinking>
-
 # Survey Participation Intake Form - Help Guide
 ## Purpose
 The Survey Participation Intake Form is a form designed to collect information from participants who are interested in or have already been assigned to participate in a survey. It is essential to fill out this form to ensure that you are included in the survey and to receive further instructions or clarification from the survey administrators.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to suggest events to be hosted at the Colosseum. The form is meant to gather information about the event's title, description, date, target audience, estimated attendance, resources needed, and any additional comments. The form is not strictly necessary for the event to be approved, but it helps the event organizers to have a better understanding of the suggested event and its feasibility. Please ensure that you're not suggesting an event that already exists or is already in the planning stage. If you're unsure, you can check with the event organizers before submitting the form.
-</thinking>
-
 # Colosseum Event Suggestion Form - Help Guide
 ## Purpose
 The Colosseum Event Suggestion Form is a tool for users to suggest new events to be hosted at the Colosseum. Filling out this form will help event organizers gather all necessary information to evaluate and potentially host the event.

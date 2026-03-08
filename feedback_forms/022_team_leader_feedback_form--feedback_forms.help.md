@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Team Leader Feedback Form - Help Guide
 ## Purpose
 The Team Leader Feedback Form is designed to collect feedback from team leaders regarding the performance and behavior of team members. This form is typically used to gather insights and suggestions from team leaders on how to improve team dynamics, communication, and overall performance.

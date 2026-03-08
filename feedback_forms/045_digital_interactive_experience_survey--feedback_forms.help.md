@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and ratings from users about their digital interactive experience. Its purpose is to collect qualitative and quantitative data to identify areas of improvement and opportunities for growth. To prevent duplicate entries, please make sure to complete the form only once.
-</thinking>
-
 # Digital Interactive Experience Survey - Help Guide
 
 ## Purpose

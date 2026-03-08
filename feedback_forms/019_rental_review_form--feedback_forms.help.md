@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rental_review_form - Help Guide
 ## Purpose
 The rental review form is used to gather feedback from renters about their experience with a property. This form is designed to help us improve our services by providing insight into what worked well and what didn't for each rental property.

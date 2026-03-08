@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be completing the Gym Cross Training Tournament Entry Form. The form is designed to collect information for a Cross Training Tournament, which is an event where athletes and teams can participate in a variety of physical activities. The form is used to register participants for the event and to provide relevant details about the event. Before proceeding, please ensure that you are registering for the correct event and that you have all the necessary information required to complete the form accurately.
-</thinking>
-
 # Gym Cross Training Tournament Entry Form - Help Guide
 ## Purpose
 The Gym Cross Training Tournament Entry Form is designed to collect information about participants and teams for the Cross Training Tournament. To complete this form, please follow the instructions below.

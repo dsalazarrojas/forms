@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Social Responsibility Specialist Exit Offboarding Form - Help Guide
 ## Purpose
 This form is designed to gather information and feedback from Corporate Social Responsibility (CSR) Specialist employees who are leaving the company. The goal of this form is to collect their thoughts and experiences to improve the CSR program and ensure a smooth transition for future colleagues.

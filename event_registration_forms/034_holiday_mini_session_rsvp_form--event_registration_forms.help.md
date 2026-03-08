@@ -1,22 +1,3 @@
-<thinking>
-This form appears to be designed to collect RSVP information from users for a holiday mini session event. Each field is crucial for ensuring accurate and complete information for the event host or organizer. 
-
-The form has multiple pages but the main fields required are Event Name, Contact Name, Date, and Time. 
-
-The Guest Count, Email, Phone, and Event Description fields seem to be for additional information that can be collected. 
-
-The Event Name Confirmation, Contact Message, and Guest List fields will help ensure that the host or organizer knows who to expect and what guests have responded. 
-
-The RSVP Message can be used to convey any important information to the organizer. 
-
-The Guest List field allows users to choose if they will be attending, and the Guest List Add field will let them select if they want to add any guests they are bringing along. 
-
-The form is quite straightforward, but it's essential to ensure each field is completed correctly to provide the host or organizer with accurate information. 
-
-The fields should not be duplicated in their responses; each field has a specific purpose, and filling them out correctly will help the host or organizer to plan and prepare the event accordingly. 
-
-</thinking>
-
 # holiday_mini_session_rsvp_form - Help Guide
 ## Purpose
 This form is used to collect RSVP information for a holiday mini session event. It is designed to gather essential details from users such as event name, contact information, and guest information.

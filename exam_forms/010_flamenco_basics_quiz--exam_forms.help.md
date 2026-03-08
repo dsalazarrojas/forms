@@ -1,7 +1,3 @@
-<thinking>
-The Flamenco Basics Quiz form is designed to collect information from students and their teachers regarding their participation in a course or program, specifically related to Flamenco, likely a dance or art form. This form aims to gather data on students' names, contact information, school affiliation, and their teachers' details. It is possible that the form might be used for administrative or assessment purposes. Please note that some fields have been marked as optional, which means they are not required for form submission. If you are filling out this form, it is crucial to provide accurate and relevant information for its intended use.
-</thinking>
-
 # Flamenco Basics Quiz - Help Guide
 ## Purpose
 The Flamenco Basics Quiz form collects information from students and their teachers for administrative or assessment purposes. Please fill out the form accurately and completely to ensure your data is up-to-date.

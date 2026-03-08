@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to submit their entries for the Photo Bingo Challenge. To ensure a smooth submission process, we need to guide users on how to complete the form correctly. First, we need to check if the form is being filled out for the correct purpose and not for other internal processes that might duplicate the effort.
-</thinking>
-
 # Photo Bingo Challenge Entry Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about event requests from users. It is intended to gather details about the event, such as the type of event, contact information, and facility setup. The form is meant to be used by event organizers or planners to request event schedules and arrangements. This form is not intended to be used for any other purpose. Please ensure that you are filling out this form for the correct purpose to avoid duplication of effort and confusion in the event planning process.
-
-</thinking>
-
 # Event Schedule Request - Help Guide
 ## Purpose
 The Event Schedule Request form is designed to collect information from event organizers or planners about their event requests. It helps in scheduling events and arranging necessary facilities and arrangements.

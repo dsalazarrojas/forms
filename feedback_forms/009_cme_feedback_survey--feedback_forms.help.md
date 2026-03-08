@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on Continuing Medical Education (CME) events. It will help evaluate the quality of the events and identify areas for improvement. This form should only be filled out by participants who have attended a CME event. Please fill out this form only once for each event you have attended.
-</thinking>
-
 # CME Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on Continuing Medical Education (CME) events. Your input will help evaluate the quality of the events and identify areas for improvement.

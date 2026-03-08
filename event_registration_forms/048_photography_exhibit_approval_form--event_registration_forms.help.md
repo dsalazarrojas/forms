@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from artists about their photography exhibit. The form is designed to be completed by the artist themselves, providing details about their work, including artist name, contact information, image description, and exhibition details. Before starting, please check if a similar form has been already created for your event, as this will prevent data duplication. If you're not sure, you can always contact the event organizer for guidance.
-</thinking>
-
 # Photography Exhibit Approval Form - Help Guide
 ## Purpose
 The Photography Exhibit Approval Form is a tool used to collect information about photography exhibits, enabling the event organizer to review and approve the exhibit's inclusion in the event. This form is typically completed by the artist who submitted their work.

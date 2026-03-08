@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive tool to assess a student's language proficiency, capturing various aspects of their linguistic abilities in the English language. This form will likely be used by teachers, educators, or language proficiency evaluators to gauge a student's skills in listening, speaking, reading, and writing. The form's primary purpose is to gather accurate and detailed information about each student's language proficiency level and native language.
-</thinking>
-
 # English Language Proficiency Exam - Help Guide
 ## Purpose
 This form is designed to assess a student's language proficiency in the English language, covering various aspects such as listening, speaking, reading, and writing skills. It's intended to be used by teachers, educators, or language proficiency evaluators to evaluate a student's language abilities.

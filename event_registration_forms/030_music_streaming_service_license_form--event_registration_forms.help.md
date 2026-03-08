@@ -1,5 +1,3 @@
-<thinking>...The form is intended for artists or content creators who want to license their music to our music streaming service. This form is used to submit a new song for consideration. The goal is to make it easy for artists to provide necessary information in a simple and straightforward way. We want to make sure we don't have any duplicate submissions from the same artist, so we'll check internal databases for existing submissions before processing new ones. Please provide all required information to increase the chances of your music being accepted onto our platform... </thinking>
-
 # Music Streaming Service License Form - Help Guide
 ## Purpose
 This form is for artists or content creators to license their music for our music streaming service.

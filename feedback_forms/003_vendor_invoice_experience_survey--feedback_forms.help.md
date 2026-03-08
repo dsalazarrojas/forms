@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Invoice Experience Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form, "employee_survey_results_report_form", is used to collect feedback from employees in various categories, allowing management to understand their perceptions of their own performance. The form can be accessed by employees to provide their input on how they rate their job satisfaction and submit any suggestions for improvement.
-To ensure that each employee's response is properly recorded, please note that only one response can be submitted per employee per week. This is to prevent duplication and maintain the accuracy of data collection.
-</thinking>
-
 # employee_survey_results_report_form - Help Guide
 ## Purpose
 The purpose of this form is to collect employee feedback on their own performance and satisfaction levels. This data is used by management to better understand employee needs and improve job satisfaction.

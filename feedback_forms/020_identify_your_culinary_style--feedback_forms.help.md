@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help users identify their culinary style by selecting their favorite cuisines, cooking techniques, dish types, and flavors. The form is intended to be a fun and interactive way for users to express their personal preferences in the culinary domain. To ensure that users can get the most accurate results, it's essential that users complete the form with their genuine and honest preferences.
-
-Before proceeding, please make sure you have not completed this form before, as the responses are intended to be unique. If you have completed this form previously, your responses will not be reflected in this new iteration.
-
-Assuming you're new to this form, let's get started!
-
-</thinking>
-
 # Identify Your Culinary Style - Help Guide
 ## Purpose
 This form is designed to help you identify your personal culinary style by asking you to select your favorite cuisines, cooking techniques, dish types, and flavors. The form is meant to be a fun and interactive way to explore your taste buds!

@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the purpose and usage of the "New Collection Feedback Assessment Form". This form is designed to gather feedback from users about a new collection, allowing them to share their thoughts on its quality, relevance, and overall impression. This form helps identify areas of improvement and potential issues that need to be addressed.
-</thinking>
-
 # New Collection Feedback Assessment Form - Help Guide
 ## Purpose
 The New Collection Feedback Assessment Form is used to gather feedback from users about a new collection. This feedback will help us better understand user opinions and identify areas of improvement.

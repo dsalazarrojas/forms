@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from customers about sports products, which will help us improve and refine our products for better customer satisfaction. This form should only be used to provide feedback about specific sports products, so please only complete this form if you are commenting on a product. Please do not submit duplicate feedback, as this will help us to efficiently track and address your concerns.
-</thinking>
-
 # Sports Product Feedback Form - Help Guide
 ## Purpose
 The Sports Product Feedback Form is designed to allow customers to provide feedback about our sports products, enabling us to make data-driven decisions for future product development and improvement.

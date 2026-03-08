@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Favorite Option Selection - Help Guide
 
 ## Purpose

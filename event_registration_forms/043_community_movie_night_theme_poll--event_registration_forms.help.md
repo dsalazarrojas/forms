@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from community members regarding their preferences for a movie night event. The event organizers will use this data to determine the theme, date, and other logistics of the movie night. This form is not a registration form, but rather a collection of information to help plan the event in a way that meets the community's interests.
-
-It's worth noting that this form is not a duplicate of any other form in the system, and it's specifically designed to cater to the needs of a Community Movie Night event.
-
-</thinking>
-
 # Community Movie Night Theme Poll - Help Guide
 ## Purpose
 The purpose of this form is to collect information from community members about their preferences for a movie night event. This will help the event organizers create a successful and enjoyable experience for everyone involved.

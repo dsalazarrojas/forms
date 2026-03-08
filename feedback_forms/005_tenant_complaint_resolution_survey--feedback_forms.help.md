@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tenant Complaint Resolution Survey - Help Guide
 ## Purpose
 The Tenant Complaint Resolution Survey is a form designed to collect information about complaints or issues reported by tenants. This form helps in resolving tenant complaints in a timely and effective manner.

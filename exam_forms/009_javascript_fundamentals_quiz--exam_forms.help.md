@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # JavaScript Fundamentals Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of JavaScript fundamentals, which is the base of web development. It will present you with a series of questions that cover various essential concepts in JavaScript.

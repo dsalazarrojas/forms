@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for end-users to book an outdoor event space. It's crucial to ensure that the form is filled out correctly to avoid any confusion or miscommunication. Before proceeding, please verify that you have all necessary information required to complete the form. Please do not submit duplicate requests.
-</thinking>
-
 # Outdoor Event Space Booking Form - Help Guide
 ## Purpose
 This form is designed to gather information about your outdoor event and allow you to book the available space.

@@ -1,16 +1,3 @@
-<thinking>
-This form appears to be designed for evaluating spas and wellness centers, gathering information about products, customer data, medical information, customer experience, and availability of services. The form likely serves as a feedback mechanism for spa professionals to provide detailed insights into their operations and services. This form is intended for internal use, possibly for quality control or improvement purposes. To confirm, let's review the form's content:
-- "Form Data" likely refers to any additional comments or notes the evaluator wishes to provide.
-- "Product Name" is a field for the name of the product being evaluated.
-- "Product Type" might indicate the type of service or product offered by the spa.
-- "Customer Data" is a field for any relevant customer information, possibly for tracking purposes.
-- "Medical Info" is a field for any medical-related information or concerns.
-- "Customer Experience" is a field for evaluating the customer's experience at the spa.
-- "Wish to Avail Services" is a field for expressing the customer's desire for specific services.
-- "Product Safety" is a field for rating the safety of the product or service.
-
-</thinking>
-
 # spa_evaluation_form - Help Guide
 ## Purpose
 

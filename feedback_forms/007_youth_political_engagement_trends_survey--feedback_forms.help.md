@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for users to provide feedback about their political engagement trends, particularly in the context of youth participation. The form will likely be used for research purposes to gather insights on how young people perceive and interact with politics in their daily lives. To ensure the integrity of the data collected, it is crucial to confirm that the respondents are genuine and their responses are not duplicates or attempts to manipulate the results.</thinking>
-
 # youth_political_engagement_trends_survey - Help Guide
 ## Purpose
 This form is designed to gather information on how young people perceive and interact with politics in their daily lives.

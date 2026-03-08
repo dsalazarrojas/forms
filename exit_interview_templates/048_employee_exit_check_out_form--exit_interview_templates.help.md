@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Exit Check Out Form - Help Guide
 ## Purpose
 This form is designed to collect information from employees when they are leaving the company. It helps to gather details about their departure, such as the reason for leaving, last day of work, and manager's contact information. This form is usually filled out by the employee on their last day of work or before their departure.

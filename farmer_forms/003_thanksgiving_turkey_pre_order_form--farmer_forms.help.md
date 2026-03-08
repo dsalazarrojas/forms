@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to place orders for turkeys for Thanksgiving. This form will likely be used by customers or employees to request a turkey to be purchased or delivered for the holiday. It is possible that this form may be part of a larger system for managing holiday orders or requests.
-</thinking>
-
 # Thanksgiving Turkey Pre Order Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from customers or employees to place an order for a turkey to be purchased or delivered for the holiday.

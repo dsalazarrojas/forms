@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the communication flow in audit processes, specifically the clarity, frequency, and effectiveness of audit communications. This data will help auditors and audit teams identify areas for improvement and make informed decisions for better communication practices. This form is meant to be completed by individuals who are involved in or have experience with audit processes.
-</thinking>
-
 # Audit Communication Flow Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the communication flow in audit processes and identify areas for improvement.

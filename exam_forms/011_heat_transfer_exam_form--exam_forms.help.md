@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for assessing knowledge about heat transfer, a process in which heat energy moves from one location to another. It is likely intended for students or professionals in fields related to thermodynamics or physics. The form is composed of multiple questions with different types of questions such as multiple-choice, true/false, and date/time selection. Each question is designed to test understanding of the concept of heat transfer.
-</thinking>
-
 # Heat Transfer Exam Form - Help Guide
 ## Purpose
 This form is intended for assessing knowledge about heat transfer, a process in which heat energy moves from one location to another.

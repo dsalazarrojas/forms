@@ -1,9 +1,3 @@
-<thinking>
-The form "Virtual Accounting Services Feedback" is designed to gather feedback from customers about their experience with our virtual accounting services. This form is intended for customers who have recently interacted with our virtual accounting services and want to provide feedback on their experience. To ensure that each customer's feedback is unique and valuable, we ask that customers do not submit duplicate feedback forms.
-
-To complete this form, customers will need to provide their personal details, such as their name and contact information, as well as details about their experience with our virtual accounting services, including their service type and service level.
-</thinking>
-
 # Virtual Accounting Services Feedback - Help Guide
 ## Purpose
 The purpose of this form is to provide a platform for customers to share their feedback about their experience with our virtual accounting services.

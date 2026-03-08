@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting feedback on corporate training materials, aiming to gather insights on the effectiveness and relevance of training sessions. To ensure accurate feedback, please ensure you're responding to a specific corporate training material or session you've attended. If you're providing feedback on multiple materials or sessions, please submit separate forms.
-</thinking>
-
 # Corporate Training Material Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback on corporate training materials, focusing on various aspects such as content, relevance, and overall experience. Your input will help us understand how to improve our training materials and sessions.

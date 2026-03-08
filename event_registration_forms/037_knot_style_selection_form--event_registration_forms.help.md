@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help users register events with a style selection feature. The form has four pages with different input types: text, select multiple, time, and number. Users will need to fill out each page to complete the form successfully.
-
-This form will be used by event registration staff to collect information from event attendees about their preferences and availability. The form will help to streamline the event planning process and reduce errors.
-
-To avoid duplication, this form should not be filled out by users who have already registered for the same event.
-
-</thinking>
-
 # knot_style_selection_form - Help Guide
 ## Purpose
 This form is used to register events with a style selection feature. It helps event registration staff collect information from attendees about their preferences and availability.

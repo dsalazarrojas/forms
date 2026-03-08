@@ -1,16 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and opinions from hospital staff regarding the functionality, reliability, and maintenance of call lights and floor mats. The purpose of this survey is to gather information about the effectiveness of these safety equipment in preventing slips and falls and ensuring patient care.
-
-To complete this form, follow these steps:
-
-1.  Please answer the questions as accurately and honestly as possible.
-2.  Select the relevant options for each question based on your experience and opinion.
-3.  Leave comments or descriptions in the text fields to provide further details about your experiences or concerns.
-4.  Make sure to provide your name and department/unit you belong to for identification purposes.
-
-</thinking>
-
 # Call Lights And Floor Mats Survey - Help Guide
 ## Purpose
 The Call Lights And Floor Mats Survey is designed to gather feedback and opinions from hospital staff regarding the functionality, reliability, and maintenance of call lights and floor mats. This survey aims to identify areas of improvement and ensure patient safety.

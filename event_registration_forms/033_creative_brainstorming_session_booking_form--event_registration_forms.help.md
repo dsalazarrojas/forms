@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to book a Creative Brainstorming Session for participants. The form should only be filled out by individuals who have been invited to the session and are interested in attending. It is not intended for general public registration. Please make sure you have received an invitation before filling out this form.
-</thinking>
-
 # Creative Brainstorming Session Booking Form - Help Guide
 ## Purpose
 This form is used to register for a Creative Brainstorming Session. Please fill out the form with your details to let us know you are interested in attending the session.

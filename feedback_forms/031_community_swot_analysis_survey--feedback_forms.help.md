@@ -1,9 +1,3 @@
-<thinking>...
-This form is designed to collect feedback from community members, leaders, and stakeholders to identify the Strengths, Weaknesses, Opportunities, and Threats (SWOT) of a community. The SWOT analysis is a strategic tool used to identify internal and external factors that can affect the community's growth and development. By filling out this form, you'll be contributing to the identification of key factors that can inform decision-making and improve the community's overall well-being.
-
-Before you start, please note that you may need to scroll down to access all the questions, as the form is split across multiple pages.
-</thinking>
-
 # Community SWOT Analysis Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about the community's internal and external factors that can impact its growth and development. Your input will help us identify areas of strength, weakness, opportunity, and threats, which will inform strategic decision-making and improve the community's overall well-being.

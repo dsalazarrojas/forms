@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sustainable Farming Fellowship Application Form - Help Guide
 
 ## Purpose

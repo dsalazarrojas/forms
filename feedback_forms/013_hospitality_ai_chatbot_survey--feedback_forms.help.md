@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Hospitality AI Chatbot Survey", we first need to understand the purpose and goals of the form. This form is designed to gather feedback from users on their experience with the chatbot. The form will help us identify areas of improvement, understand user needs, and inform future development directions. We should aim to keep the tone informative, concise, and practical in the guide, explaining each field clearly and without inventing unsupported business logic.
-
-</thinking>
-
 # Hospitality AI Chatbot Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather your feedback on your experience with our chatbot. By completing this form, you will help us improve and refine our service to better meet your needs.

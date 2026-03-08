@@ -1,13 +1,3 @@
-<thinking>
-This guide will walk the end user through completing the Past Players Event Registration form. 
-
-Before diving into the guide, here's a brief internal note: 
-
-This form is used to register events with the organization, collecting necessary information for event management and follow-up. It's crucial that event registrations are accurate and thorough, so take your time and ensure all required fields are filled out correctly. 
-
-If you've already registered for this event or have registered for a similar event, your registration details won't be saved to avoid duplication.
-</thinking>
-
 # Past Players Event Registration - Help Guide
 ## Purpose
 This form is used to register and collect information for past events. It ensures that your registration data is accurate and up-to-date for event management.

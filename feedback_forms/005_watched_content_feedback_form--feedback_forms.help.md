@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users on watched content, likely for the purpose of evaluating the effectiveness of the content in engaging or informing the audience. To ensure that users submit valid and relevant feedback, it's essential to carefully follow the instructions and fill out the form accurately.
-
-The form is designed to gather data on whether the user watched the content, the type of content it was, how many times they watched it, their rating, comments, and other relevant information. It's crucial to note that some fields are marked as required, which means that users must fill out those fields to submit the form.
-
-Before starting, please ensure that you've actually watched the content and are providing honest feedback. If you've watched the content multiple times, please answer accordingly to each question.
-</thinking>
-
 # Watched Content Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on watched content, aiming to evaluate the effectiveness of the content in engaging or informing the audience.

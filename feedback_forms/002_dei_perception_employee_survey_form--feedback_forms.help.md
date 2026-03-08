@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect feedback and survey information from employees within the organization. This form is used to understand employees' perceptions of their own diversity and inclusion in the workplace, as well as their satisfaction with their manager, organization, and work environment. The form is optional, and employees are not required to provide feedback, but it is recommended that they do to help the organization improve its policies and practices related to diversity and inclusion.
-
-It is possible that employees may have already completed this form in the past, or may be completing it as part of a regular or irregular feedback cycle. Please ensure that you are completing this form with fresh perspectives and thoughts.
-
-To ensure that your feedback is useful, please answer all questions honestly and thoroughly. If you have any questions or concerns about the form or its purpose, please reach out to your manager or HR representative.
-</thinking>
-
 # dei_perception_employee_survey_form - Help Guide
 ## Purpose
 The dei_perception_employee_survey_form is used to collect employee feedback and survey information on diversity and inclusion, job satisfaction, and other relevant topics.

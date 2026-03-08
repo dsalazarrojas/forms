@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians of children attending summer camp. The form will be used to ensure that the camp staff have the necessary information to provide a safe and enjoyable experience for each child. This guide will cover the purpose and completion of the form, as well as an explanation of each field.
-</thinking>
-
 # Summer Camp Communication Form - Help Guide
 ## Purpose
 This form is used to collect essential information from parents or guardians of children attending summer camp. It helps the camp staff to identify any special needs, medical conditions, or emergency contacts that may be relevant during the child's stay. Please fill out the form accurately and completely to ensure the best experience for your child.

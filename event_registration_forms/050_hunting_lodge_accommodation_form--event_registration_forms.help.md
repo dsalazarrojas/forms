@@ -1,7 +1,3 @@
-<thinking>
-We're going to create a comprehensive user-facing help guide for the "Hunting Lodge Accommodation Form" that outlines its purpose, explains how to complete it, and breaks down each field in a clear and concise manner.
-</thinking>
-
 # Hunting Lodge Accommodation Form - Help Guide
 ## Purpose
 The Hunting Lodge Accommodation Form is designed to help users book and manage their accommodation requests for the hunting lodge. This form collects essential information about the user's stay, including their name, dates of stay, guest count, room preferences, payment details, and any special requests or instructions.

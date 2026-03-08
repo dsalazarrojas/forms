@@ -1,11 +1,3 @@
-<thinking>...<thinking>
-
-We are creating a help guide for the "Ice Festival Feedback Survey" form. The form's purpose is to collect feedback from attendees of the Ice Festival, gathering information about their experiences, thoughts, and suggestions for future events. We need to ensure that end-users understand the form's purpose and know how to complete it correctly.
-
-The form has 8 fields, each with its own label, type, and options. Some fields are optional while others are required. The form is divided into several "pages", but for the purpose of this help guide, we will treat each field as a separate explanation.
-
-</thinking>
-
 # Ice Festival Feedback Survey - Help Guide
 ## Purpose
 The Ice Festival Feedback Survey is a form designed to collect feedback from attendees of the Ice Festival. Your input will help us understand what worked well and what could be improved for future events.

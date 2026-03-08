@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be used by farmers, agricultural workers, and other individuals involved in livestock management. This form is used to document the movement of livestock between farms, ranches, or other locations. It's essential to fill out this form accurately and completely to ensure that all relevant information is recorded and tracked. Please note that this form is designed to be used for internal purposes only and should not be shared publicly without proper authorization.
-</thinking>
-
 # Livestock Movement Documentation - Help Guide
 ## Purpose
 The Livestock Movement Documentation form is used to record the details of livestock movement between farms, ranches, or other locations. This form helps ensure accurate and efficient tracking of livestock movement.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the "rural_connectivity_awareness_survey" form is completed with relevant and accurate information, we should first check that the person filling out the form is indeed a relevant stakeholder for this survey and that they have not filled out this form before. If not, they will be directed to the relevant page to fill out the form.
-</thinking>
-
 # rural_connectivity_awareness_survey - Help Guide
 ## Purpose
 The rural_connectivity_awareness_survey form is designed to gather information on your experience with internet access, speed, and reliability, as well as any challenges you face in getting online. This data will help us better understand and address the needs of rural communities.

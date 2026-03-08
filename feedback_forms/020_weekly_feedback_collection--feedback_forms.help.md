@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to be a user-friendly resource for end-users to complete the "weekly_feedback_collection" form efficiently and effectively. Before proceeding, please ensure that this form is relevant to your feedback needs and not a duplicate effort. If you have already provided feedback on this form, kindly do not submit another response.
-
-</thinking>
-
 # weekly_feedback_collection - Help Guide
 ## Purpose
 The "weekly_feedback_collection" form is designed to collect feedback on our service, gathering insights and information to help us improve and refine it. This guide will walk you through each section of the form to help you provide the most valuable feedback.

@@ -1,5 +1,3 @@
-<thinking>This form, "Ride Evaluation Survey", is intended to collect feedback and evaluations from users about their recent ride experiences. The purpose of this form is to gather information on the quality and satisfaction of the ride, including ratings and comments on various aspects of the ride such as driver performance, overall rating, and category selection. This information will help us to identify areas for improvement and make data-driven decisions to enhance the overall experience for our users. To ensure accurate and consistent responses, please complete the form carefully and honestly.</thinking>
-
 # Ride Evaluation Survey - Help Guide
 ## Purpose
 The Ride Evaluation Survey is designed to gather feedback and evaluations from users about their recent ride experiences. This information will help us identify areas for improvement and make data-driven decisions to enhance the overall experience for our users.

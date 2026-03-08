@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation data from end-users. The purpose of this form is to gather information about a specific process and its associated evaluation period. It's crucial to provide accurate and relevant information to ensure that the feedback is useful and actionable. Please ensure that you have all necessary permissions and approvals before completing this form, as it may contain sensitive or confidential information.
-
-</thinking>
-
 # start_and_stop_evaluation_form - Help Guide
 ## Purpose
 The start_and_stop_evaluation_form is used to collect feedback and evaluation data from end-users on a specific process. This form is designed to gather information about the process and its associated evaluation period.

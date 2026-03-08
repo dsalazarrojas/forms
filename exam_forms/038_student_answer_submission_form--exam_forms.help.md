@@ -1,7 +1,3 @@
-<thinking>
-This form is for students to submit their answers to a series of questions. It is not affiliated with or endorsed by any form platform and is an original adaptation of the survey topic metadata. The form is released under a Creative Commons 4.0 license, allowing users to use, modify, and sell it while giving credit. It is designed to be completed by students, and its purpose is to collect their answers to questions.
-</thinking>
-
 # Student Answer Submission Form - Help Guide
 ## Purpose
 The Student Answer Submission Form is designed for students to submit their answers to a series of questions. This form allows students to provide their responses to the questions, and the submitted answers will be collected and evaluated.

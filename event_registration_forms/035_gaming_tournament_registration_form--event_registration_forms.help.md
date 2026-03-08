@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gaming Tournament Registration Form - Help Guide
 ## Purpose
 The Gaming Tournament Registration Form is a digital form designed to collect relevant information from teams and players participating in a gaming tournament. This form helps us to better understand your team's or player's preferences, skills, and needs, enabling us to provide a more enjoyable and competitive experience for all participants.

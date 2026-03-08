@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to serve as a waiver for participants in a fitness event. The goal is to capture information about the participant's medical conditions, emergency contact details, and authorization for medical treatment in case of an accident. The form should be completed by participants before attending the event.
-
-The following sections will help explain each field in detail to ensure a smooth and safe experience for all participants.
-
-</thinking>
-
 # Fitness Event Waiver Form - Help Guide
 ## Purpose
 This waiver form is a required document to be completed by all participants before attending the fitness event. It helps us ensure that each participant has been informed about the potential risks involved in the event and provides essential information about their medical conditions and emergency contacts.

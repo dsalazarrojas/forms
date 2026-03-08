@@ -1,14 +1,3 @@
-<thinking>
-We have designed this form to gather information from users who have visited our contact page. The purpose of this form is to collect essential details from users so we can follow up with them and provide them with further assistance or guidance. 
-This form is used by internal teams to process user inquiries and provide personalized support.
-
-Please note that this form is designed for users who are interested in our services. If you're looking for more information, you can find it in our FAQ section or by visiting our website.
-
-Before you start filling out the form, make sure you're not duplicating your inquiry. If you have any previous submissions, please check with our team first to see if your inquiry has already been processed.
-
-Please fill out the form below to submit your inquiry.
-</thinking>
-
 # Contact Page Red And Responsive - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users who have visited our contact page. This form is used by internal teams to process user inquiries and provide personalized support.

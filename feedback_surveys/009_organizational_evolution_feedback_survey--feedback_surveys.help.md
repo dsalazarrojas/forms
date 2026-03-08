@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Organizational Evolution Feedback Survey - Help Guide
 
 ## Purpose

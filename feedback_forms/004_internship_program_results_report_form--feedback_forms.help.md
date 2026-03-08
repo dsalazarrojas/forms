@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Internship Program Results Report Form", I'll first provide an internal reasoning block to outline the form's purpose and relevance:
-
-The purpose of this form is to gather feedback from interns who have completed an internship program within a given organization. The form collects information on the organization name, internship position, program length, skills gained during the internship, overall satisfaction with the experience, suggestions for improvement, recommendations for the program, comments about the experience, rating of the internship, email contact information, phone number, and submission details (submitter's name, submitter's role, and submission date). This data will help the organization understand the strengths and weaknesses of the program, identify areas for improvement, and make informed decisions for future internships.
-
-This form is intended for interns who have completed the program and want to provide their feedback. Submissions will be reviewed by the organization to gather insights and suggestions from various stakeholders.
-
-</thinking>
-
 # Internship Program Results Report Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from interns who have completed an internship program within your organization. Your input will help us improve our internship program and better serve future interns.

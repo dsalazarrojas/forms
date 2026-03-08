@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose and fields are well understood by the end users to get accurate and relevant feedback. This form is intended for evaluating staff training content, and it's crucial that each field is filled out correctly to provide useful insights. Please review this form carefully and ensure you're not duplicating any existing feedback. If you're unsure about any field, please reach out to the form admin for clarification.
-</thinking>
-
 # Staff Training Content Evaluation Form - Help Guide
 
 ## Purpose

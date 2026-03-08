@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect conference check-in information from attendees. The purpose of the form is to gather necessary details such as attendee names, contact information, and preferences for a seamless conference experience. This form ensures that attendees can efficiently provide required information and opt-in for optional services like conferences materials and networking opportunities.
-
-The form's layout and options are designed to be user-friendly, making it easy for attendees to navigate and complete the form in a timely manner. The required fields are marked as such to avoid any confusion. This guide will walk through each field's purpose and how to complete it correctly.
-
-</thinking>
-
 # Conference Check In Form - Help Guide
 ## Purpose
 The Conference Check In Form is designed to collect attendee information for a smooth conference experience.

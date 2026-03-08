@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Education Quality Complaint Form - Help Guide
 ## Purpose
 This form is for students to submit complaints about any issues related to education quality. Please use this form to report any issues you've experienced with your educational institution.

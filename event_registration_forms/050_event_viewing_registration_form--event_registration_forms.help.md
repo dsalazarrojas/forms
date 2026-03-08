@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information about event viewing registrations. The form is likely to be used by event organizers to gather information from attendees before an event takes place. This form does not seem to be a duplicate of any other form in the organization. 
-
-The form appears to be collecting demographic information (name, email, phone) and details specific to the event (event date, event time, venue, etc.). The "RSVP Type" field suggests that the event may have different types of viewing options (virtual, in-person, or group). The "Session Selection" field also indicates that the event may have multiple viewing sessions to choose from. 
-
-The form does not seem to have any specific business logic or validation rules. Therefore, the explanation and instructions below will be based on the provided YAML fields.
-
-</thinking>
-
 # Event Viewing Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from event attendees about their viewing preferences and details.

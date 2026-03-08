@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect RSVP information from individuals attending a thanksgiving dinner event. This form is crucial for the host to determine the number of guests and their preferences for the event. By completing this form, attendees can choose to attend or not, provide their contact information, and leave a message for the host. The form is designed to be simple and straightforward, making it easy for users to quickly submit their responses.
-
-This form is intended to be used by attendees of the thanksgiving dinner event, and its completion is required for accurate headcount and planning. Please note that the fields are designed to be filled in according to the provided options in the corresponding dropdown menus.
-</thinking>
-
 # Thanksgiving Dinner RSVP - Help Guide
 ## Purpose
 This form is for individuals who are attending or not attending the thanksgiving dinner event. It helps the host to plan and prepare for the event accordingly.

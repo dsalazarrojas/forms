@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from event organizers and attendees for a public relations event. Its purpose is to gather essential details about the event and the attendee(s). The form is not affiliated with any proprietary form platforms, and its content is generated using AI.
-</thinking>
-
 # public-relations-event-registration-form - Help Guide
 ## Purpose
 This form is intended for event organizers and attendees to provide details about a public relations event. It is used to gather information about the event and the attendees.

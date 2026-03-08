@@ -1,19 +1,3 @@
-<thinking>
-
-The Artisan Delegation Impact Survey is a tool used to gather information about the impact of artisan delegation programs on participants. This survey aims to understand the effects of these programs on individual artisans, their organizations, and the wider community. The survey is designed to be completed by artisans who have participated in or are familiar with delegation programs.
-
-The survey will help us understand:
-
-* The role of artisans within their organizations
-* The duration and type of delegation programs
-* The overall impact of these programs on artisans and their communities
-* The economic and skills-based impacts of the programs
-* The sustainability and future potential of the programs
-
-This form is a crucial part of our research effort to improve and refine artisan delegation programs.
-
-</thinking>
-
 # Artisan Delegation Impact Survey - Help Guide
 
 ## Purpose

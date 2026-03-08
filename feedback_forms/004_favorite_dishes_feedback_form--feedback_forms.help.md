@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the favorite_dishes_feedback_form form. Please note that the form is designed to collect feedback about favorite dishes, and each field is meant to provide detailed input for this purpose. It's essential to review the form carefully to ensure that you provide relevant feedback and avoid duplicating information. The form is not designed for general comments or open-ended questions, so try to stick to the specific fields and options provided to provide the most valuable feedback.
-</thinking>
-
 # favorite_dishes_feedback_form - Help Guide
 ## Purpose
 The favorite_dishes_feedback_form is designed to collect feedback about favorite dishes. It's intended to help us understand what you enjoy eating and what aspects of the dishes make them appealing to you.

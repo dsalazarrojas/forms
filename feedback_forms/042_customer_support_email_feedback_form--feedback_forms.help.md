@@ -1,10 +1,7 @@
 # customer_support_email_feedback_form - Help Guide
 ## Purpose
-<thinking>...</thinking>
 This form is designed to collect customer feedback and issues related to support. It is meant to gather specific information about the customer's experience with your product or service, including the type of feedback they want to provide, a summary of the problem they faced, and details about the resolution they received. This form is a crucial tool for understanding customer needs and improving support services.
 
-<thinking>
-</thinking>
 ## How To Complete This Form
 
 To complete this form, follow these steps:

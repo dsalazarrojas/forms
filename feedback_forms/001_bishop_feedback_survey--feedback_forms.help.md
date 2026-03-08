@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Bishop Feedback Survey form, I need to understand the purpose and context of the form. Based on the provided YAML fields, it appears that this form is designed to collect feedback from parish members or individuals about the bishop's leadership and communication effectiveness. The form is likely used to gauge the level of satisfaction with the bishop's performance, identify areas of improvement, and provide constructive feedback. This feedback is essential for the bishop to understand the community's concerns and needs, making informed decisions to serve the parish better.
-
-Before creating the help guide, I would like to ensure that this form is relevant to the target audience and does not duplicate any existing forms or surveys. I will also make sure that the guide is concise, concrete, and practical, covering the form's purpose, step-by-step instructions, and field-by-field explanations. I will use the YAML fields to create a user-friendly guide that addresses the specific requirements and expectations of the form.
-
-</thinking>
-
 # Bishop Feedback Survey - Help Guide
 ## Purpose
 This guide helps you complete the Bishop Feedback Survey form, which is designed to gather your honest feedback about the bishop's leadership and communication effectiveness. Your input will assist the bishop in understanding the community's concerns and make informed decisions to serve the parish better.

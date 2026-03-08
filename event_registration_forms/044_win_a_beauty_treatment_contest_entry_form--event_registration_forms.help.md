@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide will walk the user through the "Win A Beauty Treatment Contest Entry Form" to ensure they understand its purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Win A Beauty Treatment Contest Entry Form - Help Guide
 ## Purpose
 The Win A Beauty Treatment Contest Entry Form is designed for customers to submit their entries for a beauty treatment contest. The form collects essential information to validate and process their entries.

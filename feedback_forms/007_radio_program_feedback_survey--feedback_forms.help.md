@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in providing valuable feedback on our radio programs. The purpose of this form is to gather information about user preferences and suggestions for improvement. To ensure that your feedback is accurate and helpful, please review the following guide carefully.
-
-</thinking>
-
 # Radio Program Feedback Survey - Help Guide
 ## Purpose
 The Radio Program Feedback Survey is a tool used to gather information about our radio programs and to gather feedback from users. The information collected will help us improve our programming and better serve our audience.

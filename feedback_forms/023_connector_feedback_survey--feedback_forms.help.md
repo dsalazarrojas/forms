@@ -1,14 +1,3 @@
-<thinking>
-This guide is intended for the end-user who wants to provide feedback on the connector they are using. 
-The form is designed to gather information about your experience with the connector, including its ease of use, reliability, and features satisfaction. 
-It is not a test or a survey for marketing purposes.
-
-This guide is a one-time use form and not a recurring feedback mechanism. 
-Please ensure that you have tried to use the connector at least once before providing your feedback. 
-Please do not fill in this form multiple times.
-
-</thinking>
-
 # Connector Feedback Survey - Help Guide
 ## Purpose
 This form is designed to help us improve the Connector you are using. Your feedback will help us identify areas for improvement and ensure that the Connector meets your needs. Please answer the questions honestly and to the best of your ability.

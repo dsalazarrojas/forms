@@ -1,14 +1,3 @@
-<thinking>
-This form is used to request lockout or tagout of equipment in the facility. Lockout refers to the process of locking out or isolating equipment to prevent it from operating or being used, while tagout refers to temporarily removing a lockout tag from the equipment to perform maintenance or repairs. The form is used to track and document the lockout or tagout status, and to request authorization from authorized personnel for these changes.
-
-Before completing this form, please ensure that:
-* You have a legitimate reason for requesting lockout or tagout of the equipment.
-* You have not already submitted a similar request for this equipment.
-* You have the necessary approvals and authorizations to complete this form.
-
-To complete this form, follow the steps below:
-</thinking>
-
 # LOTO Authorization Form - Help Guide
 ## Purpose
 The purpose of this form is to request lockout or tagout of equipment in the facility. This form is used to document and track the lockout or tagout status of equipment, and to request authorization from authorized personnel for these changes.

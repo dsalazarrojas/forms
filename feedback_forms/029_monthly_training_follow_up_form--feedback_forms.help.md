@@ -1,9 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a "Monthly Training Follow Up Form" that is designed to track participants' feedback and progress after a training session. This form aims to collect information about each participant, including their category, description, date, training type, location, comments, ID, email, phone, training status, rating, rating scale, follow up, and participant follow up status. The form appears to be designed for tracking progress and providing a systematic way to follow up with participants.
-
-The form is composed of multiple sections, with some fields required and others optional. Some fields have specific options, while others are free-text fields for additional comments. The "Monthly Training Follow Up Form" seems to be designed for both tracking and follow-up purposes. Before using this form, it's essential to review and understand its fields and options to ensure accurate and efficient data collection.
-</thinking>
-
 # Monthly Training Follow Up Form - Help Guide
 ## Purpose
 The "Monthly Training Follow Up Form" is designed to track participants' progress and provide a systematic way to follow up with them. It is used to collect information about each participant, including their category, description, date, training type, location, comments, ID, email, phone, training status, rating, rating scale, follow up, and participant follow up status.

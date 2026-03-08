@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather feedback on the effectiveness of a training program. The purpose is to assess whether the training program was helpful, effective, or not. We want to know how the participant experienced the program and whether there's room for improvement. This form will be completed by participants to provide feedback on their experience. This form is likely to be completed by individuals who have participated in a training session, so let's check that the participant hasn't already completed the form.</thinking>
-
 # learning_verification_survey - Help Guide
 
 ## Purpose

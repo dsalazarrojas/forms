@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Fitness Instructor Feedback Survey" form. This form is used to collect feedback and information about fitness instructors. To ensure that this form is completed correctly, we need to provide clear instructions and explanations for each field. This guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # Fitness Instructor Feedback Survey - Help Guide
 ## Purpose
 The Fitness Instructor Feedback Survey is a form used to collect feedback and information about fitness instructors. This survey is designed to help instructors provide valuable insights and feedback about their performance, teaching style, and areas for improvement.

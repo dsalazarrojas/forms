@@ -1,16 +1,3 @@
-<thinking>
-We're creating a help guide for the "Team Performance Reflection Survey" form. This form is designed to gather feedback from teams to assess their performance and identify areas for improvement. By providing detailed explanations of each field, we aim to ensure that end-users understand the purpose and expectations of each question. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-To complete this form, follow the instructions below:
-
-1. Fill in the team name and size for each team you're evaluating.
-2. Rate the performance of each team using a number rating system.
-3. Select the leadership position within the team (Team Lead or Team Member).
-4. Assess the leadership quality, communication, time management, collaboration, innovation, trust, and conflict resolution within the team using the provided options.
-5. Repeat steps 2-4 for each additional team you're evaluating.
-
-</thinking>
-
 # Team Performance Reflection Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on team performance from team members. It's a self-assessment tool to help teams identify areas for improvement and provide a comprehensive understanding of their strengths and weaknesses.

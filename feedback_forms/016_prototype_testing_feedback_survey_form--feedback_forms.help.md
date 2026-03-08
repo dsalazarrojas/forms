@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users who test a prototype, a preliminary version of a product or service. The purpose of this form is to gather information about the user's experience with the prototype, including any suggestions they may have for improvement. This form is not meant to be a rigorous or formal evaluation, but rather a way for the development team to gain valuable insights from potential users.
-
-To ensure that you're providing relevant feedback, please only complete this form if you have actually tested the prototype. If you haven't tested the prototype, your feedback may not be useful to us. Additionally, please don't fill out this form if you've already submitted feedback in the past. Duplicate feedback is not helpful and may cause unnecessary work for our team.
-
-</thinking>
-
 # Prototype Testing Feedback Survey Form - Help Guide
 ## Purpose
 The Prototype Testing Feedback Survey Form is designed to collect feedback from users who test a prototype, a preliminary version of a product or service. This form helps the development team gather information about the user's experience with the prototype and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>Before creating a user-facing help guide for this form, let me first explain the form's purpose and relevance. The form appears to be designed for evaluating the impact of a volunteer program. The purpose of the form is to gather information about the effectiveness and participant satisfaction with the program. The form is likely intended for internal use within the organization, such as by program administrators, to assess the program's progress and areas for improvement. The form should be completed by program participants, likely through a survey or evaluation process.</thinking>
-
 # Volunteer Program Impact Evaluation Form - Help Guide
 ## Purpose
 The Volunteer Program Impact Evaluation Form is designed to gather information about the effectiveness and participant satisfaction with the volunteer program. This form is intended for program participants to provide their feedback and evaluation of the program.

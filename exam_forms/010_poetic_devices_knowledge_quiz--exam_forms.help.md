@@ -1,9 +1,3 @@
-<thinking>
-To help determine the purpose of the form, let's look at its title and the field types: the "Poetic Devices Knowledge Quiz" title suggests that it's a quiz about poetic devices, and the various field types (text, select_one, select_multiple) confirm that it's a form to assess knowledge about different poetic devices. The form does not include any fields that would suggest it's for anything other than a quiz, so it's likely that its purpose is to test users' understanding of different poetic devices.
-The form does not include any fields that would suggest it's for data collection or other purposes, so it's likely that it's not a form for data collection or other purposes.
-The form includes fields with options that are likely to be related to poetic devices, so it's likely that it's not a form for data collection or other purposes.
-</thinking>
-
 # Poetic Devices Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of poetic devices, a literary technique used to convey meaning and create vivid descriptions in poetry and literature.

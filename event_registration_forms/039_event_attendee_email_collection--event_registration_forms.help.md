@@ -1,12 +1,3 @@
-<thinking>
-The form "Event Attendee Email Collection" is designed to collect information about attendees of an event, such as conferences, meetups, or seminars. The form includes fields for the attendee's email, name, organization, job title, department, job function, address, zip code, city, country, phone number, and language. This form is intended to be used by event organizers to collect contact information from attendees and to follow up with them after the event. The form does not require any field to be completed, but filling out all fields will provide a more complete and accurate record of the attendee's contact information.
-
-The primary purpose of this form is to collect attendee's data for post-event follow-up and communication. This can include sending follow-up emails, surveys, or promotional materials.
-
-Please note that this form does not collect any sensitive or personally identifiable information, and all the fields are optional.
-
-</thinking>
-
 # Event Attendee Email Collection - Help Guide
 ## Purpose
 The form is designed to collect contact information from attendees of an event, such as conferences, meetups, or seminars, to facilitate post-event follow-up and communication.

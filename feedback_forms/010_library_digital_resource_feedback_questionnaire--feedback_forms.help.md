@@ -1,7 +1,3 @@
-<thinking>
-We need to verify that the form is used for its intended purpose and that the user has not filled out the form before. This form is designed to collect feedback from users about library digital resources, and it's essential that we ensure that each field is filled out correctly and accurately. To avoid duplicates, we'll check if the user has filled out this form before and prevent them from doing so again.
-</thinking>
-
 # Library Digital Resource Feedback Questionnaire - Help Guide
 
 ## Purpose

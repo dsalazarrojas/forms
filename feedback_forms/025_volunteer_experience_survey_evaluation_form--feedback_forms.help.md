@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Experience Survey Evaluation Form - Help Guide
 ## Purpose
 The Volunteer Experience Survey Evaluation Form is a tool used to gather information from volunteers about their experiences with our organization. This form helps us understand how our volunteers are utilizing their time and skills, and to identify areas of improvement in our volunteer program. Completing this form will provide valuable insights to help us better support our volunteers and enhance their experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form will help us understand the current state of cleanup efforts in your neighborhood. Please fill out this form to provide feedback on the top issues and concerns in your area. This will help us tailor our resources and volunteers to better support your neighborhood. We will review the data collected through this form to identify trends and areas of focus for our cleanup initiatives.
-</thinking>
-
 # Cleanup Strategy Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about the state of cleanup efforts in your neighborhood. Please complete this form to provide us with feedback on the top issues and concerns in your area.

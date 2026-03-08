@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and understandable for end-users. This guide will help them fill out the form correctly and efficiently.
-</thinking>
-
 # learning_resources_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and survey information from users about learning resources at the institution. The goal is to understand user perceptions and experiences with these resources.

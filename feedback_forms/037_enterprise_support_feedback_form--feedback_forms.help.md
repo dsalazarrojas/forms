@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Enterprise Support Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is for customers or employees to provide feedback on their experience with our organization. This form is used to gather information about their satisfaction and any issues they may have encountered. The feedback will be reviewed and used to improve our services.

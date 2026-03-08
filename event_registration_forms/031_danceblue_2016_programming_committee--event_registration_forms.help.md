@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect event registration information for the "Danceblue 2016 Programming Committee". It is designed to gather data about event titles, categories, descriptions, start dates and times, venues, program names, participants, email addresses, phone numbers, and additional notes. This form is likely used to register events or programs for the Danceblue 2016 event, and the data collected will be used to organize and manage the event schedule.
-
-To avoid duplication, ensure that each event is not registered more than once. If you're unsure about the event status, please contact the event organizers.
-
-Before starting to fill the form, ensure that you have all the necessary information about the event.
-
-This form should be filled out by authorized users only, as it collects sensitive information about event organizers and participants.
-
-The form has the following fields which are explained below.
-</thinking>
-
 # Danceblue 2016 Programming Committee - Help Guide
 ## Purpose
 The Danceblue 2016 Programming Committee form is used to collect and manage event registration information for the Danceblue 2016 event.

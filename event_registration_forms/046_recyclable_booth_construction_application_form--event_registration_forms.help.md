@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information for an event registration application for a recyclable booth construction event. It is designed to gather details about the event, such as the event location, type, and date, as well as contact information for the event organizer. The form also asks about the booth's design and setup requirements. The purpose of this form is to ensure that all necessary information is collected for a successful event.
-
-To avoid duplication of effort, please review the form carefully and ensure that all required fields are filled in accurately. This form is used to help our team prepare for the event.
-
-Please note that this form is a one-time application form and should be submitted only once for each event. If you have any questions or concerns, please don't hesitate to contact us.
-
-</thinking>
-
 # Recyclable Booth Construction Application Form - Help Guide
 ## Purpose
 The Recyclable Booth Construction Application Form is used to collect information for an event registration application for a recyclable booth construction event.

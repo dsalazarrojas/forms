@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from chapter members on their satisfaction with the chapter's events, leadership, communication, and overall experience. The form is meant to gauge their engagement, satisfaction, and willingness to recommend the chapter to others. The fields in this form will help the chapter leadership understand where they need to improve and make necessary adjustments to better serve their members. By filling out this form, members can help make their chapter a more enjoyable and valuable experience for all.
-
-</thinking>
-
 # Chapter Satisfaction Survey - Help Guide
 ## Purpose
 The Chapter Satisfaction Survey is designed to gather feedback from chapter members on their experiences and perceptions of the chapter's events, leadership, and overall engagement. This survey helps the chapter leadership understand areas that need improvement and identify opportunities for growth.

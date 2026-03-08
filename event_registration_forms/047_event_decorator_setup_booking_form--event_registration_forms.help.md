@@ -1,13 +1,3 @@
-<thinking>
-
-This form seems to be a setup form for decorators at an event, likely for events like weddings, parties, or corporate events. The form's purpose is to gather information from the customer (the event host or organizer) to set up a decorator for their event. This form likely collects details about the event, customer preferences, and contact information. The form appears to be designed to be filled out by the customer, and the information collected will be used to provide a tailored setup for their event. 
-
-This form is likely used in a business-to-business (B2B) or business-to-consumer (B2C) setting, where the customer is interacting with a service provider (the event decorator). The form is probably electronic, as it's structured in a format that's easily readable by computers.
-
-Before proceeding with this form, please ensure that you have reviewed our event decorator services and have all necessary information about your event ready.
-
-</thinking>
-
 # Event Decorator Setup Booking Form - Help Guide
 ## Purpose
 The Event Decorator Setup Booking Form is used to gather event details, customer preferences, and contact information from customers to set up a tailored decorator experience for their events.

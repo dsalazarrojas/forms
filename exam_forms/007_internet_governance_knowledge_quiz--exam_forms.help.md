@@ -1,5 +1,3 @@
-<thinking>...this form is for assessing knowledge on internet governance, which is a set of rules and principles that govern the use of the internet, including its technical and social aspects. This form will likely be filled out by individuals who have a basic understanding of the internet and its various aspects, but want to test their knowledge in a more comprehensive and structured way. The form will not be filled out multiple times, as it is a quiz.</thinking>
-
 # Internet Governance Knowledge Quiz - Help Guide
 ## Purpose
 The Internet Governance Knowledge Quiz is a form designed to assess your knowledge on internet governance, including its technical and social aspects. This quiz will cover topics such as internet governance principles, DNS, neutrality, ICANN, and more.

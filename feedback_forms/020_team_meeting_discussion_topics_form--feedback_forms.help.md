@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is filled out correctly, it's essential to understand that this form is intended to be used for submitting discussion topics and action items related to team meetings. This form should not be used to create new meetings; instead, it's meant to help the meeting leader prepare for the discussion by collecting relevant topics and tasks to be covered during the meeting. It's crucial to fill out this form only for meetings that have already been scheduled, and not for new meeting proposals. Please review the form carefully to make sure you're not duplicating information that's already been submitted or discussed. 
-</thinking>
-
 # Team Meeting Discussion Topics Form - Help Guide
 ## Purpose
 The Team Meeting Discussion Topics Form is a tool to help the meeting leader prepare for the discussion by collecting relevant topics and tasks to be covered during the team meeting.

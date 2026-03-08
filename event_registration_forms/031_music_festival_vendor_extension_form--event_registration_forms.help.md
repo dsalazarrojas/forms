@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # music_festival_vendor_extension_form - Help Guide
 ## Purpose
 The music festival vendor extension form is designed to collect information from vendors interested in extending their services or products to the music festival. The form is used to gather details about the vendor's business, including their contact information, event-related information, and contract terms.

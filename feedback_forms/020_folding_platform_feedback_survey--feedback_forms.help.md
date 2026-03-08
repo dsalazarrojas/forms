@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Folding Platform Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and input from users on the Folding Platform, which will help us improve and refine the platform to better meet your needs.

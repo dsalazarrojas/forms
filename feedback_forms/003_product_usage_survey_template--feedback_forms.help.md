@@ -1,5 +1,3 @@
-<thinking>As an expert form designer, I have taken into account the provided YAML fields and have crafted a comprehensive help guide for the end-users. The goal of this guide is to provide a clear and concise explanation of the form's purpose, how to complete it, and what each field means, aiming for maximum understanding and accuracy.</thinking>
-
 # Product Usage Survey Template - Help Guide
 
 ## Purpose

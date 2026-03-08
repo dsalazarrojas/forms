@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Residential Move In Experience Survey - Help Guide
 ## Purpose
 The "Residential Move In Experience Survey" form collects information about a tenant's experience during their recent move-in process. This helps us understand how well we're meeting your needs as a tenant. By filling out this form, you'll help us identify areas of improvement and create a better living environment for you and your community.

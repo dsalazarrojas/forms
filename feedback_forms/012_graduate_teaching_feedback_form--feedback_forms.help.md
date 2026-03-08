@@ -1,13 +1,3 @@
-<thinking>
-
-We are creating a Graduate Teaching Feedback Form to gather valuable insights from students about the effectiveness of our educational programs. This form will help us understand what works well and what areas need improvement. 
-
-This form will be used by both students and staff members. We will use the data collected to evaluate and refine our programs, making sure our students receive the best possible educational experience. 
-
-To ensure accurate and useful feedback, please only complete this form for your own experiences. Duplicate feedback from the same user will not be accepted. Please provide honest and specific feedback, and keep it concise and clear. 
-
-</thinking>
-
 # Graduate Teaching Feedback Form - Help Guide
 ## Purpose
 

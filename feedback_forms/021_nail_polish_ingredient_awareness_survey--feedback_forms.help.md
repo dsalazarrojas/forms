@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be using the Nail Polish Ingredient Awareness Survey form. The purpose of this form is to gather information about users' awareness and concerns regarding the ingredients used in nail polishes. This form is designed to be completed by individuals with a basic understanding of nail polishes, and its content is intended to be clear and easy to comprehend.
-
-Before starting, please ensure that you haven't completed this form before, as it may lead to unnecessary repetition of the same answers. If you're unsure about any of the fields or options, you can refer to this guide for clarification.
-
-</thinking>
-
 # Nail Polish Ingredient Awareness Survey - Help Guide
 
 ## Purpose

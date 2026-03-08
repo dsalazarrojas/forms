@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to be used by employees of the organization to provide feedback on their participation in a particular project or initiative. To ensure that the feedback is relevant and non-duplication, this guide will only be displayed to users who have been specifically invited to participate in the feedback process. 
-
-When completing this form, users should provide honest and accurate feedback, taking into consideration that all fields are optional. If an user has already participated in the feedback process, do not fill in this form. The purpose of this form is to gather feedback from multiple sources to improve the organization's services and overall performance. 
-
-</thinking>
-
 # survey_participation_form - Help Guide
 
 ## Purpose

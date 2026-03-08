@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Story Evaluation Scorecard - Help Guide
 
 ## Purpose

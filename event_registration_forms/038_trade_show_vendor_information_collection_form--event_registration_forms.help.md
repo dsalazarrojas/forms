@@ -1,9 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "trade_show_vendor_information_collection_form" form, ensuring that end-users understand its purpose and each field's significance. I will review the form's YAML configuration and provide a clear, concise, and practical explanation for each field. I will also include an internal reasoning block to verify the form's purpose and avoid duplicating existing documentation.
-
-Before proceeding, I will check if there are any redundant or unnecessary fields that can be removed or modified for better user experience and to avoid confusion.
-
-After the internal reasoning block, I will create the user-facing help guide in Markdown format, as requested.</thinking>
-
 # trade_show_vendor_information_collection_form - Help Guide
 ## Purpose
 The trade_show_vendor_information_collection_form is designed to collect essential information from vendors participating in a trade show or event. This form helps event organizers gather details about vendors, such as their name, contact person, and event dates, which are crucial for event planning and execution.

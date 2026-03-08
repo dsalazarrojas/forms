@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about venues that require management. The form is meant for facilities managers to report on the status of events at their venues, including any incidents that have occurred, maintenance needs, and any comments or notes they may have. This form is likely to be used for reporting and tracking purposes, and the information collected will be used to inform decisions about venue management. It's recommended that users only complete this form if they are authorized to do so and have access to the relevant information.
 
 # Venue Management Report - Help Guide

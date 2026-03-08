@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the satisfaction of users who have received support from your organization. It will help us understand how we can improve our service and provide better support in the future. We may follow up with you to gather more information, but your responses will be kept confidential and used to improve our service. This form will not be shared or duplicated.
-</thinking>
-
 # Support Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users who have received support from our organization. It helps us understand how we can improve our service and provides valuable insights for future improvement.

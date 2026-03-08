@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to gather feedback from attendees of a professional networking event. It aims to collect information about the event type, attendees' experiences, and suggestions for improvement. To maintain the accuracy and relevance of the feedback, please note that this form should only be completed by attendees who have participated in the event. Repeating the feedback or submitting it on behalf of someone else will not be considered as valid responses. If you have already provided feedback on this event, please do not submit it again. 
-</thinking>
-
 # professional networking event survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of a professional networking event. Your input will help us improve and refine future events.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess knowledge about the physiology of the stomach and its related processes. The purpose of the quiz is to evaluate the understanding of key concepts related to gastric function, including gastric cells, hormones, mucosal protection, and other aspects of gastric physiology.
-
-Before proceeding, please ensure that you have not completed this form previously. If you have, the data will not be recorded again.
-
-This form was created using AI and is an original adaptation of public survey topic metadata. It is not affiliated with, endorsed by, or derived from any form platform.
-
-</thinking>
-
 # Gastric Physiology Knowledge Quiz - Help Guide
 ## Purpose
 This quiz aims to evaluate your knowledge of gastric physiology, a crucial process in the digestive system that involves the movement and secretion of digestive enzymes, hormones, and mucosal protection.

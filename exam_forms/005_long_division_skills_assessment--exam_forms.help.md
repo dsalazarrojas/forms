@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Long Division Skills Assessment - Help Guide
 ## Purpose
 The Long Division Skills Assessment form is designed to evaluate an individual's long division skills, which is a fundamental math operation in arithmetic. This assessment is intended for students or individuals who need to demonstrate their proficiency in performing long division calculations.

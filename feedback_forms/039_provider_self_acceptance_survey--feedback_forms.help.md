@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess a provider's self-acceptance, personal wellbeing, and mental health discussions with colleagues and management. The purpose of this form is to gauge the level of self-acceptance, personal wellbeing, and mental health discussions among providers. This form is intended for providers to rate their level of satisfaction with their environment, colleagues, and management, as well as their self-awareness and mental health discussions. 
-Before filling out this form, please consider the following questions: 
-- Are you currently taking this survey? 
-- Have you completed this survey previously? 
-</thinking>
-
 # Provider Self Acceptance Survey - Help Guide
 ## Purpose
 This form is designed to assess a provider's self-acceptance, personal wellbeing, and mental health discussions with colleagues and management. 

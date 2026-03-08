@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from sellers about their business details for discovery purposes. This form is used to identify and categorize sellers, which will help us better understand their needs and preferences. The form will help us identify the type of seller (Retailer, Wholesaler, Distributor, etc.), the category of products they deal with, and their contact method and availability.
-
-To ensure consistency and accuracy, we will review each response carefully for any duplicates or irrelevant information.
-
-</thinking>
-
 # Seller Discovery Survey - Help Guide
 ## Purpose
 This form is designed to collect information from sellers about their business details for discovery purposes.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive user-facing help guide for the "Facility Energy Benchmarking Registration" form. This form is designed to collect important information about a facility's energy consumption and benchmarking status. To ensure relevance and non-duplication, I will carefully review each field and provide concrete, concise explanations for end-users to understand its purpose and how to complete it accurately.</thinking>
-
 # Facility Energy Benchmarking Registration - Help Guide
 ## Purpose
 The "Facility Energy Benchmarking Registration" form is designed to help facilities collect and track their energy consumption and benchmarking status. This information is essential for understanding a building's energy usage, identify areas of improvement, and meet regulatory requirements.

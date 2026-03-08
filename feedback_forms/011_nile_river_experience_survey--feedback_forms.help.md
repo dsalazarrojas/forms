@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to collect feedback from guests after a tour or experience with a Nile River guide or tour operator. The form is likely used by the tour company to gather information on the guests' experiences, satisfaction, and any issues or suggestions they may have. This form is not intended for public display and is used internally by the company to improve its services and communication with its guests. To avoid duplicating effort, please ensure that you have not already submitted this form for this specific tour or experience.
-
-</thinking>
-
 # Nile River Experience Survey - Help Guide
 ## Purpose
 The Nile River Experience Survey is a form designed to collect feedback from guests after a tour or experience with a Nile River guide or tour operator.

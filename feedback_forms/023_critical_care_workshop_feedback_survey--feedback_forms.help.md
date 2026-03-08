@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from attendees of the Critical Care Workshop on their overall experience, facilities, materials, presentation quality, and other aspects of the workshop. This feedback will help us to identify areas for improvement and enhance future workshops.
-
-Before filling out this form, please make sure that you are providing feedback on a specific workshop that you have attended. If you have already submitted feedback on the same workshop, your responses will not be recorded again, but please feel free to add any new comments or suggestions that may not have been captured in your previous response.
-
-To complete this form, simply go through each page and fill out the corresponding fields with your honest feedback. For each question, please select the answer that best reflects your opinion, or type in your response in the provided text box. Make sure to save your responses so you don't have to start over from the beginning in case you need to add more information or edit your answers.
-
-Below is a detailed explanation of each field:</thinking>
-
 # Critical Care Workshop Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from attendees of the Critical Care Workshop on their overall experience, facilities, materials, presentation quality, and other aspects of the workshop. This feedback will help us to identify areas for improvement and enhance future workshops.

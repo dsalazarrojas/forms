@@ -1,12 +1,3 @@
-<thinking>
-The form "soil_sample_information_form" is used to collect information about soil samples submitted to a lab for testing. This form ensures that all necessary details are captured correctly, including sample collection date, location, and lab test information. It also includes fields for lab test results, sample characteristics, and lab test requests.
-
-To avoid duplication or errors, ensure that you have not already submitted this form for the same sample. If you are unsure whether you have already submitted this form, you can check with your lab technician or supervisor.
-
-This form is divided into several sections, each with specific fields to gather relevant information. Please complete each section carefully to ensure accurate and complete data entry.
-
-</thinking>
-
 # soil_sample_information_form - Help Guide
 ## Purpose
 The purpose of this form is to collect soil sample information for lab testing.

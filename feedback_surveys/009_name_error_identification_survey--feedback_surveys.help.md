@@ -1,13 +1,3 @@
-<thinking>
-
-The form "Name Error Identification Survey" is designed to identify potential errors in names displayed in documents. Its purpose is to gather information from users about the accuracy of names, which can be a common issue in various contexts, such as in personal identification, communication, or data entry. This form is used to collect feedback from users about their experiences with name errors, which can help to improve the overall accuracy of name displays in systems and documents. 
-
-The form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata. It is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-
-This form is designed to be completed by users who have encountered issues with name errors, and it is not intended for general public use. The form is composed of 13 pages, each with its own specific purpose and fields.
-
-</thinking>
-
 # Name Error Identification Survey - Help Guide
 ## Purpose
 The "Name Error Identification Survey" is designed to help identify and improve the accuracy of names displayed in documents. This survey is meant to gather information from users who have encountered issues with name errors.

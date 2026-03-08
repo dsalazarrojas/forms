@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's clarify the purpose and usage of the Sound Quality Complaint Form. This form is designed to collect feedback on sound quality issues, helping us to identify and address potential problems. Please note that the form should be used for new issues only, and if you have already submitted a complaint, please refrain from resubmitting the same issue. To ensure accurate reporting, please provide as much detail as possible for each field.</thinking>
-
 # Sound Quality Complaint Form - Help Guide
 ## Purpose
 The Sound Quality Complaint Form is a tool for reporting issues related to sound quality. It helps us to identify problems and make improvements to our sound systems.

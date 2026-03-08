@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from students about their experience on the student portal. The purpose of this form is to gather information on student satisfaction, feature usage, technical issues, and suggestions for improvement. This form is intended for students to provide their honest feedback, which will help us to better understand their needs and improve the student portal. We encourage students to be as specific as possible when filling out this form. We will review all feedback forms to ensure that we don't receive duplicate or irrelevant feedback.
-</thinking>
-
 # Student Portal Feedback Form - Help Guide
 ## Purpose
 The Student Portal Feedback Form is designed to collect feedback from students about their experience on the student portal. It's intended to be a helpful and user-friendly form that allows students to share their thoughts and suggestions for improvement.

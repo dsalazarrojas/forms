@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge of the end-user regarding the nervous system. The purpose of this form is to evaluate the user's understanding of the different components of the nervous system, including nerve cells, fibers, roots, trunks, and other related concepts. The form is composed of multiple pages, each with its own set of fields. The form asks the user to select or type information about the nervous system concepts and also provides space for feedback and results. It is essential to complete this form accurately to ensure that the user's knowledge about the nervous system is up-to-date and reliable.
-</thinking>
-
 # Nervous System Knowledge Assessment - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the user's knowledge about the nervous system, specifically about its different components such as nerve cells, fibers, roots, and trunks.

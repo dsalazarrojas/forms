@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users assess their knowledge of emulsions. It's a series of 25 questions that aim to gauge the user's understanding of various aspects of emulsions, from basic concepts to advanced topics. The form is structured in a way that each question is separate and distinct from the others, making it easier to focus on one topic at a time. This is a self-assessment tool, and users can use it to evaluate their own knowledge and identify areas where they need improvement. By completing this form, users will be able to gain insights into their strengths and weaknesses in the subject matter. This form does not collect any sensitive or personal data, and the information collected will only be used for internal purposes.
-
-</thinking>
-
 # Emulsion Knowledge Quiz - Help Guide
 ## Purpose
 The Emulsion Knowledge Quiz is a self-assessment tool designed to evaluate your understanding of emulsions. It consists of 25 questions that cover various topics related to emulsions.

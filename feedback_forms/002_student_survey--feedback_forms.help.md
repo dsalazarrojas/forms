@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Survey - Help Guide
 ## Purpose
 The Student Survey is designed to gather your opinions and thoughts about the curriculum and teaching materials of your educational institution. This form is a way to provide feedback on what you think about the course content, materials, and facilities. Your input will help the educators and administrators understand what works well and what can be improved, ultimately contributing to the creation of a better learning environment for all students.

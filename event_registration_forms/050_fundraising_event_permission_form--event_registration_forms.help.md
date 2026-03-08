@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be filled out by participants or their guardians in order to obtain permission for a participant to attend a fundraising event. This form ensures that we have accurate and complete information about the participant and their contact details. Before filling out this form, please ensure that you have the necessary permissions from the participant (or their guardian) and that you are providing accurate information.
-</thinking>
-
 # Fundraising Event Permission Form - Help Guide
 ## Purpose
 This form is used to obtain permission for a participant to attend a fundraising event. It collects information about the participant, their contact details, and the event date and time.

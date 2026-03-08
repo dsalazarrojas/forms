@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to measure the impact of our advisory services on clients' businesses, aiming to understand the effectiveness of our services in terms of revenue growth, operational efficiency, strategic clarity, risk mitigation, and other areas. By providing feedback through this form, we hope to improve our services to better meet your evolving needs.
-
-We may have already collected similar feedback from you through other surveys or communications. Please only provide feedback if it's significantly new or if you are willing to update your previous answers.
-</thinking>
-
 # Client Advisory Service Impact Survey - Help Guide
 ## Purpose
 The Client Advisory Service Impact Survey is a form designed to gather information about the impact of our advisory services on your business. This form will help us understand how our services have contributed to your company's growth and development.

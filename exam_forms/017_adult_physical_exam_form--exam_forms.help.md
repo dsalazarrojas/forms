@@ -1,7 +1,3 @@
-<thinking>
-This form is used for medical professionals to perform a thorough physical exam on adults, gathering crucial health information and documenting findings. It's essential to complete this form accurately and comprehensively to ensure the patient's health status is thoroughly assessed. Please ensure the form is filled out for each adult patient individually to avoid duplication of effort and maintain accurate records.
-</thinking>
-
 # Adult Physical Exam Form - Help Guide
 ## Purpose
 This form is designed to be used for adult physical exams, providing a comprehensive structure for healthcare professionals to gather and document vital information about patients.

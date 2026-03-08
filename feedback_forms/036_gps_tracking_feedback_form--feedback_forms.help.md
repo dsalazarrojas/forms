@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # GPS Tracking Feedback Form - Help Guide
 
 ## Purpose

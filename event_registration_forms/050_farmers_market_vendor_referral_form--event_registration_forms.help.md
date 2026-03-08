@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from farmers market vendors who are being referred by existing customers or partners. It's used to gather contact and demographic information about the vendor, as well as details about their relationship with the referrer. The form will likely be used by market managers or administrators to keep track of vendors and their relationships with customers, so it's essential to ensure that the data is accurate and up-to-date.
-</thinking>
-
 # farmers_market_vendor_referral_form - Help Guide
 ## Purpose
 This form is used to collect information from farmers market vendors who are being referred by existing customers or partners.

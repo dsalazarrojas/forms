@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect self-audit feedback from employees on their experiences and perceptions of the workplace culture, safety, job satisfaction, and overall work environment. This form is intended to help management gather honest feedback and identify areas for improvement. It's essential to fill out the form thoughtfully and truthfully to provide valuable insights.
-
-Please note that if you have already completed this form previously, your feedback is not duplicated, and your response will not be counted as a repeat.
-
-Before answering the questions, please consider providing honest and constructive feedback based on your experiences and feelings. This will help the management team understand your needs and make informed decisions to improve the work environment.
-
-</thinking>
-
 # self_audit_likert_scale_survey - Help Guide
 ## Purpose
 The self_audit_likert_scale_survey form is designed to gather feedback from employees on their experiences and perceptions of the workplace culture, safety, job satisfaction, and overall work environment. This form helps management gather honest feedback and identify areas for improvement.

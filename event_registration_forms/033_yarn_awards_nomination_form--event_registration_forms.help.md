@@ -1,20 +1,3 @@
-<thinking>
-
-The form is designed to collect information for Yarn Awards nominations, which is used to recognize individuals or organizations making outstanding contributions to the fiber industry. This guide will help end-users understand the purpose of the form, how to fill it out, and what each field means.
-
-The form consists of multiple pages, but the main fields that need to be filled out are:
-- Nominator Details (Page 2)
-- Nomination Category (Page 3)
-- Nominee Name (Page 4)
-- Nomination Title (Page 5)
-- Nomination Date (Page 6)
-- Nominator Contact Information (Page 7)
-- Nominee Address (Page 8)
-
-The nomination process is straightforward, and the form will guide users through each step.
-
-</thinking>
-
 # yarn_awards_nomination_form - Help Guide
 ## Purpose
 The Yarn Awards nomination form is designed to collect information for recognizing individuals or organizations that have made outstanding contributions to the fiber industry. The information collected will be used to evaluate and consider nominees for the Yarn Awards.

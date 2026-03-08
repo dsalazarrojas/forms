@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees of the charity gala event, specifically to collect information about their overall experience, satisfaction, and suggestions for improvement. Please fill out this form to help us understand what worked well and what didn't for future events. This form should only be filled out once by each attendee, and we kindly request that you be honest in your feedback. If you have already completed this form, please do not repeat your answers in a new submission.
-</thinking>
-
 # Charity Gala Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of the charity gala event to help us better understand their experience, identify areas for improvement, and make informed decisions for future events.

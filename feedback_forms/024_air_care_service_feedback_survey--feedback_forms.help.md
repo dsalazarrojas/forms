@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experience with the Air Care Service. The purpose of this form is to understand how we can improve our service delivery and what customers think about our service. By completing this form, customers will help us identify areas of strength and weakness, allowing us to make informed decisions about how to better serve them. 
-Please note that this form is not intended to collect sensitive or confidential information. Only complete this form if you are willing to provide feedback about your experience with the Air Care Service. 
-Also, please note that this form is not meant to be a comprehensive survey, only a brief collection of information to get a general understanding of customer feedback. 
-
-</thinking>
-
 # Air Care Service Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience with the Air Care Service.

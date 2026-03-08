@@ -1,11 +1,3 @@
-<thinking>
-This form is for providing feedback on real estate showings. The purpose of this form is to collect information about the experience of a showing, including the showing date and time, property address, agent name, and the client's feedback. This form is designed to be completed by the client after a showing, to help real estate agents and their teams gather feedback and improve their showing process.
-
-Before completing this form, ensure that the information is accurate and relevant to the specific showing. If you have already completed this form for a different showing, please do not fill in this form again. This form is designed to capture individual feedback per showing.
-
-This guide is intended for clients who will be completing the form to provide feedback on a showing they attended.
-</thinking>
-
 # real_estate_showing_feedback_form - Help Guide
 ## Purpose
 This form is designed to capture feedback on real estate showings, including the date and time of the showing, property address, agent name, and client feedback.

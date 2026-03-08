@@ -1,14 +1,3 @@
-<thinking>
-We will create a help guide that will help end users understand the purpose and requirements of the tour guide experience survey. This survey aims to gather feedback from users who have gone on a guided tour, inquiring about their experience and overall rating. The form is divided into multiple pages, each with its own set of questions that will help us understand the user's experience, preferences, and suggestions.
-
-To complete this form, users will be asked to select multiple-choice options for their tour guide experience, provide feedback and comments, and share their contact information. We will use this data to improve our tour guide services and provide better experiences for our users.
-
-Before answering the form, please ensure that you have completed the tour and have some experience with our services. If you have any feedback or suggestions, please provide them in the relevant fields. For questions that are not applicable, please select 'No' or 'None of the above' options.
-
-Please note that the contact information section is optional, and users are not required to fill it out unless they want to be contacted for further discussion.
-
-</thinking>
-
 # tour_guide_experience_survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from users who have gone on a guided tour with our company. We aim to understand your experience, preferences, and suggestions to improve our tour guide services.

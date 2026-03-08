@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect feedback and comments about pet care products. The purpose of this form is to gather information from users about their experiences, opinions, and suggestions regarding pet food, pet treats, pet toys, and other pet-related products. This form is likely used by pet product manufacturers or pet care service providers to improve their products and services. 
-
-Before completing this form, make sure to check if you've already submitted feedback about the same product or category. Duplicate submissions will not be considered for further action.
-
-Please note that some fields are not required, and you can leave them empty if they don't apply to your situation.
-
-This form is designed for general feedback and does not collect any sensitive information, such as personal data or financial information.
-
-After submitting your feedback, you might receive a response from the pet care product manufacturer or service provider. 
-
-</thinking>
-
 # Pet Care Product Feedback Request Form - Help Guide
 ## Purpose
 This form collects feedback and comments about pet care products, including food, treats, toys, and other pet-related items.

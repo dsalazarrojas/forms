@@ -1,7 +1,3 @@
-<thinking>
-This form is for registration of exhibitions. It is intended for individuals or organizations to submit information about an upcoming exhibition. The form is divided into two pages, and each page contains various fields to collect relevant details. 
-</thinking>
-
 # exhibition_enquiry_form - Help Guide
 ## Purpose
 This form is used for registering exhibitions, allowing users to provide information about an upcoming event.

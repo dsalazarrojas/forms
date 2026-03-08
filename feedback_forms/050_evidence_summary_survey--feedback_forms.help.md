@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect evidence summary information from users. It is intended for users who have gathered relevant evidence or findings that they would like to share with the organization. Before completing this form, please ensure you have not submitted similar information recently, as this form is meant to be a summary of new or updated evidence. If you're unsure about the purpose or scope of this form, please contact the relevant authorities for clarification. 
-
-</thinking>
-
 # Evidence Summary Survey - Help Guide
 ## Purpose
 The Evidence Summary Survey form is a tool for collecting and organizing user-provided evidence or findings. This form serves as a means for users to share their insights and results in a clear and concise manner.

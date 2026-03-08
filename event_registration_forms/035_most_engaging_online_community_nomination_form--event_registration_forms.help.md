@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather nominations for online communities that have shown exceptional engagement and participation. The form is meant to be completed by individuals who wish to nominate a community that has made a positive impact, has a strong sense of community, or has demonstrated outstanding achievements.
-
-Before proceeding, please ensure that you are not duplicating a nomination that has already been submitted. If you are unsure, please contact us to verify.
-
-</thinking>
-
 # Most Engaging Online Community Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to gather nominations for online communities that have made a significant impact.

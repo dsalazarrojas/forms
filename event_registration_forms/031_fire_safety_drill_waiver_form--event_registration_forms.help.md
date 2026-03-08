@@ -1,14 +1,3 @@
-<thinking>
-The Fire Safety Drill Waiver Form is a crucial document that outlines the necessary information and agreements required for participants and organizers of events to ensure everyone's safety during safety drills. This form helps in identifying potential risks and liabilities, and by completing it, participants demonstrate their understanding and commitment to following safety guidelines and procedures. 
-
-To create this form, we've considered several key elements to ensure it is comprehensive and effective. The form includes various sections to capture participant and contact information, waiver and agreement statements, medical information, and event-related details. Each section is designed to cover essential aspects of the event, providing a clear and concise way for participants to express their understanding and consent. 
-
-By using this form, organizers can efficiently collect the necessary information and verify that all participants have reviewed and agreed to the safety guidelines, reducing the risk of accidents and ensuring a safe environment for everyone involved. 
-
-Before proceeding, please make sure to review the form carefully and fill it out accurately. This guide will walk you through each field and its intended purpose to ensure you complete the form correctly and safely. 
-
-</thinking>
-
 # Fire Safety Drill Waiver Form - Help Guide
 ## Purpose
 The Fire Safety Drill Waiver Form is a document used to ensure participant safety and responsibility during events. It is used to collect information, agreements, and signatures that confirm participants are aware of and will follow safety guidelines.

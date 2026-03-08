@@ -1,5 +1,3 @@
-<thinking>...the form purpose and checks for relevance and non-duplication...</thinking>
-
 # Peer Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect peer feedback on a team member's performance. Please complete the survey to provide a comprehensive and constructive evaluation of the team member's skills, work habits, and contributions. Your input is valuable in helping the team member grow and improve.

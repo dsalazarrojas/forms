@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather RSVP information from individuals or groups attending church events. The goal is to collect essential details about attendees, including their confirmation of attendance, contact information, party details, and preferences. This data will help the event organizers manage the event more effectively and ensure that necessary arrangements are made for attendees with special needs.
-
-The form will not ask for any sensitive or personal data that could be used for spamming or other malicious purposes.
-
-</thinking>
-
 # Church Event RSVP Lead Form - Help Guide
 ## Purpose
 This guide will walk you through the Church Event RSVP Lead Form, which is designed to gather necessary information from attendees for a well-organized and enjoyable event.

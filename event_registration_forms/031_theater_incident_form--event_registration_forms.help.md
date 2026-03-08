@@ -1,10 +1,3 @@
-<thinking>
-The form is intended to collect information about incidents that occurred in a theater setting. To ensure that the data collected is accurate and relevant, please review the form carefully to confirm that it aligns with your needs. Note that the form is not designed to collect information about all types of incidents, but rather to focus on incidents that occur within a theater environment.
-
-This guide will walk you through the process of completing the form.
-
-</thinking>
-
 # Theater Incident Form - Help Guide
 ## Purpose
 The Theater Incident Form is designed to collect information about incidents that occur in a theater setting. This form will help us understand the circumstances surrounding the incident, including the type of incident, the time and date it occurred, and the involvement of theater employees or attendees.

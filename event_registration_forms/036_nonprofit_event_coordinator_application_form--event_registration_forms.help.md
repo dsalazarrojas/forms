@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals interested in coordinating events for non-profit organizations. Non-profit organizations often host events to raise funds, raise awareness, or provide services to their beneficiaries. As such, they require skilled and dedicated coordinators to oversee these events. This form is meant to streamline the process of applying to be a non-profit event coordinator. The goal of this form is to gather relevant information about the applicant, the event they wish to coordinate, and their contact details.
-</thinking>
-
 # Nonprofit Event Coordinator Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in becoming a non-profit event coordinator. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sustainable Grain Producer Registration - Help Guide
 
 ## Purpose

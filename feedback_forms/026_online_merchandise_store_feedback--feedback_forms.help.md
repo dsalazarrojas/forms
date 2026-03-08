@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers who have made a purchase from the online merchandise store. This form is designed to help the store owners understand what customers like or dislike about their products, which in turn will help improve the store's offerings and provide better customer service. The form should only be filled out by customers who have made a purchase, and is meant to be a one-time submission.
-</thinking>
 # Online Merchandise Store Feedback - Help Guide
 
 ## Purpose

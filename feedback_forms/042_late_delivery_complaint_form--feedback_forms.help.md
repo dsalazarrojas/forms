@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to record and track complaints regarding late deliveries. Its purpose is to gather information from customers about any issues with the delivery time of a specific order. This information can then be used to investigate and resolve the issue. 
-
-The form will ask for information such as the customer's name, order number, delivery date, delivery note, contact email, and contact phone number. Additionally, the customer will be able to provide additional notes about the issue.
-
-When filling out this form, please ensure that the information is accurate and complete. If the customer has already reported this issue, please do not create another entry as it will be treated as a duplicate. 
-
-Please fill out each field carefully, as it will be used for investigation and resolution.
-
-</thinking>
-
 # Late Delivery Complaint Form - Help Guide
 ## Purpose
 The Late Delivery Complaint Form is used to gather information from customers about issues with the delivery time of a specific order.

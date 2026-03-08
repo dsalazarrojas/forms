@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "customer_testimonial_form" form, I will base it on the provided YAML fields. Here is the internal reasoning block to check for relevance and non-duplication:
 
 This form is intended to collect feedback and testimonials from customers. It has 8 fields to gather information about their experience, including text fields for testimonial and comments, a rating field, fields for date and time, and fields for contact and email. The form will help us understand our customers' satisfaction and identify areas of improvement. To avoid duplication, we will use a unique id for each field.

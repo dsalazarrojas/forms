@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Survey On Minister Posting Challenges - Help Guide
 ## Purpose
 This form is designed to collect information from ministers about their posting experiences, challenges, and feedback. The purpose of this form is to gather insights and identify areas for improvement in the minister posting process.
@@ -117,4 +115,3 @@ To complete this form, follow these steps:
   Add any final comments or observations about your posting experience.
   This question provides an opportunity for you to add any final comments or observations about your posting experience.
 
-<thinking>...</thinking>

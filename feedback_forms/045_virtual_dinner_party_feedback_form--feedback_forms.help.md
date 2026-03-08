@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Dinner Party Feedback Form - Help Guide
 ## Purpose
 The Virtual Dinner Party Feedback Form is designed to gather information about your experience at a virtual dinner party. Please take a few minutes to fill out this form to help us improve our events and provide better experiences for our guests in the future.

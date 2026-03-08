@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Registration Form Template - Help Guide
 
 ## Purpose

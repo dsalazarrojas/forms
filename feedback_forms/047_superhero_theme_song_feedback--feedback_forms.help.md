@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended for users who want to provide feedback on a superhero theme song. We have designed this form to help collect your thoughts on a specific aspect of the song: its title, description, genre, and more. Please note that this form is not meant to gather information about your favorite superhero, but rather to get your opinion on the theme song of a superhero. If you're unsure about any of the fields, please refer to the instructions below.
 
 # Superhero Theme Song Feedback - Help Guide

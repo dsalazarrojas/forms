@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Hybrid Worker Offboarding Form is a template used to collect necessary information from departing employees, ensuring a smooth transition of knowledge and resources during their exit. Before filling out this form, please confirm that you are the employee who is leaving the company or an authorized representative of the employee. To avoid duplication, ensure that you are not completing this form if the employee's departure is already being processed or if you have previously submitted an offboarding form for the same employee.
 
 # Hybrid Worker Offboarding Form - Help Guide

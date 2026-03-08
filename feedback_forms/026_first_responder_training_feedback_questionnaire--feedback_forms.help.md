@@ -1,5 +1,3 @@
-<thinking>First responders and team members will use this form to gather feedback from first responders after training, focusing on their overall experience, training effectiveness, and areas for improvement. This form is designed for completion by individuals who have received training and will be used to monitor and evaluate the quality of the training programs.</thinking>
-
 # first_responder_training_feedback_questionnaire - Help Guide
 ## Purpose
 The first_responder_training_feedback_questionnaire is a feedback form designed to gather information about the quality of training received by first responders. It will help us understand their overall experience, the effectiveness of the training, and identify areas for improvement.

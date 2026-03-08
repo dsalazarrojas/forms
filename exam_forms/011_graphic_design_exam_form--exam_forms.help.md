@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information related to a graphic design project. The form is likely used by educators or evaluators to assess a student's project performance. This form might be used for a specific semester or year's worth of projects.
-</thinking>
-
 # Graphic Design Exam Form - Help Guide
 ## Purpose
 The Graphic Design Exam Form is designed to collect and assess a student's graphic design project. This form is used to evaluate a student's performance based on their project.

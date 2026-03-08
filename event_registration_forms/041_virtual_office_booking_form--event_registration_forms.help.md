@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Virtual Office Booking Form is to enable users to create, edit, or cancel virtual office bookings. To prevent duplicate bookings, the system checks for existing bookings before processing new submissions.
-The form is designed for users who need to book a virtual office room for meetings, conferences, or training sessions. The form should be completed by users with valid office credentials.
-The form is divided into several pages, and each page has a specific purpose. The form will guide the user through the necessary steps to complete the booking process successfully.
-</thinking>
-
 # Virtual Office Booking Form - Help Guide
 ## Purpose
 This form is designed to help users book a virtual office room for meetings, conferences, or training sessions. It is intended to gather necessary information to create, edit, or cancel a virtual office booking.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 </thinking>
 
 # Volunteering Program Admission Form - Help Guide

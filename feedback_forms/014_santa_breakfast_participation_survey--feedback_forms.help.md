@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and participation information from attendees of a Santa's Breakfast event. It will ask users to provide their thoughts on their experience, a rating of their satisfaction, and some comments. It will also ask for contact information to facilitate follow-up communication. Please ensure that users only access this form once, and that each user can only submit one response.
-</thinking>
-
 # Santa Breakfast Participation Survey - Help Guide
 ## Purpose
 This form is a tool to collect feedback and participation information from attendees of Santa's Breakfast events.

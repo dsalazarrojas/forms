@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help end-users understand the purpose and requirements of the "Form Parent Child Dedication" in the "event_registration_forms" category. This form is designed to collect information about an event registration form, specifically for child dedication purposes. The form aims to capture details about the child's name, date of birth, and dedication, as well as the parents' contact information. To avoid duplication, please ensure that you are not registering the same child multiple times.
-</thinking>
-
 # Form Parent Child Dedication - Help Guide
 ## Purpose
 The "Form Parent Child Dedication" is designed to collect information for child dedication purposes. It helps us understand the details of the child and their parents, ensuring accurate and relevant data for our processes.

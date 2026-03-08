@@ -1,6 +1,3 @@
-<thinking>... internal reasoning about the form purpose and field explanations ...
-The form seems to be designed for event organizers or venue managers to assess the readiness of an event venue for hosting an event. The form likely serves as a checklist to identify potential issues or areas that require attention before allowing an event to proceed. Each field is likely to capture specific information related to the venue's suitability, accessibility, and other relevant factors. I'll aim to explain each field in a way that's helpful to the end-user without inventing business logic...</thinking>
-
 # Event Venue Pre Inspection Form - Help Guide
 ## Purpose
 This form is designed to help event organizers and venue managers assess the readiness of an event venue for hosting an event. It will guide you through a series of questions to identify potential issues or areas that require attention before an event takes place.

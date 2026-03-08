@@ -1,5 +1,3 @@
-<thinking>As the form designer, I need to explain the purpose of this form and check for relevance and non-duplication.</thinking>
-
 # Client Communication Transparency Survey - Help Guide
 ## Purpose
 This guide is meant to be used by clients and prospects to provide feedback on the communication practices of our organization. The survey aims to gauge the clarity, accessibility, and timeliness of our messages, as well as the overall transparency and openness of our communication channels. By completing this survey, you will help us identify areas for improvement and provide us with valuable insights to refine our communication strategy.

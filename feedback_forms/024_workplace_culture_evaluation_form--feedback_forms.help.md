@@ -1,6 +1,3 @@
-<thinking> 
-This is the Workplace Culture Evaluation Form, which is designed to gauge the overall workplace culture of employees. This form is meant to gather feedback on aspects of the work environment that contribute to employee satisfaction, communication, and overall well-being. Please ensure that you have not completed this form recently, as your previous feedback will be overridden. If you have recently completed this form, kindly refrain from submitting new feedback to avoid duplication.</thinking>
-
 # Workplace Culture Evaluation Form - Help Guide
 ## Purpose
 The Workplace Culture Evaluation Form is designed to collect feedback on the workplace culture, including job satisfaction, work-life balance, communication style, and team cohesion. This form helps management identify areas of improvement and ensure a positive work environment.

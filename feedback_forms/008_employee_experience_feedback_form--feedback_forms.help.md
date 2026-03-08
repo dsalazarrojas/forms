@@ -1,9 +1,3 @@
-<thinking>
-Please note that the purpose of this form is to gather feedback from employees regarding their experiences with their manager, providing a platform for both manager and employee to share their thoughts, opinions, and suggestions. This form is intended to be a regular check-in for managers to evaluate their performance and for employees to provide feedback and recommendations on how to improve their working relationship. It is recommended that this form is filled out on a regular schedule, such as quarterly or annually, to ensure a consistent and ongoing dialogue between manager and employee.
-Please make sure to only fill out this form if you have had sufficient experience with your manager to provide a valid assessment. If you have had a short tenure, it may be better to wait until you have more experience before providing feedback.
-Also, please note that this form should not be used to report any performance issues or concerns that should be addressed immediately. If you have any pressing concerns, please report them to your manager or HR department directly.
-</thinking>
-
 # Employee Experience Feedback Form - Help Guide
 ## Purpose
 

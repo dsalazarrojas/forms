@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers on their experience with the company's customer service. The form is designed to gauge satisfaction and measure performance in various aspects of customer service, such as service quality, staff helpfulness, communication, and resolution of issues. By analyzing the collected data, the company can identify areas of improvement and provide better services to its customers.
-</thinking>
-
 # Customer Service Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to measure your satisfaction with our customer service. Your feedback will help us improve our services and ensure that you have a positive experience with our company.

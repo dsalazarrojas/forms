@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # workplace_collaboration_quiz - Help Guide
 ## Purpose
 The workplace collaboration quiz is designed to help you assess your team's collaboration style and identify areas for improvement. This quiz will ask you a series of questions about your team's communication, conflict resolution, and collaboration habits. The results will provide you with insights on how to enhance your team's performance and work flow.

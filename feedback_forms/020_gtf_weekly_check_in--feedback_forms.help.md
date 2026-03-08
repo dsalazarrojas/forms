@@ -1,9 +1,3 @@
-<thinking>
-This form is used to check in the coach's status with their student's progress and overall health. 
-To check for duplication and ensure accuracy, the form requires the user to select whether the student has a yes/no status for coach and progress, and provide their overall health progress in text. 
-The fields can be completed by a coach who has a clear view of the student's progress and health. 
-However, it is recommended that the user only complete one weekly check-in per student. 
-</thinking>
 # gtf_weekly_check_in - Help Guide
 ## Purpose
 The gtf_weekly_check_in form is used to check in the coach's status with their student's progress and overall health.

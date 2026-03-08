@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure that users understand the purpose and usage of the "Plant Maintenance Request Form", we need to explain why this form exists and how it can be used by end users. This form is intended to be a tool for requesting maintenance or repair for facilities within a plant, and it is used by facility management to track and manage maintenance requests. 
-
-The form has multiple fields that need to be filled out, so let's break it down:
-
-</thinking>
-
 # Plant Maintenance Request Form - Help Guide
 ## Purpose
 The Plant Maintenance Request Form is a tool for requesting maintenance or repair for facilities within a plant. It is used to gather information about the request, including the type of maintenance or repair needed, the asset involved, and the priority of the request.

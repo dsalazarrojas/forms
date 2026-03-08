@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is for recording and keeping track of medical device maintenance records, which is an essential part of facility management. This form is likely used in a medical facility or healthcare setting to document maintenance activities, track progress, and ensure that devices are serviced or repaired in a timely manner. Before proceeding, ensure that you have the necessary permissions and access rights to fill out this form.
-
-This form should not be filled out for duplicate or unnecessary records, as it may lead to unnecessary maintenance or service calls. Make sure to review the form fields carefully and provide accurate information.
-
-This form is divided into several sections, including user information, device information, maintenance details, and contact details. Each field is labeled accordingly for clarity.
-
-</thinking>
-
 # Medical Device Maintenance Record Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured way of recording and tracking medical device maintenance records, which helps ensure that medical devices are kept in good working condition and are serviced or repaired promptly when needed.

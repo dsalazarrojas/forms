@@ -1,7 +1,3 @@
-<thinking> 
-The Activity Safety Assessment Form is designed to assess the potential risks and hazards associated with an activity, ensuring that organizers and assessors can identify and mitigate any risks before proceeding. This form is used to collect information on the activity, its location, and the number of participants, as well as the assessor's details and their assessment of the activity's safety. The form also includes sections for identifying hazards, determining the overall risk level, and specifying safety measures in place. By completing this form, organizers and assessors can make informed decisions about whether an activity can proceed safely.
-</thinking>
-
 # Activity Safety Assessment Form - Help Guide
 
 ## Purpose

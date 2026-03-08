@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Faculty Live Demo Feedback - Help Guide
 
 ## Purpose

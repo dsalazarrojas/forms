@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from local food producers who are interested in partnering with a local food system or network. The form will help the system or network understand the producer's background, products, and goals, as well as their contact and sales channels information. This will enable the system or network to evaluate potential partnerships and make informed decisions.
-
-To avoid duplication, please ensure that you are not already registered as a partner in our system. If you're unsure, please contact us to verify.
-
-The following guide will walk you through the form submission process.
-
-</thinking>
-
 # Local Food Producer Partnership Application - Help Guide
 ## Purpose
 This form is designed to collect information from local food producers who are interested in partnering with a local food system or network.

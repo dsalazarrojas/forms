@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended to gather feedback from customers or users regarding their experience with a particular PCJ (Personalized Customer Journey) evaluation. The form will help identify areas of improvement and provide insights on how to enhance the overall customer journey. To prevent duplication of efforts, please ensure that the feedback is unique and provides actionable suggestions for improvement.
-</thinking>
-
 # PCJ Evaluation Feedback Form - Help Guide
 ## Purpose
 The PCJ Evaluation Feedback Form is designed to collect feedback from customers or users about their experience with a PCJ evaluation. This form helps us identify areas that need improvement and gather suggestions to enhance the overall customer journey.

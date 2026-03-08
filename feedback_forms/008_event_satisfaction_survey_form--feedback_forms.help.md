@@ -1,9 +1,3 @@
-<thinking>
-This is the internal reasoning block that explains the form's purpose and checks for relevance and non-duplication:
-This form is designed to collect feedback from event attendees about their overall satisfaction with an event. The feedback form aims to gather information on various aspects of the event, including overall satisfaction, location, content, price, speakers, organization, event location, event date, event time, event price, event speakers, overall rating, and any comments or suggestions. This form is intended to be completed by event attendees, not event organizers or staff. 
-
-</thinking>
-
 # Event Satisfaction Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from event attendees about their overall satisfaction with an event.

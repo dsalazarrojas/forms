@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers who are using the Home Setup Service. The purpose of this form is to gather information on how customers experienced the service, what they liked or disliked about it, and any suggestions they may have for improving the service.
-The form will only be accessible to customers who have accessed the Home Setup Service, ensuring that feedback is relevant to the service and not from the general public.
-To prevent duplication of feedback from the same customer, a unique ID is not shown in the form.
-</thinking>
-
 # home_setup_service_feedback - Help Guide
 ## Purpose
 This form is used to collect feedback from customers who have used the Home Setup Service. Feedback is used to improve the service and provide better experiences for customers.

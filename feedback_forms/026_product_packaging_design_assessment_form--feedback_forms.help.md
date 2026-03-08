@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather input from product designers to assess the feasibility of a product packaging design. This form will be used by product design teams to get feedback on a product's packaging design. The form is used to evaluate the design's color scheme, packaging feasibility, and other relevant factors. Please ensure that this form is filled out for every product packaging design that requires evaluation.
-</thinking>
-
 # Product Packaging Design Assessment Form - Help Guide
 ## Purpose
 This form is used to gather feedback on a product's packaging design, specifically to assess its feasibility and overall design.

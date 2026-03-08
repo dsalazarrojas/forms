@@ -1,8 +1,3 @@
-<thinking>
-I've analyzed the provided YAML and created a user-friendly help guide for the "Designer One On One Review Form".
-
-</thinking>
-
 # Designer One On One Review Form - Help Guide
 ## Purpose
 The Designer One On One Review Form is designed to collect feedback and critiques from customers about their design experience with our company. This form helps us understand what we're doing well and what we can improve on to provide better services.

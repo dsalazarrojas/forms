@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Precision Tools Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from end-users about their experiences with Precision Tools. The data collected will help us understand how users interact with the tools and areas for improvement.

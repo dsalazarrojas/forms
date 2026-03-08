@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users after they have taken action on an event. This form allows users to provide their thoughts on the event, including what they thought of it, the name of the event, and suggestions for improvement. The form is designed to be completed by users who have participated in the event and are reflecting on their experience. To avoid duplication, please note that this form should not be completed by users who have not participated in the event or have already completed an assessment survey for this event.
-</thinking>
-
 # Post Action Assessment Survey - Help Guide
 ## Purpose
 The Post Action Assessment Survey is designed to gather feedback from users about an event they have participated in. This survey will help us understand their thoughts, suggestions, and experiences, which will inform future event planning and improvement.

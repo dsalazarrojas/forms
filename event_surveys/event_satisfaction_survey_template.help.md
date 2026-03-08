@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from event attendees to help improve future events. Before proceeding, check that this form is relevant to your needs and that you haven't already created a similar form. This AI-generated form is based on public survey topic metadata and is released under CC BY 4.0. You're free to use, modify, and even sell it, giving credit.
-</thinking>
-
 # event_satisfaction_survey_template - Help Guide
 ## Purpose
 The Event Satisfaction Survey is a form designed to gather feedback from event attendees on their experience at our recent event. This feedback will help us improve future events.

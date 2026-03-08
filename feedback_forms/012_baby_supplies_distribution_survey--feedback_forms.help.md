@@ -1,12 +1,3 @@
-<thinking>
-This form is for end-users to provide feedback on the quality and sufficiency of the baby supplies distribution service, helping the service provider to identify areas for improvement.
-
-To ensure the form is filled out correctly, it's essential to understand that the purpose of this form is to gather feedback from families who have received baby supplies. The feedback will be used to improve the distribution service. It's crucial to fill out the form completely and honestly to provide valuable insights.
-
-Please check the form carefully to avoid duplicating your feedback.
-
-</thinking>
-
 # Baby Supplies Distribution Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from families who have received baby supplies from the distribution service. Your input will help us understand how we can improve the service to better meet your needs.

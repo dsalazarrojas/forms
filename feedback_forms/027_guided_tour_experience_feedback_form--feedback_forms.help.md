@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose, which is to gather feedback from users after a guided tour. This will help us understand the user's experience and identify areas of improvement. The form should only be filled out once per user, and the answers should be sincere and honest.
-</thinking>
-
 # guided_tour_experience_feedback_form - Help Guide
 ## Purpose
 The "guided_tour_experience_feedback_form" is used to gather feedback from users after a guided tour. This feedback will help us understand the user's experience and identify areas of improvement.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to request access to a facility, allowing users to provide information about their visit, such as the date and time of access, the name of the facility, and the reason for their visit. This form is designed to be completed by users who need to access the facility, whether for official business or personal purposes.
-
-To ensure accurate and consistent submissions, please follow these steps:
-
-1.  Make sure you have the necessary permissions to access the facility before submitting this form.
-2.  Fill out the form completely and accurately, including the required fields (indicated by an asterisk \*). Incomplete or inaccurate submissions may delay or deny your access request.
-3.  Review the form carefully before submitting it, as changes made after submission may not be accepted.
-
-</thinking>
-
 # Facility Usage Form - Help Guide
 ## Purpose
 The Facility Usage Form is used to request access to a facility for official business or personal purposes.

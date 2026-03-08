@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We should ensure that this form is only accessed by authorized personnel and that duplicate feedback forms are not submitted by the same user. This form is intended for collecting feedback from clients on their therapy sessions, specifically for the purpose of improving the services provided by the psychologists and therapists. Feedback forms should be filled out for each session to gather comprehensive data.
 
 # Psychology Expert Feedback Form - Help Guide

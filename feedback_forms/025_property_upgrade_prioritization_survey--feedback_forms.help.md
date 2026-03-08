@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the **property_upgrade_prioritization_survey** form is to help users provide information about their property upgrade requests. This form is designed to gather details about the property address, type, size, and priority requests, as well as other relevant information such as contact number and email address.
-The form is intended to be completed by property owners or representatives who are interested in requesting an upgrade, and the data collected will be used to prioritize and schedule upgrade requests.
-
-</thinking>
-
 # property_upgrade_prioritization_survey - Help Guide
 ## Purpose
 The **property_upgrade_prioritization_survey** form is a user-facing form used to gather information from property owners or their representatives about their upgrade requests. This form helps us to prioritize and schedule upgrade requests.

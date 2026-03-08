@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback from users on the HRIS (Human Resource Information System) mobile and web interfaces. It's intended to be completed by employees who have experienced issues or suggestions with the system. The form is not meant to be a mandatory or recurring task for all employees, but rather an optional channel for individuals to provide their thoughts on how the system can be improved. It's not necessary to complete all the fields, but the more information provided, the more helpful it will be for the development team to address any issues or implement suggested changes.
-</thinking>
-
 # HRIS Mobile And Web Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the HRIS mobile and web interfaces, allowing you to provide suggestions or report any issues you've experienced while using the system.

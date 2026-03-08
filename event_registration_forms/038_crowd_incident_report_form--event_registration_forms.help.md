@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about incidents that have occurred at a crowded event or venue. The purpose of this form is to document incidents in a structured and organized manner to ensure that necessary data is collected and reported to relevant authorities. This form is intended for use by event organizers, security personnel, or other individuals who have witnessed or been involved in the incident.
-
-Before proceeding with this form, please ensure that you are not duplicating an existing report. If you have already submitted a report for this incident, please do not submit another. This will help to prevent confusion and ensure that the correct information is captured and reviewed.
-
-</thinking>
-
 # Crowd Incident Report Form - Help Guide
 
 ## Purpose

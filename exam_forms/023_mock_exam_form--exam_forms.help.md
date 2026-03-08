@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used for mock exams, which is a simulated test or assessment used to prepare individuals for a real exam. It is intended to gauge a student's knowledge and performance in a specific subject area. The form should only be used for internal testing purposes and not for actual assessment of a student's performance. It is essential to complete the form honestly and accurately to ensure the effectiveness of the mock exam.
-
-This form is a mock exam form used to evaluate students' knowledge and performance. The form should not be used for actual assessment purposes.
-
-The form has 11 fields, each with its own purpose and requirements. Please make sure to complete the form correctly and accurately.
-
-</thinking>
-
 # Mock Exam Form - Help Guide
 ## Purpose
 The Mock Exam Form is a simulated test used to prepare students for a real exam. It is essential to complete the form honestly and accurately to ensure the effectiveness of the mock exam.

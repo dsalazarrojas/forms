@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from parents and guardians of kindergarten students on their experience with the school's orientation program. This feedback will help the school identify areas of improvement and make data-driven decisions to enhance the program. This form is intended for parents who have attended the kindergarten orientation. Please do not complete this form if you have not attended the orientation.
-
-</thinking>
-
 # Kindergarten Orientation Feedback Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect leadership stories from individuals, allowing them to share their experiences and achievements in leadership roles. The form is used to track and manage the submission process, including the status of each story, who submitted it, and when it was submitted or approved. It is essential to complete this form accurately and thoroughly to ensure that the leadership stories are properly recorded and reviewed.
-</thinking>
-
 # leadership_stories_submission - Help Guide
 ## Purpose
 The purpose of this form is to collect leadership stories from individuals, allowing them to share their experiences and achievements in leadership roles. This form will help track and manage the submission process, including the status of each story, who submitted it, and when it was submitted or approved.

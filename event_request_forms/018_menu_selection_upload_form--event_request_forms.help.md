@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about menu selections and uploads related to an event. The form is composed of multiple pages, each containing different fields such as text boxes, select one options, and file uploaders. This form is not required but it's meant to be a helpful tool for event organizers to collect and review relevant information. It's designed to be completed by one person at a time and it's intended for internal use. Please check that you're on the correct form and that this form is not a duplicate before proceeding.
-</thinking>
-
 # Menu Selection Upload Form - Help Guide
 
 ## Purpose

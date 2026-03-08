@@ -1,12 +1,6 @@
 # Singles Experience Survey - Help Guide
 ## Purpose
 
-<thinking>
-This form is used to gather feedback on a user's experience at a single event, such as a concert, festival, or workshop. The purpose of this form is to help event organizers understand what went well and what didn't during the event, and to identify areas for improvement. 
-The form will only appear to users who have attended the event and will provide them with an opportunity to share their experiences, feedback, and suggestions. 
-Please only submit this form if you are a real user and have attended the event. Any feedback or ratings submitted from non-users will be considered spam and may be removed.
-</thinking>
-
 ## How To Complete This Form
 
 *   Fill out the form completely and accurately with your personal experiences and feedback.

@@ -1,11 +1,3 @@
-<thinking>
-The internal reasoning block: This form is used to collect risk assumption and liability waiver information from participants in an event or activity. It is essential to ensure that users understand the risks associated with the event and assume the liability for any potential harm or damage that may occur. The form is designed to be completed by the participant, but in some cases, a guardian's information is also collected to ensure that they are aware of and agree to the terms. This form is not intended to be a comprehensive legal document but rather a summary of essential information that participants need to acknowledge and agree to.
-
-Before starting, please note that this form is meant to be completed by the participant or their guardian. If you are a guardian completing this form on behalf of a minor participant, please ensure that you have the necessary authority and consent to do so.
-
-Please review the form carefully and complete it accurately to avoid any potential issues or disputes.
-</thinking>
-
 # Risk Assumption And Liability Waiver - Help Guide
 ## Purpose
 This form is used to collect risk assumption and liability waiver information from participants in an event or activity. It is essential to ensure that users understand the risks associated with the event and assume the liability for any potential harm or damage that may occur.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from respondents on the design of an avatar, a digital representation of a character in a game or project. This form is used to collect opinions on the visual aspects of the avatar, such as overall appeal, clarity of representation, color palette, visual style, and specific features. The form will help designers and developers refine their design and make improvements for future avatars.
-
-To avoid duplication, please do not submit the same feedback form multiple times. Duplicate submissions will be discarded.
-</thinking>
-
 # Avatar Design Feedback Form - Help Guide
 ## Purpose
 

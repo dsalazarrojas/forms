@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate holistic wellness coaching programs, which aim to promote overall wellness and self-awareness in individuals. The form is designed to gather feedback from program participants, helping the coaching service providers understand their effectiveness and areas for improvement. 
-
-This form should only be used for program evaluation and not for other purposes. Please ensure that you are using the correct form for your specific needs. If you have already submitted an evaluation for this program, please do not submit another evaluation to avoid duplication.
-</thinking>
-
 # holistic_wellness_coaching_program_evaluation_form - Help Guide
 ## Purpose
 The holistic wellness coaching program evaluation form is designed to gather feedback from program participants, helping providers understand their effectiveness and areas for improvement.

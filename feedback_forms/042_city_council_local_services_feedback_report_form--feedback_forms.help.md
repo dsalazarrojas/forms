@@ -1,11 +1,3 @@
-<thinking>
-You need to provide a help guide for a form titled "City Council Local Services Feedback Report Form" for users to report issues with local services such as potholes, street light outages, and more. This form is meant to gather information from users about their experiences with city services, which will help the city council identify areas for improvement and provide better services to the community. The form should be filled out by users who have experienced issues with local services and want to report them to the city council. It's essential to ensure that users understand what kind of information the form is looking for and how to complete it accurately.
-
-To prevent duplicate reports, we will review each submission and check if it's a new report. This form is not intended for emergency or critical situations. If you have an urgent issue, please contact the city emergency services.
-
-Please note that the form is divided into sections: "Your Information", "Service Report", "Impact Assessment", "Supporting Information", "Requested Resolution", "Follow-up Preference", and "Additional Comments". Each section has specific fields that need to be filled out for the city council to get a complete picture of the issue.
-</thinking>
-
 # City Council Local Services Feedback Report Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your experiences with local services in the city, which will help the city council improve services and provide better support to the community.

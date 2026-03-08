@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Galaxy Experience Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Evening Availability Survey - Help Guide
 
 ## Purpose

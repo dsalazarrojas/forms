@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skincare Product Refill Program Interest Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your interest in our Skincare Product Refill Program. Your feedback will help us improve the program and better serve your needs.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used by staff members to book and manage accommodation for events or conferences. The Accommodation Booking Approval Form is a critical part of the event planning process, as it allows staff to track and approve accommodation requests from event organizers. This form helps to ensure that all necessary information is captured and approved before making any bookings.
-
-</thinking>
-
 # Accommodation Booking Approval Form - Help Guide
 
 ## Purpose

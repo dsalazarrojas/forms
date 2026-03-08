@@ -1,18 +1,3 @@
-<thinking>
-This form is used by field staff to provide feedback on the Field Survey results. 
-Before completing this form, ensure that you are providing feedback on a valid Field Survey. 
-The form is split into several pages, each with a specific purpose:
-- The Survey Results Page is for entering and summarizing the Field Survey results.
-- The Evaluation Page is for evaluating the Field Survey results.
-- The Feedback Page is for providing feedback about the form itself.
-- The Contact Info Page is for selecting the contact method for submitting feedback.
-- The Comments Page is for entering any additional comments about the Field Survey.
-- The Submit Page is for submitting the form, saving it as a draft, or canceling the form.
-- The Date Page is for entering the date of the Field Survey.
-- The Time Page is for entering the time of the Field Survey.
-
-</thinking>
-
 # Field Survey Results Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the Field Survey results and provide feedback.

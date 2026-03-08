@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from participants to ensure they understand their rights and responsibilities regarding survey participation. This form is intended for use in research or other types of surveys where consent and data protection are crucial. The purpose of this form is to inform participants about how their data will be used, stored, and protected, as well as what rights and responsibilities they have as participants. Before we begin, please note that the form is divided into several sections that cover various aspects of survey participation. This guide will walk you through each section to ensure you understand the form's content and what's required from you.
-
-</thinking>
-
 # Survey Participation Consent Form - Help Guide
 
 ## Purpose

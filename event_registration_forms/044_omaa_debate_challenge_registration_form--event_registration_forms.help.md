@@ -1,16 +1,3 @@
-<thinking> 
-This form is designed for participants to register for a debate challenge, a school event that tests students' debate skills. It captures essential information about the participant, their school, and their team, including contact details, team composition, and other relevant details. 
-Please note that this form does not require any personal information from participants, but rather collects data about their participation in the event.
-
-To ensure that each participant registers correctly and without duplication, please make sure to review the following fields before filling out the form:
-
-* Participant Name
-* School Name
-* Participant Email
-* Participant School Phone
-
-</thinking>
-
 # omaa_debate_challenge_registration_form - Help Guide
 ## Purpose
 The form is designed for participants to register for a debate challenge, a school event that tests students' debate skills.

@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure that our form is being used correctly and only when necessary. This form is meant to be used when a retail partner is exiting our program, and we need to understand the reason for this exit. The partner's information will be reviewed to ensure they are not duplicating their exit request or using it for the wrong purpose. This form should only be used to formally request to exit the program.
-
-</thinking>
-
 # Retail Partner Exit Notice Request Form - Help Guide
 ## Purpose
 This form is used to request formal notice of a retail partner's exit from our program. It's essential to fill it out accurately and completely, as it will help us understand the reason for their departure and ensure a smooth transition.

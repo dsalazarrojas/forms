@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for event planning and advocacy activities related to legislative meetings. The form is used to register events such as meeting times, dates, locations, and agendas for legislative meetings. The data collected through this form will be used for internal and external communication and planning purposes. It's essential that you fill out the form correctly to ensure accurate information is captured.
-</thinking>
-
 # legislative_advocacy_planning_appointment_form - Help Guide
 ## Purpose
 This form is used to collect information for event planning and advocacy activities related to legislative meetings.

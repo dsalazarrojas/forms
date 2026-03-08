@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Upward Feedback Form - Help Guide
 ## Purpose
 The Upward Feedback Form is designed to allow employees to provide feedback on their performance. This form is meant to be filled out by supervisors to give an honest assessment of an employee's work and help improve future performance and growth.

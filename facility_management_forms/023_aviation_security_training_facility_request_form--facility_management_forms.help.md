@@ -1,10 +1,3 @@
-<thinking>
-To confirm, this form is for requesting training facilities for security-related programs. 
-Please ensure that you're not submitting multiple requests for the same training session or event, as it may cause confusion or scheduling conflicts. 
-This form should only be used by authorized individuals within the organization to ensure accurate and relevant information is collected.
-
-</thinking>
-
 # Aviation Security Training Facility Request Form - Help Guide
 ## Purpose
 This form is used to request a training facility for security-related programs. Please fill it out accurately to provide the necessary information for facility coordination.

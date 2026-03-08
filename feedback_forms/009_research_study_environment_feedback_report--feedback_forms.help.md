@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Research Study Environment Feedback Report form is to collect feedback from users on the environment, settings, and support needed for a research study. This form should only be filled out by users who have actually been in the study environment, which means they have hands-on experience with the study setup and its requirements. To avoid duplication of effort, this form should not be filled out by users who have already submitted a similar report on the same study environment.
-</thinking>
-
 # Research Study Environment Feedback Report - Help Guide
 ## Purpose
 The Research Study Environment Feedback Report form is designed to collect feedback on the study environment, settings, and support from users who have participated in a research study. This form helps to identify areas that need improvement and provide valuable insights for future study setups.

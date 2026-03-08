@@ -1,7 +1,3 @@
-<thinking>
-This guide will cover the "Podcast Feedback Contact Form", which is used to collect feedback and contact information from users who want to share their thoughts on the podcast. This form is intended to be filled out by users who have listened to a specific episode and have feedback or questions they'd like to share. The form should not be filled out by users who are simply looking for general information or support, but rather those who have a specific opinion or experience to share.
-</thinking>
-
 # Podcast Feedback Contact Form - Help Guide
 ## Purpose
 The "Podcast Feedback Contact Form" is used to collect feedback and contact information from users who want to share their thoughts on the podcast. This form is intended to be filled out by users who have listened to a specific episode and have feedback or questions they'd like to share.

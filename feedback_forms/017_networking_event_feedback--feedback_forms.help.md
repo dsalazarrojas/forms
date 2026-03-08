@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees, organizers, and vendors about a networking event. The form will help us understand the success of the event, what was learned, and what connections were made. Please make sure to fill it out only if you attended the event, and do not fill it out on behalf of someone else. This form is meant for one-time use, so you won't need to fill it out again for the same event.
-
-Before filling out this form, make sure to:
-* Only fill out the form if you attended the event
-* Do not fill out the form on behalf of someone else
-* Answer each question honestly and thoroughly
-
-This form is for feedback and not for any other purpose. Do not use it to sell, copy, or extract proprietary content from other form platforms.
-
-You can skip questions that don't apply to you or your experience. However, if you skip too many questions, it might affect the accuracy of our analysis.
-</thinking>
-
 # Networking Event Feedback - Help Guide
 ## Purpose
 

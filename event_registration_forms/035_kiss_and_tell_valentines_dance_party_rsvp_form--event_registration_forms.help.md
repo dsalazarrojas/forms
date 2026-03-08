@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to RSVP to the Kiss and Tell Valentines Dance Party. The form asks for basic information about the guest, including their name, email, phone number, and date, time, and location of the event. Additionally, it asks for the number of guests attending and whether they will be bringing any guests or not. This form serves as a way to manage RSVPs and track attendee information.
-</thinking>
-
 # Kiss And Tell Valentines Dance Party RSVP Form - Help Guide
 ## Purpose
 The Kiss And Tell Valentines Dance Party RSVP Form is used to collect information about guests attending the dance party. This form will ask for basic details such as name, contact information, event specifics, and party planning details.

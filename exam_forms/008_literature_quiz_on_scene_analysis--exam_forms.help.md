@@ -3,8 +3,6 @@
 ## Purpose
 This form is designed to assess students' understanding of a given literature work's scene analysis. The form is intended for students to evaluate their own performance and provide feedback to teachers on their analysis. The teacher can use the form to monitor student progress and provide guidance.
 
-<thinking>Before using this form, please note that it's meant for students who have already read and analyzed the scene in question. The form is a self-assessment tool and not a test. Please ensure that you have completed the scene analysis before proceeding. The teacher's evaluation section is optional and not required.</thinking>
-
 ## How To Complete This Form
 
 *   Fill out the form in its entirety, answering all questions and providing comments as needed.

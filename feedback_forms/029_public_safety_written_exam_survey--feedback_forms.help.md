@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from individuals who have taken a written public safety exam. The purpose of this form is to gather information about their experience and satisfaction with the exam, which will help us understand how to improve the exam-taking process. This form is not intended for individuals who have not taken the exam or who are taking the exam at the moment. Please ensure you have taken the exam before filling out this form.
-</thinking>
-
 # Public Safety Written Exam Survey - Help Guide
 ## Purpose
 This guide will walk you through the fields in the Public Safety Written Exam Survey form. Please read through each section carefully and answer the questions honestly.

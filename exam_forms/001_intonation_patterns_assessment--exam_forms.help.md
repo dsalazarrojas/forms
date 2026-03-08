@@ -1,7 +1,3 @@
-<thinking>
-This guide will provide a step-by-step walkthrough on how to fill out the Intonation Patterns Assessment form. Please make sure you're in the correct context and have all necessary information ready before proceeding.
-</thinking>
-
 # Intonation Patterns Assessment - Help Guide
 ## Purpose
 The Intonation Patterns Assessment form is used to evaluate and assess the intonation patterns of a subject. This form helps to identify the type of intonation pattern exhibited by a student or subject.

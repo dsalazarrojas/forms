@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for scuba diving event organizers to collect information from attendees on their scuba diving gear. The purpose of this form is to ensure that attendees have the necessary equipment for a safe and enjoyable diving experience. This form should be filled out by attendees before the event to help organizers check the gear inventory and provide any necessary guidance or rentals.
-</thinking>
-
 # Scuba Diving Gear Checklist Form - Help Guide
 ## Purpose
 The Scuba Diving Gear Checklist Form is used by scuba diving event organizers to collect information from attendees on their scuba diving gear.

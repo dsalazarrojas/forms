@@ -1,16 +1,3 @@
-<thinking>
-In order to create a comprehensive help guide for the product launch feedback evaluation form, I need to analyze the provided YAML structure and identify the form's purpose, fields, and requirements. This form appears to be designed for users to provide feedback on a product launch, with questions ranging from overall success likelihood to specific feature improvements. The form's purpose is to collect qualitative and quantitative feedback from users, likely to inform product development and iteration.
-
-Some fields are marked as "required: false", but this does not necessarily mean they are not essential for understanding the form's purpose. I will assume that all fields are optional, as the lack of requirement does not affect their relevance to the form's overall intent.
-
-The form seems to be designed for users with some level of technical expertise, as some fields, such as "time" and "date" types, may require some understanding of date and time formats. However, these fields are likely to be optional and can be skipped if not applicable.
-
-The provided YAML structure suggests that the form is intended for both quantitative and qualitative feedback. Some fields, like "Very likely", "Somewhat likely", and "Not likely at all" under "How likely do you think the product launch will be a success?", are quantifiable and aim to gauge the user's likelihood of success. Others, like "Select all that apply" under "What feature would you like to see improved the most?" and "What features would you like to see added?", are qualitative and allow users to provide open-ended feedback.
-
-The email address and phone number fields seem to be additional demographic information fields, likely to allow for follow-up communication. The "form_submission_page_*" fields are unclear and may be placeholders for future development or removed sections. I will focus on the fields with clear labels and purposes.
-
-</thinking>
-
 # Product Launch Feedback Evaluation Form - Help Guide
 ## Purpose
 The Product Launch Feedback Evaluation Form is designed to collect qualitative and quantitative feedback from users on a product launch. The form aims to gauge the user's likelihood of success, identify areas for improvement, and gather feedback on new features and additional comments.

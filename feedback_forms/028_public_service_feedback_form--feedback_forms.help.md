@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect public service feedback from users, providing valuable insights for improvement and ensuring that services meet the needs and expectations of the community. To ensure accurate and comprehensive feedback, the form requires a range of personal and demographic information, including name, contact details, and specific feedback on services. This guide will walk you through each field, helping you fill out the form accurately and effectively.
-
-</thinking>
-
 # public_service_feedback_form - Help Guide
 ## Purpose
 The public service feedback form is designed to gather feedback on public services from users, ensuring that services meet the needs and expectations of the community. Your input is invaluable in helping us improve and tailor our services to better serve you.

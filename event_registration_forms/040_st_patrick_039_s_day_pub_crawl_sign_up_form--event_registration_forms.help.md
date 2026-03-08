@@ -1,6 +1,3 @@
-<thinking>
-  This form is designed to collect registration information for a St. Patrick's Day pub crawl event. Users need to provide their start time, name, contact details (email and phone number), and preferences for the event. The form is used to gather essential information for the event organizers, such as participant names, contact information, and selection of options for event activities. Ensure to complete all required fields for a successful registration.
-</thinking>
 # st_patrick_s_day_pub_crawl_sign_up_form - Help Guide
 ## Purpose
 This form is for registering participants for the St. Patrick's Day pub crawl event. It's used by event organizers to collect necessary information from attendees.

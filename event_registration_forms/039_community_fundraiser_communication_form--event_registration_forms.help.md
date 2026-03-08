@@ -1,9 +1,5 @@
 # Community Fundraiser Communication Form - Help Guide
 ## Purpose
-<thinking>
-This form is designed to gather information from participants, attendees, and sponsors of community fundraisers. The purpose of this form is to collect contact information, event preferences, and other relevant details to effectively communicate with individuals and manage event logistics. This form ensures that the organization can reach out to participants with updates, reminders, and necessary information about the event.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

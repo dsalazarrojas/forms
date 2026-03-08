@@ -1,17 +1,3 @@
-<thinking>
-This form seems to be designed for collecting feedback, documentation requests, support issues, and other relevant information from users. It's possible that this form is used in a customer support or feedback management context, where the goal is to gather user insights and concerns. 
-However, to ensure this guide is relevant and non-duplication, let's review the form's fields and their purposes:
-
-* `title`: Form title is typically the name of the form, in this case "user_documentation_form".
-* `pages`: It seems like this form has multiple pages or sections, each with its own set of fields.
-* `name`: Each field has a unique `name`, `id`, and `label`. The `label` is the field name displayed to the user.
-* `type`: The field types are `text`, `select_one`, `date`, `time`, `email`, `text`, `note`, and `select_multiple`. Each field type has a specific purpose, e.g., text fields for short answers, select_one fields for selecting a single option, and select_multiple for selecting multiple options.
-* `required`: Some fields are marked as `required`, indicating they must be filled out for the form to be complete.
-* `options`: Some fields have a list of `options`, used for select fields to provide a list of possible choices.
-
-This form appears to be designed for user feedback and support purposes, possibly as part of a broader customer support or knowledge management system. To avoid duplication, this guide will cover each field's purpose and how to complete it.
-</thinking>
-
 # user_documentation_form - Help Guide
 ## Purpose
 

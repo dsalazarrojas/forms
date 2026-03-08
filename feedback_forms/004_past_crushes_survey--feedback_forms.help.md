@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about respondents' past crushes, aiming to understand their preferences, behaviors, and experiences in romantic relationships. The form is meant to be completed by individuals who are willing to share their personal feelings and experiences with their crushes. To ensure the quality of responses, the form will only be available to users who have provided valid login credentials. Additionally, to prevent duplication, users will only be able to complete the form once.
-</thinking>
-
 # Past Crushes Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information about your past crushes, including the characteristics of your first crush, your feelings about it, and your experiences with subsequent crushes.

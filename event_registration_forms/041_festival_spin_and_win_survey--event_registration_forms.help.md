@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Festival Spin And Win Survey", we first need to understand the purpose of the form and its intended use case. The form appears to be a generic form for registering events, with a focus on festivals and spin-and-win type events. It's likely intended for event organizers or participants to gather information about an event, such as the type of event, event name, and some basic details about the event. 
-
-Given the absence of any specific requirements or constraints on the form fields, we can infer that the form is designed for collecting free-form text responses, allowing users to provide their answers in a natural and flexible way. There are no specific rules or constraints mentioned, so users can enter any type of text they see fit, such as event descriptions, dates, times, locations, etc. 
-
-This form does not seem to be designed for collecting numerical data or sensitive information like passwords or credit card numbers. The absence of fields like email, phone number, or date of birth suggests that this form is not intended for user authentication or data collection for commercial purposes. 
-
-Overall, the form's purpose is likely to gather information about an event in a simple and straightforward manner, allowing event organizers to quickly and easily capture the necessary details. 
-
-</thinking>
-
 # Festival Spin And Win Survey - Help Guide
 ## Purpose
 This form is designed to help event organizers and participants gather information about a festival or spin-and-win type event. It allows users to register their event and provide basic details such as event type, name, and description.

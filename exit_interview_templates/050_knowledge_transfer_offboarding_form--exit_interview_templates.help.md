@@ -1,7 +1,3 @@
-<thinking>
-This form is used to transfer knowledge and information from one employee to another during the offboarding process. The purpose of this form is to gather information about the employee's role, responsibilities, and knowledge base, as well as their manager's and team's information. This information will be used to ensure a smooth transition of knowledge and responsibilities.
-</thinking>
-
 # knowledge_transfer_offboarding_form - Help Guide
 ## Purpose
 This form is used to collect information about an employee's knowledge, role, and responsibilities during the offboarding process.

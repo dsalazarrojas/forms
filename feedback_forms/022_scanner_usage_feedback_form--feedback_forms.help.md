@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user feedback regarding the usage and experience with a scanner device. To complete this form, please ensure that the scanner usage feedback form is relevant to the issue or problem you are experiencing. If you are submitting feedback for a specific issue that has already been reported, please do not duplicate your report. This will help us to efficiently manage and address the reported issues.
-</thinking>
-
 # Scanner Usage Feedback Form - Help Guide
 ## Purpose
 The Scanner Usage Feedback Form is designed to gather information about your experience with the scanner device. Your feedback is crucial to help us improve the device's performance, usability, and overall user experience.

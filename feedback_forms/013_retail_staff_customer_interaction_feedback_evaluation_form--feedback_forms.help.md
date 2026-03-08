@@ -1,11 +1,3 @@
-<thinking>
-To create an efficient and user-friendly help guide for the Retail Staff Customer Interaction Feedback Evaluation Form, we need to understand the purpose of the form, which is to collect feedback from customers about their interactions with retail staff. This form is designed to gather information on various aspects of the interaction, including the staff member's performance, the type of interaction (in-store, online, or phone), the details of the interaction, feedback, suggestions, resolution status, resolution details, customer satisfaction, rating, date, time, additional comments, email, and phone number. 
-To ensure that this form is used correctly, it's essential to clearly explain each field and its purpose. This guide will walk the user through the form's purpose, how to complete it, and a detailed explanation of each field. 
-
-Please note that while some fields may have multiple options, not all fields are required, and some fields are optional. This form is designed to collect feedback and suggestions from customers, and the information collected will be used to improve customer interactions and retail staff performance.
-
-</thinking>
-
 # Retail Staff Customer Interaction Feedback Evaluation Form - Help Guide
 ## Purpose
 The Retail Staff Customer Interaction Feedback Evaluation Form is designed to collect feedback from customers about their interactions with retail staff. This form is used to gather information on various aspects of the interaction, including staff performance, interaction type, details of the interaction, and more. The goal of this form is to improve customer interactions and retail staff performance.

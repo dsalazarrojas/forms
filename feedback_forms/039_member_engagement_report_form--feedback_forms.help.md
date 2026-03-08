@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from members about their engagement with the organization. The purpose of this form is to understand how often members participate in events, how they prefer to receive communications, and what channels they use to contact the organization. This form is not meant to be a duplicate or redundant exercise, and responses will be used to improve member experiences and services.
-
-</thinking>
-
 # Member Engagement Report Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and information about your member experience with our organization. Your input will help us improve our services and better understand your needs.

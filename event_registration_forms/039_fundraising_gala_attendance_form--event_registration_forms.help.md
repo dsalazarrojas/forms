@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, let's confirm that the form purpose is to collect information from attendees for the fundraising gala event. This form will be used to track guest attendance, contact details, and additional information such as guest type, number of guests, and event date and time. The form will also allow users to provide a note or additional information about their attendance. 
-</thinking>
-
 # Fundraising Gala Attendance Form - Help Guide
 ## Purpose
 

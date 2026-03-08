@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Feedback Intake Form - Help Guide
 
 ## Purpose

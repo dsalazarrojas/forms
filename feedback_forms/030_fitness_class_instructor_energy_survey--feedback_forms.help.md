@@ -1,35 +1,3 @@
-<thinking>
-This help guide is intended to be a comprehensive resource for users to understand the purpose, completion process, and specific fields of the "Fitness Class Instructor Energy Survey" form.
-
-The form purpose is to collect feedback and information from fitness class instructors about their energy levels, availability, and preferences. This data is likely to be used for scheduling and resource allocation purposes.
-
-Before filling out this form, please note that it has multiple sections and fields. The form is divided into two pages, with the first page asking for basic information like first name, last name, email, phone number, and feedback. The second page asks for specific details about the instructor's energy levels, availability, and preferences.
-
-To complete this form, follow the instructions below:
-
-1. Fill in your **First Name** (required), which is your name as it appears in your personal records.
-2. Enter your **Last Name** (not required), which is your surname.
-3. Provide your **Email** address (required), which is your personal or work email.
-4. Enter your **Phone Number** (not required), which is your mobile or landline number.
-5. Share your **Feedback** (required), which is any comments or suggestions you may have about the fitness class schedule.
-6. Select your **Availability** days of the week (not required).
-7. Choose your **Time of Day** (not required), which is the hour when you are most available.
-8. Select your **Energy Level** (not required), which can be High, Low, or any other option available.
-9. Choose your **Exercise Intensity** (not required), which can be Low, Medium, or High.
-10. Select your **Instructor Type** (not required), which can be Personal, Small Group, Large Group, or Outdoor.
-11. Select your **Experience Level** (not required), which can be Beginner, Intermediate, or Advanced.
-12. Choose your **Certification** (not required), which can be Certified, Non-Certified, or No Preference.
-13. Select your **Preferred Time** (not required), which is the hour when you would like to work.
-14. Choose your **Preferred Location** (not required), which can be yes or no.
-15. Select your **Preferred Location Type** (not required), which can be yes or no.
-16. Select your **Available Days** (not required), which can be yes or no.
-17. Choose your **Available Time** (not required), which can be yes or no.
-18. Select your **Comments** (not required), which can be yes or no.
-
-Please fill out the form accordingly, and ensure that all required fields are completed. If you have any questions or concerns, feel free to contact us.
-
-</thinking>
-
 # Fitness Class Instructor Energy Survey - Help Guide
 ## Purpose
 The Fitness Class Instructor Energy Survey is designed to collect feedback and information from fitness class instructors about their energy levels, availability, and preferences. This data will be used for scheduling and resource allocation purposes.

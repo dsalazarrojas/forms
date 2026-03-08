@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from users for a stage setup inquiry. The purpose of this form is to collect general information about the user, details about the event, requirements for the stage, and technical requirements. This form is used to ensure that the stage setup is properly configured and equipped for the event. 
-
-This form should only be filled out by authorized personnel. Please fill out this form carefully and accurately. 
-
-If you have filled out this form before, please ensure that you are not duplicating your previous submission. Duplicate submissions may cause unnecessary work and delay the stage setup process.
-
-</thinking>
-
 # Stage Setup Inquiry Form - Help Guide
 ## Purpose
 The Stage Setup Inquiry Form is designed to collect information from authorized personnel to ensure that the stage setup is properly configured and equipped for an event.

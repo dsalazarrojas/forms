@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a Book Club Post Discussion Check In form, designed to gather feedback from members after each discussion meeting. The purpose of this form is to help the book club organizers understand the members' thoughts, opinions, and suggestions for improvement. The feedback collected through this form will be used to refine the discussion topics, facilitation skills, and overall experience of the book club.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Book Club Post Discussion Check In - Help Guide
 ## Purpose
 

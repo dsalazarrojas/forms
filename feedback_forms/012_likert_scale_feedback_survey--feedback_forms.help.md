@@ -1,5 +1,3 @@
-<thinking>This form is intended for collecting feedback from users on different aspects of a service or product. It's not a traditional questionnaire but rather a Likert scale survey, which asks respondents to rate their agreement or satisfaction on a scale from 2 to 5. Please note that this form is not affiliated with or endorsed by any form platform and is an original adaptation of a survey topic created by AI using public metadata. This form is released under CC BY 4.0 and can be used, modified, and distributed freely, as long as credit is given. If you're not sure about the purpose or relevance of this form, please let me know.</thinking>
-
 # Likert Scale Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on different aspects of a service or product using a Likert scale survey. The survey asks respondents to rate their agreement or satisfaction on a scale from 2 to 5 for each of the 23 questions.

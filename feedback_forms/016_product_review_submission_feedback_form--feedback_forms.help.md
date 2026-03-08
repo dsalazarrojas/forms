@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # product-review-submission-feedback-form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about a product they have used. This form helps us understand their thoughts, opinions, and experiences with the product, which will be used to improve the product and provide better service to our customers in the future.

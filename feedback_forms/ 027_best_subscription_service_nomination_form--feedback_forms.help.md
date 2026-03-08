@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect user feedback and nominations for the best subscription service. It is intended for users to provide their personal information, select a primary selection, and confirm their agreement with the options provided. The form is used to gather data for internal decision-making purposes and may be shared with relevant stakeholders. Please ensure that you only submit the form once, as duplicate submissions will not be accepted.
-
-</thinking>
-
 # Best Subscription Service Nomination Form - Help Guide
 
 ## Purpose

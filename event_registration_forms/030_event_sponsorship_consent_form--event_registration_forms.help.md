@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for individuals to provide sponsorship consent for events. It is crucial to ensure that the form is filled out completely and accurately to avoid any issues with event sponsorship. Please note that the form fields are designed to collect specific information about the event and the individual's sponsorship details.
-</thinking>
-
 # Event Sponsorship Consent Form - Help Guide
 ## Purpose
 This form is used to collect sponsorship information and consent for events. Please fill out the form accurately and completely to ensure that you can participate in the event as a sponsor.

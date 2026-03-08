@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering for an event, and the goal is to collect information from users about the event they want to attend. The form will be used to track and manage invitations and attendance. This form should be filled out by users who have not yet been invited to the event, or users who need to update their event details. Please fill out the form carefully to ensure accurate information is collected.
-</thinking>
-
 # Invitation Delivery Form - Help Guide
 ## Purpose
 This form is used to register for an event and provide your details for invitation and potential attendance tracking.

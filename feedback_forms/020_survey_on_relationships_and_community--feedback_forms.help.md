@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a clear and concise user-facing help guide for this survey form.</thinking>
-
 # Survey On Relationships And Community - Help Guide
 ## Purpose
 The Survey On Relationships And Community form is designed to gather information about the relationships and community engagement within your organization. This form will help us understand your experiences and perceptions about your relationships with colleagues, communication, and community involvement.

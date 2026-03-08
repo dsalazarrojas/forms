@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather visitor feedback and impact data from the wildlife reserve. The purpose of this form is to understand visitor experiences, satisfaction, and preferences, which will help park management make data-driven decisions to improve the visitor experience and park operations. Please ensure you've visited the park before filling out this form.
-This form is for first-time visitors, so please fill it out only once. If you have already filled out this form, you can disregard this survey.
-</thinking>
-
 # Wildlife Reserve Visitor Impact Survey - Help Guide
 ## Purpose
 The Wildlife Reserve Visitor Impact Survey is a form designed to gather information about your visit to the park. Your feedback and input will help us understand how we can improve your experience and make the park a better place for you and our other visitors.

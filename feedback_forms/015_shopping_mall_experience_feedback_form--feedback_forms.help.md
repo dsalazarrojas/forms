@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shopping Mall Experience Feedback Form - Help Guide
 
 ## Purpose

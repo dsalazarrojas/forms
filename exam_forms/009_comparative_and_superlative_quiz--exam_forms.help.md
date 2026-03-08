@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Comparative And Superlative Quiz - Help Guide
 
 ## Purpose

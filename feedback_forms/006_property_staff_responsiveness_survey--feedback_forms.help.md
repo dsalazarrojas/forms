@@ -1,8 +1,3 @@
-<thinking>
-This form was created to collect feedback from property staff on their responsiveness. It aims to understand how well the staff communicates and responds to enquiries, as well as their overall satisfaction with the property. This form is for the property staff to provide their perspective on their manager's responsiveness, and it's meant to be a helpful and informative tool for the property management team.
-Before filling out this form, please ensure that you haven't completed it before, and that your comments are genuine and helpful. Your feedback is valuable, and we appreciate your time in sharing your thoughts.
-</thinking>
-
 # Property Staff Responsiveness Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from property staff on their manager's responsiveness. It will help the property management team understand their strengths and weaknesses, and identify areas for improvement.

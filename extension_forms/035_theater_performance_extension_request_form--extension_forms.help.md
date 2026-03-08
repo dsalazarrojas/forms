@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used by individuals who need to request an extension for a theater performance. It collects information about the performance date, production title, venue, production start and end dates, extension request, reason for extension, extension request type, and approval status. This form is likely to be used by theater managers, production teams, or performers to request an extension for a performance that has been scheduled but needs to be rescheduled due to various reasons.
-
-The form is likely to be used to determine if the performance can be extended, and if so, what type of extension is requested. This form might be used by a committee or manager to review the requests and make decisions based on the provided information. The form's design and fields suggest that it is a simple and straightforward tool for requesting an extension.
-
-</thinking>
-
 # Theater Performance Extension Request Form - Help Guide
 ## Purpose
 The Theater Performance Extension Request Form is used to request an extension for a scheduled theater performance. It helps to gather information necessary to make a decision on whether the performance can be extended and if so, what type of extension is requested.

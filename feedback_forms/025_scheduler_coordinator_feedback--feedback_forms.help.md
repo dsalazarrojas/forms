@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The purpose of this form is to collect feedback from the scheduler coordinator on a specific set of criteria that are essential for evaluating their performance. This feedback will help in identifying strengths and areas of improvement to enhance the overall scheduling process and staff management. Before proceeding, ensure that you haven't completed this form recently, as duplicate submissions are not allowed.
 
 # Scheduler Coordinator Feedback - Help Guide

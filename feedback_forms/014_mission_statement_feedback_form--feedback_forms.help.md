@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on the mission statement of the organization. The purpose of the form is to understand the effectiveness of the mission statement in guiding the organization's actions and decisions. This feedback will help us identify areas of improvement and make necessary changes to the mission statement.
-The form should not be completed by users who have not read or familiarized themselves with the mission statement. Please take a few minutes to review the mission statement before providing feedback.
-</thinking>
-
 # Mission Statement Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on the effectiveness of the organization's mission statement. Please provide your honest and constructive feedback to help us improve.

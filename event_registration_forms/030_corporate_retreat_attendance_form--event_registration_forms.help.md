@@ -1,9 +1,3 @@
-<thinking>
-This form is used for corporate retreat attendance registration, which is a crucial part of corporate events planning. The form is designed to collect necessary information from attendees, such as contact and travel details, corporate information, and other relevant data.
-
-Before filling out the form, please ensure that you have all the required information ready. Some fields are required, so make sure to fill them out accurately. If you are unsure about any of the fields, please consult the relevant department or person responsible for your corporate events.
-</thinking>
-
 # corporate_retreat_attendance_form - Help Guide
 ## Purpose
 This form is for corporate retreat attendance registration, which is a crucial part of corporate events planning. The form is designed to collect necessary information from attendees, such as contact and travel details, corporate information, and other relevant data.

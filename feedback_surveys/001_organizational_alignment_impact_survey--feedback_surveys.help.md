@@ -1,7 +1,3 @@
-<thinking>
-We're about to create a user-facing help guide for the "organizational_alignment_impact_survey" form. This form is a crucial tool for understanding the alignment between different teams within an organization and how they impact performance. The purpose of this form is to gather feedback from respondents about their perceptions of team structures, leadership, communication, and other factors that contribute to performance goals. To ensure the form is filled out correctly and effectively, we need to create a guide that explains each field's purpose and what's expected from the respondent.
-</thinking>
-
 # Organizational Alignment Impact Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from respondents about their perceptions of team structure, leadership, and other factors that impact performance. The information gathered through this form will help identify areas of strength and weakness within the organization and inform future development and improvement initiatives.

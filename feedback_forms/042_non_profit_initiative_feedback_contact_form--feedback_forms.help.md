@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a tool to collect feedback and contact information from users interested in non-profit initiatives. The form is designed to gather relevant details about the user, including their name, email, feedback, and preferred contact method. It also asks about the event date and time (if applicable), location, and any additional comments. The goal is to provide a way for non-profit organizations to collect structured feedback and contact information from their audience. 
-
-Please make sure to fill out all required fields to ensure a successful submission. Note that some fields may not be relevant for every submission, such as event date and time if the event has not occurred yet or if you don't want to share that information. 
-
-Before submitting, take a moment to review all your responses to ensure accuracy and completeness. If you need further assistance, feel free to reach out to us at form@gic.mx.
-
-</thinking>
-
 # Non Profit Initiative Feedback Contact Form - Help Guide
 ## Purpose
 The Non Profit Initiative Feedback Contact Form is a tool designed to collect structured feedback and contact information from individuals interested in non-profit initiatives. The form is used to gather relevant details about the user, including their name, email, feedback, and preferred contact method.

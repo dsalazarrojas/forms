@@ -1,5 +1,3 @@
-<thinking>Before designing this help guide, I first reviewed the form's purpose and structure to ensure that the information provided is clear and concise. Upon reviewing the form fields, I noticed that it's an Event Insurance Request Form, likely used for users to provide insurance requests for events. The form collects information such as event details, insurance request amount, risk assessment, and contact information. To complete this form, users will need to provide information about the event they are requesting insurance for, including the name of the event, date, time, location, description, and insurance request amount. They will also need to provide risk assessment and select the type of coverage they require. Additionally, users will need to provide contact information such as name, email, phone number, and contact details. I will now provide a user-facing help guide for this form.</thinking>
-
 # Event Insurance Request Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect scores from multiple team members for a pitch competition. The purpose of this form is to gather numerical and written feedback for each team participating in the competition. Each team member's score will be averaged to get the overall team score. This form will be used by competition organizers to collect scores from multiple team members.
-
-Before completing this form, please ensure that you are filling it out for the correct team and competition.
-</thinking>
-
 # Pitch Competition Scoring Form - Help Guide
 ## Purpose
 This form is used to collect numerical and written feedback from team members for a pitch competition.

@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Personal Configuration Survey" form, we'll need to understand its purpose, structure, and requirements. This form appears to be a collection of diverse fields aimed at gathering various types of information from users. The fields include text, select one, select multiple, date, time, email, phone, note, number, and other types of input fields. Each field has a unique label and type, and some fields are required while others are not. Our goal is to provide clear explanations for each field to help users fill out the form accurately and efficiently.
-
-</thinking>
-
 # Personal Configuration Survey - Help Guide
 ## Purpose
 The Personal Configuration Survey form is designed to collect information about your personal preferences, contact details, and feedback. This form is intended to gather data that will help us improve our services and tailor our communication to your needs.

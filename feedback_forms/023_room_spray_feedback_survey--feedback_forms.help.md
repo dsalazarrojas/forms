@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # room_spray_feedback_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from customers about their experience with our room spray products. We use this feedback to identify areas of improvement and provide better service.

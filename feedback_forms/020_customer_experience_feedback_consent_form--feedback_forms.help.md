@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Experience Feedback Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience with our services. Please complete this form to help us understand your satisfaction and any areas for improvement.

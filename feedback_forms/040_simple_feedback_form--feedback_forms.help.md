@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed for end-users to provide feedback to your organization. It consists of multiple pages with different fields to capture various pieces of information. To ensure you receive accurate and helpful feedback, please complete the form carefully and thoughtfully. To prevent duplication, we recommend checking the form's submission status before sending.
-
-</thinking>
-
 # Simple Feedback Form - Help Guide
 ## Purpose
 The Simple Feedback Form is a tool for end-users to share their thoughts, opinions, and suggestions with our team. It is meant to be used for constructive feedback, not for urgent or critical issues.

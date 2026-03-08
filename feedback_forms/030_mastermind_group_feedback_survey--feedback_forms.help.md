@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for collecting feedback from participants in a Mastermind Group session. The purpose of this form is to gather information on what the participants learned, what was valuable, what they struggled with, and what could be improved for future sessions. This form also aims to collect additional comments, categorize the feedback, collect contact information (email and phone number), and store timestamps.
-</thinking>
-
 # Mastermind Group Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from participants in a Mastermind Group session.

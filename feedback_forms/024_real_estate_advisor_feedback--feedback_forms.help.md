@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users who have interacted with a real estate advisor. The purpose of this form is to gather information about the user's experience with the advisor, including their rating of the advisor's performance, any comments they may have, their contact information, and their feedback about the advisor's agency. This form will help to identify areas of improvement and provide insights for the advisor and their agency to refine their services.
-
-The form is not intended for immediate action or decision-making, but rather for collecting feedback for internal analysis and improvement. 
-
-The form should only be filled out by users who have interacted with a real estate advisor in the past. Users should not fill out this form if they have not received a real estate advisory service.
-
-</thinking>
-
 # real_estate_advisor_feedback - Help Guide
 ## Purpose
 The "real_estate_advisor_feedback" form is a feedback collection tool for users to provide input about their experience with a real estate advisor.

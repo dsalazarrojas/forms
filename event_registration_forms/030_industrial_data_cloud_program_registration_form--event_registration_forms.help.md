@@ -1,5 +1,3 @@
-<thinking>This form is intended for the registration and tracking of events in the context of industrial data cloud programs. It captures information about participants, their contact details, project locations, and manager details. The form is not intended for general user registration or other purposes. Before starting the registration process, ensure you understand the context and purpose of this form to avoid submitting duplicate or incorrect data. Please note that the form is designed to collect information for tracking and analysis purposes, so be accurate and clear in your inputs.</thinking>
-
 # industrial_data_cloud_program_registration_form - Help Guide
 ## Purpose
 The industrial data cloud program registration form is designed to collect information about participants, their contact details, project locations, and manager details for tracking and analysis purposes.

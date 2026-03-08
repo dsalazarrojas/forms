@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to gather feedback from users about their experience with the Receptionist AI. This feedback will help us understand what we can improve to better serve our customers. To ensure relevance and non-duplication, we will review each submission before passing it on to our development team. This form will only be used to improve the Receptionist AI and will not be used for any other purpose. 
-
-</thinking>
-
 # Receptionist AI Feedback Form - Help Guide
 ## Purpose
 The Receptionist AI Feedback Form is designed to gather your feedback about your experience with our Receptionist AI. Your responses will help us understand what we can improve to provide better service.

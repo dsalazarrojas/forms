@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for peers to provide feedback to each other in an evaluation process. The overall goal is to help individuals grow and improve in their roles. To ensure accuracy, please review each field carefully and answer as truthfully as possible, avoiding duplication of effort in your feedback. This helps to prevent multiple submissions with conflicting information and to save time in the evaluation process.
-</thinking>
-
 # Peer Feedback Form - Help Guide
 
 ## Purpose

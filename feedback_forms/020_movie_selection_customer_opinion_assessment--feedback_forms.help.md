@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for a customer feedback form, specifically for the "Movie Selection Customer Opinion Assessment" form. This form is designed to collect customers' opinions and feedback on their movie watching habits and preferences. We will need to explain the purpose of the form, how to complete it, and what each field means. The form has multiple fields that ask customers about their selected movie, reason for not watching, rating, comment, contact info, and other movie-watching habits such as watching at home, at theater, at cinema, streaming library, club event, on DVD, and other. We will need to explain each field in a way that is clear and concise, avoiding unsupported business logic.
-</thinking>
-
 # Movie Selection Customer Opinion Assessment - Help Guide
 
 ## Purpose

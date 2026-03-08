@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Leave Time Off Form - Help Guide
 ## Purpose
 This form is used to request leave time off for volunteer work. Please fill out this form to submit your leave request, providing necessary details such as the date and reason for your leave. This form is typically used by volunteers who need to take a break from their volunteer work.

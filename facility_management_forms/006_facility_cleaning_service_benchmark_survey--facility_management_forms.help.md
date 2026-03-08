@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from users about the cleanliness of a facility. It's intended to assess the quality of the cleaning services provided by the facility management team. This form is likely used by facility management or maintenance teams to identify areas of improvement and make informed decisions about how to adjust their cleaning protocols. To avoid duplication of effort and ensure that the form is filled out accurately, please make sure to complete it carefully and thoroughly.
-
-Before submitting this form, please ensure that you have a good understanding of the facilities you are rating. The form is meant to be completed by someone who has had direct experience with the facility and its cleaning services.
-</thinking>
-
 # Facility Cleaning Service Benchmark Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from users about the cleanliness of a facility. It helps the facility management team to assess the quality of cleaning services and make informed decisions about how to improve them.

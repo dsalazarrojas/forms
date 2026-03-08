@@ -1,10 +1,3 @@
-<thinking>
-The Plant Protein Consortium Registration Form is a form designed for individuals to register their interest in becoming a member of the Plant Protein Consortium. It is used to collect essential information from potential members, such as their name, email address, phone number, organization name, contact person, role, bio, data protection policy, and terms and conditions agreement. The form is intended to help the consortium's management team understand the interests and qualifications of potential members and make informed decisions about their registration.
-
-Before proceeding, please ensure that you are not already a registered member of the consortium. If you are a returning user, please contact the consortium management team for assistance.
-
-Please complete the following form carefully, as it is a crucial part of the registration process.</thinking>
-
 # Plant Protein Consortium Registration Form - Help Guide
 ## Purpose
 This form is a registration tool for potential members of the Plant Protein Consortium. It will collect your name, contact information, and other essential details.

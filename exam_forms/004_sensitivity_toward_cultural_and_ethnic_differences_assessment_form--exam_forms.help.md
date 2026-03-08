@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sensitivity Toward Cultural And Ethnic Differences Assessment Form - Help Guide
 ## Purpose
 

@@ -1,16 +1,3 @@
-<thinking>
-This form is used to gather feedback from participants about their experience with control systems courses. It's essential to provide clear and concise instructions to help users understand what information to provide in each field. Before filling out this form, please ensure that you have a genuine reason for providing feedback, as repetitive or unnecessary feedback can be time-consuming for both the participant and the course administrators.
-
-The form is designed to collect feedback on various aspects of the course, including participant name, course participation, session, feedback rating, comments, suggestions, participant-instructor rating, content, instructor facilitation, materials, average feedback rating, overall rating, and overall average rating.
-
-This form is intended to help course administrators gauge participant satisfaction and identify areas for improvement. Please fill out the form as accurately and thoroughly as possible, and do not leave any fields empty unless they are not applicable.
-
-When filling out this form, please ensure that you are providing feedback based on your genuine experience with the control systems course.
-
-This form will help us to better understand your needs and improve our courses in the future.
-
-</thinking>
-
 # Introduction To Control Systems Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants about their experience with control systems courses. The purpose of this form is to help course administrators understand what aspects of the course are working well and what areas need improvement.

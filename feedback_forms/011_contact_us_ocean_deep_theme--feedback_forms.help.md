@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to provide users with a clear understanding of the purpose and functionality of the "Contact Us Ocean Deep Theme" form. The form is designed to gather feedback and information from users, allowing us to improve our services and provide better support. This form is not intended for general inquiries or sales pitches. Users should not use this form to ask questions or seek support for non-related issues. If you have a specific problem or question, please contact us through other means. Before filling out this form, ensure that you have not already filled it out, as duplicate submissions may lead to confusion and duplication of effort.
-</thinking>
-
 # Contact Us Ocean Deep Theme - Help Guide
 ## Purpose
 The "Contact Us Ocean Deep Theme" form is designed to gather feedback and information from users, allowing us to improve our services and provide better support.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Key Issuance Log form is to record the issuance and return of keys within an organization, ensuring accurate tracking and management of key-related activities. It is essential to fill out this form correctly to prevent duplication of records and ensure that all key-related information is up-to-date and accurate.
-</thinking>
-
 # Key Issuance Log - Help Guide
 ## Purpose
 The Key Issuance Log is a record-keeping form used to track the issuance and return of keys within the organization. Its main purpose is to ensure that all key-related information is accurate and up-to-date.

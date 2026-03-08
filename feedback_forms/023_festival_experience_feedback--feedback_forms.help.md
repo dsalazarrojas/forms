@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users who have attended a festival. It is meant to be completed by festival attendees to provide their overall rating, favorite artists, activities, and food vendors, as well as any improvement ideas they may have. This form is not intended to be completed by non-attendees or individuals without experience at the festival.
-To avoid duplication of feedback, this form is not intended for completion by the same user multiple times. Users can only complete this form once.
-</thinking>
-
 # Festival Experience Feedback - Help Guide
 ## Purpose
 This guide will help you understand how to complete the Festival Experience Feedback form and what each field represents.

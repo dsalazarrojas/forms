@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from healthcare IT implementation teams and stakeholders on the effectiveness and usability of a healthcare IT implementation. The form will help the team understand the strengths and weaknesses of the implementation, identify areas for improvement, and guide future development. It's essential that the feedback provided is specific, concrete, and constructive, as it will help the team to make informed decisions and prioritize their work. To ensure that the feedback is relevant and useful, please make sure that you're providing feedback on the specific implementation you've interacted with.
-</thinking>
-
 # Healthcare IT Implementation Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the healthcare IT implementation from stakeholders and team members. Your input will help us better understand the strengths and weaknesses of the implementation, identify areas for improvement, and guide future development.

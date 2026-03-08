@@ -1,11 +1,3 @@
-<thinking>
-To ensure that this form is completed correctly and efficiently, the following internal checks should be performed:
-
-* Only allow submissions from registered speakers and organizers to avoid duplicate submissions.
-* Check for consistency between speaker and submission information to prevent incorrect submissions.
-* Ensure that all required fields are completed before submitting.
-</thinking>
-
 # Virtual Event Abstract Submission Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback on festival experiences, likely from attendees to assess the overall success and quality of the festival events. It seems this form is part of a more extensive feedback collection process, aiming to gather data about the favorite performances, images, and overall experience ratings. This form might be used to identify trends and areas of improvement for future festival organizers.
 
 ## Festival Experience Questionnaire - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather feedback from patients about their vision care experience. The form's purpose is to collect anonymous and voluntary feedback about the quality of care provided at the facility. It may be used to identify areas of improvement and to make data-driven decisions to enhance patient satisfaction and care quality. It's essential to ensure that the feedback is genuine and not duplicated. To achieve this, the form should be designed with clear and concise questions, and users should be instructed to provide their actual experience and not copy answers from others.
-</thinking>
-
 # Vision Care Feedback Form - Help Guide
 ## Purpose
 

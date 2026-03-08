@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who wish to register for a group event. The form captures personal details, event-related information, and contact details for emergency situations. This form is part of the "event_registration_forms" category, and it's crucial to ensure that the data collected is accurate and complete.
-Before filling out this form, please check that you haven't already registered for the event in the past, as this may cause duplication of effort and potentially lead to unnecessary complications.
-</thinking>
-
 # Sister Circle Group Registration - Help Guide
 ## Purpose
 This form is designed to help you register your group for an event. Please fill out this form with your personal and event-related details accurately.

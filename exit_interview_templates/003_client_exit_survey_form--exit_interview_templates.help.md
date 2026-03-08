@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from clients who have exited their account or service with the company. It helps us understand the reasons behind their departure, gather information on their experience, and identify areas for improvement. This information will be used to refine our services and make necessary changes to better serve our future clients. 
-</thinking>
-
 # Client Exit Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients who have closed their accounts or ended their service with us. The data collected will help us identify areas of improvement and make informed decisions to refine our services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sales_update - Help Guide
 ## Purpose
 This form is used to update sales information and details.

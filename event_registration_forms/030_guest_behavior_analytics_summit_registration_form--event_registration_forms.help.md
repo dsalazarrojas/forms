@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect registration data for the Guest Behavior Analytics Summit. The purpose of this form is to provide an organized and structured way to collect information from attendees, allowing us to tailor our event experience and follow up with them after the summit. 
-
-This form should only be used for guest registration, not for speakers, sponsors, or other stakeholders. 
-
-The form should not be completed by non-human users. 
-
-Please fill out the form carefully, as the information collected will be used for event planning and follow-up. 
-
-This guide will help you complete the form correctly and make sure you have all the necessary information for our team to process your registration.
-
-</thinking>
-
 # Guest Behavior Analytics Summit Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration data for the Guest Behavior Analytics Summit. The information collected will be used to tailor our event experience and follow up with you after the summit.

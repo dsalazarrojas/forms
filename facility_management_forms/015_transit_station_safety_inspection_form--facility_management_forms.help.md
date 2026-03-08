@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect safety inspection data for transit stations. The form helps ensure that transit stations are safe for passengers and employees. It is crucial to complete this form thoroughly and accurately to prevent accidents and ensure compliance with safety regulations. This form should only be filled out for the specific station being inspected, and not for other stations or other types of facilities.
-</thinking>
-
 # Transit Station Safety Inspection Form - Help Guide
 ## Purpose
 This form is used to gather information about the safety of transit stations. It helps identify potential hazards and ensure that corrective actions are taken to maintain a safe environment.

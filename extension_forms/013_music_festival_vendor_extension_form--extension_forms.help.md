@@ -1,12 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the Music Festival Vendor Extension Form. This form is designed for vendors to provide information about their music performance or event-related services. Its purpose is to allow festival organizers to collect necessary information from vendors in order to facilitate the extension of music festival vendors. The form collects contact information, desired dates and time slots, additional notes, music genres, vendor image, contract type, and extension date.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It was created using public survey topic metadata as inspiration, and is released under CC BY 4.0 license. You are free to use, modify, and even sell forms derived from it, just give credit.
-
-Before filling this form, please ensure you have not filled it previously. This form is not a replacement for any other form, but rather a new, original adaptation of a form that is similar to others in the survey topic.
-
-</thinking>
-
 # Music Festival Vendor Extension Form - Help Guide
 ## Purpose
 The Music Festival Vendor Extension Form is designed to collect information from music vendors to facilitate their extension to the festival.

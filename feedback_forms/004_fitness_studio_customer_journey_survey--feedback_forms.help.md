@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their experiences with Fitness Studio, a place where people can work out, attend classes, and receive personal training. This form will help us understand what customers like or dislike about our services and facilities, which will be used to improve the overall experience for our customers.
-
-This form is intended to be a general feedback tool and not a complaint form. Please answer the questions honestly, and if you have any specific feedback, use the "Feedback" field at the end for that purpose. Please note that this form is optional and your responses will be kept anonymous.
-
-We will use the data collected to improve our services and facilities, so your input is valuable and appreciated.</thinking>
-
 # Fitness Studio Customer Journey Survey - Help Guide
 ## Purpose
 The Fitness Studio Customer Journey Survey is a feedback form designed to help us understand your experiences with our services and facilities. Your feedback is valuable in helping us improve our offerings.

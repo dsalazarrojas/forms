@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from festival attendees about their overall experience at the event. This will help us understand what we did well, what we could improve on, and what we can do differently next time. This form is meant to be completed by those who attended the festival and want to provide their honest and constructive feedback. 
-
-It's essential to ensure that each attendee completes this form only once, so please do not complete this form if you have already done so. If you're unsure whether you've already completed the form, feel free to check with your festival team. If multiple festival attendees are working together on this task, please take turns and only one person should be responsible for filling out this form. This will help us keep track of feedback and make it easier to follow up.
-
-</thinking>
-
 # Festival Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about your experience at the festival. Your feedback will help us understand what we're doing well and what we can improve on.

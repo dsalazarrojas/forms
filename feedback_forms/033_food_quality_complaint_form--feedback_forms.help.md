@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect information about food quality complaints. Users can select an option for their complaint from a set of pre-defined categories and provide a brief description of their issue. The form also asks for a photo of the food item in question and contact information (email and phone number) in case the user wants to be contacted for further follow-up. The form is designed to be completed by customers or customers' representatives who want to report a quality issue with food served at a restaurant or store. This form is not a formal complaint escalation form and should only be used for general feedback and improvement purposes.
-...</thinking>
-
 # Food Quality Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about food quality complaints from customers or their representatives. It allows them to report their concerns and provide a photo of the affected food item, if available.

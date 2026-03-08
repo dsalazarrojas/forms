@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed to collect feedback from customers on their experience with a particular product or service. The form likely aims to help businesses understand customer satisfaction, pain points, and areas for improvement. The form seems to be a general feedback form, open to various types of feedback, including product and service feedback, but it's possible that it's specifically for cosmetics-related feedback given the "product" and "service" fields. I'll assume it's a one-page form with multiple fields for different types of feedback.
-
-</thinking>
-
 # Cosmetic Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect your feedback on your experience with a cosmetic product or service. Your input will help our team improve our products and services to better meet your needs.

@@ -1,9 +1,3 @@
-<thinking>
-This form is meant for collecting feedback from project management information systems users to improve the project management information system's usability, functionality, and overall user experience. 
-The goal is to collect data that will help us better understand how users interact with the system, and what we can improve to make their experience more efficient and enjoyable.
-Before submitting the form, please review the form contents and ensure that all required fields are filled correctly. If a field is not required, you can skip it, but please do not fill it in. Duplicate entries will not be accepted and will be discarded. 
-</thinking>
-
 # pmi_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users of the project management information system to improve the system's usability, functionality, and overall user experience.

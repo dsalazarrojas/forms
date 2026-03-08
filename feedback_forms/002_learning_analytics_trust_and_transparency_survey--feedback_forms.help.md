@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help us better understand your perceptions and attitudes towards our learning analytics capabilities. It's a survey that gathers information about your role, experience, and opinions on how we can improve our services. Please note that your responses will be kept confidential and only used for internal analysis. Before proceeding, check if you have already completed this form. If you have, your responses will not be recorded.
-</thinking>
-
 # learning_analytics_trust_and_transparency_survey - Help Guide
 ## Purpose
 This form is a survey that aims to gather your feedback and opinions on our learning analytics services. It will help us understand your trust and perceptions towards our services and identify areas of improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for tenants to provide feedback on their experience with our company. Before submitting feedback, please ensure that you have not already submitted it. Duplicate submissions may cause confusion and lead to incorrect analysis of feedback patterns.
-</thinking>
-
 # Tenant Feedback Form - Help Guide
 ## Purpose
 The Tenant Feedback Form is a tool for tenants to share their experiences and concerns with our company. This form helps us gather valuable insights and address any issues promptly.

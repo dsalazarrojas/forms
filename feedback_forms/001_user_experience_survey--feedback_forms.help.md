@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # user_experience_survey - Help Guide
 
 ## Purpose

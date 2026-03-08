@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect feedback from students on the support resources provided by the institution. The purpose of this form is to gather information about the quality and effectiveness of the support services offered to students, including feedback on general experiences, specific services, and any other comments or suggestions. This form is intended for students who have interacted with the support services and want to provide their input, and it is used to help the institution improve its support offerings.
 
 </thinking>

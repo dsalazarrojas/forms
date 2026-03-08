@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consumer Trends Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather information on consumer trends, behavior, and preferences. It aims to collect data on various aspects of consumer behavior, including demographics, shopping habits, and awareness of emerging trends. The information collected will help us better understand consumer behavior and make informed decisions for future product development.

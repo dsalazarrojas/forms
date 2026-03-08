@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # fire_department_support_donation_form - Help Guide
 ## Purpose
 The fire_department_support_donation_form is a form designed to collect information from individuals who want to support their local fire department. This form allows users to input their personal details, including their name, contact information, and a message for the fire department. The form also includes a field to select the department they wish to support (Fire Department, Police Department, or Hospital).

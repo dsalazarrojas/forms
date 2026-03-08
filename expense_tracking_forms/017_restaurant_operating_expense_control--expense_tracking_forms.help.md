@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to track restaurant operating expenses in a structured and organized manner. It appears to be designed to collect relevant information about a restaurant's operations, specifically related to expenses. The form likely aims to simplify the expense-tracking process by providing a standardized format for restaurant owners or staff to input their expenses. 
-
-The fields are categorized into sections, each with its own focus. Section 1 and 3 ask for specific information about the restaurant and the expense type respectively, ensuring that relevant details are captured. Sections 2, 4, and 5 seem to involve multiple selections, possibly to allow the user to input multiple expense-related items. 
-
-Upon reviewing the provided YAML, there's no obvious redundancy or duplication across the form's sections. This form's design implies a straightforward and efficient way to collect and process expense information. It is essential to ensure that users understand how to complete this form accurately to obtain the intended benefits from it. 
-
-This guide will walk users through each field to ensure they fill out the form correctly.</thinking>
-
 # Restaurant Operating Expense Control - Help Guide
 ## Purpose
 The Restaurant Operating Expense Control form is designed to help restaurant owners and staff track and manage operating expenses efficiently. It guides you through essential information about restaurant operations, expenses types, and other relevant details.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from users for a registration process related to special kitten adoption events. This form is intended to collect event and attendee data without any affiliation or endorsement from other form platforms. The form is created using AI-generated metadata and is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and share it freely. The form's purpose is to capture essential details about the event and the registrants. 
-
-Please note that this form is an original adaptation and does not copy or extract content from any form creation or survey platforms.
-
-Before proceeding, ensure that you are registering for a relevant event and that you are not duplicating your registration. 
-</thinking>
-
 # Registration For Special Kitten Adoption Events - Help Guide
 ## Purpose
 This form is designed to gather information from users for a registration process related to special kitten adoption events.

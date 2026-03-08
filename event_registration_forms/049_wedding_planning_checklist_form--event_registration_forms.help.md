@@ -1,5 +1,3 @@
-<thinking>Wedding Planning Checklist Form is designed to help users keep track of the tasks and vendors associated with planning a wedding. This form aims to streamline the wedding planning process by centralizing tasks and vendor information in a single, easy-to-use interface.</thinking>
-
 # Wedding Planning Checklist Form - Help Guide
 
 ## Purpose

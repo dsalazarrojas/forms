@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about errors that occur in a warehouse setting. The purpose of this form is to provide a structured way for users to report and track errors, facilitating a faster resolution process. To ensure data quality, please make sure to complete the form only once per error incident. If you're reporting multiple errors, please create a new form for each one.
-</thinking>
-
 # Warehouse Error Log Form - Help Guide
 
 ## Purpose

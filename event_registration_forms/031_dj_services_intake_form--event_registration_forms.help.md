@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who are interested in hiring a DJ for an event. The purpose of this form is to gather essential details about the client, the event, and the services required for the event. The form ensures that all necessary information is collected to provide a seamless and professional experience for both the client and the DJ.
-</thinking>
-
 # DJ Services Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from clients who are interested in hiring a DJ for an event.

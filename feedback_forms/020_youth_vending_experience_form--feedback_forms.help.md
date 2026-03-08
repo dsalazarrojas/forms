@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Youth Vending Experience Form - Help Guide
 =====================================
 

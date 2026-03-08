@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and ratings from users regarding public water dispensers. It seems to be used for maintenance and improvement of these facilities. The form has several sections to gather information such as cleanliness, maintenance, accessibility, water temperature, type of water provided, and maintenance requests. This form likely helps facility managers to identify areas of improvement and ensure that the water dispensers are well-maintained and provide a good experience for users. 
-
-Please review the form carefully to ensure it is correctly filled out and not duplicated. If you have any questions or concerns, please contact the facility management team.</thinking>
-
 # Public Water Dispenser Survey - Help Guide
 ## Purpose
 The Public Water Dispenser Survey is a form designed to collect feedback and ratings from users about public water dispensers. It helps facility managers to understand how well-maintained and accessible the water dispensers are, and to identify areas for improvement.

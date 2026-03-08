@@ -1,9 +1,3 @@
-<thinking>...
-This guide is intended to be used by internal users and is not meant to be a general guide for the public. It is assumed that the users have a basic understanding of what the Social Entrepreneurship Awareness Survey is and its purpose.
-The survey is used to gather information about the users' perception of social entrepreneurship, their engagement with social entrepreneurship, and other demographic information.
-The form is divided into 8 sections, each with its own specific questions and explanations. Please ensure that you complete the form carefully and accurately.
-</thinking>
-
 # Social Entrepreneurship Awareness Survey - Help Guide
 ## Purpose
 This guide is intended to assist internal users in completing the Social Entrepreneurship Awareness Survey form. The survey is used to gather information about your perception of social entrepreneurship, your engagement with it, and other demographic information.

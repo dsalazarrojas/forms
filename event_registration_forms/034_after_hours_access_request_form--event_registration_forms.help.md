@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # After Hours Access Request Form - Help Guide
 
 ## Purpose

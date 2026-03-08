@@ -1,7 +1,3 @@
-<thinking>
-This form is used for communicating event invitations with guests. It is likely used in a context where guests are being invited to a specific event. It is possible that this form will be used by event organizers to collect RSVPs and gather information about the guest's preferences and availability. To ensure relevance, please review the following fields and their corresponding labels to confirm that this form is the correct tool for your use case.
-</thinking>
-
 # Event Invitation Communication Form - Help Guide
 ## Purpose
 This form is designed to collect information from guests about their event preferences and RSVPs. It can be used by event organizers to communicate with guests and gather necessary details.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect data about different question types and their corresponding correct answers, times, and other relevant information. This form is likely used for research or educational purposes, such as collecting data on student performance or assessing knowledge in a specific subject area.
-
-To avoid duplication, it's essential to fill out this form carefully and only submit one entry per question. If you're unsure about any of the fields, please refer to the field-by-field explanations below.
-
-</thinking>
-
 # Data Models Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to collect data on question types, correct answers, and other relevant information. Please use it to gather data on a specific subject area.

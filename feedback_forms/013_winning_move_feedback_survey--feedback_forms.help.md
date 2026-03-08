@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, let me first understand the form's purpose and relevance. This form seems to be designed to collect feedback from individuals about their experience of winning a move, likely in a competitive or strategic context. The purpose of this form is to gather information about who communicated with the individual about the winning move, how they were communicated with, the impact of the move, areas for improvement, and any additional feedback. This form is likely used to improve communication and strategic decision-making within a team or organization. Before proceeding, I will create a user-facing help guide that explains how to complete the form, what each field means, and provide tips for a smooth experience.</thinking>
-
 # Winning Move Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback about your experience with a winning move. Your input helps us understand what worked well and where we can improve our communication and strategy.

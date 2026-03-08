@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about a user's reminder setup preferences for a service or application. The purpose of this form is to gather data on how often and when the user would like to receive reminders, as well as the preferred method of notification (e.g., email, phone, text). This information will be used to tailor the reminder system to the user's needs.
-Please fill out this form only if you have not already set up your reminder preferences. If you have previously submitted a reminder setup survey, please do not submit this form again.
-</thinking>
-
 # Reminder Setup Survey - Help Guide
 ## Purpose
 This form collects information about your reminder setup preferences.

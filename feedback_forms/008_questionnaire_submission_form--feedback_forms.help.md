@@ -1,5 +1,3 @@
-<thinking>Before we dive into the form's purpose and completion guide, let me just check if this form is relevant and not duplicated. This form is designed to gather feedback from users, which is a crucial part of any business or organization. By filling out this form, you'll be providing valuable insights that can help us improve our services and products. Please note that this is a one-time submission form, so you'll only need to fill it out once. If you've already submitted a questionnaire, you might not need to fill this out again. However, if you've got new information or concerns, feel free to submit again!</thinking>
-
 # Questionnaire Submission Form - Help Guide
 ## Purpose
 The Questionnaire Submission Form is designed to gather feedback and insights from users to help us improve our services and products.

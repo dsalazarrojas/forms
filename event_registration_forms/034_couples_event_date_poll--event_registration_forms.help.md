@@ -1,6 +1,3 @@
-<thinking>Internal reasoning block to determine relevance and prevent duplication:
-This form appears to be for collecting information related to couples' events, possibly for planning or organizational purposes. It includes fields for both partners' details, including names, responses, and statuses. It also has fields for event details and messages. Given the variety of fields, it's likely that this form is used for surveying or polling couples about their preferences or opinions on specific events. To ensure relevance, let's verify that the form is used for the intended purpose. If it's not, we can adjust the form's design or the help guide accordingly.</thinking>
-
 # couples_event_date_poll - Help Guide
 ## Purpose
 This form is designed to collect information from couples about their event dates and preferences. It's used for surveying or polling purposes to gather insights on events.

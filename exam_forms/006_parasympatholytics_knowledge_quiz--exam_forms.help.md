@@ -1,8 +1,3 @@
-<thinking>
-The form "Parasympatholytics Knowledge Quiz" is designed to gather information from users about their experiences with certain drugs, specifically about their correct usage and side effects. The form should be completed by individuals who have had a specific event or experience related to a particular drug. The form is intended to collect data about the user's interaction with the drug, including dosage, unit of measurement, potential side effects, and other relevant information.
-Before filling out this form, please ensure that you have not already reported the same event to us, as we aim to collect unique and distinct experiences. If you are unsure about the form's purpose or have any questions, please feel free to reach out to us.
-</thinking>
-
 # Parasympatholytics Knowledge Quiz - Help Guide
 ## Purpose
 The Parasympatholytics Knowledge Quiz form is designed to collect data about users' experiences with certain drugs. This data will help us better understand the effects of these medications and their interactions.

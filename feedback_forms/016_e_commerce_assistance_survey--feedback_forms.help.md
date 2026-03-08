@@ -1,9 +1,3 @@
-<thinking> 
-This form, named "e_commerce_assistance_survey", is likely used to collect feedback and gather information from customers who have made a purchase or interacted with an online store or e-commerce platform. The form aims to understand the customer's experience with the platform, assess their satisfaction with the purchase process, and identify potential areas for improvement. The form appears to cover a wide range of topics, including rating, feedback, purchase experience, communication channels, and purchase information. 
-
-The purpose of this form is likely to help the platform's administrators improve their services, address customer concerns, and enhance overall user experience. This form may also serve as a means to collect feedback on specific purchases, such as purchase value, channel, type, and purchase date, which might help in tracking user behavior and identifying trends. The questions cover various aspects of the purchase process, from customer experience to communication channels and product information. This form seems to be designed to be completed by customers after a purchase or interaction with the platform. 
-</thinking>
-
 # e_commerce_assistance_survey - Help Guide
 ## Purpose
 The e_commerce_assistance_survey form is designed to collect feedback and gather information from customers who have made a purchase or interacted with an online store or e-commerce platform. This form aims to improve customer satisfaction and help the platform's administrators identify areas for improvement.

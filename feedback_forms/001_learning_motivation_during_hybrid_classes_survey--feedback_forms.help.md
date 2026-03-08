@@ -1,5 +1,3 @@
-<thinking> This form is designed to gather feedback from students about their experiences during hybrid classes. The purpose of this form is to collect data on various aspects of the students' experiences, including their motivations, learning outcomes, and interactions with the teacher and peers. This will help the instructor to evaluate the effectiveness of the class format and identify areas for improvement. </thinking>
-
 # learning_motivation_during_hybrid_classes_survey - Help Guide
 
 ## Purpose

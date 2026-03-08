@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about the fitness equipment maintenance experience. It is likely used by the maintenance staff to evaluate the quality of their work and identify areas for improvement. The purpose of this form is to gather information about the condition of the equipment, the performance of the maintenance staff, and to collect any additional comments or feedback from the users. This form is likely used in a fitness center or gym setting where equipment is regularly maintained to ensure it is in good working order. The form should only be filled out by a user who has had their equipment maintained recently and has had a significant interaction with the maintenance staff.</thinking>
-
 # Fitness Equipment Maintenance Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about the fitness equipment maintenance experience. It helps maintenance staff evaluate their work and identify areas for improvement.

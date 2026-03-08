@@ -1,5 +1,3 @@
-<thinking>What if we are collecting user feedback on the Soft Material Crafting Survey form? The survey is likely used for gathering input from users on various aspects of soft material crafting, such as project categories, types, materials, durations, and statuses. This form may be used to collect feedback from users on their experiences with soft material crafting projects, and the fields may be used to categorize and filter the feedback.</thinking>
-
 # Soft Material Crafting Survey - Help Guide
 ## Purpose
 This guide is intended to help you complete the Soft Material Crafting Survey form. The survey is designed to collect information from users on their soft material crafting projects, including project categories, types, materials, durations, and statuses.

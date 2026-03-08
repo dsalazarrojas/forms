@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather feedback from customers on their stay or interaction with the front desk operations team. The goal is to provide valuable insights that can help improve the quality of service and customer experience.
-
-Before proceeding, please note that this form is for general feedback and not for reporting critical issues that require immediate attention. If you have specific concerns or complaints, please contact the relevant personnel or management directly.
-
-To avoid duplication, you may have already provided feedback on this topic in the past. In that case, please let us know so that we can review and update our records accordingly.
-
-</thinking>
-
 # front_desk_operations_feedback_form - Help Guide
 ## Purpose
 The front_desk_operations_feedback_form is a survey designed to collect feedback from customers on their experience with the front desk operations team. This form helps us understand what we do well and where we can improve, ultimately enhancing our service quality.

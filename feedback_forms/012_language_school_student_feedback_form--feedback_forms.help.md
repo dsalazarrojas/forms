@@ -1,7 +1,3 @@
-<thinking>
-This form is for students to provide feedback on their language school experience, including course content, instructor quality, and facilities. This feedback will help the school improve their offerings and services. Please note that this form is designed to be a general guide and does not require any specific knowledge or experience with the language school.
-</thinking>
-
 # Language School Student Feedback Form - Help Guide
 ## Purpose
 The language school student feedback form is a tool for students to express their opinions and suggestions on their experience with the language school. This form is designed to help the school improve its services and offerings to better meet the needs and expectations of its students.

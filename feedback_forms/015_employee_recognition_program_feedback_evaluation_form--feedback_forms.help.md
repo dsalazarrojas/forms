@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Recognition Program Feedback Evaluation Form - Help Guide
 ## Purpose
 The Employee Recognition Program Feedback Evaluation Form is a form used to evaluate the effectiveness of the Employee Recognition Program. It is intended to gather feedback from employees and reviewers to help identify areas of improvement and provide insights for future program development.

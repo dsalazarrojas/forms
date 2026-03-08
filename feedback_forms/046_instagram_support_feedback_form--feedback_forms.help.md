@@ -1,7 +1,3 @@
-<thinking>
-We should verify that the form purpose and fields are relevant to the current business context and not duplicated with existing forms. This form is intended to collect feedback from users about their experience with Instagram, which can help the support team to improve the product and provide better services. This form should not be confused with other forms that have similar fields but are used for other purposes, such as reporting issues or requesting support.
-</thinking>
-
 # Instagram Support Feedback Form - Help Guide
 
 ## Purpose

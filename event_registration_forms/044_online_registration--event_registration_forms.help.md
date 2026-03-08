@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Registration - Help Guide
 
 ## Purpose

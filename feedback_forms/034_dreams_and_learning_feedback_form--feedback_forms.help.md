@@ -1,8 +1,3 @@
-<thinking>
-This form is used to capture feedback from users about their dreams and learning experiences. The purpose of the form is to gather data on the effectiveness of a program or activity, with an emphasis on understanding the user's thoughts and feelings about their experiences.
-To ensure that we don't miss any important feedback, we'll be checking for duplication before submitting any new feedback forms.
-</thinking>
-
 # Dreams and Learning Feedback Form - Help Guide
 ## Purpose
 

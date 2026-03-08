@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to gather feedback from users about their experience with the financial documentation process. The purpose of this survey is to understand the users' satisfaction with the quality and format of the financial documents, as well as their preferences for the submission process. It's essential to fill out this form carefully and honestly, so your input can help improve the financial documentation process. Please avoid duplicating your responses, as this survey is meant to be a one-time assessment.</thinking>
-
 # Financial Documentation Satisfaction Survey - Help Guide
 
 ## Purpose

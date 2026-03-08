@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow end-users to provide feedback on the treasury workflow. The goal is to understand whether the workflow is efficient, clear, and free of issues. This form is intended to gather information from end-users on a specific workflow instance, allowing the treasury team to identify areas for improvement. This form should only be used for providing feedback on a single workflow instance. Please do not submit multiple instances of this form if you are commenting on the same workflow.
-
-</thinking>
-
 # Treasury Workflow Feedback Request Form - Help Guide
 ## Purpose
 This form is used to gather feedback on the treasury workflow. Please submit your feedback on the workflow's efficiency, clarity, and any issues you encountered.

@@ -1,7 +1,3 @@
-<thinking>
-We are using a form to collect information to gauge the impact of public services disruptions on our citizens' experiences. The form is designed to be as neutral and unbiased as possible to ensure accurate and reliable results. We want to ensure that we don't duplicate any effort or cause unnecessary inconvenience to our citizens. We kindly ask that you only complete this form once.
-</thinking>
-
 # Public Services Disruption Survey - Help Guide
 ## Purpose
 This form is designed to collect information on the impact of public services disruptions on citizens' experiences. Your input will help us improve our services and better understand your needs.

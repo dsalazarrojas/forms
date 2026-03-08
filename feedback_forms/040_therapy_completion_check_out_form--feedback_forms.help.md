@@ -1,5 +1,3 @@
-<thinking>...to ensure that the form is used correctly, we first need to check if the user has the necessary information to complete the form. We will only allow users to access the form if they have a valid reason for accessing it and have not accessed it recently. Additionally, we will prevent users from duplicating their form submissions. If the form is completed correctly, the user will be able to get a confirmation that their session has been completed, and the relevant parties (therapist and client) will receive notifications...:</thinking>
-
 # Therapy Completion Check Out Form - Help Guide
 ## Purpose
 The Therapy Completion Check Out Form is a tool used by therapists to document the completion of a therapy session. It allows therapists to record important details about the session, including client feedback, session date and time, and next session information.

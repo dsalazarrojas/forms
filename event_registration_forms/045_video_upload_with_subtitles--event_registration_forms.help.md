@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to guide users through the process of uploading a video with subtitles.
-The form is intended for users who want to submit a video with subtitles for a specific purpose, such as educational or entertainment content.
-The form should be filled out carefully to ensure that the video and subtitles are correctly formatted and displayed.
-Please ensure that the form is not duplicated or submitted with incorrect information.
-</thinking>
-
 # video_upload_with_subtitles - Help Guide
 ## Purpose
 This form is used to upload videos with subtitles for various purposes. It helps users to provide accurate and formatted subtitles for their content.

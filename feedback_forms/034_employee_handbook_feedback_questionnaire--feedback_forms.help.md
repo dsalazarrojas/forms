@@ -1,9 +1,3 @@
-<thinking>
-  We need to create a user-facing help guide for a form called "employee_handbook_feedback_questionnaire" that explains its purpose, how to complete it, and what each field means. The form is a feedback questionnaire, and it's used to collect information from employees to help improve the company's employee handbook. The fields in the form are a mix of text, email, rating, date, time, and more.
-  Before proceeding, let's ensure that this is the correct form and that the information provided is up-to-date and accurate.
-  We will now create the help guide for the end-users to easily understand how to complete the form.
-</thinking>
-
 # employee_handbook_feedback_questionnaire - Help Guide
 
 ## Purpose

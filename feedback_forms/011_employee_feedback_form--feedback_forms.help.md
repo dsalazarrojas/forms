@@ -1,13 +1,3 @@
-<thinking>This form is intended to collect feedback from employees regarding their work experience and overall satisfaction with their job. The form is designed to be a simple and straightforward way to gather information on various aspects of an employee's job, including feedback score, department, job title, comments, contact information, and other relevant details. This form helps to ensure that feedback is collected consistently and accurately across the organization, reducing the risk of miscommunication or misinterpretation of feedback.
-
-Before filling out the form, make sure to review the following:
-
-* The form is meant to be filled out by employees, not managers or supervisors.
-* This form is a one-time feedback collection, not an ongoing performance evaluation.
-* Please fill out the form only for your own experience and not for others.
-* If you have already filled out this form, do not fill it out again.
-</thinking>
-
 # Employee Feedback Form - Help Guide
 ## Purpose
 

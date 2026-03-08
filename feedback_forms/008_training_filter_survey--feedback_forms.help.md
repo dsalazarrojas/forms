@@ -1,16 +1,3 @@
-<thinking>
-
-This form is a Training Filter Survey form designed to gather feedback from users about their experience with a particular training program. The form is meant to be a quick and easy way to gather opinions and suggestions from users on how to improve the training program.
-
-The purpose of this form is to:
-
-*   Gather user feedback on the training program
-*   Collect suggestions on how to improve the training program
-
-The form is designed to be completed in a few minutes and should not take more than 10-15 minutes to finish.
-
-</thinking>
-
 # Training Filter Survey - Help Guide
 ## Purpose
 The Training Filter Survey form is designed to gather feedback and suggestions from users about their experience with a particular training program. This form is meant to be a quick and easy way to collect user opinions and help improve the training program.

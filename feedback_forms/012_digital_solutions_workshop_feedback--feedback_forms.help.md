@@ -1,8 +1,3 @@
-<thinking>
-This form was created by AI using public survey topic metadata as inspiration. It is an original adaptation and does not copy or use proprietary content from any form creation or survey platform. The form is intended to collect feedback from workshop participants about their experience and suggestions for improvement.
-Before filling out this form, please ensure that you are providing feedback for the specific "Digital Solutions Workshop" you participated in. If you have already filled out this form, please do not submit another response unless you have significant new feedback or suggestions.
-</thinking>
-
 # Digital Solutions Workshop Feedback - Help Guide
 
 ## Purpose

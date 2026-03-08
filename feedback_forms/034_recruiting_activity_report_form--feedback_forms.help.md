@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recruiting Activity Report Form - Help Guide
 ## Purpose
 The "Recruiting Activity Report Form" is used to record recruiting activities and metrics for each week. This form helps track the number of recruits, dials made, and persons interviewed during the previous week. It also allows for the collection of additional notes and assignments of team members. The form is used to provide accurate and up-to-date information for reporting and analysis.

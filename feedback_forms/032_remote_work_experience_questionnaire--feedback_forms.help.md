@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's remote work experience, including the frequency of remote work, work location, work environment, typical work schedule, productivity tools used, challenges faced, benefits of remote work, and any other feedback or comments. This form is designed to capture detailed and specific information about an individual's remote work habits and preferences.
-</thinking>
-
 # Remote Work Experience Questionnaire - Help Guide
 
 ## Purpose

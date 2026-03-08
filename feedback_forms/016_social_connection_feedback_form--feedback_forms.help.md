@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their social connections with an organization. The purpose of this form is to help the organization understand how users are experiencing the services and amenities provided, as well as identify areas for improvement. This form should only be filled out by users who have recently visited the social connection space. Please do not fill out this form if you have already provided feedback.
-
-</thinking>
-
 # Social Connection Feedback Form - Help Guide
 ## Purpose
 The Social Connection Feedback Form is designed to gather feedback from users about their experiences with the organization's social connections. This feedback is used to identify areas for improvement and make informed decisions about future services and amenities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Co Living Community Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gauge the overall satisfaction of co-living community residents and identify areas for improvement. Your input will help the community management team understand your experiences and make informed decisions to enhance the community's amenities and services.

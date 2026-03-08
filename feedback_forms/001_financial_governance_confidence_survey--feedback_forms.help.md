@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Governance Confidence Survey - Help Guide
 
 ## Purpose

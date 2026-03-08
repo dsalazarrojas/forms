@@ -1,9 +1,3 @@
-<thinking>
-To confirm that this form is for registering information on sustainable crop procurement, and to make sure it doesn't contain duplicate data.
-This form is intended for farmers to provide information on their sustainable crops and associated contact and address details.
-We will check for potential duplicates to avoid multiple registrations for the same crop or farmer.
-</thinking>
-
 # Sustainable Crop Procurement Registration Form - Help Guide
 
 ## Purpose

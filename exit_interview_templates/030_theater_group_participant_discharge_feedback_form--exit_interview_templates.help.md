@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Theater Group Participant Discharge Feedback Form - Help Guide
 
 ## Purpose

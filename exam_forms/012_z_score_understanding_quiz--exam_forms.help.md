@@ -1,7 +1,3 @@
-<thinking>
-To create this form, I will first analyze the provided YAML and then create a clear and concise help guide based on its fields and options.
-</thinking>
-
 # Z Score Understanding Quiz - Help Guide
 ## Purpose
 This form is designed to help users understand the concept of Z score, which is a statistical measure of standard deviation. The quiz will guide the user through a series of questions to calculate and interpret Z scores.

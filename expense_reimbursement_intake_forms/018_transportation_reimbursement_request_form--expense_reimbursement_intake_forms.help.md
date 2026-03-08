@@ -1,10 +1,3 @@
-<thinking>
-# This form is used for requesting reimbursement for transportation expenses.
-# To prevent duplicate submissions, please make sure to review your recent reimbursement requests before submitting.
-# Ensure that your submission is complete and accurate before hitting submit.
-# This guide is intended to help you complete the form efficiently.
-</thinking>
-
 # Transportation Reimbursement Request Form - Help Guide
 ## Purpose
 The Transportation Reimbursement Request Form is used to submit requests for reimbursement for transportation-related expenses incurred on official business travel.

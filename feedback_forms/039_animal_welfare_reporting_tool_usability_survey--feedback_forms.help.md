@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Welfare Reporting Tool Usability Survey - Help Guide
 
 ## Purpose

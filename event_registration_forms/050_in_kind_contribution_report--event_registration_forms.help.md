@@ -1,12 +1,3 @@
-<thinking>
-The "in_kind_contribution_report" form is designed to collect information about events and in-kind contributions. This form is used to report non-cash contributions (e.g., goods, services, or time) received by an organization. The form's primary purpose is to gather event-specific data, allowing for accurate reporting and tracking of in-kind contributions.
-
-To ensure that the information provided is accurate and consistent, this form should not be used to report cash-based contributions or other types of contributions not related to events. 
-
-Before filling out this form, review the event information to confirm that it aligns with the event type and status.
-
-</thinking>
-
 # in_kind_contribution_report - Help Guide
 ## Purpose
 The "in_kind_contribution_report" form is used to report non-cash contributions received by an organization in the context of specific events.

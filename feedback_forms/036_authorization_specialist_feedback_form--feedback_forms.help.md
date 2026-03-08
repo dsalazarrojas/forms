@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from individuals who have interacted with an Authorization Specialist, providing a systematic way to assess the quality of service provided by the specialist. The feedback form is designed to elicit specific information about the interaction, including the date of the interaction, the type of interaction, and the specialist's performance in terms of responsiveness, communication clarity, and problem resolution ability. By completing this form, users can provide valuable insights that can help improve the services offered by the Authorization Specialists. This form can be completed by anyone who has interacted with an Authorization Specialist, including healthcare providers, patients, or family members. Please ensure that this form is not completed by the same individual multiple times, as this may skew the data and make the feedback less relevant.
-</thinking>
-
 # Authorization Specialist Feedback Form - Help Guide
 
 ## Purpose

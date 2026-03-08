@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stage Video Screen Update Request Form - Help Guide
 ## Purpose
 This form is used to request updates to stage video screens. It collects information about the report date, stage, screen ID, request type, description, email, phone, and any additional note or attachment required for the update.

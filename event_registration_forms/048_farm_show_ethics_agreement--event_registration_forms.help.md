@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Farm Show Ethics Agreement" is designed to gather information from exhibitors, staff, vendors, and volunteers at a farm show event. The purpose of this form is to ensure that all participants understand and agree to abide by the show's rules and regulations, which are essential for a safe and successful event. This form helps to collect exhibitor information, agreement status, exhibit details, and staff, vendor, and volunteer categories. 
 
 ## Purpose

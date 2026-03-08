@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly by end users. Let's review the form purpose and fields to avoid duplication and ensure relevance.
-The form is for businesses to register as keynote sponsors for a conference. It captures important information about the company, contact person, and presentation details. We should focus on making the explanation clear and concise to help end users complete the form accurately.
-</thinking>
-
 # Business Conference Keynote Sponsorship Form - Help Guide
 ## Purpose
 The Business Conference Keynote Sponsorship Form is designed for businesses to register as keynote sponsors for a conference. This form is used to collect necessary information about your company and presentation details to facilitate your sponsorship.

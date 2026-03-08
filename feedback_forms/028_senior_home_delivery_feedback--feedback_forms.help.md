@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used for senior citizens to provide feedback on their recent home delivery experience. This form is probably used by healthcare or delivery services to gauge the quality of their delivery services and identify areas for improvement. The form is designed to be simple and easy to use, with a focus on gathering feedback from seniors who may not be tech-savvy. 
-
-The form should not be used for duplicate or unrelated purposes, such as reporting complaints or requesting services not related to home delivery.
-</thinking>
-
 # Senior Home Delivery Feedback - Help Guide
 ## Purpose
 This form is used to gather feedback from seniors on their recent home delivery experience. The feedback is used to help improve the quality of care and services provided by healthcare organizations or delivery services.

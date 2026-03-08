@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Totalitarianism Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge about totalitarism, a political system where the state has complete control over all aspects of society. The quiz will evaluate your understanding of the basics, history, types, characteristics, and impact of totalitarism.

@@ -1,11 +1,3 @@
-<thinking>...This form is designed to be used by staff to follow up with customers after an event. It is intended to be completed by staff members after they have finished interacting with a customer during an event and need to gather more information about the customer's satisfaction and any other relevant details.
-
-To ensure that each customer receives a unique follow-up survey, we will be checking for duplicate entries based on the "event_date" field. This means that if a survey has already been completed for the same date, staff will not be able to submit another survey for that date.
-
-Before starting, please make sure that the survey is not already completed for the customer's date of event. If it is, you will see an error message and will not be able to proceed.
-
-</thinking>
-
 # Event Follow Up Survey - Help Guide
 
 ## Purpose

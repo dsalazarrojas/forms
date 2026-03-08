@@ -1,5 +1,3 @@
-<thinking>...The Park Ranger Exit Offboarding Form is designed to capture essential information when a park ranger is leaving their position. This form is intended for use by park rangers who are leaving the park service. It is crucial to complete this form accurately and thoroughly, as it will be used to document the details of the departure. Before proceeding, please ensure that you have not already completed an exit interview for this position. If you have, please do not submit this form as it may cause duplication of effort and confusion...</thinking>
-
 # Park Ranger Exit Offboarding Form - Help Guide
 ## Purpose
 The Park Ranger Exit Offboarding Form is used to document the details of a park ranger's departure, including their personal information, employment history, and equipment status.

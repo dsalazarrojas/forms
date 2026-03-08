@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from participants after a corporate retreat. The purpose of this form is to gather information about participant satisfaction, feedback, and attendance details. The form will not be duplicated if you have already filled it out previously.
-</thinking>
-
 # Corporate Retreat Feedback Assessment Form - Help Guide
 
 ## Purpose

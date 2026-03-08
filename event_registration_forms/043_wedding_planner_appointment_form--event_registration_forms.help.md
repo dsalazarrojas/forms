@@ -1,9 +1,3 @@
-<thinking>
-This form is used to register an appointment with a wedding planner. It is designed to gather information about the couple and their wedding plans. The form is divided into several sections, each with its own set of questions. The purpose of this form is to ensure that the wedding planner has all the necessary information to properly plan and execute the event. This form should only be used for weddings and other special events. 
-
-Please note that the form is split into two parts: the main form where you can input your initial information and the second part where you can confirm the details of your appointment.
-</thinking>
-
 # Wedding Planner Appointment Form - Help Guide
 ## Purpose
 This form is used to register an appointment with a wedding planner for a wedding or special event. It is designed to gather all the necessary information to properly plan and execute the event.

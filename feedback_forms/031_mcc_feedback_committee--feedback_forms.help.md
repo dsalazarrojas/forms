@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is part of the MCC Feedback Committee, which aims to gather valuable information from users about their experiences and suggestions for improvements within the organization. This form will help the committee understand user's thoughts, opinions, and ideas, and will enable them to make informed decisions. Before proceeding, please ensure that you have not submitted similar feedback previously, as duplicate submissions may not be considered.
-</thinking>
-
 # mcc_feedback_committee - Help Guide
 ## Purpose
 The mcc_feedback_committee form is designed to collect feedback from users regarding their experiences and suggestions. It is used by the MCC (MCC Feedback Committee) to gather valuable insights and make informed decisions.

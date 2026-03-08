@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure this form is used for its intended purpose and not duplicated. This form, called "Flood Information Session Feedback", is meant to gather feedback from users about their experience with a flood information session. This feedback will help the organizers of these sessions to identify areas of improvement and refine the content and structure of future sessions. The form should only be used for this specific purpose and not for any other type of feedback or survey.
-</thinking>
-
 # Flood Information Session Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with a flood information session. Your input will help us understand what worked well and what could be improved in future sessions.

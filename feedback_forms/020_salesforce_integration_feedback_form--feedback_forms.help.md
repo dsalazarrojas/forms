@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're glad you're providing feedback on our Salesforce integration. Your input is crucial in helping us improve this service. To confirm that this form is relevant and not a duplicate, please take a moment to review the form's purpose and questions:
 
 * Is this your first time providing feedback on Salesforce integration?

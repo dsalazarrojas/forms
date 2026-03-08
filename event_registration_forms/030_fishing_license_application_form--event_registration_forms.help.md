@@ -1,12 +1,3 @@
-<thinking>
-We will design a user-facing help guide for the "Fishing License Application Form". This guide will help end-users understand the form's purpose, how to complete it, and what each field means.
-
-To confirm the form's purpose and ensure it is not duplicated, let's analyze the provided YAML fields. The form seems to be designed for individuals to apply for a fishing license, providing personal and application details. The fields cover basic personal information, license specifics, and application settings.
-
-The purpose of this form is to collect necessary information from individuals applying for a fishing license, ensuring they meet the required conditions and have the correct documentation. This form will not be used for other purposes, such as creating accounts or signing up for events.
-
-The following guide is created based on the provided YAML fields.</thinking>
-
 # Fishing License Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals applying for a fishing license. To complete this form, please provide the necessary details for your license application.

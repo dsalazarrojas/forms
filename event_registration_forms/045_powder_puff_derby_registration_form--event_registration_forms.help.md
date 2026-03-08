@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Powder Puff Derby Registration Form - Help Guide
 ## Purpose
 The Powder Puff Derby Registration Form is used to collect information from participants and their emergency contacts. This form is required for all participants to register for the event.

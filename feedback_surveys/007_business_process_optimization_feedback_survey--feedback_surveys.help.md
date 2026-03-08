@@ -1,5 +1,3 @@
-<thinking>Before designing a help guide for the "Business Process Optimization Feedback Survey" form, I'll briefly explain the form's purpose. This form is designed to gather feedback from respondents on various aspects of a business process, such as clarity, efficiency, time consumption, resource requirements, and overall satisfaction. The goal is to identify areas for improvement and provide suggestions for optimizing the process. I'll make sure to only provide information that is relevant and accurate based on the form's YAML schema.</thinking>
-
 # Business Process Optimization Feedback Survey - Help Guide
 ## Purpose
 The "Business Process Optimization Feedback Survey" is a form designed to gather feedback from respondents on the various aspects of a business process, such as clarity, efficiency, and overall satisfaction. This feedback will help identify areas of improvement and aid in process optimization.

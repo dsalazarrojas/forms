@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for mental health hotline training registration. It is essential that only those directly related to the hotline organization or affiliated with an organization submit this form. Please ensure you have authorization to register for this training. If your organization has already sent you a registration link, please do not register multiple times.
-</thinking>
-
 # Mental Health Hotline Training Registration Form - Help Guide
 
 ## Purpose

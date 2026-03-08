@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers after visiting an ice cream business, which is a type of business that sells ice cream. It's intended to gather information from customers about their experience at the business. The form is not affiliated with, endorsed by, or derived from any form platform, but rather a generated form using AI. The purpose of this form is to collect customer feedback, rating, and visit details.
-
-The form is structured into a single page with six fields: Customer Name, Email, Overall Rating, Feedback, Visit Date, and Visit Time. Each field has a specific meaning and requirement status.
-
-To complete this form, start by filling in your name and email address as required. The "Overall Rating" field is a select-one type, meaning you need to choose one of the provided options (Low, Neutral, or High). The "Feedback" field is a note type, allowing you to type in any additional comments. The "Visit Date" field is a date type, requiring you to input the date you visited the ice cream business. The "Visit Time" field is a time type, requiring you to input the time of your visit.
-
-It's essential to fill out all required fields accurately. If a field is optional, it's not necessary to complete it, but filling it will help provide more detailed feedback.
-</thinking>
-
 # ice_cream_business_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers after visiting an ice cream business to gather information about their experience.

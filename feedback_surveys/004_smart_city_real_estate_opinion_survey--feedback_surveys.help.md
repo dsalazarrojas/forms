@@ -1,14 +1,3 @@
-<thinking>
-**Internal Note**: The purpose of this form is to gather opinions from various stakeholders on the Smart City Real Estate Opinion Survey. The form's purpose is to collect data on how respondents perceive the smart city features, satisfaction levels of various realty projects, improvements for local realty projects, resident feedback, and opinions on the survey itself. 
-
-The form's fields are designed to allow respondents to select multiple options for smart city features, input their satisfaction levels, choose one improvement for local realty projects, provide text feedback, and select one of several options for the survey.
-
-This form will not be used for official government records or decision-making, so it is not a required field. 
-
-This form is designed for internal use only, and the responses will be used to better understand the community's opinions on smart city development and real estate projects.
-
-</thinking>
-
 # Smart City Real Estate Opinion Survey - Help Guide
 ## Purpose
 This form is designed to gather your opinions on the Smart City Real Estate Opinion Survey. We appreciate your input to help us better understand your thoughts and opinions on various topics.

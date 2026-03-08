@@ -1,7 +1,3 @@
-<thinking>...
-The form is likely used to sign up for an exam, possibly for students to register for a class or test. This guide is for end-users to understand how to complete the form correctly and efficiently.
-...</thinking>
-
 # Exam Sign Up Form - Help Guide
 ## Purpose
 This form is used to sign up for an exam.

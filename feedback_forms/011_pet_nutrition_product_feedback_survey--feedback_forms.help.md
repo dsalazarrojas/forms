@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on pet nutrition products from end-users. This form helps us understand how pet nutrition products are perceived and used by pet owners. This information can be used to improve the development and design of pet nutrition products, making them more effective for pet health and well-being. We will not be collecting sensitive or identifying information about the pet owner or their pets. Please ensure you are providing feedback on your personal experience with the pet nutrition product, not someone else's. This survey should take approximately [X] minutes to complete. You can save your progress and return to the form at a later time.
-</thinking>
-
 # Pet Nutrition Product Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on pet nutrition products to help us improve their development and design for better pet health and well-being.

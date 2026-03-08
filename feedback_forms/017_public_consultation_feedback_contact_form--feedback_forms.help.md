@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive help guide for the "public_consultation_feedback_contact_form" form, I will analyze the form fields and provide a clear and concise explanation for each field.
 
 # public_consultation_feedback_contact_form - Help Guide

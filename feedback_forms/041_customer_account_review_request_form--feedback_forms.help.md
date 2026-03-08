@@ -1,10 +1,3 @@
-<thinking>
-We're creating a form to collect feedback and requests for review of customer accounts. This form is meant for customers to submit their requests for review, which can include upgrades, cancellations, or other types of reviews. We want to ensure that our team is aware of all customer requests and can address them in a timely manner.
-
-To prevent duplicate requests, we will only process a new request if the review request status is not already "Completed". If a customer has previously submitted a review request and it has been marked as "Completed", we will not accept a new request.
-
-</thinking>
-
 # Customer Account Review Request Form - Help Guide
 ## Purpose
 This form is used to collect feedback and requests for review of customer accounts. It helps our team to identify and process customer needs in a timely and efficient manner.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance of the UX/UI team, collecting input on the team lead and individual team members' contributions, and providing an opportunity for comments and feedback.
-The form is meant to be filled out by team leads and/or team members themselves, or anyone in a position to provide a well-rounded assessment of the team's performance.
-To ensure relevance and non-duplication of effort, please only fill out this form if you are a member of the UX/UI team or have direct interaction with the team.
-</thinking>
-
 # UX/UI Team Performance Evaluation Form - Help Guide
 ## Purpose
 The UX/UI Team Performance Evaluation Form is a tool to help assess and improve the performance of the UX/UI team. It collects feedback on team leads and individual team members' contributions, aiming to provide a comprehensive evaluation of the team's overall performance.

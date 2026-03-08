@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to capture essential information from individuals who have interacted with the moving crew, such as customers or clients. This form aims to collect feedback on the service provided, including ratings and comments. The goal is to help improve the moving crew's performance and provide valuable insights for future improvements.
-
-Before proceeding, please ensure that you have not submitted this form previously. Your feedback is essential in helping us understand your experience with our moving crew, and we appreciate your cooperation in providing honest and constructive feedback.
-
-This guide will walk you through each field of the moving_crew_survey form, helping you understand what to expect and what information to provide.</thinking>
-
 # moving_crew_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from individuals who have interacted with our moving crew. It includes questions about their experience, such as their name, contact information, and ratings for our service.

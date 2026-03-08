@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from reviewers, allowing us to understand their thoughts, opinions, and experiences. This information is crucial for us to identify areas of improvement and provide better services to our customers. 
-</thinking>
-
 # Global Reviewer Feedback Survey - Help Guide
 ## Purpose
 The Global Reviewer Feedback Survey is designed to gather valuable insights from reviewers, helping us understand their perspective on our services and processes. Your feedback is essential in shaping our future developments and improvements.

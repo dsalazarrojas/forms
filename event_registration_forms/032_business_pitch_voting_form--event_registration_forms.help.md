@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow judges to rate and evaluate business pitches during a pitch competition. The form gathers information on the judge's name, contact email, affiliation, and demographic data. It also asks for details on the event name, date, and pitch number being judged. The form includes various rating fields to assess the pitch's clarity, market opportunity, business model viability, team capability, competitive advantage, financial projections, presentation quality, and overall score. Additionally, it allows for free-text fields for the judge to note the pitch's strengths and areas for improvement.
-</thinking>
-
 # Business Pitch Voting Form - Help Guide
 ## Purpose
 The Business Pitch Voting Form is designed for judges to evaluate and rate business pitches during a pitch competition, providing a systematic way to provide constructive feedback to pitching companies.

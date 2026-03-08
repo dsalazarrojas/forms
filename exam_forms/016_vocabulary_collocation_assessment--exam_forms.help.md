@@ -1,10 +1,3 @@
-<thinking>
-This form, "Vocabulary Collocation Assessment," is designed to evaluate students' understanding of collocations, which are phrases made up of two or more words that have a special relationship to each other. The form is likely used in educational settings to assess students' grasp of vocabulary collocations in languages other than their own. The form's primary goal is to gauge the accuracy of students' responses to collocation questions, along with their overall performance on the assessment. This form may also be used to track students' progress and completion of the assessment.
-
-This form is part of a collection of exam forms, and its version number indicates that it has multiple versions. The form's fields are likely intended to capture various aspects of student performance, such as their responses, scores, and completion times.
-
-</thinking>
-
 # Vocabulary Collocation Assessment - Help Guide
 ## Purpose
 The Vocabulary Collocation Assessment form is a tool used to evaluate students' understanding of vocabulary collocations. It consists of various fields that capture different aspects of student performance.

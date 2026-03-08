@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect information from performers to RSVP to a dance festival event. It is used to gather essential details such as their arrival and departure dates and times, performance requirements, and contact information. This form is required for all performers participating in the festival. It is essential to complete this form accurately and thoroughly to ensure that the festival organizers can plan and accommodate for the performer's needs. By filling out this form, you will be able to RSVP to the festival and provide any special requirements or agreements that you have. Please ensure that all the fields are filled out correctly and provide any additional information that you feel is necessary for a successful event...</thinking>
-
 # dance_festival_performer_rsvp_form - Help Guide
 ## Purpose
 

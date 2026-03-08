@@ -1,7 +1,3 @@
-<thinking>
-The Spa Guest Collaboration Application Form is designed to collect information from potential spa guests who want to collaborate with the spa. This form is meant to be filled out by guests who are interested in partnering with the spa to provide services, promote products, or participate in events. The form will be used to collect contact information, program preferences, and other relevant details to facilitate collaboration opportunities. This form is not intended to be a comprehensive application, but rather a starting point for further discussions and negotiations. It's essential to ensure that only relevant and non-duplicate applications are submitted.
-</thinking>
-
 # Spa Guest Collaboration Application Form - Help Guide
 ## Purpose
 The Spa Guest Collaboration Application Form is designed to collect information from potential spa guests who want to collaborate with the spa. This form is meant to be filled out by guests who are interested in partnering with the spa to provide services, promote products, or participate in events.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers after they have attempted to use the self-checkout system. The primary goal is to understand their experience and address any issues they may have encountered. This form will help us identify common problems and improve the self-checkout system to provide a better experience for all customers. 
-
-To ensure that we only receive relevant feedback, we have set a required field for "Instructions Affected" to guide the customer in providing us with the most helpful information. Please note that this form is not intended to be used for general customer feedback, comments, or complaints. If you have general feedback, please use our main feedback form instead.
-
-We will review each submission carefully and address any issues or concerns raised by the customers.
-</thinking>
-
 # Self Checkout Instructions Form - Help Guide
 ## Purpose
 This form is used to collect feedback from customers after they have attempted to use the self-checkout system. The primary goal is to understand their experience and address any issues they may have encountered.

@@ -1,8 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and process of completing the Property Insurance Process Feedback Survey.
-The survey is designed to collect feedback from customers on their experience with the property insurance process. It is meant to gather information on various stages of the process, from the interaction with the insurance broker to the final outcome of the policy. By completing this survey, you will be providing valuable insights to help us improve the process and better serve our customers.
-</thinking>
-
 # Property Insurance Process Feedback Survey - Help Guide
 ## Purpose
 The Property Insurance Process Feedback Survey is designed to gather feedback from customers on their experience with the property insurance process. It covers various stages of the process, from the interaction with the insurance broker to the final outcome of the policy.

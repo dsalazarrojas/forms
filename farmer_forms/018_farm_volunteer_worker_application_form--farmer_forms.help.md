@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The following fields are required for the application form.
 
 ## Farm Volunteer Worker Application Form - Help Guide

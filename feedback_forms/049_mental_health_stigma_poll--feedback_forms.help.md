@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the Mental Health Stigma Poll form and how to complete it efficiently. Before proceeding, please take a moment to review the form's purpose and ensure you are not duplicating efforts. The Mental Health Stigma Poll is designed to collect anonymous, aggregated feedback on mental health stigma topics, aiming to better understand how mental health professionals, caregivers, and individuals perceive and address these issues. By completing this form, you will be contributing to valuable insights that may inform future initiatives and programs aimed at reducing mental health stigma.
-</thinking>
-
 # Mental Health Stigma Poll - Help Guide
 ## Purpose
 The Mental Health Stigma Poll is a form designed to collect feedback on mental health stigma topics. Your input will help us understand how mental health professionals, caregivers, and individuals perceive and address these issues, ultimately contributing to valuable insights that may inform future initiatives and programs.

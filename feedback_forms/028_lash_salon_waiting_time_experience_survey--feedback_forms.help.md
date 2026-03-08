@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # lash_salon_waiting_time_experience_survey - Help Guide
 
 ## Purpose

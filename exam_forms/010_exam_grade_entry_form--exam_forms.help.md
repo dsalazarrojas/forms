@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exam Grade Entry Form - Help Guide
 ## Purpose
 This form is used to record student grades for exams. It allows administrators to input student names, IDs, assignment IDs, scores, grades, categories, exam dates, and any additional comments.

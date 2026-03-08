@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect user feedback on their overall satisfaction with a sports facility. Its purpose is to evaluate the user's experience with the facility, including their rating of the facility, its staff, and various aspects of their visit. This form will help identify areas of improvement and provide a more accurate understanding of the user's satisfaction.
-
-Please ensure that you're using this form to submit genuine and honest feedback. Duplicating or misrepresenting feedback may be considered a misuse of this feature and will be reviewed on a case-by-case basis.</thinking>
-
 # Sports Facility User Satisfaction Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect user feedback on their overall satisfaction with a sports facility. It aims to evaluate the user's experience with the facility, including their rating of the facility, its staff, and various aspects of their visit.

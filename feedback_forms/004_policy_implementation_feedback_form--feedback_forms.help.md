@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the feedback form is filled out correctly, we need to understand its purpose and how to fill it out without requiring unnecessary information. This form is for users to provide feedback on policy implementation. It seems that the "feedback" field is not really feedback, but rather an additional note. This is a simple form that only requests some basic information, so let's make sure the user knows what to do.
-</thinking>
-
 # policy_implementation_feedback_form - Help Guide
 ## Purpose
 This form is used to provide feedback on policy implementation. Please fill it out to share your thoughts and suggestions on how policies can be improved.

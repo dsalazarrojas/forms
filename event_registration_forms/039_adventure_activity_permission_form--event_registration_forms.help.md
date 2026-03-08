@@ -1,13 +1,3 @@
-<thinking>
-
-The Adventure Activity Permission Form is used to capture necessary information from participants and guardians before they can participate in an adventure activity. This form ensures that all relevant details are gathered to guarantee the participant's safety and the activity's success.
-
-To prevent duplication of effort and ensure that the correct form is being used, this form should only be used for adventure activities, such as outdoor adventures, expeditions, and other activities that pose some level of risk.
-
-Please note that the form is designed to be filled out by the participant or their guardian, depending on the participant's age. If the participant is a minor, the form requires information from the guardian as well.
-
-</thinking>
-
 # Adventure Activity Permission Form - Help Guide
 ## Purpose
 The Adventure Activity Permission Form is used to capture necessary information from participants and guardians before they can participate in an adventure activity, ensuring their safety and the activity's success.

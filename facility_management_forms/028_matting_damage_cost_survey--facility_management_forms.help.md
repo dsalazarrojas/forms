@@ -1,6 +1,3 @@
-<thinking>
-The form is used to gather information about a potential matting damage issue from the submitter. This form is likely used for facility management or maintenance purposes. Before submitting this form, please ensure that the issue has not already been reported and that you are submitting relevant and accurate information.</thinking>
-
 # Matting Damage Cost Survey - Help Guide
 ## Purpose
 This form is used to report a potential matting damage issue. The goal of this form is to gather information about the issue and its impact on the facility.

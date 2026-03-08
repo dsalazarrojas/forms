@@ -1,7 +1,3 @@
-<thinking>
-This form is used for event registration for a photography walk. The purpose of this form is to collect information from participants about their attendance, special requests, and other relevant details. This form should only be filled out by participants who wish to attend the photography walk. If you are planning to attend the event, please fill out this form carefully and accurately.
-</thinking>
-
 # photography_walk_rsvp - Help Guide
 ## Purpose
 This form is used to register for a photography walk event.

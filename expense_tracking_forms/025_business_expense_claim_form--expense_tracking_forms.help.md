@@ -1,7 +1,3 @@
-<thinking>
-The "Business Expense Claim Form" is a digital form used by employees to submit expense claims for business-related expenses. This form helps employees to track and report their business expenses in a structured and organized manner. Before filling out this form, please ensure you have all necessary information and documentation ready. Please note that you must have a valid reason for submitting this claim and ensure that the expenses are accurate and business-related.
-</thinking>
-
 # Business Expense Claim Form - Help Guide
 ## Purpose
 The Business Expense Claim Form is a tool used to track and report business-related expenses for employees. It is essential to use this form for accurate and efficient expense tracking and reimbursement.

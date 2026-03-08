@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be filled out by customers to provide feedback and rate their satisfaction after interacting with the company. The form is meant to gather information about the customer's experience, including their survey rating, customer feedback, and other relevant details. Please ensure that you are familiar with the company's feedback process and guidelines before proceeding. This form is typically used by customers after a quotation has been provided.
-</thinking>
-
 # Customer Satisfaction Survey Quotation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers after a quotation has been provided. It will help us understand their level of satisfaction and gather information about their experience.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect additional notes or feedback from users, which will be reviewed and used by the team to take further action. This form is designed to be used in conjunction with other forms and tools to gather more information from submitters. It is essential to ensure that the submitted notes are relevant and not duplicated, as they will be reviewed by the team and used to inform future actions.
-</thinking>
-
 # Additional Notes Submission Form - Help Guide
 
 ## Purpose

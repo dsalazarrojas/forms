@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I have created this guide to help users understand the Combat Techniques Knowledge Quiz form. This form is designed for martial art students to assess their knowledge and skills in various areas of combat sports. The quiz includes questions about striking, grappling, defense, and strategy, as well as self-assessment questions to gauge the user's confidence in their skills and areas for improvement.</thinking>
-
 # Combat Techniques Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed for martial art students to test their knowledge and skills in combat sports. It includes questions about striking, grappling, defense, and strategy, as well as self-assessment questions to gauge the user's confidence and areas for improvement.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created using AI to provide a general structure for gathering feedback on community needs assessments. The form's purpose is to collect and document the results of an evaluation of a community area's needs, focusing on identifying key needs and recommending potential interventions and resources needed to address them. This form is not affiliated with or derived from any specific form platform and is designed to be adaptable and freely usable.
-
-</thinking>
-
 # Community Needs Assessment Evaluation Form - Help Guide
 ## Purpose
 The Community Needs Assessment Evaluation Form is designed to help assessors evaluate the needs of a community area, identify key issues, and recommend actions to address them.

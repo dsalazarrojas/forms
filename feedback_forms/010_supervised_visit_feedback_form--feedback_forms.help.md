@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture feedback from visits conducted by supervisors. The purpose of this form is to collect information about the outcome and satisfaction of each visit. The form is designed to be completed by the supervisor who conducted the visit.
-The form is intended to be filled out once per visit, and it is meant to capture the overall outcome and rating of the visit, as well as any notes and feedback from the supervisor.
-</thinking>
-
 # Supervised Visit Feedback Form - Help Guide
 ## Purpose
 The Supervised Visit Feedback Form is used to collect feedback from visits conducted by supervisors. It is used to evaluate the effectiveness of the visit and gather information for future improvements.

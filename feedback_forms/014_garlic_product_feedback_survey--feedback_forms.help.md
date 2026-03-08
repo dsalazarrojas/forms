@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather feedback on the Garlic product, which is likely a food-related product. This form aims to collect users' subjective experience and opinions about the product, including ratings of the product's quality and areas for improvement. To be relevant, the form should only be shown to customers who have used the product. The form should not be shown to customers who have not used the product or are not customers at all. By following this guide, users will be able to complete the form accurately and provide valuable feedback...</thinking>
-
 # Garlic Product Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect your opinion on the Garlic product. Your feedback will help us understand how we can improve the product to better meet your needs.

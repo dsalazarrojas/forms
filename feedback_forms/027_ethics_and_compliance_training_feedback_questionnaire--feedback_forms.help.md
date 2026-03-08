@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ethics And Compliance Training Feedback Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from participants on the effectiveness and quality of the ethics and compliance training they received. This feedback will help the training team to identify areas of improvement and make the training more valuable and engaging for future participants.

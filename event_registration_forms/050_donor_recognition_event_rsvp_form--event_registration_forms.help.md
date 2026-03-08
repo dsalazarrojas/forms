@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the Donor Recognition Event RSVP Form. To ensure that end-users have a clear understanding of the form's purpose and requirements, this guide will cover the form's purpose, how to complete it, and a detailed explanation of each field. The form is designed for donors to RSVP to an event, providing their personal information and preferences for attending or not attending the event.
-</thinking>
-
 # Donor Recognition Event RSVP Form - Help Guide
 ## Purpose
 The Donor Recognition Event RSVP Form is a crucial tool for event organizers to collect essential information from donors attending or interested in attending the event. It helps event organizers gauge interest, gather contact details, and tailor the event experience according to attendee preferences.

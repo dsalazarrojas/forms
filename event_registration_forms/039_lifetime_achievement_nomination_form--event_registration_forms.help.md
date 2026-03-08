@@ -1,7 +1,3 @@
-<thinking>
-We will use this form to collect nominations for Lifetime Achievements. A Lifetime Achievement Nomination Form is used to recognize and award individuals who have made significant contributions to a field or community over the course of their lifetime. To avoid duplication, please only submit nominations for individuals who have not been previously recognized.
-</thinking>
-
 # Lifetime Achievement Nomination Form - Help Guide
 ## Purpose
 This form is used to collect nominations for individuals who have made significant contributions to a field or community over the course of their lifetime. It helps us recognize and award those who deserve it.

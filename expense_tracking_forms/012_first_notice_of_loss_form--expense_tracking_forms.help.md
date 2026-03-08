@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll provide a comprehensive help guide for the "First Notice Of Loss Form" to help end-users understand its purpose, completion process, and field-by-field explanation. This form is designed to be used in the insurance industry for recording and reporting losses, and its fields will guide the user through the necessary information collection process. I'll aim for clarity, conciseness, and practicality in my response.</thinking>
-
 # First Notice Of Loss Form - Help Guide
 ## Purpose
 The First Notice Of Loss Form is a document used to report and record losses in the insurance industry. This form is designed to collect essential information about the loss, including the policy number, date, time, and location of the loss, as well as details about the insured and adjuster involved. This information is crucial for the insurance company to process and resolve claims efficiently.

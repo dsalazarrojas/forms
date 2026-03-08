@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback on the publishing experience from users who have undergone a review process. The goal is to identify areas of improvement and enhance the overall user experience. This form is designed to be a quick and easy way for users to share their thoughts and opinions on the review process.
-
-We aim to collect feedback on specific aspects of the review process, such as the clarity of the process, communication during the process, and the level of support provided. Additionally, we want to hear users' overall experience and any suggestions they may have for improvement.
-
-To avoid duplication, users will only be able to submit feedback for one review process at a time.
-
-</thinking>
-
 # Publishing Experience Feedback Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the publishing experience from users who have undergone a review process.

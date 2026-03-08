@@ -1,8 +1,3 @@
-<thinking>
-**Reasoning for Form Purpose and Duplication Check**: 
-The `regulatory_compliance_extension_request_form` is used to request an extension for regulatory compliance. This form will ask for the team members involved, reason, expected date of completion, review workflow, contact person, and additional comments. This is not a form used for duplicate requests, as users are required to submit their form id to ensure a unique and trackable request.
-</thinking>
-
 # regulatory_compliance_extension_request_form - Help Guide
 
 ## Purpose

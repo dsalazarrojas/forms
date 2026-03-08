@@ -1,9 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive user-facing help guide for the Agricultural Crop Assessment Form. This form is used to assess the health, growth, and condition of crops on a farm. It is designed to gather essential information from the assessor, which will be used to identify potential issues and provide recommendations for improvement. This form is crucial for farmers to track their crop's progress and make informed decisions for future growth and management.
-
-To ensure that the form is filled out accurately and efficiently, it is essential to understand the purpose and each field's requirements.
-
-</thinking>
-
 # Agricultural Crop Assessment Form - Help Guide
 ## Purpose
 The Agricultural Crop Assessment Form is used to collect information on the health, growth, and condition of crops on a farm. It helps farmers to track the progress of their crops, identify potential issues, and make informed decisions for future growth and management.

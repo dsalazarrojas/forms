@@ -1,6 +1,3 @@
-<thinking>
-This form is likely designed to collect feedback or opinions from retail chain sale event participants. It appears to have multiple pages with text fields, suggesting that the form is meant to gather detailed information from users. The form structure indicates that it may be used for a variety of purposes, such as collecting demographic data, product preferences, or opinions about the event itself. To confirm, it would be helpful to review the specific fields and their labels to understand the form's true purpose.</thinking>
-
 # Retail Chain Sale Event Voting Form - Help Guide
 ## Purpose
 This form is designed to collect feedback or opinions from retail chain sale event participants.

@@ -1,14 +1,3 @@
-<thinking>
-This is a form for collecting evaluations or ratings from users. I will make sure to cover its purpose and how it should be completed by end users. I also want to ensure the form is not used for non-relevant purposes or filled out by the same users multiple times, which may lead to unnecessary data duplication. The form's structure and questions should be clear and concise, and each question or field should have a clear purpose and explanation.
-
-Before filling out the form, end users should make sure that the purpose of the evaluation survey is relevant to them. If they have already filled out the evaluation survey, there is no need to do it again. 
-
-Please note that some fields are optional but it's assumed that the end user understands the implications and limitations of filling out these fields or not.
-
-The form collects information about the user, their ratings, and comments. It also provides an opportunity for users to provide feedback and comments.
-
-</thinking>
-
 # FSC Evaluation Survey - Help Guide
 ## Purpose
 This form is for collecting feedback and ratings from users about their evaluations or interactions with your organization. 

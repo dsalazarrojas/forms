@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about the local SEO services offered by the company. The form will help us understand what customers think of our services and what we can improve upon. We want to ensure that we are providing the best possible experience for our customers, and this form will help us do that. Please note that each field is optional and the purpose of this form is to gather general feedback.
-
-This form is not designed to be a formal complaint form, but rather a way for us to get constructive feedback that will help us improve our local SEO services.
-</thinking>
-
 # Local SEO Services Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about our local SEO services. We use this feedback to improve our services and ensure that we are providing the best possible experience for our customers.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to provide feedback on exam preparation resources, allowing them to evaluate their effectiveness in helping them prepare for exams. This form is meant to be filled out by users who have utilized the resources provided and have some experience with them. The purpose of the form is to collect qualitative feedback from users, helping to identify strengths and weaknesses of the resources, and to suggest areas for improvement.
-To avoid duplication, please note that this form is intended for one-time usage, and users are encouraged to provide feedback only once for each resource they've used. If you've already filled out this form for the same resource, please do not fill it out again.
-</thinking>
-
 # ExamPreparationResourceFeedbackQuestionnaire - Help Guide
 ## Purpose
 The ExamPreparationResourceFeedbackQuestionnaire is a form designed to gather feedback from users on the effectiveness of exam preparation resources. This feedback is used to improve and refine the resources, making them more effective for future users.

@@ -1,7 +1,3 @@
-<thinking>
-We must ensure that this form is used correctly to gather feedback from participants in leadership programs, events, and other communication channels. We should check that the form is not being completed for the same purpose multiple times, and that participants are not providing feedback in ways that are not intended. This form is designed to be simple and easy to use, but still gather valuable information from the participants.
-</thinking>
-
 # leadership_network_feedback - Help Guide
 ## Purpose
 The leadership_network_feedback form is used to collect feedback from participants in leadership programs, events, and other communication channels. This feedback is crucial to improve the quality and effectiveness of these initiatives.

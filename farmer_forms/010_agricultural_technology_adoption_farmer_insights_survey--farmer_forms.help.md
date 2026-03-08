@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Agricultural Technology Adoption Farmer Insights Survey - Help Guide
 ## Purpose
 This survey aims to gather insights from farmers about their attitudes, behaviors, and challenges related to adopting agricultural technologies. The data collected will help us better understand the needs and preferences of farmers in adopting modern technologies to improve agricultural practices.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from meeting attendees, providing a space for them to share their thoughts and opinions on the meeting's effectiveness, organization, and overall experience. It's meant to be completed by attendees themselves, and the collected data can be used to help future meeting organizers improve their events.
-
-To prevent duplicated responses, it's recommended that attendees only complete the form once per meeting. If you're unsure about any of the questions or fields, please don't hesitate to ask for clarification before submitting your feedback.
-
-</thinking>
-
 # Meeting Feedback Form - Help Guide
 ## Purpose
 The Meeting Feedback Form is designed to collect attendee feedback on meetings, providing valuable insights for future improvement and evaluation.

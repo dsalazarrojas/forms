@@ -1,7 +1,3 @@
-<thinking>
-In this help guide, we'll cover the purpose and completion instructions for the "Livestock Sanitation Support Request Form". This form is used to request support for issues related to livestock sanitation, such as waste management or disease outbreaks, on farms. To use this form effectively, ensure you have a valid reason for submission and that the issue hasn't already been reported or resolved. The form fields are designed to gather detailed information about the incident, which will help our support team address your concerns efficiently.
-</thinking>
-
 # Livestock Sanitation Support Request Form - Help Guide
 ## Purpose
 The Livestock Sanitation Support Request Form is used to report issues concerning livestock sanitation, waste management, or disease outbreaks on farms. This form helps our support team quickly understand the problem and provide assistance.

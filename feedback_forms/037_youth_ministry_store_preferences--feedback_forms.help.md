@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Ministry Store Preferences - Help Guide
 
 ## Purpose

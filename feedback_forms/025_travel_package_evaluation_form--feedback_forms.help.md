@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Package Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and evaluations from travelers about the travel packages they have experienced. This form will help us to understand their satisfaction level with the package, identify areas of improvement, and provide valuable insights to enhance our travel services.

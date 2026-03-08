@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experiences with iPad cases. The form is intended to be a simple and straightforward way to collect user testimonials, ratings, and comments about their interactions with the product. The form is not affiliated with any form platform and is released under a Creative Commons license, allowing users to use, modify, and distribute it freely. Before filling out the form, please ensure that you have not already submitted a similar feedback form or that your comments are not a duplicate of previous feedback. Please fill out this form only once with your genuine thoughts and experiences.
-</thinking>
-
 # IPad Cases Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experiences with iPad cases. Your input will help us improve our products and services.

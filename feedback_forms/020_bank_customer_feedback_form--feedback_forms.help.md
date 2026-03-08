@@ -1,30 +1,3 @@
-<thinking>
-The form "Bank Customer Feedback Form" seems to be designed to gather feedback from customers on their overall experience with the bank, covering various aspects such as customer relationship duration, primary banking channel, satisfaction with services, and more. This form likely aims to help the bank identify areas for improvement and make data-driven decisions to enhance customer satisfaction and loyalty.
-
-The form appears to be a structured feedback survey with a mix of select_one, select_one (with numeric options), and text fields, which should be completed by customers to provide their ratings and comments.
-
-Before proceeding, it's essential to review the form's purpose and ensure it's not a duplication of effort. If the form has already been filled out recently, there's no need to repeat the process.
-
-To complete this form, please follow these steps:
-
-1. Select the duration of your customer relationship with the bank.
-2. Choose your primary way of banking (e.g., mobile app, online banking, in-person branch visits, etc.).
-3. Rate your satisfaction with various aspects of our service:
-	* Mobile app ease of use.
-	* Professionalism of branch tellers.
-	* Knowledge of loan/mortgage staff.
-	* ATM accessibility and reliability.
-	* Fairness of fees and interest rates.
-4. Provide your rating for wait times:
-	* Average wait time in branch.
-	* Average wait time on phone support.
-5. If you've encountered a problem in the last 6 months, rate how well it was resolved.
-6. If you've had an issue, suggest one thing we could do better.
-7. Indicate how likely you are to recommend us to a friend.
-8. Choose how you'd like us to contact you for follow-up discussion (if necessary).
-
-Please fill out this form to help us improve your banking experience.</thinking>
-
 # Bank Customer Feedback Form - Help Guide
 ## Purpose
 The form is designed to gather feedback from customers on their experience with the bank, to help us identify areas for improvement and enhance customer satisfaction.

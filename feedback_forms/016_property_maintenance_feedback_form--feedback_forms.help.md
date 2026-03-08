@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users about their experience with property maintenance. The form is meant to be a straightforward and user-friendly way to gather information on the quality of maintenance services provided to properties. This form will not be used to collect sensitive or personal data, and responses will be anonymous.
-
-The form is not intended for duplicate responses, so please do not submit this form multiple times.
-
-</thinking>
-
 # Property Maintenance Feedback Form - Help Guide
 ## Purpose
 The Property Maintenance Feedback Form is a tool for property owners and users to provide feedback on the maintenance services they receive. This form helps us understand your experience and identify areas for improvement.

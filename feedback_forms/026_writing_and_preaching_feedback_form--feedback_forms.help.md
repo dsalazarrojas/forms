@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Writing And Preaching Feedback Form". The form is designed to collect feedback from users about their experience with the writing and preaching content. To ensure that each user's feedback is valuable and relevant, we will review each submission to check for duplication or non-relevant responses. Please note that the form is intended for users who have interacted with the writing and preaching content in the past, and the questions are aimed at understanding their thoughts and feelings about their experience.
-</thinking>
-
 # Writing And Preaching Feedback Form - Help Guide
 ## Purpose
 The "Writing And Preaching Feedback Form" is designed to collect feedback from users about their experience with the writing and preaching content. Your feedback will help us improve the quality of our content and services.

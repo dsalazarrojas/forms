@@ -1,14 +1,3 @@
-<thinking>
-
-To ensure that this form is completed effectively and efficiently, the following conditions must be met: 
-
-* The form must be filled out in its entirety, including all required fields.
-* The user must not submit the form multiple times, as this can create duplicate records.
-* Only the authorized personnel must complete and edit this form, as it is intended for internal use.
-* The form is not intended for public use, but rather for internal use only.
-
-</thinking>
-
 # software_complaint_form - Help Guide
 ## Purpose
 The software_complaint_form is used for internal use to gather complaints or issues related to software usage. This form helps track and resolve issues efficiently by capturing essential information about the user, issue type, and other relevant details.

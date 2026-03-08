@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be an interactive quiz on European Criminal Law, allowing users to demonstrate their understanding of various principles and aspects of this legal field. It appears to be a comprehensive assessment, covering different topics such as principles, instruments, implementation, enforcement, cooperation, and practice. The form likely serves as a tool for educational or professional purposes, potentially used in academic or professional settings.
-
-The form consists of 25 fields, each representing a distinct topic or principle within European Criminal Law. The structure suggests a progressive and sequential approach, with each question building upon the previous one, allowing users to demonstrate their grasp of the subject matter.
-
-To prevent potential duplication and ensure the form's accuracy, it is crucial to verify the information and ensure that the fields are correctly populated.
-
-</thinking>
-
 # European Criminal Law Quiz - Help Guide
 ## Purpose
 The European Criminal Law Quiz is designed to test your understanding of European Criminal Law, covering various principles, instruments, and aspects of this legal field. This quiz will evaluate your knowledge of the subject, and you should allow at least 30 minutes to complete it.

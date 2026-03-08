@@ -1,15 +1,3 @@
-<thinking>
-
-This block will help you understand the internal reasoning and context behind the form.
-
-The form is designed for the BLS (Basic Life Support) Certification Exam. This exam is a critical assessment for medical professionals to gauge their knowledge and skills in providing life-saving care in emergency situations. The form is intended to gather information from candidates taking the exam, including personal details, medical professional information, and specific knowledge related to BLS practices.
-
-The form has 21 fields, each with its own label, type, and required status. The fields cover a range of topics, including contact information (Full Name, Email Address, Phone Number), medical professional details (Profession, Organization, Employer), exam-specific information (Exam Date, Instructor Name, Training Location), and BLS-specific knowledge questions (Compression Rate, Compression Depth, Rescue Breaths Ratio, AED Usage, Choking Response, Practical Skills Assessment, Written Exam Score, Exam Result). The form also includes fields for the instructor's signature and certification number.
-
-To ensure that the form is filled out correctly, the required fields are marked as such, and users are expected to provide accurate information for the exam-specific fields. The form also allows for flexibility in the Organization and Other fields, as these are not always required.
-
-</thinking>
-
 # BLS Certification Exam - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # loan_exit_interview - Help Guide
 ## Purpose
 This form is used to gather information from loan borrowers upon the termination of their loan agreements. The purpose of this form is to collect relevant details about the loan, such as loan details, contact information, and repayment status. This information will be used to assess the effectiveness of the loan process and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-CSA Order Form help guide is needed as a clear and concise documentation to ensure end-users understand how to complete the form, what each field means, and what is expected from them. This guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # CSA Order Form - Help Guide
 ## Purpose
 The CSA Order Form is a tool for customers to place their orders for Community-Supported Agriculture (CSA) shares. The form collects information about the customer, their share preferences, and payment details. Completing this form will help the farm team understand the customer's needs and provide the best possible experience.

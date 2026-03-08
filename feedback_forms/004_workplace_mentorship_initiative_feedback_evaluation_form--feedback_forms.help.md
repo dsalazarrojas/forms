@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to gather feedback on the Workplace Mentorship Initiative. As an employee, this is your chance to provide insights on what we can improve about the mentorship experience. Your feedback will help us refine our program to better support you and your colleagues. Please note that this form has 25 fields. You don't need to fill in all of them, and you can provide additional comments if you'd like to expand on your thoughts. We value your opinions and are committed to making the mentorship program a success!
-</thinking>
-
 # Workplace Mentorship Initiative Feedback Evaluation Form - Help Guide
 ## Purpose
 The Workplace Mentorship Initiative Feedback Evaluation Form is a tool designed to collect feedback from employees on the mentorship program. Your input will help us identify areas for improvement and make the program more effective and beneficial for everyone involved.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on pairwise comparisons, likely used for product development, user experience, or market research. This form is likely used by a product team to understand user preferences and compare options in a side-by-side manner.
-</thinking>
-
 # pairwise_comparison_survey - Help Guide
 ## Purpose
 

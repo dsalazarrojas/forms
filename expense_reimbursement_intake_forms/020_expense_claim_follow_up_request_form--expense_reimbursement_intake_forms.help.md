@@ -1,10 +1,3 @@
-<thinking>
-We've received feedback that this form is confusing, and to help clarify its purpose and requirements, let's review the form's YAML fields to provide a clear help guide for the end-user.
-After reviewing the input schema, we can see that the form is primarily for tracking expense claims, follow-up requests, and associated details. It appears to be used for internal purposes within a company. This form will help employees submit a request for follow-up on an expense claim that needs attention or clarification from a specific team member (assigned to).
-The form will help us identify the company, employee submitting the request, the type of expense, the claim date, claim amount, follow-up date, follow-up notes, and the status of the request.
-Before starting, double-check that the form is correctly completed and not duplicated, as some fields are marked as optional but may still be relevant for the request.
-</thinking>
-
 # Expense Claim Follow Up Request Form - Help Guide
 ## Purpose
 This form is used to submit a follow-up request for an expense claim. The purpose of this form is to notify the assigned team member to follow up on the claim, provide any necessary information or clarification, and ensure the claim is processed accordingly.

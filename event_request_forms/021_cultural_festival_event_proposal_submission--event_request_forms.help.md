@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for a cultural festival event proposal submission. The purpose of this form is to gather necessary details about an event, including its name, dates, time, duration, category, and performance type, as well as contact information. This form is used internally to ensure that all required information is collected and processed correctly. Please ensure that you only submit one proposal per form. Duplicate submissions will not be accepted.
-</thinking>
-
 # cultural-festival-event-proposal-submission - Help Guide
 ## Purpose
 The cultural-festival-event-proposal-submission form is used to collect information for a cultural festival event proposal. This form is essential for the internal processing of event proposals, ensuring that all relevant details are collected and processed correctly.

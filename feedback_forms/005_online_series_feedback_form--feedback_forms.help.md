@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Series Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from users about online series episodes. It helps us understand your thoughts and opinions about the series and its creators.

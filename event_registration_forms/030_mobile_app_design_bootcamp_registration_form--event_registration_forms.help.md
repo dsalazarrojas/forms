@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect registration information for a Mobile App Design Bootcamp. It is designed to be used by attendees who want to register for the bootcamp. The form will be used to gather essential details such as attendee names, contact information, and bootcamp preferences.
-</thinking>
-
 # Mobile App Design Bootcamp Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from attendees who want to participate in the Mobile App Design Bootcamp. It will help us get to know you better and tailor the bootcamp experience according to your needs.

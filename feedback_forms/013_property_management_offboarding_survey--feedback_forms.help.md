@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from tenants on their offboarding experience with a property management company. It is meant to be used to understand the reasons behind a tenant's departure and to gather information on their overall satisfaction with the offboarding process. This form is not affiliated with, endorsed by, or derived from any form platform, but rather an original creation using public survey topic metadata as inspiration. The form's purpose is to provide valuable insights to property management companies to improve their offboarding processes and tenant relations.
-
-Before filling out this form, please ensure that you are not filling out the same form twice, as it may cause duplication of data.
-
-</thinking>
-
 # Property Management Offboarding Survey - Help Guide
 ## Purpose
 The Property Management Offboarding Survey is designed to collect feedback from tenants about their offboarding experience with a property management company.

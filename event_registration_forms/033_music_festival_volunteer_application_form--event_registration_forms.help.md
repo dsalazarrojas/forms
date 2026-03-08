@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for individuals to register as volunteers for a music festival. This form is used to collect contact information, volunteer availability, and experience. The festival organizers will review and use the submitted information to place volunteers in suitable roles.
-</thinking>
-
 # music_festival_volunteer_application_form - Help Guide
 ## Purpose
 The music festival volunteer application form is used to collect contact information and details about your volunteer availability and experience for the festival.

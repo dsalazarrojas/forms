@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to gather feedback on safety measures implemented during a tournament. It seems that this form is used to collect detailed information from attendees about their experience during the event, including their name, email, and event details. The fields provided suggest that this form is used for reporting and evaluation purposes, perhaps for event organizers to assess the safety protocols in place. The form's structure implies that it's not meant for general feedback or opinions but rather for gathering factual and specific information about each event. I'm assuming this form is used for internal tracking and analysis, rather than public display or external sharing. It's worth noting that this form has a large number of fields, which may suggest that the event organizers want to collect a wide range of information. I'm going to provide a detailed help guide for this form based on the provided YAML fields. </thinking>
-
 # Tournament Safety Measures Feedback Survey - Help Guide
 ## Purpose
 This form is used to gather detailed feedback on safety measures implemented during a tournament. It's intended for event attendees to report their experiences and provide suggestions for improvement.

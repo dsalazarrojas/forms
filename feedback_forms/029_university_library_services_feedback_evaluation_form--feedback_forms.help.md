@@ -1,8 +1,3 @@
-<thinking>
-This guide will provide a detailed explanation of the purpose and functionality of the University Library Services Feedback Evaluation Form. The primary objective of this form is to collect feedback from end-users about their overall satisfaction and experience with the university library services. This feedback will help identify areas of improvement and ensure that the library services meet the expectations of the university community. 
-
-</thinking>
-
 # university_library_services_feedback_evaluation_form - Help Guide
 
 ## Purpose

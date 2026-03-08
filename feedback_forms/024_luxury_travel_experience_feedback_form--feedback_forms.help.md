@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from customers about their luxury travel experience. The form has multiple pages with various fields that ask about different aspects of the trip, including the type of trip, overall satisfaction, staff professionalism, services quality, amenities quality, communication, facilities, cleanliness, staff helpfulness, overall value, trip value, staff willingness to help, would recommend, travel experience, and additional comments. The purpose of this form is to gather feedback on the customer's experience and identify areas of improvement.
-
-</thinking>
-
 # luxury_travel_experience_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their luxury travel experience.

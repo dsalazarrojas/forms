@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Alarm Testing Notice Request Form - Help Guide
 
 ## Purpose

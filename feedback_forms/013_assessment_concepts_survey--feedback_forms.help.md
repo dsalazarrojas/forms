@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Assessment Concepts Survey - Help Guide
 ## Purpose
 The Assessment Concepts Survey is a form designed to gather feedback and insights from various stakeholders about their experiences and opinions on assessments. The survey aims to understand their preferences, challenges, and expectations regarding assessments, helping to inform the development of more effective assessment practices.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Church Guest Questionnaire - Help Guide
 
 ## Purpose

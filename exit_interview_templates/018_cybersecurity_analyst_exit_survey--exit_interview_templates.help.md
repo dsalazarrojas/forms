@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for employees who are leaving the company and are required to fill out the Cybersecurity Analyst Exit Survey. The purpose of this form is to gather information about the employee's experience and satisfaction with their role, work environment, and company. 
-Please note that the questions in this form are intended to be answered honestly and thoroughly, and your responses will be kept confidential.
-This form is divided into several sections that cover different aspects of your experience. Each question is designed to gather specific information that will help us understand your perspective and experiences.
-This guide will walk you through each question in the form, providing explanations and examples to help you answer each one accurately.
-</thinking>
-
 # Cybersecurity Analyst Exit Survey - Help Guide
 
 ## Purpose

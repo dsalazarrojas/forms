@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from donors, which is a crucial step in improving the donor program. By understanding the feedback and concerns of donors, we can identify areas for improvement and make data-driven decisions to enhance our program. This form is not intended to collect personal identifiable information (PII) and all fields are optional. Please note that the date of birth field is included for age verification purposes only, and it is not used to store any personal data that could be used to identify the donor.
-
-</thinking>
-
 # Donor Program Feedback Consent Form - Help Guide
 ## Purpose
 The Donor Program Feedback Consent Form is designed to gather your opinions and thoughts about our donor program. Your feedback will help us understand what we're doing well and where we can improve. Your input will be kept confidential and used to make our program better.

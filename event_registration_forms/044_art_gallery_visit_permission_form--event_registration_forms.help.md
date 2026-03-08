@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from students, parents, or guardians for an art gallery visit. It is crucial to ensure the students' safety and well-being during the trip. 
-
-The form should only be filled out for students attending the art gallery visit, and the information collected will be used for planning and coordination purposes. Please use this form to collect necessary information from students and parents/guardians in a secure and efficient manner.
-</thinking>
-
 # Art Gallery Visit Permission Form - Help Guide
 ## Purpose
 This form is for students who will be visiting the art gallery. The information collected will be used for planning and coordination purposes.

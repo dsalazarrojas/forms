@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and survey responses from users about their operational strategy, allowing us to gauge their understanding of and alignment with our company's operational strategy.
-This form should only be completed by users who are part of the target audience for the operational strategy, which is likely employees who have direct involvement in the strategy's implementation or impact.
-</thinking>
-
 # operational_strategy_survey - Help Guide
 ## Purpose
 

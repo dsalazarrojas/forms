@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for event registration, specifically for potential venue rentals. This form is used to gather the necessary details from event organizers to process their rental requests. The form should only be filled out by event organizers or their representatives, and not by venue employees or staff members. 
-The information collected will be used to process the rental request, communicate with the event organizer, and ensure a smooth event experience for all parties involved. 
-Make sure to fill out this form carefully and completely to ensure that your event is processed correctly. 
-</thinking>
-
 # Venue Rental Intake Form - Help Guide
 ## Purpose
 The Venue Rental Intake Form is used to gather necessary information for event registration and rental processing.

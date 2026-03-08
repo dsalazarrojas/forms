@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from concert attendees after a concert event. The purpose of this form is to gather information about the attendee's experience, including their satisfaction with various aspects of the event, such as music quality, performance energy, sound quality, lighting and visuals, venue comfort, ticket value, concession quality, staff friendliness, security effectiveness, entry and exit process, and overall experience. The form will help event organizers understand what worked well and what could be improved.
-
-This form is part of a larger set of feedback forms that can be used to analyze and improve concert experiences. Each question is designed to be concise and clear, making it easy for attendees to provide accurate and meaningful feedback.
-
-When completing this form, please make sure to answer honestly and thoroughly, as the information you provide will help improve future concerts. You can skip questions that don't apply to you, but please fill out all required fields.
-
-</thinking>
-
 # Concert Attendee Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from concert attendees to help event organizers improve future concerts.

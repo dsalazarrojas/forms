@@ -1,13 +1,3 @@
-<thinking>
-
-We're creating a form to gather feedback from visitors to our airline lounges. The purpose of this form is to help us identify areas of improvement and provide the best experience for our customers. This form is specifically designed for people who have visited our airline lounges, and we ask you to provide your honest feedback so we can continue to enhance our services.
-
-To ensure that this form is used correctly, we've added some fields that ask for specific information. This will help us get a clear understanding of your experience. Please take a few minutes to fill out this form, and let us know about your recent visit to our lounge.
-
-Before you start, take a moment to review this help guide to make sure you're completing the form correctly.
-
-</thinking>
-
 # Airline Lounge Experience Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from visitors to our airline lounges. Your input will help us identify areas for improvement and provide the best experience for our customers.

@@ -1,7 +1,3 @@
-<thinking> 
-To confirm, this is a form for tracking household expenses, income, and savings. It is not a duplicate of any other form. I will create a comprehensive help guide for end users to complete the form efficiently. 
-</thinking>
-
 # Household Budget Tracker - Help Guide
 ## Purpose
 This form is designed to help you track your household expenses, income, and savings over time. It will guide you through various fields to provide a clear picture of your financial situation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about the driver's safety exam details. The purpose of the form is to gather relevant data about the driver's vehicle and license information. This form likely exists within a larger system for tracking and managing driver safety records. The form's purpose is likely to serve as a template for collecting necessary information for administrative purposes or reporting requirements. Before using this form, review the fields carefully to ensure they are not duplicated within the larger system or that the information being collected meets the specific needs of the organization. 
-</thinking>
-
 # Driver Safety Exam Form - Help Guide
 
 ## Purpose

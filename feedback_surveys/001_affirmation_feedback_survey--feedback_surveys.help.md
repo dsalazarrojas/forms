@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the affirmation process in the workplace. The purpose of this form is to gather information on employee satisfaction with the affirmation process, including frequency of receiving positive recognition, sources of affirmations, and impact on motivation. The form aims to identify areas of improvement and provide valuable insights for management to enhance the affirmation process. Please ensure that you are providing feedback on the affirmation process as it is currently experienced and not on what you would like to see changed. If you have already completed a similar survey in the past, please note that your feedback will not be duplicated in the records.
-</thinking>
-
 # Affirmation Feedback Survey - Help Guide
 ## Purpose
 The Affirmation Feedback Survey is designed to gather information on employee satisfaction with the affirmation process in the workplace.

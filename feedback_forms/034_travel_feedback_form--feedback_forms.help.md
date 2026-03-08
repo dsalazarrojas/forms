@@ -1,7 +1,4 @@
-> <thinking>
-This form is for customers to provide feedback on their travel experience with our company. We encourage customers to be honest and provide as much detail as possible to help us improve our services. We will not use this form for commercial purposes or solicit new business. If you have already provided feedback in the past, you can choose to not provide feedback again. Please only complete the form if you want to provide feedback.
-</thinking>
-# Travel Feedback Form - Help Guide
+> # Travel Feedback Form - Help Guide
 ## Purpose
 This Travel Feedback Form is designed to collect feedback from customers after their travel experience with our company. We value customer feedback and use it to improve our services to provide better experiences in the future.
 

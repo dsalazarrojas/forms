@@ -1,5 +1,3 @@
-<thinking>...This form is used to request a quote for wedding DJ and lighting services. It collects information about the event, contact person, and other relevant details. Ensure that you complete this form for each event separately... </thinking>
-
 # Wedding DJ And Lighting Quote Request Form - Help Guide
 ## Purpose
 This form is designed to gather information about your wedding event and your contact details, so our team can provide a quote for our wedding DJ and lighting services.

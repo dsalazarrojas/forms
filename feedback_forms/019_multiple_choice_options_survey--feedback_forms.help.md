@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # multiple_choice_options_survey - Help Guide
 
 ## Purpose

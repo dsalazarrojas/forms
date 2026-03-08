@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to capture feedback on improving visibility for a specific topic. It is intended for users to provide their thoughts and suggestions on how to make the topic more visible, accessible, and appealing to the target audience. 
-
-The form has 25 fields, each representing a page, and is divided into multiple sections with no clear categorization or grouping. This structure might be overwhelming, but every field is designed to elicit specific information. 
-
-Please ensure to fill out every field, as they are all required. If you're unsure about any field, it's best to provide a brief explanation in the comments section at the end of this guide.
-</thinking>
-
 # Visibility Improvement Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on improving the visibility of a specific topic. Your input will help shape the direction of future developments and improvements.

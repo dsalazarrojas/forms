@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the sanitation status of an irrigation system. This form is designed to guide users through a site inspection and collect relevant details about the system's operation and cleanliness. It's essential to ensure that the form is completed accurately and thoroughly to gather reliable data. Before proceeding, please confirm that this form is relevant to your needs and not a duplicate of another form.
-
-To prevent duplication, you can search for forms with similar titles or categories in your organization's database or documentation.
-</thinking>
-
 # Irrigation System Sanitation Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about the sanitation status of an irrigation systems site inspection, operation, and cleanliness.

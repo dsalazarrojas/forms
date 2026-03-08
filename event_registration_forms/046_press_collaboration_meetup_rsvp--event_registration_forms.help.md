@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Press Collaboration Meetup RSVP form. The form is likely used for gathering information from press representatives who are interested in attending a meetup or discussion. The goal is to understand who is coming, their preferences and needs, and to facilitate a smooth and inclusive event. The form should be clear, concise, and easy to understand.
-</thinking>
-
 # Press Collaboration Meetup RSVP - Help Guide
 
 ## Purpose

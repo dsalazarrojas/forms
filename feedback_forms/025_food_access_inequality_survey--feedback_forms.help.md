@@ -1,12 +1,3 @@
-<thinking>
-The "Food Access Inequality Survey" form is designed to collect feedback and information from users about their access to food in different categories. This form is intended to help identify areas where individuals or groups face food inequality issues, allowing us to better understand and address these issues.
-
-The form is a collection of various fields that require users to select or enter information about their experiences with food access. Some fields ask users to choose from multiple options, while others require a more detailed written response.
-
-Before proceeding, please note that this is a user-facing help guide, and the explanations below are designed to be concise and practical for users who are not familiar with the form.
-
-</thinking>
-
 # Food Access Inequality Survey - Help Guide
 ## Purpose
 The Food Access Inequality Survey is a form designed to collect feedback and information about food access experiences. This form helps us identify areas where individuals or groups face food inequality issues, allowing us to better understand and address these issues.

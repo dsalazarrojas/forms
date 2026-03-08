@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect feedback on retail products, allowing customers to provide their opinions on the product name, rating, price, placement, description, store hours, and other relevant details. This form helps the retail business to improve their product offerings and customer experience.
-</thinking>
-
 # retail_product_placement_feedback_form - Help Guide
 ## Purpose
 The retail product placement feedback form is designed to gather customer feedback on retail products, allowing the business to refine their product offerings and improve customer satisfaction.

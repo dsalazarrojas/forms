@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a student's performance, outlook, and other relevant factors after an exam. To ensure this form is relevant and useful for your needs, please review each field carefully and make sure they align with your specific requirements. Note that this form does not collect any sensitive or personal identifiable information, and the fields are labeled and explained below to provide clarity. If you're unsure about the purpose or any field, please contact form@gic.mx for further clarification.
-</thinking>
-
 # Extraordinary Exam Assessment - Help Guide
 ## Purpose
 This form is designed to assess a student's performance, outlook, and other relevant factors after an exam. It collects information about the student's performance, areas for improvement, and the teacher's feedback and comments. The form is divided into several sections, each with its own set of fields that need to be filled in for accurate and fair assessment.

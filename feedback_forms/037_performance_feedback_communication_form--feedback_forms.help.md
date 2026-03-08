@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the Performance Feedback Communication Form, a tool for collecting feedback from users about their performance. Before providing feedback, please ensure that you are not duplicating a previous submission and that your feedback is relevant to the specific performance topic. To complete this form, simply follow the step-by-step guide below.
 
 # Performance Feedback Communication Form - Help Guide

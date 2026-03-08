@@ -1,8 +1,3 @@
-<thinking> 
-We need to check that end users understand the purpose and relevance of the form before they start filling it. We should avoid duplication of feedback and only allow one entry per person per session. This guide will provide a clear outline of the form's purpose and help users complete the form without any confusion or errors.
-
-</thinking> 
-
 # Beta Product Feedback Form - Help Guide
 
 ## Purpose

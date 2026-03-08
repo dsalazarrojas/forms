@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure the Stable Management Waiver Form is completed correctly, follow the instructions below.
 
 # Stable Management Waiver Form - Help Guide

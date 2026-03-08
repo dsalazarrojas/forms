@@ -1,14 +1,3 @@
-<thinking>
-This help guide aims to provide users with a clear understanding of the Accessibility Satisfaction Poll form and its purpose. This form is designed to gather feedback from respondents about their experience with accessibility features in a given facility or service. By providing their input, respondents help improve the accessibility and usability of the service for future users.
-
-The form is divided into two main sections: Respondent Information and Accessibility Satisfaction Ratings. In the first section, users are asked to provide their basic contact information (optional) and select their role at the facility or service. The second section consists of rating questions about the overall and specific accessibility features, such as physical, digital, and communication accessibility. 
-
-The form also includes questions about the helpfulness of staff in addressing accessibility needs, barriers encountered during the visit, and suggestions for improvement. Finally, users are asked if they would recommend the facility or service to others with accessibility needs and if they have any additional comments or feedback.
-
-Please ensure that you answer these questions honestly and in as much detail as possible. Your feedback is crucial in helping us improve the accessibility and usability of the service for all users.
-
-</thinking>
-
 # Accessibility Satisfaction Poll - Help Guide
 ## Purpose
 This form aims to gather feedback from respondents about their experience with accessibility features in a given facility or service. Your input will help improve the accessibility and usability of the service for all users.

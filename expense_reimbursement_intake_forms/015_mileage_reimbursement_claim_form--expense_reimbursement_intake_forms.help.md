@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mileage Reimbursement Claim Form - Help Guide
 ## Purpose
 

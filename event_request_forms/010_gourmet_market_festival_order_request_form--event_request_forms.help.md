@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for a Gourmet Market Festival Order Request. It's possible that the form is used for a specific event, and the user needs to provide information about the order, pickup or delivery details, and payment information. The form is likely used by the festival organizers to collect data about the orders from customers or attendees, and the form is not likely to be used by the general public. It's also possible that the form is used for internal purposes, such as order tracking or inventory management.
-
-To avoid duplication and ensure that the form is relevant, I will make sure to explain each field in the context of the provided YAML data.
-
-</thinking>
-
 # gourmet_market_festival_order_request_form - Help Guide
 ## Purpose
 This form is used to collect information about orders for a Gourmet Market Festival. It is designed to gather details about the order, including pickup or delivery information, payment, and notes.

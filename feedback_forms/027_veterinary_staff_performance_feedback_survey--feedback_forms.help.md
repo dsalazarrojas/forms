@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from staff members about their performance and work environment. This form is meant to help management gauge the overall satisfaction and engagement of their team, and to identify areas for improvement.
-
-This form should only be filled out by staff members, and not by managers or other external parties. It's essential to ensure that the feedback is genuine and reflects the staff member's genuine opinions and experiences. To achieve this, we should ensure that each staff member can only submit one survey per week, and that the form is only accessible within a specific timeframe, such as a specific date range.
-
-Before completing this form, please make sure that you have the necessary permissions and that you are submitting feedback for the correct staff member. If you are unsure about any of these points, please reach out to your supervisor or HR representative for clarification.
-</thinking>
-
 # Veterinary Staff Performance Feedback Survey - Help Guide
 ## Purpose
 The Veterinary Staff Performance Feedback Survey is designed to collect feedback from staff members about their performance and work environment. This form is meant to help management understand the overall satisfaction and engagement of their team, and to identify areas for improvement.

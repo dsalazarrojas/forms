@@ -1,6 +1,3 @@
-<thinking> 
-This form is used for a facility's maintenance and upkeep. The purpose is to assess the vision and lighting conditions of a facility, identifying any issues and outlining next steps for improvement. The form helps facility managers gather information on the overall condition of the lighting, its intensity, and the frequency and method of follow-up activities. The form is designed to be completed by individuals responsible for the upkeep and maintenance of the facility. The form should not be used for other purposes without proper adaptation and modification to fit the new context. Please review the form carefully to ensure it's relevant and not a duplication of effort. If in doubt, please ask your administrator or facility manager for guidance.</thinking>
-
 # Vision And Lighting Assessment Form - Help Guide
 ## Purpose
 The Vision and Lighting Assessment Form is a tool used by facility managers to evaluate the lighting conditions within their facilities. This form helps identify any issues with the lighting and outlines steps for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by facility management teams to book storage space in a facility for equipment, supplies, or tools. The form gathers information about the contact person, facility details, equipment type, and booking dates, among other fields. This guide will walk you through the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # Equipment Storage Space Booking Form - Help Guide
 ## Purpose
 This form is used to book storage space in a facility for equipment, supplies, or tools.

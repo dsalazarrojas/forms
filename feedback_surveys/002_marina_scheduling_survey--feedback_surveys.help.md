@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information from marina users, including boaters and visitors. The purpose of this form is to gather data on marina scheduling preferences, amenities, and services offered. It also collects contact information and comments from users. This form is intended to be completed by marina users to provide feedback and suggestions for improving the marina's services and facilities.
-
-Before starting this form, please ensure that you have not already completed it. If you have previously submitted this form, your responses will be recorded and may be used to improve the marina's services.
-
-</thinking>
-
 # Marina Scheduling Survey - Help Guide
 ## Purpose
 The Marina Scheduling Survey is designed to gather information from marina users about their scheduling preferences, amenities, and services offered.

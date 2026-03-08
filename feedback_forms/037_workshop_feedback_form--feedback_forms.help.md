@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from attendees of a workshop, allowing them to provide their honest opinions on the event. This form is designed to be simple and easy to complete, ensuring that users can provide their feedback efficiently. By using this form, the organizers of the workshop can gain valuable insights into what worked well and what didn't, helping them to improve future events.
-Please note that this form is not designed for real-time submission, and users are encouraged to submit their feedback at their convenience. To avoid duplication, please ensure that each user only submits their feedback once.
-</thinking>
-
 # Workshop Feedback Form - Help Guide
 ## Purpose
 The Workshop Feedback Form is designed to collect honest and constructive feedback from attendees of a workshop. Your input will help the organizers improve future events and provide a better experience for everyone.

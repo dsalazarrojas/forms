@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about facility digital services, which could be used for facility management, maintenance, or other related tasks. The form will help users to provide details about the facility location, contact person, service request, and the priority of the service required. This form is intended for internal use, and the information collected will be used by facility management teams to manage digital services effectively.
-</thinking>
-
 # Facility Digital Service Contact Form - Help Guide
 ## Purpose
 The Facility Digital Service Contact Form is designed to collect information from users about facility digital services. It helps facility management teams to identify areas that require assistance and allocate resources accordingly.

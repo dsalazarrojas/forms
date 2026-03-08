@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather customer experience data during holiday seasons. This information will help the retail team understand customer behavior, preferences, and satisfaction levels during holiday seasons, allowing for data-driven decision-making to enhance customer experience and business strategies.
-The form is used to collect feedback on customer visits to stores during the holiday season, ensuring that all relevant customer experience aspects are covered. To avoid duplication, this form is only intended for collecting feedback from customers visiting stores during holiday seasons.
-</thinking>
-
 # Retail Holiday Customer Experience Report - Help Guide
 ## Purpose
 The Retail Holiday Customer Experience Report is a form designed to gather data on customer experiences during holiday seasons. This information helps the retail team to understand customer behavior, preferences, and satisfaction levels during this time.

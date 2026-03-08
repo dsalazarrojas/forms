@@ -1,7 +1,3 @@
-<thinking>
-I'm creating this form to help users understand the purpose and usage of the "Craft Workshop Waiver Form". This form is designed to be a straightforward, user-friendly tool for collecting participant information and waiver signatures. Its primary purpose is to ensure that participants are aware of the workshop's rules and guidelines and acknowledge their understanding by signing the waiver. The form should be completed by anyone attending the workshop to ensure a safe and enjoyable experience for all participants. This form should not be used for commercial purposes or for gathering personal data beyond what is necessary for workshop purposes.
-</thinking>
-
 # Craft Workshop Waiver Form - Help Guide
 ## Purpose
 The Craft Workshop Waiver Form is designed to collect participant information and obtain their waiver signature for the workshop. It helps ensure that participants are aware of the workshop rules and guidelines and provides a safe and enjoyable experience for all attendees.

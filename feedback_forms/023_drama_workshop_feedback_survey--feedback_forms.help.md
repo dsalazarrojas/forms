@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from participants of the Drama Workshop, a series of sessions designed to improve communication and leadership skills. The goal is to understand the overall satisfaction and areas of improvement for the workshop, its content, organization, and performance of the instructors. It is not required to be completed in one session; users can fill it out at their convenience. 
-
-This guide is provided to help you complete the form accurately and make the most out of the feedback.
-</thinking>
 # Drama Workshop Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on your experience at the Drama Workshop, providing valuable insights to help us improve future sessions.

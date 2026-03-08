@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to be used for employees to claim reimbursement for health-related expenses from their employer-sponsored health reimbursement account. This form captures essential information such as the claimant's name, claimant's contact details, claim type, amount of the claim, and other relevant details. The form is designed to be completed by the employee, and the data collected will be reviewed and processed by the management team for approval.
-</thinking>
-
 # Health Reimbursement Account Claim Form - Help Guide
 ## Purpose
 The Health Reimbursement Account Claim Form is a tool for employees to claim reimbursement for health-related expenses from their employer-sponsored health reimbursement account. This form helps the management team to track and process claims efficiently.

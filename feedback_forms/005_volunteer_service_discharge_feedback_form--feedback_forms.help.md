@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Volunteer Service Discharge Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from volunteers after they have been discharged from service. The form aims to understand the reason for discharge, the volunteer's experience with the service, and their overall satisfaction. This information will help us improve our services and better support our volunteers in the future.

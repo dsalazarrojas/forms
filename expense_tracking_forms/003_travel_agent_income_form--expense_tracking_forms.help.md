@@ -1,15 +1,3 @@
-<thinking>... internal reasoning about form purpose and non-duplication ...
-
-The Travel Agent Income Form is designed to gather information about travel agents' income from various sources. It is crucial to understand that this form is intended for travel agents only, and its purpose is to collect data for internal use. 
-
-This form is not meant to be filled out by anyone else, as the questions and fields are tailored to the specific needs and requirements of travel agents. 
-
-The form is also meant to be filled out once per travel period, not multiple times for the same period. Each field is designed to capture specific information that will help travel agents accurately report their income. 
-
-Please note that the form is for internal use only and should be treated with confidentiality. 
-
-</thinking>
-
 # Travel Agent Income Form - Help Guide
 ## Purpose
 The Travel Agent Income Form is a tool designed to gather information about travel agents' income from various sources. It is crucial to report income accurately for internal use.

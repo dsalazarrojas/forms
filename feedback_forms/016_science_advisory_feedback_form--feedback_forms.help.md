@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Science Advisory Feedback Form - Help Guide
 
 ## Purpose

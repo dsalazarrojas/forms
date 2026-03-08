@@ -1,9 +1,3 @@
-<thinking>
-We are creating a form for collecting feedback and information about incidents that have been reported to the IT service desk. This form should be completed by individuals who have experienced an issue with the IT services. It will help us to identify areas where we can improve our service and provide better support to our customers. Before proceeding, please ensure that this is the correct form for your feedback and that you have not already submitted feedback on this topic.
-
-Note: This form will guide you through the process of collecting feedback on IT service incidents.
-</thinking>
-
 # it_service_desk_feedback_questionnaire - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-To provide a clear and helpful guide for the users of the Tarot Reading Feedback Form, we must first understand that this form is used to gather feedback from clients or customers who have undergone a tarot reading session with the tarot reader. This form helps the tarot reader to improve their skills and services by gathering insights from their clients. The form is designed to be comprehensive, allowing users to provide detailed feedback on various aspects of their experience, from their overall satisfaction to their impression of the tarot reader's expertise.
-
-We must also consider that the form's purpose is to be a tool for the tarot reader to learn and grow, rather than a punitive instrument for criticizing their work. Therefore, we should emphasize the importance of constructive feedback and encourage users to be honest and open in their responses.
-
-It's also essential to note that the form is not intended for real-time use during the reading, so users do not need to fill it out immediately after the reading. It's a post-reading feedback form, meant to be completed at a later time and with a clear head.
-</thinking>
-
 # Tarot Reading Feedback Form - Help Guide
 ## Purpose
 The Tarot Reading Feedback Form is designed to collect feedback from clients or customers who have undergone a tarot reading session with a tarot reader. This feedback is meant to help the tarot reader improve their skills and services.

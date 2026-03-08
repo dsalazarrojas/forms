@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Speaker Tips For Client Engagement" form. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each field. I'll aim to be concrete, concise, and practical in my explanations, avoiding any unsupported business logic. I'll also ensure that the guide is easy to follow and free of jargon.</thinking>
-
 # Speaker Tips For Client Engagement - Help Guide
 ## Purpose
 The "Speaker Tips For Client Engagement" form is designed to gather information and feedback from speakers about their experiences and tips for engaging with clients in a professional setting. This form will help event organizers, clients, and speakers improve their relationships and communication. By filling out this form, you'll contribute to a valuable resource for the speakers' community and help shape the way we connect and interact with each other.

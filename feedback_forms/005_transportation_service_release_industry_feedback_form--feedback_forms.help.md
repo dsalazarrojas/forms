@@ -1,14 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Transportation Service Release Industry Feedback Form. The form is intended for users to provide feedback on the release of a transportation service, including details such as the release date, service name, partners involved, clients affected, and satisfaction scores. The form is required to be completed in full, with no fields left blank.
-
-The form is divided into multiple pages, each with its own set of questions or fields. Users should navigate through the pages in order to complete the form. Each page will have a brief description of the page's purpose and the fields that need to be filled in.
-
-The form is designed to capture information from users about their experience with the transportation service release. The fields on the form are carefully crafted to ensure that users provide the necessary information to provide a comprehensive feedback.
-
-Before starting to complete the form, please ensure that you have the necessary information at hand. The form cannot be used for duplicate or non-relevant feedback. Please refer to the form's purpose and instructions to ensure that your feedback is relevant and accurate.
-
-</thinking>
-
 # Transportation Service Release Industry Feedback Form - Help Guide
 ## Purpose
 The Transportation Service Release Industry Feedback Form is designed to capture feedback from users about their experience with the release of a transportation service. This form is used to gauge the service's quality, usability, and overall performance.

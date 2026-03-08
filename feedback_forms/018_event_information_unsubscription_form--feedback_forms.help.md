@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting event unsubscription information, and the user has expressed interest in cancelling or unsubscribing from a previously registered event. This form should only be filled out if the user has genuinely expressed a desire to cancel or unsubscribe from an event and is not already unsubscribed. Please review the form carefully before filling it out to ensure it's the correct process for your needs.
-</thinking>
-
 # event_information_unsubscription_form - Help Guide
 ## Purpose
 This form is used to collect information for event unsubscription.

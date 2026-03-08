@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting feedback from users about our invoicing process. The purpose of this form is to identify areas of improvement and make necessary changes to enhance user experience. Please note that this form is not meant for soliciting business or personal information, and responses will be kept confidential. If you have already provided feedback on this form, please do not fill it out again, as we want to ensure that your concerns are addressed only once.
-</thinking>
-
 # invoice_transparency_feedback_form - Help Guide
 ## Purpose
 This form is used to gather feedback from users about our invoicing process. Your input will help us understand where we can improve and provide better service to our customers.

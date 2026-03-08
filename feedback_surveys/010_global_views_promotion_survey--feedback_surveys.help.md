@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global Views Promotion Survey - Help Guide
 
 ## Purpose

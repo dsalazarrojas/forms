@@ -1,9 +1,3 @@
-<thinking>
-
-To create a helpful user-facing guide for the "Patient Discharge Feedback Form", I will follow the provided YAML specification and provide a clear and concise explanation of the form's purpose, how to complete it, and each field's meaning. I will also ensure that the guide is practical and easy to understand for end-users.
-
-</thinking>
-
 # Patient Discharge Feedback Form - Help Guide
 ## Purpose
 The Patient Discharge Feedback Form is designed to collect feedback from patients about their discharge experience at a healthcare facility. The form aims to gather information on the quality of care provided, the approachability of the care team, and overall satisfaction with the discharge process.

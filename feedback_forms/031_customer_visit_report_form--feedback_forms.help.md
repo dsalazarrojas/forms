@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's break down the purpose of this form. It appears to be used for reporting on customer visits, likely to collect feedback or assess the quality of service provided to customers. The form is structured into four pages, each with a different type of field: text, select_one, text, and note. The form is not required, which implies it's not a critical part of the business process but rather a way to gather additional information. The fields seem to be designed to be filled out in a sequential manner, with each page building upon the previous one. This form might be used for quality control, customer satisfaction, or similar purposes.</thinking>
-
 # Customer Visit Report Form - Help Guide
 
 ## Purpose

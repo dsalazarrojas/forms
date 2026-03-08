@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for this form to explain its purpose, how to complete it, and what each field means.</thinking>
-
 # Cafeteria Menu Improvement Poll - Help Guide
 ## Purpose
 This form is designed to gather feedback on the cafeteria menu and services to help improve the quality and variety of food options available to students, staff, and faculty. Your responses will contribute to creating a better dining experience for everyone.

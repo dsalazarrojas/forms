@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential vendors who want to participate in the craft fair. This form helps us understand their vendor name, business name, contact information, and other relevant details about their products or services. This guide will help end users fill out the form correctly and efficiently.
-</thinking>
-
 # Craft Fair Vendor Inquiry Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential vendors who want to participate in the craft fair. This information will help us understand their vendor identity, contact details, and product/service offerings.

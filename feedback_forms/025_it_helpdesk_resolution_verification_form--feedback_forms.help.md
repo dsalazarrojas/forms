@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # it_helpdesk_resolution_verification_form - Help Guide
 
 ## Purpose

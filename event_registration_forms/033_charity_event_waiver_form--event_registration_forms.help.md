@@ -1,11 +1,3 @@
-<thinking>
-This form is a Charity Event Waiver Form, used to collect participant information and gather their consent for liability and medical treatment. The purpose of this form is to ensure that participants understand the risks associated with the event and release the organization from liability in case of accidents or injuries. This form is usually used for events like marathons or charity runs, where participants are physically active and assume some level of risk. The form should only be used for events where participants are over 18 years old. For minors, an additional agreement from a parent or guardian is required. 
-
-The waiver is also used for promotional purposes, such as taking photos and videos of participants. 
-
-It's essential to complete this form carefully and honestly, as it's a legal document.
-</thinking>
-
 # Charity Event Waiver Form - Help Guide
 ## Purpose
 This is a Charity Event Waiver Form, used to collect participant information and gather their consent for liability and medical treatment.

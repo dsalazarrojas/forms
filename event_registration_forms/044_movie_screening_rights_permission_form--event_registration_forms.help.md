@@ -1,7 +1,3 @@
-<thinking>
-The Movie Screening Rights Permission Form is used to collect information about a specific movie screening event. This form is likely used by event organizers, venues, or production teams to ensure that they have the necessary permissions and licenses to host a movie screening. This form may be used for both internal and external purposes, such as for regulatory compliance or for obtaining necessary permits.
-</thinking>
-
 # Movie Screening Rights Permission Form - Help Guide
 ## Purpose
 The Movie Screening Rights Permission Form is used to collect information about a movie screening event, ensuring that the necessary permissions and licenses are in place for hosting the event.

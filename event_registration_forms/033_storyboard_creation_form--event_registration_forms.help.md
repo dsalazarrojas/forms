@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from event attendees, speakers, and organizers about their expectations and experiences with the event. It is meant to be a helpful tool for organizers to understand their audience's needs and preferences. This form is not affiliated with any form platform, and its creation was inspired by public survey topics and industry categories. The form is released under a Creative Commons license, allowing for free use, modification, and distribution. If you're not sure what to do with this form, feel free to contact form@gic.mx.
-
-</thinking>
-
 # Storyboard Creation Form - Help Guide
 ## Purpose
 This form is designed to gather information about event attendees, speakers, and organizers to help improve the event experience.

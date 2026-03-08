@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sweet Corn Quality Assessment Form - Help Guide
 ## Purpose
 The Sweet Corn Quality Assessment Form is used to collect data on the quality attributes of sweet corn, allowing farmers to assess and compare the quality of their crops. This form is a crucial tool for farmers to track and analyze the yield, moisture level, color, and sweetness level of their sweet corn.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hearing Accessibility Request Form - Help Guide
 
 ## Purpose

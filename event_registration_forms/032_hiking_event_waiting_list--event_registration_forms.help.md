@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hiking Event Waiting List - Help Guide
 
 ## Purpose

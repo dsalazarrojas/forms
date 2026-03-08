@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from clients about their experience and satisfaction with your company's services. The goal is to assess areas of strength and weakness, identify opportunities for improvement, and gauge overall satisfaction. Please ensure that only one respondent from your team completes the form, and it is recommended that you complete the form within 24 hours of the audit. 
-
-This form is to be filled out after a Client Satisfaction Audit has been performed, hence no need to fill it out before.
-
-</thinking>
-
 # Client Satisfaction Audit - Help Guide
 ## Purpose
 The Client Satisfaction Audit is a form designed to collect feedback from clients about their experience with your company's services. The goal is to assess areas of strength and weakness, identify opportunities for improvement, and gauge overall satisfaction.

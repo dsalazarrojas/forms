@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and that users have a good understanding of what the form is for and what each question means. This form is for gathering feedback from end-users about their experience with the Social Networking App, and it should be used by app users to give us their honest opinion about the app's features and performance. To prevent duplicate feedback, users should only use this form once or after some time has passed since their last feedback submission.
-</thinking>
-
 # Social Networking App Feedback Survey - Help Guide
 ## Purpose
 

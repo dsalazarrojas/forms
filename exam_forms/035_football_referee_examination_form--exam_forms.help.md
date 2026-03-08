@@ -1,13 +1,3 @@
-<thinking>
-To provide clear and concise instructions, I'll first review the form's purpose and structure. This form is designed to examine the knowledge, skills, and experience of football referees. It is likely used to assess their understanding of the game and their ability to make decisions on the field.
-
-The form includes questions on decision-making skills, game knowledge, referee training hours, referee experience years, referee certificates, license numbers, and address. It seems that the form is not only meant to gauge the referee's knowledge but also to collect information about their background and qualifications.
-
-Before proceeding, let's ensure that the form is not a duplicate or redundant. If it's a duplicate or has similar sections, we might need to review the form's design and merge or remove unnecessary fields.
-
-With the above understanding, I'll create the help guide as per the provided YAML specification.
-</thinking>
-
 # Football Referee Examination Form - Help Guide
 ## Purpose
 The Football Referee Examination Form is designed to assess the knowledge, skills, and experience of football referees. It helps to evaluate their understanding of the game, decision-making skills, and background information.

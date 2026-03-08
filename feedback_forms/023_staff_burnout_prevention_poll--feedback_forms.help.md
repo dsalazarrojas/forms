@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Staff Burnout Prevention Poll - Help Guide
 ## Purpose
 

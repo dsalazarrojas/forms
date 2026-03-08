@@ -1,11 +1,3 @@
-<thinking>
-
-The "Book Club Author Visit Request Form" is used by book clubs to request author visits, which can be in person or virtual. The form is intended for clubs to propose a visit with an author, providing details about their club, the author they'd like to meet, and the logistics of the visit. Ensure the information provided is accurate and relevant to avoid duplicate or unnecessary requests.
-
-Before filling out this form, please check if the author you'd like to request hasn't already been proposed or confirmed for a visit with a different club.
-
-</thinking>
-
 # Book Club Author Visit Request Form - Help Guide
 ## Purpose
 The Book Club Author Visit Request Form is used to request an author visit for your book club. It's essential to provide accurate and relevant information to facilitate a successful visit.

@@ -1,8 +1,3 @@
-<thinking>
-To create a help guide for the "festival_experience_feedback_survey_form" form, I'll first review the provided YAML fields to understand the form's purpose and structure. This form appears to be a survey designed to collect feedback from users who attended a festival, with several sections to capture their overall experience. The form asks for general information such as event name, date, and time, rating and comments, and selection of pages viewed or experienced.
-
-</thinking>
-
 # festival_experience_feedback_survey_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users who attended a festival. It's meant to gather information about their experience, which will help improve future events.

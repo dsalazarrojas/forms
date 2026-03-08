@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Retention Strategy Evaluation Form - Help Guide
 ## Purpose
 The Volunteer Retention Strategy Evaluation Form is designed to collect feedback from volunteers about their experiences and suggestions for improving the volunteer program. This form will help us understand what aspects of the program are working well and where we can make improvements to better support our volunteers.

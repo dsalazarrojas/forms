@@ -1,10 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Site Signal Testing Survey" form. This form is designed to collect feedback from users about their experience with site signal strength, type, quality, performance, and any issues they may have encountered. The survey is intended to gauge the overall performance of our site's signal and provide valuable insights to help us improve the user experience. Please note that this survey is not intended to be completed by users who do not have a site signal to test, as they will not be able to provide meaningful feedback.
-
-This guide will walk you through each section of the form and explain each field in detail, so you can complete the survey confidently and accurately.
-
-</thinking>
-
 # Site Signal Testing Survey - Help Guide
 ## Purpose
 The "Site Signal Testing Survey" is designed to gather feedback about your experience with site signal strength, type, quality, performance, and any issues you may have encountered while using our site. Your input will help us identify areas for improvement and provide a better experience for all users.

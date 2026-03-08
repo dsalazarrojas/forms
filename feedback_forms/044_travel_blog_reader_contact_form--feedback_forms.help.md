@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is filled out correctly and efficiently by our travel blog readers. This form is used to gather feedback and information from readers about their experience with our blog and how we can improve. It's essential to understand the purpose of each field to avoid duplication of effort and irrelevant responses. Let's review the form fields to make sure everyone is on the same page.
-</thinking>
-
 # Travel Blog Reader Contact Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from our travel blog readers to improve our services and better understand their needs.

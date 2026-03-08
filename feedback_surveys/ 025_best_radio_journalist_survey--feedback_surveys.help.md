@@ -1,15 +1,3 @@
-<thinking>
-The form purpose is to collect feedback and survey responses from radio journalists. This form is intended to gather information on the quality of service, experience, and satisfaction of the radio journalists with the provided service. This form should be completed by radio journalists who have interacted with the service, and the responses will be used to improve the service's quality and effectiveness.
-
-Before proceeding, ensure you haven't filled out this form recently, and your responses are up-to-date and relevant. This will help us in accurately assessing the current state of our service and identify areas for improvement.
-
-The form is divided into the following sections:
-
-*   Personal information, which includes demographic details such as full name, email address, and phone number.
-*   Feedback on the service, which includes rating and comments on the primary selection, quantity or rating, and estimated value.
-*   Confirmations and closing remarks, such as agreement, estimated value, and final comments.
-</thinking>
-
 # Best Radio Journalist Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and survey responses from radio journalists. It is used to evaluate the service's quality, effectiveness, and overall satisfaction.

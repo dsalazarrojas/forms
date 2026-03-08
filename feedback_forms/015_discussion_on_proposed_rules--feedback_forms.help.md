@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for users to understand and complete the "Discussion On Proposed Rules" form. This form is used for users to provide feedback on proposed rules, which will help us improve the rules and make them more effective. The form is not a mandatory field for users, but it's essential for us to have feedback to make informed decisions. To ensure that we don't receive duplicate feedback, we'll be checking for similar submissions before publishing them. Please take a few minutes to read through this guide to understand each field and its purpose.
-</thinking>
-
 # Discussion On Proposed Rules - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on proposed rules, which will help us refine and improve them.

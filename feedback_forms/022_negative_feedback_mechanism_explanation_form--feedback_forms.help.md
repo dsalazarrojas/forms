@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a comprehensive tool for collecting feedback and tracking the progress of feedback and follow-up actions. Its purpose is to provide a structured format for documenting and addressing negative feedback, ensuring that feedback is actionable and followed up on effectively. The form is designed to gather specific details about the negative feedback, its root cause, resolution, and any follow-up actions taken. 
 
 </thinking>

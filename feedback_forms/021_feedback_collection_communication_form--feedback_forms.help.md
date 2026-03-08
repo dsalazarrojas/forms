@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and communication information from users. It is meant to be used for users to provide their contact details and feedback regarding a specific issue or concern. This form should not be used for general inquiries or other purposes. Please ensure that you only use this form for its intended purpose and not for duplicate or unrelated issues. 
-</thinking>
-
 # feedback_collection_communication_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and communication information from users, allowing our team to address specific issues and concerns efficiently. This form should be used for issues that require personal contact information and feedback.

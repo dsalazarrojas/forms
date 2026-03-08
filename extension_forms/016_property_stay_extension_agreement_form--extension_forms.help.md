@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document a property stay extension agreement between a tenant and a landlord. The purpose of this form is to ensure that both parties understand and agree on the terms of the extension. This form is not meant to be used for other purposes, such as rental applications or property sales. 
-</thinking>
-
 # Property Stay Extension Agreement Form - Help Guide
 ## Purpose
 The Property Stay Extension Agreement Form is a document that captures the details of an agreement between a property manager and a landlord to extend a stay period. This form is used to formalize the terms of the extension, including the start and end dates of the stay, and the duration of the extended stay.

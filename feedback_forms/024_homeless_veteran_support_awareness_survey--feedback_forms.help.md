@@ -1,12 +1,3 @@
-<thinking>
-The goal of the Homeless Veteran Support Awareness Survey form is to collect information from individuals about their experiences with homeless veterans. This form is intended to gather data on the support areas that are currently available to homeless veterans, as well as gather contact information from submitter. The data collected will help us to identify gaps in the support services and inform our future development of support programs for homeless veterans.
-
-This form does not need to be completed if you are already part of a local support organization. Only fill this form if you have direct contact with a homeless vet and are looking to help them find services. This form is intended to help us identify gaps in services available to homeless veterans, and we will not use your data to reach out to you for other purposes.
-
-Before submitting your survey, please review the form carefully to ensure you are providing accurate and complete information. If you are unsure about any of the fields, please ask your organization or contact us directly for clarification.
-
-</thinking>
-
 # Homeless Veteran Support Awareness Survey - Help Guide
 ## Purpose
 The Homeless Veteran Support Awareness Survey is a form designed to gather information from individuals who have direct contact with homeless veterans. The data collected will help us identify gaps in support services available to homeless veterans.

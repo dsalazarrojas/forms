@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Creative Writing Workshop Survey Form", we need to consider the following:
-
-* The form is used to gather feedback from participants who have attended the workshop.
-* It asks for information such as attendance, ratings, and suggestions.
-* The form has multiple pages with a variety of fields, including select, text, email, and date/time fields.
-* The fields are mostly required, except for "comments" and "suggestions" which are optional.
-* The form requires users to rate their satisfaction and provide reasons for their rating.
-* It also asks about the topics covered and outcomes achieved during the workshop.
-
-To avoid duplication, we will provide a concise and practical guide that covers the form's purpose, how to complete it, and a field-by-field explanation.
-
-</thinking>
-
 # Creative Writing Workshop Survey Form - Help Guide
 ## Purpose
 The Creative Writing Workshop Survey Form is designed to gather feedback from participants who have attended the workshop. This form helps us understand your experience, satisfaction, and any suggestions you may have.

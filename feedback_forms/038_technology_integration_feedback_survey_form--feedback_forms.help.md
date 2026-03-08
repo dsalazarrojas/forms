@@ -1,5 +1,3 @@
-<thinking>...We need to ensure that the form is only used for its intended purpose and to prevent users from accidentally submitting duplicate feedback. This form will collect feedback on technology integration, so we need to make sure users know what to expect and how to provide meaningful information.</thinking>
-
 # Technology Integration Feedback Survey Form - Help Guide
 ## Purpose
 The Technology Integration Feedback Survey Form is designed to collect feedback on the current state of technology integration within our organization. Your feedback will help us identify areas of improvement and provide valuable insights for future development.

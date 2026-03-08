@@ -1,10 +1,3 @@
-<thinking>
-To prevent confusion and duplication, the form is designed with the following checks in mind:
-- The form title and content should be clear and concise, making it easy for users to understand its purpose and what information is being requested.
-- Each field should have a unique and specific label, ensuring that users can easily distinguish between fields.
-- The form will only be submitted once all required fields are filled out, to prevent incomplete submissions.
-</thinking>
-
 # relax_kids_term_feedback_form - Help Guide
 ## Purpose
 This form is used to gather feedback from parents or caregivers about their experience with our organization, focusing on the relaxation and term experience of their child(ren).

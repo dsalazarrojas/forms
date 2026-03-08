@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form, the "store_feedback_collection_contact_form", is used to collect feedback from customers or visitors about their experiences with our store. It is not a required form for all customers, only for those who wish to share their thoughts and opinions. Before completing this form, please make sure you haven't already submitted feedback, as we want to avoid duplicates.
-
-</thinking>
-
 # store_feedback_collection_contact_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers or visitors about their experiences with our store. We value your input and want to hear about your thoughts, concerns, and suggestions.

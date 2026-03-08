@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from exhibitors interested in participating in the 2018 TNT Tech Fest event. The form is used to gather details about the exhibitor's company, booth requirements, and participation preferences. This information will be used to assign suitable booth spaces and plan for logistical arrangements. 
-
-We've reviewed the form fields and they seem to align with the expected information. We're not duplicating any existing forms or copying content from other platforms. This form is an original adaptation of the provided specifications and is released under the CC BY 4.0 license. If you'd like to use, modify, or even sell forms derived from this one, please give credit where due.
-
-</thinking>
-
 # 2018 TNT Tech Fest Exhibitor Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from exhibitors participating in the 2018 TNT Tech Fest event. It gathers details about the company, booth requirements, and participation preferences to assign suitable booth spaces and facilitate logistical arrangements.

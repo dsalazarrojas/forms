@@ -1,7 +1,3 @@
-<thinking>...this form is used to gather feedback on a course from students, focusing on specific aspects such as course content, organization, and rating. This feedback is crucial for instructors and course administrators to identify areas of improvement and make necessary adjustments. To avoid redundant feedback, please ensure that you have not already submitted a feedback form for this course.
-
-</thinking>
-
 # Economic Course Evaluation - Help Guide
 ## Purpose
 This form is designed to collect feedback from students on various aspects of an economic course, including content, organization, and rating. Your input will help instructors and administrators improve the course and provide a better learning experience.

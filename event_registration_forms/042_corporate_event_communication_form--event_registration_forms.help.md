@@ -1,7 +1,3 @@
-<thinking>
-This is an automated reasoning block to check for relevance and non-duplication. The form is for corporate events, and it appears to be a general registration form for such events. There might be other forms for other types of events, and it's essential to review and confirm that this form is not a duplicate of another form. Given the fields provided in the YAML, it seems this form is designed for collecting event information such as name, date, time, location, and contact details. The fields include a mix of text, date, time, and email fields, which is common for event planning. It's also worth noting that some fields, such as event_type and event_status, are select fields with options, which might need further clarification.
-</thinking>
-
 # corporate_event_communication_form - Help Guide
 ## Purpose
 The corporate_event_communication_form is a general event registration form designed to collect information about corporate events, allowing organizers to easily share event details with attendees.

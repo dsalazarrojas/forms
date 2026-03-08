@@ -1,16 +1,3 @@
-<thinking>
-The Gym Class Scheduling Preference Survey is designed to collect information about users' preferences for gym classes, including preferred days, classes, time slots, class duration, coaches, equipment, and other parameters. The purpose of this form is to help gym administrators schedule classes that cater to users' needs and preferences. 
-
-The form will ask users to select their preferred days of the week, class types (e.g., yoga, spinning, etc.), time slots, class duration, coaches, equipment, and other parameters, and will also ask users to provide any additional comments they may have. Users are not required to complete all the questions, as the form is self-explanatory and allows users to skip questions they are not interested in answering.
-
-To confirm, the following questions are not mandatory, but users can choose to answer them as per their preferences. This will help the gym administrators to have a better understanding of users' preferences and schedule classes accordingly.
-
-Before filling out the form, please note that users should only select options that they are genuinely interested in, as their preferences will be used to schedule classes. 
-
-Please fill out this form honestly, and do not hesitate to leave comments if you have any specific preferences or requirements not listed in the form.
-
-</thinking>
-
 # Gym Class Scheduling Preference Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your preferences for gym classes to help us schedule classes that cater to your needs.

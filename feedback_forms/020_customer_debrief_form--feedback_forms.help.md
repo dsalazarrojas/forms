@@ -1,7 +1,3 @@
-<thinking>
-We're using this form to gather feedback from customers after visiting our office. This form helps us understand their thoughts and suggestions to improve our services. Please ensure that you fill out the form completely, especially since it's required for us to process your feedback. This form should only be completed once after a visit; do not fill it out more than once. If you're filling this out as a staff member, please note that the internal notes field is optional and will only be visible to your colleagues.
-</thinking>
-
 # Customer Debrief Form - Help Guide
 ## Purpose
 The Customer Debrief Form is a tool used to gather feedback from customers after visiting our office. This feedback is essential for us to understand your thoughts and suggestions on our services, allowing us to make necessary improvements.

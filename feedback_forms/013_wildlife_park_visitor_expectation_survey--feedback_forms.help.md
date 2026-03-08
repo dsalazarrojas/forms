@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wildlife Park Visitor Expectation Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from visitors to our wildlife park. By providing us with your age, contact information, and visit details, you will help us better understand your expectations and experiences during your visit. This information will be used to improve our park facilities, services, and overall visitor experience.

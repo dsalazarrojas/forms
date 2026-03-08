@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to provide feedback on an event they have attended, specifically the "Open Evening" event. The purpose of this form is to gather information on the attendee's experience, rating, and any feedback they might have. It is essential to ensure that each field is filled in accurately and completely, as this information will help us improve the event for future attendees. Please ensure that you have attended the event and are providing genuine feedback. If you have already completed this survey, kindly do not fill it out again.
-</thinking>
-
 # Open Evening Feedback Survey - Help Guide
 
 ## Purpose

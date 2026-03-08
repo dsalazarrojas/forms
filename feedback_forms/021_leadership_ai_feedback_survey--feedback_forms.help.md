@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees on the effectiveness of leadership within the organization. The feedback will help to identify areas of improvement and provide insights on how to enhance leadership skills. The form is not intended to be a survey of opinions on sensitive topics, but rather to collect concrete data on perceptions of leadership performance. The form is also intended for internal use only and does not require personal identifiable information. This form should not be filled out by individuals who have not experienced direct supervision from the leadership being evaluated. Please ensure that you only provide your genuine feedback and opinions on the leadership effectiveness.</thinking>
-
 # Leadership AI Feedback Survey - Help Guide
 ## Purpose
 

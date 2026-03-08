@@ -1,12 +1,3 @@
-<thinking>
-This form is for collecting feedback from marketing conferences. The purpose of the form is to gather information about the quality of each session and the overall experience of the conference. The fields in this form are designed to be completed by attendees of the conference, and the data collected will be used to improve future conferences.
-
-To confirm relevance: The form is intended to capture feedback about a specific marketing conference, and its fields are tailored to collect relevant information about the sessions, speakers, and attendees' experiences. There should be no fields that are unnecessary or unrelated to the conference.
-
-Non-duplication check: A quick review of the form fields does not reveal any duplicated or unnecessary fields. The form appears to be well-structured and focused on capturing essential information about the conference.
-
-</thinking>
-
 # marketingConferenceFeedbackSurvey - Help Guide
 ## Purpose
 This form is designed to collect feedback from conference attendees to help us improve future marketing conferences.

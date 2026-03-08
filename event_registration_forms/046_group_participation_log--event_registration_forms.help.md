@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Group Participation Log - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the Restaurant Opening Evaluation Form, I need to analyze the provided YAML fields and ensure that the guide is concrete, concise, and practical. The form appears to be a multi-page form with various types of fields, including text, select multiple, number, date, time, note, and select one fields. 
-
-The form's purpose is likely to gather feedback or evaluation data from restaurant staff or customers after a restaurant opening. This form could be used to collect information on the quality of service, food, ambiance, and overall experience of the restaurant. 
-
-However, I don't have more information on the specific business logic or requirements of the form. Therefore, I will provide explanations based on the available fields and assume a general purpose of the form.
-
-</thinking>
-
 # Restaurant Opening Evaluation Form - Help Guide
 ## Purpose
 The Restaurant Opening Evaluation Form is designed to gather feedback and evaluation data from restaurant staff or customers after a restaurant opening. This form is used to collect information on the quality of service, food, ambiance, and overall experience of the restaurant.

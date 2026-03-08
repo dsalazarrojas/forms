@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Course Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from course participants about their experience with the online course. Your feedback is valuable to us, and we use it to improve and refine our courses to better serve you.

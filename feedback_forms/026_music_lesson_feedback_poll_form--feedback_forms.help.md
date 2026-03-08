@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users after a music lesson, allowing the instructor to assess their understanding of the material, gauge the effectiveness of the session, and identify areas for improvement.
-The purpose of this form is to gather feedback and suggestions from students to help the instructor improve their teaching and provide better experiences for future students.
-To ensure that the instructor is able to provide relevant and personalized feedback, the form will only be used for students who have actually attended a session with the instructor.
-</thinking>
-
 # Music Lesson Feedback Poll Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and suggestions from students after a music lesson, allowing the instructor to assess their understanding of the material, gauge the effectiveness of the session, and identify areas for improvement.

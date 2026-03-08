@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # team_dynamics_workshop_attendance_form - Help Guide
 ## Purpose
 This form is designed for participants to register their attendance to a team dynamics workshop. It gathers information about the participant, such as their name, email, and phone number, as well as details about the workshop, like date, time, and location.

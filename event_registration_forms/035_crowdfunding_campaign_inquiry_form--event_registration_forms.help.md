@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather information from supporters and potential supporters of a crowdfunding campaign to better understand their engagement and preferences. The form collects demographic and financial data, including the amount donated and frequency of donation, as well as the method of support, such as online, offline, or social media. This information will help the campaign organizers and administrators to create more targeted and effective campaigns. The form will not be used for any other purpose beyond this campaign.
-
-</thinking>
-
 # Crowdfunding Campaign Inquiry Form - Help Guide
 ## Purpose
 The Crowdfunding Campaign Inquiry Form is a tool used to collect information from supporters and potential supporters of a crowdfunding campaign. This form helps campaign organizers and administrators better understand campaign engagement and preferences.

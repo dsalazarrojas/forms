@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Homeopathy Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users regarding homeopathic treatments. It is meant to be a straightforward and user-friendly way to gather valuable insights and opinions from clients, helping our team to improve and refine our services.

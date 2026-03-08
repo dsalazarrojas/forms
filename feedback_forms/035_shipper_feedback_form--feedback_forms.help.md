@@ -1,5 +1,3 @@
-<thinking>Internal Note: This form is designed to gather feedback from customers on their shipping experiences. It should only be filled out by customers who have had a recent shipment experience and not by employees or other non-customers. This form is not intended to be filled out by non-customers or for any other purpose other than feedback on shipping experience. Please use this form to provide constructive feedback to help us improve our services. Thank you for taking the time to help us improve! </thinking>
-
 # Shipper Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers on their shipping experiences with our company.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about participants in a soccer camp, including their personal details, emergency contacts, and medical information. This form is likely used for registration and waiver purposes, ensuring that the camp has the necessary information to provide proper care and emergency response in case of an incident. This form appears to be a generic form and does not have any obvious specific requirements from the provided YAML. I will base the explanation and guidance on general best practices for forms.
-</thinking>
-
 # soccer_camp_waiver_form - Help Guide
 ## Purpose
 The Soccer Camp Waiver Form is used to collect information about participants in a soccer camp, including their personal details, emergency contacts, and medical information.

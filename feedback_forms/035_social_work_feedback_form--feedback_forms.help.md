@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from individuals who have received services from a social work organization. The form aims to understand their experiences and perceptions of the services provided, as well as their suggestions for improvement. This information will help the organization to better understand their clients' needs and preferences, and to make necessary adjustments to their services. By filling out this form, you will be providing valuable feedback that will contribute to the improvement of our services. Please note that your feedback will be kept confidential and will only be used for the purpose of quality improvement.
-</thinking>
-
 # Social Work Feedback Form - Help Guide
 
 ## Purpose

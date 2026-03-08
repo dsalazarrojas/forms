@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from customers about the delivery service provided. It helps us understand their experience and areas for improvement. Before filling out this form, please make sure you have read and understood the questions carefully. If you have already filled out this form, please do not submit it again.
-
-</thinking>
-
 # Delivery Service Feedback Consent Form - Help Guide
 ## Purpose
 This form is used to gather feedback from customers about their experience with our delivery service. It helps us identify areas for improvement and ensures we are providing the best possible service to our customers.

@@ -1,9 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Skin Tone Matching Experience Survey" form, explaining its purpose, how to complete it, and the meaning of each field.
-- This form aims to assess users' experiences with matching their skin tone to find the most suitable products or services for them.
-- To ensure the guide is helpful, we will review the form's design and content to understand what users need to know to complete it correctly.
-</thinking>
-
 # Skin Tone Matching Experience Survey - Help Guide
 ## Purpose
 This form is designed to help you find the best match for your skin tone. We'll ask you about your current skin tone, the tone you prefer, and your experience with matching your skin tone to find the most suitable products or services for you.

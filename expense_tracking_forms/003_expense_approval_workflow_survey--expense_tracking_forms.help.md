@@ -1,9 +1,3 @@
-<thinking>This help guide is designed to assist you in completing the Expense Approval Workflow Survey form. Please read this guide carefully to understand the purpose of the form and how to fill it out correctly.
-
-Before starting, please note that this form is meant to be used in an expense tracking process. It helps to streamline the approval process by capturing information about expenses and the approver's decisions. Make sure to fill out the form accurately and thoroughly to ensure that your expenses are approved correctly.
-
-This guide will walk you through each section of the form, explaining each field in detail.</thinking>
-
 # Expense Approval Workflow Survey - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is used for guests to provide information for a romantic getaway reservation. 
-The form has multiple pages and various fields where guests can input their details, travel dates, preferences, and payment information. The form requires guests to confirm their booking and provide contact information.
-</thinking>
-
 # Romantic Getaway Reservation Form - Help Guide
 
 ## Purpose

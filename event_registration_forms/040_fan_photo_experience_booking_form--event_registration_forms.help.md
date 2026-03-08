@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to register for a photo experience event. To ensure that event registration forms are not duplicated, the purpose of the form is to collect essential information from fans who are interested in attending a photo experience event, allowing the event organizers to manage event attendance and communication with attendees effectively. 
-
-The form is divided into several sections that cover different aspects of the event such as event date and time, attendee information, and contact details. Each section is designed to be completed by the user with clear labels and instructions to avoid confusion.
-</thinking>
-
 # Fan Photo Experience Booking Form - Help Guide
 ## Purpose
 The Fan Photo Experience Booking Form is a collection of information from fans interested in attending a photo experience event. This form helps event organizers manage event attendance and communication with attendees.

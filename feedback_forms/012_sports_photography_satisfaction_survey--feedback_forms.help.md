@@ -1,7 +1,3 @@
-<thinking>
-The form "sports_photography_satisfaction_survey" is used to gather feedback from clients who have used the sports photography service. This feedback will help us assess the quality of the service and make improvements for future clients. To ensure that the data collected is consistent and relevant, please note that only responses from clients who have actually used the service should be submitted through this form. Duplicate responses will be removed.
-</thinking>
-
 # sports_photography_satisfaction_survey - Help Guide
 ## Purpose
 

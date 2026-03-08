@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to collect feedback from workshop attendees on the Grant Writing Workshop. The purpose of the form is to gather information about the attendees' experiences and opinions on the workshop's content, organization, and materials. This feedback will help the organizers evaluate the workshop's effectiveness and identify areas for improvement. Please ensure that your feedback is relevant and not a duplication of previous comments.
-
-</thinking>
-
 # Grant Writing Workshop Feedback Form - Help Guide
 
 ## Purpose

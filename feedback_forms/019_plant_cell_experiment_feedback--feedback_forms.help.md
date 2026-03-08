@@ -1,9 +1,3 @@
-<thinking>
-To determine the form purpose, we need to understand the context in which it is being used. From the provided YAML, it appears that this form is for collecting feedback from students after a lab experiment. The form is likely used by instructors or lab supervisors to assess the effectiveness of the lab, get feedback from students, and identify areas for improvement.
-We should also check if this form is a duplicate or if there are similar forms with the same purpose. If it is a duplicate, we may need to merge the forms or eliminate one of them.
-Before creating the help guide, we need to confirm that the form fields are properly labeled and easy to understand. We should also ensure that the form is not too long or too complex for the end-users to complete.
-</thinking>
-
 # Plant Cell Experiment Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from students after a lab experiment. It helps instructors or lab supervisors to assess the effectiveness of the lab, get feedback from students, and identify areas for improvement.

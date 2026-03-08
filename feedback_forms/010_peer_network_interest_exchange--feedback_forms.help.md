@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to facilitate the exchange of information between members of a peer network, enabling them to identify potential connections and collaborations based on their interests, offer their skills and services, and address mutual needs. This form ensures that members can provide and receive valuable information about themselves and their peers, promoting a more efficient and effective network operation.
-
-The form is divided into several sections, each focusing on a specific aspect of the member's profile. Members will be prompted to provide their name, interests, offerings, and needs, as well as information about their connections with other members.
-
-To avoid duplication of efforts and ensure the accuracy of the information exchanged, the form is designed to check for relevance and non-duplication internally.
-
-</thinking>
-
 # Peer Network Interest Exchange - Help Guide
 ## Purpose
 The Peer Network Interest Exchange form is designed to facilitate the exchange of information between members of a peer network. By filling out this form, members can identify potential connections and collaborations based on their interests, offer their skills and services, and address mutual needs.

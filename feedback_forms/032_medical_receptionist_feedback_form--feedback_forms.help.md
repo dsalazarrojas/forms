@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used consistently and accurately by end-users. The form purpose is to collect feedback from patients on their experience with the front desk staff at the medical receptionist's office. This form will help us identify areas of improvement and ensure that our front desk staff provides excellent service to our patients. To prevent duplication, we should check the form submission history for similar feedback before allowing users to submit new feedback.
-</thinking>
-
 # medical_receptionist_feedback_form - Help Guide
 ## Purpose
 The medical receptionist feedback form is designed to collect feedback from patients on their experience with the front desk staff at our medical receptionist's office. This form will help us identify areas of improvement and ensure that our front desk staff provides excellent service to our patients.

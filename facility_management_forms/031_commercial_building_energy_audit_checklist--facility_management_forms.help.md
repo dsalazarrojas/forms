@@ -1,6 +1,3 @@
-<thinking>
-To avoid duplicating efforts, we should first check if this form is already being used within the organization or if there are any other forms that cover similar data points.
-</thinking>
 # Commercial Building Energy Audit Checklist - Help Guide
 ## Purpose
 This form is designed to help commercial building owners and operators conduct a comprehensive energy audit to assess the building's energy efficiency, identify areas for improvement, and estimate potential savings. It will help gather information about the building's energy usage, HVAC system, lighting and insulation, water heating, and overall energy efficiency.

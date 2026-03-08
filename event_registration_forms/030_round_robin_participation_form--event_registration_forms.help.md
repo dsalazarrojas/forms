@@ -1,10 +1,3 @@
-<thinking>
-This form was designed by AI to gather information from participants in a Round Robin Participation Form. Before proceeding, please ensure that the form purpose aligns with your needs and that the information requested is accurate and relevant to the context.
-
-The form consists of three sections: Participant Information, Session Information, and Time Information. Each section is designed to collect specific details from participants. Please complete the form carefully, ensuring that all required fields are filled correctly.
-
-</thinking>
-
 # Round Robin Participation Form - Help Guide
 ## Purpose
 This form is designed to collect participant information for a Round Robin Participation event. It is intended to be used by organizers and participants to gather necessary details for the event's management and communication.

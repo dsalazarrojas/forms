@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for Lean Six Sigma Certification Exam submissions. It is intended to be filled out by candidates seeking certification. The form should be relevant to individuals interested in obtaining certification, and its purpose should be clear. To ensure consistency, please ensure that all required fields are filled out accurately. The form is divided into two pages: Exam Submission and Candidate Information. The Exam Submission page collects data related to the exam such as exam date, location, and level. The Candidate Information page collects data about the candidate such as candidate name, email address, and phone number. Please note that some fields are optional.
-</thinking>
-
 # lean_six_sigma_certification_exam_form - Help Guide
 ## Purpose
 The lean_six_sigma_certification_exam_form is a form designed to collect information for Lean Six Sigma Certification Exam submissions. This form is intended for candidates seeking certification.

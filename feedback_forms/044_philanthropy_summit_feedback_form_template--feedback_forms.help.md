@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from attendees of the Philanthropy Summit, an event that brings together individuals and organizations focused on philanthropy and social impact. The purpose of this form is to gather insights and opinions from attendees to improve future events and enhance their overall experience. This form is not meant to be a comprehensive evaluation of the event, but rather a way to collect targeted feedback on specific aspects of the event.
-</thinking>
-
 # Philanthropy Summit Feedback Form Template - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of the Philanthropy Summit. Your input will help us improve future events and enhance your overall experience.

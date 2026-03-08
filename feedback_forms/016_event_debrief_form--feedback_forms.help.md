@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information and feedback about events, specifically the debriefing process. The form is intended to be used by individuals who have participated in or observed events, such as meetings, workshops, or conferences, to provide their account of what happened during the event, including the purpose, timing, location, duration, and debriefing process. The form is not meant to be a comprehensive survey, but rather a concise and structured collection of details to aid in improving future events. It is recommended to review the event before submitting the form, to ensure the information is accurate and complete. Please do not submit duplicate or irrelevant feedback. If you are unsure about any information, please contact us for assistance.
-</thinking>
-
 # Event Debrief Form - Help Guide
 ## Purpose
 

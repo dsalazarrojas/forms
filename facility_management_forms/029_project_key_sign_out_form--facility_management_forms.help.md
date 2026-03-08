@@ -1,7 +1,3 @@
-<thinking>
-The Project Key Sign Out Form is designed to track and record the status of project keys that have been signed out by employees. This form is typically used for project management and asset management purposes. It helps project managers and facility teams monitor and track project keys that are signed out for a project, ensuring that they are returned on time and in good condition. This form is a crucial tool for maintaining accurate records and preventing asset loss.
-</thinking>
-
 # Project Key Sign Out Form - Help Guide
 ## Purpose
 The Project Key Sign Out Form is a tool used to track and record the status of project keys that have been signed out by employees. It ensures that project keys are returned on time and in good condition, and helps project managers and facility teams maintain accurate records.

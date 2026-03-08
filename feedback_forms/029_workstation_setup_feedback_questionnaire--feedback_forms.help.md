@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback and data about the user's workstation setup, focusing on their experience, configuration, and rating. To ensure the form is filled out correctly, it's essential to follow these steps.
-
-1.  Ensure the workstation setup being evaluated is the one used during the user's normal work hours and workdays. This will help to get accurate feedback on how the workstation performs during peak usage periods.
-2.  Only fill out one workstation setup per form. Repeatedly filling the form for the same workstation will result in data being duplicated and not providing any additional value.
-3.  Fill in all required fields marked as 'required' in the form.
-4.  Use the correct date format for 'Rating' fields as per the provided format.
-5.  For fields asking for 'Yes/No' responses, please respond with 'Yes' or 'No' as per the options provided.
-
-</thinking>
-
 # Workstation Setup Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback and information about the user's workstation setup. The purpose of this form is to collect details about the user's workstation, including workstation description, configuration, rating, and other relevant feedback.

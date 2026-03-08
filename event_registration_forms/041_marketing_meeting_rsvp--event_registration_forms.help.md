@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is designed to assist users in understanding the purpose and requirements for completing the marketing meeting RSVP form. The form is intended for event registration, where users can provide their name, email, role, company, department, meeting date, meeting time, and meeting location. The form will help the event organizers to track the attendees' information and their preferences for the meeting.
-
-The form is not mandatory, and users can choose not to fill it if they don't want to be registered. However, please note that not providing the required information may cause issues with event planning and organization.
-
-</thinking>
-
 # marketing_meeting_rsvp - Help Guide
 ## Purpose
 This form is designed for event registration for marketing meetings. It helps event organizers to track attendees' information and preferences.

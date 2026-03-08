@@ -1,9 +1,3 @@
-<thinking>...
-This form is designed to collect information for setting up smart building alerts for facility management tasks. To ensure accurate data collection, review and follow these guidelines carefully.
-
-This form consists of several fields that require specific information for setting up smart building alerts. Please note that fields marked as "required" are necessary for the proper submission of this form.
-</thinking>
-
 # Smart Building Alert Setup Request Form - Help Guide
 ## Purpose
 

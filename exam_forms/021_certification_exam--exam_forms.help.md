@@ -1,18 +1,3 @@
-<thinking>
-This form seems to be a comprehensive certification exam form, designed to record various details related to a candidate's performance and examination experience. It appears to be used for internal administrative purposes, likely for certification administrators or proctors to track and evaluate exam progress and results.
-
-Before proceeding, it's essential to note that:
-
-- This form seems to be designed with a wide range of questions covering exam details, proctor information, and candidate performance.
-- Some questions are marked as "required," indicating they are necessary for accurate and complete information.
-
-To avoid duplication and ensure accurate completion, I will:
-
-- Review the form fields carefully to provide clear explanations and examples.
-- Ensure that the explanations cover all required and optional fields.
-
-</thinking>
-
 # Certification Exam - Help Guide
 ## Purpose
 The Certification Exam form is used to record and track details related to a candidate's certification exam, including exam date, time, location, and performance. This form helps certification administrators and proctors monitor and evaluate exam progress and results accurately.

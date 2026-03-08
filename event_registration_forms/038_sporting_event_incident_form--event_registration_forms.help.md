@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to capture information about incidents that occur during sporting events. The form is designed to be completed by individuals who witness or report incidents, such as coaches, athletes, or officials. The form's purpose is to collect details about the incident, including the date, description, and any medical treatment provided. This information can be used to improve the overall safety and management of sporting events.
-
-This form may be completed multiple times during an event, and each submission is a new incident report. It's essential to fill out each field accurately and completely to provide a detailed record of the incident.
-
-When filling out this form, consider the following:
-
-* Only enter information about incidents you have witnessed or are aware of.
-* Be as detailed as possible when describing the incident and any injuries involved.
-* If an athlete receives medical treatment, select all applicable options.
-* If the reporting person is not the athlete, enter their name and contact information.
-* Make sure to submit each form for each incident separately.
-
-</thinking>
-
 # Sporting Event Incident Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents that occur during sporting events.

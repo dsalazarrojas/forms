@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to gather information from users about their interest in participating in a dual meet event. The form will collect data on user availability on meet day, their team name, coach name, school name, contact information (email and phone), and any additional notes or event details. This information will help us understand who is interested in participating and how to coordinate the logistics of the event. Please make sure to fill out this form honestly and thoroughly to ensure we can best tailor the event to meet your needs.
-</thinking>
-
 # Dual Meet Participation Interest Survey - Help Guide
 ## Purpose
 This guide will walk you through how to complete the Dual Meet Participation Interest Survey form.

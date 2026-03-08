@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Session Feedback Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to gather feedback and suggestions for new product features from customers. The purpose of this form is to understand customer needs and preferences regarding new product features. It will help our team to identify which features to prioritize next.
 
 # Product Feature Priority Poll - Help Guide

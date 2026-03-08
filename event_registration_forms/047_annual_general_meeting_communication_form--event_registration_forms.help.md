@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Annual General Meeting Communication Form", we need to understand its purpose and how it will be used. This form appears to be designed for members to provide feedback, proposals, and updates to the organization during the Annual General Meeting. It allows members to share their thoughts, ideas, and concerns, which will likely be used to inform decision-making and improve the organization's activities.
-
-Before we proceed, let's review the form's fields to ensure we cover everything. The form includes various sections such as Member Information, Meeting Feedback, Proposals or Ideas, Involvement and Participation, Communication Preferences, and Additional Comments. Each section seems to cater to the needs of the members, providing a channel for feedback and input.
-
-To avoid duplication, this guide will focus on the essential fields and provide a clear explanation of each section, making it easy for users to navigate and complete the form.
-
-</thinking>
-
 # Annual General Meeting Communication Form - Help Guide
 ## Purpose
 

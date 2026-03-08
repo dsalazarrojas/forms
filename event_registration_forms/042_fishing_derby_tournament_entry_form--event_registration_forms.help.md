@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from anglers participating in a fishing derby tournament. The form will likely be used to gather demographic data, fishing techniques, and other relevant details from participants. It's essential to fill out the form accurately to ensure that your entry is valid and eligible for the tournament. Please review the form carefully and fill it out accordingly. If you have any doubts or concerns, please contact the tournament organizers for clarification.
-</thinking>
-
 # Fishing Derby Tournament Entry Form - Help Guide
 ## Purpose
 This form is used to register participants for a fishing derby tournament. It collects demographic information, fishing details, and other relevant data from anglers.

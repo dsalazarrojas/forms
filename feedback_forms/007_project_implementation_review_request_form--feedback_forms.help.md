@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to request a review of a project implementation for quality assurance, which is crucial for identifying areas of improvement and ensuring that the project meets the required standards. This form is typically used by team members, project managers, or stakeholders to gather feedback on project implementation and suggest changes or improvements as needed.
-
-This form is not intended to be filled out multiple times for the same project, so please ensure that the project status is accurate and up-to-date. The form fields are designed to collect relevant information from the person requesting the review, and any information not provided can lead to incomplete or inaccurate reviews.
-</thinking>
-
 # Project Implementation Review Request Form - Help Guide
 ## Purpose
 The Project Implementation Review Request Form is a tool for requesting a review of project implementation to ensure that it meets the required standards.

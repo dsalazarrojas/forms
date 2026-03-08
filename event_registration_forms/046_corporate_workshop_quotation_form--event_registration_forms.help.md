@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and concise for the end-users, while providing enough information for them to make informed decisions. The form should cover all the necessary fields that will allow us to provide accurate quotations for the corporate workshops. We should check if the form is being filled out correctly to avoid any issues or errors. This form will be used by internal and external customers to register their interest in attending corporate workshops. We should also make sure that the form is not being filled out for any other purpose.
-</thinking>
-
 # Corporate Workshop Quotation Form - Help Guide
 ## Purpose
 The Corporate Workshop Quotation Form is a tool for customers to register their interest in attending corporate workshops. It is used to gather information about the workshop, including the topic, location, dates, and other relevant details. This form will help us provide accurate quotations for the workshop.

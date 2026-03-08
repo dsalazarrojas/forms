@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # P2P Crypto Trading Feedback - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from event planners for wedding childcare service requests. The form likely aims to determine the level of childcare support needed for an upcoming wedding event. The form fields are designed to gather relevant details such as contact information, event specifics, and childcare requirements. Before filling out this form, event planners might want to review their event details to ensure accuracy. To avoid duplication of requests, they may also want to check if a similar request has been made previously. This form should only be filled out by the person responsible for planning the wedding event.
-</thinking>
-
 # Wedding Childcare Service Request Form - Help Guide
 ## Purpose
 This form is used to collect information for wedding childcare service requests. It helps event planners provide essential details for our team to prepare for your event.

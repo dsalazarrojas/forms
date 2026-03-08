@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture user feedback and subscription information for the Survey Platform. The goal is to understand the user's experience with the platform and their interest in subscribing to it. The form is used to collect data on the user's email, company name, phone number, feedback, subscription frequency, subscription length, survey questions, subscription status, and any additional notes. This form will help us to identify areas of improvement and understand our users' needs better.
-
-</thinking>
-
 # Survey Platform Subscription Form - Help Guide
 ## Purpose
 This guide will walk you through the Survey Platform Subscription Form to help you understand its purpose and usage.

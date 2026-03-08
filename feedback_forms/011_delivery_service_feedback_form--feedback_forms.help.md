@@ -1,11 +1,3 @@
-<thinking> 
-The form "delivery_service_feedback_form" is designed to collect feedback from customers about their experience with a delivery service. The purpose of this form is to gather insights on the quality of the delivery experience, customer satisfaction, and areas of improvement. To ensure accurate feedback, please complete the form with as much detail as possible. 
-
-Please note that this form may be part of a larger feedback system, and some fields may have further instructions or follow-up questions based on your responses. 
-
-Before proceeding, double-check if you have already provided feedback on this delivery service. 
-
-</thinking>
 # delivery_service_feedback_form - Help Guide
 ## Purpose
 The "delivery_service_feedback_form" is designed to collect feedback from customers about their experience with a delivery service, aiming to improve the service quality and overall customer experience.

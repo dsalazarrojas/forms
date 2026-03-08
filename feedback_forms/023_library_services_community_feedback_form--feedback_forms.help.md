@@ -1,15 +1,3 @@
-<thinking>
-
-This form, "library_services_community_feedback_form", is intended to collect feedback from the community about the services offered by the library. It is meant to be completed by library users to provide their opinions, suggestions, and comments about the library's services, facilities, and staff. 
-
-Internal reasoning: This form aims to gather valuable insights that can help improve the quality of library services, identify areas of improvement, and provide a platform for users to express their satisfaction or concerns.
-
-To avoid duplication, users are not required to complete this form if they have already submitted feedback within the last 30 days.
-
-Please note that this form is only accessible to authorized users, and any feedback submitted will be reviewed and addressed by library staff.
-
-</thinking>
-
 # library_services_community_feedback_form - Help Guide
 ## Purpose
 The "library_services_community_feedback_form" is a form designed to collect feedback from library users about the services and facilities offered by the library. This feedback will help us improve our services and better serve the community.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be used by employees who need to register their attendance at a trade show. The purpose of this form is to gather information about the employee's attendance, including their name, job title, the date and times of the event, and the name of the trade show. This form is likely used by HR or management to track employee attendance and attendance policies.
-
-The form does not require any specific business logic or knowledge of proprietary systems, so it should be straightforward and simple for end-users to complete. It is also not affiliated with or endorsed by any form platform, so you can use it freely.
-
-</thinking>
-
 # Trade Show Attendance Time Off Form - Help Guide
 ## Purpose
 The Trade Show Attendance Time Off Form is designed to record an employee's attendance at a trade show. The form gathers essential information to help the employee and their manager keep track of their time off.

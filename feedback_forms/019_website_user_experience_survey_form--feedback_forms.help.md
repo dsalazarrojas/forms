@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and user experience data from website visitors. The purpose of this form is to gather information on how users perceive the website's overall quality, favorite features, ease of navigation, and any feedback or suggestions they may have. This data will help the website owners improve and refine their online presence, ultimately enhancing the user experience.
-
-The form is an original creation, not affiliated with or derived from any other form platforms, and is released under a Creative Commons Attribution 4.0 license. Users are free to use, modify, and even sell forms derived from this template, as long as they give proper credit.
-
-</thinking>
-
 # Website User Experience Survey Form - Help Guide
 ## Purpose
 

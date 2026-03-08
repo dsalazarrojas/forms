@@ -1,8 +1,4 @@
-> <thinking>
-The Fitness Center Health Compliance Audit Form is a critical tool for ensuring the health and safety standards of fitness centers. It serves as a self-reporting mechanism for health and safety inspectors to record and report their findings regarding compliance with relevant laws, regulations, and standards. The form will help inspectors identify areas of non-compliance and provide recommendations for improvement. It is not intended to be used for other purposes, such as customer feedback.
-</thinking>
-
-# Fitness Center Health Compliance Audit Form - Help Guide
+> # Fitness Center Health Compliance Audit Form - Help Guide
 ## Purpose
 
 This form is designed to help fitness center health and safety inspectors conduct regular audits to ensure compliance with relevant laws, regulations, and standards. It is intended to be a comprehensive guide for identifying and reporting potential health and safety risks and providing recommendations for improvement.

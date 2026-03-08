@@ -1,9 +1,3 @@
-<thinking>Let's break down the form and provide a clear explanation for end users.
-
-The purpose of this form is to gather feedback from users about their infrastructure experience. This form helps us understand how users perceive our services, which can inform improvements and enhance their overall experience. Please ensure you only complete this form once for each service experience. If you have already submitted feedback for the same service, your existing feedback will be updated.
-
-</thinking>
-
 # Infrastructure Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect your thoughts about our infrastructure services. Your input will help us identify areas for improvement and ensure you have a great experience with our services.

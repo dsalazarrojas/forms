@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the Temporary Public Safety Plan Application Form. It is crucial to note that this form is for event organizers who require a temporary public safety plan due to a specific event or situation. Please ensure you are filling out this form for the correct purpose and do not attempt to submit a duplicate request. This form is not intended for general inquiries or other events that do not require a temporary public safety plan. Please review the form fields carefully to ensure you are providing the necessary information for a successful event.
-</thinking>
-
 # Temporary Public Safety Plan Application Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather feedback and information from exhibitors about their experiences and interactions with our event. We want to hear about their opinions on various aspects of the event, including event details, comments, ratings, and other relevant information. Please complete this form carefully and accurately to help us improve our event.
-Before submitting this form, ensure that you have reviewed and understand the following:
-* The form is not a duplicate survey, and your answers will be used to improve the event only.
-* Your feedback is voluntary, and your responses will be treated with respect and confidence.
-</thinking>
-
 # exhibitor_survey_form - Help Guide
 ## Purpose
 The exhibitor_survey_form is a collection of questions and fields designed to gather feedback and information from exhibitors about their experiences and interactions with our event. This form is meant to help us understand their perspectives and make improvements for future events.

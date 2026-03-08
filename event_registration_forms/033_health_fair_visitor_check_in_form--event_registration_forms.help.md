@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by visitors to a health fair to provide their details and indicate their interest in various services. To ensure that each visitor's experience is accurate and efficient, it's essential to complete this form correctly. Please review the following guide to understand how to fill out the form properly.
-</thinking>
-
 # health_fair_visitor_check_in_form - Help Guide
 ## Purpose
 This form is designed for visitors to the health fair to provide their contact information and indicate their interest in various services offered during the event.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the rental experience of a venue. The purpose of this form is to collect information about events hosted at the venue, including the type of event, date, start and end times, number of guests, and overall experience. This information will help the venue management team to improve their services and provide better experiences for future events.
-
-This form is intended for event organizers and participants who have experienced an event at the venue. The form is divided into several sections, and each section is designed to gather specific information. Please ensure that you answer all the required fields to provide a complete and accurate feedback.
-
-Please note that the form is designed to be completed by one person per event.
-
-</thinking>
-
 # venue_rental_experience_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the rental experience of a venue.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Customer Service Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience with our retail store's customer service. This will help us understand how we can improve our services and provide better experiences for our customers.

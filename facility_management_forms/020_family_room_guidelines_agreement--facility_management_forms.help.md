@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect visitor information and agreement to guidelines for family rooms in a facility. The form is used to ensure that visitors understand and agree to the guidelines set forth by the facility management.
-</thinking>
-
 # Family Room Guidelines Agreement - Help Guide
 ## Purpose
 This form is a agreement for visitors to understand and confirm the guidelines for family rooms in the facility. It is a required form for all visitors to complete before entering the family rooms.

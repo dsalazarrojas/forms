@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for chapter updates, which aim to inform members about the latest activities, needs, and announcements within the chapter. This guide will walk you through the process of completing the "Chapter Updates Survey" form, explaining each field in detail to ensure you have a clear understanding of what to expect.
-</thinking>
-
 # Chapter Updates Survey - Help Guide
 ## Purpose
 The "Chapter Updates Survey" is a form designed to gather information about updates within the chapter. It's essential to complete this form to inform members about the latest activities, needs, and announcements. By filling out this form, you'll be providing valuable insights to help chapter members stay informed and involved.

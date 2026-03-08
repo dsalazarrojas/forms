@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create an effective user-facing help guide for the "Eye Anatomy Knowledge Quiz" form, let's consider the form's purpose, how to complete it, and what each field means.
 
 The form "Eye Anatomy Knowledge Quiz" is designed to test the user's knowledge about different parts of the eye. The form will ask the user to select an option and provide a text response for each of the five eye parts: sclera, iris, pupil, retina, and lens. After selecting the options and providing text responses, the user will be able to submit their answers.

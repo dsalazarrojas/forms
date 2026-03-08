@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for employees to submit reimbursement claims for Vision Care related expenses. The purpose of this form is to collect relevant information and documentation necessary for processing and approving these claims. Please make sure to fill out the form completely and accurately to ensure a smooth processing and approval process.
-
-</thinking>
-
 # Vision Care Hsa Reimbursement Claim Form - Help Guide
 ## Purpose
 The Vision Care Hsa Reimbursement Claim Form is a form used to submit reimbursement claims for Vision Care related expenses. It is essential to fill out the form accurately and completely to ensure that your claim is processed and approved correctly.

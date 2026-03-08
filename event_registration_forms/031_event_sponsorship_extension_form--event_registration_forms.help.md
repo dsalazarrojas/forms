@@ -1,11 +1,3 @@
-<thinking>
-This form is likely for events or conferences that are looking for sponsorships from external organizations or individuals. The form is meant to help event organizers collect information from potential sponsors about their willingness to sponsor the event, their contact information, and other relevant details.
-To ensure that you're using the form correctly, please note that:
-- This form is not a contract, but rather a way for event organizers to gauge interest and gather information from potential sponsors.
-- The form is not intended to be a one-stop-shop for all event details, but rather a starting point for further discussion and communication between the event organizers and potential sponsors.
-- The form is not a replacement for any existing processes or procedures that your organization may have in place for handling event sponsorships.
-</thinking>
-
 # Event Sponsorship Extension Form - Help Guide
 ## Purpose
 The Event Sponsorship Extension Form is a tool used by event organizers to collect information from potential sponsors about their interest in sponsoring an event or conference.

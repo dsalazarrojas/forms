@@ -1,5 +1,3 @@
-<thinking>... This form is used to collect feedback from customers after their interaction with our service. It is meant to gauge their overall experience and satisfaction with our service, as well as their perception of our communication skills, responsiveness, empathy, conflict resolution, and overall satisfaction. This form will help us identify areas of improvement to better serve our customers in the future. To avoid duplication of effort, please only complete this form once per interaction.</thinking>
-
 # Rate Your Experience Form - Help Guide
 ## Purpose
 The Rate Your Experience Form is a survey designed to collect feedback from customers about their interaction with our service. It aims to understand how satisfied they are with our service, communication, responsiveness, empathy, conflict resolution, and overall experience.

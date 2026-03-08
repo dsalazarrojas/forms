@@ -1,21 +1,3 @@
-<thinking>
-This form is used for uploading conference call documents. The purpose of this form is to collect information and attachments from individuals or teams that are involved in a conference call, such as meeting agendas, minutes, or presentation documents. 
-
-The main fields in this form are:
-
-* Meeting date: The date of the conference call
-* Uploader name: The person uploading the document
-* Document purpose: The type of document being uploaded (e.g. agenda, minutes, or supporting document)
-* Access permissions: Who can view this document (public, internal only, or restricted)
-* Notes for participants: Any additional instructions or information for viewers
-* Contact email: The contact email for any document-related questions or concerns
-* Confidentiality notice: Read-only guidance on handling sensitive documents
-* Version number: A version number for tracking document changes
-* Submission reference: A system-generated ID for reference after document upload
-
-This form ensures that all required fields are filled out, which are marked as required. Please make sure to fill out all required fields accurately and thoroughly.
-</thinking>
-
 # Conference Call Document Upload - Help Guide
 ## Purpose
 This form is used for uploading conference call documents. It is a crucial part of the conference call process, allowing team members to easily share and track conference call information.

@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Tournament Spectator Facilities Survey form, we need to first determine the form's purpose and ensure it's relevant and non-duplicative.
-
-The form's purpose appears to be to gather feedback from tournament spectators about various aspects of the event's facilities, such as food services, restrooms, parking facilities, concessions, and overall experience. This feedback can help event organizers understand what improvements to make to provide better services for attendees.
-
-Before proceeding, let's check if the form is not duplicating any information already gathered. Based on the provided YAML, it seems that the form is collecting feedback on different aspects of the event's facilities, such as food services, restrooms, and overall experience. However, it's essential to review the form's content carefully to ensure it's not collecting redundant or overlapping information.
-
-</thinking>
-
 # Tournament Spectator Facilities Survey - Help Guide
 ## Purpose
 

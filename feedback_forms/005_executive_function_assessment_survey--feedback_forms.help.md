@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the executive functions of a child. Executive functions are high-level cognitive processes that allow individuals to plan, organize, and problem-solve. This form will help you gather feedback on the executive functions of a child, with the option to submit or save and come back later.
-
-Note to self: This form has a large number of "executive function" fields, suggesting that it might be used for a detailed assessment or evaluation of a child's abilities. Before filling out this form, ensure that you have a clear understanding of the executive functions being assessed and the context in which this form is being used.
-
-This guide will walk you through how to complete each section of the form, which includes selecting executive function options, entering dates and names, and submitting the form.</thinking>
-
 # executive_function_assessment_survey - Help Guide
 ## Purpose
 This form assesses a child's executive functions.

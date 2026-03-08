@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Suggestions And Solutions - Help Guide
 ## Purpose
 This form is designed to collect suggestions and solutions from community members, allowing us to understand their needs and concerns. It helps us gather information about issues and ideas from various categories, such as public safety, transportation, and parks and recreation. By submitting your suggestions, you contribute to the improvement of our community.

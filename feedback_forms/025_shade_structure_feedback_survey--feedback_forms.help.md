@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users on the shade structure, which is likely related to a specific shade or outdoor shelter. The purpose of this form is to gather information about the shade structure's functionality, usability, and overall satisfaction. The feedback will help the development team identify areas of improvement and make necessary adjustments.
-This form is designed to be completed by users who have experience with the shade structure and can provide valuable insights to improve its design and functionality.
-The feedback form has multiple pages, and users will need to complete each page in order to provide a comprehensive feedback.
-It's essential to ensure that each field is completed as per the required and optional fields marked in the form.
-
-</thinking>
-
 # Shade Structure Feedback Survey - Help Guide
 ## Purpose
 The Shade Structure Feedback Survey is a tool designed to collect feedback from users on the shade structure's functionality, usability, and overall satisfaction. This feedback will help the development team identify areas of improvement and make necessary adjustments to enhance the user experience.

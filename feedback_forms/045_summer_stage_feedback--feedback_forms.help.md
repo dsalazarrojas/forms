@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about a summer stage event. This form ensures that event organizers can receive valuable insights and suggestions for future improvements. To prevent duplication, the form is intended for event attendees to submit feedback for a specific event that they have attended. Please ensure that you only submit feedback for events that you have actually participated in.
-</thinking>
-
 # Summer Stage Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from event attendees to help event organizers improve future summer stage events. Please take a few minutes to share your thoughts and suggestions about the event you attended.

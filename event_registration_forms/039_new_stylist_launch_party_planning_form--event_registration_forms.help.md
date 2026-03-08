@@ -1,9 +1,3 @@
-<thinking>
-This guide will explain the "new_stylist_launch_party_planning_form" form's purpose, how to complete it, and each field's meaning.
-The form is used for planning and registering a launch party event for a new stylist. It's likely that this form is used internally within a company or organization that manages events for stylists. The purpose of the form is to collect relevant information about the event, such as date, time, location, and type. The form will likely be filled out by the event planners or coordinators.
-This guide will ensure that the end-users understand what information is required and how to fill out the form correctly.
-</thinking>
-
 # new_stylist_launch_party_planning_form - Help Guide
 ## Purpose
 

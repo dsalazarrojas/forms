@@ -1,5 +1,3 @@
-<thinking>As a facilities management professional, the Restroom Supplies Reorder Form is designed to facilitate the efficient ordering of restroom supplies for your facility. This form should only be completed by authorized personnel, ensuring that the ordering process is streamlined and accurate. Before starting, please ensure that you are completing this form to reorder supplies for the correct facility and that you have permission to do so. If you are unsure or have already completed this form for the same facility within the past week, please refrain from completing it again.</thinking>
-
 # Restroom Supplies Reorder Form - Help Guide
 ## Purpose
 The Restroom Supplies Reorder Form is a tool used to request the reordering of restroom supplies for your facility. This form should only be completed by authorized personnel to ensure accurate and timely ordering.

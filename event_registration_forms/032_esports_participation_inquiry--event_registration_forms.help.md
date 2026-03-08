@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be a simple and straightforward way to gather information from players about their participation in esports events. It has three main fields: Player Details, Event Details, and Follow-up Details. This form is intended for players to report their participation in esports events, and the fields are designed to collect relevant information to facilitate this process. 
-
-The form is not meant to be used for other purposes such as event registration, data collection, or surveying, but rather as a tool for players to report their own participation in esports events.
-
-Before proceeding, please ensure that you are using this form for its intended purpose and that the information collected is accurate and relevant.
-
-</thinking>
-
 # esports-participation-inquiry - Help Guide
 ## Purpose
 This form is designed to help players report their participation in esports events.

@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is meant to collect feedback from users about their experience with WordPress, likely from agents handling their requests or issues. The purpose of this form is to provide a simple and easy-to-use interface for users to share their thoughts, comments, or suggestions. To avoid duplication, we will not allow multiple submissions from the same user. This form will be used to improve the overall user experience and provide valuable insights for the development team to improve the platform...</thinking>
-
 # WordPress Agent Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with WordPress. It's a simple way to share your thoughts, comments, or suggestions with our team.

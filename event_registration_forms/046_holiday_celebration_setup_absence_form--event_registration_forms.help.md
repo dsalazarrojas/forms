@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for employees who need to fill out the "Holiday Celebration Setup Absence Form" when requesting time off for a holiday celebration. Please note that employees must be registered in the system and have an active account to submit this form. Before filling out the form, ensure that you have the necessary permissions to do so.
-</thinking>
-
 # Holiday Celebration Setup Absence Form - Help Guide
 
 ## Purpose

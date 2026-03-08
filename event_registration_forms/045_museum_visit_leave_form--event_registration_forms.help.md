@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to capture information from employees seeking to request a museum visit on behalf of their company or organization. The purpose of this form is to provide a standardized way for employees to submit their leave requests, including details about their visit start and end dates, employee and manager information, and other relevant details. This form will help the museum administration to efficiently manage and process these requests.
-
-Before proceeding, please note that:
-
-* This form is intended for employees, not for external visitors or other entities.
-* Each field is required unless specified otherwise in the form itself.
-* Please fill out the form accurately and completely to ensure efficient processing.
-
-</thinking>
-
 # Museum Visit Leave Form - Help Guide
 ## Purpose
 

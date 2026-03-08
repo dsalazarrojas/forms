@@ -1,17 +1,3 @@
-<thinking>... internal reasoning and sanity checks ...
-
-The Science Center Evaluation Form is a crucial tool for gathering feedback and insights from visitors to our Science Center. It's essential to understand that this form is not a mere collection of questions, but a carefully crafted instrument to capture the visitor's experience and sentiment. This form will help us identify areas of improvement and optimize our services to create a more enjoyable and enriching experience for our visitors.
-
-To ensure the accuracy and usefulness of the collected data, we need to be mindful of the following guidelines:
-
-* Make sure you have a valid email address to receive our follow-up questions or surveys.
-* Be honest and sincere in your feedback, as it will help us understand our strengths and weaknesses.
-* Select the most suitable option for each question, based on your actual experience.
-* If a question doesn't apply to your experience, please select "N/A" (Not Applicable) or "Don't know".
-* Take your time to provide thoughtful and detailed feedback, as it will greatly help us improve our services.
-
-</thinking>
-
 # Science Center Evaluation Form - Help Guide
 ## Purpose
 The Science Center Evaluation Form is designed to gather feedback from visitors to help us improve our services and create a more enjoyable and enriching experience for everyone. Your input is invaluable in helping us understand what we do well and what we can do better.

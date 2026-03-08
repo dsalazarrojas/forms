@@ -1,12 +1,3 @@
-<thinking>
-As a form designer and technical writer, I will ensure that this user-facing help guide is clear, concise, and meets the required structure and style. I will analyze the provided YAML fields to understand the form's purpose and create a comprehensive guide that explains each field's purpose. I will also consider the context of the form and provide practical tips to make it user-friendly.
-
-Before creating the guide, I want to confirm that the form is intended for event registration and waiver purposes, likely for a gaming tournament. This form is likely required for participants to register and sign a waiver before participating in the tournament. 
-
-The form appears to be well-structured, with clear labels and hints for each field. However, some fields may require further explanation to ensure users understand their purpose and requirements.
-
-</thinking>
-
 # Gaming Tournament Waiver Form - Help Guide
 ## Purpose
 This form is designed for participants to register and sign a waiver before participating in a gaming tournament. It collects essential information about the participant, their contact details, and the waiver signature.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from pet owners after a pet sitting session. The purpose of this form is to gather information about the quality of service provided by the pet sitter, as well as any additional comments or concerns the pet owner may have. This feedback will help the pet sitting service to improve their quality of service and make future visits more enjoyable for both the pet and the owner. 
-
-The form is divided into several sections: Visit Date, Pet Name, Visit Type, Sitter Name, Sitter Rating, Feedback, Follow Up Request, Service Quality, Additional Comments, Signature, Pet Owner Signature, Sitter Signature, Date Modified.
-</thinking>
-
 # Pet Sitter Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from pet owners after a pet sitting session.

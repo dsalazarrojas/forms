@@ -1,9 +1,3 @@
-<thinking>
-  This form is meant to gather information about the awareness and usage of civic technology among the general public. The purpose of this survey is to understand how people interact with government apps, websites, and other digital tools, and what features they would like to see in these technologies. This form is not affiliated with any specific government agency or organization, and the data collected will be used for research and development purposes only.
-
-  Before starting the survey, please make sure you have not already completed it. If you have, your response will not be recorded or counted in the results.
-</thinking>
-
 # Civic Technology Awareness Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your awareness, usage, and preferences regarding civic technology. The data collected will help us understand how people interact with government apps, websites, and other digital tools, and what features they would like to see in these technologies.

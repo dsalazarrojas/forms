@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "Transaction Coordination Feedback" form is to provide a platform for collecting feedback from clients and agents after a transaction has occurred. This form is likely used in a customer support or customer service context to gather information on the quality of service provided by agents and to identify areas for improvement. 
-
-Before completing this form, please ensure that you have a genuine reason for submitting feedback, and that the transaction in question is indeed related to your experience. If you have already provided feedback on this transaction, please be aware that duplicate submissions may not be accepted.
-
-With that in mind, let's proceed to the instructions on how to complete this form.</thinking>
-
 # Transaction Coordination Feedback - Help Guide
 ## Purpose
 The purpose of this form is to provide a platform for clients and agents to share their feedback on the transaction coordination experience. This feedback is valuable in helping us improve our services and ensure that your needs are met.

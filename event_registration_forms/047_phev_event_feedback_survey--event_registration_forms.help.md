@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## PHEV Event Feedback Survey - Help Guide
 
 ## Purpose

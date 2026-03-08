@@ -1,15 +1,3 @@
-<thinking>
-
-The "visit_entertainment_venues_form" is designed to collect information about events held at entertainment venues. This form is used to gather event details such as the name, date, time, location, and description of the event, as well as visitor registration information including name, email, phone number, and any additional message or feedback. 
-
-The purpose of this form is to ensure that event organizers have accurate and up-to-date information about each event, and that visitors can provide their contact details to facilitate effective communication and follow-up.
-
-The form is likely used by event organizers or venue staff to collect information from visitors before or after an event, and to store this data for future reference or for tracking purposes.
-
-To prevent duplication of effort, please ensure that you only complete this form once for each event.
-
-</thinking>
-
 # Visit Entertainment Venues Form - Help Guide
 ## Purpose
 The "Visit Entertainment Venues Form" is designed to collect information about events held at entertainment venues.

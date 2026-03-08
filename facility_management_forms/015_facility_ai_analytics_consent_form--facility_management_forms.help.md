@@ -1,12 +1,3 @@
-<thinking>
-This form is a consent form for AI analytics related to facility management. It is designed to be completed by facility management personnel to provide their consent for the use of AI-generated data for analysis. The form is meant to be used for tracking and recording consent for the use of AI in facility management. This form does not require any proprietary data from other platforms and is released under CC BY 4.0 license. 
-
-The purpose of this form is to ensure that all facility management personnel are aware of and provide their consent for the use of AI-generated data. This form is a simple text-based form that captures basic information about the facility management form category and description. 
-
-This form is not intended to be used for sensitive or confidential information, and it is not affiliated with any other form platform. It is an original adaptation created using only public survey topic metadata (title + industry/category) as inspiration. 
-
-</thinking>
-
 # Facility AI Analytics Consent Form - Help Guide
 
 ## Purpose

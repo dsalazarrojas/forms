@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Innovation Seminar Volunteer Application Form - Help Guide
 ## Purpose
 The Innovation Seminar Volunteer Application Form is designed to allow individuals to register themselves as volunteers for an upcoming Innovation Seminar. This form helps us understand your interests, availability, and role preferences for the seminar, ensuring we can best match your skills and needs with available opportunities.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from customers about their experience with a cleaning service. The purpose of this form is to gather information on the quality of service, staff professionalism, and overall satisfaction with the service provided. This feedback will help the cleaning service company to improve its services and provide better experiences for its customers in the future. To ensure that we collect meaningful feedback, we will ask you to answer all questions truthfully and provide specific examples or details when possible. We will also check for duplicate submissions to prevent multiple responses from the same customer. 
-</thinking>
-
 # Cleaning Service Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with a cleaning service. The information gathered from this form will help the cleaning service company to improve its services and provide better experiences for its customers.

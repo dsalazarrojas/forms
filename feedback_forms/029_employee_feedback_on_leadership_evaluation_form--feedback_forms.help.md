@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees on the leadership evaluation, focusing on specific areas such as leadership effectiveness, communication skills, and suggestions for improvement. This form aims to gather honest and constructive feedback that can be used for personal growth and development. The feedback will be anonymous, and the form will only be accessible to designated personnel.
-
-</thinking>
-
 # Employee Feedback On Leadership Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees on the leadership evaluation, focusing on specific areas such as leadership effectiveness, communication skills, and suggestions for improvement. This form provides a safe and anonymous way to share honest and constructive feedback.

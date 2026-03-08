@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Exit Interview Form - Help Guide
 ## Purpose
 The Online Exit Interview Form is designed to gather information from employees who are leaving the company. This form helps to understand their reasons for departure, job satisfaction, and overall experience while working with the company. The data collected will be used to identify areas for improvement and make informed decisions for future employee retention and development.

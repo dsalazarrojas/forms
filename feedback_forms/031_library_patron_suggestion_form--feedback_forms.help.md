@@ -1,7 +1,3 @@
-<thinking>This form is intended to be used by library patrons, staff, or other stakeholders to submit suggestions for improving the library's collections and services. It aims to gather feedback from patrons on what materials and services would be beneficial for them. The form will help librarians identify areas of improvement and allocate resources accordingly.
-
-To ensure relevance and reduce duplication, the form fields are designed to provide a clear and concise way for patrons to communicate their suggestions. Each field is categorized to provide an efficient and organized way to gather data.</thinking>
-
 # Library Patron Suggestion Form - Help Guide
 
 ## Purpose

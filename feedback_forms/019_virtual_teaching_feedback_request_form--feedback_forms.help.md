@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Teaching Feedback Request Form - Help Guide
 
 ## Purpose

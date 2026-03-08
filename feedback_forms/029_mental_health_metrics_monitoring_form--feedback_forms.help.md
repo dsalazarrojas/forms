@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mental_health_metrics_monitoring_form - Help Guide
 
 ## Purpose

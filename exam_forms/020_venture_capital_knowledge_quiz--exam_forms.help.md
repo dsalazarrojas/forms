@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to test knowledge about venture capital, a type of investment firm that provides funding to startups and small businesses. The form is divided into several sections, including an introduction, category selection, name, email, phone number, date, time, and three multiple-choice questions with corresponding answers fields. The form is intended to be completed by users who are familiar with the basics of venture capital and want to test their knowledge.
-</thinking>
-
 # venture-capital-knowledge-quiz - Help Guide
 ## Purpose
 This form is designed to test knowledge about venture capital, a type of investment firm that provides funding to startups and small businesses.

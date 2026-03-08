@@ -1,5 +1,3 @@
-<thinking>This form is a crucial part of our company's culture and social life. The purpose of the form is to collect information about upcoming holiday gatherings. By filling out this form, guests can let their colleagues know if they will be attending, what time they can attend, and what they can bring to share. This form helps to ensure that everyone knows what to expect and can plan accordingly. **Please fill out this form only once per holiday gathering event** to avoid confusion and overlapping RSVPs.</thinking>
-
 # Holiday Gathering Schedule - Help Guide
 ## Purpose
 This form is used to collect information about your attendance and contributions to holiday gatherings. It helps us plan the event and ensure everyone knows what to expect.

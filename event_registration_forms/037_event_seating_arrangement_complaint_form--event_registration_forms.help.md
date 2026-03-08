@@ -1,7 +1,3 @@
-<thinking>
-The form is used for event participants to report any seating arrangement complaints or concerns. This form is intended for event staff to review and address these issues efficiently. Ensure that you're using this form only for your own event and not for other purposes. This guide is provided to help you complete the form accurately and ensure that your concerns are properly documented.
-</thinking>
-
 # Event Seating Arrangement Complaint Form - Help Guide
 ## Purpose
 This form is for event participants to report any seating arrangement complaints or concerns related to an event they attended. Please note that you're reporting an issue related to your own experience at the event.

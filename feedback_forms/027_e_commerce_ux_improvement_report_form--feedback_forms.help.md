@@ -1,18 +1,3 @@
-<thinking>
-We are creating a form for collecting feedback and improvement suggestions related to e-commerce user experience. This form will be used to gather information about issues that users have encountered while navigating our e-commerce platform, allowing us to identify areas for improvement and make necessary changes to enhance the user experience.
-
-Before filling out this form, please make sure you have not previously submitted an improvement suggestion related to this issue. This will help us ensure that we are addressing unique and previously unreported problems.
-
-The form is designed to gather detailed information about the issue, including a clear description and the priority level of the issue. Please note that all required fields are marked as such. This form also includes a section for attaching relevant screenshots or files to support your feedback, if applicable.
-
-Please keep in mind that the form is divided into distinct pages, each with its own section or field set. Make sure to fill out each page completely before proceeding to the next one.
-
-When filling out this form, please be as detailed and specific as possible when describing the issue and its description. This will help us better understand the problem and implement the necessary improvements.
-
-The form includes fields for submitting your email and phone number, but these are optional and not required for submission.
-
-</thinking>
-
 # e_commerce_ux_improvement_report_form - Help Guide
 ## Purpose
 The e_commerce_ux_improvement_report_form is a tool used to collect feedback and improvement suggestions from users about the e-commerce user experience.

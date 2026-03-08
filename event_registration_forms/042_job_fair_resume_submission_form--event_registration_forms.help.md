@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "Job Fair Resume Submission Form". This form is designed for students and job seekers to submit their resumes and other relevant information for potential employment opportunities. Before submitting a resume, please ensure you have a valid reason for applying and that your resume matches the requirements of the job fair. Also, check if the job fair you're applying for is still open and active, as some job openings may have closed. Finally, double-check that you have a valid email address and phone number, as these will be used for communication purposes.
-</thinking>
-
 # Job Fair Resume Submission Form - Help Guide
 ## Purpose
 This form is designed for students and job seekers to submit their resumes and other relevant information for potential employment opportunities.

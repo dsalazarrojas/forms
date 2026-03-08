@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a standardized test taken by a student. This form is likely used for academic or certification purposes. To avoid duplication of effort, please only complete this form if you have already taken the test and want to report your results.
-</thinking>
 # Standardized Test Exam Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for users to request a TV remote control, which likely refers to a remote control for controlling a television set. It is possible that this form is used in a workplace or office setting, such as a hotel or hospital, where employees may need to control televisions in various rooms or areas. The form likely has fields for requesting a remote control for a specific room or location, and other relevant details. This form does not appear to be designed for a public-facing use case, so it's possible that users are already familiar with the organization's policies and procedures. 
-
-To confirm, this form does not duplicate any existing forms in the provided metadata, and its purpose seems to be a simple and straightforward request form for TV remote controls. If this information is incorrect, please let me know and I'll adjust the explanation accordingly.
-
-</thinking>
-
 # TV Remote Control Request Form - Help Guide
 ## Purpose
 This form is used to request a TV remote control for a specific room or location. You can use this form to request a remote control when you need to control a television in a particular room.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # YouTube Video Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from users about YouTube videos. The information collected helps us understand what users like or dislike about a video, and what they think could be improved. The form is usually filled out by users who have watched a specific YouTube video and have a suggestion or comment about it.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used to register and schedule a historical site tour. The form should only be filled out by individuals who are planning a tour of the historical site. 
-The form requires the following information:
-- A tour operator's details.
-- The date of the tour.
-- A valid email address.
-- The name of the tour.
-- A valid time of the tour.
-The form is used to gather necessary details for the tour and to communicate with the tour visitors about the tour schedule and details. It's an essential part of the tour management process and should only be filled out by those who are actually planning a tour.
-</thinking>
-
 # historical_site_tour_appointment_form - Help Guide
 ## Purpose
 This form is used to register and schedule a historical site tour. It gathers necessary details from the tour operator and visitor for the tour management process.

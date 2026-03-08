@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients about their experiences with the dental clinic. It is essential to understand the patient's feedback to improve the quality of services offered. Please make sure to fill out this form completely and honestly to provide valuable insights. Note: You can only submit the form once.
-
-</thinking>
-
 # dental_patient_feedback_form - Help Guide
 ## Purpose
 The dental_patient_feedback_form is a collection of questions designed to gather feedback from patients about their experiences with the dental clinic. This feedback is crucial for understanding patient satisfaction and making improvements to the services provided.

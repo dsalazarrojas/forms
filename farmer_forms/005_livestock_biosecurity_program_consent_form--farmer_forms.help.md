@@ -1,7 +1,3 @@
-<thinking>
-This form, "livestock_biosecurity_program_consent_form", is intended to collect information from farmers about their participation in a biosecurity program. The form asks for participant information, farm details, and biosecurity measures taken on the farm. It is designed for farmers to provide their consent for participation in the program and to document their farm location and biosecurity measures in place. This form will likely be used by biosecurity program administrators to verify participant information and assess farm conditions.
-</thinking>
-
 # livestock_biosecurity_program_consent_form - Help Guide
 ## Purpose
 The livestock_biosecurity_program_consent_form is a tool used by farmers to provide their consent for participation in a biosecurity program and to document their farm location and biosecurity measures in place.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees of the Business Sustainability Awards event. The purpose of this form is to understand the overall quality and effectiveness of the event in terms of its organization, content, and attendees' experience. By providing feedback, respondents will help the organizers improve the event in future iterations.
-
-To avoid duplicating or duplicating responses, please complete the form only once you have attended the event and have had the chance to experience it thoroughly.
-
-Note that some fields may have similar options, but they are designed to capture distinct aspects of the event. For example, "Overall event quality and organization" and "Ease of registration and check-in" are related but distinct areas of feedback.
-
-Please answer truthfully and concisely, and feel free to provide additional comments or suggestions in the "Any additional comments or feedback" field.
-</thinking>
-
 # Business Sustainability Awards Feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from attendees of the Business Sustainability Awards event. By providing feedback, you will help the organizers improve the event in future iterations.

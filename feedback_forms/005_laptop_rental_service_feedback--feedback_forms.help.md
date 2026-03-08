@@ -1,7 +1,3 @@
-<thinking>
-This form is used by our customers to provide feedback on our laptop rental service. The form is not meant to be filled out by internal employees, but rather by end-users who have rented a laptop from us. This form helps us identify areas of improvement and ensure that our service meets our customers' needs. It's essential to fill out this form only once per laptop rental experience.
-</thinking>
-
 # Laptop Rental Service Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers who have used our laptop rental service. It helps us understand your experience and gather information to improve our service.

@@ -1,10 +1,3 @@
-<thinking> 
-This form is used to collect feedback on a user's engagement and experience with a story. It's essential to provide clear and concise responses to help us improve the storytelling process. Please take a few minutes to review the questions and answer honestly. Your feedback will help us tailor our stories to better resonate with our audience.
-
-This form has **25 questions**, and you can skip any questions you're not comfortable answering. Your responses will be **anonymous**, ensuring your privacy and confidentiality.
-
-</thinking>
-
 # Storytelling Engagement Survey - Help Guide
 ## Purpose
 This survey is designed to gather your thoughts and feelings about a story you've read. Your responses will help us create engaging and relatable stories that resonate with our audience.

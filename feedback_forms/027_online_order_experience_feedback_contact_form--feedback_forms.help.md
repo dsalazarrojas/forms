@@ -1,5 +1,3 @@
-<thinking>Before we begin, I'd like to confirm that the form's purpose is to gather customer feedback on their online order experience. This form will likely be used to collect information about the customer's interaction with your online store, including their contact information, product type, and feedback on customer service. We will also check for any potential duplication or irrelevance of the form's fields, but it seems like the form is well-structured and relevant to its purpose.</thinking>
-
 # online_order_experience_feedback_contact_form - Help Guide
 ## Purpose
 The online_order_experience_feedback_contact_form is designed to collect customer feedback on their online order experience, helping us understand how to improve our services.

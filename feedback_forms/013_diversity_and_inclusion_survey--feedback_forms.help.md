@@ -1,32 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and easy to understand for end users. To do so, let's review the form's purpose, structure, and field explanations to make sure they're concrete and practical.
-
-The form's purpose is to gather diverse and inclusion survey responses from users, which is a crucial aspect of promoting diversity and inclusion within the organization. The form's structure is divided into several sections, each with its own set of questions or fields. 
-
-The first section, "Survey Questions", is optional and has no specific questions. This might be a placeholder or a section that will be filled later. 
-
-The second section, "Demographic Information", is a required field where users can select their gender. The options are Male, Female, Non-Binary, and Prefer Not To Say. 
-
-The third section, "Age", is an optional field where users can input their age. 
-
-The fourth section, "Job Title", is a required field where users can input their job title. 
-
-The fifth section, "Department", is a required field where users can input their department. 
-
-The sixth section, "Job Function", is an optional field where users can input their job function. 
-
-The seventh section, "Years of Experience", is an optional field where users can input their years of experience. 
-
-The eighth, ninth, and tenth sections, "Feedback", "Suggestions", and "Comments", are optional fields where users can input their feedback, suggestions, and comments, respectively. 
-
-The eleventh and final section, "Additional Comments", is an optional field where users can input any additional comments or feedback they may have. 
-
-Overall, the form is well-structured, and the field explanations are clear and concise. However, we might need to review some of the field labels for clarity and adjust them accordingly.
-
-With these considerations in mind, let's create the user-facing help guide for the form.
-
-</thinking>
-
 # Diversity And Inclusion Survey - Help Guide
 
 ## Purpose

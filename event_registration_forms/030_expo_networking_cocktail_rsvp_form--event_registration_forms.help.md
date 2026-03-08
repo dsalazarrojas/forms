@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and that the data collected is accurate and complete. This form is used to register attendees for an event, and it's crucial that the event name, date, and time are correctly recorded. The RSVP status will help us know who's attending and who's not, and the contact info will allow us to reach out to attendees. The form should not be duplicated for other purposes.
-</thinking>
-
 # Expo Networking Cocktail RSVP Form - Help Guide
 ## Purpose
 This form is used to register attendees for an event, providing essential details such as event name, date, time, RSVP status, and contact information.

@@ -1,20 +1,3 @@
-<thinking>
-This is a feedback form designed to gather end-user opinions about the SCC website. The primary purpose of this form is to collect feedback on the website's user experience, content, and overall satisfaction. It is essential to ensure that the form is used correctly, and the feedback is accurate and helpful.
-
-To complete this form, follow these steps:
-
-1.  Select "Yes" or "No" if you have any issues with the website. This indicates whether you have encountered any problems while using the website.
-2.  Enter a brief comment about your experience with the website. This field is required and will help us understand your thoughts about the website's content, layout, and overall experience.
-3.  Rate your satisfaction with the website on a scale of 1-10. This will help us gauge your level of satisfaction with the website.
-4.  Enter a numerical score for your satisfaction with the website. This field is optional and will help us understand your more detailed opinion.
-5.  Enter any comments or feedback about the website. This field is required and will help us understand your thoughts and suggestions about the website.
-6.  Enter your email address. This field is required and will help us contact you for further clarification or to follow up on your feedback.
-7.  Enter your phone number. This field is optional, and you can leave it blank if you don't have a phone number you'd like to share.
-8.  Enter any suggestions or ideas you have for improving the website. This field is required and will help us identify areas for improvement.
-9.  Enter any other comments or feedback about the website. This field is required and will help us understand your thoughts and suggestions about the website.
-
-</thinking>
-
 # SCC Website Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from end-users about their experience with the SCC website.

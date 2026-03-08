@@ -1,11 +1,3 @@
-<thinking>
-The goal of this form is to capture information related to a mediation session, focusing on the participant's feedback, session details, and outcome status. The form is designed to be completed by participants, and each field is crucial for accurately recording session-related data.
-
-This form serves as a crucial part of the mediation process, ensuring that all necessary information is gathered in a structured and efficient manner. It aims to collect feedback from participants, document session specifics (date, time, length), and track the participant's agreement to the session.
-
-To ensure that the information gathered is accurate and comprehensive, the form's fields have been carefully crafted to cover essential aspects of the mediation session. Each field is described below in the user-friendly format to aid in a smooth and correct completion of the form.
-
-</thinking>
 # mediation_session_discharge_form - Help Guide
 ## Purpose
 The mediation session discharge form is used to document the details of a mediation session, including participant feedback, session specifics, and outcome status.

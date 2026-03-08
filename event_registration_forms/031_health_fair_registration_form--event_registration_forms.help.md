@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect participant registration data for health fairs. The form is divided into different sections, including Participant Information, Contact Information, and Event Details. This form will be used in various health fairs and will help us better organize and prepare for the event. Please make sure this is the correct event registration form for your intended purpose...</thinking>
-
 # Health Fair Registration Form - Help Guide
 ## Purpose
 This form is designed to collect participant registration data for health fairs, which are events that provide health-related services and resources to community members. The form helps us better organize and prepare for the event, ensuring that we have accurate information about participants and their needs.

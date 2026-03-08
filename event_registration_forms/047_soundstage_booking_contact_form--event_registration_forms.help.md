@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to handle event registration and booking information for an event. Before proceeding, please ensure you are familiar with the general event booking process and that you are registering for or booking an event that is relevant to your role within the organization. This form should not be used for duplicate registrations or bookings.
-</thinking>
-
 # soundstage_booking_contact_form - Help Guide
 ## Purpose
 This form is used to register or book information for an event. Please fill out the form with accurate and relevant information to ensure smooth event management.

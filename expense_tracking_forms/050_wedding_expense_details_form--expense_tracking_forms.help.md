@@ -1,5 +1,3 @@
-<thinking>Wedding expense details form is used to track and record individual expenses associated with a specific wedding event. This information helps in maintaining accuracy and transparency in the financial aspects of the wedding planning process. It is crucial that the form is filled out correctly to ensure that all expenses are accounted for and categorized correctly.</thinking>
-
 # Wedding Expense Details Form - Help Guide
 ## Purpose
 The Wedding Expense Details Form is used to record and track individual expenses related to a specific wedding event. This form helps in maintaining accuracy and transparency in the financial aspects of the wedding planning process.

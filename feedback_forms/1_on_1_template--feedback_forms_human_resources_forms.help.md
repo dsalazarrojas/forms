@@ -1,4 +1,3 @@
-<thinking>1 On 1 feedback form is designed to be a one-to-one meeting guide for managers and employees. It aims to facilitate regular check-ins and progress assessments between managers and their team members or direct reports. This form serves as a template for discussing work-related topics such as performance, goals, blockers, and development opportunities. The form's purpose is to streamline the 1 On 1 meeting process, making it easier to capture essential information and identify areas of improvement for the employee and the manager.</thinking>
 # 1 On 1 - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is intended to capture feedback from participants and staff members who have attended recreational programs. The form is designed to gather information about the program title, date attended, type of program, participant name and email, program location, program outcomes, comments from the participant, staff name and email, and staff comments. This feedback will be used to evaluate the effectiveness and impact of the programs, identify areas for improvement, and inform future program planning and development. 
-</thinking>
-
 # Recreational Program Feedback - Help Guide
 
 ## Purpose

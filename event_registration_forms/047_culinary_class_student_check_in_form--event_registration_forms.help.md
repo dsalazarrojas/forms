@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Culinary Class Student Check In Form - Help Guide
 ## Purpose
 The Culinary Class Student Check In Form is designed to help us collect necessary information from students attending our culinary classes. This form ensures that we have up-to-date student data, which helps us to better serve our students and provide a safe and enjoyable learning environment.

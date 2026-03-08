@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather feedback on employee personal boundaries, specifically in the context of user behavior and interaction. The purpose of this form is to help managers and HR personnel understand the boundaries that need to be respected in a workplace setting, and to provide a way for employees to submit their feedback and suggestions on how to maintain those boundaries. This form is not intended for general feedback or suggestions, but rather for specific feedback on personal boundaries.
-
-To ensure that feedback forms are not duplicated, this form will only be accessible to authorized personnel and will be treated as a private and confidential document.
-
-The feedback forms will be reviewed and addressed by the HR department, and responses will be kept confidential and only shared with the employees who submitted the feedback.
-
-</thinking>
-
 # Personal Boundaries Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on employee personal boundaries, specifically in the context of user behavior and interaction. The form is intended to help managers and HR personnel understand the boundaries that need to be respected in a workplace setting.

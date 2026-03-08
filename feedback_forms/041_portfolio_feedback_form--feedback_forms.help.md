@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed for users to provide feedback on a portfolio, helping to improve and refine the content. It's intended for internal use within a organization or business. Please ensure you have completed a portfolio before submitting feedback. Note that this form will be used to collect feedback, so please provide constructive and honest comments. Duplicate submissions will not be accepted as they may cause confusion and affect the accuracy of feedback.</thinking>
-
 # Portfolio Feedback Form - Help Guide
 ## Purpose
 The Portfolio Feedback Form is a tool for users to give feedback on a portfolio, helping to improve and refine the content.

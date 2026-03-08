@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from users about a particular opinion piece. The form is intended to be used after a user has read and engaged with a specific article or piece of writing. The purpose of this form is to gather valuable insights and opinions from users, which will be used to improve the quality and accuracy of future articles. 
-
-When filling out this form, please ensure that you have read and engaged with the relevant article before providing feedback or rating. This will help you provide more accurate and meaningful feedback.
-
-Before submitting, please also make sure that you have not already provided feedback on this article. Duplicate submissions will not be accepted.
-
-</thinking>
-
 # Opinion Piece Communication Form - Help Guide
 ## Purpose
 The Opinion Piece Communication Form is designed to collect feedback and ratings from users on a particular article or piece of writing.

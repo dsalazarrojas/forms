@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees of a New Year event. The form is meant to gather information on the attendees' experiences and suggestions for future events. This is an AI-generated form, and its purpose is to provide an efficient and user-friendly way to collect feedback. 
-
-To confirm, the form has been created using only public survey topic metadata (title + industry/category) as inspiration and does not copy, extract, or use proprietary content from any form platforms. It is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, giving proper credit.
-
-Before filling out the form, ensure that you are not duplicating your feedback. If you have already provided feedback, you may not need to complete this form.
-</thinking>
-
 # New Year Event Feedback - Help Guide
 ## Purpose
 The New Year Event Feedback form is designed to collect feedback from attendees of a New Year event. The feedback will help the organizers understand the attendees' experiences, likes, and dislikes, which will be used to improve future events.

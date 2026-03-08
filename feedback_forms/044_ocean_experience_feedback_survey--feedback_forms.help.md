@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with a tour or travel-related service. It is intended to help the service provider understand what aspects of the tour were enjoyed or not enjoyed by the customers, and what areas need improvement. This form is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation created using AI.
-</thinking>
-
 # Ocean Experience Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience with a tour or travel-related service. It helps the service provider understand the quality of their tour guides, enjoyable aspects of the tour, and areas that need improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from event organizers who want to submit an application to organize an event. The form is part of a larger process to manage event organizers and their associated events. To ensure that the event organizer application process is not duplicated, the form should only be completed if there is no existing application for the event organizer. The form is designed to gather basic contact information and event details.
-</thinking>
-
 # Event Organizer Application Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Report Generation Survey - Help Guide
 
 ## Purpose

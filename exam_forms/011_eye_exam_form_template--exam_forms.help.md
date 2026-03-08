@@ -1,6 +1,3 @@
-<thinking>...
-This form appears to be designed for collecting medical information related to eye exams. The fields seem to cover a range of topics, including medical history, prescription, medications, and exam dates. The presence of fields like "results" (both text and number) suggests that this form may be used for tracking patient outcomes or progress, which is relevant to medical practice. It's essential to ensure that each field's label and explanation are clear and concise to help end-users understand the purpose and expected input for each field. The form does not appear to be designed for redundant or duplicate entries, so each field seems to have a unique purpose.</thinking>
-
 # Eye Exam Form Template - Help Guide
 ## Purpose
 The Eye Exam Form Template is designed to collect medical information related to eye exams. This form helps doctors and medical professionals gather essential data for diagnosing and treating eye-related conditions.

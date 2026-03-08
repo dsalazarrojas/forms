@@ -1,9 +1,3 @@
-<thinking>
-This form was created for beta testers like you to provide feedback on a product being tested in a controlled environment. We appreciate your input and it will help us to identify areas that need improvement, fix bugs and issues, and enhance the overall quality of the product.
-Before you start, please make sure you have already tested the product and have some feedback to share. This form is not intended to be a replacement for our regular feedback channels, but rather a supplement to help us gather more detailed and specific information about your experience.
-Please fill in the form completely and accurately, and make sure to answer all required fields. Your responses will help us to improve the product and make it more useful for you and other users.
-</thinking>
-
 # Beta Testing Survey Form - Help Guide
 ## Purpose
 

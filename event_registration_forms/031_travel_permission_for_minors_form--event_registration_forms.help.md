@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Permission For Minors Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experience with a food establishment, restaurant, or food-related business. It is intended to gather information on various aspects of their visit, such as the quality of the food, the service, and their overall satisfaction. This form is likely used for internal evaluation and improvement purposes, ensuring that the business can understand its strengths and weaknesses and make informed decisions to enhance the customer experience.
-</thinking>
-
 # Food Evaluation Form - Help Guide
 ## Purpose
 The Food Evaluation Form is a self-assessment tool used to gather feedback from customers about their experience with a food-related business.

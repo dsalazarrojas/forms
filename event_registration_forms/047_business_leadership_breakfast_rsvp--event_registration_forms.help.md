@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be completing the "Business Leadership Breakfast RSVP" form. It is crucial to note that this form is designed to collect information for a specific event, and users should only fill it out if they are registered to attend. If you're unsure about the event or your registration status, please contact the event organizer before proceeding. The purpose of this form is to gather essential details from attendees, including their personal information, RSVP status, dietary requirements, and other relevant details. The form is divided into several sections, each with specific fields that need to be completed. Please read through the guide carefully to understand the expectations and requirements for each field.
-</thinking>
-
 # Business Leadership Breakfast RSVP - Help Guide
 ## Purpose
 The "Business Leadership Breakfast RSVP" form is designed to collect essential information from attendees of a specific event. Please ensure you are registered to attend the event before completing this form.

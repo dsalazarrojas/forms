@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions for kaizen (a systematic approach to improvement) in various workflows, products, or services. The form aims to gather data on workflows, products, or services that need improvement, identify areas for enhancement, and provide a structured format for submitting suggestions. This form is intended for internal use within the organization, and the submitted data will be used to inform future improvements and decision-making processes. Please note that this form is not affiliated with any form platform and is an original adaptation created using public survey topic metadata.
-
-</thinking>
-
 # kaizen_improvement_report_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions for kaizen improvements in various workflows, products, or services.

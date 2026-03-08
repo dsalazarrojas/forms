@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from industry experts on various aspects of a particular industry. It is crucial that the respondents provide honest and constructive comments to help improve our understanding of the industry dynamics. To ensure that the form is completed accurately and relevantly, please review the form carefully before submitting your feedback. If you have already completed a similar feedback form in the past, kindly refrain from duplicating your previous responses. Your input is valuable, and we appreciate your time and expertise.
-
-</thinking>
-
 # Industry Insights Feedback Survey Form - Help Guide
 
 ## Purpose

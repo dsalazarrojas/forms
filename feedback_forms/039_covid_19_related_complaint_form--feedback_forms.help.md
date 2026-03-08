@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about complaints related to COVID-19 incidents. The purpose of this form is to gather details about the incident, such as contact information, incident details, and any supporting media (e.g., images, videos, or audio files). 
-This form is only intended for complaints related to COVID-19 and will not collect duplicate submissions from the same user. 
-Please provide accurate and honest information in this form to help us better understand and address your complaint. 
-Please note that the form is not meant for general inquiries or comments, but rather for specific complaints related to COVID-19 incidents. 
-</thinking>
-
 # covid_19_related_complaint_form - Help Guide
 ## Purpose
 The **covid_19_related_complaint_form** is a form designed to collect information about complaints related to COVID-19 incidents.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from sales team members on their current sales strategy. The purpose of this form is to gather data on which sales channels are considered important or not by the team members. The questions cover topics such as the importance of various sales channels, areas of focus for the sales strategy, and demographic information to provide context. This form is designed to be simple and easy to complete, with minimal required fields to avoid overwhelming the users. It is expected that the form will be completed by sales team members during their regular review cycles or at the beginning of new quarter cycles. Please ensure that each form is completed with relevant and genuine feedback to provide valuable insights for the sales strategy development.
-</thinking>
-
 # Sales Strategy Feedback Survey Form - Help Guide
 ## Purpose
 The sales strategy feedback survey form is designed to collect feedback from sales team members on their current sales strategy. It aims to gather insights on which sales channels are considered important or not by the team members, as well as areas of focus for the sales strategy.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for a software training appointment. It is intended to be used by users to register their interest in attending a software training session. The form is not intended to be used for other purposes, so please make sure you are using the correct form for your intended use case. The fields are organized in a way that allows users to provide their contact information, select their availability, and confirm their appointment preferences.
-
-The form will be used to determine if a user is interested in attending a software training session. The fields are designed to be simple and straightforward, with clear labels and options. This guide will help you understand each field's purpose and how to complete it correctly.
-
-</thinking>
-
 # software_training_appointment_form - Help Guide
 ## Purpose
 This form is intended to collect information for a software training appointment. Please use it to register your interest in attending a training session.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure this help guide is accurate and relevant, let's review the form's purpose and fields. The Event Planning Contract Form is likely used to collect information from clients or event planners to plan and organize events. The form should gather essential details about the event, including date, time, location, and services required. The client's requirements and payment terms should also be captured. The form's fields suggest it's a comprehensive form for event planning, but it might not be used in all situations or for all types of events. It's essential to confirm the form's purpose with the stakeholders to ensure this guide is accurate.
-</thinking>
-
 # Event Planning Contract Form - Help Guide
 ## Purpose
 The Event Planning Contract Form is a comprehensive form used to collect information about events, including event details, client requirements, and payment terms. This form helps event planners and organizers plan and coordinate events efficiently.

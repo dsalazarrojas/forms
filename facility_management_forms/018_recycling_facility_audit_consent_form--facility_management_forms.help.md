@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from the facility management team to conduct an audit of the recycling facility. This form is intended to gather essential details about the facility, such as its name, address, contact information, and preferred dates for the audit. The form also includes questions about the facility's authorized representatives and their availability for the audit. By completing this form, the facility management team can provide the necessary information for a smooth and efficient audit process. This form is not intended to be used for any other purpose, so there's no need to worry about duplicating information or mixing it up with other forms.
-</thinking>
-
 # Recycling Facility Audit Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from the facility management team to conduct an efficient and effective audit of the recycling facility.

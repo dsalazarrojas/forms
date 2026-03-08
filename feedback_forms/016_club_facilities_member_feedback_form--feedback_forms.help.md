@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect feedback from club facilities members to gauge their overall satisfaction with the club's infrastructure, services, and overall experience. The main purpose of this form is to help the club improve its facilities, services, and policies to better cater to the needs and expectations of its members. By submitting this form, members can provide valuable insights and suggestions that can be used to make informed decisions about the club's future development and improvement. It's essential to fill out this form only once for each visit.</thinking>
-
 # Club Facilities Member Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from club facilities members to help us understand their opinions and needs. Your responses will help us improve our services and facilities to better serve you and other members.

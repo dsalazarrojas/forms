@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from a maintenance service company for internal record-keeping and communication purposes. This form is meant to be completed by authorized representatives of the company, and the data collected will be used to verify the company's information and to track their services provided to the facility. 
-
-Before filling out this form, ensure that you have the necessary permissions and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Maintenance Service Company Information Intake Form - Help Guide
 ## Purpose
 This form is designed to collect company information from maintenance service providers. Please complete this form to provide your company's details and service information.

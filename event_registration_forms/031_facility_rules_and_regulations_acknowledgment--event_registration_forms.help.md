@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to help users acknowledge the facility rules and regulations, which is crucial for maintaining a secure and respectful environment. The form should only be filled out by authorized personnel or individuals who have been granted access to the facility. It is recommended to fill out the form completely and accurately, as it may be used for future reference. Before proceeding, make sure you have not filled out the form previously.
-</thinking>
-
 # Facility Rules And Regulations Acknowledgment - Help Guide
 ## Purpose
 

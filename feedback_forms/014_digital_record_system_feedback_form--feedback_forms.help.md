@@ -1,7 +1,3 @@
-<thinking>
-We're checking if the form has been filled out before. If you have already submitted feedback, please don't submit it again. Your feedback is valuable, but we want to make sure we're not duplicating efforts. This form is designed to help us understand your experience with the Digital Record System, and we appreciate your candid input. Please answer the questions as accurately and completely as possible. If you have any questions or concerns, feel free to reach out to us directly.
-</thinking>
-
 # Digital Record System Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with the Digital Record System. Your input will help us improve the system and provide better services.

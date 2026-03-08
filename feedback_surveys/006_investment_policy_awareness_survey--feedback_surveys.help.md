@@ -1,12 +1,3 @@
-<thinking>
-To create a form that is clear and easy to use, it is essential to have a good understanding of the form's purpose and how each field contributes to this purpose. This form appears to be designed for gathering feedback and information regarding investment policies, including employee understanding, awareness, and suggestions. The form is likely used in an organizational setting, possibly by HR or a management department. To ensure the form is filled out correctly, it is crucial to explain the purpose and each field in detail.
-
-The form's purpose is to gather data on employee understanding and feedback about investment policies, including the level of awareness, concerns, and policy changes. This information is likely used to update or adjust investment policies to better suit the organization's needs. The form's design includes various fields for different types of feedback, such as suggestions, comments, and awareness levels.
-
-Before proceeding with this explanation, it is essential to acknowledge that the form's fields and their options might need further clarification or adjustment based on the actual business logic and policies in place within the organization.
-
-</thinking>
-
 # Investment Policy Awareness Survey - Help Guide
 
 ## Purpose

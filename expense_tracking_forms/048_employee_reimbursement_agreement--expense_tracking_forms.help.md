@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Reimbursement Agreement - Help Guide
 ## Purpose
 

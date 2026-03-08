@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from potential sponsors for the Digital Transformation Expo. This form is used to determine a company's interest in being a sponsor, which could include providing financial support or other resources to the event. The form will likely be used by event organizers to assess the level of interest and support from potential sponsors. This form should not be filled out if the company is not interested in sponsoring the Digital Transformation Expo.
-
-</thinking>
-
 # Digital Transformation Expo Sponsorship Form - Help Guide
 ## Purpose
 This form is used to collect information from companies interested in sponsoring the Digital Transformation Expo. It helps event organizers assess the level of interest and support from potential sponsors.

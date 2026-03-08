@@ -1,8 +1,3 @@
-<thinking>
-This form was created by an AI using public metadata from events related to the category "event_registration_forms" to produce a form for event sponsorship claims. The purpose of this form is to collect information from event organizers about their sponsorship claims for events. It is not affiliated with, endorsed by, or derived from any form platform. The form is released under CC BY 4.0 and can be used, modified, and even sold with proper credit.
-
-</thinking>
-
 # Event Sponsorship Claim Form - Help Guide
 ## Purpose
 This form is designed to collect information from event organizers about their sponsorship claims for events.

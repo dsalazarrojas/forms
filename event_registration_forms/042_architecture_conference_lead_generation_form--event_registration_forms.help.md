@@ -1,13 +1,3 @@
-<thinking>
-
-**Form purpose:** The Architecture Conference Lead Generation Form is designed to collect contact information and interests from architecture professionals, allowing us to generate leads for potential partnerships and collaborations.
-
-**Internal note:** This form is part of our lead generation process for architecture events and conferences. By filling out this form, you will be helping us understand your interests and needs, which will help us tailor our approach to best serve you.
-
-**Before starting the form, please note:** If you have already filled out this form in the past, you will not need to recreate your information. Our system will automatically recognize and pre-populate your existing data.
-
-</thinking>
-
 # Architecture Conference Lead Generation Form - Help Guide
 ## Purpose
 The Architecture Conference Lead Generation Form is a tool to help us understand your interests, needs, and preferences as an architecture professional. By filling out this form, you will be helping us identify potential partnerships and collaborations that can benefit you and your business.

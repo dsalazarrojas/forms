@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Movember Participation Survey - Help Guide
 
 ## Purpose

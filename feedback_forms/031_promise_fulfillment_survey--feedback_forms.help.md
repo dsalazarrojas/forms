@@ -1,8 +1,3 @@
-<thinking>
-We are creating a feedback form for users to provide their input on our organization's promises. This form is designed to be completed by individuals who have had recent interactions with our team. It is expected that most users will be customers, but we will also receive input from colleagues or others with a relationship with our organization. Users will provide scores and comments for a series of questions, with optional comments sections for each question. They will also provide contact information, including their name, email address, and information about their job role within their organization. The form will help us gauge the effectiveness of our services and provide insight into areas for improvement.
-
-</thinking>
-
 # Promise Fulfillment Survey - Help Guide
 
 ## Purpose

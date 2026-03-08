@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from employees regarding the completion of a project or task. It is intended to be filled out by employees after they have finished working on a project, and the feedback form is used to gather information on the quality of their experience, any issues that arose during the project, and other relevant details. Please ensure that you are filling out this form only once for each project, and that you are providing accurate and honest feedback to help improve our work processes and team's overall performance.
-
-</thinking>
-
 # Employee Feedback Release Form - Help Guide
 ## Purpose
 The Employee Feedback Release Form is a tool used to gather feedback from employees on the completion of projects or tasks. It's an essential tool for improving work processes, identifying areas of improvement, and recognizing the quality of work done by team members.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for the Early Warning System (EWS) monitoring process. The form collects various details from users to create a comprehensive overview of the monitoring process. The form is not intended to be filled out by the same user multiple times, so ensure you only submit this form once per issue. The form data is used to create a centralized database for EWS monitoring records, making it easier to track and analyze trends in monitoring data. 
-</thinking>
-
 # Early Warning System Monitoring Form - Help Guide
 ## Purpose
 The Early Warning System Monitoring Form is designed to gather essential details about the EWS monitoring process, allowing for efficient data collection and analysis.

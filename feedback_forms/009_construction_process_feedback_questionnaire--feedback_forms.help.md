@@ -1,5 +1,3 @@
-<thinking>...This form is intended to elicit feedback from responders on their experience with the construction process. It is likely used to identify areas of improvement and gather insights on how to enhance the process. The form is not intended for high-stakes evaluations or formal assessments, but rather for constructive feedback to aid in process refinement. Responders are encouraged to provide honest and candid feedback. If the form has already been filled out by the same user, it is recommended to review and update your response with new information if necessary, as the process stage and satisfaction level may have changed since the original submission...</thinking>
-
 # Construction Process Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from responders on their experience with the construction process. It aims to identify areas for improvement and gather insights to enhance the process.

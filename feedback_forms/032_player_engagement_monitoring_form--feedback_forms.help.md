@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be used in player engagement monitoring, a system used to track and improve the engagement of players within a particular context, such as an online game, educational program, or training session. The form collects information from players or observers about their interactions, ratings, comments, and other feedback to provide valuable insights for program improvement and decision-making. To ensure accurate and reliable data, please ensure you complete this form with utmost care and attention to detail.</thinking>
-
 # Player Engagement Monitoring Form - Help Guide
 ## Purpose
 This form is used to collect feedback and engagement data from players about their experiences in a training session or similar activity.

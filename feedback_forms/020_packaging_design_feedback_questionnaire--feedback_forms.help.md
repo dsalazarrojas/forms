@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback on packaging design from users. This helps identify areas of the design that need improvement and informs the design team how to refine their craft to better serve the needs and expectations of customers. To maintain the accuracy of this feedback, please ensure you fill out the form completely and truthfully. Duplicate responses will not be submitted.
-</thinking>
-
 # Packaging Design Feedback Questionnaire - Help Guide
 ## Purpose
 The Packaging Design Feedback Questionnaire is a tool used by the design team to collect feedback on our packaging designs. This form helps us understand the design's effectiveness and gather insights to improve our products.

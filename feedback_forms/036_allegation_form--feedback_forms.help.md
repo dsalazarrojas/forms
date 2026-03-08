@@ -1,12 +1,3 @@
-<thinking>
-The Allegation Form is designed to gather detailed information about customer complaints and allegations of misconduct within the company. This form is used to collect specific details about the incident, including the complainant's identity, the nature of the complaint, and the desired resolution. The form is intended to be completed by the individual filing the complaint, and the information collected will be used to investigate and address the issue.
-
-Before starting, please check that the form is relevant to your situation and that you haven't already filed a similar complaint. This will help ensure that your complaint is handled efficiently and effectively.
-
-This guide will walk you through each field of the form, explaining what to expect and what is required.
-
-</thinking>
-
 # Allegation Form - Help Guide
 
 ## Purpose

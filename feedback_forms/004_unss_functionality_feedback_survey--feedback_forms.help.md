@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on the functionality and usability of our system. It is intended for users to provide their opinions, suggestions, and ratings on different aspects of the system. The form is divided into several sections, each covering a specific aspect of the system's functionality. We want to make sure that the feedback provided is relevant and useful, so please answer all questions honestly and thoroughly. If you have any suggestions or comments, feel free to add them in the corresponding fields.
-
-Before filling out this form, please make sure you have answered all questions on previous pages, as some of the questions on this page might depend on your answers from previous pages.
-
-Please note that all fields are optional, but your feedback will be more valuable if you provide as much information as possible.
-
-Also, keep in mind that some of the questions might require specific formatting or type of input (e.g., numbers or dates). Please make sure to follow the specified format for each question to ensure your feedback can be accurately processed.
-
-If you have any questions or need help while filling out this form, don't hesitate to contact us.
-
-</thinking>
-
 # unss_functionality_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the functionality and usability of our system. We aim to gather your opinions, suggestions, and ratings to improve our services.

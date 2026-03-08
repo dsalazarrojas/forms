@@ -1,5 +1,3 @@
-<thinking>...The form is used to collect information from counselors who are leaving the organization, providing a structured and organized approach to gathering necessary details. It's essential to ensure that all required fields are completed accurately, and the form should not be filled out if the individual has not actually left the organization. If the individual has already left and you are filling out this form for historical or training purposes, please ensure that all fields are accurate and complete. This form should not be used as a template for onboarding new counselors. Please only use this form for actual exits.</thinking>
-
 # Counselor Exit Offboarding Form - Help Guide
 
 ## Purpose

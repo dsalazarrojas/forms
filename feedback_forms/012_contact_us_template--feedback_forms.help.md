@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to be used for internal purposes and to prevent duplication, it will be used by employees or users of the internal systems to provide feedback and inquiries. The purpose is for general feedback and inquiries that require a response or follow-up.
-</thinking>
-
 # Contact Us Template - Help Guide
 ## Purpose
 The Contact Us Template is a form used to collect feedback and inquiries from users or customers. This form allows you to reach out to us with your questions, concerns, and feedback.

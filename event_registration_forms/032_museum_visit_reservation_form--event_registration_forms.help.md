@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to collect information for visitors to a museum during their visit. This form helps the museum staff to better prepare for the visit, understand visitor preferences, and provide a more personalized experience. This form is not intended to be filled out multiple times by the same visitor during the same visit.
-
-Each field should be filled out only once for each visitor, and the form should be submitted after completion.
-</thinking>
-
 # Museum Visit Reservation Form - Help Guide
 ## Purpose
 The Museum Visit Reservation Form is used to collect information from visitors to better prepare for their visit and provide a more personalized experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Management Feedback Report - Help Guide
 
 ## Purpose

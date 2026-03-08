@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Feedback Follow Up Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request feedback follow-up on a previously submitted feedback request. This form helps us understand your concerns and provide you with the necessary information to resolve the issue efficiently.

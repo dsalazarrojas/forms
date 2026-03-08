@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather feedback from end users regarding the quality control process. It is likely used to identify areas of improvement within the quality control process, allowing the relevant teams to make data-driven decisions to optimize the process. The form should be used to provide feedback on specific questions related to the quality control process, such as how the process is currently performed, what aspects need improvement, and what steps can be taken to address these areas.
-
-The feedback form is likely used by employees within different departments within an organization, such as quality control, production, and maintenance. The purpose of the form is to provide actionable insights that can help streamline and improve the quality control process.
-
-</thinking>
-
 # Quality Control Process Feedback Questionnaire - Help Guide
 
 ## Purpose

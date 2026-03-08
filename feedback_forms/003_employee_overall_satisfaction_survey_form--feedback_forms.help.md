@@ -1,7 +1,3 @@
-<thinking>
-This form aims to measure employee overall satisfaction with the company, including their understanding of the company's mission and their willingness to recommend it to others. This guide is intended to ensure that employees understand the purpose and structure of the form, and can provide accurate and honest feedback.
-</thinking>
-
 # Employee Overall Satisfaction Survey Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your overall satisfaction with the company, including how well you understand the company's mission and whether you would recommend it to others.

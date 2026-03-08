@@ -1,9 +1,3 @@
-<thinking>
-This form is a "Press Release Authorization Form" used to authorize press releases from various sources. It appears to be designed for individuals or businesses that need to release information to the public through various media channels. The form is likely used in the communications or public relations departments of organizations to manage and record press releases. 
-
-This form seems to be focused on the authorization process, rather than collecting detailed release content. The "Press Release Authorization Form" should be used to verify the authenticity and approval of press releases, ensuring that they are accurate and legitimate.
-</thinking>
-
 # Press Release Authorization Form - Help Guide
 ## Purpose
 The "Press Release Authorization Form" is a document used to authorize press releases from various sources. It helps to verify the authenticity and approval of press releases, ensuring they are accurate and legitimate.

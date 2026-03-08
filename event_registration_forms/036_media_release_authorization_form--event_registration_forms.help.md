@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Media Release Authorization Form - Help Guide
 
 ## Purpose

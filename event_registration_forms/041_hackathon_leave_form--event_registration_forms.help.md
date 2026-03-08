@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather information for an event registration process. It likely involves a hackathon event with various details and contacts that need to be captured for the event organizers. The form seems to be quite comprehensive, covering event-specific details like start and end times, hackathon length, resources, and emergency contact information. The form fields suggest that it might be used for internal event management, where the organizer needs to gather specific information for each participant. 
-This guide will help participants understand what each field is used for and how to complete it correctly.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This is an event registration form for a hackathon event. The form is designed to capture all necessary details for the event organizers to manage participant registration efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from patients on their experience with prosthetic solutions. The feedback form is designed to be filled out by patients, and the information collected will help the prosthetic solutions team understand how to improve their services. This form should not be filled out by patients who have not had a recent experience with the prosthetic solutions team, as their feedback will not be relevant. Additionally, please do not submit duplicate feedback forms. 
-</thinking>
-
 # Prosthetic Solutions Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from patients on their experience with Prosthetic Solutions.

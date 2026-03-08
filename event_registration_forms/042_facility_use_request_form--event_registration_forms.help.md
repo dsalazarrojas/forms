@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a facility's usage by an organization, including the name of the organization, the event's details (name, date, and time), and the facility's purpose and date used. This data is crucial for tracking and managing facilities' usage efficiently. To ensure accuracy, please note that this form is meant to be filled out for each individual event. If an organization is planning to use the facility multiple times, please submit a separate form for each occurrence. This form is not meant to be used for recurring or ongoing events. Please ensure that you have the necessary permissions and approvals before submitting this form.
-</thinking>
-
 # Facility Use Request Form - Help Guide
 ## Purpose
 This form is used to record information about an organization's event usage of our facility. This data helps us keep track of the facility's usage and manage it efficiently.

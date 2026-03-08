@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bridal Shower Checklist Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from customers about their experience with an e-commerce checkout process. It is intended to identify areas of improvement for the checkout process, providing valuable insights for the company to enhance the overall customer experience. This form should be used by customers who have recently gone through the checkout process, and it aims to collect both quantitative and qualitative feedback. It is essential to complete the form thoroughly to provide actionable insights for the company.
-
-</thinking>
-
 # e_commerce_checkout_process_questionnaire - Help Guide
 ## Purpose
 This form is a customer feedback tool designed to evaluate the effectiveness and usability of the e-commerce checkout process. It helps the company to identify areas of improvement and make data-driven decisions to enhance the overall customer experience.

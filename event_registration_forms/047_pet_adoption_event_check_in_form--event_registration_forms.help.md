@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to register pets for an adoption event, collecting information about the pet's name, species, type, breed, age, color, and other relevant details. This form helps event organizers and volunteers to track and manage the registration process efficiently. To ensure accurate and comprehensive data collection, please review and complete the form carefully. This form is not a duplicate of any other form and is intended for event registration purposes only.
-
-</thinking>
-
 # Pet Adoption Event Check In Form - Help Guide
 ## Purpose
 The Pet Adoption Event Check In Form is designed to collect information about pets that are participating in an adoption event.

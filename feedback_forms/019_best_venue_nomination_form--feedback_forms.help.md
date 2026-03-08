@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Best Venue Nomination Form - Help Guide
 
 ## Purpose

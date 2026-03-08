@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to capture information for the equipment lifecycle extension request. It is used to gather details about the asset's aging process, including its status, description, and other relevant information. The form is designed to help users efficiently and accurately provide the necessary data for asset management and tracking.
-
-To determine if this form is relevant for your use case, consider the following:
-
-- Does your organization use equipment with a lifecycle that involves an aging process?
-- Are you responsible for managing and tracking equipment assets with a lifecycle that requires periodic assessments?
-- Do you need to capture specific details about assets, such as their description, status, and condition?
-
-If the answer is yes, this form is likely relevant for your use case. However, if you're unsure or have specific requirements that differ from the form's purpose, please consult with your asset management team or the form's owner before proceeding.
-
-Before proceeding, ensure that you are not duplicating efforts by checking if similar forms exist or if this form has been completed recently. If you're unsure, reach out to your asset management team for guidance.
-</thinking>
-
 # equipment_lifecycle_extension_request_form - Help Guide
 ## Purpose
 The equipment lifecycle extension request form is used to capture information for the equipment lifecycle extension request process. This form helps asset managers gather the necessary details to evaluate and extend the lifecycle of equipment assets.

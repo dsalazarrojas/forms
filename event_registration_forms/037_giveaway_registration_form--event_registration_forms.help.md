@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or entities interested in participating in a giveaway or event. The purpose of this form is to gather contact and event-specific details to facilitate smooth communication and organization for the event hosts or administrators. This form should not be used for any other purpose than event registration.
-
-</thinking>
-
 # Giveaway_registration_form - Help Guide
 
 ## Purpose

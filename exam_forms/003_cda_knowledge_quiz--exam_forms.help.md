@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to test the knowledge of individuals about Clinical Document Architecture (CDA). CDA is a standard for clinical documents and is related to the exchange of healthcare information. To ensure the form is completed correctly, it is essential to understand the purpose and the questions being asked.
-
-The form consists of 10 questions that cover various aspects of CDA, including its purpose, underlying technology, document structure, and relationship with other standards like FHIR. The questions are designed to be multiple-choice, with some allowing for multiple selections. 
-
-Each question is carefully crafted to assess the respondent's understanding of CDA and its applications in healthcare. The form is designed to be completed by individuals with some knowledge of CDA, and the questions are challenging but not overly complex.
-
-</thinking>
-
 # CDA Knowledge Quiz - Help Guide
 ## Purpose
 The CDA Knowledge Quiz is a multiple-choice quiz designed to test your knowledge of Clinical Document Architecture (CDA). The quiz consists of 10 questions that cover various aspects of CDA, including its purpose, underlying technology, document structure, and relationship with other standards like FHIR.

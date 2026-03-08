@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and recognition votes for nominations submitted by individuals. The goal is to gather information from the team or community on whether or not they recognize and appreciate the work done by the nominator. This form is part of an internal process to promote a culture of gratitude and acknowledgment within the organization. Please note that this form is intended for internal use and is not a public-facing form. To ensure that the form is filled out correctly, please review each field carefully.
-
-</thinking>
-
 # Gratitude and Recognition Voting - Help Guide
 ## Purpose
 The Gratitude and Recognition Voting form is designed to collect feedback and recognition votes from team members on nominations submitted by individuals.

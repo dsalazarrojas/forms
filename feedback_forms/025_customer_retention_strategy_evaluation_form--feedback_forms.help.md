@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Retention Strategy Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the customer retention strategy of our company. It aims to gather feedback and ratings from customers to improve our customer service and overall customer experience. Please take a few minutes to complete this form to help us better understand your experience with our company.

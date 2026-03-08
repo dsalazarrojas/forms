@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to help students report scheduling conflicts that arise during the school year. This form is used to gather information about the conflict, including its start and end dates, times, and descriptions. The form is not intended for everyday scheduling conflicts, but rather for more serious scheduling conflicts that require resolution or resolution status updates. By filling out this form, students can help identify and address potential scheduling conflicts that may impact their academic success.
-
-To ensure that you are using this form correctly, please check with your administrator or supervisor to confirm that this form is relevant to your needs and that you are not duplicating existing forms or reports.
-
-Please note that this form is designed to be completed by students, but may also be used by administrators or other relevant parties to gather information and track conflict resolution.
-
-This form is intended to be used for reporting scheduling conflicts, not for requesting scheduling changes or adjustments. If you need to make a scheduling change, please contact your administrator or supervisor directly.
-
-Before filling out this form, please ensure that you have a clear understanding of the conflict and its impact on your schedule.
-
-</thinking>
-
 # Student Scheduling Conflict Report Form - Help Guide
 ## Purpose
 The Student Scheduling Conflict Report Form is designed to help students report scheduling conflicts that arise during the school year.

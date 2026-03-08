@@ -1,7 +1,3 @@
-<thinking>
-This form is a simple, AI-generated volunteer application form used for video production events. It is intended to help event organizers collect basic information from volunteers about their contact details, availability, and skills. The form should only take a few minutes to complete and is not affiliated with or endorsed by any form creation platform. Please use this form for its intended purpose only - to gather information from potential video production volunteers. Ensure that you are not duplicating any existing forms or data collection efforts. If you're unsure about the form's purpose or relevance, please review the event's guidelines or contact the form's creators for more information.
-</thinking>
-
 # Video Production Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential volunteers for video production events.

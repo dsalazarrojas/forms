@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants after a session or event. It is used to gather information about the participant's experience, such as their name, contact information, and satisfaction with the session. The form is intended to be completed by participants who have attended the session and is used to improve the quality of future sessions. To prevent duplication of responses, it is recommended that participants complete the form only once per session.
-
-This form is not intended for completion by non-participants or individuals who did not attend the session.
-
-</thinking>
-
 # Roster Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from participants after a session or event, with the goal of improving the quality of future sessions.

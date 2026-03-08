@@ -1,5 +1,3 @@
-<thinking>...To provide a helpful guide for the end-user, we first need to understand the purpose of this form. Based on the provided YAML, it appears to be a survey for nonprofit organizations to gather feedback from their donors about the communication frequency and preferences of the nonprofit's communication channels. The form seems to be designed to collect data on the donor's preferred communication channels, the type of updates they would like to receive, and any comments or suggestions they may have...</thinking>
-
 # Nonprofit Donor Communication Feedback Survey - Help Guide
 ## Purpose
 This form is designed to help our nonprofit organization understand your preferences for communication with our organization. Your feedback will help us improve our communication channels and provide you with more relevant and engaging content.

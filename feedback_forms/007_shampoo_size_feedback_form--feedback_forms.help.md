@@ -1,6 +1,3 @@
-<thinking>
-We are creating a help guide for a feedback form used by customers to provide input on the size of a product, in this case, a shampoo. The form is designed to collect feedback on whether the shampoo size is too small, too large, or just right, as well as any additional comments or concerns the customer may have. We want to make sure that the customer understands what the form is for and how to use it effectively. This guide will walk them through each field and explain what is expected of them.</thinking>
-
 # Shampoo Size Feedback Form - Help Guide
 ## Purpose
 The Shampoo Size Feedback Form is used to collect feedback on the size of a shampoo product. This form is designed to help us understand your experience with our product and make improvements as needed.

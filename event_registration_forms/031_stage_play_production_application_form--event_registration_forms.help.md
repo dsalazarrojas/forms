@@ -1,8 +1,3 @@
-<thinking> 
-To create a comprehensive help guide for the Stage Play Production Application Form, let's first consider the form's purpose and potential users. The form is likely intended to gather information about upcoming stage productions, including production details, contact information, and crew details. It is possible that this form is used by event coordinators or production managers to organize and track information about upcoming productions. This form should be filled out by production teams or crew members to provide necessary details about their involvement in the production. To avoid duplication of effort, the form might be designed to be filled out once for each production, and any subsequent updates would be handled by the event coordinators.
-
-</thinking>
-
 # Stage Play Production Application Form - Help Guide
 
 ## Purpose

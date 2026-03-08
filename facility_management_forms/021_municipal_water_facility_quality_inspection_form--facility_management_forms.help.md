@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the results of a quality inspection at a municipal water facility. 
-</thinking>
-
 # municipal water facility quality inspection form - Help Guide
 ## Purpose
 This form is used to record the details of a quality inspection at a municipal water facility. It captures the essential information about the inspection, including the date and time of the inspection, the duration of the inspection, and the details of the facility being inspected.

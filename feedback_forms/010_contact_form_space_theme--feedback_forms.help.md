@@ -1,14 +1,3 @@
-<thinking>
-This form is for users to send feedback or requests to the Space Theme team. It will be useful to understand what kind of information should be provided and in what format. To ensure that the form is filled out correctly, please make sure to follow these guidelines:
-- The form is meant to be used for sending feedback or requests, so please make sure that the content is relevant to this purpose.
-- The "Subject" field should be kept brief and to the point.
-- The "Message" field is where you can provide more detailed information.
-- The "Importance level" field is not required but helps our team to prioritize your request.
-- The "Preferred contact method" field is optional and is used for internal purposes only.
-- "Follow up" is required to ensure our team knows how to proceed.
-- "Additional information" is an optional field for any other context that might be helpful for our response.
-</thinking>
-
 # Contact Form Space Theme - Help Guide
 ## Purpose
 This form is intended for sending feedback or requests to the Space Theme team.

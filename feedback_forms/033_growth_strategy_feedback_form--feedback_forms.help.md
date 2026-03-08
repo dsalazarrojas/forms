@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Growth Strategy Feedback Form - Help Guide
 
 ## Purpose

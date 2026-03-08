@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from customers regarding their credit card payment experience. It is designed to gather information about the transaction details, customer contact information, and feedback on their experience. The form should only be used for legitimate feedback purposes and not for any other use, such as soliciting new transactions or attempting to sell the customer anything.
-
-To fill out this form, the customer should be able to provide basic contact information and details about their payment experience. This form should not be filled out if the customer has already provided feedback on the same transaction, to avoid duplicate feedback.
-
-</thinking>
-
 # Credit Card Payment Feedback Form - Help Guide
 ## Purpose
 The Credit Card Payment Feedback Form is a tool designed to collect feedback from customers regarding their credit card payment experience. This form allows customers to provide information about their transaction details, contact information, and feedback on their experience. Please fill out the form to help us improve our services.

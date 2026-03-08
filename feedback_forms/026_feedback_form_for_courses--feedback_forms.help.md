@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users regarding courses. The feedback form is intended to be a tool for users to provide their opinions, suggestions, or concerns about courses. This form will help the course administrators to identify areas of improvement and make necessary changes to enhance the course experience.
-
-Before proceeding, please ensure that:
-
-- You have a valid reason for submitting feedback.
-- You have not already submitted this feedback.
-
-If you are unsure, please do not submit duplicate feedback. This will help us to focus on new, unique feedback and ensure that all comments are considered in the review process.
-</thinking>
-
 # feedback_form_for_courses - Help Guide
 
 ## Purpose

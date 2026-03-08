@@ -1,8 +1,3 @@
-<thinking>
-This form was created to collect information and consent from participants before the start of a safari tour. It is essential to fill out this form accurately and honestly to ensure the tour leader and other participants are aware of your details and emergency contacts. Before starting the tour, please review this form carefully to ensure you have filled out all required and optional fields correctly.
-
-</thinking>
-
 # safari_tour_consent_form - Help Guide
 ## Purpose
 The safari tour consent form is a document that collects essential information from participants before the tour begins. This form helps the tour leader and other participants know your details, emergency contacts, and ensures you understand the tour's rules and regulations.

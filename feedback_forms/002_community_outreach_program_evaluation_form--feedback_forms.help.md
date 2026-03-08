@@ -1,7 +1,3 @@
-<thinking>
-We want to know how our community outreach programs are performing so we can better serve our community. This form is designed to gather feedback from participants to identify areas of improvement and make informed decisions about future programs. Please note that this form is not a survey, and the information provided will be treated as confidential.
-</thinking>
-
 # Community Outreach Program Evaluation Form - Help Guide
 ## Purpose
 This form aims to collect feedback from participants in our community outreach programs. Your input will help us understand what worked well and what didn't, enabling us to make adjustments and improve future programs.

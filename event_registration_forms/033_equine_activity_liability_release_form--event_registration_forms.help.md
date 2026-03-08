@@ -1,10 +1,3 @@
-<thinking>
-This guide is for the Equine Activity Liability Release Form, which is used to gather essential information from participants who engage in equine activities. This form is a crucial document that helps protect both the participant and the facility from potential risks associated with equine activities. It's essential to fill out this form carefully and accurately to ensure that both parties are aware of the terms and conditions of the activity.
-
-Before starting, please review the form carefully to ensure you understand each section and the information required. This guide is here to help you complete the form smoothly and accurately.
-
-</thinking>
-
 # Equine Activity Liability Release Form - Help Guide
 ## Purpose
 The Equine Activity Liability Release Form is a document that requires participants to release liability and assume the risks associated with equine activities. It's a necessary step before engaging in any equine activity, such as horse riding, horse riding lessons, or horse-related events.

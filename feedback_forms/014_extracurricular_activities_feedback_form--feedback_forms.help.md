@@ -1,8 +1,3 @@
-<thinking>
-**Extracurricular Activities Feedback Form - Purpose:** This form is designed to gather feedback from participants in extracurricular activities. It is intended to help organizers and staff members understand the effectiveness of their events, and identify areas for improvement. Please note that this form is only for participants of extracurricular activities, and not for general feedback or comments. If you are not a participant of an extracurricular activity, you will not be able to access this form.
-
-</thinking>
-
 # Extracurricular Activities Feedback Form - Help Guide
 
 ## Purpose

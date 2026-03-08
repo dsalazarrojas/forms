@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for end-users who are not familiar with the form and its purpose. Before creating this guide, we should verify that the form is indeed for a Nonprofit Impact Communication Survey and not a duplicate of another form. The form's purpose is to gather feedback and suggestions on how a nonprofit's communication can be improved. To ensure this guide remains relevant, let's assume it's a one-time survey to gather input from various stakeholders, including nonprofit staff, volunteers, and partners.
-</thinking>
-
 # Nonprofit Impact Communication Survey - Help Guide
 ## Purpose
 This guide will walk you through how to complete the Nonprofit Impact Communication Survey form, which is designed to gather feedback and suggestions on how a nonprofit's communication can be improved.

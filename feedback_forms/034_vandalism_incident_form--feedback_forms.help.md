@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information regarding a vandalism incident. The form is designed to capture details about the incident, the suspect vehicle, and any witness information. This form will help us gather essential data to investigate and address the incident effectively.
-
-To ensure the form is completed accurately and thoroughly, please follow the instructions below.
-
-</thinking>
-
 # Vandalism Incident Form - Help Guide
 ## Purpose
 This form is used to report a vandalism incident. Please fill out as much information as possible to help us investigate and resolve the incident efficiently.

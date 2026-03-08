@@ -1,9 +1,3 @@
-<thinking>
-This form is used to confirm the attendance of media guests at a Film Festival Press Night. It is intended for press, journalists, and other industry professionals who may be attending the event. The purpose of this form is to gather relevant information about each guest's attendance, allowing the festival organizers to accurately track RSVPs and communicate with guests. This information will be used to prepare for the event and provide guests with important details about the event schedule and other logistical matters. Please note that this form is not intended for attendees who are not part of the media or industry.
-
-Before proceeding, please ensure that this form is not being duplicated for any other purpose.
-</thinking>
-
 # Film Festival Press Night RSVP - Help Guide
 ## Purpose
 The Film Festival Press Night RSVP form is a mandatory registration form for media guests attending the Press Night event. It helps us track your attendance, gather information about your preferences, and provide you with essential event details.

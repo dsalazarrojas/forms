@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect payment information from clients or customers who are paying for mural projects. The primary purpose of this form is to ensure that all required payment details are captured accurately and efficiently. To prevent duplication and ensure consistency, it is essential to use this form for all new payments.
-
-The fields included in this form are: 
-- Payer Name (required for identification purposes)
-- Contact Email (for payment confirmation and communication)
-- Project Title (to identify the specific mural project being paid for)
-- Amount Due (in local currency, to ensure accurate payment processing)
-- Payment Method (to track payment type)
-- Billing Address (optional, but useful for deliveries and invoices)
-- Invoice Needed (to indicate if an invoice is required)
-- Payment Reference (optional, for transaction tracking)
-- Additional Notes (optional, for any further payment instructions)
-
-</thinking>
-
 # Community Murals Payment Form - Help Guide
 ## Purpose
 The Community Murals Payment Form is designed to collect payment information from clients or customers for mural projects. It ensures accuracy and efficiency in capturing required payment details.

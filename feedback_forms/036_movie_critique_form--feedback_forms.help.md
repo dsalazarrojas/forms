@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "movie_critique_form", we need to understand the form's purpose and how users can complete it. This guide should explain each field in a concrete and concise manner, making it easy for users to provide accurate and helpful feedback. We'll use the provided YAML form definition as a basis for this guide.
-
-The purpose of this form is to collect user feedback about a movie, allowing them to share their thoughts and opinions about the film. The form is designed to be completed by movie viewers, and the feedback will be used to improve the movie's quality and future productions.
-
-This guide will walk users through the form step by step, explaining each field's purpose and how to complete it correctly.
-
-</thinking>
-
 # movie_critique_form - Help Guide
 ## Purpose
 The "movie_critique_form" is designed to collect user feedback about a movie, allowing viewers to share their thoughts and opinions about the film.

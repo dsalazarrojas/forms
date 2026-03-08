@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from customers about their experience at a restaurant. This feedback will help the restaurant management to understand what they are doing well and what areas need improvement. It is essential to provide accurate and constructive feedback to help the restaurant to serve better.
-
-Before starting, please note that this form is designed to be completed by customers, so ensure that you are providing your honest and genuine feedback. If you have already submitted feedback for the same restaurant, please do not submit duplicate feedback. Your comments will be reviewed, and we will ensure that all feedback is used to improve the restaurant's services.
-
-</thinking>
-
 # Restaurant Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience at a restaurant.

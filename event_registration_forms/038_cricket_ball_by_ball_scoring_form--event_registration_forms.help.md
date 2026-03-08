@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <details>
   <summary>
   Cricket Ball By Ball Scoring Form

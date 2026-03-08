@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The grappling event registration form is intended to gather participant information for a grappling event, including whether they have experience in grappling events, their experience level, and whether they are aware of and accept the event's waiver. This form will be used to manage registrations for the event, and it's crucial that participants provide accurate and complete information to ensure a successful and safe event for all involved. To avoid duplicates, please do not register if you have already completed this form for the same event.
 
 # grappling_event_registration - Help Guide

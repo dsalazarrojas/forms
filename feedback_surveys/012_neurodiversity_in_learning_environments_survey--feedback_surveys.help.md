@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather opinions and feedback from users on the support for neurodivergent learners in learning environments, such as schools or universities. The form asks questions about the current state of support for neurodivergent learners, what specific aspects of support are lacking, and how these support systems can be improved. It is intended to be a subjective and informal assessment tool for stakeholders interested in understanding how to best support these learners. Before proceeding, we must confirm that your input will contribute meaningfully to this survey. If you've already filled out this form, please do not submit again.
-</thinking>
-
 # Neurodiversity In Learning Environments Survey - Help Guide
 ## Purpose
 This survey aims to gather opinions and feedback on the support for neurodivergent learners in learning environments. It is intended to be a subjective and informal assessment tool for stakeholders interested in understanding how to best support these learners.

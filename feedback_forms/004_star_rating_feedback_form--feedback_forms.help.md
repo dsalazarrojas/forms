@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Star Rating Feedback Form - Help Guide
 
 ## Purpose

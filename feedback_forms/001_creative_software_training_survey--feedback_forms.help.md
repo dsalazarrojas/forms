@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users who have participated in a training session. The purpose of the form is to gauge user satisfaction with the training experience and identify areas for improvement. It's essential to provide honest and constructive feedback to help us refine our training programs and make them more effective for future users. This form has been designed to be as clear and concise as possible, with each field carefully labeled and explained to guide you through the process. Please take a few minutes to review each field carefully and provide as much detail as possible. To ensure we receive accurate and useful feedback, please don't duplicate any previous submissions.
-</thinking>
-
 # Creative Software Training Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their training experience.

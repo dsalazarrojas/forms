@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to provide feedback on the effectiveness of corporate training programs. The form is meant to assess the level of effectiveness of the training sessions, gather information about future programs that employees would like to see, and collect demographic information. The form is not intended for duplicate submissions, so please ensure that you submit this form only once per training session. If you have already submitted feedback on this or a similar topic, please do not resubmit. Please provide honest and constructive feedback to help us improve our training programs.
-</thinking>
-
 # corporate_training_discharge_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees about their experience with corporate training programs.

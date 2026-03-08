@@ -1,14 +1,3 @@
-<thinking>
-We need to provide a clear and concise help guide for the "heated_socks_gift_review" form. This form is designed to collect feedback on a gift given to someone. The form is meant to be completed by the person who gave the gift, and it will ask for information about the gift, the recipient, and the gift-giver's experience. This form will help us understand what makes a gift successful and what we can do to improve our gifting process. 
-
-Before completing this form, please ensure that you are the person who gave the gift. If you're not, you might not have all the necessary information to provide accurate feedback. 
-
-Please also note that some fields are marked as "required," which means you must complete them to submit the form. 
-
-This guide is designed to help you understand each field's purpose and what information to provide.
-
-</thinking>
-
 # heated_socks_gift_review - Help Guide
 ## Purpose
 This form is used to collect feedback on a gift given to someone. Please provide your honest feedback to help us improve our gifting process.

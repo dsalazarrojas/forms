@@ -1,9 +1,3 @@
-<thinking>
-This form is for visitors to provide feedback about their experience on our site. 
-This form is mandatory. Please fill it out completely. 
-Please note that this form is designed to collect information that will help us improve our service. 
-</thinking>
-
 # Visitor Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from visitors to our site. We appreciate any comments, suggestions, or concerns you may have, as they help us improve our services.

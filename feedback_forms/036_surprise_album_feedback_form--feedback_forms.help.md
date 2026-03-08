@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect user feedback on a surprise album. The purpose of this form is to gather information about the user's experience with the album, including the album's title, release date, rating, favorite track, comments, email, phone number, and submission. This form is intended to be completed by the user who has been surprised by the album, and the information collected will be used to improve future album surprises. To avoid duplication, users should only submit feedback for the album they were actually surprised with. If a user has already submitted feedback for the album, they will not be able to submit again.
-</thinking>
-
 # Surprise Album Feedback Form - Help Guide
 ## Purpose
 The Surprise Album Feedback Form is designed to collect user feedback on a surprise album. The form helps us understand how users experience and perceive the album, allowing us to improve future album surprises.

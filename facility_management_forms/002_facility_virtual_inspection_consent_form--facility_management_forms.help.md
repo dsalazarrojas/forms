@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to obtain the consent of facility users for remote inspections. This form is used by facility management teams to collect information from facility users, which will be used to schedule a virtual inspection of the facility. This form is a crucial part of the inspection process, as it ensures that facility users are aware of and agree to the terms of the virtual inspection.
 
 To complete this form, follow these steps:

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a Taste Test Ranking Survey, which is designed to collect feedback from users about the taste of various dishes. It's likely used in a research or market testing context, where users are asked to rank the taste of different dishes. The form has 25 questions, all of which are select_one type fields, where users are asked to choose a single option from a list of possibilities.
-
-The form is likely used to compare the perception of different dish tastes across a group of people, and the options are likely designed to capture the user's preference or rating for each dish.
-
-Before proceeding, please ensure that you have not filled out this form before, and that you are ready to provide honest and accurate feedback. If you're unsure about any question, please feel free to ask for clarification.
-
-</thinking>
-
 # Taste Test Ranking Survey - Help Guide
 ## Purpose
 The Taste Test Ranking Survey is designed to collect feedback about the taste of various dishes. Please complete the survey honestly and accurately to help us understand the preferences of our audience.

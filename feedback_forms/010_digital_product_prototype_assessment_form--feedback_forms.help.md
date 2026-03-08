@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users on a digital product prototype assessment. The purpose of this form is to collect opinions and suggestions on the design, usability, functionality, and overall impressions of the product. The form is intended for users to provide feedback on specific aspects of the product, such as its design, usability, and functionality. The form is not intended for users to rate or score the product, but rather to gather constructive feedback that can be used to improve the product. Please use this form to provide your honest and thoughtful feedback.
-
-Before filling out this form, please ensure that you have reviewed the product prototype and have not already provided feedback on it. This will help us to understand your thoughts and opinions more accurately and ensure that your feedback is not duplicated.
-</thinking>
-
 # digital product prototype assessment form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on a digital product prototype assessment.

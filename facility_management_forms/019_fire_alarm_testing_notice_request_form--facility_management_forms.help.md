@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request a fire alarm system testing. The form is designed to collect information about the requester, testing dates, test type, test frequency, testing schedule, and other relevant details. This form should only be filled out by someone who is authorized to request a fire alarm system test and should be completed only once for each test request. Please do not duplicate test requests, as this may cause confusion and delay the testing process.
-</thinking>
-
 # fire_alarm_testing_notice_request_form - Help Guide
 ## Purpose
 The fire alarm testing notice request form is used to request a fire alarm system test. It is designed to collect information about the requester, testing dates, test type, test frequency, and other details necessary to conduct the test.

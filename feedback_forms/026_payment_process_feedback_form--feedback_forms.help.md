@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback from customers about their experience with the payment process. The form should only be filled out if the customer has actually gone through the payment process, to avoid unnecessary feedback. The form is meant to be a one-time submission, not a recurring form. Customers are encouraged to provide detailed feedback on their experience with the payment process, including any issues they faced or positive aspects they enjoyed. This feedback will help the company improve the payment process and better serve its customers in the future.
-</thinking>
-
 # Payment Process Feedback Form - Help Guide
 ## Purpose
 This form is for customers to provide feedback on their experience with the payment process. Please fill it out if you have actually gone through the payment process and want to share your thoughts on how it went.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Lease Flexibility Feedback Survey is designed to gather feedback from tenants on the flexibility of a lease agreement. This survey is used to understand the comfort level of the tenant regarding various aspects of the lease agreement, including the agreement term length, flexibility of questions, and satisfaction with the manager and the agreement itself. This information will be used to improve the lease agreement process and provide valuable insights to the landlord or property management team. This survey is not intended for duplicate responses, so please only submit one response per lease agreement.
 
 # Lease Flexibility Feedback Survey - Help Guide

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers about their experience with in-car communication tools. The form is designed to gather information about the customer's perception of the communication style, comfort level, clarity of instructions, and overall satisfaction with the communication. This feedback will help us improve the in-car communication experience and make it more effective and user-friendly.
-
-We'll go through each field to ensure it's filled out correctly and not duplicated. If a field is already filled out, you won't be able to save any changes to it.
-
-</thinking>
-
 # in_car_communication_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with in-car communication tools.

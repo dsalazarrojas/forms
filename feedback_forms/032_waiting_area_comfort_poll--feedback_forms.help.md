@@ -1,7 +1,3 @@
-<thinking>
-This form will help us understand what your waiting area is doing right and what it could improve in terms of visitor comfort. To make sure this is relevant, please confirm that this is indeed the correct form and that you have not already submitted this form. If this form does not match your specific waiting area, you may need to select a different form.
-</thinking>
-
 # Waiting Area Comfort Poll - Help Guide
 ## Purpose
 This form is designed to gather feedback from visitors about their experience in the waiting area. It helps us understand what we're doing well and what we can improve to make your visit more pleasant.

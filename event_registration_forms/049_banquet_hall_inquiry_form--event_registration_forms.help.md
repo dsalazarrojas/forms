@@ -1,16 +1,3 @@
-<thinking>
-
-The Banquet Hall Inquiry Form is designed to gather information from potential clients or event organizers who are interested in hosting an event at our banquet hall. This form helps us understand their event needs, preferences, and requirements, which enables us to provide personalized services and tailor our offerings to their specific needs.
-
-Before you start filling out this form, please take a few minutes to review the following:
-
-* The form is divided into different sections, each focusing on a specific aspect of event planning.
-* Some fields are optional, but providing accurate and complete information will help us better serve you.
-* Please be specific when answering questions, especially if you have special requests or requirements.
-* If you have any additional questions or concerns, you can provide them in the "Additional Questions" field.
-
-</thinking>
-
 # Banquet Hall Inquiry Form - Help Guide
 ## Purpose
 The Banquet Hall Inquiry Form is designed to gather information from potential clients or event organizers to understand their event needs, preferences, and requirements.

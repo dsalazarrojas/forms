@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect photo submissions from farmers, likely for a photo calendar or a similar purpose. The purpose of this form is to gather information about the submitted photos, including the upload of the photo itself, and the submitter's contact information. This form likely serves as a centralized hub for farmers to upload and submit photos, which will be reviewed and possibly featured in a calendar or publication. This form is likely used for a one-time submission or recurring event. To the best of my knowledge, there is no other form with this purpose in our system, so this form's purpose is unique.
-</thinking>
-
 # photo_calendar_submissions - Help Guide
 ## Purpose
 The photo_calendar_submissions form is designed to collect photo submissions from farmers for a photo calendar or publication.

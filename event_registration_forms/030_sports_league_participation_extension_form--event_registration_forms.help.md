@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Sports League Participation Extension Form", I will first need to extract the relevant information from the provided YAML file. I will focus on creating a clear and concise guide that explains the purpose of the form, how to complete it, and what each field means.
 
 # Sports League Participation Extension Form - Help Guide

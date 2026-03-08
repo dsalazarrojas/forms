@@ -1,24 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Assisted Living Work Order Request form, we need to understand its purpose and ensure that end-users complete it correctly. 
-
-The form is used to submit a work order request for assisted living facilities. It captures essential information about the person making the request, the facility or building affected, and the nature of the issue or maintenance required. This form helps maintenance teams prioritize and address work requests efficiently. 
-
-It's crucial to complete the form accurately to ensure that the maintenance team can provide effective support. To prevent duplication, users should only submit new requests if they are not already working on the issue or if the issue persists after the initial repair. 
-
-Before filling out the form, please ensure you have all the necessary information and attachments. This includes but is not limited to the following:
-
-* Full name and contact details of the person submitting the request
-* Facility or building name
-* Date and time of the issue
-* Detailed description of the problem
-* Priority level
-* Special access requirements
-* Materials or parts needed
-* Preferred vendor or contractor
-* Resident's availability for work
-
-</thinking>
-
 # Assisted Living Work Order Request - Help Guide
 ## Purpose
 The Assisted Living Work Order Request form is used to submit a work request for assisted living facilities. It captures essential information about the person making the request, the facility or building, and the nature of the issue or maintenance required.

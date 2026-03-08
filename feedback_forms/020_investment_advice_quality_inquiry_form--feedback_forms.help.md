@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback on the quality of investment advice provided by financial institutions. The purpose of this form is to ensure that the advice given is accurate, reliable, and meets the expectations of clients. This form will help us understand what clients think about the quality of the advice they received and identify areas for improvement. This information will be used to evaluate and refine the quality of investment advice provided.
-
-We will not collect duplicate submissions from the same user, so please only submit once.
-
-Please note that this form will not collect sensitive or financial information. The purpose of this form is only for feedback on the quality of the advice received.
-
-</thinking>
-
 # Investment Advice Quality Inquiry Form - Help Guide
 
 ## Purpose

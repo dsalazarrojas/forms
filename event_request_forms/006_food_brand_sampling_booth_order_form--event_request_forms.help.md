@@ -1,9 +1,4 @@
-> <thinking>
-This form is intended to request information for an event where a company or brand wants to set up a sampling booth at a specified event. The form is designed to collect relevant details about the event, including the event date, location, product information, contact information, and other necessary details for the event setup. Before starting, ensure that you are submitting a new event request and not a duplicate. Please fill out the form accurately and thoroughly to avoid any confusion or delays in the processing of your event request.
-
-</thinking>
-
-# Food Brand Sampling Booth Order Form - Help Guide
+> # Food Brand Sampling Booth Order Form - Help Guide
 ## Purpose
 This form is used to request information for an event where a company or brand wants to set up a sampling booth. It will help us understand your event requirements and preferences for the sampling booth setup.
 

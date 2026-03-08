@@ -1,14 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Team Feedback Survey form, we need to consider the following:
-
-*   The form is designed to collect feedback from team members on various aspects of their team experience, including leadership, communication, collaboration, problem-solving, decision-making, conflict resolution, recognition, feedback, communication channels, collaboration tools, work satisfaction, and time spent on tasks.
-*   The form has a total of 13 questions, which are categorized into different sections based on their relevance to specific aspects of team dynamics.
-*   The form uses a mix of text, select-one, select-multiple, number, and note types to gather feedback, which allows users to provide both qualitative and quantitative responses.
-*   The form is not required for all questions, indicating that users may choose to answer only the questions that are relevant to their experiences.
-*   The form's design and structure are intended to be user-friendly and easy to navigate.
-
-</thinking>
-
 # Team Feedback Survey - Help Guide
 ## Purpose
 The Team Feedback Survey is designed to gather information about your team's experience and satisfaction with their work environment. Your feedback will help your team leaders understand what's working well and what areas need improvement. Please take a few minutes to complete this survey to provide your valuable insights.

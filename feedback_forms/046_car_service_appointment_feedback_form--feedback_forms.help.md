@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Car Service Appointment Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our car service appointment. The form aims to understand your satisfaction with the service, communication, and overall experience. Your input will help us improve our services and better serve you in the future.

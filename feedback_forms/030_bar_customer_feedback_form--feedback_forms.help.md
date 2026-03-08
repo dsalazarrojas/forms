@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from customers on their experience at a bar. The purpose of this form is to gather information on various aspects of the bar's performance, including atmosphere, cleanliness, staff courtesy, drink quality, pricing, and overall experience. This feedback will help the bar make informed decisions to improve their services and customer experience. It is recommended that users fill out the form accurately and honestly to provide constructive feedback. This form should not be used to collect duplicate or irrelevant information. Please make sure to fill out all required fields, especially those marked as "required" in bold.
-
-</thinking>
-
 # Bar Customer Feedback Form - Help Guide
 ## Purpose
 

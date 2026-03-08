@@ -1,10 +1,3 @@
-<thinking>
-The Daily Fridge Temperature Log form is used to record the temperature of the fridge and freezer in the facility on a daily basis. This form is intended to ensure that the temperatures are within the acceptable range for storing food and sensitive equipment. It is not intended for use as a formal complaint form. 
-
-The form is divided into several sections. The first section asks for a multiple-choice answer to whether or not the fridge is at the correct temperature. The second section asks for a date of the log entry. The third section includes fields for recording the current temperature of the fridge and freezer, with a dropdown menu for selecting the unit of temperature. The fourth section asks for who recorded the temperature reading, and the fifth section is for any additional notes. The sixth section asks for the location of the log entry and whether or not the form was completed. The seventh section is a dropdown menu for selecting the unit of temperature for recording the temperature reading. The eighth section is a date field for recording the date the form was completed. The ninth section is a text field for any additional notes. The tenth section is a dropdown menu for selecting a location for the log entry.
-
-</thinking>
-
 # Daily Fridge Temperature Log - Help Guide
 ## Purpose
 The Daily Fridge Temperature Log form is used to record the temperature of the fridge and freezer in the facility on a daily basis.

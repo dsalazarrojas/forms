@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used consistently and correctly to register time off for parent-teacher conferences. The "Parent-Teacher Conference Time Off Form" is a tool used to request time off for employees to attend conferences related to their work. This form should only be used for conferences, meetings, and other work-related events that require an employee's presence. Please refrain from using this form for personal or non-work related reasons.
-</thinking>
-
 # parent-teacher-conference-time-off-form - Help Guide
 ## Purpose
 This form is used to request time off for parent-teacher conferences, meetings, and other work-related events. Ensure that you are using this form for work-related reasons only.

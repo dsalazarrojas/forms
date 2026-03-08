@@ -1,21 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and structure of the Social Media Engagement Questionnaire. The form is designed to gather feedback about users' social media habits and preferences. This will help us better understand how to improve our social media engagement and provide more relevant content to our audience. 
-
-Please note that this form is meant to be completed by users who are familiar with our social media presence and have interacted with us in some way. If you're not sure about the purpose of the form or have already completed it, please feel free to skip this guide and proceed directly to the form.
-
-Before proceeding, make sure you have the following information ready:
-- Your favorite social media platform
-- How often you post on social media (if at all)
-- Your preferred posting frequency (if applicable)
-- Your preferred time of posting (if applicable)
-- What you like most about our social media interaction with friends
-- What you like most about our social media interaction with our brand (if applicable)
-- The type of educational content you would like to see on our social media
-- The type of entertainment content you would like to see on our social media
-
-This guide is designed to walk you through each section of the form, explaining what you need to do and what we're looking for.
-</thinking>
-
 # Social Media Engagement Questionnaire - Help Guide
 
 ## Purpose

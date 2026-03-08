@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback on the European Union institutions from users, aiming to better understand their level of trust and identify areas for improvement. This form is a one-time survey, and responses will be kept anonymous to maintain user comfort. It's essential to fill out this form accurately and thoroughly to provide valuable feedback.
-</thinking>
-
 # European Union Institutions Survey - Help Guide
 ## Purpose
 This form is designed to gather your thoughts and opinions about the European Union institutions. Your participation will help us understand your perception of these institutions and identify areas that need improvement. Your responses will be kept anonymous to ensure a safe and open environment for feedback.

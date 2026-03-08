@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect feedback on the accuracy of a product or service from users. It is intended to help us improve the accuracy and precision of our offerings by gathering real-world experiences and perceptions from respondents. To ensure accurate and relevant feedback, please fill out this form only if you have had an experience with the product or service being assessed. Duplicate submissions will not be considered.
 
 # Accuracy Assessment Survey - Help Guide

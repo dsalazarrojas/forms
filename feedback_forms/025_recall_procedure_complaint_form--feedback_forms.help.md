@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a guide to help users understand and fill out the Recall Procedure Complaint Form. The form is designed to collect information about a company's recall procedure and help ensure that the company is aware of any issues related to their products. This form will not accept submissions for non-product related issues or duplicate complaints. Each field in the form should be filled out according to the instructions below.
 
 # Recall Procedure Complaint Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data on blades, which are essential for the proper functioning of various machines and equipment. It is essential to fill out this form accurately and thoroughly to ensure that the data collected is reliable and useful for future reference. To prevent duplicate entries, please check the 'Blade identifier' field for unique blade serial or tag numbers. If you have previously submitted data for this blade, please do not submit again.
-</thinking>
-
 # Blade Data Collection Form - Help Guide
 ## Purpose
 The Blade Data Collection Form is a tool used to collect and store data on blades, ensuring accurate and reliable information for future reference and proper maintenance of machines and equipment.

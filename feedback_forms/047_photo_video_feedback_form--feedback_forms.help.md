@@ -1,5 +1,3 @@
-<thinking>...the form is designed to allow users to provide feedback on photos and videos... ensure users have all necessary information and don't have to repeat the process... </thinking>
-
 # photo_video_feedback_form - Help Guide
 ## Purpose
 

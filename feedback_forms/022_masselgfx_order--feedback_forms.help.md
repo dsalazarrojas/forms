@@ -1,12 +1,3 @@
-<thinking>...
-This form is intended for collecting information about Masselgfx orders, allowing users to input details such as customer name, email, phone number, order ID, order information, graphics type, color, size, order date, order time, order note, assigned tool, and assigned user. This form is designed to be user-friendly and intuitive, with clear labels and instructions to guide users through the completion process.
-
-To ensure data accuracy and consistency, the form is split into sections for each field, with each section having its own purpose and requirements. This guide aims to help users navigate the form efficiently and make the most out of this tool.
-
-Please note that some fields are optional and can be left blank if not applicable.
-
-</thinking>
-
 # Masselgfx Order - Help Guide
 
 ## Purpose

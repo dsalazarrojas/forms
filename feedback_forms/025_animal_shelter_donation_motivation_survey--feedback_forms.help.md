@@ -1,10 +1,3 @@
-<thinking>
-We are creating this form to gather insights and feedback from our supporters to better understand their motivations and preferences. This survey will help us improve our services and tailor our communication with you to meet your expectations.
-Before proceeding, please note that this form does not collect any personal identifiable information and is designed to gather general feedback. We value your time and input. Please answer these questions as honestly as possible.
-
-Please let us know if you have any questions or concerns.
-</thinking>
-
 # Animal Shelter Donation Motivation Survey - Help Guide
 ## Purpose
 This form is designed to understand your motivations and preferences for supporting our animal shelter. Your input will help us improve our services and tailor our communication with you.

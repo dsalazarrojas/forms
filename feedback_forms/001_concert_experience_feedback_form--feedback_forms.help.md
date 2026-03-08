@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Concert Experience Feedback Form - Help Guide
 
 ## Purpose

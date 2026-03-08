@@ -1,9 +1,3 @@
-<thinking>
-
-I will create a user-facing help guide for the "restaurant_personnel_evaluation_form" form.
-
-</thinking>
-
 # restaurant_personnel_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluations from employees about their colleagues or superiors during their shifts at the restaurant. It helps to assess their performance, identify areas of improvement, and track progress over time.

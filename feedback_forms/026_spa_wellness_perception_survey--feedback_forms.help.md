@@ -1,6 +1,3 @@
-<thinking>
-This guide helps to ensure that the end-user is able to submit their feedback and ratings accurately, avoiding duplication and relevance issues. The form is designed to gather specific feedback from users on their spa wellness experience, focusing on the visit date, satisfaction rating, comments, areas for service improvement, staff professionalism, overall wellness experience, visit time, wellness specialty, and overall experience. By following this guide, users can effectively provide their input which will help in improving the spa's services.</thinking>
-
 # Spa Wellness Perception Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and ratings from users on their spa wellness experience, focusing on various aspects of the visit, including satisfaction rating, comments, service improvement, staff professionalism, overall experience, and more.

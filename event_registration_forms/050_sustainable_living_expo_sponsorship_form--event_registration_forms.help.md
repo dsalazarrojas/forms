@@ -1,19 +1,3 @@
-<thinking>
-This form is used for collecting information from potential sponsors for the Sustainable Living Expo. The form will help sponsors provide their event details, sponsor information, package details, branding information, contact details, and submission details. This form is designed to be completed by potential sponsors who are interested in participating in the Sustainable Living Expo. 
-
-The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI-generated form technology. The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as credit is given. 
-
-For the purpose of this form, a sponsor is someone who is willing to support the Sustainable Living Expo in terms of providing products, services, or resources. Sponsors can be companies, organizations, or individuals. This form is intended to be a simple and straightforward way to collect necessary information from potential sponsors, reducing the administrative burden on the organizers while ensuring that all relevant details are captured.
-
-To determine the relevance of filling out this form, check the following criteria:
-
-- The Sustainable Living Expo is a relevant event to the sponsor's industry or niche.
-- The sponsor is willing to provide products, services, or resources that align with the expo's focus on sustainable living.
-- The sponsor is interested in supporting local events that promote environmental awareness and sustainability.
-
-Please fill out this form if you are a potential sponsor who meets the above criteria. If you have any questions or concerns, please don't hesitate to contact us at form@gic.mx.
-</thinking>
-
 # Sustainable Living Expo Sponsorship Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential sponsors for the Sustainable Living Expo.

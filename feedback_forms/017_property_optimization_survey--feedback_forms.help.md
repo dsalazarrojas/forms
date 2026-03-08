@@ -1,8 +1,3 @@
-<thinking>
-We will first explain the form purpose and check for relevance and non-duplication.
-The "property_optimization_survey" form is a tool to gather information from property managers about the properties they manage. This form is designed to collect data on property performance, tenant information, and lease agreements, with the goal of optimizing property performance.
-</thinking>
-
 # property_optimization_survey - Help Guide
 ## Purpose
 The "property_optimization_survey" form is a tool to gather information from property managers about the properties they manage. This form is designed to collect data on property performance, tenant information, and lease agreements, with the goal of optimizing property performance.

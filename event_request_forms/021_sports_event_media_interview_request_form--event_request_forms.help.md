@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used in a context where a sports event is being organized and media requests are being submitted. It is probably used by event organizers or coordinators to collect information about media requests from various sources. The purpose of the form is to collect detailed information about media requests including event date, the individual requesting media access, contact information, and interview details such as location and status. The form may also be used to track submission status and notes on the requests. It's likely used to manage the media requests in a structured and organized way.
-</thinking>
-
 # Sports Event Media Interview Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about media requests for sports events. It is used to gather details about the event, the individual requesting media access, and the interview details.

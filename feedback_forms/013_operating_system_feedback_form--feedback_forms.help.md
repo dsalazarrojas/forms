@@ -1,13 +1,3 @@
-<thinking>
-This help guide aims to assist end users in completing the Operating System Feedback Form, ensuring they provide valuable feedback to the development team. The form will help to identify areas of improvement for the operating system, whether it's related to performance, bugs, usability, or features. To prevent duplication of efforts, users are encouraged to provide feedback only if they haven't already done so previously. This form should not be used for general inquiries or support requests, which can be directed to a separate support channel.
-
-Please note that the development team will review all submitted feedback and address the most significant issues first. The team will use this feedback to make informed decisions about future updates and improvements for the operating system.
-
-If you have any questions or concerns about the form or the feedback process, please reach out to the support team.
-
-This form is not intended for users to report bugs that have already been fixed or are known issues. Please report any new or reopened bugs using this form.
-</thinking>
-
 # Operating System Feedback Form - Help Guide
 ## Purpose
 The Operating System Feedback Form is designed to gather feedback from users about their experience with the operating system. Your input is valuable in helping us identify areas of improvement and make the operating system more user-friendly.

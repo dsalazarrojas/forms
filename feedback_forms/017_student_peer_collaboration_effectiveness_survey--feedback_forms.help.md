@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Peer Collaboration Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from students about their peer collaboration experience. It helps us understand how well the group work component of our program is meeting your needs. Please take a few minutes to complete this form and share your honest opinions.

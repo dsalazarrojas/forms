@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # film production intake form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Placement Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about the placement of products, services, or features within our system. The goal is to gather information on how well users like or dislike certain placements, and what they think could be improved.

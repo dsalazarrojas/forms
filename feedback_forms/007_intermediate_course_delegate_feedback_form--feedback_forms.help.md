@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from delegates on intermediate courses. The purpose of this form is to gather information on courses that are not yet complete, to help the course team understand the delegate's progress and experiences. Please note that this form is not meant for courses that are already complete or in progress but not complete. Ensure that you are providing feedback only for intermediate courses and not for other types of courses. Before starting to fill out the form, please ensure that you have not already submitted feedback for the same course.
-</thinking>
-
 # Intermediate Course Delegate Feedback Form - Help Guide
 ## Purpose
 This form is used to gather feedback from delegates on intermediate courses that need improvement or have some issues. It helps the course team to identify areas of concern and make necessary adjustments for future courses.

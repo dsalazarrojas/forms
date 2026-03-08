@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Service Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience with our customer service team. The goal is to understand their satisfaction and identify areas for improvement to enhance their overall experience.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from users on specific events, allowing them to share their experiences, concerns, and suggestions. This feedback will be used to improve the quality and effectiveness of future events. 
-
-To ensure that you provide meaningful feedback, please note that this form has been designed to be as concise and user-friendly as possible. Please only fill out the fields that apply to your experience, and do not repeat the same feedback for multiple fields. If you have any additional comments or concerns, please use the "Other" fields for further details.
-
-</thinking>
-
 # Event Feedback Form - Help Guide
 ## Purpose
 The Event Feedback Form is designed to collect feedback from users on specific events, allowing us to improve the quality and effectiveness of future events.

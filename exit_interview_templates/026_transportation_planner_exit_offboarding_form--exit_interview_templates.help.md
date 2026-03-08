@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'd like to create a comprehensive help guide for the "Transportation Planner Exit Offboarding Form" that explains its purpose, how to complete it, and what each field means. This form is designed to collect information from Transportation Planners leaving the company, gathering essential details to support a smooth transition and future improvements. Before proceeding, I'll assume the reader is familiar with the form's purpose and context.</thinking>
-
 # Transportation Planner Exit Offboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from Transportation Planners leaving the company to support a smooth transition and gather feedback for future improvements. Please complete this form to provide essential details about your departure and suggestions for enhancement.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on how individuals have overcome challenges in their work or personal life. It's meant to help the form's users reflect on their experiences, identify effective strategies, and understand the impact of their actions on their outcomes. By completing this form, users will help us better understand how they have addressed difficulties and how we can support them more effectively in the future.
-
-Before starting, please note that you can only provide feedback on challenges you have overcome, not on current or future challenges. This form is not designed for general feedback or suggestions but rather for specific examples of challenges you have overcome.
-
-Also, please note that you can provide feedback on multiple strategies or programs that have helped you overcome a challenge, and that each option is mutually exclusive (you can only choose one strategy or program per challenge).
-
-</thinking>
-
 # Feedback On Overcoming Challenges - Help Guide
 ## Purpose
 ## How To Complete This Form

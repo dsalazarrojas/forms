@@ -1,8 +1,3 @@
-<thinking>
-**Internal Note:** This form is intended to collect feedback from attendees of virtual launch events, such as product demos, product launches, or other events of similar nature. The form is designed to gather input on the event's success, attendees' experience, and areas for improvement. This form is meant to be completed by event attendees and should not be duplicated, as each submission will be reviewed and used to inform future event planning and improvement efforts.
-
-</thinking>
-
 # Virtual Launch Event Feedback Form - Help Guide
 ## Purpose
 

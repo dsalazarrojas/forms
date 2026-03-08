@@ -1,5 +1,3 @@
-<thinking>HD Monitoring Survey is a form designed to gather input from users on various topics related to their experience with HD monitoring services. This form is intended to provide users with an opportunity to share their feedback, ratings, and comments on the quality and effectiveness of our HD monitoring services. To ensure that your feedback is accurately reflected in our records, please complete the form accurately and honestly. Note that some fields are not required, but providing accurate and complete information will help us better understand your experience. If you have any questions or concerns, please don't hesitate to reach out to us. This form is intended to be used for feedback purposes only, and your information will be treated confidentially. Please review the following guide to complete the form correctly.</thinking>
-
 # HD Monitoring Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather your feedback and ratings on our HD monitoring services. Your input will help us improve our services and provide better experiences for our users.

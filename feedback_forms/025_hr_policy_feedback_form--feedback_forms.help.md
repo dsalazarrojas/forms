@@ -1,7 +1,3 @@
-<thinking>
-We are implementing an HR Policy Feedback Form to gather information from employees regarding their experiences and thoughts on various company policies. This form is designed to be completed by employees who have feedback on existing or proposed policies within the company. Before completing this form, please ensure that you are providing feedback on a policy that you have experience with and that you are not duplicating existing feedback. If you are unsure about whether your feedback is relevant or whether a similar issue has already been reported, please reach out to your HR department for guidance.
-</thinking>
-
 # HR Policy Feedback Form - Help Guide
 
 ## Purpose

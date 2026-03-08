@@ -1,5 +1,3 @@
-<thinking>...We are creating a form for legal advocates to use when exiting the company. This form is used to collect data about the employee's reasons for leaving, which can help HR and management make informed decisions about how to improve the work environment and prevent future exits. The form should only be filled out once the employee is no longer working at the company. We will check to ensure that no one fills this form out before they have actually left the company. We want to ensure that the form is complete and accurate, so please take the time to fill it out thoroughly. Please don't fill out this form if you are still employed with the company... </thinking>
-
 # Legal Advocate Exit Offboarding Form - Help Guide
 ## Purpose
 The Legal Advocate Exit Offboarding Form is used to collect information about an employee's reasons for leaving the company. This form helps HR and management understand the reasons behind an employee's departure and make data-driven decisions to improve the work environment.

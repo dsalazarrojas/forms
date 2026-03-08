@@ -1,10 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the Campus Sustainability Feedback Survey form. This form is designed to collect data on users' experiences and perceptions of sustainability initiatives on campus. The ultimate goal is to gather valuable insights that can help shape future sustainability projects and services to better meet the needs of the campus community.
-
-To ensure that this form is completed accurately and effectively, we need to clarify its purpose, explain how to complete it, and break down each field into clear, concise, and practical instructions.
-
-</thinking>
-
 # Campus Sustainability Feedback Survey - Help Guide
 
 ## Purpose

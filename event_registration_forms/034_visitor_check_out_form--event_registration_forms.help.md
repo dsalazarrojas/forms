@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect visitor information for events. It will be used to track visitor attendance and preferences. It is essential that only one entry per visitor is submitted. 
-To confirm, this form will be used for collecting information about visitors to events. There should only be one entry per visitor. This form will help us track visitor preferences and attendance. 
-</thinking>
-
 # Visitor Check Out Form - Help Guide
 ## Purpose
 The Visitor Check Out Form is a tool to collect visitor information and preferences for events.

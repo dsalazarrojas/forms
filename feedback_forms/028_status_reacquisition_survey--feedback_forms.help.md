@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and effectively by end-users. The "status_reacquisition_survey" form is designed to collect feedback from customers about their experience with our organization. This form will help us understand their satisfaction level, gather comments, and identify areas for improvement. To avoid confusion, let's confirm that this form is intended to collect feedback from customers, not employees, and that it should not be used for internal surveys or assessments. If you're unsure about the purpose or use case of this form, please clarify with the form owner or your supervisor.
-</thinking>
-
 # status_reacquisition_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our organization.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information for the consent of a parent or guardian for a minor to participate in various activities. The purpose of this form is to ensure that parents or guardians are aware of and agree to the terms of these activities. It is essential to complete this form carefully and accurately to ensure that the minor's rights and safety are protected.
-
-This form is part of a larger process and is not a standalone document. Please ensure that the information you provide is accurate and up-to-date.
-
-To avoid duplication of effort, please ensure that you only complete this form if you are the parent or guardian of the minor.
-
-Before starting, please review the activities listed below and select the ones you would like to sign up for.
-
-Please note that this form is not a substitute for other required documents or approvals. You may need to complete additional forms or meet other requirements before participating in these activities.
-
-</thinking>
-
 # Parental Consent For Minors Form - Help Guide
 ## Purpose
 

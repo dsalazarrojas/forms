@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Volunteer Badge Printing Request" form. The form's purpose is to gather information required for printing volunteer badges for events. This form must be filled out by authorized personnel to request printing of badges for volunteers at events. The guide will help users ensure that all necessary details are provided to avoid duplication of effort. Please refer to this guide to ensure that you have all the necessary information to fill out the form correctly.
-</thinking>
-
 # Volunteer Badge Printing Request - Help Guide
 ## Purpose
 The "Volunteer Badge Printing Request" form is used to request the printing of volunteer badges for events. Authorized personnel can use this form to gather necessary information for volunteer badge printing.

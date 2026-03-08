@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the "Farming Cooperative Monthly Meeting Attendance" form. The form aims to collect data on members' attendance and feedback on meetings, enabling the cooperative to gauge member engagement and make informed decisions for future meetings. It's essential to complete this form accurately and thoroughly to help the cooperative improve its operations. Please ensure that you are not already working on a meeting report before filling out this form. If you're unsure, refer to the meeting minutes or discussion notes to ensure consistency. 
-</thinking>
-
 # Farming Cooperative Monthly Meeting Attendance - Help Guide
 ## Purpose
 The "Farming Cooperative Monthly Meeting Attendance" form is designed to gather information on members' attendance and feedback on meetings. This data helps the cooperative to assess member engagement, identify areas for improvement, and make informed decisions for future meetings.

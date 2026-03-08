@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for media representatives to communicate with event organizers and teams about potential sponsorship opportunities. The form is used to collect information about the event, the sponsor, and the sponsor's communication preferences. It's recommended that you fill out this form only once per sponsorship opportunity, and that you avoid duplicating information by ensuring that each field is filled in accurately and completely. This form is meant to be filled out by media representatives and will be reviewed by event teams and organizers to ensure that the sponsor's communication preferences are correctly recorded.
-</thinking>
-
 # Media Sponsorship Communication Form - Help Guide
 ## Purpose
 This form is for media representatives to communicate with event organizers and teams about potential sponsorship opportunities.

@@ -1,17 +1,3 @@
-<thinking>
-We need to create a help guide for the "product_recall_success_monitoring_form" form, which is used to collect feedback from customers on product recall success monitoring. This form is likely used to track the success of product recall activities, such as tracking customer satisfaction, product quality, and other relevant metrics. To ensure relevance and non-duplication, we should consider the following:
-
-* The form is likely to be used by customers who have returned products, so the form's purpose is to gather feedback on the recall process and the customer experience.
-* The form should collect data on various aspects, such as product quality, product safety, customer service, and customer satisfaction, to help in tracking and improvement of product recall success.
-* The form's sections and fields are designed to gather specific information to address different areas of customer experience.
-* The fields are mostly required, which means they should be completed before the customer can submit the form.
-* Some fields are optional, which may be used for gathering more detailed information if needed.
-* The form also includes fields for customer email, customer phone, and customer message, which are likely used for communication and follow-up purposes.
-
-With this understanding, we can now create the help guide for the form.
-
-</thinking>
-
 # product_recall_success_monitoring_form - Help Guide
 
 ## Purpose

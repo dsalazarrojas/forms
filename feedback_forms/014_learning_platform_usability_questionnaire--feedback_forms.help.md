@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Learning Platform Usability Questionnaire - Help Guide
 ## Purpose
 The Learning Platform Usability Questionnaire is designed to collect feedback about the usability of the learning platform. It's intended to help us understand how users interact with the platform and identify areas for improvement. Your feedback will help us create a better user experience.

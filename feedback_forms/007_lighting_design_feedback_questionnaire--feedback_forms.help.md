@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback on lighting design projects from users. The form will be used to understand the user's perception of the project's lighting, including the project's description, design team involvement, design style, color scheme, and lighting level. The form will help users provide a feedback score and comments on the project.
-</thinking>
-
 # Lighting Design Feedback Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on lighting design projects.

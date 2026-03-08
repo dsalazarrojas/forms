@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect feedback from members on their experience at a facility. The form is intended for members to report their satisfaction and opinions on various aspects of their visit, such as the facility's cleanliness, staff friendliness, and overall satisfaction. The purpose of this form is to gather valuable information that can be used to improve the facility and provide better services to its members.
-
-To complete this form, follow these steps:
-
-1. Fill in your First Name in the text box provided.
-2. Enter your Email in the email field.
-3. Enter the Facility Name where you visited.
-4. Select the date you visited the facility.
-5. For the Satisfaction Level, select the level that best describes your experience.
-6. Choose all the options that apply for Service Quality, Cleanliness, Staff Friendliness, and Facilities.
-7. Select whether the parking was available for your visit.
-8. Enter your Overall Satisfaction rating (on a scale of 1-5).
-9. Provide any additional comments or feedback in the text box provided.
-
-</thinking>
-
 # Member Facility Satisfaction Report Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from members on their experience at a facility.

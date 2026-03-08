@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Exit Communication Form - Help Guide
 
 ## Purpose

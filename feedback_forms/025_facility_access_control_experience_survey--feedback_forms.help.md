@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used correctly and that users understand its purpose and how to complete it. This form is designed to gather feedback on the facility access control experience, which is crucial for us to understand the effectiveness of our access control system and identify areas for improvement. We don't want users to fill out this form unless they have actually experienced the facility access control system, so we need to ensure they understand that the form is meant for people who have used the system recently. We also want to make sure users understand the difference between required and optional fields, as some fields are marked as optional but may still be useful for us to gather additional information.
-</thinking>
-
 # Facility Access Control Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on your experience with our facility access control system. We would like you to fill out this form if you have recently used the system. Your feedback will help us identify areas for improvement and make the system more user-friendly.

@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to gather information from users about their flavor preferences and eating habits. This form will help us understand what types of flavors and foods users enjoy or dislike, how often they eat out, and their favorite foods. This will aid in creating a more personalized experience for users.
-
-The user is asked to complete multiple questions, including selecting their favorite flavors, how often they eat, and what time of day they eat. This is a crucial form for understanding user behavior and preferences related to flavor profiles.
-
-Please ensure that you have not completed this form before, as the information collected will be used to create a more tailored experience for users. If you have already completed this form, your responses will be updated accordingly.
-
-If you have any questions or concerns, please reach out to our support team.
-</thinking>
-
 # Flavor Profile Assessment - Help Guide
 ## Purpose
 The flavor profile assessment is a form designed to gather information about your flavor preferences and eating habits. It consists of a series of questions that will help us create a personalized experience for you.

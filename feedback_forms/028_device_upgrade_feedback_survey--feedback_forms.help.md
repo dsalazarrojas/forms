@@ -1,5 +1,3 @@
-<thinking>...Internal reasoning: This form is designed to collect feedback from users about their device upgrade experience. It's meant to be filled out by individuals who have recently upgraded their device. The form has two pages, "User Input Page" and "Rating and Comment Page". The "User Input Page" contains two fields: "E-Mail" which is optional, and "Comment" which is also optional. The "Rating and Comment Page" has three fields: "Rating" which is required and has three options, "1 - Not Satisfied", "2 - Satisfied", "3 - Very Satisfied", and "Comment" which is optional.</thinking>
-
 # Device Upgrade Feedback Survey - Help Guide
 
 ## Purpose

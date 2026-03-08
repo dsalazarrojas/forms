@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect general information for an event registration. The purpose of the form is to allow users to register for an event, providing their personal details and event specifics. Please note that the form does not currently enforce the uniqueness of event start and end dates, which should be reviewed and addressed in the form's design if necessary.
-
-</thinking>
-
 # Registration 2020 - Help Guide
 ## Purpose
 The Registration 2020 form is designed to collect registration information for events. Fill out this form to provide your personal details and event specifics.

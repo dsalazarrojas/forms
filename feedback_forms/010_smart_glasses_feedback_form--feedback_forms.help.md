@@ -1,11 +1,3 @@
-<thinking>Here's a breakdown of the form purpose and relevance checking logic:
-
-* The form is intended to collect feedback from users about their experience with the Smart Glasses product.
-* We want to ensure that users understand the purpose of this form and are aware of its scope before they begin filling it out.
-* We will check for duplicate submissions to avoid overwhelming the product development team with repetitive feedback.
-* We will not accept feedback submissions that are not relevant or are incomplete.
-</thinking>
-
 # Smart Glasses Feedback Form - Help Guide
 ## Purpose
 The Smart Glasses Feedback Form is designed to gather information about your experience with the Smart Glasses product. Your input will help us understand your satisfaction, identify areas for improvement, and provide us with suggestions for future enhancements.

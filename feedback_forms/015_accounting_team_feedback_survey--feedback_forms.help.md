@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Accounting Team Feedback Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from members of the accounting team regarding their experiences, job satisfaction, and areas for improvement. Your responses will help us understand the team's strengths and weaknesses, enabling us to make informed decisions to enhance team performance and overall job satisfaction.

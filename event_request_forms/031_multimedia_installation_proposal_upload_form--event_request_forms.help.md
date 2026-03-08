@@ -1,13 +1,3 @@
-<thinking>
-
-We are creating a help guide for the "Multimedia Installation Proposal Upload Form" to assist end users in completing the form effectively. This form is designed to collect information for a multimedia installation event, and it's essential that users understand its purpose and requirements.
-
-The form is used to upload and manage multimedia installation proposals, and it's crucial that users complete it accurately to ensure the proposals are properly reviewed and considered for the event. To ensure the form is not duplicated or submitted with irrelevant information, users should only upload proposals that meet the event's specific requirements and follow the provided instructions.
-
-Before proceeding, please review the form carefully, and make sure you have all the necessary information to complete it accurately. If you have any doubts or concerns, please don't hesitate to reach out to the relevant authorities for clarification.
-
-</thinking>
-
 # Multimedia Installation Proposal Upload Form - Help Guide
 ## Purpose
 The "Multimedia Installation Proposal Upload Form" is used to submit multimedia installation proposals for review and consideration for a specific event. Please ensure that the information you provide is accurate and relevant to the event's requirements.

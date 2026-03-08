@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## event_volunteer_offboarding_form - Help Guide
 ## Purpose
 This form is used to collect event details, feedback, contact information, email, phone number, date, and time from volunteers who are offboarding from an event. This form is used to ensure a smooth offboarding process and gather valuable insights to improve future events.

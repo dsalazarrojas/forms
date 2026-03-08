@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that end users understand what this form is for and how to complete it without duplicating or misusing it. This form is designed to collect feedback from students after a teaching session, gathering information on their name, session details, overall rating, feedback, and any additional comments. It is essential to fill out each field accurately to provide valuable insights for trainers and improve future sessions.
-</thinking>
-
 # Teaching Session Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from students after a teaching session. It helps trainers evaluate the effectiveness of the session and identify areas for improvement.

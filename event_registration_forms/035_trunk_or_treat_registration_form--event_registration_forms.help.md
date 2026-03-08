@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # trunk_or_treat_registration_form - Help Guide
 
 ## Purpose

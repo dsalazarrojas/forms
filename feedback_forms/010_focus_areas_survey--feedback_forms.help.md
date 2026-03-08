@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the internal reasoning block to justify the guide creation and ensure it meets the requirements. I have analyzed the provided YAML file and extracted the necessary information to create a comprehensive user-facing help guide for the "focus_areas_survey" form.
 
 Based on the YAML fields, I have identified the form's purpose and created a structured help guide with clear explanations for each field. Here is the final help document in Markdown format:

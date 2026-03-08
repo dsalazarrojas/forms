@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, let's first break down the form's purpose and each field's meaning based on the provided YAML metadata.
-</thinking>
-
 # performance_feedback_meeting_request_form - Help Guide
 ## Purpose
 The "performance_feedback_meeting_request_form" is a form designed to collect feedback and performance evaluations during meetings. It aims to gather information on meeting requests, performance evaluations, and feedback discussions, which can be used to improve individual or team performance.

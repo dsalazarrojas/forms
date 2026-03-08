@@ -1,25 +1,3 @@
-<thinking>
-Please review the form's purpose and structure before creating a user-facing help guide. This form is designed to collect feedback from individuals about surprise events, with questions covering various aspects of their experience, including surprise intensity, prior suspicion, and coordination. The form is structured into several sections, each focusing on a different aspect of the event. The form requires the following fields:
-
-*   Respondent's full name and email address
-*   Event or surprise name
-*   Date of the event
-*   Level of surprise intensity (on a scale of 1-10)
-*   Prior suspicion level (on a scale of 1-4)
-*   Initial reaction to the surprise
-*   Favorite moment or part of the surprise
-*   Ratings for organization and group coordination (on a scale of 1-5)
-*   Secret-keeping rating (on a scale of 1-5)
-*   Venue suitability rating (on a scale of 1-5)
-*   Food and beverage quality rating (on a scale of 1-5)
-*   Suggestions for improvement and future events
-*   Logistical hiccups noticed
-*   Final thoughts and comments
-
-To create an effective help guide, it's essential to clearly explain the purpose of each section and field, helping the respondent fill out the form accurately and thoroughly.
-
-</thinking>
-
 # Best Surprise Group Survey - Help Guide
 
 ## Purpose

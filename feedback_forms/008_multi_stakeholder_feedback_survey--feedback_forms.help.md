@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for this form that explains its purpose, how to complete it, and what each field means. This form is called "multi-stakeholder-feedback-survey" and it appears to be a survey for gathering feedback on projects. The purpose of this form seems to be to collect opinions on various aspects of project management and communication from project team members, managers, and other stakeholders. The form has multiple fields that ask about different topics such as project team, project management, communication, progress, overall satisfaction, and additional comments. To prevent duplication, I'll make sure to check if similar forms already exist in our system before creating new ones.</thinking>
-
 # multi-stakeholder-feedback-survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on project management and communication from project team members, managers, and other stakeholders. Your input will help us identify areas of improvement and make our projects better.

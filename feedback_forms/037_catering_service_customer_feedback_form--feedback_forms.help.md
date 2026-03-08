@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the customer feedback form is used correctly and consistently to gather valuable insights. Let's assume that this form will be used by customers to share their experiences and suggestions for our catering service. We should check if the form is being used for this purpose and not for other unrelated matters. We should also ensure that the form is not being filled out multiple times by the same customer. This will help us to understand the customer's needs and improve our services accordingly.
-</thinking>
-
 # Catering Service Customer Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather information about your experience with our catering service. Please take a few minutes to complete this form to help us understand what we did well and what we could improve on.

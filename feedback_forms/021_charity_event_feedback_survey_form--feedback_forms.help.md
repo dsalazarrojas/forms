@@ -1,8 +1,3 @@
-<thinking>
-This is a survey platform-agnostic form designed to collect feedback on charity events. The form has 16 questions across 2 pages, including text, email, and date fields. The form is intended to gather information on attendees' experiences, opinions, and suggestions for future events. It's a useful tool for charity organizations to improve their event planning and execution.
-
-</thinking>
-
 # Charity Event Feedback Survey Form - Help Guide
 ## Purpose
 This guide will walk you through the Charity Event Feedback Survey Form, a helpful tool for charity organizations to gather valuable insights from attendees. By completing this form, you'll be contributing to the improvement of future charity events.

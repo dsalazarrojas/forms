@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from visitors for badge check-in purposes. The form is designed to collect user contact information, event details, and any additional notes. This information will be used to facilitate efficient and secure badge issuance for visitors. Ensure that the fields and options you have are relevant to your specific use case before proceeding to use this form.
-</thinking>
-
 # Visitor Badge Check In Form - Help Guide
 ## Purpose
 This form is used to collect user information and event details for badge check-in purposes.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the "Athlete Feedback on Facility Maintenance Survey" form. This form is designed to collect feedback from athletes on the maintenance and condition of sports facilities. The purpose of this form is to gather information on the overall cleanliness and maintenance of the facilities, which will help facility managers to identify areas that need improvement. The feedback will be used to enhance the facilities and provide better services to athletes.
-
-</thinking>
-
 # Athlete Feedback on Facility Maintenance Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from athletes on the maintenance and condition of sports facilities.

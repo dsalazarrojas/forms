@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect feedback from individuals who have completed a batch or session, and is used to gather information about their experience and satisfaction with the process. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI and public survey topic metadata. It's intended to be used to identify areas of improvement and provide valuable insights for future development. Please ensure that you're providing feedback on the correct batch or session by providing the batch identifier. 
-</thinking>
-
 # Batch Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from individuals who have completed a batch or session, to gather information about their experience and satisfaction with the process.

@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning:
-The purpose of this form is to collect user feedback on wireless technology. Users are required to select their overall rating, wireless service rating, and choose a category and device(s) related to the issue they are experiencing. They can also provide a brief description of the issue and any comments they may have. The form is designed to be simple and easy to use, with clear labels and instructions.
-</thinking>
-
 # Wireless Technology Feedback - Help Guide
 ## Purpose
 This form is used to collect feedback on wireless technology services. Please take a few minutes to complete this form to help us understand your experience with our wireless services.

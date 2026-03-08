@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from the public for open houses organized by the real estate agency. It should only be filled out by attendees of open houses that have taken place recently, and not for any other purpose. This is to ensure that feedback is relevant and actionable for the real estate agents. Please fill out the form only if you attended an open house.
-</thinking>
-
 # public_open_house_feedback_form - Help Guide
 ## Purpose
 This form is for gathering feedback from public attendees of open houses organized by our real estate agency. Your input will help us improve the quality of our services.

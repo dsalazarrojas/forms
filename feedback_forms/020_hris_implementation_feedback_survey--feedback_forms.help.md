@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users regarding the Human Resource Information System (HRIS) implementation. This form is designed to gather information about the overall feedback score, details, and specific category of feedback users have about the HRIS. The form should only be completed once by each user to avoid duplication of feedback.
-
-To complete this form, users can select one of the provided options for "Feedback Category" and enter any additional feedback they may have in the "Feedback Text" field. The "Submission Date" field will be automatically populated with the current date.
-
-</thinking>
-
 # HRIS Implementation Feedback Survey - Help Guide
 ## Purpose
 The HRIS Implementation Feedback Survey is a tool used to gather feedback from users about the Human Resource Information System (HRIS) implementation. This feedback is essential for identifying areas of improvement and ensuring that the HRIS meets the needs of its users.

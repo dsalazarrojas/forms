@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the "general_knowledge_examination_registration_form" form. The form is designed to collect information from participants regarding their examination details. 
-
-This guide will cover the following topics: 
-1. Purpose of the form 
-2. How to complete the form 
-3. Field-by-field explanations 
-
-Before proceeding, ensure that the form is being used for its intended purpose and that the information provided is accurate and up-to-date. 
-</thinking>
-
 # general_knowledge_examination_registration_form - Help Guide
 ## Purpose
 The "general_knowledge_examination_registration_form" is used to collect information from participants regarding their examination details. This includes exam dates, participant information, and examination settings.

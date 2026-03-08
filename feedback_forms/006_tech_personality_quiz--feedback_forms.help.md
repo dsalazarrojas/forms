@@ -1,7 +1,3 @@
-<thinking>
-This help guide is meant to support end users in completing a "Tech Personality Quiz" form. This form is meant to be a fun and engaging way to gauge a user's tech personality, interests, and preferences. It's not a serious or formal assessment. Before proceeding, please ensure you have not completed this form previously to avoid duplicate entries. If you're unsure about any field, feel free to ask for clarification.
-</thinking>
-
 # Tech Personality Quiz - Help Guide
 ## Purpose
 The Tech Personality Quiz is a form designed to help us understand your interests and preferences in the tech industry. Your responses will be used to provide personalized recommendations and insights.

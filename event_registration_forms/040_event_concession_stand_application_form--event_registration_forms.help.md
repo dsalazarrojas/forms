@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from event vendors who want to set up a concession stand at an event. It will help us verify your identity, determine your booth location, and collect necessary payment and contact information.
-To avoid duplication, please note that you may only submit one application per vendor.
-</thinking>
-
 # Event Concession Stand Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from event vendors who want to set up a concession stand at an event. This information will be used to verify your identity, determine your booth location, and collect necessary payment and contact information.

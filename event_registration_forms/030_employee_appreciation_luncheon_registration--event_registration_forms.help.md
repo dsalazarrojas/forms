@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from employees about their intention to attend and participate in an employee appreciation luncheon event. This form will help the organizers understand who will be attending, their dietary restrictions, dress code, and arrival time, among other details. It is essential to fill this form accurately to ensure that the event organizers can better plan and accommodate the attendees' needs.
-
-Before filling this form, please review the fields below to ensure you are providing the correct information and to avoid duplication of efforts.
-
-</thinking>
-
 # Employee Appreciation Luncheon Registration - Help Guide
 ## Purpose
 The purpose of this form is to register for the Employee Appreciation Luncheon. Please fill out this form to let us know if you will be attending, your dietary restrictions, and other relevant details.

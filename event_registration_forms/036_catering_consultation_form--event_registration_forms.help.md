@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for clients to provide event planners with essential information about their events. It helps us to better understand their needs, ensure we can provide the best services, and avoid duplicating information. This form is not a substitute for a live consultation, but rather a means to gather initial details to prepare for our meeting.
-</thinking>
-
 # Catering Consultation Form - Help Guide
 ## Purpose
 This form is intended to gather essential information from clients to provide catering services for their events.

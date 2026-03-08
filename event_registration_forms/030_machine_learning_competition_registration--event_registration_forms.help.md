@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Machine Learning Competition Registration" form, I'll first provide a brief internal reasoning block that explains the form's purpose and checks for relevance and non-duplication.
-
-The form's purpose is to collect information from participants who want to register for a machine learning competition. This form is used to capture essential details about the competition and the participant, such as the competition name, participant name, email, phone number, registration start date, and participant address. These details are necessary for the competition organizers to manage participant registrations and facilitate the competition process.
-
-Upon reviewing the form's fields, I notice that all fields are optional, but it's likely that the competition organizers would like to have this information for administrative purposes.
-
-</thinking>
-
 # Machine Learning Competition Registration - Help Guide
 ## Purpose
 

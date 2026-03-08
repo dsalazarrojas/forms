@@ -1,7 +1,3 @@
-<thinking>
-We will be using this form to collect feedback from users about the latest product upgrade. This form is intended to gather opinions on the quality, usability, and overall experience of the product. Please note that this form is anonymous and all responses will be kept confidential. We value your input and would like to know what you think about our latest update.
-</thinking>
-
 # Product Upgrade Feedback Poll Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about the product upgrade. Your input will help us understand what worked and what didn't in the latest release, and guide our future development.

@@ -1,7 +1,3 @@
-<thinking>
-We are implementing a form to collect user feedback and submissions for various types of content. The form will help us gather information about the content being submitted, including the creator's details and the type of content. We aim to ensure that the submitted content is accurately and consistently labeled, and this form will serve as a standard template for submissions.
-</thinking>
-
 # empowerment_content_submission_form - Help Guide
 ## Purpose
 The empowerment_content_submission_form is designed to collect feedback and submissions for original stories, articles, and media content. This form ensures that all submissions are properly labeled and categorized, providing a consistent and accurate record of user-submitted content.

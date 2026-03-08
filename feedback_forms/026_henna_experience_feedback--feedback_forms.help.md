@@ -1,9 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Henna Experience Feedback" form. This form is designed to collect feedback from users about their experience with henna services. The purpose of this form is to help us understand how our customers feel about their henna session, whether they were satisfied with the service, and if they would recommend it to others. This feedback will be used to improve our services and provide better experiences for future customers.
-
-To ensure that feedback is relevant and not duplicated, we will review all responses carefully before using them to make improvements.
-</thinking>
-
 # Henna Experience Feedback - Help Guide
 ## Purpose
 The Henna Experience Feedback form is designed to collect feedback from customers about their experience with henna services. This form helps us understand how our customers feel about their session, whether they were satisfied, and if they would recommend our services to others.

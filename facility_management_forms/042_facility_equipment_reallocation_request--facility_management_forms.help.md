@@ -1,7 +1,3 @@
-<thinking>
-**Facility Management Forms are used to manage equipment reallocation requests to ensure that equipment is properly maintained, accounted, and utilized across the organization. This form prevents duplicate or unnecessary requests and ensures that requests are thoroughly evaluated before approval.**
-</thinking>
-
 # Facility Equipment Reallocation Request - Help Guide
 ## Purpose
 This form is used to submit a request for equipment reallocation. Please provide the necessary information to ensure a smooth and efficient process.

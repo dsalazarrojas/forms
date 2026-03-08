@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Debate Tournament Sponsorship Form - Help Guide
 
 ## Purpose

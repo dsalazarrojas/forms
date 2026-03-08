@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture information about a volunteer's activity check in, including the event details and volunteer's information. The fields are designed to collect relevant data such as event name, date, time, location, and volunteer details like name, phone number, email, and address. The form also includes fields to collect activity-specific information like activity type, start and end dates and times, and hours worked.
-The form is likely used by volunteers to report their activities, and the data collected will be used by the organization to track volunteer hours, manage events, and communicate with volunteers. 
-
-To confirm, I will not include any fields that are marked as "required: false" in this explanation. 
-</thinking>
-
 # Volunteer Activity Check In - Help Guide
 ## Purpose
 This form is used to capture information about a volunteer's activity check in, including event details and volunteer information.

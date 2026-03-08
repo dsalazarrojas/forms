@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers who are at risk of not meeting certain customer retention metrics. The form is meant to identify the reasons why a customer is at risk and collect relevant data to help improve customer retention initiatives. This form is not intended to be used for any other purpose, such as sales or marketing activities. To ensure relevance and non-duplication, please only submit this form for customers who are at risk of not meeting customer retention metrics. If you are unsure, please do not submit this form.
-</thinking>
-
 # Customer Retention Initiative Contact Form - Help Guide
 ## Purpose
 The Customer Retention Initiative Contact Form is designed to gather information from customers who are at risk of not meeting certain customer retention metrics. This form is meant to identify the reasons why a customer is at risk and collect relevant data to help improve customer retention initiatives.

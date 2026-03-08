@@ -1,7 +1,3 @@
-<thinking>
-This guide is for users who need to complete the Survey Analysis Project Discharge Form, which is used to gather feedback and evaluation information from users about a specific project. Before starting, please ensure that you have the necessary information and permissions to submit feedback. To avoid duplication, please do not submit the same feedback for the same project.
-</thinking>
-
 # Survey Analysis Project Discharge Form - Help Guide
 ## Purpose
 The Survey Analysis Project Discharge Form is a tool used to gather feedback and evaluation information from users about a specific project. This form helps to understand user experiences, identify areas of improvement, and provide valuable insights for future project developments.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is used correctly and effectively, please review this form's purpose and instructions carefully. This form is designed to gather feedback from participants who have completed a certification program. The form collects information on the participant's experience with the program, including their satisfaction, skill improvement, and overall value. It helps us identify areas of strength and areas for improvement to refine our programs and better serve our participants. Please note that this form should only be filled out by participants who have actually completed the program. If you are not a participant or have not completed the program, please do not fill out this form.
-</thinking>
-
 # Certification Program Feedback Survey Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants who have completed a certification program. It helps us understand their satisfaction, skill improvement, and overall value they gained from the program.

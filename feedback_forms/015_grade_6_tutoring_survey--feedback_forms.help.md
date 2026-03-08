@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students who have received tutoring services. The primary purpose of the form is to gather information about their experiences, including their name, the number of tutoring sessions they completed, the time spent on each session, and their overall satisfaction with the tutor's support. This form will help us understand how we can improve our services and better support our students. To ensure the quality of the data collected, we need to confirm that the form is only used for its intended purpose and not for any other reason. We also need to make sure that the responses are genuine and not duplicate, so please fill it out accurately and only once.
-</thinking>
-
 # Grade 6 Tutoring Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students who have received tutoring services. It will help us understand their experiences and gather information to improve our services.

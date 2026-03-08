@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants regarding their dietary and transport needs for an event. It is meant to be completed by attendees who are registering for an event. This form should only be filled out once per participant. If an attendee has already filled out this form, please do not attempt to fill it out again.
-</thinking>
-
 # Event Dietary And Transport Survey - Help Guide
 ## Purpose
 This form is used to collect information about your dietary and transport requirements for an upcoming event. Please answer these questions carefully to help us ensure that we can meet your needs during the event.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the actual help guide, let's quickly review the purpose of this form: the Child Session Feedback Survey is designed to gather valuable feedback from parents or guardians about their experiences with a particular session, such as a therapy session, tutoring session, or assessment. This feedback helps providers to understand their own performance, identify areas of improvement, and make informed decisions about future sessions. To ensure accurate and useful feedback, this form is carefully crafted to collect specific information about each session. To complete this form, please make sure to submit it for a single session at a time. Also, please note that some fields are not required, so you can skip them if not applicable.</thinking>
-
 # Child Session Feedback Survey - Help Guide
 ## Purpose
 The Child Session Feedback Survey is a tool designed to help providers gather valuable feedback from parents or guardians about their experiences with a particular session. This feedback is essential for providers to understand their own performance, identify areas of improvement, and make informed decisions about future sessions.

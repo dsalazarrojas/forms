@@ -1,7 +1,3 @@
-<thinking>
-This is a help guide for the "Expense Reimbursement Form With Calculations" used for tracking and reimbursing expenses related to business trips or activities. The form is intended to collect necessary information from the employee to process a reimbursement request. Please ensure this form is used correctly to avoid any miscommunication or duplicate submissions.
-</thinking>
-
 # Expense Reimbursement Form With Calculations - Help Guide
 ## Purpose
 This form is designed to capture essential details for processing expense reimbursements related to business trips or activities. It will help the finance department to calculate and verify the total expense, reimbursed amount, and remaining amount accurately.

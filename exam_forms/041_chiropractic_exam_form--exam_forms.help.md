@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information about patients undergoing a chiropractic examination. It is used to document the patient's details, medical history, and examination results. Please ensure this form is filled out accurately and completely by the clinician conducting the examination.
-</thinking>
 # Chiropractic Exam Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a tool for capturing feedback from participants in a leadership program, allowing them to provide anonymous or attributed ratings and comments about their leaders. Please note that this form is only to be filled out by program participants, and not by the leaders themselves. The feedback is intended to help the program team identify areas of improvement and make data-driven decisions.
-
-</thinking>
-
 # Dietary Leadership Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants in the dietary leadership program. Your input will help us make the program more effective and beneficial for everyone.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stage Performance Slot Extension Request Form - Help Guide
 
 ## Purpose

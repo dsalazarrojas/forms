@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from event volunteers to be trained. The form should only be completed by event volunteers. It is not intended to be used for other purposes such as registering attendees or creating event schedules. Please ensure that you are using the correct form for your intended use.
-</thinking>
-
 # event_volunteer_training_form - Help Guide
 ## Purpose
 This form is used to collect information from event volunteers to be trained. It is used to gather details about the volunteer's identity, training preferences, and emergency contact information.

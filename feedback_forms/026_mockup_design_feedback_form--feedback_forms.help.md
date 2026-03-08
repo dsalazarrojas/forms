@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on a mockup design from stakeholders. This form is intended to be used by stakeholders to provide their opinions and comments on the design, and to help the design team refine their concept. 
-
-When filling out this form, please ensure that you are providing feedback on the current state of the design, rather than suggesting changes that have not been implemented yet. This form is not intended to be used for general feedback or comments, but rather for specific, actionable comments that can be used by the design team to improve the design.
-
-When completing this form, please ensure that all required fields (Stakeholder Name, Usability Rating, and Email) are filled out. Optional fields (Mockup Title, Comments, Phone, Comments for Design Team, and Comments for Developer) can be filled out at your discretion.
-
-Please do not use this form if you have already provided feedback on this design. 
-</thinking>
-
 # Mockup Design Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from stakeholders on a mockup design. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Coverage Registration - Help Guide
 ## Purpose
 The Event Coverage Registration form is used to collect information from event participants to document their media coverage. This form is typically used during events to verify that media representatives have registered for coverage and understand their responsibilities and obligations.

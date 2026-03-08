@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help forklift operators perform a daily inspection of their equipment, ensuring they are in working condition and ready for use. This form is a checklist that guides the operator through a series of checks to verify the forklift's safety features and operational readiness. The purpose of this form is to standardize the inspection process and reduce errors. It is essential to complete this form carefully and accurately to guarantee the forklift's safety and performance.
-</thinking>
-
 # Forklift Daily Inspection Checklist Form - Help Guide
 ## Purpose
 This form is a checklist used by forklift operators to verify that their equipment is in good working condition before use.

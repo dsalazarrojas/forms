@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are required to fill out the Event Expense Request Form for expense tracking purposes. 
-The form is meant for employees, volunteers, and managers to document and track expenses related to company events or activities. 
-Please note that this form is designed to minimize duplication and prevent unnecessary expenses. 
-Before filling out this form, ensure that you have not already submitted a similar request. 
-</thinking>
-
 # Event Expense Request Form - Help Guide
 ## Purpose
 The Event Expense Request Form is used to track and record expenses related to company events or activities. This form is a centralized platform for employees, volunteers, and managers to report expenses incurred during such events.

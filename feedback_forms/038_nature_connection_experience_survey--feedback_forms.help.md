@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with a nature-based program. The purpose of this form is to collect data on how users perceived the quality and value of the program, as well as their overall satisfaction. To avoid duplication of effort, please ensure that this form is only filled out once per participant. 
-</thinking>
-
 # natureConnectionExperienceSurvey - Help Guide
 ## Purpose
 

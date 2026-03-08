@@ -1,12 +1,3 @@
-<thinking>
-  This form is designed to collect information about vehicle maintenance practices, 
-  service quality, and overall condition of vehicles. It is intended for drivers 
-  to provide their feedback on these aspects of vehicle maintenance. The form 
-  will ask for the following information: the vehicle's make and model, 
-  the practices used for maintenance, the quality of service received, 
-  and the condition of the vehicle. 
-</thinking>
-
 # Driver Vehicle Maintenance Survey Form - Help Guide
 ## Purpose
 This form is designed to collect information from drivers about their vehicle maintenance practices, service quality, and overall vehicle condition. It will help us understand how we can improve our services and provide better support to our customers.

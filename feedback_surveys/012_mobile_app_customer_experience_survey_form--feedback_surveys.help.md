@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect feedback and survey data from customers about their experience with the mobile app. It is intended to gather information on how users found the app, what they liked or disliked, and their overall satisfaction with the app. The form collects data on various aspects of the app, including how they found the app, what features they liked or missed, and their willingness to recommend the app to others. The purpose of this form is to gather valuable insights that can be used to improve the app and enhance the user experience.
-</thinking>
-
 # mobile_app_customer_experience_survey_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and survey data from customers about their experience with the mobile app.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for users to provide feedback on their training materials and their experience with the training session. To ensure that this feedback is accurate and complete, users should only submit their feedback if they have attended the training session and have a genuine reason for their feedback. Please only submit feedback if you have not previously submitted feedback for this session.
-
-The form will guide you through a series of questions that will help us understand your experience with the training materials and the trainer. Your feedback is crucial in helping us improve our training materials and services.
-
-Please ensure that the information you provide is accurate and truthful. Your feedback will be treated as confidential.
-</thinking>
-
 # user_training_materials_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on their experience with the training materials and the training session.

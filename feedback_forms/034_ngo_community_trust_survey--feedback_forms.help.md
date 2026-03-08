@@ -1,7 +1,3 @@
-<thinking>
-This form is a user-facing survey aimed at gathering feedback from the NGO community regarding their trust in the organization. The purpose of this form is to collect information on how well the NGO has been serving the community, areas that require improvement, and any suggestions or comments that community members may have. This form is not intended for general contact or support inquiries but rather to gauge the community's perception and trust in the NGO's services.
-</thinking>
-
 # NGO Community Trust Survey - Help Guide
 ## Purpose
 The NGO Community Trust Survey is a form designed to gather feedback from the community about their trust in our services. Your input is valuable in helping us understand where we excel and where we need to improve.

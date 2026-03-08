@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Historical Site Visitor Check Out Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-To ensure relevance and non-duplication, it's essential to review and understand the form's purpose before proceeding. This form is designed to gather feedback from participants regarding a brainstorming session. It aims to collect detailed insights on various aspects of the session, including overall satisfaction, objectives clarity, facilitator effectiveness, and more. To avoid duplicating efforts, it's crucial to complete this form thoroughly and accurately, providing specific and concrete feedback. Please take a few moments to read through this guide to understand each field's purpose and how it contributes to the overall assessment of the session.</thinking>
-
 # Brainstorming Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from participants on a brainstorming session. It helps us to assess the effectiveness of the session and identify areas for improvement.

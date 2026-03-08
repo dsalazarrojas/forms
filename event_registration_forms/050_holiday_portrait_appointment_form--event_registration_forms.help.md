@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients or patients for a holiday portrait appointment. It's designed to be a simple and straightforward form to gather essential details from clients. Before filling out this form, please ensure that you have the necessary permissions from the client to collect this information and that it is in line with your organization's policies and data protection regulations.
-</thinking>
-
 # Holiday Portrait Appointment Form - Help Guide
 ## Purpose
 The holiday portrait appointment form is used to collect information from clients regarding their holiday portrait appointment, including client details, date, time, location, and session details.

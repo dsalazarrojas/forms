@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-The "New Product Survey" form is designed to gather information from customers about their experience with a new product. This form is used to understand customer demographics, product satisfaction, and overall feedback. It is not intended for data collection for a specific sales or marketing campaign.
-</thinking>
-
 # New Product Survey - Help Guide
 ## Purpose
 The "New Product Survey" form is designed to gather feedback from customers about their experience with a new product. This form is used to understand customer demographics, product satisfaction, and overall feedback.

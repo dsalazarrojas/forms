@@ -1,14 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is designed to collect feedback from users about their grounding experience. The purpose of this form is to gather ratings and comments from users to improve the product or service. The form is composed of six fields: four rating fields and two comment fields. Each rating field is optional and allows users to provide a numerical rating from 1 to 5. The comment fields are also optional and allow users to provide any additional comments or feedback they may have.
-
-To complete this form, users simply need to click on the "Submit" button after filling in the required and optional fields as needed. The required fields are not explicitly marked as such, but are typically denoted by an asterisk (*).
-
-Field-by-field explanations will help users understand the purpose and expectations of each field.
-
-
-</thinking>
-
 # Grounding Experience Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their grounding experience. The form is intended to gather ratings and comments from users to improve the product or service.

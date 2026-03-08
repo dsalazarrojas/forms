@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect participant information for the Air Jump event. This includes demographic details, medical conditions, and consent for photos and video. Participants must complete fields with personal data, medical information, and waiver acknowledgment to register for the event.
-It's essential to ensure the participant's information is accurate and complete to provide the best experience and to handle any potential medical issues. The form is designed to be completed by participants and reviewed by event staff to ensure all necessary information is collected.
-Please review each field carefully to ensure you understand its purpose and how it relates to your event.
-</thinking>
-
 # Air Jump Registration Form - Help Guide
 ## Purpose
 The Air Jump Registration Form is designed to collect participant information for the Air Jump event. This includes demographic details, medical conditions, and consent for photos and video.

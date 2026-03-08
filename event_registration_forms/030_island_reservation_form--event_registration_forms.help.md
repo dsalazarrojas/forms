@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # island_reservation_form - Help Guide
 ## Purpose
 The island_reservation_form is a form used to collect information for booking a stay on an island, including travel dates, accommodation type, number of guests, arrival time, preferred facilities, emergency contact information, and special requests.

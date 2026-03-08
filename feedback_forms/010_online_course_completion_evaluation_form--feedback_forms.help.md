@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the completion of an online course. The purpose of this form is to collect feedback from students about their overall satisfaction with the course, course materials, course format, and other aspects of the course experience. This form is not a mandatory evaluation form, and it's intended to be completed on a voluntary basis. The form is designed to be a quick and easy way for students to provide feedback to the course administrators.
-</thinking>
-
 # Online Course Completion Evaluation Form - Help Guide
 ## Purpose
 The Online Course Completion Evaluation Form is used to collect feedback from students about their completion of an online course. It's a way for students to provide their opinions and suggestions for improvement.

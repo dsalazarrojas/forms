@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the Snack Product Sensory Evaluation form. The form is designed to gather feedback on a specific snack product, evaluating its taste, texture, appearance, smell, and overall satisfaction. The form is not intended to be completed for every single snack product, but rather for specific products that require feedback. Please ensure you have the correct product in mind when filling out this form.
-
-</thinking>
-
 # Snack Product Sensory Evaluation - Help Guide
 ## Purpose
 The Snack Product Sensory Evaluation form is designed to gather feedback on a specific snack product. This form helps us understand how the product tastes, looks, feels, smells, and overall satisfaction. Your input will help us improve the product.

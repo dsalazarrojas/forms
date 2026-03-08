@@ -1,5 +1,3 @@
-<thinking>As a part of our onboarding process, we are collecting feedback from new employees to help us improve our onboarding experience. This form will help us understand your first impressions, onboarding process, expectations, and feedback frequency. Please answer these questions honestly, and we will use your feedback to make adjustments to our onboarding process. Please note that this form is completely anonymous, and your feedback will be kept confidential. If you have any questions or concerns, please reach out to your manager or HR representative. We value your input and appreciate your time in completing this form.</thinking>
-
 # Onboarding Feedback Questionnaire - Help Guide
 ## Purpose
 This onboarding feedback questionnaire is designed to collect your thoughts and experiences during the onboarding process. Your feedback will help us understand your first impressions, onboarding process, expectations, and feedback frequency, which will allow us to make adjustments to our onboarding process to better support new employees.

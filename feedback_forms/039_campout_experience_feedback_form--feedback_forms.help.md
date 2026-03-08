@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Campout Experience Feedback Form - Help Guide
 ## Purpose
 The Campout Experience Feedback Form is a survey designed to gather feedback from participants on their experiences with a campout event. This form aims to gather information on various aspects of the event, including facilities, programs, and overall satisfaction. The collected data will help the event organizers to identify areas of improvement and make informed decisions for future events.

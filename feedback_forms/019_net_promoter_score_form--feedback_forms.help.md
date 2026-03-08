@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experience with the company. It is likely used by customer service or marketing teams to gauge customer satisfaction and loyalty. This form is not affiliated with any specific form platform, but rather an original adaptation created using AI.
-</thinking>
-
 # Net Promoter Score Form - Help Guide
 ## Purpose
 The Net Promoter Score Form is designed to collect feedback from customers about their experience with the company. This form is likely used by customer service or marketing teams to gauge customer satisfaction and loyalty, which can help the company understand areas for improvement.

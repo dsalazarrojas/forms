@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # women_s_self_defense_seminar_fournier_s_karate--event_registration_forms - Help Guide
 
 ## Purpose

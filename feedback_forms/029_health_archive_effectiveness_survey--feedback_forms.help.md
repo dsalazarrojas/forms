@@ -1,8 +1,3 @@
-<thinking>
-We want to ensure that our users understand how the form works and what we're trying to achieve with this form. This form, "Health Archive Effectiveness Survey," is designed to gather feedback from users on the ease of use and overall effectiveness of our health archive system. It will help us understand how well our system meets the users' needs and identify areas for improvement. Please make sure to fill in all the required fields and answer the questions honestly, and do not duplicate any existing feedback if you have already provided it.
-
-</thinking>
-
 # Health Archive Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on the Health Archive Effectiveness Survey. It is meant to help us understand how well our system meets the users' needs and identify areas for improvement.

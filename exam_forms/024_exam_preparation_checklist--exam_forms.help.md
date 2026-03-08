@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users prepare for an exam by checking off items on a checklist. The user can select the necessary materials and resources needed to be prepared for the exam, such as exam preparation questions, materials, schedule, deadlines, and resources. The form also allows users to add any additional notes or contact information for future reference. This guide is meant to be used in conjunction with the provided form fields. Please ensure that you understand the purpose of each field before proceeding.
-</thinking>
-
 # Exam Preperation Checklist - Help Guide
 ## Purpose
 This form is designed to help you prepare for an exam by checking off items on a checklist.

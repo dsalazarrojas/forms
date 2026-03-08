@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nonclinical Study Feedback Form - Help Guide
 
 ## Purpose

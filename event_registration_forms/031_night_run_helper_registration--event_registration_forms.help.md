@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid duplication, this form is for registering event helpers, and the purpose is to gather information from individuals who want to assist at our organization's events. Before proceeding, please ensure you've not already registered for this event.
-
-</thinking>
-
 # Night Run Helper Registration - Help Guide
 ## Purpose
 This form is designed to help us gather information about individuals who are interested in volunteering at our events. Please complete this form to register as a helper for our upcoming event.

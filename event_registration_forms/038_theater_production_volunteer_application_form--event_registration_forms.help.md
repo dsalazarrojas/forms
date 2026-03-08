@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that the Theater Production Volunteer Application Form is used correctly to gather essential information from applicants. This form is designed to collect contact information, volunteer preferences, and other relevant details from interested individuals who want to participate in our theater productions. Before creating this guide, let's check that the form fields are accurately represented and not duplicated. 
-
-The form has the following pages: volunteer application form, contact information, volunteer skills, availability, volunteer position preference, volunteer shifts, volunteer duration, contact name, contact email, contact phone, contact address, and additional information. All pages except volunteer application form are optional, but they are actually required in practice. Volunteer position preference, volunteer shifts, and volunteer duration are required for the form to be complete. The form does not contain any redundant fields, but the "additional information" field may be considered optional in name but is practically required in practice as a placeholder for other relevant details. 
-
-The guide should provide a clear and concrete explanation of each field to help end-users understand its purpose and complete the form correctly.
-</thinking>
-
 # Theater Production Volunteer Application Form - Help Guide
 ## Purpose
 The Theater Production Volunteer Application Form is designed to collect contact information and volunteer preferences from interested individuals who want to participate in our theater productions. This form helps us gather the necessary details to place them in the right position in our team.

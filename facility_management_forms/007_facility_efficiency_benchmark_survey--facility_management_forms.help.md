@@ -1,9 +1,3 @@
-<thinking>...<thinking>
-
-This form is designed to collect data for benchmarking facility efficiency. The purpose of this form is to gather information on various aspects of facility performance, sustainability challenges, and data collection methods. This form will help organizations assess their current state and compare it with industry standards to identify areas for improvement.
-
-</thinking>
-
 # Facility Efficiency Benchmark Survey - Help Guide
 ## Purpose
 

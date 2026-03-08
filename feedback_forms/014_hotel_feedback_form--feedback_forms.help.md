@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback from customers regarding their hotel stay. The purpose of this form is to gather information about the customer's experience, identify areas for improvement, and ensure that the hotel meets its customer's expectations. This form is not meant to be filled out by hotel staff, but rather by customers who have stayed at the hotel. The feedback collected will be reviewed internally to make improvements and provide better service to future customers.
-
-</thinking>
-
 # Hotel Feedback Form - Help Guide
 
 ## Purpose

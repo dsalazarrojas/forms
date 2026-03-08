@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to onboard a wedding coordinator with necessary details to facilitate efficient and effective wedding planning and execution. It captures information on the client, event, and logistical aspects of the wedding. The form checks for duplicate entries and relevant data to avoid redundant data collection.</thinking>
-
 # Wedding Coordinator Onboarding Form - Help Guide
 ## Purpose
 The Wedding Coordinator Onboarding Form is used to gather essential details from wedding clients to ensure smooth wedding planning and execution. Please fill out this form carefully to provide the necessary information for your wedding coordination needs.

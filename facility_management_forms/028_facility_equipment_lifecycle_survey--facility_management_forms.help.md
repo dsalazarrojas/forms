@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Facility Equipment Lifecycle Survey" form is to gather information about the maintenance and status of facility equipment, including its condition, maintenance history, and replacement needs. This form aims to provide a comprehensive overview of the equipment's lifecycle, helping facility managers and maintenance teams to track and manage their equipment effectively. To avoid duplication of effort, it is essential to ensure that this form is filled out accurately and completely for each piece of equipment.
-</thinking>
-
 # Facility Equipment Lifecycle Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the maintenance and status of facility equipment.

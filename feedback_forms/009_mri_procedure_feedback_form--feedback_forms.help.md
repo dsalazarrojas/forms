@@ -1,7 +1,3 @@
-<thinking>
-This form was created to collect feedback on MRI procedures, ensuring that patients receive quality care and medical staff can improve their services. It is crucial to fill out this form accurately to provide helpful feedback. Please ensure that you are filling this form for the correct purpose and not duplicating a previous submission.
-</thinking>
-
 # MRI Procedure Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on Magnetic Resonance Imaging (MRI) procedures. Your input will help our medical staff to better understand and improve the quality of care provided to our patients.

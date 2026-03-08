@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is used for event registration with a focus on motor rides. The purpose of this form is to collect information about the event, including participant information, event details, date and time, venue, and the event organiser's email address. The form is not required, but it is designed to be completed by participants or event organisers to register for or plan an event.
-</thinking>
-
 # Motor Ride Event Registration Form - Help Guide
 ## Purpose
 This form is used to register or plan a motor ride event. It collects information about the event, including participant details, event details, date and time, venue, and the event organiser's contact information.

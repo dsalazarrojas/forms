@@ -1,12 +1,3 @@
-<thinking>
-This form aims to collect feedback on the scaling of Original Equipment Manufacturing (OEM) production processes. The purpose of this form is to gather information from users about their experiences and challenges with scaling up their production capacities. The form will help us identify areas of improvement and optimize our support to better meet the needs of our users.
-
-Before filling out this form, please ensure that you are the right person to provide feedback on the scaling of our production processes. If you are unsure or have already submitted feedback on this topic, please do not complete this form to avoid duplication of information.
-
-Please note that all responses will be kept confidential and treated fairly. Your input will help us improve our services and better serve the community.
-
-</thinking>
-
 # oem_production_scaling_feedback - Help Guide
 ## Purpose
 This form collects feedback on the scaling of Original Equipment Manufacturing (OEM) production processes to identify areas of improvement and optimize support.

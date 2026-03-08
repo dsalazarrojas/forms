@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to record employee participation in a Pride event, ensuring that the event organizers have the necessary information for planning and execution. This form will likely be completed by employees who wish to participate in the event, and will be reviewed by event organizers or management. It is essential to ensure that this form is not submitted multiple times by the same employee, and to check for any missing information before processing the form.
-</thinking>
-
 # Pride Event Participation Leave Form - Help Guide
 ## Purpose
 This form is used for employees to record their participation in the Pride event.

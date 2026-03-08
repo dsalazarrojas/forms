@@ -1,5 +1,3 @@
-<thinking>Before providing the user-facing help guide for the "Guest Experience Feedback Form", let's ensure that we're clear on the form's purpose. The form is designed to collect feedback from guests about their experience at your establishment. This feedback will help identify areas of improvement and provide valuable insights for future developments. To avoid duplication, please fill out the form only once, and be as detailed as possible to help us understand your stay better.</thinking>
-
 # Guest Experience Feedback Form - Help Guide
 
 ## Purpose

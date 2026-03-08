@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Course Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their experiences with a particular course. The form is used to gather information that can help instructors and course administrators improve the course content, structure, and overall learning experience. Please complete this form only if you are a student who has taken or is currently taking the course.

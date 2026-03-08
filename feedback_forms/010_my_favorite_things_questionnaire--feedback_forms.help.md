@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a student's and teacher's preferences and interests. The purpose of the form is to gather data that will help us better understand the student's likes and dislikes, and the teacher's areas of interest. This information will be used to create more targeted and effective learning experiences for the students. 
-
-We want to ensure that this form is completed by the right person, so we'll be verifying the identity of the person filling out the form to make sure it's not duplicated. 
-
-</thinking>
-
 # My Favorite Things Questionnaire - Help Guide
 ## Purpose
 The My Favorite Things Questionnaire is a form designed to collect information about a student's and teacher's preferences and interests. The information gathered will be used to create more targeted and effective learning experiences for students.

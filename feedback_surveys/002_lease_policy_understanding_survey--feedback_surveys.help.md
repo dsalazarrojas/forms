@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lease Policy Understanding Survey - Help Guide
 ## Purpose
 The "Lease Policy Understanding Survey" is designed to gain insight into the current state of lease policy management in your organization. It aims to help you identify areas of improvement and provide a clear understanding of lease policy management best practices.

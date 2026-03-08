@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Molecular Chaperones Quiz - Help Guide
 
 ### Purpose

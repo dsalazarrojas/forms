@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for users to report on flight punctuality and delays. The primary purpose of this form is to collect information on flights that have been delayed or cancelled, including the reason for the delay, the support team's involvement, and any additional comments. This form will guide users through a series of steps to provide a detailed report on the flight's status.
-
-To complete this form, users will need to select the type of report they want to submit (Delay Report or Flight Report), provide flight information (Flight Number, Date, and Status), choose the reason for the delay, select the support team's involvement, and enter their personal contact information. Users will also have the option to add additional comments if needed.
-
-Each field in this form has been designed to collect specific information that will help the support team understand the flight's status and respond accordingly.
-</thinking>
-
 # Flight Punctuality And Delay Report Form - Help Guide
 
 ## Purpose

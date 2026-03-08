@@ -1,7 +1,3 @@
-<thinking>
-The Christmas Wish Form 2 is designed to help individuals share their holiday wishes, traditions, and gratitude with others. This form collects information about the user's personal and family wishes, favorite Christmas memories and traditions, and any resolutions they may have for the upcoming year. Users will be asked to provide basic contact information, such as their name and email address, and then answer a series of questions about their holiday wishes, including the category, recipient, and importance of their wish. Users will also be able to share their wish with others, either privately or publicly, and indicate if they wish to inspire others with their wish. Additionally, users will be able to share their favorite Christmas memory, their favorite holiday tradition, and any resolutions they may have for the upcoming year. The form also asks users to rate the importance of their wish and how likely they are to have the wish come true in the past. Finally, users will be able to select how they would like to share their wish with others and whether they want to inspire others with their wish.
-</thinking>
-
 # Christmas Wish Form 2 - Help Guide
 ## Purpose
 This form is designed to collect information about holiday wishes, traditions, and gratitude. It is meant to be a fun and engaging way for users to share their holiday spirit with others.

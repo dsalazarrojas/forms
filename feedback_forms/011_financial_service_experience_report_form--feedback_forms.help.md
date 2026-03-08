@@ -1,9 +1,3 @@
-<thinking>
-
-We are creating this form to collect feedback on our financial services from customers. This feedback is crucial for us to understand how we are serving our customers and where we can improve. Your feedback will help us make informed decisions on how to enhance our services to better meet your needs. Please note that this form is designed to collect feedback about a single experience with our financial services. If you have had multiple experiences, please submit a separate form for each one.
-
-</thinking>
-
 # Financial Service Experience Report Form - Help Guide
 ## Purpose
 The Financial Service Experience Report Form is designed to collect feedback about your experience with our financial services. This feedback is crucial for us to understand how we are serving our customers and where we can improve. Your feedback will help us make informed decisions on how to enhance our services to better meet your needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting feedback from participants about their unique experience with our organization. The goal is to understand their satisfaction with the event they participated in and any additional comments they may have. To ensure data quality, we ask that participants complete the form only once for each experience. If you have already completed the form for a similar experience, please do not resubmit it. If you have questions or need help, please reach out to our support team.
-</thinking>
-
 # unique_experience_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from participants about their unique experience with our organization, helping us to improve future events and services.

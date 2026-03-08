@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # interactive_exhibit_sponsorship_form - Help Guide
 
 ## Purpose

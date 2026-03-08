@@ -1,8 +1,3 @@
-<thinking>
-This guide is used by internal stakeholders, including content creators and editors, to provide feedback and suggestions on phrases that should be removed from the site due to their controversial or outdated nature. The goal of the form is to provide a clear and efficient process for users to propose and justify the elimination of specific phrases. The guide helps users to understand how to use this form for effective feedback and suggestions.
-
-</thinking>
-
 # phrase_elimination_survey - Help Guide
 
 ## Purpose

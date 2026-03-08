@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will review the form purpose, structure, and fields to ensure that the user-facing help guide meets the required standards of being concrete, concise, and practical. After analyzing the provided YAML, I will output the final help document in Markdown format.</thinking>
-
 # Animal Sanctuary Visitor Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from visitors to the animal sanctuary, gathering information on their overall experience, favorite exhibits, and areas for improvement. The data collected will help the sanctuary's management make informed decisions to enhance the visitor experience and provide better services.

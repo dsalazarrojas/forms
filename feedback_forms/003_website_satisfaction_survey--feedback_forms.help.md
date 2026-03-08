@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for the Website Satisfaction Survey form. The form is used to collect feedback from users about their experience with the website. The purpose of the form is to gather insights on how users perceive the website, their satisfaction level, and potential areas for improvement. This form will help us understand our users better and make data-driven decisions to enhance the user experience.
-
-To ensure relevance and non-duplication, we will review this guide to ensure it accurately reflects the form's purpose and fields.
-
-</thinking>
-
 # Website Satisfaction Survey - Help Guide
 
 ## Purpose

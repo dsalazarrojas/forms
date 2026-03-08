@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from team members about their recent e-commerce team meeting. It will help the team understand their performance, identify areas for improvement, and create action items to address any issues raised during the meeting. 
-When filling out this form, please make sure to submit only one response per field, and that all fields are filled out to the best of your ability. If you have multiple action items to discuss, please list them all out separately in the corresponding field.
-
-</thinking>
-
 # e-commerce_team_meeting_feedback - Help Guide
 
 ## Purpose

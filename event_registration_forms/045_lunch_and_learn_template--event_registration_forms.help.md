@@ -1,13 +1,3 @@
-<thinking>...internal reasoning block for form purpose and non-duplication...
-
-The Lunch And Learn Template form is designed to collect information about upcoming events, such as lunch and learn sessions, workshops, or other activities. This form is intended to provide a structured way to register events and collect relevant details. 
-
-It is assumed that the event will have a specific date and time, and will be held at a particular location. The form should not be used for events that do not have a specific date and time, or for events that are not related to learning or professional development.
-
-Please confirm that this is the correct form for your use case, and that you have a clear understanding of its purpose and requirements.
-
-</thinking>
-
 # Lunch And Learn Template - Help Guide
 ## Purpose
 The Lunch And Learn Template form is designed to collect information about upcoming events, such as lunch and learn sessions, workshops, or other activities. This form is intended to provide a structured way to register events and collect relevant details.

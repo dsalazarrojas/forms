@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is designed to gather feedback from users on the software user interface guide. The form should be easy to understand and fill out, and each field should be clearly labeled and explained. We should also consider the types of feedback we want to gather, such as overall quality, specific sections, layout and design, additional features, and overall user experience. We should also make sure that the form is accessible and user-friendly, and that the questions are clear and concise.
-</thinking>
-
 # Software User Interface Guide Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on the software user interface guide. Your input will help us improve the guide and provide a better user experience.

@@ -1,16 +1,3 @@
-<thinking>
-This form is intended for Fashion Buyers to provide RSVPs for preview events. The form is likely used in the context of a retail or fashion industry where events are organized for buyers to preview upcoming fashion lines or collections. The form's purpose is to collect information about the buyer's available dates and times to attend the event. The field explanations should be straightforward and practical, avoiding any technical jargon or unnecessary details.
-
-Before starting the form, it's essential to review the form's purpose and relevance to ensure that it's being used correctly. This form might be part of a larger registration process, and it's crucial to understand the internal logic of the organization to avoid duplication of effort or misallocation of resources.
-
-This guide will cover the following aspects:
-
-*   **How to complete this form**
-*   **Field-by-field explanation**
-
-Each field is crucial to the form's purpose, and users should fill it out carefully to ensure accurate and helpful responses.
-</thinking>
-
 # Fashion Buyer Preview RSVP Form - Help Guide
 ## Purpose
 This form is designed for Fashion Buyers to RSVP for preview events, allowing them to schedule their attendance and receive updates on upcoming fashion lines or collections.

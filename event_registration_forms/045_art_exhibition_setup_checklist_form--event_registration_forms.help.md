@@ -1,18 +1,3 @@
-<thinking>
-
-This form is designed to help you prepare for an art exhibition by ensuring that all necessary steps and tasks are completed before the event. This form is not meant to be a substitute for actual planning and execution, but rather a tool to help you keep track of your progress and ensure that everything is in order.
-
-Before proceeding, please note that this form is a checklist of essential tasks that should be completed for a successful art exhibition. Completing this form will help you:
-
-* Identify areas that require attention
-* Prioritize tasks
-* Track progress
-* Ensure that all necessary steps are taken
-
-Please ensure that you have reviewed and understood each field and its corresponding options carefully before filling out this form.
-
-</thinking>
-
 # Art Exhibition Setup Checklist Form - Help Guide
 ## Purpose
 

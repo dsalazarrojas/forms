@@ -1,8 +1,6 @@
 # Photography Release Consent Form - Help Guide
 
 ## Purpose
-<thinking>Before you begin, we want to confirm that this form is for obtaining client consent for photography services. It ensures that you're aware of and agree to our policies regarding photo releases. Please review the form carefully and answer all the fields to ensure a smooth and secure process.</thinking>
-
 ## How To Complete This Form
 To fill out this form, please follow the steps below:
 1. Select the "Client Consent" option: Choose the correct answer for the client's consent to our photography services.

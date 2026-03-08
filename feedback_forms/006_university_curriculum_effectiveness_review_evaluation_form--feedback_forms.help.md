@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about the effectiveness of university programs. The purpose of this form is to gather information about the user's experience with a specific program, including their feedback score and comments. This form is intended to be completed by students, faculty, or staff members who have experience with the program. Please ensure that you have a clear understanding of the program before completing this form, as the information collected will be used to improve the program's quality and effectiveness. To avoid duplication of effort, please only complete this form if you have not already provided feedback on this program. If you are unsure whether this form is relevant to you, please contact the program administrator for clarification.</thinking>
-
 # University Curriculum Effectiveness Review Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about the effectiveness of university programs.

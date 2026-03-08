@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by managers or HR personnel to collect feedback on individual employees' performance, well-being, and job satisfaction. The purpose of this form may be to identify areas of strength and weakness for the employee and provide recommendations for improvement.
-</thinking>
-
 # individual_performance_and_wellbeing_survey - Help Guide
 ## Purpose
 This form is used to collect feedback on individual employees' performance, well-being, and job satisfaction. The feedback will help identify areas of strength and weakness for the employee and provide recommendations for improvement.

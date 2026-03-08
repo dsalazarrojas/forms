@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect feedback from participants who have attended a live training session. The purpose of the form is to gather information on the training program, session date and time, participant's name and organization, session leaders, comments, feedback rating, email, and phone number. The form is required to be filled out by all participants to ensure that their feedback is collected accurately and effectively. To avoid duplication of feedback, this form should not be filled out multiple times by the same participant.
-
-</thinking>
-
 # Live Training Feedback Form - Help Guide
 ## Purpose
 The Live Training Feedback Form is used to collect feedback from participants who have attended a live training session. This feedback will help evaluate the effectiveness of the training program and improve future trainings.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from guests about the dinner reception experience, allowing event organizers to gather insights and improve future events. It's likely intended for event attendees to share their thoughts on the dinner menu, suggest improvements, and provide contact information for follow-up. The form is not strictly required, so users can choose not to fill it out if they wish. The "Contact details" field is likely for users to specify how they'd like to be contacted (e.g., Email, Phone, SMS, Social). The "Comments" field is for any additional thoughts or comments guests may have about the experience.
-</thinking>
-
 # dinner_reception_menu_feedback - Help Guide
 ## Purpose
 The dinner reception feedback form is designed to collect guest feedback on the dinner menu and overall experience. This helps event organizers understand what guests enjoyed or didn't enjoy, and identify areas for improvement.

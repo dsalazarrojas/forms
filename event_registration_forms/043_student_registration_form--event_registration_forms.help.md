@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect demographic information from students for academic purposes. The form fields are designed to be filled out by students to register themselves for an academic program. The fields are organized into a single page and are all required fields, except for "Other Program" which is optional. This form is likely part of an online application process where students can provide their details and select their program of interest. Before filling out the form, please ensure you have reviewed the program requirements and have all necessary information readily available.
-
-</thinking>
-
 # Student Registration Form - Help Guide
 
 ## Purpose

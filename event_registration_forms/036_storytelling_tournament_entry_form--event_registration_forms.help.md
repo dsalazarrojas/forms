@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to provide information about a storytelling competition. The purpose of the form is to collect contact and story submission details from participants. 
-The required information includes participant's name, email, phone number, gender, age, city, state, and country. The form will be used to evaluate and select winners of the storytelling competition. 
-</thinking>
-
 # Storytelling Tournament Entry Form - Help Guide
 ## Purpose
 This form is used to gather participant information and submission details for the storytelling competition.

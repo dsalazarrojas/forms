@@ -1,16 +1,3 @@
-<thinking>
-The "excellence_in_customer_service_nomination_form" form is a crucial tool for recognizing outstanding service representatives within an organization. This form allows users to easily nominate and acknowledge exceptional service provided by colleagues, which can help foster a positive work environment and promote a culture of service excellence.
-
-To determine if this form is relevant for the user, consider the following:
-
-* Is the user an employee of the organization?
-* Is the user authorized to submit nominations on behalf of colleagues?
-* Is there a clear understanding of the nomination process within the organization?
-
-If the above conditions are met, then the form is likely relevant for the user. Also, ensure that the user is not duplicating effort by checking if similar forms or procedures already exist within the organization.
-
-</thinking>
-
 # excellence_in_customer_service_nomination_form - Help Guide
 ## Purpose
 The Excellence in Customer Service Nomination Form is a tool for recognizing outstanding service representatives within an organization. This form allows users to easily nominate and acknowledge exceptional service provided by colleagues, promoting a culture of service excellence.

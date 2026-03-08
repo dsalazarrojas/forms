@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Green Waste Management Survey - Help Guide
 
 ## Purpose

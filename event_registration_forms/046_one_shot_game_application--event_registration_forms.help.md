@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for players to apply for a one-shot game event. The form should only be filled out by players, not game masters. The form is used to collect player information and preferences for the game event. It is not intended to be filled out by game masters or other staff members.
-
-The form will be used to determine which players are eligible to participate in the one-shot game event. The form should be completed with accurate and truthful information. 
-
-Please note that the form is not intended for game masters to fill out. If you are a game master, do not fill out this form.
-
-</thinking>
-
 # one_shot_game_application - Help Guide
 ## Purpose
 The one-shot game application form is used to collect player information and preferences for a one-shot game event. It is intended for players to apply to participate in the event.

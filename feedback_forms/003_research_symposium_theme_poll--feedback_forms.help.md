@@ -1,5 +1,3 @@
-<thinking>...The form is designed to collect feedback from users on the research symposium theme. The form is used to gather information on the theme's description, keywords, image, color, background, font, size, location, date, time, email, phone, website, social media links, and other relevant details. This form is intended to help the organizers of the research symposium to better understand the preferences and expectations of the users regarding the theme of the event... </thinking>
-
 # Research Symposium Theme Poll - Help Guide
 ## Purpose
 This form is designed to help the organizers of the research symposium gather feedback and information on the theme of the event.

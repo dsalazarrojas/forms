@@ -1,12 +1,3 @@
-<thinking> 
-The form "Habilitation Program Satisfaction Survey" is designed to collect feedback from participants about their experience with the habilitation program. This form is likely used by program administrators to assess the satisfaction level of participants with the program, its instructors, and facilities. The form may be sent to participants after they have completed the program. It's possible that the form is used to evaluate the effectiveness of the program and make improvements for future participants.
-
-To confirm, this form is likely used for program evaluation and improvement purposes, and not for general feedback or complaints.
-
-To ensure that this form is not duplicated for the same participant, you may want to add a unique identifier or a token to track responses.
-
-</thinking>
-
 # habilitation_program_satisfaction_survey - Help Guide
 ## Purpose
 The Habilitation Program Satisfaction Survey is a form designed to collect feedback from participants about their experience with the habilitation program. This survey aims to evaluate the program's effectiveness and identify areas for improvement.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from clients about their experience with our hair consultation services. We want to understand what they think about the clarity of our prices, the type of consultation they received, and how satisfied they are with the outcome. This feedback will help us improve our services and make sure we meet our clients' expectations. It's essential to complete this form thoroughly and accurately, as the data will help us refine our services and ensure that our clients have a positive experience. 
-This form is a one-time use form, and responses will not be shared or used for any other purpose other than improving our services. We will not collect or use any sensitive or personal identifiable information from this form. 
-Please ensure that you're completing this form with the most recent experience you've had with our consultation services.
-</thinking>
-
 # Hair Consultation Transparency Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients about their experience with our hair consultation services. The information collected through this form will help us improve our services and provide a better experience for our clients.

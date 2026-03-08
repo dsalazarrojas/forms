@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather customer feedback on products, allowing users to share their experiences and opinions with the company. The form is divided into multiple pages, with each page containing a set of questions or fields that ask for specific information. The form collects feedback on products, the customer's satisfaction level with the products, and demographic information such as email and phone number.
-
-The form will only be used for internal analysis and will not be publicly visible. To ensure that feedback is not duplicated, users will be required to fill out all fields before submitting the form. Please ensure that you only complete the form once and do not submit duplicate feedback.
-
-Please note that the form fields may not be visible or functional in all browsers and devices due to technical limitations.
-
-</thinking>
-
 # Product Feedback Form - Help Guide
 ## Purpose
 The Product Feedback Form is designed to gather customer feedback on products and services. This form will help us understand your experience with our products and services and provide us with valuable insights to improve our offerings.

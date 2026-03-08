@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees of a conference, allowing them to rate their experience in various aspects such as overall satisfaction, session quality, logistics, and networking opportunities. The feedback will help the conference organizers to improve future events by identifying areas that need improvement and gathering suggestions for future events. 
-
-To ensure accurate and useful feedback, please complete the form only if you attended the conference. Do not submit duplicate forms.
-
-</thinking>
 # Conference Experience Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of a conference, allowing them to rate their experience in various aspects such as overall satisfaction, session quality, logistics, and networking opportunities. The feedback will help the conference organizers to improve future events.

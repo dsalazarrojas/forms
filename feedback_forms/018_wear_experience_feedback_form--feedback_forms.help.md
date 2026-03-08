@@ -1,10 +1,3 @@
-<thinking>
-This help guide will cover the Wear Experience Feedback Form, which is designed to collect feedback from users about their experiences with wearables. The form is used to gather information about user satisfaction, preferences, and concerns regarding wearables. This form is intended to be filled out by users who have worn a specific wearable item, and their responses will help us improve our products and services.
-
-Before starting, please ensure that you have not already submitted feedback for this specific wearable. If you have, your feedback will not be recorded or considered duplicate.
-
-</thinking>
-
 # Wear Experience Feedback Form - Help Guide
 ## Purpose
 The Wear Experience Feedback Form is designed to collect feedback from users about their experiences with wearables. This form helps us understand user satisfaction, preferences, and concerns, allowing us to improve our products and services.

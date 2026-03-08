@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from respondents on the design of a catalogue, providing an opportunity for them to express their opinions on various aspects of the design. The purpose of this form is to collect qualitative feedback on the catalogue design, helping to identify areas of improvement and ensuring that the design meets the requirements and expectations of the stakeholders.
-The following form is part of the larger effort to improve catalogue design and ensure that it effectively represents the brand's identity and messaging. This form should only be completed by respondents who have reviewed the catalogue, and their feedback will be used to inform future design decisions.
-Please ensure that you have reviewed the catalogue before providing your feedback. Your input is invaluable in helping us create an excellent design.
-</thinking>
-
 # Catalogue Design Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the design of a catalogue, allowing us to improve and refine our design to better represent the brand's identity and messaging.

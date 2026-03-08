@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from customers after they have completed an online payment. The purpose of this form is to allow customers to provide feedback on their experience with the payment process, including whether the payment was successful or failed, and to offer suggestions for improvement. This form should only be filled out by customers who have made an online payment. If a customer has already completed this form, please do not fill it out again.
-</thinking>
-
 # Online Payment Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from customers after they have made an online payment. Please answer the questions below to provide us with information on your experience with the payment process.

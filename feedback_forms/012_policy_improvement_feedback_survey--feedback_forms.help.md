@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to gather feedback from users on policy improvement areas, current and proposed processes, and other relevant information. The form is used to collect data that will help us understand areas where policies can be improved and how processes can be enhanced. The form is not a mandatory form, meaning users do not have to fill it out, but it is highly encouraged for users to provide their feedback. Users may fill out as many or as few fields as they want, depending on their input. 
-</thinking>
-
 # Policy Improvement Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on policy improvement areas, current and proposed processes, and other relevant information. This feedback will help us understand areas where policies can be improved and how processes can be enhanced.

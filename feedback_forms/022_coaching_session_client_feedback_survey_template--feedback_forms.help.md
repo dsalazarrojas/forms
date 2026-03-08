@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather feedback from clients after a coaching session. It's meant to understand their overall experience, how useful they found the session, and their perception of the coach's professionalism, knowledge, and communication skills. The form is divided into sections that cover different aspects of the session, such as respondent information, session details, and coach qualities. This template is a helpful tool for coaches to gain valuable insights and areas for improvement.
-</thinking>
 # Coaching Session Client Feedback Survey Template - Help Guide
 ## Purpose
 This form aims to collect feedback from clients after a coaching session. It's divided into sections that cover various aspects of the session.

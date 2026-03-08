@@ -1,5 +1,3 @@
-<thinking>...this form is for documenting and processing expense reports for meetings, allowing users to record and track meeting-related expenses, including dates, locations, attendees, notes, expense types, and approval statuses. This form aims to provide a comprehensive and standardized way of reporting expenses related to meetings, ensuring accuracy and consistency in tracking and managing such expenses.</thinking>
-
 # expense_report_for_meetings - Help Guide
 ## Purpose
 

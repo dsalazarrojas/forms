@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, let's break down the purpose and requirements of this form. This form is for collecting feedback from the e-commerce team after a meeting. The form has several sections for rating different aspects of the meeting, such as meeting ratings, collaboration, communication, decisions, and more. The "Suggestions" field is for providing any feedback or suggestions, and the "Next Steps" field is for providing any next steps or follow-ups. The overall rating section includes various ratings, such as "Satisfaction" which is a select-one field with options: "High", "Low", "None". We should ensure that the form is user-friendly and clear in its purpose and instructions.</thinking>
-
 # E-Commerce Team Meeting Feedback - Help Guide
 ## Purpose
 The E-Commerce Team Meeting Feedback form is designed to gather feedback from the team after the meeting. This form helps to evaluate the effectiveness of the meeting in terms of meeting ratings, collaboration, communication, and other important aspects.

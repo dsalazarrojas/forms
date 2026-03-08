@@ -1,12 +1,3 @@
-<thinking>
-This form is used to document and report incidents of unauthorized entry into facilities. 
-The purpose of this form is to gather information about the incident in a structured and standardized way, making it easier to track and analyze incidents. 
-Please ensure that you only submit one incident report per facility per incident. Re-submission of the same incident report will be treated as a new submission. 
-Ensure that you provide accurate and complete information for the incident report. Incomplete or inaccurate information may lead to difficulties in investigating or resolving the incident. 
-Ensure that you fill in all relevant fields for accurate reporting. 
-Ensure that you only submit a new incident report if the incident has not been previously reported. 
-</thinking>
-
 # Facility Unauthorized Entry Incident Report - Help Guide
 
 ## Purpose

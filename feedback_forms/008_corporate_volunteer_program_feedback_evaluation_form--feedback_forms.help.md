@@ -1,11 +1,3 @@
-<thinking>
-We are creating a form to collect feedback and evaluation from participants of the Corporate Volunteer Program. This form will help us understand the participant's experience with the program and identify areas for improvement.
-To ensure that you provide us with accurate and helpful feedback, please note that:
-
-* You are only required to fill out this form once per participant.
-* If you have already completed this form, your feedback will not be accepted as duplicate.
-</thinking>
-
 # corporate_volunteer_program_feedback_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation from participants of the Corporate Volunteer Program. Your input will help us understand your experience and identify areas for improvement.

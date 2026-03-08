@@ -1,7 +1,3 @@
-<thinking>
-We can use this internal reasoning block to confirm that we don't have any issues with the form purpose and to prevent duplication of effort.
-</thinking>
-
 # Embrace Shindigs Guest Info Card - Help Guide
 ## Purpose
 This form is designed to collect guest information for the "Embrace Shindigs" event. It requires users to provide their first name, last name, email, contact method, primary service area, worship frequency, service frequency, connection frequency, activity core, core frequency (1-8), date, time, note, phone number, and assigned person, time, and location.

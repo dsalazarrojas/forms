@@ -1,16 +1,3 @@
-<thinking>
-
-This internal reasoning block will explain the form's purpose, relevance, and non-duplication checks. I will then output the markdown help guide for the end users.
-
-**Form purpose:** The Property Damage Recovery Feedback Survey is a survey designed to collect information from users who have experienced damage to their properties due to various causes such as fire, water, or vandalism. The form will guide users through a series of questions to gather detailed information about the damage, including the type of damage, location, and contact details. This data will be used to process and respond to the incident.
-
-**Relevance and non-duplication checks:**
-
-*   Ensure the user has experienced property damage due to a covered event or cause.
-*   Verify that the user is not submitting a duplicate report.
-
-</thinking>
-
 # Property Damage Recovery Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect information from you about your property damage experience. Please provide your feedback to help us improve our processes and better understand your situation.

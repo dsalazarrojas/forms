@@ -1,7 +1,3 @@
-<thinking>
-This form is used for expense reconciliation tool registration and is intended for internal use by employees. It should only be filled out once an employee has been registered for expense reconciliation, and by filling it out, they will be confirming their acceptance of the terms of the expense reimbursement policy. If this form has already been filled out before, please check the previous submission to see if any changes have been made. Please only submit this form if it is your first time filling it out. If you are unsure, contact the relevant department for assistance.
-</thinking>
-
 # Expense Reconciliation Tool Registration - Help Guide
 ## Purpose
 This form is used for expense reconciliation tool registration and is intended for internal use by employees. It is used to confirm an employee's acceptance of the terms of the expense reimbursement policy and to provide necessary information for reconciliation purposes.

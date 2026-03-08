@@ -1,10 +1,3 @@
-<thinking>
-This form is used to schedule an event rehearsal. 
-- The form should only be filled out if there is an actual event scheduled for the specific date/time. 
-- Repeating this form for a date/time that is already scheduled may cause scheduling conflicts. 
-- This form should be filled out by the person who is scheduling the event rehearsal.
-</thinking>
-
 # Event Rehearsal Scheduling Form - Help Guide
 ## Purpose
 The Event Rehearsal Scheduling Form is used to schedule an event rehearsal.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from students for exam registration. The form is used to register students for exams, and the purpose of this guide is to help students understand how to fill out the form correctly. 
-
-The form is composed of 13 fields, including student name, email, phone number, exam ID, exam date, exam time, exam location, exam details, exam status, exam type, exam center, exam comments, submitted by, submitted on, exam center name, and exam type name. The form is required to be filled out by all students registering for exams.
-
-</thinking>
-
 # Exam Registration Form - Help Guide
 ## Purpose
 The Exam Registration Form is designed to collect information from students for exam registration purposes. This form is essential for students to register for exams and ensure that their registration is processed correctly.

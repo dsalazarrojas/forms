@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a user-facing help guide for this Editor Recommendation Form that explains its purpose, how to complete it, and what each field means. I'll start by providing a brief internal reasoning block to ensure I understand the form's purpose and potential issues that may arise when completing it.</thinking>
-
 # Editor Recommendation Form - Help Guide
 
 ## Purpose

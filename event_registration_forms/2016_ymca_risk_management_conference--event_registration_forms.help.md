@@ -1,8 +1,3 @@
-<thinking>
-Please review the form and the provided YAML fields to understand the form's purpose and structure. It appears to be a registration form for the 2016 YMCA Risk Management Conference. The form likely collects personal information, conference details, and logistics information from attendees, including their experience level, how they heard about the conference, attendance days, T-shirt size, preferred contact method, consent to recording and email updates, payment method, and additional comments. To avoid duplication and ensure accuracy, please review the form carefully and provide guidance on completing it correctly. The provided YAML fields seem to suggest that the form is quite comprehensive, covering various aspects of the attendees' experience and preferences. Please note that some fields are marked as required, indicating they must be completed for registration to be successful. Reviewing this form will help ensure that attendees provide the necessary information and complete the form accurately. 
-
-</thinking>
-
 # 2016 Ymca Risk Management Conference - Help Guide
 ## Purpose
 This form is for registration to the 2016 YMCA Risk Management Conference. Please fill out this form to provide your personal information, conference details, and logistics information.

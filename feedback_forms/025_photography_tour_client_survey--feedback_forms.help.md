@@ -1,5 +1,3 @@
-<thinking>...checking for relevance and non-duplication...</thinking>
-
 # photography_tour_client_survey - Help Guide
 ## Purpose
 The **photography tour client survey** is designed to collect feedback from clients who have participated in a photography tour. This form helps us understand their experience, satisfaction, and areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with a web application. It's meant to be filled out by participants in the usability testing process. The form is optional, which means users can choose to fill it out or not, depending on their willingness to provide feedback. Please note that this form is not meant for users to report technical issues or ask for help with the application, but rather for them to share their thoughts and opinions about their interaction with the application.
-</thinking>
-
 # Eye Tracking Interaction User Feedback Form - Help Guide
 
 ## Purpose

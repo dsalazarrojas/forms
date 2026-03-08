@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: This form is for registering for the Mother's Day Tea event. It collects information about the guest's attendance, contact details, and relationship to the host or guest of honor.
-</thinking>
-
 # Mother's Day Tea Invitation - Help Guide
 ## Purpose
 This form is designed to collect information about the Mother's Day Tea event. It includes fields for registering for the event, providing contact details, and specifying the relationship between the host/guest of honor and the guest.

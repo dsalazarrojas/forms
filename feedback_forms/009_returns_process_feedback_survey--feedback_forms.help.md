@@ -1,8 +1,3 @@
-<thinking>
-This form is a user-facing feedback survey used to gather information about the returns process. The form is intended for customers to provide feedback on their experiences with the return process, which will help the company understand areas for improvement and optimize the process. To ensure that the form is being filled out correctly, please make sure that you have a genuine reason for filling out this form. If you've already submitted feedback, please do not submit duplicate feedback.
-
-</thinking>
-
 # returns_process_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers on their experiences with the return process. Your responses will help us understand what we do well and what we can improve.

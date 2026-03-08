@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect feedback from participants who have attended an information session. The purpose of this form is to gather valuable insights, suggestions, and ratings from participants to help improve future sessions. 
-
-This form will only be available to participants who have attended the session, and the data collected will not be duplicated or reused. 
-
-</thinking>
-
 # information_session_feedback_form - Help Guide
 ## Purpose
 The information session feedback form is a tool used to collect feedback from participants after an information session. This feedback is crucial for us to understand what participants learned from the session, what they found valuable, and if they have any suggestions for future sessions.

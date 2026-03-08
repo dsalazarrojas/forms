@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential volunteers about their personal details, skills, and availability for background checks. 
-The form aims to collect comprehensive data to facilitate effective volunteer recruitment and management processes within the organization.
-The form is not intended to be a comprehensive employment application form, and its completion is not a guarantee of acceptance as a volunteer. 
-The organization's decision to accept a volunteer will still be based on the individual's suitability for the volunteer role and the organization's needs at the time.
-</thinking>
-
 # Volunteer Recruitment Checklist Form - Help Guide
 
 ## Purpose

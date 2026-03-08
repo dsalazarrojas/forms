@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect testimonials from clients who have achieved their weight loss goals through the Weight Loss Journey program. The form is intended for individuals who have successfully completed the program and wish to share their success story. Please note that the form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI-generated form design.
-
-When completing this form, please ensure that the information provided is accurate and true to your experience with the program.
-
-</thinking>
-
 # Weight Loss Journey Testimonial Form - Help Guide
 
 ## Purpose

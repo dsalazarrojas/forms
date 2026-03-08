@@ -1,7 +1,3 @@
-<thinking>
-The form is likely designed to collect registration information for yoga events, allowing participants to sign up for a specific event. The form may be used for internal tracking purposes, and the data collected could be used for communication and organization within the yoga event. It would be best to review the internal requirements and ensure this form is not duplicating any existing processes or forms within the system.
-</thinking>
-
 # Yoga Registration - Help Guide
 ## Purpose
 The Yoga Registration form is designed to collect participant information for a yoga event. This form will help us track and organize registrations.

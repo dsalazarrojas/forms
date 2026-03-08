@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on their experience with our online platform. The purpose of this form is to gather insights from users to improve the overall user interface and user experience of our platform. It is intended to be filled out by users who have used our platform and wish to provide their honest feedback. 
-</thinking>
 # Online Platform User Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on their experience with our platform. It is intended to be filled out by users who have used our platform and wish to provide their honest feedback.

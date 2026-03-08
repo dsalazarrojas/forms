@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vehicle_issues_report_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about vehicle issues reported by users. It helps to understand the problems encountered with a vehicle, including the description, date, time, and condition of the vehicle, and any related repair history. This data can be used to identify common issues and improve maintenance schedules to prevent future problems.

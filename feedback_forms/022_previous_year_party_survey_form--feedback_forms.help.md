@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## previous_year_party_survey_form - Help Guide
 ### Purpose
 This form is designed to collect feedback and ratings from users about the previous year's party. It aims to capture information about the party's overall quality, themes, attendees, and activities. Please fill this form only if you attended the previous year's party.

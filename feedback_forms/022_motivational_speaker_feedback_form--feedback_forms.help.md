@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the Motivational Speaker Feedback Form is used correctly and consistently, we must first understand its purpose and required fields. The form is designed to collect feedback about the speaker's performance during an event or presentation. It appears that the form has a mix of fields with varying levels of complexity and importance. The field types and required flags indicate that the form is more about collecting qualitative and quantitative feedback rather than just ratings. This form will likely be used to evaluate the speaker's effectiveness, style, and overall presentation. To avoid duplication and ensure relevance, let's review the fields carefully and provide clear explanations for each.
-</thinking>
-
 # Motivational Speaker Feedback Form - Help Guide
 ## Purpose
 The Motivational Speaker Feedback Form is designed to collect qualitative and quantitative feedback about the speaker's performance during an event or presentation.

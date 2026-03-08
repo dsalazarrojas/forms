@@ -1,8 +1,3 @@
-<thinking>
-**Internal reasoning block**
-This form is designed to gather feedback from users about their experience with Showgirls in a specific context. The form has 25 fields, including select_one, select_multiple, number, date, time, and text fields. The form is divided into two main sections: a series of questions about the Showgirl's performance and a section for additional comments and feedback. The purpose of this form is to collect data to improve the overall quality of service and identify areas of improvement.
-</thinking>
-
 # showgirl_experience_feedback_form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with Showgirls. The feedback will help us understand what you think about the Showgirl's performance, attitude, and overall experience.

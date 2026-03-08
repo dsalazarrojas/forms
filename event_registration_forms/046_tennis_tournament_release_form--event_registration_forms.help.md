@@ -1,11 +1,3 @@
-<thinking>
-The Tennis Tournament Release Form is designed to gather information about the participant's medical history, emergency contact information, and other relevant details. This form ensures that participants are aware of the potential risks and consequences of participating in the tournament, and that they have provided accurate and comprehensive information about their medical history and emergency contact details.
-
-To avoid duplication of effort, please only use this form for participants who have not previously signed a registration form for this tournament.
-
-This form serves as an agreement between the participant, their parent/legal guardian, and the tournament organizers to ensure a safe and enjoyable experience for all participants.
-</thinking>
-
 # Tennis Tournament Release Form - Help Guide
 ## Purpose
 

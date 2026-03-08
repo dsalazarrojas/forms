@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and complaints from employees about their work experience, providing a channel for internal resolution and improvement. The form is meant to gather information on specific incidents or concerns, their nature, and the desired resolution. This form is not intended for general feedback or suggestions, but rather for addressing specific issues that affect the employee's work performance and well-being.
-
-To ensure that employees feel comfortable and safe reporting complaints, this form allows for anonymous submission. However, if an employee's name is provided, it may be used for follow-up and resolution purposes.
-
-Before submitting a complaint, ensure that you have not submitted a similar issue in the past. Duplicate submissions may lead to unnecessary follow-up and may not receive the attention it needs.
-
-</thinking>
-
 # Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and complaints from employees about their work experience, providing a channel for internal resolution and improvement.

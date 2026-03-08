@@ -1,10 +1,3 @@
-<thinking>
-The form is designed for collecting feedback from users about a series of events, likely in a corporate or professional setting. The form is intended to collect general information about the event, but it does not seem to have any specific requirements or constraints on the type of feedback or data to be collected. Given the high number of fields, it's possible that this form is intended for a comprehensive evaluation or feedback collection.
-
-Please review the form and ensure that the fields are correctly understood in the context of the form's purpose. Also, consider adding more guidance on how to complete the form and what each field means to ensure users understand what is expected of them.
-
-</thinking>
-
 # event_survey - Help Guide
 ## Purpose
 The event_survey form is designed to collect feedback from users about a series of events. This form is intended for general information collection and may be used to evaluate or improve the events.

@@ -1,7 +1,3 @@
-<thinking>
-We can assume that the form is used for certification exams, possibly for professionals in the field of genetics. This form likely aims to collect information about the user, such as their personal details and exam-related data. The form might be used for administrative purposes or for tracking and verifying user credentials. This explanation assumes that the form is meant to be used by individuals seeking certification, but this could be a general-purpose form for collecting user details in a genetics-related context. It is likely that this form would be part of a more comprehensive system, and this help guide would be supplementary. 
-</thinking>
-
 # genetics_certification_exam_form - Help Guide
 ## Purpose
 This form is designed to collect user information and exam-related data for certification purposes in the field of genetics. It helps to create a record of user credentials and exam details, which can be useful for administrative or verification tasks.

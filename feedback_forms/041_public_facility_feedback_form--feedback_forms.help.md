@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Facility Feedback Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the progress of renovation projects. It is intended for use by project managers, clients, or other stakeholders to provide their input on the project's current status, issues, and concerns. This form helps to ensure that all relevant information is captured and that progress is tracked accurately.
-To ensure that feedback is actionable and useful, please make sure to provide clear and concise answers, and avoid including any confidential or sensitive information. Please note that some fields are optional, but providing as much detail as possible will help to provide a comprehensive view of the project's progress.
-</thinking>
-
 # renovation_progress_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the progress of renovation projects. It is intended for use by project managers, clients, or other stakeholders to provide their input on the project's current status, issues, and concerns.

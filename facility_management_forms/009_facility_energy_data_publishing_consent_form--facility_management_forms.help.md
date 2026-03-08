@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather user consent from facility managers or administrators for the publishing of facility energy data. The purpose of this form is to ensure that the facility has given explicit consent for the publication of their energy data, which will be used for reporting and analytics purposes. This form is typically used in a facility management context, and the user is expected to be the facility manager or someone with the authority to make decisions on behalf of the facility. 
-</thinking>
-
 # Facility Energy Data Publishing Consent Form - Help Guide
 ## Purpose
 The Facility Energy Data Publishing Consent Form is designed to gather user consent for the publishing of facility energy data. This form is used to ensure that the facility has given explicit consent for the publication of their energy data, which will be used for reporting and analytics purposes.

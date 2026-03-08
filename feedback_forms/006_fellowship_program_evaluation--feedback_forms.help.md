@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the quality and effectiveness of a fellowship program. The purpose of this form is to gather feedback and ratings from participants, which will be used to identify areas of improvement and inform future program development. This form should be filled out by individuals who have participated in the program, such as participants, program staff, or stakeholders.
-</thinking>
-
 # fellowship_program_evaluation - Help Guide
 ## Purpose
 This form is used to evaluate the quality and effectiveness of a fellowship program. The form aims to gather feedback and ratings from participants, which will be used to identify areas of improvement and inform future program development.

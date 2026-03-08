@@ -1,7 +1,3 @@
-<thinking>
-This form is for enrolling participants in a peacebuilding workshop. This guide will help ensure that participants complete the form correctly and accurately. Please note that the form is meant for individual enrollment, and any duplication or incorrect data entry may result in incorrect workshop placement. Before completing the form, please make sure you are registering yourself or someone else with your permission.
-</thinking>
-
 # peacebuilding-workshop-enrollment-form - Help Guide
 ## Purpose
 This is the peacebuilding workshop enrollment form. The form is designed to gather information from participants to facilitate their enrollment in the workshop. Please fill out the form accurately and completely to ensure a smooth registration process.

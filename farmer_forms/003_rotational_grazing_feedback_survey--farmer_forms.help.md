@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and data from farmers about their rotational grazing experiences. It will help us understand their goals, practices, and challenges related to rotational grazing, as well as their level of satisfaction with the technique. This data will be used to inform future improvements and support for farmers who use rotational grazing. This form should only be completed by farmers who are actively practicing rotational grazing and are interested in sharing their experiences and opinions.
-
-</thinking>
-
 # Rotational Grazing Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and data from farmers about their rotational grazing experiences.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who are not familiar with the Human Cell Expansion Feedback Form. The form is designed to collect information about the status of human cell expansion, which is a crucial step in various cellular biology processes. This form helps researchers and scientists provide feedback on the success or failure of cell expansion, providing valuable insights for future experiments and improvements. Before filling out this form, please ensure that you have not submitted similar feedback on the same cell expansion experiment. Duplicates may lead to unnecessary data entry and affect the accuracy of the feedback analysis.
-</thinking>
-
 # Human Cell Expansion Feedback Form - Help Guide
 ## Purpose
 

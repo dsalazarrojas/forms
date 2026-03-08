@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Fitness Park Feedback Survey Form. The form is designed to collect feedback on the fitness park, and its purpose is to provide insights that can be used to improve the park's facilities, equipment, and overall experience. To ensure that the form is completed accurately and thoroughly, we will review each field to prevent duplication of effort and ensure that the user understands what is expected of them.
-
-</thinking>
-
 # Fitness Park Feedback Survey Form - Help Guide
 
 ## Purpose

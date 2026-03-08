@@ -1,8 +1,3 @@
-<thinking>
-We will create this help guide for the "Exterior Shade Expectation Survey" form. We will break it down into sections: Purpose, How To Complete This Form, Field-by-Field Explanation, and Tips.
-
-</thinking>
-
 # Exterior Shade Expectation Survey - Help Guide
 
 ## Purpose

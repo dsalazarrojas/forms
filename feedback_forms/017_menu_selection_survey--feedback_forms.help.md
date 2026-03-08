@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on menu selection options. It is likely intended for use in a customer-facing or user experience-related context, such as a restaurant or retail setting where customers can provide input on menu items. The form has 25 select_one fields, each representing a different menu item, and is likely intended to help business owners or managers understand customer preferences and make informed decisions. To ensure relevance, please review the following form carefully before providing feedback.
-</thinking>
-
 # menu_selection_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on menu selection options. It is intended for use in a customer-facing or user experience-related context, such as a restaurant or retail setting where customers can provide input on menu items.

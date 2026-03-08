@@ -1,10 +1,3 @@
-<thinking>
-This form is used to track the exit offboarding process of a volunteer coordinator, ensuring that the individual's departure is smooth and effective. 
-To ensure that the form is filled out accurately, it is recommended that only one volunteer coordinator be offboarded at a time. 
-This form can be filled out by a volunteer coordinator or their designated representative. 
-The form is used to gather feedback and comments to help improve the offboarding process and future volunteer engagement. 
-</thinking>
-
 # Volunteer Coordinator Exit Offboarding Form - Help Guide
 ## Purpose
 The purpose of this form is to track the exit offboarding process of a volunteer coordinator, ensuring that their departure is smooth and effective.

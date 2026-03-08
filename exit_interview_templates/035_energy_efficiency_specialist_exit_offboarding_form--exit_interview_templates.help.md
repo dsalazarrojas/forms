@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly, and the purpose of this guide is to help employees understand the importance of completing the energy efficiency specialist exit offboarding form accurately and thoroughly.
-
-The form is designed to collect information about an employee's departure, which is essential for smooth and efficient offboarding processes. It's crucial to complete this form carefully, as the information collected will be used to update the employee's profile, ensure a smooth transition, and maintain a professional relationship with the employee.
-
-Before starting, please make sure you haven't completed this form previously. If you're unsure, check with your supervisor or the HR department to avoid duplicating effort.
-
-</thinking>
-
 # energy_efficiency_specialist_exit_offboarding_form - Help Guide
 ## Purpose
 The energy efficiency specialist exit offboarding form is a crucial document that helps maintain accurate records and facilitates a smooth transition process when an employee leaves the company.

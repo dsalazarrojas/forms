@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Arts And Culture Award Nomination Form - Help Guide
 ## Purpose
 

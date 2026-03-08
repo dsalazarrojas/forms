@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online_poll_participation_consent_form - Help Guide
 ## Purpose
 This form is designed to collect participant's online poll participation consent, data protection information, and feedback. It is intended to ensure that participants understand their rights and the data protection measures in place during the online poll process.

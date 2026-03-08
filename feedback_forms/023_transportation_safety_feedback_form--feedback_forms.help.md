@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transportation Safety Feedback Form - Help Guide
 
 ## Purpose

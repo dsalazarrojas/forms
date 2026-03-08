@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fundraiser Attendee Check In Form - Help Guide
 ## Purpose
 This form is used to check in attendees to a fundraiser event. It collects information about the attendee's name, contact details, and registration status. This information helps the event organizers to track attendee attendance and manage the event smoothly.

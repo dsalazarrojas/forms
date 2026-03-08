@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Final Study Guide Quiz" form. To start, let's break down the form's purpose and requirements.</thinking>
-
 # Final Study Guide Quiz - Help Guide
 
 ## Purpose

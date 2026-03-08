@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # product_development_registration_form - Help Guide
 
 ## Purpose

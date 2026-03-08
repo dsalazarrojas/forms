@@ -1,5 +1,3 @@
-<thinking>This form is intended to provide support for immediate actions that require attention from the team or stakeholders. Please note that the purpose of this form is not to report general issues or routine requests, but rather to address pressing matters that need urgent attention. Before submitting a request, please ensure that you haven't already reported it, and that it's a one-time request. If you're unsure, reach out to the team for clarification.</thinking>
-
 # Support For Immediate Action Form - Help Guide
 
 ## Purpose

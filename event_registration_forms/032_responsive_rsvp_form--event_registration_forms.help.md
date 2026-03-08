@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Responsive RSVP Form - Help Guide
 ## Purpose
 This form is used to help you confirm your attendance to events. Please fill it out accurately to help us know if you can attend an event.

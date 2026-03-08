@@ -1,14 +1,3 @@
-<thinking>
-We are creating a help guide for a form called "Share Your Change Experiences" that is used to collect feedback and experiences from users about their change experiences. This form is intended to be used by individuals who have undergone a change, such as a change in their personal or professional life, and are looking to share their story and insights. 
-
-The form is designed to be simple and easy to use, with a mix of text fields and select-one fields to gather relevant information. Before filling out the form, please note that the "category" and "sub_category" fields are required to ensure that your feedback is accurate and helpful. 
-
-Also, keep in mind that this form is not intended for sharing sensitive or confidential information. Please only share information that you are comfortable with sharing publicly. 
-
-If you have filled out this form before, you may not need to fill it out again. However, if you have significant new experiences or insights to share, please do not hesitate to update your response. 
-
-</thinking>
-
 # Share Your Change Experiences - Help Guide
 ## Purpose
 The "Share Your Change Experiences" form is designed to collect feedback and experiences from users about their change experiences. This form helps us understand your perspectives and insights on how change affects you, and how you navigate through it.

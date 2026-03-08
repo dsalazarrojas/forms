@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form is designed to track student behavior over a specific tracking period, typically Monday to Friday. The purpose is to monitor and encourage positive behaviors, identify areas for improvement, and determine whether a student has earned a reward based on their progress. The form is meant to be completed by the teacher on a weekly basis, providing a snapshot of the student's behavior and progress. By using this form, teachers can set goals for the student's next week and track their progress towards those goals.</thinking>
-
 # Behavior Tracking And Rewards Form - Help Guide
 ## Purpose
 This form is used to track student behavior over a specific period and determine whether they have earned a reward based on their progress.

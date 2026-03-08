@@ -1,17 +1,3 @@
-<thinking>
-Form purpose and relevance:
-The "Cultural Event Incident Form" is designed to collect information about incidents or issues that occurred during cultural events. This form is intended for event organizers, staff, or attendees to report and document such incidents, which can be used for safety, security, or quality control purposes.
-
-Before proceeding, please ensure that you are using this form for its intended purpose and not duplicating existing incident reports. This form is not meant to be used for general feedback or inquiries.
-
-Relevance and non-duplication checks:
-
-* Are you reporting an incident that occurred during a cultural event?
-* Have you already submitted an incident report for this event?
-
-If you answered "no" to both questions, please use this form to report the incident. Otherwise, please contact [form@gic.mx](mailto:form@gic.mx) for further instructions.
-
-</thinking>
 # cultural event incident form - Help Guide
 ## Purpose
 The "Cultural Event Incident Form" is designed to collect information about incidents or issues that occurred during cultural events. This form is intended for event organizers, staff, or attendees to report and document such incidents, which can be used for safety, security, or quality control purposes.

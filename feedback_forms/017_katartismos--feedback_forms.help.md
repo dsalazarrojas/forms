@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a simple feedback or contact form, used for customers to provide feedback or get in touch with the organization. The form likely has a single page with several fields: a field for the reason for the visit, a field for the customer's name, a field for their email, a field for their phone number, a field for a message, and a submit button. This form does not have any validation or conditional logic to speak of, making it a straightforward, no-frills form for users to provide basic contact information.
-</thinking>
-
 # Katartismos - Help Guide
 ## Purpose
 This form is for customers to provide feedback, ask questions, or get in touch with the organization. It's a simple contact form that allows customers to share their information and message.

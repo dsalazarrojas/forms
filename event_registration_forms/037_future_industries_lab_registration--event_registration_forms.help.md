@@ -1,5 +1,3 @@
-<thinking>...the form "future_industries_lab_registration" is designed to capture information for event registration purposes, specifically for events related to industries that are expected to shape the future. This form is likely used by event organizers to collect relevant data from participants. The form is not strictly required to be completed, and its fields might be subject to change based on the specific needs of each event. It's possible that this form is a duplicate or variant of other existing forms, so please ensure that the information provided is accurate and consistent with other relevant sources.</thinking>
-
 # future_industries_lab_registration - Help Guide
 ## Purpose
 The "future_industries_lab_registration" form is designed to collect information from participants for future industries-related events. It is intended to gather essential details such as registration information, participant details, event specifics, and contact information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # feedback_on_recent_engagement - Help Guide
 
 ## Purpose

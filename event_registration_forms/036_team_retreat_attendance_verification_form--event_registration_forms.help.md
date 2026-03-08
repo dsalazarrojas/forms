@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is used to verify the attendance of team members at team retreats. The purpose of this form is to collect information about the participant's name, email, and phone number, which will be used to send updates and reminders about the retreat. This form is usually filled out by team members who are attending the retreat, and the information collected will be reviewed by the retreat organizers to ensure that everyone is accounted for and can be contacted in case of any last-minute changes or emergencies.
-
-To prevent duplication of effort and ensure that everyone understands the form's purpose, we should explain it clearly and concisely in the user-facing help guide.
-</thinking>
-
 # Team Retreat Attendance Verification Form - Help Guide
 ## Purpose
 The Team Retreat Attendance Verification Form is used to gather information about team members attending the team retreat. Fill out this form to let us know if you're attending the team retreat so we can keep you updated and ensure we can reach you in case of any last-minute changes or emergencies.

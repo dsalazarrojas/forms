@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about the impact of a program, program effectiveness, user satisfaction, areas for improvement, and open-ended responses. This form is not meant to be filled out by every user, but rather by those who have participated in the program and are able to provide their honest opinions.
-This form is meant for feedback, and it's essential to fill it out thoughtfully, so please take a few minutes to consider your responses carefully. This will help us to better understand the program's effects and make improvements for future participants.
-
-Please note that some fields are not required, so feel free to skip them if you're unsure or don't have an opinion.
-
-</thinking>
-
 # Program Impact Survey Form - Help Guide
 ## Purpose
 The Program Impact Survey Form is a tool used to gather feedback from users about the program. This form is meant to help us understand the program's effectiveness and areas for improvement.

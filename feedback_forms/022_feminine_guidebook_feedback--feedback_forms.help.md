@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on the "Feminine Guidebook" project. The purpose is to gather insights and comments from users to improve the guidebook's content, layout, and overall experience. The form is a simple, AI-generated adaptation of a public survey, and its content does not copy or use proprietary content from any form creation platforms. This form is released under a Creative Commons Attribution 4.0 license, allowing users to use, modify, and share it freely, as long as they give credit to the original author.
-</thinking>
-
 # Feminine Guidebook Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback on the "Feminine Guidebook" project, a resource for women, by women. Your input will help us improve the guidebook's content, layout, and overall user experience.

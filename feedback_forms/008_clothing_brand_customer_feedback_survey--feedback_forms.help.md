@@ -1,13 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback from customers on their experience with our clothing brand, including their satisfaction with the product they purchased, their perception of our brand, and any suggestions for improvement. This form is designed to gather information that will help us better understand our customers' needs and preferences, ultimately informing our product development, marketing, and customer service strategies.
-
-This form has been designed with the customer in mind, and every field is carefully crafted to ensure that their experience with our brand is as positive as possible. Please note that this form should not be completed by internal staff, as the data is intended to be collected from end-users only.
-
-To avoid duplicate submissions, we kindly request that customers fill out the form only once.
-
-This form will guide you through the different aspects of your experience with our brand, from customer information to product feedback. Please take a few minutes to complete it accurately and honestly, and we will use your feedback to continually improve our services and products.
-
-If you have any questions or concerns, please don't hesitate to contact us. We value your input and appreciate your time.</thinking>
-
 # Clothing Brand Customer Feedback Survey - Help Guide
 ## Purpose
 Our clothing brand is committed to providing the best possible experience for our customers. To help us achieve this, we need your feedback on your recent purchase. This form will guide you through the different aspects of your experience, from customer information to product feedback.

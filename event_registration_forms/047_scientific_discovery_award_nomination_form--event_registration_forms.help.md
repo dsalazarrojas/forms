@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's review the form purpose and fields to ensure that the form will serve its intended purpose and not be duplicated. After verifying the form's requirements and fields, we'll create the help guide.</thinking>
-
 # Scientific Discovery Award Nomination Form - Help Guide
 ## Purpose
 This form is designed to collect information for scientific discovery award nominations. The purpose of this form is to provide a structured way to submit nominations for individuals or organizations that have made significant contributions to scientific progress and discovery.

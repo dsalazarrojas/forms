@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to track and report home office expenses for employees who work from home. The form collects information on home office deduction details such as employee ID, date, gross income, home office location, equipment used, expenses incurred, and expenses frequency. This information is likely used for tax purposes to calculate the employee's home office deduction.
-The form is designed to be completed by employees and is meant to be reviewed and signed off by both the employee and their manager.
-</thinking>
-
 # Home Office Deduction Form - Help Guide
 ## Purpose
 The Home Office Deduction Form is used to track and report home office expenses for employees who work from home. The form is completed by the employee and reviewed and signed off by both the employee and their manager.

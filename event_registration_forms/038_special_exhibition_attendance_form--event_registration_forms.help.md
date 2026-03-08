@@ -1,8 +1,3 @@
-<thinking>
-This form is used for visitors to provide their contact information and details about their visit to a special exhibition. The purpose of this form is to collect relevant information from visitors and enhance their experience. It is essential to fill in all fields accurately and completely to ensure that the information is correctly recorded. Please note that this form is not designed for registration of multiple events, but rather for single visit registration. 
-
-</thinking>
-
 # Special Exhibition Attendance Form - Help Guide
 ## Purpose
 This form is used to collect visitor information and details about their visit to a special exhibition.

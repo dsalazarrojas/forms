@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coating Techniques Quiz - Help Guide
 ## Purpose
 The Coating Techniques Quiz is a self-assessment tool designed to evaluate your knowledge and skills related to coating techniques. It aims to help you gauge your proficiency in different aspects of coating application, from surface preparation to environmental considerations. This quiz will assess your understanding of various coating methods, their advantages, and potential challenges.

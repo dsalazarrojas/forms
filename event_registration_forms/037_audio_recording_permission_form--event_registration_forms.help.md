@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from presenters to record their sessions at events. It ensures that the presenter's rights are respected and that they have control over how their content is used. This form should only be used for events and sessions where audio recordings are planned. If the form is being used for other purposes, please use a different form to avoid confusion and potential misuse of presenter information.
-</thinking>
-
 # Audio Recording Permission Form - Help Guide
 ## Purpose
 This form is used to obtain consent from presenters to record their sessions at events. It ensures that their rights are respected and that they have control over how their content is used.

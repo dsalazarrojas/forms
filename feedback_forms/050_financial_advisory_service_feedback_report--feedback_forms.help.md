@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about their experience with the financial advisory service. It is crucial to ensure that the form is filled out accurately and consistently. To avoid duplication, please do not submit the form more than once for the same session. Before proceeding, please make sure you have all the necessary information ready. If you are unsure about any field, refer to this help guide for clarification.
-</thinking>
-
 # Financial Advisory Service Feedback Report - Help Guide
 
 ## Purpose

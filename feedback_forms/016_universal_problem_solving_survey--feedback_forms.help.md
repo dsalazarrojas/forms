@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Universal Problem Solving Survey - Help Guide
 
 ## Purpose

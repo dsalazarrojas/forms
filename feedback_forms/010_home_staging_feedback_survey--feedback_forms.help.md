@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect user feedback on the home staging process. It is meant to be completed by users who have received a home staging consultation or have staged their property in preparation for sale or rent. The purpose of this form is to gather information on the user's experience with the home staging process, including their satisfaction with the service, any suggestions they may have for improvement, and their contact information in case they would like to be contacted for follow-up questions or to discuss their experience in further detail.
-
-This form is not meant to be a replacement for other forms or surveys that may be required for the business, such as sales or rental contracts. Please ensure that you are not duplicating information already provided in other forms or surveys.
-</thinking>
-
 # Home Staging Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the home staging service provided by our company. We value your opinion and would like to hear about your experience with our service.

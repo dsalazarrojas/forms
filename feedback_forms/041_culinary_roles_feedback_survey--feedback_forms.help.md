@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Culinary Roles Feedback Survey is to gather feedback on the culinary team's performance in the kitchen, aiming to improve services and overall customer satisfaction. This guide will walk you through the form to ensure a complete and accurate submission.
-</thinking>
-
 # CulinaryRolesFeedbackSurvey - Help Guide
 ## Purpose
 The Culinary Roles Feedback Survey aims to gather feedback from individuals with a culinary background, focusing on their experience and perception of our services. Your input is invaluable in helping us improve and tailor our offerings to meet your needs.

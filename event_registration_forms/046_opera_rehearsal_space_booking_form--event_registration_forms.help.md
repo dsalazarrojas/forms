@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for booking the opera rehearsal space. Before filling out the form, please ensure you have not booked this space before. This form is designed for one-time bookings. If you need to book the space repeatedly, please contact our support team for further assistance.
 
 # Opera Rehearsal Space Booking Form - Help Guide

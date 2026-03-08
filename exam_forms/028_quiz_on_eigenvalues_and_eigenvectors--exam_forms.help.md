@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about eigenvalues and eigenvectors in a quiz format. Eigenvalues and eigenvectors are concepts in linear algebra, specifically in the context of matrix theory. They are used to describe the behavior of linear transformations, and this form aims to assess the user's understanding of these concepts. The form is not affiliated with, endorsed by, or derived from any form platform, and it is released under CC BY 4.0 license, allowing users to modify and sell it while giving credit.
-
-Before proceeding, we'll review the form's structure and content to prevent duplication and ensure the user's experience. The form contains five questions, each asking about a different aspect of eigenvalues and eigenvectors. Users are encouraged to provide text-based answers for each question, which will be used to assess their understanding of the topic.
-
-</thinking>
-
 # Quiz On Eigenvalues And Eigenvectors - Help Guide
 
 ## Purpose

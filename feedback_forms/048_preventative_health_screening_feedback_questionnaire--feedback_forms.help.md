@@ -1,8 +1,3 @@
-<thinking>
-This guide is designed to help users complete the Preventative Health Screening Feedback Questionnaire form, ensuring they understand the purpose and requirements of the form.
-The purpose of this form is to collect feedback on the preventative health screening process, allowing users to report their experiences and suggest areas for improvement. Please review the form carefully to ensure you complete it accurately and without duplication.
-</thinking>
-
 # Preventative Health Screening Feedback Questionnaire - Help Guide
 ## Purpose
 The Preventative Health Screening Feedback Questionnaire is designed to collect feedback from participants on the preventative health screening process. This form is used to gather information on the effectiveness of the screening process and identify areas for improvement.

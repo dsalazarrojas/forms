@@ -1,7 +1,3 @@
-<thinking>
-This form is a Cutover Day Feedback Survey, designed to gather feedback from users on their experience with a cutover day. A cutover day is a period of significant change or transition, such as a system upgrade, maintenance, or major update. The form is intended to collect feedback on the effectiveness of the cutover process, including the user's experience rating, communication during the process, and any issues reported or improvements suggested. This guide is to ensure that users understand the purpose of the form and can complete it accurately and effectively.
-</thinking>
-
 # Cutover Day Feedback Survey - Help Guide
 
 ## Purpose

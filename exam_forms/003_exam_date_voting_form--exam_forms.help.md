@@ -1,7 +1,3 @@
-<thinking>
-The "exam_date_voting_form" is a form used to record the status of an exam. The form includes fields for exam date, time, location, duration, note, and status. The fields are divided into different tabs or pages, making it easy for users to fill out the form in a sequential and organized manner. This form is primarily used to collect information about exams, and the fields are designed to be as straightforward as possible. However, it's essential to understand that some fields might be optional, but they are still crucial for providing a complete and accurate record of the exam. The form is designed for both exam administrators and students to use. It's recommended to double-check the form for completeness and accuracy before submitting it. This form does not duplicate the functionality of other forms, and its purpose is unique and specific to exam management.
-</thinking>
-
 # exam_date_voting_form - Help Guide
 ## Purpose
 The "exam_date_voting_form" is a form used to record the status of an exam. It helps to track the exam's schedule, location, and progress.

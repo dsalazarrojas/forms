@@ -1,9 +1,3 @@
-<thinking>
-
-The form is used to collect feedback from users regarding their experience with the website, specifically during user acceptance testing (UAT). UAT is a process of verifying that the website meets the required specifications and expectations. This form aims to gather information on whether the website was satisfactory, if any issues were experienced, and if the user has any suggestions for improvement. It is essential to provide feedback that is honest, constructive, and specific to help improve the website's overall quality. It is also important to note that the form will not be used for any other purpose than to improve the website.
-
-</thinking>
-
 # Website User Acceptance Testing Feedback Form - Help Guide
 ## Purpose
 The Website User Acceptance Testing Feedback Form is designed to collect feedback from users on their experience with the website. This feedback will help us identify areas for improvement and make necessary adjustments to enhance the overall user experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kitchen Collaboration Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from employees on their experiences with kitchen collaboration, which is used to improve communication, teamwork, and efficiency in the kitchen. Feedback is optional and can be provided by anyone who has participated or witnessed events in the kitchen.

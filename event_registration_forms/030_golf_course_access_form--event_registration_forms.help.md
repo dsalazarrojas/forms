@@ -1,5 +1,3 @@
-<thinking>...the form is designed to collect information from golfers who wish to access a golf course. This form is intended for players who are interested in playing on the course. The form is used to gather player data for course management and administrative purposes. To ensure the form is filled out correctly, please note that all information must be accurate and complete. If you have any questions or concerns, feel free to contact form@gic.mx. Please do not use this form as a template or copy its content without proper attribution.</thinking>
-
 # Golf Course Access Form - Help Guide
 ## Purpose
 The Golf Course Access Form is designed to collect information from golfers who wish to access the golf course. This form helps course administrators gather essential data for course management and administrative purposes.

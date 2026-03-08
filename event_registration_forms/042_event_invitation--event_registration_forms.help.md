@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to create a comprehensive event invitation that captures the essential details about an event, including its title, host information, date and time, location, description, and other relevant attributes. This form serves as a template for event organizers to create a clear and concise invitation that can be shared with attendees. 
-To ensure that the event invitation is properly filled out and meets the required details, the form will ask for the following fields: event title, host name, event name, event date, event start and end time, location, description (optional), event venue, event type, event capacity, event ticket information, contact email, and event URL (if applicable). The form will guide users through each field's explanation and requirements to ensure that they provide accurate and relevant information.
-
-Before proceeding, please review the event information and ensure that all required fields are completed. This will help in avoiding any issues or conflicts during the event registration process.
-</thinking>
-
 # Event Invitation - Help Guide
 ## Purpose
 The purpose of this guide is to provide a step-by-step explanation of the Event Invitation form, ensuring that users understand the form's requirements and can fill it out correctly.

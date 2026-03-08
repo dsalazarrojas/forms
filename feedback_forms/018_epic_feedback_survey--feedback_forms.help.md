@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for users who need to provide feedback about an experience with a service. Please ensure that you are using this form to provide feedback and not to submit other types of comments or suggestions. If you have previously provided feedback, ensure that this form is not a duplicate submission.
-</thinking>
-
 # epic_feedback_survey - Help Guide
 ## Purpose
 The epic_feedback_survey form is designed to collect feedback from users about their experience with our service. Please take a few minutes to provide detailed and honest feedback to help us improve our service.

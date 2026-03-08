@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from presenters after a presentation has been delivered. The purpose of the form is to gather information about the overall quality of the presentation, the presenter's performance, and any areas for improvement. By analyzing this feedback, presenters can refine their skills and improve future presentations.
-
-To ensure that the form is used effectively, it is essential to complete it in a way that provides valuable and actionable feedback. 
-
-</thinking>
-
 # Presentation Feedback Template - Help Guide
 ## Purpose
 The Presentation Feedback Template is a tool used to collect feedback from presenters after a presentation has been delivered. It helps gather information about the overall quality of the presentation, the presenter's performance, and areas for improvement.

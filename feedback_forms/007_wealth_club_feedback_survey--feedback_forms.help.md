@@ -1,7 +1,3 @@
-<thinking>
-The form "Wealth Club Feedback Survey" is designed to collect feedback from members of the Wealth Club program. This feedback is essential to help us understand how our program is performing and identify areas for improvement. By completing this form, you will be providing valuable insights that will help us refine our services to better meet your needs. Please note that you will only be able to submit this form once per session.
-</thinking>
-
 # Wealth Club Feedback Survey - Help Guide
 ## Purpose
 The Wealth Club Feedback Survey is a short and simple form that collects your feedback on your experience with our program. This survey helps us understand what we are doing well and where we can improve.

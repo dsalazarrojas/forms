@@ -1,19 +1,3 @@
-<thinking>
-This form was designed to aid event registration for music venues by collecting information from potential donors.
-The purpose of the form is to gather details about the donor and the donation they wish to make.
-The form will help music venues understand who their supporters are and what they want to give.
-
-This form has three sections:
-
-*   Venue information (Page 1)
-*   Donor information (Page 1)
-*   Donation details (Page 2)
-
-The form is designed to be user-friendly, and each field has been carefully labeled to make it easy to understand.
-
-Before filling out the form, make sure you have all the necessary information ready.
-</thinking>
-
 # music_venue_support_donation_form - Help Guide
 ## Purpose
 

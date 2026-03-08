@@ -1,17 +1,3 @@
-<thinking>
-This form appears to be designed for verifying ticket information for participants in events or events themselves. It may be used by event organizers or staff to collect and verify participant details. The form likely serves as a tool for maintaining accurate records and ensuring the authenticity of event participants. It's not clear which events or types of events this form is intended for, but its name suggests it's related to ticket verification.
-
-To confirm, the form is composed of six fields:
-* ticket_verification_form: a text input field without clear requirements or restrictions 
-* participant_information: a text input field, potentially for storing participant details 
-* ticket_details: another text input field, likely for storing ticket specifics 
-* verify_participant: a text input field, possibly for verification purposes 
-* notes: a notes field for additional comments or information 
-* participant_email: an email input field, possibly for participant contact details
-
-Before proceeding, ensure this form is indeed suitable for your specific needs and context. If you're unsure, please reach out to form@gic.mx for clarification.
-</thinking>
-
 # Ticket Verification Form - Help Guide
 ## Purpose
 This form is designed to collect and verify ticket information for participants in events or events themselves. It helps event organizers or staff maintain accurate records and ensure participant authenticity.

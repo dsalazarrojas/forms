@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about the impact of a fitness center closure on their business. It is not intended to be completed by employees of the fitness center. To ensure that the feedback is relevant and not duplicated, please note that:
-* This form is intended for customers who have visited or would like to visit a fitness center that was closed during their planned visit.
-* If you are an employee of the fitness center, please use the internal feedback channel to report your concerns.
-</thinking>
-
 # Fitness Center Closure Feedback - Help Guide
 ## Purpose
 This form is used to collect feedback from customers about the impact of a fitness center closure on their business. The goal is to gather information about how the closure affected your visit or plans and to help us improve our services.

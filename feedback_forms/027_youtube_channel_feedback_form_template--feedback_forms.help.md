@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed for users to provide feedback on a YouTube channel, and it seems to be a template for collecting general feedback, suggestions, and ratings. The purpose of this form is to collect data from users on their experience with the YouTube channel. The form is likely used by channel owners or administrators to gauge user satisfaction and identify areas for improvement. To avoid duplication, users may not need to submit multiple feedback forms if they have already provided feedback previously. 
-</thinking>
-
 # youtube_channel_feedback_form_template - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on their experience with a YouTube channel. It is intended to help channel owners or administrators understand user satisfaction and identify areas for improvement.

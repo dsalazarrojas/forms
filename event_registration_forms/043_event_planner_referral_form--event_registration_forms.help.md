@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a referral form for event planners to refer their clients to our service. This form captures information from both the client and the referring event planner, providing valuable insights into the client's needs and the planner's referral source. By filling out this form, both the client and the planner will be able to communicate their needs and expectations, facilitating a smooth and efficient referral process. To ensure that the correct information is captured, please carefully review each field to ensure that it is accurate and relevant to the client and planner's situation.
-</thinking>
-
 # Event Planner Referral Form - Help Guide
 ## Purpose
 This form is designed to be used by event planners to refer their clients to our service, providing us with valuable information to understand the client's needs and the planner's referral source.

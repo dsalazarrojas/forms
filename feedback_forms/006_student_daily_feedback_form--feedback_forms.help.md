@@ -1,13 +1,3 @@
-<thinking>This form is for students to provide daily feedback about a class or educator. It is designed to capture information such as the student's name, feedback about the course material, how the educator responded, and the student's own categories and comments. This form is meant to be completed by students to give constructive feedback to educators and help improve their teaching methods.
-
-To ensure that the feedback provided by students is helpful and actionable, please be as accurate and clear as possible in your responses. Please do not duplicate or submit multiple feedback forms for the same topic.
-
-This form will be reviewed and discussed with the educator and other stakeholders to help create a better learning environment.
-
-**Please fill out the form carefully and accurately.**
-
-</thinking>
-
 # Student Daily Feedback Form - Help Guide
 ## Purpose
 The Student Daily Feedback Form is designed to allow students to provide feedback on a class or educator on a daily basis. This feedback is essential for educators to improve their teaching methods and create a better learning environment.

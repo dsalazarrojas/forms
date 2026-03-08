@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the setup and teardown tasks for events. It's intended for event planners and organizers to ensure a smooth execution of events. The form is divided into several sections, each focused on different aspects of event preparation and execution. Please note that this form is meant to be a general guide and not a comprehensive checklist for every event. Review and adjust the fields according to your specific needs and circumstances.
-</thinking>
-
 # event-setup-and-teardown-checklist - Help Guide
 ## Purpose
 The event-setup-and-teardown-checklist form is designed to aid event planners in preparing and executing events. It helps to identify the tasks involved in setting up and tearing down an event.

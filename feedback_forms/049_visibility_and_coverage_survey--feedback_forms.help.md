@@ -1,10 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the "Visibility And Coverage Survey" form. This form aims to gather feedback and insights from customers to understand their needs and preferences related to our product or service. The survey is divided into several sections, each designed to elicit specific information from the user. By providing their feedback, users can help us improve and better serve our product or service.
-
-This guide assumes that the user is familiar with the purpose and objectives of the survey. If you are unsure, please refer to the introduction above for a brief overview.
-
-</thinking>
-
 # Visibility And Coverage Survey - Help Guide
 ## Purpose
 The "Visibility And Coverage Survey" is a form designed to gather feedback and insights from customers to understand their needs and preferences related to our product or service. This form is intended to help us improve and better serve our product or service.

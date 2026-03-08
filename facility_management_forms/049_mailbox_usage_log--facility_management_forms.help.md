@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to record and track the usage of a facility's mailboxes. It allows users to log their entry and exit times, the facility's location, and other relevant details. This form is intended to be completed by facility users to provide accurate and up-to-date information about their mailbox access. To avoid duplicating entries, users must select a unique combination of User Email, Start Date, and End Date.
-
-</thinking>
-
 # Mailbox Usage Log - Help Guide
 ## Purpose
 This form is used to record and track the usage of a facility's mailboxes. It allows users to log their entry and exit times, the facility's location, and other relevant details.

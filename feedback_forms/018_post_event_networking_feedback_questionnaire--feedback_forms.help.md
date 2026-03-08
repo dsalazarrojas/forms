@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to check if form is for a specific event and not a duplicate submission ...
-
-We have a form designed to collect feedback from attendees after an event. The purpose of this form is to gauge the quality of networking opportunities provided at the event. The form is designed to be completed by attendees who have participated in the event. To ensure that we receive relevant and accurate feedback, we will be checking for duplicate submissions from the same attendee. If an attendee has already submitted feedback for the same event, they will not be able to submit again.
-
-</thinking>
-
 # Post Event Networking Feedback Questionnaire - Help Guide
 ## Purpose
 

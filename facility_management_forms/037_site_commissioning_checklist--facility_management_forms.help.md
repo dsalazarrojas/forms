@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to facilitate the commissioning process for a site, which is the process of verifying that a facility or construction project meets all necessary standards and criteria. The purpose of this form is to ensure that all relevant teams, including Construction, Facilities, and Operations, have reviewed and signed off on the project, and that all required information is captured. By using this form, you can streamline the commissioning process and reduce the risk of errors or omissions.
-
-Please note that this form is not intended to be a comprehensive, one-time solution, but rather a tool to help guide the commissioning process. You may need to add or modify fields as per your specific requirements.
-
-Also, please ensure that the form is not being used as a substitute for actual commissioning activities, such as site visits, inspections, and testing. This form is meant to be a supporting document to help facilitate the process, not a replacement for it.
-
-Lastly, please review each field carefully and ensure that it is relevant to your specific site commissioning process before proceeding.
-</thinking>
-
 # Site Commissioning Checklist - Help Guide
 ## Purpose
 The Site Commissioning Checklist is a form designed to facilitate the commissioning process for a site, ensuring that all relevant teams have reviewed and signed off on the project and that all required information is captured.

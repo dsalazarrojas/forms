@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Learning Environment Design Feedback Survey - Help Guide
 
 ## Purpose

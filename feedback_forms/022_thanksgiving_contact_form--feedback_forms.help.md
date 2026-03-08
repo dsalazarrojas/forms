@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "Thanksgiving Contact Form" is used correctly and consistently. This form is intended to collect contact information and messages about guests attending a Thanksgiving event. It's essential that we don't receive duplicate or irrelevant submissions. Please make sure to fill out the form accurately and only submit it once for each guest you'd like to include in the event's guest list. This form is meant for general contact and not for scheduling specific events or appointments. If you're unsure about any field, please reach out to the event organizer for clarification.
-</thinking>
-
 # Thanksgiving Contact Form - Help Guide
 ## Purpose
 The Thanksgiving Contact Form is used to collect contact information and messages about guests attending the Thanksgiving event. This form helps us keep track of the guests and their attendants.

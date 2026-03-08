@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather user feedback and ratings on their experience with Zen Transformation, a platform that aims to provide transformative services. This form collects feedback in the form of ratings and comments, allowing us to identify areas of improvement and gauge user satisfaction. The form is not designed for users to provide personal contact information or to complete multiple times, making it suitable for one-time feedback submission. Please review your submission to ensure it is completed accurately and thoroughly, and do not duplicate any form submissions.</thinking>
-
 # Zen Transformation Feedback Form - Help Guide
 
 ## Purpose

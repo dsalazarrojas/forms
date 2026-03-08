@@ -1,13 +1,3 @@
-<thinking>... internal reasoning for form purpose and potential duplication checks...
-
-The form purpose is to collect information on the availability of respondents for specific observances or events. This survey helps in scheduling and coordinating the attendance of respondents for these events. 
-
-We will check for duplication of respondents before processing the form.
-
-To avoid unnecessary form completion, please do not complete this form if you have already responded to this survey for the same event.
-
-</thinking>
-
 # Availability Survey For Observances - Help Guide
 ## Purpose
 This form is designed to collect information on your availability for specific observances or events. Please answer the questions to help us schedule and coordinate your attendance.

@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, this form is designed to gather essential information from campers to facilitate the reservation process and ensure a smooth stay at the camping ground. The form includes fields for personal details, camping preferences, and payment information. Campers will be asked to provide their contact details, including their name, email, and phone number, as well as information about their camping preferences, such as type of camping and site selection. They will also be asked to acknowledge the cancellation and weather policies, as well as accept the terms and conditions of the camping ground. The form will also gather payment information, including the payment method and total amount due. By filling out this form, campers can secure their reservation and confirm their stay at the camping ground.
-</thinking>
-
 # Camping Ground Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from campers to facilitate the reservation process and ensure a smooth stay at the camping ground.

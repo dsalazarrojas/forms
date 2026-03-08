@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Leadership Book Club Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on books they've read for the Leadership Book Club. The purpose of this form is to gather information on the user's experience and opinion on the book, including their rating, book recommendation, and any comments they may have. This form is used to provide valuable insights to the book club administrators to improve future book selections.

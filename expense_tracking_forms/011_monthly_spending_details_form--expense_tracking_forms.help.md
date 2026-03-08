@@ -1,13 +1,3 @@
-<thinking>
-This form is for tracking and recording details about monthly spending, including income and expenses. It is designed to collect information about the user's financial transactions during a specific month and year. The form is part of a larger financial management system, and its data will be used to provide insights and summaries about the user's spending habits and financial performance.
-
-This form is intended for use by individuals or organizations that need to track and report their monthly financial transactions. It is not designed to handle complex financial calculations or generate reports, but rather to provide a simple and straightforward way to capture essential information.
-
-To avoid duplication of effort, it is recommended to use this form for each month and year separately, as it is designed to capture data for a single month.
-
-This form can be completed by anyone with access to the system, but it is recommended that only authorized users complete it for accuracy and consistency.
-
-</thinking>
 # monthly_spending_details_form - Help Guide
 ## Purpose
 The monthly_spending_details_form is a simple tool for tracking and recording details about your monthly spending, including income and expenses. It helps you to capture essential information about your financial transactions during a specific month and year.

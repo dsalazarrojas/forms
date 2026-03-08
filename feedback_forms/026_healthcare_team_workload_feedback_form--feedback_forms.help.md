@@ -1,11 +1,3 @@
-<thinking> This form, titled "Healthcare Team Workload Feedback Form," is designed to gather information from healthcare team members about their workload, stress levels, and satisfaction with their job, communication, collaboration, and overall impressions. The form is intended to collect detailed feedback from team members to help management understand their current work environment and make informed decisions to improve it.
-
-Please note that this form is not intended to be a one-time submission, but rather a regular feedback mechanism to track changes and trends over time. Team members are encouraged to provide honest and detailed feedback to help shape the team's development and growth.
-
-Before completing this form, please review your answers carefully and consider how your responses might impact team members around you. This form is not meant to be a complaint forum, but rather a constructive tool to help us better understand your experiences and make positive changes.
-
-</thinking>
-
 # Healthcare Team Workload Feedback Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is for collecting feedback on mental health awareness, and it seems to be focused on understanding individual's experiences, concerns, and preferences regarding mental health professionals and communication methods. To confirm, the form is meant to gather information on users' perceptions of mental health, but there might be overlap with other forms, e.g., those related to mental health services or professional networks. Please check to ensure this form doesn't duplicate efforts or overlap with existing forms. 
-
-This guide is a step-by-step explanation for completing the form. Please follow along carefully.
-
-</thinking>
-
 # Mental Health Awareness Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your perceptions and experiences regarding mental health awareness. Your feedback is invaluable in helping us improve our resources and services.

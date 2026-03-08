@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants who have been discharged from a theater group, which could be a group of people working together on a project or a team. The purpose of this form is to gather information about the participant's experience, their rating of the participant's satisfaction, and any suggestions they may have for improvement. This form should only be filled out by participants who have been discharged, and not by other individuals who are not participating in the group. To avoid duplication, please do not fill out this form if you have already provided feedback in the past.
-</thinking>
-
 # Theater Group Participant Discharge Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants who have been discharged from a theater group, which could be a group of people working together on a project or a team.

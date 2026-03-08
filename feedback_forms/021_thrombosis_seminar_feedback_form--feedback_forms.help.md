@@ -1,7 +1,3 @@
-<thinking>
-I will assume that this form is part of a system where attendees provide feedback on the Thrombosis Seminar. The form is likely used to gather information on the quality of the seminar, such as the speaker's performance, the content, and the overall relevance to the attendees' work. The form might also collect suggestions for future seminars. I will create a user-facing help guide based on this assumption.
-</thinking>
-
 # Thrombosis Seminar Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees on the quality of the Thrombosis Seminar. Your input will help us improve future seminars and ensure that they meet your needs.

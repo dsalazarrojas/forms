@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Poultry Entry Form - Help Guide
 
 ## Purpose

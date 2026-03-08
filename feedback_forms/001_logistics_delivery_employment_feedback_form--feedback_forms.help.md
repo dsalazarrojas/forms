@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from logistics delivery team members regarding their employment experiences. The purpose of this form is to gather insights on how the team can improve its delivery operations. It's essential to complete this form carefully to provide actionable feedback. Please review the form carefully to ensure that the feedback you provide is accurate and relevant. If you have already submitted feedback, please be aware that this form is for new feedback only and you can disregard it if it's not applicable to your current situation.</thinking>
-
 # Logistics Delivery Employment Feedback Form - Help Guide
 ## Purpose
 The Logistics Delivery Employment Feedback Form is designed to gather insights from team members on how the team can improve its delivery operations. The feedback collected through this form will help the team make informed decisions and implement changes to enhance its performance.

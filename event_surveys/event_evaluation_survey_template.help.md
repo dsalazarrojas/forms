@@ -1,11 +1,3 @@
-<thinking>
-This form is a survey designed to gather feedback from event attendees. Its purpose is to evaluate the overall satisfaction with the event, identify the most valuable sessions or aspects, assess the organization's quality, and gauge the likelihood of future attendance.
-
-Before proceeding, ensure that the form's content aligns with your specific event and goals. If you've already created a similar survey, consider whether a duplicate effort would provide valuable insights or if you could reuse the existing one.
-
-To complete this form, follow the instructions below:
-</thinking>
-
 # event_evaluation_survey_template - Help Guide
 ## Purpose
 The event evaluation survey template is designed to gather feedback from event attendees to help improve future events. It aims to assess overall satisfaction, identify valuable sessions, evaluate event organization, and determine the likelihood of future attendance.

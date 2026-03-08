@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users who have attended a judging workshop. The form is designed to be a simple and straightforward way to gather information about the user's experience, specifically their satisfaction with the workshop. We want to ensure that we are providing the best possible experience for our users, and this form will help us understand what we did well and what we could improve on.
-
-The form is not meant to be a comprehensive survey, but rather a quick and easy way to gather general feedback. We are not looking for overly detailed or critical feedback, but rather open and honest opinions on their experience. This form will be used by internal stakeholders to review and analyze the feedback to make informed decisions about future workshops.
-
-Please note that this form is not intended for public consumption, and the feedback collected will only be used internally to improve our judging workshop offerings.
-
-</thinking>
-
 # Judging Workshop Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users who have attended a judging workshop. It will help us understand your experience and identify areas for improvement.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users regarding their experience with the studio, allowing us to identify areas of improvement and make data-driven decisions to enhance the user experience. This form will be used to collect information about the overall rating of the session, as well as comments, ratings, and other details about the facility and staff. It is essential to complete this form to provide accurate and detailed feedback.
-</thinking>
 # Studio Usage Feedback - Help Guide
 ## Purpose
 This form is used to gather feedback from studio users about their overall experience, providing valuable insights for us to improve and refine our services.

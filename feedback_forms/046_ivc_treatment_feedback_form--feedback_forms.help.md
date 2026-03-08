@@ -1,7 +1,3 @@
-<thinking>
-This form, "ivc_treatment_feedback_form", is intended to collect feedback about a treatment's impact on patients. Its purpose is to understand patients' experiences and any side effects they encountered. This form is designed to be simple, yet comprehensive, allowing patients to provide valuable insights about their treatment. To ensure data quality, this guide will help users understand each field's purpose and requirements, preventing duplication of effort and misinterpretation.
-</thinking>
-
 # ivc_treatment_feedback_form - Help Guide
 ## Purpose
 The "ivc_treatment_feedback_form" is a form designed to collect feedback about a treatment's impact on patients, aiming to improve patient care and outcomes.

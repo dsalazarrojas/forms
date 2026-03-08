@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect feedback from members with disabilities about their experience at the gym. The form is intended to assess the accessibility of the gym facilities and services, including parking, entrance and exit, and other accessibility features. The goal is to gather information about what features are missing or inadequate, and to identify areas for improvement.
-
-This form will help us to:
-
-* Understand the accessibility needs of our members with disabilities
-* Identify areas where we need to improve our facilities and services
-* Develop strategies to make our gym more accessible and inclusive for all members
-
-Please note that this form is designed for feedback from members with disabilities, and your responses will be kept confidential and anonymous.
-</thinking>
-
 # Gym Accessibility For Disabled Members Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from members with disabilities about their experience at the gym, with a focus on accessibility features and services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # renaissance_and_reformation_assessment_form - Help Guide
 ## Purpose
 The "Renaissance and Reformation Assessment Form" is designed to evaluate the impact of the Renaissance and Reformation on European society and culture. This form aims to collect responses to specific questions related to the era's key events, figures, and ideas. Your goal is to provide a concise and informed assessment of how the Renaissance and Reformation shaped European society, including art, politics, and culture.

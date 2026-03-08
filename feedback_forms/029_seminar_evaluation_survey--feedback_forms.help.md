@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees of a seminar. The purpose of this form is to evaluate the quality and effectiveness of the seminar, and to gather suggestions for improvement.
-</thinking>
-
 # Seminar Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of a seminar. The purpose of this form is to evaluate the quality and effectiveness of the seminar, and to gather suggestions for improvement.

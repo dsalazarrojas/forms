@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to gather feedback from customers about their experience with our satellite system service. The form will help us understand what customers think about our service, what we do well, and where we can improve.
-
-We want to make sure this form is completed by customers who have actually used our service, and not just by people who are trying to spam us with fake feedback. To ensure that, we'll only use the feedback from customers who have provided a valid email or phone number in the form.
-
-</thinking>
-
 # Satellite System Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience with our satellite system service. It will help us understand what customers like and dislike about our service, and identify areas where we can improve.

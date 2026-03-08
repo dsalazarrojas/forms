@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect information for the Prophets of the Year nomination event. It gathers details about the event, its organizers, and the individuals involved. To ensure that the form is filled out correctly, please follow these guidelines:
-
-*   **First Name**: This field collects the first name of the individual being nominated.
-*   **Last Name**: This field collects the last name of the individual being nominated.
-*   **Contact Number**: This field is used to contact the individual being nominated in case of further questions or clarifications.
-*   **Email Address**: This field is used to contact the individual being nominated in case of further questions or clarifications.
-*   **Event Location**: This field collects the location where the event took place.
-*   **Event Date**: This field collects the date of the event.
-*   **Event Time**: This field collects the time of the event.
-*   **Event Type**: This field requires the type of event, which can be "Event", "Meeting", or "Workshop".
-*   **Event Organizer**: This field collects the name of the event organizer or individual responsible for the event.
-*   **Event Description**: This field collects a brief description of the event.
-*   **Submission**: This field is the final step in the form. Please enter your comments or any additional information you may have regarding the nomination.
-
-</thinking>
-
 # prophets_of_the_year_nomination_form - Help Guide
 ## Purpose
 This form is used to collect information for the Prophets of the Year nomination event.

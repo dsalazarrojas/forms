@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from trainees on the effectiveness of a training session. The form is used to collect information on the trainee's experience, the session details, and the facilitator's performance. To ensure that the feedback is accurate and relevant, we will not allow submissions for duplicate sessions. Please provide feedback for a session that you have attended. If you are unsure about the session details, please contact the facilitator or the training administrator.
-</thinking>
-
 # Training Effectiveness Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from trainees on the effectiveness of a training session.

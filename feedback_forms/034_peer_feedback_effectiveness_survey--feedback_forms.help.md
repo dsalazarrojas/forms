@@ -1,5 +1,3 @@
-<thinking>... this form is designed to gather feedback on peer evaluation in a team setting, specifically focusing on a team member's effectiveness and collaboration. It's intended for users to rate the effectiveness of a team member, highlight areas of improvement, and provide suggestions for growth. The form has a mix of multiple choice and text questions, ensuring a comprehensive understanding of team dynamics and effectiveness...</thinking>
-
 # peer_feedback_effectiveness_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on a team member's effectiveness and collaboration. It's used to assess their strengths and weaknesses, identify areas for improvement, and provide suggestions for growth.

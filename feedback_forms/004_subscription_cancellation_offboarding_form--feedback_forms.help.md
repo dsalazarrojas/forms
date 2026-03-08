@@ -1,11 +1,3 @@
-<thinking>
-This form is used for users to provide feedback on their subscription cancellation experience. It is designed to help us understand why the user decided to cancel their subscription and gather information about their interaction with our service. The form is not required for cancellation processing, but it will help us improve our services in the future.
-
-To ensure the quality and accuracy of feedback, please fill out this form with your honest and detailed answers. You can complete the form in sections, saving your progress if needed.
-
-This form has [X] pages.
-</thinking>
-
 # Subscription Cancellation Offboarding Form - Help Guide
 ## Purpose
 This form is used to gather feedback on your subscription cancellation experience to help us understand why you decided to cancel and to improve our services in the future.

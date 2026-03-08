@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for an "Online Complaint Form" that explains its purpose, how to complete it, and each field's meaning. This form is likely used by customers to report issues or complaints about a company's products or services. The purpose of this form is to gather information about the complaint, provide a way for customers to describe the issue, and track resolution status. To avoid duplicates, we might want to check if a complaint with the same email or phone number already exists in the system.
-</thinking>
-
 # Online Complaint Form - Help Guide
 ## Purpose
 The purpose of this form is for customers to report issues or complaints about our company's products or services. Fill out this form to help us understand and address your concerns.

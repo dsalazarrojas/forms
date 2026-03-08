@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect internal information about the championship results, allowing users to submit details about events in a structured and organized manner. It seems to be designed for internal use within an organization. Before proceeding, please confirm that this form is relevant to your role and that you have not already submitted the relevant information. If you are unsure, please check with your supervisor or the relevant department to avoid duplication of effort.</thinking>
-
 # Internal Championship Results Submission - Help Guide
 ## Purpose
 This form is used to submit internal championship results, including event details, champion information, and submission status.

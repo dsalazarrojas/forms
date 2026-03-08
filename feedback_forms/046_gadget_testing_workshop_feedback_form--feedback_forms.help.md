@@ -1,8 +1,3 @@
-<thinking>
-The form "Gadget Testing Workshop Feedback Form" is designed to collect feedback from participants after attending a gadget testing workshop. This form will help us understand your overall experience, impressions, and suggestions for improvement. Please complete this form carefully to provide us with valuable insights. We encourage you to answer as many questions as you can and provide any additional comments or suggestions in the "Participant Notes" field.
-
-</thinking>
-
 # Gadget Testing Workshop Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants after attending a gadget testing workshop. Your responses will help us understand your experience, impressions, and suggestions for improvement.

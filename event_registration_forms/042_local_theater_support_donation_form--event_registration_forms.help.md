@@ -1,8 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to understand what the form is intended to capture and who its target audience is. Based on the provided YAML, the form is designed to capture information from donors or supporters of a local theater. The form is likely used to collect donations and feedback from the audience. It does not require any specific business logic to be explained, so we will provide a clear and concise explanation of each field.
-
-</thinking>
-
 # Local Theater Support Donation Form - Help Guide
 ## Purpose
 The Local Theater Support Donation Form is a simple form designed to allow theater supporters to donate and provide feedback to the local theater. It is intended for supporters who want to contribute to the theater's cause.

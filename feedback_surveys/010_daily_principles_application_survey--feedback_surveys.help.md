@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Principles Application Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on their application of daily principles. It is meant to be a brief and concise way to collect information on how users apply daily principles in their work or personal lives.

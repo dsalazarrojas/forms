@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback on the lease automation process from end-users. The goal is to understand their level of satisfaction with the current state of lease automation and gather insights on areas for improvement. This form will likely be sent to a specific group of users, and its purpose is to gather feedback that will inform future development and optimization of the lease automation process. It's essential to complete this form carefully and thoroughly to provide actionable feedback. Please ensure that you're filling out this form only if you're familiar with the lease automation process and have used it recently. If you're unsure about the purpose of this form or have already filled it out recently, please do not complete it again.
-</thinking>
-
 # Lease Automation Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on your experience with the lease automation process. Please take a few minutes to complete this form and share your thoughts on how the process is working for you.

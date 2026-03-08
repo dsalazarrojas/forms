@@ -1,8 +1,3 @@
-<thinking>
-We are creating a public opinion poll questionnaire to gather feedback from our community on various aspects of our community. This form will help us understand the community's perceptions and concerns, which will guide our decision-making process to improve the community. To ensure accurate and relevant feedback, we encourage respondents to answer each question honestly and thoroughly.
-This form will not duplicate any existing feedback. If you have already provided feedback on this topic, please let us know so we can avoid duplication.
-</thinking>
-
 # Public Opinion Poll Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather opinions and feedback from the community on various aspects of our community. It is an anonymous and voluntary form that will help us understand the community's perceptions and concerns.

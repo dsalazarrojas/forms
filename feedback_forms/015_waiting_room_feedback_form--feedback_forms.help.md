@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from users about their experience in a waiting room, with the goal of understanding areas for improvement and enhancing the overall user experience. This form will help us gather information on various aspects of the waiting room, including its cleanliness, services, overall experience, waiting time, and any additional suggestions or comments the user may have.
-
-To prevent duplication and ensure relevant feedback, we kindly request that users submit their feedback only once per visit. If you have already submitted feedback, please do not resubmit. Your input is valuable, and we appreciate your honesty in helping us improve our services.
-
-</thinking>
-
 # waiting_room_feedback_form - Help Guide
 ## Purpose
 The waiting_room_feedback_form is designed to collect feedback from users about their experience in a waiting room. This form will help us understand areas for improvement and enhance the overall user experience.

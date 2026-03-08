@@ -1,11 +1,3 @@
-<thinking> 
-
-This form, "Nightlife Experience Feedback", is intended to gather feedback on customers' experiences with the nightlife services provided by your company. The purpose of this form is to understand how well the services met the customers' expectations, what could be improved, and to collect additional context such as the type of tool assigned to them. 
-
-To ensure that this form is being used correctly, please make sure that customers only submit feedback on their actual experiences, avoiding duplicate submissions if they have already submitted feedback.
-
-</thinking>
-
 # Nightlife Experience Feedback - Help Guide
 
 ## Purpose

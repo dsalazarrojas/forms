@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from riders about their preferences regarding BMX cruises, including their name, email address, level of experience, type of bike, preferred cruise type, group size, frequency, and other details such as route suggestions, must-have features, and transportation methods. This form is designed to ensure that the organizers of the cruise can tailor the event to meet the needs and expectations of the participants.
-
-To avoid duplicating or submitting irrelevant information, riders should only answer the questions that apply to them, and provide honest and accurate information about their preferences and concerns.
-
-This form will help the organizers of the cruise to better understand the preferences and needs of the riders, which will enable them to create a more enjoyable and safe experience for everyone involved.
-
-</thinking>
-
 # BMX Cruise Preference Survey - Help Guide
 ## Purpose
 This survey is designed to collect information from riders about their preferences and preferences for BMX cruises. By filling out this form, you will help the organizers create a more enjoyable and safe experience for everyone involved.

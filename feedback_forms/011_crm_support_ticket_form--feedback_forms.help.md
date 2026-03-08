@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers or users who need technical support for their CRM (Customer Relationship Management) system. The form is designed to gather essential details about the issue, including contact information, issue category, priority level, and other relevant details. This helps the support team to effectively resolve the issue and provide timely assistance.
-
-To prevent duplication, the form is designed to collect unique information for each issue, and the support team can use this information to track and manage multiple issues efficiently. This form is intended for customers or users who require technical support for their CRM system.
-</thinking>
-
 # CRM Support Ticket Form - Help Guide
 ## Purpose
 This form is used to collect information from customers or users who need technical support for their CRM system.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for users to sign up for an event. The purpose of this form is to collect basic information about the user, event details, and event status. It's designed to help the event organizers manage their event registrations efficiently. The form has been designed to accommodate various types of event information, and it's crucial to complete it accurately to ensure smooth event operations.
-
-Please ensure you have read this guide carefully before proceeding with the form. If you need to sign up for the event, please provide truthful and accurate information. Note that the fields marked as "required" are essential to complete the form.
-
-</thinking>
-
 # Spring Event Sign Up Form - Help Guide
 ## Purpose
 This form is designed for users to sign up for the Spring Event. It collects user and event information to help the event organizers manage the event efficiently.

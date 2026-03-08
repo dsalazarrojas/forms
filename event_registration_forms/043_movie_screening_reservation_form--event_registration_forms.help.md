@@ -1,11 +1,3 @@
-<thinking>
-
-To create this form, our goal is to guide users to reserve a movie screening with a clear and concise user interface. This form collects details about the movie, screening time, seat number, reservation date and time, notes, payment method, and confirmation information for the reservation.
-
-We need to ensure that users understand the purpose of each field and how to fill them out correctly.
-
-</thinking>
-
 # movie_screening_reservation_form - Help Guide
 ## Purpose
 This form is intended for users to reserve a movie screening by providing movie details, screening time, and other necessary information to finalize the reservation.

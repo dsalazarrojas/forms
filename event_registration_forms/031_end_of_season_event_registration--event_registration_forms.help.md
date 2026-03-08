@@ -1,9 +1,3 @@
-<thinking>
-  This form is used for registering end of season events. It is intended for event organizers to provide information about their event, including the event type, date, time, location, number of participants, payment gateway, amount, payment method, event details, and other relevant information.
-  Before filling out this form, please make sure that you have all the necessary information ready, as some fields are required.
-  Note that this form is for end of season events specifically, and please ensure that you are registering the correct type of event.
-</thinking>
-
 # End Of Season Event Registration - Help Guide
 
 ## Purpose

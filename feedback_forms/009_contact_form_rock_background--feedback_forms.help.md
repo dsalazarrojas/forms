@@ -1,6 +1,3 @@
-<thinking>
-We are checking that the form purpose is to collect user feedback about the "Rock Background" and that no other form with the same purpose exists in the internal database.</thinking>
-
 # Contact Form Rock Background - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about the "Rock Background" feature. Please fill out this form to provide your thoughts and suggestions to help us improve the feature.

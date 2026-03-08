@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about a specific tiling project. The purpose of this form is to gather information on the quality and effectiveness of the project, allowing project managers to identify areas for improvement and make data-driven decisions. The form is not affiliated with, endorsed by, or derived from any form platform, and is released under the Creative Commons Attribution 4.0 license.
-</thinking>
-
 # Tiling Project Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about a specific tiling project. Please answer the questions as honestly and thoroughly as possible to provide valuable insights for the project team.

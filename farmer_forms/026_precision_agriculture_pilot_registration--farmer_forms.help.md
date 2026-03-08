@@ -1,8 +1,3 @@
-<thinking>
-This form is for registering farmers to participate in a precision agriculture pilot program. The purpose of this form is to collect information from farmers who are interested in testing and implementing precision agriculture practices on their farms. The form is used to gather data on the farmers' farms, including their crop types, participant details, and contact information. This data will be used to support the precision agriculture pilot program.
-To ensure that this form is completed correctly, it is essential to review the form carefully before submitting it. Make sure to select the correct farm details, list all relevant crops, and include accurate contact information. Duplicate entries are not allowed, so make sure to submit unique information for each farmer.
-</thinking>
-
 # Precision Agriculture Pilot Registration - Help Guide
 ## Purpose
 The Precision Agriculture Pilot Registration form is a tool for farmers to register their interest and participate in the precision agriculture pilot program. This form helps us gather information about your farm and your participation in the program.

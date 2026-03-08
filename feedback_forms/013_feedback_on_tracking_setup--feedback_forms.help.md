@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Feedback On Tracking Setup - Help Guide
 
 ## Purpose

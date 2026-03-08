@@ -1,5 +1,3 @@
-<thinking>Before filling out the Relocation Budget Extension Request Form, please note that this form is intended for employees who wish to extend their approved relocation budget for travel. If you have already submitted a relocation budget extension request, please do not resubmit, as this form will override your previous request.</thinking>
-
 # Relocation Budget Extension Request Form - Help Guide
 
 ## Purpose

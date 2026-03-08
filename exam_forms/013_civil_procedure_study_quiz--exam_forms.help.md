@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Civil Procedure Study Quiz - Help Guide
 ## Purpose
 This form is designed to help students test their knowledge on civil procedure by answering a series of multiple-choice questions. The quiz is intended to gauge the student's understanding of various topics in civil procedure, including pleadings, jurisdiction, discovery, and more.

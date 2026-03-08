@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be a Personal Yearly Forecast Survey for users to reflect on their past year, goals, aspirations, and future steps for growth and development. It appears to be focused on various aspects of personal well-being, such as relationships, financial health, and emotional state. The form includes multiple pages with various fields for the user to input their experiences, thoughts, and intentions for the upcoming year. 
-
-This form likely aims to help users identify areas where they need improvement or growth, and provide a starting point for setting realistic and achievable goals for the new year. The structure of the form suggests that it may be part of a larger assessment or planning framework. However, further context or information would be necessary to confirm its intended use case.
-
-Please note that this is a form with a large amount of questions, so it may be beneficial to create a guide to help users navigate it effectively. Also, some field labels may benefit from a more concrete explanation to improve user understanding.
-</thinking>
-
 # Personal Yearly Forecast Survey - Help Guide
 
 ## Purpose

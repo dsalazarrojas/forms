@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant information and preferences for a webinar event. The form is designed to collect basic participant details, event details, and payment information. It's essential to complete the form accurately to ensure that the participant information is up-to-date and complete.
-
-To avoid confusion, please note that some fields are not required, and you can leave them blank if you don't have the information.
-
-Before filling out the form, make sure you have all the necessary information ready, especially the payment details.
-</thinking>
-
 # skate_webinar_application_form - Help Guide
 ## Purpose
 The purpose of this form is to collect participant information and preferences for a webinar event.

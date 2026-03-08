@@ -1,12 +1,3 @@
-<thinking>
-The "gym_trial_experience_survey" form is designed to collect feedback from users who have tried out our gym's trial offer. This form aims to gather information on their overall experience, the services they used, the helpfulness of our trainers, and their rating of our facilities and staff. It is essential that we gather this feedback to identify areas for improvement and provide better services to our customers. 
-
-To avoid duplication, it's crucial that users only take the survey if they have genuinely experienced our services during the trial period. 
-
-Please note that all fields marked as required are essential for the survey analysis and should not be skipped. 
-
-</thinking>
-
 # gym_trial_experience_survey - Help Guide
 ## Purpose
 This guide will walk you through the purpose and process of the gym trial experience survey.

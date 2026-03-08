@@ -1,7 +1,3 @@
-<thinking>
-This form is used for event sponsorship application, allowing applicants to provide information about themselves and their businesses. The purpose of this form is to collect necessary details for event sponsors. The form will be reviewed internally to ensure all required and optional fields have been filled out correctly. Please ensure that all provided information is accurate and up-to-date to avoid any issues with your application. Note that some fields are marked as required, but this may not necessarily mean that a specific field is always mandatory. Please check the relevant field descriptions for more information.
-</thinking>
-
 # Event Sponsorship Application Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants interested in sponsoring events.

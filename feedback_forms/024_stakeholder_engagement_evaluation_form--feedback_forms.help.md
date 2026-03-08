@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Stakeholder Engagement Evaluation Form - Help Guide
 
 ### Purpose

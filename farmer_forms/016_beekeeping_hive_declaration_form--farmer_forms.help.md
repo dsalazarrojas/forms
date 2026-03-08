@@ -1,27 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from beekeepers about their beekeeping operations, including their apiary name, location, and details about their hives, bees, and activities. This information will help us understand the current state of beekeeping in the region and provide valuable insights for future decision-making and resource allocation. It is essential to provide accurate and up-to-date information to help us support beekeepers effectively. Please ensure that you complete all required fields and provide as much detail as possible for a comprehensive understanding of your operations.
-To complete the form, follow these steps:
-1. Enter your name, email address, and phone number under "Beekeeper Name", "Email Address", and "Phone Number" respectively.
-2. Fill in the "Apiary Name" field with the name of your beekeeping operation.
-3. Enter the full address of your apiary location in the "Apiary Address" field.
-4. Select the total number of hives at your apiary location in the "Total Number of Hives" field.
-5. Choose all the types of hives you have at your apiary from the list in the "Hive Types" field.
-6. Enter the identification numbers of all your hives in the "Hive ID Numbers" field.
-7. Select the source of your queen bees in the "Queen Source" field.
-8. Choose the primary breed or strain of bees you keep in the "Bee Breed or Strain" field.
-9. Select the overall condition of your hives in the "Hive Condition" field.
-10. Indicate any issues you have detected with your hives in the "Issues Detected" field.
-11. Select any treatments you have applied to your hives in the "Treatments Applied" field.
-12. Enter the date of your last hive inspection in the "Last Inspection Date" field.
-13. If applicable, report the total honey and wax production in the "Honey Production This Season" and "Wax Production This Season" fields.
-14. Select the quality of forage in the "Forage Availability" field.
-15. Indicate if water is available for your bees in the "Water Source Available" field.
-16. Report your winter preparation status in the "Winter Preparation Status" field.
-17. Confirm if you have paid the registration fee in the "Registration Fee Paid" field.
-18. Indicate if you are a member of a beekeeping association in the "Beekeeping Association Member" field.
-19. Provide any additional notes or comments in the "Additional Notes" field.
-</thinking>
-
 # Beekeeping Hive Declaration Form - Help Guide
 ## Purpose
 The Beekeeping Hive Declaration Form is a comprehensive tool to collect information from beekeepers about their apiary operations. The data collected will help us understand the current state of beekeeping in the region and support effective decision-making and resource allocation.

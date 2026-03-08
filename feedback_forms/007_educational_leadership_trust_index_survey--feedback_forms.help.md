@@ -1,9 +1,3 @@
-<thinking> 
-
-The Educational Leadership Trust Index Survey is designed to assess the level of trust that educational leaders have in their school's management and policies. The survey aims to understand the opinions and perceptions of educational leaders in various aspects of trust, helping to identify areas of strength and weakness, and provide insights for improvement. This form is essential for educators to provide their honest feedback, which can inform the development of more effective policies and practices.
-
-</thinking>
-
 # Educational Leadership Trust Index Survey - Help Guide
 ## Purpose
 The Educational Leadership Trust Index Survey is a tool used to measure the level of trust that educational leaders have in their school's management and policies. It's designed to gather opinions and perceptions of leaders in various aspects of trust, which can help identify areas of strength and weakness, and inform improvements.

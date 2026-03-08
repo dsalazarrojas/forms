@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bar Service Complaint Form - Help Guide
 ## Purpose
 The Bar Service Complaint Form is used to report any issues or concerns you experienced while visiting one of our bars. This form is meant to be used for reporting problems with service, food and beverage quality, and other issues affecting your experience. Please note that this form is intended for internal use only and will not be shared with anyone outside of our organization. If you have already submitted a complaint, please do not resubmit it. Duplicate complaints will be reviewed only once.

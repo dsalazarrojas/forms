@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Glam Event Registration Form", we need to consider the purpose of the form and how it will be used. The form is likely intended for users to register for an event, providing necessary information for event management and organization. This includes details about the attendee, such as their name, email address, phone number, and date of birth. The form also collects information about the attendee's attendance, including their time of attendance and the type of attendee they are (VIP, Regular, or Guest). Payment methods and additional information can also be provided. The form should be designed to be user-friendly and easy to understand, with clear labels and hints for each field.
-
-Before creating the guide, I will check for relevance and non-duplication. The form is focused on collecting attendee information and payment methods, suggesting it is primarily used for event registration. There are no obvious duplicates or conflicting fields, so the guide can proceed.
-
-</thinking>
-
 # Glam Event Registration Form - Help Guide
 ## Purpose
 The "Glam Event Registration Form" is designed to collect information from attendees for events. This form helps event organizers gather necessary details, such as attendee contact information, attendance specifics, and payment methods.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for booking a spot in the Writers Creative Retreat. The form asks for details about the event, such as booking dates, time, and participant information. It also asks for confirmation of booking and participant arrival details. This form is meant to be completed by writers who are interested in attending the retreat. The form is designed to gather necessary information for the retreat organizers to manage bookings and communicate with participants effectively.
-
-</thinking>
 # Writers Creative Retreat Booking Form - Help Guide
 ## Purpose
 This form is used to book a spot in the Writers Creative Retreat. Please fill out the form with your booking details and participant information to complete the registration process.

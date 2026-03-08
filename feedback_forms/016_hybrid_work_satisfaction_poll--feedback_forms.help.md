@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees on their experience with the hybrid work environment. The goal is to understand their satisfaction levels with various aspects of their work, such as work-life balance, time commitment, and overall job satisfaction. This will help the organization to identify areas of improvement and make data-driven decisions to enhance the hybrid work environment.
-We will be checking for duplication of responses to ensure that each feedback submission is unique and contributes to the overall understanding of employee experience. 
-This form will be used to gather feedback on the hybrid work environment, and it's essential to complete it accurately and honestly.
-</thinking>
-
 # Hybrid Work Satisfaction Poll - Help Guide
 
 ## Purpose

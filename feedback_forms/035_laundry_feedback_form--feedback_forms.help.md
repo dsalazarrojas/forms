@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their experience with the laundry service. This form is designed to gauge the quality of service, attentiveness of staff, and overall satisfaction of customers. It's essential to ensure that we deliver the best possible service to our customers, and this form helps us achieve that by collecting valuable insights from their experiences. 
-Please note that this form is not intended to be a mandatory requirement for customers to submit, but rather an optional way for us to improve our service.
-
-To ensure data quality, please do not submit this form more than once for the same experience. 
-</thinking>
-
 # Laundry Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers to help us improve our laundry service. Your input will help us ensure we deliver exceptional service to our customers.

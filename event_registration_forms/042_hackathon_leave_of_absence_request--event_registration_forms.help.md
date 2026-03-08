@@ -1,7 +1,3 @@
-<thinking>
-  Before proceeding, please make sure that you are not currently attending a hackathon for which you have not yet registered, and that this form does not need to be resubmitted. If your request is accepted, it will be visible to others in the Hackathon Management System and will affect your hackathon attendance.
-</thinking>
-
 # Hackathon Leave Of Absence Request - Help Guide
 ## Purpose
 The purpose of this form is to request a leave of absence from a hackathon, which allows you to withdraw your participation or cancel your attendance from a hackathon for which you are currently registered.

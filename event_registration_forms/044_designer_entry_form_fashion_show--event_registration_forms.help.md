@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for fashion designers to register for a fashion show. To ensure that this form is used correctly, please check that the form's purpose and target audience are clear. This form is intended for fashion designers who wish to showcase their latest creations. If the form is being used for another purpose, please do not use this guide. This form should not be used for other types of events or for non-fashion related purposes.
-
-</thinking>
-
 # designer_entry_form_fashion_show - Help Guide
 ## Purpose
 This form is for fashion designers to register for a fashion show. It is intended for designers who wish to showcase their latest collections, designs, and creations to a targeted audience. Please ensure that you have permission to use this form and that the information provided is accurate.

@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to help event organizers collect necessary information for the event heat safety zone. It's meant for events that may have a high risk of heat-related issues due to weather conditions or other factors. This form will help ensure that the event is conducted safely. It's a simple, multiple-page form that asks for details about the event and the safety measures in place.
-
-Please note that the form is not intended for general event registration, but rather for specific situations where heat safety is a concern. If you are using this form for general event registration, it is not the right tool for you.
-
-Before starting, ensure you have the necessary information and permissions to proceed. The form is not designed to collect sensitive personal data but rather to gather event-specific details.
-
-The following pages and fields are included in the form:
-
-*   Event Details
-*   Heat Relief Plan
-*   Safety Measures
-*   Site Map
-
-</thinking>
-
 # Event Heat Safety Zone Application Form - Help Guide
 ## Purpose
 The Event Heat Safety Zone Application Form is designed to collect information for events that may have a high risk of heat-related issues. This form is meant to ensure that events are conducted safely.

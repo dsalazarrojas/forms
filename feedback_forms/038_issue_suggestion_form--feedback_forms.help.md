@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on various aspects of a product, service, or process. Before filling out this form, please ensure that you are submitting genuine and relevant suggestions. If you have already submitted feedback on the same topic, please do not resubmit. Your input will help us improve and refine our services.
-</thinking>
-
 # Issue Suggestion Form - Help Guide
 ## Purpose
 The Issue Suggestion Form is a tool used to collect feedback from users on specific issues they encounter while interacting with a product, service, or process. Your input helps us improve and refine our services to better serve you.

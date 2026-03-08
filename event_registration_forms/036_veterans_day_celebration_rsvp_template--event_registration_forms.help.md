@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterans Day Celebration RSVP Template - Help Guide
 
 ## Purpose

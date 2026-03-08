@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from parents and guardians about their experience with daycare services. It's crucial that each response is submitted only once per daycare feedback session to ensure accuracy. 
-</thinking>
-
 # Daycare Feedback Form - Help Guide
 ## Purpose
 The Daycare Feedback Form is designed to collect feedback from parents and guardians about their experience with our daycare services. This feedback will help us identify areas of improvement and make adjustments to better meet your needs.

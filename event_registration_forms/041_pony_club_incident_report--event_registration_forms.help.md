@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pony Club Incident Report - Help Guide
 ## Purpose
 This form is used to record incidents that occurred during Pony Club activities, such as accidents, injuries, or other significant events. Please use this form to provide a clear and accurate report of what happened, including dates, locations, and any details that may be relevant to the incident.

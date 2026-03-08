@@ -1,7 +1,3 @@
-<thinking>
-We will use this form to collect feedback from customers on their experience when opening a bank account with us. This form is designed to gather information on how well we served our customers and what we can improve on. It is recommended to be filled out after the customer has successfully opened their account. The form will not be used as a duplicate effort if a customer has already provided feedback on a similar topic in the past. Please take a few minutes to review the form carefully and answer all questions to the best of your ability.
-</thinking>
-
 # Bank Account Opening Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their experience when opening a bank account with us.

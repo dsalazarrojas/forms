@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cultural Festival Media Upload Form - Help Guide
 
 ## Purpose

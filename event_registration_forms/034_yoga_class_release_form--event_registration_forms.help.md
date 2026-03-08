@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students who are interested in participating in a yoga class. The form is designed to gather relevant details about the student, including their contact information, medical conditions, and emergency contact details. It also requires the student to provide their consent to participate in the class and sign a waiver. This form is essential for ensuring the student's safety and well-being during the class.
-</thinking>
-
 # yoga_class_release_form - Help Guide
 ## Purpose
 This form is used to collect information from students who are registering for a yoga class. It is used to gather contact details, medical information, and emergency contact details, as well as obtain their consent to participate in the class and sign a waiver.

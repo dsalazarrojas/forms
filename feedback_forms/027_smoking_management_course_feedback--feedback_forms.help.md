@@ -1,11 +1,3 @@
-<thinking>
-This is a feedback form for evaluating the smoking management course. It's a crucial tool for course organizers to gather valuable insights into the effectiveness and quality of the course. The goal is to understand what worked well, what didn't, and what can be improved.
-
-The form contains 25 fields that cover various aspects of the course, including its introduction, content, organization, logistical support, and overall satisfaction. This feedback will help course creators fine-tune their programs to better serve their participants in the future.
-
-Please note that this form is intended for feedback and ratings from participants. It's not a test or a survey, so please answer honestly and provide specific examples if possible.
-</thinking>
-
 # smoking_management_course_feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants to help course creators improve the smoking management course.

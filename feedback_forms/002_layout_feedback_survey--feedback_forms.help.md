@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback on the layout of a design project. The form is designed to be used by users to provide their thoughts on the layout of a project. This feedback can help the project team make adjustments and improvements to the layout before finalizing the design. 
-Please note that this form is a feedback mechanism and is not meant to be used for actual submissions. It is intended for internal use only.
-The form is not meant to be filled out by multiple users at the same time. It is not a voting mechanism and does not collect numerical scores. It is meant for individual, personal feedback.
-</thinking>
 # Layout Feedback Survey - Help Guide
 ## Purpose
 The Layout Feedback Survey form is designed to collect individual feedback on the layout of a design project. The form is used for internal purposes only and should not be used for actual submissions.

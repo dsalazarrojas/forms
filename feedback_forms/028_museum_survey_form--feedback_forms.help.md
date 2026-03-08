@@ -1,13 +1,3 @@
-<thinking>... internal reasoning for form purpose and relevance check:
-
-The "Museum Survey Form" is a feedback collection tool designed for visitors of the museum. Its primary purpose is to gather information about visitors' experiences, opinions, and suggestions. This form helps the museum to understand visitor demographics, preferences, and areas for improvement. By completing this form, visitors can share their feedback and help the museum create a better environment for its visitors.
-
-This form is meant to be completed by visitors who have visited or plan to visit the museum. If you're not a visitor, your completion of this form may not be relevant and could result in duplicate feedback from the same person.
-
-To help the museum improve and create a better experience for visitors, your honest and thoughtful feedback is valuable.
-
-</thinking>
-
 # Museum Survey Form - Help Guide
 ## Purpose
 The "Museum Survey Form" is designed to collect feedback from visitors to the museum, allowing us to improve and create a better environment for future visits.

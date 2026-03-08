@@ -1,10 +1,3 @@
-<thinking>
-This is a form for event registration. It's designed to help us track event attendance and details. Please make sure to fill it out accurately, as it will help us understand who's attending each event and how to plan for future events.
-
-To complete this form, please follow these steps:
-
-</thinking>
-
 # Event Attendance Declaration Form - Help Guide
 
 ## Purpose

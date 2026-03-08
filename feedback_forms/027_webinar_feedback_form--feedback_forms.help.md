@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect feedback from attendees of webinars to help improve future webinars. It's essential to ensure that each section is filled out accurately and completely, as this information will be used to assess the overall quality of the webinar and identify areas for improvement. Please do not submit the form multiple times, as this can cause duplication of feedback and may lead to confusion in the analysis process.</thinking>
-
 # Webinar Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from attendees of webinars to help improve the quality and content of future webinars.

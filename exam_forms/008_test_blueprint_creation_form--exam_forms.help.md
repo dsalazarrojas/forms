@@ -1,7 +1,3 @@
-<thinking>
-This form is used for creating test blueprints, which are essentially templates for exams or assessments. It allows users to input information about the form title, category, description, requirements, and data fields. The form is designed to be flexible, allowing users to input multiple data fields. The form's primary goal is to provide a structured way of creating test blueprints in a standardized format. Before proceeding, please ensure you are familiar with the purpose of this form and the types of information it is intended to capture. If you've already created a blueprint with similar details, you might not need to fill out this form again.
-</thinking>
-
 # Test Blueprint Creation Form - Help Guide
 ## Purpose
 This form is used to create test blueprints for exams or assessments.

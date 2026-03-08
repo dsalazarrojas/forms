@@ -1,6 +1,4 @@
-# <thinking> ... </thinking>
-
-The purpose of this form is to collect market research data on the beauty industry. This template is designed to gather insights from individuals who are interested in or active in the beauty market. The form's questions cover various topics, including demographics, beauty product purchasing habits, preferences, and pain points. 
+# The purpose of this form is to collect market research data on the beauty industry. This template is designed to gather insights from individuals who are interested in or active in the beauty market. The form's questions cover various topics, including demographics, beauty product purchasing habits, preferences, and pain points. 
 
 To avoid duplication, we have ensured that the form's questions are comprehensive and cover a wide range of topics, while keeping it concise and easy to fill out.
 

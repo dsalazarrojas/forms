@@ -1,10 +1,3 @@
-<thinking>
-The Sympathomimetic Pharmacology Quiz form is designed to assess knowledge and understanding of pharmacology concepts related to sympathomimetic drugs. This form will help users demonstrate their understanding of the pharmacology of various drugs by answering a series of questions, selecting correct answers, and providing additional comments. The purpose of this form is to evaluate user knowledge and identify areas for further learning or improvement.
-
-Internal reasoning: This form is intended for educational purposes, and users are expected to answer questions accurately and honestly. Please do not submit fake or misleading information.
-
-</thinking>
-
 # Sympathomimetic Pharmacology Quiz - Help Guide
 ## Purpose
 The Sympathomimetic Pharmacology Quiz is designed to evaluate user knowledge of pharmacology concepts related to sympathomimetic drugs.

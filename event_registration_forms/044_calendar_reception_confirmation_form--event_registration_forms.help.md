@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Calendar Reception Confirmation Form - Help Guide
 
 ## Purpose

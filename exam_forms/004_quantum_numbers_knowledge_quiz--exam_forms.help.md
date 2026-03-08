@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for educators to collect and review student answers, feedback, and scores for a quiz on quantum numbers knowledge. It is meant to be completed by teachers to evaluate student understanding and provide feedback. 
-</thinking>
-
 # Quantum Numbers Knowledge Quiz - Help Guide
 ## Purpose
 This form is for teachers to collect and review student answers, feedback, and scores for a quiz on quantum numbers knowledge.

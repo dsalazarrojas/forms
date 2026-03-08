@@ -1,12 +1,3 @@
-<thinking>
-This help guide will be used to assist end users in understanding the purpose and functionality of the "Product Prototype Feedback Questionnaire" form. The form is designed to gather feedback on a product prototype, allowing users to provide their thoughts and opinions on the product's design, features, and overall experience. The goal is to collect actionable insights that can be used to improve the product before its official release.
-
-The form is composed of multiple pages, each with its own set of questions and fields. This guide will cover each field in detail, explaining what is expected from the user and what information is being collected.
-
-Before starting the form, it is essential to review the instructions below to ensure a smooth and accurate completion.
-
-</thinking>
-
 # Product Prototype Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback on a product prototype, providing an opportunity for you to share your thoughts and opinions on the product's design, features, and overall experience.

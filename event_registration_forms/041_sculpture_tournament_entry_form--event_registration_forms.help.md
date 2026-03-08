@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, "sculpture_tournament_entry_form", is used for users to register themselves or their work in a sculpture tournament. The purpose of this form is to collect necessary details from the participant, such as their name, contact information, and artwork image. This form will likely be used by artists who want to showcase their work in the sculpture tournament, or by the tournament organizers to collect participant information for the event. 
 
 </thinking>

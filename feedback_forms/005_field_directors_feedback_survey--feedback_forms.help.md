@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the field directors feedback survey, a form aimed at gathering feedback from field directors in an organization. 
-It is intended to collect feedback in a structured manner, ensuring that the information gathered is comprehensive and actionable. This form should only be completed by field directors and the feedback should be about their experiences, challenges, and ideas for improvement. 
-</thinking>
-
 # field_directors_feedback_survey - Help Guide
 ## Purpose
 The field directors feedback survey is designed to gather feedback from field directors in an organization, focusing on their experiences, challenges, and ideas for improvement. This form is intended to help the organization better understand their field directors' perspectives and make informed decisions.

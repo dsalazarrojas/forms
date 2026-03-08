@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect attendee information for events, specifically concerts. The purpose of this form is to ensure that all attendees have a smooth and enjoyable experience at the concert event. The form will collect attendee details such as check-in ID, name, contact information, and other relevant event-specific information to facilitate check-in, verify attendee's identity, and provide them with access to VIP amenities if applicable.
-
-</thinking>
-
 # Concert Check In Form - Help Guide
 ## Purpose
 The Concert Check In Form is used to collect attendee information and verify their identity for concerts. This helps ensure a smooth check-in process, provides access to VIP amenities if applicable, and facilitates emergency contact in case of an unexpected event.

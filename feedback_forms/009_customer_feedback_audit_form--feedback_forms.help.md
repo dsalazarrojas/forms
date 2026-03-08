@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers after they have interacted with our company's services. The information gathered will be used to improve our services and customer experience. Before completing this form, please ensure that you have not already provided feedback, as this form is designed to collect unique and distinct feedback from each customer.
-</thinking>
-
 # Customer Feedback Audit Form - Help Guide
 
 ## Purpose

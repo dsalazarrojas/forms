@@ -1,13 +1,3 @@
-<thinking>
-
-The Training Feedback Form is designed to capture feedback from trainees about their experience with a particular training session. This form will help us understand what trainees liked or disliked about the session, what they learned, and what they would like to see improved in future sessions. This form is not intended for real-time feedback, but rather for capturing more detailed and thoughtful feedback that can be used to improve the training program as a whole.
-
-When providing feedback, please keep in mind that your input will be reviewed and used to improve the training program. Your anonymity is not guaranteed, but we will not use your feedback to identify you personally. Your feedback will help us create a more engaging and effective training program for future trainees.
-
-Before providing feedback, please ensure that you have not already submitted feedback for this training session. Duplicate feedback will not be reviewed, so please only submit feedback for each session once.
-
-</thinking>
-
 # Training Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from trainees about their experience with a particular training session.

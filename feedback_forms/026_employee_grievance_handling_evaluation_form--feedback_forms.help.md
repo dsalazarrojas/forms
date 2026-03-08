@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the form's purpose and functionality. The Employee Grievance Handling Evaluation Form appears to be designed for employees to provide feedback on how their grievances were handled during the resolution process. This form likely aims to help managers assess and improve the grievance handling process, gathering information on the employee's experience, satisfaction, and suggestions for improvement. I'll ensure that the guide is clear, concise, and practical, explaining each field in a way that's easy to understand for end-users.</thinking>
-
 # Employee Grievance Handling Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help employees provide feedback on how their grievances were handled during the resolution process. It helps managers assess and improve the grievance handling process, gathering information on the employee's experience, satisfaction, and suggestions for improvement.

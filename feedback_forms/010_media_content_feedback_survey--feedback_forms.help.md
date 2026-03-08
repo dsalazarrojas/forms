@@ -1,5 +1,3 @@
-<thinking>Here's the internal reasoning behind this form: This form is designed to gather feedback from users on various types of media content, including videos, podcasts, articles, and campaigns. The form is intended to be a simple and efficient way to collect feedback, allowing users to provide ratings, suggestions, and other types of input. This feedback will help the content creators and administrators to improve their content and better serve their audience. To prevent duplication, we will only collect feedback for each user once per media type. Please make sure to fill out the form carefully and accurately, as the feedback provided will directly impact the content and services we provide.</thinking>
-
 # Media Content Feedback Survey - Help Guide
 
 ## Purpose

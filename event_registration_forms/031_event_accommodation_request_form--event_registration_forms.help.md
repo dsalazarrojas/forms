@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an event's accommodation needs, such as the event name, date, and time, as well as the number of attendees and any special requests. This form will help event organizers or administrators to better understand the accommodation requirements for an event.
-To ensure that you are using this form correctly, please note that the form is divided into several sections. Each section is designed to gather specific information about the event.
-</thinking>
-
 # Event Accommodation Request Form - Help Guide
 ## Purpose
 The Event Accommodation Request Form is used to collect information about an event's accommodation needs. This form helps event organizers or administrators to better understand the accommodation requirements for an event.

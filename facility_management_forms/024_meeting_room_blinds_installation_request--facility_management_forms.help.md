@@ -1,6 +1,3 @@
-<thinking>
-This form is used to submit a request for installing blinds in a meeting room. The form is used to gather necessary information from the meeting room's occupant to ensure the blinds are installed correctly and efficiently. Before proceeding, please ensure the form is being used for a new request. If you have previously submitted a similar request, please use the provided link to access and edit your previous submission instead of creating a new one.
-</thinking>
 # Meeting Room Blinds Installation Request - Help Guide
 ## Purpose
 This form is used to submit a request for installing blinds in a meeting room. Please fill out this form to provide necessary information about your meeting room's blinds installation request.

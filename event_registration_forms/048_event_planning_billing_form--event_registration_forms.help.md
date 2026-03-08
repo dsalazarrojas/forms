@@ -1,11 +1,3 @@
-<thinking>
-
-This guide will cover the purpose and usage of the "Event Planning Billing Form", a form designed to collect crucial information from clients and vendors for event planning and billing purposes. The form will be used by event planning teams and organizers to streamline the process of gathering details from clients, which will aid in accurate billing, payment planning, and follow-up communication. It will help avoid confusion and discrepancies in the past, as the client's preferences, payment methods, and event details will be well-documented.
-
-The purpose of this guide is to make it easy for end-users to understand the form, its fields, and how to complete it accurately to ensure efficient processing of event planning and billing tasks.
-
-</thinking>
-
 # Event Planning Billing Form - Help Guide
 
 ## Purpose

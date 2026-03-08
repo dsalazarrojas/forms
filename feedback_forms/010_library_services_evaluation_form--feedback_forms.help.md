@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Library Services Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help coaches collect information from clients during their coaching sessions. The goal is to understand the client's name, session date and time, the coaching topic discussed, the client's goals, their progress, the coach's notes, client feedback, and the client's next session date.
-This form is intended to be used by coaches to gather data for their own records and reporting purposes. It is not meant to be used for external data collection or public display.
-The following instructions and explanations are provided to ensure that users understand the form's purpose and how to complete it effectively.
-</thinking>
-
 # Online Coaching Check In Form - Help Guide
 ## Purpose
 This form is designed to help coaches collect valuable information from clients during their coaching sessions. It helps coaches gather essential details about each client's progress, goals, and preferences.

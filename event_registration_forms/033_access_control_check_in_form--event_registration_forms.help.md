@@ -1,7 +1,3 @@
-<thinking>
-The Access Control Check In Form is used to collect information from event attendees for security and logistical purposes. This form is designed to help event organizers verify attendees' identities and ensure they are authorized to access specific areas of the event. It's meant for use on-site, during the event, and the data collected will be used for check-in and access control purposes. Before filling out the form, please make sure to only enter the information for the person who is being checked in, and not for multiple people at once.
-</thinking>
-
 # Access Control Check In Form - Help Guide
 ## Purpose
 The Access Control Check In Form is used to collect information from event attendees for security and logistical purposes, including verifying attendee identities and ensuring authorized access to event areas.

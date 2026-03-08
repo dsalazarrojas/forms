@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for animal breeders to collect information from potential clients for the purpose of providing a cost estimate for breeding services. The form is used to gather details about the client, the animal, and the services requested. This guide will walk you through the form fields and their corresponding explanations, helping you understand how to complete the form correctly.
-</thinking>
-
 # Animal Breeder Estimate Form - Help Guide
 ## Purpose
 The Animal Breeder Estimate Form is used to collect information from potential clients for the purpose of providing a cost estimate for breeding services. This form helps the breeder to gather the necessary details about the client, the animal, and the services requested.

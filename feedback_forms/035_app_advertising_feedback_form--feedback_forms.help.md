@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # App Advertising Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with in-app advertisements. The form aims to gather information on the effectiveness, relevance, and overall quality of the advertisements displayed within the app. The data collected will help us improve the advertising experience for all users.

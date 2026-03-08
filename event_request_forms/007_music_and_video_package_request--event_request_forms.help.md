@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for a form designed to collect information for a music and video package request. The form is intended for end-users to submit their requirements for a customized music and video package.
-This form will be used to gather information about upcoming events and create a tailored package for clients. By providing event details, package preferences, and contact information, clients can create a customized package that suits their needs.
-This form will not be used to collect sensitive or financial information.
-To avoid duplicate packages, we suggest that users only submit one form at a time.
-</thinking>
-
 # Music And Video Package Request - Help Guide
 ## Purpose
 The Music And Video Package Request form is designed to collect information for creating a customized music and video package for upcoming events. This form is meant for clients to submit their requirements and preferences for their event.

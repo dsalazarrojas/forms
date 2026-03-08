@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for team registration to participate in a contest. It is designed to collect information about the team, its participants, and the team captain's contact details. This form is meant for general public use, so please ensure that all required fields are filled correctly.
 
 # Team Contest Entry Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is a feedback form designed to collect reviews of ingredient labels. It is intended to be completed by individuals who have access to ingredient labels, such as regulatory personnel, manufacturers, and other relevant stakeholders. This form is meant to be a quick and efficient way for these individuals to provide their expert feedback on the label's accuracy, completeness, and overall effectiveness in conveying information to consumers. The form can be filled out by anyone, but it is most relevant to those with a vested interest in the quality and accuracy of ingredient labels.
-</thinking>
-
 # Ingredient Label Review Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on ingredient labels from various stakeholders, including regulatory personnel, manufacturers, and others with a vested interest in the accuracy and quality of labels.

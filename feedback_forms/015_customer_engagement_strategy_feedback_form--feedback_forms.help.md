@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Engagement Strategy Feedback Form - Help Guide
 
 ## Purpose

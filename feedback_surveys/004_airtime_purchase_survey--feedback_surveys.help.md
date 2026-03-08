@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for customers to provide feedback and insights on their experiences with purchasing airtime. The purpose of this form is to collect data on customer preferences, satisfaction, and pain points, which will help the company improve their services and better understand customer needs. This form is meant to be completed by customers who have purchased airtime recently, and it should only be filled out once per customer to avoid duplication of responses.
-
-</thinking>
-
 # Airtime Purchase Survey - Help Guide
 
 ## Purpose

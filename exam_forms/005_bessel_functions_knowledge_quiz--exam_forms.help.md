@@ -1,7 +1,3 @@
-<thinking>
-This form is a quiz on Bessel functions, a type of mathematical function used in various scientific fields. The form is designed to test the understanding of different aspects of Bessel functions, including their standard form, notation, symmetry, and applications. This form is intended for students taking courses in mathematics, physics, or engineering, particularly those who want to assess their knowledge on this topic. This form is not meant to be a comprehensive test on the subject, but rather a tool to help students gauge their understanding and identify areas where they need more study. The questions are designed to be self-contained and can be answered based on general knowledge of the topic, without requiring specific prior knowledge of the questions themselves.
-</thinking>
-
 # Bessel Functions Knowledge Quiz - Help Guide
 ## Purpose
 

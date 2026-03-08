@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help departing employees share their thoughts, feelings, and insights about their employment experience. It's crucial to have a clear and respectful conversation with the exiting employee, ensuring they feel heard and valued. Please ensure you're using this form when it's genuinely necessary and not duplicating any other exit procedures already in place within your organization.
-</thinking>
-
 # Employee Exit Interview Form - Help Guide
 
 ## Purpose

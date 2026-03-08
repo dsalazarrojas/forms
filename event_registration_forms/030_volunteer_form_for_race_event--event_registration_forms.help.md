@@ -1,7 +1,3 @@
-<thinking>Before diving into creating the help guide, I'd like to clarify that the form seems to have a lot of fields that are not required, and some fields appear to be identical (e.g., multiple "event_registration_form_shift" fields with different IDs). I'll assume that these are intentional design choices and not errors.
-
-The form is designed for volunteers to register for a race event, and it seems to gather information about their personal details, shift assignments, and agreement to certain conditions. The non-required fields might be optional or used for future enhancements. I'll provide the help guide based on this understanding.</thinking>
-
 # Volunteer Form For Race Event - Help Guide
 ## Purpose
 The Volunteer Form for Race Event is designed to register volunteers for the event. This guide will walk you through each field to ensure you complete the form accurately and efficiently.

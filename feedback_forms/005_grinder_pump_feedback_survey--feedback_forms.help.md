@@ -1,27 +1,3 @@
-<thinking>
-
-To design an effective user-facing help guide for the Grinder Pump Feedback Survey, I'll first consider the form's purpose and the required and optional fields. The form is used to collect feedback on the grinder pump, specifically asking users about their satisfaction, any issues they've experienced, pump performance, and any suggestions they may have for improvements. The form has eight fields in total: four for feedback and four for user information (name, email, contact information, and submit). 
-
-The "user_satisfaction" field is a select_one type, asking users to express their level of satisfaction with the grinder pump. This field has four options: Very satisfied, Somewhat satisfied, Not satisfied, and Not at all satisfied.
-
-The "issue_reports" field is a text type, where users can freely type any issues they've experienced with the grinder pump.
-
-The "pump_performance" field is a select_one type, asking users about how often they run the grinder pump. This field has four options: Daily, Several times per week, Once a week, and Less than once a week.
-
-The "improvement_suggestions" field is a text type, where users can submit any suggestions they may have for improvements to the grinder pump.
-
-The "user_info" field is a text type, asking for the user's name.
-
-The "email" field is an email type, expecting the user's email address.
-
-The "contact_info" field is a text type, where users can provide any additional contact information.
-
-The "submit" field is not actually a submit field, which is likely a placeholder or a mislabeled field. This field seems to be a text type, which is not ideal for a submit button.
-
-This help guide will aim to clarify each field's purpose and usage, while avoiding any business logic that's not supported by the form's fields.
-
-</thinking>
-
 # Grinder Pump Feedback Survey - Help Guide
 ## Purpose
 The Grinder Pump Feedback Survey is designed to gather user feedback on the grinder pump. This survey will help us understand your experience with the grinder pump, ensuring that we can improve its performance and make it more efficient for you.

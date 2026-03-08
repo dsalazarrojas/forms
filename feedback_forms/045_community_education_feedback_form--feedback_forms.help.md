@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants about their educational experiences, helping us to identify areas of improvement and provide a more valuable experience for future attendees. This form ensures that participants' comments and ratings are captured in a structured and organized manner, making it easier to analyze and address their concerns. To avoid duplication, we recommend filling out this form for each session attended. 
-
-</thinking>
-
 # Education Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from participants about their educational experience. It provides an opportunity for them to rate the effectiveness of instructors, relevance of content, and quality of logistics, as well as share suggestions for improvement.

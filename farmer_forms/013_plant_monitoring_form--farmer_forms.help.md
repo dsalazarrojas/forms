@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for plant monitoring, collecting data on the type of plant, its location, temperature, moisture level, disease or pest presence, watering frequency, rainwater collection, fertilization history, growth stage, and additional information. The purpose of this form is to gather data for plant maintenance and improvement.
-
-This form has 15 fields, with various types such as select_one, number, and text. Some fields are required for data collection (e.g., monitor_temperature_celsius, monitor_disease_pests, monitor_watering_frequency, monitor_rainwater_collected, monitor_fertilization, monitor_growth_stage, monitor_status, monitor_date), while others are optional (e.g., monitor_plant_type, monitor_plant_location, monitor_moisture, monitor_plant_status, monitor_notes).
-
-Each field provides a specific type of information: select_one (Plant Type, Location, Disease/Pests, Fertilization Type, Growth Stage, Status), number (Temperature (Celsius), Temperature (Fahrenheit), Moisture), date (Date of last monitoring), and text (Additional information, Notes).
-</thinking>
-
 # Plant Monitoring Form - Help Guide
 ## Purpose
 

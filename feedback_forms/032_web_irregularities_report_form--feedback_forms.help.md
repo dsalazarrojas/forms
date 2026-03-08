@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect feedback and irregularities reports from users about a given website. The purpose of this form is to provide a structured way for users to report issues they encounter while using the website. The form is designed to gather information such as the user's input, issue description, website URL, issue category, attachment (if any), issue date and time, issue summary, and feedback. 
-
-To avoid duplication of efforts, please make sure to report only new issues and not duplicate reports. Also, kindly provide as much detail as possible about the issue encountered.
-</thinking>
-
 # web_irregularities_report_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and irregularities reports from users about a given website.

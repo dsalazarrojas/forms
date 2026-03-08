@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from course attendees to help organizers improve future course offerings. The form is a result of analyzing public metadata from survey topics in the "event_surveys" category, and its purpose is to collect opinions on the recent course event. To ensure that the feedback is relevant and useful, this form should only be filled out by attendees of the specific course event being surveyed. If you have already filled out a survey for this event, please do not complete this form again.
-</thinking>
-
 # course_feedback_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback from course attendees to help organizers improve future course offerings.

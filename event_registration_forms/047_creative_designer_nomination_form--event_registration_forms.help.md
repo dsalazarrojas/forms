@@ -1,10 +1,3 @@
-<thinking>
-We need to make sure the form purpose is understood internally before creating the user-facing help guide. This form is for nominating a creative designer for an event, and it's crucial to capture relevant information in a structured manner. Let's ensure that the internal team is on the same page before we provide clear instructions to the end-users.
-
-*   Purpose: This form is designed to collect data for a creative nomination process. It's essential that the internal team is aware of this so we can ensure the correct fields are filled in the right way. 
-*   Non-Duplication: Double-checking that no two fields with the same type have been added to the form, ensuring the data collection process is streamlined and accurate. This would prevent data duplication and make it easier for end-users to understand the form's structure. 
-</thinking>
-
 # Creative Designer Nomination Form - Help Guide
 
 ## Purpose

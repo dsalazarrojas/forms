@@ -1,6 +1,3 @@
-<thinking>
-This help guide is for users who need to update their farm certification information. The form is used to request an update to an existing farm certification. Please fill this form if your farm's certification details have changed, such as its address or farm type. This form is not intended for initial farm certification applications. Please check with the relevant authority before starting to ensure you are filling this form for the correct purpose.</thinking>
-
 # Farm Certification Update Request Form - Help Guide
 ## Purpose
 The Farm Certification Update Request Form is used to update existing farm certification information. Fill this form if your farm's details have changed.

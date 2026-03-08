@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from customers about their experiences with the product range, aiming to improve the customer's overall experience and the quality of the product. 
-This form is not intended to be a duplicate submission, so please only fill it out once. 
-</thinking>
-
 # Product Range Improvement Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experiences with the product range, allowing us to identify areas for improvement and make informed decisions to enhance the customer experience.

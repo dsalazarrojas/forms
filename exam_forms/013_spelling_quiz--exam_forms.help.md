@@ -1,14 +1,3 @@
-<thinking>
-A Spelling Quiz form is designed to test a person's ability to spell words correctly. This form allows users to input their first name, last name, email, score, list of words to be spelled, correct answer, grade level, subject area, and other optional information. The form is typically used in educational settings to assess spelling abilities.
-
-Before using this form, please ensure you have a clear understanding of the form's purpose and the required fields, which are First Name, Last Name, Email, Score, and Words List.
-
-Please note that this form is intended for internal use only, and the information collected is not intended for public display or sharing.
-
-Please also note that some fields are optional, including embedded fields that are used for conditionally displaying more or less fields based on previous responses. These fields will be explained in the field-by-field explanation section.
-
-</thinking>
-
 # Spelling Quiz - Help Guide
 ## Purpose
 The purpose of this Spelling Quiz form is to test a person's ability to spell words correctly.

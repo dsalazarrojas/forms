@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for wedding planners to refer potential clients or vendors to our services. The purpose of this form is to collect information about the referrer and the referral, allowing us to follow up and provide more information. Before filling this form, please ensure that the information is accurate and complete. This form should not be used for self-referrals or to refer existing clients or vendors. 
-</thinking>
-
 # Wedding Planner Referral Form - Help Guide
 ## Purpose
 The Wedding Planner Referral Form is designed to allow wedding planners to refer potential clients or vendors to our services. This form helps us understand who is referring and who is being referred, enabling us to follow up and provide more information.

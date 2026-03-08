@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is likely related to sustainability and plastic-free initiative registration in facilities, considering the category of "sustainability" and "facility management" are both related fields. It is also possible that the form aims to collect facility commitments to reduce plastic usage, aligning with the goal of going zero-waste or zero-plastic. However, without further context, it's hard to determine the exact purpose with certainty.
-</thinking>
-
 # Zero Plastic Facility Commitment Registration - Help Guide
 ## Purpose
 This form is designed to help facilities commit to reducing plastic usage and register their zero-plastic initiatives. It is a tool for facilities to declare their commitment to sustainability and reduce plastic waste.

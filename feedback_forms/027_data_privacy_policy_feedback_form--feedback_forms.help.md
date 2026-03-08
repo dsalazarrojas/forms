@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form is used to collect feedback from users about data privacy policies. The form is designed to allow users to provide comments, suggestions, or concerns related to data privacy, and it should only be filled out by users with relevant concerns or suggestions. To avoid duplication of feedback, please do not fill out this form if you have already done so previously.
-</thinking>
-
 # Data Privacy Policy Feedback Form - Help Guide
 ## Purpose
 The Data Privacy Policy Feedback Form is used to collect feedback from users about data privacy policies. This form allows users to provide comments, suggestions, or concerns related to data privacy.

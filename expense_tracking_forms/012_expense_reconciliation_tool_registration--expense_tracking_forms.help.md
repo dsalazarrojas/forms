@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to register for expense reconciliation tools used by the company. The purpose of this form is to collect essential employee information and tool details to ensure accurate expense reconciliation processing. Before filling out this form, please confirm that you have the necessary approvals from your manager or supervisor and that you have not already registered for an expense reconciliation tool. Please fill out this form only once for each tool you want to register.
-</thinking>
-
 # Expense Reconciliation Tool Registration - Help Guide
 
 ## Purpose

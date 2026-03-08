@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to collect feedback on volunteer effectiveness. It is designed to help volunteers and program managers understand the strengths and areas for improvement of the volunteers. This form can be used by volunteers, program managers, or staff members. Please ensure that you're completing this form if you're a volunteer, and you've participated in a program or project. If you've received feedback on a volunteer, use this form to submit feedback for the volunteer's benefit. If you're unsure whether to complete this form, please refer to your supervisor or program manager for guidance. Before starting, please make sure you're familiar with the rating scale used in this form.</thinking>
-
 # Volunteer Effectiveness Monitoring Form - Help Guide
 ## Purpose
 The Volunteer Effectiveness Monitoring Form is designed to collect feedback on the effectiveness of volunteers in your program or project. This form helps volunteers and program managers understand what works well and what areas need improvement.

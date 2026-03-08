@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback and observations from employees, which will be used to improve the work environment and employee experience. It's meant for both the employee and their supervisor to provide input on areas for improvement and overall performance. Please ensure that the form is filled out accurately and honestly, and that you are aware of the fields that are required and those that are optional. If you've filled out this form before, please make sure to update your answers if you've changed your mind or have new feedback.
-
-</thinking>
-
 # Observation Form - Help Guide
 
 ## Purpose

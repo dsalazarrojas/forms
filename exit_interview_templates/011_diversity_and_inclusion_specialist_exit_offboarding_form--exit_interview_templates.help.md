@@ -1,5 +1,3 @@
-<thinking>As a diversity and inclusion specialist exit offboarding form, this document is designed to gather information from employees who are leaving the organization, specifically regarding their reasons for departure, any comments or feedback, and next steps for the organization to take in the future. This form is intended for internal use only and is not a formal exit interview or HR-related form.</thinking>
-
 # diversity_and_inclusion_specialist_exit_offboarding_form - Help Guide
 ## Purpose
 

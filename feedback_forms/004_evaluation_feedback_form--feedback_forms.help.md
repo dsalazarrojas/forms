@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the evaluation feedback form. This guide will cover the purpose of the form, how to complete it, and what each field means. I'll make sure to be concrete, concise, and practical in my explanation.
-
-After this internal reasoning block, I'll output the final help guide in Markdown format as required.</thinking>
-
 # Evaluation Feedback Form - Help Guide
 ## Purpose
 The Evaluation Feedback Form is designed to collect feedback from participants on a specific event, category, or experience. This form helps to gather valuable insights and suggestions to improve future events, categories, or participant experiences.

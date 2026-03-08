@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from family members about their experience with Family Faith Formation, a program aimed at nurturing faith and providing spiritual growth opportunities for families. The purpose of this form is to collect information about each family's feedback, suggestions, and ratings regarding their experience with the program. By providing this feedback, family members can help shape the future of Family Faith Formation, ensuring that the program meets their needs and expectations.
-</thinking>
-
 # Family Faith Formation Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from family members about their experience with Family Faith Formation, a program aimed at nurturing faith and providing spiritual growth opportunities for families. The information collected through this form will help us understand your experiences, suggestions, and ratings, which will be used to improve the program.

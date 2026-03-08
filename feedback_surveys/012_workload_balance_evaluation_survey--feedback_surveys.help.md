@@ -1,7 +1,3 @@
-<thinking> 
-  This form is a "Workload Balance Evaluation Survey" used to collect data about team members' workload balance. The purpose of this form is to collect feedback from team members to help managers and team leads understand their workload balance. The form is designed to be completed by individual team members and will help managers and team leads to better understand their team's workload balance, identify areas that need improvement, and take steps to create a more balanced workload for their team members. It is expected that the form will be completed by all team members, and the data collected will be used to guide decisions related to workload management and resource allocation. The collected data will be kept anonymous to ensure that individual opinions and feedback are not influenced by potential biases or pressures from managers or team leads.
-</thinking>
-
 # Workload Balance Evaluation Survey - Help Guide
 ## Purpose
 The Workload Balance Evaluation Survey is designed to collect data about your workload balance and experience within your team. This information will help managers and team leads better understand your workload and make informed decisions to create a more balanced workload for you and your team members.

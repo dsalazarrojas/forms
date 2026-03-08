@@ -1,5 +1,3 @@
-<thinking>Local Business Review Request form is used to collect feedback from customers about their experience with a local business. It is meant to be filled out by customers, not internal staff. To avoid duplication, please fill out this form only once per business.</thinking>
-
 # Local Business Review Request - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with a local business. Your input will help us understand how we can improve our services and provide better experiences for our customers.

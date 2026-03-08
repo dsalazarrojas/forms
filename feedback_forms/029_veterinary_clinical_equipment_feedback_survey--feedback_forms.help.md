@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for collecting feedback on veterinary clinical equipment usage. The purpose is to gather information on the types of equipment used in the clinic, their locations, and any issues encountered. This feedback will help in making informed decisions about equipment maintenance, upgrades, or purchases. Before completing this form, please note that you are not obligated to provide feedback if you do not have any to give. Please ensure that the feedback is specific, objective, and based on personal experience.
-
-</thinking>
-
 # Veterinary Clinical Equipment Feedback Survey - Help Guide
 ## Purpose
 

@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to book a gift area for an event. The form is used to collect information about the event, the sponsor, and the reservation details.
-
-Before filling out this form, please ensure that the event and the gift area have not already been booked. If you are unsure, check the event calendar or contact the event organizer.
-
-This form is designed to be completed by one person at a time.
-
-This form has multiple pages, but they all contain a mix of text fields and date fields. Please complete each page in a logical order.
-</thinking>
-
 # Sponsor Gift Area Booking Form - Help Guide
 ## Purpose
 The Sponsor Gift Area Booking Form is used to book a gift area for an event.

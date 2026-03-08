@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a virtual screening replay for a specific event. The internal teams will use this information to review and potentially fulfill the request. Please ensure that you are submitting a genuine request and not duplicating an existing one. This form is meant for end-users who need to request a replay of a virtual screening that was missed or missed due to technical issues.
-</thinking>
-
 # Virtual Screening Replay Request Form - Help Guide
 ## Purpose
 This form is used to request a replay of a virtual screening that was missed or experienced technical issues during the event.

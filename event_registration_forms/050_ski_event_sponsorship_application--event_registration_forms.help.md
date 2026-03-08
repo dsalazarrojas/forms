@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a ski event sponsorship application. It is used to gather details about an event, such as its name, type, location, start and end dates, and website, to process and review sponsorship requests. This form ensures that all relevant information is captured accurately and efficiently, making it easier for the review process. It is recommended to fill out this form carefully and accurately to avoid any potential issues during the review process.
-
-</thinking>
-
 # Ski Event Sponsorship Application - Help Guide
 ## Purpose
 This form is used to collect information about a ski event sponsorship application, including the event's name, type, location, start and end dates, and website.

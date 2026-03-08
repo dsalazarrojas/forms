@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from employees regarding the condition of the break rooms in the office. The form asks for personal details such as employee name and ID, department, and submission date, as well as photos of the break room with accompanying descriptions and ratings of its condition. The form also asks for information about any issues or concerns observed, facilities that are missing or needed, and suggestions for improvement. The form is designed to be completed by employees who have observed or noticed any issues or concerns with the break rooms.
-</thinking>
-
 # Break Room Photo Submission - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from employees on the condition of the break rooms in the office. This information will help management identify areas for improvement and make necessary changes to maintain a clean and comfortable environment for all employees.

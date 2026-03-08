@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants on enrichment activities. Enrichment activities are experiences or programs designed to provide additional support or resources to participants. The feedback form is used to gauge participant satisfaction, identify areas for improvement, and provide insights to educators and activity leaders. To ensure accurate and useful feedback, it's essential to fill out the form completely and honestly.
-
-Before starting, please check if you've completed this form before. If you have, please note that this will overwrite your previous response. If not, please fill out the form completely and accurately.
-
-To complete this form, follow these steps:
-
-1. Please fill out the required fields ( participant_feedback, rating_of_event, date_of_event, and start_time).
-2. If applicable, fill out the optional fields (suggestions_for_improvement, educator_feedback, and participant_feedback).
-3. Choose whether the activity was assigned to you or not.
-4. Enter your email and/or phone number for any additional contact information.
-
-</thinking>
-
 # Enrichment Activity Feedback Form - Help Guide
 ## Purpose
 The Enrichment Activity Feedback Form is used to collect feedback from participants on enrichment activities. This feedback is used to improve and evaluate the effectiveness of these activities.

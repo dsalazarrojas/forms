@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form is only filled out by authorized personnel from the company being evaluated. The form is not meant for employees to provide feedback on internal projects or for external entities that are not part of the evaluation process. We will also check for duplication of entries to avoid multiple reviews from the same person.</thinking>
-
 # Technology Trial Release Form - Help Guide
 ## Purpose
 This form is for technology reviewers within a company to provide feedback on a technology trial or release. It is a tool to gather input from internal stakeholders to help us better understand their thoughts, comments, and suggestions on the technology being evaluated. This form is not for external use.

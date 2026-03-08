@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting information about attendees at a Texas Family Reunion. It asks for details such as attendee name, age, email, phone number, and special needs. The form also collects information about the emergency contact in case of any issues during the event. Please review this form to ensure that all required fields are correctly filled out to prevent any issues with registration or attendance. Note that some fields are optional.
-</thinking>
-
 # Texas Family Reunion Final Registration Form - Help Guide
 ## Purpose
 This form collects essential information about attendees at a Texas Family Reunion. Complete this form to register for the event.

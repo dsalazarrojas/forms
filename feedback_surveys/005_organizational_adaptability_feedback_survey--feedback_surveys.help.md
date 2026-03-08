@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the organizational adaptability of a company. Organizational adaptability refers to the ability of an organization to adjust to changes, challenges, and uncertainties. This form will help to gather feedback on how employees perceive the adaptability of their company and provide insights on areas that need improvement.
-
-Before starting, please ensure that this form is relevant to your current situation and not a duplicate of any previous surveys. This form is not affiliated with, endorsed by, or derived from any form platform, but rather a generated adaptation based on public survey topic metadata.
-
-</thinking>
-
 # organizational_adaptability_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gauge the organizational adaptability of your company, gathering feedback on how employees perceive the company's ability to adjust to changes, challenges, and uncertainties.

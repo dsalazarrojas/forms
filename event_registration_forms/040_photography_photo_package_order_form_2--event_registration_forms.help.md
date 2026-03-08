@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a Photography Photo Package Order Form 2. It is used to gather details about an event's photography package order, including the package type, event details, and payment information. This form should only be used for events that require photography services, and the information collected will be used to create a photography package for the event.
-</thinking>
-
 # Photography Photo Package Order Form 2 - Help Guide
 
 ## Purpose

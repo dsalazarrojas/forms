@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information from clients for family photography sessions. It is designed to ensure that the client's needs and preferences are captured accurately. The fields in this form are divided into categories, including contact details, date and time, family members, and more. This form is not intended to be used for any other purpose, such as events or surveys. Please ensure that you are filling out this form for the correct purpose, as it may lead to errors or duplication of work.</thinking>
-
 # family_photography_intake_form - Help Guide
 ## Purpose
 This form is designed to collect information from clients for family photography sessions. It is essential to provide accurate and detailed information to help us tailor our services to your needs.

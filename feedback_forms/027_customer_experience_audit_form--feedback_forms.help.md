@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect customer feedback and experience data to help us improve our customer service and overall customer experience. It's meant to be filled out by customers who have had a recent interaction with our company, and the goal is to gather information on their satisfaction levels, areas of improvement, and any complaints or issues they may have experienced. This form will help us identify trends and areas where we can make changes to better serve our customers in the future.
-
-</thinking>
-
 # Customer Experience Audit Form - Help Guide
 ## Purpose
 This form is designed to collect customer feedback and experience data to help us improve our customer service and overall customer experience.

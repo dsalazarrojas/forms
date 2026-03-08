@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed for security inspectors to conduct thorough evaluations of sports stadiums. The purpose of the form is to collect information about upcoming events, venue details, and security protocols to ensure a safe and secure environment for attendees. This form should be completed by the person in charge of conducting the security inspection, likely a security manager or event coordinator.
-
-Before proceeding, it is essential to review the form carefully to understand each field's purpose and provide accurate information. 
-
-</thinking>
-
 # Sports Stadium Security Inspection Form - Help Guide
 ## Purpose
 This form is designed for security inspectors to conduct thorough evaluations of sports stadiums. It collects information about upcoming events, venue details, and security protocols to ensure a safe and secure environment for attendees.

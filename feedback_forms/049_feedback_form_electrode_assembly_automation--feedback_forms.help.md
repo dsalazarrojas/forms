@@ -1,5 +1,3 @@
-<thinking>...The form "feedback_form_electrode_assembly_automation" is designed to gather user feedback on the electrode assembly automation process. To ensure accurate and relevant feedback, please complete this form only after experiencing a specific instance of the issue you want to report, and only once per incident. Please do not resubmit the same issue multiple times. Your feedback will help us improve the process and provide better support to our users... </thinking>
-
 # feedback_form_electrode_assembly_automation - Help Guide
 
 ## Purpose

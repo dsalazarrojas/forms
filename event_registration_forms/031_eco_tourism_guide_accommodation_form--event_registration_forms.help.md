@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to register and provide information for an Eco Tourism Guide, specifically for accommodation-related activities. This form aims to collect relevant details from guests to facilitate the accommodation process. It is crucial to ensure that the information entered is accurate and complete for the guest's stay to be processed smoothly.
-Before proceeding with filling out this form, please note that some fields may be optional or have specific requirements based on the type of information being collected. Please review each field carefully to provide the most relevant and up-to-date details.
-</thinking>
-
 # Eco Tourism Guide Accommodation Form - Help Guide
 ## Purpose
 This form is designed for guests to provide essential information for an Eco Tourism Guide, specifically for accommodation-related activities. It is crucial to ensure that the information entered is accurate and complete for the guest's stay to be processed smoothly.

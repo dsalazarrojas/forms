@@ -1,36 +1,3 @@
-<thinking>
-The "Funeral Arrangement Consent Form" is a collection of fields that gathers information related to funeral arrangements and consent from individuals who have passed away or their family members. This form is likely used to understand the deceased's preferences and wishes regarding funeral arrangements, gather contact information for next of kin, and collect payment information.
-
-To confirm, the form is intended to be filled out by someone who has passed away or their family member(s) to provide necessary information for funeral arrangements. This form should not be filled out by anyone else. If you are unsure about any of the fields, please contact the funeral director or the person in charge of the funeral arrangements to clarify any doubts.
-
-The "Event Registration Form Data" field is a dropdown menu with two options: 'Yes' and 'No'. This field likely represents the deceased's or the family member's choice to register for a service or other event related to the funeral.
-
-The "funeral_wishes" field is a text field where individuals can write down any specific wishes they have for their funeral arrangements, such as burial or cremation.
-
-The "contact_details" field is a dropdown menu with two options: 'Yes' and 'No'. This field likely represents whether the next of kin has been contacted or not.
-
-The "funeral_arrangements" field is a dropdown menu with two options: 'Yes' and 'No'. This field likely represents whether funeral arrangements have been made or not.
-
-The "family_involvement" field is a text field where individuals can write down any family members who will be involved in the funeral arrangements.
-
-The "funeral_home_details" field is a text field where individuals can provide any specific details about the funeral home or other funeral service providers.
-
-The "special_requests" field is a text field where individuals can write down any special requests they have for their funeral arrangements.
-
-The "next_of_kin_contact" field is a text field where individuals can provide contact information for the next of kin.
-
-The "other_family_members" field is a dropdown menu with two options: 'Yes' and 'No'. This field likely represents whether other family members will be involved in the funeral arrangements or not.
-
-The "funeral_home_contact" field is a text field where individuals can provide contact information for the funeral home or other funeral service providers.
-
-The "payment_info" field is a text field where individuals can provide payment information for funeral services.
-
-The "signed_by" field is a text field where the individual (or their representative) signs their name to confirm completion of the form.
-
-The "date_signed" and "time_signed" fields are date and time fields where individuals can record the date and time they sign the form.
-
-</thinking>
-
 # Funeral Arrangement Consent Form - Help Guide
 ## Purpose
 This guide is to assist you in understanding the purpose of the Funeral Arrangement Consent Form and to walk you through how to complete it.

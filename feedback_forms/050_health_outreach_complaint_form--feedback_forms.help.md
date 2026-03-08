@@ -1,9 +1,3 @@
-<thinking>
-The Health Outreach Complaint Form is designed to collect feedback from patients or individuals who have had an experience with healthcare services. This form allows users to input their personal information, describe their complaint, and specify the location and category of the issue they faced. The form also includes a field for users to provide contact information and submit their message. The purpose of this form is to gather valuable insights from users to improve healthcare services.
-
-When filling out this form, please ensure that you provide accurate and relevant information. If you have previously submitted a complaint, please do not fill out this form again. Your feedback is valuable, but redundant submissions may cause unnecessary duplication of effort.
-</thinking>
-
 # Health Outreach Complaint Form - Help Guide
 ## Purpose
 

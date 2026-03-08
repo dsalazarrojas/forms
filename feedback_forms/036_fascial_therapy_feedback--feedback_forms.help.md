@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and that users understand the feedback they provide is valuable. The purpose of this form is to collect feedback from clients after a fascial therapy session. The form should only be completed by clients who have had a session with a therapist. If the form is completed by someone who did not have a session, their feedback may not be relevant or accurate. Therefore, we need to check that the session date matches a known therapy session date. If the form is completed multiple times, it's also a sign that the form is not being used for its intended purpose. We should ensure that the user understands the form is not for general feedback, but rather specific to their session. 
-
-The form is designed to collect numerical feedback on client and therapist feelings after a session, as well as overall satisfaction. The numerical feedback is not meant to be a rating, but rather a score out of a certain range. For example, for the client_feelings field, the user might score 3 out of 5, indicating that they felt moderately happy during the session. Similarly, the overall_satisfaction field is also scored, and the feedback field is an open-ended text area for any additional comments. 
-
-The form should also collect the session length and date of the session.
-
-</thinking>
-
 # Fascial Therapy Feedback - Help Guide
 ## Purpose
 The Fascial Therapy Feedback form is designed to collect feedback from clients after a fascial therapy session. This feedback is used to help therapists improve their practice and provide better service to clients.

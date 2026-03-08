@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is for artisans and makers to apply for a booth at an event. It collects information about the applicant, their business or vendor name, contact details, product category, and other relevant details. The form is used to gather necessary information for booth allocation and event planning. 
-Please note that this form is not meant to collect sensitive or confidential information. All fields are designed to be optional unless marked as required. The form should not be filled out by people who are not vendors or artisans applying for a booth.
-</thinking>
-
 # Arts And Makers Market Fair Application Form - Help Guide
 ## Purpose
 This form is for artisans and makers to apply for a booth at the Arts And Makers Market Fair. It helps us understand your business or vendor name, product category, and other relevant details for booth allocation and event planning.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to gather introductory information about a graphics-related project or request. It's a general-purpose form that does not have strict validation or business logic requirements. This form is part of the "Feedback Forms" category, but its purpose is to collect metadata about the project or request, not feedback. Therefore, there is no specific validation or business logic applied to it. This form is meant to be a simple and user-friendly tool for collecting information, and the fields should be filled in accordingly.
 
 # Introductory Questionnaire Sheet For Graphics - Help Guide

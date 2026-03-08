@@ -1,7 +1,3 @@
-<thinking>Before creating this help guide, I will review the provided YAML to understand the form's purpose and fields. The form is designed for event registration for esports events, and it appears to be a straightforward application form for event organizers to provide information about their events. Each page is a separate section of the form, and I will focus on explaining each field in a concrete and concise manner. I will also check for any potential redundancy or duplication of fields, and ensure that each field serves a clear purpose. After reviewing the fields, I will create a user-friendly help guide in Markdown format.
-
-</thinking>
-
 # Esports Event Licensing Application Form - Help Guide
 ## Purpose
 The Esports Event Licensing Application Form is designed for event organizers to provide information about their esports events to obtain a licence. The form is used to collect event details, organizer information, and other relevant data for the licensing process.

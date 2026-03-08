@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help users provide feedback about the website's interface. By filling out this form, users can report bugs, suggest features, or provide feedback on how the website can be improved. The form is intended to be completed by users who have encountered an issue with the website and want to provide more information about it. 
-
-</thinking>
-
 # Website Interface Feedback Request Form - Help Guide
 ## Purpose
 This form is a tool for users to report issues with the website's interface and provide feedback on how it can be improved.

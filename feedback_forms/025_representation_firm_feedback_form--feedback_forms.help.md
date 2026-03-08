@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about the representation firm they have interacted with. This feedback will help the firm to improve its services and provide a better experience for its clients. To ensure that the feedback is relevant and not duplicated, please note that this form should only be filled out after you have interacted with the representation firm and have an opinion about their services. If you have already provided feedback, please do not fill out this form again.
-</thinking>
-
 # Representation Firm Feedback Form - Help Guide
 ## Purpose
 The Representation Firm Feedback Form is a tool designed to collect feedback from users about their experiences with a representation firm. This feedback is crucial in helping the firm to understand its performance and identify areas for improvement.

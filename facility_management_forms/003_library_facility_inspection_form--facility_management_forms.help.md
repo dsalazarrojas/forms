@@ -1,5 +1,3 @@
-<thinking>...The form "Library Facility Inspection Form" is likely used by facility administrators or inspectors to document the condition and status of library facilities. This form may be used for quality control, maintenance, or compliance purposes. To create a thorough inspection report, the user should ensure all fields are completed accurately. The user may not need to complete all fields, as some are marked as optional. Please review the form carefully before proceeding...</thinking>
-
 # Library Facility Inspection Form - Help Guide
 ## Purpose
 The Library Facility Inspection Form is used by facility administrators or inspectors to document the condition and status of library facilities for quality control, maintenance, or compliance purposes.

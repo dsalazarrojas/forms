@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on the impact of leadership transformation efforts on employees and the organization as a whole. The goal is to understand how leadership development programs are affecting employee performance, engagement, and overall leadership skills. This form will help identify areas of improvement and inform future development initiatives.
-
-</thinking>
-
 # leadershipTransformationImpactSurvey - Help Guide
 ## Purpose
 This form is used to gather information on the impact of leadership transformation efforts on employees and the organization. It asks about the effectiveness of leadership development programs, training methods, and evaluation methods.

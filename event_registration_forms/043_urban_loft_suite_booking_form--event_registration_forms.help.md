@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # urban_loft_suite_booking_form - Help Guide
 
 ## Purpose

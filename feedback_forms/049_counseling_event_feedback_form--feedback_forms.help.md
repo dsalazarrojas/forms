@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Counseling Event Feedback Form - Help Guide
 
 ## Purpose

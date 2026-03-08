@@ -1,7 +1,3 @@
-<thinking>
-The "Yoga Class Waiver Form" is designed to collect information from participants before attending a yoga class. The form aims to gather essential details about the participant, their contact and medical history, payment information, and class specifics (e.g., level of practice). This form is intended to be a one-time use case for event registration purposes only, ensuring that all participants have an understanding of and give their consent to the waivers before attending the class.
-</thinking>
-
 # Yoga Class Waiver Form - Help Guide
 ## Purpose
 The "Yoga Class Waiver Form" is a necessary document to be completed by participants before attending a yoga class. It ensures that each participant is aware of and has given their consent to the waivers and guidelines of the class.

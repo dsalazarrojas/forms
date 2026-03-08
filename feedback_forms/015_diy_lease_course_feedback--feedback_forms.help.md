@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # DIY Lease Course Feedback - Help Guide
 
 ## Purpose

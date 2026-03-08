@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure that the International Buyer Return Policy Survey form is completed accurately and effectively, we must first understand its purpose. This form is designed to collect feedback from buyers on their experience with the return policy process. Specifically, it aims to gather insights on various aspects of the return process, such as the clarity of return information on product pages, the ease or difficulty of the return process, and the communication quality between the buyer and the seller. 
-
-This form is intended to help businesses and organizations understand their customers' needs and preferences regarding returns and improve their return policy accordingly. It is not meant to be a comprehensive survey, but rather a quick assessment of the buyer's experience. 
-
-It's essential to complete this form only once per experience, and not to repeat it if you have already taken it previously. This will help us gather unique and valuable feedback from a diverse set of customers.
-
-</thinking>
-
 # International Buyer Return Policy Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from buyers on their experience with the return policy process. It aims to understand the clarity of return information on product pages, the ease or difficulty of the return process, and the quality of communication between buyer and seller.

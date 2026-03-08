@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback and showcase success stories from the community. It appears to be used for publishing and sharing achievements, experiences, and stories from users. Before proceeding, please ensure you haven't completed this form recently. If you have already provided feedback or a success story, please don't complete it again.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to collect user feedback and showcase success stories from the community.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from the public about their experience with government public services. The form is intended to be completed by individuals who have interacted with these services and wish to provide feedback on their experience.
-</thinking>
-
 # Government Public Service Community Feedback Assessment - Help Guide
 ## Purpose
 This form is designed to collect feedback from the public about their experience with government public services. It is intended to be completed by individuals who have interacted with these services and wish to provide feedback on their experience.

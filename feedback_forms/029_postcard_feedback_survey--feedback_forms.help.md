@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the Postcard Feedback Survey form. The form is designed to gather feedback from users regarding a postcard, and the fields are organized to elicit specific responses and opinions.
-
-The form will not be a requirement for users, making it optional to fill out, and the information collected will help us better understand the user's experience and preferences. Before completing the form, please make sure you haven't already provided feedback, as repeating the same information can be time-consuming and redundant.</thinking>
-
 # Postcard Feedback Survey - Help Guide
 ## Purpose
 

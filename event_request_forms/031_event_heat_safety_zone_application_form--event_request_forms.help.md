@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block to confirm the form's purpose and check for non-duplication:
-To prevent the creation of duplicate event heat safety zones and ensure the form's purpose is well-understood, this form should be used by individuals or organizations applying to create a heat safety zone for a specific event. This form will help the applicant provide necessary information about their event, its location, and the measures they will take to ensure the safety of attendees. The form's fields should not be used for any other purpose, such as general contact information or marketing materials. This form is designed to be used in conjunction with other forms or processes, such as site maps and emergency services, to create a comprehensive application.
-</thinking>
-
 # event_heat_safety_zone_application_form - Help Guide
 ## Purpose
 This form is for event organizers to submit an application to create a heat safety zone for a specific event, ensuring the safety of attendees in case of extreme heat conditions.

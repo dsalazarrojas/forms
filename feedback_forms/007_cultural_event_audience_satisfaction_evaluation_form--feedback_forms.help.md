@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect feedback from attendees of a cultural event, gathering their overall satisfaction and rating of the event's quality and impact. It is intended to be completed by individuals who have recently attended the event, and their responses will help organizers better understand what to improve for future events. This form should be completed by people who have attended an event, and not by event organizers or staff.
-
-</thinking>
-
 # cultural event audience satisfaction evaluation form - Help Guide
 ## Purpose
 The cultural event audience satisfaction evaluation form is designed to collect feedback from attendees of a cultural event. Your input will help us understand what you think about the event and how we can improve for next time.

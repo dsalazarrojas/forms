@@ -1,5 +1,3 @@
-<thinking>...internal reasoning block...</thinking>
-
 # Proportional Relationships Assessment - Help Guide
 ## Purpose
 The Proportional Relationships Assessment form is designed to gather information about the proportional relationships between various concepts, such as quantities, amounts, or proportions. This form is intended to help users evaluate and compare relationships between different factors, which can be useful in various fields like mathematics, economics, or sociology.

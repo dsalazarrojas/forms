@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose and context of this form, so let's review it carefully. This form is designed to gather feedback from participants who attended the St. Patrick's Day celebration. The form is likely intended to evaluate the success and quality of the event, gathering data on the overall experience, food and drinks, event attendance, and event organization. To avoid duplication of effort, let's make sure that the form is only filled out by people who have attended the event.
-</thinking>
-
 # st_patricks_day_celebration_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants who attended the St. Patrick's Day celebration. Your input will help us evaluate the success and quality of the event.

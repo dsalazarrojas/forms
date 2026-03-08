@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to capture feedback and suggestions from participants after a team-building event. The form is intended to be used by team members who attended the event to provide their honest feedback and suggestions for future events. The internal team is responsible for reviewing and acting upon this feedback to improve future team-building activities.
-
-This form will be used for internal team events, not for external events. To ensure that the form is filled out correctly, please make sure that you have attended the event in question and have a good understanding of the event's purpose and activities.
-
-Before you start filling out this form, please make sure that you have not already filled out this form for the same event. If you have, your response will be ignored.
-</thinking>
-
 # team_building_event_check_out_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from team members after a team-building event. It's essential to fill out this form accurately and honestly to help the team improve future events.

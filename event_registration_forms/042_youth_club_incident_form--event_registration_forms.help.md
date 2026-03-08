@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents that occurred within a youth club environment. The form's purpose is to gather details about the incident, including the date, time, location, description, cause, and outcome. This information will be used to investigate and respond to incidents in a prompt and organized manner.
-
-To ensure that users provide accurate and complete information, each field is designed to be straightforward and intuitive. This guide will walk you through each field and explain its purpose, making it easier to fill out the form correctly.
-
-Before starting, ensure that the form's fields are filled out accurately and consistently. If a field is not relevant to the incident, please leave it blank or mark it as not applicable.
-
-</thinking>
-
 # Youth Club Incident Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents that occurred within a youth club environment, including details about the incident, its location, cause, and outcome.

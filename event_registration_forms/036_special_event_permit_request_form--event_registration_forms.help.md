@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to request a special event permit for an event. The purpose of this form is to gather necessary information from the event organizer to process and approve the permit. This form must be completed in its entirety to ensure that all necessary information is provided for the permit application.
-
-The following fields need to be reviewed for accuracy: event_info, contact_info, event_location, event_date, event_time, event_time_end, event_duration, event_organizer, event_organizer_email, event_organizer_phone, event_location_address, event_location_city, event_location_state, event_location_zip, event_location_country, additional_info, permit_type, payment_info, payment_method, submitter_name, submitter_contact_info, submitter_email, and submitter_phone.
-
-Please note that some of these fields are optional, but it's still necessary to fill them out if they pertain to the event.
-
-</thinking>
-
 # Special Event Permit Request Form - Help Guide
 ## Purpose
 This form is used to request a special event permit for an event. The purpose of this form is to gather necessary information from the event organizer to process and approve the permit.

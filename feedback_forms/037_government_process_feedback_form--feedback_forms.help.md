@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback from users about government processes. It is meant to be completed by anyone who has interacted with government services or processes and wants to provide their opinions, suggestions, or concerns. The form will help the government understand what works well and what can be improved in their processes.
-
-Before submitting feedback, please ensure that you have not already provided feedback on this process in the past. Duplicate feedback submissions may not be processed.
-
-</thinking>
-
 # Government Process Feedback Form - Help Guide
 ## Purpose
 The Government Process Feedback Form is designed to help the government understand how well their processes are working and where they can be improved. Your feedback is valuable to us and will help us make our services better for everyone.

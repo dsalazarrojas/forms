@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from vendors who wish to rent a space for a fitness event. This form helps us understand their needs, size, insurance status, and other relevant details. This form will likely be used internally, so we can review and process vendor applications. We should check for duplicate applications by vendor name or email to avoid processing the same vendor more than once.
-
-To complete this form, please follow the steps below:
-
-1. Fill out the vendor details section with your company's name and contact information.
-2. Select your vendor space size from the options provided.
-3. Check your insurance status.
-4. Specify any special requests you may have.
-5. Enter any additional contact information if required.
-6. Provide any event details that are relevant to your application.
-
-</thinking>
 # Fitness Event Vendor Space Application - Help Guide
 ## Purpose
 This form is for vendors who want to rent a space for a fitness event. We will use the information collected to review and process your application.

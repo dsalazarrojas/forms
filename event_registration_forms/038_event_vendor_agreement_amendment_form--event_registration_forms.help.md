@@ -1,6 +1,3 @@
-<thinking>
-This form is used for vendors to modify or update their agreement terms with the organization. It is essential to ensure that the vendor's information is up-to-date and accurate. Before filling out this form, the vendor must be registered with the organization and have an existing agreement in place. This form should only be used for amendment purposes, and not for creating a new agreement. The vendor should only fill out this form if they have a valid reason for changing their agreement terms.</thinking>
-
 # Event Vendor Agreement Amendment Form - Help Guide
 ## Purpose
 This form is used by vendors to modify or update their existing agreement terms with the organization. It is essential to ensure that the vendor's information is up-to-date and accurate before any changes can be made to their agreement.

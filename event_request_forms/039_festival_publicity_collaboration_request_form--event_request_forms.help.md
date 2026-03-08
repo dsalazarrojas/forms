@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for festival organizers to submit a collaboration request to our publicity team for promotional activities. It's essential to ensure that the collaboration request is relevant, not duplicated, and follows our publicity guidelines. 
-
-The form will be reviewed and evaluated by the team to determine the suitability of the request. 
-
-The purpose of this form is to gather all necessary information from the festival organizers and their collaborators. 
-
-</thinking>
-
 # Festival Publicity Collaboration Request Form - Help Guide
 ## Purpose
 The Festival Publicity Collaboration Request Form is a tool for festival organizers to submit a collaboration request to our publicity team for promotional activities.

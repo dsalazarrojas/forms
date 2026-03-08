@@ -1,13 +1,3 @@
-<thinking>
-This form is likely used to collect feedback from customers or users on how helpful the waitstaff (people who assist customers, usually in retail or hospitality environments) are. The form might be used to:
-- Gather data on customer satisfaction with the waitstaff's service quality, 
-- Identify areas of improvement for the waitstaff, 
-- Collect additional information to better understand the customer's experience.
-
-The following questions are likely meant to be completed by a representative of the company, and the answers will be used to inform training, customer service, and other areas of improvement.
-
-Please make sure to fill out the form only once per instance of a waitstaff interaction. This will help provide accurate and unbiased data.</thinking>
-
 # Waitstaff Assistance Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their experiences with our waitstaff. Your input will help us understand how we can improve our service and make it more helpful for everyone.

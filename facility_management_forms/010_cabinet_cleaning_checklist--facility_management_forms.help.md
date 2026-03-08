@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for facility management teams to track and document the cleaning of cabinets within properties. It is intended to be used to record the details of each cleaning task, including the cleaner's name, date, and time taken to complete the task. The form also captures information on the type of cabinets cleaned, materials used, and any damage found during the process. This form is part of a larger system for facility management, and its completion is mandatory for accurate record-keeping and reporting.
-</thinking>
-
 # Cabinet Cleaning Checklist - Help Guide
 ## Purpose
 This form is used to document the cleaning of cabinets within properties. It captures the essential details of each cleaning task, ensuring accurate record-keeping and reporting for facility management teams.

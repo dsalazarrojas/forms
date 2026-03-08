@@ -1,9 +1,3 @@
-<thinking>
-  "This form is intended to collect feedback from users of the 'TYB Happy Sheets' service. 
-  This form is a one-page feedback form with 9 fields, including fields for user information and feedback ratings, as well as a field for any additional comments.
-  Please ensure that each user can only submit one form per visit, as duplicate submissions will not be accepted."
-  </thinking>
-
 # TYB Happy Sheets - Help Guide
 ## Purpose
 This form is designed to collect feedback from users of the 'TYB Happy Sheets' service.

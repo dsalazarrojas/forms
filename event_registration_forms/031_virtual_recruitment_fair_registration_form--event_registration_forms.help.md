@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect registration information from potential attendees for the Virtual Recruitment Fair, which is an event where companies and job seekers can connect with each other for job opportunities. To ensure that attendees have the necessary details for the event and can get in touch with us, this form requires a valid email address and/or a phone number.
-We want to make sure that attendees are matched with the right job opportunities, so we need to gather more information about their job titles, job types, experience, education, industry, and location preferences.
-The submission date is optional but can help us keep track of when you submitted your registration.
-Please fill out this form carefully and accurately to help us get in touch with you and match you with relevant job opportunities.
-</thinking>
-
 # Virtual Recruitment Fair Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from potential attendees for the Virtual Recruitment Fair.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering customer feedback on their experience with our company's services. The purpose of this form is to help us understand what we did well and what we can improve on. It is essential that you answer the form honestly, as your feedback will help us to grow and provide better services in the future. We kindly request that you do not submit duplicate feedback forms, as this can cause unnecessary workload and may result in duplicate entries being removed.
-</thinking>
-
 # Customer Feedback Monitoring Form - Help Guide
 ## Purpose
 The Customer Feedback Monitoring Form is designed to collect feedback from customers on their experience with our company's services. Please take a few minutes to answer this form honestly to help us understand what we did well and what we can improve on.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback about an individual's remote work experience. It includes a mix of text and select fields to capture specific details about their work settings, roles, and responsibilities. The goal is to collect data that will help our organization understand the challenges and opportunities related to remote work. This form is meant to be completed once, and the data collected will be used for aggregate analysis, not for individual evaluation or assessment. Please ensure that you provide accurate and honest feedback. If you have already completed this form, you do not need to do so again.
-</thinking>
-
 # Remote Work Experience Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback about your remote work experience. It will help us understand the challenges and opportunities related to remote work.

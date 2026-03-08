@@ -1,7 +1,3 @@
-<thinking>
-This guide is designed to provide a step-by-step walkthrough of the Manager Feedback Responsiveness Survey form. This form is used to capture feedback from employees about their direct manager's responsiveness and behavior. The survey is composed of multiple questions that assess different aspects of manager behavior, such as communication, time-to-response, and overall experience. This form is intended for managers to provide feedback on their own behavior and identify areas for improvement.
-</thinking>
-
 # manager_feedback_responsiveness_survey - Help Guide
 
 ## Purpose

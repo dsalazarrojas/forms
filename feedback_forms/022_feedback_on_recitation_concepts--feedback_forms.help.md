@@ -1,12 +1,3 @@
-<thinking>
-We have a feedback form, "Feedback On Recitation Concepts", that is likely used to collect user feedback on recitation concepts presented in a classroom or online setting. The form's purpose is to gather insights on how well students understood the recitation and what they would like to see improved. 
-
-This form is likely used by educators or instructors to evaluate the effectiveness of their teaching methods and materials. The form asks users to provide feedback on the session, questions asked, concepts covered, difficulty level, and other relevant details. 
-
-To ensure that users provide valuable feedback, it's essential to understand each field's purpose and how to complete it correctly. This guide will walk you through each field's intended use.
-
-</thinking>
-
 # Feedback On Recitation Concepts - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on recitation concepts. Your input will help us improve the recitation experience for future sessions.

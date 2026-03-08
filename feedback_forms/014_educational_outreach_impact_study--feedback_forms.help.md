@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from participants in educational outreach programs. The purpose of this form is to gather information about the effectiveness of these programs and identify areas for improvement. Before proceeding, please confirm that you are a participant in one of our educational outreach programs and that this is your first time filling out this form. If you have filled out this form before, please note that your responses will be treated as additional feedback and will not affect your ratings.
-</thinking>
-
 # Educational Outreach Impact Study - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings from participants in educational outreach programs to help us understand their effectiveness and identify areas for improvement.

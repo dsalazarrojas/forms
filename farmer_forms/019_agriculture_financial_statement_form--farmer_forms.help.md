@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to collect financial information for agricultural businesses or individuals. The main objective is to gather accurate data on revenue, expenses, and assets to facilitate tax returns, financial planning, and business evaluation.
-
-The form is divided into several sections with different fields, each with a specific purpose:
-
-- **Owner or business name**: This field is required and should include the legal name of the farm or business.
-- **Reporting period start date**: This field requires the start date of the financial reporting period. 
-- **Reporting period end date**: This field requires the end date of the financial reporting period.
-- **Total revenue**: Enter the gross income for the period.
-- **Total expenses**: Enter the operating costs during the period.
-- **Net income**: This field is not required but is calculated automatically when both revenue and expenses are filled. It shows the revenue minus expenses.
-- **Major assets**: This field is optional and should list the values of land, machinery, or livestock.
-- **Liabilities summary**: This field is optional and should summarize loans and outstanding debts.
-- **Accountant contact**: This field is optional and should include contact details for the accountant or preparer.
-- **Declaration of accuracy**: This field is required and should confirm that information is accurate to the best of one's knowledge.
-
-The form has two required fields and several optional ones. Please fill in all required fields carefully and accurately. You may skip optional fields if not applicable.
-</thinking>
 # Agriculture Financial Statement Form - Help Guide
 ## Purpose
 The form is designed to collect financial information for agricultural businesses or individuals to facilitate tax returns, financial planning, and business evaluation.

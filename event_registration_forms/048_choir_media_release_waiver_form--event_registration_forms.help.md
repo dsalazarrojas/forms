@@ -1,10 +1,3 @@
-<thinking>
-The Choir Media Release Waiver Form is a crucial document that allows a choir or organization to use media (photographs, videos, and audio recordings) of an individual's participation in events, performances, or other activities organized or managed by the choir. This form is typically used in the context of arts and performance events where the individuals participating may be featured in media publications, online streaming platforms, or other media outlets.
-To ensure proper use and understanding of this form, it's crucial to follow the correct completion process and understand each field's purpose. The form is usually completed by the participant (or their parents/guardian if the participant is under 18) to provide consent for the usage of media related to their participation in the event or activity. Failure to fill out the form correctly may lead to unintended consequences or miscommunication between the participant and the organization.
-
-This guide will walk through the form fields, explaining each section and how to fill it out properly.
-</thinking>
-
 # Choir Media Release Waiver Form - Help Guide
 ## Purpose
 The purpose of this form is to grant permission for the media release of photographs, video recordings, and audio recordings of an individual's participation in events or activities associated with the choir. This includes but is not limited to promotional materials, news publications, YouTube, streaming performances, and other media platforms.

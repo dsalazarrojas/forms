@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about a herdshare agreement between a farmer and a user. A herdshare agreement is a collaborative farming arrangement where multiple individuals or groups share ownership and decision-making responsibilities for a farm or agricultural operation. This form will help farmers and users establish a formal agreement, outlining the terms of their partnership.
-</thinking>
-
 # Herdshare Agreement Form - Help Guide
 ## Purpose
 The Herdshare Agreement Form is a tool used to create and manage herdshare agreements between farmers and users. This form helps establish a formal partnership, ensuring that both parties understand their roles and responsibilities.

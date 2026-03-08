@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block: This form is designed to collect feedback from users about their experiences with an organization. The form is used to capture information about team-related submissions, including the date of submission, whether it's a valid submission, and details about the team's location. The form may be submitted with or without supporting files. 
-
-Please note that this form is not intended for production use and is currently for testing purposes only. Before submitting, please ensure that your submission is not already in our database to avoid duplication.
-
-Please review your submission carefully before submitting it. If you have already submitted this form, please do not resubmit. 
-
-</thinking>
-
 # Organization Tips Submission - Help Guide
 ## Purpose
 The Organization Tips Submission form is designed to collect feedback from users about their experiences with an organization. This form helps us better understand team-related submissions and improve our services.

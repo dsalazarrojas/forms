@@ -1,7 +1,3 @@
-<thinking>
-The Kitchen Mystery Shop Feedback Form is used by customers to provide feedback on their experience with a mystery shop. A mystery shop is a type of audit that evaluates the quality of service at a business, typically from the customer's perspective. This form is designed to collect information on the customer's interaction with the shop, including their contact information, feedback, and ratings of different aspects of their experience. The form is intended to be completed by customers who have visited the shop and can provide an honest and constructive assessment of their experience.
-</thinking>
-
 # Kitchen Mystery Shop Feedback Form - Help Guide
 
 ## Purpose

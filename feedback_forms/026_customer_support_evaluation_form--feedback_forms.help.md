@@ -1,8 +1,3 @@
-<thinking>
-We want to make sure that this help guide is accurate and non-duplicate. Our main goal is to create a user-friendly guide that will help end-users complete the "Customer Support Evaluation Form" effectively. This form is used to gather feedback and ratings from customers, which will help us improve our customer support services. The guide should cover the purpose of the form, how to complete it, and a field-by-field explanation of each section to ensure that end-users have a clear understanding of what is required from them.
-
-</thinking>
-
 # Customer Support Evaluation Form - Help Guide
 ## Purpose
 The Customer Support Evaluation Form is designed to gather feedback and ratings from customers to help us improve our customer support services. This information will be used to identify areas of improvement and make necessary changes to provide better support.

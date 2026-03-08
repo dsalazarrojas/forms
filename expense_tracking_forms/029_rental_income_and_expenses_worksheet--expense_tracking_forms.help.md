@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed for users to track rental income and expenses. It seems to be relevant to property management or real estate-related tasks. Upon examining the form structure, it appears to be a comprehensive guide to capture various aspects of rental income and expenses, including sources, addresses, and frequencies. The form does not seem to be a duplicate of other forms, as it is focused on specific rental-related information.
-
-To create this guide, I will focus on explaining each field in the context of this specific form.
-</thinking>
-
 # Rental Income And Expenses Worksheet - Help Guide
 ## Purpose
 This form is designed to help users track and manage their rental income and expenses. It allows users to break down their income into different sources, frequencies, and amounts, and to capture other income and expenses related to rental properties.

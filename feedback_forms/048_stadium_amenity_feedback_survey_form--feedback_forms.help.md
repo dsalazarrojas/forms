@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to collect feedback from users about their experience with the stadium's amenities. This form is intended for users who have visited the stadium and wish to provide their opinions on the quality of the facilities, services, and overall satisfaction. The form is likely to be used by stadium management to gauge user satisfaction and identify areas for improvement. To ensure data quality, please do not submit duplicate feedback forms.</thinking>
-
 # Stadium Amenity Feedback Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with the stadium's amenities. Your input will help us understand what we do well and what we can improve to provide an even better experience for our visitors.

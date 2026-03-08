@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ticket Holder Verification Form - Help Guide
 
 ## Purpose

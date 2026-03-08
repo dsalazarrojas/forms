@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from agents about their experiences at Brokers Open events. The purpose of this form is to gather data on how the events are organized, the properties presented, and how they can be improved. This will help us understand what we're doing well and where we can do better. Please only fill out this form if you've attended a Brokers Open event and have feedback to share.
-</thinking>
-
 # Brokers Open Feedback Form - Help Guide
 ## Purpose
 The Brokers Open Feedback Form is designed to collect agent feedback on the organization and presentation of Brokers Open events. Please take a few minutes to fill out this form and provide your honest feedback.

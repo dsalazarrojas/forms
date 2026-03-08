@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for evaluating the performance of a referee in a sports event. The form collects feedback from the game's participants, such as comments on the referee's name, email, and performance during the game. The form is likely used by sports organizations or event managers to assess the quality of refereeing services and identify areas for improvement. The form does not appear to be affiliated with any specific form platform, suggesting that it was created independently using AI-generated content. This form is released under a Creative Commons license, allowing others to use, modify, and share it freely.
-</thinking>
-
 # Referee Evaluation Form - Help Guide
 ## Purpose
 The Referee Evaluation Form is designed to collect feedback from game participants on a referee's performance during a sports event. This form helps sports organizations or event managers assess the quality of refereeing services and identify areas for improvement.

@@ -1,11 +1,3 @@
-<thinking>
-The Cruise Itinerary Extension Form is designed to collect information from clients about their extended travel plans, including their name, email address, phone number, address, and other relevant details. This form is typically filled out by clients who have already registered for a cruise and need to provide additional information to finalize their travel plans. The form is used to ensure that all necessary information is collected and processed correctly, and it helps in avoiding duplication of effort and ensuring consistency across different touchpoints.
-
-Before filling out this form, please ensure that you have all the necessary information and that you are filling it out for the correct purpose. If you are unsure about any of the fields, please refer to this help guide for further clarification.
-
-This form is designed to be filled out by clients, but it can also be used by other stakeholders such as travel agents or cruise operators who need to update or extend existing client information.
-</thinking>
-
 # Cruise Itinerary Extension Form - Help Guide
 ## Purpose
 The Cruise Itinerary Extension Form is designed to collect information from clients about their extended travel plans.

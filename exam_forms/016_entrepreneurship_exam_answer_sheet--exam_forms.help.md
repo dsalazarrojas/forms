@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the entrepreneurship exam, likely for assessment and tracking purposes. This form may be used for students, instructors, or administrators to record student performance, exam dates, and other relevant details. The form should be filled out for each student taking the entrepreneurship exam. There should be no duplicate entries for the same student. Please ensure the form is completed accurately and thoroughly to ensure the data is up-to-date and reliable.
-</thinking>
-
 # entrepreneurship_exam_answer_sheet - Help Guide
 ## Purpose
 This guide provides a step-by-step explanation of the entrepreneurship_exam_answer_sheet form, which is used to collect information for the entrepreneurship exam.

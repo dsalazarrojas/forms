@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Form 4868 Tax Extension Form - Help Guide
 ## Purpose
 The Form 4868 Tax Extension Form is used to request a tax deadline extension for a specific tax return. This form is used to apply for an automatic extension of time to file, which grants the taxpayer an additional 6 months to file their tax return.

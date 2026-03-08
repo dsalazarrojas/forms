@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect feedback and experience information from food vendors participating in a tournament. This form will be used to gather insights on the quality of the food provided, the cost, and the overall experience. This form should only be completed by food vendors, as it is intended for them to provide feedback on their own experience.
-
-This form should not be confused with other forms, and the questions are carefully designed to be specific to food vendors' experiences. The form is not meant for customers or other stakeholders, so please do not proceed if you are not a food vendor.
-
-To ensure that the form is completed accurately, please read each field carefully and follow the instructions provided.</thinking>
-
 # Tournament Food Vendor Experience Survey - Help Guide
 ## Purpose
 

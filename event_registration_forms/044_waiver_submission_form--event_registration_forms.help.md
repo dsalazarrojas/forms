@@ -1,12 +1,3 @@
-<thinking>
-This form is a customizable event registration form, designed to collect personal and medical information from participants. It is not affiliated with, endorsed by, or derived from any form platform. The form was created using AI-generated metadata from public surveys in the event registration category. It is an original adaptation and does not copy, extract, or use proprietary content from any form creation platform. The form is released under CC BY 4.0 and can be used, modified, and even sold with proper credits.
-
-The purpose of this form is to register participants for an event, gathering essential details such as first name, last name, email, date of birth, waiver status, and emergency contact information. The form also includes fields for medical information and risk acknowledgement. 
-
-This form is intended for event planners and organizers to collect participant data in a secure and efficient manner. Before using this form, please ensure that you have the necessary permissions and compliance requirements for data collection and storage in your jurisdiction.
-
-Please note that this form is an AI-generated adaptation, and while it is designed to be helpful, it may not cover all possible scenarios or regulatory requirements. It is your responsibility to review and modify the form according to your specific needs and local laws.</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

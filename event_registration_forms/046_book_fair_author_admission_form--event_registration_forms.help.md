@@ -1,7 +1,3 @@
-<thinking>
-This guide is for event registration forms, which are used to collect information from authors who wish to participate in events. This form is used to gather the necessary details from authors to organize their participation, ensuring a smooth and enjoyable experience for both the authors and the event attendees. It is crucial to complete this form accurately and thoroughly, as it will be used to plan and execute the event.
-</thinking>
-
 # Book Fair Author Admission Form - Help Guide
 ## Purpose
 This form is designed to collect information from authors who wish to participate in the Book Fair event. It will help the event organizers to gather the necessary details to plan and execute the event.

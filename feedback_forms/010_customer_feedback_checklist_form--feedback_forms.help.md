@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gather feedback from customers, allowing them to provide input on their experience with the company. This form is a crucial tool for understanding customer satisfaction and making improvements. The form is designed to be completed by customers, providing a structured way for them to express their thoughts and opinions. It's essential to ensure that the form is completed accurately and thoroughly, as it will help in making informed decisions for future developments and enhancements.
-</thinking>
-
 # Customer Feedback Checklist Form - Help Guide
 ## Purpose
 The Customer Feedback Checklist Form is designed to collect feedback from customers, enabling us to understand their experiences and improve our services.

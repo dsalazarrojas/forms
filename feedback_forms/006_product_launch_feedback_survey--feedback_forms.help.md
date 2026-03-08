@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Product Launch Feedback Survey" form, I will first provide the internal reasoning behind the form's purpose and check for duplication.
-
-The purpose of the form is to collect feedback from users on a product launch, likely to gauge the success of the product launch, identify areas for improvement, and make data-driven decisions for future product development. 
-
-To avoid duplication, I will review the form YAML to check if any of the questions overlap or have similar goals. In this case, some questions seem to be similar in nature, such as those related to product adoption, satisfaction, and feedback, which will be highlighted in the guide to help users navigate the form efficiently.
-
-</thinking>
-
 # Product Launch Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on a product launch, providing valuable insights to help us understand the success and areas for improvement of the product.

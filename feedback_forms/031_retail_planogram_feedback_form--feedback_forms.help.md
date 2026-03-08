@@ -1,13 +1,3 @@
-<thinking>
-The Retail Planogram Feedback Form is a tool designed to gather feedback on a retailer's product placement and store layout. To use this form, follow these steps: 
-
-- Identify the purpose of the form, which is to collect feedback on a retailer's planogram, a visual representation of products in a store.
-- Complete the form by answering each field in the order they appear.
-- Ensure that each field is filled out as required, as indicated by the "required" property in the form's YAML definition.
-- Review the form's sections carefully to ensure that the information provided is accurate and helpful.
-
-</thinking>
-
 # Retail Planogram Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on a retailer's planogram, a visual representation of products in a store. This feedback will help the retailer make informed decisions about product placement and layout.

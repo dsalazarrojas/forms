@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Product Review Removal Request Form", we need to understand that this form is used for customers to request the removal of a product review that they no longer want to keep on the site. The purpose of this form is to allow customers to provide a valid reason for the removal request and evidence to support their claim.
-
-The form has several fields that need to be filled in by the customer to complete the request. Each field is explained below to ensure that the customer understands what is expected of them.
-
-</thinking>
-
 # Product Review Removal Request Form - Help Guide
 ## Purpose
 The Product Review Removal Request Form is for customers who want to request the removal of a review that is no longer relevant or accurate. This form helps the customer to provide a valid reason for the removal request and evidence to support their claim.

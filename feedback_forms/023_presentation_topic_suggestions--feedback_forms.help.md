@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect presentation topic suggestions from users. It is designed to be a simple and straightforward tool for users to provide their ideas and feedback on presentation topics. The form is intended to be used by users who want to propose new presentation topics or suggest changes to existing ones.
-
-To ensure that users' feedback is helpful and not redundant, we will only accept suggestions that are new and not already existing in our database. Please note that submitting a suggestion does not guarantee that it will be used, but it will be reviewed and considered for inclusion in future presentations.
-
-</thinking>
-
 # Presentation Topic Suggestions - Help Guide
 ## Purpose
 This form is designed to collect presentation topic suggestions from users. It is a simple and straightforward tool for users to provide their ideas and feedback on presentation topics.

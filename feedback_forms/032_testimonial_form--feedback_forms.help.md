@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather testimonials from users about their experiences with a product or service. It's designed to be a general-purpose testimonial form that can be used in various contexts. 
-The form does not require any specific knowledge or training, and it's meant to be a straightforward way for users to share their opinions or feedback. 
-</thinking>
-
 # Testimonial Form - Help Guide
 ## Purpose
 This form is designed to collect testimonials from users about their experiences with a product or service. It's meant to be a general-purpose form that can be used in various contexts, such as customer feedback, reviews, or ratings. The form gathers information about the public or private nature of the testimonial, its content, and other optional fields like image and video uploads.

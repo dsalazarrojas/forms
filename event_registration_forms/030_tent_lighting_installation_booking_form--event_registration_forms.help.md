@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's review the provided YAML fields to understand the form's purpose and functionality. The form is titled "Tent Lighting Installation Booking Form" and appears to be used for booking lighting installations for events. It seems to require information related to the event, contact person, and additional services. However, upon closer inspection, it appears that many fields are optional, which may indicate that this form is more of a general template for events or a placeholder for specific event types. To create the help guide, we'll aim to make it comprehensive and practical while avoiding over-specification, as this form seems to be designed for a broader range of events.</thinking>
-
 # Tent Lighting Installation Booking Form - Help Guide
 ## Purpose
 This form is used to book tent lighting installations for events. It collects information necessary for the successful organization and execution of such events.

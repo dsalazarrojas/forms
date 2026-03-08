@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from patients who have visited a medical office. The purpose of this form is to understand patient satisfaction with their doctor and the scheduling process, as well as their experience with the office staff. This will help the medical office to identify areas of improvement and provide better services to patients in the future. It's recommended to fill out this form only by patients who have recently visited the medical office, to ensure the feedback is relevant and accurate. Please fill out the form only once for each visit.
-
-</thinking>
-
 # Doctor Appointment Feedback Form - Help Guide
 ## Purpose
 The Doctor Appointment Feedback Form is designed to collect feedback from patients who have visited a medical office. It's used to understand patient satisfaction with their doctor and the scheduling process, as well as their experience with the office staff.

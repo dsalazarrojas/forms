@@ -1,6 +1,4 @@
-> <thinking>... thinking...</thinking>
-
-# Subscription Cancellation Survey Form - Help Guide
+> # Subscription Cancellation Survey Form - Help Guide
 
 ## Purpose
 This form is designed to collect information from customers about their subscription cancellation. It's a crucial data collection mechanism to understand why customers are canceling their subscriptions and what we can improve on our services. Your input will help us serve you better in the future.

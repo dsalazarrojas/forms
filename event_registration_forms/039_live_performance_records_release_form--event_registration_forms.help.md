@@ -1,7 +1,3 @@
-<thinking>
-This form is used to release live performance records for events. To confirm, it's for events organized by someone (event organizer) in collaboration with an artist, on a specific date and time at a location, with the possibility to have recorded audio and/or video files. This information is crucial for archiving and preserving the event records. The form will not be used for events that don't involve a live performance, such as meetings or presentations.
-</thinking>
-
 # Live Performance Records Release Form - Help Guide
 ## Purpose
 The Live Performance Records Release Form is a tool used to document and release records of live events. It captures essential details about the event, including the event organizer, artist, date, time, location, event duration, and recording devices used during the event.

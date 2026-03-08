@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the Crop Scouting Report Form is to collect data about crops and farmers for agricultural research, monitoring, or management purposes. This form is designed to gather information from farmers or crop scouts about their observations, findings, and notes related to a specific crop. The form is meant to be completed by farmers or crop scouts to provide accurate and up-to-date information about crop conditions, growth, and other relevant details.
-
-To ensure that this form serves its intended purpose, we need to consider a few things. Firstly, we need to confirm that this form is not a duplicate of any existing form and that it is not affiliated with any form platform. Secondly, we need to ensure that the form's content is not proprietary and that it is released under a Creative Commons license.
-
-</thinking>
-
 # Crop Scouting Report Form - Help Guide
 ## Purpose
 The Crop Scouting Report Form is a tool used to collect data about crops and farmers for agricultural research, monitoring, or management purposes.

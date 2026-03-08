@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the project execution readiness of a project. It's essential for project stakeholders to understand the current status and readiness of the project to be executed. This form will help to identify areas of concern and provide insights into the project's progress. Please make sure to only complete this form if you are a project stakeholder or if you have been authorized to access project information.
-</thinking>
-
 # Project Execution Readiness Survey - Help Guide
 ## Purpose
 

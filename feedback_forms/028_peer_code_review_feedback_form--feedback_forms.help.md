@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect feedback from reviewers on a peer code review process. This form will guide users through the process of providing constructive feedback on the code submission, reviewing the review status, and documenting action items and their progress.
-The form will not repeat the submission of the code itself, and instead focuses on the feedback and review process.
-</thinking>
-
 # Peer Code Review Feedback Form - Help Guide
 ## Purpose
 The Peer Code Review Feedback Form is designed to collect feedback from reviewers on a code submission. It's a crucial part of the peer code review process, allowing reviewers to provide comments, review the status of the code, and track action items assigned to the submitter.

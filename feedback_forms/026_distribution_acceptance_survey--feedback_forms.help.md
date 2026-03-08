@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers on the distribution process. The goal is to understand the customer's perception of how well the distribution process is working and to identify areas for improvement. The form will help the team gather feedback to refine and improve the distribution process. This form does not require authentication or login, and the data collected will be used to improve the distribution process for all customers.
-</thinking>
-
 # Distribution Acceptance Survey - Help Guide
 ## Purpose
 The Distribution Acceptance Survey is designed to gather feedback from customers on how they perceive our distribution process. This feedback will help us refine and improve the process for all customers.

@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about the usability of sports equipment. This form is meant to be completed by individuals who have used the equipment and have some level of experience with it. The form has several sections, including general feedback, ease of use, comfort, quality, recommendation, and demographics.
-
-To complete this form, follow these steps:
-
-1. Begin by reading through the form carefully to understand what is being asked.
-2. For each section, answer the question or select the option that best reflects your thoughts and experiences.
-3. Be as honest and detailed as possible, especially in the "Additional Comments" section.
-4. Make sure to fill out all required fields, as indicated by the "required" property in each section.
-
-</thinking>
-
 # Sports Equipment Usability Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users about the usability of sports equipment.

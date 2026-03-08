@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for users who need to fill out the Employee Exit Offboarding Form. Please read this guide carefully to ensure you complete the form accurately and efficiently.
-</thinking>
-
 # Employee Exit Offboarding Form - Help Guide
 ## Purpose
 This form is used to gather essential information from departing employees, including their reason for departure, last day of work, and next steps. It also serves as a platform for the employee to provide feedback, suggestions, and any other relevant details about their experience with the company.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers about the service they received from our Injectors Service. It is a crucial tool to help us identify areas of improvement and provide better service in the future. Please note that this form should only be filled out by customers who have actually received a service from our injectors. If you are not a customer, or if you have filled out this form in the past, your feedback will not be considered.
-</thinking>
-
 # Injector Service Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience with our Injectors Service. This form helps us to identify areas of improvement and provide better service in the future.

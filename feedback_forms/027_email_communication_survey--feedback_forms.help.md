@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users about their preferences and experiences with email communication. It will help us understand how often they like to receive emails, what type of content they prefer, and their preferred method of communication. 
-
-The form will be used internally to improve our email communication strategy and tailor it to the needs of our users. Please note that this form will not be used for any other purpose, and your responses will be kept confidential.
-
-</thinking>
-
 # Email Communication Survey - Help Guide
 ## Purpose
 This survey is designed to gather your feedback on your email communication preferences. Your responses will help us improve our email communication strategy to better suit your needs.

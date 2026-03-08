@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help team members provide feedback on their team's collaboration and performance. The form is intended to gather information on the quality of communication within the team, the effectiveness of meetings, respect for opinions and ideas, openness to change and improvement, and the team's overall performance. This form will help team leaders and managers to identify areas of improvement and make informed decisions to enhance team collaboration and performance. Please note that this form is meant to be completed by team members, and the information gathered will be used internally within the team.
-</thinking>
-
 # Employee Team Collaboration Feedback Evaluation Form - Help Guide
 ## Purpose
 The Employee Team Collaboration Feedback Evaluation Form is designed to gather feedback from team members on the quality of team collaboration and performance. This form will help team leaders and managers make informed decisions to improve team dynamics and overall performance.

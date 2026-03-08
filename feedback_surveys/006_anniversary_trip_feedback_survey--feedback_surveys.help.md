@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from individuals who have taken an anniversary trip. The purpose of this form is to gather information on the overall experience of the trip, including the destination, accommodations, and services provided. This feedback will help the travel agency or destination provider to identify areas of improvement and areas of strength, ultimately enhancing the quality of services offered to future customers. By filling out this form, you will be helping us to create more memorable and enjoyable experiences for couples celebrating their special day.
-
-</thinking>
-
 # Anniversary Trip Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from individuals who have taken an anniversary trip to help us improve our services and create better experiences for future customers.

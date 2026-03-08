@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to unregister or unsubscribe from an event. It is meant for users who have previously registered for an event and now wish to cancel their registration. The form is used to gather information from users about their reason for unsubscribing and confirm their decision. The form is not meant to be used for other purposes, such as general event registration or user account management.
-</thinking>
-
 # ประก Event Information Unsubscription Form - Help Guide
 ## Purpose
 This form is used to allow users to unregister or unsubscribe from an event.

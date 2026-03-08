@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for documenting parachuting incidents, gathering essential details about the incident's summary, location, date, and other relevant information. This form is intended for internal use and will help the safety team investigate and analyze incidents to identify potential risks and take necessary actions to prevent future incidents. Please ensure that you complete this form accurately and thoroughly, as it will help the safety team make informed decisions. This form is not intended for public use, and sensitive information should not be shared without proper authorization.</thinking>
-
 # parachuting_incident_form - Help Guide
 ## Purpose
 This form is designed to document parachuting incidents, providing essential details for the safety team to investigate and analyze incidents.

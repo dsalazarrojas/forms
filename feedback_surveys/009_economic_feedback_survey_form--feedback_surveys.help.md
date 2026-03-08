@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Economic Feedback Survey Form - Help Guide
 ## Purpose
 The Economic Feedback Survey Form is a tool used to gather opinions and feedback from end users about the current economic situation. This form helps us understand their perceptions and concerns, which informs our decision-making process.

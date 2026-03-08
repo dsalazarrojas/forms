@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for evaluating the condition and performance of glass systems, likely in the context of a building or facility inspection. The purpose of this form is to gather information about the glass systems, including their condition, inspection frequency, performance, and maintenance needs. This form is likely used by facility managers or maintenance personnel to conduct regular assessments and ensure that the glass systems are functioning properly and safely.
-
-</thinking>
-
 # Glass Systems Evaluation Checklist - Help Guide
 ## Purpose
 The Glass Systems Evaluation Checklist is a form designed to evaluate the condition and performance of glass systems in buildings or facilities. This form helps assessors gather information on the systems' condition, inspection frequency, performance, and maintenance needs.

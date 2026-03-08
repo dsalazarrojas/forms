@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather basic information from zoo visitors, including their interests in exhibits, their motivation for visiting the zoo, and whether they have any feedback to share. The form is not intended to be a comprehensive survey, but rather a quick check-in process to gauge visitors' interests and preferences. To ensure accurate and complete data, please do not reuse the form if you have already completed it in the past 30 days.
-</thinking>
-
 # Zoo Visitor Exhibit Interest Check In Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from visitors about their interests, motivations, and potential feedback regarding their visit to the zoo. This information will help us better understand and serve our visitors.

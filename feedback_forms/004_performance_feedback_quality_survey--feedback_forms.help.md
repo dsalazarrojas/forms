@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for employees who will be completing a performance feedback quality survey to help us evaluate our performance and quality of service. Please note that the survey is entirely voluntary, and all feedback provided will be kept confidential. Before filling out this form, ensure you have not already filled it out previously, as this would be considered duplicate feedback. If you're unsure about any questions or have any difficulties filling out the form, please reach out to your supervisor or contact us at [support email].
-</thinking>
-
 # performance_feedback_quality_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on our performance and quality of service. Your input will help us identify areas of improvement and make data-driven decisions to enhance our services.

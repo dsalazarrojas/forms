@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather feedback on the product development process. It is meant to be completed by team members and is intended to evaluate the efficiency and effectiveness of the current development process. This form should not be filled out by team leads or managers, as their feedback is already gathered through other means. Please only complete this form once you have reviewed the current process and have had time to reflect on your experiences. Ensure that you only complete this form if you are a team member. If you are unsure, you can always check with your manager or team lead...</thinking>
-
 # Product Development Process Evaluation Form - Help Guide
 ## Purpose
 The Product Development Process Evaluation Form is a tool to help team members provide feedback on the current product development process. This feedback will be used to identify areas of improvement and make data-driven decisions to optimize the process.

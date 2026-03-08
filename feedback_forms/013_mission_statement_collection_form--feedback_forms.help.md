@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information and feedback. It is intended for general use and does not require authentication. The form is not meant to be completed by the same user more than once. Please ensure that each submission is made with a unique user's information.
-</thinking>
-
 # Mission Statement Collection Form - Help Guide
 ## Purpose
 The Mission Statement Collection Form is a user-facing form designed to collect information and feedback from users. It is intended for general use and does not require any specific privileges or authentication. 

@@ -1,7 +1,3 @@
-<thinking>
-A form is a tool for collecting information and feedback from users. It is meant to be clear, concise, and easy to navigate, making it easier for users to provide their input and thoughts. This guide is created to ensure the user has a clear understanding of what the form is used for, how to complete it, and what each field means.
-</thinking>
-
 # intermodal_transport_feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback and information about intermodal transportation. It is meant to gather details about transfers, travel times, modes of transportation, and user satisfaction levels. This feedback will be used to identify areas for improvement in the intermodal transportation service.

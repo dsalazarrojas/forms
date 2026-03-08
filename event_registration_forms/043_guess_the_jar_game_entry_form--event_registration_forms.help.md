@@ -1,10 +1,3 @@
-<thinking>
-The "Guess The Jar Game Entry Form" is a digital form designed to gather information from participants in the Guess The Jar game, a popular online game where users guess the contents of a jar filled with various items. This form is intended to collect basic entry information from users, including their competition details, entry options, and contact information. 
-
-To ensure that this form meets the needs of the game's administrators and participants, it's essential to understand its purpose and usage.
-
-</thinking>
-
 # Guess The Jar Game Entry Form - Help Guide
 ## Purpose
 The Guess The Jar Game Entry Form is designed to collect entry information from participants in the Guess The Jar game. This includes competition details, entry options, and contact details. 

@@ -1,19 +1,3 @@
-<thinking>
-
-To ensure the form purpose and relevance, I will consider the form's overall design and fields. The "Daily Returns Tracking Survey" form is likely used to track customer returns, including return dates, reasons, product details, and staff feedback. It's crucial to determine the purpose and relevance to guide the creation of the help guide.
-
-The purpose of this form is to collect data on customer returns, including return dates, reasons, product details, and staff feedback. This data will be used to track and analyze customer return trends.
-
-Before starting this form, please ensure you have:
-
-- Access to customer information (email, order IDs, etc.)
-- Knowledge of return and product details (product type, name, etc.)
-- Understanding of return reasons and status
-
-Please note that if you're unsure about any of the fields, it's always best to ask your supervisor or the form creator for clarification.
-
-</thinking>
-
 # Daily Returns Tracking Survey - Help Guide
 ## Purpose
 This form is designed to collect data on customer returns, including return dates, reasons, product details, and staff feedback. The collected data will be used to track and analyze customer return trends.

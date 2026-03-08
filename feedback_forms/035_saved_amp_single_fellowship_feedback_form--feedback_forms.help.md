@@ -1,16 +1,3 @@
-<thinking>
-This form is meant to collect feedback from users about the Saved and Single Fellowship program. The form should only be submitted once a user has completed the program, to provide an opportunity for them to share their thoughts and opinions on their experience. 
-
-Before submitting the form, please ensure that you have not already provided feedback on this program, as duplicate feedback may be discarded. 
-
-The form consists of several fields, each with its own purpose:
-1. **Your_opinion_counts**: A text field where users can write their honest opinion about the program. This is an optional field and should be filled only if users wish to provide their thoughts.
-2. **E_mail**: An email field where users can provide their email address. This is also an optional field and is not necessarily related to the program, but rather a way for the program administrators to contact the user for any follow-up questions or discussions.
-3. **P_phone**: A text field where users can input their phone number. This is an optional field and should be filled only if users wish to provide their contact information.
-4. **Submit**: A select button that allows users to choose what action they wish to take after completing the form: saving their feedback, canceling, or submitting it for review.
-
-</thinking>
-
 # Saved_and_single_fellowship_feedback_form - Help Guide
 ## Purpose
 The Saved and Single Fellowship Feedback Form is a post-program survey designed to gather user feedback and opinions on their experience with the program. It is meant to be submitted once a user has completed the program.

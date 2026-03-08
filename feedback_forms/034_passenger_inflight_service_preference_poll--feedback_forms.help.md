@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect feedback from passengers on the inflight service provided. The purpose of the form is to gather information on whether passengers have enjoyed the inflight service, if they have any suggestions or recommendations for improvement, and their preferences for routes and cabin priority. This form will help the airline understand passenger opinions and make informed decisions to enhance their service.
-
-</thinking>
-
 # Passenger Inflight Service Preference Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from passengers on the inflight service, allowing the airline to understand their opinions and make improvements.

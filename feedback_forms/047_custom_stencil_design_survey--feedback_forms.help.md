@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information on the user's preferences for custom stencil design elements, including colors, shapes, and materials. This information will be used to create a personalized stencil design tailored to the user's needs. To ensure that the user's preferences are accurately captured, it is essential to complete the form correctly. Please note that the form is not intended for urgent or time-sensitive feedback, and users should take their time to complete it carefully. It is also crucial to avoid duplicating information, as the form is designed to collect distinct preferences for different design elements. Completing the form multiple times will not yield different results, and it is essential to provide feedback for each element separately. By following this guide, you will be able to submit your preferences with confidence.
-</thinking>
-
 # Custom Stencil Design Survey - Help Guide
 ## Purpose
 The "Custom Stencil Design Survey" form is designed to help you create a personalized stencil design tailored to your needs. By sharing your preferences, you will be able to create a unique and effective stencil design.

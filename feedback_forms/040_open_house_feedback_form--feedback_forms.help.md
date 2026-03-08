@@ -1,7 +1,3 @@
-<thinking>
-We should create a user-facing help guide for the "Open House Feedback Form" that explains its purpose, how to complete it, and the meaning of each field. This guide will help ensure that users understand the form's intent and can provide accurate and helpful feedback. The form is used to gather feedback from attendees, including their thoughts on whether the event was prophetic, rating, and free-form text comments. The form will not be required, which means users can choose whether or not to fill it out. This is a feedback mechanism, not a required assessment.
-</thinking>
-
 # Open House Feedback Form - Help Guide
 ## Purpose
 The "Open House Feedback Form" is a feedback mechanism to gather information from attendees about their experience with the open house event. We want to know if they think the event was prophetic, what they think of the event's rating, and any additional comments or suggestions they might have.

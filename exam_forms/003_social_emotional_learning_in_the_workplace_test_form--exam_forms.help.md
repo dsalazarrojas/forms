@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Emotional Learning In The Workplace Test Form - Help Guide
 ## Purpose
 The Social Emotional Learning In The Workplace Test Form is designed to help individuals assess their abilities and challenges related to social-emotional learning, emotional regulation, and relationships in the workplace. This form asks questions to gauge your experiences with anxiety, stress, self-reflection, boundaries, feedback, needs assertion, self-care, emotional management, social connections, empathy, seeking help, recognizing emotions, and relaxation.

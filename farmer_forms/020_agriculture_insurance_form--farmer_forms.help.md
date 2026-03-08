@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for farmers to apply for insurance coverage for their agricultural operations. The form will gather information about the applicant's farm, the type of insurance coverage requested, and the terms of the policy. This information will be used to assess the applicant's eligibility for insurance coverage and to determine the appropriate premium rates. The form has been designed to be straightforward and easy to navigate, with clear labels and instructions to guide the applicant through the process.
-</thinking>
-
 # Agriculture Insurance Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from farmers about their agricultural operations to apply for insurance coverage. The form will help us to assess your eligibility for insurance coverage and to determine the appropriate premium rates.

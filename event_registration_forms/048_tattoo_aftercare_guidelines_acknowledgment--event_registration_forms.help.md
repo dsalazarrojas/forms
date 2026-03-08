@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to acknowledge that the individual has read and understood the tattoo aftercare guidelines provided by the tattoo artist. It is essential to ensure that the individual is aware of the necessary steps to take for proper tattoo care and is able to provide the necessary contact information for follow-up and aftercare instructions.
-</thinking>
-
 # Tattoo Aftercare Guidelines Acknowledgment - Help Guide
 ## Purpose
 This form is designed to be completed by individuals who have received a tattoo. It is a required form that acknowledges the individual's understanding and agreement to follow the provided tattoo aftercare guidelines.

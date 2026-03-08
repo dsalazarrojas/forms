@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback from users after a maintenance building meeting. The purpose of this form is to ensure that all necessary information is captured and recorded for future reference. This form is a mandatory step in the process, and its completion is required to ensure that the feedback from the meeting is properly documented and actioned upon. It's essential to complete this form accurately to provide clear and concise information for the maintenance team.
-
-</thinking>
-
 # Maintenance Building Meeting Feedback - Help Guide
 ## Purpose
 The Maintenance Building Meeting Feedback form is used to collect feedback from users after a maintenance meeting held in a building. The feedback gathered through this form will help the maintenance team to better understand the meeting's outcome, identify areas for improvement, and take necessary actions to address any issues that were raised during the meeting.

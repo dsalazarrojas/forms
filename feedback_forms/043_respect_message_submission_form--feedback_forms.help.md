@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and messages from users, allowing them to provide input on various topics, including recognition, message types, and more. This form should only be filled out when relevant and not duplicated, as it's meant to collect unique and valuable feedback.
-</thinking>
-
 # respect_message_submission_form - Help Guide
 ## Purpose
 The `respect_message_submission_form` is designed to collect feedback and messages from users, providing valuable input on various topics.

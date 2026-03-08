@@ -1,9 +1,3 @@
-<thinking>
-This form is used for end-users to request access to a meeting room. This form will collect information about the type of meeting, contact details, and whether the meeting room is requested. The purpose of this form is to ensure that meeting rooms are allocated efficiently and that all necessary information is collected about the meeting. 
-
-This form will only appear once, as it's a one-time submission form.
-</thinking>
-
 # Meeting Room Request Form - Help Guide
 ## Purpose
 The Meeting Room Request Form is used to submit a request for a meeting room. It helps ensure that meeting rooms are allocated efficiently and that all necessary information is collected about the meeting.

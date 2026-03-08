@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gauge a user's sense of wellbeing. Wellbeing is generally understood as an individual's overall satisfaction and quality of life. This form is designed to collect feedback about a user's emotional state, social connections, and physical and mental health. It's used to help individuals identify areas of their lives that may need improvement, and to provide insights for personal and organizational development.
-
-The form is used to collect quantitative data about the user's wellbeing scales, which are subjective measures of their emotional state at the moment of completing the form. The data will not be used to diagnose or treat any medical condition, but rather to provide a snapshot of the user's emotional state at the time of completion.
-
-This form should not be filled out more than once a week, as it's designed to capture the user's emotional state at a specific point in time. If the user has filled out the form previously, please let the system know and we'll ensure that your responses are not duplicated.
-
-</thinking>
-
 # Weekly Wellbeing Check In - Help Guide
 
 ## Purpose

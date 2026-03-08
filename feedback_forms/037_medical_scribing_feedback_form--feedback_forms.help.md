@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Scribing Feedback Form - Help Guide
 ## Purpose
 The Medical Scribing Feedback Form is used to gather feedback on scribes and clinicians. This form collects information on clinic and scribe performance, including their availability, feedback score, and ratings. The data collected will help in making informed decisions about future scheduling and staffing.

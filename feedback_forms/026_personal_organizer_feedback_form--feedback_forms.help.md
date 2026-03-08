@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users on their experience with the Personal Organizer, which is a service that helps individuals manage their time and tasks efficiently. The form is intended to be completed by end-users who wish to provide their thoughts, suggestions, and opinions on how to improve the service. This form will not be used for formal, official feedback that requires verification or follow-up actions.
-
-The primary purpose of this form is to gather qualitative feedback from users, which will be used to identify areas of improvement and make data-driven decisions to enhance the Personal Organizer service. The form will be reviewed internally to ensure that the feedback is accurate and actionable.
-
-When creating this form, we aimed to keep it simple and user-friendly, with clear and concise labels to minimize confusion and maximize the effectiveness of the feedback collection process.
-
-</thinking>
-
 # Personal Organizer Feedback Form - Help Guide
 ## Purpose
 The Personal Organizer Feedback Form is designed to collect your thoughts, suggestions, and opinions on how to improve our service. Your feedback will help us identify areas of improvement and make data-driven decisions to enhance the Personal Organizer.

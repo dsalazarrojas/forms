@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect feedback and evaluation from users regarding a digital learning resource. The purpose of this form is to gather information about the user's experience with the resource, their rating of the resource, and additional comments or feedback. This form will help improve and refine the digital learning resource to better serve future users.
 
 # Digital Learning Resource Feedback Evaluation Form - Help Guide

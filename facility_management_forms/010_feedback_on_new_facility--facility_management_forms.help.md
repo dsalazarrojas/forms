@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect feedback from users regarding a new facility. The form is designed to gather information about the user's experience at the facility, including the facility's name, type of feedback, contact details, email address, comments, visit date, facility number, and facility rating. This form is intended to help the facility management team understand the user's perspective and improve their services.
-
-The form is not mandatory, but it is recommended that users complete it to provide valuable feedback.
-
-</thinking>
-
 # ประก Feedback On New Facility - Help Guide
 ## Purpose
 This form is used to collect feedback from users regarding a new facility. It is designed to gather information about the user's experience at the facility and provide valuable insights for the facility management team.

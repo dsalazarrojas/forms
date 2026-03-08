@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for a Pet Safety Awareness Event, which aims to educate pet owners about potential risks and hazards that can affect their pets. The form's purpose is to collect information from participants about their pet's details and activities that may pose risks. This will help the event organizers to better understand the participants' concerns and tailor the event content accordingly. 
-</thinking>
 # Pet Safety Awareness Event Consent Form - Help Guide
 ## Purpose
 The Pet Safety Awareness Event Consent Form is designed to gather information from participants about their pets and their concerns regarding pet safety. This form will help us better understand your needs and preferences for the event.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Competition Feedback Form - Help Guide
 
 ## Purpose

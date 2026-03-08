@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # International Economics Quiz - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # crypto_analyst_feedback_form - Help Guide
 
 ## Purpose

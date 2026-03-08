@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect engagement reports from users about streaming services. The form has multiple pages, but we will only cover the main fields and their purpose. The form asks users to select a category, provide their name and email address, state how often they watch the channel, and provide additional comments and feedback.
-</thinking>
-
 # Streaming Service Engagement Report Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and engagement reports from users about streaming services. It helps us understand your preferences and experiences with different types of content.

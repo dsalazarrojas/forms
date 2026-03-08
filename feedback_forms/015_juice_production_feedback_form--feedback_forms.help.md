@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # juice_production_feedback_form - Help Guide
 
 ## Purpose

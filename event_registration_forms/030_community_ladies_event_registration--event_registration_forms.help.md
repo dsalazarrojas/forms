@@ -1,16 +1,3 @@
-<thinking>... 
-This form is for community event registration. It's designed to collect information about attendees, including their names, contact details, and event preferences. This form should only be used for events organized by our community, and it's expected that attendees will be registered in advance.
-
-To determine if this form is suitable for your event, please consider the following:
-
-* You are the event organizer or have permission from the event organizer to create and manage event registrations.
-* The event is a community event, and attendees are expected to be registered in advance.
-* The event details (e.g., date, time, location, purpose) are already well-defined and clear.
-
-If you're unsure or have questions, reach out to the event organizer for clarification.
-
-</thinking>
-
 # Community Ladies Event Registration - Help Guide
 ## Purpose
 This form is for registering attendees to a community event. It's designed to collect relevant information about each attendee, including their name, contact details, and event preferences.

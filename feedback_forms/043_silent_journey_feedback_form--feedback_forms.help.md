@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Silent Journey Feedback Form - Help Guide
 ## Purpose
 The Silent Journey Feedback Form is designed to gather feedback from participants about their experience at the silent retreat. This form helps us to understand what worked well and what didn't, so we can improve future events. Please take a few minutes to complete this form and share your thoughts.

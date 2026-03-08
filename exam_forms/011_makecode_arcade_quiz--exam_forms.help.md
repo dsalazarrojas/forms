@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to collect demographic and behavioral data from students participating in a quiz or assessment. This form is designed to gather information about the students' answers to a series of questions, which will be used to analyze their responses and provide insights for the MakeCode Arcade Quiz. The form is not intended to be a comprehensive assessment of the students' knowledge or skills, but rather a tool to collect data for research and analysis purposes.
-
-Before proceeding, please note that this form is for research purposes only and not for any commercial or promotional activities. If you're unsure about the form's purpose or usage, please contact the form administrators for further clarification.
-
-To ensure the form's data is accurate and relevant, we kindly request that you:
-
-* Only respond to questions that are relevant to you
-* Avoid duplicating responses to questions that you have already answered
-* Provide honest and accurate information about yourself
-
-By answering this form, you will be contributing to the research and development of the MakeCode Arcade Quiz, which will ultimately benefit the students who participate in it.
-</thinking>
-
 # MakeCode Arcade Quiz - Help Guide
 ## Purpose
 The MakeCode Arcade Quiz is a tool designed to collect demographic and behavioral data from students participating in a quiz or assessment. The data collected will be used for research and analysis purposes.

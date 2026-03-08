@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather feedback on different aspects of a store's service quality. It's a tool for mystery shoppers to evaluate their experience in various stores, providing insights on how well the store meets customer expectations. The form includes questions on customer service, store atmosphere, product knowledge, and employee conduct, among other factors. Before filling out this form, please note that it's meant for anonymous evaluation and will be used for internal purposes only. Your feedback is greatly appreciated and will help improve customer service and overall store experience.</thinking>
-
 # Mystery Shopping Evaluation Form - Help Guide
 
 ## Purpose

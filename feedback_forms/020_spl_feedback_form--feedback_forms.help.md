@@ -1,9 +1,3 @@
-<thinking>
-The SPL Feedback Form is designed for users to provide feedback on a specific performance, skill, or event. The form helps gather information on general performance, specific skills, date, and time of the performance, goals, and additional comments. It also allows users to choose a category for their feedback.
-The form is used in the context of providing feedback on sports-related activities, such as soccer, basketball, tennis, and volleyball. The purpose of the form is to gather detailed and structured feedback that can be used to improve performance in these areas.
-Please ensure that you are providing feedback on a specific performance or event, and not duplicating existing feedback. If you're unsure about the purpose of this form or the specific feedback you're providing, please review the form carefully before submitting your feedback.
-</thinking>
-
 # SPL Feedback Form - Help Guide
 ## Purpose
 The SPL Feedback Form is designed to gather feedback on a specific performance, skill, or event in sports-related activities such as soccer, basketball, tennis, and volleyball.

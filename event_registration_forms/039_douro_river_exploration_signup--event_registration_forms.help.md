@@ -1,5 +1,3 @@
-<thinking>...We're creating this help guide for the Douro River Exploration Signup form, which is a key part of our event management process. This form collects crucial information from participants regarding their trip details, tour operator preferences, and emergency contact data. Its primary purpose is to register participants for the Douro River Exploration. The form ensures that all necessary details are provided to us so we can plan and execute the trip smoothly. To avoid duplication, please ensure that you're filling out the form correctly and not submitting multiple registrations for the same participant. This form will help us manage our events efficiently... </thinking>
-
 # Douro River Exploration Signup - Help Guide
 ## Purpose
 This form is used to register participants for the Douro River Exploration event. It collects information about the trip date, tour operator, participant details, and emergency contact information.

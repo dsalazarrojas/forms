@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a startup company applying to the incubation program. The form asks for various details about the startup, its business model, financials, team, and other relevant information. It's essential to fill in the form accurately to ensure a smooth application process.
-</thinking>
-
 # Startup Incubation Program Registration Form - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information about your startup to help our incubation program team assess your application. Please answer the questions truthfully to ensure a successful evaluation.

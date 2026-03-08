@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from employees regarding their satisfaction with the company's retirement plan. The goal is to understand the strengths and weaknesses of the plan, identify areas for improvement, and provide an opportunity for employees to share suggestions for enhancements. 
-
-Before proceeding, please ensure you have not already submitted your feedback on this form, as this will help maintain a consistent and comprehensive understanding of employee opinions.
-
-</thinking>
-
 # Employee Retirement Plan Feedback Evaluation Form - Help Guide
 ## Purpose
 This form collects feedback from employees on their experience with the company's retirement plan, aiming to gather insights that can help improve the plan and better serve employee needs.

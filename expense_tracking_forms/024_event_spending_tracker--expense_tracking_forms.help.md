@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help users track event spending, allowing them to record details about an event, including the event date, amount spent, category of expense, and any additional description or uploaded files related to the event. The form should not be used for duplicate events or events that are not relevant to the user's current context. This form will serve as a tracking tool for users to monitor their events and expenses.
 
 # event_spending_tracker - Help Guide

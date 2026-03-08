@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering feedback on the Livestock Vaccination Program, which aims to understand how participants found out about the program, how they received the services, what topics were covered, and what they found helpful or not. The form also seeks to collect contact information for follow-up and demographic data such as day of the week and weather conditions at the time of vaccination. This guide will walk you through how to complete this form and explain each field in detail.
-</thinking>
-
 # Livestock Vaccination Program Feedback Survey - Help Guide
 ## Purpose
 The Livestock Vaccination Program Feedback Survey is designed to gather feedback from participants on their experience with the program. This survey aims to understand how participants found out about the program, how they received the services, what topics were covered, and what they found helpful or not.

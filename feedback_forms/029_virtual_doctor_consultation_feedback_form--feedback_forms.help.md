@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users about their experience with the virtual doctor consultation service. The form is intended to gather information about the quality of care, communication skills, and technology support provided by the service. It will help identify areas of improvement and suggest ways to enhance the user experience.
-
-The form is not intended to be completed for every single virtual doctor consultation. It's recommended to be completed by users who have had a particularly positive or negative experience to help us understand their satisfaction and provide better care.
-
-Please ensure that you're completing the form for a specific consultation, and not repeating a previous submission.
-
-</thinking>
-
 # virtual_doctor_consultation_feedback_form - Help Guide
 
 ## Purpose

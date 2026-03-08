@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is filled out correctly and efficiently, we need to verify that this form is being filled out for the correct purpose. This Stall Count Survey form is designed to collect data on stall counts and engagement levels at events. It is intended to be filled out by events team members to gather insights on the number of stalls present, the number of attendees, and the level of engagement. Before proceeding, please ensure that you have the necessary permissions and clearance to fill out the form for your event.
-</thinking>
-
 # Stall Count Survey - Help Guide
 ## Purpose
 The Stall Count Survey is designed to collect data on stall counts and engagement levels at events. This data will help events teams optimize their events, make informed decisions, and improve the overall experience for their attendees.

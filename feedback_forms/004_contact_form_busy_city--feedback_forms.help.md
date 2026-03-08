@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and follow-up requests from event attendees. It allows attendees to provide their name, email address, and other relevant information, as well as specify the type of message they want to send and any additional comments or requests. The form is intended for event organizers and administrators to use to follow up with attendees and address any questions or concerns they may have.
-</thinking>
-
 # Contact Form Busy City - Help Guide
 ## Purpose
 The Contact Form Busy City is a tool for event attendees to provide feedback and follow-up requests related to events organized by our team.

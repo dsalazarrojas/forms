@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help shipping dock operational safety inspectors collect data on the safety of the facility during a given shift. It asks for general information like the facility name and inspection date, as well as specific details about safety equipment used and hazards found. The form also inquires about any findings that require follow-up and notes on the inspection process. This form is likely used by warehouse or manufacturing facilities to ensure a safe work environment for their employees. It is possible that there might be overlap with other forms that ask similar information, but the purpose of this form is to be a quick and focused assessment of the safety situation of the facility during this shift. Please make sure to fill out this form thoroughly and accurately for best results.
-
-</thinking>
-
 # Shipping Dock Operational Safety Inspection Form - Help Guide
 ## Purpose
 This form is designed to assess the safety status of your shipping dock during a shift, ensuring a safe and secure environment for employees.

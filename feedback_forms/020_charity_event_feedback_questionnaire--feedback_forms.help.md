@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is to assist respondents in understanding the purpose of the Charity Event Feedback Questionnaire and provide clear instructions on how to complete it. The form is designed to gather feedback on charity events attended by the respondents, aiming to improve the organization and its future events. The form's primary goal is to ensure that the respondent's input is valid and non-duplicative. This guide will walk you through the form's sections and fields to provide an accurate understanding of what is expected of the respondent.
-
-</thinking>
-
 # Charity Event Feedback Questionnaire - Help Guide
 
 ## Purpose

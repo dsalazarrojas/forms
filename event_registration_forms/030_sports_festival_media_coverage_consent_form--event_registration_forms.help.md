@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block: This form is intended to collect information from festival organizers and participants for media coverage purposes. It is a consent form that requires permission from participants to use their information for media purposes. The form is designed to be completed by festival organizers and participants to ensure that their information is collected and used properly. This form should only be filled out once per participant and not duplicated. The information collected will be used to contact the participant and provide them with updates and information about the festival. The form should be completed by the participant or their authorized representative.
-</thinking>
-
 # sports_festival_media_coverage_consent_form - Help Guide
 ## Purpose
 The sports festival media coverage consent form is designed to collect information from festival participants for media purposes. This form requires consent from participants to use their information for media coverage, such as interviews, photos, and videos. The form ensures that participants' information is collected and used properly.

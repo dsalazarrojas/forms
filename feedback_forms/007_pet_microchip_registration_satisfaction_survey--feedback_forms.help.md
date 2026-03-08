@@ -1,13 +1,3 @@
-<thinking>
-Internal reasoning block:
-This form, "pet_micchip_registration_satisfaction_survey", is designed to collect feedback about pet micchip registration experiences. It aims to help us understand what users think about the registration process. This form has several fields to gather various aspects of their experience. The goal is to ensure that we are meeting our users' needs and identify areas for improvement.
-
-Before filling out this form, please consider that the feedback collected will be used to enhance our services and help us create a more user-friendly experience for pet micchip registrations.
-
-To complete this form, answer the questions honestly, and provide as much detail as you can. If you have any issues with the registration process or need assistance, please contact us at [contact email or phone number].
-
-</thinking>
-
 # pet_micchip_registration_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback about pet micchip registration experiences to help us identify areas for improvement and create a more user-friendly experience.

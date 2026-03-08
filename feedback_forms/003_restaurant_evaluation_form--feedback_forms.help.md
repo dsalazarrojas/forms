@@ -1,27 +1,3 @@
-<thinking>
-This form is intended to be completed by customers to evaluate their experience at a restaurant. The form will collect feedback and ratings on various aspects of the restaurant, including the food quality, service, atmosphere, and overall experience. This form is likely to help the restaurant management to identify areas of improvement and provide better services to their customers.
-
-This form is designed to collect feedback on the following:
-
-* Food Quality
-* Overall Service Quality
-* Cleanliness
-* Order Accuracy
-* Speed of Service
-* Customer Service
-* Value for Money
-* Food Presentation
-* Restaurant Atmosphere
-* Food Price
-* Overall Experience
-* Staff Friendliness
-* Food Value
-* Restaurant Rating
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Restaurant Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on your experience at the restaurant.

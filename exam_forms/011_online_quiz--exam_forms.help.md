@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used to create a simple online quiz for students. The purpose of the form is to collect information from students, such as their name and the type of question they are answering, as well as the answers to a series of questions. This form is likely used in an academic setting, such as a school or university, to assess student knowledge.
-
-To prevent duplication, the form is designed to ensure that each student's data is unique and cannot be submitted multiple times.
-
-</thinking>
-
 # Online Quiz - Help Guide
 ## Purpose
 This form is a simple online quiz designed to collect information from students for assessment purposes.

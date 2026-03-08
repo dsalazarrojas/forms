@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to provide a template for requesting an extension to a supplier's agreement. It's designed for internal use within organizations that have a supplier agreement, and it's meant to be used for requesting changes to that agreement, such as extension of time or reason, without requiring extensive knowledge of form design or survey best practices.
-The form's design and content are not affiliated with, endorsed by, or derived from any form platform, and it's created using only the provided metadata about the supplier agreement topic. This guide will walk through each field of the form, helping users understand its purpose and how it should be completed.
-This form is free to use, modify, and distribute under the Creative Commons by 4.0 license.
-Please note that some fields may not be required for all use cases, but they are included to provide the necessary information in case an extension is needed.
-</thinking>
-
 # Supplier Agreement Extension Form - Help Guide
 ## Purpose
 The "Supplier Agreement Extension Form" is used for requesting changes to a supplier's agreement. This form helps you communicate the reason, type, and details of the request.

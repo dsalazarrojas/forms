@@ -1,8 +1,3 @@
-<thinking>
-This help guide is meant to provide clarity on how to complete the Donor Experience Survey form. The form is designed to collect feedback from donors about their experiences with the organization, with the goal of improving the quality of service and building stronger relationships with donors. The survey asks for information such as name, contact details, and ratings of experience with the organization, including ratings of staff helpfulness, friendliness, and knowledgeability. The form also inquires about the methods of donation, whether the donor has visited the organization in person, and what they think the organization could improve on. The questions are meant to be concise and easy to understand, making it straightforward to fill out the form.
-
-</thinking>
-
 # Donor Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from donors about their experiences with the organization. Your input will help us improve our services and build a stronger bond with our donors.

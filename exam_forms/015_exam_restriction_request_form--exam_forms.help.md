@@ -1,12 +1,3 @@
-<thinking>
-Form purpose:
-This form is designed for students to request restrictions on their exams, allowing them to provide additional information or requirements that need to be considered by the department or faculty members.
-
-Form fields should be filled out carefully and accurately to ensure that the request is processed smoothly. Please note that this form is a digital equivalent of the traditional paper-based forms, and it is essential to ensure that all necessary information is provided before submitting.
-
-To avoid duplication, please do not submit multiple requests for the same exam restriction. If you need to make changes or add more information, contact the relevant department or faculty member directly.
-</thinking>
-
 # Exam Restriction Request Form - Help Guide
 ## Purpose
 This form is designed for students to request restrictions on their exams, allowing them to provide additional information or requirements that need to be considered by the department or faculty members.

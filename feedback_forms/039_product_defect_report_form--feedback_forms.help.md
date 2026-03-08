@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report defects on a product. To ensure that each defect is properly recorded and addressed, please report only new, unique defects, and avoid submitting duplicate reports. If you've previously reported a defect, do not resubmit.
-</thinking>
-
 # Product Defect Report Form - Help Guide
 ## Purpose
 This form is used to report defects on a product. Please fill in the required fields with as much detail as possible to help our team understand the issue and address it efficiently.

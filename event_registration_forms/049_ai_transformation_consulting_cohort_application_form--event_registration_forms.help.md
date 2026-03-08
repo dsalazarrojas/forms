@@ -1,9 +1,3 @@
-<thinking>...Internal reasoning block to determine form purpose and relevance...
-
-The form is likely designed for individuals or teams interested in joining a cohort for AI transformation consulting. The form's purpose is to gather information from potential applicants, including their name, contact information, and background details. The form will help the organizers understand the motivation behind their application, their current role and responsibilities, and their expected outcomes from participating in the cohort. This information will aid in the selection process for the cohort.
-
-</thinking>
-
 # AI Transformation Consulting Cohort Application Form - Help Guide
 ## Purpose
 

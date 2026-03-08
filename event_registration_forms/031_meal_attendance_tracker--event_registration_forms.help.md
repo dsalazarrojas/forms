@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to track meal attendance for an event. This guide will help you understand how to complete the form and its purpose.
 
 # Meal Attendance Tracker - Help Guide

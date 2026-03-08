@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting feedback from club members on their experience and engagement with the club. Feedback is essential for the club to identify areas of improvement and make informed decisions to enhance member experience and satisfaction. Please ensure that you are completing this form to provide constructive feedback, not to report issues or concerns that should be directed to the club's management or support team. This guide is designed to help you complete the form accurately and effectively.
-</thinking>
-
 # Club Feedback Collection - Help Guide
 ## Purpose
 This form is for collecting feedback from club members on their experience and engagement with the club. Feedback is essential for the club to identify areas of improvement and make informed decisions to enhance member experience and satisfaction.

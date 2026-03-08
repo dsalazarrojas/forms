@@ -1,9 +1,3 @@
-<thinking>
-We will create a user-facing help guide that explains the purpose of the form, how to complete it, and each field's meaning.
-The form "prophets" appears to be related to event registrations, possibly for events with specific start and end dates, statuses, and types. The field options hint at a system for tracking bookings or events, with fields for start and end dates, statuses (active or inactive), and event types (yes or no).
-We will need to verify that the form doesn't have any redundant or unnecessary fields and ensure that the explanations are clear and concise. For example, the "start_date" and "end_date" fields are both dates, but one of them might be redundant.
-</thinking>
-
 # prophets - Help Guide
 ## Purpose
 The "prophets" form is used for event registrations, allowing users to input event details such as start and end dates, statuses, and types.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Safety Compliance Feedback Survey - Help Guide
 ## Purpose
 This form is for users to provide feedback on fire safety compliance in facilities, such as their condition, frequency of drills, safety practices, equipment status, and maintenance history. The collected data will be used to monitor and address potential fire safety risks and improve overall compliance.

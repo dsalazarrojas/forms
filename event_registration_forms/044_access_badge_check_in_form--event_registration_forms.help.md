@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture essential information from visitors upon arrival at a facility or location. It ensures that visitors provide accurate and relevant details about themselves and their visit. The purpose of this form is to enhance safety and security measures, as well as to track and manage visitor activity. It is not a substitute for a comprehensive visitor management system, and other systems may be used to track and verify badges or access control. This form should only be used in conjunction with other security measures to ensure a secure and organized visit.
-
-</thinking>
-
 # Access Badge Check In Form - Help Guide
 
 ## Purpose

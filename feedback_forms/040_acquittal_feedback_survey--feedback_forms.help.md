@@ -1,21 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from respondents about the acquittal process. The purpose of this form is to collect opinions and suggestions on how to improve the process. The goal is to ensure that the acquittal process is fair, timely, and professional, and to identify areas for improvement.
-
-The form is divided into several sections:
-
-1. A brief introduction to the feedback process, which is optional.
-2. The respondent's name, which can be left blank for anonymous feedback.
-3. The respondent's role in the case, which can also be left blank for anonymous feedback.
-4. Questions about the clarity, professionalism, and timeliness of the acquittal process.
-5. A question about the perception of fairness of the outcome.
-6. A text field for suggestions on how to improve the process.
-7. A text field for any additional feedback.
-
-This form is intended to be filled out by individuals who have gone through the acquittal process and have feedback to share.
-
-</thinking>
-
 # Acquittal Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the acquittal process from respondents. The goal is to collect opinions and suggestions on how to improve the process.

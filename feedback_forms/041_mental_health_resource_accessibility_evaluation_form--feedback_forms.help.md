@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the accessibility of mental health resources. It gathers information about the evaluation period, type of resource, organization, resource name, location, description, and availability of the resource. This form is likely used by administrators or evaluators to assess the accessibility of mental health resources for users with specific needs.
-
-Before completing this form, please ensure that you have read and understood the following:
-
-* You are evaluating a mental health resource that aligns with your expertise.
-* You have the necessary permissions to access and evaluate this resource.
-* You are not duplicating an existing evaluation (check the internal database for existing forms).
-
-</thinking>
-
 # mental_health_resource_accessibility_evaluation_form - Help Guide
 ## Purpose
 This form is used to evaluate the accessibility of mental health resources for users with specific needs.

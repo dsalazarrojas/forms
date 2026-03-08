@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for registering athletes for an event. The purpose of this form is to gather information about the athlete, their contact details, and the event they are registering for. This form is typically used for events where registration is required or recommended. If you are not registering for an event, please do not fill out this form.
-
-The form consists of several pages, each with a specific set of fields. Each field is described below in the Field-by-Field Explanation section.
-
-This guide will help you fill out the form accurately and efficiently.
-</thinking>
-
 # Tumbling Event Registration Form - Help Guide
 ## Purpose
 This form is for registering athletes for an event. Please fill out the form with your information and the event details to register for the event.

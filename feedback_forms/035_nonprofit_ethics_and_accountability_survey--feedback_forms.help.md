@@ -1,7 +1,3 @@
-<thinking>
-You're creating a user-facing help guide for the Nonprofit Ethics And Accountability Survey form, which is intended to gather feedback from end-users regarding their concerns and suggestions for nonprofit ethics and accountability practices. To ensure you're on the right track, let's review the form's purpose and the fields within the form to prevent duplication of effort and ensure clarity.
-</thinking>
-
 # Nonprofit Ethics And Accountability Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from end-users on nonprofit ethics and accountability practices. Your input will help the organization better understand areas of concern and identify potential improvements to enhance their practices.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from participants and guides about their experiences, equipment, and vehicles for a hunting expedition. This form is used to determine the level of expertise and preparedness of both participants and guides. It's essential to complete this form accurately and honestly to ensure a safe and successful expedition. Please review the form carefully and answer all questions truthfully. Note that some fields are optional, but it's recommended to fill out as much information as possible to provide a comprehensive overview of your capabilities and experiences.</thinking>
-
 # Hunting Expedition Permission Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants and guides about their experiences, equipment, and vehicles for a hunting expedition.

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is designed to gather feedback from non-profit organizations regarding their brand recognition. The form should be completed by representatives of non-profit organizations who have a clear understanding of their brand's image and reputation. Please note that this form has multiple "Form Title" and "Form Description" fields, which might seem redundant, but are intended to capture different aspects of the non-profit's brand recognition. For instance, "Form Title 1" might be used to capture the overall perception of the brand, while "Form Description 1" could be used to provide more detailed information about the brand. Similarly, "Category 1" and "Category 2" are intended to be the same, but with different labels to accommodate various categories. This form is not intended to be used for commercial purposes or by non-profit organizations that do not have a clear understanding of their brand's image and reputation.
-</thinking>
-
 # Nonprofit Brand Recognition Study - Help Guide
 ## Purpose
 This form is designed to gather feedback from non-profit organizations about their brand recognition. It is intended to help us understand how well-known and respected your non-profit is in your industry.
