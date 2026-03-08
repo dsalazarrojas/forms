@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for service inventory management. Its purpose is to collect information about services, including their names, categories, status, owners, and any additional notes. This form should only be completed by authorized personnel who have been granted access to this form. To avoid duplication, ensure that the service you are entering does not already exist in the inventory.
-</thinking>
-
 # Service Inventory Management Survey - Help Guide
 ## Purpose
 The Service Inventory Management Survey is a form used to gather information about services in the organization's inventory. This information helps the management team to understand the status and categorization of services, which can be useful for various purposes such as budgeting, resource allocation, and reporting.

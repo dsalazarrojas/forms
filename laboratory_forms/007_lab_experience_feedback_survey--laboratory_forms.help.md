@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from lab users about their experience with the laboratory facilities. We will be checking for relevance and non-duplication of responses, to ensure that the form does not collect unnecessary or redundant information. The form consists of multiple pages, each with its own set of fields. We will be using this form to understand user experience with the laboratory facilities, equipment, and instructions. We will use this data to identify areas of improvement and make necessary changes to enhance the user experience.
-</thinking>
-
 # Lab Experience Feedback Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect feedback from users about their experience with the laboratory facilities, equipment, and instructions. Your input will help us understand your experiences and suggestions for improvement.

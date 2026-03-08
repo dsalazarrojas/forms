@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect and process updates for tooling designs used in the manufacturing process. It is used to request updates to existing tooling designs, which may include changes to dimensions, materials, or other design parameters. This form is only to be used for genuine update requests, and not for new tooling designs or other purposes. 
 
 The form is designed to ensure that all necessary information is provided to facilitate efficient processing and approval of the update request.

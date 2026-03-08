@@ -1,25 +1,3 @@
-<thinking>
-The form is for registering digital facilities, allowing users to provide information about their sites, including site information, owner, location, description, services, contacts, notes, and other relevant details. 
-
-To complete this form, follow these steps:
-
-- Select "Yes" or "No" for services and facilities as required.
-- Enter site owner's name and other required fields.
-- Enter a short description of the site.
-- Select "Yes" or "No" for services offered.
-- Enter additional services details if necessary.
-- Enter site contacts' information.
-- Enter any additional notes about the site.
-- Select the form status as "Active" or "Inactive".
-- Enter the site's email address.
-- Enter the site's phone number.
-- Enter the site's website URL.
-- Enter the site's Facebook, Twitter, Instagram, and YouTube URLs (if applicable).
-- Enter any additional information about the site.
-- Finally, enter the form submitter's name and the date the form was submitted and updated.
-
-</thinking>
-
 # Digital Facility Management Registration - Help Guide
 ## Purpose
 This form is designed to collect information about digital facilities, including site details, owner, location, services, contacts, and other relevant information.

@@ -1,7 +1,3 @@
-<thinking>
-We should verify that the form is being used correctly. To do so, the form should only be used by authorized users for genuine purposes. The form should not be used for test purposes or as a demonstration, nor should it be duplicated for the same request multiple times.
-</thinking>
-
 # Leave Request Form - Help Guide
 ## Purpose
 This form is designed to process leave requests from employees. Fill in your information to submit a leave request, which will then be reviewed and approved or denied by the relevant department.

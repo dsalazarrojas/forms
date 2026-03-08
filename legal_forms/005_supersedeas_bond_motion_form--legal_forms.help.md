@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supersedeas Bond Motion Form - Help Guide
 ## Purpose
 The Supersedeas Bond Motion Form is used to request a supersedeas bond in a case, which is a motion made by a party to set aside or suspend a court order or judgment. The form is typically used in bankruptcy and civil cases. This form requires information about the case, the motion, and the party making the motion.

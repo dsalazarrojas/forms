@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to capture the details of a mystery shopping services agreement between a shopper and an approver. This form is used to ensure that both parties have a clear understanding of their roles, responsibilities, and expectations. The form typically contains fields for shopper information, assignment terms, confidentiality expectations, shopper conduct, acknowledgement, approver information, approval, shopper sign date, approver sign date, and shopper sign. The goal is to provide a standardized and comprehensive agreement that outlines the terms and conditions of the mystery shopping services.
-
-</thinking>
-
 # Mystery Shopping Services Agreement - Help Guide
 ## Purpose
 This form is designed to capture the details of a mystery shopping services agreement between a shopper and an approver, ensuring both parties have a clear understanding of their roles, responsibilities, and expectations.

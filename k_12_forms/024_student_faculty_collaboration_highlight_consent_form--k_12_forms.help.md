@@ -1,12 +1,3 @@
-<thinking>
-To be honest, it seems that this form is quite comprehensive and covers all the necessary information related to student and faculty collaboration. However, to ensure it's clear and easy to understand for end users, let's break down each field and explain what it's meant to capture.
-
-The form's main purpose is to document and provide a record of collaboration between students and faculty members, ensuring that both parties have consented to work together on a project and have a clear understanding of their roles and responsibilities.
-
-The form should be filled out by both students and faculty members, and each field should be completed accordingly.
-
-Before we proceed with the detailed explanation, let's make sure the form is being filled out correctly and not duplicated or misused. This form should only be used for genuine collaboration purposes and not for any other reason.</thinking>
-
 # Student Faculty Collaboration Highlight Consent Form - Help Guide
 ## Purpose
 The Student Faculty Collaboration Highlight Consent Form is a document used to capture and document the details of student and faculty collaboration on a project, ensuring that both parties have a clear understanding of their roles and responsibilities.

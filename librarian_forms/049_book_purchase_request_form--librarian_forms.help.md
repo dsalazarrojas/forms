@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to support librarians in purchasing books for the library's collection, providing a structured way to request a book purchase. To ensure the form is used effectively, please note that it is designed to be submitted by staff or patrons, and is meant for one-time book requests. Please do not submit duplicate requests for the same book, as this can lead to unnecessary duplication of efforts and resources.
-</thinking>
-
 # Book Purchase Request Form - Help Guide
 ## Purpose
 The Book Purchase Request Form is a tool for librarians to gather information about book purchase requests from staff or patrons. It is designed to be a streamlined and efficient way to collect necessary details about the requested book, making it easier to process and fulfill purchase requests.

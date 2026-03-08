@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to allow individuals to renounce their inheritance. The purpose of this form is to provide a formal declaration of the individual's intention to renounce their inheritance, which is typically used in cases where the individual wishes to disclaim their entitlement to inherit property or assets from a family member or relative. The form will be used by the relevant authorities to verify the individual's intention and process their request.
-
-This form is not intended for individuals who have already inherited property or assets and are looking to transfer them to someone else. It is also not intended for individuals who are seeking to dispute or contest an existing will or inheritance. The form is for individuals who are looking to renounce their future entitlements.
-
-It is essential to complete this form accurately and truthfully, as it will be used as a formal declaration of the individual's intention. If the form is not completed correctly, it may lead to delays or complications in the processing of the request.
-
-Before proceeding, please ensure that you have all the necessary information and documentation required to complete the form. If you are unsure about any aspect of the form or the process, please seek guidance from the relevant authorities or a qualified professional.
-
-</thinking>
-
 # Renounce Inheritance Form - Help Guide
 ## Purpose
 This form is used to renounce your inheritance, which is the act of giving up your legal right to inherit property or assets from a family member or relative.

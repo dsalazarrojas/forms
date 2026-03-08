@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form's purpose and ensure it's not a duplicate effort. The Casino Host Job Application Form appears to be a comprehensive application form for individuals interested in working as a casino host. It collects personal information, professional experience, and skills relevant to the role. Given the form's structure, it seems to be a one-time application form, and the provided YAML suggests it's a self-service form for potential applicants. Let's review the form carefully to ensure it meets our standards before creating the help guide.</thinking>
-
 # Casino Host Job Application Form - Help Guide
 ## Purpose
 The Casino Host Job Application Form is designed to collect information from potential applicants interested in working as a casino host. The form gathers personal details, professional background, skills, and availability, aiming to assess the candidate's suitability for the role.

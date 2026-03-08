@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # language_app_module_inquiry_form - Help Guide
 ## Purpose
 This form is used to gather information from language learners who are interested in learning a new language or improving their existing language skills. The form will ask for contact details, language preferences, and specific learning goals to better understand their needs and provide personalized support.

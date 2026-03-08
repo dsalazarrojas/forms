@@ -1,11 +1,3 @@
-<thinking>
-The goal of the global_stage_maintenance_checklist form is to collect information about the status of a global stage, including its inspection, condition, and maintenance needs. This form is likely used to ensure that the stage is safe and ready for use, and to track any issues that need to be addressed.
-
-To avoid duplication, this form should only be filled out for stages that require regular maintenance checks. If a stage is not currently in use, it's unlikely that this form would be applicable.
-
-The form has seven fields, each designed to collect specific information. This guide will walk through each field and explain what they represent and how to complete them.
-</thinking>
-
 # global_stage_maintenance_checklist - Help Guide
 ## Purpose
 The global_stage_maintenance_checklist form is used to collect information about the status of a global stage, including its inspection, condition, and maintenance needs.

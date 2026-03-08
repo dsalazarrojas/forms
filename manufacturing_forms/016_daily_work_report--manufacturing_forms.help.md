@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about daily work activities of employees. It is intended to be used by employees to report their working hours, breaks taken, and a brief description of their work done during the shift. The form is not affiliated with any form creation platform and is an original adaptation using public metadata from online surveys. It can be used to track and analyze employee work patterns for management purposes.
-
-</thinking>
-
 # daily_work_report - Help Guide
 ## Purpose
 The daily work report is a form used by employees to report their working hours, breaks, and work activities during the shift. It is a tool for management to track and analyze employee work patterns.

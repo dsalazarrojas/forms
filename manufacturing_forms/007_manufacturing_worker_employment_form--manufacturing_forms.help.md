@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from manufacturing workers for the manufacturing department. This form is used to gather data on contact information, personal details, employment history, education, and job applications. The form will help the manufacturing team to understand the worker's background and preferences to better match them with available job openings. 
-
-To avoid duplication, please check if a similar form is already in use before starting to fill this one.
-
-Before filling out the form, please make sure you understand the fields below:
-</thinking>
-
 # Manufacturing Worker Employment Form - Help Guide
 ## Purpose
 The Manufacturing Worker Employment Form is used to collect information for manufacturing workers.

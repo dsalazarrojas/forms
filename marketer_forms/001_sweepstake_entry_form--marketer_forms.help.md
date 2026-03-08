@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect sweepstakes entry information from users. It appears to be a general form for capturing various types of data, including personal details and preferences. However, the form has a mix of required and optional fields, which may cause confusion. It seems that the form is trying to collect a wide range of data, but it's not entirely clear why some fields are required and others are not. Additionally, the form has multiple fields with similar labels (e.g., "Select One", "Select Multiple", "Select One With No Options"), which may lead to user confusion. To use this form effectively, make sure to review the field requirements and select the correct options for each field. This form seems to be used for a specific purpose, but it's not entirely clear what that purpose is. If you're unsure, please reach out to the form administrators for clarification.
-</thinking>
-
 # sweepstake_entry_form - Help Guide
 ## Purpose
 The sweepstake_entry_form is designed to collect sweepstakes entry information from users. However, its purpose is not entirely clear, and some field requirements are inconsistent. Review the field requirements and select the correct options for each field to use the form effectively.

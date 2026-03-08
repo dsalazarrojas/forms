@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the Executive Coaching Inquiry Contact Form is used correctly to gather relevant and non-duplicative information from job seekers. Before proceeding, please review the form's purpose and ensure that you're not submitting duplicate inquiries. If you're still unsure, consult with your internal stakeholders or check our internal system to see if a similar inquiry has already been submitted. 
-
-The purpose of this form is to gather information from job seekers who are interested in executive coaching, consulting, or speaking services. It will help our team understand their needs and provide personalized guidance and support. 
-
-Please note that the form is divided into multiple pages, each with specific fields to collect relevant information. 
-
-</thinking>
-
 # Executive Coaching Inquiry Contact Form - Help Guide
 ## Purpose
 The Executive Coaching Inquiry Contact Form is designed to gather information from job seekers who are interested in executive coaching, consulting, or speaking services.

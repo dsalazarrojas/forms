@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track the daily production output and defects on the manufacturing floor. The form is designed to collect data on the production shift, start and end times, production output, defects, and other relevant metrics. It's essential to fill out this form accurately and consistently to ensure accurate records and to provide insights for future improvements. Please make sure to submit the form only once a day for each production shift, to avoid duplicating data. If you're unsure about any field, consult with your supervisor or refer to the relevant documentation.
-</thinking>
-
 # Manufacturing Daily Production Submission Form - Help Guide
 
 ## Purpose

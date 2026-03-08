@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Time Off Request Form is used to request time off, including but not limited to vacation, sick leave, or other types of time off. This form is used to notify your manager and HR of your intention to take time off and ensure a smooth transition of work. Please only complete this form for a specific period. If you are unsure whether your request is valid, please check with your manager or HR before filling out this form. 
 
 ## Time Off Request Form - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Joint Venture Discharge Form - Help Guide
 ## Purpose
 The Joint Venture Discharge Form is a document used to officially terminate or end a joint venture agreement between two or more business entities. This form is typically used when one or both parties wish to dissolve their partnership, either by mutual agreement or due to certain circumstances. 

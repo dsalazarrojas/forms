@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this form is intended for job applicants to provide information about themselves for a job application process. It's essential to ensure that this form is not used for any other purpose, such as general contact information or other unrelated inquiries. The form's design and fields should be clear and concise, allowing applicants to easily understand what information is required and how to provide it. This guide will help users navigate the form and provide clarity on each field's purpose.
-
-</thinking>
-
 # Standard Job Application Form - Help Guide
 ## Purpose
 This form is designed for job applicants to provide necessary information about themselves for the job application process. Please fill out the form accurately and thoroughly to increase your chances of being considered for the position.

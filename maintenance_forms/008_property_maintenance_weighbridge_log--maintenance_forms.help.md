@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to be used for maintaining records of weighbridge usage, specifically to track information related to vehicles, drivers, and weight readings. This form is likely used in a logistics or transportation context, where it's essential to accurately record and monitor weighbridge activities to ensure accurate weighing and vehicle safety. The purpose of this form is to provide an accurate and efficient way to record and track weighbridge usage, making it a critical tool for logistics teams and maintenance operations.
-
-When completing this form, you should ensure you are providing accurate and relevant information in all required fields. Ensure you understand the context in which this form is used and the potential consequences of incorrect or incomplete data.
-
-Before proceeding, take a moment to understand the fields and their purpose in the form. Each field has a specific role in collecting and organizing necessary information.
-
-This form is divided into several fields, each serving a distinct purpose.
-
-Please read on for a detailed explanation of each field and how to complete it.
-
-</thinking>
-
 # Property Maintenance Weighbridge Log - Help Guide
 ## Purpose
 The Property Maintenance Weighbridge Log is designed to provide a comprehensive record of weighbridge usage. This form is used to track key details related to vehicles, drivers, and weighbridge readings, ensuring accurate and efficient management of weighbridge operations.

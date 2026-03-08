@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll review the form and provide a clear, concise, and practical help guide that explains the form's purpose, how to complete it, and each field's meaning. I'll also check for any internal reasoning and avoid duplication of information. After reviewing the form, I'll create the help guide in Markdown format as requested.</thinking>
-
 # Loan Selection Form - Help Guide
 ## Purpose
 The Loan Selection Form is designed to collect information from users regarding loan selections. This form is used to gather relevant details for loan processing, ensuring accurate and efficient loan processing.

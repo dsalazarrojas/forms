@@ -1,8 +1,3 @@
-<thinking>
-This form is used for civil engineering site visits where employees may be required to leave the office for a certain period of time. This form helps to track and document the necessary information for such leaves of absence, including the employee's name, ID, dates of departure and return, destination of the site visit, reason for leave, supervisor's approval status, contact information during the leave, confirmation of site-specific safety briefing completion, and submission date. This form is intended for employees who are required to undergo site visits as part of their work responsibilities.
-To ensure that each request is properly documented and reviewed, please fill out the form carefully and accurately.
-</thinking>
-
 # Civil Engineering Site Visit Leave Of Absence Form - Help Guide
 ## Purpose
 The Civil Engineering Site Visit Leave Of Absence Form is used to record and track essential information related to site visits undertaken by employees in the civil engineering department. This form is a mandatory requirement to ensure that all necessary approvals and safety briefings are completed before an employee leaves for a site visit.

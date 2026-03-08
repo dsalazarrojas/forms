@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm, I will be creating a help guide for the "Art Frame Shop Referral Form" with the following sections: "Purpose", "How To Complete This Form", "Field-by-Field Explanation", and "Tips". I will be basing this guide on the provided YAML fields.
 
 # Art Frame Shop Referral Form - Help Guide

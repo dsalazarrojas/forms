@@ -1,13 +1,3 @@
-<thinking>Here is the internal reasoning to determine the form's purpose and ensure non-duplication:
-
-* The form is used to provide information about a permanent guardian's relationship, reason for guardianship, and other relevant details.
-* The form appears to be used in a legal context, possibly for court-related purposes.
-* The form's fields are mostly about providing information about the permanent guardian, their relationship with the ward, and the terms of guardianship.
-* There is no duplication of fields or overlapping functionality between fields.
-* The form's design suggests it is meant to be a comprehensive tool for collecting detailed information about permanent guardians.
-
-</thinking>
-
 # Permanent Guardianship Form - Help Guide
 ## Purpose
 This form is used to document information about a permanent guardian's relationship, reason for guardianship, and other relevant details. This information is likely used for court purposes.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect referrals or nominations for travel tour operators. It is not affiliated with, endorsed by, or derived from any form platform, but rather a original adaptation created using public metadata as inspiration. The form is designed to gather relevant information about individuals or companies that can be contacted to inquire about potential partnerships or collaborations. Before filling out this form, ensure that you are not duplicating a submission for the same company or individual.
-</thinking>
-
 # Travel Tour Operator Referral Form - Help Guide
 ## Purpose
 This form is designed to collect referrals or nominations for travel tour operators that can be contacted for potential partnerships or collaborations.

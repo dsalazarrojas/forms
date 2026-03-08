@@ -1,7 +1,3 @@
-<thinking>
-This is a crucial block to ensure the form is not duplicated or unnecessary for the end users. The Smart Contract Licensing Form is a critical component for the legal department to license smart contracts, ensuring a clear understanding between the involved parties. It is essential to avoid confusion and errors during the licensing process. This form should only be completed when there is a genuine need to license smart contracts, as it involves sensitive information about the business and its intellectual property. The form's purpose is to collect necessary data for the licensing process, not to be used for other purposes. Before proceeding, verify that there is a valid reason to use the form, such as preparing a new licensing agreement or updating an existing one. 
-</thinking>
-
 # Smart Contract Licensing Form - Help Guide
 ## Purpose
 The Smart Contract Licensing Form is used to collect information for licensing smart contracts. This form is intended for businesses to provide details about their smart contracts, such as contract type, product description, and contact information. It is essential to ensure accuracy and completeness when filling out this form to avoid issues during the licensing process.

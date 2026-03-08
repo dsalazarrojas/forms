@@ -1,15 +1,3 @@
-<thinking>
-This help guide will cover the purpose and usage of the youth_basketball_league_registration_form. The form is intended for registering players for a youth basketball league. It collects essential information from players and their emergency contacts. The form is designed to be completed by both players and their parents/guardians.
-
-Before filling out the form, please ensure that the information is accurate and up-to-date. If a player has already registered in the past, please do not duplicate the registration.
-
-The form is divided into two main categories: player information and emergency contact information. The form will be used to determine which team to place the player in and to ensure their safety and well-being during the league.
-
-Please note that some fields are optional, but it's essential to fill them out to ensure that we have the necessary information to provide the best experience for the player.
-
-The form will be reviewed and verified before the player can participate in the league.
-</thinking>
-
 # youth_basketball_league_registration_form - Help Guide
 ## Purpose
 The youth_basketball_league_registration_form is a registration form for players to join a youth basketball league. It collects essential information from players and their emergency contacts to ensure their safety and well-being during the league.

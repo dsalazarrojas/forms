@@ -1,15 +1,3 @@
-<thinking>
-This is a form for assessing knowledge on jigs and fixtures in the manufacturing industry. The form is a quiz that tests the respondent's understanding of jigs and fixtures, their purpose, and how they are used in real-life scenarios. The form is designed to be completed by individuals with experience in the manufacturing industry, specifically those familiar with jigs and fixtures.
-
-To ensure the relevance and non-duplication of the form, the following checks will be performed:
-
-*   Check if the form is not affiliated with, endorsed by, or derived from any form platform.
-*   Verify that the form is created using only public survey topic metadata.
-*   Ensure that the form does not copy, extract, or use proprietary content from Jotform, Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other form creation, data collection, or survey platform.
-*   Confirm that the form is released under CC BY 4.0, allowing users to modify and even sell forms derived from it, as long as credit is given.
-
-</thinking>
-
 # Jigs And Fixtures Knowledge Quiz - Help Guide
 ## Purpose
 This form is a knowledge quiz for manufacturing industry professionals to test their understanding of jigs and fixtures. It assesses their knowledge of jigs and fixtures and their applications in real-life scenarios.

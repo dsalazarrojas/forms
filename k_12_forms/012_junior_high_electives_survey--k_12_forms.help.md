@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from junior high students about their elective preferences, past courses, and special requests. This form aims to gather data to better understand student interests and needs, which can inform course offerings and educational planning. The form is designed to be user-friendly and efficient, allowing students to easily provide their input. Please ensure that each student completes the form only once, as duplicate submissions can lead to unnecessary work and confusion in the processing process. If a student has already completed the form in the past, it is recommended to check if there are any updates to their previous submissions before starting over.
-</thinking>
-
 # junior_high_electives_survey - Help Guide
 ## Purpose
 The "Junior High Electives Survey" form is designed to gather information from junior high students to better understand their interests and needs regarding electives.

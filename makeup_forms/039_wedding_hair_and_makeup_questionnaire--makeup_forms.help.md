@@ -1,5 +1,3 @@
-<thinking>As a wedding hair and makeup artist, it's essential to gather information about the couple's preferences and expectations for their special day. This form is designed to help you understand their style, color, and other personal details that will enable you to provide top-notch service. Please ensure this form is filled out completely and accurately to ensure a memorable experience for the couple and their guests. If you're unsure about a particular field or option, feel free to ask your supervisor or the couple directly for clarification. Additionally, if you've previously submitted this form for the same couple, please review the information provided to avoid duplication of effort. </thinking>
-
 # Wedding Hair And Makeup Questionnaire - Help Guide
 
 ## Purpose

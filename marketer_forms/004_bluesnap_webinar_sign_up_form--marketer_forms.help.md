@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 We need to ensure that the user understands the purpose of this form is to collect contact information and interests of potential attendees for a webinar, and that it's designed to avoid duplicate registrations. This form will gather essential details from users, including their name, email, company name, job title, industry, company size, phone number, location, topics of interest, experience level, how they heard about the webinar, questions for the presenter, marketing consent, registration type, payment method, and terms acceptance. To prevent duplicate registrations, we will check for existing email addresses in our database before allowing users to register for the webinar.
 </thinking>
 

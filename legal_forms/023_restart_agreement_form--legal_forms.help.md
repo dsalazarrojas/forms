@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to a restart agreement, which appears to be a type of agreement that involves multiple team members and leads. This form likely serves to document the agreement's details, including team composition, approval dates, and other relevant information. To ensure clarity, we will focus on fields that directly relate to team members, leads, and agreement statuses, as these are the primary concerns of a restart agreement. We will not cover fields that appear to be redundant or less relevant to the form's purpose, such as "File Upload" and "Comments" fields, unless they are essential for the form's functionality.
-</thinking>
-
 # Restart Agreement Form - Help Guide
 
 ## Purpose

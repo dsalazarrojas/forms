@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to determine whether an individual is eligible for bankruptcy discharge. The form asks for basic information about the individual, including their name, date of birth, tax ID number, and other relevant details related to their bankruptcy case. The form is used by financial institutions and other authorities to verify the eligibility of individuals for bankruptcy discharge, ensuring that only those who are eligible are able to receive this benefit.
-
-After reviewing the form's structure and fields, I assume the form's purpose is to provide a straightforward and user-friendly experience to guide users in determining their eligibility.
-
-</thinking>
-
 # Tax Debt Bankruptcy Discharge Eligibility Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to help you determine if you are eligible for bankruptcy discharge. Please fill out the form with your basic information to get started.

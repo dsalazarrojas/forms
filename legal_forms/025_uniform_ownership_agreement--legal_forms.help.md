@@ -1,5 +1,3 @@
-<thinking>This form is for documenting the terms of ownership between two parties in a legal agreement. The purpose of this form is to clearly outline the ownership percentage of each partner, their roles, and the terms agreed upon. This form is a crucial document for ensuring transparency and understanding between parties involved in a business or partnership. The information collected in this form will help in tracking and updating the agreement status and version of the partnership. This form should not be duplicated or used for any other purpose than its intended use.</thinking>
-
 # Uniform Ownership Agreement - Help Guide
 
 ## Purpose

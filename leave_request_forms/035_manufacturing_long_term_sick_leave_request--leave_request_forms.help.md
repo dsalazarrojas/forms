@@ -1,6 +1,3 @@
-<thinking> 
-To create a comprehensive help guide for the "manufacturing_long_term_sick_leave_request" form, we need to understand its purpose and ensure that end users know how to complete it correctly. This form is used for manufacturing employees to request a long-term sick leave, which is crucial for them to take care of their health without impacting their work. However, we need to check if the form is relevant and not duplicated. We should ensure that the form's purpose and requirements are clear to prevent any confusion or misinterpretation.</thinking>
-
 # manufacturing_long_term_sick_leave_request - Help Guide
 ## Purpose
 The manufacturing long-term sick leave request form is used for employees in the manufacturing department to formally request a leave of absence due to health reasons. This form ensures that employees can take care of their well-being without affecting their work commitments.

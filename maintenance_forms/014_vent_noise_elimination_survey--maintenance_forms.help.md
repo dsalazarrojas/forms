@@ -1,8 +1,3 @@
-<thinking>
-This form is used to track and analyze noise issues reported in ventilation systems, which can lead to a range of problems such as reduced performance and increased energy consumption. This form is used to collect relevant information about each reported issue, including the vent type, location, and description of the problem. By completing this form, the reported information will be stored in a database and used to identify trends and patterns that can inform maintenance decisions. 
-Please fill out the form only once per reported issue.
-</thinking>
-
 # Vent Noise Elimination Survey - Help Guide
 
 ## Purpose

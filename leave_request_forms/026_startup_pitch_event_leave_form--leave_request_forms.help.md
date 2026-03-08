@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a startup pitch event, including the event name, dates, times, location, and team members involved. The form will help event organizers or administrators collect necessary details to schedule and manage events such as pitch events, meetups, or conferences.
-
-This form is intended for use by internal teams or external stakeholders to request leave for such events. The form fields are designed to collect specific details about the event to ensure accurate processing and approval.
-
-The form's fields and options should be carefully considered to avoid duplication or omission of essential information.
-
-Before proceeding, ensure that you have all necessary event details and approvals.
-
-</thinking>
-
 # Startup Pitch Event Leave Form - Help Guide
 ## Purpose
 The Startup Pitch Event Leave Form is designed to collect information about a specific event, ensuring that it's properly scheduled and organized.

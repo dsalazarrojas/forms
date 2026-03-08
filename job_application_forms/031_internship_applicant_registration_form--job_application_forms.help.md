@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from internship applicants, allowing them to register their interest and provide necessary details for the internship opportunity. This form is likely to be used by HR or recruitment teams to review and evaluate applicant profiles. 
-To complete this form, please ensure that you have a clear understanding of the job requirements and your own qualifications. 
-Before proceeding, make sure to attach any relevant attachments such as resumes, cover letters, and work experience attachments as required. 
-Please note that this form is not a guarantee of employment, and the information provided will be used to determine the suitability of applicants for the internship position. 
-</thinking>
-
 # ประกิน Internship Applicant Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from internship applicants, allowing them to register their interest and provide necessary details for the internship opportunity.

@@ -1,10 +1,3 @@
-<thinking>
-The Management Representation Survey is used to gather feedback and insights from employees on their manager's representation of the company culture. The purpose of this form is to understand how effectively managers are representing the company culture to their employees, and what trends and areas of improvement can be identified.
-
-To ensure that each employee has a chance to participate in this survey and provide their honest feedback, this form should be distributed to all employees, either in-person or via email. To avoid duplication of work, it's recommended that employees only submit one entry per manager.
-
-</thinking>
-
 # Management Representation Survey - Help Guide
 ## Purpose
 The Management Representation Survey is designed to gather feedback from employees on their manager's representation of the company culture. This survey helps to identify trends and areas of improvement, and inform management decisions to ensure that the company culture is properly represented.

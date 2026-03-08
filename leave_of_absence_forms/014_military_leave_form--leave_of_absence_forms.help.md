@@ -1,7 +1,3 @@
-<thinking>
-This form is for military personnel to report their upcoming leave. It requires the submitter's information, including their contact details and position, to ensure accurate leave tracking and communication. The form will help the military personnel report their leave status, military branch, and other relevant details to their superiors. It is essential to complete this form accurately to avoid duplication or miscommunication. Please review each field carefully to ensure you provide the correct information.
-</thinking>
-
 # Military Leave Form - Help Guide
 ## Purpose
 This form is for military personnel to report their upcoming leave, providing necessary details such as leave date, duration, status, and contact information. It helps track and manage leave effectively.

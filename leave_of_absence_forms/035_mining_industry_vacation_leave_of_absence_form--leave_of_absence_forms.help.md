@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the process of requesting a vacation leave for employees in the mining industry. This form is designed to gather essential information about the employee's leave, including their employee ID, name, start and end dates, reason for leave, and status. The form also allows for a comments section for any additional information or clarification. This form is intended for use by HR or management to review and approve vacation leave requests. Before proceeding, please confirm that this form is relevant and not a duplicate of another process.
-</thinking>
-
 # Mining Industry Vacation Leave Of Absence Form - Help Guide
 ## Purpose
 This guide is intended to help users understand how to complete the Mining Industry Vacation Leave Of Absence Form.

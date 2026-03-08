@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to be a user-facing tool for matching users with makeup color palettes based on their skin tone and personal characteristics. It will be used to provide a personalized set of makeup color recommendations that complement the user's natural skin tone and style. The form will be used to collect user data and provide a tailored result, but it is crucial to ensure that the user data is accurate to avoid recommending unsuitable colors. 
-
-</thinking>
- 
 # Personalized Makeup Color Match Form - Help Guide
 ## Purpose
 The Personalized Makeup Color Match Form is designed to help users discover makeup colors that complement their natural skin tone and personal characteristics. 

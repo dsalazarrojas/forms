@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from an individual or business that is applying for a loan. It is intended to gather details about the applicant's personal and professional background, financial situation, and loan specifics. This form should only be completed by individuals or businesses that are currently applying for a loan or have previously applied for a loan. If you have already submitted a loan application, please do not complete this form, as it is intended for new loan applications or existing loan updates.
-</thinking>
-
 # Loan Application Release Form - Help Guide
 ## Purpose
 This form is used to collect information about the applicant for the loan application process.

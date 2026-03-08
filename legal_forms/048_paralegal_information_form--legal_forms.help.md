@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather information from a paralegal for various legal purposes, such as verifying credentials, background checks, or other legal proceedings. The form's purpose is to collect relevant details about the paralegal, including their personal details, work information, and availability. This form ensures that accurate and complete information is provided, which helps in making informed decisions or taking necessary steps in legal matters. It's crucial to complete this form carefully, as any inaccuracies or omissions can lead to delays or complications in the legal process.
-
-The form is designed to be user-friendly and easy to complete. Each field has been carefully crafted to gather essential information in a way that minimizes confusion and promotes accuracy. 
-
-To complete this form, please follow the instructions below:
-
-</thinking>
-
 # Paralegal Information Form - Help Guide
 ## Purpose
 This form is used to gather information from a paralegal for various legal purposes.

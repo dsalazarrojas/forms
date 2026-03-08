@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended for individuals who wish to create a living will, which is a legal document that outlines their wishes and preferences for end-of-life care. This form is designed to be completed by the individual (the "Principal") who wants to ensure their wishes are respected in the event of their incapacitation or death. It is not intended for individuals with cognitive or mental disabilities. Please ensure that the individual completing this form is of sound mind and has the necessary capacity to make informed decisions. This form may need to be updated periodically as the individual's circumstances change.
-
-</thinking>
-
 # Living Will Form - Help Guide
 ## Purpose
 This form is designed to help you create a living will, a legal document that outlines your wishes and preferences for end-of-life care. It's a private and personal document that ensures your wishes are respected if you become incapacitated or pass away.

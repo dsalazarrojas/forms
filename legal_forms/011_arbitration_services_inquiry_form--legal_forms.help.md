@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect contact information from individuals or organizations seeking arbitration services. 
-The form is used to gather information about the user's contact details, details about the dispute they are facing, and their preferences for the arbitration process.
-The form is intended to be completed by users who are interested in seeking arbitration services, and the information collected will be used by the arbitration organization to provide tailored services to the user.
-Before completing the form, please ensure that you have not already contacted us about this dispute or issue. If you have, please provide the unique identifier for that inquiry so we can track and follow up on it.
-Please provide accurate and clear information about your dispute and needs so that we can better understand your requirements and provide the most suitable services.</thinking>
-
 # Arbitration Services Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and details about your dispute so that we can provide you with tailored arbitration services.

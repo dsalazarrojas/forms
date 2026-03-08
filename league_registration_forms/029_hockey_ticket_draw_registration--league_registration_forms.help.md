@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to register for a hockey ticket draw. It's essential to ensure that the form is filled out correctly to avoid errors and ensure that the user's entry is counted towards the draw. Please note that this form has no requirements, so users can fill it out without any obligation. This form will not be used for any other purpose other than the hockey ticket draw.
-</thinking>
-
 # Hockey Ticket Draw Registration - Help Guide
 ## Purpose
 The Hockey Ticket Draw Registration form is designed for users to register themselves and their team for the hockey ticket draw. It's a simple form that collects essential information to ensure that users are eligible for the draw.

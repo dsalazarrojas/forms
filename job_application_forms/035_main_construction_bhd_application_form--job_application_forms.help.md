@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals applying for a job at Main Construction Bhd. This form will be used to gather essential details such as personal contact information, employment status, address, and emergency contact information. Please ensure that the information provided is accurate and up-to-date. This form is designed for both internal and external use, but please be aware that the information collected will be reviewed and processed within Main Construction Bhd.
-</thinking>
-
 # Main Construction Bhd Application Form - Help Guide
 ## Purpose
 The Main Construction Bhd Application Form is designed to collect personal and professional information from job applicants. This form will be used to assess applicant's eligibility, skills, and background. Please ensure that the information provided is accurate and up-to-date.

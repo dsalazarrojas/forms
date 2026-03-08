@@ -1,5 +1,3 @@
-<thinking>...This form is used to monitor the participation status of athletes in a league. It is used to track the start and end dates of a league, as well as the participation status of athletes. The form also collects additional information such as the athlete's ID, email, and phone number. This form is likely used in a sports management system to keep track of team participation in leagues. This form should not be used for other purposes. It is assumed that the form fields are well-defined and self-explanatory for users familiar with the system...</thinking>
-
 # League Participation Monitoring Form - Help Guide
 ## Purpose
 The League Participation Monitoring Form is used to track and monitor the participation status of athletes in a league, including the start and end dates, participation status, and additional information such as contact details.

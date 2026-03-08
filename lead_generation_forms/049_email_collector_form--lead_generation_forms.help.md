@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended for collecting email addresses from individuals who are interested in a specific topic or industry. Its primary purpose is to provide a simple and easy-to-use interface for users to input their email addresses and optionally, provide a brief description of themselves.
-
-The form is created based on public survey topic metadata, and its purpose is not to be affiliated with any specific form platform. 
-
-Before proceeding with the form, ensure you are collecting emails for a legitimate purpose, and in compliance with any applicable data protection regulations. The form's design and content are original and created using AI, released under the Creative Commons BY 4.0 license. 
-
-Please note that the form's fields and design can be modified and extended based on your specific needs.
-
-</thinking>
-
 # email_collector_form - Help Guide
 ## Purpose
 This form is designed to collect email addresses from interested individuals, allowing you to reach out to them about a specific topic or industry.

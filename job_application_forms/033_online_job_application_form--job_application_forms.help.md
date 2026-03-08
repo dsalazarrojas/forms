@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to assist internal stakeholders and end-users in understanding the purpose and usage of the "Online Job Application Form". The form is designed to be a comprehensive tool for individuals to submit their applications for job openings. To prevent duplication, users should only fill out this form for a specific job opening. If you've already submitted an application for the same job, please do not resubmit. 
-</thinking>
-
 # Online Job Application Form - Help Guide
 ## Purpose
 

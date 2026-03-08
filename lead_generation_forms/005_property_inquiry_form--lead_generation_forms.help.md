@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to gather information from users about their inquiry for a property. It is used to collect details such as the type of property, number of bedrooms and bathrooms, square footage, property price, location, and other relevant information. This form will be used by the property management team to address the user's inquiry.
-The form does not have any specific rules for duplication or relevance checking. Therefore, users can fill out the form multiple times for different properties without any issues.
-</thinking>
-
 # Property Inquiry Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to generate leads for self-publishing authors, aiming to capture relevant information from potential authors interested in publishing their work. The form is part of a larger process to identify and connect authors with potential publishers or literary agents. 
-
-Before proceeding, please confirm that you are a self-publishing author interested in publishing your work and that you have not submitted this form previously. Duplicate submissions will be deleted.
-
-</thinking>
-
 # self-publishing-author-lead-generation-form - Help Guide
 ## Purpose
 The self-publishing-author-lead-generation-form is a tool to help self-publishing authors connect with potential publishers or literary agents who can help them bring their work to the market.

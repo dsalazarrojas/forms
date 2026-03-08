@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the Factory Process Evaluation Program, a program that evaluates the manufacturing process of a company. The purpose of this form is to gather data on the company's processes, objectives, and preferences for evaluation. Before proceeding, please ensure that you are not duplicating an existing registration. If you are unsure, please contact the relevant department for clarification.
-</thinking>
-
 # Factory Process Evaluation Program Registration - Help Guide
 ## Purpose
 The Factory Process Evaluation Program is a program aimed at evaluating the manufacturing process of a company. This form is designed to collect information on company's processes, objectives, and preferences for evaluation.

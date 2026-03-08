@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be used by individuals who are interested in working with refugees and their families in a childcare setting. The form is not meant to be a comprehensive assessment tool but rather a simple application form to gather information about potential candidates' backgrounds, language skills, and availability.
-The form is likely to be used in a context where language barriers might be a significant concern, and the ability to communicate with refugees and their families in multiple languages is a valuable asset.
-The form does not collect sensitive information, and the purpose is to facilitate matching potential candidates with opportunities to work with refugees.
-There is no internal logic for duplication checks, and the form is intended to be completed by one person at a time.
-</thinking>
-
 # Refugee Childcare Worker Application Form - Help Guide
 
 ## Purpose

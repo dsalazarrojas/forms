@@ -1,8 +1,3 @@
-<thinking>
-The Property Management Privilege Assignment form is a crucial part of our internal process for assigning privileges to properties in our organization. This form helps to efficiently manage and track privileges assigned to specific properties, ensuring that the right people have access to the right information.
-Before filling out this form, make sure you're not already working on a similar request. To avoid duplication, please check our internal database for any existing privilege assignments for the property in question.
-</thinking>
-
 # Property Management Privilege Assignment - Help Guide
 ## Purpose
 The Property Management Privilege Assignment form is used to assign or modify privileges to properties within our organization. This form helps property managers, administrators, and other relevant personnel to efficiently manage access to specific properties and their associated information.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand how to use the Marina Resort Employee Leave Application Form to request a leave of absence from work. This form is only meant for employees and should not be used by anyone else. It is essential to fill it out accurately and honestly to ensure that the leave is processed correctly. The form is not a duplicate of any other form, and any incomplete or inaccurate submissions will not be accepted.
-</thinking>
-
 # Marina Resort Employee Leave Application Form - Help Guide
 ## Purpose
 The Marina Resort Employee Leave Application Form is designed to be used by employees to request a leave of absence from work. This form will help the management process your leave request and ensure a smooth and efficient return to work.

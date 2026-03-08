@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a factory's energy usage. It will collect data on the facility's energy sources, energy consumption, carbon footprint, and other relevant metrics. This form should only be used for factories that produce goods or materials, and it is not intended for other types of facilities. Please ensure that you are filling out this form for the correct type of facility.
-The form collects data on the facility's name, energy source, total energy consumption, production capacity, energy efficiency, energy intensity, carbon footprint, total CO2 emissions, total water consumption, total waste production, energy cost, labor cost, total electricity consumption, total gas consumption, total oil consumption, CO2 emissions per unit, water cost, waste disposal cost, total energy cost, energy cost per unit, facility notes, total waste disposal, facility location, and total carbon footprint.
-</thinking>
-
 # Factory Energy Usage Overview Report - Help Guide
 ## Purpose
 

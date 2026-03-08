@@ -1,6 +1,3 @@
-<thinking> 
-A facility usage form is used to record and report information about facility usage. This form is for internal staff to report on facilities that they have visited or have access to. It's meant to track who requested access, dates, and other relevant details to help with facility management and planning. This form shouldn't be used for external requests or general facility booking. Ensure you're filling out this form for internal facility usage only. If you're unsure, contact your supervisor or facility manager for guidance.</thinking>
-
 # Facility Usage Form - Help Guide
 ## Purpose
 The facility usage form is used by internal staff to report on facilities they have visited or have access to. This form helps with facility management and planning.

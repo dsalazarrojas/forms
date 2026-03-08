@@ -1,8 +1,3 @@
-<thinking>
-This form is used for requesting a leave of absence for a symposium event. The purpose of this form is to capture relevant information about the leave request, including the start and end dates, reason for the leave, and expected number of days off. This form is typically completed by the person requesting the leave and submitted to their manager for review and approval.
-The form must be completed by the person requesting the leave, providing all the necessary information to ensure that the leave can be properly processed.
-</thinking>
-
 # Symposium Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used for requesting a leave of absence for a symposium event.

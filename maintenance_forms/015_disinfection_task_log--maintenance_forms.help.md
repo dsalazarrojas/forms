@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose of the Disinfection Task Log form and guide them on how to complete it efficiently. The form's internal reasoning block is used to check for duplication and relevancy of the form's submission.
-</thinking>
-
 # Disinfection Task Log - Help Guide
 ## Purpose
 The Disinfection Task Log form is used to record and document disinfection tasks performed by staff members. This form is essential for tracking and managing disinfection tasks, ensuring that all necessary information is captured accurately and efficiently.

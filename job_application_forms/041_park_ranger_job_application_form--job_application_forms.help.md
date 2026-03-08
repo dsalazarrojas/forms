@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information for job applicants applying for a Park Ranger position. This form will help us assess the suitability of candidates for the role, which requires a strong background in conservation, management, and working with people. The form is divided into several sections that cover various aspects of the applicant's qualifications, skills, and experience. 
-
-Before proceeding, please ensure that you have all the necessary documents and information ready to complete this form accurately and efficiently. 
-
-Also, make sure to review the form carefully and complete it according to the guidelines provided. This will help us to get a clear understanding of your qualifications and experience.
-
-Please note that this form is for initial application purposes only, and further evaluation may be required after this initial submission.
-
-Please ensure that the information you provide is accurate and up-to-date to avoid any issues during the evaluation process.
-
-This form is for general information purposes only, and your responses will be kept confidential.
-
-</thinking>
-
 # Park Ranger Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information for job applicants applying for a Park Ranger position. 

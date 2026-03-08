@@ -1,11 +1,3 @@
-<thinking>
-This form is used for an "Act Of Donation" in the context of a legal transfer of ownership of assets. The form is used to document the details of the donation, including the donor's and donee's information, the asset's description and identification, the date of the donation, and any additional details. This form is likely used in a business or corporate setting where assets are being transferred between parties.
-
-This form has a set of fields that need to be completed. Please make sure to fill them in carefully to avoid any errors.
-
-The following is a field-by-field explanation of each section:
-
-</thinking>
 # Act Of Donation - Help Guide
 ## Purpose
 This form is used to document the details of the "Act Of Donation" in a legal manner. It is used to transfer ownership of assets between parties.

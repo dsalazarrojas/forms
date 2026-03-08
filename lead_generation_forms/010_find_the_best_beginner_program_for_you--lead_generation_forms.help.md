@@ -1,8 +1,3 @@
-<thinking>
-The form "Find The Best Beginner Program For You" is used to help users identify their goals and preferences to provide recommendations for beginner programs. This form will guide users through a series of questions to determine their ideal program fit. 
-To ensure the best possible outcome, we recommend users fill out the form only once to avoid duplication of effort. If users have already completed the form, they will be directed to their previous results.
-</thinking>
-
 # Find The Best Beginner Program For You - Help Guide
 ## Purpose
 The purpose of this form is to collect user preferences and goals to recommend suitable beginner programs. The form will ask about your goals, experience, available time, and preferred format to tailor the recommendations to your needs.

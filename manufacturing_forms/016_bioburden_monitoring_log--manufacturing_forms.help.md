@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for manufacturing facilities to track and report bioburden monitoring data, which is a measure of the level of biological contaminants on surfaces and equipment in a facility. This data is crucial for ensuring the quality and safety of products. The form will guide users to provide information on facility details, sample collection, testing methods, and results analysis to maintain accurate and up-to-date records.
-
-Please note that this form is a standardized template and its usage must be in line with facility's quality and safety standards.
-
-</thinking>
-
 # Bioburden Monitoring Log - Help Guide
 ## Purpose
 This form is designed to collect and track bioburden monitoring data in manufacturing facilities to ensure the quality and safety of products.

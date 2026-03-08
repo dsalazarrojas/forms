@@ -1,8 +1,3 @@
-<thinking>
-The "inventory_management_form" is a form designed to capture information about a specific inventory management process. It is used to track and organize data related to inventory, including titles, descriptions, categories, and other relevant details. This form is likely to be used by manufacturing teams or departments within an organization.
-This form is intended to be used for general purposes, such as tracking and managing inventory, and is not specific to a particular project or task.
-Before completing this form, ensure that you have all the necessary information required to fill out the form accurately. Please be aware that some fields may be optional, but filling out all required fields will help ensure that the data is complete and accurate.</thinking>
-
 # inventory_management_form - Help Guide
 ## Purpose
 The inventory_management_form is a general-purpose form for tracking and managing inventory data.

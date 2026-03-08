@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be used by internal teams to request an expansion of their production capacity. This form helps to gather necessary information from team members to evaluate and approve such requests. The form's purpose is to ensure that all necessary information is collected and that requests are properly reviewed and approved before taking action.
-
-The form is not intended to be a substitute for other forms or processes that may be used for other purposes. Please ensure that you only use this form for the intended purpose and do not create duplicate requests.
-
-</thinking>
-
 # Production Capacity Expansion Request Form - Help Guide
 ## Purpose
 The Production Capacity Expansion Request Form is a tool used by internal teams to request an expansion of their production capacity. It helps gather necessary information to evaluate and approve such requests.

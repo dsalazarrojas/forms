@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect personal and contact information from individuals interested in participating in a Christmas giveaway. The purpose of the form is to gather necessary details to ensure eligibility, contactability, and communication preferences. To prevent duplicate entries, the form will check for existing entries.
-
-</thinking>
-
 # Christmas Giveaway Entry Form - Help Guide
 ## Purpose
 This form is designed to collect personal and contact information from individuals interested in participating in a Christmas giveaway. The information collected will be used to determine eligibility, contactability, and communication preferences.

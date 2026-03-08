@@ -1,18 +1,3 @@
-<thinking>
-To create a well-structured help guide for the "Building Maintenance Forecast Request Form", I will follow the provided guidelines and focus on the essential information needed for end-users to complete the form successfully. I will analyze the YAML fields to understand the form's purpose, required fields, and field-by-field explanations.
-
-The form is intended to collect and process building maintenance requests from users. It appears to be a critical tool for facilities management, allowing staff to track and prioritize maintenance work orders. The form is likely used by facilities management teams or building administrators to gather information about maintenance needs and allocate resources accordingly.
-
-To determine the relevance and duplication of the form, I will consider the following:
-
-* The form collects information about building maintenance requests, which is a common process in facilities management.
-* The form includes various fields for collecting details about the request, such as property address, requester information, and type of maintenance.
-* Some fields, like estimated budget and documentation, are optional, suggesting that these might be considered secondary or supplementary information.
-
-Based on the above, I will proceed with creating the help guide to ensure end-users understand the form's purpose and each field's significance.
-
-</thinking>
-
 # Building Maintenance Forecast Request Form - Help Guide
 ## Purpose
 The Building Maintenance Forecast Request Form is a tool for staff and building administrators to submit and track maintenance requests for facilities. This form helps to ensure that all necessary work orders are prioritized and allocated according to urgency and resources available.

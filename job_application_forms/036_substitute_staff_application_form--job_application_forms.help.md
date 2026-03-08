@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be used by staff members to submit their application for substitute teaching positions within the school district. 
-This form serves as an internal communication tool for the school district administration to efficiently collect and review staff applications in a structured manner. The form ensures that all necessary information is collected for a thorough evaluation and review process. Please note that this form is not for use by external applicants and is intended for internal staff who are already employed within the school district. 
-
-The following fields should not be filled out if the staff member has already been assigned a substitute number.
-</thinking>
-
 # Substitute Staff Application Form - Help Guide
 ## Purpose
 The Substitute Staff Application Form is a tool used by internal staff members to submit their applications for substitute teaching positions within the school district. 

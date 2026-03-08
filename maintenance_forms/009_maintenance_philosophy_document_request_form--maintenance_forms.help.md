@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who need to request a maintenance philosophy document. The purpose of the form is to capture the essential details of the request, allowing the organization to assess and fulfill the needs of the submitter. Before proceeding, please ensure that you are filling out the form for a legitimate reason and that you have not already submitted a similar request. If you have any doubts, please contact [contact email](form@gic.mx).
-</thinking>
-
 # Maintenance Philosophy Document Request Form - Help Guide
 ## Purpose
 The Maintenance Philosophy Document Request Form is used to collect information for requests related to maintenance activities. This form helps the organization to understand the requirements and needs of the submitter, ensuring that the right information is gathered and provided to them in a timely manner.

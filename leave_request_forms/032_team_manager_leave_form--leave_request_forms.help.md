@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect leave requests from team members, which will then be reviewed and approved by team managers. The form asks for the team member's role, the start and end dates of the leave, the reason for the leave, and any comments. The team lead approval status will also be recorded. Team managers can track and approve or deny leave requests using this form.
-
-</thinking>
-
 # Team Manager Leave Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking> 
-This form appears to be a student progress evaluation form, likely used by educators or teachers to assess a student's current level of understanding, behavior, and overall progress. The form seems to be a general-purpose template without any affiliation with specific educational institutions or organizations. Based on the provided fields, it appears to be used for general student progress tracking and evaluation.
-
-</thinking>
-
 # Student Progress Evaluation - Help Guide
 
 ## Purpose

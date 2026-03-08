@@ -1,7 +1,3 @@
-<thinking>
-This form is for tracking student interest in baptism, gathering personal and contact information, and scheduling baptism details. It's designed to be completed by students who are interested in undergoing baptism. The form should only be filled out by students who have expressed interest in baptism and have been directed to this form for further information and scheduling purposes. Please ensure you only fill out this form if you have actually been directed to it for baptism interest.
-</thinking>
-
 # Student Baptism Interest Survey - Help Guide
 ## Purpose
 This form is designed to gather information from students who have expressed interest in baptism, including personal details and preferences for the baptism ceremony.

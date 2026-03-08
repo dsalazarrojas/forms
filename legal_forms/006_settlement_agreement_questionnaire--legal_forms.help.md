@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used for capturing information related to a settlement agreement in a dispute resolution process. This could be a part of a larger form collection or a standalone form for tracking and documenting settlements. The form likely aims to gather details about the dispute, the parties involved, the mediator or mediator, and the resolution process. 
-
-Please ensure that this form is not a duplicate of any other form used for similar purposes within the organization and that the fields and their labels are consistent with your organization's internal standards.
-
-</thinking>
-
 # Settlement Agreement Questionnaire - Help Guide
 ## Purpose
 This form is used to gather details about a dispute resolution process, including the dispute details, parties involved, mediator or mediator details, resolution details, and next steps.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information and personal details from potential locksmiths applying for a job. The form is intended to be completed by individuals who are interested in or are already working as locksmiths and are applying for a position. This form does not aim to collect sensitive or confidential information. The purpose of this form is to gather relevant information for the hiring process.
-</thinking>
-
 # Locksmith Job Application Form - Help Guide
 ## Purpose
 This form collects contact information, personal details, and supporting documents from potential locksmith applicants for the hiring process.

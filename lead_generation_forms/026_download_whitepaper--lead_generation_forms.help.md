@@ -1,9 +1,3 @@
-<thinking>
-The form is used for generating leads, specifically for users to download a whitepaper.
-The form is designed to collect essential information from users, including their name and email address, which will be used to follow up with them regarding the whitepaper.
-This form is a critical component of the lead generation process, and it's essential that users understand how to complete it correctly to ensure that their information is collected accurately.
-</thinking>
-
 # Download Whitepaper - Help Guide
 ## Purpose
 The Download Whitepaper form is a lead generation tool that allows users to download a whitepaper by providing their name and email address.

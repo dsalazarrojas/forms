@@ -1,7 +1,3 @@
-<thinking>
-This form is a Mortgage Pre Approval Verification Form for loan applicants. It's used to collect information from applicants who have already been pre-approved for a loan but are required to verify some details. The form is intended to be completed by the loan applicant and submitted as part of the loan process. This form should be reviewed to ensure that the details are accurate and complete before proceeding with the loan.
-</thinking>
-
 # Mortgage Pre Approval Verification Form - Help Guide
 ## Purpose
 This form is used to verify loan details for pre-approved applicants.

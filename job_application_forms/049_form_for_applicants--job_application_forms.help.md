@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information from applicants for a job opening. This information will be used to match suitable candidates with job postings. The form should only be completed by actual applicants, not by HR or recruitment team members trying to test the system or submit fake applications.
-</thinking>
-
 # Form For Applicants - Help Guide
 ## Purpose
 This form is a tool for applicants to submit their application for a job opening. Please use this form to provide accurate and complete information about your qualifications, experience, and availability.

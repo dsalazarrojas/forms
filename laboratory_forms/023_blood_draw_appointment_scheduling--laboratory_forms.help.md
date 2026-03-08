@@ -1,25 +1,3 @@
-<thinking>
-This form is intended to assist patients in scheduling blood draw appointments at various lab locations. It captures essential information such as patient contact details, appointment preferences, and test requirements. This form is designed to ensure that patients can conveniently schedule their appointments online, reducing the need for phone calls or in-person visits. Please note that this form is not intended to be used for internal use, but rather as a tool for patients to access our services.
-
-To complete this form, please ensure that all required fields are filled in accurately and thoroughly. This includes:
-Patient First Name
-Patient Last Name
-Date of Birth
-Email Address
-Phone Number
-Preferred Lab Location
-Preferred Appointment Date
-Preferred Time
-Type of Blood Test
-Is fasting required for this test? (If applicable)
-Physician Referral Name (if applicable)
-Reminder Preference
-Special Instructions or Accommodations
-
-Please ensure that all fields that require specific options, such as "Type of Blood Test" and "Reminder Preference," are filled in correctly.
-
-</thinking>
-
 # Blood Draw Appointment Scheduling - Help Guide
 ## Purpose
 This guide is designed to explain the Blood Draw Appointment Scheduling form, which assists patients in conveniently scheduling their blood draw appointments at various lab locations.

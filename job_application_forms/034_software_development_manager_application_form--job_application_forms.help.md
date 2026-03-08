@@ -1,5 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a software development manager position. It is intended for candidates who are interested in applying for this role. The form will guide the candidate through a series of questions and fields that will help determine their suitability for the position. This form is not intended for internal use only and is designed to be completed by external candidates applying for the job. Please ensure that you are not completing this form if you are an internal candidate or have previously submitted an application for this position.</thinking>
 # Software Development Manager Application Form - Help Guide
 ## Purpose
 The Software Development Manager Application Form is designed for external candidates applying for a software development manager position. The form collects relevant information about the candidate's background, skills, and availability to determine their suitability for the role.

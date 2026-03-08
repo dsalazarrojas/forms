@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to acknowledge and provide feedback on the company's Work Life Balance (WLB) policies. The purpose of this form is to gauge employee satisfaction with the WLB policies and identify areas for improvement. The form asks employees to review and rate their satisfaction with WLB policies across different levels of management, from team members to executive levels. This will help the company understand the effectiveness of its WLB policies and make necessary adjustments to better support employees' work-life balance.
-</thinking>
-
 # Work Life Balance Acknowledgment Form - Help Guide
 ## Purpose
 

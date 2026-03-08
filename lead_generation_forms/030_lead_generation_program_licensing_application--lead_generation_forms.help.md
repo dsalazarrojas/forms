@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to apply for the Lead Generation Program Licensing Agreement, which is a program that enables businesses to leverage lead generation strategies and tools to drive growth. This form is designed to gather essential information from the applicants to assess their eligibility and suitability for the program. The form should only be filled out by companies that are interested in participating in the program and do not have an existing agreement. Please ensure that you are filling out this form for the correct purpose to avoid duplication of effort and to ensure the integrity of the program.
-</thinking>
-
 # Lead Generation Program Licensing Application - Help Guide
 ## Purpose
 The Lead Generation Program Licensing Application form is designed for companies to apply for the Lead Generation Program Licensing Agreement. This program enables businesses to leverage lead generation strategies and tools to drive growth.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Office Assistant Job Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential office assistant applicants. This form is designed to gather relevant details about the applicant, their contact information, job details, and educational background.

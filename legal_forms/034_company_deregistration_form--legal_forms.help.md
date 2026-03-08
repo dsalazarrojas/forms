@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the deregistration process for a company, likely for businesses that have ceased operations or have undergone significant changes. It's crucial to ensure that the company's information is accurately and completely deregistered to avoid any potential issues or liabilities. To prevent duplication and ensure accuracy, please make sure that the form is filled out carefully and thoroughly. Review the provided guidance to understand the required fields and how to complete them correctly.
-</thinking>
-
 # Company Deregistration Form - Help Guide
 ## Purpose
 This form is used to officially deregister a company from the relevant authorities. Please fill it out accurately to provide the necessary information for deregistration.

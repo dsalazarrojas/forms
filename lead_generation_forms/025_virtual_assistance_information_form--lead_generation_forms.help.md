@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created to help clients provide information about their virtual assistance needs. Please ensure that you have the necessary permissions to complete this form on behalf of your client. If you're unsure, please contact us to clarify.
-
-</thinking>
-
 # Virtual Assistance Information Form - Help Guide
 ## Purpose
 The Virtual Assistance Information Form is designed to collect essential details about your client's virtual assistance needs. This form is used to gather specific information that will help us better understand their requirements, timelines, and evaluation expectations.

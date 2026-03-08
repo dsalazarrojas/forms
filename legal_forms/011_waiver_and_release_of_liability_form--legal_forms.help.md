@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I need to ensure that the Waiver And Release Of Liability Form is clear, concise, and accessible to end-users. Before creating the help guide, I will analyze the form's purpose and ensure that it is relevant and non-duplicative. The form seems to be a liability waiver form, which is used to release a participant from liability for any injuries or damages that may occur during an activity or event. I will review the form's fields to ensure that they are properly labeled and explained for end-users.</thinking>
-
 # Waiver And Release Of Liability Form - Help Guide
 ## Purpose
 The Waiver And Release Of Liability Form is used to release a participant from liability for any injuries or damages that may occur during an activity or event. This form is designed to protect both the participant and the host of the activity or event.

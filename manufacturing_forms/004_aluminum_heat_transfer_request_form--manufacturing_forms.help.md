@@ -1,6 +1,3 @@
-<thinking>
-This form is used by internal teams or external partners to request aluminum heat transfer from a specific project. It's crucial to ensure the correct project is selected in the "Project identifier" field to associate the request with the correct project. If the requested project is not found, the form will be marked as invalid. The form should not be submitted if the same request has already been made for the same project in the current month; the system will prevent duplicate requests. This form is used for requesting heat transfer for a specific part, and it's essential to provide accurate information to facilitate the production process. To submit a complete and valid request, please follow the guidelines below.</thinking>
-
 # Aluminum Heat Transfer Request Form - Help Guide
 ## Purpose
 The Aluminum Heat Transfer Request Form is used to request aluminum heat transfer for a specific project. It's essential to fill out the form accurately and completely to ensure your request is processed correctly.

@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed for users to submit their application for a research scientist position. The form aims to collect contact information, work experience, and other relevant details from applicants. To avoid duplication, we will not accept duplicate applications from the same contact person. The purpose of this form is to ensure accurate and up-to-date information from applicants, facilitating smooth communication and evaluation processes. 
-</thinking>
-
 # Research Scientist Employment Application - Help Guide
 ## Purpose
 This form is intended for users who are interested in applying for a Research Scientist position. By filling out this form, you will be able to submit your application and provide us with the necessary information to consider your candidacy.

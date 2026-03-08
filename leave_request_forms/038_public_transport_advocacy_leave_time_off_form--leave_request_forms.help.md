@@ -1,7 +1,3 @@
-<thinking>
-To ensure the accuracy of this help guide, let's review the purpose of the "Public Transport Advocacy Leave Time Off Form." This form is likely used to request time off for employees to attend events or activities related to public transportation advocacy, such as conferences, meetings, or events. The form should be used by employees to request time off for specific dates, providing details about their activity, transport type, start and end times, and duration. The approver will review and approve or deny the request, with an optional reason for denial. This form should be used to minimize duplicate requests and ensure that all relevant information is collected for approvers to make informed decisions.
-</thinking>
-
 # Public Transport Advocacy Leave Time Off Form - Help Guide
 ## Purpose
 

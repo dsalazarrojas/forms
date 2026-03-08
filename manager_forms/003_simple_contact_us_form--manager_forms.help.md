@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect user information, feedback, and other relevant details for communication and collaboration. It's essential to fill out the form correctly to ensure that your message is delivered accurately and efficiently. Please note that this form is used for internal communication within the organization, and the fields are designed to provide a structured way of collecting information. Make sure to review each field carefully to avoid missing any important details. 
-</thinking>
-
 # Simple Contact Us Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a simple way to contact us with your thoughts, feedback, and requests. Fill out the form to send your message directly to our team.

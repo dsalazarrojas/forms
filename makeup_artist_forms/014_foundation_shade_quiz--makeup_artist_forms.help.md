@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to find their preferred foundation shade and tone. The form will ask users to input their skin tone, type, and preferred foundation characteristics. By completing the form, users will be able to find a foundation that suits their skin type and preferences.
-</thinking>
-
 # Foundation Shade Quiz - Help Guide
 ## Purpose
 The Foundation Shade Quiz is a tool designed to help you find the perfect foundation shade and tone for your skin. By answering a few questions, you'll be able to narrow down your options and find a foundation that matches your skin's unique characteristics.

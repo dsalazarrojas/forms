@@ -1,5 +1,3 @@
-<thinking>This form is designed for tracking daily reading logs, providing a structured way for users to record and review their reading activities. To ensure the form is used effectively, users should only complete the sections that apply to their current reading situation. For instance, users need to record the start and end times of their reading sessions, but only if they are actively reading. Similarly, users should only set reading goals for themselves if they intend to set specific frequency and duration targets. To avoid confusion, users must not enter invalid values in required fields. This guide will help users understand the purpose and functionality of each field in the form.</thinking>
-
 # daily_reading_log - Help Guide
 
 ## Purpose

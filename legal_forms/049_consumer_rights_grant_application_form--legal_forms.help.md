@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from consumer rights grant applicants about their organizations and projects. This form will help us understand their needs, goals, and timelines, allowing us to assess their eligibility for grant funding. To ensure accurate and consistent submissions, please make sure to fill out the form completely and thoroughly. Note that some fields are marked as "required," so make sure to provide the necessary information. If you're unsure about any of the questions, please contact us for clarification.
-</thinking>
-
 # Consumer Rights Grant Application Form - Help Guide
 ## Purpose
 The Consumer Rights Grant Application Form is designed to gather essential information about your organization and project in order to assess your eligibility for grant funding. The form will help us understand your organization's needs, goals, and timelines, ensuring that we can provide the right support and resources for your project.

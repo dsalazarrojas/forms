@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure that this form is completed accurately and efficiently, please take a moment to review the purpose and guidelines below before proceeding.
-
-The Workplace Violence Restraining Order Request Form is a crucial document used to report and address workplace violence incidents. This form helps to provide essential details about the incident, including location, date, and description. It also allows the reporting employee to request protective actions such as a police report or restraining order. By providing clear and concise information, this form helps to ensure that the workplace is a safe and healthy environment for all employees.
-
-Before starting, please make sure you are not duplicating an existing report or that this incident is not already being addressed. If you are unsure, contact your supervisor or HR representative for guidance.
-
-</thinking>
-
 # Workplace Violence Restraining Order Request Form - Help Guide
 ## Purpose
 The Workplace Violence Restraining Order Request Form is a document used to report and address workplace violence incidents. It helps to provide essential details about the incident and allows the reporting employee to request protective actions.

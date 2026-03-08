@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to be a simple registration form for individuals to sign up for a football league. The form will be used to collect contact information and some basic details about the individual, such as date of birth. The form will be used to register individuals for the league, and the collected data will be used for communication and organization purposes. This form will not be used to store sensitive personal data.
-</thinking>
-
 # Football League Registration Form - Help Guide
 ## Purpose
 This form is designed for individuals to register for the football league. It will ask for some basic contact and demographic information to help with communication and organization of the league.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users of an academic library. Its purpose is to collect data on the library's users' experiences, satisfaction, and areas of improvement. This form is intended to be completed by various types of library users, including undergraduate and graduate students, faculty, staff, community members, and visiting researchers. It aims to gather feedback on their visit frequency, primary purpose, satisfaction with library collections and resources, staff helpfulness, and overall experience. This form also seeks suggestions for improvements and invites users to rate their likelihood to recommend the library to peers. The form is a tool to help the library understand its strengths and weaknesses, make data-driven decisions, and improve its services.
-
-Please note that some of the fields in this form are optional, but they are all included to provide a comprehensive view of the user experience.
-
-</thinking>
-
 # Academic Library Survey - Help Guide
 
 ## Purpose

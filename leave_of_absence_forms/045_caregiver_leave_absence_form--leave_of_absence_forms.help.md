@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Caregiver Leave Absence Form - Help Guide
 
 ## Purpose

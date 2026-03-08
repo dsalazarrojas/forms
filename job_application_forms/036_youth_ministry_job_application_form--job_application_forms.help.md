@@ -1,5 +1,3 @@
-<thinking>As we continue to grow and serve the youth in our community, we need to ensure that our team members are well-qualified and equipped to handle the challenges of serving. This Youth Ministry Job Application Form is designed to provide a comprehensive and efficient way to collect necessary information from potential candidates. Please make sure to fill out this form thoroughly and accurately to increase your chances of being considered for a position. Note that this form is meant to be used once per candidate, so please do not submit multiple forms for the same individual. If you have already submitted a form, please do not re-submit it. Thank you for your understanding and cooperation!</thinking>
-
 # Youth Ministry Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential candidates for youth ministry positions within our organization. It helps us understand your qualifications, experience, and availability to serve.

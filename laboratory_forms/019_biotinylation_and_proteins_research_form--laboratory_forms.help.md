@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive questionnaire designed to gather information from researchers working with biotinylation, a technique used to modify and study proteins. The form is divided into several sections, including researcher information, institutional details, research objectives, biotinylation methods, detection methods, sample preparation, applications, publications, collaboration interests, and resources. The purpose of this form is to collect data on the researcher's background, experience with biotinylation, research goals, and expertise in related fields. It also aims to gather information on the researcher's collaboration interests, the type of collaboration they are interested in, and any resources or equipment they can offer.
-</thinking>
-
 # Biotinylation And Proteins Research Form - Help Guide
 ## Purpose
 This form is designed to collect information from researchers working with biotinylation, a technique used to modify and study proteins. By completing this form, you will be providing detailed information about your background, experience, and research goals related to biotinylation.

@@ -1,14 +1,4 @@
-### <thinking>
-
-This form is designed for employers participating in a virtual job fair event, allowing them to register their company and provide essential information for the event. The form ensures that employers complete each field correctly to facilitate a smooth and successful virtual event.
-
-To avoid any confusion or errors, ensure that you have all the required information and necessary attachments prepared before starting the registration process.
-
-Please note that if you have registered as an employer in a previous virtual job fair, this form will not automatically save your previous registration information. This form is for new or updated registration purposes only.
-
-</thinking>
-
-# Virtual Job Fair Employer Registration - Help Guide
+### # Virtual Job Fair Employer Registration - Help Guide
 ## Purpose
 This form is designed for employers to register their company and provide essential information for the virtual job fair event. The form will help the organizers and participants understand your company's profile and job opportunities.
 

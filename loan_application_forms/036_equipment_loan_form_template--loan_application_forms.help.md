@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equipment Loan Form Template - Help Guide
 
 ## Purpose

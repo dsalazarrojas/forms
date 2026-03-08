@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture the contact, order, product, shipping, and billing information for an industrial pressure valve order. The purpose of this form is to collect detailed information about the customer and their order requirements to fulfill the industrial pressure valve order accurately. This form is intended for customers or end-users who are placing an order for industrial pressure valves. The information collected will be used to process and deliver the order correctly. Please ensure that all required fields are filled in accurately to avoid delays or errors in processing your order.
-</thinking>
-
 # industrial_pressure_valve_order_form - Help Guide
 ## Purpose
 This form is designed to collect detailed information from customers to process and deliver industrial pressure valve orders accurately.

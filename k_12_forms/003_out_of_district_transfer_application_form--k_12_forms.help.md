@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # out_of_district_transfer_application_form - Help Guide
 ## Purpose
 The out_of_district_transfer_application_form is used by schools to process student information and transfer requests from out-of-district students.

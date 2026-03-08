@@ -1,9 +1,3 @@
-<thinking>
-  This form is used to collect contact information and details about a retrofit project from end-users.
-  Before filling out this form, please ensure that you are a legitimate user and not a spammer or robot.
-  To avoid duplication, please do not submit this form multiple times.
-</thinking>
-
 # machine Retrofit program contact form - Help Guide
 ## Purpose
 The machine Retrofit program contact form is designed to collect contact information and details about a retrofit project from end-users. This form is used to establish communication and gather essential information about the project.

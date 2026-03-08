@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for a job application for an IT Consultancy Project Manager position. The form is divided into multiple pages, each with a specific set of fields that are relevant to the job application process. Before starting to fill out the form, please ensure that you have reviewed the job description and requirements carefully and are confident that you meet the necessary qualifications.
-
-To ensure that your application is not lost or duplicated, please save your progress regularly and do not submit multiple applications with the same contact information.
-
-Please note that some fields are optional and are intended to provide additional context or information. You can fill out only the fields that are relevant to your situation.
-</thinking>
-
 # IT Consultancy Project Manager Job Application - Help Guide
 ## Purpose
 This form is designed to collect information for a job application for an IT Consultancy Project Manager position.

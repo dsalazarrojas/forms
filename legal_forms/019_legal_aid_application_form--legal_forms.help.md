@@ -1,7 +1,3 @@
-<thinking>
-The Legal Aid Application Form is a crucial document that helps applicants access legal aid services. This form is used to gather essential information about the applicant, including their contact details, legal problems, and other relevant data. The form is designed to be completed by applicants seeking legal assistance, and it is essential to ensure that the information provided is accurate and complete. To prevent duplication, the system checks for existing applications with the same contact information.
-</thinking>
-
 # Legal Aid Application Form - Help Guide
 ## Purpose
 This form is used to gather information from applicants seeking legal aid services. It is essential to provide accurate and complete information to ensure that you receive the help you need.

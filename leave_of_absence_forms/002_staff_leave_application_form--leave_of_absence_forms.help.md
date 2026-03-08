@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for staff members to apply for leave from work. Before proceeding, please ensure you have a valid reason for your leave and that it is not a duplicate application. The form requires a valid start and end date, the type of leave, the number of leave days, and a reason for the leave. The manager's status and any notes or comments are also required for the manager's approval. Please ensure that all information is accurate and complete before submitting the form.
-</thinking>
-
 # Staff Leave Application Form - Help Guide
 ## Purpose
 The Staff Leave Application Form is used for staff to submit leave applications to their manager for approval.

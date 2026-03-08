@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect and track information about shareholder agreements, which are legally binding contracts between a company and its shareholders. The form is used to monitor and update the status of these agreements, ensuring that all relevant details are accurately recorded and easily accessible. It is likely used in the context of corporate law or finance, and the information collected may be used for regulatory compliance, risk assessment, or other business purposes. The fields on this form are likely intended to capture the key aspects of a shareholder agreement, including the company and shareholder names, dates, percentages, and review frequencies. It is essential to complete this form accurately to ensure the accuracy and completeness of the data.</thinking>
-
 # Shareholder Agreement Monitoring Form - Help Guide
 ## Purpose
 The Shareholder Agreement Monitoring Form is designed to collect and track information about shareholder agreements, ensuring that all relevant details are accurately recorded and easily accessible for regulatory compliance, risk assessment, or other business purposes.

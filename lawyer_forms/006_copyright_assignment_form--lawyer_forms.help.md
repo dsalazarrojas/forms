@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure this form is correctly used and completed, we should confirm its purpose is for assigning or transferring ownership of a work or asset to a specific individual or entity. This form should not be used for any other purpose, such as assigning ownership of a company or organization, as that would require additional fields and considerations. 
-
-This form is used to document the transfer of ownership of a work or asset from one party to another, and it's essential to fill out the form accurately and completely to maintain a clear record of the transfer. 
-
-Please note that some fields may be optional, but they are still important for providing additional context and information about the transfer. It's crucial to fill out all required fields to ensure the form is correctly completed.
-
-</thinking>
-
 # Copyright Assignment Form - Help Guide
 ## Purpose
 This form is used to assign or transfer ownership of a work or asset from one party to another. It helps document the transfer and provides a clear record of the ownership change.

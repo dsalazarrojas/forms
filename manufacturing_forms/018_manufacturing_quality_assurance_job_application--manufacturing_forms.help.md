@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for end-users who will be filling out the "Manufacturing Quality Assurance Job Application" form. Before starting, ensure that you have all the necessary information and documents required to complete the form accurately. It is essential to fill out the form only once for your application. If you need to submit multiple applications, please create a new form for each submission.
-</thinking>
-
 # Manufacturing Quality Assurance Job Application - Help Guide
 ## Purpose
 This form is designed to collect essential information from candidates applying for a Manufacturing Quality Assurance job. It gathers data on the candidate's background, contact details, and work experience to assess their suitability for the position.

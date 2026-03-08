@@ -1,15 +1,3 @@
-<thinking>
-This form is a "Facility And Production Capabilities Survey" designed to collect information about a facility's production capabilities. The purpose of this form is to gather detailed data about a facility's production capacity, contact information, and operational hours.
-The form is divided into sections that cover various aspects of a facility's capabilities, including:
-Facility details (name, address, and contact information)
-Production capacity and capabilities
-Contact information for the facility's representative
-Operational hours and production capacity notes
-The form is meant to be completed by facility administrators or representatives to provide accurate and up-to-date information about their facility.
-
-Please ensure that you are completing this form for a relevant facility and that you have permission to do so. If you are unsure or have any questions, please contact [contact email](form@gic.mx) for clarification.
-</thinking>
-
 # Facility And Production Capabilities Survey - Help Guide
 ## Purpose
 

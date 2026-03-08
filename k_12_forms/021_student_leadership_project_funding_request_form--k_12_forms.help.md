@@ -1,9 +1,3 @@
-<thinking>
-
-This guide will walk users through the Student Leadership Project Funding Request Form, ensuring they understand what the form is used for and how to complete it correctly.
-
-</thinking>
-
 # Student Leadership Project Funding Request Form - Help Guide
 
 ## Purpose

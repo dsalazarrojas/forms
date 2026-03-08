@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marketing Consent Form - Help Guide
 ## Purpose
 The Marketing Consent Form is used to collect contact information from customers or partners to send marketing materials, such as emails, phone calls, and SMS messages, to their company. This form helps to ensure that marketing consent is obtained before sending out any promotional materials.

@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to provide a high-level overview of a project's management details. The form captures essential information such as project objectives, timelines, milestones, owners, risks, and notes for a project's roadmap. This form is likely used for planning and tracking a project's progress. It is not a mandatory form, so users can fill it out at their discretion. 
-
-This form has been designed to be simple and easy to use. It includes text fields for project objectives and notes, select fields for project timelines, milestones, owners, and risks, and date fields for the project start and end dates. Users can select one or more options for project milestones and risks. 
-
-This guide will walk you through each field of the form, so you know what information is expected of you.</thinking>
-
 # project_management_roadmap_form - Help Guide
 ## Purpose
 The project_management_roadmap_form is used to capture high-level project management details.

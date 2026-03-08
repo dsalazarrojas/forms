@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a company's loyalty personalization needs and interests, in order to provide a custom-tailored solution. This form is used to register for the Loyalty Personalization AI, and the submitted data will be used to generate a personalized AI-powered solution for the company. Please note that this form will not be used to spam or sell any products to the submitted companies. Also, please fill out this form only once per company.
-</thinking>
-
 # Loyalty Personalization AI Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your company's loyalty personalization needs and interests, in order to provide a custom-tailored solution.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tournament Registration Process Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and input from participants on their experience with the tournament registration process. This form aims to identify areas of improvement and provide valuable insights for future tournament registrations.

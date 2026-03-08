@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for businesses looking to get sales ready for growth and expansion. It is meant to help businesses in the fitness industry prepare for sales readiness by gathering essential information about their business. The form will help identify areas that need improvement and provide guidance on what steps to take to get ready for sales growth.
-</thinking>
-
 # Fitness Business Sales Readiness Questionnaire - Help Guide
 ## Purpose
 This form is designed to help fitness businesses assess their sales readiness and identify areas for improvement.

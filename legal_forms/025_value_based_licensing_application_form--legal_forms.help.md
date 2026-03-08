@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that this form is only used for value-based licensing applications and not for other types of applications. This form should not be used to apply for licenses that are not value-based. If you are unsure, please contact our licensing team for clarification.
-</thinking>
-
 # Value-Based Licensing Application Form - Help Guide
 ## Purpose
 This form is intended for applicants who wish to apply for value-based licenses. A value-based license is a type of license that is granted based on a specific value or metric. This form will guide you through the process of providing the necessary information to apply for a value-based license.

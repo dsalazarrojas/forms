@@ -1,7 +1,3 @@
-<thinking>
-To confirm that the form purpose is to collect tax-related information about the client, and to ensure that the form isn't being used for other purposes or in conjunction with other forms that could cause redundancy or conflict.
-</thinking>
-
 # Client Tax Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect detailed information about a client's tax situation. It will help us understand their tax-related details, including employment status, income, expenses, and other relevant factors.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to handle leave of absence requests from employees. The form will guide users through the necessary information required for a leave of absence request, including general information, leave type, start and end dates, reason for leave, and approval status.
-Before filling out this form, please ensure you have a valid reason for your leave and have consulted with your team leader or manager to confirm they are aware of your request.
-To avoid duplication, please do not submit multiple requests for the same leave period.
-This form should only be used for leave of absence requests, not for other types of requests or issues.
-</thinking>
-
 # crunch_time_leave_of_absence_request - Help Guide
 ## Purpose
 This form is designed to guide users through the necessary information required for a leave of absence request.

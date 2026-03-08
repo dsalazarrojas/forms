@@ -1,10 +1,3 @@
-<thinking>
-To determine if this form is a good fit for the intended use case, let's review its purpose and requirements. This form is designed to track the vehicle maintenance plans for a fleet of vehicles. It should help users to create a maintenance schedule for each vehicle, taking into account its type, service history, and other relevant factors. The form should be able to handle different types of vehicles, their registration numbers, and provide options for service frequency and other specific maintenance tasks.
-The following form fields should be used to collect information about the vehicle: its type, registration number, service history, service frequency, next service date, odometer reading, service cost, and a list of specific maintenance tasks.
-The form should be able to track the maintenance plans for each vehicle, taking into account the selected maintenance tasks and their frequency.
-
-</thinking>
-
 # Vehicle Maintenance Plan Tracker - Help Guide
 ## Purpose
 The Vehicle Maintenance Plan Tracker form is designed to help users track and manage the maintenance plans for a fleet of vehicles. It allows users to create a maintenance schedule for each vehicle, taking into account its type, service history, and other relevant factors.

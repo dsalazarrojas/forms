@@ -1,11 +1,3 @@
-<thinking> This form is designed to help individuals and legal professionals excuse themselves from jury duty, providing a structured way to communicate their availability and conflicts. This form is intended for use by courts, law firms, and other organizations involved in the legal process. It is not intended for general public use. 
-
-The form collects information about the individual's reason for excusing themselves from jury duty, their potential conflicts of interest, and specific dates and times of potential conflicts or unavailability. The form should only be used by authorized personnel in a legal context. 
-
-Please note that this form is an original adaptation of a generic form created using public metadata and has not been derived from any proprietary platform. It is released under the Creative Commons Attribution 4.0 license and can be used, modified, and distributed freely. 
-
-</thinking>
-
 # Jury Duty Excuse Form - Help Guide
 ## Purpose
 The Jury Duty Excuse Form is a structured document designed to help individuals and legal professionals communicate their reason for excusing themselves from jury duty and their potential conflicts of interest. It is intended for use by courts, law firms, and other organizations involved in the legal process.

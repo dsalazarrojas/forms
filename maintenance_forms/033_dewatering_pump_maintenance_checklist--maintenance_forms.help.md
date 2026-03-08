@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and track information related to the maintenance of dewatering pumps. The purpose of this form is to ensure that all necessary maintenance tasks are completed, and the status of the pumps is accurately recorded. This form will help the maintenance team to keep track of the site visit details, pump status, and maintenance actions taken. It will also enable them to identify potential issues and schedule future maintenance tasks.
-</thinking>
-
 # Dewatering Pump Maintenance Checklist - Help Guide
 ## Purpose
 This form is used to collect and track maintenance information for dewatering pumps. It helps the maintenance team to identify and address potential issues, schedule maintenance tasks, and keep track of pump status.

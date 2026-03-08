@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a trademark's release from the trademark owner. This form is likely used in a business or legal context where the owner is granting permission for someone else to use their trademark. The form is relatively simple, with fields for the trademark owner's information, the trademark details, and the terms of the release. This form is likely used by a lawyer or someone familiar with legal terminology.
-
-This form is designed to be completed by the trademark owner, but it's also possible that it's used for other purposes such as creating a template for a client or a business process. The form doesn't require any specific technical knowledge, but it does use some legal terms that may be unfamiliar to non-lawyers. 
-
-This guide will explain each field in plain language to help the user understand what's being asked.
-</thinking>
-
 # Trademark Release Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide for the Brand Ambassador Application Form, I'll aim to clearly explain the purpose, completion process, and each field's meaning in a concise and practical way.</thinking>
-
 # Brand Ambassador Application Form - Help Guide
 ## Purpose
 The Brand Ambassador Application Form is designed to help us understand your background, experience, and motivations for being a Brand Ambassador. This form will help us get to know you better and assess your fit as a potential ambassador. Please answer the questions honestly, and don't hesitate to ask if you have any questions or concerns.

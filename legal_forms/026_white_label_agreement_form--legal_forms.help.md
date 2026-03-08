@@ -1,7 +1,3 @@
-<thinking>... This form appears to be a template for creating and managing white-label agreements with partners. The purpose of this form is to collect and document essential information about partners, including their name, contact details, and the agreement's terms and version. This form likely serves as a tool for businesses to formalize their partnership agreements, ensuring clarity and consistency in their partnerships...
-
-</thinking>
-
 # White Label Agreement Form - Help Guide
 ## Purpose
 This form is designed to help you create and manage white-label agreements with partners. It collects essential information about partners, including their name, contact details, and agreement terms.

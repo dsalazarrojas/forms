@@ -1,5 +1,3 @@
-<thinking>...The form is designed to collect sales leads from potential customers. It asks for information that can help us understand the job title and role of the person filling out the form, as well as the company they represent. This information can be used to tailor our sales approach and tailor the conversation. The form should only be filled out once for each individual, and any duplicate entries should be avoided to prevent data duplication. This form should be used to capture information on a per lead basis, not to collect multiple leads from the same individual.</thinking>
-
 # Sales Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential customers about their job title and role, allowing us to tailor our sales approach and conversation.

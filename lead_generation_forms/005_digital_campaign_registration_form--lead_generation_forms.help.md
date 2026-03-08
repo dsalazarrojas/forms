@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to gather information about a digital campaign, specifically for lead generation. The form is designed to collect data from users who are interested in learning more about a digital campaign. The form should not be used for other purposes, such as sales or marketing efforts. 
-
-Before filling out the form, it's essential to note that the form is not suitable for users who have already registered for a digital campaign or are not interested in learning more about one. 
-
-This form is designed to be filled out by users who are looking for more information about a digital campaign. If you're unsure whether you should fill out this form, please contact our support team for clarification.
-
-</thinking>
-
 # Digital Campaign Registration Form - Help Guide
 ## Purpose
 The Digital Campaign Registration Form is designed to collect information from users interested in learning more about a digital campaign.

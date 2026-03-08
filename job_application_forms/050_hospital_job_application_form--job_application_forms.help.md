@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from individuals applying for jobs within the hospital setting. The form is intended to be used for internal purposes, such as hiring and recruitment processes. It's essential to fill it out accurately and thoroughly to ensure a smooth application process. Please ensure you don't fill out this form if you are a robot or spammer, as it's intended for human applicants only. If you're unsure about any of the information, please ask your HR representative for clarification.</thinking>
-
 # Hospital Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals applying for jobs within the hospital setting. It's used for internal purposes, such as hiring and recruitment processes.

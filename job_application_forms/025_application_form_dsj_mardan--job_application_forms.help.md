@@ -1,26 +1,3 @@
-<thinking>
-This form is designed to collect personal and professional information from applicants for job openings. The purpose of this form is to gather relevant details that will be used to assess the suitability of the applicant for the position applied for. This form will be used to collect information on the applicant's personal details, education, experience, and other relevant information.
-
-The form consists of 10 fields, each with a specific label, type, and requirement status. The form is split into several pages, each containing a specific set of fields. The pages and fields are numbered for easy reference.
-
-The following fields are required for completion: 
-* Applicant name (Page 1, field 1)
-* National identity number (Page 1, field 2)
-* Date of birth (Page 1, field 3)
-* Position applied for (Page 2, field 4)
-* Highest qualification (Page 2, field 5)
-* Domicile (Page 3, field 7)
-* Mobile phone number (Page 3, field 8)
-* Declaration (Page 4, field 10)
-
-The following fields are optional: 
-* Relevant experience (Page 2, field 6)
-* List of uploaded documents (Page 3, field 9)
-
-The form requires the applicant to declare the truthfulness of the information provided.
-
-</thinking>
-
 # Application Form DSJ Mardan - Help Guide
 ## Purpose
 The purpose of this form is to collect personal and professional information from applicants for job openings, which will be used to assess the suitability of the applicant for the position applied for.

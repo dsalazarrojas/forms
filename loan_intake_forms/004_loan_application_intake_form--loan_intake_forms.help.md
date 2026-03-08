@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a loan application. It's meant for individuals who are interested in applying for a loan. To ensure that you're using the form correctly, please review the following fields carefully. Note that some fields may be optional, but they are all necessary for a complete loan application. Before submitting the form, make sure to fill in all required fields and select relevant options from drop-down menus. This will help us process your application efficiently and accurately.
-</thinking>
-
 # Loan Application Intake Form - Help Guide
 ## Purpose
 The Loan Application Intake Form is designed to collect information for a loan application. It is meant for individuals who are interested in applying for a loan.

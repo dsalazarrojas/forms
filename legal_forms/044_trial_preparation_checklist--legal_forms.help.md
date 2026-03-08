@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "Trial Preparation Checklist", is used to collect essential information for trial preparation. The form is designed for legal professionals to assess the readiness of a trial in various aspects. Each field in this form is carefully crafted to ensure that users can efficiently gather and record the necessary details. Before filling out this form, please ensure that the provided information is accurate and up-to-date.
-
-This form is likely used by legal professionals to prepare for trials, and its fields cover various aspects of the trial process. To complete this form, users need to fill out the provided fields, which include general information about the trial (e.g., location, date, and jury pool size), details about the parties involved (plaintiffs, defendants, attorneys), and specific aspects of the trial (experts, case status).
-
-The form's structure allows users to easily navigate and provide the required information, making it a useful tool for trial preparation.
-
-</thinking>
-
 # Trial Preparation Checklist - Help Guide
 
 ## Purpose

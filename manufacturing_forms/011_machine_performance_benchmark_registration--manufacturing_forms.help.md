@@ -1,22 +1,3 @@
-<thinking>
-
-This form appears to be a registration form for machine performance benchmark testing. To determine its purpose and relevance, let's analyze the fields:
-
-* `machine_name`, `machine_model`, `machine_year_of_manufacture`, `engine_power_hp`, `max_speed_mph`, `max_speed_kmph`, `torque_rpm`, `fuel_efficiency_gpmg`, `fuel_type`, `drive_type`, `transmission`, `vehicle_weight`, `vehicle_length`, `vehicle_width`, `vehicle_height`, `machine_type`, `machine_condition`, `owner`, `location`, `contact_email`, `contact_phone`, `date_tested`, `time_tested`, `test_result`:
-
-These fields suggest that the form is intended to collect various details about a machine or vehicle, including its specifications, performance, and testing information. The fields can be categorized into several sections:
-
-* Machine specifics: `machine_name`, `machine_model`, `machine_year_of_manufacture`, `engine_power_hp`, `max_speed_mph`, `max_speed_kmph`, `torque_rpm`, `fuel_efficiency_gpmg`, `vehicle_weight`, `vehicle_length`, `vehicle_width`, `vehicle_height`
-* Fuel and drive information: `fuel_type`, `drive_type`, `transmission`
-* Performance testing: `max_speed_mph`, `max_speed_kmph`, `torque_rpm`, `date_tested`, `time_tested`, `test_result`
-* Owner and contact information: `owner`, `location`, `contact_email`, `contact_phone`
-
-The form likely serves as a registration platform for machines or vehicles to be tested for performance benchmarks. The tester's contact information and the date and time of the test are also collected for further reference.
-
-To avoid duplication, the form may not allow multiple registrations for the same machine name or model.
-
-</thinking>
-
 # Machine Performance Benchmark Registration - Help Guide
 ## Purpose
 The Machine Performance Benchmark Registration form is a platform for registering machines or vehicles for performance testing. This form collects various details about the machine, including its specifications, fuel efficiency, and testing information.

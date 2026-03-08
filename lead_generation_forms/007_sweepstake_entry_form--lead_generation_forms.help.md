@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect personal information from users, including their names, contact details, and demographic information. The purpose of this form is to gather data for a sweepstakes or contest entry. The form requires the user to input their first name, last name, email address, phone number (optional), date of birth, street, city, zip code, state, country, reason for entering, and entry date. The form also includes an agreement to terms and conditions, as well as an optional entry date. This form is intended for general use cases such as sweepstakes, contests, or giveaways, and is designed to be completed by users who want to participate in such events.
-
-</thinking>
-
 # Sweepstake Entry Form - Help Guide
 ## Purpose
 This form is designed to collect personal and demographic information from users for sweepstakes or contest entry purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the maintenance and management of rental units, likely for use in property management, real estate, or facilities management. It's crucial that end-users understand the correct purpose and context of this form to complete it effectively. To ensure consistency and prevent errors, it's essential to review and verify that the form is not already being used for another purpose or process within the organization.
-</thinking>
-
 # Rental Unit Management Form - Help Guide
 ## Purpose
 The Rental Unit Management Form is designed to collect essential information about the management and maintenance of rental units. This form aims to provide a structured approach to tracking and documenting crucial data related to rental units, ensuring accurate and efficient management.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for submitting quarterly schedule information for employees and departments. It is intended for management to review and track progress. The form may be used for various purposes such as performance evaluations, resource allocation, and planning. Please ensure that the information provided is accurate and up-to-date to avoid duplication of effort. This form is not intended for general employee use, so it is recommended that users only access this form with authorized access. 
-</thinking>
-
 # quarterly_schedule_submission - Help Guide
 ## Purpose
 The quarterly schedule submission form is used to provide quarterly schedule information for employees and departments, allowing management to review and track progress.

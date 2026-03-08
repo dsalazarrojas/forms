@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be used for ordering a resistor array termination. The purpose of the form is to collect information from customers for the manufacturing process. The form is likely used by sales, engineering, or production teams within a company to take orders from customers and fulfill their needs. 
-
-</thinking>
-
 # Resistor Array Termination Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers for resistor array termination orders. The sales, engineering, or production teams use this form to take orders from customers and ensure accurate communication and fulfillment of their needs.

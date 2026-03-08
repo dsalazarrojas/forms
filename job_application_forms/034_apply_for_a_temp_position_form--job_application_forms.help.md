@@ -1,30 +1,3 @@
-<thinking>
-We should create a user-facing help guide that is clear, concise, and practical. The form is for applying for a temporary position, and we want to make sure that the end-user understands the purpose of the form, how to complete it, and what each field means. Before starting, let's review the form fields and the options provided to identify any potential issues or areas where we can improve the form.
-
-The form is divided into several sections, including Applicant Information, Position Information, Work Experience, and References. The sections are designed to gather relevant information about the applicant's contact details, preferred temporary duration, and relevant skills and qualifications.
-
-The form requires the applicant to provide their full name, email address, phone number, and current address. These fields are all required and will be used to contact the applicant if necessary. The "Available to start immediately?" field is also crucial, as it will help us determine the applicant's availability to start work.
-
-The "Position Type Applying For" field has several options, including Administrative, Sales, Customer Service, Warehouse, Production, and Other. The applicant must select one of these options, and this will help us understand their area of interest.
-
-The "Preferred Temporary Duration" field has several options, including 1-3 weeks, 1 month, 2-3 months, 3-6 months, and Open to discussion. The applicant can choose one of these options, and this will help us understand their preferred duration of temporary work.
-
-The "Years of Work Experience" field is a required field that asks the applicant to specify their years of experience. This will help us assess their level of experience and suitability for the temporary position.
-
-The "Relevant Skills" field is a crucial field that asks the applicant to specify the relevant skills they have for the position. This can include language skills, computer skills, or other skills that would be beneficial for the temporary position.
-
-The "Computer skills" field allows the applicant to select multiple computer skills they possess, such as Microsoft Word, Microsoft Excel, Outlook, and Data entry. This will help us understand their technical abilities.
-
-The "Languages spoken" field allows the applicant to specify their language skills, and this will help us understand their communication capabilities.
-
-The "Certifications and Licenses" field is a field where the applicant can specify any relevant certifications or licenses they hold. This can include professional certifications or language proficiency.
-
-The "References" section is a field where the applicant can provide information about their references. This is optional, but it will help us verify the applicant's previous work experience.
-
-Overall, the form is designed to gather essential information about the applicant's contact details, skills, and qualifications. It is crucial that the applicant provides accurate and honest information in each field to ensure a smooth and efficient application process.
-
-</thinking>
-
 # Apply For A Temp Position Form - Help Guide
 ## Purpose
 The Apply For A Temp Position Form is designed to gather information from applicants for temporary positions. The form is divided into several sections, including Applicant Information, Position Information, Work Experience, and References. The sections are designed to gather relevant information about the applicant's contact details, preferred temporary duration, and relevant skills and qualifications.

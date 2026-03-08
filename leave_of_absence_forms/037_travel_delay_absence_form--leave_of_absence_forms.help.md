@@ -1,13 +1,3 @@
-<thinking>
-
-Travel Delay Absence Form is used for reporting travel delays or absences for an employee. To ensure that this form is completed correctly, please note that:
-
-* The form must be used to report travel delays or absences for a single employee.
-* The form should only be submitted once per employee for each travel delay or absence.
-* The employee ID field must be selected as "select one" or "select two" for proper validation.
-
-</thinking>
-
 # Travel Delay Absence Form - Help Guide
 ## Purpose
 The Travel Delay Absence Form is used for reporting travel delays or absences for an employee. This form is intended to provide necessary information for the employee's travel delay or absence to be properly recorded and managed.

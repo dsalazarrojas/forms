@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in requesting a product bundle. The purpose of this form is to gather essential details from users about their name, company (if applicable), use case, product bundle, and contact information (email and phone number). This information will be used by our team to understand the user's needs and preferences better.
-
-Before filling out this form, please ensure that you have not already submitted a product bundle request to us. If you are unsure or have any questions, feel free to reach out to us at [contact email/phone number].
-
-</thinking>
-
 # Product Bundle Request Contact Form - Help Guide
 ## Purpose
 The form is designed to collect information from users who are interested in requesting a product bundle.

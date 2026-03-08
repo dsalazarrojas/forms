@@ -1,9 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Quiz On Immunoprecipitation Techniques" form.
-This form is designed to gauge the knowledge of lab technicians and researchers on immunoprecipitation techniques. Immunoprecipitation is a common laboratory technique used to detect and quantify protein interactions. The form will assess the user's understanding of the standard immunoprecipitation protocol, the methods for determining the success of an immunoprecipitation experiment, and other relevant concepts.
-We will ensure that the form is clear and concise, and that each field is explained in a way that is consistent with the form's purpose and the available fields in the form.
-</thinking>
-
 # Quiz On Immunoprecipitation Techniques - Help Guide
 ## Purpose
 This form is designed to test your knowledge on immunoprecipitation techniques. It will ask a series of questions to assess your understanding of the standard immunoprecipitation protocol and related concepts.

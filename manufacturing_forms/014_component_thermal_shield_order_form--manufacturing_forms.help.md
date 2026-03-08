@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Component Thermal Shield Order Form is used to collect order specifications and details from buyers for thermal shields, a type of thermal management solution used in manufacturing processes. This form ensures that all necessary information is gathered for accurate and efficient processing of thermal shield orders. 
 
 # Component Thermal Shield Order Form - Help Guide

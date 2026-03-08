@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect information for a warehouse sponsorship inquiry. It is intended for customers or users who want to inquire about sponsoring a warehouse. The form will be used to gather essential details such as category, email, phone number, lead owner, warehouse address, city, country, state, postal code, lead date, and lead time. The form will help the customer or user to provide clear and concise information for the purpose of sponsorship, which will in turn help the warehouse team to assess the inquiry.
-
-</thinking>
-
 # Warehouse Sponsorship Inquiry - Help Guide
 ## Purpose
 The Warehouse Sponsorship Inquiry form is a tool used to collect information for sponsoring a warehouse. It is essential to provide accurate details to increase the chances of your inquiry being successfully evaluated.

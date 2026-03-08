@@ -1,5 +1,3 @@
-<thinking>... (internal reasoning block) This form is used to capture customer support and lead capture information from customers. The form consists of multiple pages, each with select multiple, select one, text, email, and note fields. Each field is designed to provide the customer with options for selecting their preferences or providing contact information. Some fields are required, while others are not. It's essential to fill out the form accurately to provide the best possible support and lead capture experience for the customer. Please note that this form is used for both customer support and lead capture, but it's not for internal use; it's intended for customer-facing interactions. If you're unsure about any field, please refer to this help guide for clarification. ...</thinking>
-
 # Customer Support And Lead Capture Form - Help Guide
 ## Purpose
 The Customer Support And Lead Capture Form is designed to gather information from customers to provide them with the best possible support and lead capture experience. This form is not intended for internal use and is meant for customer-facing interactions.

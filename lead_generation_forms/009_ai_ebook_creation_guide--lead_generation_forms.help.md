@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to guide users in creating an AI eBook by providing a structured format for submitting their request. This form ensures that the required information is captured to generate an effective eBook. 
-The form is used by users to submit their eBook creation requests, and it is essential to complete it accurately to ensure that the requested eBook meets their needs.
-</thinking>
-
 # AI EBook Creation Guide - Help Guide
 ## Purpose
 This form is used to guide users in creating a customized AI eBook based on their specific requirements. The form captures essential details such as the submitter's name, contact email, eBook topic, target audience, desired length, key points to cover, tone and style preferences, and additional resources or references.

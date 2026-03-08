@@ -1,11 +1,3 @@
-<thinking>
-**Form Purpose**: This form is designed to collect loan application information from users. As a user, you will be asked to provide various details such as applicant name, email, loan amount, loan terms, loan date, and loan status. This information will help the system process and manage loan applications efficiently.
-
-**Form Relevance**: Before proceeding, please note that this form is for internal use only. It is not intended for external users or public access. If you are not authorized to access this form, please do not attempt to complete it.
-
-**Form Duplication**: Please be aware that this form is not intended to be completed multiple times. Each submission will create a new loan application. If you need to create multiple loan applications, please submit each one separately.
-</thinking>
-
 # kasanag_loan_application_form - Help Guide
 ## Purpose
 The "kasanag_loan_application_form" form is a tool used to collect and process loan applications from internal users. It is designed to gather essential information about each loan request.

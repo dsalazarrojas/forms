@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Checklist Download Form - Help Guide
 ## Purpose
 The Checklist Download Form is used to collect contact information and preferences from users who want to download specific business checklists. This form helps us understand your needs and provide relevant resources to support your business goals.

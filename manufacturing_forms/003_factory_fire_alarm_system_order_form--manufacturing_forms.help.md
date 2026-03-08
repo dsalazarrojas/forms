@@ -1,25 +1,3 @@
-<thinking>
-This form seems to be a critical system for managing fire alarm system orders in a factory setting. It requires users to provide essential information about the site, contact details, equipment type, and installation service requirements. This form likely serves as a vital tool for ensuring accurate and prompt processing of orders.
-
-Before proceeding, please ensure that you have all the necessary information required to complete this form accurately. The form fields are designed to guide you through the process, but double-check your entries to guarantee correct and complete data.
-
-To complete this form, you'll need to provide the following information:
-
-* Site name: This is the name of the factory site where the fire alarm system will be installed.
-* Email: Enter your contact email address so we can reach you regarding any updates or queries about your order.
-* Phone: Provide your contact phone number for easy communication.
-* Name: Enter your name for our records (not required but recommended).
-* Equipment Type: Select the type of equipment you need, including Analog, Addressable, Hybrid, Wireless, or None.
-* Quantity: Enter the number of systems you need.
-* Site Address 1: Enter the address of your site for installation purposes.
-* Site Address 2 and 3: These are optional and can be used for additional address information if needed.
-* Installation Service: Check if you require installation service for the fire alarm system.
-* Additional Comments: Use this field for any extra information or instructions regarding your order.
-
-Please ensure you complete all required fields, and if necessary, add additional comments to ensure we can meet your specific needs.
-
-</thinking>
-
 # Factory Fire Alarm System Order Form - Help Guide
 ## Purpose
 This form is designed to gather essential information for the installation of a fire alarm system in a factory setting. It helps ensure that your order is processed accurately and promptly.

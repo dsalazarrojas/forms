@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to generate leads for new tech products, capturing essential information from users to help with product planning and development. This form ensures that the team gathers accurate and comprehensive details about the products and the potential customers. It's essential that each user fills in this form accurately to provide the best possible experience.
-
-To prevent duplication, please note that this form generates leads based on specific criteria, such as segment, follow-up, and product release date. This ensures that leads are categorized correctly and that follow-ups are done effectively.
-
-Please ensure that you have carefully filled in all the required fields before submitting the form, as any missing information may affect the lead generation process.
-
-</thinking>
-
 # Tech Product Release Lead Generation Form - Help Guide
 ## Purpose
 The form is designed to gather information about potential customers interested in new tech products, helping the development team understand their needs and preferences.

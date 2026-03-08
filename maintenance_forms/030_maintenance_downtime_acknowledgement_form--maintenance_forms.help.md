@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to document and verify maintenance activities that are causing a device or equipment to be unavailable for use. The user will input the specific details of the maintenance activity to ensure that it is properly recorded and tracked. The purpose of this form is to ensure that the maintenance activity is accurately reported and that the impact on the availability of the device or equipment is properly documented.
-
-This form should only be used for activities that are actually causing the device or equipment to be unavailable for use. Using this form for non-maintenance activities or for activities that are not causing the device or equipment to be unavailable may lead to incorrect reporting and may not accurately reflect the actual status of the device or equipment.
-
-Before filling out this form, please ensure that the activity is a maintenance activity that is causing the device or equipment to be unavailable for use. If you are unsure about whether the activity is a maintenance activity, please contact the relevant personnel for clarification.
-
-To avoid duplication, please ensure that you are not completing this form for activities that have already been reported or acknowledged.
-
-</thinking>
-
 # Maintenance Downtime Acknowledgement Form - Help Guide
 ## Purpose
 This form is used to document and verify maintenance activities that are causing a device or equipment to be unavailable for use.

@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is used to request a time off for an employee due to stress. It's intended for employees to submit a request for a leave of absence due to work-related stress. To confirm, this form is specifically for requesting time off for stress-related reasons, and it's not meant for other types of leave such as vacation or medical leave. This form should only be filled out by employees who have a legitimate reason for requesting time off due to stress. 
-
-</thinking>
-
 # Stress-Leave-Time-Off-Form - Help Guide
 ## Purpose
 The Stress-Leave-Time-Off-Form is a form used to request a leave of absence due to work-related stress. This form is for employees who need time off to manage their stress levels and return to work feeling refreshed and ready to perform their job duties effectively.

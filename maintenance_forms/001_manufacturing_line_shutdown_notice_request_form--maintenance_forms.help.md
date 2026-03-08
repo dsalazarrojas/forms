@@ -1,5 +1,3 @@
-<thinking>This form is used to request a manufacturing line shutdown notice, which is required for various purposes such as planned maintenance, repairs, or other critical events that affect production. The form must be filled out by the production team, and the manager's approval and signature are necessary to complete the process. This form will help the production team communicate with the manager to get the necessary approvals and notifications for the shutdown. Before filling out this form, please ensure that it is not a duplicate request and that it is not used for routine or minor events that do not require official notice.</thinking>
-
 # Manufacturing Line Shutdown Notice Request Form - Help Guide
 ## Purpose
 This form is used to request a manufacturing line shutdown notice, which is required for various purposes such as planned maintenance, repairs, or other critical events that affect production.

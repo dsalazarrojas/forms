@@ -1,10 +1,3 @@
-<thinking>
-Before creating the user-facing help guide, let's confirm that this form is designed to collect data for the maintenance of refrigerated trailers. This form seems to cover various aspects of trailer maintenance, including engine, air filter, battery, brake pads, tires, suspension, electrical system, refrigerated system, and more. The form requires the technician to confirm the condition of each aspect and provide their signature and contact information. 
-
-We should ensure that the form is completed accurately and consistently to avoid any confusion or errors. To do this, let's break down each field and provide a clear explanation of what each field means and how to complete it.
-
-</thinking>
-
 # Refrigerated Trailer Scheduled Maintenance Checklist - Help Guide
 
 ## Purpose

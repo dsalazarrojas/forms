@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the form's purpose and the fields it contains. Based on the provided YAML, the form's purpose seems to be for users to place an order for metal fabrication samples. The form likely belongs to the "manufacturing_forms" category, and its title is "Metal Fabrication Sample Order Form".
-
-The form contains 25 fields, including user information, sample requests, material selection, fabrication method, quantity, unit cost, total cost, delivery method, special instructions, date needed, time needed, contact number, email address, notes, review notes, review comments, review status, review date, review time, review comments 2, review status 2, review date 2, review time 2, user comments, user notes, and other fields.
-
-The form likely requires users to provide their contact information, select the type of sample they need, choose a fabrication method, specify the quantity and unit cost of the sample, and enter their review status, review date, and review time. The review status fields seem to be related to the review process, while the user comments and notes fields may be for users to provide additional information.
-
-To create the user-facing help guide, we'll need to focus on providing clear explanations for each field, while leaving out irrelevant fields that seem to be part of the review and approval process.
-
-</thinking>
-
 # Metal Fabrication Sample Order Form - Help Guide
 ## Purpose
 This form is designed for users to place an order for metal fabrication samples. Please fill out the form with your contact information, sample requirements, and order details to submit your order.

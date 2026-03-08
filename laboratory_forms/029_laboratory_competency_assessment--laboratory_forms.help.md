@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to assess the competency of laboratory personnel in various laboratory settings. This form will help to evaluate the skills and knowledge of laboratory staff in different areas, such as laboratory safety, laboratory procedures, and laboratory equipment operation. The form is designed to be completed by laboratory personnel, including laboratory technicians, scientists, and managers, to help them demonstrate their competency in their specific roles. This form is likely to be used by laboratory managers or supervisors to assess the competency of their staff and to identify areas where additional training may be necessary.
-
-This form is not a replacement for any certification or regulatory requirements, and it is not intended to be used as a substitute for formal training or certification programs. It is also not a evaluation tool for any specific certification or licensure program. The form is simply a tool to help laboratory personnel to self-assess their skills and knowledge in different areas.
-
-Before proceeding, make sure to read all the questions carefully and answer them honestly. This will help to ensure that the form is completed accurately and fairly.
-
-Please note that the form is divided into two main sections: "Introduction" and "Section 1" to "Section 2". Each section has a series of questions related to different areas of laboratory competency.
-
-</thinking>
-
 # Laboratory Competency Assessment - Help Guide
 ## Purpose
 The Laboratory Competency Assessment form is designed to help laboratory personnel to assess their skills and knowledge in various areas of laboratory work.

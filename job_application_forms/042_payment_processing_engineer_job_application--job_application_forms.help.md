@@ -1,14 +1,3 @@
-<thinking>...The form's purpose is to collect application information for a Payment Processing Engineer position. This form is meant to be filled out by individuals applying for the job. The form is divided into several sections, each covering a different aspect of the application. The sections include Personal Details, Contact Details, Education, Work Experience, Skills, and References. Each section is a critical part of the application process, and completing each one thoroughly will help the applicant showcase their qualifications and fit for the position.
-
-To ensure the form is completed correctly, applicants should start by filling out their Personal Details, which includes essential information such as their name, email, and phone number. They must also provide contact details, which are required for further communication. While education and work experience are optional, they are still valuable in highlighting the applicant's background and skills.
-
-In the Skills section, applicants need to list their relevant skills and experience in payment processing. The References section is also important for showcasing professional references who can vouch for the applicant's skills and experience. Once all necessary fields are completed, the applicant clicks the "Submit" button to submit their application.
-
-When filling out the form, applicants should use their real names and email addresses to ensure proper contact information. They can add or remove lines as needed within each section to accommodate their answers. The form does not require any specific formatting, so applicants can complete it using their preferred format. However, providing clear and concise answers in each section will make it easier for the application to be reviewed.
-
-Applicants should review the form carefully before submitting it to ensure all required fields are completed. If they need any help or clarification on a particular field, they can refer to this help guide for further assistance.
-
-</thinking>
 # Payment Processing Engineer Job Application - Help Guide
 ## Purpose
 This form is designed to collect application information for a Payment Processing Engineer position. It is a crucial step in the application process for potential candidates.

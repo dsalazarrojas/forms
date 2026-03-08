@@ -1,12 +1,3 @@
-<thinking>
-This is the form "Joint Agreement Signatures". It is used to collect information for a joint agreement, likely in a business or legal context. This form appears to be designed to capture details of individuals who will be signing the agreement, including their name, email, signature image, role, and other relevant information.
-
-Before proceeding, please ensure that you have reviewed the agreement terms and conditions and understand the purpose and requirements of this form. This form is likely used for official or formal purposes, so ensure that the information provided is accurate and up-to-date.
-
-This form should not be used in conjunction with other forms that collect similar information. Please complete this form only once the necessary agreements have been reached and you are ready to finalize the joint signature.
-
-</thinking>
-
 # Joint Agreement Signatures - Help Guide
 ## Purpose
 The Joint Agreement Signatures form is used to collect information from individuals who will be signing a joint agreement. This form captures details such as name, email, signature image, role, and other relevant information.

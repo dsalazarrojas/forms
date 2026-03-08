@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this simple job application form, I will analyze the provided form schema and provide a clear and concise guide for end-users. This guide will cover the form's purpose, step-by-step instructions on how to complete it, and an explanation of each field.
-
-</thinking>
-
 # simple_job_application_form_red_and_responsive - Help Guide
 ## Purpose
 

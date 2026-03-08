@@ -1,9 +1,3 @@
-<thinking> 
-  The Simple Feedback Form is designed to collect feedback from customers, clients, or users about our service. 
-  To ensure the form is completed correctly and effectively, please review the following help guide carefully before providing feedback.
-  Note: This form is meant to be used for one-time feedback purposes only. Please do not use this form to request repetitive or urgent matters, as responses may be delayed. 
-</thinking>
-
 # Simple Feedback Form - Help Guide
 ## Purpose
 The Simple Feedback Form is designed to collect feedback from customers, clients, or users about our service. Your feedback is valuable to us and helps us improve and adapt to your needs.

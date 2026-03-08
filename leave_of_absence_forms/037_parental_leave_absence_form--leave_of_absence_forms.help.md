@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to support the completion of the "Parental Leave Absence Form" for HR or management staff to process employee requests for parental leave. The purpose of this form is to gather necessary information from the employee and their manager to facilitate a smooth and fair leave approval process. Please ensure that this form is used in conjunction with your organization's policies and procedures regarding parental leave.
-</thinking>
-
 # Parental Leave Absence Form - Help Guide
 ## Purpose
 The Parental Leave Absence Form is used to request and process parental leave for employees, ensuring a fair and efficient process for both the employee and management.

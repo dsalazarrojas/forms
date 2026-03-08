@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate an employee's request for unpaid leave, which allows them to take time off without pay. The form is used to document and process such requests, ensuring that both the employee and management are aware of the arrangement. This form is not intended for other purposes such as vacation requests or other types of leave.
-</thinking>
-
 # Unpaid Leave Acknowledgment Form - Help Guide
 ## Purpose
 The Unpaid Leave Acknowledgment Form is used to document and process an employee's request for unpaid leave. This form ensures that both the employee and management are aware of the arrangement and its details.

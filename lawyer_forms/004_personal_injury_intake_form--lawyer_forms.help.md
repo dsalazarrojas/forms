@@ -1,7 +1,3 @@
-<thinking> This form is designed to collect information from clients or patients regarding their personal injury experience. It is intended to gather details about the client's contact information, injury details, witness information, medical information, and other relevant details. The form is likely used by lawyers or legal professionals to assess and manage personal injury cases. The form is not intended for use in medical emergencies or urgent situations, but rather as a tool to gather information for legal purposes. 
-
-</thinking>
-
 # personal-injury-intake-form - Help Guide
 
 ## Purpose

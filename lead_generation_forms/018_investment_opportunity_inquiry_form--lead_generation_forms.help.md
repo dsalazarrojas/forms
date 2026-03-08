@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Investment Opportunity Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential investors who are interested in learning more about investment opportunities. It helps our team assess their interest and provide relevant information about potential investment opportunities that match their needs.

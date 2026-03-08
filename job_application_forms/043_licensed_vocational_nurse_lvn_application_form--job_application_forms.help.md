@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from potential job applicants for a Licensed Vocational Nurse (LVN) position. This form is used to assess their qualifications, experience, and availability for the role. Please ensure that you are completing this form for the correct purpose and do not duplicate your application.
-</thinking>
-
 # Licensed Vocational Nurse (LVN) Application Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from potential job applicants for a Licensed Vocational Nurse (LVN) position. Please provide accurate and truthful information to ensure a smooth and efficient application process.

@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure the form meets the required fields for the job application, please note that this guide only applies to the specific "Entertainment Event Planner Job Application" form and its corresponding fields. If you're looking to create or modify a different form, please refer to the original source YAML data for guidance.
-</thinking>
-
 # Entertainment Event Planner Job Application - Help Guide
 ## Purpose
 This form is designed for candidates applying for an Entertainment Event Planner position. It collects information about your background, experience, and qualifications to help us evaluate your suitability for the role.

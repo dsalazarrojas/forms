@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chronic Condition Time Off Form - Help Guide
 
 ## Purpose

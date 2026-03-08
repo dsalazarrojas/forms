@@ -1,13 +1,3 @@
-<thinking>
-This form is used to report incidents related to factory power outages. The purpose of this form is to collect information about the incident, including the date it occurred, the location, and the equipment affected. This information will be used to investigate and resolve the issue.
-
-Before filling out this form, please ensure that:
-
-* You are reporting a new incident, and not updating an existing one.
-* You have all the necessary information to complete the form.
-* You have filled out all required fields to ensure accurate reporting.
-
-</thinking>
 # Factory Power Outage Incident Report Form - Help Guide
 
 ## Purpose

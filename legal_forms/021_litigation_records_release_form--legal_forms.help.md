@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for the release of litigation records, which is a crucial process in legal proceedings. The form aims to capture the necessary details for the release, including the type of legal professional involved, the client's information, the date of release, the recipient of the release, and any additional notes. It is essential to complete this form accurately and thoroughly to ensure that all relevant parties are informed and records are properly released.
-
-Before filling out this form, it is recommended to have a clear understanding of the current status of the litigation case and the reasons for releasing the records. Please ensure that the form is filled out with up-to-date and precise information to avoid any confusion or errors.
-
-Please note that some of the fields might not be required for every situation, but they are essential for a complete and accurate release of records.
-</thinking>
-
 # Litigation Records Release Form - Help Guide
 ## Purpose
 This form is used to document the release of litigation records, ensuring that all parties involved are informed and records are properly secured. It is essential for legal professionals, clients, and other relevant parties to understand and fill out this form accurately.

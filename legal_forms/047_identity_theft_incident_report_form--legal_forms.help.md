@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used to report incidents of identity theft. The purpose of this form is to gather information about the reported incident, including details about the type of theft that occurred, the location where the theft occurred, and the date of the incident. The form is designed to be completed by individuals who have experienced identity theft, and the information collected will be used to assist in investigating and preventing further incidents.
-</thinking>
-
 # identity_theft_incident_report_form - Help Guide
 ## Purpose
 The purpose of this form is to report incidents of identity theft, including types of theft, locations, and dates.

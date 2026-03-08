@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request representation by an attorney for a legal matter. It is intended for use by individuals seeking legal advice or representation. Before filling out this form, ensure that you have not already submitted a similar request and that your request is relevant to the legal matters covered by this form. This form is not intended for general inquiries or matters that are not related to legal representation.
-</thinking>
-
 # Request For Attorney Representation - Help Guide
 ## Purpose
 This form is designed to provide a structured way for individuals to request representation by an attorney for a legal matter. It helps attorneys evaluate your case and determine whether to take on your representation.

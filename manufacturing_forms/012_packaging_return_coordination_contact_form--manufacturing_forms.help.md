@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be used for packaging return coordination purposes, typically for items that are still under warranty or need to be returned to the supplier for repair or replacement. The form is used by customers to provide information about their return items, including whether they want to be contacted about the return, details about the return, and shipping information. This form helps the customer service team to efficiently coordinate the return process and ensure that the customer receives the correct information and support they need.
-
-Before filling out this form, please ensure that you have all necessary information about your return ready, such as whether you want to be contacted about the return, details about the return, and shipping information. Also, please note that this form is used for returns that are still under warranty or need to be returned to the supplier for repair or replacement.
-
-</thinking>
-
 # Packaging Return Coordination Contact Form - Help Guide
 ## Purpose
 This form is used for packaging return coordination purposes, typically for items that are still under warranty or need to be returned to the supplier for repair or replacement.

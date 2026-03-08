@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form titled "Bottling Specifications Survey" is designed to capture critical information from respondents, including their company details and specific requirements for bottling. The purpose of this form is to collect standardized data from respondents to facilitate accurate and efficient production processes in the manufacturing industry.
 
 ## Purpose

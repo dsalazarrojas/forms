@@ -1,7 +1,3 @@
-<thinking>
-We should check if the form has been previously created before proceeding with the help guide generation.
-</thinking>
-
 # Production Line Efficiency Evaluation Form - Help Guide
 ## Purpose
 The Production Line Efficiency Evaluation Form is designed to collect data on the efficiency of a production line in a manufacturing process. This form helps to identify areas of improvement and optimize production processes.

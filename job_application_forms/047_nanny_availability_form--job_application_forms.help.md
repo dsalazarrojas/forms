@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form used to collect information about a nanny's availability to work, including their start date, job title, available days and hours, start and end time, and other relevant details. To ensure the form is completed accurately and efficiently, please review the following guidelines:
 
 # Nanny Availability Form - Help Guide

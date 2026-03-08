@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Classroom Student Altercation Incident Report - Help Guide
 
 ## Purpose

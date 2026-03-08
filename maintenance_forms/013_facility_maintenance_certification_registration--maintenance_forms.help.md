@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to register their facility maintenance certification. It's likely used in a context where users need to demonstrate their competence in a particular area of facility maintenance. The form might be used by certification bodies, regulatory agencies, or organizations issuing certifications. It's essential to ensure that the fields are filled in accurately and consistently to avoid any duplication or errors. Before proceeding, please check that all required fields are accurate and up-to-date, as any discrepancies might lead to form rejection or delays.
-</thinking>
-
 # Facility Maintenance Certification Registration - Help Guide
 ## Purpose
 This form is designed for users to register their facility maintenance certification. It is used to verify competence in a particular area of facility maintenance.

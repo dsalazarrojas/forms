@@ -1,9 +1,3 @@
-<thinking>
-
-This form, Financial_Services_Referral_Campaign_Form, is used for collecting information from customers regarding financial services referrals. The form is designed to help gather relevant details about the contact person, their business type, the reason for the referral, and other important contact information. To avoid duplication of efforts and ensure accurate referrals, please fill out this form carefully, and if you have filled out this form before, please make sure to review your previous submission before proceeding.
-
-</thinking>
-
 # Financial_Services_Referral_Campaign_Form - Help Guide
 ## Purpose
 This form collects information from customers for referral campaigns related to financial services.

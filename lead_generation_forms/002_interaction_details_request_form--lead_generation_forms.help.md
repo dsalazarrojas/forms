@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture interaction details from a company. The form should only be submitted if the interaction has been pre-approved by a designated team member. Please ensure that the interaction has been approved before submitting this form. If the interaction has already been submitted, please do not resubmit. Duplicate submissions may lead to unnecessary work and data duplication. This form is only for interactions that have been pre-approved and require further details to be captured.
-</thinking>
-
 # Interaction Details Request Form - Help Guide
 ## Purpose
 The Interaction Details Request Form is used to capture additional information from a company after an interaction has been pre-approved by a designated team member.

@@ -1,7 +1,3 @@
-<thinking>
-The "Fancy Envelope Contact Form" is designed to gather information from users who wish to contact the organization. This form is likely used for sales, marketing, or general inquiries. To ensure that the form is filled out correctly, we should verify that the fields provided are accurate and relevant to the intended use case. For example, we should check that the "Company/Organization" field is filled out when the user's intention is to contact an organization, but not when the user is contacting a personal contact.
-</thinking>
-
 # Fancy Envelope Contact Form - Help Guide
 
 ## Purpose

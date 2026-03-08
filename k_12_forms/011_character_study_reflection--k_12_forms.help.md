@@ -1,8 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the "Character Study Reflection" form. The form is used to analyze a character from a book or story. It is meant to help users think deeply about a character's traits, motivations, and impact on the story. This form is not affiliated with any particular form platform, and the data collected will be used for educational purposes only. Before proceeding, ensure you have not already completed this form for the same character, as duplicate entries may be discarded.
-
-</thinking>
-
 # Character Study Reflection - Help Guide
 ## Purpose
 This form is designed to help you analyze a character from a book or story by exploring their traits, motivations, and impact on the story.

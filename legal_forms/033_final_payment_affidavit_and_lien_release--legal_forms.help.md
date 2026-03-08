@@ -1,8 +1,3 @@
-<thinking>
-This form is used for creating an affidavit and lien release for final payment of projects in various categories. The purpose of this form is to serve as a legal document that confirms the payment status of a project and releases any liens on it. This form is used by contractors, construction companies, and other parties involved in construction projects.
-To ensure that the form is completed correctly, the following fields should be understood:
-</thinking>
-
 # Final Payment Affidavit And Lien Release - Help Guide
 ## Purpose
 This form is used to create an affidavit and lien release for final payment of projects in various categories.

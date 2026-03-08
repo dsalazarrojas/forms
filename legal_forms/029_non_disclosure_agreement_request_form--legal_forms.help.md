@@ -1,6 +1,3 @@
-<thinking>
-Non Disclosure Agreement Request Form is used to request a non-disclosure agreement for a document or project. To ensure that the request is valid, we need to check that the form is not being used to duplicate existing agreements or for a purpose that is not relevant to the project. This form should be used only for new, non-duplicate requests.</thinking>
-
 # Non Disclosure Agreement Request Form - Help Guide
 
 ## Purpose

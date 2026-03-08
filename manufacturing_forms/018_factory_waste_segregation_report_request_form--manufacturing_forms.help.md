@@ -1,16 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, we need to consider the context of a factory setting. The "Factory Waste Segregation Report Request Form" is likely used to collect information about waste segregation reports in a factory environment. This form might be used to gather data on which areas of the factory are segregating waste properly, which areas are not, and what can be done to improve waste management. The form's purpose is to provide a structured way to collect information that can be used to identify areas for improvement.
-
-The form is not intended to be a comprehensive waste management system, but rather a tool to aid in identifying issues and potential areas for improvement. It may be used by factory personnel, including supervisors, management, and quality control teams, to ensure that waste is properly segregated and disposed of in accordance with factory regulations.
-
-Before filling out this form, consider the following:
-
-* Are you authorized to access and submit this form?
-* Is this form relevant to your role or responsibilities within the factory?
-* Have you already submitted a similar form, and if so, what was the outcome?
-
-</thinking>
-
 # Factory Waste Segregation Report Request Form - Help Guide
 ## Purpose
 The Factory Waste Segregation Report Request Form is used to collect information about waste segregation in the factory. It helps identify areas where waste is not being properly segregated, and what can be done to improve waste management.

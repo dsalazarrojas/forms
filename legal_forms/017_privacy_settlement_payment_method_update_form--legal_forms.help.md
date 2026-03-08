@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the "Privacy Settlement Payment Method Update Form". The form is designed to collect information from claimants regarding their payment method updates, which is an essential part of the legal process. The form should only be used for updating payment methods for privacy settlement purposes and not for any other reason. It's crucial to ensure that the form is filled out accurately and honestly to avoid any confusion or miscommunication in the processing of the payment method update.
-</thinking>
-
 # Privacy Settlement Payment Method Update Form - Help Guide
 ## Purpose
 The "Privacy Settlement Payment Method Update Form" is used to update and verify the payment method of an individual involved in a privacy settlement. This form helps in ensuring accurate and up-to-date payment information for the settlement process.

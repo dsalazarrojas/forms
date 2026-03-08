@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used for inspecting fermentation tanks in a manufacturing process. To determine if this form needs to be filled out, check if it is being used for:
-* Inspecting fermentation tanks in a manufacturing process
-* Recording and tracking tank conditions, temperatures, and other relevant data
-
-If this form already exists, ensure it is being used correctly and does not need to be refilled. Ensure that each field is being used with the correct and relevant data.
-
-</thinking>
-
 # Fermentation Tank Inspection Form - Help Guide
 ## Purpose
 This form is used to record and track information about fermentation tanks in a manufacturing process. It is designed to help inspectors gather and report data about tank conditions, temperatures, and other relevant data.

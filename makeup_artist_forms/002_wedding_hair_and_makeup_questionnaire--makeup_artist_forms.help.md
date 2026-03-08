@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Hair And Makeup Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to help us understand your wedding hair and makeup needs, preferences, and requirements. Please answer the questions honestly to help us provide you with the best services for your special day.

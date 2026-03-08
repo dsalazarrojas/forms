@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to gather information from students registering to a school, capturing their personal details, and associated course and grade level information. This form is likely used for administrative purposes, such as tracking student enrollments and maintaining records. It's essential to ensure that each student provides accurate and valid information to complete the form correctly.
-
-When completing this form, please ensure that you provide accurate and relevant details for each field. Duplicate entries should be avoided to maintain data integrity.
-</thinking>
-
 # School Registration Form - Help Guide
 ## Purpose
 This form is used for students to register to a school and provide relevant details for administrative purposes.

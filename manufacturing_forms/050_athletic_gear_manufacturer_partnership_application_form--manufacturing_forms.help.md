@@ -1,11 +1,3 @@
-<thinking>Before we begin, it's essential to note that this form is designed for manufacturers looking to partner with athletic gear companies. It's a thorough application that requires detailed information about the company, their products, and their goals for partnership. Please ensure that you're filling out this form accurately and completely to provide a strong foundation for your application.
-
-To avoid any potential duplication of effort, please make sure to review our existing partnership opportunities and applications before proceeding. This will help you tailor your application and ensure it's unique and compelling.
-
-If you're unsure about any specific section or field, don't hesitate to reach out to us for clarification. We're here to support you throughout the process.
-
-Now, let's dive into the help guide for the Athletic Gear Manufacturer Partnership Application Form.</thinking>
-
 # Athletic Gear Manufacturer Partnership Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from manufacturers interested in partnering with us. It's essential to fill it out accurately and completely to showcase your company's background, products, and partnership objectives.

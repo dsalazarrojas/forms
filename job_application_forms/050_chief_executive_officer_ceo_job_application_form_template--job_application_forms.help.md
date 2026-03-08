@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect comprehensive information from Chief Executive Officer (CEO) job applicants, ensuring they provide a detailed and structured submission for the position of CEO. The purpose of this form is to assist in evaluating applicants' qualifications, experience, and fit for the CEO role.
-
-This form includes various sections that cover different aspects of the candidate's background, including personal and professional experiences, skills, and qualifications. Each section is designed to elicit specific information to help assess the applicant's suitability for the position.
-
-To avoid duplication or overlap of information, this form should not be filled in with incomplete or inaccurate data.
-
-</thinking>
-
 # Chief Executive Officer (CEO) Job Application Form Template - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information from Chief Executive Officer (CEO) job applicants, ensuring they provide a detailed and structured submission for the position of CEO.

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is used for requesting power supply restoration when there is an outage. This form ensures that all required information is collected to process the request efficiently and accurately. It's essential to fill out the form carefully and completely to ensure that the restoration is done correctly. The form should only be completed when there is a genuine power supply outage, as it's a formal request for restoration. It is not a duplicate request form, and each completed form should be for a new restoration request.
-</thinking>
-
 # Power Supply Restoration Request Form - Help Guide
 ## Purpose
 This form is used for requesting power supply restoration when there is an outage.

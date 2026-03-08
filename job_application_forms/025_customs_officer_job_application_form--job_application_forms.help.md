@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for individuals to apply for a Customs Officer position. It is a comprehensive application form that collects personal information, experience, and skills relevant to the job. To confirm, the form will be used to assess whether an applicant meets the basic requirements and qualifications for the position. It's essential to fill out the form accurately to ensure a smooth and efficient application process.
-</thinking>
-
 # Customs Officer Job Application Form - Help Guide
 ## Purpose
 The Customs Officer Job Application Form is a document designed to gather necessary information from applicants for the Customs Officer position. It's a vital part of the hiring process, and we encourage you to complete it carefully to demonstrate your qualifications and suitability for the role.

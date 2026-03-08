@@ -1,10 +1,3 @@
-<thinking>
-The form, titled "Agricultural Mortgage Risk Assessment," is designed to collect information from farmers and agriculturalists to assess the risks associated with their mortgage applications. The purpose of this form is to gather relevant data points related to the borrower's farm operation, financial history, and collateral, to make an informed decision regarding loan approval. This form is intended for internal use by agricultural mortgage officers to evaluate loan applications and make recommendations. 
-
-This guide will walk the user through each field, explaining their purpose, required status, and any relevant details needed to complete the form accurately.
-
-</thinking>
-
 # Agricultural Mortgage Risk Assessment - Help Guide
 ## Purpose
 The Agricultural Mortgage Risk Assessment form is designed to collect information from farmers and agriculturalists to assess the risks associated with their mortgage applications. This form is used internally by agricultural mortgage officers to evaluate loan applications and make informed decisions.

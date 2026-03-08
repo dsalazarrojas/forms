@@ -1,9 +1,3 @@
-<thinking>
-The Water Engineer Job Application Form is designed to collect information from job applicants for water engineering positions. This form is intended for water engineering professionals looking to apply for jobs in this field. The form is divided into various sections that capture essential details about the applicant, including job title, work experience, education, contact information, and job preferences. The form's fields are designed to be clear and concise, allowing applicants to easily provide the necessary information. The form's options for job title, work experience level, job category, and job type are predefined to give applicants a clear idea of what they can choose from. However, applicants can choose "Other" as an option in some fields if they don't fit into the predefined categories.
-
-Before filling out this form, please ensure that you have all the necessary information ready and that you understand the required and optional fields. If you have any doubts or concerns, feel free to ask the assigned user for clarification.
-</thinking>
-
 # Water Engineer Job Application Form - Help Guide
 ## Purpose
 The Water Engineer Job Application Form is designed to collect information from job applicants for water engineering positions.

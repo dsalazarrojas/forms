@@ -1,5 +1,3 @@
-<thinking>This form is used for Warehouse Staff to request a reissue of their Warehouse ID, which is a unique identifier for each staff member. The form is used to capture the reason for the reissue, how the staff member wants to be contacted, department information, and other relevant details. The form will help the staff member to provide necessary information to support their request. Please note that this form is not intended for staff members who are not eligible for reissue, and the form will not be submitted to the system if the staff member's status is not "Active". Also, please make sure to fill out all the mandatory fields (marked as "true" in the form) to ensure a proper reissue request.</thinking>
-
 # Warehouse Staff ID Reissue Request Form - Help Guide
 ## Purpose
 The Warehouse Staff ID Reissue Request Form is used for Warehouse staff members to request a reissue of their Warehouse ID.

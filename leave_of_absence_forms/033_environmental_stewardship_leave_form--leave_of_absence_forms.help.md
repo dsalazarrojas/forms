@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information for an Environmental Stewardship Leave Form. It is used to record employee absences related to environmental stewardship activities. The purpose of this form is to ensure that employees are properly accounted for during their leave and to track the status of their requests. This form should only be used for legitimate leave requests, and duplicate submissions should be avoided to prevent unnecessary processing and potential delays in resolving the leave request.
-
-Please make sure to complete the form accurately and thoroughly, as it will be reviewed by the relevant personnel. If you are unsure about any of the fields or have any questions, you can contact the relevant department or manager.
-
-To ensure that your leave request is processed efficiently, please complete all required fields. If you are requesting a leave that spans multiple dates, please enter the start and end dates accordingly. If you are unsure about any of the fields, please provide as much detail as possible to facilitate the review process.
-
-</thinking>
-
 # Environmental Stewardship Leave Form - Help Guide
 ## Purpose
 The Environmental Stewardship Leave Form is used to record employee absences related to environmental stewardship activities.

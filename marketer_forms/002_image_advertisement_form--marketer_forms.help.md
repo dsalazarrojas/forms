@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "image_advertisement_form" form, which is used for uploading and managing images used for advertisements. This form should help end users understand its purpose, how to complete it, and what each field means. We will analyze the form's YAML structure to determine the correct explanations for each field. We should aim to be concrete, concise, and practical in our explanations.
-</thinking>
-
 # image_advertisement_form - Help Guide
 ## Purpose
 The image_advertisement_form is used to upload and manage images used for advertisements. This form allows users to select the type of image, upload the image, and provide a description for the image.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the Document Retrieval Agreement form. The purpose of this form is to collect information on documents retrieved from an organization, including the organization's name, the representative's name, the date and time of retrieval, and various details about the document's status, delivery, and verification. The form is organized into multiple pages, each with its own set of fields, but all follow a standard structure of collecting basic identification information, date and time stamps, and specific details about the document.
-</thinking>
-
 # Document Retrieval Agreement - Help Guide
 ## Purpose
 The Document Retrieval Agreement form is designed to collect information about documents that have been retrieved from an organization. This form gathers data on the organization's details, the representative handling the document, and the document's status throughout its journey, including the date and time of retrieval, delivery, and verification.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for employees to request parental leave, which is a temporary leave of absence from work to care for a family member. This form serves as a centralized platform for employees to submit their request and for managers to approve or reject the request. The form will be used to collect relevant information about the employee's request, including the reason for the leave, start and end dates, and other related details. This form aims to facilitate a smooth and transparent process for both employees and managers.
-
-Before starting to fill out this form, please ensure that you have the necessary permissions and approvals from your manager. This form is not intended to be a duplicate form, and you should only submit this form once per request. If you have already submitted a request and need to make changes, please contact your HR representative for further assistance.
-
-</thinking>
-
 # Parental Leave Request Form - Help Guide
 ## Purpose
 The Parental Leave Request Form is a form designed for employees to request parental leave, which is a temporary absence from work to care for a family member. The form collects relevant information about the employee's request and serves as a centralized platform for managers to approve or reject the request.

@@ -1,16 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the "precision_mold_production_order_form" form, used for precision mold production orders. This form is designed to capture essential details about the order, including customer information, order specifications, delivery needs, and production status. The form's purpose is to facilitate the production process by collecting relevant data in a structured manner.
-
-This guide covers the following topics:
-
-1.  How to complete the form
-2.  Field-by-field explanation of the form
-3.  Tips and suggestions for users
-
-Please note that this form is designed to be used by both customers and production team members to track and manage precision mold production orders.
-
-</thinking>
-
 # precision_mold_production_order_form - Help Guide
 ## Purpose
 The "precision_mold_production_order_form" is a form used to collect and manage information for precision mold production orders. It is designed to provide a structured and efficient way for customers and production team members to capture and track essential details about the order.

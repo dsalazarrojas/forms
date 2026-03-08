@@ -1,10 +1,3 @@
-<thinking>
-To ensure that this form is correctly filled out and meets the required information, let's quickly review its purpose and potential issues:
-- The form is intended to collect information about a client's interest in the new communication service, including their current solution, challenges, and expectations.
-- It may be used for lead generation, but it's essential to check if the client's interest level is genuine and not just for research purposes.
-- To avoid duplication, the form should not be submitted multiple times by the same contact person or from the same company.
-</thinking>
-
 # Communication Service Release Client Interest Form - Help Guide
 ## Purpose
 The Communication Service Release Client Interest Form is designed to collect information about your company's interest in our new communication service. This form helps us understand your requirements and preferences, allowing us to better serve your needs.

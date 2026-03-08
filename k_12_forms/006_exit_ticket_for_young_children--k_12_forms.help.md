@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used as an exit ticket for young children, typically after a lesson or activity, to record the student's completion of the task, teacher's comments, and any other relevant information. This form is not intended to be used for children under the age of 6 or for children with special needs. Please ensure you are using this form correctly and that the child has the ability to understand and sign the form.
-</thinking>
-
 # Exit Ticket For Young Children - Help Guide
 ## Purpose
 This form is a document that serves as proof of a young child's participation in a lesson or activity.

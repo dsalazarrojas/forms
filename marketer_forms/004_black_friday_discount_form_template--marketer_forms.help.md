@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help Black Friday campaign managers create a Black Friday discount template by collecting relevant details about the campaign. To ensure accurate and thorough completion, review the following guide to fill out this form correctly.
-
-The form is a one-page object with 11 fields, each with its own purpose and requirements. Please ensure you have all the necessary information before starting, as some fields are required. Review the form carefully to avoid duplication or missing crucial details.
-
-</thinking>
-
 # Black Friday Discount Form Template - Help Guide
 ## Purpose
 This form is a Black Friday discount template designed to collect campaign details for promotional purposes. It helps ensure accurate and efficient campaign management by providing a structured format for campaign creators to input their campaign specifics.

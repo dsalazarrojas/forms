@@ -1,15 +1,3 @@
-<thinking>...This form is used to schedule a counseling session with an employee. It is essential to ensure that the session is accurately represented and the necessary information is provided. Before filling out this form, please review the following guidelines to avoid duplication:
-
-* Make sure you have not already submitted a form for the same session.
-* Ensure the session date and time are correct and realistic.
-* Be specific about the session type (individual, group, or family).
-* Enter a realistic duration for the session.
-* Double-check the start and end times for accuracy.
-* Provide a valid reason for the time off, if necessary.
-* Ensure you have the necessary permissions for the time off, if required.
-
-</thinking>
-
 # Counseling Session Time Off Form - Help Guide
 ## Purpose
 This form is used to schedule a counseling session with an employee. It is essential to provide accurate and complete information to ensure the session is properly scheduled and processed.

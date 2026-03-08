@@ -1,10 +1,3 @@
-<thinking>
-The form is intended to support employees who are requesting a medical leave of absence (LOA) as a nurse. 
-The purpose of this form is to ensure that nurses can take necessary time off for medical reasons while maintaining accurate records and ensuring that the necessary approvals and comments are collected. 
-Please note that this form can be submitted only once by the employee. 
-This form will serve as a guide to help you complete it correctly.
-</thinking>
-
 # Medical Leave Of Absence Request (Nurse) - Help Guide
 ## Purpose
 This form is for requesting a medical leave of absence as a nurse. It helps in maintaining accurate records and ensures that the necessary approvals and comments are collected.

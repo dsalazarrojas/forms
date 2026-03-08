@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for requesting fire safety equipment tests. The purpose of this form is to gather information about the request, including the test date and time, test frequency, and any additional comments or notes. This form is meant to be a general guide for end-users on how to fill it out correctly. To ensure that the form is filled out correctly, please check that the form has not been submitted before and that all required fields are filled out.
-
-</thinking>
-
 # Fire Safety Equipment Test Request Form - Help Guide
 ## Purpose
 The Fire Safety Equipment Test Request Form is used for requesting fire safety equipment tests. This form is designed to gather information about the test request, including the test date and time, test frequency, and any additional comments or notes.

@@ -1,7 +1,3 @@
-<thinking>
-The Non Compete Agreement Declaration Form is used to collect information from employees about their non-competitive agreement status. This form is used to ensure that employees do not have any non-competitive agreements in place that could conflict with the company's interests.
-</thinking>
-
 # Non Compete Agreement Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information about an employee's non-competitive agreement status, ensuring that they do not have any agreements that could conflict with the company's interests.

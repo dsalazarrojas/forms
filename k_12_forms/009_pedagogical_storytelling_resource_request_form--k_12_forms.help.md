@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm, this form is used to request pedagogical storytelling resources for a specific grade level and subject in K-12 education.
 
 Before filling out this form, please note that:

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect basic product information for use in a manufacturing context. The form has multiple sections with varying levels of complexity, and the purpose of this help guide is to break down the form into a user-friendly format for those filling it out. Please ensure that you have access to the necessary data and that you're not duplicating existing information when filling out this form. It's also a good idea to review the form carefully and ask for clarification if you're unsure about any part of it.</thinking>
-
 # Product Information Form - Help Guide
 
 ## Purpose

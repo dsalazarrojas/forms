@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information about material procurement performance from suppliers. It's essential to understand the purpose of this form and ensure that you're submitting a complete and accurate report. Please note that each section of the form has a specific purpose, so make sure to fill it out accordingly. 
-
-If you've already submitted a similar report for the same supplier, please do not submit another report for the same supplier. This will help maintain the accuracy and consistency of the data. 
-
-Please review each field carefully and fill it out as instructed below.
-
-</thinking>
-
 # Material Procurement Performance Report Form - Help Guide
 ## Purpose
 The Material Procurement Performance Report Form is designed to collect information about material procurement performance from suppliers. This form helps assess and evaluate the performance of suppliers based on your experiences and interactions.

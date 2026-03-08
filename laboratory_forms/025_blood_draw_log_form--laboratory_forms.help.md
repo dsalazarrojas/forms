@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to record blood draw details for documentation and patient care. It is designed to gather information about the patient, the procedure, and the outcome of the blood draw. 
-
-When filling out this form, please ensure that the information is accurate and complete, as it will be used for patient care and medical decision-making.
-
-The form is divided into several pages, each with its own set of fields. 
-
-Please ensure that each field is filled out completely and accurately before submitting the form.
-
-</thinking>
-
 # Blood Draw Log Form - Help Guide
 ## Purpose
 The Blood Draw Log Form is a document used to record details about a blood draw procedure. This includes patient information, blood draw details, and outcome of the procedure. The form is used for documentation and patient care.

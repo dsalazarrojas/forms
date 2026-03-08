@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect job application information from applicants who are not aware of the current job openings at the company. The purpose of this form is to gather their job interest and qualifications without revealing sensitive job posting information. The form is meant to be completed by those who are interested in exploring potential job opportunities within the company but are not aware of the specific job titles or descriptions. This form is designed to be a first point of contact for potential applicants and to filter out those who do not have the required qualifications for the jobs we currently have available.
-
-This form should only be used by those who have not seen a job posting on our website and are interested in learning more about potential opportunities. We will review the submitted forms and contact the interested candidates with more information about our current job openings that match their qualifications.
-
-Please note that the form will only be reviewed for applicants who have not previously submitted an application through this form.
-
-</thinking>
-
 # unadvertised_job_application_form - Help Guide
 ## Purpose
 The unadvertised job application form is a way for potential applicants to express their interest in exploring potential job opportunities within the company without having seen a job posting on our website.

@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # University Laboratory Session Evaluation Form - Help Guide
 ## Purpose
 The University Laboratory Session Evaluation Form is used by laboratory staff to collect feedback and ratings from students about their recent laboratory sessions. This form helps to identify areas of improvement and to provide students with a platform to express their thoughts and suggestions.

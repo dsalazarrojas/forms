@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect essays from students, and this guide will provide step-by-step instructions on how to complete it successfully. This form is part of the "K-12 Forms" category, and its purpose is to gather student essays online. It appears that this form is designed to gather information related to student submissions and tracking, but some fields, such as "Submission Tracking 2" and "Submission Tracking 3", seem to be duplicates or possibly errors, which will be addressed in the field explanations. To avoid confusion, the guide will address these fields last. The form's fields include title, category, description, file upload, instructor name, instructor email, student ID, submission tracking, form submission time, upload essay, submission tracking 2, form submission 2, upload essay 2, instructor name 2, and submission tracking 3. Each field will be explained in detail to help users fill it out correctly and accurately.
-</thinking>
-
 # student_essay_upload_form - Help Guide
 ## Purpose
 The "student_essay_upload_form" is designed to collect student essays online, as part of the "K-12 Forms" category.

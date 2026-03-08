@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to facilitate Academic Health Related Leave of Absence (AHLRA) requests for students. The form's purpose is to ensure that students can provide necessary information for their leave request, which is then reviewed and approved by the relevant authorities. This guide will walk you through the process of completing this form.
-
-Before proceeding, please note that this form should only be used for legitimate health-related absences and not for other personal reasons. If you're unsure about the legitimacy of your request, please contact your department or institution for guidance. Furthermore, ensure that you have not submitted a similar request in the past, as this may affect your eligibility for leave.
-
-</thinking>
-
 # Academic Health Related Leave Of Absence Request - Help Guide
 ## Purpose
 The purpose of this form is to request a leave of absence due to health-related reasons. It is essential to provide accurate and truthful information to ensure a smooth review and approval process.

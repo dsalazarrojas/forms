@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to support employees in the process of recovering from a workplace injury. It is designed to collect information about the injury, such as the date it occurred, the type of injury, and a description of what happened. The form also asks for the employee's ID, which is used to identify the employee in the system. Additionally, the form includes fields for the employee's return date, the status of their recovery, and comments from managers.
-</thinking>
-
 # Workplace Injury Recovery Time Off Form - Help Guide
 ## Purpose
 The Workplace Injury Recovery Time Off Form is designed to support employees in the process of recovering from a workplace injury. It helps to collect information about the injury, track the employee's recovery progress, and facilitate communication between the employee, managers, and HR.

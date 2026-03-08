@@ -1,7 +1,3 @@
-<thinking>
-This form is used for approving purchases made by employees or departments. This form should be used when an employee or department requests to make a purchase, and the approver needs to verify the purchase details. This form can be completed by anyone who has been granted access to it, and is meant to be filled out by both the requestor and the approver. To prevent duplication, it's recommended that each form be filled out and approved before the next purchase request is made.
-</thinking>
-
 # Purchase Approval Form - Help Guide
 ## Purpose
 The Purchase Approval Form is used for verifying purchase details made by employees or departments.

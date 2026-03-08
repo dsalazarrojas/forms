@@ -1,16 +1,3 @@
-<thinking>
-This is a form for validating lab test results. The form is designed to collect information about a patient's lab test results, including their lab test name, date, time, and result value. The form also includes fields for medical provider information and hospital details. The purpose of this form is to ensure that lab test results are properly documented and verified.
-
-The form consists of multiple pages, with each page having its own set of fields. Page 1 is for patient information, including their ID, date of birth, and address. Page 2 is for lab test details, including the test name, date, time, and result value. Page 3 is for medical provider information, including their name, specialty, and contact details. Page 4 is for hospital details, including the hospital name, phone number, and department code.
-
-The form is designed to be completed by authorized personnel, such as medical professionals, to ensure that lab test results are accurately documented and verified. The form is also designed to be easy to navigate and complete, with clear labels and instructions for each field.
-
-Before completing this form, please ensure that you have all the necessary information and that you are authorized to complete this form.
-
-This form is not intended to be used for emergency situations, and completion of this form does not guarantee approval of lab test results.
-
-</thinking>
-
 # Lab Test Result Validation Form - Help Guide
 ## Purpose
 The Lab Test Result Validation Form is designed to collect and verify lab test results for patients. This form ensures that lab test results are accurately documented and verified by authorized personnel.

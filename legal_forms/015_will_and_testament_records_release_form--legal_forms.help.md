@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # will_and_testament_records_release_form - Help Guide
 ## Purpose
 This form is used to record the release of will and testament records. It captures essential information for the release process, including the legal representative's details, estate settlement status, and notarization details.

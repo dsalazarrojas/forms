@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a customer's lead generation process, allowing us to better understand their current strategies and goals. The form is meant to be a quick and straightforward way to get in touch with our team about their lead generation processes, enabling us to provide more tailored support and services. Please fill out the form carefully, as this information will help us tailor our support to your specific needs. This is a non-duplicated form, and your input will help us improve our services. Please ensure that you fill out the form only once for each contact person.
-</thinking>
-
 # Customer Value Strategy Contact Form - Help Guide
 
 ## Purpose

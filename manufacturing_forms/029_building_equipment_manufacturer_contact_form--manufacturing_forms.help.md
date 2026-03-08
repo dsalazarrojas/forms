@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Building Equipment Manufacturer Contact Form - Help Guide
 ## Purpose
 This form is designed to gather information from building equipment manufacturers to facilitate communication and collaboration for your projects. Please fill out this form to share your requirements, needs, and preferences with us, and we will get back to you with relevant information and support.

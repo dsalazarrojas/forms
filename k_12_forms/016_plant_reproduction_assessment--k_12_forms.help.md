@@ -1,10 +1,3 @@
-<thinking>
-We're going to assume that the form is used for assessing the reproduction status of plants, and its impact on their growth and development. This form might be used in a botanical or horticultural context, where the assessment is crucial for understanding plant behavior and making informed decisions about plant care and management.
-
-To complete this form, you'll be asked questions about various aspects of plant reproduction, such as the plant's reproduction status, growth rate, characteristics, and care. The form will guide you through different pages, and you'll be asked to select options or input text responses.
-
-We'll provide a detailed explanation for each field in the "Field-by-Field Explanation" section below.</thinking>
-
 # Plant Reproduction Assessment - Help Guide
 ## Purpose
 This form is used to assess the reproduction status of plants and its impact on their growth and development.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from shareholders to obtain their consent for the dissolution of a company. This form is intended for the use of the company's administrators or legal representatives. It should not be used for general business purposes or other types of legal forms.
-The form is divided into several sections, each with a specific set of fields. Please ensure that you complete the form accurately and thoroughly, and that you do not submit duplicate or redundant information.
-Before proceeding, please note that the required fields are marked as such and must be completed before submitting the form.
-</thinking>
-
 # Shareholder Dissolution Consent Form - Help Guide
 ## Purpose
 This form is used to gather shareholder consent for the dissolution of a company. It is intended for use by the company's administrators or legal representatives.

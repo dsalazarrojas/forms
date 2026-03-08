@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for an office and hangar sublease agreement, typically used for temporary or short-term sublease arrangements. This form is crucial for establishing a formal agreement between the tenant and the property manager, ensuring both parties' understanding of the terms and conditions of the sublease. To avoid duplication, this form is usually used for new sublease requests, not renewals or extensions of existing agreements.
-
-Before proceeding, ensure that you have all necessary information and approvals in place. This form should be completed with care and attention to detail to avoid errors or misunderstandings.
-
-Please note that certain fields may be required or have specific guidelines to ensure accurate and valid information.
-
-</thinking>
-
 # office_and_hangar_sublease_form - Help Guide
 ## Purpose
 This form collects information for an office and hangar sublease agreement, ensuring a formal understanding between the tenant and property manager.

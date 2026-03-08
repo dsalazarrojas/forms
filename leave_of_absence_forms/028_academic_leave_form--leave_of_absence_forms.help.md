@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from students about their leave of absence from academic activities. The purpose of this form is to collect accurate and relevant details about the student's leave, including personal information, leave start and end dates, and the reason for the leave. This form will be used to process and manage leave requests efficiently. To ensure that each student's leave is properly recorded and managed, it is crucial that the form is filled out completely and accurately.
-</thinking>
-
 # Academic Leave Form - Help Guide
 ## Purpose
 This form is designed to gather information from students about their leave of absence from academic activities. It is essential for proper leave processing and management.

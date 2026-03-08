@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to help users test their knowledge on civil litigation, a type of legal action that involves disputes between private parties or organizations. The form is a self-assessment tool that helps users gauge their understanding of key concepts and rules governing civil litigation. 
-
-The form is designed to be a comprehensive quiz that covers various aspects of civil litigation, including key concepts and rules. It is a useful tool for students, legal professionals, or anyone interested in learning about civil litigation.
-
-The form has been designed to be completed in multiple pages, with each page addressing a specific topic or question. 
-
-</thinking>
-
 # Civil Litigation Knowledge Quiz - Help Guide
 ## Purpose
 This form is a self-assessment tool designed to test your knowledge on civil litigation, a type of legal action that involves disputes between private parties or organizations.

@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to be a self-assessment tool for loan programs, likely used by loan officers or financial coaches to evaluate the suitability of a loan program for a specific individual or business. The form likely contains demographic, financial, and program-specific information to help the officer or coach make an informed decision. Before completing this form, ensure that the individual or business being assessed is relevant to the loan program in question and that the assessment is not being duplicated or redundant. 
-
-</thinking>
-
 # Loan Program Self Assessment - Help Guide
 ## Purpose
 This form is used to gather information for the loan program self-assessment. It is a tool used by financial coaches to evaluate the suitability of a loan program for an individual or business.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that the form is used correctly and efficiently, please note the following:
 - This form is intended for internal use within our organization.
 - The form is used to requisition dairy packaging for various departments.

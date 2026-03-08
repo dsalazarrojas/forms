@@ -1,16 +1,3 @@
-<thinking>
-The form purpose is to collect information about the production batch integrity of a product or material. This includes details about the batch such as the production date, location, and time, as well as the results of inspections and any issues that were encountered during production. The form is used to document the production process and ensure that all relevant information is captured for future reference. This is a critical form for maintaining accurate and reliable records of production activities. It's likely used by production staff or quality control teams to verify the integrity of a production batch.
-
-This form may be part of a larger quality control or production management system and is intended to be used for specific batches of products or materials. To avoid duplication of effort, it's recommended to only fill out this form for new production batches and not for revising or updating information for existing batches.
-
-To ensure accurate and complete completion of this form, please note that all fields are optional unless specifically marked as "required". The form includes sections for batch details, inspection results, issues, corrective actions, batch status, production date, production time, production location, production shift, quality inspector, production manager, batch integrity comment, and production batch integrity rating.
-
-This form is designed to be completed for each production batch, and it's essential to fill it out as soon as possible after production completion. This will help ensure that all relevant information is captured accurately and in a timely manner.
-
-Please ensure that you're filling out the form for the correct batch and not duplicating efforts. If you're unsure about any information, please consult with a production or quality team member for guidance.
-
-</thinking>
-
 # Production Batch Integrity Report - Help Guide
 ## Purpose
 The Production Batch Integrity Report is a form used to collect and document information about the integrity of a production batch.

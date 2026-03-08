@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for petitioning the termination of guardianship for a minor or incapacitated person. It is intended to be used by a person seeking to end their relationship as a guardian or ward. The form is designed to collect information about the ward's details, the person petitioning, the reason for termination, and the grounds supporting the termination. The form is optional, but is recommended for completeness. The fields in this form are not meant to be filled out by multiple people at once.
-
-</thinking>
-
 # Petition To Terminate Guardianship Form - Help Guide
 ## Purpose
 This form is for petitioning the termination of guardianship for a minor or incapacitated person.

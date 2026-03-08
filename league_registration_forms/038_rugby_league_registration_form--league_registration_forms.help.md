@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for players to register for the Rugby League. It is a simple, two-page form that gathers basic information about the player and their team. This form should only be filled out by players who are interested in registering for the league. There is no need to complete this form if you are not a player.
 
 </thinking>

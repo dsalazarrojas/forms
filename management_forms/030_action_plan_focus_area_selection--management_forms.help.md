@@ -1,21 +1,3 @@
-<thinking>
-
-This guide is intended for employees to identify and select the most important areas of focus for their action plans. This form is used to gather information about the specific objectives, current state, desired outcomes, action steps, target completion dates, and resources required for achieving these objectives. The goal is to help employees set clear expectations and create a plan for achieving their performance goals.
-
-The form is designed to guide the user through a series of questions, ensuring they have the necessary information to create a comprehensive action plan. By completing this form, employees will be able to:
-
-* Identify the primary and secondary focus area for their action plan
-* Define specific objectives within that area
-* Assess their current state and identify the desired outcome
-* Outline the steps needed to achieve their objectives
-* Establish a target completion date
-* Identify any required resources
-* Determine the metrics for measuring success
-
-The form will help managers and supervisors review and guide the action plans, providing a clear understanding of each employee's goals and objectives.
-
-</thinking>
-
 # Action Plan Focus Area Selection - Help Guide
 ## Purpose
 This form guides employees in selecting the primary and secondary focus areas for their action plans, defining specific objectives, and creating a comprehensive plan for achieving their performance goals.

@@ -1,8 +1,3 @@
-<thinking>
-We are creating a help guide for the "Makeup Pre Event Survey" form. This form is designed to collect information about events where makeup services will be provided. The form will help us better understand the event details, artist availability, and client preferences, ultimately enhancing our service delivery experience. This guide will explain each field in the form to ensure that end users understand what information we need from them.
-
-</thinking>
-
 # Makeup Pre Event Survey - Help Guide
 
 ## Purpose

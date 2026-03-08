@@ -1,13 +1,3 @@
-<thinking>
-  This form is for job applicants to apply for work at Lighthouse organization. 
-  Please ensure you fill it out thoroughly and accurately to help us 
-  assess your qualifications and suitability for the job.
-  This form has been designed to collect all required information for 
-  processing and evaluation. It will help us understand your background, 
-  experience, and goals. 
-  Please note that some fields are optional, but filling them out will provide us more insight into your application.
-</thinking>
-
 # Lighthouse Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from job applicants for the Lighthouse organization. The form is used to assess your qualifications and suitability for a position at Lighthouse. 

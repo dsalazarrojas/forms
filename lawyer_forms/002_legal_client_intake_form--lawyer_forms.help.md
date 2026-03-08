@@ -1,27 +1,3 @@
-<thinking>
-This guide will provide a detailed explanation of the Legal Client Intake Form, which is used to collect information from legal clients. The form is designed to gather essential details about the client's situation, preferences, and requirements for their legal matter. It is intended for use by legal professionals to streamline the intake process and ensure a comprehensive understanding of the client's needs.
-
-The guide will cover the following topics:
-
-1. The form's purpose and goals
-2. Step-by-step instructions on how to complete the form
-3. Detailed explanations of each field, including labels, types, and required fields
-
-The form is used to:
-- Determine whether a client has taken the first steps in their legal matter
-- Collect multiple selection of legal client intake form steps
-- Determine whether the next steps in the legal matter are required
-- Gather detailed descriptions from the client
-- Collect time-related information (if applicable)
-- Provide a note section for additional comments
-- Collect date-related information (if applicable)
-- Collect numerical information (if applicable)
-- Gather contact information from the client
-
-It is crucial to complete the form accurately and thoroughly to ensure the best possible outcome for the client. The guide will outline the necessary steps and provide clear explanations of each field to facilitate a smooth and efficient process.
-
-</thinking>
-
 # Legal Client Intake Form - Help Guide
 ## Purpose
 The Legal Client Intake Form is designed to collect essential information from legal clients to facilitate a comprehensive understanding of their legal matter. It is intended for use by legal professionals to streamline the intake process and ensure accurate representation of the client's needs.

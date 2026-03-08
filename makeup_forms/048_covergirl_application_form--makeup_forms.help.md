@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is used to collect information from potential models for the Covergirl brand. The form is designed to gather basic contact information, work experience, and social media presence. It is used to identify potential candidates for brand ambassador roles. The form will be reviewed by the brand team to determine suitability. 
-
-</thinking>
-
 # Covergirl Application Form - Help Guide
 ## Purpose
 This form is used to collect information from potential models for the Covergirl brand. It will be reviewed by the brand team to determine suitability for brand ambassador roles.

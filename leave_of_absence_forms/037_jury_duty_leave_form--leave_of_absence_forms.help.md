@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose and that employees are filling it out correctly. This form is for requesting a leave of absence for jury duty, which is a legitimate reason for taking time off from work. To avoid duplication of efforts, we should check with the HR department to see if the employee has already filed a leave of absence request. Additionally, we should ensure that the employee understands the form's purpose and requirements before proceeding.
-</thinking>
-
 # Jury Duty Leave Form - Help Guide
 ## Purpose
 The Jury Duty Leave Form is a document used to request time off for jury duty. It is an official request to the HR department, stating the dates of absence and other relevant details.

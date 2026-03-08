@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Unpaid Leave Absence Form - Help Guide
 
 ## Purpose

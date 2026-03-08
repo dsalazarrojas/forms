@@ -1,7 +1,3 @@
-<thinking>
-This is a form for designating an inheritance beneficiary, likely used by legal professionals to manage the distribution of assets or benefits in the event of a client's passing. The purpose of this form is to gather information about the client's relationship status, address, contact details, and other relevant particulars. This form is likely part of a larger system for managing client data and is used to ensure that the client's wishes are respected and their benefits are distributed according to their specifications. To avoid duplication, it's essential to review the client's existing forms and ensure this new form is not creating redundant information. This form is designed to be completed by the client themselves or by someone authorized to act on their behalf, such as a family member or lawyer. The goal is to provide clear and concise instructions on how to complete the form correctly, ensuring accurate and reliable data collection.
-</thinking>
-
 # Inheritance Beneficiary Form - Help Guide
 ## Purpose
 The "Inheritance Beneficiary Form" is a document that helps you manage the distribution of assets or benefits upon your passing. It ensures your wishes are respected, and your loved ones are taken care of.

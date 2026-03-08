@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be used by employees to request sick leave cash out, which is a process that allows employees to receive a payment for unused sick leave hours. The form will be completed by the employee and submitted to their manager for review and approval. The manager will then review the request, provide comments, and approve or deny the request. This form is intended to facilitate a clear and efficient process for requesting sick leave cash out, making it easier for employees to access their available leave and for managers to manage leave requests. 
-
-It is expected that this form will be used for legitimate and genuine reasons only, such as illness, injury, or other unforeseen events. Duplicate or frivolous requests will not be approved. 
-
-This guide is for the end user who will be using the form to submit a request, not for managers or administrators who will be reviewing requests.
-</thinking>
-
 # Sick Leave Cash Out Request - Help Guide
 ## Purpose
 This form is used by employees to request a payment for unused sick leave hours.

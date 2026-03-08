@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: this form is used by HR and other departments to collect and manage IT consultant certification leave requests. It helps keep track of certification dates, absences, and related reasons. The form's purpose is to ensure a smooth process for both IT consultants and their managers... </thinking>
-
 # IT Consultant Certification Leave Of Absence Form - Help Guide
 ## Purpose
 

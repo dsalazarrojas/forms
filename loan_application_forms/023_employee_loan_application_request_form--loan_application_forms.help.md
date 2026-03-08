@@ -1,9 +1,4 @@
-### <thinking>
-This form is designed to collect loan application requests from employees. It is meant to be used internally within the organization to streamline the loan approval process.
-Please ensure that you have a legitimate reason for applying for a loan before submitting this form. Duplicate submissions will be rejected.
-</thinking>
-
-# Employee Loan Application Request Form - Help Guide
+### # Employee Loan Application Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather necessary information for a loan application request from employees. This form will help the loan committee to review and process the request efficiently.
 

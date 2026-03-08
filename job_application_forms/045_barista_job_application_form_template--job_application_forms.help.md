@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for a barista job application form. It collects contact information, experience, and qualifications for a potential barista position in a coffee shop. The form should be completed by an individual who is interested in applying for a barista role and is looking to provide accurate and up-to-date information. Before proceeding, please check if you have previously completed this form or have an existing account with this company. If not, please ensure you are not duplicating an application already submitted. 
-</thinking>
-
 # 045_barista_job_application_form_template--job_application_forms - Help Guide
 ## Purpose
 The Barista Job Application Form is a template designed to collect information from potential candidates for barista positions in a coffee shop. This form gathers essential details about the applicant's contact information, experience, and qualifications for the role.

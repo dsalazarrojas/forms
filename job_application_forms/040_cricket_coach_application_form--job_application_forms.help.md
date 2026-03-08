@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cricket Coach Application Form - Help Guide
 ## Purpose
 The Cricket Coach Application Form is a form designed for individuals interested in applying for a cricket coach position within our organization. This form allows applicants to provide essential information about themselves, their contact details, coaching experience, and any relevant certifications. It is essential to ensure that the information provided in this form is accurate, complete, and true to the best of the applicant's ability to increase the chances of a successful application.

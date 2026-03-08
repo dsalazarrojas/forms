@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers find personalized makeup recommendations based on their skin tone, hair color, eye color, and style preferences. The form collects information about the user's skin tone, hair color, eye color, and style to provide tailored suggestions for makeup products that would suit them best. This form is meant to be filled out by customers to get recommendations for foundation, concealer, blush, eyeshadow, and lipstick. The information collected will be used to provide a more accurate and relevant makeup color match.
-</thinking>
-
 # Personalized Makeup Color Match Form - Help Guide
 ## Purpose
 This form is designed to help customers find personalized makeup recommendations based on their skin tone, hair color, eye color, and style preferences.

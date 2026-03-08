@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an affidavit, a written statement made under oath or affirmation, typically used to support or prove a particular fact. The form is meant to gather details about the submitter, the case or issue at hand, the type of affidavit, and the notarization information. This form will help guide users through each step of the process.
-</thinking>
-
 # Affidavit Submission Form - Help Guide
 ## Purpose
 This form is used to create an affidavit, a sworn statement that provides evidence or support for a particular claim or fact. The affidavit submission form is a standardized template designed to collect all necessary information for a formal affidavit.

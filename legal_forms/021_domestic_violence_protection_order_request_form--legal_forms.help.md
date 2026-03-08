@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a legal form for requesting a domestic violence protection order. The purpose of this form is to provide a structured way for individuals to request a domestic violence protection order, which is a court order that can provide relief from domestic violence or abuse. This form is likely to be used in conjunction with the relevant legal proceedings.
-
-Before using this form, it's essential to ensure that it is not being duplicated or submitted unnecessarily. This can help prevent unnecessary legal processes and potential consequences.
-
-This form may need to be reviewed for relevance to the current legal context and updated accordingly. Please ensure it is tailored to the specific requirements of the legal situation it is intended to support.
-
-</thinking>
-
 # Domestic Violence Protection Order Request Form - Help Guide
 ## Purpose
 The Domestic Violence Protection Order Request Form is a legal form designed to provide a structured approach for requesting a domestic violence protection order. This order can provide relief from domestic violence or abuse, and it's essential to complete this form accurately and thoroughly to ensure that your request is considered.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used for library membership enrollment. It captures user details such as name, contact information, and membership preferences. The form is designed to ensure accurate and complete data for library services. It is essential to complete the form correctly to avoid duplication and ensure that you receive the right services. If you're unsure, please review the form carefully before submission.
-
-</thinking>
-
 # Library Membership Form - Help Guide
 ## Purpose
 This form is used to enroll as a library member.

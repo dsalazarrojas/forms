@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this form. This form is used for receiving and tracking inheritance, which is a legal process where an individual receives assets or property from a deceased person. In this form, the user will provide details about the inheritance, including the description of the inheritance, the person inheriting, the items received, and the value of the inheritance. The user will also be asked to provide tax information, witness details, and additional notes about the inheritance. 
-
-To ensure accuracy and consistency in the form completion process, we need to clearly explain each field and its purpose. This guide will help users understand the form's purpose and complete it correctly.
-
-</thinking>
-
 # Receipt of Inheritance Form - Help Guide
 ## Purpose
 The Receipt of Inheritance Form is used to document the receipt of inheritance from a deceased person. It's essential to complete this form accurately to ensure that the inheritance process is legally valid and compliant with relevant laws and regulations.

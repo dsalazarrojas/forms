@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medico Legal Assessment Questionnaire - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form used by manufacturers to place orders. The form is called "Component Order Form For Manufacturers" and it's used for providing order details for component supply. It's likely that this form is used in a business-to-business context where companies are ordering components from manufacturers.
-</thinking>
-
 # Component Order Form For Manufacturers - Help Guide
 ## Purpose
 This form is used for companies to submit orders for components to manufacturers. It requires essential details such as the purchaser's name, contact email, and delivery address. Companies can also provide optional information like the unit price and special instructions.

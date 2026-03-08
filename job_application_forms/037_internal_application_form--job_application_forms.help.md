@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended to be used by internal employees to submit their own job applications within the organization. It's essential to ensure that all fields are completed accurately to avoid any potential issues with the application. Please make sure to fill out the form only once for each job position you're applying for, and do not submit duplicate applications. This guide will walk you through each field to ensure you complete the form correctly.</thinking>
-
 # Internal Application Form - Help Guide
 ## Purpose
 This form is used for internal employees to submit their job applications for various positions within the organization. It's essential to fill out the form accurately to avoid any potential issues with the application.

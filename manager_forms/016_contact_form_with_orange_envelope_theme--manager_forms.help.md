@@ -1,7 +1,3 @@
-<thinking>
-We will be designing a user-facing help guide for the "Contact Form With Orange Envelope Theme" to ensure that end-users understand the form's purpose, how to complete it, and what each field means. This will involve analyzing the provided YAML fields and creating a concise and practical explanation for each field, avoiding any unsupported business logic. The guide will be structured to cover the form's purpose, step-by-step completion instructions, and detailed explanations for each field, along with any additional tips that may be helpful for end-users.
-</thinking>
-
 # Contact Form With Orange Envelope Theme - Help Guide
 ## Purpose
 The "Contact Form With Orange Envelope Theme" is a clean and simple contact form designed for general inquiries. This form is intended to gather essential information from users to facilitate efficient communication and response.

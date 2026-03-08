@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Telemarketing Report form is to collect and display information about leads generated through telecalling and email marketing campaigns. This form helps track and manage lead data for further analysis and decision-making. It ensures that the information collected is comprehensive and accurate, reducing errors and improving the efficiency of the sales team. This form is likely to be used by sales teams or marketing departments to monitor and analyze the performance of their campaigns and identify areas for improvement.
-</thinking>
-
 # Telemarketing Report - Help Guide
 ## Purpose
 This form is designed to collect and display information about leads generated through telecalling and email marketing campaigns. It helps track and manage lead data for further analysis and decision-making.

@@ -1,24 +1,3 @@
-<thinking>
-To determine the purpose of the form, let's analyze the input schema. It appears to be a legal consultation intake form designed to collect information from clients or individuals seeking legal services. The form likely aims to gather basic contact and case-related details for internal processing and possibly for assigning cases to lawyers or legal professionals.
-
-Given the fields included, it seems that the form collects:
-* First name
-* Last name
-* Case number (which might be a unique identifier for the case)
-* Type of case (e.g., civil, criminal, family, etc.)
-* Date of birth (which might be used for age verification or other relevant purposes)
-* Contact information (including phone and/or email)
-* Address (physical or postal)
-
-The form does not explicitly require any of these fields, but it seems that the form designer has provided an option for the user to input these details voluntarily. This suggests that the form is intended for gathering additional context rather than mandatory information.
-
-The provided options for "case_type" indicate that the form might be used in various legal contexts, possibly for different types of cases or jurisdictions.
-
-The fields are fairly standard and straightforward, with some fields (like date_of_birth) requiring a more specific format (date) for input.
-
-This guide will help users understand the purpose and usage of the form to ensure they can complete it correctly and efficiently.
-</thinking>
-
 # Legal Consultation Intake Form - Help Guide
 ## Purpose
 The Legal Consultation Intake Form is designed to collect basic contact and case-related information from clients or individuals seeking legal services.

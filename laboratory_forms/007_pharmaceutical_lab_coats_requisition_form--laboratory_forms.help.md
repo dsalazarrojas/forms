@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to gather information for lab coats requisition requests from users. This form should be used by lab personnel to request lab coats for their team, indicating their availability, coat type, location, and other relevant details. It's essential to fill out the form accurately to ensure that the lab coat request is processed correctly and that the necessary information is collected for the lab coat's distribution. To avoid duplicating requests, ensure that you're not submitting a form for the same lab coat request that you've already submitted or that is still pending. If you're unsure, please check with your team lead or the lab coat request system before submitting the form.
-</thinking>
-
 # pharmaceutical_lab_coats_requisition_form - Help Guide
 ## Purpose
 The pharmaceutical_lab_coats_requisition_form is a tool for lab personnel to request lab coats for their team, providing necessary information for the lab coat's distribution.

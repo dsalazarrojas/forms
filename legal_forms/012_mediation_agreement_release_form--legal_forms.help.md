@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to support users in completing the Mediation Agreement Release Form, a document used in legal settings to record the terms and conditions of a mediation process. The form is used to outline the agreement reached between parties involved in a mediation session, which can include individuals, organizations, or entities. This guide will walk users through the form's purpose, completion process, and a detailed explanation of each field to ensure accurate and thorough completion. 
-
-The form's purpose is to capture the details of the mediation process, including the parties involved, the terms agreed upon, and any other relevant information. This form is not intended for legal or professional use and is for illustrative purposes only.
-
-</thinking>
-
 # Mediation Agreement Release Form - Help Guide
 ## Purpose
 The Mediation Agreement Release Form is used to document the agreement reached between parties involved in a mediation session. It captures the terms and conditions of the mediation process, including the parties involved and any other relevant information.

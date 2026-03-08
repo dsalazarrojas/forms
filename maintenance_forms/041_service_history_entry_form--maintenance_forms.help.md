@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to record the history of vehicle maintenance. It is a crucial tool for keeping track of service records, ensuring that technicians are aware of the history of the vehicle they are working on, and providing valuable information for future services. The form should only be filled out once for each vehicle, and any duplicate entries will be rejected by the system.</thinking>
-
 # Service History Entry Form - Help Guide
 
 ## Purpose

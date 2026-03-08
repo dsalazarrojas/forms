@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used by retail employees to request a burnout leave of absence. The purpose of this form is to gather information about the employee's request for a burnout leave and ensure that their manager and team lead have approved of their request. This form will be reviewed by HR for approval and will be stored in the company's leave of absence tracking system.
-
-Before filling out this form, please ensure that you are requesting a burnout leave of absence due to burnout and that your manager and team lead have been informed of your request. This form is for internal use only and should not be shared or used for external purposes.
-
-</thinking>
-
 # Retail Employee Burnout Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used for retail employees to request a burnout leave of absence, which must be approved by both their manager and team lead before being reviewed by HR.

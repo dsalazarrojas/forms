@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Fleet Insurance Driver Assessment" form, we need to first understand the purpose of the form and its relevance to the intended users. This form appears to be designed for collecting information about drivers within a fleet management context, likely for insurance assessment purposes. However, the exact nature of the form's purpose and target audience is unclear without more context. 
-
-Assuming the form's purpose is to collect data for fleet insurance assessment, we can proceed with creating a help guide that addresses how to complete the form and explains each field in detail.
-
-</thinking>
-
 # Fleet Insurance Driver Assessment - Help Guide
 ## Purpose
 The "Fleet Insurance Driver Assessment" form is designed to collect relevant information about drivers within a fleet management context, such as insurance assessment purposes. This form is intended for drivers and fleet managers who want to ensure accurate and complete data is provided for fleet insurance evaluations.

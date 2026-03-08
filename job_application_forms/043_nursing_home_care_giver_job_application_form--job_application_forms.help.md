@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential nursing home caregivers who are interested in working as caregivers for our organization. The form will help us assess their qualifications, experience, and availability to ensure they are a good fit for our facility. Please fill out this form carefully and thoroughly to provide us with the necessary information.
-
-Before filling out this form, please ensure you are not duplicating your application. If you have already applied to this position, please do not fill out this form again.
-
-</thinking>
-
 # Nursing Home Caregiver Job Application Form - Help Guide
 ## Purpose
 This form is designed to help us collect information about your qualifications, experience, and availability as a caregiver for our nursing home facility. It will help us assess your fit for the position and ensure you can provide high-quality care to our residents.

@@ -1,25 +1,3 @@
-<thinking>
-This form is for inspecting electronic devices during the production process. It's intended for production managers and quality assurance teams to track and record inspection results, defect counts, and other relevant information. The form is designed to be completed by the QA Engineer, Production Manager, or Quality Manager who has inspected the electronic device.
-
-To confirm, this is the electronic device production inspection form used for tracking production batches, recording inspection results, and documenting defects or other issues during the inspection process.
-
-Before filling out this form, please review and ensure that the following pages have been completed:
-
-- Page 1: Production Batch (Text)
-- Page 2: Serial Number (Text)
-- Page 3: Product Name (Text)
-- Page 4: Defect Count (Number)
-- Page 5: Defect Description (Text)
-- Page 6: Inspection Result (Select One: Pass, Fail)
-- Page 7: Comments (Text)
-- Page 8: Date Inspected (Date)
-- Page 9: Inspector Name (Text)
-- Page 10: Inspector Role (Select One: QA Engineer, Production Manager, Quality Manager)
-- Page 11: Signature (Time)
-- Page 12: Production Date (Date)
-
-</thinking>
-
 # Electronic Device Production Inspection Form - Help Guide
 ## Purpose
 This form is used for inspecting electronic devices during the production process to ensure quality and identify any defects or issues that may be present.

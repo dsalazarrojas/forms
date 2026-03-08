@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect application information from individuals applying for a physiotherapist position. It is intended for individuals with experience and education in the field of physiotherapy. This form is not meant to be completed by individuals without the necessary qualifications and experience. Please ensure you are eligible to apply before filling out this form.
-</thinking>
-
 # Physiotherapist Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from applicants for a physiotherapist position. Please ensure you have all required qualifications and experience before applying.

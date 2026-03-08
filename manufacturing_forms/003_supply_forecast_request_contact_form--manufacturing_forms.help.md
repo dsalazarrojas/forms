@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a contact form for requesting supply forecasting, and it's intended to gather contact information and preferences from users. The form will help the internal team understand the user's supply forecasting needs and preferences.
-
-To avoid duplicating efforts, please note that the following fields are not required, but are meant to gather additional information to help the internal team respond to the user's request effectively:
-- Manufacturing Form fields are meant to gather specific manufacturing preferences.
-
-This form is meant to be completed by users who need to request supply forecasting. 
-</thinking>
-
 # Supply Forecast Request Contact Form - Help Guide
 ## Purpose
 The Supply Forecast Request Contact Form is a contact form for users to request supply forecasting. This form is designed to gather contact and preference information from users to help the internal team better respond to their supply forecasting needs.

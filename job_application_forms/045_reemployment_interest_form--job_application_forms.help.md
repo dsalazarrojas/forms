@@ -1,5 +1,3 @@
-<thinking>This form is intended for employees to express their interest in being reemployed at the company. It's designed to gather information from employees about their job title, availability, role preference, and contact details. This form is not meant for external candidates, but rather for internal employees looking to reenter the workforce. Please ensure you have permission to reuse work materials and that you're filling out this form as an existing employee.</thinking>
-
 # reemployment_interest_form - Help Guide
 ## Purpose
 The "Reemployment Interest Form" is a tool for employees to express their interest in being reemployed by the company after a certain period of absence. It's a chance for them to share their availability, preferred roles, and contact details.

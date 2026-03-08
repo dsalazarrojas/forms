@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll first understand the form's purpose and the fields it contains. The form is called "Vendor Information Form" and it seems to be a generic form for collecting information about a vendor. However, I'll assume that each field has a specific purpose and meaning based on the labels and types provided in the YAML.
-</thinking>
-
 # Vendor Information Form - Help Guide
 ## Purpose
 The "Vendor Information Form" is a collection of fields that provide information about a vendor. It's likely used for business or administrative purposes, such as onboarding a new vendor or updating existing vendor details.

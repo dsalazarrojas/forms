@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess a student's proportional relationships understanding. The form will gather information on a student's answers to a series of questions about ratios, their score, and additional comments from the teacher. This form is likely used in an educational setting to evaluate student performance and understanding of proportional relationships. It may be used by teachers to assess student progress, identify areas of improvement, and provide feedback. This form is likely used in conjunction with other assessment tools to get a comprehensive picture of a student's abilities.
-
-</thinking>
-
 # Proportional Relationships Assessment - Help Guide
 
 ## Purpose

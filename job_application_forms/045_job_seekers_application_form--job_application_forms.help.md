@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist job seekers in filling out the job seekers application form. The form is designed to gather information about an individual's background, experience, and skills in order to provide a comprehensive overview of their qualifications for potential employers. It is essential to fill out the form accurately and truthfully to ensure that the information is up-to-date and reflects the individual's actual abilities and experiences.
-</thinking>
-
 # Job Seekers Application Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from transport rental referrals. The form is used to capture data from a customer who is referring another individual or business to the transport rental company. The form collects personal information of the referrer and the individual/business being referred, as well as details about the referral itself. The form is likely to be used by the transport rental company's sales or customer service team to follow up on the referral and potentially convert it into new business opportunities.
-
-</thinking>
-
 # Transport Rental Referral Form - Help Guide
 ## Purpose
 The Transport Rental Referral Form is used to collect information from individuals or businesses that are referring others to the transport rental company. This form helps the company to track referrals and follow up with both the referrer and the referred individual/business.

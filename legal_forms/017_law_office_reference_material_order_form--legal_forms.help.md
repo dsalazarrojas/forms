@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by law office staff to order reference materials for their office, and it is a crucial process to ensure that all necessary materials are ordered and maintained. This form will guide users through the process of filling out the form and explain what each field means, making it easy to understand and use.
-</thinking>
-
 # law_office_reference_material_order_form - Help Guide
 ## Purpose
 This form is used by law office staff to order reference materials for their office.

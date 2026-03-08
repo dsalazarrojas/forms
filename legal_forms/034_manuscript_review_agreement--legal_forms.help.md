@@ -1,12 +1,3 @@
-<thinking>
-The form "Manuscript Review Agreement" is used to collect information and agreements from reviewers and publishers during the review process of a manuscript. This form ensures that both parties have a clear understanding of the review process and terms before proceeding. This form should be filled out by a reviewer and a publisher in collaboration to facilitate a smooth and efficient review process.
-
-Before filling out this form, it's essential to understand that it's a legal agreement between the reviewer and the publisher. The form collects information about the reviewer, the publisher, the review process, and any necessary signatures or approvals. The reviewer and publisher should review and agree on all fields before submitting the form.
-
-This guide will walk you through each field to ensure a complete and accurate completion of the form.
-
-</thinking>
-
 # Manuscript Review Agreement - Help Guide
 ## Purpose
 

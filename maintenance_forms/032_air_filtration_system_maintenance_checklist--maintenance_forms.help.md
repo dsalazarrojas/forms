@@ -1,8 +1,3 @@
-<thinking>
-This is a crucial form for recording maintenance activities related to air filtration systems. It's vital to ensure that the form is filled out correctly to capture all necessary information. To avoid any confusion, double-check that the form fields are filled out in a way that aligns with the actual maintenance procedures. This form is designed to be used for various scenarios, so ensure that the fields are completed based on the actual maintenance activity being performed.
-
-</thinking>
-
 # Air Filtration System Maintenance Checklist - Help Guide
 ## Purpose
 The Air Filtration System Maintenance Checklist is a comprehensive form designed to document the maintenance activities performed on air filtration systems. This form serves as a record of the maintenance activities, ensuring that all necessary tasks are completed and reported accurately.

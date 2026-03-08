@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to document the delegation of tasks and responsibilities within the organization. It captures the essential details of each assignment, including the assigned task, the person responsible for it, their department, and the status of the task. The form will help the management to keep track of the tasks assigned to different employees, ensuring that everyone is aware of their responsibilities and deadlines. This form is not intended to be a replacement for other task management systems but rather a supplement to them. Before filling out this form, please make sure that you have checked with your team lead or manager to see if a similar task has already been assigned or if there are any ongoing efforts related to the task.</thinking>
-
 # Delegation Of Duties Log - Help Guide
 ## Purpose
 The Delegation Of Duties Log form is used to document the delegation of tasks and responsibilities within the organization. This form helps management to keep track of assigned tasks, ensuring that everyone is aware of their responsibilities and deadlines.

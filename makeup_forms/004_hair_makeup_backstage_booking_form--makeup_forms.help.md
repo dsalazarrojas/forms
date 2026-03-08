@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for booking hair and makeup services for events such as weddings, photoshoots, TV/Film shoots, and commercial events. The form is to be filled out by clients or event coordinators who wish to book a hair and makeup team for their event. The form will help us understand the event requirements, schedule, and contact information.
-
-</thinking>
-
 # Hair & Makeup Backstage Booking Form - Help Guide
 
 ## Purpose

@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to be used by high school teachers to request a maternity leave of absence from work. It is used to provide necessary information for the teacher's leave of absence. The form is likely to be used by school administrators or HR personnel to process and manage teacher leave of absence requests.
-
-The form does not seem to be intended for public use, so it's likely that only authorized personnel within the school will be filling this form out. The form is probably not intended to be filled out by the teacher themselves, unless in a specific scenario where they are requesting a leave of absence.
-
-To ensure this form is used for its intended purpose, it would be a good idea for the school administration or HR department to review and process this form carefully. 
-
-Please note that the following fields are optional: school_id, teacher_name, start_date, end_date, expected_return_date, department_id, and supervisor_name.
-
-The following fields are required: reason_for_leave.
-
-</thinking>
-
 # High School Teacher Maternity Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used by high school teachers to request a maternity leave of absence from work. It is used to provide necessary information for the teacher's leave of absence.

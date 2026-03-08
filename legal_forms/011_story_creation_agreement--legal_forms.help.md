@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a template for a Story Creation Agreement document, likely used for freelance writing or content creation projects. The purpose of this form is to gather information and agreements from clients and writers on the terms of a project. The fields on this form cover details about the project, compensation, delivery date, terms, client and writer details, agency details, project deadline, payment terms, and signatures from all parties involved.
-
-Before creating a Story Creation Agreement, ensure that you have a legitimate project and client in place. This guide is for informational purposes only and might not be a comprehensive legal document. It is essential to consult with a legal expert to ensure the agreement is comprehensive and legally binding.
-
-</thinking>
-
 # Story Creation Agreement - Help Guide
 ## Purpose
 The Story Creation Agreement form is a template for documenting the terms and conditions of a story creation project. It is designed to gather essential information from both the client and the writer to ensure a clear understanding of the project's scope, timeline, and payment terms.

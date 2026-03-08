@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for individuals or businesses to apply for a car loan. It captures essential information about the applicant, their employment details, loan requirements, and verification of the application. The form is divided into sections for personal information, employment details, loan requests, vehicle information (if known), and verification of the application. 
-
-The form requires fields such as name, date of birth, social security number, email address, phone number, current employer, job title, monthly gross income, loan amount, loan term, down payment amount, vehicle make and model, vehicle year, and loan application acknowledgement. 
-
-It also includes fields for additional comments or requests from the applicant, and a signature confirmation for the application. 
-
-This form is designed to be completed online, and the information collected will be used to process the loan application. 
-
-</thinking>
-
 # Car Loan Application Form - Help Guide
 ## Purpose
 The Car Loan Application Form is designed to collect essential information from individuals or businesses applying for a car loan. The form is divided into sections to make it easy to gather all necessary details.

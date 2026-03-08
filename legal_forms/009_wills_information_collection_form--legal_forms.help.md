@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information necessary for the creation and management of wills. It will be used by individuals and organizations to gather and verify details from individuals who have expressed interest in leaving a will, including their basic contact information and personal details. This form will serve as a template and should not be used for other purposes.
-
-The form is divided into several fields, each designed to collect specific information about the individual. This guide will help users understand the purpose of each field and how to fill it out correctly.
-
-</thinking>
-
 # Wills Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from individuals interested in creating a will. It will be used to gather details such as name, address, and other personal information to ensure accurate and efficient will creation.

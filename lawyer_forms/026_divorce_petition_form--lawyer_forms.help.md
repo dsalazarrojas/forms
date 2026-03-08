@@ -1,12 +1,3 @@
-<thinking>
-We need to determine the purpose of this form. Based on the provided YAML, the form is for divorce proceedings, which involves a couple's separation and division of assets. We need to ensure that the form is used for this specific purpose and not for any other unrelated legal processes.
-
-Let's check if the form is not a duplicate of any existing form. After reviewing the fields and their labels, it appears that this form is specifically designed for divorce cases and does not overlap with other forms used for different purposes.
-
-Now that we have confirmed the purpose and uniqueness of the form, we can proceed with creating the help guide.
-
-</thinking>
-
 # Divorce Petition Form - Help Guide
 ## Purpose
 This form is designed to guide individuals through the process of filing for divorce, ensuring they provide all necessary information for a smooth and efficient separation process.

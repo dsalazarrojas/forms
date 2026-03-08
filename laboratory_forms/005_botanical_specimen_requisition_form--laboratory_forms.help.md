@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information for botanical specimen requisition requests from researchers, institutions, and individuals. Its purpose is to ensure that the requester provides all necessary details for the efficient processing and management of their request. This form should only be used for legitimate research purposes, and all fields are required unless otherwise specified. Please note that repeated submissions may lead to duplication of effort and potential issues with specimen management. Ensure that you fill out all necessary fields accurately to avoid delays in processing your request.
-</thinking>
 # Botanical Specimen Requisition Form - Help Guide
 ## Purpose
 This form is designed to gather information for botanical specimen requisition requests from researchers, institutions, and individuals.

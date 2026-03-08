@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help educators assess students' knowledge of sight words. It is meant for use in educational settings to gauge student understanding of sight words, which are words that are recognized by sight or memorized without the need for decoding. This form should only be used to assess students who have been taught sight words prior to the assessment. There is no duplication of effort in this form, as it is a one-time assessment. This form will not be used for any other purpose.
-</thinking>
-
 # Sight Word Assessment Quiz - Help Guide
 
 ## Purpose

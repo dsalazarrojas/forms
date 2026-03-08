@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to gather information about a furnished rental property, including landlord information, tenant information, property details, and any issues or concerns that may have arisen during the rental process. This form is intended to be completed by both the landlord and the tenant, and it will be used to create a comprehensive record of the property's condition and any necessary documentation.
-
-Before proceeding, please ensure that you have a clear understanding of the form's purpose and that the information you provide is accurate and up-to-date. This form is not intended to be a duplicate of any other form, and it is essential to fill it out thoroughly and honestly to ensure a smooth and fair rental process.
-
-</thinking>
-
 # furnished_rental_property_inventory_and_condition_form - Help Guide
 ## Purpose
 The furnished rental property inventory and condition form is a document used to record the details of a rental property, including its condition and any issues or concerns that may have arisen during the rental process. This form is used by landlords and tenants to provide a clear and accurate account of the property's state at the start and end of a rental period.

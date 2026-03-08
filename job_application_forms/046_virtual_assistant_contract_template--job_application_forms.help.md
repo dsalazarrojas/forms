@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture essential information for a virtual assistant contract. This form is designed to help users efficiently create a contract template for their virtual assistant, which is a crucial document for both the virtual assistant and the client. Before filling out this form, it's essential to ensure that you're using the correct template and that you're not duplicating effort or creating unnecessary contracts. Ensure that you're not sharing sensitive information and that you're using this form only for legitimate purposes.
-</thinking>
-
 # Virtual Assistant Contract Template - Help Guide
 ## Purpose
 The Virtual Assistant Contract Template is a form designed to help you create a comprehensive contract for your virtual assistant services. This form captures essential details to ensure a clear and mutually beneficial agreement between you and your virtual assistant.

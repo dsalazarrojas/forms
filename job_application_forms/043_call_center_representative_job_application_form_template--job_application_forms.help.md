@@ -1,9 +1,3 @@
-<thinking>
-A job application form for Call Center Representatives is designed to collect personal and professional information from applicants, including their contact details, work experience, skills, and availability. This form aims to assess the suitability of candidates for call center representative roles and ensure that applicants have the necessary skills and experience to excel in this position. It's essential to fill out this form accurately to increase the chances of being considered for an interview.
-
-Before starting, ensure you have not submitted this form for the same job position recently, as this could be considered duplicate submission. Please fill out the form completely and truthfully to ensure a smooth review process.
-
-</thinking>
 # Call Center Representative Job Application Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for the Call Center Representative position. It will help us assess your suitability for the role and ensure a smooth review process.

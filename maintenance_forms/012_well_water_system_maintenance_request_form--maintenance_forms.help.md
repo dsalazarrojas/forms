@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Well Water System Maintenance Request Form - Help Guide
 
 ## Purpose

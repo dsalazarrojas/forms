@@ -1,21 +1,3 @@
-<thinking>
-This form is used to capture the necessary information for a retail terms and conditions agreement. 
-This form is designed to collect the following information: 
-- Store policies 
-- Consent to use this website 
-- Data collection preferences 
-- Email address 
-- Phone number 
-- Name 
-- Store address 
-- Agreement date and time 
-- Store hours 
-
-This guide will help users understand the purpose and requirements of this form. 
-
-Before starting this form, it's crucial to note that some of the fields are optional. 
-</thinking>
-
 # retail_terms_and_conditions_agreement - Help Guide
 ## Purpose
 The retail terms and conditions agreement form is designed to collect necessary information for a retail business. It includes fields for policies, consent, data collection, contact information, and store details. 

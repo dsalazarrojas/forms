@@ -1,8 +1,3 @@
-<thinking>
-This form is used for recording short-term absences from work, such as medical appointments or personal events. It's essential to accurately report your absences to your manager and HR to avoid misunderstandings and ensure that your work responsibilities are covered while you're away. Please fill out this form carefully and truthfully to provide all the necessary information.
-
-</thinking>
-
 # Short Term Absence Form - Help Guide
 ## Purpose
 The Short Term Absence Form is used to notify your manager and HR of a short-term absence from work. This form helps you to record the dates of your absence, the reason for it, and any necessary approvals.

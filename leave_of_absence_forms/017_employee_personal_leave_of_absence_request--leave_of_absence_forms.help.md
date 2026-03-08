@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to be a template for requesting leave of absence from work. It should be used by employees to submit their requests for leave, and it will gather information from the employee and their manager to process and approve the request. This guide is designed to help employees understand how to complete the form correctly and what each field is intended for.
-
-The form is not meant to be used for any other purpose than requesting leave of absence. If an employee has already submitted a leave request, please do not submit another one. This will help prevent confusion and ensure that all requests are processed accurately.
-
-It's also worth noting that this form is used by employees to submit their leave requests, and not for any other purpose. Please ensure that you are submitting a request for the correct type of leave and that all required fields are filled out correctly.
-
-Please read through the guide below to understand how to complete the form and what each field is intended for.
-
-</thinking>
-
 # Employee Personal Leave Of Absence Request - Help Guide
 ## Purpose
 The purpose of this form is to request a leave of absence from work. It is intended for employees to submit their requests for vacation, sick leave, bereavement, jury duty, or other types of leave.

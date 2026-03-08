@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Spectrophotometer Maintenance Log Form - Help Guide
 
 ## Purpose

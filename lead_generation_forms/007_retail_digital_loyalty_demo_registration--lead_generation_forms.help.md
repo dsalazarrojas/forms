@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a retail digital loyalty demo registration. The purpose of this form is to gather essential details from businesses that are interested in participating in a demo. This form will help us understand their business details, preferred demo dates, contact information, store type, and demo dates. The fields in this form are designed to be easy to understand and complete.
-</thinking>
-
 # Retail Digital Loyalty Demo Registration - Help Guide
 ## Purpose
 This form is used to collect information from businesses that are interested in participating in a retail digital loyalty demo. The goal is to gather essential details to facilitate the demo process.

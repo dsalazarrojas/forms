@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form is used for requesting equipment safety shield replacement. It's a maintenance form that gathers information about equipment safety shields that need to be replaced due to issues or malfunctions. The form should be filled out by personnel who identify equipment with safety concerns. Before filling out this form, please ensure that you have already checked the equipment's status in the system and that this request is not a duplicate. Please be as detailed as possible when describing the issue with the safety shield.
-</thinking>
-
 # equipment_safety_shield_replacement_request_form - Help Guide
 
 ## Purpose

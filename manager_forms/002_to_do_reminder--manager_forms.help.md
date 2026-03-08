@@ -1,12 +1,3 @@
-<thinking>
-To create a "To Do Reminder" form, I'll need to consider the following:
-* The form's purpose is to remind users of tasks or deadlines that need attention.
-* The form likely aims to help users track and manage their tasks.
-* The form should be simple and easy to fill out.
-* The form's fields should be self-explanatory or have clear labels.
-* The form should be able to handle multiple pages.
-</thinking>
-
 # To Do Reminder - Help Guide
 ## Purpose
 The "To Do Reminder" form is designed to help you manage and track tasks and deadlines. It's meant to be a simple and easy-to-use tool for keeping track of important tasks and reminders.

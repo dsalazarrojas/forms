@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Letter Of Authorization - Help Guide
 ## Purpose
 The Customer Letter Of Authorization form is a document that serves as a formal agreement between a customer and a third-party service provider. This form is used to authorize the customer to act on behalf of the company in specific business transactions or activities. It is essential to complete this form accurately to ensure that the customer has the necessary authority to engage in business dealings.

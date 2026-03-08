@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Maintenance Inspection Request Form - Help Guide
 
 ## Purpose

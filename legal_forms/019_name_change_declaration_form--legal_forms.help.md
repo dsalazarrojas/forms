@@ -1,11 +1,3 @@
-<thinking>
-
-The Name Change Declaration Form is a document used to declare a name change for an individual. It is intended for use in legal settings, such as courts or government offices, where name changes are required or permitted. The form is designed to gather information about the person requesting the name change, their current and previous addresses, employment status, marital status, education level, and other relevant details.
-
-It is essential to fill out this form accurately and thoroughly to ensure that the name change is processed correctly and efficiently. Before starting to fill out the form, ensure that you have all the necessary information and documentation required for the name change.
-
-</thinking>
-
 # Name Change Declaration Form - Help Guide
 ## Purpose
 The Name Change Declaration Form is a document used to declare a name change for an individual in legal settings.

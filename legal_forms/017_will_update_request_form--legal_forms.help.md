@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Will Update Request Form - Help Guide
 ## Purpose
 The purpose of this form is to submit an update request when the information provided earlier is incorrect or incomplete. Please use this form to correct any inaccuracies or provide additional information. This form ensures that the update process is accurate, efficient, and well-documented.

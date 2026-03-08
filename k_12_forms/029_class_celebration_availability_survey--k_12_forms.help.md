@@ -1,9 +1,3 @@
-<thinking>... 
-
-To ensure that the Class Celebration Availability Survey serves its purpose effectively, we will be checking for non-duplication and relevance. Please note that this form is designed to gather information from parents and guardians about their availability and preferences for a class celebration. The form will help the class organizers plan and prepare for the celebration, and it's essential to fill it out accurately and honestly. Please review the fields carefully and fill them out according to your preferences and availability.
-
-</thinking>
-
 # Class Celebration Availability Survey - Help Guide
 ## Purpose
 This form is designed to gather information from parents and guardians about their child's availability and preferences for a class celebration. It will help the class organizers plan and prepare for the celebration.

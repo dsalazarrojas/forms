@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from teachers regarding their satisfaction with their teaching experience, allowing for a comprehensive understanding of their thoughts and opinions. 
-
-The survey is meant to be filled out by teachers, with fields for their first name, last name, school name, email, department, and responses to four questions. The form also allows for any additional notes or comments. 
-
-The form will not be used for commercial purposes and will be released under CC BY 4.0. The form creator has taken inspiration from public survey topic metadata, making it an original adaptation.
-
-</thinking>
-
 # Teacher Satisfaction Survey - Help Guide
 ## Purpose
 

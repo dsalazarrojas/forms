@@ -1,7 +1,3 @@
-<thinking>
-This form is used to conduct a regular review of a law firm's confidentiality practices to ensure they are meeting the required standards. The purpose of this form is to collect data on the current state of confidentiality in the firm, including the department involved, the type of documents being handled, the level of confidentiality, and the actions taken to protect sensitive information. This form should be completed by law firm employees to help identify areas that need improvement and provide a basis for future reviews. Before starting, it's essential to check that this form is not already completed for the same firm or department, as this would indicate duplication of effort.
-</thinking>
-
 # Law Firm Confidentiality Audit Form - Help Guide
 ## Purpose
 The Law Firm Confidentiality Audit Form is a tool used to monitor and evaluate the confidentiality practices within a law firm. It helps identify areas that need improvement and tracks progress over time.

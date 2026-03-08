@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for independent contractors to provide essential information about their business for the purpose of creating a contract agreement. The form is used to collect details such as business name, address, contract term, compensation, payment terms, and payment frequency. It also collects information on payment date, business description, contract start and end dates, contract duration, contract amount, payment method, tax ID number, work location, work hours, termination terms, notice period, termination reasons, contract status, payment status, business status, and contact person. This form will help create a comprehensive contract agreement that outlines the terms and conditions of the engagement.
-
-</thinking>
-
 # Independent Contractor Business Agreement Form - Help Guide
 ## Purpose
 

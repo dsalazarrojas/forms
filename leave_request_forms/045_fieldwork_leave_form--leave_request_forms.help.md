@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to request leave for fieldwork. The form will help the fieldwork supervisor and team lead to manage and approve or reject leave requests. This form is to be filled out by employees to submit their leave request. The fields are designed to gather necessary information from the employee and will ensure that the leave request is processed efficiently.
-</thinking>
-
 # Fieldwork Leave Form - Help Guide
 ## Purpose
 The Fieldwork Leave Form is a request form for employees to submit their fieldwork leave requests. This form collects necessary information from the employee, which is then reviewed and approved or rejected by the fieldwork supervisor and team lead.

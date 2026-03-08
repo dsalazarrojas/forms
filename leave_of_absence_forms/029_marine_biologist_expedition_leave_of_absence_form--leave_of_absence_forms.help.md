@@ -1,13 +1,3 @@
-<thinking>
-This form is for requesting a leave of absence for a Marine Biologist expedition. The form is designed to gather information from the expedition leader or team member who is requesting the leave. The form will ask for basic contact information, expedition details, and dates of the leave. This information will be used by the HR department to process the leave request and ensure that the necessary arrangements are made for the expedition team.
-
-Before filling out this form, ensure that you are authorized to request a leave of absence and that you have the necessary approval from your team lead or manager. If you are unsure, contact your HR representative for clarification.
-
-Also, ensure that you have the necessary contact information for the expedition team, including phone numbers and email addresses.
-
-To process this form, we will check for duplicates to ensure that only one leave request is processed per expedition. If there are multiple requests for the same expedition, only the first request will be processed. If you attempt to request multiple leaves for the same expedition, please contact us for further assistance.
-</thinking>
-
 # Marine Biologist Expedition Leave Of Absence Form - Help Guide
 
 ## Purpose

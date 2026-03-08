@@ -1,13 +1,3 @@
-<thinking>
-The form is used by library administrators to reserve a book for a specific 
-time, date and for a patron. It will help patrons to make requests to 
-reserve a book, which will trigger the librarian to take action. 
-
-This form should only be used by library administrators, it is not intended 
-for general public. 
-
-</thinking>
-
 # Library Reservation Form - Help Guide
 ## Purpose
 This form is used by library administrators to record and track library book 

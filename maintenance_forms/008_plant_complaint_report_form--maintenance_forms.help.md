@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for plant complaints. It will be used to report and track complaints related to a plant's performance or issues. 
-The form is not meant to be filled out multiple times by the same person, so each submission should be unique.
-</thinking>
-
 # Plant Complaint Report Form - Help Guide
 ## Purpose
 The Plant Complaint Report Form is designed to collect and track complaints related to a plant's performance or issues. This form should only be filled out once for each complaint.

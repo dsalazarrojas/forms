@@ -1,25 +1,3 @@
-<thinking>
-
-This form is designed to collect information from applicants for an Academic Mathematics Professor position. The form is intended for individuals who are interested in applying for a professorship in mathematics, and it is not meant to be used for other purposes. Before proceeding, ensure that you have read and understood the form's purpose and requirements.
-
-To avoid duplication, please note that this form is intended for internal use only and should not be used for external recruitment. If you have already submitted an application for a different mathematics professor position, please do not reapply using this form.
-
-The form consists of several sections, each with its own specific fields. Please complete the form in the following order:
-
-1. Provide your full name, as it appears on official records.
-2. Enter your institutional email address.
-3. Enter your contact phone number, including the country code.
-4. Indicate your current affiliation and department.
-5. Choose your primary area(s) of expertise in mathematics.
-6. Provide a whole number of years you have spent teaching.
-7. Write a brief (200-word or less) summary of your research contributions.
-8. Share a link to your hosted CV or resume or upload a reference.
-9. Provide details of two academic references, including their name, position, and contact information.
-
-Each field has a specific label, hint, and purpose. Please read the explanations below for more details on each field.
-
-</thinking>
-
 # Academic Mathematics Professor Job Application Form - Help Guide
 ## Purpose
 

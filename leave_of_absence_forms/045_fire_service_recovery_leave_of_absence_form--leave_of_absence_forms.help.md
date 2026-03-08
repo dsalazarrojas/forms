@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record the details of an employee's leave of absence, including their start and end dates, reason for leave, return date, leave type, department, leave status, fire date, supervisor approval, request date, and employee ID. It is used by employees or authorized personnel to document and track leave of absence information.
-</thinking>
-
 # Fire Service Recovery Leave Of Absence Form - Help Guide
 ## Purpose
 The Fire Service Recovery Leave of Absence Form is used to document and track employee leave of absence information.

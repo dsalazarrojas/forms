@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are filling out the New Job Application Form. The form is a comprehensive tool used to collect information from applicants for a job opening. It's essential to fill out the form accurately to increase the chances of being considered for the position. Before starting, please review the form carefully to ensure you're providing the correct information. If you're unsure about any field, don't hesitate to ask for clarification.
-</thinking>
-
 # New Job Application Form - Help Guide
 ## Purpose
 The New Job Application Form is designed to collect information from applicants for a job opening. Please fill out the form accurately to provide your contact and personal details, work experience, and job preferences to help us determine if you're a suitable candidate for the position.

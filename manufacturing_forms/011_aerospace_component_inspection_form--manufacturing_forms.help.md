@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Aerospace Component Inspection Form - Help Guide
 ## Purpose
 The Aerospace Component Inspection Form is designed to gather information about the condition and status of an aerospace component during an inspection. This form is used to ensure that components are properly inspected, documented, and certified for safe operation in aerospace environments. It captures details about the component's serial number, description, manufacturer, and manufacturing date, as well as the results of the inspection, including physical condition, dimensional compliance, and corrosion assessment. The form also captures the inspection standards applied and the overall outcome of the inspection, including any recommended actions.

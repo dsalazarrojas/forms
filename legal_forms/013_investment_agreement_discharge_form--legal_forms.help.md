@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to discharge an investment agreement, which is a formal document that releases a client or customer from their investment obligations. This form is used in the context of financial institutions, such as banks or investment firms, to provide a clear and standardized way to document the discharge of an investment agreement. This form is likely to be used by financial professionals to ensure that all necessary information is captured and that the discharge process is carried out in a transparent and compliant manner. It is essential to ensure that the form is completed accurately and thoroughly to avoid any potential disputes or issues that may arise from the discharge process.
-
-To avoid duplication and ensure relevance, this form should only be used when an investment agreement needs to be discharged, and not for other financial transactions or agreements.
-
-Please note that the form is designed for internal use within the organization and may not be intended for external use. However, it is essential to ensure that the form is completed correctly to maintain accurate records and prevent any potential issues.
-
-</thinking>
-
 # Investment Agreement Discharge Form - Help Guide
 
 ## Purpose

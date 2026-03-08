@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for job applicants to submit their information and details about the job they're applying for. Before starting, ensure you have all necessary information with you and a clear understanding of the job requirements.
-</thinking>
-
 # Executive Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from job applicants about their job applications. It includes fields for job title, resume, work experience, education, job description, and other relevant details.

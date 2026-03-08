@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Partnership Agreement Release Form is a document used to release a partner or co-founder from their responsibilities and obligations related to a partnership. This form is intended to be used when a partnership is dissolved, and a partner wishes to officially release their involvement. The purpose of this form is to provide a clear and formal statement of the terms of the release, which is beneficial for all parties involved.
 
 # Partnership Agreement Release Form - Help Guide

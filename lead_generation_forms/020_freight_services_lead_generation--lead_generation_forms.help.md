@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to generate leads for freight services, which is an essential part of our business operations. The purpose of this form is to gather relevant information from potential customers, including contact details, shipment specifics, and service requirements. This information will help our team to better understand customer needs and provide more efficient services. Before you start filling out the form, please note that all fields are optional. You can provide as much or as little information as you're comfortable sharing. If you're unsure about any field, simply leave it blank or ask your contact person for help.
-
-This form has two pages: the first page for contact information and shipment specifics, and a second page for additional details about the shipment. Each section is designed to be completed by the customer, but if you're a freight services expert, you can also fill out some fields for your customer.
-
-Please make sure to fill out the form accurately and thoroughly, as this information will help us to better serve your needs. If you have any questions or concerns, please don't hesitate to contact us.
-
-</thinking>
-
 # Freight Services Lead Generation - Help Guide
 ## Purpose
 This form is used to generate leads for freight services, which helps our business operations in managing customer inquiries and requirements.

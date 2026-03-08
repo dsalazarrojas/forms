@@ -1,11 +1,3 @@
-<thinking>As a civil war map worksheet, this form is designed to help students analyze and learn from a historical map related to the American Civil War. This form guides the user through key questions and fields to collect information about the map, its creator, its purpose, and the student's insights and thoughts after studying it. The form is intended to be completed by students as part of a learning activity or assignment, helping them develop critical thinking and historical analysis skills.
-
-The form consists of fields that cover various aspects of the map, including its title, date, creator, purpose, geographic area, symbols, battle locations, troop movements, accuracy, bias, historical context, and self-assessment of difficulty. Each field is designed to elicit specific information or thoughts from the student, helping them engage with the map in a more meaningful way.
-
-This form is a tool for learning and analysis, and its completion is not intended to be a simple task. It requires careful consideration of each field, and students should take their time to answer each question thoughtfully.
-
-Please note that some fields may require more thought or research than others, and that is intentional. This form is not just a collection of questions but a guide to help students develop their critical thinking and analytical skills.</thinking>
-
 # Civil War Map Worksheet - Help Guide
 
 ## Purpose

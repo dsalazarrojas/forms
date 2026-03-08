@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to create a lesson plan for educational purposes. It is used to outline the details of a lesson, including the title, date, subject, teacher, topic, objectives, materials, procedures, assessment, attachments, comments, contact information, and other relevant details.
-To complete this form, the user will need to input relevant information for each field, following the instructions and constraints of each field type. The form is designed to be flexible and adaptable to different types of lessons and classes.
-</thinking>
-
 # Lesson Plan Form - Help Guide
 ## Purpose
 The Lesson Plan Form is a tool used to create a detailed plan for a lesson, including the title, date, subject, teacher, topic, objectives, materials, procedures, assessment, attachments, comments, contact information, and other relevant details.

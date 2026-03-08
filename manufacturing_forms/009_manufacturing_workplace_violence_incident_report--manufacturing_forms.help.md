@@ -1,12 +1,3 @@
-<thinking>
-This form is used to report incidents of workplace violence. The form is intended to be completed by employees who have witnessed or been involved in the incident. The purpose of this form is to provide a clear and concise account of what happened, including the details of the incident, the location, date, and time it occurred, as well as any injuries sustained. This information will be used to review and resolve the incident.
-
-The form should only be completed once, as it is intended to be a single, comprehensive report of the incident. If the same incident is reported multiple times, it may be considered a duplicate and will not be used for review or resolution.
-
-To complete this form, follow these steps:
-
-</thinking>
-
 # manufacturing_workplace_violence_incident_report - Help Guide
 ## Purpose
 This form is used to report incidents of workplace violence and gather relevant details to review and resolve the incident.

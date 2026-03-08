@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Simple Flat Contact Form - Help Guide
 
 ## Purpose

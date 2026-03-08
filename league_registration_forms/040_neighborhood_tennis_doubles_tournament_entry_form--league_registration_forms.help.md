@@ -1,9 +1,3 @@
-<thinking>
-  This help guide is to aid end-users in completing the Neighborhood Tennis Doubles Tournament Entry Form. 
-  To ensure that the form is properly filled out, each section is explained in detail to prevent misunderstandings.
-  Note that all fields in this form are required for accurate and valid entry.
-</thinking>
-
 # Neighborhood Tennis Doubles Tournament Entry Form - Help Guide
 ## Purpose
 The Neighborhood Tennis Doubles Tournament Entry Form is a form to register a team for the neighborhood tennis doubles tournament. 

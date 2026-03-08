@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist applicants in understanding and completing the Business Strategy Renewal Initiative Application form, which supports the submission of business strategy renewal initiatives to senior management. This form is designed to collect relevant information about the initiative, its alignment with the company's strategic objectives, and its expected outcomes. Please ensure you are submitting a genuine application and are familiar with the company's strategic priorities before filling out this form. Note that the submission of duplicate or non-relevant applications will not be considered.
-</thinking>
-
 # Business Strategy Renewal Initiative Application - Help Guide
 
 ## Purpose

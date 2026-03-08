@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure this form serves its purpose and is used correctly, we should verify that the form is not being duplicated or misused. This form is intended to gather information from new customers for the purposes of providing personalized skincare consultations and treatment plans. To ensure the form is not being used for other purposes, we will need to monitor and review the data collected, ensuring it is not being used for other means.
-
-</thinking>
-
 # Skincare New Customer Consultation Form - Help Guide
 ## Purpose
 The Skincare New Customer Consultation Form is designed to collect information from new customers to provide personalized skincare consultations and treatment plans. This form is meant to be used by customers to submit their details and preferences for a consultation.

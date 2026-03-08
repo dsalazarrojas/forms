@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey for librarians to gather feedback on their weeding strategy, which involves evaluating and removing books from their library collections. It is likely used by libraries to understand their own collection development and weeding processes, which can help inform decisions about what books to keep or discard. This form seems to be relevant to the "librarian_forms" category, given its purpose and content.
-</thinking>
-
 # Library Weeding Strategy Survey - Help Guide
 ## Purpose
 The Library Weeding Strategy Survey is a collection of questions designed to gather information on your library's weeding strategy. The survey aims to understand your current weeding practices, challenges, and ideas for improvement. This information will help inform decisions about what books to keep or discard from your library collection.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Toy Production Molds Requisition Form - Help Guide
 ## Purpose
 This form is used to request production molds for toys. It is used to gather information about the manufacturing company, contact person, and production details.

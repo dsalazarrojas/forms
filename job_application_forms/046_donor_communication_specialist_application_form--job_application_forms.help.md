@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donor Communication Specialist Application Form - Help Guide
 
 ## Purpose

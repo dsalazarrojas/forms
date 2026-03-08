@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect data for the maintenance and inspection of an irrigation system. The goal is to ensure that the system is functioning properly and identify any potential issues that need to be addressed. This form is a general template and might not cover every possible aspect of irrigation system maintenance, but it can serve as a starting point for more comprehensive inspections.
-
-The form consists of several sections, including water meter, pipe inspection, pump inspection, valve inspection, sprinkler inspection, filter inspection, maintenance plan, schedule, and other relevant fields. Please note that this form may not be a comprehensive template for every possible inspection, but it should cover the essential aspects of an irrigation system maintenance inspection.
-
-It is essential to carefully review the form's content and adjust it to suit specific needs and requirements of your organization.
-
-Form fields may be subject to change or addition based on new information and feedback. Please contact form@gic.mx for any updates or modifications.
-</thinking>
-
 # Irrigation System Maintenance Inspection Form - Help Guide
 ## Purpose
 The Irrigation System Maintenance Inspection Form is designed to collect data on the condition and functionality of an irrigation system. This form helps identify potential issues and ensure the system is properly maintained.

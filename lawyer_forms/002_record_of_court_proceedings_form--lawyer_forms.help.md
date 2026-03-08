@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and document court proceedings, including depositions, evidence, testimony, and other relevant details. It is essential to provide clear and accurate information to ensure that all parties involved are aware of the current status of the case. Before proceeding, please ensure that the form is completed in its entirety and that all fields are accurate and up-to-date. This guide will walk you through each field of the form to help you complete it correctly.
-</thinking>
-
 # Record Of Court Proceedings Form - Help Guide
 ## Purpose
 This form is designed to record and document all aspects of court proceedings, including depositions, evidence, testimony, and other relevant details.

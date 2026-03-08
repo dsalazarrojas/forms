@@ -1,10 +1,3 @@
-<thinking>
-We should consider the purpose of the "Team Equity Agreement Form" and how it will be used in practice. This form likely represents a legal document that outlines the equity distribution among team members. It's essential to understand the form's context and ensure it's not a duplicate of an existing form or process. Let's assume this form is used to document the equity distribution for a team or group of individuals, often in a business setting.
-
-The form should be user-friendly, easy to understand, and provide clear guidance for completing it. The form's fields should be explained in a way that's approachable and non-technical.
-
-</thinking>
-
 # Team Equity Agreement Form - Help Guide
 
 ## Purpose

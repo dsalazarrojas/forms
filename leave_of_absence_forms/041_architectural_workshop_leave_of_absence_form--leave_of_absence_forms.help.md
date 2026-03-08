@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Architectural Workshop Leave Of Absence Form - Help Guide
 
 ## Purpose

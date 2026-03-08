@@ -1,12 +1,3 @@
-<thinking>
-This form is used to track employee activity and progress at the end of each day. It captures essential information about the employee's status, allowing for efficient monitoring and analysis. To avoid duplication, this form is not intended for use on consecutive days for the same employee.
-
-The form is structured into multiple pages, each containing a set of fields that need to be filled in. The employee is expected to fill out one page per day.
-
-This form is intended for individual use by employees and should not be filled out by other users.
-
-</thinking>
-
 # employee_end_of_day_report - Help Guide
 ## Purpose
 The employee end of day report is used to track employee activity and progress at the end of each day. It captures essential information about the employee's status, allowing for efficient monitoring and analysis.

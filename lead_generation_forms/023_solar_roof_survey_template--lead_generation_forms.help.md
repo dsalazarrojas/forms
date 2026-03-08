@@ -1,7 +1,3 @@
-<thinking>
-The form "solar_roof_survey_template" is designed to collect user information and data about their solar roof, with the goal of understanding their energy use and roof characteristics. This form will be used to gather data that will be used for analysis and reporting. Before filling out this form, please ensure you have not previously submitted a survey with the same details. This will help ensure accurate and relevant data collection.
-</thinking>
-
 # solar_roof_survey_template - Help Guide
 ## Purpose
 The solar_roof_survey_template form is designed to collect user information and data about their solar roof, with the goal of understanding their energy use and roof characteristics.

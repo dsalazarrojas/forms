@@ -1,7 +1,3 @@
-<thinking>
-This form purpose is to collect job application information from candidates applying to work for the municipality. The form will collect details such as applicant contact and contact information, education background, professional background, and work experience. This form is designed to make it easy for applicants to provide necessary information to increase their chances of being considered for a position. Please ensure that you only apply to roles that match your qualifications to avoid wasting time for both you and the hiring team. Before filling out the form, take a moment to review the job description and requirements to ensure you meet the criteria.
-</thinking>
-
 # Municipality Job Application Form - Help Guide
 ## Purpose
 The Municipality Job Application Form is designed to collect necessary information from job applicants to help them get considered for a position at the municipality. Please fill out this form to increase your chances of being considered for a role that matches your qualifications.

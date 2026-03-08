@@ -1,7 +1,3 @@
-<thinking>
-The "inventory_and_meter_readings_form" is a form used to collect data on meter readings and inventory values for a location. This form is part of the "maintenance_forms" category. It's meant to be used by field workers or technicians to report on the status of meters and inventory levels at a particular location. The form is designed to be completed by users who are familiar with the location and its associated equipment, but it's essential to ensure that each field is filled in correctly to provide accurate and actionable data.
-</thinking>
-
 # inventory_and_meter_readings_form - Help Guide
 ## Purpose
 The "inventory_and_meter_readings_form" is a form used to collect data on meter readings and inventory values for a location.

@@ -1,12 +1,3 @@
-<thinking> 
-This form is used to manage recurring tasks in your organization. It helps you to create, edit, and track recurring tasks, ensuring that you don't miss any important tasks that need to be performed on a regular basis. 
-
-To prevent overloading of users with too many recurring tasks, this form can be used to set specific criteria for which tasks to display, such as priority levels and due dates. This way, you can prioritize and manage your tasks effectively. 
-
-The form is divided into several sections that allow you to input and configure different aspects of recurring tasks. 
-
-</thinking>
-
 # Recurring Task Management Form - Help Guide
 
 ## Purpose

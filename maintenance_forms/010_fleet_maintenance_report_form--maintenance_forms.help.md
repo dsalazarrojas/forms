@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for reporting maintenance activities on fleets of vehicles. Its purpose is to collect information about a specific vehicle's maintenance history, including its number, make, year, and model. This form is likely used by maintenance personnel or managers to record and track maintenance tasks performed on various vehicles within a fleet.
-
-Before creating a new report, ensure that you have all necessary information about the vehicle and its maintenance history. This form is not meant for reporting multiple vehicles at once; if you need to report on multiple vehicles, you may need to create separate reports for each.
-
-To avoid duplication of effort, make sure to check if a report already exists for the vehicle before creating a new one.
-
-</thinking>
-
 # fleet_maintenance_report_form - Help Guide
 ## Purpose
 The fleet_maintenance_report_form is used for reporting maintenance activities on specific vehicles within a fleet.

@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Solar Maintenance Order Form" that explains the form's purpose, how to complete it, and what each field means. This will ensure that end-users understand the form's requirements and can fill it out accurately and efficiently. To start, let's review the form's purpose and fields.
-
-The form is called "Solar Maintenance Order Form" which suggests it's used to request or schedule maintenance service for solar systems. Looking at the fields, we have a mix of free-form text fields (e.g., "Solar System Description", "Service Notes", "Maintenance Description") and more structured fields like "Service Date" and "Service Time". There's also a field "Service Status" with options like "Available", "Not Available", and "Unknown". This suggests that the form is used to request or schedule service for a solar system, and the service status is an important part of the process.
-
-To avoid duplication of effort, we'll review the fields and ensure that each one is correctly labeled and explained.
-
-</thinking>
-
 # Solar Maintenance Order Form - Help Guide
 ## Purpose
 This form is used to request or schedule maintenance service for a solar system. To complete this form, you will need to provide information about the solar system, service requirements, and scheduling details.

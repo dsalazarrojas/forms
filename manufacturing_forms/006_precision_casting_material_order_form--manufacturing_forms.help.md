@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a guide for the "precision_casting_material_order_form" form. Before we dive into the guide, let's clarify the purpose of this form. This form is used for customers to place orders for precision casting materials. It is meant to gather information about the customer, their order details, and delivery requirements. To use this form, the customer should first review the form to ensure they have all the required information. They should then complete each field accurately and thoroughly, following the guidelines and explanations provided below.
 
 # precision_casting_material_order_form - Help Guide

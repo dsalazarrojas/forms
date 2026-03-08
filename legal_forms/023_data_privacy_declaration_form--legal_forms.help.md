@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about data privacy declarations, likely for legal purposes or compliance. The form's purpose is to gather details about categories, descriptions, purposes, data collection methods, consent, and dates of data collection. This form may be used in industries where data privacy is a significant concern, such as healthcare, finance, or e-commerce. Given the form's structure and field options, it seems to be designed for a relatively simple and straightforward data collection process.
-</thinking>
-
 # Data Privacy Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information about data privacy declarations.

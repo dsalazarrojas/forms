@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to measure the level of satisfaction of IT users regarding the services provided by the IT department. The purpose of this form is to collect feedback and suggestions from users about their experiences with IT support, which will help to identify areas of improvement and provide better services. The form should be used by IT users to express their opinions and ratings about various aspects of IT services, such as overall experience, service quality, resolution time, communication, and support team performance. It is not intended to be a formal complaint or issue tracking form, but rather a tool to gather feedback for continuous improvement.
-</thinking>
-
 # IT Satisfaction Survey - Help Guide
 ## Purpose
 The IT Satisfaction Survey is a form designed to collect feedback from IT users about their experiences with IT services. This form will help us understand how we're doing and where we can improve.

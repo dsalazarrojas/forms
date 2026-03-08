@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from participants in a reusable container pilot program. The form is designed to gather basic contact and project details from participants. Before filling out this form, please confirm that you are a participant in the pilot program and that you are registering for a specific pilot. If you have already registered for a pilot, please do not fill out this form again.
-</thinking>
-
 # Reusable Container Pilot Registration Form - Help Guide
 ## Purpose
 This form is used to register participants in the Reusable Container Pilot program.

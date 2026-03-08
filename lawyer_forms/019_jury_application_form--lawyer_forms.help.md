@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals who wish to apply for jury service. We want to ensure that the application process is straightforward, so we'll be providing a detailed guide on how to complete this form. Please note that this is not a comprehensive guide for every possible combination of choices, and users should review the form carefully to understand all the fields and their implications. Also, be aware that some fields may be subject to change based on individual circumstances. This guide will cover the essential sections and fields to get you started.
-</thinking>
-
 # Jury Application Form - Help Guide
 ## Purpose
 The Jury Application Form is a document used to collect information from individuals who wish to apply for jury service. This form helps us to verify your details and understand your qualifications for jury service.

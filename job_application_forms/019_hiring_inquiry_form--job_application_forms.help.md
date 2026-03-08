@@ -1,36 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Hiring Inquiry Form", we first need to understand that this form is likely used for candidates or potential applicants to provide information about themselves and their availability for a job position. The purpose of this form is probably to gather relevant details about the candidate's qualifications, experience, and interest in a job at the company.
-
-Before starting to fill out the form, please check if you have already submitted an application or an inquiry related to this position. If so, this form will not be necessary for you to fill out.
-
-To fill out this form, start with the first page, "Applicant Information", where you will provide your basic details such as your name, address, and contact information. 
-
-Next, move to the "Contact Information" page, where you will provide more contact details, including phone number and email.
-
-The "Job Information" page is not required but can be used if you have specific job details you want to mention. 
-
-On the "Employment Status" page, select your current employment status from the dropdown list. 
-
-The "Job Title" field is an important part of your application, please fill it in carefully, as it will be used to match your application with the job openings available.
-
-The "Work Experience" field is optional but can be used to provide more information about your experience related to the job.
-
-The "Education Information" field is also optional but can be used to provide more details about your educational background.
-
-The "Job Location" field is a required field and should reflect where the job is located.
-
-The "Employment Start Date" and "Employment End Date" fields are not required and should be filled out if applicable.
-
-The "Job Status" field is a required field and should reflect the status of your current job.
-
-The "Other Job Title", "Other Job Title 2", and "Job Description" fields are not required and can be used to provide more details about your job.
-
-The "Job Requirements" field is a required field and should reflect the requirements of the job you are applying for.
-
-The "Job Type", "Job Category", "Job Level", "Job Opening Type", "Job Opening Status", "Job Opening Type", and "Job Opening Note" fields are not required and can be used to provide more information about the job opening.
-
-</thinking>
-
 # Hiring Inquiry Form - Help Guide
 ## Purpose
 

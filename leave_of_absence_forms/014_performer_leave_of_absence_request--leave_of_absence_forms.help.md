@@ -1,7 +1,3 @@
-<thinking>
-This form is used by performers to submit a request for a leave of absence. Before attempting to complete this form, ensure that you have already spoken with your manager about your leave of absence and that this form is being submitted in conjunction with your manager's knowledge and approval. If you've already submitted a leave of absence request, please do not submit this form again. A new submission will not automatically update the status of any existing leave of absence request. If you are unsure about the status of your existing request, please contact your manager or HR representative.
-</thinking>
-
 # Performer Leave Of Absence Request - Help Guide
 
 ## Purpose

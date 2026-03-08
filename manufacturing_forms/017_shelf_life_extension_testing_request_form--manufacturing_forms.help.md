@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to request extension of the shelf life of a product. This involves providing the necessary information to support the request, such as details about the product, the justification for the extension, and the contact information of the laboratory or user submitting the request. The form is used to track and process these requests internally, ensuring that the necessary testing and approval processes are followed. Before completing this form, ensure that the request is not already being processed and that you are authorized to submit it.
-
-</thinking>
-
 # Shelf Life Extension Testing Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request an extension of the shelf life of a product, providing the necessary details and justification for the extension.

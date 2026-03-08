@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals applying to join the police force. The form is intended to gather details about the candidate's background, experience, and qualifications, as well as their physical characteristics and emergency contacts. The form also includes a section for listing references and a background check consent section. The purpose of this form is to facilitate the hiring process for police department applicants. Please fill out this form accurately and thoroughly to ensure a smooth application process.
-</thinking>
-
 # Police Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals applying to join the police force. It is intended to gather details about the candidate's background, experience, and qualifications, as well as their physical characteristics and emergency contacts.

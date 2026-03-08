@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory Emergency Exit Signage Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for the emergency exit signage order. It will guide you through the process of placing an order for the necessary safety signs for your factory, including general information, contact details, product information, and order specifics.

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to gather information from candidates applying for the Transportation Fleet Manager position. The goal is to collect essential details about the applicant's background, skills, and job preferences. Before proceeding, please ensure you have reviewed the requirements of this role and understand that the information collected here will be used for internal evaluation and decision-making. This form should not be used for duplicate applications or submissions. If you are already a part of this company or have previously submitted an application, please do not resubmit. If you have any questions or concerns, feel free to contact us.
-</thinking>
-
 # Transportation Fleet Manager Job Application - Help Guide
 ## Purpose
 This guide will walk you through the Transportation Fleet Manager job application form. Please complete this form to submit your application for the Transportation Fleet Manager position. The form is divided into sections that require specific information about your personal details, job preferences, and experience.

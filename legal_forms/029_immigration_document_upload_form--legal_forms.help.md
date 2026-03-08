@@ -1,6 +1,3 @@
-<thinking>
-This form will allow users to upload relevant documents for immigration purposes. The goal is to provide a clear and concise form that gathers the necessary information for immigration documents. To ensure accurate and thorough completion of the form, we'll guide users through each field's purpose and requirements. Please note that this form is designed for users who need to upload immigration-related documents and is not intended for other purposes. Additionally, we'll check for potential duplication or overlap in user input to prevent errors.</thinking>
-
 # Immigration Document Upload Form - Help Guide
 ## Purpose
 The Immigration Document Upload Form is used to gather essential information and upload relevant documents for immigration purposes.

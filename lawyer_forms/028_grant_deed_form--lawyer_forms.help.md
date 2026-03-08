@@ -1,10 +1,3 @@
-<thinking>
-The Grant Deed Form is a legal document that transfers ownership of a property from one person (Grantor) to another (Grantee). The form is used to record and prove the transfer of ownership, ensuring that both parties are aware of the terms and conditions of the transfer. The form is often used in real estate transactions, wills, and other legal matters.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, but rather a generated form using public survey topic metadata. It's a unique creation, released under CC BY 4.0, allowing users to modify and use it as needed.
-
-</thinking>
-
 # Grant Deed Form - Help Guide
 ## Purpose
 The Grant Deed Form is a document used to transfer ownership of a property from one person to another. It's a legal agreement between the Grantor and Grantee, ensuring that both parties are aware of the terms and conditions of the transfer.

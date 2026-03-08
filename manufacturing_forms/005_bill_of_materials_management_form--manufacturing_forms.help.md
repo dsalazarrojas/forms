@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to manage Bill Of Materials (BOM) information for products, which is a critical aspect of manufacturing process. A BOM is a comprehensive list of the materials and components required for a product, along with their quantities and costs. The form is meant to provide a centralized platform for storing and tracking product details, allowing for efficient production planning and procurement. To ensure consistency and accuracy, the form should not be used to create duplicate entries. If a product already exists in the system, please use the edit function to update the existing entry instead of creating a new one.
-
-</thinking>
-
 # Bill Of Materials Management Form - Help Guide
 ## Purpose
 The Bill Of Materials Management Form is a tool used to store and track product information, including product details, costs, and production lead times.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information from potential smart security partners, including their contact details, company information, and inquiry description. This form is designed to be used by internal teams to identify and engage with potential partners who can assist in the development and implementation of the smart security system. It is crucial to note that this form is not intended for general public submission, and the required fields ensure that only relevant and legitimate inquiries are collected and followed up on. The form is divided into multiple pages, each with a specific set of fields that gather necessary information from the partner. The fields are designed to be self-explanatory, but the purpose of this guide is to provide a clear understanding of each field's intent and requirement.
-</thinking>
-
 # Smart Security Partner Contact Form - Help Guide
 ## Purpose
 The Smart Security Partner Contact Form is designed to collect contact information from potential smart security partners. This form helps our team identify and engage with partners who can assist in the development and implementation of the smart security system.

@@ -1,6 +1,3 @@
-<thinking> 
-We need to ensure that this form is used correctly and that the information gathered is relevant. To that end, please note that this form is for the position of Data Analyst/Scientist, and it is essential to provide accurate and honest information. Before filling out this form, please ensure you have all necessary documents and information at hand, and that you are applying for a role that genuinely interests you. Also, please be aware that some fields are not required, but providing accurate and comprehensive information will increase the likelihood of your application being reviewed positively.</thinking>
-
 # tech_startup_data_analyst_interview_form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals applying for a Data Analyst/Scientist position. It helps us understand your background, experience, and preferences to determine the best fit for our team.

@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form to collect information from potential partners for our global expansion consulting services. This form will likely be used by people looking to partner with our company in various regions. It's essential to ensure that only relevant and unique contacts are collected. To achieve this, we should include a clear purpose and instructions for the form, along with a detailed explanation of each field to prevent user confusion and duplication of efforts.
-</thinking>
-
 # Global Expansion Consulting Partner Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information from potential partners interested in global expansion consulting services. Please fill out the form carefully to ensure we can get in touch with you.

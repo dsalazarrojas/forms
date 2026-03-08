@@ -1,14 +1,3 @@
-<thinking>
-This form is for individuals who are interested in becoming training instructors at the organization. We want to ensure that all applicants have a clear understanding of what we're looking for in a training instructor and what information we need from them. Please note that this form is intended for internal use only and is not meant to be shared or completed by external parties. We will review and verify the accuracy of the information provided in this form before proceeding with the application process.
-
-Before filling out this form, please make sure that you haven't already completed a similar application in the past. Duplicate applications may cause confusion and delay the review process.
-
-To help us better understand your qualifications and needs, please be as detailed as possible when filling out this form.
-
-The purpose of this form is to collect information that will help us assess your suitability as a training instructor and ensure a smooth onboarding process.
-
-</thinking>
-
 # Training Instructor Application Form - Help Guide
 ## Purpose
 The Training Instructor Application Form is a form designed to collect information from individuals interested in becoming training instructors at our organization. This form is used to assess the qualifications, availability, and suitability of potential instructors.

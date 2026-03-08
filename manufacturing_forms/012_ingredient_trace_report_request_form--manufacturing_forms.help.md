@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ingredient Trace Report Request Form - Help Guide
 
 ## Purpose

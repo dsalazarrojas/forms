@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for an IT third-party maintenance service request. The form will gather details about the request, including the category, description, priority, and other relevant fields such as vendor information and customer contact details. Before proceeding, please ensure that you have the necessary authority to request maintenance services and that the request is not a duplicate.
-
-</thinking>
-
 # IT Third Party Maintenance Service Request - Help Guide
 ## Purpose
 

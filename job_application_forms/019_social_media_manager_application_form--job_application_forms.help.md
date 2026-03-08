@@ -1,11 +1,3 @@
-<thinking>
-The form titled "social_media_manager_application_form" is designed to collect information from applicants for a social media management position. The purpose of this form is to gather relevant details about an individual's background, skills, and preferences for potential job opportunities in the field of social media management. The form includes fields for contact information, job history, education, work experience, skills, references, certifications, language skills, resume, portfolio, job preferences, work style, job title, job type, job location, job start date, job end date, job employer, job description, job notes, salary, and benefits. 
-
-This form is likely to be used by hiring managers or recruiters in the social media industry to collect information from potential candidates. 
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform, but rather an original creation using public survey topic metadata.
-</thinking>
-
 # social_media_manager_application_form - Help Guide
 
 ## Purpose

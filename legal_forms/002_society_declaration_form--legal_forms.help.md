@@ -1,5 +1,3 @@
-<thinking>... This form seems to be for the declaration of a society's existence and possibly its internal details. The fields listed in the YAML seem to be related to society-related information such as society details, authorized persons, and confirmatory questions. This form might be part of a legal or administrative process. The fields include a wide range of text fields for detailed information, a multiple-select field for authorized persons, and a single-select field for confirmation, as well as a note field for signature. The purpose of this form could be to collect information about a society for regulatory or administrative purposes. To avoid duplication, this form might not be necessary if a similar society declaration form has been completed recently... </thinking>
-
 # Society Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information about a society's details for regulatory or administrative purposes.

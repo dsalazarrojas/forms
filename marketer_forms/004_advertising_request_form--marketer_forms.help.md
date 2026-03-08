@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended for marketing teams to request advertising campaigns from the internal stakeholders. The form's purpose is to gather information necessary for the marketing team to understand the requirements and goals of the campaign, including the name of the requester, their department, and the objective of the campaign. The form will help in ensuring that the marketing team is well-equipped to plan and execute the campaign effectively. This form is meant to be filled out by the internal requesters, and the information collected will be used internally within the marketing team.
-</thinking>
-
 # Advertising Request Form - Help Guide
 ## Purpose
 This form is designed to help the marketing team understand the requirements and goals of the requested advertising campaign. It is meant to be filled out by internal requesters and will be used by the marketing team to plan and execute the campaign.

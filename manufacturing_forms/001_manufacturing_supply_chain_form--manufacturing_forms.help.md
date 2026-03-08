@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from manufacturers about their supply chain activities. It is intended for internal use by organizations that deal with manufacturing and related industries. Please ensure you have the necessary permissions or approvals to access and use this form. You are not allowed to use this form for any purpose that may be seen as spam, solicitation, or other form of abuse.
-</thinking>
-
 # Manufacturing Supply Chain Form - Help Guide
 ## Purpose
 

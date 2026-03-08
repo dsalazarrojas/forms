@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information from a Broadcast Producer regarding their leave of absence, including their personal details, departmental affiliation, type of leave, and relevant dates. The goal is to provide a structured way for HR and management to process and manage employee leaves in the broadcast production industry. Please ensure that you are submitting this form for the intended purpose and not for other uses. Before proceeding, please verify that you are authorized to complete this form and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Broadcast Producer Leave Of Absence Form - Help Guide
 ## Purpose
 This form is designed to streamline the leave of absence process for Broadcast Producers. It helps HR and management to efficiently gather necessary information and ensure a smooth transition of duties while the producer is away.

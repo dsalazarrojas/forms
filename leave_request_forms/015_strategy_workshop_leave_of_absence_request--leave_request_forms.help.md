@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect leave of absence requests from employees. The form is intended to help supervisors confirm or deny leave requests, allowing them to manage leave effectively. To complete this form, follow the instructions below.
-
-</thinking>
-
 # Strategy Workshop Leave Of Absence Request - Help Guide
 ## Purpose
 The purpose of this form is to submit a leave of absence request for a Strategy Workshop. This will help your supervisor review and approve or deny your leave request.

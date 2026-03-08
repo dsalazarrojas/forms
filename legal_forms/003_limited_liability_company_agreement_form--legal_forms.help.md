@@ -1,7 +1,3 @@
-<thinking>
-A form for creating a Limited Liability Company (LLC) agreement form. This form is used to collect detailed information about an LLC, including owner and manager details, capital structure, and operating agreements. The purpose of this form is to ensure that all necessary information is captured accurately and consistently. It's essential to fill out this form carefully and thoroughly to avoid any potential issues or discrepancies. This form should not be used as a template for other types of entities; it is specific to LLCs.
-
-</thinking>
 # limited_liability_company_agreement_form - Help Guide
 ## Purpose
 This form is used to collect information about a Limited Liability Company (LLC) to create a comprehensive agreement.

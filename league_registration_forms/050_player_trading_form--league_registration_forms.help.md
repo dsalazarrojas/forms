@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Player Trading Form - Help Guide
 ## Purpose
 The Player Trading Form is used to document the details of a player trade between two teams in a sports league. This form captures essential information about the trade, including the players involved, their status, and the terms of the trade.

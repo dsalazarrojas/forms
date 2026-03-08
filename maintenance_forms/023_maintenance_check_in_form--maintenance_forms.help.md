@@ -1,14 +1,3 @@
-<thinking>
-The Maintenance Check In Form is used to record and track the maintenance activities on equipment. It helps in ensuring that all the maintenance activities are properly documented and up-to-date. The form captures the details of each maintenance activity, including the date and time of the activity, the technician's name, and the status of the maintenance.
-
-This form is designed to be filled out by the technicians when they perform maintenance activities. It is intended to be a quick and efficient way to record the necessary information without having to navigate through multiple systems or paperwork.
-
-The form can be used by both technicians and maintenance managers to track and monitor the maintenance activities. The information in the form is used to provide insights on the overall maintenance performance and to identify any potential issues that need to be addressed.
-
-The fields in the form are designed to be simple and easy to use. Each field has a specific purpose, and the labels and hints provided should give a clear indication of what information is expected.
-
-</thinking>
-
 # Maintenance Check In Form - Help Guide
 ## Purpose
 The Maintenance Check In Form is used to record and track the maintenance activities on equipment.

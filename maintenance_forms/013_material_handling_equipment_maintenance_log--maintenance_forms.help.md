@@ -1,22 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to document and track the maintenance history of material handling equipment, including details about the equipment's status, type, and maintenance schedule.
-
-Before proceeding, please note that the form is likely used in a specific context (e.g., an industrial or manufacturing setting) and may overlap with other existing forms or data entry processes. Be aware of the form's scope and purpose to avoid duplicating efforts or entering redundant information.
-
-The form's structure appears to be designed for a comprehensive maintenance log, capturing various aspects of equipment maintenance, such as:
-
-* Equipment identification (ID, type, and model year)
-* Status and type of maintenance
-* Maintenance date and duration
-* Repair costs and notes
-* Preventative maintenance schedule
-* Contact information for maintenance personnel
-* Additional details (serial number, asset tag, and asset number)
-
-Please ensure that you complete the form with accurate and relevant information to maintain an up-to-date and reliable record of equipment maintenance.
-
-</thinking>
-
 # Material Handling Equipment Maintenance Log - Help Guide
 ## Purpose
 The Material Handling Equipment Maintenance Log form is used to document and track the maintenance history of material handling equipment. This form helps ensure that equipment is properly maintained, reduces downtime, and improves overall efficiency in the workplace.

@@ -1,10 +1,3 @@
-<thinking>
-The Elective Office Application Form is used to capture information from applicants for elective office positions within the organization. This form ensures that applicants provide the necessary details for the application process.
-Before filling out this form, please ensure that:
-* You have a good understanding of the position requirements and your suitability for it.
-* You have a well-structured resume ready to upload.
-</thinking>
-
 # Elective Office Application Form - Help Guide
 ## Purpose
 The Elective Office Application Form is used to capture information from applicants for elective office positions within the organization.

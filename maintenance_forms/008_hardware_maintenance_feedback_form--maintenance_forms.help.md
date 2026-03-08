@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to collect feedback from users on the maintenance status of hardware equipment. This form helps our team identify areas that need improvement and ensures that all equipment is well-maintained. Please note that this form should only be filled out by users who have experienced issues with equipment maintenance. If you have not experienced any issues, please do not submit this form. To avoid duplication, please do not submit multiple forms for the same issue.
-
-</thinking>
-
 # Hardware Maintenance Feedback Form - Help Guide
 ## Purpose
 The Hardware Maintenance Feedback Form is designed to collect feedback from users on the maintenance status of hardware equipment. This form helps us identify areas that need improvement and ensure that all equipment is well-maintained.

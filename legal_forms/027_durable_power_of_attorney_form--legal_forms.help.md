@@ -1,12 +1,3 @@
-<thinking>
-The Durable Power Of Attorney Form is a legal document that grants a person, known as the "Grantor," the power to act on behalf of another person, known as the "Attorney," in a specific manner. This form is typically used to establish a legal relationship between the Grantor and the Attorney. The form is usually used when the Grantor needs to delegate authority to the Attorney for various reasons, such as managing finances, properties, or other matters.
-
-In this guide, we will walk you through the fields of the Durable Power Of Attorney Form and provide explanations for each field to ensure that you understand its purpose and how to complete it correctly.
-
-Please note that the fields that are marked as "required" are necessary to fill out for the form to be valid. If a field is not required, you can still fill it out, but it's not essential for the form's validation.
-
-</thinking>
-
 # Durable Power Of Attorney Form - Help Guide
 ## Purpose
 

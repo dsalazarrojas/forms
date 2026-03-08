@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a W-8BEN form, used for international tax purposes, specifically for the certification of foreign status or claim for exemption from withholding. It's essential to ensure that the information provided is accurate and valid to avoid potential issues with the Internal Revenue Service (IRS) or other relevant authorities. The form seems to be intended for individuals or entities with a foreign address, as it requires address-related fields such as Street, City, State, and Zip. Before proceeding, please verify that this form is the correct one for your needs and that you have the necessary authority to complete it.
-</thinking>
-
 # W 8Ben - Help Guide
 ## Purpose
 This form is used for international tax purposes, specifically for the certification of foreign status or claim for exemption from withholding.

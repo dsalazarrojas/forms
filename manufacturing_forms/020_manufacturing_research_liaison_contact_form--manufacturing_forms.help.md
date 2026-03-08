@@ -1,7 +1,3 @@
-<thinking>
-We should create a help guide that is clear and concise, making it easy for end-users to understand the purpose and use of the Manufacturing Research Liaison Contact Form. The form's structure should be consistent and follow a clear format.
-</thinking>
-
 # Manufacturing Research Liaison Contact Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>As a director, an executive in charge of directing, leading, or conducting a particular area or business function, termination can be a serious step that can impact their career and life. To avoid legal implications and ensure a smooth transition, it's essential for companies to have a well-structured director termination procedure in place. This director termination notice form is part of that process. The form is intended to serve as an official announcement of the termination of a director's appointment, including the reason for termination, and any other relevant details. Before completing this form, please ensure that you have followed the necessary internal procedures and have considered any applicable laws and regulations in your region.
-
-Please note that this form is a generic adaptation of common practices and should be reviewed and customized according to your company's specific needs and local regulations.</thinking>
-
 # Director Termination Notice Form - Help Guide
 
 ## Purpose

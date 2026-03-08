@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Business Agreement Form", I'll need to review the form's purpose, structure, and content. 
 
 The form appears to be a comprehensive agreement template for business transactions, covering various essential aspects such as agreement type, parties involved, terms, payment, and dispute resolution. It's likely designed for use by businesses, lawyers, or individuals to create formal agreements for various types of business arrangements.

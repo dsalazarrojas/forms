@@ -1,9 +1,3 @@
-<thinking>
-The Right Of First Refusal Request Form is used to document a request for information or action regarding a specific property, typically initiated by a property owner or their representative. This form should only be used when the property owner or their representative has not previously submitted a request for information or action regarding the same property. The form is typically filled out and submitted by the property owner or their representative, and may be reviewed and signed by the property manager or their representative. 
-
-This guide is intended to walk the user through the completion of this form to ensure that all relevant information is collected and provided accurately.
-</thinking>
-
 # Right Of First Refusal Request Form - Help Guide
 ## Purpose
 

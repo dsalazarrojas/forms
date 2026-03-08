@@ -1,29 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the Auto Loan Application Form. The form is designed to gather information about the applicant and their financial situation in order to determine loan eligibility and terms. This guide will cover the purpose and usage of each field in the form.
-
-Please note that the following fields are required for the form to be submitted and processed:
-
-* Full Name
-* Social Security Number
-* Date of Birth
-* Annual Income
-* Monthly Housing Cost
-* Employer
-* Years at Employer
-* Loan Amount Requested
-* Desired Term (Months)
-* Down Payment
-* Vehicle Details
-* Vehicle Status
-* Authorize Credit Report
-
-The following fields are optional but may aid in the form's processing:
-
-* Email Address
-* Monthly Rent or Mortgage (this field is not explicitly listed but implied as a part of the form)
-* Vehicle Financed (this field is not explicitly listed but implied as a part of the form)
-</thinking>
-
 # Auto Loan Application Form - Help Guide
 ## Purpose
 The Auto Loan Application Form is designed to gather information about the applicant and their financial situation in order to determine loan eligibility and terms. The form collects personal and financial information about the applicant and the vehicle to be financed.

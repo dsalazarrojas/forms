@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess the quality control processes and metrics in a manufacturing setting. Its purpose is to gather information on general information, quality assessment, issue tracking, production data, and quality metrics. This form is intended for use by production staff, quality control teams, or management personnel to monitor and improve the quality of products or services in the manufacturing process.
-
-Before filling out this form, please ensure that you have a clear understanding of the manufacturing process and the quality control procedures in place. If you're unsure about any section or question, please consult with your supervisor or a quality control expert before proceeding.
-
-</thinking>
-
 # Manufacturing Quality Control Assessment - Help Guide
 ## Purpose
 This form is designed to gather information on the quality of products or services in the manufacturing process.

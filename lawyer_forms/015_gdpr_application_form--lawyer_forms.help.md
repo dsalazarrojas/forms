@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## gdpr_application_form - Help Guide
 
 ## Purpose

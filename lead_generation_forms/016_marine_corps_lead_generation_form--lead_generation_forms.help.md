@@ -1,8 +1,3 @@
-<thinking>
-# Internal notes about the form:
-This form is part of a broader system designed to manage lead generation for military organizations. Its main purpose is to gather relevant information about individuals who may be interested in joining the Marine Corps. The form is meant to be completed by these interested individuals themselves, providing them with an easy and accessible way to express their interest. 
-</thinking>
-
 # marine_corps_lead_generation_form - Help Guide
 ## Purpose
 The marine_corps_lead_generation_form is a tool used by potential applicants to express their interest in joining the Marine Corps.

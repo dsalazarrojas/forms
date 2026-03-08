@@ -1,10 +1,3 @@
-<thinking>
-This form is used to track and manage employee leave of absence for trade skill enhancement. The purpose of this form is to provide a structured way for employees to request and manage their leave of absence. It is essential that employees use this form to ensure that their leave of absence is properly recorded and approved.
-
-Before starting, ensure that you have the necessary information and approvals. If you have already submitted a leave of absence form, please do not resubmit. Duplicate requests may cause confusion and delay the approval process.
-
-</thinking>
-
 # Trade Skill Enhancement Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used to track and manage employee leave of absence for trade skill enhancement.

@@ -1,6 +1,3 @@
-<thinking>
-We should only allow existing members to fill out this form. If this form is intended for new members, then we should make it clear on the form that it's only for new members. We should also ensure that the form doesn't collect unnecessary information. For instance, fields like emergency contact name and phone, are generally only relevant for established members or members who are minors. We should review the form's purpose and content to ensure it accurately reflects the needs of our audience.</thinking>
-
 # Book Club Membership Form - Help Guide
 ## Purpose
 The Book Club Membership Form is designed to collect information from new and existing members of the book club. This form helps us to gather essential data about your interests, preferences, and needs, ensuring a smooth and enjoyable experience for all members.

@@ -1,7 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information from employees regarding their leave requests. This form is typically used by employees to request leave for various reasons, such as vacation, medical, or personal reasons. It is essential to provide accurate and complete information in the form to ensure that your leave request is processed smoothly. Please ensure that you have filled out all required fields and that your submission is relevant to your leave request. If you have any doubts or uncertainties about the form, please reach out to your manager or HR representative for guidance.
-</thinking>
-
 # Leave Request Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect application information from candidates interested in working as a film sound mixer. It will help us assess your qualifications, experience, and portfolio. Before starting, please make sure you have a clear and concise resume and portfolio ready to be uploaded. This form is a one-time submission and will help us review your application. We will not be reviewing duplicate submissions, so please do not submit this form multiple times.
-
-</thinking>
-
 # Film Sound Mixer Application Form - Help Guide
 ## Purpose
 This form is used for candidates to apply for a film sound mixer position. It requires providing personal contact information and uploading a resume and portfolio to demonstrate experience and qualifications.

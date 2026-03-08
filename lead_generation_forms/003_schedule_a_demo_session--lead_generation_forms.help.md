@@ -1,7 +1,3 @@
-<thinking>
-This form is used to schedule a demo session, which is a crucial step in the sales process to showcase a product or service to a potential customer. Before starting, please ensure that you are not duplicating an existing demo session with the same customer. If you are unsure, double-check the customer's history in your sales system.
-</thinking>
-
 # Schedule A Demo Session - Help Guide
 ## Purpose
 This form is designed to collect information about a demo session, allowing sales team members to schedule and manage demo sessions efficiently. It helps gather relevant details about the demo, including the type, date, time, and other essential information.

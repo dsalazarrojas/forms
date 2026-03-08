@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help us assess your qualifications and fit for the Animal Trainer position. Please ensure you answer the questions to the best of your ability, being honest and thorough. This form will help us get an idea of your experience, skills, and fit with our organization. Please make sure to fill out this form completely and accurately, and do not duplicate any information. If you have any questions or concerns, feel free to reach out to us before submitting your application.
-</thinking>
-
 # Animal Trainer Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about your personal details, experience, and qualifications for the Animal Trainer position. It will help us assess your fit for the role and guide you through the application process.

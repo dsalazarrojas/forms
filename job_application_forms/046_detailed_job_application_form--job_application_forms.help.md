@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from job applicants for a comprehensive job application process. The purpose of this form is to gather essential details about the candidate's background, experience, and availability. Each field is carefully selected to provide a comprehensive view of the candidate's suitability for the position. This form is intended for internal use within the organization, and the information collected will be reviewed by hiring managers to assess the candidate's qualifications. Please ensure that all required fields are filled in accurately and honestly to ensure a smooth evaluation process.
-
-</thinking>
-
 # Detailed Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from job applicants for a comprehensive job application process.

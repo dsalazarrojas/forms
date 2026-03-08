@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear and concise understanding of the "Forensic Chemistry Assessment" form. The purpose of this form is to collect and document the forensic chemistry assessment results for a given sample or case. The form captures various information related to the assessment, including knowledge check questions, technique ratings, integrity confirmation, and submission details.
-
-Before proceeding, please ensure that you have the necessary permissions and authorization to access this form. Additionally, verify that the form has not been duplicated or modified in any way that could compromise its functionality or security.
-
-</thinking>
-
 # Forensic Chemistry Assessment - Help Guide
 ## Purpose
 The Forensic Chemistry Assessment form is used to collect and document the forensic chemistry assessment results for a given sample or case.

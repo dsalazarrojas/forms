@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about discrepancies found during industrial data collection. It's used to report on errors, discrepancies, or issues that affect the accuracy of the industrial data. This form is likely used in a data collection or quality control process to gather details about what went wrong, how severe it was, and what actions were taken to correct it.
 
 Before filling out this form, please ensure you're only completing one instance per discrepancy. If multiple discrepancies occurred, fill out multiple forms, one for each issue. This form should not be used to report on routine or expected variations in data.

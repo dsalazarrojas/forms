@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about high school students' participation in sports and their interests. This form will help us understand which sports students are interested in, what barriers they may face to participate, and other relevant details.
-
-This form is designed to be filled out by high school students and their parents/guardians. It is not a duplicate of any other form, and the responses will help us better understand the needs and preferences of high school students regarding sports participation.
-
-To ensure accurate and complete responses, please read the instructions carefully and make sure to fill out every field.
-</thinking>
-
 # High School Sports Participation Survey - Help Guide
 ## Purpose
 This form is designed to gather information about high school students' participation in sports and their interests. Please take a few minutes to complete this form carefully.

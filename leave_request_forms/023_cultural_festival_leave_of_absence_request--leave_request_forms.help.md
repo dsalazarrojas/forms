@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to be a leave request form for employees to request cultural festival leave. The purpose of this form is to provide a structured way for employees to submit their leave requests, which will then be reviewed and approved by their team lead and manager. The form is intended to gather information about the employee's leave request, including the start and end dates, reason for the request, and other relevant details. By using this form, employees can ensure that their leave requests are properly documented and easily tracked by management.
-
-This form should only be used for requesting leave for cultural festivals, and not for other types of leave. The form will guide the user through a series of fields that will collect the necessary information to process the leave request.
-
-Please note that some fields may be optional, but it is recommended that all relevant information is provided to ensure that the leave request is properly processed.
-
-Before proceeding, please make sure that this form is not a duplicate request and that you have not previously submitted a request for the same cultural festival. If you are unsure, please contact the designated form administrator for assistance.
-</thinking>
-
 # Cultural Festival Leave Of Absence Request - Help Guide
 ## Purpose
 This form is designed to be a leave request form for employees to request cultural festival leave.

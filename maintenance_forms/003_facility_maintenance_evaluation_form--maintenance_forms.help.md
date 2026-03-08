@@ -1,12 +1,3 @@
-<thinking>
-The form "Facility Maintenance Evaluation Form" is intended to collect data and track the evaluation of facilities in an organization. It's likely that this form will be used by facilities management teams or maintenance personnel to gather information and assess the condition of facilities, which could include equipment, buildings, and other physical infrastructure. The form appears to be divided into several sections, each focusing on different aspects of facility maintenance, such as facility information, evaluation information, service information, quality management, and timeliness of service. This form may be used for reporting, tracking, and analysis purposes.
-
-Before filling out this form, please ensure that you have the necessary information and permissions to do so. This form should only be filled out once per facility, and the information provided should be as accurate and up-to-date as possible. Please note that some fields may be optional, but providing as much information as possible will help in the evaluation process.
-
-To avoid duplication of effort, please make sure to review the form carefully before filling it out. If you're unsure about any information or have any questions, please reach out to the relevant teams or personnel.
-
-</thinking>
-
 # Facility Maintenance Evaluation Form - Help Guide
 ## Purpose
 

@@ -1,15 +1,3 @@
-<thinking>
-This form is a job application form for graphic design positions. It's intended to be completed by individuals who are applying for a graphic design job. The form is designed to gather information about the applicant's background, skills, and experiences. This form is likely to be used by the human resources department or hiring managers to evaluate the candidates for the position.
-
-To determine if this form is relevant and not duplicated, consider the following:
-
-* Is the form being used for a graphic design position?
-* Is the form being used by the intended user group (e.g. human resources department, hiring managers)?
-* Is the form being used in a context where the information gathered will be used for the same purpose as intended (e.g. evaluating candidates for a graphic design position)?
-
-If the answer to these questions is yes, then the form is likely relevant and not duplicated.
-</thinking>
-
 # Graphic Design Job Application Form - Help Guide
 ## Purpose
 The Graphic Design Job Application Form is a tool used to gather information from individuals who are applying for graphic design positions. It is designed to help the human resources department or hiring managers evaluate the candidates' background, skills, and experiences.

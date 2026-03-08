@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the distribution of an individual's estate after their death. It's essential to accurately fill out this form to ensure that the estate is divided fairly and according to the law. Before filling out this form, please review the estate's total value and the shares of each family member. This form should not be used for other purposes, such as creating a will or other legal documents. Each field has a specific purpose, so please read through each field carefully to ensure you understand its relevance. The form's purpose is to provide a clear and concise way to document the distribution of an estate after death. Please note that some fields are optional and may require additional information or explanation.
-</thinking>
-
 # Inheritance Distribution Form - Help Guide
 ## Purpose
 The Inheritance Distribution Form is used to document the distribution of an individual's estate after their death. This form helps to ensure that the estate is divided fairly and according to the law.

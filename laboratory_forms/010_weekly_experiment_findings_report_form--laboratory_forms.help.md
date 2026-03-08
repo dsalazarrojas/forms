@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture the findings and progress of weekly experiments. It should be filled out by the person responsible for submitting the report at the end of each week. The report should contain information on the experiment's start and end dates, project name, experiment name, outcome, analysis, next week's plan, and other relevant details such as collaborators, team members, and reviewer assignments. The form should not be duplicated for the same week's experiment. Please ensure that you are submitting the correct report for the intended week and project.
-</thinking>
-
 # Weekly Experiment Findings Report Form - Help Guide
 ## Purpose
 This form is used to report the findings and progress of weekly experiments. It should be filled out by the person responsible for submitting the report at the end of each week.

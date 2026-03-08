@@ -1,15 +1,3 @@
-<thinking>
-## Internal reasoning block
-
-Before you start filling out this form, please take a moment to consider the following:
-
-* This form is intended for laptop maintenance requests, which means you're likely submitting a request for fixing or updating your laptop.
-* The form is designed to be completed by employees or authorized personnel, such as IT staff or administrators.
-* The form's purpose is to gather information about your maintenance request, which will help the maintenance team assign the right level of priority and schedule the repair accordingly.
-* Make sure to fill out the form accurately and thoroughly, as this will help the maintenance team work efficiently and effectively.
-* If you're unsure about any of the fields or have additional comments or information, don't hesitate to reach out to the maintenance team for clarification.
-</thinking>
-
 # Laptop Maintenance Request Form - Help Guide
 ## Purpose
 The purpose of this form is to submit a maintenance request for your laptop. Please fill it out to report any issues or request repairs, and our maintenance team will get in touch with you to schedule a maintenance slot.

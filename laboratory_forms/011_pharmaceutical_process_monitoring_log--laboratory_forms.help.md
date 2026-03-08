@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the purpose and context of the "Pharmaceutical Process Monitoring Log" form. This form likely tracks important details about production shifts, equipment usage, and production timelines for a pharmaceutical process. The goal is to ensure that end-users understand the form's purpose and how to complete it accurately.
-
-Internal reasoning: 
-
-The form's purpose is to collect data for production monitoring and analysis. The "production_shift" field is likely used to track whether a shift occurred or not. The "equipment_used" field allows users to report which equipment was used during the production process. The "batch_number", "production_date", and "production_start_time" fields are probably used to track production details. The "notes" field is a free-text field for additional comments or observations.
-
-</thinking>
-
 # Pharmaceutical Process Monitoring Log - Help Guide
 ## Purpose
 The Pharmaceutical Process Monitoring Log form is used to collect important information about production shifts, equipment usage, and production timelines. This data helps in monitoring and improving the pharmaceutical process.

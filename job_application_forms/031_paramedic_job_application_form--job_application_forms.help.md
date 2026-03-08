@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect general information about a paramedic's job application, ensuring that they can be considered for potential positions within our organization. 
-This form is not a comprehensive assessment of their medical skills or qualifications. 
-The purpose of this form is to provide an initial evaluation of their application and potentially move to a more in-depth evaluation process. 
-Please note that this form should not be used to evaluate candidates without a comprehensive review of their credentials and qualifications. 
-</thinking>
-
 # Paramedic Job Application Form - Help Guide
 ## Purpose
 The Paramedic Job Application Form is designed to collect information about your experience, qualifications, and availability for potential positions within our organization.

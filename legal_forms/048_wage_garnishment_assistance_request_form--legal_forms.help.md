@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to support employees who are having issues with wage garnishment. Wage garnishment is a legal process where a creditor takes a portion of an employee's paycheck to satisfy a debt or other financial obligation. This form will help to guide employees through the process of requesting assistance with wage garnishment.
-
-Before proceeding, please ensure that you have not already submitted this form and that you are not attempting to duplicate the process. This form should only be used to request assistance with an existing garnishment issue.
-
-</thinking>
-
 # Wage Garnishment Assistance Request Form - Help Guide
 ## Purpose
 This form is used to request assistance with wage garnishment issues. It is intended to provide relevant information to help us understand the situation and provide guidance on the next steps.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for employees to provide their onboarding information to the social media team for company's internal use. This information will be used to create a central repository of employee social media profiles. 
-
-It is recommended that employees complete this form only once during their onboarding process. Re-submission or duplicate submissions will be ignored. Please ensure that you have permission from your manager or HR before sharing your social media profiles.
-
-</thinking>
-
 # Social Media Onboarding Form Template - Help Guide
 
 ## Purpose

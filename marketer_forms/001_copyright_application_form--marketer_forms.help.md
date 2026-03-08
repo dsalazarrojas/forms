@@ -1,6 +1,3 @@
-<thinking> 
-This form appears to be a copyright application form used to collect information from applicants for copyright registration. The form has multiple fields for personal and work-related details, including application date, time, type of copyright, name and address of the applicant, email, phone number, title of the work, author name, copyright number, registration number, creation and publication dates, status, comments, submitted by, and submit date and time. The form seems to be used for a general copyright application, and it may be used by individuals or companies applying for copyright protection. To ensure that the information is accurately collected and the form is filled out correctly, a clear and concise help guide is essential. Before filling out this form, please review the following guidelines.</thinking>
-
 # Copyright Application Form - Help Guide
 
 ## Purpose

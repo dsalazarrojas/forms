@@ -1,11 +1,3 @@
-<thinking>
-We are creating a help guide for the Shoes Order Form. This form is used to collect information from customers who want to order shoes from our company. The form is designed to gather basic information such as contact details, order specifics, and payment options. It will help us to understand the customer's requirements and preferences for their shoe order.
-
-Before proceeding, please ensure that you are aware of the form's purpose and that you are authorized to fill it out. Additionally, please note that this form is for order-related inquiries only and does not include any fields for returns or cancellations. If you need to return or cancel an order, please contact us directly.
-
-To avoid duplication of effort, kindly do not submit a new order if you already have an active order with us. Please review your active orders or contact our customer support for further assistance.
-</thinking>
-
 # Shoes Order Form - Help Guide
 
 ## Purpose

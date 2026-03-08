@@ -1,16 +1,3 @@
-<thinking>
-**Form Purpose**
-This form is designed to collect information from potential advertisers to create an advertising campaign. The form gathers business contact details, advertising preferences, target audience, and ad content details to tailor an ad campaign that meets the advertiser's needs.
-To avoid duplication, please note that this form is only for new or non-existent accounts. If you have a pre-existing account, please use the "Account Update" form instead.
-
-**Internal Reasoning Note:**
-
-*   We want to ensure that the form collects relevant information to create an effective ad campaign.
-*   We aim to avoid duplication of efforts and ensure that each form submission represents a new or non-existent account.
-*   This form will be reviewed to ensure the provided information is accurate and complete.
-
-</thinking>
-
 # Advertiser Purchase Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential advertisers to create an ad campaign that meets their specific needs.

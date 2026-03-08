@@ -1,10 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the purpose and usage of the Jersey Waiver Form. The form is intended to be used for waiver-related purposes, and its design and content are based on best practices for waiver forms. The fields and their explanations should be reviewed for relevance and accuracy to ensure they align with the form's intended use.
-
-To determine if this form meets the needs of your organization, please review the form's fields and instructions carefully. Ensure that the form's content and design match your organizational requirements and that the explanations provided are accurate and relevant.
-
-If you find any issues with this guide, please let the developer know, as they will update the form accordingly.</thinking>
-
 # Jersey Waiver Form - Help Guide
 ## Purpose
 The Jersey Waiver Form is a comprehensive waiver document that helps individuals or entities acknowledge and assume the risks associated with certain activities. By using this form, you can clearly outline the risks and responsibilities involved in a particular activity or situation.

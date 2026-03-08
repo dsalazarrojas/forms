@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help meeting requesters provide detailed information about their meeting requests. It's intended to be used by managers to review and respond to meeting requests. The form is used to gather data on meeting details such as date, time, location, and attendees. The form will help managers to make informed decisions on meeting approvals.
-</thinking>
-
 # Meeting Availability Survey - Help Guide
 ## Purpose
 This form is a survey designed to help meeting requesters provide detailed information about their meeting requests. It allows managers to review and respond to these requests efficiently.

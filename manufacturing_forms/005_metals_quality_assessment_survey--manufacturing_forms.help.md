@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information related to metals quality assessment for samples. This form will be used to gather details about each sample, including its quality assessment, condition, shape, surface, material, location, and result. This form should only be filled out for samples that have been previously collected and processed. 
-</thinking>
-
 # Metals Quality Assessment Survey - Help Guide
 ## Purpose
 

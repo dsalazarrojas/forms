@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to collect customer information and order details for a product purchase. This form is used to gather the product name, price, and quantity ordered, as well as the customer's contact information (email, phone, and name), order date and time, and any additional order notes. The form also allows customers to select multiple product options. This information will be used to process and fulfill the order. It's essential to ensure that all required fields are filled in to avoid any issues with order processing. Please ensure that you are only filling out this form for a legitimate product purchase and not for testing or demonstration purposes.
-</thinking>
-
 # Product Order Form - Help Guide
 ## Purpose
 This form is designed to collect customer information and order details for a product purchase. It helps us process and fulfill orders efficiently.

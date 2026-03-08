@@ -1,22 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's break down the form's purpose, how to complete it, and what each field means. This form is called "Development Leave Of Absence Request" and seems to be for requesting leave for development projects. This form will likely be used by employees to submit leave requests to their managers. The form will help managers review and approve or deny these requests.
-
-To complete the form, the user will need to provide the following information:
-
-* Employee Name
-* Manager Name
-* Project Title
-* Start Date
-* End Date
-* Project ID (a numerical identifier)
-* Duration (likely the number of days or weeks)
-* Reason For Leave
-* Approval Status (this is likely a dropdown menu for the manager to choose the status)
-* Comments (for any additional remarks or explanations)
-
-Let's assume that the form is used for requesting leave for development projects, and employees can choose the project they are working on. This could be used to ensure that projects are properly staffed and that employees receive the necessary time off to complete tasks.
-
-</thinking>
-
 # Development Leave Of Absence Request - Help Guide
 ## Purpose
 The Development Leave Of Absence Request form is used to submit leave requests for development projects. This form is intended for employees to submit their leave requests to their managers for approval.

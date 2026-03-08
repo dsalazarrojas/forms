@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Small Estate Declaration Form - Help Guide
 ## Purpose
 The Small Estate Declaration Form is a document used to declare and identify a small estate. This form is used to provide information about the estate, its details, and any supporting documents that may be relevant. It is an important part of the estate's documentation process and should be completed carefully and accurately.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form was created to facilitate the process of requesting leave of absence for a student. The form is designed to gather information from the student regarding their personal details, dissertation-related information, and absences details. This information is crucial for the university administration to process the leave of absence request efficiently. 
-
-Before proceeding, please ensure that you are filling out the form for its intended purpose. If you have already submitted a leave of absence request, please do not resubmit as this may lead to duplicate records.
-
-</thinking>
-
 # dissertation_leave_of_absence_form - Help Guide
 
 ## Purpose

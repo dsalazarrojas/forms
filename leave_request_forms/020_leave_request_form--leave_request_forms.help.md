@@ -1,12 +1,3 @@
-<thinking>
-We will design a user-facing help guide that is clear, concise, and practical for end users to understand the purpose and requirements of the 'leave_request_form' form. The form is meant to be completed by employees to request leave, but we need to ensure that the purpose and each field's meaning are well-explained so that users can provide accurate and complete information. 
-
-The form is not part of any specific platform, but rather an original adaptation created using AI, and its purpose is to collect information for leave requests.
-
-We will follow the provided YAML fields to explain each field's label and intent, providing clear and concise explanations for end users. 
-
-</thinking>
-
 # leave_request_form - Help Guide
 ## Purpose
 The 'leave_request_form' is a form designed for employees to submit leave requests. This form is meant to collect relevant information to process leave requests efficiently and effectively.

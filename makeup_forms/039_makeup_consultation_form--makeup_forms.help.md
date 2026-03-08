@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended for users who are familiar with our organization's policies and procedures regarding makeup consulting services. The makeup consultation form is designed to be used by staff members to request a consultation with a makeup expert for a specific service. Please ensure you have reviewed and understand our policies before submitting this form. If you have already submitted a form for a similar service, please do not resubmit. The submission of multiple forms for the same service may result in duplicate services being provided, causing inefficiencies and unnecessary costs.</thinking>
-
 # makeup_consultation_form - Help Guide
 ## Purpose
 The Makeup Consultation Form is a tool used to request a consultation with a makeup expert for a specific service. Staff members can use this form to book a consultation with a makeup expert for any needed service such as makeup, skin care, or product recommendations.

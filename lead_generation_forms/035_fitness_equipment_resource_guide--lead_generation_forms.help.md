@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide guidance on fitness equipment resources. It seems to be part of a lead generation process, possibly for sales or marketing purposes. The form is likely used to collect information from potential customers or clients to determine their fitness goals, space requirements, budget details, and other relevant information that can help the fitness equipment resource guide provide personalized recommendations or services. The form is divided into multiple pages, each focusing on a different aspect of the user's needs.
-</thinking>
-
 # Fitness_Equipment_Resource_Guide - Help Guide
 ## Purpose
 This form is designed to help users provide information about their fitness goals, space requirements, budget details, and other relevant information to receive personalized guidance on fitness equipment resources.

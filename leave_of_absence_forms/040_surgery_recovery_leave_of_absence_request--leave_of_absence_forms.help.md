@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Surgery Recovery Leave Of Absence Request - Help Guide
 
 ## Purpose

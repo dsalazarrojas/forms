@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for documenting the cleaning process of metal surfaces. It appears to be used in an industrial or manufacturing setting, possibly for quality control or inspection purposes. The form has several fields that ask about the surface condition, the metal's condition, and the cleaning method used. There might be some overlap or redundancy between fields, but this form seems to aim at capturing a comprehensive view of the metal's status before and after cleaning. The required field is the "Cleaning" field, which suggests that this is a critical aspect of the process. I'll provide a help guide that explains each field in a clear and concise manner.
-
-</thinking>
 # Metal Cleaning Checklist - Help Guide
 ## Purpose
 This form is designed to document the metal cleaning process, capturing details about the surface condition, metal condition, and cleaning method used. It ensures that important information is recorded accurately and comprehensively.

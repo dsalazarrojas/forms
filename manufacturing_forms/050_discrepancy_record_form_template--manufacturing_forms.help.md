@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for recording discrepancies in the manufacturing process. The user should only fill out this form if they have found an issue with a product or process. The user may choose to report the discrepancy on a specific page (1), and then fill out the required fields: discrepancy description (2), discrepancy date (3), and discrepancy time (4). The user may also provide additional information such as discrepancy date time (5) and discrepancy date range (6) if needed.
-</thinking>
-
 # Discrepancy Record Form Template - Help Guide
 ## Purpose
 The Discrepancy Record Form Template is designed for recording discrepancies in the manufacturing process. This form helps identify and document issues that occur during production, allowing for prompt attention and resolution.

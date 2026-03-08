@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a generic job application form designed to gather information from individuals who are interested in joining a team or applying for a job. It likely serves as an initial screening process for employers to filter potential candidates. The form collects personal contact information, resume and cover letter, and job-specific details such as desired job position, location, and start date. The employer can use this information to determine the candidate's fit for a role.
-
-It's worth noting that some fields, like "Resume" and "Cover Letter", are not required, implying that candidates may choose not to provide them if they don't have the necessary documents ready. Also, the "Job Start Date" field is optional, which means candidates can leave it blank if they're not certain about their start date.
-
-Before submitting the form, candidates should ensure they provide accurate and complete information to increase their chances of being considered for the position they're applying for.
-</thinking>
-
 # Join Our Team Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in joining a team or applying for a job. It serves as an initial screening process for employers to filter potential candidates.

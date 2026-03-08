@@ -1,6 +1,3 @@
-<thinking>
-This form is used to gather information for commercial property loan approval. It's essential to ensure that the correct details are provided to avoid delays or rejections. Please review the form carefully before filling it out to avoid errors. This form has multiple sections, including Loan and Borrower Overview, Collateral Valuation, Final Approved Loan Structure, and Approval Status and Conditions. Make sure to fill in all required fields and provide accurate information.</thinking>
-
 # Commercial Property Loan Approval Form - Help Guide
 ## Purpose
 This form is used to gather information for commercial property loan approval.

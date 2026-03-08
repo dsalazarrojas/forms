@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Gym Registration Form - Help Guide
 
 ## Purpose

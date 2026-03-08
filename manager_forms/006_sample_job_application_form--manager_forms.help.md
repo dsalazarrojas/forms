@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals to submit their job applications to your organization. It's intended for people who are interested in applying for a job within your company. Ensure you're filling out this form for the correct purpose and not for testing or other non-intended uses. The form consists of several fields that require different types of information from the applicant.
-</thinking>
-
 # Sample Job Application Form - Help Guide
 ## Purpose
 This form is used to gather information from individuals interested in applying for a job within our organization. It collects various details such as contact information, job preferences, and supporting documents to help our team assess the applications.

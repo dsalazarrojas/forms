@@ -1,11 +1,3 @@
-<thinking>
-
-The "Monthly Inventory Assessment" form is designed to help users track and record inventory movements and issues on a monthly basis. This form is used to gather information about stock counts, movements, and issues, which helps the inventory management team to monitor and manage stock levels accurately. 
-
-The form is meant to be completed for each month, and it should not be duplicated or filled out for the same month twice. 
-
-</thinking>
-
 # Monthly Inventory Assessment - Help Guide
 ## Purpose
 The Monthly Inventory Assessment form is a tool used to track and record inventory movements and issues on a monthly basis. It helps the inventory management team to monitor and manage stock levels accurately.

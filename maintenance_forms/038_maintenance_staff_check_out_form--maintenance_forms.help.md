@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to track the check-out status of maintenance staff members, including their equipment ID, date, check-out time, reason, and staff status. It's intended to be used by staff members to report their check-out status to the management team. The form is a crucial tool for maintaining accurate records and ensuring that the maintenance team is up-to-date with the current status of staff members.
-
-</thinking>
-
 # Maintenance Staff Check Out Form - Help Guide
 ## Purpose
 The Maintenance Staff Check Out Form is a tool used to track the check-out status of maintenance staff members. It helps the management team stay updated on the current status of staff members and their equipment.

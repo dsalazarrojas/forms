@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect maintenance requests from users, likely for a company or organization that provides maintenance services. The form should be simple and easy to understand, with minimal required fields. Each field has a specific purpose and can be completed in a few minutes.
-
-Before filling out this form, please check if a similar request has already been submitted. If yes, please don't resubmit. Duplicate submissions can cause confusion and slow down maintenance process.
-
-</thinking>
-
 # Maintenance Request Form - Help Guide
 ## Purpose
 The Maintenance Request Form is used to submit maintenance requests for any issues that need to be fixed or improved at your location, building, or equipment.

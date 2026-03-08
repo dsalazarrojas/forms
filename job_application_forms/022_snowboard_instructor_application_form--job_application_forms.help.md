@@ -1,7 +1,3 @@
-<thinking>
-We are creating this Snowboard Instructor Application Form to help us find the best candidates for our team. The form is designed to be completed by individuals who are interested in working as a snowboard instructor. Please only submit an application once. This will help us review and process applications in a more efficient manner.
-</thinking>
-
 # Snowboard Instructor Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in working as a snowboard instructor. It will be reviewed by our team to assess your qualifications and determine if you're a good fit for our program.

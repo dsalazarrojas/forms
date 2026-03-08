@@ -1,7 +1,3 @@
-<thinking>
-This help guide will be useful for users who are new to the Laboratory Reservation Form. It is assumed that the users are familiar with the purpose of the form, which is to request a laboratory reservation. This guide will not repeat the explanation of the form's purpose, assuming it is well-known. The form's fields and options will be explained in detail, so that users can fill it out accurately and efficiently.
-</thinking>
-
 # Laboratory Reservation Form - Help Guide
 ## Purpose
 The Laboratory Reservation Form is used to request a laboratory reservation for a specific time slot.

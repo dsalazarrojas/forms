@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # filter_change_reminder_form - Help Guide
 ## Purpose
 This form, "filter_change_reminder_form", is designed to help users schedule reminders for filter changes or updates. It gathers information from users to create and send personalized filter change reminders. This form is relevant for users who need to keep track of filter replacements or adjustments in various contexts, such as manufacturing, inventory management, or quality control.

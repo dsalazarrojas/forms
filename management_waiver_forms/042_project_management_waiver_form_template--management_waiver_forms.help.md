@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a comprehensive Project Management Waiver Form Template, designed to gather important information about a project, its team, and other relevant details. Before creating this form, ensure that you have a clear understanding of its purpose and that it's not duplicating any other forms with similar functionality. This form seems to be intended for project managers to provide critical information about a project, including its start and end dates, team members, and other relevant details.
-
-</thinking>
-
 # Project Management Waiver Form Template - Help Guide
 ## Purpose
 This form is designed to collect essential information about a project, its team, and other critical details to facilitate effective project management and communication. It covers project details such as start and end dates, waiver type, project manager, and team members.

@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Permanent Makeup Client Information Form - Help Guide
+> # Permanent Makeup Client Information Form - Help Guide
 
 ## Purpose
 This form is for clients to provide their personal and service-related information, allowing our artists to better understand their needs and preferences. Please ensure you have all necessary information ready before completing this form.

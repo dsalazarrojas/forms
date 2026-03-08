@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information about warehouse divider curtains, specifically their type, dimensions, performance, and personnel involved in their installation, maintenance, and inspection. This form will help in standardizing the process of documenting and tracking these important aspects of warehouse operations. Before proceeding, please ensure that you have a clear understanding of the purpose and context of this form, as it is intended for use within a specific industry or business context.
-
-Please note that the following fields are required to be filled in, while others are optional. The fields with an exclamation mark are those which are not to be completed.
-
-Form purpose is primarily for internal use, for reference and analysis. 
-
-This form is designed for one person to complete at a time. If multiple people are to fill this form, ensure that each person's entries do not conflict with each other in any way and each entry is unique. 
-
-It is also worth mentioning that some fields are meant for multiple selections, like "section" field which allows the selection of multiple sections.
-</thinking>
-
 # Warehouse Divider Curtain Survey - Help Guide
 ## Purpose
 This form is used to gather information about warehouse divider curtains, specifically their type, dimensions, performance, and personnel involved in their installation, maintenance, and inspection.

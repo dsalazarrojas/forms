@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This help guide is designed to assist users in completing the loan application form. The form is used to collect information about loan selections, applicant types, loan terms, and other relevant details.

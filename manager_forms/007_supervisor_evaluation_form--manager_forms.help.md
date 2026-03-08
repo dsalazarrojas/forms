@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for supervisors to evaluate employees in the organization. The purpose of this form is to gather feedback and ratings from supervisors to help employees grow and improve in their roles. This form is meant to be used in conjunction with other forms or assessments, not as a standalone evaluation tool.
-Before starting, please ensure that you have all necessary information and resources readily available to complete the form accurately. It's also a good idea to familiarize yourself with the form's purpose and fields beforehand to save time during the completion process.
-</thinking>
-
 # supervisor_evaluation_form - Help Guide
 ## Purpose
 The supervisor evaluation form is a tool used by supervisors to provide feedback and ratings to employees on their performance. It helps identify areas of improvement and development opportunities for the employee.

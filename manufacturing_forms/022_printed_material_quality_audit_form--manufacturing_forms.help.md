@@ -1,11 +1,3 @@
-<thinking>
-The "printed_material_quality_audit_form" is used for auditing the quality of printed materials. This form helps to identify and record any issues with the printed materials, including defects, errors, or inconsistencies. The form is used to gather information from the print shop, supplier, and other relevant parties involved in the printing process. The form is intended to be filled out by the person who submitted the audit, and it captures information such as the project ID, print date, print time, material ID, print location, and other relevant details.
-The form is divided into two pages: "Print Quality Checks" and the "Supplier Information". The "Print Quality Checks" page captures information about the print quality issues found during the audit, while the "Supplier Information" page captures information about the supplier and print shop involved in the printing process.
-The form has a total of 25 fields, each with its own specific label and description. The fields include project ID, print date, print time, material ID, print location, supplier name, supplier contact, supplier email, supplier phone, supplier address, print shop name, print shop contact, print shop email, print shop phone, print shop address, form submitted by, form submitted on, form submitted by user, form submitted by email, form submitted by phone, form submitted by address.
-The form is used to gather information for the purpose of auditing the quality of printed materials. The fields are divided into two categories: "Print Quality Checks" and "Supplier Information".
-
-</thinking>
-
 # printed_material_quality_audit_form - Help Guide
 ## Purpose
 The "printed_material_quality_audit_form" is used for auditing the quality of printed materials.

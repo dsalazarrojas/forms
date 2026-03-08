@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect and record information about the current state of the dough room. This includes general information, room conditions, environmental conditions such as temperature, humidity, and pressure, and other relevant details.
-To ensure that this form is filled out correctly and consistently, please note the following:
-* The form is divided into multiple sections, each addressing a different aspect of the dough room's state.
-* For each section, please answer the questions in a logical and sequential manner.
-* Be accurate and thorough in your responses, as this information will help in monitoring and maintaining the dough room's optimal conditions.
-</thinking>
-
 # Dough Room Monitoring Form - Help Guide
 ## Purpose
 The Dough Room Monitoring Form is designed to collect and record information about the current state of the dough room. This form will help in monitoring and maintaining the dough room's optimal conditions, including temperature, humidity, and pressure.

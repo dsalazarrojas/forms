@@ -1,12 +1,3 @@
-<thinking>
-We need to determine the purpose of this form and prevent duplication to ensure that users understand the correct usage context and avoid submitting duplicate issues. This form is designed to collect information from users about electrical appliance issues. We will guide the user through each field explanation in the "Field-by-Field Explanation" section.
-
-Before filling out this form, please ensure that you are reporting a new issue and not a duplicate. This form is intended for reporting problems with electrical appliances only.
-
-Please fill out this form carefully and thoroughly.
-
-</thinking>
-
 # Electrical Appliance Issue Report Form - Help Guide
 ## Purpose
 The Electrical Appliance Issue Report Form is designed to report issues with electrical appliances in your home or office. This form will help our team to identify and resolve the issue efficiently.

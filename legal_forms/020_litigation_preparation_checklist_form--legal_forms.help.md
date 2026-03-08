@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about a case's preparation for litigation. It helps in identifying the various phases and aspects that need to be addressed during the preparation process. To ensure accuracy and relevance, this form is designed for cases that are or have been in the process of litigation. Please note that some of the fields in this form may not be applicable to every case, but they are included to cater to the diversity of cases that may require different levels of preparation. It's essential to provide accurate and up-to-date information to get the most out of this form.
-</thinking>
-
 # Litigation Preparation Checklist Form - Help Guide
 ## Purpose
 The Litigation Preparation Checklist Form is a tool designed to aid in the preparation and handling of cases that are or have been in the process of litigation. It helps in identifying and tracking various phases and aspects of the preparation process, ensuring that no critical details are overlooked.

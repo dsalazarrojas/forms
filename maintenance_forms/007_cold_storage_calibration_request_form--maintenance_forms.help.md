@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to request calibration services for cold storage equipment, such as refrigerators, freezers, and other temperature-controlled units. This form is used to provide information about the equipment, including its type, location, and current operating temperature range. It also collects details about the request, including the reason for the calibration and any additional notes or comments. The form is meant to help the technician understand the requirements for the calibration, including any specific needs or concerns. It's likely used in a healthcare, laboratory, or food service setting where precise temperature control is crucial.
-
-Before filling out this form, please ensure you have all the necessary information and have checked that there isn't a duplicate request already submitted.
-
-Please note that some of the fields may have specific requirements or constraints that are not explicitly stated here, such as the urgency level or downtime acceptability. If you are unsure about any of these fields, please contact your supervisor or relevant department for clarification.
-</thinking>
-
 # Cold Storage Calibration Request Form - Help Guide
 ## Purpose
 This form is for requesting calibration services for cold storage equipment, such as refrigerators, freezers, and other temperature-controlled units.

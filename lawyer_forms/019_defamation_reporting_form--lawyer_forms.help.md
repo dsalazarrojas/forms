@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from claimants who have experienced defamation, allowing them to report the incident in a structured and efficient manner. It is intended for internal use within an organization and should not be used as a substitute for official reporting mechanisms. Before filling out this form, please ensure that it is not a duplicate report or that you have not already reported the incident. The form can be filled out by one or multiple claimants and is not limited to just Claimant 1.
-
-</thinking>
-
 # Defamation Reporting Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will help users understand the purpose and process of completing the Business License Dispute Resolution Form.
 
 # Business License Dispute Resolution Form - Help Guide

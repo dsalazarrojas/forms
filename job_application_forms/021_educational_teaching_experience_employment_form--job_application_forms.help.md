@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect educational teaching experience and employment information from applicants. It is intended to gather data for internal HR purposes only, and it is not intended to be used for public display or external sharing. This form should only be filled out by authorized personnel. If you are filling out this form for someone else, ensure you have their permission and that you are using this form for legitimate purposes only.
-</thinking>
-
 # Educational Teaching Experience Employment Form - Help Guide
 ## Purpose
 This form is used to collect educational teaching experience and employment information from applicants. It is intended for internal HR use only and should not be shared externally.

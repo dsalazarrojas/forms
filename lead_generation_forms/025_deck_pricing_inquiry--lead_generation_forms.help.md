@@ -1,10 +1,3 @@
-<thinking>
-We can assume that this form is intended to gather information from clients or customers regarding their deck pricing inquiry. This form will likely be used by sales or customer service teams to understand the client's needs and provide relevant pricing information.
-To determine the form's purpose and ensure it is being used correctly, we can check if there are existing forms with similar fields and purposes.
-This form will be used to gather specific details about a potential project and will likely have a clear and direct relationship with the sales or customer service teams.
-No other form with similar fields and purpose exists.
-</thinking>
-
 # Deck Pricing Inquiry - Help Guide
 ## Purpose
 This form is designed to gather information about your project, including name, contact details, project size, deck type, desired start time, and preferred design style. The form helps our sales or customer service team understand your needs and provide accurate pricing information for your project.

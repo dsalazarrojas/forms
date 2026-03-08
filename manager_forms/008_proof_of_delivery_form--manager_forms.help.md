@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to record the delivery of goods or services, capturing relevant details and signatures from both the delivery person and the customer. It appears to be a straightforward form for documentation and verification purposes. The form does not contain any sensitive or complex fields, suggesting that it's meant for general use cases where a simple proof of delivery is required. Given the fields included, it's likely used in scenarios where customers or clients are involved in the delivery process, such as in logistics, sales, or service industries.
-
-</thinking>
-
 # Proof Of Delivery Form - Help Guide
 ## Purpose
 The Proof Of Delivery Form is used to record the delivery of goods or services, ensuring that both the delivery person and the customer have acknowledged receipt and verification of the delivery.

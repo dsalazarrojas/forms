@@ -1,5 +1,3 @@
-<thinking>... This form is used to obtain a truthfulness statement from an individual, which is crucial for various legal and administrative processes. The truthfulness statement is a declaration that certifies the accuracy and completeness of the information provided by the individual. This form is essential for ensuring the trustworthiness of the information exchanged during the legal process. Before proceeding, please confirm that this form is relevant to the context and has not been duplicated in your workflow... </thinking>
-
 # truthfulness_consent_form - Help Guide
 
 ## Purpose

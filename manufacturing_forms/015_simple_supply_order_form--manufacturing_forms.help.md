@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to facilitate the creation of simple supply orders, capturing essential details about the product being ordered, the customer, and the order status. This form is intended for use in a manufacturing setting, where accurate and efficient ordering processes are crucial.
-
-To ensure that the form serves its purpose effectively and avoids duplication, please verify that you have the necessary permissions to create a new supply order in your organization's system before proceeding.
-
-This form includes fields for:
-- Product information (product name and price)
-- Customer details (name, email, phone, address, city, state, country, and company)
-- Order-specific information (order date, order time, and status)
-- Additional notes and comments for further context
-
-The following fields require special attention:
-- "Order Status" field allows you to select the current status of the order from a predefined list (New, In progress, Completed)
-- "Order Type" field provides options for categorizing the order type (New, Repeat, Reorder, Cancellation, Return, Other)
-
-Please fill in the form accurately and completely to ensure that the supply order is processed correctly.
-
-</thinking>
-
 # Simple Supply Order Form - Help Guide
 ## Purpose
 The Simple Supply Order Form is designed for manufacturing settings to quickly create new supply orders, taking into account the most critical details about the product ordered and the customer's information.

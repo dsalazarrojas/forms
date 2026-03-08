@@ -1,19 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about various science topics, likely for educational or research purposes. However, it's unclear what specific data the form aims to collect without further context. This form appears to be a simple collection of 25 text fields, each labeled as "Science Topic" followed by a number. There might be some confusion about what type of information this form is meant to capture, and what specific details or answers it expects users to provide. Further investigation and context might be required to understand the form's full scope and intent.
-
-The form does not ask for any demographic or personal information, nor does it have any conditional logic or branching questions, suggesting it might be designed for a straightforward data collection or survey.
-
-To confirm or further understand the form's purpose and requirements, consider the following:
-
-* What type of science topics are these fields meant to cover (e.g., biology, chemistry, physics, etc.)?
-* What specific information is expected to be entered in each field (e.g., textbook chapter, topic title, personal opinion, etc.)?
-* Are there any specific instructions or guidelines for completing each field?
-
-Before using this form, it's essential to clarify these details to ensure it aligns with your goals and objectives.
-
-</thinking>
-
 # Science Study Guide Form - Help Guide
 ## Purpose
 The Science Study Guide Form is designed to collect information about various science topics. However, its specific purpose and requirements need clarification.

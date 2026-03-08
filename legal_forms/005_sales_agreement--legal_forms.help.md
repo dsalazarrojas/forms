@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to create a comprehensive sales agreement between a seller and a buyer, capturing essential details such as agreement terms, conditions, and payment information. This form ensures that both parties have a clear understanding of their obligations and responsibilities.
-To avoid duplication of effort and potential errors, please ensure that all required fields are completed accurately and thoroughly. This form is designed to be used for one-time sales agreements, and any repeated use may result in inconsistent data and potential issues with contract management.
-The following guide will walk you through the process of completing this form.
-</thinking>
-
 # Sales Agreement - Help Guide
 ## Purpose
 The Sales Agreement form is used to create a comprehensive sales agreement between a seller and a buyer, capturing essential details such as agreement terms, conditions, and payment information.

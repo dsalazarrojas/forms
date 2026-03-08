@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals apply for a delivery driver position. The purpose of this form is to gather information about the applicant's contact details, delivery experience, work history, and availability. This form is meant to be completed by individuals who are interested in applying for a delivery driver position and want to showcase their qualifications and fit for the role.
-</thinking>
-
 # Delivery Driver Position Application Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured application process for individuals interested in applying for a delivery driver position.

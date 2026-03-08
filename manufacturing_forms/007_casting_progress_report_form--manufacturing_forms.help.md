@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track the progress of casting operations, providing information on the date of the progress update, production shift, batch number, operator involved, quantity of units produced, defects identified, corrective actions taken, final quality status, and any attachments or supervisor comments. This form helps in maintaining accurate records and facilitating communication among team members. To avoid duplication of effort, please fill out the form for the specific progress update of a single casting operation.
-</thinking>
-
 # Casting Progress Report Form - Help Guide
 ## Purpose
 The Casting Progress Report Form is used to report on the progress of a casting operation, providing a concise overview of key milestones and quality status.

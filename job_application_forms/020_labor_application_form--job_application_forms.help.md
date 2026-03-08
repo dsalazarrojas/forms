@@ -1,7 +1,3 @@
-<thinking>Before creating this help guide, let's consider the form's purpose and user experience. The Labor Application Form seems to be designed for job seekers to provide information about their employment history, education, and job preferences. The form appears to be used in an administrative or HR context, possibly for hiring or recruitment purposes.
-
-To ensure clarity and accuracy, let's review the form fields and provide a detailed explanation of each field. This guide will cover the form's purpose, how to complete it, and each field's meaning and requirements.</thinking>
-
 # Labor Application Form - Help Guide
 ## Purpose
 The Labor Application Form is a questionnaire designed to gather information about your employment history, educational background, and job preferences. This form is meant to be completed by job seekers, and the information provided will be used by administrative or HR personnel for hiring or recruitment purposes.

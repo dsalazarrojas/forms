@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## University Resident Assistant Application Form - Help Guide
 
 ## Purpose

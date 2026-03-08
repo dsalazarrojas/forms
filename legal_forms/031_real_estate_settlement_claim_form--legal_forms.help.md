@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a real estate settlement claim form, likely used for tracking and recording details of a real estate settlement process. The form likely serves as a template for gathering essential information from the claimant, such as address, claim status, payment details, and witness information.
-</thinking>
-
 # real_estate_settlement_claim_form - Help Guide
 ## Purpose
 The "real_estate_settlement_claim_form" is used to gather details for a real estate settlement claim. It helps to record and track information related to a claim, including property address, claimant and witness details, payment terms, and signature verification.

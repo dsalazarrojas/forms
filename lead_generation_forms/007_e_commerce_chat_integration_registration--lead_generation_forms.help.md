@@ -1,14 +1,3 @@
-<thinking>
-This form, "e_commerce_chat_integration_registration", is used to gather information about an online store's e-commerce integration with a chat system. The form is designed to collect relevant details about the online store's platform, payment information, and features integrated into the chat, as well as any other questions or feedback the customer may have. This form is used to provide a smooth integration experience between the online store and the chat system. To ensure that this form is completed correctly, the user should only fill out the fields that are relevant to their specific use case, and not duplicate any information that has already been provided. 
-
-The form is divided into several sections, each with its own set of questions and fields. The first section asks for general information about the online store, such as its name and the platform used for integration. The second section inquires about the payment information for the store, while the third section asks about features integrated into the chat. The last sections are for any additional information, questions, or feedback the user may have. 
-
-To avoid duplication of information or unnecessary fields, the user should only fill out the fields that apply to their specific situation. For example, if the online store is not using any features, the user should select 'No' for that field. Similarly, if they do not have any additional questions or feedback, they should leave those fields blank. 
-
-Please note that the 'confirm_terms_agreement' field is a crucial part of this form, as it confirms that the user has read and agreed to the terms and conditions of the chat integration.
-
-</thinking>
-
 # e_commerce_chat_integration_registration - Help Guide
 ## Purpose
 This form is used to register your online store's e-commerce integration with our chat system, providing necessary information about your store and its integration preferences.

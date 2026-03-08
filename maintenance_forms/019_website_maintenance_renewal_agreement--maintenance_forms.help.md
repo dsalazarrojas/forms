@@ -1,13 +1,3 @@
-<thinking>
-This form is used for managing website maintenance renewal agreements. It captures the essential details of the agreement, including the website URL, maintenance contract dates, renewal frequency, and payment information. The form helps in tracking and ensuring timely maintenance for the website. 
-
-This guide will cover the following topics: 
-* Form purpose
-* How to complete the form 
-* Field-by-field explanation
-
-</thinking>
-
 # Website Maintenance Renewal Agreement - Help Guide
 
 ## Purpose

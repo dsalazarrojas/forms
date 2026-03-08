@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of the Outage Maintenance Request Form, we need to consider the context in which it's being used. This form is likely used by maintenance teams to gather information about outages that have occurred or are expected to occur. The form's design suggests it's intended to collect data that will help maintenance teams understand the impact of the outage, identify the cause, and determine the priority for resolving it. 
-
-The form may be used in a variety of scenarios, such as when an outage is reported by a user or a system, or when a maintenance team is preparing for a scheduled maintenance window. 
-
-Before filling out this form, it's essential to ensure that a duplicate request isn't made. This can be checked by verifying that a similar request hasn't been submitted recently or is currently being processed.
-
-</thinking>
-
 # Outage Maintenance Request Form - Help Guide
 
 ## Purpose

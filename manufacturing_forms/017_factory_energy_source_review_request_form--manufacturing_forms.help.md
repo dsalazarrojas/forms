@@ -1,7 +1,3 @@
-<thinking>
-This form is a Factory Energy Source Review Request Form, used by the factory management to assess and review the energy usage and sources of the factory. The purpose of this form is to gather information about the current and planned energy usage and sources of the factory, including the types of energy sources used, sustainability initiatives implemented, and any other relevant details. This form is likely used by facility managers or energy managers to track and analyze energy usage and make informed decisions about energy efficiency and sustainability. Before filling out this form, please ensure that you have the necessary permissions and access to the relevant data. Additionally, please check if a similar form has been submitted recently, as this form may not need to be resubmitted.
-</thinking>
-
 # Factory Energy Source Review Request Form - Help Guide
 ## Purpose
 The Factory Energy Source Review Request Form is used to collect information about the current and planned energy usage and sources of the factory. This form helps factory management to track and analyze energy usage and make informed decisions about energy efficiency and sustainability.

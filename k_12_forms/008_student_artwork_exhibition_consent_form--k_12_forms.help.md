@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from parents/guardians for their child's artwork to be displayed in a student exhibition. The form is used to capture necessary information about the student's artwork, including the title, description, and media type. It also captures the consent and signature of parents, teachers, and school representatives, as well as student's contact information. The form is used to ensure that all necessary parties have given their consent and approval for the display of the student's artwork.
-</thinking>
-
 # Student Artwork Exhibition Consent Form - Help Guide
 
 ## Purpose

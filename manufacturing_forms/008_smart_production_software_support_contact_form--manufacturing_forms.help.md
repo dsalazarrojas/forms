@@ -1,24 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Smart Production Software Support Contact Form", we must consider the purpose and functionality of the form. This form is likely intended for users to report issues or provide feedback related to the smart production software, and to gather relevant details to support the issue resolution.
-
-We should ensure that the guide is clear, concise, and practical, explaining each field's purpose without inventing unsupported business logic. We'll start by explaining the overall purpose of the form and the step-by-step process of completing it.
-
-Upon reviewing the provided YAML fields, we notice that the form is divided into various sections, each with its own unique label and functionality. The fields are:
-
-1. Form Details
-2. Contact Method
-3. Email
-4. Phone Number
-5. Issue Description
-6. Software Version
-7. Operating System
-8. Screenshot (Attachment)
-9. Attachment
-
-The form appears to be designed for users to report issues or provide feedback while allowing the support team to gather essential information to troubleshoot or assist with the issue.
-
-</thinking>
-
 # Smart Production Software Support Contact Form - Help Guide
 ## Purpose
 The Smart Production Software Support Contact Form is a support channel for users to report issues, provide feedback, or seek assistance with their smart production software. This form helps the support team gather necessary information to troubleshoot and resolve the issue efficiently.

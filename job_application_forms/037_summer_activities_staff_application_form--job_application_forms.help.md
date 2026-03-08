@@ -1,7 +1,3 @@
-<thinking>
-The Summer Activities Staff Application Form is used for staff members to provide information about their experience, skills, and availability for summer activities positions. This form is intended for staff members to showcase their qualifications and fit for various summer activities roles. It is not intended for new staff members who have not yet been hired. Please review the form carefully to ensure the information you provide is accurate and up-to-date. If you have already completed a similar form in the past, please ensure that the information provided is different and does not duplicate your previous submissions.
-</thinking>
-
 # Summer Activities Staff Application Form - Help Guide
 
 ## Purpose

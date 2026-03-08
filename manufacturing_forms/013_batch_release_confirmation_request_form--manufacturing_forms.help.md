@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Batch Release Confirmation Request Form - Help Guide
 
 ## Purpose

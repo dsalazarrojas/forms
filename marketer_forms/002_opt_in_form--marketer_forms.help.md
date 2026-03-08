@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their opt-in preferences, including their first and last name, email address, phone number, and other details such as their preferred method and frequency of updates. This form likely serves as a central hub for managing user subscriptions and communications. Before starting, review the form fields to ensure you've filled out everything accurately and completely.
-
-To ensure consistency, please use the same format for all user profiles, and avoid duplicate entries.
-</thinking>
-
 # Opt In Form - Help Guide
 ## Purpose
 This form is used to collect information from users about their opt-in preferences.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be for a student loan application, allowing students to provide information and select options for their loan needs. The purpose of this form is to gather data from students to process their loan requests. It is crucial to fill out the form accurately to ensure a smooth and efficient loan processing.
-
-</thinking>
-
 # Student Loan Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from students to apply for a loan. Please fill out the form carefully to ensure that your loan request is processed correctly.

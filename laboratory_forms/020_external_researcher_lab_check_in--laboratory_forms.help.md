@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal Note: Before filling out this form, ensure that it is the correct form for your intended purpose and that you have not already submitted a similar form. This form is designed to be used for external researchers to check in when visiting the lab, providing essential details about their visit.**
-
-</thinking>
-
 # External Researcher Lab Check In - Help Guide
 ## Purpose
 The External Researcher Lab Check In form is designed for external researchers to check in when visiting the lab, providing necessary information about their visit.

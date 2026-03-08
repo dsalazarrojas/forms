@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture contact information and service details of a partner who provides equipment maintenance services to the company. The purpose of this form is to collect data for internal record-keeping and communication purposes. The form should not be used for other purposes, and users should not duplicate efforts by submitting multiple forms.
-</thinking>
-
 # equipment_maintenance_partner_contact_form - Help Guide
 ## Purpose
 The equipment_maintenance_partner_contact_form is used to capture contact information and service details of a partner who provides equipment maintenance services to the company.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for van maintenance. It appears to be a general checklist for tracking maintenance activities related to vehicles. This form might be used by van owners or operators to keep track of their vehicle's condition and schedule maintenance tasks. It does not seem to be specific to any particular industry or organization, and its purpose is likely to ensure regular maintenance is performed to prolong the vehicle's lifespan and prevent potential breakdowns. There is no obvious overlap with other forms, and it is a unique adaptation of general concepts.
-
-</thinking>
-
 # Van Maintenance Checklist - Help Guide
 ## Purpose
 The Van Maintenance Checklist form is designed to help van owners or operators keep track of their vehicle's maintenance activities. This form is a general checklist for tracking key maintenance items, including vehicle details and maintenance schedules.

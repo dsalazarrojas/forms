@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from users who are interested in purchasing limited edition watches. The form will ask for basic contact information (name, email, and phone number) and specific details about the watch they are interested in (watch model, preferred colors, and any additional notes). This form is only for informational purposes and will not commit to any purchasing or sales activities. Please note that all fields are required except for "date" and "time" which are optional. The form will only allow users to select one watch model from the provided options.
-</thinking>
-
 # Limited Edition Watch Inquiry Form - Help Guide
 ## Purpose
 This form is used to gather information from users who are interested in purchasing limited edition watches.

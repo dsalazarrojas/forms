@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skincare Product Developer Application Form - Help Guide
 
 ## Purpose

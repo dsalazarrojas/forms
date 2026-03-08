@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the lending responsibility of individuals or businesses. It gathers information such as employment status, annual income, monthly debt, and other relevant factors to gauge creditworthiness. The form is likely used in a financial institution or credit evaluation process. Please ensure this form is not duplicated or redundant in your application.
-</thinking>
-
 # Lending Responsibility Assessment - Help Guide
 ## Purpose
 The Lending Responsibility Assessment form is used to evaluate the creditworthiness of individuals or businesses. It helps lenders assess their ability to repay loans and credit obligations.

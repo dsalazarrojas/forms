@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information regarding a home purchase leave, which is a type of leave that an employee takes to care for their home in situations such as home repairs, renovations, or maintenance. This form helps to document the leave duration, reason for the leave, and other relevant details related to the home purchase. It is designed to be completed by employees who are taking a home purchase leave, and the information collected will be used by HR or management to process and approve the leave request. Please make sure that you are taking this leave for a legitimate reason and not for any other type of leave. 
-</thinking>
-
 # Home Purchase Leave Form - Help Guide
 ## Purpose
 The Home Purchase Leave Form is used to document a leave request for a home purchase, which can include home repairs, renovations, or maintenance. This form helps to collect necessary information for HR or management to process and approve the leave request.

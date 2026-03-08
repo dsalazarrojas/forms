@@ -1,6 +1,3 @@
-<thinking>
-This form is for individuals or agencies to apply for a Handgun Qualification License. The form is designed to collect information necessary for the application process. It's crucial that the applicant completes the form accurately and thoroughly to avoid any issues. Before filling out this form, ensure you have all the required information at hand. Please note that some fields might be optional but are still necessary for the application's success.
-</thinking>
 # Handgun Qualification License Application Form - Help Guide
 ## Purpose
 This form is used to apply for a Handgun Qualification License. It collects information from applicants and agencies to process the application.

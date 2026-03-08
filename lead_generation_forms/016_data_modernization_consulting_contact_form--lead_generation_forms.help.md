@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a contact point for companies and individuals interested in data modernization consulting services. The form allows users to submit their details, specifying their data modernization goals, experience with data, and contact information. By completing this form, potential clients can initiate a conversation with the data modernization consulting team. It is essential to note that this form is not intended for existing clients or partners to use for internal purposes. This form is for new, external clients or prospects only.
-</thinking>
-
 # Data Modernization Consulting Contact Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential clients or prospects interested in data modernization consulting services. It helps the consulting team assess their needs and initiate a conversation.

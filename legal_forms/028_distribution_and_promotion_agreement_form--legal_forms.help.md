@@ -1,7 +1,3 @@
-<thinking>
-This form is used for capturing business details and agreement information for distribution and promotion purposes. It should only be used for legitimate business purposes and not for personal or test accounts. Ensure that you're using it for the intended purpose to avoid duplication of effort. Please review the form carefully and ensure you're providing accurate information.
-</thinking>
-
 # Distribution And Promotion Agreement Form - Help Guide
 
 ## Purpose

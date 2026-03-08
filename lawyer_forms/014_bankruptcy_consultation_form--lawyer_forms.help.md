@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect sensitive and personal information from individuals seeking bankruptcy consultation. 
-Before filling out this form, ensure you understand what each field means and why it's required. 
-
-Please note that this form is not a substitute for professional advice, and if you're unsure about any question, you should seek advice from a qualified attorney.
-
-Also, be mindful of your personal data security and do not submit confidential or sensitive information.
-
-This form collects information necessary to provide accurate financial assessments and determine the best course of action for your bankruptcy case.
-</thinking>
-
 # Bankruptcy Consultation Form - Help Guide
 ## Purpose
 The Bankruptcy Consultation Form is used to gather information about your financial situation, marital status, employment, and other relevant details to help our attorneys provide you with personalized advice and guidance throughout the bankruptcy process.

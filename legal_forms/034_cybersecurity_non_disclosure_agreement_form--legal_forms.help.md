@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from employees about their understanding and agreement to a non-disclosure agreement related to cybersecurity. The form is likely used in industries where sensitive information is handled, such as tech, finance, or healthcare, where employees need to be aware of and agree to confidentiality and data protection rules. It is essential to fill out the form correctly to ensure the employee understands their responsibilities and the consequences of breaching the agreement. The form should not be filled out by anyone who does not understand the purpose and implications of the non-disclosure agreement.
-</thinking>
-
 # Cybersecurity Non Disclosure Agreement Form - Help Guide
 ## Purpose
 This form is a legally binding agreement that confirms an employee's understanding of the company's cybersecurity policies and procedures for handling sensitive information. It is essential for employees who work with confidential data to sign this form to demonstrate their commitment to maintaining confidentiality and data protection.

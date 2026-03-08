@@ -1,8 +1,3 @@
-<thinking>
-**Note: This form is for reporting incidents of sexual harassment. Please only submit reports if you have experienced or witnessed harassment. Do not report incidents that do not relate to sexual harassment. Also, ensure that you are reporting on behalf of yourself or a witness, as this form is designed for individuals who have experienced or witnessed harassment, not for reporting on others.**
-
-</thinking>
-
 # Sexual Harassment Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents of sexual harassment that have occurred within our organization. The purpose of this form is to gather details about the incident, including the date, time, and location of the incident, as well as the names and titles of the individuals involved.

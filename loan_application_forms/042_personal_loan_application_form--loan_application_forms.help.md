@@ -1,6 +1,3 @@
-<thinking> 
-The Personal Loan Application Form is a crucial tool for individuals seeking to obtain a personal loan. This form requires specific information from applicants, and its purpose is to ensure accurate and secure processing of loan applications. It is essential to fill out the form accurately and completely to avoid any potential issues with loan approval. The fields in this form are designed to gather necessary data from applicants, so please make sure to fill them out carefully. Each field is carefully crafted to provide the most relevant and accurate information about the applicant. To ensure a smooth experience, please follow the instructions carefully.</thinking>
-
 # Personal Loan Application Form - Help Guide
 ## Purpose
 The Personal Loan Application Form is designed to collect information from applicants for personal loans. This form is meant to be filled out by individuals seeking a personal loan.

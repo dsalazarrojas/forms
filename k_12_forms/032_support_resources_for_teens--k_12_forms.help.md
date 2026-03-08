@@ -1,8 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the provided form "Support Resources For Teens" that meets your requirements. This form appears to be a survey or data collection form for gathering information about teenagers, likely for research or demographic purposes. Before creating the guide, I want to ensure that the form's purpose and fields are correctly understood, and that there are no duplicate or unnecessary fields. Upon reviewing the form, I see that it has a mix of text, email, date, time, and select fields, suggesting it's designed to collect personal and demographic information from teenagers. I will create a concise and practical guide that explains each field's purpose and how to complete it.
-
-</thinking>
-
 # Support Resources For Teens - Help Guide
 ## Purpose
 This form is designed to collect information from teenagers about their personal details and preferences. Please fill out this form carefully to provide accurate and helpful data.

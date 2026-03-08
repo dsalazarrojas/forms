@@ -1,23 +1,3 @@
-<thinking>
-This is a form design and technical writing task for a "ELISA Techniques Knowledge Quiz" form. To confirm, this form is for collecting knowledge about ELISA (Enzyme-Linked Immunosorbent Assay) techniques, which is a laboratory test used to detect and quantify specific antibodies or antigens in a sample. The form should be user-friendly and provide clear instructions on how to complete it.
-
-The form appears to be a multi-page form, with each page dedicated to a specific aspect of ELISA techniques. The pages include:
-
-1. Introduction
-2. ELISA techniques
-3. ELISA principles
-4. ELISA sensitivity
-5. ELISA specifications
-6. ELISA application
-7. ELISA testing
-8. ELISA limitations
-9. ELISA trends
-10. ELISA future
-
-This form seems to be designed for collecting knowledge or information about ELISA techniques, possibly for educational or training purposes.
-
-</thinking>
-
 # ELISA Techniques Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to help you assess your knowledge about ELISA (Enzyme-Linked Immunosorbent Assay) techniques. ELISA is a laboratory test used to detect and quantify specific antibodies or antigens in a sample. This form will guide you through a series of questions about ELISA techniques, from basic principles to applications and future developments.

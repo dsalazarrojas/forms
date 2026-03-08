@@ -1,10 +1,3 @@
-<thinking> 
-This form is intended to collect data for the Smart Factory KPI Summary Report. The form's purpose is to gather information on various manufacturing-related metrics such as production planner, production cost, production capacity, and quality control measures. This data will be used to generate a report that provides an overview of the factory's performance. This form is designed to be completed by the production team or factory management to ensure accurate and up-to-date information is captured. 
-
-To avoid duplication of effort, please only complete this form if you are responsible for production planning and control processes or have access to the necessary data.
-
-</thinking>
-
 # Smart Factory KPI Summary Report Form - Help Guide
 ## Purpose
 The Smart Factory KPI Summary Report Form is designed to collect data for the production planning and control processes, allowing for a comprehensive overview of the factory's performance.

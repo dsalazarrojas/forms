@@ -1,16 +1,3 @@
-<thinking>...
-This form is designed to collect information related to fire alarm reinstallation requests. The purpose of this form is to gather details about the reinstallation of a fire alarm system in a property. 
-
-The fields in this form are divided into several categories, each focusing on different aspects of the reinstallation process. 
-
-To ensure that the form is filled out correctly, it is essential to understand what each field represents and what information it requires. This guide will walk you through each field in the form, providing a clear explanation of its purpose and how to fill it out correctly. 
-
-Before filling out this form, please ensure that you have all the necessary information and that the details you provide are accurate and complete. If you're unsure about any part of the process, do not hesitate to reach out to the relevant authorities for guidance. 
-
-Please note that this form is not intended for emergency situations. If you have an urgent fire alarm issue, do not use this form. Contact the authorities immediately instead. 
-
-</thinking>
-
 # Fire Alarm Reinstallation Request Form - Help Guide
 ## Purpose
 The Fire Alarm Reinstallation Request Form is used to collect information about the reinstallation of a fire alarm system in a property. This form is used to gather details about the reinstallation process, including the property owner's and manager's information, the reinstallation request and description, visit request and schedule, work details, and other relevant information.

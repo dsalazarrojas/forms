@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graphic Design Request - Help Guide
 ## Purpose
 This form is designed for clients and internal teams to request graphic design services for various projects, such as logo, brochure, print, and web design. The purpose of this form is to gather essential information about the client's needs and to ensure that requests are properly routed to the design team for efficient processing and delivery.

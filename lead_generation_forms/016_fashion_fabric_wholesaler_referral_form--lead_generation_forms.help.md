@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fashion Fabric Wholesaler Referral Form - Help Guide
 ## Purpose
 

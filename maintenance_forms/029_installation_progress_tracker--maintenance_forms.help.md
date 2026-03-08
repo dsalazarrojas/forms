@@ -1,9 +1,3 @@
-<thinking>
-The form "Installation Progress Tracker" is a tool used by users to track the progress of installations, including the current stage, start and end dates, and status. This form helps users to keep a record of the installation progress, which can be useful for tracking and reporting purposes. 
-The form is designed to collect relevant information in a structured and organized manner, making it easier for users to fill out and for administrators to review and manage the data.
-
-</thinking>
-
 # Installation Progress Tracker - Help Guide
 ## Purpose
 The Installation Progress Tracker form is a tool designed to track the progress of installations. It helps users to record and review information related to the installation stages, start and end dates, and status.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for individuals applying to be a medical laboratory technician. The form is designed to collect personal and professional information from applicants. Please ensure that you are eligible to apply and that you have reviewed the eligibility criteria before proceeding. To prevent duplication of efforts, please do not submit multiple applications if you have already submitted one.
-</thinking>
-
 # Medical Laboratory Technician Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants who are interested in becoming a medical laboratory technician. It is used to gather personal and professional details that will be used to evaluate your application.

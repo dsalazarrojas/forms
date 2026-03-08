@@ -1,12 +1,3 @@
-<thinking> 
-We will create a help guide for the "Service Activity Log" form, a crucial tool for tracking and recording maintenance activities. The form's primary objective is to record and monitor service activities, ensuring accurate and detailed documentation. 
-
-This form is designed to be completed by service personnel to provide a clear and concise record of their activities. It is not intended for general users without a background in service activities, so please be aware that some fields may require specialized knowledge.
-
-Before proceeding, ensure that you have the necessary access rights and that the form has not already been submitted for this service activity. 
-
-</thinking>
-
 # Service Activity Log - Help Guide
 ## Purpose
 The Service Activity Log form is designed to record and track maintenance activities for services provided. It is used by service personnel to document their activities, ensuring accurate and detailed records.

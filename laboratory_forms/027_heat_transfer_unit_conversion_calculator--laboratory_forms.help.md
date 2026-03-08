@@ -1,9 +1,3 @@
-<thinking>
-This form is for calculating the heat transfer between two different mediums. It appears that the form is used to convert between different heat transfer modes such as conduction, convection, and radiation. The purpose of this form is to provide a simple tool for users to quickly and easily calculate the heat transfer between two mediums in different modes. 
-
-Upon reviewing the form schema, there are two input fields for values, two select fields for the modes of heat transfer, and one output field for the result. The form does not require any of the fields to be filled out, but they must be filled out for the calculation to be performed.
-</thinking>
-
 # Heat Transfer Unit Conversion Calculator - Help Guide
 ## Purpose
 This form is used to calculate the heat transfer between two different mediums. It supports three modes of heat transfer: conduction, convection, and radiation.

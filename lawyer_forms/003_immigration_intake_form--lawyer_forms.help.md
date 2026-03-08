@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants regarding their immigration status and travel history. This form is typically used by immigration lawyers or authorities to gather necessary data for processing immigration applications. The form is designed to be completed by individuals who are seeking immigration benefits or services. Please ensure that you have a clear understanding of the form's purpose before proceeding. Note that this form is not intended for general public use and is meant for individuals who have a specific immigration-related inquiry or application.
-
-Before completing this form, please ensure that you have a valid reason for using this form, and that you are not duplicating your efforts with other forms or processes. If you are unsure about the form's purpose or your eligibility to use it, please contact the relevant authority or lawyer for clarification.
-</thinking>
-
 # Immigration Intake Form - Help Guide
 ## Purpose
 The Immigration Intake Form is designed to collect information from applicants regarding their immigration status and travel history. This form is used by immigration lawyers or authorities to gather necessary data for processing immigration applications.

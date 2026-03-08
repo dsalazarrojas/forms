@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tech Industry Job Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from applicants for job openings in the tech industry. Please fill out this form to submit your application. Ensure you answer accurately, as this information will be reviewed for eligibility and consideration for the position.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers who are interested in purchasing a Factory LED Display Board. This form will help us understand their needs and preferences, allowing us to tailor our response and ensure a smooth ordering process. By providing accurate and relevant information, we can avoid duplicating efforts and ensure that customers receive the correct product configuration and pricing.
-
-This form is not intended to be used for internal purposes, such as order status inquiries or technical support requests. It is meant to be used by customers who wish to place an order for a custom-built Factory LED Display Board.
-
-To complete this form, please follow the instructions below. If you have any questions or need assistance, please don't hesitate to contact us.</thinking>
-
 # Factory LED Display Board Order Form - Help Guide
 ## Purpose
 This form is designed to help us understand your requirements for a custom Factory LED Display Board. Please take a few minutes to fill out this form, and we will get back to you with a quote and any further questions we may have.

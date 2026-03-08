@@ -1,17 +1,3 @@
-<thinking>
-This form is used for patent application approval purposes, allowing users to input details about a patent application, including its type, status, and other relevant information. The form is designed to be completed by the inventor or patentee to provide necessary information for approval.
-
-Before starting, please ensure that you have the necessary permissions and clearance to complete this form. If you're unsure about any information, please seek guidance from your supervisor or relevant authorities.
-
-The form is split into multiple pages, and each page has its own set of fields to complete. You can navigate between pages using the 'Continue' and 'Back' buttons.
-
-Please complete the form accurately and thoroughly, as the information provided will be used to make decisions about patent approval.
-
-To avoid duplication, please ensure that the information you enter is not already recorded in your system. If you're unsure about any field, please contact your administrator for clarification.
-
-The form includes the following fields:
-</thinking>
-
 # patent_application_approval_form - Help Guide
 ## Purpose
 The patent application approval form is used to gather information about a patent application. This form is typically completed by the inventor or patentee to provide details about their patent application.

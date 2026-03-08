@@ -1,12 +1,3 @@
-<thinking>
-This form is a private school referral form used for collecting student information for the purpose of referring them to a specific school. The form is likely used by schools or educators to gather details about students who are potential candidates for enrollment or other school-related activities. 
-
-The form is designed to collect various fields of information about the student, including their school ID, name, grade level, grade range, contact information (email, phone number), date of birth, and other demographic details. The fields are mostly optional, but some may be required depending on the context. 
-
-To prevent duplicate referrals, it would be ideal to have a mechanism in place that checks the submitted student ID against a list of previously submitted student IDs. This way, users can easily identify and avoid submitting duplicate referrals for the same student. However, this may require additional backend development to implement this functionality.
-
-</thinking>
-
 # private_school_referral_form - Help Guide
 ## Purpose
 The private school referral form is used to collect and store information about students referred to a private school. This information helps the school to identify potential students and assess their eligibility for enrollment or other school-related activities.

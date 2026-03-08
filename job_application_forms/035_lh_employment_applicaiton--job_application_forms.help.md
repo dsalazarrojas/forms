@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a general employment application form, likely used by companies to collect information from job applicants. The form has six fields, but none of them are marked as required, suggesting that it's not a mandatory form. Each field has a brief label and no hint, so it seems that users need to be guided through the form's purpose and use. I'll assume that the form is meant to be completed by a single user, and the fields will be filled out based on their personal experiences and education.
-</thinking>
-
 # LH Employment Applicaiton - Help Guide
 ## Purpose
 The LH Employment Application is a form designed to collect information from job applicants, including their employment history, educational background, and descriptions of their internships.

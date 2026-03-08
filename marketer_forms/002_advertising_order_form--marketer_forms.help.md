@@ -1,12 +1,3 @@
-<thinking>
-This form is for users to place orders for advertising services. It is designed to collect information necessary for processing and fulfillment of these orders. The form will be used by marketing teams to gather data for order confirmation, billing, and future reference. This form is a one-off form, meaning it is not designed to be completed multiple times by the same user. 
-
-Form fields are organized into logical sections, with clear labels and hints to guide the user through the process. Each field is required or optional, based on its purpose and the context of the form. 
-
-Please ensure that you are using the correct form and that you have read the instructions carefully before submitting your order. If you have any questions or need assistance, please reach out to our support team.
-
-</thinking>
-
 # Advertising Order Form - Help Guide
 ## Purpose
 The Advertising Order Form is used to place orders for advertising services. It gathers essential information for order processing, billing, and future reference.

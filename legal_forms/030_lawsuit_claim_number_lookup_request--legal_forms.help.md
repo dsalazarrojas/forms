@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is used to request a lookup for a lawsuit claim number. The purpose of this form is to allow users to enter their claim number and other relevant information to facilitate a lookup or inquiry regarding their claim. The form should only be used by authorized users or individuals with a legitimate reason for requesting this information. To prevent duplication, the system checks for existing lookups for the same claim number and will only process new requests if the claim number is not already being looked up.
-
-</thinking>
-
 # Lawsuit Claim Number Lookup Request - Help Guide
 ## Purpose
 The Lawsuit Claim Number Lookup Request form is used to request a lookup for a lawsuit claim number. This form allows users to enter their claim number and other relevant information to facilitate a lookup or inquiry regarding their claim.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for individuals seeking legal separation or divorce from their spouse. It's designed to help complainants (the person initiating the separation) provide relevant information about themselves and their spouse, including reasons for the separation and relevant dates. The form is intended to be a comprehensive guide for individuals to document their situation, and can be used in conjunction with legal counsel for further guidance and representation. Please note that this form should not be used as a substitute for legal advice, and users are encouraged to consult with a licensed attorney for personalized guidance.
-</thinking>
-
 # Divorce Complaint Form - Help Guide
 ## Purpose
 This form is designed to help individuals seeking legal separation or divorce from their spouse by providing a structured and comprehensive guide for documenting their situation.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request a writ of garnishment for a specific account. A writ of garnishment is a legal procedure where a creditor can take money from a debtor's account to satisfy a debt or court judgment. This form helps the creditor gather necessary information to initiate the garnishment process. 
-
-To complete this form accurately, please ensure that all fields are filled in completely and accurately. 
-
-</thinking>
-
 # writ_of_garnishment_request_form - Help Guide
 ## Purpose
 The writ of garnishment request form is used by creditors to request the garnishment of a debtor's account. This process involves a series of steps to ensure the creditor can take the necessary funds from the account to satisfy a debt or court judgment.

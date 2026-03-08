@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for dental professionals to request a leave of absence for educational purposes, such as attending conferences, workshops, or academic programs. The form is used to request a specific period of time off from work, which will be reviewed and approved by the relevant authorities. It is essential to ensure that you are eligible for education leave before submitting this form. Please note that you can only submit one leave request at a time.
-
-Before submitting the form, please check with your education provider to ensure that the information you provide is accurate and up-to-date. Additionally, ensure that you have not already submitted a leave request for the same period.
-
-</thinking>
-
 # Dental Professional Education Leave Of Absence Form - Help Guide
 
 ## Purpose

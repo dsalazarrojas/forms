@@ -1,12 +1,3 @@
-<thinking>
-Operations workflow review request form is used for requesting approval from management to review and approve or reject operations workflows. This form should be used for workflows that require management attention and approval. Please ensure that the form is used only for such purpose and not for other non-management related tasks.
-
-Before proceeding, check that a similar form has not been filled recently for the same purpose. If a similar form has been filled recently, please do not fill this form again.
-
-Please note that filling this form does not imply that the operations workflow will be automatically approved or rejected. The management team will review and make the final decision based on the information provided in this form.
-
-</thinking>
-
 # operations_workflow_review_request_form - Help Guide
 
 ## Purpose

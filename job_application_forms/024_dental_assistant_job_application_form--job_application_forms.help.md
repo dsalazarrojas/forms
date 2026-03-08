@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in applying for a dental assistant position within the organization. It's essential to understand that this form should only be used for internal job applications, and applicants should be aware that their submitted information is for internal use only. 
-The form is structured to gather the basic information needed to assess the candidates' suitability for the position, including personal details, professional experience, and availability. 
-The form fields are designed to guide applicants through the process, with each field carefully crafted to elicit specific information about the candidate. This form will be reviewed and assessed internally to determine the best fit for the position.
-</thinking>
-
 # Dental Assistant Job Application Form - Help Guide
 ## Purpose
 The Dental Assistant Job Application Form is designed to collect information from interested applicants for the dental assistant position. 

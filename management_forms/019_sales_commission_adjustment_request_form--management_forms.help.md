@@ -1,7 +1,3 @@
-<thinking>
-The Sales Commission Adjustment Request Form is a tool used by sales representatives to request adjustments to their sales commission. This form is typically used when a sales representative has encountered a situation where their sales commission should be adjusted due to circumstances beyond their control or exceptional performance. The form will ask for information such as the sales representative's name, the reason for the adjustment, the amount of adjustment, the date of the adjustment, and other details that will help in making the adjustment. Ensure this form is used correctly to avoid duplication of work or confusion. Please review the form carefully before filling it out and make sure to submit the correct information to avoid any errors.
-</thinking>
-
 # Sales Commission Adjustment Request Form - Help Guide
 ## Purpose
 This form is used to request adjustments to sales commission.

@@ -1,5 +1,3 @@
-<thinking>Before designing this form, I'll create a help guide for the "Outreach Guest Post Submission" form. This form is used for authors and writers to submit their guest post content to be published on a platform. The form is designed to collect relevant information from authors to ensure that their posts are properly categorized and formatted for publication. The form should not be used for commercial purposes or to solicit spammy links. To ensure that the submitted posts are high-quality and relevant, we'll review and moderate each submission before publication. We'll also use this form as a reference point to prevent duplicate submissions. If you're not familiar with the form or need help with submitting your content, please don't hesitate to contact us at form@gic.mx.</thinking>
-
 # Outreach Guest Post Submission - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Outreach Guest Post Submission form, which is designed to help authors and writers submit their guest posts to be published on our platform.

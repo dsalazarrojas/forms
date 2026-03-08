@@ -1,10 +1,5 @@
 # Cashier Job Application Form - Help Guide
 
-<thinking>
-The purpose of this form is to gather information from applicants for cashier positions. It is designed to collect personal and professional details, as well as skills and qualifications relevant to the role. The form has multiple sections, including personal information, position information, employment history, skills and qualifications, and availability questions. This guide will walk you through each section and explain what to expect.
-
-</thinking>
-
 # Purpose
 The Cashier Job Application Form is used to collect information from applicants for cashier positions. This form helps us understand your qualifications, experience, and availability, which will be used to evaluate your suitability for the role.
 

@@ -1,9 +1,3 @@
-<thinking>Before we begin, let's take a moment to understand the purpose and requirements of the "Product Co Development Registration Form". This form is designed to collect information from product co-development teams and projects. Its purpose is to register and track product co-development projects, including details about the project team lead, company, collaboration partners, project name, project status, and more. The form aims to provide a standardized and systematic way to collect and organize this information.
-
-To complete this form, you will need to provide accurate and relevant details about your project. Please ensure that you have all the necessary information before submitting the form, as some fields may be required and others may be optional.
-
-Now, let's move on to the help guide for this form.</thinking>
-
 # Product Co Development Registration Form - Help Guide
 ## Purpose
 The "Product Co Development Registration Form" is a tool used to register and track product co-development projects. This form is designed to collect essential information about the project, including team lead, company, collaboration partners, project name, and more.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Production Site Size Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a production site's size and capacity. The data collected will help assess the site's production capacity, expansion planning status, and other relevant metrics. Fill out this form to provide accurate and detailed information about your production site.

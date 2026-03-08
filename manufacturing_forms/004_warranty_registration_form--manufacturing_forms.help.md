@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to register their warranty details, providing them with a clear and concise way to document their warranty information. Before proceeding, ensure that this form is relevant to your use case and not a duplicate of another form. This form is intended to gather essential information from customers about their purchase, such as name, contact details, and product specifics. 
-</thinking>
-
 # Warranty Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register warranty details for a product, ensuring that customers can access support and benefits associated with their purchase.

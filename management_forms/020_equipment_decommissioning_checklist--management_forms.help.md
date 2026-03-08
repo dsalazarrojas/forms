@@ -1,5 +1,3 @@
-<thinking>Is this form for tracking the decommissioning of company assets? It seems to be a comprehensive form for tracking various details about the equipment being decommissioned. I'm checking if there are any other forms that serve the same purpose in our system to avoid duplication. I'm also considering the fact that this form has multiple pages, which might indicate that it's intended for multiple stages or steps in the decommissioning process. I'm going to assume that this form is a tool for asset managers and other personnel to track and manage the decommissioning process in a structured way.</thinking>
-
 # Equipment Decommissioning Checklist - Help Guide
 ## Purpose
 This form is used to track and document the decommissioning process of company assets. It captures key details about the asset being decommissioned, including start and end dates, location, and status updates. The form is designed to be comprehensive and help ensure that all necessary steps are taken when decommissioning an asset.

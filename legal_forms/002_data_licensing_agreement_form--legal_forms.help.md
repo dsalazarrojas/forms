@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is used to collect information and agreements related to data licensing, allowing users to specify the form provider, data description, permitted use, and other relevant details. It serves as a template for users to document their data licensing agreements in a standardized way.
-The form's main sections include specifying the form provider, data description, permitted use, and other essential details. This form will help ensure that all necessary information is collected and recorded accurately.
-To ensure consistency and clarity, please complete this form carefully and attentively.
-</thinking>
-
 # Data Licensing Agreement Form - Help Guide
 ## Purpose
 

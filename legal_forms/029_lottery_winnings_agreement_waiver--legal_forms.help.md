@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect the information from individuals who have won a lottery and are required to agree to certain terms and conditions in order to receive their winnings. The purpose of this form is to ensure that the winner understands and agrees to the terms of the winnings, which may include tax implications, payment details, and other relevant information. This form is a one-time agreement that should be completed by the winner to formalize their understanding and acceptance of the terms.
-
-Before proceeding, please ensure that this form is not being used for the same purpose as another form in your organization, and that the information collected is relevant and necessary for the specific use case.
-</thinking>
-
 # Lottery Winnings Agreement Waiver - Help Guide
 ## Purpose
 This form is used to collect information from lottery winners to ensure they understand and agree to the terms of their winnings. It is a one-time agreement that requires completion by the winner to formalize their understanding and acceptance of the terms.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for citizenship. This form is used to gather data on the applicant's identity, background, and eligibility for citizenship. Please ensure that the information provided is accurate and complete, as it will be used to process the applicant's citizenship application.
-
-This form should only be used by individuals who are applying for citizenship, and not by anyone else. If you are using this form to collect information for other purposes, please use an appropriate alternative form that is not related to citizenship.
-
-To avoid duplication of data, please do not use this form to collect information that is already available in other records or databases.
-
-</thinking>
-
 # Citizenship Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from applicants for citizenship.

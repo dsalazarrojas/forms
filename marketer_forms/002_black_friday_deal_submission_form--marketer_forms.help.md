@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect and showcase user-submitted Black Friday deals from various online retailers. The purpose of this form is to facilitate the submission of these deals, allowing users to provide detailed information about their offers, including title, description, original price, sale price, discount percentage, start and end dates, product category, and promotional image URL. 
-
-This form is intended for individual contributors to submit their offers, and it's essential to fill in all required fields to ensure that the deal is accurately displayed.
-
-This form should not be used to submit duplicate or unrelated deals. Submissions must be verified for accuracy and relevance to ensure the integrity of our Black Friday deals collection.
-
-</thinking>
-
 # Black Friday Deal Submission Form - Help Guide
 ## Purpose
 This form is designed to collect user-submitted Black Friday deals from various online retailers for display on our platform.

@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be designed for individuals applying for a farmer job position. It's likely intended for farmhands, farmworkers, or ranchers looking for employment opportunities. The form collects various information to understand the applicant's background, experience, and availability. To ensure relevance, it's essential to fill out the form accurately and thoroughly.
-
-The form is likely being used by farm or agricultural companies to find suitable candidates for their job openings. The purpose of the form is to gather essential details about the applicant's work experience, education, language skills, and availability to ensure they fit the job requirements.
-
-To avoid duplication of effort, please fill out the form carefully and completely. This will help the employer to quickly identify potential candidates and match them with suitable job openings.
-
-</thinking>
-
 # Farmer Job Application Form - Help Guide
 ## Purpose
 The Farmer Job Application Form is designed to gather information from individuals interested in farm or agricultural job positions. The form is used by employers to find suitable candidates for their job openings.

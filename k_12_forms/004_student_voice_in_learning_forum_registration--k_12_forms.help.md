@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Voice In Learning Forum Registration - Help Guide
 ## Purpose
 The "Student Voice In Learning Forum Registration" form is designed to gather information from students who are interested in participating in online forums related to learning. This form helps us better understand the needs, interests, and preferences of our students to provide more effective and relevant support.

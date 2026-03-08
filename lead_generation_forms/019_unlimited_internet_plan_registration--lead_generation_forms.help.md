@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to register for an unlimited internet plan. This form guides users through the necessary fields required for registration, ensuring they can provide accurate and comprehensive details. The internal logic of this form is based on the provided YAML fields, which dictate the type and requirements of each field. The fields are categorized into User Details, Plan Choice, Installation Information, and Confirmation. The form aims to ensure that users can easily navigate and complete the required fields, reducing the likelihood of errors or incomplete submissions.
-</thinking>
-
 # Unlimited Internet Plan Registration - Help Guide
 ## Purpose
 The Unlimited Internet Plan Registration form is designed to collect essential information from users to successfully register for the unlimited internet plan. This guide will walk you through each section of the form to help you provide accurate and complete details.

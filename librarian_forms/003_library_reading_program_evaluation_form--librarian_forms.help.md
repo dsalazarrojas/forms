@@ -1,12 +1,3 @@
-<thinking>
-This is a help guide for the "Library Reading Program Evaluation Form". It appears to be a tool used to collect feedback from library patrons about their experiences with the library's reading program. The form is designed to be completed by patrons after participating in an event organized by the library. The form likely helps library staff to evaluate the effectiveness of the program and gather valuable insights to improve future events.
-
-Before filling this form, please ensure that you have completed the actual "Library Reading Program Evaluation Form" event. This form is not meant to be filled out for general feedback or comments. If you have already filled out the form, please do not fill it out again.
-
-To complete this form, you will need to provide information about your experience at the event, including event details, participant information, and ratings of your experience. Please answer the questions truthfully and thoroughly to help the library improve its services.
-
-Please follow the instructions below for each field:</thinking>
-
 # Library Reading Program Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect feedback from library patrons about their experiences with the library's reading program. Your input will help us evaluate the program's effectiveness and plan future improvements.

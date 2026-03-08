@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for library resources requests from various departments within the university. This form serves as a centralized platform for users to submit their resource requisitions in an organized manner, ensuring that requests are properly documented and reviewed by relevant staff members. Before starting, please ensure that you are submitting a new request and not a duplicate of an existing one. This form should only be used for genuine, legitimate requests.
-</thinking>
-
 # University Library Resource Requisition Form - Help Guide
 ## Purpose
 The University Library Resource Requisition Form is designed to gather information for library resources requests from departments within the university. This form allows you to submit a new request for a resource, ensuring that it is properly documented and reviewed by the relevant staff member.

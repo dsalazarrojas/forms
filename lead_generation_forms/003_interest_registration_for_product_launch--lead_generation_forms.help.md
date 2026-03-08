@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive help guide for the "Interest Registration For Product Launch" form that is clear, concise, and practical for end users. This form is designed to capture relevant information from users who are interested in learning more about a product launch, and it's crucial to ensure that users understand its purpose and how to complete it efficiently. To avoid duplication and ensure relevance, we need to carefully review the form fields and provide guidance on each section.</thinking>
-
 # Interest Registration For Product Launch - Help Guide
 ## Purpose
 This form is designed to gather information from users interested in learning more about a product launch. By completing this form, you'll help us better understand your interests and needs, which will enable us to provide you with targeted information and potential opportunities. Please note that this form does not commit you to anything, and we'll use the information you provide to improve our products and services.

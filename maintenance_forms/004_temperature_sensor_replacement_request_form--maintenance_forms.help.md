@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information for temperature sensor replacement requests. To determine if this form is relevant for your use case, please consider the following:
-
-*   Are you requesting a replacement for a temperature sensor?
-*   Is the form being used in a temperature sensor replacement request scenario, such as maintenance, repair, or replacement of faulty sensors?
-*   If yes, this form is likely a good fit. If not, please refer to other relevant forms.
-
-Before filling out the form, please ensure that you are not duplicating a previous request. To do this, check with your team or the relevant department to see if a similar request has been made recently.
-
-</thinking>
 # Temperature Sensor Replacement Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for temperature sensor replacement requests. If you are requesting a replacement for a faulty temperature sensor, use this form to submit your request.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by employees to request a review of financial operations within an organization. The form is not necessarily tied to any specific business logic or proprietary content from other form platforms, but rather is a generic form designed to collect relevant information for review purposes.
-</thinking>
-
 # Financial Operations Review Request Form - Help Guide
 ## Purpose
 This form is used to request a review of financial operations within an organization. It is intended for employees to provide information about the review they are requesting, including the context, documents required, and the type of review needed.

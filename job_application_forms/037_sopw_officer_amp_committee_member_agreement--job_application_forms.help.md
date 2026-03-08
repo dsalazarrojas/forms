@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # SOPW Officer & Committee Member Agreement - Help Guide
 ## Purpose
 The SOPW Officer & Committee Member Agreement is a form used to collect information from System of Personalized Medicine (SOPW) officers and committee members. This form aims to gather essential data to facilitate effective communication, collaboration, and decision-making within the SOPW team. 

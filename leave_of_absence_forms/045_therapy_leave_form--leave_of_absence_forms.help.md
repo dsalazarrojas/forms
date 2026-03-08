@@ -1,7 +1,3 @@
-<thinking>
-This help guide aims to provide a clear and concise understanding of the Therapy Leave Form, used by employees to request therapy leave from their company. To use this form, please ensure you have permission from your HR department or a designated approver before submitting your request. It's also essential to be aware that this form should not be used to submit multiple leave requests simultaneously. 
-</thinking>
-
 # Therapy Leave Form - Help Guide
 ## Purpose
 The Therapy Leave Form is designed to help employees request therapy leave from work. This form will guide you through the required fields and provide explanations for each section to ensure you complete it accurately and efficiently.

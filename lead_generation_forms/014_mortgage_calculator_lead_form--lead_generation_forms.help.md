@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect contact and loan information from users for the purpose of generating leads for a mortgage calculator or other related services. The form should be used by potential customers who want to explore mortgage options and receive personalized quotes or further information from the company. The form should not be used for other purposes, such as sales or marketing efforts, and all fields should be filled out in a way that allows the company to follow up with the user for more information or to provide a quote.
-
-The form is not intended for internal use within the company and is primarily for public consumption. It is expected that the user will be contacted by the company to discuss their mortgage options and potential quotes.
-
-This form does not aim to collect sensitive information and the company is not expected to store or process sensitive information such as financial data or personal identifiable data for an extended period of time.
-</thinking>
-
 # Mortgage Calculator Lead Form - Help Guide
 ## Purpose
 The Mortgage Calculator Lead Form is designed to collect contact and loan information from users for the purpose of generating leads for a mortgage calculator or other related services. This form is meant to be used by potential customers who want to explore mortgage options and receive personalized quotes or further information from the company.

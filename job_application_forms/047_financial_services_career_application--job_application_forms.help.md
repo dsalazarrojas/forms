@@ -1,14 +1,3 @@
-<thinking>
-**Why is this form relevant to users?**
-
-This form is used to help financial services professionals apply for job positions within the company, providing an efficient way for applicants to showcase their experience, qualifications, and expectations. By filling out this form, users can create a detailed profile that matches their job requirements and interests.
-
-**Is this form being duplicated?**
-
-No, this form is intended for a specific use case and does not duplicate other application forms used within the company.
-
-</thinking>
-
 # Financial Services Career Application - Help Guide
 ## Purpose
 This form is used to apply for career opportunities within the company's financial services department. Please ensure you have a clear understanding of the job requirements and your qualifications before proceeding.

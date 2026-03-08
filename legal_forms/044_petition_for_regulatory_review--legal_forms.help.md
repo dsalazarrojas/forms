@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals or organizations seeking regulatory review for their petitions. It's likely used by a regulatory agency or governing body to process and evaluate requests. The form might be used for public petitions, business applications, or other types of requests that require formal review and consideration. Before proceeding, ensure that this form is not a duplicate and that you're not already working on a similar case or project. If you're not sure, consult the relevant authorities or department responsible for regulatory reviews.</thinking>
-
 # Petition For Regulatory Review - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals or organizations seeking regulatory review for their petitions. This information will be used by a regulatory agency or governing body to evaluate and process your request.

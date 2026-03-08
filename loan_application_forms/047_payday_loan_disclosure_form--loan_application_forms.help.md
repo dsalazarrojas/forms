@@ -1,7 +1,3 @@
-<thinking>
-The Payday Loan Disclosure Form is intended to gather information from borrowers about their loan applications. It is a form used to document the loan terms and borrower details. This form is used to ensure transparency and compliance with regulations. 
-</thinking>
-
 # Payday Loan Disclosure Form - Help Guide
 ## Purpose
 This form is designed to gather information from borrowers about their loan applications. It is used to document the loan terms and borrower details to ensure transparency and compliance with regulations.

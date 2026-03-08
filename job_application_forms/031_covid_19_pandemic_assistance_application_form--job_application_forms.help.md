@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is relevant and not duplicated, we must consider the context of the Covid 19 Pandemic Assistance Application Form. This form is designed to gather information from individuals who are seeking assistance related to the pandemic. The form is not intended for general employment purposes but rather for specific support during this exceptional time. We will only allow one application per individual, and any duplicate submissions will be flagged and removed. This form is intended for individuals who are currently experiencing or have experienced difficulties due to the pandemic.
-</thinking>
-
 # Covid 19 Pandemic Assistance Application Form - Help Guide
 ## Purpose
 

@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to gather information from customers about their cleaning robot maintenance request, including customer details, robot information, issue description, service request details, and contact preferences.
-The form will help the maintenance team to understand the problem with the robot, provide the necessary service, and ensure that the customer is satisfied with the outcome.
-This form will be used to collect data for internal use and will not be shared with any third parties.
-The form is intended for customers who need to request maintenance or repair for their cleaning robot.
-</thinking>
-
 # Cleaning Robot Maintenance Request Form - Help Guide
 ## Purpose
 This form is designed to help us understand your maintenance request for your cleaning robot. Please fill out the form with as much detail as possible to ensure that we can provide the best possible service.

@@ -1,14 +1,3 @@
-<thinking>
-This form is a leave request form for Fashion Shows. It is intended for employees to submit leave requests for events such as fashion shows where they have a role. The form ensures that employees notify their supervisor and provide necessary details about the event. To ensure that the form is completed correctly, please note that:
-- Only submit the form for Fashion Show events.
-- Make sure to select the correct event date and time.
-- Provide accurate duration of the event.
-- Indicate your role in the event.
-- Select the correct shift you will be working.
-- If you are not working on the day of the event, you should indicate that you will be taking time off.
-- If the event is during work hours, you should notify your supervisor and select 'True' for supervisor notification.
-</thinking>
-
 # Fashion Show Leave Of Absence Request - Help Guide
 ## Purpose
 The Fashion Show Leave of Absence Request form is designed to allow employees to submit leave requests for Fashion Shows where they have a role. This form will gather necessary information to ensure that your absence is properly documented and approved.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Powder Flowability Survey - Help Guide
 
 ## Purpose

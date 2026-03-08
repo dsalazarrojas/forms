@@ -1,7 +1,3 @@
-<thinking>Internal reasoning block: This form is intended for users to provide information on machine calibration, including machine identification, location, and calibration frequency. The purpose of this form is to gather data on the machine's condition and maintenance status. It is likely used in a laboratory setting to track equipment maintenance and compliance with regulatory requirements. It is essential to ensure that each field is filled in correctly to avoid errors and inconsistencies in the data.
-
-</thinking>
-
 # ivd_machine_calibration_survey - Help Guide
 ## Purpose
 This form is designed to collect information on the machine's calibration status. It helps track the machine's condition, maintenance, and compliance with regulatory requirements.

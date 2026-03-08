@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Ecommerce Marketing Consultant Estimate Form", I will first analyze the form purpose and structure. The form appears to be designed to gather information for an ecommerce marketing consultant to provide an estimate for a potential project. The form has several fields that cover various aspects of the project, including marketing strategy, services offered, project budget, timeline, communication channel, estimated hours, estimated cost, payment terms, payment options, payment schedule, payment terms description, and payment terms frequency. The form is likely to be used by a project manager or consultant to understand the client's needs and provide a detailed estimate for the project.
-
-The form is divided into several sections, each with a specific label and type. For example, "marketing_strategy" is a select multiple field, allowing the user to select multiple options. "estimated_hours" and "estimated_cost" are both number fields, indicating that the user will enter numerical values for these fields. "payment_terms_frequency" and "payment_terms_description" are text and select multiple fields, respectively, suggesting that the user will provide a text description and select multiple options for these fields.
-
-Before creating the user-facing help guide, I will ensure that the form structure and fields are properly understood, and any unclear labels or fields will be explained in a way that is concrete, concise, and practical.
-</thinking>
-
 # Ecommerce Marketing Consultant Estimate Form - Help Guide
 
 ## Purpose

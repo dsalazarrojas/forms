@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record details of speaking interviews, allowing users to capture essential information about the candidates, interview process, and outcomes. The form includes sections for interviewer notes, review notes, and uploadability of files. Ensure that you have the necessary authority to access and use this form. Please do not use this form for any other purpose.
-</thinking>
-
 # Speaking Interview Recording Form - Help Guide
 ## Purpose
 The Speaking Interview Recording Form is designed to record and document speaking interviews with candidates for potential job positions. This form helps in gathering crucial information, ensuring that all key points are addressed and noted during the interview process.

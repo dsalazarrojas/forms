@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to create a non-commercial use agreement between an individual or organization and the owner of the intellectual property. The purpose of this form is to outline the terms and conditions under which the individual or organization is allowed to use the non-commercially owned property without incurring any legal obligations.
-
-The form guides the user through the necessary steps to fill out the agreement, providing clear explanations and examples for each field to ensure that the user completes the form accurately and efficiently.
-
-</thinking>
-
 # Non Commercial Use Agreement - Help Guide
 ## Purpose
 The Non-Commercial Use Agreement form is used to document the terms and conditions of non-commercial usage of intellectual property. It helps to clearly define the scope of use, usage duration, and any other relevant details.

@@ -1,9 +1,3 @@
-<thinking>
-The "Special Education Teacher Feedback Form" is intended to gather information about a student's experience with their special education teacher. It is used to evaluate the performance, teaching style, and communication of the teacher from a student's perspective. This form is meant to be completed by students to provide feedback on their teachers and help identify areas of improvement. To ensure relevant and non-duplication, this form is intended for students who have had a special education teacher and are looking to provide feedback on their experience.
-
-To complete this form, students will need to select a response for each question. The form is structured as a series of questions with select_one options.
-</thinking>
-
 # Special Education Teacher Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on special education teachers from their students to help improve teacher performance and teaching style.

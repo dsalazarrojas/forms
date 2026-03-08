@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather relevant information for a bail application, which is a request for a defendant to be released from custody before the trial. This form collects demographic and employment details, as well as information related to the defendant's address, arrest, and employment status. It also collects information about the defendant's prior criminal history, potential flight risk factors, and proposed release conditions. The form is intended to assist the court in making informed decisions regarding bail.
-It is essential to fill out this form accurately and completely to ensure that the defendant's situation is properly evaluated.
-Please note that some fields are not required but may still be useful for providing context or additional information.
-</thinking>
-
 # Bail Application Form - Help Guide
 ## Purpose
 The Bail Application Form is a tool used to gather information for a bail request.

@@ -1,18 +1,3 @@
-<thinking>
-
-The Bioburden Testing Report Form is used to collect and document the results of bioburden testing, which is a process used to detect and identify microorganisms that can grow in or on products or materials. This form is used by laboratories to report their findings to clients. The form's purpose is to standardize the presentation and recording of test results, ensuring consistency and clarity in the reporting of bioburden data.
-
-To complete this form, the laboratory will typically:
-
-1. Enter relevant information about the laboratory and the testing process.
-2. Document details about the sample received, including type, quantity, and receipt date.
-3. Perform the bioburden testing and document the start and completion dates.
-4. Report the test results, including bioburden counts and any detected organisms.
-5. Determine the result interpretation, such as whether the results meet or exceed specification limits.
-6. Document any additional comments or notes about the test.
-
-</thinking>
-
 # Bioburden Testing Report Form - Help Guide
 ## Purpose
 The Bioburden Testing Report Form is used to collect and document the results of bioburden testing, which is a process used to detect and identify microorganisms that can grow in or on products or materials.

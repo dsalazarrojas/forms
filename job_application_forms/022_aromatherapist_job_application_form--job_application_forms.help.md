@@ -1,5 +1,3 @@
-<thinking>As an aromatherapist, you are about to submit an application for a job that requires detailed information about your personal and professional background, skills, and experience. Please ensure that you are filling out the form accurately and thoroughly, as this information will be used to evaluate your qualifications for the position. Before you start, please note that you will be asked to provide personal and professional information, such as your contact details, education, and work history. This form has several sections that will guide you through the application process. Please take your time, and if you have any questions or concerns, feel free to reach out to us.</thinking>
-
 # Aromatherapist Job Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about your personal and professional background, skills, and experience as an aromatherapist. It will help us assess your qualifications for the position you are applying for.

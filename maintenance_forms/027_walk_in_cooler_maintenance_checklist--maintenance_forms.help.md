@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I will review the provided YAML fields to ensure I understand the form purpose and functionality. The form appears to be a "Walk In Cooler Maintenance Checklist" designed to inspect and check various components of a walk-in cooler, including its refrigeration system, temperature range, defrost timer, defrost sensors, electrical connections, and more. The form will likely be used by staff or technicians to perform routine maintenance tasks and ensure the cooler is functioning properly. I will focus on creating a clear and concise help guide that explains each field's purpose and required actions.</thinking>
-
 # Walk In Cooler Maintenance Checklist - Help Guide
 ## Purpose
 This form is used to perform a comprehensive maintenance check on a walk-in cooler, ensuring it is functioning correctly and safely. It covers various components, including the refrigeration system, temperature range, defrost timer, defrost sensors, electrical connections, and more.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # custom_make_up_set_order_form - Help Guide
 
 ## Purpose

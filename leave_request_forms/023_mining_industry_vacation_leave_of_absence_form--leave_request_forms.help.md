@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for employees in the mining industry to request a vacation leave of absence. It is essential to complete this form accurately to ensure that your absence is approved and does not impact your work schedule or colleagues' workloads. Before completing this form, please check that you have not already submitted a leave request and that your absence is not during a critical or high-priority project period.
-
-Before filling out the form, please note that while this form is not affiliated with or endorsed by any specific form platform, it is a public domain, AI-generated form created for educational purposes only. This form is released under CC BY 4.0 and is free to use, modify, and distribute as needed.
-
-</thinking>
-
 # Mining Industry Vacation Leave Of Absence Form - Help Guide
 ## Purpose
 The Mining Industry Vacation Leave Of Absence Form is a document intended for employees in the mining industry to request a period of absence due to vacation or other valid reasons.

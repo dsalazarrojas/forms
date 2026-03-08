@@ -1,5 +1,3 @@
-<thinking>As a marketer, creating an Embedded Opt In Form Template is crucial for capturing customer information and preferences. This form is designed to be embedded within a website or landing page, making it an essential tool for collecting opt-in data from visitors. Before proceeding, ensure that the form is not duplicated on your website, and the purpose of each field is well understood to avoid confusion. This form has multiple fields for various opt-in options, allowing visitors to choose their preferences. It is essential to review the form carefully and understand each field's purpose to ensure a smooth and effective data collection process. This guide will walk you through each field, making it easier to complete the form accurately and avoid any confusion.</thinking>
-
 # Embedded Opt In Form Template - Help Guide
 ## Purpose
 This form is designed to collect visitor information and preferences for marketing, newsletter, and promotion purposes. It includes fields for custom opt-in options, allowing you to tailor the form to your specific needs.

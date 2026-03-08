@@ -1,7 +1,3 @@
-<thinking>
-The main purpose of this Leave Request Form is to allow employees to request for leave. This form is used by employees to submit a formal request for leave, specifying the dates and type of leave they wish to take. This form will help HR and management to keep track of leave requests, and make informed decisions on approving or rejecting them. Before filling this form, please ensure you have not already submitted a leave request for the same dates. If you have any outstanding leave requests, please refer to the HR department for clarification.
-</thinking>
-
 # Leave Request Form - Help Guide
 
 ## Purpose

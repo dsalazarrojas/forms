@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect general information about an e-commerce customer service job application. The purpose of this form is to help employers or hiring managers gather relevant data from candidates to assess their suitability for the role.
-The form is designed to be completed by candidates applying for a customer service job in an e-commerce setting.
-Each field should be filled in accordingly to the instructions in this guide.
-
-The form will be used to evaluate candidates' job titles, job descriptions, work experience, availability, and other relevant details.
-</thinking>
-
 # e_commerce_customer_service_job_application - Help Guide
 ## Purpose
 This form is used to collect information from candidates applying for customer service roles in e-commerce. It helps employers or hiring managers to quickly assess and evaluate candidate applications.

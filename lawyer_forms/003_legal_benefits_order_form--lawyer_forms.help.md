@@ -1,7 +1,3 @@
-<thinking>
-This form is for ordering legal benefits for a business. The purpose of this form is to collect information from users to process their legal benefits requests. The form does not store or process sensitive information and is for educational or demonstration purposes only. This form was created using AI and does not collect any personally identifiable information.
-</thinking>
-
 # Legal Benefits Order Form - Help Guide
 ## Purpose
 

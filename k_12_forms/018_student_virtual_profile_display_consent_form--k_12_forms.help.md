@@ -1,19 +1,3 @@
-<thinking>
-
-The Student Virtual Profile Display Consent Form is designed for students to confirm their consent to display their virtual profile, which can include their name, profile picture, and other information. This form ensures that students and their parents/guardians are aware and approve the display of this information, and it's meant to be a part of the school's or organization's onboarding process.
-
-The form is used to collect language-specific information, so it's essential to fill out the English and Spanish sections correctly.
-
-To complete the form correctly and ensure its purpose is understood, the following sections require specific language settings:
-
-*   "Category" is crucial in defining the type of virtual profile information to be displayed.
-*   "Category English" and "Category Spanish" sections are vital in ensuring accurate language settings for the displayed content.
-*   The "Form Title" sections in English and Spanish are essential for identifying the virtual profile display form.
-*   The "Description" sections in English and Spanish provide a description of the virtual profile display form.
-*   The "Category English" and "Category Spanish" sections should match the "Form Title" sections accordingly.
-
-</thinking>
-
 # Student Virtual Profile Display Consent Form - Help Guide
 ## Purpose
 The Student Virtual Profile Display Consent Form is designed to collect student consent to display their virtual profile information. This form ensures that students are aware and approve the display of their virtual profile information, and it's part of the school's or organization's onboarding process.

@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Digital Recruitment Form, I will follow the provided YAML fields and explain each field's purpose and requirements in a concrete and concise manner.
-
-The purpose of this form is to collect information from potential candidates for a job position. It is essential to provide clear instructions and explanations for each field to ensure that the candidate fills out the form accurately and efficiently. This form is designed to collect various types of information, including contact information, education, work experience, skills, and resume upload.
-
-Before starting to fill out the form, please ensure that you have the necessary information and documents ready, such as your resume and any relevant work history. The form is divided into several sections, each with its specific purpose and requirements.
-
-</thinking>
-
 # Digital Recruitment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential candidates for a job position. Please fill out the form accurately and completely to increase your chances of being considered for the position.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Groomer Leave Of Absence Request - Help Guide
 
 ## Purpose

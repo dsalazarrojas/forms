@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate employees to request a leave of absence for personal travel. This form is intended for use by employees to provide essential information about their absence, which will be reviewed and processed by the HR or management team. The form is not a comprehensive or official document, but rather a tool to aid the employee in providing accurate and clear information about their absence.
-Before proceeding, please check that this form is indeed what you are looking for and not duplicate it. This form is a generated template created based on public survey topic metadata and should not be used for commercial purposes without modification.
-</thinking>
-
 # personal_travel_leave_of_absence_request - Help Guide
 ## Purpose
 This form is designed for employees to request a leave of absence for personal travel, providing essential information about their absence for HR or management review and processing.

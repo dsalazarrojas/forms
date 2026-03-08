@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register an organization for the Packaging Waste Reduction Initiative, which aims to reduce waste in the packaging industry. This form is used to gather information from organizations that are willing to participate in the initiative. Before starting, please ensure that you are filling out this form for a valid organization that has not previously registered. If you are unsure, you may want to contact the initiative's administrators to confirm your registration.
-</thinking>
-
 # Packaging Waste Reduction Initiative Registration Form - Help Guide
 ## Purpose
 The Packaging Waste Reduction Initiative Registration Form is designed to gather information from organizations interested in participating in the initiative. Please fill out this form carefully and honestly to ensure accurate representation of your organization.

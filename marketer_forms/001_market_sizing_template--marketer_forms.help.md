@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide market researchers and analysts in understanding the market size and potential of a specific market or industry. The form is meant to be used for internal purposes and should not be completed unless explicitly instructed to do so. Please ensure that you have received proper guidance and clearance before proceeding.
-</thinking>
-
 # Market Sizing Template - Help Guide
 ## Purpose
 The Market Sizing Template is a tool designed to help market researchers and analysts size and understand the market size and potential of a specific market or industry. This template guides you through the process of defining the market, its segment, and other key characteristics that will help you estimate its revenue and growth potential.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly and consistently by end-users. The Permanent Makeup Release Form is used to obtain client consent and release information for permanent makeup treatments. It's essential to understand the form's purpose and how to fill it out accurately to avoid any issues or miscommunications. Before proceeding, please check if you've already filled out this form for this specific treatment. If you've filled it out before, there's no need to duplicate your effort.
-</thinking>
-
 # Permanent Makeup Release Form - Help Guide
 ## Purpose
 The Permanent Makeup Release Form is a document that obtains client consent for permanent makeup treatments. It's crucial for ensuring the client's understanding and agreement with the procedure.

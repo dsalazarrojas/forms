@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is likely to collect information from users, possibly for some official or professional context, such as a legal document or affidavit. This form appears to be a straightforward data collection tool with various fields for user input, including contact information (name, address, city, state, zip, phone number, and email) and a declaration field with two options. The "Declaration" field might be used to obtain a user's statement or acknowledgement. Given the presence of a "Signature" field, this form may be intended for users to sign a document or provide some form of acknowledgement. The "date" field is also present, which further supports this idea. It is essential to ensure the form is not being used for any other purpose, such as creating a duplicate or redundant form.
-</thinking>
-
 # sworn_declaration_form - Help Guide
 ## Purpose
 This form is used to collect user information and obtain a declaration or statement from the user, possibly for official or professional purposes.

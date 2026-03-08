@@ -1,16 +1,3 @@
-<thinking>
-The Inspection Maintenance Report Form is designed to be used by inspectors and maintenance personnel to report on the condition and maintenance needs of various assets and government agencies. The form is used to collect information on the status of assets, identify maintenance requirements, and provide notes for future reference.
-
-This form is intended to be completed by inspectors who are responsible for inspecting and maintaining company assets. The purpose of the form is to provide a standardized way of documenting the condition of assets, identifying areas that require maintenance, and keeping track of the assets' history. This form is not intended to be used for other purposes such as creating or modifying records, but rather for reporting on the current state of assets.
-
-Before filling out this form, please make sure you are familiar with the asset's current status and any relevant maintenance schedules or requirements.
-
-Please review the form carefully and make sure you are completing all required fields to ensure accurate and complete reporting.
-
-To complete this form, simply follow the instructions below.
-
-</thinking>
-
 # Inspection Maintenance Report Form - Help Guide
 ## Purpose
 

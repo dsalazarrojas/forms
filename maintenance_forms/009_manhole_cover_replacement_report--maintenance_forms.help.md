@@ -1,12 +1,3 @@
-<thinking>
-As a form designer and technical writer, my first step would be to review the provided YAML input schema to understand the purpose and requirements of the form. I see that the form is related to "manhole cover replacement" and has a mix of text input fields and a select_one field for manhole cover details. This suggests that the form is used to report on the replacement of a manhole cover. The field "photo_evidence" implies that users may be uploading images as evidence, and "sign_off" could be a field for the user's signature or approval. I also notice that the select_one field "manhole_cover_details" has options like "Manhole Cover Type", "Manhole Cover Material", and "Manhole Cover Size", which indicates that the form is collecting information about the characteristics of the replaced manhole cover.
-
-To confirm that this is a valid use case and not a duplication, I would check with the project stakeholders or the original requestor to ensure that this form is a real requirement and not a duplicate effort.
-
-Assuming that the form is valid and a real requirement, I will proceed to create the help guide.
-
-</thinking>
-
 # Manhole Cover Replacement Report - Help Guide
 ## Purpose
 The Manhole Cover Replacement Report form is used to report on the replacement of a manhole cover. This form is used to collect information about the replaced manhole cover's details and any related photo evidence.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Job Request Form - Help Guide
 
 ## Purpose

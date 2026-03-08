@@ -1,9 +1,3 @@
-<thinking>
-
-The form purpose is to gather information from clients about their company and business goals, challenges, and needs. This form is designed to help our team understand their requirements and provide the most suitable solutions for their business. By using this form, clients can also indicate their decision-making authority and how they heard about our company, providing valuable insight into our lead generation process.
-
-</thinking>
-
 # Client Questionnaire - Help Guide
 ## Purpose
 The Client Questionnaire is a form used to gather essential information from clients to understand their business needs and preferences.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect contact information from lawyers in order to establish a professional relationship. This form should be used by lawyers who want to be listed in a directory. The purpose of this form is to gather essential details about the lawyer, including their name, contact details, and address. 
-Please ensure that you have the necessary permissions and approvals before submitting this form.
-</thinking>
-
 # Lawyer Contact Information Form - Help Guide
 ## Purpose
 This form is used to collect contact information from lawyers to be listed in a directory.

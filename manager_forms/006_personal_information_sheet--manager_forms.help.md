@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to provide their personal information, likely for the purpose of creating or updating their account profile or for identification purposes. The form is called "Personal Information Sheet" and is likely used for administrative tasks or user registration processes within an organization or system. Before proceeding, please ensure that you are filling out this form for the correct purpose and not duplicating efforts.
-
-</thinking>
-
 # Personal Information Sheet - Help Guide
 ## Purpose
 The Personal Information Sheet form is a collection of fields that gather essential details about an individual. It is intended to be filled out once to provide a comprehensive profile.

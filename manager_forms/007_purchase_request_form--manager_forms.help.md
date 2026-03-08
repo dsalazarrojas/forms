@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of the "Purchase Request Form" is to allow employees to submit a purchase request for an item or service needed for their work. The form is meant for internal use within the organization. It's likely to be used by employees to ask their manager to approve purchases or acquisitions of items that are not already available. This form is not intended for external use or to collect sensitive information.
-
-</thinking>
-
 # Purchase Request Form - Help Guide
 ## Purpose
 The Purchase Request Form is used to submit a request for an item or service needed for work purposes.

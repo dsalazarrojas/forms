@@ -1,5 +1,3 @@
-<thinking>This form is used to register the machine safety evaluation data. It captures information about a machine's safety status, inspection frequency, and compliance status. This form helps ensure that machines are properly inspected and maintained to prevent accidents and ensure regulatory compliance. This form should only be completed by authorized personnel. To avoid duplication, please check that a machine is not already registered in the system before completing this form.</thinking>
-
 # Machine Safety Evaluation Registration - Help Guide
 ## Purpose
 This form is used to register the safety evaluation data for a machine. It helps to ensure that machines are properly inspected and maintained to prevent accidents and ensure regulatory compliance.

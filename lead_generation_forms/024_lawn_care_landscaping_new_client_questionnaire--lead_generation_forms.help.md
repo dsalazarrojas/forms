@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from new clients for lawn care and landscaping services. It should be used for clients who are interested in scheduling lawn care or landscaping services for their properties. This form should not be used for existing clients or for services that are not lawn care or landscaping related. If a client has already submitted a similar form, please do not send this form to them again.
-</thinking>
-
 # Lawn Care/Landscaping New Client Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information from new clients for lawn care or landscaping services. It is designed to be completed by clients who are interested in scheduling services for their properties.

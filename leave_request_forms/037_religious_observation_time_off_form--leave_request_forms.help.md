@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form appears to be used to request a time off for observance reasons related to religious observances such as Yom Kippur, Rosh Hashanah, etc. It is likely used by employees to request time off for personal, religious, or spiritual reasons that may not be related to traditional holidays like Christmas or New Year's. To fill out this form, the employee must select an observance, enter dates for the time off, and provide the number of days off they require. They must also specify whether they would like to assign the request to a specific person, or if they would like to submit the request themselves.</thinking>
 
 # Religious Observation Time Off Form - Help Guide

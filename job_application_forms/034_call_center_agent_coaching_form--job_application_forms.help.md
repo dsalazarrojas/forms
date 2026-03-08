@@ -1,5 +1,3 @@
-<thinking>**Form Purpose**: This form is designed to help coaches and supervisors provide coaching and assessment to call center agents to improve their performance, provide feedback, and set goals for growth and development. The form guides the conversation by collecting relevant information about the agent's current performance, areas for improvement, strengths, and goals for future development. By completing this form, agents receive structured feedback and a clear understanding of expectations, helping them to improve their skills and achieve their objectives.</thinking>
-
 # Call Center Agent Coaching Form - Help Guide
 ## Purpose
 

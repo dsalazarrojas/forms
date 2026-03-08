@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to support overseas family leave requests from employees in a company. The form is meant to be filled out by employees when they plan to take leave due to family reasons while overseas. 
-
-The form helps employees to request a leave by specifying the type of leave they are requesting, the travel dates, and the reason for their leave. The form also captures contact details of the contact person in case the employee is unreachable during their leave and other relevant information to facilitate smooth communication. 
-
-To ensure the form serves its intended purpose, please review the form carefully to ensure accuracy and completeness before submission. 
-</thinking>
-
 # Hospitality Overseas Family Leave Of Absence Form - Help Guide
 ## Purpose
 This guide will walk you through the completion of the overseas family leave form. The form is designed to be simple and user-friendly, and each section is described below for your ease of understanding.

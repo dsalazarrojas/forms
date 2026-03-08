@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document and report on lab safety procedures and risks. It is essential to complete this form to ensure that laboratory workers and supervisors are aware of potential hazards and are taking adequate measures to mitigate them. This form is not a replacement for actual safety procedures and protocols that are already in place in the lab, but rather a record of the measures taken to ensure a safe working environment.
-Please ensure that you have already familiarized yourself with your lab's actual safety procedures before completing this form.
-</thinking>
-
 # Lab Safety Form - Help Guide
 ## Purpose
 This form is used to document and report on lab safety procedures and risks. It is essential to complete this form to ensure that laboratory workers and supervisors are aware of potential hazards and are taking adequate measures to mitigate them.

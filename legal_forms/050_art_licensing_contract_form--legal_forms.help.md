@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Art Licensing Contract Form, I need to understand the context and purpose of this form. It appears to be a legal form used for licensing artistic works, where a licensor (artist or rights holder) grants usage rights to a licensee (individual or organization). The form likely helps to establish clear terms and conditions for the agreement, including scope, duration, and payment details.
-
-Upon reviewing the provided YAML, I see that the form is designed to capture essential information for the licensing process. I also notice that some fields are required, which is a good indication that these are critical pieces of information needed for the agreement. I will ensure that the help guide accurately reflects the purpose and usage of each field to support the user in completing the form successfully.
-
-</thinking>
-
 # Art Licensing Contract Form - Help Guide
 ## Purpose
 This form is used to establish a licensing agreement between a licensor (artist or rights holder) and a licensee (individual or organization) for the use of a specific artwork. The form captures essential information about the licensing scope, duration, and payment terms to ensure both parties are clear on their rights and responsibilities.

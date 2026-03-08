@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request postpartum care time off for employees. The purpose of this form is to provide a standardized way for employees to submit their requests for postpartum care time off, which can include maternity/paternity leave, postpartum care, or other related reasons. This form helps ensure that all necessary information is collected and that the request is properly reviewed and approved by the relevant managers and departments.
-</thinking>
-
 # Postpartum Care Time Off Form - Help Guide
 ## Purpose
 This form is used to request postpartum care time off for employees.

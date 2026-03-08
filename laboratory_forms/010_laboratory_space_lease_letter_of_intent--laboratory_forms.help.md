@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Laboratory Space Lease Letter Of Intent - Help Guide
 
 ## Purpose

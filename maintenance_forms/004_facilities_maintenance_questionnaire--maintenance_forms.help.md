@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about facilities maintenance. The form has multiple fields that allow users to select different types of facilities and indicate whether they are available or not. This form is likely used by facility managers or maintenance personnel to track the status of facilities. To use this form, you need to be familiar with the facilities and their maintenance status. The form is designed to be used in conjunction with other maintenance-related forms, so it's possible that answers from this form will be used to update other relevant records.</thinking>
-
 # Facilities Maintenance Questionnaire - Help Guide
 ## Purpose
 The Facilities Maintenance Questionnaire is a form designed to collect information about the status of facilities. This form helps facility managers and maintenance personnel track and manage the maintenance status of various facilities.

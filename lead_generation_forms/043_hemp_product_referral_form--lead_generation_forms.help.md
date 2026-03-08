@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to refer a customer to a hemp product, providing essential details to facilitate follow-up and communication. It's crucial that this form is used for its intended purpose and not for other unrelated tasks. Duplicate entries may lead to confusion and miscommunication. To ensure a smooth user experience and accurate data collection, please complete this form only for genuine customer referrals.
-</thinking>
-
 # Hemp Product Referral Form - Help Guide
 ## Purpose
 The Hemp Product Referral Form is designed to collect information about customers who are interested in hemp products. This form helps to identify customers who may be potential leads for our business and allows us to tailor our communication and follow-up accordingly.

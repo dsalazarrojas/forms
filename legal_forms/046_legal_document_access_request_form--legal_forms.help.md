@@ -1,8 +1,4 @@
-## <thinking>
-This form is a Legal Document Access Request Form, which is used to request access to legal documents. The purpose of this form is to collect information from users about themselves and their requests. This form is used to ensure that the correct information is collected and to verify the authenticity of the request. The form is only for users who need access to legal documents and is not intended for general inquiries or other purposes. This form is part of a larger process to ensure that legal documents are handled and accessed in a secure and controlled manner.
-</thinking>
-
-# Legal Document Access Request Form - Help Guide
+## # Legal Document Access Request Form - Help Guide
 ## Purpose
 The Legal Document Access Request Form is used to request access to legal documents. To complete this form, please follow the steps below.
 

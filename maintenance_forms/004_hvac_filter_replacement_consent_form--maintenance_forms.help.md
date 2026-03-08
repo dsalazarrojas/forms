@@ -1,6 +1,3 @@
-<thinking>
-The form purpose and fields seem to be relevant and non-duplicative. The form is used to obtain consent from residents for hvac_filter_replacement_consent_form. The fields include resident authorization, filter change schedule, access details, property manager details, landlord details, and maintenance team details.</thinking>
-
 # hvac_filter_replacement_consent_form - Help Guide
 ## Purpose
 The hvac_filter_replacement_consent_form is used to obtain consent from residents for hvac_filter_replacement_consent_form. This form is intended to collect relevant information from residents regarding the replacement of HVAC filters.

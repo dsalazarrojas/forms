@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users for the purpose of creating or managing proxy relationships. The fields are designed to gather relevant details such as title, name, email, phone number, category, description, assigned tool, event, date, and notes. This form is likely used in a business setting, possibly for internal communication or workflow management. Before proceeding, please ensure you have a clear understanding of the form's purpose and that you are not duplicating an existing proxy relationship.
-</thinking>
-
 # hao_proxy_form - Help Guide
 ## Purpose
 The hao_proxy_form is a user-facing form designed to collect information for creating or managing proxy relationships. This form gathers relevant details such as title, name, contact information, category, description, assigned tool, event, and notes.

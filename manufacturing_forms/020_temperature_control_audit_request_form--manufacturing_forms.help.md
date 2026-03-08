@@ -1,7 +1,3 @@
-<thinking>
-Temperature Control Audit Request Form is used to collect information related to the temperature control of a manufacturing process. This form is intended for auditors to assess the temperature control measures in place within a facility or process. The form is designed to be completed by the facility or process owner, but can also be used by auditors or inspectors to gather information during an audit or inspection.
-</thinking>
-
 # Temperature Control Audit Request Form - Help Guide
 ## Purpose
 The Temperature Control Audit Request Form is used to collect information related to the temperature control of a manufacturing process.

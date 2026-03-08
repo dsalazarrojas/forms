@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for the Academic Librarian position, which is a crucial role in providing academic and research support to students, faculty, and staff. To ensure that applicants provide accurate and complete information, we need to explain the form's purpose and each field's significance clearly to avoid any confusion or duplication. This form is essential to evaluate the applicants' suitability for the position and gather the necessary details for further evaluation. It's crucial to understand that the form is designed to help us find the best candidate for the Academic Librarian role. 
-</thinking>
-
 # Academic Librarian Job Application Form - Help Guide
 ## Purpose
 The Academic Librarian Job Application Form is designed to collect information from applicants for the Academic Librarian position. The form is used to evaluate applicants' suitability for the role and gather the necessary details for further evaluation.

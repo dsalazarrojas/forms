@@ -1,5 +1,3 @@
-<thinking>As a healthcare medical coder employment application form designer and technical writer, I will create a user-facing help guide that explains the purpose of the form, how to complete it, and what each field means. The form is designed to collect information from applicants for healthcare medical coder positions. The form is divided into sections that cover contact information, employment history, education background, medical license information, professional references, and additional information. The form is designed to be completed by applicants who are interested in applying for healthcare medical coder positions.</thinking>
-
 # healthcare_medical_coder_employment_application - Help Guide
 ## Purpose
 The healthcare medical coder employment application form is designed to collect information from applicants interested in applying for healthcare medical coder positions. This form is used to gather contact information, employment history, education background, medical license information, professional references, and additional information.

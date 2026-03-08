@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to express their interest in upcoming demos, potentially for a product or service. The form should be filled out by someone interested in attending a demo, such as a sales lead or potential customer. The purpose of the form is to gauge interest and collect relevant contact information from potential attendees. It's essential to fill out this form only once per individual, as repeating the process may be a sign of spam or duplicate requests.
-</thinking>
-
 # Interest In Upcoming Demos - Help Guide
 ## Purpose
 The Interest In Upcoming Demos form is a way for users to express their interest in attending an upcoming demo, allowing us to gauge interest and collect relevant contact information from potential attendees.

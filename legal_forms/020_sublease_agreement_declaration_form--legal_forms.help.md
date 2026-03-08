@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a sublease agreement between a tenant and a landlord. The form is used to declare a sublease agreement, which is an arrangement between two parties where one person (the subtenant) takes over the lease of a property from another person (the original tenant) with the permission of the property owner (landlord). This form will guide you through the required information to complete such an arrangement.
-</thinking>
-
 # Sublease Agreement Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information to create a sublease agreement between the tenant and the landlord. Please fill out this form to declare your sublease agreement.

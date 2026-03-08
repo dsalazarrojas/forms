@@ -1,8 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Security Team Application Form, we first need to understand the purpose of the form and ensure that it's relevant and not duplicating other forms. The form's purpose is to collect information from potential candidates who are applying to join the security team. This information will be used to assess their eligibility and suitability for the role. It's essential that the form is clear, concise, and easy to fill out to ensure that candidates provide accurate and complete information. A well-designed form will also help prevent errors and misinterpretations that may occur during the application process.
-
-</thinking>
-
 # Security Team Application Form - Help Guide
 ## Purpose
 The Security Team Application Form is designed to collect information from potential candidates who are applying to join the security team. Please fill out this form to provide accurate and complete information about yourself.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used to record an injury recovery absence for an employee. The form is required for all employees who are absent due to an injury and need to provide supporting documentation from a doctor to validate their absence. This form will help the HR department to track and process employee's injury recovery absence.
-
-Please note that this form is not a replacement for other HR processes or policies. Employees are still required to follow their regular reporting procedures and obtain approval from their manager before filling out this form. 
-
-Also, this form should only be filled out by employees who have an injury that requires time off from work. If the absence is not work-related or not due to injury, please use other appropriate forms.
-
-Before filling this form, ensure that you have obtained approval from your manager or supervisor before submitting this form. 
-
-</thinking>
-
 # Injury Recovery Absence Form - Help Guide
 ## Purpose
 This form is used to record an injury recovery absence for an employee.

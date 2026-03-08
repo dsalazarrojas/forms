@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facility Maintenance Check Out Form - Help Guide
 
 ## Purpose

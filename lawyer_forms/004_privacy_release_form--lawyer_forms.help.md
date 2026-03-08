@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for a privacy release form, which is a document used to obtain a release from an employee to disclose personal information to an employer. The form is likely used in an employment context to ensure that employees understand what information will be shared with the employer and to obtain consent for its use. The purpose of this form is to ensure that employees are aware of their privacy rights and to provide a record of their consent.
-</thinking>
-
 # Privacy Release Form - Help Guide
 ## Purpose
 The Privacy Release Form is used to obtain a release from an employee to disclose their personal information to their employer.

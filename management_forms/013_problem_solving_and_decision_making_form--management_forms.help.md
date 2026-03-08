@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to document and analyze problem-solving processes and decisions made within the organization. It's intended to help teams and individuals reflect on their approach to problem-solving, identify areas for improvement, and track progress over time. This form is not a mandatory part of regular operations, but rather a tool for retrospection and evaluation.
-
-To ensure accurate and relevant responses, please only complete this form when you have a specific problem-solving process or decision to report on.
-
-</thinking>
-
 # Problem Solving And Decision Making Form - Help Guide
 ## Purpose
 The Problem Solving And Decision Making Form is a tool for documenting and analyzing problem-solving processes and decisions made within the organization. It helps teams and individuals reflect on their approach to problem-solving, identify areas for improvement, and track progress over time.

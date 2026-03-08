@@ -1,13 +1,3 @@
-<thinking>As a form designer and technical writer, I've reviewed the provided form fields and their corresponding types. This form appears to be a comprehensive legal document for non-solicitation agreements, likely used in employment or business settings. The form seems to be designed to collect information from employees or partners about their relationships, agreements, or other relevant details.
-
-To ensure the form's purpose and relevance, I've checked the following:
-
-* The form has 23 fields, which suggests it's a detailed document.
-* Most fields are text or select fields, indicating a focus on collecting descriptive information.
-* Several fields are marked as "required," which implies that they are essential for the form's completion.
-
-Before creating the user-facing help guide, I'll proceed with caution and avoid assuming business logic or intent that's not explicitly stated in the YAML. I'll provide concrete and practical explanations for each field, based on its type and options.</thinking>
-
 # non_solicitation_agreement_declaration_form - Help Guide
 ## Purpose
 This form is for making non-solicitation agreements, which are legal documents used in employment or business settings to outline the terms of a non-solicitation agreement. This form will help employees or partners provide information about their relationships, agreements, and other relevant details.

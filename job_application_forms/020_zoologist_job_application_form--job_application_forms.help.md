@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Zoologist Job Application Form - Help Guide
 ## Purpose
 This form is designed for individuals to submit their application for a zoologist position. A zoologist is a professional who studies the behavior, physiology, and classification of animals. The purpose of this form is to gather information about the candidate's background, experience, and qualifications for the position.

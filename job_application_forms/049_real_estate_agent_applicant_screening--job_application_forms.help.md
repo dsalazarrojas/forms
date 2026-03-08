@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to screen applicants for real estate agent positions, typically used by brokers or property managers. It's used to collect relevant information about the applicant's experience, education, and licensing status to determine their eligibility for the position. The form should only be used for internal purposes, and not for public-facing applications.
-
-The form is not meant to collect sensitive data, and all fields are optional. This form will help the applicant provide detailed information about their experience and licensing status, which will help the hiring manager to make a more informed decision about the applicant's qualification.
-
-Please note that some fields may be redundant (e.g., multiple fields for real estate license expiration date), but they might be used for different purposes or for different parts of the hiring process. The form is designed to be flexible and adaptable to the hiring manager's needs.
-
-To avoid duplication of effort, please ensure that you have not filled out a similar form before, and that you have not been previously screened for this position. 
-
-</thinking>
-
 # Real Estate Agent Applicant Screening - Help Guide
 ## Purpose
 This form is designed to collect information about your experience, education, and licensing status as a real estate agent applicant. The information collected will be used to determine your eligibility for the position.

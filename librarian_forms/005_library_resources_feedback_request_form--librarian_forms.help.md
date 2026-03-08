@@ -1,7 +1,3 @@
-<thinking>
-This form is a feedback collection tool for patrons to provide their input on library resources, aiming to gather information on resource usage frequency, satisfaction level, and potential improvements. The form is intended to help librarians understand their patrons' needs and preferences, enabling them to make informed decisions on resource allocation and service development. 
-</thinking>
-
 # Library Resources Feedback Request Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patrons about library resources, allowing librarians to better understand how patrons use and interact with these resources.

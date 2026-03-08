@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from end-users who are seeking financing assistance for a property. The form is used to gather details about the type of property, purpose of the loan, loan amount, credit score, income, employment status, property address, contact information, and other relevant details. This form is not intended for any other purpose, and all fields are optional except for the contact information field, which is required. The form is meant to provide a straightforward and organized way to collect necessary information for processing a loan application.
-
-</thinking>
-
 # Property Financing Assistance Application - Help Guide
 ## Purpose
 This form is used to collect information from end-users seeking financing assistance for a property. Fill out this form to provide details about your property and financial situation.

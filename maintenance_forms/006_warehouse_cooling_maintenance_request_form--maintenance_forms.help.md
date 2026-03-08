@@ -1,9 +1,3 @@
-<thinking>
-As you begin using this form, we want to emphasize the importance of being clear and accurate with your responses. The "Warehouse Cooling Maintenance Request Form" is designed to gather essential information for the efficient maintenance and upkeep of your warehouse cooling systems. Please ensure you provide the most up-to-date and correct information to the best of your abilities.
-
-Before completing this form, double-check that you are not submitting duplicate or unnecessary requests. This will help us allocate resources better and prevent unnecessary work duplication. If you are unsure or have questions, please don't hesitate to reach out to our support team for assistance.
-</thinking>
-
 # Warehouse Cooling Maintenance Request Form - Help Guide
 ## Purpose
 The Warehouse Cooling Maintenance Request Form is used to request maintenance for your warehouse's cooling systems. This form will help us identify the required maintenance, assign resources, and schedule the necessary work to keep your cooling systems running smoothly.

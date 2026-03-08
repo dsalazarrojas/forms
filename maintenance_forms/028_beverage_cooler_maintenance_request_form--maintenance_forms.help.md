@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the Beverage Cooler Maintenance Request Form is only used for its intended purpose and to prevent duplication, we will check if a form with the same title and same fields has been filled out recently. If so, we will display a message to the user asking them to contact the maintenance team to confirm if the issue has been resolved.
-</thinking>
-
 # Beverage Cooler Maintenance Request Form - Help Guide
 ## Purpose
 The Beverage Cooler Maintenance Request Form is a tool used to report issues with your beverage cooler. Please fill out this form with as much detail as possible so that our maintenance team can efficiently diagnose and repair the problem.

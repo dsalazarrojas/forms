@@ -1,5 +1,3 @@
-<thinking>...this form is designed to help marketers create a comprehensive digital marketing campaign plan. It includes sections for defining campaign objectives, target audience, content creation and distribution plans, budget, schedule, review periods, and review criteria. The form is designed to be flexible and adaptable to accommodate various types of marketing campaigns. Before filling out the form, ensure that you have a clear understanding of the campaign objectives and scope. Please review this guide before proceeding...</thinking>
-
 # Digital Marketing Campaign Planning Template - Help Guide
 ## Purpose
 The Digital Marketing Campaign Planning Template is a tool to help you create a well-structured and effective digital marketing campaign plan. It covers essential elements such as defining campaign objectives, target audience, content creation and distribution plans, budget, schedule, and review periods and criteria.

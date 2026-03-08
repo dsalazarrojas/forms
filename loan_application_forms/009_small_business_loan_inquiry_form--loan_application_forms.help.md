@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from small business owners who are seeking loan inquiries. It is likely to be used by loan officers or financial advisors to assess the borrower's eligibility and suitability for a loan. The form should only be filled out by small business owners who are genuinely interested in inquiring about a loan, not by individuals who are simply testing the form or who are not eligible for a loan. Please ensure that you are filling out this form in good faith and with a legitimate interest in a loan. If you are unsure about any of the fields, please contact the loan officer directly for clarification.
-</thinking>
-
 # Small Business Loan Inquiry Form - Help Guide
 ## Purpose
 The Small Business Loan Inquiry Form is designed to gather essential information from small business owners who are interested in inquiring about a loan. This form helps the loan officer to assess the borrower's eligibility and suitability for a loan.

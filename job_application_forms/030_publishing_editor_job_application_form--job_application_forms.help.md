@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal reasoning:** This form is designed to collect job application information from potential candidates for a publishing editor position. Before filling out this form, please ensure that you are applying for this specific job opening and that you have not previously submitted an application for this role. The form should only be filled out once per individual and for one specific job opening.
-
-</thinking>
-
 # Publishing Editor Job Application Form - Help Guide
 
 ## Purpose

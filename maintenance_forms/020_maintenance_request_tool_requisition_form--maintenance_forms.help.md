@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Maintenance Request Tool Requisition Form", I'll analyze the provided YAML fields and explain each section and field in a concise and practical manner.
-
-This form is designed to collect information from users who need to request maintenance tools or services. The form allows users to provide details about the tools or items they need, their location, and other relevant information. The purpose of this form is to streamline the process of requesting maintenance tools or services, making it easier for users to get the necessary resources they need for their work.
-
-</thinking>
-
 # Maintenance Request Tool Requisition Form - Help Guide
 ## Purpose
 

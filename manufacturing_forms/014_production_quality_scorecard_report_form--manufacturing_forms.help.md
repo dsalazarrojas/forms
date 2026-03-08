@@ -1,39 +1,3 @@
-<thinking>
-This form is intended for production line quality control. The purpose of this form is to collect data on the production process and assess the quality of the products produced. This form will likely be used by inspectors or quality control personnel to evaluate and document the quality of the products being produced. The form may be used for internal quality control or for auditing purposes to track and analyze production data over time. 
-
-To confirm, this form is part of a larger quality control system and may be used to track product quality across different production lines or shifts, providing valuable insights for improvement and optimization. There may be other similar forms for different production lines, products, or quality control processes.
-
-This form has been designed with the following fields:
-Product Name (ID 1)
-Production Date (ID 2) - This will be a date picker for the date of production.
-Shift (ID 3) - A free-form text field for the shift information.
-Inspector (ID 4) - A free-form text field for the inspector's name.
-Product ID (ID 5) - A numerical field for the product ID.
-Quality Rating (ID 6) - A numerical field for the overall quality rating of the product.
-Criteria 1 (ID 7) - A multiple-choice field with three options for the first criteria.
-Criteria 1 Rating (ID 8) - A numerical field for the rating of the first criteria.
-Criteria 2 (ID 9) - A multiple-choice field with three options for the second criteria.
-Criteria 2 Rating (ID 10) - A numerical field for the rating of the second criteria.
-Criteria 3 (ID 11) - A multiple-choice field with three options for the third criteria.
-Criteria 3 Rating (ID 12) - A numerical field for the rating of the third criteria.
-Comments (ID 13)
-Photo (ID 14) - A free-form text field for any photos of the product or production line.
-Comments 2 (ID 15)
-Photo 2 (ID 16)
-Photo 3 (ID 17)
-Photo 4 (ID 18)
-Photo 5 (ID 19)
-Photo 6 (ID 20)
-Photo 7 (ID 21)
-Photo 8 (ID 22)
-Assessment (ID 23)
-Assessment Date (ID 24) - A date picker for the date of assessment.
-Score (ID 25) - A numerical field for the score.
-
-This form is likely used for a specific production line or shift, and users may be required to complete it for each production cycle or batch.
-
-</thinking>
-
 # Production Quality Scorecard Report Form - Help Guide
 ## Purpose
 The Production Quality Scorecard Report Form is a tool used to document and evaluate the quality of products during production. It helps in tracking and analyzing production data over time to identify areas of improvement.

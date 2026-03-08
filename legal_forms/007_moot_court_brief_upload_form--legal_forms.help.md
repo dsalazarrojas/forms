@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from users about a Moot Court Brief, including its type, title, author, and date of the Moot Court. This form likely serves as a template for users to submit or upload a brief to a Moot Court. To determine its purpose, I considered the label and hint fields. The label "Moot Court Brief" suggests the form is related to a Moot Court, and the hint is not provided, making it harder to infer the purpose. However, the form contains fields like "Brief Type", "Brief Title", "Brief Author", and "File Upload" which suggests it's about a legal document related to a Moot Court. 
-</thinking>
-
 # Moot Court Brief Upload Form - Help Guide
 ## Purpose
 The Moot Court Brief Upload Form is a template to submit or upload a Moot Court Brief to a Moot Court. It is used to collect information about the brief, including its type, title, author, and date of the Moot Court.

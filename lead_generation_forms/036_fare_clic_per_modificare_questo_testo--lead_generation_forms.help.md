@@ -1,11 +1,3 @@
-<thinking>
-This form, "fare_clic_per_modificare_questo_testo", is designed to collect user data for lead generation purposes. The form has a series of fields that require user input, including first name, last name, email, phone number, company name, job title, company website, position, department, team, and job titles for various positions. The form is designed for users who are looking to modify or update their job titles.
-
-The form is likely used by business users who need to create or update job listings in a system, and the data collected will be used for lead generation purposes. Before filling out this form, please make sure that you are only filling out the form once, as duplicate submissions may lead to unnecessary updates.
-
-Please take note that the form has 15 fields in total, and some of them are optional. Please fill in the required fields first before moving on to the optional fields.
-</thinking>
-
 # fare_clic_per_modificare_questo_testo - Help Guide
 ## Purpose
 The "fare_clic_per_modificare_questo_testo" form is designed to collect user data for lead generation purposes. It is used to create or update job listings in a system.

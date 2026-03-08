@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spa Franchise Inquiry Registration Form - Help Guide
 
 ## Purpose

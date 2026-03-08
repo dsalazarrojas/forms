@@ -1,5 +1,3 @@
-<thinking>This form is designed to be used by packaging professionals and researchers to request packaging prototype samples from packaging providers. The form is intended to collect information on the contact details and request specifics of the user. The fields are minimal and straightforward, allowing for a quick and efficient request process. Before proceeding, ensure that you have a clear understanding of the information you wish to provide and that the form is not being duplicated or submitted unnecessarily.</thinking>
-
 # Packaging Prototype Sample Request Form - Help Guide
 ## Purpose
 The Packaging Prototype Sample Request Form is a streamlined tool designed to facilitate the collection of packaging prototype samples from packaging providers. This form is intended for use by packaging professionals and researchers who need to request samples for testing, evaluation, or development purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for the maintenance and inspection of dry type transformers. The form appears to be used for regular inspections and maintenance of dry type transformers, which are critical components in electrical power systems. The fields on this form cover various aspects of the transformer, including its inspection date, condition, and maintenance history. It also includes fields for noting any issues or comments, as well as space for the inspector's signature and contact information. The form is likely to be used by maintenance personnel or inspectors to record and document the status of dry type transformers.
-</thinking>
-
 # Dry Type Transformer Maintenance Checklist - Help Guide
 ## Purpose
 This form is a checklist for the regular maintenance and inspection of dry type transformers. It gathers information on the transformer's condition, maintenance history, and other relevant details.

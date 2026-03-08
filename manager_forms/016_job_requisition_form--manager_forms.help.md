@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about job requisitions, likely for HR or hiring purposes. It seems to be a multi-page form with various types of fields, including text, number, and note types. The purpose of this form is to gather relevant details about a job opening, such as its characteristics and requirements. To determine whether this form is relevant and not duplicated, one would need to consider the existing forms and processes within the organization. For instance, are there similar forms for other types of requests or tasks? Does the information collected in this form align with existing HR procedures?
-</thinking>
-
 # Job Requisition Form - Help Guide
 ## Purpose
 The **Job Requisition Form** is used to collect information about job openings, enabling the organization to manage job requisitions efficiently. Please fill out this form to provide necessary details about the job you are requesting.

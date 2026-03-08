@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for registering a user's information in the Manufacturing Innovation Hub. The purpose of this form is to collect the necessary details from users to facilitate their participation in the hub's activities and events. The form is designed to be completed by users who are interested in exploring and collaborating on innovative ideas and projects within the manufacturing industry.
-
-Before filling out this form, please note that some fields are required to be filled out, while others are optional. This form is not intended to be a duplicate registration process; if you have already registered with the Manufacturing Innovation Hub, please do not fill out this form again.
-
-</thinking>
-
 # Manufacturing Innovation Hub Registration Form - Help Guide
 ## Purpose
 The Manufacturing Innovation Hub Registration Form is designed to collect information from users who are interested in participating in the Manufacturing Innovation Hub's activities and events. This form is necessary to ensure that users can be properly registered and connected with other participants.

@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, I analyzed the form's fields and their corresponding labels. Based on the form's title "Summer School Application Form" and the fields included, it appears that this form is intended for students to apply for a summer school program. The form collects personal information (first name, last name, email, phone), payment information (tuition method, tuition amount, application fee amount), and application details (application date, application time, student name). The form likely serves as an initial step for students to express their interest in the program and provide necessary contact and payment information. It's also possible that this form is used for internal purposes within an organization, such as tracking student applications, so we should check if the form is not a duplicate or if the purpose is the same as another existing form.
-</thinking>
-
 # Summer School Application Form - Help Guide
 ## Purpose
 The Summer School Application Form is a document used by students to apply for a summer school program. The form collects information necessary for the application process, including personal details, payment information, and application dates.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document the discharge of a legal custody arrangement. It is intended for use in situations where a court order or agreement has been established to regulate the rights and responsibilities of parents or guardians with respect to a minor child. The form will be used to provide a clear and formal record of the discharge of this arrangement, including the reason for the discharge, the date of the discharge, and the signatures of the relevant parties involved. This form is typically used in conjunction with other legal documents and proceedings.
-
-</thinking>
-
 # Legal Custody Discharge Form - Help Guide
 ## Purpose
 The purpose of this form is to document the discharge of a legal custody arrangement between parents or guardians of a minor child. This form captures information about the individuals involved, the reason for the discharge, and the formal signature of the discharging parties.

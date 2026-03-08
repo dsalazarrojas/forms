@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure the form's purpose is clear and not duplicating any existing forms. This form is meant to be used for inspecting faucets in residential or commercial buildings. The form is designed to be completed by facility managers, maintenance staff, or others responsible for maintaining building infrastructure. It's essential to understand that this form is a visual inspection checklist used to evaluate the condition and functionality of faucets.
-</thinking>
-
 # Faucet Inspection Checklist - Help Guide
 ## Purpose
 The Faucet Inspection Checklist is a form used to inspect faucets in residential or commercial buildings to evaluate their condition and functionality.

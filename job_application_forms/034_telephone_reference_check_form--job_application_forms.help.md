@@ -1,9 +1,3 @@
-<thinking>
-
-This form, "telephone_reference_check_form", is used to gather contact information for a supervisor or previous employer as part of a job application process. It is a required form that should be completed for every job application. This form is used to verify the information provided by the candidate and to ensure that the candidate's work history is accurate. Please ensure that the form is filled out completely and accurately.
-
-</thinking>
-
 # telephone_reference_check_form - Help Guide
 ## Purpose
 This form is used to gather contact information for a supervisor or previous employer as part of a job application process.

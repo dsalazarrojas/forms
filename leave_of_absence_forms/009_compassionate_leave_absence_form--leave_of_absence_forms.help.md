@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to request a compassionate leave of absence, which is a leave of absence taken due to unexpected or extraordinary events that require the employee's immediate attention and care. This form is used to gather information about the employee's personal situation, their manager's information, and the type of leave requested. It is essential that employees use this form to ensure they are providing the necessary information for their leave to be approved.
-
-Before completing this form, please ensure that you have not already submitted a leave request for the same reason and period of time. If you are unsure, please check with HR or your manager to confirm.
-
-This form is designed to be completed by the employee, and it is crucial that the employee provides accurate and truthful information to ensure that their leave is processed correctly.
-
-If you are experiencing any difficulties while filling out this form, please don't hesitate to reach out to HR or your manager for assistance.
-
-</thinking>
-
 # Compassionate Leave Absence Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be an evaluation tool for an Executive Director, designed to collect feedback on their performance level, evaluation date, and other relevant aspects.
-</thinking>
-
 # Executive Director Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation on the performance of an Executive Director. It is meant to be used by evaluators to provide a structured and concise way to collect their thoughts and opinions on the director's performance.

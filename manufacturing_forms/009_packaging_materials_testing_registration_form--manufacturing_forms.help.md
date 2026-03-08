@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Packaging Materials Testing Registration Form - Help Guide
 ## Purpose
 The Packaging Materials Testing Registration Form is intended for customers to provide their contact and customer information in order to register their packaging materials for testing. The form is used to gather necessary details for the testing process.

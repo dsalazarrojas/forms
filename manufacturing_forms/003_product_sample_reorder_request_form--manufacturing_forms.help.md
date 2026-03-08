@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request a product sample for testing or evaluation purposes. It's essential to fill it out correctly to ensure that your sample request is processed efficiently. Please note that duplicate submissions may be deleted or ignored. Before filling out the form, please ensure that you have not already submitted a request for the same product sample.
-
-</thinking>
-
 # Product Sample Reorder Request Form - Help Guide
 ## Purpose
 This form is used to request a product sample for testing or evaluation purposes.

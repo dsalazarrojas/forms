@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that the form is being used correctly and in a non-duplicative manner, the "Batch Consistency Validation Report Form" is designed to be a comprehensive document that captures essential information for the manufacturing process. This form is intended for quality control checks during production, allowing inspectors to evaluate the quality and consistency of batches of products. By providing a detailed report, this form helps in identifying potential issues and enabling swift corrective actions to be taken. Please complete this form accurately and thoroughly to provide valuable insight into the quality of the batches.
 
 # Batch Consistency Validation Report Form - Help Guide

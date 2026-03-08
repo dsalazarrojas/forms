@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Well Driller Job Application Form - Help Guide
 
 ## Purpose

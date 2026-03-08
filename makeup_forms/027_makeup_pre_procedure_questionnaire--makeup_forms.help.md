@@ -1,13 +1,4 @@
-# <thinking>
-  * This form is for gathering pre-procedure information from users before they receive makeup services.
-  * This form is not meant to be a survey, but rather a collection of questions to get users to know more about their preferences and needs.
-  * Please ensure that you complete this form with accurate and honest information to help us provide the best experience.
-  * If you have any questions or concerns, please contact us.
-  * This form will not be used for any other purpose other than the intended use stated above.
-  * This form is designed to be completed by the user themselves, but if you need help, please contact us.
-</thinking>
-
-# Makeup Pre Procedure Questionnaire - Help Guide
+# # Makeup Pre Procedure Questionnaire - Help Guide
 ## Purpose
 The Makeup Pre Procedure Questionnaire is a form designed to gather information from users before they receive makeup services. This form helps us understand your preferences and needs, ensuring you have the best experience possible.
 

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is for applicants to submit their job application for a Tech Data Analyst position. This form will collect necessary information such as contact details, job preferences, and relevant skills. The form is divided into several sections, and users will need to complete all the required fields. Before proceeding, please review the form carefully to ensure that all required fields are completed accurately and thoroughly.</thinking>
-
 # Tech Data Analyst Job Application Form - Help Guide
 ## Purpose
 The Tech Data Analyst Job Application Form is a collection of fields that require you to provide necessary information about your job application. This form is designed to help our team review your application efficiently and effectively.

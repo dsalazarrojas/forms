@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Advertising Survey Form - Help Guide
 ## Purpose
 The Advertising Survey Form is a tool used to gather information about your advertising needs and preferences. It helps us understand your business goals, target audience, and current advertising strategies, which enables us to provide more effective support and services to help you achieve your marketing objectives.

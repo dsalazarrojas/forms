@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to record the release of a lease agreement. It is intended for use by authorized personnel in a business setting. There is no indication of specific business logic or rules around who can fill out this form, so it appears to be a generic form for any business that needs to record lease agreements.
 
 The form will likely be used by a variety of users, including but not limited to property managers, administrative assistants, and other business staff.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mental_health_treatment_time_off_form - Help Guide
 
 ## Purpose

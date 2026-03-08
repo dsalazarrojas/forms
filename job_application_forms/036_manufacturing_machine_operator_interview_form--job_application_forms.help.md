@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from candidates for the role of Manufacturing Machine Operator. The form aims to collect data on the candidate's contact details, employment status, availability, education level, and relevant work experience. This information will help the hiring team to assess the candidate's fit for the position and streamline the interview process.
-
-</thinking>
-
 # Manufacturing Machine Operator Interview Form - Help Guide
 
 ## Purpose

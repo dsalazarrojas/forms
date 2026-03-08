@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about supply requests from army personnel. It will help to determine the urgency and priority of the requests, and to allocate resources accordingly.
-The form should only be filled out once for each request, and the information should be accurate and complete.
-</thinking>
-
 # Army Supply Request Form - Help Guide
 ## Purpose
 The Army Supply Request Form is used to collect information about supply requests from army personnel, allowing for efficient allocation of resources and prioritization of requests.

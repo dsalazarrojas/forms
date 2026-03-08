@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # corporate_governance_evaluation_request_form - Help Guide
 ## Purpose
 This form is for submitting a review request for corporate governance evaluation. This form is intended to gather information from employees or teams within the organization to assess whether a review is necessary.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a payment processing referral form used to capture information about a referral, including the referral source, partner or contact information, payment type, and submission details. The form likely serves as a tool for tracking and managing referrals, and its fields may be used to generate reports or update databases. Before proceeding, ensure you are using this form for its intended purpose and not duplicating efforts. 
-
-</thinking>
-
 # Payment Processing Referral Form - Help Guide
 ## Purpose
 This form is used to collect information about a referral for payment processing purposes.

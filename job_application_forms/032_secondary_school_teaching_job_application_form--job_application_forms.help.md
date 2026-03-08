@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from secondary school teachers applying for a teaching position. This form will help the applicant provide their personal details, teaching experience, education background, and other relevant information. It is essential to ensure that the applicant's qualifications and experience align with the school's needs and requirements. Before filling out this form, ensure that you have reviewed the school's job description and requirements to understand what qualifications and experience the school is looking for. This form should not be submitted if you are not applying for a teaching position at this school.
-</thinking>
-
 # Secondary School Teaching Job Application Form - Help Guide
 ## Purpose
 The Secondary School Teaching Job Application Form is designed to collect information from secondary school teachers applying for a teaching position at the school.

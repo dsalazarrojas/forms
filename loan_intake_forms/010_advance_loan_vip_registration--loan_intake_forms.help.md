@@ -1,7 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Advance Loan VIP Registration" form, which collects personal and financial information from users to determine their eligibility for a loan. This form is designed to streamline the loan application process, ensuring that users provide all necessary details to facilitate a smooth and efficient loan application process. To avoid duplication, we will check for existing users before processing a new application.
-
-</thinking>
 # Advance Loan VIP Registration - Help Guide
 ## Purpose
 The Advance Loan VIP Registration form is designed to collect personal and financial information from users to determine their eligibility for a loan. By providing accurate and complete information, users can expedite the loan application process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # find-a-trusted-real-estate-agent - Help Guide
 
 ## Purpose

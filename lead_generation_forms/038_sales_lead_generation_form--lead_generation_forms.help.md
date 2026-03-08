@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect sales lead information from potential customers, which will help the sales team to follow up on the lead and close deals. This form should not be used for internal purposes only, so please ensure that you're filling it out with genuine lead data. Also, please be aware that duplicate leads from the same company will not be stored for longer than a month, so please fill it out only once per company.
-
-</thinking>
-
 # Sales Lead Generation Form - Help Guide
 ## Purpose
 The Sales Lead Generation Form is a tool designed to collect valuable contact information from potential customers, helping the sales team to identify and pursue new sales opportunities.

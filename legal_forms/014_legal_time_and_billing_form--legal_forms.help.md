@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: The "legal-time-and-billing-form" is designed to facilitate the collection of legal time and billing information from attorneys. This form is likely intended for internal use within law firms to track attorney time spent on various tasks and billing hours to clients.
-</thinking>
-
 # legal-time-and-billing-form - Help Guide
 ## Purpose
 The "legal-time-and-billing-form" is a comprehensive form designed to help law firms efficiently collect and track attorney time spent on various tasks and bill clients accurately. This form is intended to be completed by attorneys to record their time spent on tasks, including client meetings, document review, and other legal-related activities.

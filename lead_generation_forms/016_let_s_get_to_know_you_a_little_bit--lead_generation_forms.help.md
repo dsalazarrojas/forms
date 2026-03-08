@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information about a person or business, likely for marketing or sales purposes. The form fields cover various aspects of the person or business, including their home address, name, business type, experience, contact information, and social media presence. The fields are not all required, allowing the user to skip sections they're not comfortable providing information on. 
 
 # Lets_Get_To_Know_You_A_Little_Bit - Help Guide

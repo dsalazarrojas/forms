@@ -1,13 +1,3 @@
-<thinking>
-
-To create a help guide for the "unclaimed funds search form", we must first understand the purpose of this form. This form is designed to gather information from customers or individuals searching for unclaimed funds that may be owed to them. The form is likely used by a financial institution or government agency responsible for handling unclaimed property and assets.
-
-The form is likely used to verify a person's identity and gather details about their search for unclaimed funds, allowing the institution to efficiently process and respond to their request. The form may also serve as a means to communicate with the customer, providing updates on the status of their search.
-
-Before proceeding, please ensure you have not submitted a similar search request recently. This will help prevent duplicate searches and save processing time.
-
-</thinking>
-
 # unclaimed funds search form - Help Guide
 ## Purpose
 The unclaimed funds search form is a tool for customers or individuals to provide information about their search for unclaimed funds. This form helps the financial institution or government agency process and respond to search requests efficiently.

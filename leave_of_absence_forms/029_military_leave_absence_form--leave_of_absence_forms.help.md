@@ -1,7 +1,3 @@
-<thinking>
-We need to confirm that this form is being used correctly to process leave requests for military personnel in the company. This form is intended to gather all necessary information for leave approval, including the employee's name, reason for leave, dates of absence, duration of leave, type of military leave, leave approver, military unit, military unit address (if required), and leave requester. To avoid confusion, we should ensure that the form is filled out accurately and thoroughly, and that all required fields are completed before submitting the form.
-</thinking>
-
 # Military Leave Absence Form - Help Guide
 ## Purpose
 This form is used to process leave requests for military personnel in the company. It gathers information needed for leave approval, including employee details, leave dates, duration, type, and other relevant details.

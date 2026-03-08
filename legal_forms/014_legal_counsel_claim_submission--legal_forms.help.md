@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for submission of legal claims to the legal counsel. It is intended for claimants, defendants, or attorneys to provide information and supporting documents for legal proceedings. Please note that this form is not meant for general information gathering or casual use; it is a formal document meant for official purposes. The form is designed to be completed by the relevant party (claimant, defendant, or attorney) and is not intended to be used for general information gathering or casual use.
-</thinking>
-
 # Legal Counsel Claim Submission - Help Guide
 ## Purpose
 The Legal Counsel Claim Submission form is a formal document used for submission of claims to the legal counsel. It is intended for claimants, defendants, or attorneys to provide necessary information and supporting documents for official purposes.

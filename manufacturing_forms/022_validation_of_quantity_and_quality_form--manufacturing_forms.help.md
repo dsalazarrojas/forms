@@ -1,24 +1,3 @@
-<thinking>
-The Validation Of Quantity And Quality Form is used to record and verify the quantity and quality of items received from suppliers or manufacturers. This form is designed to ensure accuracy and transparency in the receiving process.
-
-When filling out this form, please follow these steps:
-
-1. Enter the item details, including its description, category, item type, and subcategory.
-2. Record the quantity received, which is the actual amount of items received from the supplier or manufacturer.
-3. Enter the quantity expected, which is the amount of items that was expected to be received.
-4. Calculate the quantity difference, which is the difference between the quantity received and the quantity expected.
-5. Rate the quality of the received item using the quality rating scale (4, 4.5, or 5).
-6. Provide any additional quality rating notes if necessary.
-7. Record the date and time the item was received.
-8. Record the name of the person who received the item.
-9. Attach any supporting evidence, such as receipts or documents, that can be used to verify the quantity and quality of the received item.
-10. Record the unit of measurement for the quantity received and quantity expected.
-11. Enter any additional notes about the item.
-12. If the quantity received is verified, record the vendor who verified it.
-13. If the serial number is verified, record the name of the person who verified it.
-
-Please note that this form does not require all fields to be filled out, only those that are necessary for the specific item and situation.</thinking>
-
 # Validation Of Quantity And Quality Form - Help Guide
 ## Purpose
 This form is used to record and verify the quantity and quality of items received from suppliers or manufacturers.

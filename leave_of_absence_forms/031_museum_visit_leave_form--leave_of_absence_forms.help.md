@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "museum_visit_leave_form" is used to submit a leave request for a museum visit. The form is used to provide information about the user's visit to the museum, such as the date, time, and museum name, as well as their team's name and the manager's approval status. The form is not intended for repeated or duplicate submissions, so please make sure to fill it out only once for each museum visit. Please be accurate and complete in your submission to avoid any issues with your leave request.
 
 # museum_visit_leave_form - Help Guide

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from prospective franchises about their business and lead generation needs. The purpose of this form is to help us better understand the business and understand how to assist them in their lead generation efforts.
-This form will help us to collect information about:
-* The user's business name, email, phone, and address
-* The user's preferred contact method and best time to contact
-* The type of lead source (e.g. Google, social media)
-* The location of their business (physical or online)
-* The type of franchise (e.g. fast food, grocery)
-
-We will not process any duplicate or incomplete submissions.
-</thinking>
-
 # Franchise Drop Shipping Inquiry - Help Guide
 ## Purpose
 The Franchise Drop Shipping Inquiry form is a tool for us to better understand your business needs and provide more effective lead generation support.

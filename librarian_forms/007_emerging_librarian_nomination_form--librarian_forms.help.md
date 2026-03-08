@@ -1,9 +1,3 @@
-<thinking>
-The Emerging Librarian Nomination Form is designed to allow users to nominate librarians who are making significant contributions to the field. This form is typically used by nominators to submit nominations for librarians who have demonstrated exceptional service, leadership, or innovation. 
-The form is used to collect information about the nominee, the nominator, and other supporting documentation. This information will be used to evaluate the nominee's qualifications and determine whether they meet the criteria for a prestigious award or recognition.
-Please ensure that you only submit a nomination for a librarian who is not already being recognized for the same achievement. Duplicate submissions will not be considered.
-</thinking>
-
 # Emerging Librarian Nomination Form - Help Guide
 ## Purpose
 The Emerging Librarian Nomination Form is used to collect information about librarians who are making significant contributions to the field.

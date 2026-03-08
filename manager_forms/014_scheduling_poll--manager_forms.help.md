@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect scheduling information for an event or poll, allowing users to input details about start and end times, locations, and other relevant specifics.
 
 To ensure that this form serves its intended purpose, I have reviewed the YAML schema to confirm that it does indeed contain the necessary fields for an event or poll schedule.

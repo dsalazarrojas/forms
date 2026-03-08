@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Loan Application Intake Form - Help Guide
 
 ## Purpose

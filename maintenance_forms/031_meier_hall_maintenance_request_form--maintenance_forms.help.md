@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for maintenance requests related to Meier Hall, a specific facility on campus. The form's purpose is to gather information from users regarding any issues or concerns they have with the hall's maintenance. The form will be used to track and address these issues in an organized and efficient manner. Before proceeding, ensure that this form is not a duplicate submission, and that you have not already reported the issue through other channels. This form is not intended for emergency situations that require immediate attention; in such cases, please contact the facility management directly.
-</thinking>
-
 # Meier Hall Maintenance Request Form - Help Guide
 ## Purpose
 The Meier Hall Maintenance Request Form is designed to collect information about maintenance requests related to Meier Hall. Fill out this form to notify maintenance personnel of any issues or concerns you have about the hall.

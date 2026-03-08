@@ -1,5 +1,3 @@
-<thinking>Before creating this guide, we must first determine the purpose of the "visual_communication_expert_hiring_application" form. This form is likely used for job applicants to provide information about their contact details, work experience, portfolio, and other relevant information as part of a hiring process. This is a typical scenario in many recruitment processes where employers gather data on potential candidates. It's essential to verify that the form is being used for its intended purpose and not duplicated elsewhere in your workflow.</thinking>
-
 # visual_communication_expert_hiring_application - Help Guide
 ## Purpose
 This form is designed for job applicants to provide their contact details, portfolio, and other relevant information as part of the hiring process for a visual communication expert position.

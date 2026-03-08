@@ -1,28 +1,3 @@
-<thinking>
-This form is designed to allow customers to submit a fast line service request, providing essential information for processing and prioritizing their service requests. The form collects customer information, service request details, and other relevant data to facilitate swift and efficient service delivery. It is intended for use by a team or organization responsible for handling these requests.
-
-This form does not duplicate any existing forms, but rather serves as a unique adaptation of the original survey topic metadata.
-
-The form consists of the following fields:
-- Fast Line Service Request Form
-- Customer Information
-- Service Request Information
-- Contact Method
-- Contact Number
-- Email Address
-- Service Location
-- Problem Description
-- Service Request Date
-- Assigned Date
-- Priority
-- Assigned To
-- Comments
-- Attachments
-
-The "Fast Line Service Request" form is a critical component of the service request process. This guide will walk you through the fields, their purpose, and how to complete them effectively.
-
-</thinking>
-
 # Fast Line Service Request - Help Guide
 ## Purpose
 The Fast Line Service Request form is used to collect essential information from customers for efficient service delivery.

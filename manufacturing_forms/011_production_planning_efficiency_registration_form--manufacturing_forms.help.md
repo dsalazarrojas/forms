@@ -1,28 +1,3 @@
-<thinking>
-This form is designed to collect information about production planning efficiency from manufacturing team members. It is intended for use by team leads and other stakeholders to assess the production planning process and identify areas for improvement. This form is not intended for external use and is only accessible to authorized personnel. Please ensure that you have the necessary permissions and access rights before completing this form.
-
-To confirm that you have the necessary access rights and permissions, please verify that you have a valid login credentials and are logged in to the system.
-
-If you are unsure about any of the fields or the purpose of the form, please contact your supervisor or the production planning team for clarification.
-
-The form consists of [insert number] pages and requires [insert number] fields to be completed.
-
-Please complete the form accurately and thoroughly to ensure that the data collected is reliable and usable for production planning improvements.
-
-Please note that the data collected through this form will be used for internal purposes only and will not be shared or disclosed to external parties.
-
-Please be aware that this form is a [insert type of form, e.g., survey, assessment, or evaluation] form and is subject to [insert any specific regulations or guidelines].
-
-Before proceeding, please review the fields below to understand their purpose and requirements.
-
-Please be aware that some fields are required and others are optional. Required fields are marked as [insert label for required fields, e.g., "Required: *"].
-
-Please use the provided instructions for each field to ensure accurate completion.
-
-The fields are categorized into [insert categories, e.g., Production Planning, Production Process, and Comments].
-
-</thinking>
-
 # production_planning_efficiency_registration_form - Help Guide
 
 ## Purpose

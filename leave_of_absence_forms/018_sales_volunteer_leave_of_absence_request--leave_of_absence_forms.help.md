@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be for a sales volunteer to request a leave of absence from their work. The form is intended to collect information necessary to process and approve or decline the leave request. This form is likely to be used by sales volunteers who need to take time off for various reasons, such as family or personal reasons. 
-
-To determine if this form is relevant, check if the individual is a sales volunteer who needs to take a leave of absence. If the leave request is for a volunteer who is not a sales volunteer, this form is not applicable.
-
-To ensure no duplication of effort, check if a leave request from this individual is already in progress or has been already approved or declined.
-</thinking>
-
 # Sales Volunteer Leave Of Absence Request - Help Guide
 ## Purpose
 The Sales Volunteer Leave of Absence Request form is designed to allow sales volunteers to submit their leave requests. This form is used to gather information necessary to process the request, which may include the start and end dates of the leave, the reason for the leave, and other relevant details.

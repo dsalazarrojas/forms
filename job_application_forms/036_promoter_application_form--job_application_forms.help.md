@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be designed for a job application process, specifically for individuals interested in promotion roles. The form aims to collect information about the applicant's personal details, job goals, and promotional strategy. It includes fields for the applicant's name, email, phone, company name, job title, role, job description, experience, promotion goals, event type, target audience, promotion channels, promotion methods, and the reasons for promoting. The form seems to be targeting a general audience, as it doesn't specify a particular job position or company. To ensure the form serves its intended purpose, it's essential to complete each field accurately and thoroughly. This guide will walk you through each field, explaining its purpose and how to fill it out correctly.</thinking>
-
 # promoter_application_form - Help Guide
 ## Purpose
 The promoter application form is designed to collect information from individuals interested in promotion roles. This form will help us understand your qualifications, goals, and strategies for promotion.

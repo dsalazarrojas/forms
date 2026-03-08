@@ -1,10 +1,3 @@
-<thinking>
-This form template is designed to collect information from potential applicants for a Budget Analyst position. The form's purpose is to gather essential details about the candidate's background, experience, and qualifications. This includes fields such as full name, email address, phone number, current location, willingness to relocate, desired employment type, years of budget analysis experience, education level, field of study or major, relevant certifications, financial software and tools experience, professional summary, key skills, previous employers and positions, salary expectations, availability start date, references contact information, and whether a resume or CV is attached.
-
-Before you start, please ensure that the fields you're completing are relevant to your application. Some fields may be marked as optional, but filling them out can provide valuable context for your application. Please note that you can save your progress and continue later if needed.
-
-</thinking>
-
 # Budget Analyst Job Application Form Template - Help Guide
 ## Purpose
 This form is designed to collect essential information from potential applicants for a Budget Analyst position.

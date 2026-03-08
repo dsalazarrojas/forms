@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help us get to know you better and assess your qualifications for the Chief Technology Officer (CTO) position. Please fill out this form carefully, and do not worry if you have gaps in your experience. We will review your submission and get in touch with you if we have further questions.
-
-Before starting, make sure you have reviewed the form carefully and that you understand what each field is asking for. If you have any questions or need clarification on any of the fields, feel free to ask us.
-
-</thinking>
-
 # Chief Technology Officer Job Application Form Template - Help Guide
 ## Purpose
 This form is designed to help us assess your qualifications for the Chief Technology Officer position.

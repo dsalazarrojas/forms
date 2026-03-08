@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect Frequently Asked Questions (FAQs) submissions from students, parents, teachers, and staff members. The form ensures that each submission is properly attributed and that the submitter's role and school affiliation is correctly captured. The purpose of this form is to provide a clear and consistent channel for gathering questions and answers that can be shared with the community.
-</thinking>
-
 # Children FAQ Submission Form - Help Guide
 ## Purpose
 The Children FAQ Submission Form is a tool for students, parents, teachers, and staff members to submit questions related to various topics in a school setting. The form helps the school community to gather, organize, and share knowledge on a wide range of subjects.

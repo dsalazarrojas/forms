@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback on common mistakes that occur during the defense process, with the ultimate goal of helping to improve the overall defense system. Before proceeding, please verify that this form is relevant to your specific situation and that you haven't already submitted a similar form. This will ensure that your input contributes to the most valuable insights and prevents duplication of effort. 
-</thinking>
-
 # criminal-defense-mistakes-survey - Help Guide
 ## Purpose
 The "Criminal Defense Mistakes Survey" is a form designed to gather information about common mistakes that occur during the defense process. This feedback will help improve the overall defense system and prevent similar mistakes from happening in the future.

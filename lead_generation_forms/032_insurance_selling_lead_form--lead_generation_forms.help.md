@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are interested in purchasing insurance. The goal is to gather relevant details about the customer, such as their name, contact information, and insurance preferences. This form will help us understand their needs and provide personalized assistance.
-
-The form is divided into several sections, each with its own set of fields. To ensure that we capture accurate and complete information, it's essential to fill out the form carefully and thoroughly.
-
-Before proceeding, please note that this form is not intended for existing customers or those who have already interacted with our insurance agents. If you're an existing customer, please contact your agent directly for assistance.
-
-</thinking>
-
 # Insurance Selling Lead Form - Help Guide
 ## Purpose
 The Insurance Selling Lead Form is designed to collect information from customers interested in purchasing insurance. This form helps us understand their preferences and needs to provide personalized assistance.

@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Workplace Change Update Form" that explains its purpose, how to complete it, and what each field means. The form is designed to update employee information, specifically changes in management structure within the workplace. It is intended for employees to submit updates about changes in their current or new manager, location, department, and other relevant details. 
-The form should only be filled out if there has been a change in the workplace, such as a new manager, department, or location. This prevents unnecessary updates and minimizes form clutter. 
-Please provide a clear, concise, and practical guide for the end-users.
-
-</thinking>
-
 # Workplace Change Update Form - Help Guide
 ## Purpose
 This form is used to report changes in the workplace management structure, such as changes in a manager or department. Please fill out this form only if there has been a change in your current or new manager, location, or department.

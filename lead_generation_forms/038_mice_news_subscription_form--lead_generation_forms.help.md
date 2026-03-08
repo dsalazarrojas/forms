@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The MICE News Subscription Form is designed to collect subscriber information and preferences for the MICE News newsletter. The form is used to gather data on who wants to receive news updates and what type of news they are interested in. This form will be used to generate leads for further communication with potential subscribers.
 
 # MICE News Subscription Form - Help Guide

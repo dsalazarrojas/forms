@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to guide the user through the onboarding process with our CRM consulting services. It's crucial that the user fills out this form correctly to ensure a smooth and effective onboarding process. 
-
-When filling out this form, please note that the form will be used to understand your company's current CRM usage and future plans, so please provide accurate and concrete information.
-
-To avoid duplication of effort, please make sure to only fill out this form once.
-
-</thinking>
-
 # CRM Onboarding Consulting Intake Form - Help Guide
 ## Purpose
 The CRM Onboarding Consulting Intake Form is designed to gather essential information about your company to provide tailored CRM consulting services. By filling out this form, you will be helping our team understand your company's needs and prepare for a successful onboarding process.

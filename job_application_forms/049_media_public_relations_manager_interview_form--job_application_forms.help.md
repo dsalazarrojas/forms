@@ -1,15 +1,3 @@
-<thinking>
-The Media Public Relations Manager Interview Form is designed to collect information from candidates applying for PR positions within an organization. This form aims to gather data about the candidate's background, experience, and qualifications. It's essential to fill out this form accurately to ensure that the candidate's application is complete and considered for further evaluation.
-
-Before filling out this form, make sure you have all the necessary information ready. The form is designed to be completed in a few stages:
-
-1.  The Job Application Form collects general details about the candidate's job application.
-2.  The Written Interview Responses section is for providing answers to any questions that were asked during the interview.
-3.  The PR Candidate Details section is for sharing personal details about the candidate.
-4.  The rest of the form collects specific job-related information such as job title, job description, job level, and job status.
-
-</thinking>
-
 # Media Public Relations Manager Interview Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to facilitate the legislative process by providing a standardized template for requesting access to government information, services, or resources. The form is designed to guide the requestor through the process of submitting a formal request, ensuring that all necessary information is provided. It is meant to be used by government agencies, law offices, and advocacy groups to streamline their response to public requests.
-Please ensure that you are only filling out this form for legitimate purposes and not to spam or harass the agencies. If you are unsure of the form's purpose or have any questions, please reach out to the agency's contact information.
-Before filling out this form, please make sure you have all the required information and supporting documents ready. This will save time and reduce the risk of errors in your request.
-</thinking>
-
 # Legislative Request Form Template - Help Guide
 ## Purpose
 The Legislative Request Form is designed to be a standardized template for requesting access to government information, services, or resources. It helps guide the requestor through the process of submitting a formal request.

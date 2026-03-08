@@ -1,10 +1,3 @@
-<thinking>
-This form is a tool for tracking and evaluating marketing efforts, providing an overview of the marketing strategies and their effectiveness. It appears to be a survey form, and the purpose is likely to gather information about marketing efforts, including marketing goals, strategies, and their outcomes. This form might be used by marketing professionals or teams to assess their performance, identify areas of improvement, and measure the success of their marketing strategies. It is possible that this form is used as a template for regular reviews, allowing teams to monitor their progress over time.
-
-This guide will help users fill out the form correctly and provide clarity on each field's purpose and requirements.
-
-</thinking>
-
 # Marketing Efforts Survey - Help Guide
 
 ## Purpose

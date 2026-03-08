@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to enter their information for a projector rental agreement. The form's purpose is to collect necessary details such as customer name, email, rental dates, and rental terms. This form is not meant to be used for any other purpose. This form has 10 fields and all of them are optional.
-</thinking>
-
 # Projector Rental Agreement Form - Help Guide
 ## Purpose
 This form is for customers to enter their details for a projector rental agreement.

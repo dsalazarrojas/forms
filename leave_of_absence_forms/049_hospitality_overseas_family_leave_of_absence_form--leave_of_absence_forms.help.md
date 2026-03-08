@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to handle a request for a leave of absence for an employee who is part of a hospitality overseas team. The form captures details of the employee's leave, such as the reason for the leave, dates of absence, and other relevant information. This form is typically filled out by the employee requesting the leave and may require approval from a manager. 
-The form should only be used for overseas employees.
-</thinking>
-
 # Hospitality Overseas Family Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used to request a leave of absence for an employee who is part of a hospitality overseas team. It captures necessary details to facilitate the request and approval process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to generate leads for kitchen remodeling projects. The form will be used by potential customers to provide information about their project, such as their name, contact method, and project details. The form is intended to be completed by potential customers who are interested in remodeling their kitchen and are looking for a contractor to help them with the project. The form will be used to capture information about the customer's project, including their name, email, phone number, service type, location, budget, and preferred contact method. This information will be used to follow up with the customer and provide them with quotes and estimates for their project.
-</thinking>
-
 # Kitchen Remodeling Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to generate leads for kitchen remodeling projects. It captures information from potential customers who are interested in remodeling their kitchen and are looking for a contractor to help them with the project.

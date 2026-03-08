@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the cleanliness and safety of a gym facility. This form is meant to be completed by gym staff or management to report on the state of various aspects of the gym, including equipment, floors and carpets, bathrooms, trash and recycling, locker rooms, showers, mirrors and shelving, windows and doors, safety equipment, emergency exit routes, first aid kits, fire extinguishers, safety harnesses, exit signs, fire alarms, first aid, emergency exit, other safety equipment, cleanliness standards, other first aid kits, cleanliness standards notes, safety equipment notes, cleanliness stars, and cleanliness comments. The form is not meant to be filled out by the general public. Each field is designed to collect specific information and should be completed accordingly. This form is not a substitute for the actual inspection of the gym by a trained professional.
-</thinking>
-
 # Gym Cleaning Checklist - Help Guide
 ## Purpose
 The Gym Cleaning Checklist is a form used by gym staff or management to report on the cleanliness and safety of various aspects of the gym facility.

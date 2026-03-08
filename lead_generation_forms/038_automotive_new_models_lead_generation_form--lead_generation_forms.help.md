@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Automotive New Models Lead Generation Form - Help Guide
 
 ## Purpose

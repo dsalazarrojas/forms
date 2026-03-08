@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Direct Sales Lead Form, we need to ensure that end-users understand the form's purpose, how to complete it, and what each field means.
-
-The purpose of this form is to collect information about leads, which can be used to track and manage sales leads in a systematic and organized way. This form is designed to be completed by sales teams, account managers, or other relevant stakeholders to record key details about leads.
-
-Before starting to complete the form, it's essential to review the form's fields carefully to ensure that you're providing accurate and relevant information. If you're unsure about any field, please don't hesitate to reach out to your team lead or the support team for clarification.
-
-</thinking>
 # Direct Sales Lead Form - Help Guide
 ## Purpose
 The Direct Sales Lead Form is used to collect and manage information about sales leads. This form is designed to be completed by sales teams, account managers, or other relevant stakeholders to record key details about leads.

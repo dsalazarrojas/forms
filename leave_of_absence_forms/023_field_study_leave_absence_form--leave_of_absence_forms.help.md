@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Field Study Leave Absence Form - Help Guide
 ## Purpose
 The Field Study Leave Absence Form is used to notify the University of a student's field study or absence. This form is required to be completed by students to inform the University about their planned absence or field study, which is crucial for the student's academic and personal well-being. 

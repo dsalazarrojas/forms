@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to help marketers create proposals for potential projects and clients. This form is not intended for internal use, so please only fill it out if you are a marketer looking to request a project proposal. This form will help us gather essential information about your project and proposal details. Please fill out this form carefully and accurately to ensure we can create a comprehensive proposal for you.
-</thinking>
-
 # Request For Proposal Form - Help Guide
 
 ## Purpose

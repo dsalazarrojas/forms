@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <details>
   <summary>Form Purpose: This form is used for companies to submit their project proposals to the Packaging Prototype Program. The program aims to support innovation and research in the field of packaging. The form is divided into several sections that require information about the company, project, and project details. Submitters should ensure that all required fields are filled out accurately and completely.</summary>
 </details>

@@ -1,5 +1,3 @@
-<thinking>This form is a lead generation form for boarding, likely used in the hospitality industry to collect information from clients or customers. It is a long form with many pages, each with text fields. The form seems to be designed to collect a wide range of information, but the exact purpose and fields are not explicitly clear. It is possible that this form is intended for a specific business or use case that is not evident from the provided YAML.</thinking>
-
 # lead_generation_on_boarding_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers or clients for lead generation purposes, likely in the hospitality industry. The form has multiple pages with text fields, which may be used to collect contact information, preferences, or other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to assist users in understanding the Smart Manufacturing Hub Equipment Order Form. This form is designed to collect information about equipment orders for the Smart Manufacturing Hub. It is crucial to ensure that the user provides accurate information, as it will be used for order processing and communication with the customer.
 
 To complete this form, follow these steps:

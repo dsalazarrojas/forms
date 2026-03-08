@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect passport information and participant details for STEM trips. It is intended for use by travelers and trip organizers to gather necessary data in a concise and efficient manner. This form does not replicate any existing form platform and is an original adaptation of public metadata. It is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, with proper credit given.
-</thinking>
-
 # stem_trip_passport_information - Help Guide
 ## Purpose
 The "stem_trip_passport_information" form is designed to collect critical information from travelers and trip participants. This form is meant to be used for organizational purposes to streamline the collection of data necessary for trip management.

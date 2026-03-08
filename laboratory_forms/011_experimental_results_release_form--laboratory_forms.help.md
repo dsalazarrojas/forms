@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to release experimental results to a designated recipient. It's designed for internal use within the laboratory setting, where researchers may need to share results with specific individuals or teams. To complete this form, you'll need to provide necessary details about the recipient, the results, and confirm your identity.
-
-Before filling out the form, make sure to check that you're not duplicating an existing request. If you're unsure, double-check the internal system to see if someone has already submitted a similar request.
-
-Now, let's break down each field in this form:
-
-</thinking>
-
 # experimental_results_release_form - Help Guide
 ## Purpose
 The experimental results release form is a tool for laboratory personnel to share experimental results with designated recipients.

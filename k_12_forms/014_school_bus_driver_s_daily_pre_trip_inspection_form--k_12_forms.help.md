@@ -1,12 +1,3 @@
-<thinking>
-The School Bus Drivers Daily Pre-Trip Inspection Form is designed to help school bus drivers ensure that their vehicle is in proper condition before embarking on a trip. This form is intended for use by school bus drivers to report the status of their vehicle and identify any potential issues that may impact the safety and efficiency of the trip. It's essential to fill out this form accurately and completely to help maintain the highest standards of safety and efficiency for students and school districts.
-
-The form is not meant to be a one-time task; it should be completed daily as part of routine pre-trip procedures. Drivers should review each field carefully and answer truthfully to help maintain accurate records and facilitate better decision-making.
-
-Before beginning the form, ensure you have all necessary documents and equipment readily available. This may include vehicle registration, driver's license, and any relevant safety gear. 
-
-</thinking>
-
 # School Bus Drivers Daily Pre Trip Inspection Form - Help Guide
 
 ## Purpose

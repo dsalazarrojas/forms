@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Service Communication Skills Employment Form - Help Guide
 
 ## Purpose

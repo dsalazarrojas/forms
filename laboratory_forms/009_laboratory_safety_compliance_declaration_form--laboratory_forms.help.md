@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Laboratory Safety Compliance Declaration Form, let's first break down the form's purpose and internal logic.
-
-The main purpose of this form is to collect information about the laboratory's safety compliance, including declaration of safety rules, emergency contact, and other relevant details. This form is likely used by laboratory staff or personnel to report their compliance with laboratory safety rules and procedures, and to provide emergency contact information in case of a situation.
-
-The form has multiple pages with various input fields, including date, email, text fields (emergency contact and laboratory safety compliance declaration form 6), number fields (laboratory safety compliance declaration form 4 and 5), and time (laboratory safety compliance declaration form 6), as well as select options for laboratory safety compliance declaration form (laboratory safety compliance declaration form) and multiple select options (laboratory safety compliance declaration form 2).
-
-The form is not strictly required, which may indicate that it's not a mandatory form or it might have been designed for voluntary submission. However, laboratory safety compliance declaration form 5, which is a number field, is required, which could imply that it's a crucial field for the lab's safety compliance.
-
-</thinking>
-
 # Laboratory Safety Compliance Declaration Form - Help Guide
 ## Purpose
 The Laboratory Safety Compliance Declaration Form is used to collect information about the laboratory's safety compliance, including declaration of safety rules, emergency contact, and other relevant details.

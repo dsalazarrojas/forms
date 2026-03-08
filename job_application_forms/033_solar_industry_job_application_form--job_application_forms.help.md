@@ -1,35 +1,3 @@
-<thinking>
-
-This form is designed to gather information from individuals in the solar industry who are interested in applying for various job opportunities. The form asks for contact information, job-specific details, education, and demographic information to better understand the applicant's background and fit for potential job openings. The form includes a mix of required and optional fields, allowing users to provide as much or as little information as necessary. 
-
-To fill out this form, follow these steps:
-
-1. Select the type of contact (Primary, Secondary, or Other) that best describes your relationship with the solar industry.
-2. Enter your email address.
-3. Enter your phone number.
-4. Enter your job title.
-5. Enter the name of the company you are currently working with or have previously worked with.
-6. Specify the length of your job duration in the solar industry.
-7. Write a brief description of your job responsibilities and experiences.
-8. Enter the name of the institution where you studied.
-9. Mention the field of study you are familiar with.
-10. Enter your graduation year.
-11. Select your highest level of education attained.
-12. Enter your name.
-13. Enter your home address.
-14. Select your nationality.
-15. Enter your date of birth in the format MM/DD/YYYY.
-16. Select one or multiple gender identities that apply to you.
-17. Indicate whether you are currently employed or looking for employment.
-18. Select the type of employment you are looking for (Full Time, Part Time, or Freelance).
-19. Indicate your job status and select one or multiple job types that apply to you.
-20. Upload a resume that highlights your qualifications and experiences.
-21. Upload a cover letter that explains your interest in the solar industry and the job opportunities available.
-22. Provide references that can speak to your work experience and qualifications.
-23. Add any relevant portfolio or work samples that showcase your expertise.
-
-</thinking>
-
 # Solar Industry Job Application Form - Help Guide
 ## Purpose
 This guide is designed to walk you through the Solar Industry Job Application Form, which is used to collect information from individuals interested in job opportunities in the solar industry. 

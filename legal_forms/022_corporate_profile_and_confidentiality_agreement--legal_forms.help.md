@@ -1,5 +1,3 @@
-<thinking>... This form is intended for companies to provide their profile information and indicate their willingness to keep the provided data confidential. It ensures that the company has a clear understanding of what information can be shared publicly and what should remain private. By providing this form, companies can demonstrate their commitment to data privacy and security... </thinking>
-
 # Corporate Profile And Confidentiality Agreement - Help Guide
 ## Purpose
 The Corporate Profile And Confidentiality Agreement form is a document that collects information about a company's profile and its willingness to keep the provided data confidential. This form is designed to help companies establish clear guidelines on what information can be shared publicly and what should remain private.

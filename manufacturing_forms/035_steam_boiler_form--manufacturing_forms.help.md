@@ -1,15 +1,3 @@
-<thinking>
-This form is likely used for tracking and reporting the status of steam boilers in a manufacturing context. It may be used by operations teams, maintenance teams, or supervisors to ensure that boilers are properly maintained and functioning correctly. The form should not be duplicated for each boiler, and only one instance should be filled out per boiler.
-
-Given the provided YAML, the form has four fields that need to be filled out:
-- General information about the boiler, including its operational status.
-- Maintenance schedule, including frequency of maintenance.
-- Inspection results, including whether the boiler passed, failed, or is pending.
-- Maintenance records, including any notes or comments about the maintenance work done.
-
-The form is likely used for reporting and tracking boiler performance, and may be integrated with other systems for further analysis and decision-making.
-</thinking>
-
 # Steam Boiler Form - Help Guide
 ## Purpose
 This form is used to track and report the status of steam boilers in a manufacturing context, including their operational status, maintenance schedule, inspection results, and maintenance records.

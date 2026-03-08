@@ -1,9 +1,3 @@
-<thinking>
-This form is used to document the termination of a contract between an employee and an employer. It's a general-purpose form that can be used in various legal contexts, such as employment law, business disputes, or contract negotiations. Before filling out this form, please ensure that you're not duplicating efforts and that you're using it for its intended purpose. Review the form fields carefully to ensure you're capturing all necessary information.
-
-The form has multiple pages, but most fields are self-explanatory. If you're unsure about a specific field, refer to this guide for clarification.
-</thinking>
-
 # Termination For Cause Contract Form - Help Guide
 ## Purpose
 

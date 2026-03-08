@@ -1,7 +1,3 @@
-<thinking>
-We should check if the form is for lead generation and make sure it's not being used for other purposes (e.g., data collection, sales). If it's for lead generation, we can assume the form is meant to capture information from potential clients or partners who are interested in real estate investments. We should also verify that the form is not being used for redundant or duplicate data collection.
-</thinking>
-
 # Real Estate Investor Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential real estate investors for lead generation purposes. The goal is to capture relevant details about the investor's company, contact information, investment preferences, and interests.

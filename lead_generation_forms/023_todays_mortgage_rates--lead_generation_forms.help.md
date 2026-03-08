@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information from users about their inquiry for today's mortgage rates. The form is part of the "lead_generation_forms" category. I will ensure that the form's purpose and each field's explanation are concrete, concise, and practical. I will not invent unsupported business logic.
-</thinking>
-
 # todays-mortgage-rates - Help Guide
 ## Purpose
 This form is designed to collect information from users about their interest in today's mortgage rates. Users can provide general information about themselves, their property address, and their mortgage preferences. The form is intended to be used by individuals seeking mortgage rates information.

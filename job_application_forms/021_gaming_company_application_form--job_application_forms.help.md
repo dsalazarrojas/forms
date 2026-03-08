@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate and irrelevant application submissions, this form is designed to gather essential information from candidates applying for various roles within the Gaming Company. The form aims to streamline the application process, ensuring that all necessary details are captured correctly. Please note that all fields marked as "required" are crucial for a successful application submission. Ensure that you fill out all the required fields accurately to avoid any delays in the review process.
-</thinking>
-
 # Gaming Company Application Form - Help Guide
 
 ## Purpose

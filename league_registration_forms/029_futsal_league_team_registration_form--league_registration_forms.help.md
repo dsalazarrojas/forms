@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to allow teams to register their participation in the Futsal League, a sports competition. The form is designed to collect essential information from teams, including their name, email, league name, contact person, and contact email. This data will be used to organize and manage team participation, communication, and other related activities. It's essential to fill out the form accurately and completely to ensure proper registration and eligibility.
-
-Before starting, please review the form carefully to avoid any mistakes or omissions. If you have any doubts or concerns, please don't hesitate to contact us at form@gic.mx.
-
-</thinking>
 # Futsal League Team Registration Form - Help Guide
 ## Purpose
 The Futsal League Team Registration Form is designed to collect information from teams participating in the Futsal League sports competition. Completing this form ensures that your team is registered and eligible for the competition.

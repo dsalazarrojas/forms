@@ -1,15 +1,3 @@
-<thinking>
-  This form is used for DevOps engineers to submit their job applications, 
-  including their first and last names, contact email, resume, job title, 
-  company, job description, years of experience, and job location, as well as 
-  the date they plan to start the job. To avoid errors in data entry, 
-  please ensure that you have filled out all the required fields, and that 
-  your email address is accurate. The form will only be displayed once you 
-  have completed it. This application form is intended to be completed by 
-  potential candidates applying for the DevOps engineer position. We 
-  recommend that candidates carefully review the form before filling it out.
-  </thinking>
-
 # DevOps Engineer Job Application Form - Help Guide
 ## Purpose
 

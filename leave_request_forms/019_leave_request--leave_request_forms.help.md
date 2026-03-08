@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to submit leave requests for personal time off. It's meant to be completed by employees to inform their managers of their planned absence from work, providing essential details such as dates, type, and reason for leave. This form helps in streamlining the leave approval process, ensuring that all necessary information is captured and communicated effectively. Before proceeding, ensure that you're submitting a genuine leave request and not duplicating an existing one.
-
-</thinking>
-
 # Leave Request - Help Guide
 
 ## Purpose

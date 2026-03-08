@@ -37,4 +37,3 @@ To complete this form, follow these steps:
 	+ Custody: A legal arrangement that grants one person temporary or permanent care and control over another person's child.
 * **Estate Planning Checklist Notes** (id: 9 and 10, required: false): Enter any additional notes or comments related to your estate planning, including any specific arrangements or instructions.
 
-<thinking>... This form is generated based on publicly available data about estate planning and is intended to provide a general guideline for users to document their estate planning needs and arrangements. Please note that this form is not a substitute for professional legal advice. Consult a lawyer or legal expert to ensure accurate and up-to-date information about your specific situation. This form is intended to be used as a starting point for discussion and planning, not as a definitive legal document. ...</thinking>

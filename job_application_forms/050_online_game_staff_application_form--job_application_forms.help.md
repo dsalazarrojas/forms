@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users apply for a position in an online game. The goal is to collect information from potential candidates for various positions within the game, such as Guild Master or Member. The form will be used to assess each candidate's qualifications and determine their fit for the position.
-
-Please note that some fields may be optional, so users can fill in as much information as they feel necessary. Additionally, the form does not contain any sensitive or confidential information that might be required for actual job applications. This form is a general template for gathering basic information and does not replace the need for further evaluation and assessment in a real-world hiring process.
-
-</thinking>
-
 # Online Game Staff Application Form - Help Guide
 ## Purpose
 This form is designed for online game staff applicants to submit their applications and provide information about their background and qualifications. The form is not a formal job application, but rather a way to express interest in a position and showcase their experience and fit for the role.

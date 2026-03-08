@@ -1,10 +1,3 @@
-<thinking>
-The Software Development Statement Of Work (SOW) form is used to document the project scope, timelines, and deliverables for a software development project. It is a crucial document that outlines the project's objectives, timelines, and payment terms, which helps in establishing a clear understanding between the client and the project team. This form is used internally within the organization to ensure that all stakeholders are aware of the project's requirements and timelines.
-
-Before proceeding, please ensure that you have the necessary information and approvals in place to complete this form accurately. This form should not be completed in duplicate, and any changes made to the form should be properly documented and approved by the relevant stakeholders.
-
-</thinking>
-
 # Software Development Statement Of Work (SOW) - Help Guide
 ## Purpose
 The Software Development Statement Of Work (SOW) form is used to document the project scope, timelines, and deliverables for a software development project. It serves as a key document for establishing a clear understanding between the client and the project team.

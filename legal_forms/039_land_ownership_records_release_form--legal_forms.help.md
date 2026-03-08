@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # land_ownership_records_release_form - Help Guide
 
 ## Purpose

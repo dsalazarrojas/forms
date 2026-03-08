@@ -1,5 +1,3 @@
-<thinking>... This form is used to obtain legal document authorization from a client. The purpose of this form is to gather information about the client's legal documents, including the document type, date of issue, and authorized parties. This form is typically used in situations where the client needs to authorize certain actions or decisions related to their legal documents... This form must be completed for each legal document the client has issued or will issue. It's essential to review all fields carefully before submitting the form to ensure accurate information is provided.</thinking>
-
 # legal_document_authorization_form - Help Guide
 ## Purpose
 This form is used to obtain legal document authorization from a client.

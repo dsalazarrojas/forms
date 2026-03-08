@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide will cover the supplies order form, a form used to manage and track supplies orders in the workplace. To ensure you understand the form's purpose and requirements, please review the following:
-
-The supplies order form is designed to collect and manage information related to supplies orders, including employee involvement, order details, and status updates. This form is intended for internal use within the organization and is not meant for external users. Please ensure you have the necessary permissions and access rights before using this form.
-
-The form consists of several fields, each with its own specific purpose and requirements. The following guide will walk you through each field, explaining its meaning and expected input.
-
-</thinking>
-
 # supplies_order_form - Help Guide
 ## Purpose
 The supplies order form is a tool used to collect and track supplies orders in the workplace, helping to ensure timely and accurate management of supplies.

@@ -1,9 +1,3 @@
-<thinking> 
-This form is used for a smart contract service inquiry. Users will be inquiring about the availability and details of this service. 
-The form is designed to capture necessary contact information and business type details from the end-user for the inquiry. 
-The fields are all relevant and necessary for the purpose of the form.
-</thinking>
-
 # smart_contract_service_inquiry_form - Help Guide
 ## Purpose
 This form is for users to inquire about smart contract services. It captures necessary contact information and business type details for the service inquiry.

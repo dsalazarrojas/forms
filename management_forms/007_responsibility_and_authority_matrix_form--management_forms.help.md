@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to help teams clarify the responsibilities and authorities within a project's scope, particularly when handoff occurs. This form is used to ensure that everyone involved is aware of their duties and deadlines, and to facilitate effective handoffs between parties. It's essential to complete this form accurately to avoid misunderstandings and delays in project delivery.
-
-Before proceeding, ensure that you are filling this form for the correct project, and that you are authorized to input data on behalf of your team. Double-check that you haven't already completed this form for the same project, and that the information entered is up-to-date and reflects the current project status.
-
-Please note that this guide is for informational purposes only and might not cover every possible scenario or variation in your organization's policies or procedures. If you're unsure about any field or process, please refer to your project's specific documentation or contact the project lead for clarification.
-
-</thinking>
-
 # Responsibility And Authority Matrix Form - Help Guide
 ## Purpose
 The Responsibility And Authority Matrix Form is designed to document and clarify the responsibilities and authorities within a project's scope, particularly when handoffs occur. It helps teams to understand their duties and deadlines and facilitates effective handoffs between parties.

@@ -1,9 +1,3 @@
-<thinking>This form is for requesting social media content. The fields are categorized into sections for a smoother user experience.
-
-The form will guide you through requesting a social media post from a designated person. Please ensure you have the correct department information before submitting the form.
-
-To prevent multiple submissions from the same person, please do not submit this form more than once.</thinking>
-
 # social_media_content_request_form - Help Guide
 ## Purpose
 The social media content request form is for marketers to request social media content from designated persons.

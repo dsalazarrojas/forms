@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from laboratory staff requesting a leave of absence. It is meant to be used by employees to submit their leave requests and supporting documentation. Before submitting this form, please ensure that you have reviewed your company's leave policies and procedures. If you have already submitted a leave request, please check that you are not duplicating a previously submitted request.
-</thinking>
-
 # Laboratory Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used to request a leave of absence from laboratory work, allowing you to take time off for emergency, vacation, bereavement, or other reasons.

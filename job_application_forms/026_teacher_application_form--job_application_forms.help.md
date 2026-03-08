@@ -1,11 +1,3 @@
-<thinking>
-To provide a helpful form guide, I must first understand the purpose of the "Teacher Application Form" and the requirements for the user to complete it.
-
-The form appears to be designed for teachers applying for a teaching position, which involves sharing their education background, work experience, teaching experience, job preferences, and other relevant information. It seems to be a comprehensive form that requires the user to provide their contact information, references, job requirements, and personal details, among other things. However, some of the field labels are weak or unclear, so I will provide explanations based on the best-effort understanding of the provided information.
-
-To confirm, could you please verify the form purpose and the required fields for completion? Additionally, is there any specific instruction or guidance you would like me to follow for the field explanations?
-</thinking>
-
 # Teacher Application Form - Help Guide
 ## Purpose
 The "Teacher Application Form" is designed for teachers to apply for a teaching position. This form helps the school or institution gather information about the applicant's education background, work experience, teaching experience, job preferences, and other relevant details.

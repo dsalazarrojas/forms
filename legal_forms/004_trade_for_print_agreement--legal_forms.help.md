@@ -1,8 +1,3 @@
-<thinking>
-This form is used to capture essential information for a Trade For Print Agreement, which is a legal document used to establish a relationship between a company and a service provider, such as a photographer or model. The form is essential for both parties to outline the terms and conditions of their agreement, including the date of the agreement, the start and end dates of the contract, and the terms of use. Before completing this form, please ensure that you are authorized to do so and that the information you provide is accurate and complete.
-
-</thinking>
-
 # Trade For Print Agreement - Help Guide
 ## Purpose
 The Trade For Print Agreement form is used to document the terms and conditions of a trade agreement between a company and a service provider. It is essential to establish a clear understanding of the agreement's scope, duration, and terms.

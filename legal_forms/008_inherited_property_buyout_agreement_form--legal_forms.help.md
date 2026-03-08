@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # prophets_buyout_agreement_form - Help Guide
 ## Purpose
 The Prophets Buyout Agreement Form is a document used to outline the terms and conditions of a buyout agreement between co-owners of a property. This form is essential for establishing a clear understanding of the ownership rights and responsibilities among co-owners, particularly when one co-owner intends to transfer or sell their shares to another party. The form is used to gather information about co-owners' names, their shares, property address, and the date of the agreement.

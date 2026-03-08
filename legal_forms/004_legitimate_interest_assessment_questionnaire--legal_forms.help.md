@@ -1,27 +1,3 @@
-<thinking>**Internal Reasoning:**
-
-The form "Legitimate Interest Assessment Questionnaire" is a crucial tool for organizations to evaluate whether they have a legitimate interest in collecting, using, or disclosing personal data. This form helps ensure compliance with data protection laws and regulations, such as GDPR and the California Consumer Privacy Act (CCPA), by requiring the organization to demonstrate a legitimate interest in collecting, processing, or disclosing personal data. The form is designed to gather information about the specific data categories, types, processing purposes, data subjects, legal bases, and other relevant details that help the organization justify its legitimate interest.
-
-The form is structured to collect the following information:
-
-*   **First Name**: The form requires the first name of the individual or organization being assessed.
-*   **Last Name**: The form requires the last name of the individual or organization being assessed.
-*   **Email**: The form requires a valid email address for contact purposes.
-*   **Data Categories**: The form asks the user to specify the categories of data being processed or collected.
-*   **Data Types**: The form asks the user to identify the types of data being processed or collected.
-*   **Data Processing Purposes**: The form requires the user to specify the purposes for which data is being collected or processed.
-*   **Data Subjects**: The form asks the user to identify the subjects involved in the data processing or collection.
-*   **Legal Bases**: The form requires the user to specify the legal bases for data collection or processing.
-*   **Review Date**: The form asks the user to provide the date of the review or assessment.
-*   **Review Time**: The form asks the user to specify the time of the review or assessment.
-*   **Review Location**: The form allows the user to provide the location of the review or assessment.
-*   **Reviewer Name**: The form requires the name of the reviewer or assessor.
-*   **Reviewer Contact Information**: The form asks the user to provide the contact information of the reviewer or assessor.
-*   **Legal Entity**: The form allows the user to specify the legal entity involved in the data collection or processing.
-*   **Review Note**: The form provides a text field for any additional comments or notes from the reviewer or assessor.
-
-The form's purpose is to provide a comprehensive assessment of the legitimate interest of an organization in collecting, processing, or disclosing personal data. By filling out this form, organizations can demonstrate their compliance with data protection regulations and ensure transparency and accountability in their data handling practices.</thinking>
-
 # Legitimate Interest Assessment Questionnaire - Help Guide
 ## Purpose
 The Legitimate Interest Assessment Questionnaire is a tool designed to help organizations assess whether they have a legitimate interest in collecting, processing, or disclosing personal data, ensuring compliance with data protection laws and regulations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by marina management staff to conduct regular maintenance inspections of marina slips. The form is designed to ensure that all necessary maintenance tasks are completed and recorded accurately. It is intended for use on a daily basis, or as needed, to keep the marina slips in good condition. This form is not intended for emergency or urgent situations. Before completing this form, please ensure that you have access to the relevant information and necessary permissions. If you have any questions or concerns, please consult with the relevant authorities before proceeding.
-</thinking>
-
 # Marina Slip Maintenance Inspection Form - Help Guide
 ## Purpose
 The Marina Slip Maintenance Inspection Form is used to record and track maintenance activities performed on marina slips, ensuring that all necessary tasks are completed and reported accurately.

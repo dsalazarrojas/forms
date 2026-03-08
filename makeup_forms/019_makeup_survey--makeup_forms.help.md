@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is an internal reasoning block:
 
 This form is designed to gather information from users about their makeup habits and preferences. The purpose of this form is to collect data on how often users wear makeup, what type of makeup they use, and what their satisfaction level is with their current routine. By analyzing this data, we can identify patterns and trends in makeup usage and preferences.

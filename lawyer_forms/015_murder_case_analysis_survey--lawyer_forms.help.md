@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users about a murder case. The form is designed to gather data that will help in the analysis of the case. 
-
-It seems that this form is intended to be used in a legal context, possibly for law enforcement or investigation purposes. The form will likely be used to track and analyze murder cases, and the information collected will aid in understanding the circumstances surrounding the crime. This form will only be used for cases that are currently active or inactive, which is determined by the user selecting "Active" or "Inactive" in the "Case Status" field.
-
-There is no indication that the form is intended for use in other contexts, such as for general public surveys or academic research. 
-
-</thinking>
-
 # Murder Case Analysis Survey - Help Guide
 ## Purpose
 

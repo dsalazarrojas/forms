@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the divorce proceedings discharge form, I'll analyze the provided YAML structure and identify key fields that require explanation. This form appears to be a legal document for discharging spouses in a divorce process. The purpose of this form is to gather information about the spouses involved, the discharge date, reason for discharge, and other relevant details.
-
-Internal reasoning:
-
-- This form is likely used in a legal context to document the discharging of spouses in a divorce process.
-- The form collects information about the spouses' names, addresses, discharge date, reason for discharge, and other details.
-- The form may be used by lawyers or courts to verify the accuracy of the discharge process.
-
-</thinking>
-
 # Divorce Proceedings Discharge Form - Help Guide
 ## Purpose
 The Divorce Proceedings Discharge Form is a legal document used to record the discharging of spouses in a divorce process. This form collects essential information about the spouses, the discharge date, reason for discharge, and other relevant details.

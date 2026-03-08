@@ -1,7 +1,3 @@
-<thinking>
-We'll design a user-facing help guide for the Resume Collection Form, ensuring that end-users understand its purpose, how to complete it, and the meaning of each field. The form is designed for collecting resumes, focusing on job applicants' contact information, work history, education background, work experience, job preferences, resume upload, and any additional notes. We'll use the provided YAML fields to explain each section concisely and practically.
-</thinking>
-
 # Resume Collection Form - Help Guide
 ## Purpose
 The Resume Collection Form is designed to collect information from job applicants for hiring purposes. It's meant to be filled out by individuals applying for a job, and the data collected will be used to assess their qualifications and fit for the position.

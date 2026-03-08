@@ -1,7 +1,3 @@
-<thinking>
-This form purpose is for clients to provide their signature as a means of legal attestation. The form is used to collect client's and notary's signatures, ensuring their acknowledgment and validation of the document's content. Before proceeding, please review the form carefully to avoid mistakes.
-</thinking>
-
 # Signature Attestation Form - Help Guide
 ## Purpose
 The **Signature Attestation Form** is used to collect signatures from clients and notaries, ensuring they acknowledge and validate the document's content.

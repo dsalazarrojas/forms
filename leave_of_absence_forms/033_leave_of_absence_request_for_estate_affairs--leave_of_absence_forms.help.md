@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request a leave of absence for estate affairs. The form is used to document and track leave requests related to estate-related matters, such as family issues or property disputes. It's essential to use this form to ensure that all necessary information is collected and recorded accurately.
-
-To avoid duplication, please check if there's a similar form already in use within the organization before submitting this form. Ensure that the form is completed with accurate and relevant information to facilitate efficient processing and approval.
-
-</thinking>
-
 # Leave Of Absence Request For Estate Affairs - Help Guide
 ## Purpose
 This form is used to request a leave of absence for estate affairs, such as family issues or property disputes. It helps collect and document all necessary information for efficient processing and approval.

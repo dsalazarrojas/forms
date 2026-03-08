@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be used by end-users who will be filling out the Makeup Appointment Form. The form is designed to collect information from clients who wish to book a makeup service. The form will ask for the client's name, email, desired appointment date and time, appointment type, and any additional notes. The form will also ask the client to confirm their submission. This guide will explain each field in detail to ensure a smooth and accurate completion of the form.
-</thinking>
-
 # Makeup Appointment Form - Help Guide
 
 ## Purpose

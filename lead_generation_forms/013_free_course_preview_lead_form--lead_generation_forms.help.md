@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture leads for free course previews. It's intended for users who are interested in exploring a course before committing to it. The form should only be filled out once per user, to avoid duplication. If a user has already filled out this form, they will not be able to submit it again. The purpose of this form is to collect contact information and course interests for future follow-up and marketing purposes.
-</thinking>
-
 # Free Course Preview Lead Form - Help Guide
 ## Purpose
 The Free Course Preview Lead Form is a tool used to collect contact information and course interests from users who are interested in exploring a course before committing to it.

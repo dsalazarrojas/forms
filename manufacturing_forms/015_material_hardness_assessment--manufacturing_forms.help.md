@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine whether to create a new "Material Hardness Assessment" form, consider the following:
 
 * You are responsible for conducting material testing for a specific project or process.

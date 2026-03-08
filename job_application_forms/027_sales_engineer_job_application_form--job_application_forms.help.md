@@ -1,10 +1,3 @@
-<thinking>
-To create a relevant and accurate user-facing help guide for the Sales Engineer Job Application Form, let's first review the provided YAML fields and determine the form's purpose and required fields. Upon analyzing the form, it appears that this form is designed for job applicants to submit their applications for sales engineer positions. The form asks for various information, including contact details, work history, education, skills, resume, and job-specific information such as job title, job description, job location, job salary, and benefits.
-
-This form seems to be required for the sales team to assess the applicant's qualifications and suitability for the position. To avoid duplication, it's essential to ensure that applicants fill out the form correctly and accurately provide their information.
-
-</thinking>
-
 # Sales Engineer Job Application Form - Help Guide
 ## Purpose
 The Sales Engineer Job Application Form is designed for job applicants to submit their applications for sales engineer positions. It gathers information about the applicant's contact details, work history, education, skills, and job-specific information to help the sales team assess their qualifications and suitability for the position.

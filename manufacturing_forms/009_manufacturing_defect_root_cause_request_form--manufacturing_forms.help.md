@@ -1,9 +1,3 @@
-<thinking>Before we begin, let's consider the purpose and relevance of this form. This form is designed to gather information about manufacturing defects, which is essential for identifying and addressing potential issues that may affect production quality and efficiency. This form will guide users through the process of requesting and tracking the root cause of a manufacturing defect. 
-
-It's essential to complete this form accurately and thoroughly to ensure that the correct information is collected, reducing the risk of miscommunication and errors. Ensure that the form is filled out correctly, as incorrect or incomplete information can lead to delays or misallocated resources.
-
-This form is not intended to be a one-time use case. It's a continuous process for tracking and resolving manufacturing defects. Before proceeding, please check that a similar request has not been made recently, to avoid duplicate efforts.</thinking>
-
 # Manufacturing Defect Root Cause Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request and track the root cause of a manufacturing defect. This form helps in identifying and addressing potential issues that may affect production quality and efficiency.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adventure Leave Time Off Form - Help Guide
 ## Purpose
 The Adventure Leave Time Off Form is a request to take a leave of absence from work, allowing employees to take breaks or time off for various personal or professional reasons. This form is used to record and manage employee leave requests, ensuring that the necessary information is collected and reviewed by managers for approval.

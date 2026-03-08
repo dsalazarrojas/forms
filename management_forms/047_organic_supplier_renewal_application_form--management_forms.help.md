@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information from organic suppliers regarding their renewal application. The purpose of this form is to gather data that will help our team evaluate and process the supplier's renewal request. Please ensure that you have a valid reason for submitting this form and that you have not already submitted a renewal application. If you have any questions or concerns, please contact us before proceeding.
 
 # Organic Supplier Renewal Application Form - Help Guide

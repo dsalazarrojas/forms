@@ -1,27 +1,3 @@
-<thinking>
-We want to create a help guide for the "Healthcare Medical Assistant Job Application" form. This form is designed to collect information from individuals interested in applying for a healthcare medical assistant position. The form should provide a clear and concise way for applicants to submit their application, including their personal details, employment history, and educational background. To ensure that the form is completed accurately and efficiently, the help guide should explain each field's purpose and requirements.
-
-When creating the help guide, we'll consider the following fields:
-- First Name
-- Last Name
-- Email
-- Phone
-- Address
-- Job Title
-- Work Place
-- Employment Start
-- Employment End
-- Degree
-- School
-- Certificate Type
-- Certifying Organization
-
-By clearly explaining each field, we'll help applicants understand what information is required and what format to use. This will reduce errors and increase the likelihood of a successful application.
-
-Additionally, we'll provide some general tips for the application process to ensure that applicants have a smooth experience.
-
-</thinking>
-
 # Healthcare Medical Assistant Job Application - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in applying for a healthcare medical assistant position. Please fill out the form accurately and thoroughly to ensure that your application is considered.

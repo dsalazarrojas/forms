@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Commercial Exchange Agreement - Help Guide
 ## Purpose
 This form is used to document commercial exchanges between two parties, including details such as agreement date, exchange type, and terms and conditions. This form helps to ensure that both parties are on the same page and provides a clear understanding of the agreement.

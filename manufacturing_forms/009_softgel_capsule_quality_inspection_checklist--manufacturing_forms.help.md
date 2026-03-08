@@ -1,7 +1,3 @@
-<thinking>
-To confirm the form purpose and fields are correct, I will review the YAML and create a help guide that matches its specifications.
-</thinking>
-
 # softgel_capsule_quality_inspection_checklist - Help Guide
 ## Purpose
 This form is used for quality inspection of softgel capsules during production. It captures important details such as capsule color, shape, size, and packaging. This data helps ensure that the production process meets quality standards and identifies any defects or issues.

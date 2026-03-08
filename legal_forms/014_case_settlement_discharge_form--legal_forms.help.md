@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose of the Case Settlement Discharge Form and how to complete it accurately. This form is used to document the details of a settlement in a legal case, including settlement terms, payments, and any conditions or contingencies that apply. It's essential to ensure that all required fields are filled out correctly to avoid errors and potential issues with the settlement process.
-
-Before starting the form, verify that it's not a duplicate or unnecessary document by checking the case status and ensuring that all parties involved have agreed to the settlement terms.
-
-Please note that this guide will cover each field in detail, but users should consult relevant legal experts or professionals for any doubts or concerns.
-
-</thinking>
-
 # Case Settlement Discharge Form - Help Guide
 ## Purpose
 The Case Settlement Discharge Form is used to document the details of a settlement in a legal case, including settlement terms, payments, and any conditions or contingencies that apply. This form is essential for ensuring that all parties involved understand the terms of the settlement and for maintaining accurate records.

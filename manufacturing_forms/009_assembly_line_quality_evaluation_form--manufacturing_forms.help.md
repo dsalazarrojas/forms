@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information on the quality of an assembly line, which is a crucial aspect of the manufacturing process. It helps in identifying areas of improvement and ensuring that the products meet the required standards. The form should only be completed by authorized evaluators and is intended for internal use within the organization.
-
-To avoid duplication, please ensure that each evaluation is completed only once for each assembly line. If you have already completed an evaluation for this assembly line, please do not repeat the process.
-
-</thinking>
-
 # Assembly Line Quality Evaluation Form - Help Guide
 ## Purpose
 The Assembly Line Quality Evaluation Form is a tool used to assess the overall quality of an assembly line in the manufacturing process.

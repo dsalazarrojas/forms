@@ -1,15 +1,3 @@
-<thinking>
-
-To create an effective help guide for the "Content Licensing Contract Form", it's essential to ensure that users understand its purpose, how to complete it accurately, and each field's significance. This form is designed to formalize the agreement between a licensor (the party granting permission to use content) and a licensee (the party receiving permission to use the content). 
-
-The guide will cover the following aspects:
-
-1.  Purpose: This form is used to document the terms and conditions of content licensing agreements between parties.
-2.  How to Complete This Form: Step-by-step instructions on filling out the form accurately and efficiently.
-3.  Field-by-Field Explanation: Detailed explanations of each field and its requirements.
-
-</thinking>
-
 # Content Licensing Contract Form - Help Guide
 ## Purpose
 

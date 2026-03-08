@@ -1,8 +1,3 @@
-<thinking>
-The form "Teacher Recruitment Form" is designed to collect information about teachers applying for a position in an educational institution. This form is used to gather data necessary for the hiring process, including personal details, work experience, and preferred work conditions. It's essential to complete the form accurately and thoroughly to ensure a smooth evaluation process. Please ensure that you are filling out the form for the correct purpose and not duplicating efforts by filling out multiple applications. 
-
-</thinking>
-
 # Teacher Recruitment Form - Help Guide
 ## Purpose
 The Teacher Recruitment Form is a tool used by educational institutions to collect information from teachers applying for a position. This form helps the institution to gather necessary details about the applicant's qualifications, experience, and preferences.

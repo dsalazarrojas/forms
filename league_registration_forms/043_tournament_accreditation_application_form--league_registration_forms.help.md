@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about a tournament, including its details, contact information, and accreditation status. This form is likely used by administrators or staff to manage and track tournament registrations. The form is composed of multiple pages, each with its own set of fields, including text inputs, select options, and date/time entries.
-
-This form appears to be a comprehensive registration process for tournaments, requiring a range of information from the tournament details to the submission date and time. The form fields are designed to collect specific data, and the form's structure suggests that it is used to track and manage tournament registrations in a structured and organized manner.
-
-Before proceeding, please ensure that you have all the necessary information ready and that you understand the purpose and requirements of the form. If you have any questions or need clarification, it is recommended to review the form's fields and options carefully.
-
-To avoid any errors or discrepancies, please verify the accuracy of your inputted data before submitting the form.
-
-</thinking>
-
 # Tournament Accreditation Application Form - Help Guide
 ## Purpose
 The Tournament Accreditation Application Form is a comprehensive form used by administrators or staff to manage and track tournament registrations.

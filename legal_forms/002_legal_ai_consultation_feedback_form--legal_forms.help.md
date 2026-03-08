@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on their experience with a legal AI consultation. The purpose of this form is to gather information on how the AI consultation met or failed to meet the user's expectations, and to identify areas for improvement. This form should only be filled out by users who have had an experience with the legal AI consultation, and not by users who are simply interested in providing general feedback.
-</thinking>
-
 # Legal AI Consultation Feedback Form - Help Guide
 ## Purpose
 This form is intended to collect feedback on the effectiveness of a legal AI consultation. Please use this form to share your thoughts and experiences with the consultation, including any issues you encountered or solutions you found useful.

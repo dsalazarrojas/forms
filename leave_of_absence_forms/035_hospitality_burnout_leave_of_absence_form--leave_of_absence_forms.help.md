@@ -1,11 +1,3 @@
-<thinking>
-This form is for Hospitality Burnout Leave Of Absence. It's intended for employees to submit their request for a leave of absence due to burnout, which is a state of physical, emotional, or mental exhaustion. The form will help employees and management track and manage these requests.
-
-Before filling out the form, please ensure that:
-- You have checked if you have already submitted a request for this reason before. If you have, please do not submit a new request.
-- You have discussed your request with your manager and have their approval.
-</thinking>
-
 # Hospitality Burnout Leave Of Absence Form - Help Guide
 ## Purpose
 The Hospitality Burnout Leave Of Absence Form is used to submit requests for a leave of absence due to burnout.

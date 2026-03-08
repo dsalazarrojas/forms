@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture information for an employee's public sector parental leave of absence. The form will be used to process leave requests and ensure that all necessary information is collected to manage the leave effectively. 
-
-This form will gather details about the employee's leave, including the start and end dates, type of leave, leave duration, and return date. It also includes fields for employee information, job title, and contact details (email and phone number). Additionally, there is a section for manager review and approval, which includes fields for manager name, title, and notes.
-
-The form is designed to be completed by the employee, and it is essential to fill out all the required fields to ensure that the leave request is processed correctly.
-
-The following sections will be explained in detail below.
-
-</thinking>
-
 # Public Sector Parental Leave Of Absence Form - Help Guide
 ## Purpose
 The Public Sector Parental Leave Of Absence Form is designed to collect information for processing public sector parental leave requests. It is essential for employees to complete this form to ensure that their leave is processed correctly.

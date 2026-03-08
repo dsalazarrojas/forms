@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register a product with the company, gathering essential details such as product information, customer contact information, shipping details, and payment information. The form is designed to ensure accurate and complete registration of products for inventory management and record-keeping purposes.
-</thinking>
-
 # Product Registration - Help Guide
 ## Purpose
 The Product Registration form is a critical tool for ensuring accurate and up-to-date records of all products in the inventory. It helps maintain a centralized database of product information, customer details, and order data.

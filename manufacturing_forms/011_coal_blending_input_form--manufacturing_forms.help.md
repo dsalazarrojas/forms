@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coal Blending Input Form - Help Guide
 ## Purpose
 The Coal Blending Input Form is designed to capture the essential details of a coal blending operation. This form is used to input information about the blending run, including the date, operators, coal sources, blending parameters, blending volume, quality assessment, and storage and handling details.

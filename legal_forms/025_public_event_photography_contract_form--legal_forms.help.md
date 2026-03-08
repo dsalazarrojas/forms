@@ -1,10 +1,3 @@
-<thinking>
-  The form is intended to collect information for a contract between the client and the photographer regarding public event photography services. The form will be used to document the details of the event, the services to be rendered, and the terms of the contract. 
-  This form is for public events, such as concerts, festivals, or fairs, where the photographer will be capturing images or video for promotional or archival purposes. 
-  The form should be filled out by the client to provide necessary information about the event and the services requested. 
-  Each field in the form will be explained below. 
-</thinking>
-
 # Public Event Photography Contract Form - Help Guide
 ## Purpose
 This form is used to document the details of a public event where photography services will be provided.

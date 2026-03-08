@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Lead Generation Form - Help Guide
 ## Purpose
 This form is used to collect information from students interested in our programs and services. It will help us understand their preferences and interests to better serve them.

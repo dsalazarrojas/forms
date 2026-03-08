@@ -1,15 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to record absence information accurately, and not duplicated or filled out incorrectly. To start, we'll review the form's purpose and required fields. The Absence Record Form Template is designed to document employee absences, ensuring that all relevant information is captured for future reference and compliance purposes. The form is divided into three sections: employee information, absence record, and approval.
-
-The employee information section requires the employee's name, ID, department, job title, and supervisor's name. This information is crucial for identifying the employee and verifying their absence.
-
-The absence record section has several important fields. The absence start and end dates are crucial for tracking the duration of the absence. The total days absent field should be filled out accurately, considering the dates entered. The type of absence will help in categorizing the reason for absence. For example, sick leave, annual leave, or maternity/paternity leave. The reason for absence should be a brief description of why the employee is absent. The supporting documentation field is to indicate if supporting documents have been provided, such as a medical certificate.
-
-The approval section is for administrative purposes, where the approved by field will have the supervisor's name, and the date of approval is optional.
-
-To ensure that this form is used correctly, we'll focus on the required fields: employee name, ID, department, job title, supervisor's name, absence start date, end date, total days absent, type of absence, reason for absence, and whether supporting documentation has been provided.
-</thinking>
-
 # Absence Record Form Template - Help Guide
 ## Purpose
 The Absence Record Form Template is designed to document employee absences, ensuring that all relevant information is captured for future reference and compliance purposes.

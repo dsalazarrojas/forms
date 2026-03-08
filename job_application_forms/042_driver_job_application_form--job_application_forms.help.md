@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information from individuals who want to apply for a driver job. It's likely used by hiring teams to assess and filter applicants for a position. It's essential to provide accurate and honest answers to ensure a smooth and efficient application process. Please ensure you're filling this form only for a genuine job application purpose and not for any other reason. If you're unsure or have any issues, you can reach out to us for clarification. Ensure that you fill out all the required fields to complete the form. This form is not intended for test or demonstration purposes. Please review the form carefully before submitting it.</thinking>
-
 # Driver Job Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals who want to apply for a driver job. It's intended to assess and filter applicants for a position.

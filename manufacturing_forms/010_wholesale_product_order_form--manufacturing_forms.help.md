@@ -1,9 +1,3 @@
-<thinking>... 
-
-The purpose of this form is to collect information about wholesale product orders from customers. This form is used to gather the details of the order, including the customer's information, order specifics, and payment method. This guide will walk you through how to complete the form, explaining each field's purpose and what information is required.
-
-</thinking>
-
 # Wholesale Product Order Form - Help Guide
 ## Purpose
 

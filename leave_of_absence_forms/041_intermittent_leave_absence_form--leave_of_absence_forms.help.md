@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process intermittent leaves of absence for employees. An intermittent leave is a leave taken by an employee in short intervals, typically less than one year. This form is used to notify management and track the status of these leaves. Before filling out this form, please ensure that you are not already on leave or have an active leave of absence form submitted. Duplicate submissions will not be accepted. Please fill out all required fields accurately and thoroughly.
-</thinking>
-
 # Intermittent Leave Absence Form - Help Guide
 ## Purpose
 This form is used to submit an intermittent leave of absence request. Fill out this form to notify management of your intention to take an intermittent leave and track the status of your leave.

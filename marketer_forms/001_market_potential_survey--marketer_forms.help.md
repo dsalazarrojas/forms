@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about market potential for a specific product or service. The form is intended to be used by marketers and sales teams to collect data on potential customers, their market bases, and product categories. The form is likely used to generate reports or lists that can be used to analyze market trends and customer demographics.
-
-This form is a general template and its purpose may vary depending on the specific use case and industry. If you are using this form for a different purpose, please ensure that you have the necessary permission and clearance to do so.
-
-</thinking>
-
 # market_potential_survey - Help Guide
 
 ## Purpose

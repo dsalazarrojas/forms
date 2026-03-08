@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a comprehensive loan repayment form designed for collecting information about loans. It seems to be used in a financial context, possibly for a bank or lending institution. The form has several fields for various aspects of loan repayment, including the amount borrowed, monthly installment, total interest paid, loan period, loan status, and other relevant details. The fields are mostly numeric or text-based, with some select_one options for specific loan statuses and periods. To confirm, I'll review the form structure and content to ensure there's no duplication or unnecessary fields. Upon reviewing the form, I notice that most fields are optional, and the form seems to be structured to provide a complete picture of loan repayment information.</thinking>
-
 # Loan Repayment Form - Help Guide
 ## Purpose
 This form is designed to collect and track loan repayment information, including loan amount, interest, and repayment schedule details.

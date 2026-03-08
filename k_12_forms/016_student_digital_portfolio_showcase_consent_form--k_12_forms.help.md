@@ -1,7 +1,3 @@
-<thinking>
-This form is used by educators or administrators to obtain consent from parents/guardians of students to showcase the student's digital portfolio. The form will ask for the student's ID, parent's name, parent's email, phone number of the student and parent, and the showcase option(s) selected. It will also ask for the student's consent to showcase their work.
-</thinking>
-
 # Student Digital Portfolio Showcase Consent Form - Help Guide
 
 ## Purpose

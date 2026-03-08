@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a weekly inspection of the IT room, ensuring that equipment is in good condition, cleanliness standards are met, and any security issues are addressed. This process helps maintain the integrity and functionality of the IT equipment, prevents potential security threats, and promotes a safe working environment. It's crucial to complete this form regularly to identify and address any problems promptly.
-</thinking>
-
 # IT Room Weekly Inspection Checklist - Help Guide
 ## Purpose
 The IT Room Weekly Inspection Checklist is a form designed to ensure the maintenance and upkeep of the IT room's equipment, cleanliness, and security standards. This helps identify potential issues before they become significant problems and prevents equipment malfunctions or security breaches.

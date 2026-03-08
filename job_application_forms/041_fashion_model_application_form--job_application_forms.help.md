@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the purpose of this form is clear to the end user.
-This form is designed for fashion models who are interested in working with us.
-We should confirm that users have the necessary modeling experience and licenses required for working with us.
-The form will help us gather all the necessary information from the applicant.
-We will review each application and provide feedback or invite the applicant to an audition if selected.
-This form should not be duplicated for other use cases or purposes.
-</thinking>
-
 # Fashion Model Application Form - Help Guide
 ## Purpose
 This form is designed for fashion models who are interested in working with us. It allows us to gather necessary information from applicants to review and invite those who are selected to an audition.

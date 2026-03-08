@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to generate leads for a cosmetic dentistry business. The form collects information about the individual filling out the form, such as their first name, last name, email, phone number, address, date of birth, age, and preferred contact method. The form also includes a series of follow-up questions to gather more information about the individual's needs and preferences. The purpose of this form is to generate leads for the business to follow up with potential customers and offer them services.
-
-Before filling out this form, please note that the form is not intended for immediate contact or scheduling of appointments. The form is designed to collect information to be used for marketing and lead generation purposes only.
-
-Please ensure that you do not submit duplicate or incomplete forms, as this can lead to unnecessary follow-up attempts and confusion.
-
-</thinking>
-
 # Cosmetic Dentistry Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to generate leads for a cosmetic dentistry business. The form collects information about the individual filling out the form, such as their first name, last name, email, phone number, address, date of birth, age, and preferred contact method. The form also includes a series of follow-up questions to gather more information about the individual's needs and preferences.

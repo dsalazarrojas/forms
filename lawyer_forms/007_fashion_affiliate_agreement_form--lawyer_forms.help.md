@@ -1,11 +1,3 @@
-<thinking>
-The "Fashion Affiliate Agreement Form" is used to document and manage affiliate agreements between a fashion brand and their affiliates. This form ensures that all affiliate program details, terms, and conditions are clearly understood and agreed upon by both parties. By filling out this form, affiliates can agree to the terms and conditions of the program, and the brand can track and manage their affiliate relationships.
-
-Before filling out the form, please note that the fields marked as "required" are essential to complete the agreement, and missing or incomplete information may result in the form not being processed correctly.
-
-This form should not be used for any other purpose other than managing affiliate agreements. If you're not sure about your affiliation with the brand, please reach out to your affiliate manager for clarification.
-</thinking>
-
 # Fashion Affiliate Agreement Form - Help Guide
 ## Purpose
 The Fashion Affiliate Agreement Form is used to document and manage affiliate agreements between a fashion brand and their affiliates.

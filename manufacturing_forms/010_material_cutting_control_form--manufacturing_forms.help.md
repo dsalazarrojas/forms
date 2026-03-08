@@ -1,9 +1,3 @@
-<thinking>
-
-The Material Cutting Control Form is a critical tool used by production teams to track and manage the material cutting process. It ensures that all necessary information is documented and up-to-date, reducing errors and improving overall efficiency. This form should only be used for the purpose of tracking material cutting, and not for other tasks or projects. 
-
-</thinking>
-
 # Material Cutting Control Form - Help Guide
 
 ## Purpose

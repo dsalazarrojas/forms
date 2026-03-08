@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to allow users to submit a link to be reviewed and possibly featured on the website. This form is intended for users to submit links they think would be relevant to the community, such as articles, blog posts, or social media posts... The form will not be displayed if the user has already submitted a link with the same title or URL. This is to prevent duplicates and maintain data consistency... </thinking>
-
 # Link Submission Form - Help Guide
 ## Purpose
 The purpose of this form is to allow users to submit links they think would be relevant to our community, such as articles, blog posts, or social media posts.

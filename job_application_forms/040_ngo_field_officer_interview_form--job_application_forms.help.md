@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather information from candidates applying for an NGO field officer position. This form is designed to collect basic information about the candidate, including their contact details, work experience, education background, and any necessary authorization for work-related activities. The form is intended for internal use within the organization and will help the hiring team assess the candidate's qualifications and suitability for the position.
-Before completing this form, please ensure that you are submitting your genuine application and not a duplicate one. Duplicate submissions can lead to unnecessary processing and delay the review process.
-</thinking>
-
 # NGO Field Officer Interview Form - Help Guide
 ## Purpose
 This form is used to collect basic information from candidates applying for the NGO Field Officer position. The goal is to gather relevant details to assess the candidate's qualifications and suitability for the position.

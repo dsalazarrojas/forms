@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for this form that explains its purpose, how to complete it, and each field in a clear and concise manner.</thinking>
-
 # Ghostwriter Job Application Form - Help Guide
 
 ## Purpose

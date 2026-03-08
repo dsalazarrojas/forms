@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Accrued Leave Absence Form - Help Guide
 
 ## Purpose

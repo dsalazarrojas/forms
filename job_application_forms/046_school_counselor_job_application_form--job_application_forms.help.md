@@ -1,12 +1,3 @@
-<thinking>
-The School Counselor Job Application Form is designed to gather information from applicants interested in becoming a school counselor. This form is not intended for current school counselors looking to transfer or change positions within the same school, but rather for individuals looking to apply for a counselor position at a new school.
-
-Before proceeding, please confirm that you are applying for a school counselor position and that you have not previously submitted an application. This will help ensure that your application is not lost or duplicated in the system.
-
-Please carefully read and follow the instructions for each section of the form to ensure a smooth and accurate submission process.
-
-</thinking>
-
 # School Counselor Job Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from applicants interested in becoming a school counselor at a new school.

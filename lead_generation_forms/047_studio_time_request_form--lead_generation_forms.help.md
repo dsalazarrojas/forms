@@ -1,11 +1,3 @@
-<thinking>**Note to Reviewers:**
-
-This form is used by users to request studio time for various purposes. To avoid duplicate requests, users should only submit one request per day. Before submitting a request, please ensure that you have reviewed the studio's availability and that the requested time slot is not already booked.
-
-The form consists of a series of fields that require user input. Each field is explained below.
-
-</thinking>
-
 # Studio Time Request Form - Help Guide
 ## Purpose
 This form is designed for users to request studio time for various purposes. Please ensure that you have reviewed the studio's availability and that the requested time slot is not already booked before submitting a request.

@@ -1,7 +1,3 @@
-<thinking>
-The Divorce Mediation Checklist form is a tool used to track and record information during divorce mediation sessions. It ensures that all necessary details are captured, facilitating an efficient and effective mediation process. This form may already be part of a larger system for managing mediation sessions, client relationships, or legal cases, so please ensure you are not creating duplicate forms. Before using this form, review the existing form library or consult with the relevant stakeholders to avoid redundancy.
-</thinking>
-
 # Divorce Mediation Checklist - Help Guide
 ## Purpose
 

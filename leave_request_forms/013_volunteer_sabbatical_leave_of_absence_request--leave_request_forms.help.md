@@ -1,5 +1,3 @@
-<thinking>**Internal Note:** This form is intended for employees or volunteers to request a sabbatical leave of absence from their position or role. A sabbatical is a temporary leave of absence, typically taken for personal or professional development. The purpose of this form is to ensure that all necessary information is collected and processed efficiently. Please ensure that the form is completed accurately and thoroughly. If you are submitting a duplicate request, please be aware that only the most recent request will be processed.</thinking>
-
 # Volunteer Sabbatical Leave Of Absence Request - Help Guide
 ## Purpose
 The Volunteer Sabbatical Leave Of Absence Request form is used to submit a formal request for a sabbatical leave of absence from your position or role. This form is intended to be completed by employees or volunteers who wish to take time off for personal or professional development.

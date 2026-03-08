@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "Monthly Inventory Assessment" in the "manufacturing_forms" category. This form is used to track and assess the stock count and issues of inventory on a monthly basis. It seems to be a comprehensive form with multiple fields for tracking stock counts, issues, and related information. We'll need to understand the purpose and usage of each field to provide accurate help documentation. 
-</thinking>
-
 # Monthly Inventory Assessment - Help Guide
 ## Purpose
 The "Monthly Inventory Assessment" form is a tool for manufacturers to track and assess their stock counts and issues on a monthly basis. It helps them to monitor their inventory levels, identify any discrepancies or issues, and maintain accurate records.

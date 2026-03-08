@@ -1,7 +1,3 @@
-<thinking>
-The Free Gym Pass Lead Form is used to collect information from potential customers who are interested in obtaining a free gym pass. This form is likely to be displayed on a public website or landing page, and is intended to capture basic contact information, fitness interests, and preferred time slots from users. It is also used to gather any additional notes that the user would like to share. This form can be used to filter potential leads, ensuring that interested customers are not duplicated and are contacted at the best time slots. It seems that the form is used to assign a tool (chatjimmy) or another option (Other) to the lead, which could be used to follow up with the lead. The form requires all fields except for the "Note" field to be completed.
-</thinking>
-
 # Free Gym Pass Lead Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential customers who are interested in obtaining a free gym pass. It is displayed on a public website or landing page and is used to filter potential leads.

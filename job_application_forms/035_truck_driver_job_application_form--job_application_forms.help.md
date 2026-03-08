@@ -1,7 +1,3 @@
-<thinking>
-The "truck_driver_job_application_form" is a form designed to collect information from individuals interested in applying for a truck driving job. This form is intended to gather essential details about the applicant, including their contact information, work experience, and availability. The form will be reviewed by our team to assess the applicant's qualifications for the position. Please note that some fields are mandatory and must be completed in order to be considered for the job. We appreciate your honesty and accuracy when filling out this form.
-</thinking>
-
 # Truck Driver Job Application Form - Help Guide
 ## Purpose
 This form is designed to help us get to know you better and determine your suitability for a truck driving job. Please provide accurate and honest information about yourself.

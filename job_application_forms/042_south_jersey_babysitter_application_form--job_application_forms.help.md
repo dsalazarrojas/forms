@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from potential applicants for babysitting positions in South Jersey. The form is designed to gather essential details about the applicant, including their availability, experience, and qualifications. It is crucial to provide accurate and clear information to help us assess your fit for the position.
-
-Before filling out this form, please ensure that you are applying for a position that suits your needs and qualifications. If you have any prior experience as a babysitter, please be as detailed as possible in your response to help us understand your background. 
-
-Please fill out this form carefully and accurately, as the information provided will be used to assess your application.
-</thinking>
-
 # South Jersey Babysitter Application Form - Help Guide
 ## Purpose
 The South Jersey Babysitter Application Form is used to collect information from potential applicants for babysitting positions in South Jersey. The form is designed to gather essential details about the applicant, including their availability, experience, and qualifications.

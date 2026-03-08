@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information and collaboration details from potential collaborators. This form is likely used by companies or organizations seeking to collaborate on eco-friendly products with other businesses or individuals. The form will help gather relevant data such as contact information, specific collaboration details, and a message describing the inquiry. Additionally, it includes a field to agree or disagree with a certain condition or term, which might indicate the willingness to collaborate. This form seems to be designed for general use and does not require a strict structure or specific knowledge of the company's internal workings. Therefore, it's likely intended for external use, possibly by customers, partners, or other external stakeholders. Before proceeding, ensure that there's no existing form with similar purpose within the company that would make this form redundant.
-</thinking>
-
 # Eco Product Collaboration Contact Form - Help Guide
 
 ## Purpose

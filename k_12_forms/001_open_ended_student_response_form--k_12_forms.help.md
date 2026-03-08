@@ -1,9 +1,3 @@
-<thinking>
-  This form is meant to gather open-ended responses from students about their experiences, thoughts, and feelings. It is likely used for formative assessments or to collect feedback from students. The form asks for general information about the student, such as name and ID, as well as more subjective questions that prompt the student to share their opinions and reflections about their school experience.
-  The form does not seem to be designed to handle sensitive or confidential information, and the fact that it asks for a "Student Name" and "Student ID" suggests that it might be used for tracking or grouping responses. The form also asks for contact information (email and phone), but since this is optional, it's possible it's only for follow-up or communication purposes.
-  Some fields seem to be for general feedback or open-ended questions, while others ask for more specific information or opinions (e.g., "Do you like your teacher?" or "What's the most interesting thing you've learned this week?"). Be sure to review the form carefully and consider the relevance and potential for duplication of information.
-</thinking>
-
 # open_ended_student_response_form - Help Guide
 ## Purpose
 This form is designed to collect open-ended responses from students about their experiences, thoughts, and feelings. It is meant to be used for formative assessments or to collect feedback from students.

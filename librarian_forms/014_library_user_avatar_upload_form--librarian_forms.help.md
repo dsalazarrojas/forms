@@ -1,7 +1,3 @@
-<thinking>
-This form is a part of the "librarian" category, and its purpose is to allow users to upload their avatars for their library user account. The form is designed to collect relevant information about the user's photo upload experience. This form is likely used by library administrators or staff to manage user avatars, which are used for identification and recognition purposes in the library's ecosystem. The form does not appear to be a part of a larger survey or questionnaire, so it is likely a standalone form for a specific use case. The purpose of this form is not entirely clear, so further research is required to understand its full context and usage.
-</thinking>
-
 # library_user_avatar_upload_form - Help Guide
 ## Purpose
 The library user avatar upload form is designed to allow users to upload their avatars for their library user account.

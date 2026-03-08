@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for maintenance checks on HVAC (heating, ventilation, and air conditioning) systems. It's a standard form for tracking and recording the status of various components within these systems. The form is designed to be completed by maintenance staff to ensure that all critical components are properly checked and documented.
 
 The form is not intended for use in emergency situations or as a substitute for regular system inspections. It's a routine maintenance tool to help identify potential issues before they become critical.

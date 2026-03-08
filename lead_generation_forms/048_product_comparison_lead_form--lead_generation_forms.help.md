@@ -1,7 +1,3 @@
-<thinking>...
-We're creating a form that captures user information for lead generation in the context of product comparison. This form will allow users to input their personal details and preferences regarding product 1 and product 2, which will aid in understanding their interests and potential needs. The goal is to ensure that the form is completed accurately and without duplication, so users can provide their genuine information. We'll need to consider the required fields, hint texts, and type of each field to create a user-friendly guide.
-</thinking>
-
 # product comparison lead form - Help Guide
 ## Purpose
 This form is designed to collect user information for product comparison leads. Users can input their name, email, phone number, and preferences regarding product 1 and product 2.

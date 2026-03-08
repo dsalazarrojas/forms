@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect testimonials from users, allowing them to share their experiences or feedback about a product or service. The form includes fields for the user's name, email address, a testimonial (description of their experience), and options to publish their testimonial and accept the publishing terms. The form is intended to be used by individuals who have had a positive experience with a product or service and wish to share their satisfaction with others.
-
-The form's fields and functionality are designed to be straightforward and easy to use. Each field has a clear label and explanation to help users understand what is expected of them.
-
-The form is not intended to be used for collecting sensitive or confidential information. It is designed to be a public forum for users to share their genuine experiences and feedback.
-
-To complete this form, users must provide their name and agree to the publishing terms.
-</thinking>
-
 # share_a_testimonial_form - Help Guide
 ## Purpose
 

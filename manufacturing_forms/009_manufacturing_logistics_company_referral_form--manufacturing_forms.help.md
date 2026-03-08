@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to refer a manufacturing logistics company. The purpose of this form is to help us understand the referred company's details, which can aid us in considering their potential partnership or collaboration opportunities. Please ensure that you are referring a company that aligns with our company's core values and mission.
-
-Before filling out this form, make sure that you have the necessary permissions and clearance to refer a company. Additionally, please do not submit duplicate referrals for the same company.
-
-</thinking>
-
 # Manufacturing Logistics Company Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information about manufacturing logistics companies that you think may be a good fit for our business. Please fill out this form carefully and accurately to help us evaluate the referred company's potential partnership.

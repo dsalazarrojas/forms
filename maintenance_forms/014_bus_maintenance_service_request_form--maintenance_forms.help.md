@@ -1,10 +1,3 @@
-<thinking>
-This form is for requesting maintenance service for a bus. The form should only be submitted by authorized personnel to request service for a bus that requires attention. To avoid duplicate submissions, only one request can be made per vehicle.
-
-The form asks for information about the person submitting the request, vehicle details, and the nature of the requested service. The form is split into two pages: the first page is for general information, while the second page is for specific vehicle details and service requirements.
-
-</thinking>
-
 # Bus Maintenance Service Request Form - Help Guide
 ## Purpose
 This form is used to request maintenance service for a bus. Authorized personnel can use this form to submit a request for service, and it will be reviewed and processed accordingly.

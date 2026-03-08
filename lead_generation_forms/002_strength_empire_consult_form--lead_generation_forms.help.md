@@ -1,17 +1,3 @@
-<thinking>
-We're creating a help guide for the "strength_empire_consult_form" form. This form is designed to collect contact information and goal-related data from users. To ensure the form is used correctly, we'll aim to provide clear explanations for each field, considering the input schema.
-
-The form purpose is to collect data that will help us understand users' goals, preferences, and contact details. It's essential to fill out the form accurately to provide relevant information for our team to assist you better.
-
-Before proceeding, please review the following:
-
-* This form is not intended for duplicate submissions. Each form submission is a new entry.
-* Please ensure that the contact information you provide is accurate and up-to-date.
-* For goal-related fields, select the options that best describe your situation.
-* If unsure about any field, feel free to ask for clarification.
-
-</thinking>
-
 # strength_empire_consult_form - Help Guide
 ## Purpose
 The "strength_empire_consult_form" is designed to gather contact information and goal data from users. Fill out this form to provide accurate and relevant details for our team to assist you.

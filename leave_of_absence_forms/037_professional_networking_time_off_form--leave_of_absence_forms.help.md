@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to be used internally within a company or organization, and it is crucial to ensure that users understand the purpose and functionality of the "Professional Networking Time Off Form". The form is designed to allow employees to request time off for professional networking events or activities, such as conferences, meetings, or webinars. 
-
-Before proceeding, ensure that you have the necessary approvals from your supervisor or HR department before submitting this form. Also, double-check that you are not submitting duplicate requests for the same event. 
-
-This guide is meant to be a reference point for end-users and should not be used for external purposes. If you are external to this organization, please do not attempt to use this guide to access or modify internal systems or data.
-
-</thinking>
-
 # Professional Networking Time Off Form - Help Guide
 ## Purpose
 The "Professional Networking Time Off Form" is designed to allow employees to request time off for professional networking events or activities. This form helps the organization to keep track of employee availability, attendance, and participation in such events.

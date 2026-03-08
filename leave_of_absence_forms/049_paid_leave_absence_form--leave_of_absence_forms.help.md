@@ -1,13 +1,3 @@
-<thinking>
-The form's purpose is to facilitate the process of requesting paid leave absences for employees. This form is used by employees to submit their requests for time off, which is then reviewed and approved by their manager. The form helps to ensure that all necessary information is gathered in an organized and structured manner, making it easier for management to assess and process the requests efficiently.
-
-The form is designed to be completed by employees, and it is not intended to be a manager's form. This is to prevent duplication of effort and to ensure that managers are not burdened with unnecessary work. By using this form, employees take ownership of their requests, and managers can focus on reviewing and approving the submitted requests.
-
-It is also important to note that the form is not a formal application for vacation or personal time off, but rather a general form for requesting any type of paid leave absence.
-
-Please make sure to complete the form carefully and accurately, and do not submit duplicate requests. 
-</thinking>
-
 # Paid Leave Absence Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to collect information for home maintenance requests from residents or property managers. It is designed to provide a structured way to gather necessary details to efficiently address and resolve maintenance requests. To ensure that the form is filled out correctly, please make sure to read this guide carefully. If you have already submitted a maintenance request, it is recommended to check the status of your request to see if it has been processed or updated.
-</thinking>
-
 # Home Maintenance Intake Form - Help Guide
 ## Purpose
 This form is used to collect information for home maintenance requests from residents or property managers.

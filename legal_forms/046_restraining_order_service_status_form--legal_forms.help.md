@@ -1,9 +1,3 @@
-<thinking>Before we begin, let's quickly review the purpose and relevance of this form. This form is used to track and manage the status of restraining orders, providing essential information for various stakeholders involved in the process. It is crucial to understand that this form is not a duplication of other forms or data entry tasks, but rather a specific tool for tracking service status.
-
-This form is part of the legal forms category and is designed to collect relevant details about restraining orders, including service status, dates, and other important information. Each field in this form has been carefully crafted to ensure that the required data is collected accurately and efficiently.
-
-Now, let's dive into the help guide for this form.</thinking>
-
 # Restraining Order Service Status Form - Help Guide
 ## Purpose
 The Restraining Order Service Status Form is used to track and manage the status of restraining orders. This form helps users to provide essential information about service status, dates, and other relevant details.

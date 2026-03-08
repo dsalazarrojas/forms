@@ -1,20 +1,3 @@
-<thinking>
-To start, let's review the given YAML form schema to determine the form's purpose and the best way to create a user-facing help guide. This guide aims to inform users about the Pharmaceutical Production Line Inspection Form's purpose, how to complete it, and an in-depth explanation of each field. Upon reviewing the schema, it appears the form is designed for inspecting pharmaceutical production lines, focusing on various aspects such as equipment condition, cleanliness, and production area walk-throughs. It also requires input from several individuals, including inspectors, supervisors, and auditors. This guide will help users understand the form's purpose and requirements.
-
-The form is divided into different sections, which will be explained below. 
-
-The form has several fields for input, including text, date, time, select one or multiple options, and email. Each field has a unique name, label, type, and options. For instance, the `inspector` field has a label of "Inspector" and is a select_one type, allowing users to choose between "Yes" or "No". 
-
-The form also has fields for signature and names, which might be used for authentication or identification. The fields with names containing "supervisor" seem to be for signatory purposes.
-
-The form requires input from various individuals, including the "Production Supervisor Name", "Production Supervisor Signature", "Production Supervisor Title", and "Quality Supervisor Name", "Quality Supervisor Signature", "Quality Supervisor Title". These fields are required for authentication and identification.
-
-Lastly, the form has fields for date and time, such as "Audit Date", "Audit Time", and "Audit Comments".
-
-To ensure that users understand the form's purpose and requirements, it is crucial to create a comprehensive help guide that outlines each field's purpose, required status, and example values.
-
-</thinking>
-
 # Pharmaceutical Production Line Inspection Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-To ensure the Career Transition Program Application form is filled out accurately and comprehensively, we first want to emphasize the importance of understanding its purpose and relevance to the user's needs. This form is designed for individuals seeking career transition, aiming to change or shift their professional trajectory, and it's essential to ensure that each section is filled out correctly to maximize the effectiveness of the program.
-
-Before beginning, please review the form carefully to avoid duplication of effort and to ensure you are applying for the correct program. If you are unsure about any section or have questions, please don't hesitate to reach out to the program administrators for clarification.
-
-Here is a detailed guide to help you navigate the form successfully.
-
-</thinking>
-
 # Career Transition Program Application - Help Guide
 
 ## Purpose

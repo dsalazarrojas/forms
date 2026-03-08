@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather data on the maintenance status and history of transportation vehicles, including inspection dates, mileage, maintenance status, condition, and other relevant details. The purpose of this form is to help maintenance managers and fleet operators keep track of their vehicles' maintenance records and stay organized. The form will likely be used by maintenance staff and fleet operators to record information on individual vehicles, making it easier to identify issues and schedule future maintenance. It's likely that the form will be part of a larger system for tracking and managing vehicle maintenance records, and its data will be used to inform scheduling and decision-making processes.</thinking>
-
 # Transportation Vehicle Maintenance Audit Form - Help Guide
 ## Purpose
 The Transportation Vehicle Maintenance Audit Form is a tool used to gather information on the maintenance status and history of transportation vehicles. It is used by maintenance staff and fleet operators to record essential details on individual vehicles.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from schools and students for a "Read-a-thon" program. The purpose of this form is to gather essential details about the school and student participants, including school name, email, and contact information, as well as student name, birthdate, grade level, reading goals, and other relevant details. This form is likely used by educators or administrators to track and manage participant information for the Read-a-thon program.
-
-Before proceeding, please ensure that you have the necessary permissions and authorizations to complete this form. If you're unsure or have any questions, please reach out to the designated program administrators.
-
-</thinking>
-
 # read_a_thon_participation_form--k_12_forms - Help Guide
 ## Purpose
 This form is used to collect participant information for the Read-a-thon program.

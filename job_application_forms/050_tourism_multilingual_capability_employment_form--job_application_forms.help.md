@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for job applicants to provide information about their tourism multilingual capability employment. The form aims to collect data on the applicant's name, contact details, language proficiency, work experience, and other relevant information. This form is meant to be used by hiring managers and recruiters to evaluate the candidates for tourism jobs that require multilingual skills.
-
-Please ensure this form is not being used for other purposes, such as general employee applications or internal personnel documents. If you need to collect data for a different use case, please use an alternative form.</thinking>
-
 # Tourism Multilingual Capability Employment Form - Help Guide
 ## Purpose
 This form is designed to collect information from job applicants with multilingual capabilities for tourism jobs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document an employee's absence from work, and its purpose is to collect relevant information for the company's absence management process. Please ensure that you only submit this form when the absence is not a one-time or occasional occurrence. If you are unsure whether this form is applicable to your absence, please contact your supervisor or HR representative.
-</thinking>
-
 # Occupational Health Absence Form - Help Guide
 ## Purpose
 This form is used to document an employee's absence from work for extended periods.

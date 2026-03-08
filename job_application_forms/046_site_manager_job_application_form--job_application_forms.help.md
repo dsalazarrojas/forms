@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in applying for a site manager position within the company. The form aims to gather relevant details from applicants, including their job application details, contact information, and educational background. The form will be used to evaluate and assess potential candidates for the position. To ensure relevance, I will base the form's purpose and field explanations on the provided YAML fields. I will also check for potential duplication of information and provide clear, concise explanations for each field.
-</thinking>
-
 # site_manager_job_application_form - Help Guide
 ## Purpose
 This form is a job application form designed to collect information from individuals interested in applying for a site manager position within the company. It aims to gather relevant details from applicants, including job application details, contact information, and educational background.

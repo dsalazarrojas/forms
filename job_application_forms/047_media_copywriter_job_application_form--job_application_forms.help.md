@@ -1,26 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll first analyze the form's purpose and functionality based on the provided YAML fields. The form appears to be a job application form for a Media Copywriter position, and it seems to collect various pieces of information from applicants. The form likely serves as a tool for hiring managers or recruiters to review and evaluate potential candidates for the Media Copywriter role.
-
-The fields provided in the form include:
-
-* Applicant Info: a text field where the applicant can enter their name and other basic information
-* Contact Info: a text field where the applicant can enter their contact details
-* Portfolio URL: a text field where the applicant can share a link to their portfolio
-* Resume: a text field where the applicant can attach their resume
-* Portfolio Work: a text field where the applicant can describe their portfolio work
-* Type of Work: a select-one field with three options (Option 1, Option 2, Option 3)
-* Work Experience: a text field where the applicant can describe their work experience
-* Length of Experience: a select-multiple field with three options (3-5 years, 5-10 years, More than 10 years)
-* Education Background: a text field where the applicant can describe their education background
-* Institution: a text field where the applicant can enter the name of their institution
-* Degree Earned: a select-one field with three options (Bachelor's, Master's, Doctoral)
-* Portfolio Review: a select-multiple field with two options (Option 1, Option 2)
-* Submit: a text field where the applicant can submit their application
-
-Based on the form's structure and fields, I'll create a user-facing help guide that explains the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Media Copywriter Job Application Form - Help Guide
 
 ## Purpose

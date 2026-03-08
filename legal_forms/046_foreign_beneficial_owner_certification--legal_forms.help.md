@@ -1,14 +1,3 @@
-<thinking>
-This form is likely used to gather information about a foreign beneficial owner for regulatory purposes, such as reporting requirements under the US Foreign Account Tax Compliance Act (FATCA). It's essential to ensure that the form is filled out correctly to avoid any potential issues or penalties. 
-
-The form might be used by financial institutions to collect data about their foreign beneficial owners to meet their reporting requirements. This form will help them collect all the necessary information about the beneficial owner in one place, making it easier for them to manage their compliance.
-
-The form might also be used to collect data for anti-money laundering (AML) and anti-terrorist financing (AML/ATF) regulations. It's essential to fill out this form correctly to ensure that the information is accurate and up-to-date.
-
-Please note that the form fields might be subject to change based on the institution's specific requirements or regulatory updates.
-
-</thinking>
-
 # Foreign Beneficial Owner Certification - Help Guide
 ## Purpose
 The Foreign Beneficial Owner Certification form is used to collect information about a foreign beneficial owner. This form is used to gather data for regulatory reporting purposes, such as FATCA and AML/ATF requirements.

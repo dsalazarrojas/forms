@@ -1,21 +1,3 @@
-<thinking>
-
-This form is designed to help users search for legal service providers based on various criteria. To complete this form, users will be able to filter the search results by selecting multiple legal service providers, providing basic contact information, and specifying other service-related details.
-
-The form includes a select multiple field for legal service providers, a text field for organization name, email and phone fields for contact information, and several other fields to provide additional context to the search results.
-
-To fill out the form, users will need to provide the required fields: organization name, contact email, contact phone, description, service provider, and assigned user. The remaining fields are optional and provide further refinements to the search results.
-
-This form is meant to be used by users who are searching for legal service providers for their specific needs.
-
-Before proceeding with the form, please review the following:
-
-* This form is not a comprehensive legal search platform, but rather a tool to help users find specific legal service providers.
-* The form fields are intended to provide basic information about the legal service providers. Users should not rely solely on this form for making legal decisions.
-* The search results are not guaranteed to be exhaustive or up-to-date.
-
-</thinking>
-
 # find_a_legal_service_provider - Help Guide
 ## Purpose
 The "find_a_legal_service_provider" form is designed to help users search for legal service providers based on various criteria.

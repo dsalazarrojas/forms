@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be designed for operational risk management, allowing users to report potential risks and incidents. The form likely serves as a means to collect data on operational risks, such as those related to operations, finance, technology, and compliance. It may be used for internal reporting within an organization or for external auditing purposes. The form's structure suggests it is designed to be completed by employees or individuals who have encountered or identified potential risks, and it may be used to track and analyze these risks over time.
-
-Given the form's fields, it seems to be focused on collecting information about reported risks, including the type of report (operational risk report, incident risk report, etc.), the risk area affected, and contact details for follow-up. The risk areas appear to be categorized into finance, technology, and other operational concerns. The form also includes fields for date of report and details of the report.
-
-However, a critical analysis of the form's purpose and how users interact with it is necessary to ensure it does not duplicate or overlap existing processes within the organization.
-</thinking>
-
 # Operational Risk Management Contact Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Host Event Legal Release Authorization - Help Guide
 ## Purpose
 This form is used to collect legal release authorizations from participants in an event. It is a necessary legal requirement to obtain a release from each participant, confirming that they are aware of and agree to the terms and conditions of the event, including the possibility of being photographed or recorded.

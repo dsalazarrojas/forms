@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to capture information about a factory's cleanliness rating, which is a crucial aspect of maintaining a safe and healthy work environment. The form helps inspectors evaluate the cleanliness of different areas within the factory, identify areas that require improvement, and provide a score based on the cleanliness rating. This information is essential for factory management to make informed decisions about maintaining a clean and efficient work environment.
-
-Before proceeding, ensure that you have not completed this form for the same factory inspection in the past. If you've already submitted a cleanliness audit report for the factory, do not submit this form again.
-
-Please note that some fields in this form are optional and do not affect the overall cleanliness rating score. However, they are still important for providing additional context and information.
-</thinking>
-
 # Factory Cleanliness Audit Report - Help Guide
 ## Purpose
 The Factory Cleanliness Audit Report is designed to evaluate the cleanliness of a factory and identify areas that require improvement. This report helps factory management make informed decisions about maintaining a clean and healthy work environment.

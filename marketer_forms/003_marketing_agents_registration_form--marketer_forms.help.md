@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from marketing agents who wish to register with the company. This form is likely to be used by marketing agencies seeking to partner with the company, and it serves as an initial step in the registration process. It's essential to fill out this form accurately and thoroughly to ensure a smooth and efficient registration process. Before completing the form, please make sure you have all the required information and that you're filling it out for a legitimate purpose. Note that some fields are optional and might not be required for every registration.
-</thinking>
-
 # Marketing Agents Registration Form - Help Guide
 ## Purpose
 The Marketing Agents Registration Form is designed to collect information from marketing agents who wish to register with the company. This form helps the company gather essential details about the agent's agency, contact person, and other relevant information.

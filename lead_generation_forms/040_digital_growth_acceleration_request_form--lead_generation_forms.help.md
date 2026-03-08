@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Digital Growth Acceleration Request Form - Help Guide**
 ## Purpose
 This form is designed to help us understand the details of your project for digital growth acceleration. Please fill out as much information as possible to ensure we can better serve you.

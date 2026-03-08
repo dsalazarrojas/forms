@@ -1,8 +1,3 @@
-<thinking>
-As a form designer and technical writer, I understand the importance of creating a clear and concise user-facing help guide to support end-users in completing the Guardian Hiring Application form. Before diving into the guide, I would like to note that this form appears to be designed for collecting information from applicants seeking employment opportunities with the Guardian organization. The form is intended to gather data on applicant details, experience, availability, references, skills, education, and employment status. Upon reviewing the form, I notice that it has a mix of text, select, and date fields, with some required and optional fields. To ensure that applicants complete the form accurately and efficiently, it's essential to create a comprehensive help guide that explains each field's purpose and requirements.
-
-</thinking>
-
 # Guardian Hiring Application - Help Guide
 ## Purpose
 The Guardian Hiring Application form is designed to collect information from applicants seeking employment opportunities with the Guardian organization. This form is used to assess applicant qualifications, experience, and availability to ensure that we find the best fit for our team.

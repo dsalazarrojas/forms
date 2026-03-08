@@ -1,9 +1,3 @@
-<thinking>
-**Internal reasoning block**
-This form is used to document and track the FOD (Functional Operational Documentation) clarity agreement signing process. The purpose of this form is to capture essential details related to the agreement, including project name, agreement details, consent date, and contact information for the consultant, team, and project manager. This form helps maintain a clear and organized record of the agreement, facilitating communication and collaboration among stakeholders. 
-
-</thinking>
-
 # FOD Clarity Agreement Signing - Help Guide
 ## Purpose
 The FOD Clarity Agreement Signing form is used to document and track the agreement process between the consultant, team, and project manager. This form ensures that all relevant details are captured accurately and efficiently.

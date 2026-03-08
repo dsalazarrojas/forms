@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory Floor Engineering Team Contact Form - Help Guide
 ## Purpose
 This form is used by the Factory Floor Engineering Team to collect and manage information from team members, including their first name, last name, email, phone number, issue or concern, priority, category, assigned tool, assigned group, description, created date, and updated date.

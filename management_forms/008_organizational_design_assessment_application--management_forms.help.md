@@ -1,5 +1,3 @@
-<thinking> This help guide is intended to aid users in understanding the Organizational Design Assessment Application form. The form aims to gather information from users about their organizational design, team members, and submitted data. It is crucial that users fill out this form accurately to ensure that their data is collected correctly and can be used for further analysis and decision-making. The guide will break down each field, explaining its purpose and how to fill it out correctly. Please note that the form requires some information that may be sensitive or personal, so users should be cautious when providing details. </thinking>
-
 # Organizational Design Assessment Application - Help Guide
 ## Purpose
 The Organizational Design Assessment Application is designed to gather information about your organizational structure, team members, and submitted data. This form is used to assess the organizational design of a company or organization.

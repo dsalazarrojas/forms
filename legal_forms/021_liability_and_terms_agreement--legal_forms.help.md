@@ -1,12 +1,3 @@
-<thinking>
-This form is a Liability and Terms Agreement Form Template, designed to capture participant and instructor acknowledgement of the risks associated with an activity or program. The form's purpose is to ensure that participants and instructors are aware of and agree to the waiver and liability terms of the activity. This template is a customizable and adaptable form that can be used by organizations to collect necessary information from participants and instructors, promoting transparency and accountability.
-
-Before using this form, please review the provided terms and conditions carefully to ensure that it aligns with your organization's specific needs and requirements.
-
-To use this form, simply follow the instructions below.
-
-</thinking>
-
 # Liability and Terms Agreement Form Template - Help Guide
 ## Purpose
 This form is designed to collect participant and instructor acknowledgement of the waiver and liability terms of an activity or program. It is intended to promote transparency and accountability by ensuring that all parties involved are aware of the risks associated with participating in the activity.

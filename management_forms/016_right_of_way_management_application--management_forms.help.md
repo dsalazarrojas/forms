@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the management of right of way (ROW) applications. Right of way refers to the process or agreement that grants a person or organization the authority to use someone else's property for a specific purpose, such as for a utility project or construction. The form is likely used by authorities or organizations that deal with land acquisition, infrastructure development, or other projects that require accessing private or public property. The form's main goal is to gather essential details from users, ensuring that their submissions are properly documented and processed.
-</thinking>
-
 # right_of_way_management_application - Help Guide
 ## Purpose
 The Right of Way Management Application form is designed to collect relevant information for the management and processing of right of way applications.

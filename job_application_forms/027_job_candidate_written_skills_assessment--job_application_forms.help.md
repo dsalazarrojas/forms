@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assess a job candidate's written skills, such as writing style, tone, and clarity, to help hiring managers evaluate their writing abilities. The form is designed to gather specific information about the candidate's writing skills, including their ability to communicate effectively, write clearly and concisely, and demonstrate originality and imagination in their writing. This form is typically used in job applications or evaluations of writing portfolios.
-To ensure accuracy, please verify that this form is being used in the correct context and that all required fields are completed.
-</thinking>
-
 # job_candidate_written_skills_assessment - Help Guide
 ## Purpose
 The job candidate written skills assessment form is designed to evaluate a job candidate's written skills and communication abilities.

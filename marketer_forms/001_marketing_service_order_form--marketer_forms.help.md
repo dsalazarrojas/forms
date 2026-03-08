@@ -1,7 +1,3 @@
-<thinking>...I'll create a user-facing help guide for the "marketing_service_order_form" form based on the provided YAML fields. This form appears to be designed to collect information about marketing projects, services, and customer data. The fields seem to be focused on gathering project details, customer information, service orders, and marketing project specifics. I will make sure to break down each field in a clear and concise manner in the user-facing help guide...
-
-</thinking>
-
 # Marketing Service Order Form - Help Guide
 ## Purpose
 The Marketing Service Order Form is designed to collect information about marketing projects, services, and customer data. This form helps to streamline the process of creating and managing marketing projects, ensuring that all necessary details are captured and recorded accurately.

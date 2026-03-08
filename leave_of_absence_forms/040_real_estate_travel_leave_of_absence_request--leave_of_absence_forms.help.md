@@ -1,5 +1,3 @@
-<thinking>As an employee requesting a real estate travel leave of absence, I should be able to easily understand the purpose and steps to complete this form. The form is used to request a leave of absence for travel related to real estate activities, such as visiting clients or property sites. To complete this form, I should follow these steps:</thinking>
-
 # Real Estate Travel Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used to request a leave of absence for travel related to real estate activities, such as visiting clients or property sites.

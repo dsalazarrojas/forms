@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect lead information from potential customers in the real estate industry. This form is designed to capture essential details about the customer, such as their contact information, preferred communication methods, and property type preferences. The form is used by agents to gauge customer interest and gather information for lead follow-up. This form is intended for internal use only, and the data collected will be used to facilitate communication and provide personalized services to customers.
-
-To prevent duplication and ensure accuracy, we should validate the form submissions through our internal systems and review them for consistency with customer preferences and expectations.
-
-</thinking>
-
 # real_estate_lead_form - Help Guide
 ## Purpose
 The real_estate_lead_form is designed to collect lead information from potential customers in the real estate industry. The form captures customer contact details, preferred communication methods, and property type preferences to facilitate lead follow-up and provide personalized services.

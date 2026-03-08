@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information about the delivery of legal documents. The form fields are designed to capture relevant details about the client's name, the date and time of delivery, the type of document being delivered, and the status of the document. This form should be used by administrative staff or other authorized personnel to record and track legal document delivery events. To ensure accuracy, please fill out the form carefully and thoroughly. This form should not be used for other purposes or for sharing confidential information about clients.</thinking>
-
 # Legal Document Delivery Form - Help Guide
 ## Purpose
 This form is used to capture information about the delivery of legal documents to clients.

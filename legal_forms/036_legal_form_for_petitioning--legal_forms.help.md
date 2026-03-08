@@ -1,12 +1,3 @@
-<thinking> 
-The form "Legal Form For Petitioning" is used to gather information for legal proceedings, specifically for petitioning in a court. This form is designed to collect detailed information about the petitioner, the party being petitioned, and the legal context of the case. The purpose of this form is to provide a clear and concise overview of the petitioning process, including the date and time of the event, the reason for pursuing, the court and case number, and other relevant details.
-
-Before filling out this form, please ensure you have all the necessary information and documents required for the petition. It is also recommended that you consult with a lawyer or legal expert to ensure the accuracy and completeness of the information provided.
-
-Please note that this form is not a substitute for legal advice. If you are unsure about any aspect of the form or the petitioning process, please seek guidance from a qualified legal professional.
-
-</thinking>
-
 # Legal Form For Petitioning - Help Guide
 
 ## Purpose

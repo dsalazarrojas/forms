@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Building Maintenance Log - Help Guide
 
 ## Purpose

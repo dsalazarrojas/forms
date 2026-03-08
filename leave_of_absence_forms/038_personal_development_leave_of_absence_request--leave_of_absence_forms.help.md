@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I've reviewed the provided YAML form definition and crafted a user-facing help guide for the "Personal Development Leave Of Absence Request" form. This form is intended for employees to request a leave of absence for personal development purposes. The form is designed to gather essential information from employees, including their name, start and end dates of the leave, duration of the leave, purpose of the leave, and other relevant details. The form will be reviewed by management and team members to assess the request and make an informed decision.</thinking>
-
 # Personal Development Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used to request a leave of absence for personal development purposes. It's essential to complete this form if you're planning to take time off to focus on your personal growth and development.

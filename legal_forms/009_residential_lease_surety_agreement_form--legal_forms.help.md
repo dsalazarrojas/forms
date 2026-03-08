@@ -1,9 +1,3 @@
-<thinking>
-
-A Residential Lease Surety Agreement Form is used to outline the terms of a residential lease, including the landlord and guarantor information, lease terms, rent frequency, and move-in information. This form is a crucial document for establishing a secure and legally binding rental agreement between a landlord and a guarantor. The form aims to ensure that both parties understand their responsibilities and obligations throughout the lease period.
-
-</thinking>
-
 # Residential Lease Surety Agreement Form - Help Guide
 ## Purpose
 

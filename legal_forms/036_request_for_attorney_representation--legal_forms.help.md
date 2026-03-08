@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to facilitate the submission of a request for attorney representation to the legal department. It's crucial that this form is filled out correctly to ensure that the legal department receives the most accurate and relevant information about the potential client's needs. This form is not a solicitation for legal services, but rather a means for potential clients to express their interest in obtaining legal representation. It is also important to note that this form should not be used to contact multiple attorneys at once, as this can cause confusion and make it more difficult for the legal department to provide efficient service. 
-
-</thinking>
-
 # Request For Attorney Representation - Help Guide
 ## Purpose
 The "Request For Attorney Representation" form is used to provide the legal department with information about potential clients who are interested in obtaining legal representation. This form helps the legal department to understand the client's needs and preferences, allowing them to connect them with the most suitable attorney.

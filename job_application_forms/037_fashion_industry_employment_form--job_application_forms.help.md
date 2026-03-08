@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect basic information from job applicants for the fashion industry. It's essential to ensure that the form is completed accurately and thoroughly to increase the chances of a successful job application. Before starting, please review the form to understand what each field represents and how it can be used to improve your chances of getting hired.
-
-To prevent duplication and ensure relevance, please note that this form is not affiliated with any form platform and is generated using public survey metadata. The form is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it, just provide credit.
-
-If you're looking for a job in the fashion industry, this form can be a useful resource to help you get started. However, please ensure that you're not duplicating information or using it for purposes other than job applications.
-
-Please note that each field in this form has a label and type that indicates its purpose and expected input.
-
-</thinking>
-
 # Fashion Industry Employment Form - Help Guide
 ## Purpose
 The Fashion Industry Employment Form is a basic job application form designed for the fashion industry. It collects information about the applicant's background, skills, and experience to help employers determine whether they are suitable for the job.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to document the details of loan options presented to a borrower, ensuring transparency and compliance with regulations. It is a crucial step in maintaining accurate records and promoting a smooth lending process. Before proceeding, please ensure you are filling this form for its intended purpose and not duplicating information already collected elsewhere. If you're unsure about the form's purpose or the relevance of the information it collects, please consult your supervisor or refer to the relevant regulations.
-</thinking>
-
 # Anti Steering Disclosure Form - Help Guide
 ## Purpose
 The Anti Steering Disclosure Form is designed to capture the details of loan options presented to a borrower, ensuring transparency and compliance with regulations. This form helps maintain accurate records and promotes a smooth lending process.

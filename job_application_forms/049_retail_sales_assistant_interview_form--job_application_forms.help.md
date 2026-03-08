@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to assist job applicants in completing the Retail Sales Assistant Interview Form, a tool used to gather relevant information about potential candidates for retail sales positions. The form aims to collect essential details to assess a candidate's suitability for the role and their availability and preferences for work. Please ensure you have reviewed and understand the provided instructions before proceeding.
-
-</thinking>
-
 # Retail Sales Assistant Interview Form - Help Guide
 ## Purpose
 The Retail Sales Assistant Interview Form is designed to gather information from potential candidates for retail sales positions. This form will help assess a candidate's basic details, availability, and suitability for the role.

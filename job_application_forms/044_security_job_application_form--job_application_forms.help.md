@@ -1,7 +1,3 @@
-<thinking>
-We want to make sure that our end-users understand the purpose and requirements of this form to avoid any confusion. To confirm, this form is for job applicants to submit their application information for internal security positions. It should only be completed by those who are serious about applying for a security job. Please do not duplicate efforts by submitting multiple forms or providing irrelevant information, as this may lead to data inconsistency and processing delays.
-</thinking>
-
 # Security Job Application Form - Help Guide
 ## Purpose
 The Security Job Application Form is designed to gather information from job applicants interested in internal security positions. The form helps us assess your qualifications, experience, and background for these roles.

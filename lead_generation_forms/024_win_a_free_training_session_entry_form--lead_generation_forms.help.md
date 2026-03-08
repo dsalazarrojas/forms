@@ -1,14 +1,3 @@
-<thinking>
-Internal reasoning block to check for relevance and non-duplication.
-
-This help guide is to assist new users in filling out the "win_a_free_training_session_entry_form" correctly. 
-
-The form is used for users who want to enter a giveaway and are interested in receiving free training sessions. The user will be entering their information for the purpose of participating in the training session, not for any other reason. 
-
-Please note that the fields in this form are all optional except for "Name" and "Email" which are required for identification and contact purposes.
-
-</thinking>
-
 # win_a_free_training_session_entry_form - Help Guide
 ## Purpose
 The "win_a_free_training_session_entry_form" is a form designed for users to enter a giveaway and potentially receive a free training session. It is meant to collect users' personal details such as Name and Email to facilitate communication and identification.

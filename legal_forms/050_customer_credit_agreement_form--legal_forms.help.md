@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a customer's credit agreement, including their identification, contact details, and financial terms of the agreement. This form is likely used in a business setting to establish a credit relationship with customers, such as a retail store or a financial institution. To ensure consistency across all customer credit agreements, this form should be completed for every new customer.
-
-The form is designed to be completed by the customer, with fields that collect various types of information such as name, address, phone number, and financial details. The form includes fields for optional information like email, credit agreement date, total amount, payment terms, payment frequency, interest rate, and notes. The form may be used in conjunction with other internal processes or systems to track and manage customer credit agreements.
-
-Please note that the form is not intended for public consumption and is likely used internally within an organization. The completion of this form requires a legitimate reason for the organization to collect and use the customer's information.
-</thinking>
-
 # Customer Credit Agreement Form - Help Guide
 ## Purpose
 The Customer Credit Agreement Form is a document used to collect and track information about a customer's credit agreement. This information helps the organization to establish a credit relationship with the customer and ensure consistent management of credit agreements.

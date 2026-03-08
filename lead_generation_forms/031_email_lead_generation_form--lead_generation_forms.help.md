@@ -1,9 +1,3 @@
-<thinking> 
-  This form is intended for collecting information about job seekers and their preferences for new job opportunities. It's designed to gather data that can be used to understand the needs and requirements of individuals looking for employment in various industries, including Software, Finance, Marketing, Technology, and Healthcare.
-  The form fields are divided into several sections that cover different aspects of a job seeker's profile, such as contact information, job preferences, and company details.
-  To avoid duplication, please note that the form is only meant to be used once per person. If you've already filled out this form, there's no need to do so again.
-  </thinking>
-
 # Email Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to collect information about job seekers and their preferences for new job opportunities in various industries.

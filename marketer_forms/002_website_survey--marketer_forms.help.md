@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about your website usage and feedback. It has multiple pages with various fields to gather different types of input from users, such as text, email, select one or multiple options, number, date, time, note, phone number, website, and text fields. The form is not required for all fields and some pages are optional.
-
-</thinking>
-
 # Website Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect user feedback and information about your website. It is divided into several pages, each with its own set of fields. Please take a few minutes to complete this form and provide as much information as possible.

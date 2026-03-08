@@ -1,12 +1,3 @@
-<thinking>
-This form is used to qualify leads for further processing and analysis. The form gathers information about a lead's qualification status, industry, company, phone number, and other relevant details. It is used to assess whether a lead is qualified and ready for the sales process, or if it requires further analysis or rejection.
-
-The form should only be filled out by authorized personnel, and the user should ensure that the lead is not already in the qualification process. To avoid duplication of effort, please ensure that the lead is not already qualified and update the status accordingly.
-
-The form is divided into several sections, each with its own specific purpose and instructions.
-
-</thinking>
-
 # Lead Qualification Form - Help Guide
 ## Purpose
 The Lead Qualification Form is used to gather information about a lead's qualification status, industry, company, phone number, and other relevant details. It is used by authorized personnel to assess whether a lead is qualified and ready for the sales process.

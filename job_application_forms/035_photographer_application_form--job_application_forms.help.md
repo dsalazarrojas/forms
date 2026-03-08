@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Photograper Application Form is to collect information from candidates interested in applying for a photography position. This form is designed to gather relevant details about the applicant, including their contact information, work experience, and qualifications, in order to assess their suitability for the role. 
-
-Before filling out this form, please note that some of the fields may not be mandatory, but providing accurate and complete information will help the hiring team review your application more efficiently. Additionally, please be mindful of the fact that some fields might be duplicated, but each one serves a specific purpose in the evaluation process.
-
-</thinking>
-
 # Photographer Application Form - Help Guide
 ## Purpose
 The Photograper Application Form is a tool to collect information from candidates interested in applying for a photography position.

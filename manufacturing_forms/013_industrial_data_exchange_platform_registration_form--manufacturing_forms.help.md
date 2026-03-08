@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I understand that this form is intended for registration to the Industrial Data Exchange Platform, a platform that allows industrial companies to exchange data. The form is likely used by companies in various industries such as manufacturing, construction, finance, technology, and healthcare. The form is not a strict requirement for all users, but rather an option for those who want to access the platform's services. The form is designed to collect basic information about the company, including contact details, company description, and industry. The platform's purpose is to facilitate data exchange between companies in different industries, and the form is a necessary step for companies to become registered members.</thinking>
-
 # Industrial Data Exchange Platform Registration Form - Help Guide
 ## Purpose
 This form is designed for companies interested in becoming registered members of the Industrial Data Exchange Platform. By completing this form, you will be able to access the platform's services and exchange data with other companies in your industry.

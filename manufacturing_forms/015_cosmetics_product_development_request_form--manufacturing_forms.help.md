@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to gather information from users for the development of new cosmetic products. The purpose of this form is to collect specifications, features, and other relevant details about the product being requested. Please ensure that the information provided is accurate and complete, as it will help the development team to create a product that meets the requirements.
-
-Before filling out this form, please ensure that you have all the necessary information and details about the product ready. You may need to refer to your product's existing documentation, design files, or previous communications to provide accurate answers.
-
-This form is not intended to be a template for creating marketing materials or sales pitches. It is a request for specific development information, and providing general marketing statements or sales pitches will not be accepted.
-
-This form is intended for one-time use. If you need to request multiple products or updates, please fill out the form for each product separately.
-
-If you are unsure about any field or have questions, please do not hesitate to reach out to the development team.
-
-Please ensure that you have read and understood the terms of use and licensing of this form before proceeding.
-</thinking>
-
 # cosmetics_product_development_request_form - Help Guide
 ## Purpose
 This form is designed to gather information from users for the development of new cosmetic products. It collects specifications, features, and other relevant details about the product being requested.

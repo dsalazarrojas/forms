@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used when a person wants to disclaim or renounce a claim of inheritance. The form is meant to gather necessary information from the disclaimant (person renouncing the claim) and the beneficiary (person receiving the inheritance). The form is required for the disclaimant to formally disclaim the inheritance and provide details about the beneficiary. 
-
-This form is used in conjunction with other forms and procedures within the legal process. 
-
-Please note that this form should not be used for other purposes, and the information provided will be used to process the disclaiming of inheritance in a legal context. 
-
-The following guide will walk you through the completion of the form, field by field.
-
-</thinking>
-
 # Disclaim Inheritance Form - Help Guide
 
 ## Purpose

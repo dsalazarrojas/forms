@@ -1,12 +1,3 @@
-<thinking>... 
-
-To ensure that this form is properly used and to avoid duplication, please note that the Recovery Court Program Application Form is intended for individuals seeking access to the Recovery Court Program. The form is a critical part of the application process, and any discrepancies or inaccuracies in the provided information may lead to delays or even disqualification from the program. Before starting the application process, please ensure that you meet the eligibility criteria for the Recovery Court Program. 
-
-Also, please be aware that some fields may be subject to verification processes, and you will be asked to provide proof of identity and other required documents.
-
-Before filling out this form, please make sure you have all necessary information and documents ready to avoid delays in the process.
-
-</thinking>
 # Recovery Court Program Application Form - Help Guide
 ## Purpose
 The Recovery Court Program Application Form is a required document for individuals seeking access to the Recovery Court Program. This form is used to gather essential information about the applicant and their eligibility for the program. 

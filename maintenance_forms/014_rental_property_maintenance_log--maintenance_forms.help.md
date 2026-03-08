@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "rental_property_maintenance_log" form is to document and track maintenance activities for rental properties. The form is designed to collect information about the type of maintenance activity, its description, and other relevant details to help track and manage maintenance tasks efficiently.
-</thinking>
-
 # rental_property_maintenance_log - Help Guide
 ## Purpose
 This form is used to record and track maintenance activities for rental properties. It is an essential tool for property managers, maintenance staff, or facility managers to keep a record of maintenance work orders, track progress, and ensure timely completion of tasks.

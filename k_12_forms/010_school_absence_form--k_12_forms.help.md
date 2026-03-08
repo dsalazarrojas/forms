@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by students or parents to report a student's absence from school. This form will be used by school administrators to track and manage student absences. Please ensure that you have a valid reason for the student's absence before completing this form. This form does not require completion, but it is recommended for record-keeping purposes. Please note that the school may request additional information or documentation to support the absence.
-</thinking>
-
 # School Absence Form - Help Guide
 ## Purpose
 The School Absence Form is used to report a student's absence from school. It is a record-keeping tool for school administrators to track and manage student absences.

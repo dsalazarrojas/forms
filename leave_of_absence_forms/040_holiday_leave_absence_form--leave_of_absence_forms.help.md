@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for an employee's holiday leave absence. This form is used when an employee intends to take a holiday break. It is recommended that only one form per holiday absence is submitted. Duplicate submissions will be considered invalid.
-</thinking>
-
 # Holiday Leave Absence Form - Help Guide
 ## Purpose
 The Holiday Leave Absence Form is a form used to request a holiday leave absence for an employee. This form is required to be completed when an employee intends to take a holiday break.

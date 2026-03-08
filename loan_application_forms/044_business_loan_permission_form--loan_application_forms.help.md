@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain permission from the applicant to share their personal and financial information with third parties, such as loan coordinators, for the purpose of processing a business loan. The form should be used when an individual or entity is seeking a loan and needs to grant permission to share their information with specific organizations. The form should not be used for general business purposes or non-loan related activities.
-</thinking>
-
 # Business Loan Permission Form - Help Guide
 ## Purpose
 This form is used to obtain permission from the applicant to share their personal and financial information with third parties, such as loan coordinators, for the purpose of processing a business loan.

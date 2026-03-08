@@ -1,15 +1,3 @@
-<thinking>
-
-To confirm, the purpose of this form is to obtain authorization from an employee's manager and department head for a parental leave. This form should only be used for employees who are taking a leave of absence due to parental responsibilities.
-
-Before filling out this form, please confirm that you have not already submitted one for the same reason and period of leave. Completing this form for the same reason and period will result in duplicate processing and may lead to delays in the approval process.
-
-This form is only intended for leaves of absence due to parental responsibilities and should not be used for other types of leave requests.
-
-The following instructions and explanations are for the "Parental Leave Authorization Form" to ensure accurate and efficient completion:
-
-</thinking>
-
 # Parental Leave Authorization Form - Help Guide
 ## Purpose
 The "Parental Leave Authorization Form" is used to request authorization from an employee's manager and department head for a parental leave of absence. This form is only intended for leaves due to parental responsibilities and should not be used for other types of leave requests.

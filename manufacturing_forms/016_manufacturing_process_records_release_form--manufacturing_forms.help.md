@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record the release of a manufacturing process. This form is designed to capture relevant information about the release, including the company name, release date, manufacturing process, product, employee, reason for release, and status. This information will help in tracking and managing the manufacturing process records accurately and efficiently. Please ensure that all fields are completed as required and that the form is submitted correctly to ensure accurate data recording.
-</thinking>
-
 # manufacturing_process_records_release_form - Help Guide
 ## Purpose
 The manufacturing process records release form is used to record the release of a manufacturing process. This form captures relevant information about the release, including the company name, release date, manufacturing process, product, employee, reason for release, and status.

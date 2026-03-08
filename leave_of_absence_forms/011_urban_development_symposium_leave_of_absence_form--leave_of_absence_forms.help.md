@@ -1,7 +1,3 @@
-<thinking>
-This form is for submitting a leave of absence request for an event. It's essential to understand the form's purpose is to capture necessary information for event organizers to approve or deny the leave of absence. This form should not be used for other purposes. Before filling out this form, please ensure you have all the necessary information and permissions from your team and event organizers.
-</thinking>
-
 # urban_development_symposium_leave_of_absence_form - Help Guide
 ## Purpose
 The urban development symposium leave of absence form is a tool used to request time away from work for an event. This form helps event organizers track and manage leave requests, ensuring a smooth and organized event experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a legal document that helps individuals apply for naturalization, a process that grants them citizenship in a specific country or region. It's essential to ensure the applicant provides accurate and complete information to avoid delays or complications in the naturalization process. Please note that naturalization laws and regulations can be complex and vary depending on the country or region, so it's crucial to consult the relevant authorities for the most up-to-date information. This form is designed to guide the applicant through the necessary steps and ensure they understand their obligations and responsibilities in the naturalization process.
-</thinking>
-
 # Naturalization Contract Form - Help Guide
 ## Purpose
 This form is used to document an individual's intention to naturalize, which is the process of becoming a citizen or obtaining permanent residency in a country or region. It's a crucial document that outlines the applicant's understanding of the naturalization process, their eligibility, and their commitment to the rules and regulations of the country or region.

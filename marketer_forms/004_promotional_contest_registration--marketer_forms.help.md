@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to help users register for a promotional contest. The purpose of the form is to collect information from users who want to participate in the contest. This form is not affiliated with any form platforms and is an original creation using AI-generated code. 
-The form is used to collect user information for entry confirmation and to provide a smooth registration experience. 
-
-Before proceeding, please note that this form does not store any personal or sensitive user data and does not send any unsolicited messages or emails. All collected data will only be used for contest purposes.
-
-Before starting to fill out the form, ensure you haven't already registered or participated in this promotional contest. 
-
-This form may be updated or modified at any time to better reflect the needs and requirements of its users.
-
-</thinking>
-
 # Promotional Contest Registration - Help Guide
 ## Purpose
 The Promotional Contest Registration form is designed to collect information from users who want to participate in a promotional contest. This form is used for entry confirmation and registration purposes.

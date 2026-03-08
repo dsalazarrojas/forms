@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prison Injury Compensation Claim Form - Help Guide
 ## Purpose
 

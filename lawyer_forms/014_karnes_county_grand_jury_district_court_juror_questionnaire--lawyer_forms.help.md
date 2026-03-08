@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Karnes County Grand Jury District Court Juror Questionnaire - Help Guide
 
 ## Purpose

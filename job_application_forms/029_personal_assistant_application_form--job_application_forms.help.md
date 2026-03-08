@@ -1,7 +1,3 @@
-<thinking>
-This form is used for personal assistants to apply for a job opening within the organization. It is meant to gather information from applicants about their personal details, job preferences, and relevant work experience. Before filling out this form, make sure to carefully review the job description and requirements to ensure you are applying for the correct position. Please note that some fields are optional and can be left blank if not applicable. Also, ensure that you have a clear and concise resume and portfolio ready to be submitted.
-</thinking>
-
 # Personal Assistant Application Form - Help Guide
 
 ## Purpose

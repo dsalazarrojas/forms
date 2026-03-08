@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by legal departments or lawyers to gather information for clients regarding employment law matters. The form is probably part of a larger application process or a template for generating reports or agreements related to employment law. The form might be used to collect information such as user details, employment issues, and legal issues description to help legal professionals provide better guidance or assistance to their clients.
-</thinking>
-
 # employment_lawyer_application_form - Help Guide
 ## Purpose
 

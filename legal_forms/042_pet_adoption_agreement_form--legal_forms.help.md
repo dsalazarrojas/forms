@@ -1,7 +1,3 @@
-<thinking>
-This form is used for creating a pet adoption agreement between a pet shelter or rescue organization and a prospective pet owner. The form is designed to collect essential information about the pet and the owner, as well as details about the adoption process. The purpose of this form is to ensure a smooth and responsible pet adoption process. It's essential to fill out this form accurately and thoroughly to ensure the well-being of both the pet and the owner.
-</thinking>
-
 # Pet Adoption Agreement Form - Help Guide
 ## Purpose
 The Pet Adoption Agreement Form is used to formalize the adoption process between a pet shelter or rescue organization and a prospective pet owner. This form helps ensure that all necessary information is collected and that the pet is adopted responsibly.

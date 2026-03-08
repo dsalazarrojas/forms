@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form is used for creating an International Non-Disclosure Agreement (NDA) for companies, and it captures various details such as company and employee information, dates, and other relevant fields. This help guide should cover all the fields in the form to ensure that users complete it correctly and understand what information is required from each field. There is no duplicate field in this form, so this guide will cover each field only once.
-</thinking>
-
 # International Non Disclosure Agreement NDA Form - Help Guide
 ## Purpose
 The International Non-Disclosure Agreement (NDA) Form is a document used to protect confidential information shared between companies. This form captures essential details to ensure a mutually agreeable and secure exchange of information.

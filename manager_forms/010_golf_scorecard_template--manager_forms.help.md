@@ -1,7 +1,3 @@
-<thinking>
-The "Golf Scorecard Template" form is designed to collect data related to a player's golf game. This form is likely used by golf course staff to record and report player scores, rounds completed, and other relevant information. Before filling out this form, ensure that the data entered is accurate and relevant to the player's golf game. This form does not appear to be intended for use in any specific context other than the general golf scorecard reporting. Please ensure that each field is filled out with the correct information to ensure accurate reporting.
-</thinking>
-
 # Golf Scorecard Template - Help Guide
 ## Purpose
 The Golf Scorecard Template is a form used to record and report player scores, rounds completed, and other information related to a golf game.

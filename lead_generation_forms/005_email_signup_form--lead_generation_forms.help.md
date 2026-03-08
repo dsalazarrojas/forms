@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect user contact information and preferences. It is intended for individuals who want to sign up for some sort of subscription or newsletter. The purpose of this form is to gather basic contact information and job-related details from the user. It's essential to complete this form accurately to ensure that the user's data is correctly recorded in our system.
-Before filling out this form, please note that you can skip any section that doesn't apply to you. However, please make sure to fill out all the required fields to ensure that we have a complete picture of your preferences.
-This form is divided into several sections, each with a specific purpose. Please read each section carefully to ensure that you provide the correct information.
-</thinking>
-
 # email_signup_form - Help Guide
 ## Purpose
 The email signup form is designed to collect contact information and preferences from users who want to sign up for a newsletter or subscription.

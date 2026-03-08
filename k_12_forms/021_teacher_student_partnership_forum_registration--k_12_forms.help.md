@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for registration of teachers, students, and administrators for a Teacher Student Partnership Forum. The form is used to collect information about the participants, their roles, and event details.
-- The form is required for all three roles, ensuring that each participant has a consistent experience.
-- The form will be used to facilitate communication and collaboration among the participants.
-- The form will be stored in a database for future reference.
-</thinking>
-
 # Teacher Student Partnership Forum Registration - Help Guide
 ## Purpose
 The Teacher Student Partnership Forum Registration form is used to register participants for a Teacher Student Partnership Forum. This form is required for all three roles: Teacher, Student, and Administrator.

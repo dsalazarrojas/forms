@@ -1,7 +1,3 @@
-<thinking>
-The form is used by business partners to refer clients that are seeking loan services. The form is used to gather information about the client, such as their contact email, the business they are referring, and the approximate loan amount they are seeking. This information will be used to determine the suitability of the client and to contact them for further discussion. The form will not be used for any other purpose, and the information will not be shared with any other parties. If you have filled out this form before, please ensure that it is not a duplicate submission and that the information is up-to-date.
-</thinking>
-
 # Business Loan Referral Form - Help Guide
 ## Purpose
 

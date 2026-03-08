@@ -1,5 +1,3 @@
-<thinking> This form is used to generate a lead for the book fair event. The form captures information about the lead, including their name, email, phone number, interests, and other relevant details. The form is designed to help the event organizers and team members to keep track of the leads and follow up with them accordingly. To ensure that the form is filled out correctly, please make sure to review the form carefully before submitting it. This guide will walk you through the process of completing the form step by step.</thinking>
-
 # Publishing Book Fair Lead Generation - Help Guide
 ## Purpose
 The Publishing Book Fair Lead Generation form is designed to gather information about potential leads for the book fair event. This form helps the event organizers to track leads and follow up with them before, during, and after the event.

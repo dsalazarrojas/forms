@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess the user's knowledge on radioactivity, a process where an unstable atom emits energy and particles from its nucleus. The form consists of 12 questions that cover various aspects of radioactivity, including its concepts, sources, safety measures, and effects on daily life. The form is intended to be completed by individuals who have a basic understanding of radioactivity and its applications. Please make sure to answer each question carefully, as some of the questions may require specific knowledge or expertise. 
-
-Before starting, please note that the form has a mix of multiple-choice and open-ended questions. Make sure to answer all the questions, and be as detailed as possible in your responses. If you have any doubts or concerns, feel free to ask for clarification.
-</thinking>
-
 # Radioactivity Quiz - Help Guide
 ## Purpose
 This guide will walk you through completing the Radioactivity Quiz form, designed to test your knowledge on radioactivity and its related concepts.

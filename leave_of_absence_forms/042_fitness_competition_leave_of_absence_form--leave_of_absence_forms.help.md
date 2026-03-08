@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a leave of absence (LOA) due to a fitness competition. To ensure that the request is processed correctly, please review each field carefully and only submit this form if it's a legitimate reason for leave. Please note that this form may not be used for other types of leave, so only apply for a fitness competition leave of absence. 
-
-</thinking>
 # Fitness Competition Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used by participants to request a leave of absence for a fitness competition. This form is required to be filled out by both the participant and organizer in order to facilitate the processing of the leave of absence request.

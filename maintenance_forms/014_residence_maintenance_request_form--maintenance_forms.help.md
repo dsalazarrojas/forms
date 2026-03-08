@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect residence maintenance requests from users. This form is designed to be a simple and straightforward way to submit requests for maintenance work on a residence, whether it's a repair, replacement, or upgrade. The form is not intended for any other purpose other than collecting residence maintenance requests. Please ensure that only relevant and new requests are submitted, and that duplicates are not created.
 
 # Residence Maintenance Request Form - Help Guide

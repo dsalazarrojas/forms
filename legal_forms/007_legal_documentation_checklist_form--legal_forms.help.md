@@ -1,17 +1,3 @@
-<thinking>
-
-This form is a legal documentation checklist form designed to capture essential information for legal documents. The purpose of this form is to gather data related to client information, document details, and file uploads for efficient and accurate legal documentation management. This form is intended to be used by legal professionals, such as lawyers, paralegals, and legal administrators, to ensure that all necessary information is collected and verified in a systematic and organized manner.
-
-To determine the relevance of this form, consider the following:
-
-* Is the form being used for a specific type of legal document, such as wills, trusts, or estate planning?
-* Is the form being used in conjunction with other legal forms or systems?
-* Does the form meet the requirements of your organization's specific legal documentation procedures and policies?
-
-Before proceeding, ensure that the form is not being duplicated or used for a different purpose than intended.
-
-</thinking>
-
 # legal_documentation_checklist_form - Help Guide
 ## Purpose
 This form is a legal documentation checklist used to collect and verify information for legal documents.

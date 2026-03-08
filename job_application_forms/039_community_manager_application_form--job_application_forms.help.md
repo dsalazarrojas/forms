@@ -1,7 +1,3 @@
-<thinking>
-We're checking if the form has been duplicated or if the user has already submitted the form in the past. If you're seeing this form, it means you're either a new user or have been instructed to resubmit your application. Our team will review your application carefully and get back to you soon. Please follow the instructions below to complete the form accurately and efficiently.
-</thinking>
-
 # Community Manager Application Form - Help Guide
 ## Purpose
 The Community Manager Application Form is a comprehensive tool used to gather information from potential candidates interested in the Community Manager role. By filling out this form, you will be considered for the position and will have the opportunity to showcase your skills and experience.

@@ -1,7 +1,3 @@
-<thinking>
-The Education Freelance Business Application form is a tool used to collect information from individuals interested in offering their education services as a freelance professional. This form helps us assess their qualifications, experience, and availability to match them with potential clients or projects. Before starting, please ensure you haven't submitted an application earlier, as this form is only intended for new applicants. If you have any previous application records, please contact us to retrieve them before proceeding.
-</thinking>
-
 # Education Freelance Business Application - Help Guide
 ## Purpose
 The Education Freelance Business Application form is designed to collect essential information about your educational qualifications, work experience, and availability to work as a freelance professional. This form will help us match you with potential clients or projects that fit your skills and expertise.

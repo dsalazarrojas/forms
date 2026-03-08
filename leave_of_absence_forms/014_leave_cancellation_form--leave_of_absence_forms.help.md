@@ -1,9 +1,3 @@
-<thinking>
-
-We are about to create a help guide for the "leave_cancellation_form" which is used to process leave cancellations. This form aims to capture the necessary information for a smooth and efficient cancellation process. Before proceeding, please check that you are completing this form as part of a valid leave request and that you haven't already done so. 
-
-</thinking>
-
 # leave_cancellation_form - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the cancellation of leave requests. It ensures that all relevant information is recorded and verified to maintain an accurate and up-to-date record of employee leave.

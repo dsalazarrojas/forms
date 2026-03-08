@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm, the form purpose and fields appear to align with the following:
 
 *   The form is to record client payments for legal services.

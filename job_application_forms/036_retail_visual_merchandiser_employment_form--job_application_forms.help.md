@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for retail visual merchandisers seeking employment opportunities. The form is designed to collect information from applicants, allowing them to provide their contact details and work experience. This form can be used by retail companies or organizations to gather relevant information from potential candidates, streamlining their hiring process. Before proceeding, please ensure you are not submitting duplicate applications or applications for a position you have already applied for.
-</thinking>
-
 # Retail Visual Merchandiser Employment Form - Help Guide
 ## Purpose
 This form is designed for retail visual merchandisers to apply for employment opportunities. It collects information about your contact details and work experience to help us understand your background and qualifications.

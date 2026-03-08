@@ -1,9 +1,3 @@
-<thinking>
-The form's purpose is to screen applicants for homeownership eligibility by collecting demographic and financial information. The goal is to determine if the applicant meets the basic requirements for a mortgage loan. This form should be completed by potential homebuyers to assess their eligibility.
-
-Before completing this form, ensure that you have read and understood the instructions. The form may ask for sensitive information, so please provide accurate details about your employment, income, and financial history.
-</thinking>
-
 # Homeownership Eligibility Pre Screening - Help Guide
 
 ## Purpose

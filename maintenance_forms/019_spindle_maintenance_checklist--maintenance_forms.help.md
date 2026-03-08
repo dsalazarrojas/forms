@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for maintenance activities related to spindles, which are likely a type of machine or equipment used in various industries. The form likely serves as a checklist for maintenance personnel to ensure that all necessary checks are performed on spindles at the scheduled intervals. 
-
-This form does not appear to have any unique or specialized fields that would require additional guidance on how to complete it. However, to ensure accurate and efficient completion, it's crucial to review each field carefully and understand its purpose.
-
-The form consists of several fields, including checklists for machines, locations, technicians, and frequencies. Additionally, it includes fields for comments, date, and time, which are likely used to record the completion of the maintenance activity. The form also includes fields for signatures, which could be used to validate the completion of the activity.
-
-</thinking>
-
 # Spindle Maintenance Checklist - Help Guide
 ## Purpose
 This form is designed for maintenance activities related to spindles, which are likely a type of machine or equipment used in various industries. The form serves as a checklist for maintenance personnel to ensure that all necessary checks are performed on spindles at the scheduled intervals.

@@ -1,11 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the Attorney Consultation Form, we need to ensure that the form's purpose is clearly understood and that each field's intent is well-explained. Let's start by identifying the form's purpose: This form is designed to collect information from clients about their legal consultation needs, including their contact information, appointment preferences, case details, and objectives. This form will help attorneys understand the client's situation and preferences, allowing them to provide informed consultations.
-
-Next, let's consider the potential duplication of effort or irrelevant information. Upon reviewing the form, it seems that there are multiple fields that could be combined or rearranged for clarity. For instance, the "appointment_information" and "appointment_preferences" fields could be combined into one section, and some fields like "outcome_previous_case" might not be essential for all clients.
-
-However, since the form is already well-structured, we can proceed with creating the help guide, taking care to explain each field's purpose clearly and concisely.
-</thinking>
-
 # Attorney Consultation Form - Help Guide
 ## Purpose
 The Attorney Consultation Form is designed to gather essential information about your legal consultation needs, ensuring that the attorney understands your situation and preferences before your consultation.

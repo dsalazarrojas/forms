@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # email_listing_enrollment_form - Help Guide
 ## Purpose
 

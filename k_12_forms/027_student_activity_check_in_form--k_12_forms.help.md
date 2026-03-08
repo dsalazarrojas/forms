@@ -1,10 +1,3 @@
-<thinking>
-This form is meant for staff members to check in students attending events. It's likely used for events with large numbers of students, such as orientations, conferences, or workshops. The purpose of this form is to ensure accurate attendance records and provide relevant information for future events.
-
-This form should only be filled out for each unique student and event. 
-
-</thinking>
-
 # Student Activity Check In Form - Help Guide
 ## Purpose
 This form is used to check in students attending events. 

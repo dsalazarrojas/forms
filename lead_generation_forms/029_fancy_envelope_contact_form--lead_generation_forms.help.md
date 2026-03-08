@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a variant of a basic contact form, but with additional fields specific to a business or professional context. The purpose of this form is likely to collect contact information and specific details from users. Given the presence of fields like "email", "phone", "address", "company website", "job title", and "lead source", it's probable that this form is designed for B2B (Business-to-Business) or B2C (Business-to-Consumer) lead generation or inquiry purposes. It's also possible that this form could be used for other types of business-related inquiries or interactions.
-
-Checking the fields, we have a mix of text, email, and select input types, with some required and some optional fields. The lead source field seems to be a select-one type, which might be used to categorize the type of lead or contact source. Company size is a select-multiple type, which could be used to determine the scope or scale of the company.
-
-Before proceeding, make sure to review the form carefully and ensure that the fields are correctly filled out to ensure accurate representation and analysis of the contact or lead data.
-
-The "Fancy Envelope Contact Form" seems well-suited for gathering detailed contact information and categorizing leads or inquiries based on specific criteria. It's essential to understand that the form's purpose and field requirements are specific to a business or professional context, so be sure to tailor the completion process accordingly.</thinking>
-
 # Fancy Envelope Contact Form - Help Guide
 ## Purpose
 The Fancy Envelope Contact Form is designed to collect detailed contact information and categorize leads or inquiries based on specific criteria. It's likely used for Business-to-Business (B2B) or Business-to-Consumer (B2C) lead generation or inquiry purposes.

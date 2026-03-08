@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed to collect information for the purpose of auditing and assessing a supplier's sustainability practices. The form is divided into several sections, each of which captures a different aspect of the supplier's sustainability performance. The goal of this form is to gather data that can be used to evaluate and improve the supplier's sustainability performance.
 
 </thinking>

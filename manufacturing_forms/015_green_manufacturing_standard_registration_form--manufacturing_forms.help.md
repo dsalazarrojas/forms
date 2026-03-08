@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for companies to register for the Green Manufacturing Standard, a program that verifies a company's commitment to sustainable practices in the manufacturing industry. The form will be used to collect information about a company's energy, water, and waste consumption, as well as their greenhouse gas emissions and sustainability reporting. 
-This form is meant to be completed by a company representative and will be used to assess their compliance with the Green Manufacturing Standard. It's essential to have the necessary permissions and credentials, such as certifications or licenses, to fill out this form.
-</thinking>
-
 # Green Manufacturing Standard Registration Form - Help Guide
 ## Purpose
 The Green Manufacturing Standard Registration Form is designed for companies to declare their commitment to sustainable practices and register for the Green Manufacturing Standard. This form helps companies to provide information about their environmental impact and ensure transparency and accountability in the manufacturing industry.

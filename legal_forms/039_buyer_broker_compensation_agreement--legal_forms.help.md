@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Buyer Broker Compensation Agreement is a legal form that outlines the terms and conditions of the compensation for a real estate broker. It is typically used by brokers to define their rights and responsibilities when working with a buyer to find and purchase a property. This form ensures that both parties are clear on the compensation structure, services provided, and any exclusions or limitations.
 
 Before filling out this form, it is essential to understand that a broker is an individual or company that represents a buyer in a real estate transaction. This form is not applicable to real estate agents or other industry professionals.

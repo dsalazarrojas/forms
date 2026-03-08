@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to collaborate on makeup products. The purpose of this form is to gather relevant details from users, including product information, shipping address, and payment details. The form is likely used by businesses or organizations that collaborate with makeup product creators or vendors. The form is an adaptation of a generic form creation, and its purpose is to assist in collecting data for such collaborations. This form does not duplicate any existing form platforms but was created using AI for public survey topic metadata.
-</thinking>
-
 # Makeup Product Collaboration Registration Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from users who want to collaborate on makeup products.

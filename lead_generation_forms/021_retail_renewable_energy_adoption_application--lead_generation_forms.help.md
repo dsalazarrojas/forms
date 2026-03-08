@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be designed for collecting information from businesses or organizations interested in adopting renewable energy solutions. The form's purpose is to gather details about the business, its contact information, and the individual completing the form. This will help the organization understand the interest and needs of the business, enabling them to provide tailored support and guidance for a successful transition to renewable energy. To avoid duplication, this form should be used only for new submissions, and existing leads can be checked for similar requests before processing a new application. 
-</thinking>
-
 # Retail Renewable Energy Adoption Application - Help Guide
 ## Purpose
 The purpose of this form is to gather information from businesses or organizations interested in adopting renewable energy solutions.

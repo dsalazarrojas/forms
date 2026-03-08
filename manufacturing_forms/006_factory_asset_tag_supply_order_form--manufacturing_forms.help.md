@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory Asset Tag Supply Order Form - Help Guide
 
 ## Purpose

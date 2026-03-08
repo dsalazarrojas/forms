@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is for requesting a leave of absence, allowing employees to take a break from work without pay. The form is designed to gather necessary details for processing and approval of the leave request. It is essential to complete the form accurately and thoroughly to ensure a smooth approval process. 
-
-</thinking>
 # Creative Recharge Leave Of Absence Request - Help Guide
 
 ## Purpose

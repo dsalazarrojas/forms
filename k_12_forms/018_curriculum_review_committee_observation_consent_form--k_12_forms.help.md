@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the "Curriculum Review Committee Observation Consent Form". This form is meant to document observations made by teachers or observers during classroom activities. The form captures relevant details such as first name, last name, teacher name, date observed, time observed, school name, classroom name, grade level, and observed by. The form is used to ensure that all parties involved in the curriculum review process are aware of and consent to the observation. This form does not collect any sensitive information and is intended for internal use only. Please review the form carefully and ensure that all required fields are completed accurately. The form should not be used for other purposes without explicit consent from the relevant parties.
-</thinking>
-
 # Curriculum Review Committee Observation Consent Form - Help Guide
 
 ## Purpose

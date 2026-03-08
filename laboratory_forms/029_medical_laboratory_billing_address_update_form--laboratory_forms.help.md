@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Laboratory Billing Address Update Form - Help Guide
 
 ## Purpose

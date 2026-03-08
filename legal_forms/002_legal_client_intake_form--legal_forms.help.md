@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # legal_client_intake_form - Help Guide
 
 ## Purpose

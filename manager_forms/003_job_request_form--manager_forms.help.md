@@ -1,5 +1,3 @@
-<thinking>...this form is for requesting new job opportunities and is intended to gather contact information and job specifics from applicants. It is likely to be filled out by job seekers or their representatives. The form is not intended to be filled out by internal employees, nor is it a timesheet or expense report form. It is not intended to be used for other purposes than job requests. Please ensure that you are using this form for its intended purpose... </thinking>
-
 # Job Request Form - Help Guide
 ## Purpose
 The Job Request Form is a tool used for job seekers or their representatives to provide contact information and job specifics to our team. It is intended to be used to efficiently gather necessary details from applicants, and our team will use the information provided to evaluate job requests.

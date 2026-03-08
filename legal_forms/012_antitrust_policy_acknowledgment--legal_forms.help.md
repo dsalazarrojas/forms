@@ -1,16 +1,3 @@
-<thinking>
-The "Antitrust Policy Acknowledgment" form is used to document the acknowledgment of the company's antitrust policy by employees or stakeholders. This form is essential for ensuring that individuals understand and agree to comply with the policy, which is crucial for maintaining a fair and competitive market environment. The form should only be used for new employees or stakeholders who have not previously acknowledged the policy. If an individual has already acknowledged the policy, they should not be asked to complete this form again.
-
-To determine if this form is necessary, check the employee's file for a previous acknowledgment of the antitrust policy. If a previous acknowledgment exists, do not require them to complete this form again.
-
-This form will be used to collect information about the individual's acknowledgment of the policy, including the date of acknowledgment, their name, department, position title, direct manager or supervisor, antitrust policy version reviewed, date the policy was provided, and their understanding of the policy. The form will also collect information about their completion of antitrust compliance training, their understanding of key antitrust principles, and their agreement to comply with the policy.
-
-The form will serve as a record of the individual's acknowledgment and understanding of the antitrust policy, which is essential for maintaining a fair and competitive market environment.
-
-Please note that this form is a legal document and should be completed seriously and accurately.
-
-</thinking>
-
 # Antitrust Policy Acknowledgment - Help Guide
 ## Purpose
 The "Antitrust Policy Acknowledgment" form is used to document the acknowledgment of the company's antitrust policy by employees or stakeholders.

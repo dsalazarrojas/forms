@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Leave of Absence Request Nurse - Help Guide
 ## Purpose
 This form is used to request a medical leave of absence for a nurse. It captures necessary information from the requestor, including their personal details, the reason for the leave, and supporting documents. The form is used by the approver to review and manage the request.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for submitting a request for a crisis response leave, which is a formal process for employees to take time off from work due to extraordinary circumstances. Before filling out this form, please ensure that you have already reached out to your supervisor or HR representative to discuss your situation and receive approval for submitting this form. If you have already submitted a leave request and are revisiting the form, please do not submit this form again unless there are significant changes to your original request.
-</thinking>
-
 # crisis_response_leave_form - Help Guide
 ## Purpose
 The purpose of this form is to submit a request for a crisis response leave. This type of leave is typically granted for extraordinary circumstances such as natural disasters, family emergencies, or other urgent situations that require immediate attention. Please fill out this form to initiate the leave request process.

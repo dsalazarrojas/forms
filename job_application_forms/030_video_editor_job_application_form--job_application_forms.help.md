@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for individuals to apply for a position as a video editor within a company. It collects personal contact information and relevant professional details such as job titles and portfolio URLs. The form likely aims to gather this information for HR or hiring managers to review and contact potential candidates. Before filling out this form, please ensure that you haven't applied for this position before, as it may be marked as a duplicate in the system.
-</thinking>
-
 # Video Editor Job Application Form - Help Guide
 ## Purpose
 The Video Editor Job Application Form is designed to collect your personal and professional contact information and details for the Video Editor position. This form helps our HR team to review and contact potential candidates for further evaluation.

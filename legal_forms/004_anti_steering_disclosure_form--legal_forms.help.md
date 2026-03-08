@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from a borrower about their loan application, specifically to ensure they have been properly informed about the terms and conditions of their loan. The form is meant to be used internally to monitor and report on lender compliance with anti-steering regulations, which are designed to prevent predatory lending practices. It is crucial to ensure that the form is completed accurately and thoroughly to avoid any potential issues with regulatory compliance.
-
-Before filling out this form, please review the provided fields carefully and answer each question to the best of your ability. Ensure that all required fields are completed, and provide accurate information about your loan application.
-
-</thinking>
-
 # Anti Steering Disclosure Form - Help Guide
 ## Purpose
 This form is used to collect information about the borrower's loan application, ensuring they have been properly informed about the terms and conditions of their loan, and to monitor and report on lender compliance with anti-steering regulations.

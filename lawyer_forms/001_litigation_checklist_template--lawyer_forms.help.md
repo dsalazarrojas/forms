@@ -1,12 +1,3 @@
-<thinking>
-This form, "litigation_checklist_template", appears to be designed for collecting information about legal cases, likely for tracking, managing, or reporting purposes. It includes fields for various aspects of a case, such as case details, status, parties involved, description, numbers, dates, times, and contact information. 
-
-To determine the purpose of this form, I've analyzed its structure and the fields it contains. The form seems to be focused on collecting factual information about legal cases, which might be used for case management, reporting, or analytics purposes.
-
-I have not found any duplication of purpose or fields in the form.
-
-</thinking>
-
 # litigation_checklist_template - Help Guide
 ## Purpose
 This guide will walk you through completing the "litigation_checklist_template" form, which is designed to collect information about legal cases for tracking, management, or reporting purposes.

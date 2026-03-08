@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Management Weekly Review - Help Guide
 
 ## Purpose

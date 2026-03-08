@@ -1,11 +1,3 @@
-<thinking>Form purpose: This form is designed for customers to agree to the terms and conditions of an agreement between the customer and a business. The form requires the customer to provide necessary information such as their name, address, email, phone number, and signature. The form also requires the business to provide their name, address, and signature. The form helps to ensure that both parties are aware of and agree to the terms and conditions of the agreement.
-
-Non-duplication check: This form is a standard legal form that is commonly used in business settings. The information provided is necessary for the creation of a legal contract between the customer and business. There is no duplication of effort or information, as the form is designed to be a one-time submission.
-
-Internal logic and flow: The form is designed to be completed by the customer, with some fields requiring business input. The customer must agree to the terms and conditions, provide their contact information, and sign the agreement. The business must provide their name, address, and signature. The form is designed to be submitted once the terms and conditions have been read and agreed upon by both parties.
-
-</thinking>
-
 # Terms And Conditions Form - Help Guide
 ## Purpose
 This form is for customers to agree to the terms and conditions of an agreement between the customer and a business. It is a standard legal form that requires customer and business information to create a legal contract.

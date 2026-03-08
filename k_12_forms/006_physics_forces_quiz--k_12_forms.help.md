@@ -1,11 +1,3 @@
-<thinking>
-...The internal reasoning should include:
-- This form will help the user to assess their knowledge about physics forces. 
-- It is used to evaluate the user's understanding of different types of forces.
-- The form is divided into 12 questions.
-- Each question is a multiple-choice or short answer question.
-</thinking>
-
 # Physics Forces Quiz - Help Guide
 
 ## Purpose

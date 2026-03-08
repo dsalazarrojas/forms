@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their cosmetic preferences, interests, and purchasing habits. The survey is not affiliated with or endorsed by any form platforms, and its purpose is to provide a general overview of customer behavior and preferences in the cosmetic industry. The form is a public adaptation created using AI-generated metadata and is released under CC BY 4.0. You are free to use, modify, or even sell forms derived from it, just give credit. 
-Please note that the form is not affiliated with or endorsed by any form platform, and its purpose is to provide a general overview of customer behavior and preferences in the cosmetic industry. If you are unsure whether to use this form, please contact [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # Cosmetic Survey - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their cosmetic preferences, interests, and purchasing habits.

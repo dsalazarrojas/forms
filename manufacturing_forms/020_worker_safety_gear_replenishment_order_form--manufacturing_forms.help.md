@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for worker safety gear replenishment orders in a manufacturing context. The form is used to create a new hire order, manage replacement orders, and track damaged equipment. It is a crucial tool for ensuring that workers are properly equipped with necessary safety gear to perform their duties safely.
-The form should not be used to duplicate efforts or for non-urgent orders. If a worker is requesting a replacement for a non-damaged item, please use the existing inventory management system instead.
-</thinking>
-
 # Worker Safety Gear Replenishment Order Form - Help Guide
 ## Purpose
 This form is used to create a new hire order, manage replacement orders, and track damaged equipment for worker safety gear replenishment.

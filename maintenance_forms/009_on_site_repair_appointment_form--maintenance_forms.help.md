@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to schedule an on-site repair appointment with a technician. The form will likely be used by customers, clients, or internal staff to request maintenance or repair services for equipment, machinery, or other assets. The goal of this form is to gather essential information for the technician to prepare for the visit, including contact details, appointment scheduling, and any specific reasons for the visit. 
-</thinking>
-
 # On Site Repair Appointment Form - Help Guide
 ## Purpose
 The On Site Repair Appointment Form is used to schedule an on-site repair appointment with a technician for maintenance or repair services.

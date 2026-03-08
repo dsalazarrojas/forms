@@ -1,7 +1,3 @@
-<thinking>
-This form is used for evaluating a manufacturing process. It is used by manufacturing department staff to document and evaluate the current state of their process, identify areas for improvement, and ensure compliance with safety and quality standards. This form should not be used for other purposes such as general data entry, as each field is carefully designed to gather specific information related to the manufacturing process. This guide will walk you through each field and help you fill out the form correctly.
-</thinking>
-
 # Manufacturing Process Evaluation - Help Guide
 ## Purpose
 The purpose of this form is to evaluate and document the manufacturing process, ensuring that it is compliant with safety and quality standards. This form is used by manufacturing staff to review and improve the process.

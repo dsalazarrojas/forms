@@ -37,18 +37,7 @@ To complete this form, please follow these steps:
 
 <THE INTERNAL REASONING BLOCK REMAINS EMPTY> 
 
-## <thinking>
-  <!-- 
-  This form is meant to capture information about stock options, 
-  specifically the date they were granted, details about the stock options 
-  themselves, and information about the participant receiving the options.  
-  It seems this form is meant to be a general template and not specific to a 
-  certain company or employee, so the participant information can be filled out 
-  by anyone.  
-  -->
-</thinking>
-
-## Tips
+## ## Tips
 
 - Be thorough and accurate when filling out the form.
 - Double-check that all required fields are filled out before submission.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to allow users to order multiple products at once. It is likely used in scenarios where a person needs to purchase or request several items. This form is not intended for users who only need to order one product. The field selection and labeling are designed to accommodate multiple product options and quantities.
-</thinking>
-
 # Product Order Form With Multiple Products - Help Guide
 ## Purpose
 The Product Order Form With Multiple Products is used to collect information for orders that require multiple products. This form is designed for users who need to select multiple products and provide details such as quantity, price, and contact information.

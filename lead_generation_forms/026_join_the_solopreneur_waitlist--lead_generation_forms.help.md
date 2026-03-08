@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is completed correctly, the user should only be presented with it if they are interested in joining the Solopreneur waitlist. The form is a simple sign-up form used to capture basic information from potential customers. This information is used to keep in touch with the user and follow up on potential business opportunities. Each field is designed to gather necessary data without overcomplicating the process.
-</thinking>
-
 # join_the_solopreneur_waitlist - Help Guide
 
 ## Purpose

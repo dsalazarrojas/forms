@@ -1,7 +1,3 @@
-<thinking>
-This form is used to manage seasonal worker time-off requests, allowing employees to request leaves of absence for various reasons such as vacation, medical, or other types of leaves. The form should only be completed for seasonal workers who are not permanent employees. It is essential to carefully review the form to ensure that all fields are accurate and complete to avoid delays in processing the request.
-</thinking>
-
 # seasonal_worker_time_off_form - Help Guide
 ## Purpose
 This form is for seasonal workers to request time off, such as vacations, medical leaves, or other types of leaves. It is crucial to fill out this form accurately to ensure timely processing of your request.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Severance Settlement Form - Help Guide
 ## Purpose
 This form is designed to help employees and managers record the details of a severance settlement, including general information, severance package, employee and manager signatures, date, and other relevant company details. This form is intended to streamline the process of documenting the settlement and ensure that all necessary information is collected accurately.

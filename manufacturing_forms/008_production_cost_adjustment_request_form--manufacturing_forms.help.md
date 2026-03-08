@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to support the Production team in adjusting production costs for specific products. The form is used to request a cost adjustment for a production product, and it allows the production team to provide detailed information about the adjustment, including the reason for the adjustment, the proposed cost change, and the status of the adjustment.
-
-The form is not a one-time request, as it is intended to be used for ongoing production cost adjustments. Therefore, it is essential to understand how to complete this form correctly to ensure that the production team can efficiently process and manage the cost adjustments.
-
-Before completing this form, please ensure that the adjustment is not a duplicate request. If you have previously submitted a cost adjustment request for the same production product, do not submit another request. Please contact the production team if you need to re-apply for the same adjustment.
-
-</thinking>
-
 # Production Cost Adjustment Request Form - Help Guide
 ## Purpose
 The Production Cost Adjustment Request Form is designed to support the production team in adjusting production costs for specific products. This form is used to request a cost adjustment for a production product and is an essential tool for the production team to manage cost adjustments.

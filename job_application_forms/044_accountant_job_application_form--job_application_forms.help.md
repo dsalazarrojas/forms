@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help candidates apply for accounting jobs. It gathers information about the candidate's personal details, qualifications, experience, and preferences for job opportunities. This form is intended for internal use only and should not be used for external job postings. Please ensure that you are eligible to access this form before proceeding.
-</thinking>
-
 # Accountant Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from candidates for accounting job positions. It includes fields for personal details, qualifications, experience, and job preferences.

@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather information for trademark registration. It seems like this form is used to collect general information about a trademark, including its name, description, classification, and registration status. The fields suggest it's designed for a specific industry or business that involves trademarks.
-Before proceeding, please ensure that you're filling out this form correctly. You will need to provide a unique name for the trademark and its description. Make sure to select the correct "Filing Type", "Filing Status", and "Priority Date". If you're unsure about any of the fields or their meaning, please refer to this help guide.
-</thinking>
-
 # TM Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect general information for trademark registration. This form is used to gather details about a trademark, including its name, description, and registration status.

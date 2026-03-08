@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to request materials or equipment from the inventory management system. It is intended for use by employees who need to order or requisition materials or equipment for their work projects. The form should only be used for legitimate requests and not for personal gain or duplication of efforts. Please ensure that you have a valid reason for the requisition and that the requested materials or equipment are not already available in the inventory.
-
-</thinking>
-
 # Material Requisition Form - Help Guide
 ## Purpose
 The Material Requisition Form is used to request materials or equipment from the inventory management system for work projects.

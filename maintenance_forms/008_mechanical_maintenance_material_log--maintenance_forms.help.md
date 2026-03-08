@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Mechanical Maintenance Material Log form, we need to consider the purpose and functionality of each field. This form appears to be a tool used to log and track materials used during mechanical maintenance tasks. It likely serves to provide a record of the materials used, their quantities, and related costs for auditing, reporting, or inventory management purposes.
-</thinking>
-
 # Mechanical Maintenance Material Log - Help Guide
 ## Purpose
 The Mechanical Maintenance Material Log form is designed to record information about materials used during mechanical maintenance tasks. This form helps to track materials used, their quantities, and costs for future reference and record-keeping.

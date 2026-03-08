@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about individuals who are referring someone to the dating app. The purpose of this form is to gather details about the referrer and the person being referred, including their contact information, relationship type, and job details. This information will be used to validate the authenticity of the referral and ensure that it is a legitimate lead for the app. To complete this form, please ensure that you are the authorized referrer and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Dating App Referral Form - Help Guide
 ## Purpose
 This form is used to collect referrals for the dating app. Please fill out the form completely and accurately to ensure that the referral is valid.

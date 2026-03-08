@@ -1,7 +1,3 @@
-<thinking>
-This form template is designed to collect information for a safety management waiver form. The purpose of this form is to ensure that employees have completed the necessary training or have permission to work with specific safety-sensitive areas or equipment. This form should only be used for this specific purpose and not for other unrelated activities. Please ensure you're using this form in the correct context.
-</thinking>
-
 # Safety Management Waiver Form Template - Help Guide
 ## Purpose
 The Safety Management Waiver Form Template is used to document employee compliance with safety regulations and protocols when working with safety-sensitive areas or equipment.

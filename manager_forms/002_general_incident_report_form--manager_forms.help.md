@@ -1,7 +1,3 @@
-<thinking>
-This form is used by employees, customers, or suppliers to report any incidents that occur within the organization. The purpose of this form is to collect detailed information about the incident, including its type, date, time, location, and description. It also allows the reporter to provide witness details, witness name, and witness signature. The form can be completed by anyone who witnesses or experiences the incident, but it is intended for those who can provide more context and details. Please fill out the form carefully and accurately to help us understand the incident better.
-</thinking>
-
 # General Incident Report Form - Help Guide
 ## Purpose
 This form is used to collect information about incidents that occur within the organization.

@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Metal Measurement Standardization Survey" form, I first need to understand the form's purpose and how the fields were designed. Based on the YAML provided, it appears that this form is intended to gather information about standardization needs and practices in the manufacturing industry.
-
-Before creating the help guide, I want to ensure that this form is not a duplicate of an existing form. However, without access to any existing forms, I will proceed with creating the guide based on the provided metadata.
-
-</thinking>
-
 # Metal Measurement Standardization Survey - Help Guide
 ## Purpose
 This form is designed to collect information about standardization needs and practices in the manufacturing industry. It is intended to gather data about metal analysis, standardization practices, analysis techniques, data collection, and other relevant factors.

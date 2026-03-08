@@ -1,8 +1,3 @@
-<thinking>
-This form is used to validate the source of materials and ensure that all necessary information is provided before proceeding with the material validation request. This form is designed to gather details about the supplier, material information, and any supporting documents required for validation. Before starting, please ensure that you have all the necessary documents and information ready to complete the form accurately. Additionally, this form is a one-time request, so please select only the option that best describes the validation request you need to submit.
-
-</thinking>
-
 # Material Source Validation Request Form - Help Guide
 ## Purpose
 The Material Source Validation Request Form is used to validate the source of materials and ensure that all necessary information is provided before proceeding with the material validation request.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from job applicants for the hiring process. It is intended to be a simple and user-friendly form that can be used on both desktop and mobile devices. Please ensure that you fill out the form accurately and thoroughly, as the submitted information will be reviewed for the purpose of evaluating your application. Please do not submit duplicate applications as it may cause unnecessary processing time.
-</thinking>
-
 # Simple Job Application Form White And Responsive - Help Guide
 ## Purpose
 This form is used to collect personal and professional information from job applicants. Please fill out the form with the required information to help us evaluate your application.

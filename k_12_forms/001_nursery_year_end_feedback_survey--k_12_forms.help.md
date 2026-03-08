@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for gathering feedback from parents on the nursery year end feedback survey. This form will help teachers and staff to understand the overall experience of the nursery and identify areas that need improvement. To ensure that the feedback is accurate and reliable, I will only include fields that are relevant to the topic and exclude any duplicate fields.
-</thinking>
-
 # Nursery Year End Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from parents on the nursery's performance, teaching quality, communication, and overall experience. The feedback will help the nursery to identify areas of improvement and make necessary changes to provide better services to the students.

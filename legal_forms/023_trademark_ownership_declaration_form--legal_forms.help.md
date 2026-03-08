@@ -1,9 +1,3 @@
-<thinking>
-This form is likely for trademark owners to declare their ownership details to some organization or authority, possibly for regulatory purposes or for the maintenance of some sort of recordkeeping system. The form may be part of a larger system for trademark management, and its purpose is to gather information about trademark owners. To ensure this guide is relevant and does not duplicate existing documentation, I will base my explanations on the fields provided in the YAML.
-
-This form appears to be used for collecting information about business and owner details, including address, email, phone number, and dates related to the trademark registration and renewal processes.
-</thinking>
-
 # Trademark Ownership Declaration Form - Help Guide
 ## Purpose
 

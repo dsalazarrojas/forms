@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to track the maintenance activities performed on various devices/equipment within an organization. It helps in keeping a record of the maintenance history, tracking the status of the devices, and facilitating communication between the maintenance team and other stakeholders. This form is likely to be used by maintenance personnel, asset managers, or other team members involved in the maintenance process.
-
-To ensure the form is filled out correctly and consistently, it's essential to review the provided fields and their explanations below.
-
-</thinking>
-
 # Maintenance Device Tracking Consent Form - Help Guide
 ## Purpose
 This form is used to track the maintenance activities performed on devices/equipment within an organization, ensuring accurate records and facilitating communication between the maintenance team and other stakeholders.

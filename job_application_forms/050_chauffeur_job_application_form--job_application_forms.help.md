@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal and professional information from individuals applying for a Chauffeur position. It aims to gather details about the applicant's personal identity, driving experience, professional history, and relevant skills. The form is divided into three main sections: Personal Information, Driver License Information, and Professional Experience.
-</thinking>
-
 # Chauffeur Job Application Form - Help Guide
 ## Purpose
 The Chauffeur Job Application Form is designed to collect information from individuals applying for a Chauffeur position. It aims to gather details about the applicant's personal identity, driving experience, professional history, and relevant skills.

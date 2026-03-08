@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to facilitate leave requests from employees within the organization. The form is used by employees to request leave for personal or business reasons, and managers are responsible for reviewing and approving or denying these requests. 
-
-To complete this form, the employee will need to provide personal identifiable information such as their name and ID. They will also need to specify the start and end dates of their leave, as well as the reason for their absence. The manager will then review the request and indicate whether the leave is approved or denied, as well as whether they approve or deny the request in general. 
-
-Please note that this form is designed to be completed by employees for their own leave requests, and is not intended for other purposes such as vacation time tracking or other non-leave related activities. It is also assumed that the employee has already been granted access to the form and has the necessary permissions to submit requests.
-
-</thinking>
-
 # employee-leave-request-approval-form - Help Guide
 ## Purpose
 This guide is to help employees understand how to complete the Employee Leave Request Form, a form used to request and track leave within the organization.

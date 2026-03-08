@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the maintenance of chillers, which are crucial for the proper functioning of cooling systems in various facilities. The purpose of this form is to ensure that maintenance is performed consistently and thoroughly, and that any issues or concerns are addressed promptly. By filling out this form, technicians can accurately record the date of maintenance, the status of the chiller's coolant and refrigerant levels, and any other relevant information that may impact the chiller's performance. This form is designed to be completed during or after maintenance is performed, and is intended to be a quick and efficient way to collect necessary data. It is not intended to be a comprehensive maintenance plan, but rather a tool to supplement and guide regular maintenance activities.
-</thinking>
-
 # Chiller Maintenance Checklist - Help Guide
 ## Purpose
 The Chiller Maintenance Checklist is a form used to document the maintenance of chillers, ensuring consistent and thorough maintenance, and addressing any issues or concerns promptly.

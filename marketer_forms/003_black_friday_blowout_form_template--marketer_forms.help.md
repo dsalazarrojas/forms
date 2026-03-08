@@ -1,23 +1,3 @@
-<thinking>
-We are creating a help guide for the Black Friday Blowout Form Template. This form is designed to gather information from customers about their shopping preferences, interests, and contact information. The form's purpose is to help us better understand our customers' needs and provide them with targeted promotions and offers. The form will be used to collect data on customers' first and last names, email addresses, phone numbers, preferred contact method, shopping preferences, budget range, favorite brands, deal type preferences, shopping time preferences, newsletter sign up, referral source, and special requests.
-
-Before filling out the form, make sure you are aware of the following:
-
-* You must provide a valid first and last name.
-* You must provide a valid email address.
-* You must choose at least one preferred contact method.
-* You must choose at least one shopping preference.
-* You must select a budget range.
-* You must select at least one deal type preference.
-* You will be asked to sign up for our newsletter if you choose to do so.
-* You will be asked how you found out about this promotion.
-* You can optionally provide a phone number and select a shopping time preference.
-* You can optionally provide a favorite brand and special requests.
-
-Please note that some of the fields are optional, and you can leave them blank if you do not want to provide that information.
-
-</thinking>
-
 # Black Friday Blowout Form Template - Help Guide
 ## Purpose
 This form is designed to gather information from customers about their shopping preferences, interests, and contact information to provide them with targeted promotions and offers.

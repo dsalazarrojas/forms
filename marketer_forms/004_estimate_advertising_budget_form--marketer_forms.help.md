@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to estimate the advertising budget for a marketing campaign. The form is used to gather information about the campaign's scope, duration, and costs. This form is likely used by marketing teams or advertisers to plan and budget for their advertising efforts.
-
-To avoid duplication, this form should only be used when a new campaign is being planned or when existing campaign data needs to be updated.
-
-The form is designed to be completed by a single user, likely a marketing professional, and is intended to be used as a tool for internal planning and budgeting purposes.
-
-</thinking>
-
 # estimate_advertising_budget_form - Help Guide
 ## Purpose
 This form is used to estimate the advertising budget for a marketing campaign.

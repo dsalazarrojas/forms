@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist site administrators and maintenance personnel in conducting regular inspections and maintenance tasks for antennas. The purpose of this form is to gather critical information about the physical condition of antennas, identify any potential issues, and schedule follow-up actions as needed. This form will help streamline the maintenance process, ensure consistency, and reduce errors. Please ensure this form is used in conjunction with standard operating procedures and relevant industry guidelines.
-</thinking>
-
 # Antenna Maintenance Checklist - Help Guide
 
 ## Purpose

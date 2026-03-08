@@ -1,7 +1,3 @@
-<thinking>**Lead Generation Forms are used to capture lead information from potential customers, allowing your sales team to follow up with them with targeted marketing materials, sales pitches, and other communications. This form helps to streamline lead data collection, reducing manual data entry and increasing the accuracy of lead information. The Lead Capture Form is designed to be a simple and quick way to capture the essential information about potential leads.**
-
-</thinking>
-
 # Lead Capture Form - Help Guide
 ## Purpose
 The Lead Capture Form is a crucial tool for sales teams to collect relevant information about potential customers and leads. The form is designed to be easy to use and requires minimal information to fill out.

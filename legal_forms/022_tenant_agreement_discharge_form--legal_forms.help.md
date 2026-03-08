@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to complete the Tenant Agreement Discharge Form, which is a crucial document for terminating a rental agreement between a landlord and a tenant. Before proceeding, please ensure that you have a valid reason for discharging the agreement and that you're not duplicating efforts. This form is designed to be completed by either the landlord or the tenant, depending on the circumstances. Please review the form carefully and ensure that all required fields are filled out accurately and completely.
-</thinking>
-
 # Tenant Agreement Discharge Form - Help Guide
 ## Purpose
 The Tenant Agreement Discharge Form is used to formally terminate a rental agreement between a landlord and a tenant. This form is used to provide a clear understanding of the reason for discharge and the terms of the termination.

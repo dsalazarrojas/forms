@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to request a review of an employee communication draft from a manager. This form is used by employees to submit their draft for review, and the manager will use the feedback and comments provided to guide the employee in refining their communication. 
-This form is not intended to be used for other purposes, such as submitting a completed communication to the manager. 
-Please ensure that you are submitting a draft and not a completed communication. 
-</thinking>
-
 # Employee Communication Draft Review Request - Help Guide
 ## Purpose
 The Employee Communication Draft Review Request form is used to submit a draft of an internal or external communication, such as a memo, newsletter, or presentation, for review by a manager.

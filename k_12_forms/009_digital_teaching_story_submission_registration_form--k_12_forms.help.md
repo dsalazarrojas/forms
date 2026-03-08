@@ -1,7 +1,3 @@
-<thinking>
-This form is a digital teaching story submission registration form. It's meant to be filled out by teachers or educators who want to share their digital teaching stories with the platform. The form is required for all submissions. Submissions will be reviewed and may be used for further development of the platform. This form will not be used for non-deduplicative purposes, so please do not fill out the form if you've already submitted a story previously.
-</thinking>
-
 # Digital Teaching Story Submission Registration Form - Help Guide
 ## Purpose
 This form is for teachers or educators to submit their digital teaching stories, which will be reviewed and potentially used to develop the platform further.

@@ -1,22 +1,3 @@
-<thinking>
-This form is used by managers to allocate positions within the organization. It collects information about the department, position title, effective start date, and other relevant details. 
-
-To confirm, the form is used to manage changes in job positions within the organization, ensuring that all necessary information is captured and recorded accurately. 
-
-The form can be completed in multiple stages, allowing managers to fill in details as and when they become available. 
-
-Please note that some fields are optional, and the form can be completed in a way that suits the manager's workflow. 
-
-Also, please note that this form is for internal use only and should not be shared with external parties. 
-
-The form is designed to be completed by managers who are authorized to allocate positions within the organization. 
-
-Please ensure that you have the necessary permissions to complete this form before proceeding. 
-
-Please ensure that you complete all required fields before submitting the form. 
-
-</thinking>
-
 # Position Allocation Form - Help Guide
 ## Purpose
 The Position Allocation Form is used to collect and manage information about job positions within the organization. It helps to ensure that all necessary details are captured and recorded accurately.

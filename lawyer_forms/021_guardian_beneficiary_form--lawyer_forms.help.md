@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a minor's guardian or beneficiary, typically used in legal or financial contexts. Its purpose is to gather essential details about the individual's relationship with the minor, including their name, birthdate, address, and contact information. The form should only be completed if the individual has a valid connection to the minor, such as being a parent or legal guardian. 
-</thinking>
-
 # Guardian Beneficiary Form - Help Guide
 
 ## Purpose

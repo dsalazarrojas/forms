@@ -1,18 +1,3 @@
-<thinking> 
-This form is for nominating individuals for judicial positions. The purpose of this form is to provide a structured way to collect information about the nominee and their qualifications. The form is designed to ensure consistency and accuracy in the nomination process.
-
-To complete the form, follow these steps:
-
-1. Provide a brief description of the nomination.
-2. Enter the nominee's details, including their name, position, qualifications, and contact information.
-3. Select the nominee's qualifications and reasons for nomination.
-4. Upload supporting documents, if applicable.
-5. Enter any additional comments or notes.
-
-Please note that the form is not for self-nomination.
-
-</thinking>
-
 # Nomination For Judicial Positions - Help Guide
 ## Purpose
 This form is for nominating individuals for judicial positions. It collects information about the nominee and their qualifications to ensure consistency and accuracy in the nomination process.

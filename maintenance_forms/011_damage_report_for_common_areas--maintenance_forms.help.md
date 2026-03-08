@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about damage or issues in shared spaces. This form is likely to be used to report maintenance problems that need to be addressed. Please check that the form hasn't been filled out previously by the same user, as duplicate reports may result in unnecessary work for maintenance teams. Also, try to report only once per issue, and report new issues separately if necessary.
-</thinking>
-
 # Damage Report For Common Areas - Help Guide
 ## Purpose
 This form is used to report damages or issues in shared spaces such as common areas within a building or community. 

@@ -1,7 +1,3 @@
-<thinking>
-We have a form that is used to gather information for joint venture contracts. The purpose of this form is to collect details about the terms of a joint venture, including the duration and start and end dates, payment terms, and contract status. We want to ensure that users understand how to complete this form correctly and what each field represents so that they can provide accurate and complete information. To avoid duplication and ensure consistency, we will be referencing the provided YAML fields to create this help guide.
-</thinking>
-
 # Joint Venture Contract Form - Help Guide
 ## Purpose
 The Joint Venture Contract Form is a tool used to collect and document the key terms and details of a joint venture. This form ensures that all relevant information is captured accurately and consistently to facilitate effective joint venture operations.

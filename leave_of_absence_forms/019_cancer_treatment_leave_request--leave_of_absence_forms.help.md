@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cancer Treatment Leave Request - Help Guide
 ## Purpose
 This form is for employees to request a leave of absence for cancer treatment. It will help HR understand the specifics of your request and provide necessary information for the leave approval process.

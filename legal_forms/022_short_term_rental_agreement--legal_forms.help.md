@@ -1,7 +1,3 @@
-<thinking>
-This form is a Short Term Rental Agreement, which is a legal document that outlines the terms and conditions of a short-term rental or lease between a landlord and a tenant. This form is intended to provide a clear and concise way to document the agreement between the parties. Before proceeding, please ensure that you have read and understood the terms and conditions of the lease carefully and that this form is not a substitute for professional legal advice.
-</thinking>
-
 # Short Term Rental Agreement - Help Guide
 ## Purpose
 The Short Term Rental Agreement is a document used to outline the terms and conditions of a short-term rental or lease between a landlord and a tenant. It is essential to have this agreement in place to ensure that both parties are on the same page and to prevent any potential disputes.

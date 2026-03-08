@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect job application details. It is intended to help users understand what kind of job opportunities they are interested in applying for and what their expectations are from a job.
-
-To prevent data duplication, ensure you are not creating multiple applications for the same job. If you do create a duplicate application, it will be removed. Please note that you may need to fill out more than one page as the form has multiple sections. 
-
-Before proceeding, ensure you have a clear understanding of the job type and location you are interested in applying for. Please fill out each field carefully and accurately, as your responses will be used to match you with suitable job opportunities.
-
-</thinking>
-
 # Development Goals Employment Form - Help Guide
 ## Purpose
 The Development Goals Employment Form is used to collect job application details.

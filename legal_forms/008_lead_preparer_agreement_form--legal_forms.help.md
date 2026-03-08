@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for lead preparers to document their responsibilities and agreements with clients. The form captures essential details such as project information, project responsibilities, timelines, and contact information for the lead preparer. It also allows the lead preparer to accept their responsibilities and confirm their acceptance of the project. 
-The form is designed to be a simple and straightforward tool for lead preparers to communicate with clients and ensure a clear understanding of their roles and expectations. It's essential to complete this form carefully and accurately to avoid any potential issues or misunderstandings.
-</thinking>
-
 # Lead Preparer Agreement Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...The Bereavement Leave Absence Form is used to request bereavement leave, a type of leave typically taken after the loss of a family member or close relative. This form helps to document the necessary information for processing the request efficiently and fairly. Before proceeding, ensure you have not previously submitted a form for this purpose and that the requested bereavement leave is not already approved.</thinking>
-
 # Bereavement Leave Absence Form - Help Guide
 ## Purpose
 The Bereavement Leave Absence Form is a document used to request bereavement leave, which is a type of leave taken after the loss of a family member or close relative. This form is essential for processing your request efficiently and fairly.

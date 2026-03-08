@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Educator Climate Change Literacy Registration Form", we need to understand the form's purpose, which is to collect information from educators to register them for climate change literacy programs or events. This form likely helps to gather necessary data for organizers to manage the registration process efficiently.
-
-The form appears to be designed to collect various types of information, including personal details, contact information, and educational background. It's possible that the form is intended for educators to provide a general overview of themselves, their work, and their interests, which can help organizers tailor the content and resources offered to them.
-
-Before proceeding, we should verify that this form is not a duplicate of existing ones in the organization and that there are no other forms with similar purposes. It would be best to check if there are any existing forms or processes that can be used for this purpose to avoid duplication and ensure data consistency.
-
-</thinking>
-
 # Educator Climate Change Literacy Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from educators to register them for climate change literacy programs or events. It will help organizers gather necessary details for efficient management of the registration process.

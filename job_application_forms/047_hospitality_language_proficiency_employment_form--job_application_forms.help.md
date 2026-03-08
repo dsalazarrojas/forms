@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on a candidate's language proficiency, availability, and work preferences for a hospitality job. The form asks for the candidate's name, language proficiency in various languages, available start and end dates, available work hours, and availability for various work-related activities. This form is intended for candidates applying for hospitality-related positions, but it might not be necessary for internal employees or contractors. It's recommended to only fill out this form if you are a candidate applying for a hospitality job. The form is also a helpful tool for employers to quickly gather the required information for the candidate's language proficiency and work preferences.
-</thinking>
-
 # Hospitality Language Proficiency Employment Form - Help Guide
 ## Purpose
 This form is designed to collect information on a candidate's language proficiency, availability, and work preferences for a hospitality job.

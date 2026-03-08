@@ -1,7 +1,3 @@
-<thinking>
-The School Mascot Selection Voting Form is used to gather opinions from students, staff, and faculty on which mascot they prefer for a school. The form collects information on individual preferences for school mascot selection, allowing users to submit their choices for a particular school's mascot. The purpose of this form is to get diverse opinions on the mascot and to determine which mascot is most liked. This form is not meant to be used to collect sensitive or critical information, and users can select one or multiple mascots as their favorite. The form is also not designed to collect any personal data other than what is explicitly mentioned in the form fields.
-</thinking>
-
 # School Mascot Selection Voting Form - Help Guide
 ## Purpose
 This form is designed to collect opinions on which school mascot is preferred. Please submit your favorite mascot options and any additional information to help us understand your opinion better.

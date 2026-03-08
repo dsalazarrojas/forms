@@ -1,13 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, let's analyze the provided YAML fields. 
-This form appears to be a machinery maintenance checklist that collects information about equipment, its maintenance type, schedule, and other relevant details. The form is likely used by maintenance teams or personnel to track and manage machinery maintenance activities. The form might be part of a larger system for asset management or maintenance planning.
-
-The fields included in the form suggest that it is designed to collect data on equipment, maintenance type, issue description, schedule repair, repair type, maintenance frequency, next schedule date, technician assigned, notes, contact email, and contact phone. This information is likely used to plan and schedule maintenance activities, track equipment condition, and communicate with stakeholders.
-
-Upon reviewing the form fields, I didn't notice any duplication or redundancy. Each field seems to contribute to the overall goal of collecting and managing maintenance data.
-
-</thinking>
-
 # Machinery Maintenance Checklist Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from candidates for the summer internship program. This form is designed to capture relevant details such as name, contact information, availability, and experience in a way that makes it easy to compare and evaluate candidates.
-To ensure you get the most out of this form, make sure you have completed all the required fields and provide honest information about your availability and work experience. 
-This form is a one-time submission for the summer internship application. 
-If you are applying for multiple internships or programs, please submit a separate form for each opportunity.
-</thinking>
-
 # Summer Internship Application Form - Help Guide
 ## Purpose
 The Summer Internship Application Form is designed for candidates to submit their application for the summer internship program. This form is used to collect relevant information from candidates, such as their name, contact information, availability, and work experience.

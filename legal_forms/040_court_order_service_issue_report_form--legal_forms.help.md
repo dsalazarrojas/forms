@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to report issues related to court orders, specifically for court service issues. This form is intended for users who need to report issues with court orders, such as delays, errors, or discrepancies. It is recommended that users only complete this form if they have experienced an issue with a court order, rather than if they are simply checking on the status of a case.
-The form is designed to be completed by users who have experienced an issue with a court order, and should not be used for general status inquiries. 
-This form is intended to gather specific information about the issue, including the case number, date of issue, and details about the issue.
-The fields in this form are designed to capture relevant information about the issue, including the case number, date of issue, and details about the issue. 
-</thinking>
-
 # Court Order Service Issue Report Form - Help Guide
 ## Purpose
 This form is designed to report issues related to court orders, specifically for court service issues.

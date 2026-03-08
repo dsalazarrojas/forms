@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly, the following internal reasoning will be applied: the form is designed for tracking high school student's attendance during tutoring sessions. The primary purpose is to record the student's name, ID, session date, time, location, and other relevant details such as attendance status, absence reason, and notes. Each field is designed to collect specific information, so ensure that the correct data is provided for each field to avoid any discrepancies or errors. Please review each field carefully to ensure accuracy.
-</thinking>
-
 # High School Tutoring Attendance Form - Help Guide
 ## Purpose
 This form is designed to record high school students' attendance during tutoring sessions. It captures essential details such as student name, ID, session date, time, location, and other relevant information to track attendance, absence reasons, and notes.

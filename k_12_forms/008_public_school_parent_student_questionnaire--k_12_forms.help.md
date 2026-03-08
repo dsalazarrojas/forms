@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the Public School Parent/Student Questionnaire form. This form is designed to collect essential information from parents and students about their public school experiences. Before proceeding, please ensure you have not filled out this form in the past to avoid duplication of effort. If you're unsure about any field, please refer to this guide for clarification.
-</thinking>
-
 # Public School Parent/Student Questionnaire - Help Guide
 ## Purpose
 The Public School Parent/Student Questionnaire is a form designed to collect information from parents and students about their experiences in public schools. This form helps the school administration understand their students' and parents' needs, providing valuable feedback for improvement.

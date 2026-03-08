@@ -1,5 +1,3 @@
-<thinking>As the expert form designer and technical writer, I need to provide a clear and concise help guide for the Manufacturing Skilled Worker Job Application form. Before creating the guide, I would like to confirm that the form is intended to collect job application information from skilled workers for manufacturing jobs. It is crucial to ensure that the form is correctly used for its purpose and does not overlap with existing forms or processes. Please let me know if there are any changes or additions to be made before proceeding with the help guide creation.</thinking>
-
 # Manufacturing Skilled Worker Job Application - Help Guide
 ## Purpose
 The Manufacturing Skilled Worker Job Application form is designed to collect information from skilled workers applying for manufacturing jobs. This form will help our team assess your qualifications, experience, and availability for specific job positions.

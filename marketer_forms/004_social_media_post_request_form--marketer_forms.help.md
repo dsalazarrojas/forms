@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect requests for social media posts from users. It's not intended for users to submit posts directly to social media platforms, but rather to request that a social media post be created by an authorized staff member. This way, we can ensure that posts are created and approved by the right people within the organization. This form should only be used to submit requests for new social media posts, and not for posting updates or existing content. Please ensure you are submitting a valid request before filling out this form... </thinking>
-
 # Social Media Post Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request a social media post on a specific social media channel.

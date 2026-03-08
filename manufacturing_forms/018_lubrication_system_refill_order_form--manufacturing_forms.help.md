@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be used for submitting lubrication system refill orders. It is intended for users who are responsible for maintaining the lubrication system, such as maintenance personnel or procurement managers. The form is used to gather information about the current state of the lubrication system, including the system ID, part ID, quantity needed, and submitter information. This form is likely to be used in a manufacturing context, where the lubrication system is used to keep machinery and equipment running smoothly.
-
-To ensure that this form is used correctly, please make sure to review the fields below and fill them out accurately.
-
-</thinking>
-
 # Lubrication System Refill Order Form - Help Guide
 ## Purpose
 The Lubrication System Refill Order Form is used to submit refill orders for the lubrication system. This form gathers necessary information from the submitter to ensure the correct materials are ordered and delivered to the correct location.

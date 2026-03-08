@@ -1,20 +1,3 @@
-<thinking>
-The Negligence Law Evaluation Survey is a tool used to assess the circumstances surrounding a potential negligence claim. It is designed to evaluate whether a breach of duty occurred, if so, whether it caused harm, and if so, what kind of harm it caused. This form is meant to guide users in identifying the key elements that contribute to a negligence case. It is not meant to be a comprehensive or exhaustive guide, but rather a framework for organizing thoughts and information.
-
-The purpose of this form is to:
-
-*   Determine if a breach of duty occurred
-*   Determine if the breach caused harm
-*   Define the duty that was breached
-*   Define the causation that led to the harm
-*   Define the harm suffered
-
-When using this form, ensure that the responses are accurate and relevant to the specific situation being assessed. This form is not a substitute for legal advice or professional consultation. Users should consult with a qualified legal professional to ensure accurate and applicable information. 
-
-Please fill out this form carefully and honestly to get the most out of it.
-
-</thinking>
-
 # Negligence Law Evaluation Survey - Help Guide
 ## Purpose
 

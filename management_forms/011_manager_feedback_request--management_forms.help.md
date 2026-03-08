@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely intended for managers to provide feedback to their team members or employees on their performance, strengths, and areas for improvement. The purpose of this form is to collect feedback that can be used to support employee development and performance evaluations. To complete this form, users should only answer questions about manager-performance and areas for improvement if the respective options are enabled.
-
-</thinking>
-
 # Manager Feedback Request - Help Guide
 ## Purpose
 The Manager Feedback Request form is a tool for managers to provide feedback on team member performance, strengths, and areas for improvement. This form allows managers to provide objective and unbiased feedback that can be used to support employee development.

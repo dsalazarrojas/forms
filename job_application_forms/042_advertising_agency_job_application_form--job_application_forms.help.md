@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Advertising Agency Job Application Form that is clear, concise, and practical.</thinking>
-
 # Advertising Agency Job Application Form - Help Guide
 ## Purpose
 This form is designed for applicants to apply for jobs at the advertising agency. It is required to be completed with accurate and honest information, including personal details, employment history, and education background.

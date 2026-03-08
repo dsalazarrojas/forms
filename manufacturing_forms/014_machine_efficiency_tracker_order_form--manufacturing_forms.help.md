@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to track the efficiency of machines in a manufacturing process. It is used to collect data on various aspects of machine performance, including model, size, type, condition, monitoring tools, and installation status. This form is crucial for monitoring and improving machine efficiency. Please ensure that you are using this form for its intended purpose and not duplicating effort. If you are unsure about any aspect of this form, please contact the relevant personnel for guidance.</thinking>
-
 # Machine Efficiency Tracker Order Form - Help Guide
 ## Purpose
 This form is designed to track the efficiency of machines in the manufacturing process. It helps to collect data on various aspects of machine performance, allowing for better monitoring and improvement of machine efficiency.

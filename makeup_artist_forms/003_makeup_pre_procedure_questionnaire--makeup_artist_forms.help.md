@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information from clients about their makeup preferences and procedures. The form is likely being used for a business in the beauty industry, such as a makeup salon or spa. The form is designed to be filled out by clients before a makeup procedure, to help the staff understand their needs and preferences. The form is not meant to be completed by staff members, but rather by clients. The purpose of this form is not to collect payment information or sensitive personal data. Please note that this form is not intended to be a payment form or a personal data collection form.
-</thinking>
-
 # Makeup Pre Procedure Questionnaire - Help Guide
 ## Purpose
 This form is a pre-procedure questionnaire designed to gather information from clients about their makeup preferences and procedures.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely for internal use within a factory or manufacturing setting, where factory equipment fasteners are being ordered. The form's purpose is to document and track the ordering process for fasteners, ensuring accurate inventory management and streamlined logistics. To confirm, the form should only include fields that are relevant to the fastener's ordering process, and not duplicate information already available in the factory's inventory system.
-</thinking>
-
 # Factory Equipment Fastener Order Form - Help Guide
 ## Purpose
 This form is used to document the ordering process for factory equipment fasteners. It collects essential information to track the quantity and delivery details of fasteners ordered for factory equipment.

@@ -1,11 +1,3 @@
-<thinking>
-This form seems to be used for collecting information related to a crowdStrike ( likely a type of investigation or case) from various sources. The form appears to be designed for capturing details of the case, the person conducting the investigation (the investigator), and specifics about the event or incident being investigated. The purpose of this form is likely to gather relevant information for further analysis or resolution. The form is not explicitly designed for sensitive or personal data collection, as there are no indications of data protection or confidentiality measures.
-
-To ensure data quality and accuracy, the form fields are mostly optional, but it's still crucial to complete them as fully as possible. Each field is designed to collect specific information, and skipping or leaving them blank might lead to incomplete or inaccurate data.
-
-Given the lack of specific instructions on data protection, the form is probably intended for use in a controlled environment or within an organization with existing data protection policies in place.
-</thinking>
-
 # CrowdStrike Information Form - Help Guide
 ## Purpose
 The CrowdStrike Information Form is designed to collect details related to a crowdStrike from various sources. This form aims to gather case information, investigator details, and event/incident data for further analysis or resolution.

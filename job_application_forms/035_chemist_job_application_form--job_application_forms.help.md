@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information from potential applicants for chemist positions within the company. The purpose of this form is to collect relevant details about the applicant's background, qualifications, and experience in chemistry. The form is designed to help the hiring team evaluate candidates and determine their suitability for the position.
-
-When filling out this form, please ensure that you provide accurate and honest information. The fields are divided into several sections, including contact information, education and experience, skills, and certifications. Please answer all fields that are marked as required.
-
-Before submitting the form, please review it carefully to ensure that all required fields are completed. If you are unsure about any field, please ask for clarification or assistance from the hiring team.
-
-</thinking>
-
 # Chemist Job Application Form - Help Guide
 ## Purpose
 

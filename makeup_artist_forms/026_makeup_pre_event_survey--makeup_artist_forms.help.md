@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Makeup Pre Event Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a client's preferences and event details to ensure a successful makeup experience. By filling out this form, you will be able to tailor your services to the client's specific needs and preferences.

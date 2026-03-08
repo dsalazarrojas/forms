@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect reflections from users on a specific topic, likely related to online learning experiences. The form is likely used in educational settings to gather information on the effectiveness of online learning resources. Each field in the form serves a specific purpose, such as collecting user input, categorization, and metadata. The fields are designed to be completed by users, and their input will be used for analysis and improvement of online learning resources.
-
-To avoid duplication and ensure relevance, please ensure that the user only needs to complete this form once. If the user has already completed a reflection on the same topic, they should not be asked to do it again.
-
-</thinking>
-
 # Online Learning Reflection Story Consent Form - Help Guide
 ## Purpose
 The online learning reflection story consent form is used to collect user reflections on their online learning experiences.

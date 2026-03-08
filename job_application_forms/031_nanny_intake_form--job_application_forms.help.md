@@ -1,9 +1,3 @@
-<thinking>Internal reasoning:
-
-This form is designed to gather information from potential nannies to help families find the best fit for their needs. The form includes fields to collect personal details, contact information, job preferences, and availability. The purpose is to provide a comprehensive overview of the nanny's background, skills, and qualifications, making it easier for families to select the right candidate for their childcare needs. The form is divided into sections that cover different aspects of the nanny's profile, allowing families to quickly and efficiently review the candidate's information.
-
-</thinking>
-
 # Nanny Intake Form - Help Guide
 ## Purpose
 

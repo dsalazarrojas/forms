@@ -1,11 +1,3 @@
-<thinking>
-
-The "security_system_provider_contact_form" form is designed for customers or stakeholders to contact security system providers for general inquiries, feedback, or support requests. This form is meant to be a simple and straightforward way to initiate communication with the security system providers without requiring users to log in or have any prior knowledge of the system's inner workings.
-
-Before proceeding, please ensure that you are not submitting duplicate requests. The form's purpose is to gather information from new contacts, not to update existing ones.
-
-</thinking>
-
 # security_system_provider_contact_form - Help Guide
 ## Purpose
 The security system provider contact form is a tool for customers or stakeholders to get in touch with security system providers for general inquiries, feedback, or support requests.

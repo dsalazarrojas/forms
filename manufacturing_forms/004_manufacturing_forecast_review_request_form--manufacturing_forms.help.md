@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for requesting a review of manufacturing forecasts, likely for quality assurance or validation purposes. The form seems to be a duplicate of another form, with similar fields and structure. I will assume that the primary purpose of this form is to gather information for review, potentially for internal or external stakeholders. I will proceed with creating a help guide for end-users based on this assumption.
-</thinking>
-
 # Manufacturing Forecast Review Request Form - Help Guide
 ## Purpose
 The Manufacturing Forecast Review Request Form is designed to gather information for review and validation purposes. Please use this form to request a review of your manufacturing forecasts.

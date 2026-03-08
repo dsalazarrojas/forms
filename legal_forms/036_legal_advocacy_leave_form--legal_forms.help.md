@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for an employee's legal advocacy leave, which may include a request for time off for personal or family-related legal matters. The form is intended to be used internally by employees to submit their leave requests, and its completion will help ensure that the organization's HR or legal department has the necessary information to process and manage these requests efficiently. The form should only be completed by employees who are authorized to take legal leave. Please ensure that you are completing this form with the correct purpose in mind to avoid duplication or incorrect submissions.
-</thinking>
-
 # legal-advocacy-leave-form - Help Guide
 ## Purpose
 This form is for employees who need to request time off for personal or family-related legal matters.

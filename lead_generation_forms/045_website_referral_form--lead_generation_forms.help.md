@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users, likely for lead generation or data collection purposes. It is essential to ensure that the user understands the form's purpose and the information they are providing. Please review the form carefully before filling it out to avoid duplication of efforts and provide accurate information.
-</thinking>
-
 # Website Referral Form - Help Guide
 ## Purpose
 This form collects information from users for lead generation or data collection purposes.

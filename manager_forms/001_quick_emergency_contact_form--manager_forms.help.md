@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information in emergency situations, allowing users to provide contact numbers and other essential details about individuals in need. This form is likely used by emergency responders or healthcare professionals to quickly gather information in critical situations. It is recommended to fill out this form only when an emergency occurs.
-</thinking>
-
 # quick-emergency-contact-form - Help Guide
 ## Purpose
 The "quick-emergency-contact-form" is a form used to gather contact information and emergency contact numbers for individuals in need. This form is typically used by emergency responders or healthcare professionals to quickly gather essential details in critical situations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about employees, specifically their profile details. The purpose of this form is to gather accurate and up-to-date data about workers in the organization. It's essential to fill out the form correctly to ensure that the collected data is reliable and useful for future references.
-</thinking>
-
 # workers_profile_form - Help Guide
 ## Purpose
 The workers_profile_form is designed to collect accurate and up-to-date information about workers in the organization. This data is crucial for maintaining a reliable record of employee profiles.

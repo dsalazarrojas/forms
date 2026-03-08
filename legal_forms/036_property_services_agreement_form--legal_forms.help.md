@@ -1,7 +1,3 @@
-<thinking>
-This form is for creating a Property Services Agreement, which is used to document the terms and conditions of a service relationship between a client and a service provider. This form is essential for ensuring clarity and transparency in the agreement, and it helps to prevent miscommunications and disputes. 
-</thinking>
-
 # property_services_agreement_form - Help Guide
 ## Purpose
 The Property Services Agreement Form is a document used to establish the terms and conditions of a service relationship between a client and a service provider. It helps to clarify the responsibilities, rights, and obligations of both parties involved.

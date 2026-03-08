@@ -1,13 +1,3 @@
-<thinking>...thinking>
-
-This form is designed for candidates to apply for the Senior Hybrid Hospitality Operations Manager position. To confirm that the form meets your needs, please review the fields below. 
-
-* Ensure that you are applying for the Senior Hybrid Hospitality Operations Manager position and not other positions.
-* Make sure that all required fields are completed, as indicated by the "required" property in each field.
-* Do not duplicate any information from your resume, as this form is intended to complement it, not replicate it.
-
-</thinking>
-
 # Senior Hybrid Hospitality Operations Manager Application Form - Help Guide
 
 ## Purpose

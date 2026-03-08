@@ -1,7 +1,3 @@
-<thinking>
-To create a help guide for this form, I must first understand the purpose and requirements of the "Production Planning Template Request Form". Based on the provided YAML, it appears that this form is used for requesting production planning templates, where users can provide information about the industry, volume, features, delivery timelines, and contact person. The form may be used by production planning teams or managers to gather information for planning and scheduling production processes. I'll review the fields and provide a concise explanation for each field.
-</thinking>
-
 # Production Planning Template Request Form - Help Guide
 ## Purpose
 The "Production Planning Template Request Form" is a tool used for production planning teams or managers to gather information for planning and scheduling production processes. This form allows users to provide details about the industry, volume, required features, delivery timelines, and contact person responsible for the production planning template request.

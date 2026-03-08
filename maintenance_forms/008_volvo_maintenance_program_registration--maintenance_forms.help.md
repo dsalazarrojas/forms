@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's clarify the purpose and relevance of the form. The Volvo Maintenance Program Registration form is intended for customers to register their vehicle and select a maintenance program type and service center. It's likely used to track and manage maintenance schedules for vehicles. Please ensure that this form is not duplicated or misused. We'll assume that all the fields provided are necessary and well-defined for this context.</thinking>
-
 # Volvo Maintenance Program Registration - Help Guide
 ## Purpose
 This form is designed to help customers register their vehicle for maintenance programs such as Volvo Maintenance, Volvo Priority Service, or Volvo Express Service. By completing this form, customers can select the relevant maintenance program and schedule a service visit at a preferred service center.

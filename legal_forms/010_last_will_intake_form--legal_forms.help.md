@@ -1,7 +1,3 @@
-<thinking>
-This guide helps ensure that the Last Will Intake Form is completed accurately and relevantly to avoid duplication or misinterpretation. The form collects essential information about the testator's personal details, estate distribution, executors, beneficiaries, assets, and other relevant data. It is designed to provide a comprehensive overview of the will, which is crucial for the legal process. To avoid duplication, make sure you have not already created a will or provided this information to another party. If you have previously completed this form, please ensure that the information is up-to-date and accurate before proceeding.
-</thinking>
-
 # Last Will Intake Form - Help Guide
 ## Purpose
 The Last Will Intake Form is a document used to collect information about the testator's wishes regarding their estate distribution after death. It is a crucial tool for the legal process to ensure that the testator's wishes are respected.

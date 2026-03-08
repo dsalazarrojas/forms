@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Core Drill Operation Form - Help Guide
 ## Purpose
 The Core Drill Operation Form is used to record and document the details of a core drilling operation. This form is intended to collect information about the core drilling process, including the drilling date, time, location, and results. The form is divided into several sections, each of which is dedicated to a specific aspect of the core drilling operation.

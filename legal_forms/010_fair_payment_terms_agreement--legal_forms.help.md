@@ -1,16 +1,3 @@
-<thinking>
-The Fair Payment Terms Agreement form is a document that outlines the payment terms and conditions between two parties involved in a business transaction. The form is designed to capture the essential details of the payment schedule, payment methods, and other relevant information related to the payment.
-
-The form is likely used to create a legally binding contract between the client and the service provider, ensuring a clear understanding of the payment terms and conditions. 
-
-The form may be used in various business contexts, such as consulting, service contracts, or other business-to-business (B2B) transactions. It's essential to review the form carefully and ensure that it aligns with the specific needs and requirements of your business.
-
-This form has multiple pages with various fields, including client information, project timeline, payment terms, and other details. Each field is crucial in providing a comprehensive overview of the payment terms and conditions.
-
-Before filling out the form, please ensure that you have all the necessary information and documents ready to avoid any errors or inaccuracies.
-
-</thinking>
-
 # Fair Payment Terms Agreement - Help Guide
 ## Purpose
 The Fair Payment Terms Agreement form is a document that outlines the payment terms and conditions between two parties involved in a business transaction.

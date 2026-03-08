@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # leave_request - Help Guide
 ## Purpose
 The leave request form is used to submit a request for leave of absence to the management team. This form is used to communicate leave details to the concerned authorities and ensure timely approval or rejection of the leave request.

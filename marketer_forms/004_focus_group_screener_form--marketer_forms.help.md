@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect demographic information from potential customers/participants to screen their suitability for a focus group study. This form helps us to identify potential biases and ensure that our focus group is representative of the target audience. Please answer the questions honestly, and if you're unsure about any question, you can describe the information in the corresponding "other" field.
-Before you start, make sure you have filled out any previous focus group screener forms for the same or similar studies. If you've already completed a focus group screener form, your answers will be taken into account to prevent duplication.
-</thinking>
-
 # Focus Group Screener Form - Help Guide
 ## Purpose
 This form is designed to collect demographic information from potential customers/participants to ensure that our focus group is representative of the target audience.

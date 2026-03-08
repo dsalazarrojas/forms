@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess users' knowledge about linear inequalities. The form is composed of 11 fields, each with a specific purpose. The purpose of this form is to collect information from users, specifically students, about their knowledge and understanding of linear inequalities. This form is likely used for educational or research purposes. 
-
-The form is divided into multiple pages, but for the sake of simplicity, we will consider it as a single page with multiple fields. Each field is labeled with a specific name and type, such as "student_name", "answer1", etc. The fields are of different types, including text, number, select_one, select_multiple, date, time, email, and text. 
-
-The form is required for students to provide their name, answers to questions, date, time, email, and phone number. The other fields are optional.
-
-</thinking>
-
 # Linear Inequalities Knowledge Quiz - Help Guide
 
 ## Purpose

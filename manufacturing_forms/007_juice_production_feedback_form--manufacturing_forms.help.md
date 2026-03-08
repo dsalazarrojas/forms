@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and information from users about juice production, which is crucial for improving the quality and process of juice production. This form will help the production team understand what works well and what can be improved, enabling them to make data-driven decisions to enhance the juice production process.
-
-To determine if this form is relevant to your role and responsibilities, consider the following:
-
-* If you are involved in juice production, processing, or quality control, this form is relevant to you.
-* If you have valuable insights or suggestions on how to improve juice production, this form is for you.
-* If you are not directly involved in juice production, you may not need to fill out this form.
-
-Please proceed with filling out this form only if you are directly involved in juice production or have valuable insights to share.
-
-</thinking>
-
 # juice_production_feedback_form - Help Guide
 ## Purpose
 

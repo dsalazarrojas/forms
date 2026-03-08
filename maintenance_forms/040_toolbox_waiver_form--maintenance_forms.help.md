@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the status of a toolbox, including its assigned tool ID, the team members who have access to it, the tool's start and end dates, and the condition and location of the tool. This form is likely used by facilities or property management teams to track the status of tools and ensure they are properly maintained and utilized. It is likely used in an office or workplace setting where tools are regularly checked out to employees. To avoid duplicating efforts, ensure that the form is only used for toolboxes, not other types of equipment or supplies.
-</thinking>
-
 # Toolbox Waiver Form - Help Guide
 
 ## Purpose

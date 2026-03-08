@@ -1,36 +1,3 @@
-<thinking>
-This form is used to gather data for the Book Circulation Trend Report, which is used to track and analyze book circulation statistics. This form is intended to be filled out by librarians to report on their branch's book circulation trends over a specified period. The form should only be filled out once per reporting period, and should not be completed by multiple people at once.
-
-To ensure accurate and consistent data, please complete the form carefully and thoroughly. If you are unsure of any information, do not leave it blank. Instead, enter "Not Applicable" or "Not Known" as needed.
-
-The following fields are required and must be filled out:
-
-* Report Title
-* Librarian Name
-* Library Branch
-* Reporting Period Start Date
-* Reporting Period End Date
-* Total Checkouts This Period
-* Total Returns This Period
-* New Member Registrations
-* Overdue Items Count
-* Lost Items Count
-* Peak Checkout Day
-* Report Submission Date
-
-The following fields are optional but may be helpful for additional analysis:
-
-* Most Popular Category
-* Checkout Trend Compared to Last Period
-* Percentage Change
-* Average Loan Duration Days
-* Seasonal Factors Affecting Circulation
-* Challenges or Issues Noted
-* Recommendations for Improvement
-
-Please fill out the form accurately and submit it for review.
-</thinking>
-
 # Book Circulation Trend Report Form - Help Guide
 ## Purpose
 The Book Circulation Trend Report Form is used by librarians to report on book circulation trends in their branch. This report helps to identify areas of high demand and opportunities for improvement in circulation services.

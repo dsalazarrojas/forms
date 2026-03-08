@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for leave requests related to COVID-19, which could be for various reasons such as tested positive, exposed to COVID-19, quarantine order, vaccination side effects, or other health-related concerns. This form helps employees request leave to take care of their health, family, or other personal matters. It's essential that only one request is made at a time, as any duplicate or incomplete requests will be reviewed separately. To complete the form, make sure to fill in all the required fields accurately.
-</thinking>
-
 # COVID-19 Leave Request Form - Help Guide
 ## Purpose
 This form is used to request leave due to COVID-19-related reasons. Ensure that you submit a complete and accurate request to help us process it efficiently.

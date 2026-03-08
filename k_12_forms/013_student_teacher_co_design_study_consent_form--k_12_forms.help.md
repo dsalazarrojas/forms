@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information and consent from students, parents, and teachers for a co-design study. The form is meant to capture general information, consent status, contact details, and study-related data. The form is not meant to be a comprehensive tool for data collection, but rather a simple form to gather necessary information for the study.
-
-Before completing this form, please ensure that you have the necessary permissions and approvals to participate in the study. This form is not intended to replace any official documentation or consent forms required by your institution or government regulations.
-
-Please carefully review each field and provide accurate information to ensure that your responses are correct. If you have any questions or concerns, feel free to reach out to the contact person listed below.
-</thinking>
-
 # Student Teacher Co Design Study Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information and consent from students, parents, and teachers for a co-design study.

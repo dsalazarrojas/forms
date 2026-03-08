@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals with a criminal conviction, providing a structured layout for collecting relevant details about their criminal history. This form is likely used in a legal or administrative context to document and verify information about convictions.
-
-Before we begin, let's ensure that you're familiar with the context and purpose of this form. If you're unsure or have any questions, please reach out to your supervisor or the relevant authorities for guidance.
-
-To confirm, are you sure you have the right context and permissions to access this form? Have you reviewed the relevant laws and regulations regarding data protection and handling in your jurisdiction? If you're ready to proceed, let's move on to the instructions.</thinking>
-
 # criminal_conviction_declaration_form - Help Guide
 ## Purpose
 The criminal conviction declaration form is designed to collect information about an individual's criminal history, including details about convictions, court cases, and associated dates. This form is intended for use in legal or administrative contexts where accurate and detailed information is required.

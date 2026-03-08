@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "generic_product_order_form", I'll assume the form's purpose is to collect order information from customers for generic products, and this form is not a duplicate of any other form. If you can provide more context about the form's purpose, it would be great!
-
-For the sake of this exercise, I'll create the help guide based on the provided YAML fields.
-</thinking>
-
 # generic_product_order_form - Help Guide
 ## Purpose
 This form is used to collect order information from customers for generic products. Fill out the form to place an order with our company.

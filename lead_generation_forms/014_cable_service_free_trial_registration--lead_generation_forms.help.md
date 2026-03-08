@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're creating this form to help customers sign up for a free trial of our cable service. This form will gather essential information to determine if the customer is eligible for the free trial and what type of services they are interested in. The goal is to create a personalized experience for the customer and ensure they understand the terms of the free trial.
 
 </thinking>

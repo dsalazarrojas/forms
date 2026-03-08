@@ -1,9 +1,3 @@
-<thinking>
-To be clear, the form is intended for job applicants to provide their personal and professional information to apply for outsourcing job opportunities. This form should not be used for other purposes, such as general contact or inquiry forms. Please ensure that you only use this form when applying for a specific job opening, and that all required fields are filled out accurately and completely. 
-
-The form consists of multiple sections, each with its own set of fields. To complete the form correctly, please follow the instructions below.
-
-</thinking>
 # Outsourcing Job Application Form - Help Guide
 
 ## Purpose

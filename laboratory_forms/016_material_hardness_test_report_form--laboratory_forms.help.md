@@ -1,7 +1,3 @@
-<thinking>
-We will create a help guide for the Material Hardness Test Report Form that explains its purpose, how to complete it, and each field's purpose. This form is used to record and document the results of material hardness testing. It captures essential information such as material type, testing date and time, location, and testing equipment used. The form also includes fields for test results, notes, and certification. This guide will help users understand how to fill out the form accurately and efficiently.
-</thinking>
-
 # Material Hardness Test Report Form - Help Guide
 ## Purpose
 The Material Hardness Test Report Form is used to document the results of material hardness testing. This form captures essential information to track testing data, note results, and certification. It's crucial for ensuring accurate and reliable testing data.

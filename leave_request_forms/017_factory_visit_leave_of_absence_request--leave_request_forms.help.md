@@ -1,12 +1,3 @@
-<thinking>
-**Internal reasoning block:** Before proceeding with this guide, let's ensure that the form purpose and its relevance to the context are clear. The form is a "Factory Visit Leave Of Absence Request" and is used to record requests for factory visits, allowing technicians to provide details about their planned absence and any necessary escalations or approvals.
-
-We will assume that the form is being used in a context where technicians need to request time off for factory visits, and that the form is designed to gather relevant information for approval and management.
-
-Before continuing with the help guide, ensure that you are familiar with the form's purpose and its intended use case. This guide will cover how to complete the form and explain each field in detail.
-
-</thinking>
-
 # Factory Visit Leave Of Absance Request - Help Guide
 ## Purpose
 This form is used to request leave for factory visits. It gathers information about the dates, reasons, and necessary approvals for the visit.

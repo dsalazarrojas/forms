@@ -1,14 +1,3 @@
-<thinking> 
-This form is used for requesting business planning leave, which allows employees to take time off for focused work on business strategy and planning without the pressure of daily work responsibilities. This form ensures that all relevant information is captured, including employee details, leave start and end dates, type of leave, and coverage arrangements during the leave period. It also allows managers to track and approve leave requests. 
-
-Please fill out this form carefully and thoroughly, providing accurate and detailed information to ensure a smooth leave processing experience. 
-
-Also, please note that this form will be reviewed and approved by your manager before your leave is processed. 
-
-If you're unsure about any information or have questions, please consult your HR representative or manager. 
-
-</thinking>
-
 # Business Planning Leave Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to facilitate leave requests from employees. Before proceeding, please ensure this is a new request and not a duplicate of an existing one. The form is designed to collect information from employees regarding their leave requests, including personal details, dates, and approval processes. This information will be used to process and review leave requests internally. Please ensure all required fields are filled in accurately and completely. This guide will walk you through the form step-by-step to ensure a smooth and efficient submission process.
-</thinking>
-
 # leave_request_form_spain - Help Guide
 ## Purpose
 The leave_request_form_spain is used to collect and process employee leave requests. This form is designed to gather relevant information from employees, such as their name, dates of leave, and reason for leave, to ensure accurate and efficient processing of their requests.

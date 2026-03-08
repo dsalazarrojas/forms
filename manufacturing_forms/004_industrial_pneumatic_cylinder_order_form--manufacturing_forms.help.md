@@ -1,11 +1,3 @@
-<thinking>
-This help guide will cover the "industrial_pneumatic_cylinder_order_form" and how to complete it efficiently. This form is designed to collect information for manufacturing purposes. To ensure you're on the correct form, please verify that the form title is indeed "industrial_pneumatic_cylinder_order_form".
-
-This form collects information from multiple pages, each focused on different aspects of the order. Please complete each page in order to ensure accurate and complete information.
-
-This guide will cover each field in detail, so you can understand what information is required and why.
-</thinking>
-
 # industrial_pneumatic_cylinder_order_form - Help Guide
 ## Purpose
 The industrial_pneumatic_cylinder_order_form is used for ordering industrial pneumatic cylinders. This form collects relevant details about the customer, order, and product specifications.

@@ -1,14 +1,3 @@
-<thinking>
-Before I start creating the user-facing help guide, I would like to confirm that the form is for auditing a company's labor law compliance. The form is designed to collect information about a specific company, and its purpose is to ensure that the company is compliant with relevant labor laws. The form is likely to be used by auditors or compliance officers to assess the company's compliance status and provide feedback or guidance on areas that need improvement. 
-
-The form is divided into several sections, each with a specific field that collects relevant information. I will make sure to explain each field clearly and concisely, avoiding any confusion or ambiguity. 
-
-Upon reviewing the form fields, I noticed that most fields are required, except for "notes" and "last review status". This suggests that these fields are not critical for the audit process, but rather provide additional information or context. 
-
-Before proceeding, I would like to confirm that the form's purpose, sections, and field explanations align with the expected outcomes and goals of the form. If there are any further clarifications or adjustments needed, please let me know.
-
-</thinking>
-
 # Corporate Labor Law Compliance Audit Form - Help Guide
 
 ## Purpose

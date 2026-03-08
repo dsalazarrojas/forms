@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to capture information about a gift deed, which is a legal document that transfers ownership of a property from one party to another. This form is used to gather essential details about the donor, the property being gifted, and the date of the gift. It's crucial to fill out this form accurately to ensure the transfer of ownership is properly recorded and legally binding.
-
-To avoid confusion or errors, ensure the form is filled out correctly for the specific use case. This form is not to be used as a template for other types of forms, nor is it intended for general information collection outside of the specified context.
-
-</thinking>
-
 # Gift Deed Form - Help Guide
 
 ## Purpose

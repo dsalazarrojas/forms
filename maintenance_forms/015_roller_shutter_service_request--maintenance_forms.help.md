@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Roller Shutter Service Request - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The Emergency Repair Requisition Form is designed to collect information about a maintenance request for an emergency repair. This form should be used when a non-emergency repair is not required, but a quick fix is necessary to prevent further damage or ensure the safety of occupants. The form should not be used for routine or scheduled maintenance requests. 
-</thinking>
-
 # Emergency Repair Requisition Form - Help Guide
 ## Purpose
 The Emergency Repair Requisition Form is used to report and manage emergency repairs that require immediate attention to prevent further damage or ensure the safety of occupants.

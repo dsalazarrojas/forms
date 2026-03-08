@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants who are applying for full-time employment positions within the organization. The form will be used to gather personal and professional details from applicants, including their contact information, work experience, education, and language proficiency. This form is intended for internal use only and will not be shared with external parties. 
-Please ensure that you are only applying for a position that matches your qualifications and interests. If you are unsure about the requirements or the position, please don't hesitate to reach out to the hiring team for clarification.
-This form is designed to be completed by one person at a time. If you are representing multiple individuals, please submit separate applications for each person.
-The form will be reviewed and processed internally by the hiring team. You will be contacted for further information or invited for an interview if your application is selected.
-</thinking>
-
 # Full Time Employment Application - Help Guide
 ## Purpose
 The purpose of this form is to collect personal and professional details from applicants for full-time employment positions within the organization. This form will help us get to know you better and understand your qualifications for the position you are applying for.

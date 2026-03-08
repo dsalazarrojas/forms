@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Editor Application Form Template - Help Guide
 
 ## Purpose

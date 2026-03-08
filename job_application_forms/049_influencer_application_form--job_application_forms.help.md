@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, please ensure you are only submitting an application if you are a legitimate influencer with experience in the field of <field>. This form is intended for individual applications, not for businesses or agencies.
-</thinking>
-
 # Influencer Application Form - Help Guide
 ## Purpose
 The Influencer Application Form is a tool for individual social media influencers to submit their application to be considered for collaboration with our brand. This form helps us to gather information about your online presence and experience in order to assess your suitability for potential partnerships.

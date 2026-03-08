@@ -1,8 +1,3 @@
-<thinking>
-Internal Reasoning Block: This form is used to track and document vehicle maintenance activities. It captures essential information about the vehicle, such as its make, model, and year, as well as details about the maintenance performed, including the type of maintenance, start and end dates, and costs involved. The form is designed to be completed by technicians who perform maintenance tasks, and it provides a clear and organized way to record and track vital information. Before filling out this form, ensure that you have access to the vehicle's VIN (Vehicle Identification Number) and any relevant documentation, such as the maintenance schedule and any previous work orders. 
-
-</thinking>
-
 # Fleet Maintenance Check Out Form - Help Guide
 ## Purpose
 This form is used to document and track vehicle maintenance activities, ensuring accurate and up-to-date information about each vehicle's status.

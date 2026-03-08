@@ -1,9 +1,3 @@
-<thinking>
-The "Extended Leave Absence Form" is a crucial tool for managing employee leave absences. This form is designed to help employees apply for extended leave absences, which may be due to various reasons such as illness, injury, or other personal circumstances. 
-The form is intended to be completed by the employee, and it will help the HR department or manager to track and process these requests efficiently.
-Please ensure that you're filling out this form correctly and only if it's necessary. If you're unsure about the purpose of this form or have questions, please reach out to your HR department for clarification.
-</thinking>
-
 # Extended Leave Absence Form - Help Guide
 ## Purpose
 The "Extended Leave Absence Form" is a tool for employees to apply for extended leave absences. This form helps the HR department or manager track and process these requests.

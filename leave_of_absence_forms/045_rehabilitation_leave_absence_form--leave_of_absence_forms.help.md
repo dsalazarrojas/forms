@@ -1,7 +1,3 @@
-<thinking>Rehabilitation Leave Absence Form is used to document employee's need for rehabilitation-related leaves of absence. This form should only be completed for absences due to medical or mental health reasons and only by authorized personnel. Please ensure that you have the required approval from your supervisor before submitting this form. Additionally, ensure that a duplicate form is not submitted if the employee has already been approved for this reason of absence in the past 12 months.
-
-</thinking>
-
 # Rehabilitation Leave Absence Form - Help Guide
 ## Purpose
 The purpose of the Rehabilitation Leave Absence Form is to collect information on employees taking rehabilitation-related leaves of absence for medical or mental health reasons.

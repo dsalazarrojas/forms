@@ -2,10 +2,6 @@
 
 ## Purpose
 
-<thinking>
-This form is used to document a company's data management policies and procedures. It's essential to ensure that all relevant parties involved in data management are aware of the rules and guidelines that govern data handling. This includes data protection, retention, and disposal policies.
-</thinking>
-
 ## How To Complete This Form
 
 1. Fill in the relevant details of your company and its employees.

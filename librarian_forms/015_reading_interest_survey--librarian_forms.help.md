@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their reading habits and interests. The survey aims to gather data on the frequency and location of reading activities, as well as the types of books or series that are read. This information will be used to better understand individual reading preferences and behaviors. It is essential to complete the survey honestly, as the data will be used to create targeted reading programs and recommendations. Please ensure that the information provided is accurate and reflects personal reading habits.
-</thinking>
-
 # Reading Interest Survey - Help Guide
 ## Purpose
 The Reading Interest Survey is designed to collect information about your reading habits and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users create a comprehensive lead generation checklist, which is a critical tool for businesses to identify and pursue potential leads that can convert into valuable business opportunities. The form is intended to be used by sales teams, marketing professionals, and other stakeholders to ensure that all necessary steps are taken to generate leads effectively. Before filling out this form, please note that it is meant to be a comprehensive checklist, and it's recommended to review and update it regularly to ensure it stays relevant to your specific business needs. It's also important to remember that the answers will be used for internal purposes only and will not be shared externally.
-</thinking>
-
 # Lead Generation Checklist Form - Help Guide
 ## Purpose
 This form is designed to help you create a comprehensive lead generation checklist for your business. It is intended to help you identify and pursue potential leads that can convert into valuable business opportunities.

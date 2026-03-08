@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about an employee's labor rights compliance declaration, and is likely used by HR departments or management. This form may be used to track employee data, monitor labor laws and regulations, and maintain compliance with company policies. It may be used for internal or external purposes, such as reporting to government agencies or providing information to employees. The form has a mix of fields for personal and employment details, labor union information, and contract details, suggesting that it is used in a work or organizational setting. I have not seen any duplication of fields in the form, and it appears to be designed for one-time or infrequent completion.
-</thinking>
-
 # Labor Rights Compliance Declaration Form - Help Guide
 
 ## Purpose

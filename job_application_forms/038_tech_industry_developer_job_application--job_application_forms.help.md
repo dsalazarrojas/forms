@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help applicants submit their job applications for tech industry development roles. The purpose of this form is to collect relevant information from applicants, including their personal details, contact information, work experience, technical skills, and preferred work arrangements. Before proceeding, please ensure this is the correct form for your intended application purpose. If you are unsure, please verify with your HR representative or check the job description carefully.
-</thinking>
-
 # Tech Industry Developer Job Application - Help Guide
 
 ## Purpose

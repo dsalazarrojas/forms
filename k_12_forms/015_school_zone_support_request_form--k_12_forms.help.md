@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report incidents that occurred within the school zone. Before submitting the form, please ensure that you are reporting a genuine incident and not a duplicate. The form is intended to assist the school zone support team in identifying areas that require assistance and providing the necessary resources to prevent future incidents. Please complete the form in a concise and accurate manner to ensure that the support team is able to effectively address your request.
-</thinking>
-
 # School Zone Support Request Form - Help Guide
 ## Purpose
 The School Zone Support Request Form is used to report incidents, request assistance, and provide information to the school zone support team. This form is designed to collect relevant details about the incident, the student involved, and the support required.

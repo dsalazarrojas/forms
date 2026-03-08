@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from developers applying for a job within the organization. The form is designed to gather essential details about the applicant, including their resume, contact information, skills, and work experience. The form's primary goal is to streamline the application process and ensure that the applicant provides necessary information to be considered for the position.
-</thinking>
-
 # developer_job_application_form - Help Guide
 ## Purpose
 The developer job application form is a tool used to collect information from developers applying for a job within the organization. It is essential to fill out the form accurately to ensure that your application is considered complete and processed efficiently.

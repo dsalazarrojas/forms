@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to request information from players to determine their age group for registration in a league or competition. This form will ask for general information about the player, including their age group, and specific details about their availability and experience. The form will not be used for any other purpose.
-Please ensure you fill in the form only once you are sure you are registering for the correct age group. If you are unsure, please contact us for clarification.
-</thinking>
-
 # Player Age Group Request Form - Help Guide
 
 ## Purpose

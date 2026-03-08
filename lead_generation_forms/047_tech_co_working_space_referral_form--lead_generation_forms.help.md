@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect referrals for the Tech Co Working Space. It is designed to gather information from individuals who have a connection to the co-working space, such as a member, guest, or team lead. This form will help us understand their preferences for follow-up contact and potential collaboration opportunities. Before proceeding, please ensure that you have not already completed this form, as it is designed to prevent duplicate referrals.
-</thinking>
-
 # Tech Co Working Space Referral Form - Help Guide
 
 ## Purpose

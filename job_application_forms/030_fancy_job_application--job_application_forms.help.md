@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose of this form, we first examine its internal reasoning and context. This "Fancy Job Application" form is likely designed to collect information from job applicants, aiming to streamline the hiring process for the organization. The form likely serves as an initial touchpoint for potential candidates to provide their contact and professional details, which will then be reviewed by hiring managers. It is possible that this form is used for internal purposes only, not publicly exposed, and may contain fields that are specific to the organization's needs.
-The form's internal reasoning suggests that it is meant to gather information for internal use, so it is unlikely to be exposed to the public. This means that users should be aware that their submissions might not be directly shared with anyone outside the organization.
-The form's structure and fields imply that it is designed for job seekers to provide their contact and professional details. It includes fields for contact information (Name, Email, Address, Phone), professional profile (Resume), and job specifics (Position, Salary). The "Experience" field suggests that the form is looking for job seekers with specific levels of experience.
-Given this analysis, our help guide will cover how to complete the form and explain each field in a clear and concise manner.
-</thinking>
-
 # Fancy Job Application - Help Guide
 ## Purpose
 This form is designed to collect your contact and professional details for the job application process. Please fill out the form accurately and completely.

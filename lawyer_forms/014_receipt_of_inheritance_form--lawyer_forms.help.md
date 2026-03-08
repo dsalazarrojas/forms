@@ -1,14 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "Receipt Of Inheritance Form", I'll need to break down the form's purpose, the instructions on how to complete it, and a field-by-field explanation of each section. 
-
-The form "Receipt Of Inheritance Form" is a legal document used to acknowledge and record the receipt of an inheritance by an individual or entity. It's essential for legal and financial purposes, as it serves as proof of the transfer of assets or properties from a deceased person to the beneficiary. The form typically requires information about the deceased, the person receiving the inheritance, the amount and type of inheritance received, and any related fees and taxes.
-
-Form sections might be used to record various aspects of the inheritance, such as the deceased's name, the name of the person or entity receiving the inheritance, the relationship between the deceased and the recipient, the amount and type of inheritance received, any fees or taxes associated with the inheritance, and a list of witnesses who may have been present during the process.
-
-The form is likely used by lawyers or financial advisors to ensure accurate and legal record-keeping and to prevent disputes or errors in the future.
-
-</thinking>
-
 # Receipt Of Inheritance Form - Help Guide
 ## Purpose
 The Receipt Of Inheritance Form is a legal document used to record the transfer of assets or properties from a deceased person to the beneficiary. It serves as proof of the inheritance and is essential for legal and financial purposes.

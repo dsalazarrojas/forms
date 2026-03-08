@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from operators who will be leasing a property. The "Leasing Agreement For Operators" form is used to gather essential details such as operator contact information, lease terms, and agreement on various aspects of the leasing process. It's crucial to review the form carefully before submitting it to ensure accurate and complete data entry.
-
-This form likely exists within a larger context where properties are being managed or rented out, and operators are individuals or entities responsible for managing or operating these properties. This form helps to standardize the collection of information from operators to facilitate efficient and consistent record-keeping.
-
-Ensure you only fill out this form if you are an operator seeking to lease a property. If you are filling out this form as part of a different context, please review your specific circumstances carefully before proceeding.
-
-</thinking>
-
 # Leasing Agreement For Operators - Help Guide
 ## Purpose
 The "Leasing Agreement For Operators" form is designed to collect necessary information from operators who are leasing a property. This includes contact details, lease terms, and agreement on various aspects of the lease.

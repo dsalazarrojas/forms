@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for gathering data from customers about their experiences, needs, and preferences. It's used to understand market trends, customer behavior, and product requirements in the industry. The information collected will be used to improve products and services offered to customers. This form should only be filled out if you are a representative of the target market, which includes customers, users, and potential customers.
-</thinking>
-
 # Market Research Survey - Help Guide
 ## Purpose
 This form is designed to collect market research data from customers to help us better understand their experiences, needs, and preferences.

@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to capture the result of a laboratory test, allowing users to provide details about the test result, including the test date and time, the status of the result, and any further details. The form is likely to be used for clinical or medical purposes, such as tracking patient test results.
-
-The form will likely be used by medical staff or healthcare professionals to record and report test results in a structured format.
-
-</thinking>
-
 # Laboratory Result Form - Help Guide
 ## Purpose
 The Laboratory Result Form is used to record and report the result of a laboratory test, including the test date and time, the status of the result, and any further details. The form is intended for use by medical staff or healthcare professionals.

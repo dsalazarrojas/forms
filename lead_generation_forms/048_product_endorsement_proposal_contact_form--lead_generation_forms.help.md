@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Endorsement Proposal Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and proposal details from users interested in endorsing a product. It is meant for internal use by product managers to review and contact potential end-users.

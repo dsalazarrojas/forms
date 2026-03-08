@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from individuals participating in swimming pool activities, including their first name, last name, date of birth, address, phone number, email, event details, vehicle usage, medical conditions, and waiver status. This form is typically used in a pool or aquatic setting where participants are required to provide their personal information and consent to participate. 
-
-The form is designed to be completed by each participant, and it's a one-time use case. The form fields are mostly optional, allowing participants to provide as much or as little information as necessary. 
-
-Please ensure that you have read and understand the form's purpose and requirements before proceeding.
-</thinking>
-
 # Swimming Pool Waiver Release Form - Help Guide
 ## Purpose
 The Swimming Pool Waiver Release Form is used to collect personal information and consent from individuals participating in swimming pool activities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the disaster response leave policy, which enables employees to request leave due to emergency situations, such as natural disasters, pandemics, or other crises. This form helps the organization's HR department process and manage such leave requests efficiently. It's essential to fill out this form accurately to ensure the HR department can process your leave request correctly.
-</thinking>
-
 # Disaster Response Leave Form - Help Guide
 ## Purpose
 The Disaster Response Leave Form is a tool for employees to request leave due to emergency situations that affect their ability to work. It is used to gather necessary information for the HR department to process and manage leave requests effectively.

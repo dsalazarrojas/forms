@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Legal Representation Leave Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about sewer issues and pest control requests. When completing this form, please ensure that you only report issues that have not been previously addressed by a technician. If you have submitted a request in the past, please check your previous submission to see if it is still relevant and needs to be resubmitted. 
-</thinking>
-
 # Sewer Issues And Pest Control Request - Help Guide
 ## Purpose
 This form is used to report sewer issues and pest control requests to the maintenance team. It helps the team to quickly identify and address the problems, ensuring that your property and neighborhood are safe and habitable.

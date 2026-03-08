@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I've reviewed the provided YAML form definition to understand the purpose of the form and each field's functionality. The form is a consumer loan application form, aiming to gather information from applicants to assess their creditworthiness. Each field is carefully designed to collect essential data for the loan evaluation process. I've analyzed the field labels, hints, types, and options to craft a clear and concise help guide that will aid users in completing the form accurately and efficiently.</thinking>
-
 # Consumer Loan Application - Help Guide
 ## Purpose
 The Consumer Loan Application form is designed to gather information from applicants to assess their creditworthiness and determine the eligibility for a loan. This form is used to collect data on the applicant's personal details, employment, income, debt, and other relevant factors.

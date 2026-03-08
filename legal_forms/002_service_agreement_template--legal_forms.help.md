@@ -1,7 +1,3 @@
-<thinking>
-This form is likely a template for a service agreement between a service provider and a client. The agreement likely outlines the terms and conditions of the service to be provided, including the services offered, the agreed-upon terms, and the responsibilities of both parties. The form appears to be a straightforward template for documenting the agreement, and the fields seem to cover the essential details. Before starting, I will review the fields to ensure I'm covering all necessary information for the end users.
-</thinking>
-
 # Service Agreement Template - Help Guide
 ## Purpose
 This form is a template for documenting a service agreement between a service provider and a client. It captures the essential details of the agreement, including the client's and service provider's information, services offered, and terms and conditions.

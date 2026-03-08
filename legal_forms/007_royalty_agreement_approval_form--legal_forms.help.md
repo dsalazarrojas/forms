@@ -1,8 +1,3 @@
-<thinking>
-This form is used to obtain approval for a royalty agreement from the approver. The approver is the individual with the authority to approve the agreement. The form requires the following information: Contract ID, contract date, approver name, approver email, approver role, approval date, approval comments, whether the agreement has been signed, agreement date, submitter name, submitter email, submitter phone number, and submitter department. The purpose of this form is to facilitate the approval process and track the progress of royalty agreements. It is essential to fill out this form accurately and thoroughly to ensure that the approval process runs smoothly.
-
-</thinking>
-
 # Royalty Agreement Approval Form - Help Guide
 ## Purpose
 The Royalty Agreement Approval Form is used to obtain approval for a royalty agreement from the approver. This form ensures that all necessary information is captured for approval and tracking purposes.

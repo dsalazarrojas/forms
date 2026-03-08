@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about maintenance service companies. The purpose of this form is to gather details about the company's identity, contact information, and communication preferences. This form will help the organization understand the company's needs and provide relevant support.
-
-Before filling out this form, please ensure that you are not already in our maintenance service company database. If you are already listed in the database, please contact us to update your information instead of filling out this form again.
-
-</thinking>
-
 # Maintenance Service Company Information Intake Form - Help Guide
 ## Purpose
 This form is used to collect information about maintenance service companies.

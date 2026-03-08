@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to help maintain the facility's equipment and ensure that maintenance activities and issues are accurately tracked and reported. This form is intended to be completed by facility staff or maintenance personnel to document their daily work and activities related to facility maintenance. It's likely used in facilities management settings to monitor maintenance performance and identify areas for improvement. The form might not be used in all facilities, and it's possible that similar forms may already exist in your organization. 
 
 </thinking>

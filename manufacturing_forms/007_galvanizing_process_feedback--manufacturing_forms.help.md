@@ -1,9 +1,3 @@
-<thinking>
-This form is part of the manufacturing process, used for collecting feedback on the galvanizing process. It's crucial to understand that the galvanizing process is a critical step in the manufacturing process, and gathering feedback is essential for continuous improvement. Before proceeding with this form, please make sure you have a solid understanding of the galvanizing process and its associated risks, challenges, and opportunities for improvement. This form is meant to be used by individuals involved in the galvanizing process, including production staff, quality control experts, and process engineers. Please ensure that you are authorized to complete this form on behalf of your team or department.
-
-Also, note that some fields are marked as "required" (e.g., fields with IDs 18, 24, and 22), indicating that those fields must be filled out for the form to be considered complete.
-</thinking>
-
 # Galvanizing Process Feedback - Help Guide
 ## Purpose
 The Galvanizing Process Feedback form is designed to collect information and feedback on the galvanizing process to help identify areas for improvement and optimize the manufacturing process.

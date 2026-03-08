@@ -1,5 +1,3 @@
-<thinking>...This form appears to be a critical part of the manufacturing process, likely used for tracking and ordering heat exchangers. To ensure accuracy and consistency, I'll assume that this form is used in a controlled and standardized environment, such as a specific department or team within an organization. I'll verify that the form is not a duplicate of another form used for a similar purpose within the organization. This form seems to have a mix of single and multiple select options, which suggests that it's designed to capture various types of information, including categorical and free-form text. I'll make sure to explain each field in a way that's clear and concise for the end user... </thinking>
-
 # Heat Exchanger Assembly Order Form - Help Guide
 ## Purpose
 This form is used to record and track orders for heat exchanger assemblies. It captures essential details required for production, including part type, quantity, and material specifications. By completing this form accurately, you'll help ensure that orders are fulfilled correctly and promptly.

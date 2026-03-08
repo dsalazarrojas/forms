@@ -1,15 +1,3 @@
-<thinking>
-This form is for use by employees who need to take time off from work for arbitration-related reasons, such as attending an arbitration session or providing testimony as a witness. 
-
-Before proceeding, check that the form is not already completed for the same reason and date. If it is, you will not be able to submit the form. 
-
-The form is divided into two sections: "Employee Information" and "Arbitration Details". 
-
-Please make sure to complete all required fields and provide accurate information in the relevant sections. 
-
-Note that some fields may be marked as "optional" but providing additional information can be helpful for the relevant team members to process your leave request.
-</thinking>
-
 # Arbitration Attendance Time Off Form - Help Guide
 ## Purpose
 This form is for employees to request time off from work for arbitration-related reasons.

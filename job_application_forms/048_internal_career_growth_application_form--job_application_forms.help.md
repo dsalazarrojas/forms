@@ -1,7 +1,3 @@
-<thinking>
-The internal career growth application form is designed to help employees grow their careers within the company. This form is not meant to be filled out by external candidates, but rather as a tool for internal employees to express their interest in career growth opportunities within the company. Please make sure you are eligible to fill out this form before proceeding.
-</thinking>
-
 # Internal Career Growth Application Form - Help Guide
 ## Purpose
 The Internal Career Growth Application Form is a tool for internal employees to express their interest in career growth opportunities within the company. This form helps to identify areas where employees would like to develop their skills and take on new challenges.

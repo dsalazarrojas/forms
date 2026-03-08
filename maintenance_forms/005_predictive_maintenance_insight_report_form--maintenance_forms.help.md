@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for submitting reports on predictive maintenance insights for assets. The form likely aims to gather data on asset categories, types, conditions, and other relevant details to inform maintenance decisions. The fields seem to cover various aspects of asset management, including categorization, location, and contact information. There is no duplicate or irrelevant information in the form.
-
-</thinking>
 # Predictive Maintenance Insight Report Form - Help Guide
 
 ## Purpose

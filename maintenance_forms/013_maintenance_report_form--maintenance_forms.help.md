@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Maintenance Report Form is to collect information about maintenance tasks performed on a property or equipment. This form is intended to be used by maintenance personnel to report their work, including details about the task, the equipment or property being maintained, and any additional notes or comments. This form should only be used for maintenance activities and not for other purposes.
-
-Before proceeding, ensure that you are not duplicating efforts by checking if a similar report has already been submitted. If you are unsure, consult with your supervisor or team lead.
-
-This form collects information about the owner of the maintenance task, maintenance details, work done, signature, and any additional notes. Each field is essential for accurately capturing the necessary information.
-
-</thinking>
-
 # Maintenance Report Form - Help Guide
 ## Purpose
 The Maintenance Report Form is designed to collect accurate and detailed information about maintenance tasks performed on a property or equipment. This form is used by maintenance personnel to report their work and ensure that necessary records are kept up-to-date.

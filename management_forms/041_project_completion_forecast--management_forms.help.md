@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help project teams and project managers to provide a clear and accurate project forecast, which is a crucial aspect of project management. The purpose of this form is to collect relevant project information, such as scope, timeline, delivery confidence, status, and key contacts. This form should be completed by project managers to provide a comprehensive overview of the project's progress and expectations. To ensure accurate and complete information, please review and complete this form carefully.
-
-</thinking>
 # project_completion_forecast - Help Guide
 ## Purpose
 The project_completion_forecast form is designed to gather essential project information from project managers to provide a clear understanding of project progress and expectations.

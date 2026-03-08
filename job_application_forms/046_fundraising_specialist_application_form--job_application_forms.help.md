@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect application information from potential candidates for a fundraising specialist position. The form will be used to evaluate candidates' backgrounds, experiences, and qualifications. To avoid duplication and ensure accurate data collection, please complete the form carefully.
-
-</thinking>
-
 # Fundraising Specialist Application Form - Help Guide
 ## Purpose
 This form is designed to collect application information from potential candidates for a fundraising specialist position. The form will be used to evaluate candidates' backgrounds, experiences, and qualifications.

@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for collecting information related to a floor hockey game, specifically about the game's rules, player safety, and other relevant details. The form's fields appear to be focused on gathering information from game players and coaches, such as their names, contact information, and answers to safety-related questions. The form is likely used for administrative or educational purposes, possibly for a sports organization or a school program.
-</thinking>
-
 # Floor Hockey Rules Quiz - Help Guide
 ## Purpose
 This form is designed to collect information from floor hockey players and coaches to ensure a safe and enjoyable game environment. It will help you provide your input on the rules, safety measures, and game details.

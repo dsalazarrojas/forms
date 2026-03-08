@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a "Power Of Attorney Authorization Form". It seems to be related to legal matters, likely for granting authority to someone else (the attorney) to act on behalf of the principal. I don't see any obvious duplication or redundancy in the form fields, so let's assume this is a genuine attempt at creating a comprehensive form. I will proceed with creating the help guide.
-</thinking>
-
 # Power Of Attorney Authorization Form - Help Guide
 ## Purpose
 This form is used to grant authorization to someone (the attorney) to act on behalf of another person (the principal). This form is typically used in legal contexts where the principal wants to delegate power to someone else to manage certain aspects of their life or business.

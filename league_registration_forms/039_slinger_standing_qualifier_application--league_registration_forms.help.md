@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals wishing to participate in the Slinger Standing Qualifier event. This form is intended for applicants who are interested in registering for the event, and it is essential to provide accurate and truthful information to avoid rejection of their application.
-
-This form will be used to collect contact information, personal details, and emergency contact information. Please ensure that you fill in the form accurately and completely to avoid any potential issues during the application process.
-
-Before starting the application process, please review the form and ensure that you have all the necessary information required to complete it. The form is divided into several sections, each with a specific purpose. If you have any questions or need clarification on any field, please do not hesitate to contact the relevant authorities.
-
-Before proceeding, let us confirm that you are familiar with the requirements and the implications of the form's fields and sections. This will help you make informed decisions while completing the form.
-
-If you have any questions or concerns, do not hesitate to reach out to us for guidance and assistance.</thinking>
-
 # Slinger Standing Qualifier Application - Help Guide
 ## Purpose
 

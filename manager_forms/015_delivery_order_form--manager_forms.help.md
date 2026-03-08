@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for managers to create, edit, or delete delivery orders. This form will be used to manage delivery orders, which are orders for items to be delivered to customers. Each field in this form is designed to gather specific information related to delivery orders. The form has multiple pages, each with its own set of fields. The fields on each page are used to collect information in a step-by-step manner. The purpose of this form is to ensure that all relevant details about delivery orders are captured accurately and efficiently. 
-
-To ensure that this form is used correctly, please note that each field has a specific purpose and should be filled in accordingly. This guide will help explain each field's purpose and how to complete it correctly.
-
-</thinking>
-
 # delivery_order_form - Help Guide
 ## Purpose
 The delivery_order_form is used to create, edit, or delete delivery orders. It captures relevant information about delivery orders to ensure accurate and efficient management of these orders.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to help users apply for a warehouse safety license. This form is used to collect important information about the user's application, including details about their emergency contacts, safety procedures, and license details. This information is necessary to ensure that the user's warehouse meets the required safety standards and regulations.
-
-Before proceeding, please ensure that you have a clear understanding of what a warehouse safety license is and the specific requirements for your facility. If you are unsure, please refer to the relevant regulations and guidelines provided by the relevant authorities.
-
-To avoid duplication of effort, please do not submit multiple applications if you have already submitted one in the past. Each application must be completed and submitted individually, and each submission will be reviewed separately.
-</thinking>
-
 # warehouse_safety_license_application_form - Help Guide
 ## Purpose
 The warehouse safety license application form is designed to collect necessary information from applicants to ensure their warehouses meet the required safety standards and regulations. This form is used to verify that the applicant's warehouse is in compliance with relevant laws and regulations, and to issue a safety license if the application is approved.

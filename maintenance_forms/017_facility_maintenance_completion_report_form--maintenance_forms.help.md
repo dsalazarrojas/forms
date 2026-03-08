@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facility Maintenance Completion Report Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to provide a structured log for tracking and reporting machine maintenance activities. This form is intended to be used for machines that require periodic maintenance, repair, or inspection. The log helps track when and what type of maintenance was performed, allowing for better planning and scheduling of maintenance activities. It also helps in identifying patterns or trends in maintenance needs, which can be useful for predictive maintenance and improving overall equipment reliability. It's essential to ensure that users understand the purpose and usage of this form to accurately and effectively utilize it.
-</thinking>
-
 # Machine Maintenance Log Access Form - Help Guide
 ## Purpose
 The Machine Maintenance Log Access Form is a structured log for tracking and reporting machine maintenance activities. It helps in organizing and documenting all maintenance tasks performed on machines, ensuring that records are accurate and up-to-date.

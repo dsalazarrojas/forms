@@ -1,9 +1,3 @@
-<thinking>
-
-This form, "Executor Estate Administration Checklist", appears to be designed for individuals or organizations to assess the current status and progress of estate administration tasks. It seems to be a tool for tracking and evaluating the completion of key tasks related to estate administration. This form does not appear to be a duplication of any other form, and its purpose is clear. The form's structure suggests it is intended for use in the context of estate planning and administration.
-
-</thinking>
-
 # Executor Estate Administration Checklist - Help Guide
 
 ## Purpose

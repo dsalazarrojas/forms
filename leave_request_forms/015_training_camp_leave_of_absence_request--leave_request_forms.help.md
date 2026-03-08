@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to ensure that users understand the purpose of the "Training Camp Leave Of Absence Request" form and how to complete it accurately. The form is designed to collect information from trainers and training camps about their leave requests, which are essential for efficient team management and coordination. To complete the form successfully, please follow the instructions below.
-</thinking>
-
 # Training Camp Leave Of Absence Request - Help Guide
 ## Purpose
 The "Training Camp Leave Of Absence Request" form is designed for trainers and training camps to submit leave requests for approved absences from the training camp. This form is used to inform the organization about the trainer's leave dates, reason for absence, and contact details.

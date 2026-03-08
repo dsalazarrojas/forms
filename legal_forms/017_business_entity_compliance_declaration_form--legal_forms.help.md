@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to help business entities declare their compliance with various regulations and laws. This form is intended to ensure that business entities are aware of and adhere to relevant laws and regulations, reducing the risk of non-compliance and associated penalties. Please note that this form is not intended to replace actual legal advice or expert consultation. Business entities should seek professional advice from qualified legal experts to ensure accurate and complete compliance.
-
-Before starting this form, please ensure that you have all necessary information and documentation ready, such as registration numbers, license information, and relevant records.
-
-This form is divided into several sections, each covering a specific aspect of compliance:
-
-1.  Entity Information: This section gathers basic information about the entity.
-2.  Regulatory Compliance: This section focuses on tax filings, licenses, and permits.
-3.  Labor Compliance: This section addresses wage and hour laws, workplace safety, and employment documentation.
-4.  Environmental Compliance: This section deals with environmental permits and reports.
-5.  Financial Compliance: This section covers financial records and audits.
-6.  Insurance Compliance: This section ensures that required insurance policies are in place.
-7.  Certification: This final section confirms the entity's compliance status.
-
-Please review each section carefully and provide accurate answers to ensure accurate representation of your business entity's compliance status.
-</thinking>
-
 # Business Entity Compliance Declaration Form - Help Guide
 ## Purpose
 This form is designed to help business entities declare their compliance with various regulations and laws. It ensures that business entities are aware of and adhere to relevant laws and regulations, reducing the risk of non-compliance and associated penalties. 

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential applicants who are interested in becoming a yoga instructor. The form asks for personal details, skills, and qualifications that are relevant to the position. To complete this form, users must provide their first and last name, email, phone number, and license information as required fields. The form also asks for optional details such as experience, availability, education, and emergency contact information. In addition, users must select their relevant skills, teaching exams, and references. The form is designed to be completed by individuals who are interested in applying for a yoga instructor position.
-</thinking>
-
 # Yoga Instructor Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential applicants who are interested in becoming a yoga instructor. It will help us understand your background, qualifications, and experience in teaching yoga.

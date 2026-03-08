@@ -1,9 +1,3 @@
-<thinking>
-This form is a job application form for a Renewable Energy Solar Technician position. It is designed to gather information from applicants about their contact information, work experience, education background, resume, certifications, job interests, job availability, work schedule, references, skills, work environment, job type, salary, benefits, location, comments, job status, job posting URL, job description, job categories, job tags, job requirements, job opening, employment status, and submission status. This form is required for a solar technician job opening.
-The form contains 25 fields, some of which are required, and some of which are not. Required fields are marked as such in the form. Please note that some fields may have multiple options to select from, and you should choose the most relevant option that applies to your situation.
-Please complete the form accurately and thoroughly, providing as much detail as possible. Your submission will be reviewed carefully to determine your eligibility for the job.
-</thinking>
-
 # Renewable Energy Solar Technician Job Application - Help Guide
 ## Purpose
 

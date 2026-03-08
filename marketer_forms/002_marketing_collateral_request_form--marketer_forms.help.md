@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication, this form is only accessible to authorized personnel. It is used for requesting marketing collateral materials such as brochures, flyers, and postcards. The form ensures that marketing materials requests are properly documented and tracked for future reference. The form fields are explained below.
-</thinking>
-
 # marketing_collateral_request_form - Help Guide
 ## Purpose
 This form is used for requesting marketing collateral materials such as brochures, flyers, and postcards.

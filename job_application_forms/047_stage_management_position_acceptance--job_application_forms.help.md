@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Stage Management Position Acceptance - Help Guide
 ## 
 ## How To Complete This Form

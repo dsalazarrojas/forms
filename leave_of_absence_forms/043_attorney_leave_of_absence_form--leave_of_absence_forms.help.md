@@ -1,18 +1,3 @@
-<thinking>
-This form is used to capture information about an attorney's leave of absence, which is a period of time when an attorney is temporarily not available to work. The purpose of this form is to ensure that the attorney's absence does not disrupt the normal functioning of the firm and to provide necessary information for managing the cases and clients during the leave.
-
-To prevent duplication of effort, this form should be filled out only by the attorney who is taking the leave.
-
-The form is divided into several sections:
-
-* Attorney Information: This section captures the basic information about the attorney, including their name, bar number, position title, and office location.
-* Leave Request Information: This section captures the details about the leave of absence, including the start and end dates, total leave days, type of leave, reason for leave, and any other relevant information.
-* Case Coverage: This section ensures that the cases the attorney is handling are properly covered during their absence.
-* Emergency Contact: This section captures the information about the attorney's emergency contact, including their name and phone number.
-* Approval Information: This section captures the information about the leave approval process, including the managing partner's name and any prior approval.
-
-</thinking>
-
 # Attorney Leave Of Absence Form - Help Guide
 
 ## Purpose

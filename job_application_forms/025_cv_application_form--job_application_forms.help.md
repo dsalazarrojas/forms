@@ -1,16 +1,3 @@
-<thinking> 
-This help guide is intended to provide users with a clear understanding of how to complete the CV Application Form. The form is designed to gather information from candidates applying for a specific job position, and it includes fields for personal information, job specifics, education and experience, and eligibility. 
-
-The form is meant to be completed by potential employees who are applying for a job. 
-
-Before filling out this form, please ensure that you have a clear understanding of the job you are applying for, and that you are eligible to work in the country where the job is located. This form will guide you through the necessary steps to submit your application, and help you provide the necessary information for the hiring process. Please note that by using this form, you acknowledge that you are submitting an application to the company, and you are aware of the terms and conditions of the job. 
-
-If you are applying for a job that requires sponsorship, you will be asked if you will now or in the future require sponsorship. Please answer truthfully. 
-
-Please fill out this form accurately and completely, and ensure that all required fields are filled out. If you have any questions or concerns, please contact the hiring team for assistance. 
-
-</thinking>
-
 # CV Application Form - Help Guide
 ## Purpose
 The CV Application Form is intended for potential employees to submit their applications for a specific job position. The form collects information about the candidate's personal details, job specifics, education and experience, and eligibility. This form is required to be completed accurately and completely to ensure that the hiring team has all the necessary information to review your application.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to facilitate a real estate investment loan application process. The form is designed to gather personal, loan, and property details, as well as contact and credit information. It is intended for individuals seeking to invest in real estate through a loan.
-
-Before proceeding, please ensure that you have all the necessary information and documents required for the loan application process.
-
-This form is a critical part of the loan application process, and accurate and complete information will help expedite the process.
-
-</thinking>
-
 # real_estate_investment_loan_application_form - Help Guide
 ## Purpose
 The real_estate_investment_loan_application_form is designed to collect information from users to facilitate a real estate investment loan application process.

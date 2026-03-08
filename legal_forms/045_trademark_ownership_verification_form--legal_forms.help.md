@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to verify the ownership of a trademark. This form is typically used by trademark owners to provide accurate information about their trademark, including its name, description, registration status, and ownership details. This form is likely used by trademark offices or authorities to ensure that the trademark information is up-to-date and accurate.
-
-The fields on this form are designed to collect specific information about the trademark and its owner. The form is not intended to be complex, so users should be able to complete it quickly and accurately.
-
-Please review this form carefully and ensure that all fields are complete before submitting it. This will help to avoid any discrepancies or issues with the trademark ownership verification process.
-</thinking>
-
 # Trademark Ownership Verification Form - Help Guide
 ## Purpose
 The purpose of this form is to verify the ownership of a trademark. It is used by trademark owners to provide accurate information about their trademark and by trademark offices or authorities to ensure that the trademark information is up-to-date and accurate.

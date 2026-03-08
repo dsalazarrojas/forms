@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to report any contaminants found in ingredients used during manufacturing processes. The form is used to track and investigate potential contamination issues. It's meant to be used when a contaminant is detected, and the purpose is to document the details of the incident.
-
-Before filling out this form, please ensure that you haven't already reported this incident. If you're unsure, check with the relevant team or supervisor to avoid duplication of effort.
-
-This form is designed to be completed by the person who detected the contaminant. It's essential to provide accurate and detailed information to help the relevant teams investigate and address the issue.
-
-Please ensure that the form is filled out correctly and thoroughly, as any missing or incorrect information may hinder the investigation process.
-
-</thinking>
-
 # Ingredient Contaminant Alert Report Form - Help Guide
 ## Purpose
 The Ingredient Contaminant Alert Report Form is used to document and track any contaminants found in ingredients used during manufacturing processes.

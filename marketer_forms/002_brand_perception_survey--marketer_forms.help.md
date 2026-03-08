@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about the respondent's perception of a brand. It asks questions about the respondent's familiarity with the brand, their overall impression of the brand, and their experience with the brand's products or services. The form also inquires about the respondent's purchasing behavior, their satisfaction with the brand, and their opinion on the brand's values. Additionally, it asks if the brand's values align with theirs and if they would recommend the brand to others. The form is meant to gather insights into the brand's strengths, weaknesses, and areas for improvement.
-
-This form will collect relevant and valuable data for businesses and organizations looking to assess their brand's reputation and performance. It helps identify potential areas where the brand can improve and increase customer satisfaction. This form will not collect any personal identifiable information, and responses will be kept confidential.
-
-This form is an original adaptation, not affiliated with, endorsed by, or derived from any form platform. It is released under CC BY 4.0 and can be freely used, modified, and even sold, just give credit.
-
-Please note that this form is for general guidance only and should be reviewed and tested before use. The form's purpose and fields may not fully align with your specific business needs. It is recommended that you review the form carefully and adjust it to fit your specific requirements.
-
-</thinking>
-
 # Brand Perception Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your perception of a brand, helping businesses and organizations understand their reputation and performance.

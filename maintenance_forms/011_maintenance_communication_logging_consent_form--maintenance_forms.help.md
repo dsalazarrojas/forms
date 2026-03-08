@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect consent from tenants for maintenance-related communication logging, which is a critical aspect of ensuring that maintenance operations are properly documented and auditable. This form serves as a means to verify that the tenant is aware of and agrees to the maintenance communication logging process. 
-The form is likely used in a B2B or B2C (Business-to-Business or Business-to-Consumer) setting, where companies provide maintenance services to their customers. In this context, accurate and transparent communication is essential for building trust and ensuring that both parties are on the same page. 
-The form should not be used for other purposes that are not related to maintenance operations, as it's designed to address specific requirements around communication logging. 
-</thinking>
-
 # maintenance_communication_logging_consent_form - Help Guide
 ## Purpose
 The maintenance_communication_logging_consent_form is a crucial tool for ensuring that tenants are aware of and agree to the maintenance-related communication logging process. This process is vital for building trust and maintaining accurate records.

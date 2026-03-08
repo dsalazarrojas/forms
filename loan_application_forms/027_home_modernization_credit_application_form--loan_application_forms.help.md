@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help homeowners apply for a home modernization credit, which is a type of loan specifically for home improvements, additions, or repairs. The form collects information about the project details, contact information, loan request, property details, credit request, credit amount, loan term, loan interest rate, credit use, loan amount, credit status, and additional notes or signature. The form will guide you through each step to ensure you provide all necessary information for a successful application. Please ensure that this form is only used for its intended purpose and does not need to be filled out for other purposes, such as other types of loan applications or unrelated financial requests.
-
-</thinking>
-
 # Home Modernization Credit Application Form - Help Guide
 ## Purpose
 The Home Modernization Credit Application Form is a tool for homeowners to apply for a home modernization credit, which can be used for home improvements, additions, or repairs.

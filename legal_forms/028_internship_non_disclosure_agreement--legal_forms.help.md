@@ -1,17 +1,3 @@
-<thinking>... internal reasoning block to determine the form purpose and potential duplication of the form ...
-
-Form Purpose:
-The form appears to be a template for capturing an individual's work experience and internship information. It requests details such as non-prophet's name, title, department, job title, and other relevant work-related information. The form also includes fields for non-disclosure terms and acknowledgement of confidentiality agreements.
-
-Checking for relevance and non-duplication:
-
-* The form is part of a "legal_forms" category, indicating it may be related to legal or compliance purposes.
-* The presence of fields for non-disclosure terms and acknowledgement suggests it may be used for confidentiality agreements.
-* Some fields such as "work period" and "submission date" do not seem to be directly related to the form's purpose and may be redundant or error fields.
-* The form appears to be a custom template and may be specific to a certain organization or industry.
-
-Given this analysis, the form purpose is likely for creating a confidential information disclosure agreement or internship agreement form, and it should be used for capturing an individual's work experience and internship information for legal or compliance purposes.</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is for capturing individual's work experience and internship information for legal or compliance purposes, such as creating a confidential information disclosure agreement or internship agreement.

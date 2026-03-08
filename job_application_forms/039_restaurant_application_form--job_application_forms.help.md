@@ -1,15 +1,3 @@
-<thinking>
-
-To determine whether the form is suitable for this use case, I'll need to analyze the provided YAML fields to understand the form's purpose and how users can interact with it.
-
-The Restaurant Application Form consists of several input fields, including fields for restaurant information, contact information, availability, work history, education, special skills, resume upload, phone, email, agree to terms, notes, date, time, address, city, state, zip, country, and agreed terms. This form appears to be designed for a job application process, particularly for potential employees applying for positions within the restaurant industry.
-
-To confirm, the form's purpose seems to be to gather information from applicants to assess their qualifications, work experience, and availability for potential employment. The form's design also suggests that it may be used for internal processing and evaluation of applications.
-
-To avoid duplication, I will make sure to cover the same topics as the form's original intent and provide a clear explanation of each field.
-
-</thinking>
-
 # Restaurant Application Form - Help Guide
 ## Purpose
 The Restaurant Application Form is designed to collect information from potential employees for job application purposes within the restaurant industry. This form helps us gather relevant details about your work experience, availability, and qualifications to assess your suitability for positions within our restaurant.

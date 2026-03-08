@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by local manufacturers to apply for grants. It is a general-purpose form and should not be used for any other purpose. To avoid duplication, please do not submit multiple applications for the same project. Before filling out this form, ensure you have all required documents and information ready. This form is designed to collect necessary details for evaluating your grant application.
-</thinking>
-
 # Local Manufacturing Grant Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals involved in civil litigation cases. This form is intended to gather details about the client, contact information, opposing party (if known), a brief summary of the case, the relief or remedy sought, documents available, important deadlines or limitation periods, current legal representation, and submission date. This form is meant to be completed by the individual or their representative, and the information collected will be used to guide the legal process. To ensure accurate and thorough completion of the form, please review each field carefully. Note that some fields are optional and only require completion if relevant to the case.
-</thinking>
-
 # Civil Litigation Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from individuals involved in civil litigation cases. It helps guide the legal process by providing a comprehensive overview of the case details.

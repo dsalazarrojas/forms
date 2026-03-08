@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Senior Management Position Application - Help Guide
 
 ## Purpose

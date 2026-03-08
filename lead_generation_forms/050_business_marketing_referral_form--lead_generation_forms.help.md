@@ -1,8 +1,4 @@
-> <thinking>
-This form is used for collecting referral information from business marketing teams. Referrals can be generated through various means, such as word-of-mouth, online searches, or in-person interactions. The purpose of this form is to capture detailed information about the referrer, the referred company, and the potential project or opportunity. This will help the sales team to identify potential clients and follow up on the referral leads.
-</thinking>
-
-# Business Marketing Referral Form - Help Guide
+> # Business Marketing Referral Form - Help Guide
 ## Purpose
 This form is used to collect referral information from business marketing teams. It helps the sales team to identify potential clients and follow up on referral leads.
 

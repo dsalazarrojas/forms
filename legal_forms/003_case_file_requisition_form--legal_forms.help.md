@@ -1,7 +1,3 @@
-<thinking>
-The form is used to request access to files and records from the legal department. The user is typically an employee or representative of the company seeking to access documents related to a case or file. The form is completed by the requester to provide necessary information for the legal department to review and release the requested records. This form is likely to be used internally within the company or with external partners.
-</thinking>
-
 # Case File Requisition Form - Help Guide
 ## Purpose
 The Case File Requisition Form is used to request access to files and records from the legal department. This form helps the legal department understand the requester's identity, reason for the request, and necessary information for efficient processing and delivery.

@@ -1,5 +1,3 @@
-<thinking>This form serves as a legal document for resellers to agree with the terms and conditions of a product or service they intend to resell. The form requires the following information to be completed by the reseller: First Name, Last Name, Company, Title, Address 1, Address 2, Email, Phone, Product Owner, Reseller, Agreement Term, Agreement Date, Signature 1, Signature 2, Terms Accepted, Other terms, Date accepted terms, Reseller Signature, Product Owner Signature, Date created, Date updated, Date signed, Date returned, Agreement Status, Agreement ID. Each field is crucial in establishing the legal and operational relationship between the reseller and the product owner. It is essential to fill out the form accurately and completely to ensure that the agreement is legally binding and valid.</thinking>
-
 # Reseller Agreement Form - Help Guide
 
 ## Purpose

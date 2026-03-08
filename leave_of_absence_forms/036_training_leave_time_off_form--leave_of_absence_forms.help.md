@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # training_leave_time_off_form - Help Guide
 ## Purpose
 This form is used to submit a request for training leave time off. Please complete it if you need to take a leave from work for training or professional development purposes.

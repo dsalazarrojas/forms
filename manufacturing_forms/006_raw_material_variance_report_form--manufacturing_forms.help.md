@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to report variances in raw materials. A variance is a significant difference in the quantity or quality of a material from the expected amount or standard. The form is used to document and track variances, ensuring that they are properly recorded and addressed. This form should only be completed when a variance has occurred. 
-
-The form is used to collect information about the variance, including the root cause, the amount of variance, any corrective action taken, and the date and time of the variance. The form also includes fields for contact information, such as an email and phone number, which can be used for follow-up communication. 
-
-This form is typically completed by production staff after a variance is observed, and it is used by management to monitor and address variances in the production process.
-
-</thinking>
-
 # Raw Material Variance Report Form - Help Guide
 ## Purpose
 The Raw Material Variance Report Form is used to document and track variances in raw materials, ensuring that they are properly recorded and addressed.

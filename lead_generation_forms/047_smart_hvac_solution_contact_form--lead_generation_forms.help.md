@@ -1,5 +1,3 @@
-<thinking>This form is designed to capture contact information and any inquiries or questions from users who visit the website. The form is not intended for internal use within the company and is meant to be a communication channel between the user and the company's support team. Please ensure that you are not duplicating efforts by checking if a similar form already exists.</thinking>
-
 # Smart HVAC Solution Contact Form - Help Guide
 ## Purpose
 The Smart HVAC Solution Contact Form is a user-friendly way to get in touch with the support team for any questions, comments, or general inquiries related to HVAC solutions.

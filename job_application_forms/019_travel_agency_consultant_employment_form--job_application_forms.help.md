@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for potential travel agency consultants to provide their contact information and details about their work experience, qualifications, and availability. It will help the travel agency determine if the consultant is a good fit for any job openings they may have. The form is divided into several sections, each with specific fields for different aspects of the consultant's background and qualifications.
-</thinking>
-
 # Travel Agency Consultant Employment Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential travel agency consultants to assess their suitability for job openings at our agency.

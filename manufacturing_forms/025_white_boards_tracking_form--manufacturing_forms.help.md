@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the progress of whiteboards in a manufacturing setting. It is likely used by production teams to update the status of whiteboards, which are visual management tools used to plan, track, and improve processes in manufacturing operations. This form should only be used for tracking whiteboards, not for creating new ones. Before filling out this form, ensure that the whiteboard you're tracking has already been created and is active. This form does not replace the creation process of a new whiteboard.
-</thinking>
-
 # white_boards_tracking_form - Help Guide
 ## Purpose
 This form is designed to track the status and attributes of whiteboards in a manufacturing setting. It helps production teams stay organized and up-to-date on the current status and details of each whiteboard.

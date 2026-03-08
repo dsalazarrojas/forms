@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to collect information on laboratory management trends, roles, and challenges. The purpose of this form is to gather data on the types of laboratory management roles that exist, the common challenges faced by laboratories, and the trends that are being adopted in laboratories. This form will help the lab management team to better understand the current state of laboratories and identify areas that need improvement.
-
-The form should not be used to:
-* Collect personal or sensitive information about individuals
-* Conduct market research for marketing purposes
-* Collect data for sales or advertising activities
-
-This form is intended for:
-* Internal use within the organization or its affiliated institutions
-* Research or academic purposes
-* Improving laboratory management processes
-
-This form is not intended for public use and the data collected will be used only for internal purposes.
-
-Please note that the form is designed for laboratories in general and might not be suitable for very specific types of laboratories, such as those with unique needs or requirements. If you are unsure about the form's suitability for your laboratory, please contact your internal support team for assistance.
-
-</thinking>
-
 # laboratory_management_trends_quiz - Help Guide
 ## Purpose
 This form is designed to collect information on laboratory management trends, roles, and challenges to improve laboratory management processes.

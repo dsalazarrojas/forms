@@ -1,7 +1,3 @@
-<thinking>
-Temporary account information release forms are often used in various business contexts to provide employees or other personnel with a way to release information about their account details, such as customer names, email addresses, phone numbers, and physical addresses. Before proceeding, ensure that this form is being used for its intended purpose and that the information being released is not already available or accessible through other means. It is essential to verify that the form is not being used to disclose sensitive or confidential information, and that all necessary approvals or permissions have been obtained before releasing such information. Ensure that this form is being used correctly and consistently to maintain accurate and up-to-date information.
-</thinking>
-
 # Temporary Account Information Release Form - Help Guide
 ## Purpose
 The Temporary Account Information Release Form is designed to collect and release information about customers, including their name, email address, phone number, and address. This form is used to provide a convenient and secure way to manage customer account details.

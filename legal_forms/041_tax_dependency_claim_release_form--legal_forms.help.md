@@ -1,10 +1,3 @@
-<thinking> 
-  A tax dependency claim release form is used to document the release of a tax dependency claim. This form is typically used to formally declare that a tax dependency claim has been released, usually due to a change in circumstances or a dispute resolution. This form helps in maintaining transparency and accuracy in tax claims and ensures that all parties involved are aware of the release.
-  To ensure accuracy, please ensure that the category selected is correct and that the tax year is correct to avoid any confusion.
-  Please make sure that you fill in all the required fields, and only the required fields.
-  If you are unsure of any of the information, please contact your representative for guidance.
-</thinking>
-
 # Tax Dependency Claim Release Form - Help Guide
 ## Purpose
 The Tax Dependency Claim Release Form is used to document the release of a tax dependency claim.

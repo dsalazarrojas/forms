@@ -1,6 +1,3 @@
-<thinking>
-The Silent Partnership Agreement Form is a document used for establishing and formalizing the terms of a silent partnership, a type of business partnership where one partner is actively involved in the business while the other partner is not. This form is designed to be completed by both active and silent partners to outline their respective roles, responsibilities, and contributions to the partnership. To avoid duplicating this form, ensure that your organization does not already have a similar form in place, and consider using this form only when creating new silent partnerships.</thinking>
-
 # Silent Partnership Agreement Form - Help Guide
 ## Purpose
 The Silent Partnership Agreement Form is a document used to formalize and outline the terms of a silent partnership, a type of business partnership where one partner is actively involved in the business while the other partner is not.

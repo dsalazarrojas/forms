@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from volunteers who wish to register for the Mystery Reader program. The form is intended to gather details about the volunteer's availability, reading preferences, and other relevant information to match them with suitable reading sessions.
-
-Before proceeding, please note that this form is intended for new volunteers. If you have already registered or are an existing volunteer, please do not fill out this form again. The form will guide you through various sections to collect the necessary information efficiently.
-
-To ensure a smooth experience, please fill out the form in order, from top to bottom. This order is as follows:
-
-1. Volunteer Details: This section collects basic information about the volunteer, including their name, contact phone number, and preferred email address.
-2. Availability Details: Here, you will provide information about your availability to volunteer, including preferred dates and times.
-3. Reading Preferences: You will select your preferred age groups to read with and how often you are willing to volunteer.
-4. Additional Information: Finally, you will provide any additional comments or notes about your volunteering experience and language proficiency.
-
-Please fill out the form accurately and thoroughly, as it will help us match you with suitable reading sessions.
-</thinking>
-
 # Mystery Reader Registration - Help Guide
 ## Purpose
 The Mystery Reader Registration form is designed to collect information from volunteers who wish to participate in the Mystery Reader program.

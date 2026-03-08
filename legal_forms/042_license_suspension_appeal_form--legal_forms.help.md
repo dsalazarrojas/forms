@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help individuals submit an appeal for a license suspension. It is likely used in a business or government setting where licenses are issued and managed. The form is intended to be filled out by an individual who has had their license suspended and is seeking to have the decision reviewed. The fields on this form are designed to gather information about the reason for the suspension, the date of the suspension, an explanation of the situation, any supporting documents, and signatures from the individual submitting the appeal and a reviewer.
-
-Before filling out this form, make sure you have all necessary information and supporting documents. Be sure to review all fields carefully and provide as much detail as possible for each field.</thinking>
-
 # License Suspension Appeal Form - Help Guide
 ## Purpose
 The License Suspension Appeal Form is a form designed to help individuals who have had their license suspended to submit an appeal for review. This form is intended to gather information about the reason for the suspension, any relevant details, and supporting documentation.

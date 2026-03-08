@@ -1,12 +1,3 @@
-<thinking>
-This guide is for individuals who want to create a request to change an existing Power of Attorney (POA) agreement. This form is used by a requestor to submit a formal request to update or modify their POA, which grants authority to another person to act on their behalf in legal matters. The form will help guide the reviewer to review and approve or reject the request. To ensure accuracy and efficiency in the process, please read this guide carefully to understand each field's purpose and requirements.
-
-The form is designed to collect relevant information about the requestor, the POA, and the reason for the change request. It is essential to fill out the form accurately and completely to ensure that the review process goes smoothly.
-
-Before proceeding, please ensure that you have the necessary permissions and approvals to submit this form. If you are unsure about any field or process, please consult your supervisor or relevant authorities before completing the form.
-
-</thinking>
-
 # Power Of Attorney Change Request - Help Guide
 ## Purpose
 The Power Of Attorney Change Request form is used to update or modify an existing Power of Attorney agreement. This form should be completed by the individual seeking to make changes to their POA, such as adding or removing powers, changing the agent's authority, or updating the agreement's terms.

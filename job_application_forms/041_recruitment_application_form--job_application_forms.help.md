@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect job application information from candidates. This form is designed to be an efficient and effective tool for hiring managers and recruiters to gather necessary details about job applicants. It covers various aspects of a candidate's job application, including their job posting details, candidate information, skills, work experience, education background, and references. To ensure that this form is used correctly and consistently, it's essential to follow the provided instructions carefully.
-
-
-</thinking>
-
 # recruitment-application-form - Help Guide
 ## Purpose
 The recruitment-application-form is a comprehensive tool designed to collect detailed information about job applicants. It helps hiring managers and recruiters to evaluate candidates' qualifications and fit for a specific role. By completing this form, candidates can showcase their skills, experience, and background, increasing their chances of landing an interview or getting hired.

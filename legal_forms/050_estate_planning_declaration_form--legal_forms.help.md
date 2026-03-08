@@ -1,11 +1,3 @@
-<thinking>This form is for individuals to declare their estate planning intentions and preferences regarding asset distribution and care provision in the event of their passing or incapacitation. It is essential to fill this form accurately to ensure that the user's wishes are respected and carried out as intended.
-
-Before completing this form, please make sure that you have a good understanding of the form's purpose and the implications of your answers. This form is meant to be filled out for the benefit of the individual's loved ones and is not a substitute for a comprehensive estate plan, which should be created with the help of a qualified attorney.
-
-Please note that some of the fields in this form are optional and are intended to provide further detail and context to your answers. It is not mandatory to fill out all the fields, but it is recommended to do so to ensure that your wishes are accurately captured.
-
-</thinking>
-
 # Estate Planning Declaration Form - Help Guide
 ## Purpose
 This form is designed to help individuals declare their estate planning intentions and preferences, ensuring that their wishes are respected and carried out in the event of their passing or incapacitation.

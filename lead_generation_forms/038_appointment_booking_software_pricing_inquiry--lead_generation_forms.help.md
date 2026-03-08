@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to gather information from users who want to inquire about the pricing of the Appointment Booking software. The form is likely used to collect contact information from the user, their business details, and specific requirements for the software, such as appointment needs and features required. The form also aims to understand the user's budget and implementation timeline for the software.
-</thinking>
-
 # Appointment Booking Software Pricing Inquiry - Help Guide
 ## Purpose
 This form is designed to gather information from users who want to inquire about the pricing of the Appointment Booking software. It collects contact information, business details, and specific requirements for the software to provide a more accurate pricing quote.

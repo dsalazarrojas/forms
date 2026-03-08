@@ -1,5 +1,3 @@
-<thinking>...To avoid duplication of leave requests, please note that a leave request form is only valid for a specific period. Ensure you only submit one request per leave period. Also, ensure you only submit a request when your leave is not already approved. If you are unsure, please check with your supervisor or HR before submitting a form.</thinking>
-
 # Symposium Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used to submit a leave request for Symposium events such as conferences, presentations, meetings, and training. The form is used to request leave from work for these events and is required for official approval.

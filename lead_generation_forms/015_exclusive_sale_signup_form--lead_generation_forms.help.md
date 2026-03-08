@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for an exclusive sale. This form is designed to capture relevant details such as email, name, phone number, interests, location, comments, sale date, sale time, and promo code. The form is divided into multiple pages, and the "Interests" field is a multiple-choice question with a predefined list of options. The "Location" field is a single-choice question with a list of city options. The "Sale Date" and "Sale Time" fields are date and time fields, respectively. This form is likely used for marketing or sales purposes, such as gathering contact information for a promotion or offering exclusive deals.
-</thinking>
-
 # Exclusive Sale Signup Form - Help Guide
 
 ## Purpose

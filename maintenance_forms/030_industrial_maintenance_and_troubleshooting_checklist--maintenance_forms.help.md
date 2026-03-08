@@ -1,7 +1,3 @@
-<thinking>
-The form is likely used for tracking and organizing maintenance and troubleshooting tasks related to industrial equipment. It might be used by technicians, operators, or maintenance teams to record and report on the status of various equipment, including any scheduled or completed maintenance tasks, and any issues or problems that need to be addressed. This form could help ensure that all equipment is properly maintained and that potential problems are caught early, which would prevent accidents, downtime, and costly repairs. Before creating the guide, I'll check for any existing guides or similar forms that might cover similar purposes, to avoid duplication.
-</thinking>
-
 # industrial_maintenance_and_troubleshooting_checklist - Help Guide
 
 ## Purpose

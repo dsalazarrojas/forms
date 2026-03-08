@@ -1,5 +1,3 @@
-<thinking>...The form is for customers to provide their contact information so that our business can follow up on potential sales leads. This form is meant to be completed by customers who are interested in our services or products and would like to learn more. Please note that submitting this form will help us reach out to you with further information, and we do not share any of your contact information with any other third party, ensuring the security and confidentiality of your data.</thinking>
-
 # Cross Sell Lead Submission Form - Help Guide
 ## Purpose
 This form is designed for customers to express their interest in our services or products and allow our team to follow up with further information.

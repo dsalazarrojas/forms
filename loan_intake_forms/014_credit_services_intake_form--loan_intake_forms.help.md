@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Credit Services Intake Form", we need to understand the form's purpose and ensure that users understand the required information and the correct format for filling out the form. 
-The form appears to be for users to provide personal and employment information for credit services, which may include credit checks or loan applications. This guide should be clear and concise to guide users through the form completion process.
-
-</thinking>
-
 # Credit Services Intake Form - Help Guide
 ## Purpose
 The Credit Services Intake Form is designed to collect necessary information for credit services. Please fill out this form to provide your personal and employment details for credit checks or loan applications.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to assist applicants in applying for copyright protection for their work. It is essential to fill out the form accurately to ensure a smooth and efficient application process.</thinking>
-
 # copyright_application_form - Help Guide
 ## Purpose
 The "copyright_application_form" is used to submit applications for copyright protection for original works created by individuals or organizations. This form collects relevant information to process the application efficiently.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help applicants apply for a Desk Assistant position. It collects information about the applicant's personal details, work experience, job qualifications, education background, references, and other relevant documents.
-Before proceeding, please ensure you have all the necessary information and documents ready to avoid incomplete applications. This form has multiple pages, each with various fields that need to be filled out. Ensure you fill out all required fields to avoid submission errors.
-This form is not affiliated with, endorsed by, or derived from any form platform. It is a custom-built form using AI-generated metadata from a public survey.
-Please review the form carefully to ensure you understand the purpose and requirements.
-</thinking>
-
 # Desk Assistant Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for a Desk Assistant position. It has multiple pages with various fields that need to be filled out carefully.

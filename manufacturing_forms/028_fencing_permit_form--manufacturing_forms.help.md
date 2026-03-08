@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining a fencing permit, which is a type of permit required for certain types of fencing projects in the area. This form is used to collect information from the applicant, including their name, business name, permit type, and contact information. This form is likely to be used by residents, business owners, or contractors working on fencing projects. 
-To ensure that this form is used correctly, please verify that you are filling it out for the right type of permit. If you're unsure, you can contact your local authorities for clarification.</thinking>
-
 # Fencing Permit Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a fencing permit application. This information is used to facilitate the processing and approval of the permit application.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is not filled out by unqualified candidates and to prevent job application fraud. We also need to filter out candidates who lack the required experience or skills, so the form asks for a resume, candidate information, job information, experience, and references. It's not a form for people who are just looking for general employment opportunities. This form is only for those who have been referred to the job posting.
-</thinking>
-
 # Manufacturing Quality Assurance Job Application - Help Guide
 ## Purpose
 This form is a job application for a manufacturing quality assurance position. It is designed to collect information from candidates who have been referred to a job posting for this specific role. The goal of this form is to assess the suitability of each candidate for the position.

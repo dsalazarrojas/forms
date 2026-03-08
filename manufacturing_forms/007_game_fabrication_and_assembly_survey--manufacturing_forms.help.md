@@ -1,6 +1,3 @@
-<thinking>
-To avoid duplicating efforts and to ensure that this form is being used correctly, let's review its purpose and relevance. This form, titled "Game Fabrication And Assembly Survey," appears to be used for evaluating the performance of a game in terms of its fabrication and assembly process. It gathers information about various aspects of the game's production process, including the quality of the build, the performance of the manufacturing process, and the effectiveness of the production planning team. The survey likely aims to identify areas of improvement and optimize the game's production process. To ensure that this form is being used correctly, let's review the following fields and their corresponding explanations:</thinking>
-
 # Game Fabrication And Assembly Survey - Help Guide
 ## Purpose
 This form is used to evaluate the performance of a game in terms of its fabrication and assembly process. It helps to identify areas of improvement and optimize the production process.

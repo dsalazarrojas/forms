@@ -1,7 +1,3 @@
-<thinking>
-The form "Social Media Account Information" is intended to collect data about social media accounts, allowing users to provide information about a specific account, its platform, name, account ID, password, account URL, email, phone number, account type (public or private), account status (active, inactive, or suspended), created date, and updated date. This form likely serves as a data collection tool for marketing or social media management purposes, such as keeping track of multiple social media accounts or managing account permissions. It's essential to ensure that the form is filled out correctly to avoid duplication or incorrect data entry. Please double-check the form's fields and their corresponding explanations before proceeding.
-</thinking>
-
 # Social Media Account Information - Help Guide
 ## Purpose
 The Social Media Account Information form is designed to collect essential details about a social media account. This information is crucial for effective management and tracking of social media presence.

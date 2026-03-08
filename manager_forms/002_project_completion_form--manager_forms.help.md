@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help us understand the purpose and relevance of this form, let's dive into the internal reasoning behind it.
 
 This form is designed to capture information about project completion, likely for tracking and evaluation purposes. It might be used to document the status of projects, provide updates on progress, and facilitate communication between project managers and stakeholders. The form's fields suggest a focus on tracking project completion, status, and evaluation dates, as well as providing space for project managers to leave comments and recommendations.

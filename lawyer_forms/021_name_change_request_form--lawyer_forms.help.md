@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for individuals or entities to submit a request to change their name, which can be a vital step in updating personal or organizational information in various contexts. It's essential to ensure that the form is completed accurately and thoroughly to avoid any potential issues or delays in the name change process. The form is not designed for mass submissions or automated name changes, so please use it responsibly.
-</thinking>
-
 # Name Change Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for a name change request. It is intended for individuals or entities seeking to update their name in a specific context, such as a legal or personal identification update. Please ensure you are using this form for its intended purpose and not for mass submissions or automated name changes.

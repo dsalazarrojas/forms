@@ -1,16 +1,3 @@
-<thinking>
-
-**Form Purpose:**
-This form is designed to help applicants provide information about their qualifications, experience, and availability for a Retail Inventory Specialist position. The form aims to gather essential details to assess the suitability of the candidate for the role.
-
-**Relevance:**
-This form is intended for use by potential candidates who are interested in applying for a Retail Inventory Specialist position. The form will be used to gather information that will help the hiring team assess the qualifications and experience of the candidate.
-
-**No Duplication:**
-Please note that this form is not affiliated with any form platform and is an original adaptation created using public survey topic metadata. It is released under a Creative Commons Attribution 4.0 license, allowing for free use, modification, and sharing.
-
-</thinking>
-
 # Retail Inventory Specialist Employment Form - Help Guide
 ## Purpose
 The Retail Inventory Specialist Employment Form is designed to collect information about your qualifications, experience, and availability for a Retail Inventory Specialist position. This form helps the hiring team to assess your suitability for the role.

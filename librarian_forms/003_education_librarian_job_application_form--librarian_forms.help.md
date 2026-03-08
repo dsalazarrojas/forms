@@ -1,10 +1,3 @@
-<thinking>
-The internal reasoning is as follows:
-This form is for the application for the Education Librarian position, used for the recruitment process of the Education Librarian in the library.
-The form is to gather information from candidates about their qualifications, education, skills, and experience.
-To avoid duplication, only one form will be filled out for each candidate.
-</thinking>
-
 # Education Librarian Job Application Form - Help Guide
 ## Purpose
 The Education Librarian Job Application Form is used to collect information from candidates applying for the Education Librarian position. This form helps to gather details about each candidate's qualifications, education, skills, and experience.

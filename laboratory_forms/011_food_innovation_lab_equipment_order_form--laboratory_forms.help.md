@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Innovation Lab Equipment Order Form - Help Guide
 
 ## Purpose

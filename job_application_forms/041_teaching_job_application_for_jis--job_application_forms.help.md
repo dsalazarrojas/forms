@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals interested in applying for a teaching position at JIS (Japan International School). The form is meant to be completed by the applicant to provide their personal details and other relevant information. Please ensure that you have carefully read and understood the form before proceeding. If you are a current JIS employee, please note that this form is not for internal use and should not be attempted to be filled out.
-
-To avoid errors, please ensure that you have all the necessary information at hand before starting to fill out the form. You can save your progress and come back later if needed. If you are unsure about any field, please feel free to ask for clarification.
-
-Before proceeding, please ensure that the form is not already filled out by someone else. You can verify this by checking the "Form Status" section at the bottom right-hand corner of the form.
-
-</thinking>
-
 # Teaching Job Application For JIS - Help Guide
 ## Purpose
 

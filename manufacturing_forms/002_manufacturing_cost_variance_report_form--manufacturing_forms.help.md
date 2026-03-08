@@ -1,17 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "manufacturing_cost_variance_report_form" form, we need to understand its purpose, how to complete it, and what each field means. This form likely helps manufacturing teams track and analyze cost variance in a production process. 
-
-The form might be used in a production planning or control environment where teams need to compare planned versus actual costs. It could be part of a broader quality control or production management system. 
-
-Given the structure of the form, it's likely designed for data entry and collection, allowing users to select options, input dates and times, or provide notes for further context. 
-
-The form might be used for daily, weekly, or monthly reporting, depending on the scope of the production process. 
-
-We can now assume that the form is indeed about manufacturing cost variance reporting and focus on explaining each field to the end user.
-
-</thinking>
-
 # manufacturing_cost_variance_report_form - Help Guide
 ## Purpose
 This form is designed to help manufacturing teams report and analyze cost variance in production processes. It is intended for data entry and collection, allowing users to input relevant information for further analysis.

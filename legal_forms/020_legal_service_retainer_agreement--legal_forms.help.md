@@ -1,9 +1,3 @@
-<thinking>
-
-To create a help guide for the "Legal Service Retainer Agreement" form, we need to understand its purpose and ensure it's not duplicating any existing guides. This form seems to be designed for recording information about an ongoing legal service agreement between a lawyer or law firm and their client. It appears to be a structured form used to capture essential details, including client and service details, fees, and dates, as well as other relevant notes. We can assume that this guide will be a comprehensive resource for end-users to fill out the form correctly and effectively. Given the form's structure and options, it seems that most fields are optional except for a few specific ones, indicating that the user can choose to provide as much information as needed for the specific circumstances.
-
-</thinking>
-
 # Legal Service Retainer Agreement - Help Guide
 ## Purpose
 The "Legal Service Retainer Agreement" form is used to document ongoing legal service agreements between lawyers or law firms and their clients. It captures essential details such as client and service information, dates, and other relevant notes.

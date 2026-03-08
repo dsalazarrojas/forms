@@ -1,6 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Copy Request Form" form, I need to consider the form's purpose and the fields it contains. The form appears to be used to collect information from users about copy requests, which likely involves documents, reports, and other materials. The form has multiple sections and fields, including "Files", "Documents", "Reports", "Staff", "Requestor", "Department", "Date Submitted", "Comments", "Submit Date", "Staff ID", "Tool", "Status", "Assigned Tool", "Form ID", "Created By", "Date Created", "Updated By", "Date Updated", "Submitter", "Submitter Email", "Submitter Phone", "Comments 1", "Comments 2", "Comments 3", and "Comments 4". The form seems to be used to track and manage copy requests in an organization, likely for administrative or operational purposes. I will ensure that the help guide is concise, clear, and practical, while avoiding any unsupported business logic.</thinking>
-
 # Copy Request Form - Help Guide
 ## Purpose
 The "Copy Request Form" is used to collect and track information about copy requests, which involves documents, reports, and other materials. This form is used to gather details from users about their requests, including who is requesting the copy, what type of copy is being requested, and other relevant information.

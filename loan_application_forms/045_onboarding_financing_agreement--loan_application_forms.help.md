@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information for onboarding financing agreements. This form is used to collect details about the applicant and the loan they are seeking. The form is designed to be completed by the applicant, and the information collected will be used to process their loan application. 
-
-Before filling out this form, please note that some fields are required and others are optional. Make sure to fill out all required fields to ensure that your loan application is complete and can be processed.
-
-This guide will help you understand each field in the form and how to complete it correctly.
-</thinking>
-
 # Onboarding Financing Agreement - Help Guide
 ## Purpose
 The Onboarding Financing Agreement form is used to gather information about your loan application. Please provide the requested information to ensure that your application is processed correctly.

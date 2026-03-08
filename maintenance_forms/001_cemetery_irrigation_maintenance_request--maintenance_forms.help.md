@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to capture information from individuals who need maintenance services for cemetery irrigation issues. The purpose of this form is to ensure that the maintenance crew has all the necessary information to promptly address the issue and minimize any potential damage or inconvenience to the cemetery's grounds. The form helps to categorize and prioritize maintenance requests based on the urgency level and type of issue reported. 
-
-The form is divided into several sections to guide the user through the process of submitting a maintenance request. It is crucial that the user fills in all required fields, as this information is essential for the maintenance crew to efficiently resolve the issue. 
-
-Before starting, please ensure that you have all the necessary details and that they match the provided options as closely as possible. Please be as detailed as you can with your answers to help the maintenance crew understand the situation better.
-
-</thinking>
-
 # Cemetery Irrigation Maintenance Request - Help Guide
 ## Purpose
 This form is for individuals who need maintenance services for cemetery irrigation issues. It helps the maintenance crew to promptly address these issues and minimize any potential damage or inconvenience to the cemetery's grounds.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to capture information about a person's email preferences and other relevant details. The primary goal is to understand the user's email capture needs and preferences, such as their email provider and whether they have a MailChimp email address. The form also requests optional fields to gather additional information like description, phone number, date, time, and country. 
-The form is designed to be completed by a user who is interested in being contacted or contacted by the company. It will be used to help the company's marketing and customer service teams understand the user's preferences and tailor their communication accordingly.
-To avoid duplication, users should not submit multiple entries. If a user has previously submitted an email capture form, they will be directed to a message indicating that their information has already been recorded and that they should not submit the form again.
-</thinking>
-
 # Email Capture Form - Help Guide
 
 ## Purpose

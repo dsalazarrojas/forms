@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help students practice their math skills in a controlled environment. The form is intended for students of various grade levels. The fields are meant to collect information from students, such as their name, grade level, math topic, and confidence rating. The form also includes fields for students to upload files and add additional comments. The purpose of this form is to assess student progress and understanding of math concepts.
-</thinking>
-
 # Math Practice Worksheet - Help Guide
 ## Purpose
 This form is designed to help students practice their math skills in a controlled environment. It's intended for students of various grade levels, allowing teachers to assess their progress and understanding of math concepts.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Standard Test Log Sheet is a form used to record and document laboratory test results and associated data. This form helps to ensure that all relevant information is accurately and consistently recorded, making it easier to track and analyze test results over time. The form is used to log standard tests, which are routine tests performed on patients or samples in a laboratory setting.
 
 # Standard Test Log Sheet - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information from users for the ordering of workstation equipment in a Smart Factory setting. The form should only be filled out by authorized personnel with the necessary permissions to place orders. Please ensure that you have the appropriate clearance before proceeding. Each field in this form should only be filled out once. If you have any questions or concerns, reach out to the relevant factory management.
-</thinking>
-
 # Smart Factory Workstation Order Form - Help Guide
 ## Purpose
 This form is used to capture the necessary information for ordering workstation equipment in the Smart Factory. It guides users through the process of requesting and ordering workstations and associated equipment.

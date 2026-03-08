@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to request a notary appointment for various document-related tasks. It captures essential information for the notary to prepare and the user to confirm the appointment details. This form will likely be used by lawyers or their representatives to schedule appointments with notaries. It's essential to ensure that the form is filled out accurately and completely to facilitate the appointment process.
-</thinking>
-
 # Notary Appointment Request Form - Help Guide
 ## Purpose
 The Notary Appointment Request Form is used to schedule an appointment with a notary for specific document-related tasks. This form captures essential information to ensure a successful and efficient appointment process.

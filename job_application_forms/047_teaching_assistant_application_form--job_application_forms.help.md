@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in applying for a teaching position. The form is intended to gather contact information, work experience, educational background, interests, skills, availability, references, and other relevant details. Please ensure that you are applying for a teaching position and that you have not already submitted an application. If you are unsure, please contact [insert contact email/phone number] to confirm eligibility.
-</thinking>
-
 # teaching_assistant_application_form - Help Guide
 ## Purpose
 This form is a general application form for individuals interested in teaching positions. It is designed to collect relevant information to help us understand your background, qualifications, and interests.

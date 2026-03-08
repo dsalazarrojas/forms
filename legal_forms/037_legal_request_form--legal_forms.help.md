@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a generic legal request form, used for collecting information from users for various legal-related purposes. The purpose of this form is to gather details about a user's request, including the requestor, request date and time, request type, location, and additional notes. The form does not seem to be highly specific to a particular industry or legal context, suggesting that it may be used in a general legal or administrative setting. 
-
-It's possible that this form is used for internal or external requests, such as employee requests for time off or customer requests for support. 
-
-Before completing the form, it's essential to review the fields carefully to ensure that you're providing the correct information. 
-
-</thinking>
-
 # Legal Request Form - Help Guide
 ## Purpose
 The Legal Request Form is a general-purpose form for collecting information about legal-related requests. It is used to gather details about a user's request, including the requestor, request date and time, request type, location, and additional notes.

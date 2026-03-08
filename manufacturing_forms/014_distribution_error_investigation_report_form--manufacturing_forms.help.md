@@ -1,8 +1,3 @@
-<thinking>
-This form is used to investigate and report on distribution errors that have occurred in the manufacturing process. The purpose of this form is to collect information about the error, including the date it occurred, the options selected, and any additional notes or contact information that may be relevant to the investigation.
-Before filling out this form, please ensure that it is not a duplicate report. If you have previously submitted a report for the same error, please do not resubmit it.
-</thinking>
-
 # Distribution Error Investigation Report Form - Help Guide
 ## Purpose
 This form is used to investigate and report on distribution errors that have occurred in the manufacturing process.

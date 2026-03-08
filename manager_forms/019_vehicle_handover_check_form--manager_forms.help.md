@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information about the handover of vehicles from one party to another. It is intended for use in situations where a vehicle is being transferred from one person or entity to another. The form is not designed for any other purpose, such as vehicle registration or sales documentation. Please use this form responsibly and do not duplicate its use without verifying its applicability to your specific context.
 
 # Vehicle Handover Check Form - Help Guide

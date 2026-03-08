@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to help the maintenance team schedule appointments and maintenance for the company's ice cream freezers. This form is intended for use by employees, managers, or customers who need to communicate their maintenance requests to the maintenance team. The goal is to ensure that the team can quickly and easily collect necessary information from the submitter and allocate the necessary resources for the maintenance task.
-
-To ensure that this form is used correctly, it's essential to review and understand each field's purpose to avoid duplication or incomplete submissions.
-</thinking>
-
 # Ice Cream Freezer Maintenance Order Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to obtain a digital signature from a tenant and landlord, confirming their understanding and agreement on the terms of a digital lease. The form is designed to be a simple, one-page document that captures key information about the lease, including the rent amount, move-in and move-out dates, lease duration, and landlord-tenant contact details.
-
-Before we dive into the step-by-step instructions, let's confirm that the form is intended for a single-page, one-time use case. We are not considering multi-page or multi-use cases. Additionally, please note that while the form fields might be self-explanatory for users familiar with digital leasing, the field-by-field explanation will be included for clarity and consistency.
-
-</thinking>
-
 # digital_lease_signature_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to obtain a digital signature from a tenant and landlord, confirming their understanding and agreement on the lease terms.

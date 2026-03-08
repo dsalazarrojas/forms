@@ -1,11 +1,3 @@
-<thinking>
-
-Retail staff need to complete this form when they are expecting or planning to take maternity leave. The form is used by HR to process and manage maternity leave requests. It is essential to fill out the form accurately and thoroughly to ensure a smooth leave process.
-
-Please ensure that you have discussed your leave plans with your supervisor/manager before completing this form. The form is intended to gather information about your expected delivery date, leave duration, and other relevant details. If you are unsure about any field, please refer to your HR representative or supervisor for guidance.
-
-</thinking>
-
 # Retail Staff Maternity Leave Of Absence Form - Help Guide
 ## Purpose
 This form is designed to help retail staff inform their employer about their maternity leave plans. It will be used to process and manage the leave request.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for creating and managing requisitions. Requisitions are typically used to request items or materials from a supply chain or inventory system. This form will guide users through the process of submitting a requisition request, specifying the date of the request, the person requesting it, the item being requested, and other relevant details. It is crucial that the form is used correctly to ensure accurate and efficient processing of the requisition. Please ensure that you are filling out this form for the correct purpose and that all required fields are completed accurately. If unsure, consult with your supervisor or manager before submitting the form.
-</thinking>
-
 # Requisition Form Template - Help Guide
 ## Purpose
 The Requisition Form Template is designed to be used for creating and managing requisitions, which are requests for items or materials from a supply chain or inventory system.

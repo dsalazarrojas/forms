@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is part of a manufacturing process, likely used for quality control or maintenance purposes. It appears to be a checklist-based form, designed to collect information on various aspects of drivetrain installation. The field types range from text, number, select_one, and select_multiple, indicating a mix of data collection methods. Given the extensive list of fields and options, it's essential to ensure end-users understand the purpose and usage of each field.</thinking>
-
 # Drivetrain Installation Quality Checklist - Help Guide
 ## Purpose
 This form is designed to evaluate the quality of drivetrain installations during the manufacturing process. It serves as a checklist to ensure that all necessary steps and checks are completed correctly.

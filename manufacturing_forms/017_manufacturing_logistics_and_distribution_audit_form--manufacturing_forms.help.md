@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be used by site managers, supervisors, or quality assurance teams within a manufacturing organization to conduct logistics and distribution audits of their facilities. The form should be filled out on a regular basis to ensure compliance with company policies, regulations, and industry standards related to distribution, facilities, and personnel.
-
-Before beginning, review this guide to understand the specific requirements of the form.
-
-</thinking>
-
 # Manufacturing Logistics And Distribution Audit Form - Help Guide
 ## Purpose
 This form serves to assess the current state of logistics and distribution processes at a given site, including distribution methods, facility conditions, site personnel, and related documentation. Its purpose is to identify areas of improvement and ensure regulatory compliance.

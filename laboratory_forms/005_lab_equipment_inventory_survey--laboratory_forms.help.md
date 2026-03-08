@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the laboratory equipment inventory. The purpose of this form is to provide a centralized database of equipment information, making it easier for laboratory staff to locate and manage equipment. This form is intended for use by laboratory staff to report on the status of laboratory equipment, including its condition, maintenance status, and the person responsible for its maintenance. To ensure that the form is filled out correctly, it is recommended that each field is filled out only once and that duplicate entries are avoided.
-</thinking>
-
 # Lab Equipment Inventory Survey - Help Guide
 ## Purpose
 The Lab Equipment Inventory Survey is a form used to collect information about the laboratory equipment in the lab. It helps to keep track of the status of the equipment, including its condition, maintenance status, and who is responsible for its maintenance.

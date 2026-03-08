@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form, "legal_support_subscription_form", is to collect information related to subscription and payment details for legal support services. This form is designed for individuals and businesses to provide their contact information and subscription preferences. The form is used to create a subscription to legal support services, which can include legal advice, document review, or other related services.
 
 The form is divided into two main sections: "Subscription Information" and "Payment Details". The first section collects personal and business contact information, while the second section collects payment details. 

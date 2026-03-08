@@ -1,9 +1,3 @@
-<thinking>
-
-As a help guide for the University Arts Faculty Job Application Form, the purpose of this form is to collect information from applicants for faculty positions at the University of the Arts. The form is designed to gather necessary details about the candidate's contact information, education background, job application, and other relevant aspects that will help the university's hiring committee evaluate their eligibility and suitability for the position. This form is intended to be completed by applicants who are interested in applying for a faculty role at the university.
-
-</thinking>
-
 # University Arts Faculty Job Application Form - Help Guide
 ## Purpose
 The University Arts Faculty Job Application Form is designed to collect necessary information from applicants for faculty positions at the University of the Arts.

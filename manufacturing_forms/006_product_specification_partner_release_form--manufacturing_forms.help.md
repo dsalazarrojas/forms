@@ -1,35 +1,3 @@
-<thinking>
-This form is for managing the release of products to partners in the manufacturing process. The purpose of this form is to collect information about the product specification, partner names, release date, and other relevant details. This form will help you ensure that the product is correctly released to the right partners and that all necessary checks are in place before finalizing the release. Before filling out this form, please confirm that you are the correct person to fill out this form, and that you are not duplicating effort by checking if a similar form has already been completed.
-
-This form has the following fields:
-
-* **Form Title**: Enter a brief title for this release.
-* **Form Description**: Provide a brief description of this release.
-* **Form Category**: If this release is intended for internal use, select 'Yes'. If not, select 'No'. 
-*   <https://www.example.com>
-*   Enter the names of all partners involved in this release.
-*   Select the release date and time for this product.
-*   Upload any additional files or documentation related to this release.
-*   Enter the contact email address of the partner or person responsible for this release.
-*   Enter the contact phone number of the partner or person responsible for this release.
-*   Enter the address of the partner or person responsible for this release.
-*   Enter any additional notes related to this release.
-*   Enter the name and title of the person reviewing this release.
-*   Enter the date and time the release was reviewed.
-*   Enter any notes from the review process.
-*   Select whether this release has been approved or rejected.
-*   Enter the name of the person who approved or rejected this release.
-*   Enter the date and time of the approval or rejection.
-*   Enter any notes from the approval or rejection process.
-*   Select whether this product is released or not.
-*   Enter the name of the person who released this product.
-*   Enter the date and time of the release.
-*   Enter any notes from the release process.
-
-Please fill out this form carefully and accurately to ensure the correct release of your product to the right partners.
-
-</thinking>
-
 # Product Specification Partner Release Form - Help Guide
 
 ## Purpose

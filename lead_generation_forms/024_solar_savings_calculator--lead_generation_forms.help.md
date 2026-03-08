@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users to estimate their potential solar savings. It is likely intended for customers or users looking to install solar panels on their property. The form collects a range of relevant information, including the user's contact details, solar panel preferences, and property specifics. The goal of this form is to provide an estimation of the potential savings for the user based on the provided information. This form should be used to ensure that the user's expectations are met and that the correct information is gathered for further assessment.
-</thinking>
-
 # Solar Savings Calculator - Help Guide
 ## Purpose
 This form is designed to help users estimate their potential solar savings. It collects information on the user's contact details and property specifics to provide a personalized estimate of their savings.

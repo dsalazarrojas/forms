@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be designed for users to book library equipment, such as bookshelves and desks, for a specific time period. To determine the form's purpose and relevance, it appears that the form is used to manage the reservation of library equipment, which is a common practice in many educational institutions. It's essential to ensure that the form is being used correctly and not duplicated, as incorrect or redundant reservations can lead to confusion and waste of resources.</thinking>
-
 # Library Equipment Rental Booking Form - Help Guide
 ## Purpose
 The Library Equipment Rental Booking Form is used to book library equipment such as bookshelves and desks for a specific time period.

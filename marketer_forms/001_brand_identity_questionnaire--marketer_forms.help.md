@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Brand Identity Questionnaire - Help Guide
 ## Purpose
 The Brand Identity Questionnaire is designed to help us understand your brand's core values, unique characteristics, and communication style. This form will ask about your company name, industry, mission, and target audience to gain a deeper understanding of your brand's identity and goals. Your input will help us create a comprehensive brand strategy that aligns with your vision and objectives.

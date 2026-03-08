@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential Industrial IoT integration partners. The purpose of this form is to collect relevant details about a company or organization interested in integrating their industrial IoT capabilities with our services. The form is not intended for general inquiries or non-technical discussions. This form is for partners who are serious about collaborating on industrial IoT integration projects.
-</thinking>
-
 # Industrial IoT Integration Partner Contact Form - Help Guide
 ## Purpose
 The Industrial IoT Integration Partner Contact Form is a tool used to gather information from potential partners interested in integrating their industrial IoT capabilities with our services.

@@ -1,10 +1,3 @@
-<thinking>
-This guide is for the "district_court_juror_questionnaire" form. This form is designed to gather information from potential jurors for a district court case. The purpose of this form is to collect relevant details from the juror about their availability, scheduling conflicts, and other key factors that might impact their ability to serve as a juror.
-
-Before proceeding, please check that the form has not been filled out previously, as duplication of effort can lead to unnecessary work and potential errors.
-
-</thinking>
-
 # district_court_juror_questionnaire - Help Guide
 ## Purpose
 The district court juror questionnaire is used to gather information from potential jurors about their availability and suitability to serve on a district court case. This form helps to ensure that jurors are aware of their responsibilities and obligations as a juror.

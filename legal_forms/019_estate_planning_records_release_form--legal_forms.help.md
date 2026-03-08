@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Estate Planning Records Release Form, let's first consider the context and purpose of this form. This form is likely used in an estate planning scenario where the client is releasing certain records or documents. It serves as a legal document that verifies the client's consent and authorization for the release of such records. This form helps ensure that all relevant parties are aware and agree to the terms of the release, reducing the risk of miscommunication or misinterpretation.
-
-Given this context, the form is designed to collect various pieces of information from the client, including their name, address, contact details, and consent to the release of specific documents. The form also captures the details of the release, such as the date, time, and method of authorization. Additionally, it requires the client's signature, as well as that of the authorized person or organization, to validate the release. This comprehensive approach provides a clear and transparent process for the release of sensitive documents.
-
-</thinking>
-
 # Estate Planning Records Release Form - Help Guide
 ## Purpose
 The Estate Planning Records Release Form is a legal document that allows clients to release their estate planning documents, ensuring they understand what they are consenting to and agreeing to have their information shared.

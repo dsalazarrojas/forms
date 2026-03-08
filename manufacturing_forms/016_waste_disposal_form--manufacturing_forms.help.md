@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to waste disposal, including the type of waste, location, and status of disposal. This form is used for tracking and managing waste disposal activities within the organization. It's essential to ensure that only relevant and non-duplicative information is collected, as incorrect or duplicate entries can cause confusion and errors in waste management.
-
-Please ensure that you understand the purpose of this form before proceeding. If you're unsure, please refer back to this documentation for clarification.
-</thinking>
-
 # waste_disposal_form - Help Guide
 ## Purpose
 

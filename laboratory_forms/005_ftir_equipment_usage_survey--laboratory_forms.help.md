@@ -1,7 +1,3 @@
-<thinking>FTIR Equipment Usage Survey form is a tool used by laboratory personnel to report their usage of specific scientific instruments, such as FTIR, Raman, or NMR. This form is designed to gather data on the frequency and satisfaction with the usage of each instrument. The form is composed of multiple sections, each focusing on a different aspect of instrument usage, including the instrument used, satisfaction level, training needs, and additional instruments used. The form is designed to be completed by laboratory users to provide a snapshot of their usage habits and needs.
-
-It is essential to note that the form is not mandatory and is used for reporting purposes only. Users are free to answer as many or as few questions as they feel comfortable with. The form will help in gathering data to improve the efficiency and effectiveness of the instruments in the laboratory.</thinking>
-
 # FTIR Equipment Usage Survey - Help Guide
 ## Purpose
 This form is used to report the usage and satisfaction of scientific instruments in the laboratory, helping to gather data for improving instrument efficiency.

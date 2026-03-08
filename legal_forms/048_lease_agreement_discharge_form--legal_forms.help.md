@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of discharging a lease agreement. It appears to be a multi-page form with 25 pages, each with a text field. This suggests that the form is quite extensive and may require the user to provide detailed information. The purpose of the form is to gather information related to the discharge of a lease agreement, which may involve providing documentation, signatures, or other relevant details.
-
-Before proceeding, it is essential to ensure that this form is not being used for any other purpose and that the user has a clear understanding of the required information. This form may not be suitable for all situations, and using it for an incorrect purpose can lead to errors or inaccuracies in the discharge process.
-
-To confirm, this form is intended to gather information for the discharge of a lease agreement, and it is not designed for any other purpose. If you are unsure, please review the form carefully or seek guidance from a qualified professional.
-</thinking>
-
 # lease_agreement_discharge_form - Help Guide
 ## Purpose
 This form is designed to facilitate the process of discharging a lease agreement. It gathers information related to the discharge of a lease agreement.

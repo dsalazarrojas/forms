@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retirement Planning Interest Form - Help Guide
 
 ## Purpose

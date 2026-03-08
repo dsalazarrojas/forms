@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Curriculum Equity Review Board Application Form - Help Guide
 
 ## Purpose

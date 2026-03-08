@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess a person's phonological awareness skills, which are essential for reading and language comprehension. Phonological awareness refers to the ability to identify and manipulate sounds in words, such as individual sounds, syllables, and words. This checklist is used to evaluate a person's ability to recognize and process phonological structures, including word order, rhyming, segmenting, and blending. It is likely used in educational settings to assess children's reading readiness, language development, or educational progress.
-The form appears to be assessing phonological awareness skills in multiple areas, including word order, rhyming, segmenting, and blending. The form is composed of a series of multiple-choice questions, where the respondent is asked to rate their ability to recognize and process phonological structures.
-To complete this form, the respondent will be asked to answer a series of questions about their phonological awareness skills, such as recognizing word order, identifying rhyming words, segmenting words, and blending words.
-The form will ask the respondent to select from three options for each question: "Correct", "Incorrect", "Not yet able to determine". This will help the respondent to rate their ability to recognize and process phonological structures.
-</thinking>
-
 # Phonological Awareness Skills Checklist - Help Guide
 ## Purpose
 This form is designed to assess a person's phonological awareness skills, which are essential for reading and language comprehension.

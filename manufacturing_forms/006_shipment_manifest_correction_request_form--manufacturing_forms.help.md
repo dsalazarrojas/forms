@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shipment Manifest Correction Request Form - Help Guide
 
 ## Purpose

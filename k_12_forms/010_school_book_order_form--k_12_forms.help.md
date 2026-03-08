@@ -1,35 +1,3 @@
-<thinking>
-This form is intended to collect information about school book orders. The purpose of this form is to gather details about the student, school, and payment information. This form is typically used by administrators or staff members to record orders for school books. 
-
-The form will check for non-duplication of student names and grades levels to prevent duplicate orders. 
-
-The form will also check for valid payment gateways and will only allow valid options to be selected.
-
-This form has the following fields: 
-- Student Name 
-- Grade Level 
-- School Name 
-- Email 
-- Payment Gateway 
-- Selected Items 
-- Confirm Payment Details 
-- Order Date 
-- Order Time 
-- Submit 
-- Confirm 
-
-Before filling out this form, please note that it is recommended to only select one payment gateway and confirm that the payment details are correct. 
-
-This form has two buttons: 
-- Submit 
-- Confirm 
-
-When filling out this form, only select "Yes" for "Submit" if all the information is correct and complete. 
-
-Please select "Yes" for "Confirm" if all the information is correct and complete. 
-
-</thinking>
-
 # School Book Order Form - Help Guide
 ## Purpose
 The School Book Order Form is used to collect information about school book orders.

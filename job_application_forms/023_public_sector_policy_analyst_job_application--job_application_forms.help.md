@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect information from individuals interested in applying for a public sector policy analyst position. The form is intended to capture relevant details about the applicant, including their contact information, job application details, and supporting documents. Please ensure that you complete this form accurately and truthfully, as the information collected will be used to facilitate the hiring process. If you have already completed this form in the past, please note that your previous submissions will not be automatically saved or updated. Please review your responses carefully before submitting the form.</thinking>
-
 # Public Sector Policy Analyst Job Application - Help Guide
 
 ## Purpose

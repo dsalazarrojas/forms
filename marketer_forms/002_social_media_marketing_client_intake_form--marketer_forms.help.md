@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that we're not duplicating efforts and that clients provide the most accurate information about their needs. This form is designed to gather essential details about our social media marketing clients, including their personal and professional information, as well as their expected services and marketing channels. It will help us tailor our marketing strategies to their specific needs and provide a personalized experience. Before proceeding, please review the form carefully and make sure to fill it out completely and accurately.
-</thinking>
-
 # Social Media Marketing Client Intake Form - Help Guide
 
 ## Purpose

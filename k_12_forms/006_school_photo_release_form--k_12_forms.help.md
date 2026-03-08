@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents to obtain their consent for the use of photos of their child, which will be used for educational purposes such as website, social media, yearbooks, and school calendars. The form is intended to be completed by parents who have a child enrolled in the school. The purpose of this form is not to collect any sensitive or personally identifiable information.
-</thinking>
-
 # School Photo Release Form - Help Guide
 ## Purpose
 The School Photo Release Form is used to obtain parental consent for the use of photos of their child for educational purposes.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my goal is to create a user-facing help guide that effectively communicates the purpose, usage, and functionality of the Remote Work Survey form. This form is designed to collect relevant information from employees and managers regarding remote work arrangements and related settings. The form is intended to be a comprehensive tool for managers to assess and adjust remote work policies and procedures. The form's fields are a mix of select_one, select_multiple, text, note, date, time, and email types. Before proceeding, I will review the form's fields and provide a concise explanation of each field, ensuring that the guide is easy to understand and free of redundancy.</thinking>
-
 # Remote Work Survey - Help Guide
 ## Purpose
 The Remote Work Survey form is designed to collect information from employees and managers to assess and adjust remote work policies and procedures. It helps managers understand employee needs and preferences regarding remote work arrangements, allowing them to make informed decisions to improve work-from-home policies and employee experiences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for preschool enrollment. It's essential to ensure that the necessary details are provided for successful enrollment, and the process should not be duplicated for any single student. This form should only be used by authorized personnel, and the data collected will be used for administrative purposes only.
-</thinking>
-
 # Preschool Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect essential details for preschool enrollment. It helps to gather information from parents or guardians to assign a student to a classroom and a teacher.

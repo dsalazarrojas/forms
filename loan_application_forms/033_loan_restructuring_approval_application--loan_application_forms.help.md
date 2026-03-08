@@ -1,7 +1,3 @@
-<thinking>
-This form is used to facilitate a process where a loan application can be restructured. A restructured loan may involve adjusting its terms, amount, or type. The form captures essential borrower information, loan details, and status updates. Ensure you only complete this form when a loan application requires modification. 
-</thinking>
-
 # Loan Restructuring Approval Application - Help Guide
 
 ## Purpose

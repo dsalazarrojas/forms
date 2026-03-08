@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Paternity Complaint Form - Help Guide
 
 ## Purpose

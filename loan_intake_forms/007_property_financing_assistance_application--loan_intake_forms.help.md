@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # property_financing_assistance_application - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Download Budget Wedding Ideas - Help Guide
 
 ## Purpose

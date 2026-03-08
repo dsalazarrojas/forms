@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a "Feature Directory Checklist" designed for managing and tracking features within a project or product. It appears to be a straightforward form for collecting information about features, their completion status, and any associated notes. The form likely serves as a tool for project managers or product owners to monitor and document the status of features, making it easier to track progress and identify areas that need attention.
-</thinking>
-
 # Feature Directory Checklist - Help Guide
 ## Purpose
 This form is designed to help project managers or product owners track and document the status of features within a project or product. It allows you to record and monitor the completion status of features, as well as capture any relevant notes or observations.

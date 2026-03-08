@@ -1,5 +1,3 @@
-<thinking>Factory air filter cartridge order form is intended to help factory administrators process customer orders for air filter cartridges. Before proceeding, please ensure that you are a factory authorized representative and that this order is not a duplicate of a previously submitted order. This form is used for ordering purposes only. It is not a sales agreement or a payment receipt. The order will be reviewed and processed internally before shipment. Please ensure that all fields are accurately filled to avoid any discrepancies. If you are unsure about any field, refer to the field explanation below. If the form is not complete, please save and come back later. The form will save automatically as you fill it up. If you need to edit an already submitted form, please contact the factory representative for assistance.</thinking>
-
 # factory air filter cartridge order form - Help Guide
 ## Purpose
 This form is used to collect customer information and order details for air filter cartridges. The purpose of this form is to facilitate the processing of customer orders, ensuring accurate and timely delivery of the ordered products.

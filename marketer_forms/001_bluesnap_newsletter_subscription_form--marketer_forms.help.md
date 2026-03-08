@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be used by end users who are interested in subscribing to the BlueSnap newsletter. It is designed to collect information for subscription purposes and ensure the user understands the form's purpose and requirements. This guide will help users navigate the form and provide clarity on each field's purpose. To avoid confusion, please note that this guide refers to the provided YAML schema for the BlueSnap Newsletter Subscription Form.
-</thinking>
-
 # BlueSnap Newsletter Subscription Form - Help Guide
 ## Purpose
 The BlueSnap Newsletter Subscription Form is designed to collect essential information from subscribers to customize and send relevant content tailored to their interests. By filling out this form, you will be able to choose your preferred subscription format, duration, and frequency of news updates.

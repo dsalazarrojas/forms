@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect content ideas from users on a specific topic that interests them. The form fields are intentionally left optional to make it easy for anyone to contribute. The form purpose is to gather feedback on what content to create next, and the team will review the submitted ideas to determine the best way to present the content in the desired format. There's no intention to contact users unless they opt-in for notifications.
-</thinking>
-
 # Content Idea Suggestion Form - Help Guide
 ## Purpose
 This form is a suggestion box for content ideas. It helps us understand what topics you're interested in and what type of content would be most valuable to you. Your input will help us create content that matters to you and our community.

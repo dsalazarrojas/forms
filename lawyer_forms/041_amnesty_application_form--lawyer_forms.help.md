@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to help individuals seeking amnesty for a past offense. The purpose of this form is to gather information about the applicant's personal and offense-related circumstances. This includes demographic information such as name, date of birth, address, and nationality. It also includes detailed questions about the offense, such as the type and description of the offense, date and location, as well as the applicant's willingness to admit guilt. Furthermore, the form covers topics like motivation and circumstances surrounding the offense, restitution, and rehabilitation.
-
-It's essential to note that this form is not just a collection of questions, but also a declaration that the information provided is true and accurate. The form is designed to guide the applicant through the process and help them understand the consequences of providing false information. Additionally, it's crucial to understand that this form is for amnesty, which implies the applicant is seeking to be excused or pardoned for their past actions.
-
-Before filling out the form, please ensure you have a clear understanding of the questions and the potential consequences of providing false or inaccurate information.
-
-</thinking>
-
 # Amnesty Application Form - Help Guide
 ## Purpose
 This guide will walk you through the Amnesty Application Form, helping you understand the purpose and requirements of each section.

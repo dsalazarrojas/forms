@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information related to an "Integrity Pact Agreement" for structured cases. It is likely used in situations where individuals or organizations are entering into agreements or agreements with specific terms and conditions. 
-The form's primary purpose is to document and track the details of these agreements, including project names, descriptions, and dates. It might also be used to identify case managers and officers.
-This form does not collect information that is sensitive or personal in nature, so no privacy concerns should be raised.
-The fields on this form are designed to be straightforward and easy to understand. However, some fields might not be clearly labeled, so this guide will help you understand their purpose.
-</thinking>
-
 # Integrity Pact Agreement For Structured Cases - Help Guide
 ## Purpose
 The form is used to collect and document the details of an "Integrity Pact Agreement" for structured cases.

@@ -1,8 +1,3 @@
-<thinking>
-# This help guide is intended to assist users in completing the Lifestyle Anniversay Giveaway Entry form. It is designed to gather information about the user's anniversary details.
-The form should only be completed by people who have a genuine anniversary to celebrate and are participating in the giveaway. To prevent duplication, users with duplicate submissions will be flagged and not included in the giveaway. This guide will walk the user through the form fields, explaining each field's purpose and how to fill it correctly. Please note that the information entered is for giveaway purposes only.
-</thinking>
-
 # Lifestyle Anniversay Giveaway Entry - Help Guide
 ## Purpose
 The Lifestyle Anniversay Giveaway Entry form is designed to collect information from individuals celebrating their anniversary. By filling out this form, you will be entered into a giveaway to receive a special prize related to anniversaries.

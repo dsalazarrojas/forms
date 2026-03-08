@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for pharmacy staff to select their leave month and type to facilitate the processing and approval of leave requests. This form is intended for current staff members only, and the submitted information will be reviewed and verified by the relevant personnel. To ensure accurate and efficient processing, please make sure to fill in all required fields. If you are unsure about any field or have questions, do not hesitate to contact the pharmacy staff for assistance.
-
-</thinking>
-
 # Pharmacy Staff Leave Month Selection - Help Guide
 ## Purpose
 The purpose of this form is to allow pharmacy staff to select their leave month and type, which will be used to process and approve leave requests.

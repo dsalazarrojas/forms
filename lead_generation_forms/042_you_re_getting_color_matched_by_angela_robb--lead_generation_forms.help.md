@@ -1,13 +1,3 @@
-<thinking>
-
-This form "You’re Getting Color Matched By Angela Robb" is used to collect information from users for the purpose of matching them with a suitable color match. The purpose of this form is to gather basic contact information and job title of the user so that the color matcher can provide a personalized color match. This form is not intended for sensitive or personal information and users are not required to fill out all fields.
-
-The form is divided into a single page and consists of six fields: First Name, Last Name, Company, Job Title, Email, and Phone. Only one field, Email, is marked as required. 
-
-The form is meant to be used by end-users who are interested in getting color matched by the color matcher, Angela Robb. 
-
-</thinking>
-
 # You’re Getting Color Matched By Angela Robb - Help Guide
 ## Purpose
 This form is used to collect information for the purpose of matching users with a suitable color match provided by Angela Robb.

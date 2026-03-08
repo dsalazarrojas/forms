@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of the "quit_claim_deed_form" is to document the transfer of ownership of a property from one party (the "grantor") to another (the "borrower"). This form is used to formalize the sale or transfer of a property, and it must be completed accurately and truthfully to ensure the legality of the transaction.
-
-Before filling out this form, please note that it is a legal document and should be reviewed by a legal expert or attorney before use. The form must be completed by the grantor, who is the party relinquishing ownership of the property, and the borrower, who is the party acquiring ownership of the property.
-
-To complete this form, please follow the instructions below.
-
-</thinking>
-
 # quit_claim_deed_form - Help Guide
 ## Purpose
 This form is used to document the transfer of ownership of a property from one party (the "grantor") to another (the "borrower").

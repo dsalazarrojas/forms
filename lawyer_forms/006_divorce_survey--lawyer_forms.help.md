@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a couple's situation in a divorce scenario. The purpose of this form is to gather details about the couple's history, financial situation, and other relevant factors that may impact their divorce process. The form is not intended to be a comprehensive or legally binding document, but rather a tool to help gather information and guide the conversation between parties involved in the divorce process.
-This form is not to be used as a substitute for professional legal advice. It is essential to consult with a qualified attorney or other relevant professional before making any decisions related to divorce.
-This form is intended for use in a specific context and may not be applicable in all situations.
-Before starting, ensure that you are familiar with the information being asked and that you understand the context in which this form is being used.</thinking>
-
 # Divorce Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a couple's situation in a divorce scenario, helping to guide the conversation between parties involved in the divorce process.

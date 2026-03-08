@@ -1,6 +1,3 @@
-<thinking>
-This form is used for requesting a quote from suppliers for production machinery, which is a critical part of the manufacturing process. To fill out this form, you should only use it if you are a production team member or a representative of the production team, as it is not intended for general use. Please ensure that you are not submitting duplicate requests, as this can lead to unnecessary work and confusion. The form is designed to gather essential information from the production team, including contact details, production schedule, and equipment requirements. Please fill out the form accurately and thoroughly to ensure that the quote request is processed efficiently.</thinking>
-
 # Production Machinery Quote Request - Help Guide
 
 ## Purpose

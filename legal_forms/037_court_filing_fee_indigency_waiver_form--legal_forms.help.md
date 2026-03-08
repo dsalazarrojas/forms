@@ -1,15 +1,3 @@
-<thinking>
-This form is used to request a waiver of court filing fees for indigent individuals. An indigent individual is someone who is unable to pay the required court filing fees due to a financial hardship. The form is used to provide a detailed explanation of the financial hardship and support for the fee waiver request.
-
-This form is meant to be filled out by individuals who are seeking to waive payment of court filing fees. It is not meant for use by attorneys or other legal professionals, as they may be eligible for fee waivers through separate mechanisms.
-
-When filling out this form, please keep the following in mind:
-
-*   The form requires information about the individual's financial situation.
-*   The form requires information about the case for which the fee waiver is being requested.
-*   The form requires a detailed explanation of the financial hardship.
-</thinking>
-
 # Court Filing Fee Indigency Waiver Form - Help Guide
 ## Purpose
 

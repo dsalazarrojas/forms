@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for processing online payments for RV loans. The purpose of this form is to gather information from users to facilitate the loan payment process. It's possible that this form is used in conjunction with other forms or systems to track loan payments and update loan statuses. Before proceeding, please review the current state of the loan payment process within the organization to ensure this form is not duplicating or conflicting with existing processes.
-</thinking>
-
 # RV Loan Online Payment - Help Guide
 ## Purpose
 This form is designed to collect information for RV loan payments.

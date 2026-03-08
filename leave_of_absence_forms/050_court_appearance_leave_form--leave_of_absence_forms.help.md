@@ -1,7 +1,3 @@
-<thinking>
-We will design a user-facing help guide for the "Court Appearance Leave Form". This form is used to request time off for an employee's court appearance. The form is likely used in a business or organizational setting where employees may need to appear in court due to work-related or personal matters. To ensure accuracy and reduce duplication, it's essential to complete the form accurately and only when the employee actually has a court appearance scheduled. This guide will walk the user through the process of completing the form and provide explanations for each field to ensure clarity.
-</thinking>
-
 # Court Appearance Leave Form - Help Guide
 
 ## Purpose

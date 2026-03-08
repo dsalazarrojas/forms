@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a sports-related complaint, including details about the organization, contact person, and incident. The goal is to gather relevant information to address and resolve the complaint efficiently. This form is not intended for general feedback or inquiries but rather for specific complaints that require formal attention.
-
-</thinking>
-
 # Sports Organization Legal Complaint Intake Form - Help Guide
 ## Purpose
 This form is used to report and gather information about sports-related complaints, ensuring that your organization can effectively address and resolve these issues.

@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to gather information from legal professionals about their knowledge and experience with trusts. The purpose of the survey is to identify areas where users may need further education or training to improve their understanding of trusts and to provide resources that can help bridge that knowledge gap. This form will not collect any personal identifiable data and is intended to be a general survey of the legal community's understanding of trusts. It is essential to answer questions honestly, and all responses will be treated as anonymous. If you have filled out a similar form in the past, please note that your answers will not be tracked, and this form is not associated with any previous surveys.
-</thinking>
-
 # Trusts Legal Knowledge Survey - Help Guide
 ## Purpose
 The Trusts Legal Knowledge Survey is a tool to gather information from legal professionals about their knowledge and experience with trusts. The survey aims to identify areas where users may need further education or training to improve their understanding of trusts and provide resources to bridge that knowledge gap.

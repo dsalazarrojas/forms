@@ -1,16 +1,3 @@
-<thinking>
-
-The purpose of this form is to monitor the progress of students. It is used to track student-specific information, allowing educators to assess a student's progress towards their academic goals. This form is an essential tool for teachers, advisors, or mentors to stay informed about a student's development and adjust their guidance accordingly.
-
-To ensure that this form is used correctly, please be aware of the following:
-
-- This form is meant for monitoring progress, not for creating or editing student information.
-- Please fill out the form for each student individually.
-- If a student's progress has not been checked recently, fill out the form with the current date to update the record.
-- Use this form to note any significant events, achievements, or concerns regarding the student's progress.
-
-</thinking>
-
 # Student Progress Monitoring Form - Help Guide
 ## Purpose
 The Student Progress Monitoring Form is designed to help educators track and monitor student progress towards academic goals.

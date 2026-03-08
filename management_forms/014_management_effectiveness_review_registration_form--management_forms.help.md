@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the registration of a management effectiveness review, which is an evaluation of an individual's or team's leadership and management skills. This form ensures that all relevant information is gathered and recorded in a standardized way, reducing the risk of incomplete or inaccurate data. It is essential to complete this form accurately to ensure that the review process is thorough and unbiased.
-</thinking>
-
 # management_effectiveness_review_registration_form - Help Guide
 ## Purpose
 This form is used to register a management effectiveness review. It gathers information about the review, including the focus areas, expectations, date, start and end times, location, and additional details.

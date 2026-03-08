@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about the technical specifications of a MCC (Motor Control Center) panel, which is a critical component in electrical and control systems. The purpose of this form is to ensure that all necessary details are accurately documented for maintenance and repair purposes. It is intended for users who need to inspect, maintain, and repair MCC panels and their associated systems. To avoid duplication, please do not complete this form if you have already done so for the same panel. Please ensure that you have permission to access and complete this form.</thinking>
-
 # MCC Panel Technical Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about the technical specifications of a MCC panel, which is a critical component in electrical and control systems.

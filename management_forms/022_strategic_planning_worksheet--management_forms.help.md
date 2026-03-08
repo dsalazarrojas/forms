@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to assist organizations in creating a comprehensive strategic plan. It helps in outlining and defining the company's goals, vision, mission, and objectives. The form also aids in tracking progress and setting target outcomes. This form is a tool for management teams to collaborate and align on strategic initiatives.
-
-The form is designed to collect relevant information from users to create a cohesive and actionable plan. It is essential to fill out the form carefully and accurately to ensure the collected data is reliable and useful for strategic decision-making.
-
-This form should not be used as a template for other purposes. Each field is designed to capture specific information relevant to strategic planning.
-
-</thinking>
-
 # Strategic Planning Worksheet - Help Guide
 ## Purpose
 The Strategic Planning Worksheet is a tool for organizations to create a comprehensive strategic plan. It helps in outlining and defining the company's goals, vision, mission, and objectives, and aids in tracking progress and setting target outcomes.

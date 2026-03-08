@@ -1,13 +1,3 @@
-<thinking>
-
-The Agency Ownership Assessment form is used to evaluate the ownership structure of agencies and collect information about their ownership breakdown, recent changes, and supporting documents. This form is crucial for identifying and managing potential conflicts of interest and ensuring compliance with relevant laws and regulations. 
-
-Before proceeding, please ensure that the agency in question has not been previously assessed using this form, as duplicate assessments may lead to unnecessary work and potential errors. 
-
-The form is composed of various sections, each with specific fields that must be completed for a comprehensive assessment. 
-
-</thinking>
-
 # Agency Ownership Assessment - Help Guide
 ## Purpose
 The Agency Ownership Assessment form is used to evaluate the ownership structure of agencies and collect information about their ownership breakdown, recent changes, and supporting documents.

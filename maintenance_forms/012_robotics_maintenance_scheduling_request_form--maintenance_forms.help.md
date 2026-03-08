@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Robotics Maintenance Scheduling Request Form - Help Guide
 ## Purpose
 This form is used to schedule maintenance for robotics-related activities. Please fill out this form to request maintenance for your robot, specifying the reason, date, and other relevant details.

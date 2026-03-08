@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to document the drying process in a production facility. It captures key information related to the drying process, including the drying cycle ID, batch ID, dryer ID, start and end times, drying temperature, moisture level, and other relevant details. This form helps production technitians track and record the progress of the drying process.
-
-Before filling out this form, please make sure that you are not duplicating the process. If you need to report multiple drying processes, please create a new instance of this form.
-
-</thinking>
-
 # Drying Process Log Form - Help Guide
 ## Purpose
 

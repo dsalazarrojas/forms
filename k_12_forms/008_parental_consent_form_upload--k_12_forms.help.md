@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from parents or guardians for their child's participation in a program, event, or activity. This form is usually required for the child's records and for the organization to have a record of parental consent. Please ensure that you are submitting this form for the correct child and that it is not a duplicate submission.
-</thinking>
-
 # Parental Consent Form Upload - Help Guide
 ## Purpose
 This form is used to gather information from parents or guardians for their child's participation in a program, event, or activity. It is an essential document that records the child's and the organization's understanding of the program's terms and conditions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Playwright Script Reproduction Release Form - Help Guide
 
 ## Purpose

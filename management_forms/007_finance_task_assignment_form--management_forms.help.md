@@ -1,12 +1,3 @@
-<thinking>
-The Finance Task Assignment Form is a critical tool for assigning tasks to team members in the finance and accounting departments. This form helps track and manage task assignments, ensuring that deadlines are met and priorities are set. It is essential to fill out this form accurately and completely to facilitate efficient task management.
-
-This form is part of the "management_forms" category, and its primary purpose is to assign tasks to team members, keeping track of task details, and ensuring that tasks are completed on time. 
-
-To avoid duplication and ensure accuracy, it is crucial to review the form and understand its purpose before proceeding.
-
-</thinking>
-
 # Finance Task Assignment Form - Help Guide
 ## Purpose
 The Finance Task Assignment Form is used to assign tasks to team members, track task details, and ensure that tasks are completed on time.

@@ -1,7 +1,3 @@
-<thinking>
-The Distributor Application Form is used by distributors to apply to become a distributor for our company. This form is used to collect necessary information from the applicant, including contact details, product categories, and agreement terms. This form is not a one-time use form and may need to be filled out multiple times by different distributors. Please note that the fields marked as "required" must be filled out completely and accurately to ensure the application can be processed correctly.
-</thinking>
-
 # Distributor Application Form - Help Guide
 ## Purpose
 The Distributor Application Form is used to collect information from potential distributors to evaluate their application and process it efficiently.

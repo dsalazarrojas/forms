@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request a leave of absence for family reunion, typically to allow employees to take time off to attend to family events or gatherings. To prevent duplicate requests, we'll only process requests for leave of absence if they meet certain criteria, such as being at least 7 days in advance of the event and aligning with company policies. 
-</thinking>
-
 # Family Reunion Leave Of Absence Request - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to register a manufacturing workforce alliance partner. This form will collect relevant information from the partner about their name, contact details, and areas of interest. The form will help to establish a formal partnership between the manufacturing entity and the registered partner. We need to ensure that the partner name and email are accurately entered to avoid duplicate registrations. Please review each field carefully to provide accurate and correct information...</thinking>
-
 # Manufacturing Workforce Alliance Registration - Help Guide
 ## Purpose
 

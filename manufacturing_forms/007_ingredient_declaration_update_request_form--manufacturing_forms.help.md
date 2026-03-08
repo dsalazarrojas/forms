@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Ingredient Declaration Update Request Form is to update ingredient declarations for products or materials that require changes. This form is used to request updates for existing declarations and is typically submitted by employees or agents who are authorized to make such requests. It's essential to review the form carefully before submitting to ensure that all relevant information is provided accurately and correctly. Before creating a new request, please check if an existing update request already exists for the same product/material to avoid duplication of effort.
-</thinking>
-
 # Ingredient Declaration Update Request Form - Help Guide
 ## Purpose
 The Ingredient Declaration Update Request Form is a tool for requesting updates to existing ingredient declarations. Use this form to provide accurate and detailed information about the changes required for a product or material.

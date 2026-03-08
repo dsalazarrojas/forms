@@ -1,11 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, I've designed this form to be a simple, yet comprehensive checklist for tracking server maintenance activities. The form is meant to be used by server administrators or IT professionals to record and report server maintenance tasks, including any issues or problems encountered during the process. This checklist will help them stay organized, prioritize tasks, and provide a clear record of their activities. 
-
-To avoid duplication of effort, this form should only be used for server maintenance tasks, and not for other types of work.
-
-</thinking>
-
 # Server Maintenance Checklist - Help Guide
 ## Purpose
 The Server Maintenance Checklist is a form used to record and report server maintenance activities, including any issues or problems encountered during the process. This form helps server administrators or IT professionals stay organized, prioritize tasks, and provide a clear record of their activities.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide is being created for users who are not familiar with the Manufacturing Process Audit Form. Before we dive into the guide, let's quickly review the form's purpose and fields to ensure we're on the same page.
-The Manufacturing Process Audit Form is a tool used to assess and monitor the critical aspects of a manufacturing process. It is used to identify areas of improvement and take corrective actions to ensure the production process is running smoothly and efficiently.
-</thinking>
-
 # Manufacturing Process Audit Form - Help Guide
 ## Purpose
 The Manufacturing Process Audit Form is designed to evaluate the production process, identify areas of improvement, and take corrective actions to maintain a smooth and efficient production process.

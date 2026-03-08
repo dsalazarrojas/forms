@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect feedback on the design of a gearbox, allowing users to provide input on its overall rating, manufacturability, and other relevant attributes. This form is likely used by engineers or product designers to gather insights from various stakeholders, such as users, customers, or other design teams, to inform the development of future gearbox designs.
-
-To confirm that this form is for the gearbox design feedback, let's ensure that all fields are relevant and correctly labeled. This form appears to be collecting feedback on various aspects of the gearbox design, including overall rating, manufacturability, assembly, reliability, maintainability, and overall satisfaction. All fields seem to be correctly labeled, and there is no apparent duplication of fields. The form appears to be a comprehensive collection of feedback on the gearbox design.
-
-</thinking>
-
 # Gearbox Design Feedback Form - Help Guide
 ## Purpose
 The Gearbox Design Feedback Form is a tool used to collect user feedback on the design of a gearbox. It is intended to gather input from various stakeholders on the gearbox's overall rating, manufacturability, and other relevant attributes.

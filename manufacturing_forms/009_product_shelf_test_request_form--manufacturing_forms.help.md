@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request a product to be placed on a shelf for testing purposes. This form is meant to be filled out by a user who wants to test a product on a shelf, and the information provided will be used to determine whether the product can be placed on the shelf for testing. This form is not meant to be filled out by a user who wants to purchase or return a product. This form is a request form and its purpose is to gather information for testing purposes only.
-
-Before filling out this form, please make sure that you have not already submitted a request for the same product. This form is not meant to be filled out multiple times for the same product.
-
-This form is designed to be filled out by a user who has a good understanding of the product they are testing, and is meant to provide accurate and clear information in each field.
-</thinking>
-
 # Product Shelf Test Request Form prophets - Help Guide
 ## Purpose
 This form is used to request a product to be placed on a shelf for testing purposes. Please read the form carefully to ensure that you are providing accurate and clear information.

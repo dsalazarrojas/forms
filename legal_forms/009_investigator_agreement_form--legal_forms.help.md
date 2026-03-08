@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information from an investigator for an agreement or contract. The purpose of this form is to ensure that the investigator has understood and agreed to the terms and conditions of the agreement.
-</thinking>
-
 # Investigator Agreement Form - Help Guide
 ## Purpose
 The Investigator Agreement Form is a document that ensures an investigator has understood and agreed to the terms and conditions of an agreement or contract.

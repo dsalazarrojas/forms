@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book a personal image makeover session with a consultant. It is designed to collect information from clients about their preferences, goals, and appointment details. This form should only be used for clients who have not yet been assigned a consultant, to ensure accurate matching with a suitable consultant. Please check that the client has not already been assigned a consultant before submitting this form.
-</thinking>
-
 # Personal Image Makeover Appointment Form - Help Guide
 ## Purpose
 The Personal Image Makeover Appointment Form is used to book a personal image makeover session with a suitable consultant. The form collects information from clients to understand their preferences, goals, and appointment details.

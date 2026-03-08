@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a series of forms designed to support the recruitment process in various industries. The "Salon Application Of Employment" form is intended to collect contact information and job-related details from applicants interested in working at a salon or spa. This form is meant to be a standard template that can be used across different salons, and it is not affiliated with any specific salon or employment platform. Before proceeding, please ensure that you are using this form for its intended purpose and not duplicating efforts elsewhere.
-</thinking>
-
 # Salon Application Of Employment - Help Guide
 ## Purpose
 The "Salon Application Of Employment" form is designed to collect contact information and job-related details from applicants interested in working at a salon or spa.

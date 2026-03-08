@@ -1,6 +1,3 @@
-<thinking>
-The form is intended to collect lead information from potential customers who are interested in real estate sales. This form likely aims to gather contact and location details from users to follow up with them about available properties or other real estate-related services. It's crucial to ensure the form is filled out correctly and consistently to provide a smooth experience for both the users and the real estate agents or brokers processing the information.
-</thinking>
 # Real Estate Sales Lead Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-The Manager Evaluation Form is a tool used by managers to evaluate employees in their team. This form is designed to gather feedback and performance data on various aspects of an employee's work, including their overall performance, time management, communication, problem-solving, initiative, adaptability, leadership, team work, feedback frequency, employee satisfaction, manager satisfaction, and more. It is essential to complete this form accurately and honestly to ensure that employees receive fair and constructive feedback.
-
-Before proceeding, please ensure that you are completing this form for the correct employee and that the data you enter is up-to-date and accurate. If you are unsure about any aspect of the form, please consult with your supervisor or HR representative.
-
-To avoid duplication of effort, please do not fill out this form for an employee who has already received a completed evaluation for the same period.
-</thinking>
-
 # Manager Evaluation Form - Help Guide
 ## Purpose
 

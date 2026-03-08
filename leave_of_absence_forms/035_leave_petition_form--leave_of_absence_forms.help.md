@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to create a leave petition for employees in the organization. The purpose of this form is to provide a structured way to request a leave of absence, which can be due to various reasons such as medical emergencies, family-related concerns, or personal issues. This form helps employees provide detailed information about their leave request, including the start and end dates of the leave, the reason for the leave, their employee information, and the contact details of their manager and supervisor. 
 
 </thinking>

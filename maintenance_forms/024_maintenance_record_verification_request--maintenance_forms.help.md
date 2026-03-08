@@ -1,11 +1,3 @@
-<thinking>
-The form is intended to verify the status of a maintenance record, which is likely associated with a specific asset in a maintenance management system. The form aims to provide a clear and concise way to document and track the maintenance history of the asset. This form is likely used by maintenance personnel or administrators to record and verify the completion of maintenance requests.
-
-The purpose of this form is to gather information about the maintenance record, including its status, description, and any supporting documentation or attachments. The form may be used to track the progress of maintenance tasks, ensure that maintenance records are up-to-date and accurate, and provide a record of completed maintenance tasks for future reference.
-
-To prevent duplication of maintenance records, the form's fields should only be filled out once per maintenance event, and users should only submit the form for maintenance records that have not been previously verified or completed.
-</thinking>
-
 # Maintenance Record Verification Request - Help Guide
 
 ## Purpose

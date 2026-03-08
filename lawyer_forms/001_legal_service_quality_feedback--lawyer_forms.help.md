@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Legal Service Quality Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients regarding the quality of our legal services. Your input is crucial in helping us improve our service delivery. By sharing your experiences and suggestions, you will contribute to our continuous improvement efforts.

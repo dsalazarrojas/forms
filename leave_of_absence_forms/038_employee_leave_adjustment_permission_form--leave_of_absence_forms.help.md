@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to allow employees to request adjustments to their leave schedules. It is meant to be used by employees to notify their HR department of any necessary changes to their leave plans. 
-The form should be used for both requesting new leave dates and canceling previously scheduled leave.
-
-To complete this form, the employee will need to provide their basic contact information and a clear reason for their request. The form asks for the type of leave, the dates involved, and the reason for any adjustments. The HR department will need to verify and sign off on the requests before they are made official.
-</thinking>
-
 # Employee Leave Adjustment Permission Form - Help Guide
 ## Purpose
 This form is used to request changes to an employee's leave schedule. Employees can use this form to request adjustments to their leave dates or cancel existing leave.

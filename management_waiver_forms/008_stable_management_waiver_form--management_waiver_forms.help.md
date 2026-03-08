@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their stable management waiver form. The form is intended to be used by riders or their representatives to provide necessary information for waiver and release purposes. This form should only be filled out by individuals who have the authority to do so. The purpose of this form is to capture personal and contact information as well as rider experience and age. It also captures information for emergency contact and contact with the individual's parent/guardian.
-</thinking>
-
 # Stable Management Waiver Form - Help Guide
 ## Purpose
 This form is designed to collect information for waiver and release purposes from riders or their representatives. It should only be filled out by individuals who have the authority to do so.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information from users in a structured and organized manner. It is likely used by management or administrative teams to gather details from individuals for specific purposes. Before filling out this form, please ensure that your request has not been submitted before, and you are not submitting duplicate information. 
 
 </thinking>

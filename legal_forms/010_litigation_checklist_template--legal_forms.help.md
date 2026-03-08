@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document and track litigation cases, providing a comprehensive checklist of key information and status updates. It's designed to be a helpful tool for lawyers, paralegals, and other legal professionals to organize and manage their cases more efficiently.
-The form is divided into several sections, each focused on a different aspect of the case. The purpose of this guide is to ensure that users understand what information is required and how to fill out the form accurately.
-</thinking>
-
 # Litigation Checklist Template - Help Guide
 ## Purpose
 The Litigation Checklist Template is a tool to help track and document key information and status updates for litigation cases.

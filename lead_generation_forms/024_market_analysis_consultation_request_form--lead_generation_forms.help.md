@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a Market Analysis Consultation Request Form. Its purpose is to collect information from potential clients or business owners who are interested in market analysis consultations. This form helps to understand their business needs and requirements, allowing our team to provide personalized and effective market analysis consultations.
-
-To avoid duplication, users are encouraged to fill out this form only once. If the user has filled out a similar form in the past, they can simply reference the relevant conversation or project and provide additional context if needed.
-
-Please note that this form is not intended for internal use or as a general contact form. It is designed to capture specific information necessary for market analysis consultations, and filling it out accurately and completely will help ensure that our team can deliver valuable insights and recommendations.
-
-</thinking>
-
 # market_analysis_consultation_request_form - Help Guide
 ## Purpose
 The purpose of this form is to provide our team with essential information about your business needs and requirements for market analysis consultations. Please fill out this form to get started with our consultation process.

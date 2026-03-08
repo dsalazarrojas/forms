@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data on wine fermentation processes. The data collected will be used to track and analyze wine production data. Please ensure you are completing this form with accurate and relevant information. If this form has been completed before, please note that this is a new submission and your responses should reflect the current fermentation process.
-</thinking>
-
 # Wine Fermentation Data Collection - Help Guide
 
 ## Purpose

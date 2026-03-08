@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for lead listing enrollment. The form is designed to gather personal and company details such as first name, last name, email, company, department, job title, phone number, and other relevant information. The form also includes select-one and select-multiple fields to capture additional details like email listing enrollment, lead status, assigned tool, assigned user, and other categorization fields. The form's output file and description fields allow for additional notes and comments. This form will be used to create or update leads in the database.
-
-The form is not designed to collect any sensitive or financial information, and all fields are optional. This form is part of a larger system for lead management.
-
-This form will only be used for leads that belong to a specific category (e.g., "lead_generation" or "lead_conversion").
-
-</thinking>
-
 # email_listing_enrollment_form - Help Guide
 ## Purpose
 This form is used to collect information for lead listing enrollment for a specific category.

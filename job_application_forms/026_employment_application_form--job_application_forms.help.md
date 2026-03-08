@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect employment information from candidates applying for a job. It's a comprehensive form that captures various aspects of a job seeker's qualifications, experience, and background. Before starting, ensure you have all necessary information ready, and avoid submitting duplicate applications if you've already applied for the same job or a similar position.
-
-This form is divided into several sections, each focusing on a specific area of the candidate's background and qualifications. Please review each section carefully and provide accurate information to increase the chances of your application being considered.
-
-</thinking>
-
 # employment_application_form - Help Guide
 ## Purpose
 This form is designed for candidates to provide detailed information about themselves, their previous employment, and the job they're applying for. It helps the hiring team assess the candidate's qualifications, experience, and fit for the position.

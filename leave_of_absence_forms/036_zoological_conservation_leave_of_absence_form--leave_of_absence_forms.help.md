@@ -1,13 +1,3 @@
-<thinking>Before we proceed, let's clarify a few things. This form appears to be a comprehensive leave of absence request form for employees within the Zoological Conservation organization. It captures various details about the employee's leave request, including their status, department, team, team member, team lead, shift, and other relevant information. To ensure accurate completion, please review the form carefully and ensure you understand each field's purpose.
-
-The form is designed to collect data for employees who are requesting a leave of absence. It is likely used by HR or administrative staff to process and track leave requests.
-
-When filling out the form, please ensure that all required fields are completed accurately. Some fields may be optional, but they are still important for providing context or additional information.
-
-Before submitting the form, double-check that all necessary information is provided, and that you have obtained any necessary manager approvals or signatures.
-
-This guide will walk you through each field's meaning and how to complete it.</thinking>
-
 # Zoological Conservation Leave Of Absence Form - Help Guide
 ## Purpose
 The purpose of this form is to request a leave of absence for an employee. It captures various details about the employee's status, team, shift, and manager information.

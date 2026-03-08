@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to document and track time off requests from employees. This form is used to record the start and end dates of an employee's time off, the reason for the request, and other relevant details such as the employee's ID and manager's ID. This form is intended to facilitate communication and approval processes between employees and managers.
-
-</thinking>
-
 # Worker Advocacy Time Off Form - Help Guide
 ## Purpose
 The Worker Advocacy Time Off Form is used to document and track time off requests from employees. This form collects information about the employee's time off, including the start and end dates, reason for the request, and other relevant details.

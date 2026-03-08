@@ -1,7 +1,3 @@
-<thinking>
-This form is a Spousal Sponsorship Questionnaire used to gather information on the relationship status between a spouse/sponsor and their dependents. It is intended for use by organizations seeking to verify the legitimacy of spousal sponsorships. The purpose of this form is to collect detailed information about the relationship between the spouse/sponsor and their dependents, including their marriage status, sponsorship status, and supporting documents. This form is designed to be completed by the spouse/sponsor and is not intended for use by dependents.
-</thinking>
-
 # spousal_sponsorship_questionnaire - Help Guide
 ## Purpose
 The Spousal Sponsorship Questionnaire is a form used to gather information on the relationship status between a spouse/sponsor and their dependents.

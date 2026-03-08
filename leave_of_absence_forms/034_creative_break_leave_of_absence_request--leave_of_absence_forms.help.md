@@ -1,5 +1,3 @@
-<thinking>...We have a form for creative break leave of absence requests, a feature that allows employees to request a break from work to recharge and focus on their creative work. This form will likely be used by employees who need time off to think, create, or attend to their creative pursuits. Before starting, check if you have already submitted or pending requests for a break. Ensure that the fields below accurately reflect your requirements to increase the likelihood of approval.</thinking>
-
 # Creative Break Leave Of Absence Request - Help Guide
 ## Purpose
 The purpose of this form is to request a leave of absence to recharge and focus on your creative work.

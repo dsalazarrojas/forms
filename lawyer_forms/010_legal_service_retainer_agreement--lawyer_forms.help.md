@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Legal Service Retainer Agreement - Help Guide
 ## Purpose
 The Legal Service Retainer Agreement form is designed to outline the terms and conditions of a legal service retainer between a lawyer and a client. This form helps to clarify expectations, responsibilities, and obligations for both parties involved. It ensures a clear understanding of the services to be provided, payment terms, and any other relevant details.

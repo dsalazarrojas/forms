@@ -1,14 +1,3 @@
-<thinking>
-
-Internal reasoning block:
-This form is designed to capture leads for the photography workshop, which is a crucial step in converting potential customers into actual customers. The form is structured to collect essential information from interested individuals, including their contact details, workshop preferences, and source of lead generation. This information will help us to better understand our target audience and tailor our marketing strategies accordingly.
-
-Before we dive into the help guide, it is essential to note that the form is split into two main pages: the first page collects contact information and lead generation details, while the second page provides an opportunity to add any additional comments or questions.
-
-To prevent duplication of information, it is essential to ensure that each field is filled out correctly before proceeding. If a field's required status is "true", it is critical that it is filled out to ensure that the lead submission is successful.
-
-</thinking>
-
 # Photography Workshop Lead Generation - Help Guide
 ## Purpose
 This form is designed to help us generate leads for our photography workshop. It collects information from interested individuals, including their contact details, workshop preferences, and source of lead generation.

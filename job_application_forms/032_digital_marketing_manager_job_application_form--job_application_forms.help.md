@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for candidates to apply for the Digital Marketing Manager position. It is not a requirement for all employees, so please only fill it out if you are a suitable candidate. Please do not fill out this form if you are not interested in the Digital Marketing Manager position.
-</thinking>
-
 # Digital Marketing Manager Job Application Form - Help Guide
 ## Purpose
 This form is designed to help us assess your suitability for the Digital Marketing Manager position. It will help us understand your background, experience, and qualifications in digital marketing.

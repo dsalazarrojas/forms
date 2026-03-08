@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning: This form is intended to collect information from applicants for job openings at a movie theater. The form has multiple pages, but for the sake of this guide, we will focus on the main page. The form requires a first and last name, job title, job description, job availability, and a resume upload. The job availability field is a date picker, allowing the applicant to select a specific date they are available to start work. The form also asks for contact information, including an email and phone number. The applicant can also provide a list of skills and references. The form does not require a resume upload, but if provided, it will be considered. The form does not require a job status or employment status.
-
-</thinking>
-
 # Movie Theater Job Application Form - Help Guide
 
 ## Purpose

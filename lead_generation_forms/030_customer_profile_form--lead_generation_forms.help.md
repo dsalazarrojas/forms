@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their profile, including their job title, role in the company, company size, industry, name, job title, email, phone number, address, city, state, zip code, and LinkedIn connection preference. This form will be used to populate the customer database with accurate and up-to-date information, allowing for more efficient and targeted communication with customers.
-
-Before proceeding, please ensure that the information you provide is accurate and complete. If you are unsure about any of the fields, please refer to the field explanations below.
-
-</thinking>
-
 # Customer Profile Form - Help Guide
 ## Purpose
 This form collects customer information to populate the customer database for targeted communication and follow-up.

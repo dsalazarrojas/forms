@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Embryonic Development Assessment - Help Guide
 ## Purpose
 The Embryonic Development Assessment form is designed to collect information about a pregnant woman's health and lifestyle factors that may impact the development of her unborn child. This form helps healthcare professionals assess the risk factors associated with the pregnancy and provide personalized guidance and care.

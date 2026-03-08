@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a Tea Basket Giveaway entry. The purpose of this form is to gather essential details from users, including their personal details, tea basket preferences, and delivery information. The form ensures that users provide accurate and consistent information to process their entry correctly. To avoid duplication and incorrect entries, the form requires users to provide the necessary details carefully. Please note that some fields are optional, but most are required for a successful submission.
-</thinking>
-
 # Tea Basket Giveaway Entry - Help Guide
 ## Purpose
 The Tea Basket Giveaway Entry form collects necessary information from users to process their entry for a tea basket giveaway. This form is used to obtain essential details for accurate processing and to avoid duplication.

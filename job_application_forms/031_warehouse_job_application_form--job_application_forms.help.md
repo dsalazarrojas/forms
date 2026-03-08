@@ -1,7 +1,3 @@
-<thinking>
-We're providing this form for job applicants to submit their interest and information for warehouse positions within our company. Before starting, please ensure you have reviewed the job openings we have posted on our website or other internal sources to ensure you are applying for a role that matches your skills and qualifications. If you have already applied to a position, please do not submit another application unless it's for a different role.
-</thinking>
-
 # Warehouse Job Application Form - Help Guide
 ## Purpose
 The Warehouse Job Application Form is a tool for applicants to submit their interest and information for available warehouse positions within our company. This form gathers essential details to help us assess your fit for our warehouse roles.

@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form is for submitting information about a school. It is intended for schools to showcase their information in a standardized format. This form will help us gather relevant data about each school, which will be used for internal purposes only. Please ensure that you are authorized to submit this information on behalf of your school. Also, please be aware that this form will not create a duplicate entry if you are resubmitting information for the same school. 
-</thinking>
-
 # School Spotlight Submission Form - Help Guide
 ## Purpose
 This form is designed to collect information about your school for our internal purposes. Please fill in the necessary fields to help us showcase your school's details.

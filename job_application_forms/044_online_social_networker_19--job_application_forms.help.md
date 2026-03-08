@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online_social_networker_19_位 - Help Guide
 
 ## Purpose

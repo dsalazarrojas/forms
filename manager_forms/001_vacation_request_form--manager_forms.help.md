@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vacation Request Form - Help Guide
 ## Purpose
 The Vacation Request Form is used by employees to request time off for vacation, sick leave, or other personal reasons. This form helps managers and HR to process and approve or deny vacation requests in a standardized and efficient way.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Pricing Software Trial Application Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a Transport Associate Application Form, intended for candidates interested in applying for jobs within the transport industry. Before filling out this form, ensure you have a clear understanding of the job requirements and opportunities. 
-
-Please note that this form is not intended for use in conjunction with other employment applications. Each form is a standalone application for a specific transport associate position. 
-
-Review the form carefully to ensure you are providing accurate and relevant information. If you have any questions or concerns, please reach out to the relevant department or supervisor for guidance.
-</thinking>
-
 # Transport Associate Application Form - Help Guide
 ## Purpose
 The Transport Associate Application Form is a comprehensive application form designed to help candidates apply for transport associate positions. The form gathers necessary information about your qualifications, work history, and contact details.

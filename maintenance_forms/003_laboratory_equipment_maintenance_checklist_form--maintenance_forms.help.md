@@ -1,9 +1,3 @@
-<thinking>
-This form is used for tracking and updating the maintenance status of laboratory equipment. It ensures that equipment is regularly checked for any issues or problems, and its maintenance history is accurately recorded. This form reduces the risk of errors and equipment malfunctions, which can impact the integrity and reliability of laboratory results. It is a checklist that should be completed after each use of the equipment or on a regular scheduled maintenance interval, whichever comes first. 
-
-Please ensure the form is completed thoroughly and accurately to avoid any confusion or duplication of effort in the future. This form is designed to be filled out by equipment operators or designated staff members.
-</thinking>
-
 # Laboratory Equipment Maintenance Checklist Form - Help Guide
 ## Purpose
 This form is used for tracking and updating the maintenance status of laboratory equipment, ensuring it is regularly checked for any issues or problems, and its maintenance history is accurately recorded.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about field trips for students and teachers. The form will gather data on trip dates, times, locations, attendance, and bus-related information. We will be checking for duplicate forms and invalid data.
-</thinking>
-
 # Field Trip Survey - Help Guide
 ## Purpose
 The Field Trip Survey form is used to collect information about field trips for students and teachers. This form helps us to monitor and record trip details accurately.

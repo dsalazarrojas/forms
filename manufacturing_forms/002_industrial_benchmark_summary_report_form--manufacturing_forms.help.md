@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Industrial Benchmark Summary Report Form - Help Guide
 ## Purpose
 This form is used to collect and summarize key performance metrics for industrial benchmarks. It helps to standardize the collection of data across different facilities and provides a quick reference for tracking progress and comparing results.

@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide for the "Precision Tool Calibration Order Form", this document aims to explain the purpose and requirements of the form, and provide a clear and concise instructions on how to complete it. The form is a critical tool for the calibration process, ensuring that tools are properly maintained and serviced. Before proceeding, please review the form's contents and requirements to ensure that it is being completed in the correct manner. Is this form a duplicate or a new submission? If it's a new submission, please fill out the form completely. If it's a duplicate, please refer to the previously submitted form for reference.</thinking>
-
 # Precision Tool Calibration Order Form - Help Guide
 ## Purpose
 The Precision Tool Calibration Order Form is a critical document used to request calibration of tools and equipment in the laboratory or workshop. This form ensures that tools are properly maintained and serviced to guarantee accurate results and extend their lifespan.

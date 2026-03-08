@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Company Acquisition Leave Form", we need to consider the form's purpose and the fields it contains. This form is likely used for employees to request leave of absence due to acquisition, which means they are leaving the company due to a change in ownership or merger. The form should be clear and easy to understand to help employees navigate the process smoothly.
-
-Before we start explaining each field, let's ensure that the form is being used for its intended purpose and not for other types of leave requests. It's also essential to check if the employee has already submitted a leave request in the past to avoid duplication of efforts.
-
-</thinking>
-
 # Company Acquisition Leave Form - Help Guide
 ## Purpose
 The Company Acquisition Leave Form is used to request leave of absence due to a change in company ownership or merger. This form helps the employee to formally notify their manager and HR department of their intention to leave the company and to provide a clear reason for their departure.

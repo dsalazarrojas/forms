@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information about property damage releases. It is likely used in a legal or insurance context to gather details about a property that has suffered damage, such as a vehicle or building. The form is designed to be filled out by an individual or business that is responsible for the property damage.
-
-This form is likely used in a situation where someone needs to release their liability for a property that has been damaged. The form may be used by a court, insurance company, or other organization to collect information about the damage and the parties involved.
-
-To avoid duplication of effort, this form should not be filled out by multiple people at the same time. Each person should only fill out their own section of the form. If you are unsure about what to fill out or what information is required, please ask the person or organization that requested the form for clarification.
-
-</thinking>
-
 # Property Damage Release Form - Help Guide
 
 ## Purpose

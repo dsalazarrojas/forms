@@ -1,11 +1,3 @@
-<thinking>
-
-This form template is designed to facilitate the creation of a consulting services agreement between a client and a consulting firm or individual. The template includes fields to capture essential details such as the agreement overview, client and consultant information, service scope, compensation structure, payment terms, confidentiality requirements, termination notice period, liability limitations, governing law, authorized signatory name and title, and other relevant details.
-
-To prevent duplication and ensure accuracy, this form template is designed to guide users through the completion process, ensuring that all necessary fields are filled out correctly.
-
-</thinking>
-
 # Consulting Services Agreement Form Template - Help Guide
 ## Purpose
 This form template is designed to create a comprehensive consulting services agreement between a client and a consulting firm or individual.

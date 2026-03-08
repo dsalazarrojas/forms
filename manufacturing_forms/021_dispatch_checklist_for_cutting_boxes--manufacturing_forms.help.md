@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document and verify the dispatch of cut boxes, ensuring that they are properly signed off and recorded in the system. It's crucial to complete this form accurately and thoroughly to maintain accurate records and prevent errors. Before starting, ensure you've read and understand the form's purpose and requirements. Check that the form isn't a duplicate or unnecessary, and that all necessary information is available.
-
-</thinking>
-
 # Dispatch Checklist For Cutting Boxes - Help Guide
 ## Purpose
 This form is used to record and verify the dispatch of cut boxes, ensuring that each box is properly signed off and documented in the system. This includes confirming that the box has been properly cut and prepared for dispatch.

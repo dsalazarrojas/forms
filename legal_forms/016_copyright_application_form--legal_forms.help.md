@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Copyright Application Form - Help Guide
 ## Purpose
 The Copyright Application Form is a tool used to facilitate the copyright registration process for original works. This form helps you gather necessary information to apply for copyright protection.

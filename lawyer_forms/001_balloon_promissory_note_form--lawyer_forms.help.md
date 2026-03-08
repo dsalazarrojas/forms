@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for use by lenders and borrowers to document a balloon promissory note, a type of loan where a larger final payment is due at maturity. This form captures essential information about the loan, including personal details of the borrower, loan terms, and other relevant conditions. Before proceeding, verify that this form is relevant to your specific use case. Please review the following guide to understand the form's purpose and how to complete it accurately.
-</thinking>
-
 # Balloon Promissory Note Form - Help Guide
 ## Purpose
 The Balloon Promissory Note Form is a loan agreement that allows a lender to lend money to a borrower with a larger final payment due at the loan's maturity. This form outlines the terms and conditions of the loan, including the loan amount, interest rate, repayment terms, and other relevant details.

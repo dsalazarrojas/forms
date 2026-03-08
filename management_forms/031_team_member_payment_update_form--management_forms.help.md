@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to update payment information for team members. This guide is for end-users who need to understand the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # Team Member Payment Update Form - Help Guide
 ## Purpose
 The Team Member Payment Update Form is a form used to update payment information for team members.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to request access to court documents. It appears to be a general-purpose form for handling such requests, and it's likely intended for use within a specific legal context. To confirm, the form fields seem to be focused on collecting user information, document details, and access permissions. The form does not appear to be specific to a particular court or jurisdiction, suggesting that it's a more general template. It's worth noting that some fields have optional status, which may indicate that users are not required to fill in every field.
-</thinking>
-
 # Court Document Access Form - Help Guide
 ## Purpose
 This form is used to request access to court documents. Users can fill in their details, document information, and specify their preferred access level to request access to court documents.

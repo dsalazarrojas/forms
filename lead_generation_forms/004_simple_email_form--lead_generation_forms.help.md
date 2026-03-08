@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect simple information from users. This form is designed to be a basic tool for data collection, possibly for lead generation or customer communication.
-To ensure relevance, this form is tailored for industries that typically use email forms, such as customer service, marketing, or sales. It is unlikely to be a duplicate form as it's a custom AI-generated form.
-</thinking>
-
 # Simple Email Form - Help Guide
 ## Purpose
 The Simple Email Form is designed to collect basic information from users, such as their name and contact email. This form is suitable for various industries, including customer service, marketing, and sales, where a quick and simple data collection is necessary.

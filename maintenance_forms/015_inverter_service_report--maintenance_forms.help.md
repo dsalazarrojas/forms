@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to document the services performed on an inverter, likely for maintenance, repair, or routine checks. The purpose of this form is to track the details of the visit, including the inverter's ID, model, and year, as well as the visit date, time, duration, technician involved, diagnostics, work description, and next planned visit date. This form will help ensure that maintenance tasks are properly recorded and followed up on.
-
-Note: This form should not be used for duplicate or redundant entries as it will be used to track and record unique maintenance activities.
-
-</thinking>
-
 # Inverter Service Report - Help Guide
 ## Purpose
 The Inverter Service Report form is used to document the services performed on an inverter, ensuring that maintenance tasks are properly recorded and followed up on.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users when they request access to a book within the library's collection. This is typically used for borrowing or research purposes. The system will check for duplication of requests for the same book and user, and prevent submission of duplicate requests. The form can be filled out by anyone, not just library staff. However, users must provide the requested book title, author, and ISBN (or any other identifying information if applicable) to ensure the library staff can locate the book and fulfill the request efficiently. Users may provide their ID or a contact information (email or phone number) to facilitate communication with the library staff. Please note that some fields are optional, but are recommended for the library staff to process the request quickly and efficiently.
-</thinking>
-
 # Library Book Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users when they request access to a book within the library's collection.

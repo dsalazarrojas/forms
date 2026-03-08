@@ -1,6 +1,3 @@
-<thinking>
-This form is used to gather feedback and scores from a manufacturing line supervisor regarding a candidate's performance in an interview. The supervisor is asked to provide their score and comments for the candidate's manufacturing line experience. This form is likely to be used by HR or management personnel to evaluate and track candidate performance in manufacturing-related roles. To ensure consistency and accuracy, it's essential to complete this form carefully and thoroughly. It is not intended for other purposes or forms.</thinking>
-
 # Manufacturing Line Supervisor Interview Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and scores from a manufacturing line supervisor for a candidate's performance in a manufacturing line experience. This information will be used by HR or management to evaluate and track candidate performance.

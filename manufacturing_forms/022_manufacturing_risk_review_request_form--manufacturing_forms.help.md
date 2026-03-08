@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to request a review of a manufacturing risk. This form is not meant to be a substitute for other risk assessment processes, and we should avoid duplication of effort. The goal is to provide a clear and concise request for review that includes all necessary information. We should use this form when a risk requires review by a subject matter expert, such as a production manager or quality engineer.
-</thinking>
-
 # Manufacturing Risk Review Request Form - Help Guide
 ## Purpose
 The Manufacturing Risk Review Request Form is used to submit a request for review of a manufacturing risk to a subject matter expert. This form helps to ensure that all necessary information is provided and reduces the risk of errors or miscommunication.

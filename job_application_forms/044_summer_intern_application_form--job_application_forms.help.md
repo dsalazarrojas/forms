@@ -1,6 +1,3 @@
-<thinking>...
-</thinking>
-
 # Summer Intern Application Form - Help Guide
 ## Purpose
 The Summer Intern Application Form is designed to collect information from individuals applying for internship positions during the summer. The form helps us get to know your background, skills, and interests in order to match you with the best fit for our team.

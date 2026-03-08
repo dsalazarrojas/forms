@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to guide real estate agents in their outreach efforts to capture leads from potential clients. The form is likely used to record information about the leads, including their contact details, property preferences, and follow-up requirements. Before submitting the form, please note that:
 
 * Ensure that the form is not already completed for the same lead.

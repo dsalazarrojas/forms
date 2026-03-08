@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data on swimming pool maintenance tasks. Its purpose is to ensure that each maintenance task is checked and documented for the pool's water quality and overall health. This form is likely to be used by pool operators or maintenance staff to report on the status of their pool's maintenance activities. The form will help track progress, identify potential issues, and provide insights for future maintenance planning.
-</thinking>
-
 # swimming_pool_maintenance_checklist_form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document the status of various swimming pool maintenance tasks.

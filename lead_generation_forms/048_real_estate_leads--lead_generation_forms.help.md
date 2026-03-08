@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to record and manage information about real estate leads, which are potential customers for a real estate agency or broker. The form helps to centralize and organize data about leads, making it easier to track and follow up with them. The purpose of this form is to ensure that all relevant information about leads is captured consistently and accurately, which can help to improve the success rate of conversions and conversions of leads into actual clients.
-
-This form consists of multiple pages, each with its own set of fields. However, before filling out the form, please ensure that the data is accurate and complete. Duplicating data or providing incorrect information can lead to errors and make it harder to use the data effectively.
-
-</thinking>
-
 # Real Estate Leads - Help Guide
 ## Purpose
 This form is used to record and manage information about real estate leads, which are potential customers for a real estate agency or broker. The form helps to centralize and organize data about leads, making it easier to track and follow up with them.

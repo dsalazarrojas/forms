@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from teachers during handover, where they can provide notes, report outstanding tasks, indicate the availability of class resources, input student information, leave comments, provide their name, department name, school name, date and time of transition, and link to resources. This information will likely be used to inform subsequent actions or decisions related to the handover process.
-
-This form is likely used by school administrators or other staff members to ensure a smooth handover process. The form's fields may not be exhaustive and can be adjusted or removed as per the needs and policies of the school.
-
-Before proceeding, ensure the form fields are accurate and up-to-date. Some fields are optional, but filling out all relevant fields will ensure the handover process is well-documented and easily understood by the recipient.
-</thinking>
-
 # Teacher Handover Information Form - Help Guide
 
 ## Purpose

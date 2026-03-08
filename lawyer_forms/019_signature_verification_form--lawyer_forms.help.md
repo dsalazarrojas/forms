@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for verifying the authenticity of a customer's signature on documents, particularly in a banking or financial context. It appears to be a comprehensive form for storing and verifying various details related to customer signatures, documents, and branch information. The form likely serves as a tool for banks or financial institutions to verify the legitimacy of customer signatures and ensure accurate documentation. I will now assume that the form is used for this purpose and proceed with the help guide.
-</thinking>
-
 # Signature Verification Form - Help Guide
 ## Purpose
 This form is designed to collect and verify various details related to a customer's signature on documents. It is likely used by banks or financial institutions to ensure the authenticity and legitimacy of customer signatures.

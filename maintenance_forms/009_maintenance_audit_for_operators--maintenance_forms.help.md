@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used by operators to conduct maintenance audits for equipment. It is a critical process that helps ensure the equipment is in good working condition and identifies any potential issues that require attention. The goal of this form is to collect information about the equipment being audited, including its type, status, and location, as well as the operator conducting the audit, including their name and contact information. The form also captures details about the maintenance frequency and history, including the next maintenance date and any notes or remarks.
-
-Before starting the form, please note that it is recommended to fill it out for each piece of equipment separately, using either "Equipment 1" or "Equipment 2" as a placeholder if there are multiple pieces of equipment being audited.
-
-Also, please check that you are not duplicating any information that was already captured in a previous audit.
-
-</thinking>
-
 # Maintenance Audit For Operators - Help Guide
 ## Purpose
 The Maintenance Audit for Operators form is used to conduct regular maintenance audits on equipment. It helps ensure that the equipment is in good working condition and identifies any potential issues that require attention.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Material Testing Instrument Order Form - Help Guide
 
 ## Purpose

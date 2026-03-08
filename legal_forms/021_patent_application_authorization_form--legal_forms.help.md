@@ -1,7 +1,3 @@
-<thinking>
-This form is for patent authorization purposes, likely for a company or organization to obtain necessary permissions from the patent owner. This form should be completed by the patent owner or their authorized representative. Please ensure that the information provided is accurate and up-to-date to avoid any issues or delays with patent applications.
-</thinking>
-
 # Patent Application Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain authorization from the patent owner for a patent application. It is essential for the completion of the patent application process. Please provide accurate and up-to-date information to ensure a smooth processing of the patent application.

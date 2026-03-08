@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential job applicants for a Skincare Launch Content Creators position. The form is intended for individuals who want to apply for this specific job role. Please note that this form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using AI.
-</thinking>
-
 # Skincare Launch Content Creators Job Application Form - Help Guide
 ## Purpose
 The Skincare Launch Content Creators Job Application Form is designed to collect information from potential applicants for the Skincare Launch Content Creators position. This form is intended for individuals who want to apply for this specific job role.

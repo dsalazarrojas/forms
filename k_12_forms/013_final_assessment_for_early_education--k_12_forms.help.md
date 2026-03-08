@@ -1,7 +1,3 @@
-<thinking>...
-This form is intended for teachers to provide an overall assessment of students' performance, including a rating and comments, and to offer specific recommendations for improvement. The form helps to gather feedback from teachers on a student's strengths and weaknesses, providing valuable insights for future learning experiences. The purpose of this form is to ensure that students receive fair and constructive feedback, allowing them to improve their skills and knowledge.
-</thinking>
-
 # Final Assessment For Early Education - Help Guide
 ## Purpose
 The Final Assessment for Early Education form is designed to provide teachers with a structured way to evaluate students' performance, identify areas of improvement, and offer suggestions for further learning opportunities. This form helps to gather essential feedback that supports student growth and development.

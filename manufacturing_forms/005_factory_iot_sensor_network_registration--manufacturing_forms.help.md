@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory IoT Sensor Network Registration - Help Guide
 
 ## Purpose

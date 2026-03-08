@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information and details about manufacturing partners in the ecosystem. It should only be used to provide information about companies that are already in the partnership or have a pre-existing relationship with the manufacturer. This form is not intended for companies without prior connections or for general inquiries.
-</thinking>
-
 # Manufacturing Ecosystem Partner Contact Form - Help Guide
 ## Purpose
 This form is used to collect and update contact information and details about existing manufacturing partners in the ecosystem. If you're a partner looking to provide more information or an existing partner updating their details, please use this form.

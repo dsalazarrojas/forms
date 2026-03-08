@@ -1,12 +1,3 @@
-<thinking>
-This form is used to obtain copyright permission from users, allowing for the use of their information, ideas, or creations. This form is intended to provide a clear and concise way for users to grant or decline permission for the use of their work. Please ensure that users understand this form's purpose before proceeding.
-
-The purpose of this form is to collect information from users regarding their permission for the use of their work, ideas, or information. This form should only be used for obtaining permission for the specific use cases outlined on the form, and not for any other purposes.
-
-Before filling out this form, please review the options carefully to ensure you are making an informed decision.
-
-</thinking>
-
 # Copyright Permission Form - Help Guide
 ## Purpose
 The Copyright Permission Form is designed to collect information from users regarding their permission for the use of their work, ideas, or information.

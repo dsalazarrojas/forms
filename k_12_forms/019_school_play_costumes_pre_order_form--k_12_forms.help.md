@@ -1,22 +1,3 @@
-<thinking>This form is likely used for a school play or event where costumes are pre-ordered by parents or guardians for their children. The form is designed to collect relevant information to ensure accurate and timely delivery of costumes. The fields on the form are: 
-- Title: A text input for the title of the play or event.
-- Category: A category selector with options for k-12 forms, likely to filter or categorize the form data for internal use.
-- Description: A text input field for any additional comments or notes about the pre-order.
-- Delivery Preference: A selector of time options (before, during, after) to decide when the costumes should be delivered.
-- Delivery Date: A date input field for choosing the date of delivery.
-- Delivery Time: A time input field for choosing the time of delivery.
-- Payment Method: A selector with options of payment methods (online, cash, check) likely to be used for payment processing.
-- Payment Amount: A numerical input field for the amount to be paid.
-- Notes: A free-text input field for any additional comments or notes about the pre-order.
-- Email: A text input field for the contact email of the person making the pre-order.
-- Phone: A text input field for the contact phone number of the person making the pre-order.
-- Submit: A final button to submit the form.
-
-The form seems to be designed for people with a k-12 background or affiliation and the delivery preferences might be used for coordinating with teachers or staff of schools or events.
-
-Please review the form and ensure you are familiar with the context before proceeding.
-</thinking>
-
 # School Play Costumes Pre Order Form - Help Guide
 ## Purpose
 This form is used to pre-order costumes for a school play or event. It collects relevant information to ensure accurate and timely delivery of costumes for participants.

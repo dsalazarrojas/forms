@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory Visit Leave Of Absence Request - Help Guide
 ## Purpose
 The purpose of this form is to request a factory visit leave of absence for a specific period. This form is used to notify the management and HR department of the planned absence and ensure that the necessary arrangements are made for the factory's operation during the absence.

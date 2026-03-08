@@ -1,7 +1,3 @@
-<thinking>
-The form is a Homeowners Insurance Quote Questionnaire Form, designed to gather information from homeowners to provide quotes for insurance coverage. This form is typically filled out by homeowners who are seeking insurance quotes for their property. The fields in this form are designed to collect relevant details about the homeowner, their property, and their insurance needs.
-</thinking>
-
 # Homeowners Insurance Quote Questionnaire Form - Help Guide
 ## Purpose
 The Homeowners Insurance Quote Questionnaire Form is a simple form designed to collect necessary information from homeowners seeking insurance quotes.

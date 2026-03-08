@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help team members request time off for team building retreats, which are events that promote team bonding and collaboration outside of work hours. This form will be used to gather information about the retreat, including the start and end dates, team member names, and manager/leader approvals. To fill out this form, a team member should only request a team building retreat for a date that is far enough in the future, so that it does not conflict with other team events or deadlines. Also, please note that manager and team leader approvals are not required if the team leader is not available or if the team member is requesting a single-person retreat.
-</thinking>
-
 # team_building_retreat_leave_form - Help Guide
 ## Purpose
 The team building retreat leave form is used by team members to request time off for team building retreats, which are events that promote team bonding and collaboration outside of work hours.

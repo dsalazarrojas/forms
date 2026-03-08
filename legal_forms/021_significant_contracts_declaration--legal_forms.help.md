@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The internal reasoning block to explain the form purpose:
 This form is used for declaring significant contracts, which are agreements between two or more parties that have a material impact on the business operations. The form is meant to be completed by individuals who have knowledge of these contracts and are responsible for ensuring that they are accurately recorded and reported. The form is designed to capture essential information about the contracts, including their type, date, and amount, to facilitate effective management and monitoring of such agreements.
 

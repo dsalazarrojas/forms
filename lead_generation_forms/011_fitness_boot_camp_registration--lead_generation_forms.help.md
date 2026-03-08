@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # fitness_boot_camp_registration - Help Guide
 ## Purpose
 This form is used for registering participants in a fitness boot camp. It collects essential information for the boot camp organization, including personal details, emergency contact information, medical considerations, and boot camp specifics.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a Manufacturing Machinery Reliability Audit. It is intended to be used by production teams to evaluate the condition and maintenance history of manufacturing machinery. This form will help users identify potential issues and prioritize maintenance tasks.
-
-Before proceeding, ensure that you are filling out this form for a relevant and valid purpose. If you have already filled out this form for the same machine or purpose, you may not need to complete it again. This form is designed to be a one-time assessment tool for manufacturing machinery reliability.
-
-</thinking>
-
 # Manufacturing Machinery Reliability Audit Form - Help Guide
 ## Purpose
 The Manufacturing Machinery Reliability Audit Form is a tool for production teams to assess the condition and maintenance history of manufacturing machinery. This form helps identify potential issues and prioritize maintenance tasks.

@@ -1,8 +1,3 @@
-<thinking>
-This guide explains the Estate Inventory Services Agreement form to ensure a seamless and efficient experience for end-users. 
-The form is designed to collect information about an estate inventory service, including the definition of the service, the approver's details, and the service's status and type. This guide will cover the form's purpose, how to complete it, and a detailed explanation of each field.
-</thinking>
-
 # Estate Inventory Services Agreement - Help Guide
 ## Purpose
 The Estate Inventory Services Agreement form is used to document and formalize an estate inventory service. It captures relevant information about the service, including the approver's details and the service's status and type.

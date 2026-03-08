@@ -1,11 +1,3 @@
-<thinking>
-The internal purpose of this form is to capture information about how a company's assets, resources, or products will be distributed among employees. It's likely used for internal purposes, such as inventory management or employee perks, and the form is designed to be completed by employees who will be involved in the distribution process.
-
-The form should not be completed by anyone outside of the intended audience, and there is no duplication of effort as the form is specifically designed for this purpose.
-
-This guide will cover the form's purpose, how to complete it, and what each field means to ensure a smooth and accurate completion process for the end-users.
-</thinking>
-
 # Distribution Election Form - Help Guide
 ## Purpose
 This form is used to determine how a company's assets, resources, or products will be distributed among employees. It's essential to provide accurate information to ensure efficient distribution.

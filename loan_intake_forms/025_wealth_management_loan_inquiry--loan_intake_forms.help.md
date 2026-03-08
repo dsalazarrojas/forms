@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals seeking wealth management loan inquiries. The form's purpose is to gather demographic and loan-related details to provide a comprehensive understanding of the individual's financial situation and loan requirements. This form is intended for internal use within the organization, and the data collected will be used to process and evaluate the loan application. Before proceeding, ensure that the individual has not already submitted a loan inquiry or has any existing loan commitments.
-
-</thinking>
-
 # Wealth Management Loan Inquiry - Help Guide
 ## Purpose
 The Wealth Management Loan Inquiry form is designed to collect information from individuals seeking loans for various purposes. The form helps to understand the individual's financial situation, loan requirements, and other relevant details.

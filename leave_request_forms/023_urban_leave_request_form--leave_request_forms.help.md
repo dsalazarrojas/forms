@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by employees to request leave from work. It's crucial to ensure that all employees understand the correct procedures and guidelines for requesting leave, to avoid confusion and ensure a smooth process. Before proceeding, please ensure that you're filling out this form for a valid reason and that you haven't already submitted a leave request for the same period. If you're unsure about any field or require further clarification, please consult with your manager or HR representative.
-
-</thinking>
-
 # Urban Leave Request Form - Help Guide
 ## Purpose
 The Urban Leave Request Form is a tool for employees to request leave from work. This form is used to submit a formal leave request, which will then be reviewed and approved or denied by your manager.

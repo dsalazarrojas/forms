@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for the library_card_application_form form. This form is used to collect information from library card applicants. The form is divided into several sections, each with a specific field for the applicant to fill in. The purpose of this form is to gather demographic information, card details, and application status. It is crucial to fill in the form accurately to ensure that the library card application process is completed successfully. Please note that this form is not for library administrators or staff. If you are a library staff, you may need to use a different form.
-</thinking>
-
 # library_card_application_form - Help Guide
 ## Purpose
 The library_card_application_form is used to collect information from library card applicants. This form is divided into several sections, each with a specific field for the applicant to fill in.

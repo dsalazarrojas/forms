@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information from service providers to help us understand their needs and provide them with relevant support. To ensure that we provide the best possible experience for our service providers, we only allow each service provider to submit the form once. If you have already submitted this form, you will not be able to resubmit it.
-
-</thinking>
-
 # Service Provider Application Form - Help Guide
 ## Purpose
 The Service Provider Application Form is used to collect information from service providers to help us understand their needs and provide them with relevant support.

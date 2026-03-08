@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Renovation Loan Approval Form - Help Guide
 
 ## Purpose

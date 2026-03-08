@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about legal events and conferences. The form allows attendees to register for events and provide their details to the organizers. Each field is designed to collect relevant information about the event, such as the type of event, start and end dates, location, number of attendees, and additional information about the event.
-
-The form is intended to be completed by attendees who want to participate in legal events and conferences. The required fields are marked as "required" in the form schema, but most of the fields are optional, allowing attendees to provide as much or as little information as they want.
-
-The form is designed to be user-friendly and easy to complete, with clear labels and explanations for each field. The "Field-by-Field Explanation" section below provides a detailed explanation of each field, to help attendees understand what information is being collected and how to complete the form correctly.
-
-</thinking>
-
 # Legal Collection Forum Registration - Help Guide
 ## Purpose
 This form is used to register for legal events and conferences. It gathers information about the event, such as the type of event, dates, location, and number of attendees.

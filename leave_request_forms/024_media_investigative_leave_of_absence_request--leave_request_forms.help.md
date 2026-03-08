@@ -1,8 +1,3 @@
-<thinking>
-Before proceeding, ensure you have read and understand the following:
-This form is for requesting a Media Investigative Leave of Absence. It's essential to fill out this form accurately and completely to ensure your request is processed efficiently. Please ensure you are not duplicating a request that has already been submitted, and that you have the necessary approvals and permissions to make this request.
-</thinking>
-
 # Media Investigative Leave Of Absence Request - Help Guide
 ## Purpose
 The Media Investigative Leave of Absence Request form is used to notify the organization of a media investigator's leave of absence. This form helps to keep track of the investigator's status and ensures that necessary approvals and communications are made with the right personnel.

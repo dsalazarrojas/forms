@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Job Posting Subscription Requisition Form - Help Guide
 
 ## Purpose
@@ -119,4 +117,3 @@ To fill out this form, simply follow these steps:
   <small>Select "Yes" or "No" to indicate the job posting subscriptioner's role.</small>
   Required: False
 
-<thinking>...</thinking>

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by lawyers to create and manage security bonds for their clients. The form collects information about the company and employee involved in the bond, including their names, addresses, and contract details. This form is likely used in legal contexts, such as insurance or contract law. Please ensure you are using this form for its intended purpose and in accordance with local laws and regulations.
-</thinking>
-
 # Security Bond Form - Help Guide
 ## Purpose
 The Security Bond Form is a tool used by lawyers to gather necessary information for creating and managing security bonds. This form helps ensure that all required details are collected in a clear and concise manner, making it easier to process bonds efficiently.

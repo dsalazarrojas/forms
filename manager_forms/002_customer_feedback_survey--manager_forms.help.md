@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for collecting customer feedback on our service. 
-It will gather information on the customer's satisfaction level with our service, any additional comments, and contact information in some cases. 
-This form will be used internally by our team to evaluate and improve our service.
-We are checking for relevance and non-duplication to ensure that the form will only appear to customers that are relevant and not have completed the form already.
-</thinking>
-
 # customer_feedback_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers on our service, allowing us to gauge their level of satisfaction and gather additional comments for improvement.

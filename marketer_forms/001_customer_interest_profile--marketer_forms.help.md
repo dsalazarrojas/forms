@@ -1,18 +1,3 @@
-<thinking>
-This form is used by marketers to collect information about a customer's interests, demographics, and contact details. It is likely used for lead generation, customer acquisition, or lead scoring purposes.
-
-This form appears to collect a wide range of information, including:
-
-- customer name and contact information (age, email address, phone number, time zone)
-- preferred communication channel (phone, email, chat)
-- availability and schedule preferences (available time)
-- a text field for a note or comment
-
-The purpose of this form seems to be to collect a basic customer profile, which can be used for various marketing purposes such as lead generation, customer acquisition, or follow-up communications.
-
-Please review and confirm that this is correct.
-</thinking>
-
 # Customer Interest Profile - Help Guide
 ## Purpose
 

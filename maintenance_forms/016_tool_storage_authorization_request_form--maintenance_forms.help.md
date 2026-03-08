@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to facilitate user requests for tool storage authorization. It is meant for employees to request access to a tool that they need for their work. The form will ask for a brief description of the tool, the category it belongs to, and the date and time the user plans to use the tool. It also asks for the user's email address and phone number. The form is used by maintenance team members to verify the tool requests and ensure that users are properly authorized to access the tools they need.
-
-The form will only be used for employees who have been granted access to the tool storage system.
-
-This form is used in conjunction with other processes, like the tool management system. Please make sure to only submit a new request if you have not submitted one before. If you have previously submitted a request, please check the status of your previous requests before submitting a new one.
-
-The output file is used to store the submitted form data, which will be used for tracking and reporting purposes.
-
-The "output_file" dropdown option is a custom field to store the unique form ID.
-</thinking>
-
 # tool_storage_authorization_request_form - Help Guide
 ## Purpose
 The tool storage authorization request form is designed to allow users to request access to tools and equipment for work purposes.

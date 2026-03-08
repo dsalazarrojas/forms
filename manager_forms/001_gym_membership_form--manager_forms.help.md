@@ -1,7 +1,3 @@
-<thinking>
-The form "gym_membership_form" is designed to collect information from potential gym members, providing a way for the gym to obtain necessary details from applicants. This form is intended for internal use within the organization. No duplication of this form is allowed, as it's a unique creation generated based on public survey topic metadata. 
-</thinking>
-
 # gym_membership_form - Help Guide
 ## Purpose
 This form is meant to be used by potential members to submit their application for gym membership. It helps the gym collect information necessary to process the application and provide services.

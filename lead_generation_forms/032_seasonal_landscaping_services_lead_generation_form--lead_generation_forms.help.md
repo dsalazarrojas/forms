@@ -1,7 +1,3 @@
-<thinking>
-This form is for lead generation for seasonal landscaping services. It is intended to collect information from potential customers about their contact information, service needs, and other relevant details. Before completing this form, ensure that you are a legitimate potential customer and not a duplicate inquiry. This form is not intended to be used for internal or test purposes.
-</thinking>
-
 # Seasonal Landscaping Services Lead Generation Form - Help Guide
 
 ## Purpose

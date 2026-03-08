@@ -1,9 +1,3 @@
-<thinking>
-**Makeup Artist Onboarding Form** is used for new artists to register their information for potential collaboration or partnership opportunities. 
-This form aims to collect essential details about the artist, including name, contact information, social media presence, and work specifics. 
-This form is not intended for existing artists who have already onboarded. 
-</thinking>
-
 # Makeup Artist Onboarding Form - Help Guide
 
 ## Purpose

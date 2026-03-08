@@ -1,7 +1,3 @@
-<thinking>
-This form is used for individuals to apply for a job as a Prison Officer. To ensure that this form is filled out correctly, please check that you have not already applied for this role before, as duplicate applications may cause delays in the hiring process. It's also essential to make sure you are eligible to work in the country and for the shifts required for the role. The form will ask for information about your personal details, availability, and job preferences to help us understand your suitability for the role.
-</thinking>
-
 # Prison Officer Job Application Form - Help Guide
 ## Purpose
 This form is for individuals who are interested in applying for a job as a Prison Officer. It is used to gather information about your personal details, availability, and job preferences.

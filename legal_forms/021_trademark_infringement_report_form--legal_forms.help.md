@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # trademark_infringement_report_form - Help Guide
 ## Purpose
 This form is used to report a trademark infringement incident. It provides a structured way to collect relevant information about the incident, including details about the trademark owner, the type of trademark, the date and location of the infringement, and any supporting evidence or witness statements.

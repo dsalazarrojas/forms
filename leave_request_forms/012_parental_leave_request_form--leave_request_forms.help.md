@@ -1,5 +1,3 @@
-<thinking>Before designing this user-facing help guide, let's consider the form's purpose and the context in which it will be used. This guide is for the "parental_leave_request_form" in the "leave_request_forms" category. The form is used to collect information from employees who are requesting parental leave, which can include maternity leave, paternity leave, or other types of family-related leaves. The form will guide employees through the process of requesting leave, including details about the leave, dates, duration, and other relevant information. This guide will help employees understand what to expect when filling out the form, ensuring they provide accurate and complete information.</thinking>
-
 # parental_leave_request_form - Help Guide
 ## Purpose
 This form is for requesting parental leave, which includes maternity, patery, and other family-related leaves. It is used to collect information from employees about their leave request, including details, dates, and status updates.

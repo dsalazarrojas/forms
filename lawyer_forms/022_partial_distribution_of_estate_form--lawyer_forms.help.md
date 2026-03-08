@@ -1,16 +1,3 @@
-<thinking>
-This form is used to record the partial distribution of an estate, which is a legal process used to divide the assets of a deceased person among their beneficiaries. It is a crucial document that outlines the percentage of ownership each beneficiary will receive and the distribution percentage of each asset. This form should only be filled out by authorized individuals, and it is essential to ensure that all fields are accurately and truthfully completed to avoid any potential disputes or conflicts.
-
-Before completing this form, please ensure that:
-
-*   All assets have been accurately identified, appraised, and valued.
-*   The correct beneficiaries have been listed, and their shares have been correctly calculated.
-*   The distribution percentages have been determined and accurately reflected.
-
-Please note that this form is for information purposes only and does not constitute legal advice. If you have any questions or concerns, please consult a legal professional.
-
-</thinking>
-
 # Partial Distribution Of Estate Form - Help Guide
 ## Purpose
 The Partial Distribution Of Estate Form is a document used to divide the assets of a deceased person among their beneficiaries. It outlines the percentage of ownership each beneficiary will receive and the distribution percentage of each asset.

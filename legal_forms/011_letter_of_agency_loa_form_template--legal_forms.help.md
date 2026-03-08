@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to create a Letter Of Agency (LOA) document, which is a legal form that provides a written statement of an agency relationship between an individual (client) and an authorized representative (agent). The LOA form template is designed to gather essential information about the client and the agent, including the client's name, the agent's name, the date of service, and other relevant details.
-The form's purpose is to provide a clear and concise record of the agency relationship, which can be used for various purposes such as establishing business partnerships, client-agency agreements, or simply to document an agency's role in a particular context.
-To avoid duplication, it is recommended to use this form template for general purposes only, and not to create multiple versions with minor variations.
-This form template is an original adaptation of public survey metadata and is not affiliated with, endorsed by, or derived from any form platform.
-</thinking>
-
 # Letter Of Agency LOA Form Template - Help Guide
 ## Purpose
 This form template is designed to create a Letter Of Agency (LOA) document, which is a legal form that provides a written statement of an agency relationship between an individual (client) and an authorized representative (agent).

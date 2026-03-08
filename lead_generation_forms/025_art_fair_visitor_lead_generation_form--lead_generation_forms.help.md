@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture contact information from potential art buyers, enabling the art fair to generate leads and follow up with relevant information and offers. 
-The form is divided into several sections, allowing users to input their contact details, indicate their interests and preferences for art, and specify how they would like to be followed up. 
-The form is used to generate leads for the art fair, which can be used for marketing and sales purposes. 
-We should check that this form is not being used as a duplicate entry method. 
-
-This form will help the art fair in generating qualified leads and provide a way for the visitors to provide their feedback about the fair. 
-</thinking>
-
 # Art Fair Visitor Lead Generation Form - Help Guide
 
 ## Purpose

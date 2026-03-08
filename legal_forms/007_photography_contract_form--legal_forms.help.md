@@ -1,7 +1,3 @@
-<thinking>
-This is a form for creating a photography contract between the photographer and the client. The form is designed to collect essential information about the client, the photography session, and the payment details. 
-It is used to formalize the agreement between the parties involved, ensuring clarity on the terms of the contract.
-</thinking>
 # Photography Contract Form - Help Guide
 ## Purpose
 This form is designed to create a photography contract between the photographer and the client, outlining the essential details of the photo shoot, payment, and other relevant information.

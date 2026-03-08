@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HVAC Control System Request Form - Help Guide
 
 ## Purpose

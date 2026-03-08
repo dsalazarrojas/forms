@@ -1,7 +1,3 @@
-<thinking> 
-  The form "Ebrons-Credit-Application" is a comprehensive loan application form used to collect relevant information from customers to process their credit requests. This form should only be filled out by customers who have been approved for a credit line with Ebrons and are seeking to apply for a loan. The purpose of this form is to gather necessary details to assess the loan status and provide an output file with the loan details. Please ensure you have received approval for a credit line before filling out this form. 
-</thinking>
-
 # Ebrons-Credit-Application - Help Guide
 ## Purpose
 The Ebrons-Credit-Application form is designed to collect information from customers to assess their loan status. It is only intended for customers who have been pre-approved for a credit line. 

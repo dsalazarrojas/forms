@@ -1,7 +1,3 @@
-<thinking>
-The Grocery Outlet Application Form is used for customers to apply for job positions at the Grocery Outlet store. This form collects personal and professional information from applicants, including their employment status, work schedule, and job category. The form also includes an upload section for resumes and portfolios. The form should only be filled out once per applicant. 
-</thinking>
-
 # Grocery Outlet Application Form - Help Guide
 ## Purpose
 The Grocery Outlet Application Form is used to collect information from customers who are interested in applying for job positions at the Grocery Outlet store.

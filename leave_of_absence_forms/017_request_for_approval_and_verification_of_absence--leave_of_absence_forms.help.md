@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request and verify absences from work. It is intended for employees who need to take a leave of absence for various reasons, such as illness, vacation, or bereavement. The form is designed to collect necessary information from the employee and the approver, including the start and end dates of the absence, the reason for the absence, and the approver's contact information. The form should only be used for approved absences, and the approver must verify the request before submitting it.
-
-Before proceeding, please ensure that you are submitting this form for a legitimate reason and that the necessary fields are filled out correctly. If you are unsure about any of the fields, please refer to this help guide for more information.
-
-Please note that this form is not intended for emergency or urgent absences. If you have an urgent matter that requires immediate attention, please contact your supervisor or HR representative directly.
-</thinking>
-
 # Request For Approval And Verification Of Absence - Help Guide
 ## Purpose
 This form is used to request and verify absences from work for employees. It collects necessary information from the employee and the approver to ensure that the absence is approved and verified correctly.

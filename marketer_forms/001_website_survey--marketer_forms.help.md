@@ -1,14 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Website Survey form, we need to clearly explain the purpose, completion process, and the meaning of each field.
-
-The primary purpose of this form is to collect feedback from users about the website. This feedback will help the website owners understand their users' opinions, experiences, and suggestions, allowing them to improve the website and provide a better user experience.
-
-The form will help us understand what users think about the website, their email address (if they provide it), their experience on the website, what they think the website could improve, how they rate the website, and if they have any suggestions or comments. We will not collect any personal data that could lead to identifying individual users, so the email address is provided voluntarily.
-
-It's essential to ensure that the user understands the form's purpose and how to complete it correctly to gather the most helpful feedback.
-
-</thinking>
-
 # Website Survey - Help Guide
 ## Purpose
 The Website Survey form is designed to collect feedback from users to help us improve our website. We want to hear your honest opinions, experiences, and suggestions to provide a better service.

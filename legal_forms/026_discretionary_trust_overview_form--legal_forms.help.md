@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about a discretionary trust arrangement. A discretionary trust is a type of trust where the trustee has the power to make decisions about the distribution of trust assets without the need for court approval. This form is used to document the details of the trust arrangement, including the grantor, beneficiary, and trust administration. The form is used to assess the trust arrangement's purpose, scope, and terms.
-To ensure the correct use of this form, please review the fields below and ensure that all required fields are completed. If you're unsure about a particular field, please refer to the explanations provided below.
-</thinking>
-
 # Discretionary Trust Overview Form - Help Guide
 ## Purpose
 This form is used to collect information about a discretionary trust arrangement.

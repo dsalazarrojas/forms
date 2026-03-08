@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a Maternity Leave of Absence for an IT employee. The purpose of this form is to gather necessary information from the employee and their manager to process the leave request. The form should only be completed by IT employees who are requesting a maternity leave. It is not meant to be filled out by non-IT employees or for other types of leave requests. Please ensure that you have not already submitted a request for the same period of time before filling out this form.
-</thinking>
-
 # Maternity Leave Of Absence Request (IT Employee) - Help Guide
 ## Purpose
 This form is used to request a Maternity Leave of Absence for IT employees. It is intended for use by IT employees who are expecting a child and need to take time off from work due to maternity leave.

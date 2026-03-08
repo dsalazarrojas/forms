@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by employees to request a leave of absence for various reasons. The form is used by HR and management to review and process leave requests, ensuring that all necessary information is collected and that the request is properly evaluated and approved. This form should only be filled out by employees who are requesting time off for a legitimate reason and not for any other purpose. Please ensure you only fill out this form if you are actually requesting leave, and avoid filling out duplicate requests or submitting fake information.
-</thinking>
-
 # leave_application_form - Help Guide
 ## Purpose
 The leave application form is a document used to request a leave of absence for various reasons, including vacation, sick leave, or parental leave. This form helps HR and management review and process leave requests, ensuring all necessary information is collected and the request is properly evaluated and approved.

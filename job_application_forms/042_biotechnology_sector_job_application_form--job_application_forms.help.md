@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help us get to know you better and understand how you fit the requirements for the Biotechnology Sector job we are looking to fill. We will review your submitted form to see if you meet the qualifications for this position. Please ensure that you provide accurate and honest information throughout the form. We also want to emphasize that the form should only be completed by individuals who are interested in the position we are offering. If you are not, kindly do not submit this form as it will be a waste of time for both of us.
-</thinking>
-
 # Biotechnology Sector Job Application Form - Help Guide
 
 ## Purpose

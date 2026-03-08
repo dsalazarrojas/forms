@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Foster Care Leave Form - Help Guide
 
 ## Purpose

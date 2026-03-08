@@ -1,5 +1,3 @@
-<thinking>This form is a weekly check-in form designed to help users provide feedback and insights on their experience with the service. It aims to gather information on their current mood, satisfaction level, and areas for improvement. The form consists of multiple questions that cater to different aspects of the service, allowing users to share their thoughts, suggestions, and concerns in a structured and concise manner. This form is meant to be completed on a weekly basis, providing an opportunity for the service providers to regularly evaluate and improve their service based on user input.</thinking>
-
 # Weekly Check In - Help Guide
 ## Purpose
 The Weekly Check In form is designed to gather feedback and insights from users on their experience with the service. This form helps the service providers to understand user satisfaction, areas of improvement, and gather suggestions.

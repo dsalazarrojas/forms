@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a generic form designed to collect information from customers or clients ordering a Factory Equipment Documentation Kit. The form likely serves as a template for companies to gather necessary details to fulfill orders, including company name, equipment ordered, delivery details, order date, shipping address, phone number, email, contact person, order notes, and delivery instructions. Before proceeding, please ensure you have all the necessary information and permissions to complete the form accurately. If you have any doubts or questions, refer to your internal documentation or contact the relevant personnel.
-</thinking>
-
 # Factory Equipment Documentation Kit Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers or clients for a Factory Equipment Documentation Kit order. It will guide you through the necessary steps to provide accurate and complete details for your order.

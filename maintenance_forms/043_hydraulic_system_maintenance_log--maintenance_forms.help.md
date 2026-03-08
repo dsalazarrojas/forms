@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and record maintenance data for hydraulic systems. Maintenance logs are crucial for ensuring that hydraulic systems are properly maintained and serviced to prevent downtime and ensure overall equipment effectiveness.
-</thinking>
-
 # Hydraulic System Maintenance Log - Help Guide
 ## Purpose
 The Hydraulic System Maintenance Log form is intended to collect data on the maintenance and inspection of hydraulic systems, allowing operators to track and record critical maintenance information.

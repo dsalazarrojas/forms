@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information from applicants who are interested in applying for a Marketing Lead Generation Specialist position within our company. The form is designed to collect basic contact information and skills relevant to the job role. The purpose of this form is to allow applicants to provide their application details in a structured and organized manner, making it easier for our recruitment team to review and process their applications.
-
-The form is not intended to be a comprehensive or exhaustive assessment of the applicant's qualifications or experience, but rather a way to get started with their application process.
-
-We expect applicants to be honest and accurate when providing their information, as this will be the first point of contact between the applicant and our team.
-
-</thinking>
-
 # Marketing Lead Generation Specialist Application Form - Help Guide
 ## Purpose
 This form is a simple application form designed to collect basic contact information and skills relevant to a Marketing Lead Generation Specialist position within our company.

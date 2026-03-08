@@ -1,8 +1,3 @@
-<thinking> 
-We need to ensure that the form is being used correctly and consistently, without duplication or misinterpretation. This guide is for end-users who will be filling out the "Organo Gold Join My Team Stormy" form. It's meant to be a clear and concise resource to help users understand the form's purpose and fields. The form is intended to gather information from individuals interested in joining the team, providing an opportunity for them to showcase their skills and connect with the team. 
-
-</thinking>
-
 # Organo Gold Join My Team Stormy - Help Guide
 ## Purpose
 The "Organo Gold Join My Team Stormy" form is used to gather information from individuals interested in joining the Organo Gold team. This form is meant to collect relevant details about the user, including their email, phone number, name, note, and preferences for joining the team.

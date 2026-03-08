@@ -1,12 +1,3 @@
-<thinking>
-The form is used to request time off for part-time employees. 
-This form is intended for part-time employees who are requesting time off for a specific period of time. 
-The form requires information such as the start and end dates of the time off, the duration of the time off, and the reason for the request.
-The form also requires the submitter's contact information, including their name, email, and phone number.
-The purpose of this form is to ensure that part-time employees can request time off in a structured and organized manner, making it easier for the management to review and approve or deny the request.
-This form is designed to be completed by part-time employees who are seeking time off for a specific reason, such as vacation, illness, or family leave.
-</thinking>
-
 # part_time_employee_time_off_form - Help Guide
 ## Purpose
 This form is used to request time off for part-time employees.

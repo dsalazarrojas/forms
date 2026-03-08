@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to request bereavement leave, allowing employees to take time off following the passing of a family member or loved one. This form should only be used for legitimate bereavement purposes, and the information provided will be used to process and handle the request accordingly.
-
-When filling out this form, please ensure that you have the necessary information and approvals before submitting it. This form should not be used to request vacation or other types of leave.
-
-Before completing this form, review the "Field-by-Field Explanation" section below to ensure you understand each field's purpose and requirements.
-
-</thinking>
-
 # Bereavement Leave Form - Help Guide
 ## Purpose
 The Bereavement Leave Form is used by employees to request leave from work following the passing of a family member or loved one. This form is necessary to ensure that your request is properly processed and handled in accordance with company policies.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to record and document information about permanent makeup treatments. Permanent makeup, also known as micropigmentation, is a form of body art that involves implanting pigment into the skin for cosmetic purposes. This form will help you keep track of each treatment session, including the area treated, date of the procedure, client's name, technician's name, notes on the treatment, and follow-up dates. 
-
-The form will not be shared with or sold to any third-party organization or individual. You are free to use, modify, and share the form as per the license granted.
-
-This form is part of a public metadata, and as such, it has not been affiliated or endorsed by any specific platform, but rather, an original adaptation of the public metadata.
-
-Before filling out this form, please make sure that the provided information is accurate and up-to-date. You may refer to any relevant medical literature or consult with a qualified professional to ensure the information provided is correct and in line with current best practices.
-</thinking>
-
 # Permanent Makeup Treatment Record Form - Help Guide
 ## Purpose
 This form is designed to record and document information about permanent makeup treatments. It is meant to be used for keeping track of each treatment session.

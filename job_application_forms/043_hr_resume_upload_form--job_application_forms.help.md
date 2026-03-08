@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for HR personnel and job applicants who need to upload a resume for job applications. The purpose of this form is to gather information from job applicants and store it in the system for easy reference. The form is designed to be completed by job applicants, and the information collected will be used to evaluate their application. Please ensure that you are only accessing this form if you are a valid job applicant or HR personnel authorized to access applicant information.
-</thinking>
-
 # HR Resume Upload Form - Help Guide
 ## Purpose
 The HR Resume Upload Form is designed for job applicants to upload their resume and provide required information for the job application process. This form collects relevant details for the HR department to evaluate and manage job applications efficiently.

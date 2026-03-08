@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect email addresses from users interested in signing up for email newsletters, promotions, or other types of email communications. The form is intended for marketers, businesses, or organizations looking to build an email list. It is an AI-generated form, based on public survey topics in the "marketer_forms" category.
-</thinking>
-
 # Email Signup Form - Help Guide
 ## Purpose
 This form is used to collect email addresses from users interested in signing up for email communications from your business or organization.

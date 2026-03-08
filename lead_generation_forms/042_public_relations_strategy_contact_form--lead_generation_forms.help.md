@@ -1,10 +1,3 @@
-<thinking>
-This form is a contact form designed to collect information from visitors to the public relations department of a company. It is intended to be used by individuals who need to contact the public relations department to inquire about a specific project or to provide feedback. The form is not meant to be used for general inquiries or sales pitches, but rather for those who have a specific interest in the company's public relations strategy.
-
-Before filling out this form, please ensure that you have not already contacted the public relations department and that your inquiry is not a duplicate of an existing issue. 
-
-</thinking>
-
 # public_relations_strategy_contact_form - Help Guide
 ## Purpose
 This form is for individuals who need to contact the public relations department for a specific project or to provide feedback. It's meant for inquirying about a particular topic or issue, not for general or sales-related inquiries.

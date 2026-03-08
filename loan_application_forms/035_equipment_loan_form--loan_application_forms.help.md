@@ -1,9 +1,3 @@
-<thinking>
-This form is used for customers to submit loan applications for equipment financing. The form is designed to gather relevant information from the customer to evaluate their loan request. This guide is intended to provide a clear understanding of the form's purpose and each field's meaning to ensure accurate and efficient completion of the form.
-
-It's essential to review this form carefully and make sure it's not being used to duplicate another form with similar fields. This form's fields should only be used for equipment loan requests and not for other types of financial requests.
-</thinking>
-
 # equipment_loan_form - Help Guide
 ## Purpose
 

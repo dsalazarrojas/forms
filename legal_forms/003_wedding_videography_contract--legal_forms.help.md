@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for capturing information from a client (customer) for a wedding videography service. The form gathers essential details about the client and their wedding event, including customer information, wedding details, and contact information. It also captures the client's consent, email, phone number, and signature. This form helps the videographer (service provider) to prepare for the event and ensures a smooth experience for both parties. The fields are mostly optional, indicating that the form is not a legally binding agreement but rather a guide for the videographer to follow. This form is likely used to supplement or as a guide for the videographer's existing contracts or agreements.</thinking>
 
 # Wedding Videography Contract - Help Guide

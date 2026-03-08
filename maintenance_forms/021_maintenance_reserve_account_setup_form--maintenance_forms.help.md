@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to set up a maintenance reserve account, which is a type of account used to fund and manage maintenance and repair activities for a property. This form is used to collect relevant information about the property and the maintenance request, such as the type of maintenance, the date and time of the request, and the contact information of the requester. Before proceeding, please ensure you have a clear understanding of the property and the maintenance request details. This form should only be filled out once for each maintenance request, and the information provided should be accurate and complete to ensure proper processing.
-</thinking>
-
 # Maintenance Reserve Account Setup Form - Help Guide
 ## Purpose
 This form is used to set up a maintenance reserve account for a property.

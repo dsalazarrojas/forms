@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather information on the production process of ethanol, which is a crucial aspect of the manufacturing industry. To ensure that the form is used correctly, it's essential to follow the guidelines and explanations provided in this help guide. Before proceeding, please make sure you are using this form for its intended purpose and that you've reviewed the information provided here to avoid duplication of efforts.
-
-</thinking>
-
 # Ethanol Production Process Survey - Help Guide
 ## Purpose
 This form collects information on the production process of ethanol, which includes details on production capacity, operational hours, and production shifts. The gathered data will help in understanding the ethanol production process better.

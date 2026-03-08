@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Timesheet Template - Help Guide
 ## Purpose
 The Employee Timesheet Template is a form used to record employee time spent on various tasks and projects. This form captures employee-specific information, time entries, and approval status to facilitate accurate time tracking and management.

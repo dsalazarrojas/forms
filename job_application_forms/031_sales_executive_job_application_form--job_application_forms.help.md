@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect application information from individuals interested in sales executive roles within our organization. The form should be used to gather detailed and accurate information about the applicant's qualifications, experience, and preferences. Before filling out this form, please ensure you have read and understood our company's policies and procedures. If you have applied to a sales executive role previously, please do not submit another application. Duplicate applications will not be considered.
-</thinking>
-
 # Sales Executive Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect application information from individuals interested in sales executive roles within our organization. It will be reviewed by our hiring team to evaluate your qualifications and suitability for the position.

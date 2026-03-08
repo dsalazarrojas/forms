@@ -1,34 +1,3 @@
-<thinking>
-
-This form is designed to gather client information, service details, and quote terms for a legal compliance quotation. It is intended for internal use by legal professionals to create a formal quote that meets the client's needs and ensures compliance with applicable laws and regulations. The form should only be completed by authorized personnel and not shared with clients without proper review and approval.
-
-The form has multiple pages, each with a specific set of fields, and the user is required to complete all fields marked as "required" before proceeding to the next page. The fields are:
-
-*   Client Information: This page collects basic information about the client, such as their name and contact details.
-*   Service Information: This page allows the user to select the type of service they wish to provide, such as a client agreement or document signing.
-*   Quote Details: This page collects the details of the quote, including the quote price and date.
-*   Quote Terms: This page collects any additional terms and conditions that apply to the quote.
-*   Payment Information: This page collects payment details.
-*   Quote Footer: This page allows the user to add any additional information to the quote.
-*   Terms and Conditions: This page collects the terms and conditions that apply to the quote.
-*   Signature Block: This page collects the client's signature.
-*   Payment Terms: This page collects payment terms.
-*   Billing Address: This page collects the billing address.
-*   Email: This page collects the client's email address.
-*   Phone: This page collects the client's phone number.
-*   Notes: This page collects any additional notes about the client.
-*   Signature Date: This page collects the date of the client's signature.
-*   Billing Terms: This page collects billing terms.
-*   Quote Number: This page collects the quote number.
-*   Quote Date: This page collects the date of the quote.
-*   Client Name: This page collects the name of the client.
-*   Quote Price: This page collects the quote price.
-*   Client Company: This page collects the name of the client's company.
-*   Quote Terms Accepted: This page collects whether the client has accepted the quote terms.
-*   Quote Signed: This page collects whether the quote has been signed by the client.
-
-</thinking>
-
 # Legal Compliance Quotation Form - Help Guide
 ## Purpose
 

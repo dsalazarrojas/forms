@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information from users to set up a Facebook Fan Page for their business or service. This form is used to ensure that the setup process is done accurately and consistently. To avoid duplication, please do not submit multiple requests for the same setup. If you are unsure about any field or need help with the setup process, please reach out to our support team.
-</thinking>
-
 # Facebook Fan Page Setup Request Form - Help Guide
 ## Purpose
 This form is used to set up a Facebook Fan Page for your business or service. Please fill out this form accurately and completely to ensure that your Fan Page is set up correctly.

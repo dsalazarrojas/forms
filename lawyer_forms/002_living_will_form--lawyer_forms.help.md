@@ -1,6 +1,3 @@
-<thinking>
-This is a living will form, which is a legal document that outlines the wishes of an individual regarding the distribution of their assets after they pass away. The form is used to specify how the assets should be distributed among beneficiaries, including the percentage of assets to be left for each beneficiary, the assets themselves, and the executor's contact information. The purpose of this form is to ensure that the individual's wishes are respected after they pass away, and to provide a clear outline for the executor to follow. 
-</thinking>
 # Living Will Form - Help Guide
 ## Purpose
 The Living Will Form is a legal document that outlines the wishes of an individual regarding the distribution of their assets after they pass away. It is essential to complete this form accurately and comprehensively to ensure that your wishes are respected and your assets are distributed as you desire.

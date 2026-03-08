@@ -1,30 +1,3 @@
-<thinking>
-To ensure that the form is used correctly and to avoid duplication, this form is intended for users who want to opt in to receive email communications from the form's administrator. The form is not suitable for users who do not want to receive email communications. 
-
-This form is a simple opt-in form designed to collect basic information from users. It consists of a selection of radio buttons and text fields. 
-
-The form has four fields: Email Opt In Form, Email Address, Consent, Company, Department, Job Title, Role, Name, Title. 
-
-The first field, Email Opt In Form, is a required select one field that asks the user to choose between two options, Form Name and Alternative Form Name. 
-
-The second field, Email Address, is a required email field that asks the user to enter their email address. 
-
-The third field, Consent, is a required select one field that asks the user to agree or disagree to be added to the email list. 
-
-The fourth field, Company, is an optional text field that asks the user to enter their company name. 
-
-The fifth field, Department, is an optional text field that asks the user to enter their department. 
-
-The sixth field, Job Title, is an optional text field that asks the user to enter their job title. 
-
-The seventh field, Role, is an optional text field that asks the user to enter their role. 
-
-The eighth field, Name, is an optional text field that asks the user to enter their name. 
-
-The ninth field, Title, is an optional text field that asks the user to enter a title.
-
-</thinking>
-
 # EMail Opt In Form - Help Guide
 ## Purpose
 The EMail Opt In Form is a simple form designed to collect basic information from users who want to opt-in to receive email communications.

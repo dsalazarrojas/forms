@@ -1,7 +1,3 @@
-<thinking>
-This form is used for applicants to fill out their information for a job application in Spanish. It's essential to ensure that the applicant's details are accurate and complete for a smoother hiring process. Before proceeding, ensure you're filling out this form in the context of a Spanish job application. If you've already completed a similar form for the same position, please note that this form is designed to collect additional or updated information and may not be necessary to be filled out again.
-</thinking>
-
 # spanish_job_application_form - Help Guide
 ## Purpose
 This form is designed to collect personal details from applicants for a job application in Spanish. Please fill out the form accurately and completely to ensure a successful job application process.

@@ -1,9 +1,3 @@
-<thinking>
-This form is for generating leads for industrial lighting systems, a category within the field of electrical systems. It appears to be a contact form for companies or organizations to inquire about or provide information about a project. Each field is designed to gather specific information from the user. The fields should be filled out by the intended company representative or person in charge of the project to provide the most accurate and relevant information. 
-
-To ensure that the form is being used correctly, please fill out each field with the most accurate and complete information possible. 
-</thinking>
-
 # industrial-lighting-systems-contact-form - Help Guide
 
 ## Purpose

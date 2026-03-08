@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to contact the GDPR department for any questions, concerns, or requests. The form should be completed by individuals seeking assistance or information from the GDPR department. It is essential to ensure that the form is filled out accurately and completely to facilitate prompt and effective response from the GDPR department. Please review the form carefully and submit it only if the purpose aligns with your needs.
-</thinking>
-
 # GDPR Contact Form - Help Guide
 ## Purpose
 This form is designed for individuals to contact the GDPR department with questions, concerns, or requests related to data protection and regulatory compliance.

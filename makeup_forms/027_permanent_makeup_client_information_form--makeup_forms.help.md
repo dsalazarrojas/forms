@@ -1,7 +1,3 @@
-<thinking>
-The Permanent Makeup Client Information Form is designed to collect essential client information for permanent makeup services. This form aims to gather details about the client's identity, contact information, and medical history for the purpose of providing personalized services. The form will be used to streamline the process of understanding client needs and requirements, ensuring accurate and effective permanent makeup services are provided.
-</thinking>
-
 # Permanent Makeup Client Information Form - Help Guide
 ## Purpose
 The Permanent Makeup Client Information Form is a tool designed to collect essential information from clients before providing permanent makeup services. This form helps to gather details about the client's identity, contact information, and medical history to ensure accurate and effective services are provided.

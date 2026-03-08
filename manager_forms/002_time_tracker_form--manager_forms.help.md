@@ -1,14 +1,3 @@
-<thinking>
-The Time Tracker Form is a tool used to track the time spent on various projects and tasks. It is likely used by project managers or team leads to monitor and record the time spent by employees on different tasks and projects. This form likely serves as a way to gather information on the time spent on projects, track progress, and make data-driven decisions.
-
-The form is likely used by both employees and managers, with employees filling out the form to report their time spent on projects, and managers reviewing and updating the data.
-
-The form consists of various fields that collect information on project details, employee details, and time spent on projects.
-
-Before starting, ensure you have the required fields filled out and have the necessary permissions to access the form. 
-
-</thinking>
-
 # Time Tracker Form - Help Guide
 ## Purpose
 The Time Tracker Form is used to track the time spent by employees on various projects. It helps monitor and record time spent on projects, allowing project managers to make data-driven decisions.

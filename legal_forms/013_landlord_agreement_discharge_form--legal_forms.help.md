@@ -1,7 +1,3 @@
-<thinking>
-This form is used to discharge a landlord agreement, which is a legal document that outlines the terms and conditions of a rental property. It's an important form to complete accurately and carefully, as it can affect the rights and responsibilities of both the landlord and the tenant.
-</thinking>
-
 # Landlord Agreement Discharge Form - Help Guide
 ## Purpose
 This form is used to discharge a landlord agreement, which is a legal document that outlines the terms and conditions of a rental property.

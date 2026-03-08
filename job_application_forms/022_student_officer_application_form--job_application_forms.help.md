@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from students interested in applying for a student officer position within an organization. 
-The form is meant to be used by students who want to apply for a specific position, and by filling it out, they will be able to express their interest and qualifications for the role.
-This guide is meant to be used in conjunction with the actual form, which is an adaptation of a publicly available template.
-
-</thinking>
-
 # Student Officer Application Form - Help Guide
 ## Purpose
 This guide explains how to complete the Student Officer Application Form. 

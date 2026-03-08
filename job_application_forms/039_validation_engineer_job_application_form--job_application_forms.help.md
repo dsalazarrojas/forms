@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals applying for a validation engineer position, likely in a data-related field. The form aims to gather details such as the applicant's name, contact information, the position they're applying for, resume, job history, skills, and education background. This form is intended for internal use within a company or organization and is likely used in the hiring process for a validation engineer role.
-
-The form is not intended to be a comprehensive or official application form, but rather a simplified version designed to provide basic information for initial assessment. 
-
-Please note that the form does not include fields such as job description, work experience, or specific company requirements which are commonly found in more extensive job application forms.
-</thinking>
-
 # validation_engineer_job_application_form - Help Guide
 ## Purpose
 This form is designed to collect basic information from individuals applying for a validation engineer position.

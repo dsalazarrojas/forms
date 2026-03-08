@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that this form is for what it's intended to be: A Faculty Sabbatical Leave Of Absence Application. This form should only be used by faculty members who are applying for a sabbatical leave of absence, and not for any other purpose. We also need to check that this form isn't being used in error, as a sabbatical leave of absence is a specific type of leave that requires a unique set of circumstances and approvals.
-</thinking>
-
 # Faculty Sabbatical Leave Of Absence Application - Help Guide
 ## Purpose
 The Faculty Sabbatical Leave Of Absence Application form is for faculty members who are requesting a sabbatical leave of absence for a specific period. This form helps us understand the reasons behind the request and ensures that the necessary steps are followed to approve or decline the leave.

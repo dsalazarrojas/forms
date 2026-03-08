@@ -1,7 +1,3 @@
-<thinking>
-The form is used for accessing the loan application portal. This is a crucial step in the loan process, as it allows individuals or businesses to access a secured portal where they can view and manage their loan applications. This form should only be used by authorized individuals, and the purpose of this help guide is to ensure that users understand its correct completion and usage. It is essential that users do not attempt to access the portal using this form if they do not have the necessary permissions. 
-</thinking>
-
 # Loan Application Portal Access Form - Help Guide
 
 ## Purpose

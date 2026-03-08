@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a sample application form for job seekers to provide their contact information, education history, work experience, and references. It's meant to be a basic template for users to fill out, with each field allowing for a brief description or answer. This form is intended for general use and may not be tailored to a specific industry or company. Please ensure that the information you provide is accurate and honest. If you're unsure about any field, please ask for clarification.
-</thinking>
-
 # Sample Application Form - Help Guide
 ## Purpose
 The Sample Application Form is a general template designed to collect basic information from job applicants. It's not a comprehensive form, but rather a starting point for further assessment and evaluation.

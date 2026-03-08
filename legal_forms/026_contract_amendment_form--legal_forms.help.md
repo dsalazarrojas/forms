@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contract Amendment Form - Help Guide
 
 ## Purpose

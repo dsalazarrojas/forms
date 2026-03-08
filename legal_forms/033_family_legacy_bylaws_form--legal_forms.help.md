@@ -1,7 +1,3 @@
-<thinking>
-The Family Legacy Bylaws Form is used to document the values and guiding principles of a family business. It provides a framework for family members to articulate their shared vision, decision-making structures, and review processes. This form is typically used during family meetings or workshops to ensure that all family members are on the same page and can make informed decisions. By filling out this form, family members can clarify their expectations, roles, and responsibilities, reducing misunderstandings and promoting a clear understanding of their collective vision.
-</thinking>
-
 # Family Legacy Bylaws Form - Help Guide
 ## Purpose
 The Family Legacy Bylaws Form is a document that outlines the key principles and guidelines for your family's business and decision-making processes. It is used to define your family's vision, values, and rules for making decisions and interacting with each other.

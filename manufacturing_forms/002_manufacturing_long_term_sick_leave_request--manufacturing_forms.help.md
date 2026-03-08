@@ -1,29 +1,3 @@
-<thinking>
-To determine the best course of action, let's break down the form's purpose and fields. The form appears to be a request for long-term sick leave, likely used to report and approve employee absences due to illness or injury that exceeds a certain period. The form's purpose is to provide a structured process for submitting and managing these requests.
-
-The following fields are likely involved in the approval and tracking process:
-
-*   *User ID* (Field 1): A unique identifier for the employee submitting the request.
-*   *Start Date* (Field 2) and *End Date* (Field 3): Used to specify the duration of the leave.
-*   *Reason* (Field 4): Allows the employee to provide a brief explanation for their leave.
-*   *Number of Days Required* (Field 5): Used to request a specific number of days off.
-*   *Department* (Field 6): Specifies the department of the employee submitting the request.
-*   *Approver Name* (Field 7): The name of the approver responsible for approving or denying the request.
-*   *Submitter Name* (Field 8) and *Submitter Email* (Field 9): Identifies the employee submitting the request and their contact information.
-*   *Approver Email* (Field 10): The contact information of the approver.
-*   *Comments* (Field 11): Allows the employee to add additional comments or context for the request.
-*   *Attachment* (Field 12): Possibly used to attach supporting documentation, such as medical records or proof of illness.
-*   *Submission Date* (Field 13), *Approved Date* (Field 14), *Declined Date* (Field 15): Timestamps for the request submission, approval, and denial.
-*   *Comments Approved* (Field 16): Additional comments from the approver.
-*   *Attachment Approved* (Field 17): Possibly used to attach supporting documentation for approval.
-*   *Approver Comments* (Field 18): Comments from the approver.
-*   *Status* (Field 19): Tracks the current status of the request (Pending, Approved, Declined, Reopened).
-*   *Submitted By* (Field 20), *Submitted On* (Field 21), *Approved By* (Field 22), *Approved On* (Field 23), *Declined By* (Field 24), *Declined On* (Field 25): Timestamps and identifiers for the submitter and approver.
-
-Before proceeding, please check that the form is relevant to your situation and not a duplicate request. If you're unsure, please contact your HR representative or relevant department manager for clarification.
-
-</thinking>
-
 # Manufacturing Long Term Sick Leave Request - Help Guide
 ## Purpose
 The Manufacturing Long Term Sick Leave Request form is used to submit a request for extended sick leave from work due to illness or injury. This form provides a structured process for employees to submit their requests, allowing for easy tracking and management of absences.

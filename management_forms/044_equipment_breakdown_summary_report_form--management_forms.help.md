@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information about equipment failures, their causes, and the methods used to repair them. This form is used to create a summary report of equipment breakdowns, which can be used for maintenance and inventory management purposes. By completing this form, users can provide detailed information about the status of equipment, which can help identify patterns and trends in equipment failures. This form should not be used to report non-existent or non-relevant issues. Users should only report equipment that has actually failed or been repaired...</thinking>
-
 # equipment_breakdown_summary_report_form - Help Guide
 ## Purpose
 The equipment breakdown summary report form is used to gather information about equipment failures, their causes, and repair methods. This form helps identify patterns and trends in equipment failures, enabling effective maintenance and inventory management.

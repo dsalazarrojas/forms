@@ -1,5 +1,3 @@
-<thinking>This form is for requesting maintenance tools, equipment, or services related to aviation. It is used by employees to submit a formal request for a tool or service, specifying the type of request, the date of the request, their personal details, the tool(s) they need, and any additional information required. The form ensures that the requester has provided all necessary information for the maintenance team to process the request efficiently. It also helps track the request's status and ensure that the supervisor has approved it. This form should be used for new tool requests, replacement tools, calibration services, tool repairs, special tool rentals, consumable supplies, or other types of requests.</thinking>
-
 # Aviation Maintenance Tools Requisition Form - Help Guide
 ## Purpose
 The Aviation Maintenance Tools Requisition Form is used to request maintenance tools, equipment, or services related to aviation. It ensures that the requester provides all necessary information for the maintenance team to process the request efficiently.

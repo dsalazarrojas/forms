@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for daily team huddles, a recurring meeting for teams to share updates, concerns, and priorities. The form should be completed on a daily basis to ensure team members are aware of each other's progress and to establish a clear understanding of the team's overall status.
-</thinking>
-
 # Daily Team Huddle Report Form - Help Guide
 ## Purpose
 The Daily Team Huddle Report Form is a tool for teams to report their progress, address concerns, and set priorities for the day. This form helps maintain open communication, ensures everyone is on the same page, and provides a clear picture of the team's overall status.

@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used to collect information from visitors to the Keaveney Legal Group for a free consultation, and it's meant to be completed by individuals who need legal advice or assistance. The form's purpose is to gather essential details about the person seeking consultation and their preferred method of communication. 
-
-Before proceeding, please make sure this is the correct form to submit and that you're not duplicating a consultation request. If you're unsure, you can contact the Keaveney Legal Group directly to clarify.
-</thinking>
-
 # keaveney legal group free consultation 2 - Help Guide
 ## Purpose
 

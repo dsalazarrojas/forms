@@ -1,6 +1,3 @@
-<thinking>
-Form purpose is a loan authorization form used to gather user information and details for loan purposes such as loan authorization date, authorized parties, and type of loan. This form is not intended for any other use cases. Please review the form carefully to ensure it is filled out with accurate and complete information. Please do not fill this form if you do not have authorization to do so.
-</thinking>
 # Loan Authorization Form - Help Guide
 ## Purpose
 This form is used to gather information and authorization for a loan. It includes user information, authorized parties, and details about the loan.

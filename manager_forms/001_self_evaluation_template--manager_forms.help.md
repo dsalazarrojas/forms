@@ -1,13 +1,3 @@
-<thinking>
-
-The self-evaluation template is a tool used for managers to evaluate the performance of their team members. The form is intended to be a flexible and adaptable tool that can be used by managers to provide feedback and assess their team members' progress. 
-
-The form's purpose is to ensure that managers have a consistent and structured approach to evaluating their team members' performance, which will help them to identify areas of improvement and provide constructive feedback. This template should not be seen as a replacement for regular performance evaluations, but rather as a complement to them.
-
-Before starting, please ensure that you have the necessary permissions to access this form and that you have a clear understanding of your team member's role and responsibilities.
-
-</thinking>
-
 # Self Evaluation Template - Help Guide
 ## Purpose
 The Self Evaluation Template is a tool for managers to evaluate the performance of their team members. It helps managers provide feedback and assess progress in a structured and consistent way.

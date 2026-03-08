@@ -1,16 +1,3 @@
-<thinking>
-The Scalp Micro Pigmentation Consent Form is used to obtain informed consent from clients for scalp micro pigmentation treatments. This form is typically used in the context of scalp hair restoration, a non-surgical procedure that involves implanting pigments into the scalp to create the appearance of hair growth. The purpose of this form is to ensure that clients understand the treatment process, potential risks, and benefits before undergoing the treatment.
-
-To complete this form, follow these steps:
-
-1.  The form consists of multiple sections that require different types of information.
-2.  Each section has a unique label and purpose.
-3.  The form must be completed in English.
-
-When filling out the form, please make sure to carefully read each section and provide accurate information.
-
-</thinking>
-
 # Scalp Micro Pigmentation Consent Form - Help Guide
 ## Purpose
 The Scalp Micro Pigmentation Consent Form is used to obtain informed consent from clients for scalp micro pigmentation treatments.

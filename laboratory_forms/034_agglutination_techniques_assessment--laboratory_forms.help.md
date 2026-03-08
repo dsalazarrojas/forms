@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure we're on the same page, the purpose of this form is to assess a technician's skills and knowledge in agglutination techniques. The form is designed to evaluate their understanding of various principles, their ability to execute techniques, and their adherence to safety protocols. Before we dive into the details, let's confirm that this form is a genuine representation of a hypothetical assessment, not affiliated with any form platform, and released under CC BY 4.0.
-
-</thinking>
-
 # Agglutination Techniques Assessment - Help Guide
 ## Purpose
 The Agglutination Techniques Assessment form is designed to evaluate a technician's knowledge and skills in agglutination techniques, covering various aspects of their performance, including theoretical knowledge, practical skills, and adherence to safety protocols.

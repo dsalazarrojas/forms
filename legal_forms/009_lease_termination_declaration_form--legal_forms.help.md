@@ -1,5 +1,3 @@
-<thinking>...this form is intended to be used by landlords to document the termination of a lease agreement. It appears to be a general template for various reasons, including the tenant moving out, the landlord's economic hardship, or the landlord wanting to terminate the lease themselves. The form may also be used to capture specific details related to the termination process, such as the date of termination, the reason for termination, and the notice period provided to the tenant. It seems to be a comprehensive template that covers different scenarios and provides options for capturing other information that may not be explicitly listed in the form... </thinking>
-
 # Lease Termination Declaration Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from candidates applying for a job position. The form's purpose is to gather essential details about the candidate, such as their contact information, work experience, skills, and job preferences. This information will be used by the hiring team to assess the candidate's qualifications and suitability for the position.
-To ensure the form serves its purpose effectively, please note that:
-* This form is intended for job applicants only. Do not use it for other purposes.
-* Each field is designed to collect specific information. Please fill in the required fields accurately and honestly.
-* The form has been optimized for clarity and ease of use.
-</thinking>
-
 # umwt_employment_application - Help Guide
 ## Purpose
 The umwt_employment_application form is a job application form used to collect information from candidates for a job position.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluations from library directors, patrons, and employees. This form aims to gather information about library directors' performances, patron interactions, and employee feedback. Ensure that this form is used for its intended purpose only, and not for other non-related tasks or evaluations.
-
-To avoid duplication of effort and ensure accurate information collection, this form should not be used for the same or similar evaluation purposes in the same library.
-
-When filling out this form, please keep in mind that each field is designed to collect specific information.
-
-</thinking>
-
 # library_director_evaluation_form - Help Guide
 ## Purpose
 The library_director_evaluation_form is designed to collect feedback and evaluations from library directors, patrons, and employees. It's used to assess library director's performance, interactions with patrons, and feedback from employees.

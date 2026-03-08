@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in applying for a Fintech Software Engineer position. It gathers general information about the applicant, their contact details, work experience, education, skills, certifications, and resume attachments. The form is intended to be completed by potential candidates to provide their qualifications for the position. It's essential to fill out the form accurately and thoroughly to ensure that your application is processed correctly. 
-</thinking>
-
 # Fintech Software Engineer Job Application - Help Guide
 ## Purpose
 This guide is designed to help you complete the Fintech Software Engineer Job Application form accurately and efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about their public relations requests, which can include requests for events, meetings, or other activities. This form will help the PR team understand the user's needs and provide a clear and concise way for them to communicate their requirements. Before filling out this form, please ensure that you have not already contacted the PR team about this request, as this form is intended to be a one-time submission. If you have already submitted a request for the same event, please do not resubmit the form.
-</thinking>
-
 # Public Relations Request Form - Help Guide
 ## Purpose
 The Public Relations Request Form is designed to collect information from users about their public relations requests, such as events, meetings, or other activities.

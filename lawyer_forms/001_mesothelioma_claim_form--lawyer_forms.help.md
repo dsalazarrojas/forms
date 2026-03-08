@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used by individuals and medical professionals to submit claims for mesothelioma diagnosis. Mesothelioma is a type of cancer caused by asbestos exposure. This form will help users provide detailed information about the patient's condition, diagnosis, and claim details. 
-
-To ensure that all relevant information is captured and to avoid duplication of effort, please complete this form carefully and accurately. 
-
-</thinking>
-
 # Mesothelioma Claim Form - Help Guide
 ## Purpose
 The Mesothelioma Claim Form is designed to collect information from patients and medical professionals to support claims related to mesothelioma diagnosis. This form helps to streamline the process of submitting claims, making it easier to obtain the necessary information required for processing and review.

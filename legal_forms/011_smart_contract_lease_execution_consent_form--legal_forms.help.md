@@ -1,8 +1,3 @@
-<thinking>
-This form is used for a Smart Contract Lease Execution Consent Form, which is a legal document used to formalize and record a tenant's consent to execute a smart contract for a rental property. This form is likely to be used in a rental context where a smart contract is being used to manage and automate lease agreements. Before creating this guide, ensure that you have already reviewed the form's purpose and that it is relevant to your specific use case. Double-check that you have not created a guide for this form before.
-
-If you're still unsure, please refer to your organization's documentation and/or seek input from your supervisor or legal department before proceeding.</thinking>
-
 # Smart Contract Lease Execution Consent Form - Help Guide
 ## Purpose
 This form is a legal document used to formalize and record a tenant's consent to execute a smart contract for a rental property.

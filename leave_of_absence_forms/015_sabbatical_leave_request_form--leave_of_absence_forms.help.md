@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by employees to request a sabbatical leave, which is an extended period of absence from work. The purpose of this form is to gather information about the employee's leave request, including the dates, reason, and status of the leave. This form will help the management team to assess and process the leave request. Please ensure that you are submitting a valid request and that the information provided is accurate.
-</thinking>
-
 # Sabbatical Leave Request Form - Help Guide
 ## Purpose
 This form is used to request a sabbatical leave, which is an extended period of absence from work.

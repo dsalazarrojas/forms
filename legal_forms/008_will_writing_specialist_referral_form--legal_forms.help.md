@@ -1,7 +1,5 @@
 # Will Writing Specialist Referral Form - Help Guide
 ## Purpose
-<thinking>The purpose of this form is to refer cases to a Will Writing Specialist for review and assistance with estate planning. When filling out the form, please ensure that the information provided is accurate and up-to-date, as it will be shared with the Will Writing Specialist to facilitate their work.</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

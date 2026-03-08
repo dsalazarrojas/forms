@@ -1,9 +1,3 @@
-<thinking>
-In this internal team, it's essential that we confirm the purpose of the Black Friday Flash Sale Sign Up Form is to gather relevant information from customers interested in participating in the Black Friday flash sale. This form should only be used to collect data from customers for the specific Black Friday promotion and not for any other marketing purposes.
-The purpose of this form is to collect personal and sale-specific information from customers, including their full name, email address, phone number, product interest, desired quantity, preferred store location, promotional code (if applicable), and opt-in for marketing communications. This information will help us prepare for the sale and ensure that customers receive timely updates and relevant offers.
-Please note that this form is designed to be completed by customers interested in participating in the Black Friday flash sale. Therefore, it is crucial to be clear about the form's purpose to avoid confusion or miscommunication with customers. 
-</thinking>
-
 # Black Friday Flash Sale Sign Up Form - Help Guide
 ## Purpose
 The Black Friday Flash Sale Sign Up Form is designed to collect information from customers interested in participating in the Black Friday sale.

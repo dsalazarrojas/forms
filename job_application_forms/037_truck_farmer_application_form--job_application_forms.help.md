@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from truck farmers who wish to participate in a program or initiative. The fields are intended to gather relevant details about the applicant, their truck, and their availability for uploads. The form should be completed by a truck farmer who wishes to submit their application. Please ensure you are not duplicating the application, as this will not be processed.
-</thinking>
-
 # Truck Farmer Application Form - Help Guide
 ## Purpose
 The Truck Farmer Application Form is designed to collect information from truck farmers who wish to participate in a program or initiative. This form is used to gather relevant details about the applicant, their truck, and their availability for uploads.

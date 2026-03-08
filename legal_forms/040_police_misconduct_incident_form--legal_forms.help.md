@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document and report incidents of police misconduct. It is intended for use by police departments and law enforcement agencies to gather information about incidents that have occurred involving their officers, including dates, locations, and details of the incidents. This form should not be used for reporting minor incidents or non-serious complaints, but rather for more serious incidents that require formal documentation and investigation. Before filling out this form, please ensure that you are reporting a legitimate incident and not duplicating an existing report.
-</thinking>
-
 # Police Misconduct Incident Form - Help Guide
 ## Purpose
 The Police Misconduct Incident Form is a tool used to document and report incidents of police misconduct. It is intended for use by police departments and law enforcement agencies to gather information about incidents that have occurred involving their officers.

@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients and referrals for the referral program. This form is used to gather data from clients and their referrals, including their names, contact information, and any additional comments. This information is likely used to track and manage referrals within the business or organization.
-
-To ensure you are using the correct form, please verify that your category is "lead_generation_forms" and the title is "Referral Program Form". This form should not be used for other purposes or contexts.
-
-The form has 7 fields:
-
-*   Client information: Collects client details such as name and contact information.
-*   Referral information: Collects referral details such as name and contact information.
-*   Comments: Collects any additional comments or notes about the referral.
-</thinking>
-
 # Referral Program Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients and referrals for the referral program.

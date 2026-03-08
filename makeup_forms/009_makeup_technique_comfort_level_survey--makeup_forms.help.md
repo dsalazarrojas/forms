@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about your comfort level with makeup techniques, as well as your level of confidence, skill, and interest in learning more about makeup. The form is meant to be completed by individuals who have experience with makeup, including professionals, enthusiasts, or those just starting to learn. This form is not intended for minors under the age of 18. If you have already completed this survey, please do not fill it out again.
-</thinking>
-
 # Makeup Technique Comfort Level Survey - Help Guide
 ## Purpose
 This survey is designed to assess your comfort level with various makeup techniques, your confidence in performing those techniques, and other related topics.

@@ -1,7 +1,3 @@
-<thinking>Here's a brief internal reasoning to ensure the form's purpose and requirements are well-understood:
-
-The Seasonal Maintenance Checklist Form is designed to help property owners and managers track and document seasonal maintenance tasks for their properties. This form allows users to select the tasks that need to be performed during each season, note down any relevant details, and keep track of the status and due dates of the maintenance checklists. The form includes options for selecting spring, fall, summer, and winter tasks, as well as an "Others" option for tasks that don't fit into a specific season. The form also asks for property details such as address, owner's name, phone number, and email. The "Maintenance Checklist Notes" fields are meant to provide additional context and notes specific to the property. The status of the maintenance checklist can be selected as "Not started", "Started", or "Completed". Due dates and due times can be optionally set for each checklist. Users can also add comments for future reference.</thinking>
-
 # Seasonal Maintenance Checklist Form - Help Guide
 ## Purpose
 This form is designed to aid property owners and managers in tracking and documenting seasonal maintenance tasks for their properties.

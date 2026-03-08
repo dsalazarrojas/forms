@@ -1,9 +1,3 @@
-<thinking>
-
-We'll be using this form to collect information for new leads generated during trade shows. This form is used for general trade show lead generation, and we don't expect a large volume of leads. The purpose of this form is to capture the essential details needed to create a new lead in our system. Before proceeding, please ensure you're not already handling this lead in another way (e.g., via another form or manual process). If you're unsure, please reach out to your team for clarification.
-
-</thinking>
-
 # Trade Show Lead Form Template - Help Guide
 ## Purpose
 This form is designed to collect information for new leads generated during trade shows.

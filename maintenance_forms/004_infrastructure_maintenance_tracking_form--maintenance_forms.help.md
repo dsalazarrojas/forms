@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information about the infrastructure maintenance needs of facilities within an organization. This form is designed to gather data that will help maintenance teams track and prioritize maintenance requests, ensuring that issues are addressed in a timely and effective manner. Before using this form, make sure you have not used a similar form recently, as this form has been designed to be a one-time solution for most maintenance tasks. If you need to update a maintenance request, please use the updated form.
-</thinking>
-
 # Infrastructure Maintenance Tracking Form - Help Guide
 ## Purpose
 The Infrastructure Maintenance Tracking Form is used to collect and track information about the maintenance needs of facilities within an organization. It is designed to provide a centralized repository for maintenance requests, allowing teams to prioritize and manage maintenance tasks more effectively.

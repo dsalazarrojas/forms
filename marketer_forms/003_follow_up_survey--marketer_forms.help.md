@@ -1,12 +1,3 @@
-<thinking>
-A follow-up survey is a form used to collect customer feedback and ratings on a specific topic or event. This form is designed to gather information on the customer's experience and identify areas for improvement. It helps us understand the customer's perspective and make data-driven decisions to enhance our services.
-
-Before filling out this form, please ensure you have not already submitted a similar survey or feedback. This will help us avoid duplicate responses and ensure we receive accurate and valuable feedback.
-
-This form is composed of multiple sections, each with a specific purpose. Please complete each section according to your genuine thoughts and feelings.
-
-</thinking>
-
 # follow_up_survey - Help Guide
 ## Purpose
 The follow-up survey is a tool used to collect customer feedback and ratings on a specific topic or event.

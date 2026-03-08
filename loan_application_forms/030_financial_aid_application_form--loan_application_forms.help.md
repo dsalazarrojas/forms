@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used for students to apply for financial aid. It collects information about the student's personal details, academic status, and financial circumstances to help determine their eligibility for loans and other forms of financial assistance. This form should not be used for any other purpose than for students seeking financial aid.
-
-</thinking>
-
 # Financial Aid Application Form - Help Guide
 ## Purpose
 This form is used to apply for financial aid as a student. It gathers information about your personal details, academic status, and financial circumstances to help determine your eligibility for loans and other forms of financial assistance.

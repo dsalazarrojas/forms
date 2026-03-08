@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess library program engagement among users, gathering data on their frequency of visits, satisfaction levels, and interests in various programs. To ensure accuracy and efficiency, please complete this form only if you are an actual library user. If you've already filled out this form, please do not submit it again.
-</thinking>
-
 # Library Program Engagement Assessment Form - Help Guide
 ## Purpose
 This form helps us understand your engagement with our library programs and services. Your feedback is valuable in helping us improve and tailor our programs to better meet your needs.

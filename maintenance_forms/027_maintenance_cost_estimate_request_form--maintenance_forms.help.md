@@ -1,7 +1,3 @@
-<thinking>
-Maintenance Cost Estimate Request Form is designed to gather information needed to estimate the cost of maintenance for a job, providing a structured format for technicians to document their time and effort. This form should not be used for actual billing purposes, but rather to aid in the estimation process. Ensure that the information collected is accurate and up-to-date to prevent duplication of efforts. Please fill out the form with accurate details to ensure that maintenance costs are estimated correctly.
-</thinking>
-
 # Maintenance Cost Estimate Request Form - Help Guide
 ## Purpose
 The Maintenance Cost Estimate Request Form is a tool used to estimate the time and cost required for maintenance tasks. This form is designed to be completed by technicians to provide accurate and detailed information about the maintenance process.

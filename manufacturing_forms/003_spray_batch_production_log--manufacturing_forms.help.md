@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide that effectively communicates the purpose and usage of the "Spray Batch Production Log" form, we need to carefully analyze the provided YAML fields. The form's main purpose appears to be for recording and tracking details about production runs, including dates, batch numbers, production line information, and quality inspection status. This is an internal process form for manufacturing teams to document their work.
-
-To confirm, the form is primarily used for tracking and monitoring production progress, with an option to note any issues or comments related to the batch. It does not appear to be used for sales or customer-facing purposes.
-
-To avoid duplication of work, it's essential to clearly explain the form's purpose and usage, so users understand the correct format and content expectations. This will save time and resources in the long run, and help avoid confusion.
-</thinking>
-
 # Spray Batch Production Log - Help Guide
 ## Purpose
 This form is designed to record and track the production details of batches, including production dates, production numbers, production line, and quality inspection status. It helps manufacturing teams monitor and document their work for future reference.

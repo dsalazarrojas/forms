@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Swim Instructor Application Form - Help Guide
 
 ## Purpose

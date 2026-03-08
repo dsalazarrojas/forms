@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is likely to request a power backup system check for a specific building or location, probably after hours or in case of an emergency. This could be for maintenance or repair purposes. The form may need to be filled out by someone who needs to check the power backup system, possibly a technician or a maintenance worker. This form likely needs to be filled out once per visit or request, and the results may be stored for future reference. It's not clear if the form needs to be filled out by someone with specialized knowledge, but it's likely that the person filling it out should have some basic knowledge of power backup systems.
-</thinking>
-
 # Power Backup System Check Request Form - Help Guide
 
 ## Purpose

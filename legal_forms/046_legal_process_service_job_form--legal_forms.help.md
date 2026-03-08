@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a legal process service job. The form will be used by staff to document the details of the job, including the process server's presence or absence, the court date, and other relevant details. This form is likely used by legal process servers or law firms to track and manage their work.
-</thinking>
-
 # Legal Process Service Job Form - Help Guide
 ## Purpose
 The Legal Process Service Job Form is used to document the details of a legal process service job, including the process server's presence or absence and other relevant information.

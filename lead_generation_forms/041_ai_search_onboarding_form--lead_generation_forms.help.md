@@ -1,5 +1,3 @@
-<thinking>...the AI Search Onboarding Form is used to collect information from clients who are interested in implementing AI search solutions. This form is designed to be a comprehensive template for onboarding new clients, ensuring that we get all the necessary information to tailor our services to their specific needs. The form is divided into several sections, each covering a specific aspect of the project. By filling out this form, clients will provide us with valuable insights into their search requirements, industry, and technical needs. This information will help us to provide the most effective solution for their specific use case. Please ensure that you fill out the form accurately and thoroughly to ensure that we can provide the best possible service...</thinking>
-
 # AI Search Onboarding Form - Help Guide
 ## Purpose
 This form is designed to be a comprehensive template for onboarding new clients. It will help us understand your search requirements, industry, and technical needs, ensuring that we can provide the best possible service for your specific use case.

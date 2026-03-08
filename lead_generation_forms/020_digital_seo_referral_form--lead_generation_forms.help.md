@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital_seo_referral_form - Help Guide
 
 ## Purpose

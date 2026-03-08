@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for healthcare professionals to refer clients to senior care services. It captures information related to referrals, including the reason for referral, referral details, contact information, and follow-up data. This form is essential for accurate and efficient referrals to ensure that seniors receive the necessary support and care.
-To use this form, ensure that you have filled out the required fields and that the information provided is accurate and up-to-date. Please note that the form's purpose is to streamline the referral process, and providing incomplete or inaccurate information may lead to delays or complications in the referral process.
-Before proceeding, verify that this form is relevant to your role and the client's situation. In case of any doubts or discrepancies, consult with colleagues or supervisors before completing the form.
-</thinking>
-
 # Senior Care Elder Law Referral Form - Help Guide
 ## Purpose
 This guide provides an overview of the Senior Care Elder Law Referral Form, its purpose, and the steps to complete it accurately.

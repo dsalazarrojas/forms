@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information from clients seeking legal aid and referrals to attorneys. It is designed to be used by legal aid providers to assess a client's situation and determine their eligibility for aid. The form asks for basic contact and demographic information about the client, as well as details about their legal issue, financial situation, and any special needs they may have. The goal is to ensure that the client receives accurate and effective legal representation.
-
-This form is a critical part of the intake process, as it helps legal aid providers to identify potential conflicts and prioritize cases. It should only be used for this specific purpose, and not for any other reason. Please ensure that you are completing this form for the correct reason and that the information you provide is accurate and up-to-date.
-
-</thinking>
-
 # Charity Legal Aid Referral Form - Help Guide
 ## Purpose
 The Charity Legal Aid Referral Form is used to gather information from clients seeking legal aid and referrals to attorneys. This form is a critical part of the intake process, helping legal aid providers to assess and prioritize cases.

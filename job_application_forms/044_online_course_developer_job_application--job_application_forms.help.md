@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a job application form for an "online-course-developer" position. The form likely aims to collect information from candidates about their personal details, qualifications, skills, and experience, as well as their contact and educational background. Before filling out this form, the user should ensure that they are applying for the right position and that the form is not a duplicate attempt. 
-
-The form has 8 fields, and all of them are labeled as "text" type, which suggests that users are expected to provide written answers or upload supporting files.
-
-To ensure a smooth submission process, users should review each field carefully and enter the required information accurately.
-
-</thinking>
-
 # online-course-developer-job-application - Help Guide
 ## Purpose
 This form is for job applicants to provide their information and qualifications for the online-course-developer position.

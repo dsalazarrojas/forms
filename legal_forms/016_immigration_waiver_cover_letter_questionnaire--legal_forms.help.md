@@ -1,7 +1,3 @@
-<thinking>
-This form is used to support immigration waiver requests. The purpose of this form is to provide supporting documentation for immigration waiver applications. The user will need to provide their personal contact information, indicate if they have supporting documents, and indicate the status of their waiver request. This form is designed to gather relevant information for the immigration waiver process.
-
-</thinking>
 # Immigration Waiver Cover Letter Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to provide supporting documentation for immigration waiver requests. This information will be used to facilitate the review and processing of your waiver application.

@@ -1,9 +1,3 @@
-<thinking>
-To prevent potential abuse, we should ensure this form is only accessed by employees who have a genuine need to request time off. This form should only be submitted for legitimate reasons such as vacation, sick leave, or personal reasons. To maintain the integrity of the data collected, we should validate the submitter's information such as their title, department, job title, location, manager, and work number. Additionally, we should ensure that the approver's information such as their name, email, and work number are also validated. 
-This form will be used by HR to review and approve or deny time off requests. The approver will have the option to select "Yes" or "No" to indicate approval or denial of the request. This form should not be used for malicious intent or personal purposes.
-We need to ensure that this form is only used for legitimate time off requests and not for other purposes such as creating fake requests or accessing sensitive HR information.
-</thinking>
-
 # Creative Recharge Leave of Absence Request - Help Guide
 
 ## Purpose

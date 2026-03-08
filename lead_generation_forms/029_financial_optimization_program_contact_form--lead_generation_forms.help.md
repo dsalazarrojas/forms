@@ -1,6 +1,3 @@
-<thinking>
-The form is for users to contact the financial optimization program team to inquire about the program, express interest in it, or provide feedback. The team will review and respond to submissions, potentially guiding the user on the next steps. To ensure the team can effectively assist, the user must provide accurate and relevant information. Please ensure you're using this form for its intended purpose and not submitting duplicate requests.</thinking>
-
 # Financial Optimization Program Contact Form - Help Guide
 ## Purpose
 The Financial Optimization Program Contact Form is designed to allow users to contact the financial optimization program team to inquire about the program, express interest in it, or provide feedback. Fill out this form to get in touch with the team and receive guidance on the next steps.

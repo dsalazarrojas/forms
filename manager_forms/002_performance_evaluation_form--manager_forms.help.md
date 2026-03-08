@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the performance of employees. It captures relevant information about the employee, the performance evaluation date, ratings, comments, and status.
-</thinking>
-
 # Performance Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather information about employee performance evaluations. It is used by managers to assess employee performance, provide feedback, and track employee progress.

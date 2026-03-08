@@ -1,8 +1,3 @@
-<thinking>
-Form purpose is to provide a straightforward way to document and formalize the mutual release agreement between two parties involved in a business or legal matter.
-This form is not a template, but a generated template with specific fields to capture essential information. The form is intended to be used in a business-to-business context, where parties agree to release each other from any obligations, claims, or liabilities.
-</thinking>
-
 # Mutual Release Form - Help Guide
 ## Purpose
 The Mutual Release Form is a document used to formalize the mutual release agreement between two parties. This form helps in providing a clear and concise record of the agreement, making it easier to manage and resolve any future disputes.

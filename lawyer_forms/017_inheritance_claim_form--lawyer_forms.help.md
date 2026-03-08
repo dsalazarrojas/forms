@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information from the claimant regarding their claim for an inheritance. This form will help the claimant provide necessary details about the asset they are claiming and their relationship to the inherited person. It's essential to ensure that the claimant has the required information and fills out the form accurately to avoid any delays or disputes in the inheritance process. This form should only be used for legitimate claims and not for any other purpose. It's also crucial to review and verify the information provided by the claimant to ensure the integrity of the inheritance process.
-</thinking>
-
 # Inheritance Claim Form - Help Guide
 ## Purpose
 The Inheritance Claim Form is designed to collect information from the claimant about their claim for an inheritance. This form helps gather essential details about the asset being claimed and the claimant's relationship to the inherited person.

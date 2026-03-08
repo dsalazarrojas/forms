@@ -1,9 +1,3 @@
-<thinking>
-The provided YAML defines a form used for wholly owned subsidiary incorporation checklists. The form appears to be intended for entities that are undergoing the process of incorporation and needs to track their progress. However, upon closer examination, it seems that the form contains a mix of relevant and non-relevant fields. For instance, the "Entity Type of Entity" fields seem to be redundant and may not be necessary for the incorporation process. Similarly, the "Progress Notes" field appears to be a catch-all for any additional information that doesn't fit into other categories. 
-
-To create a helpful guide, we should focus on the essential fields that are relevant to the incorporation process and provide clear explanations for each field. We will aim to make the guide user-friendly and easy to follow.
-</thinking>
-
 # Wholly Owned Subsidiary Incorporation Checklist - Help Guide
 ## Purpose
 This form is designed to track the progress of a wholly owned subsidiary incorporation process. It will help you keep track of the entity's details, the incorporation progress, and any additional information needed for the process.

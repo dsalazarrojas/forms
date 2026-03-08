@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about a specific production project in the manufacturing process. Its purpose is to gather data on the project details, production benefits, and quality control. This form should only be filled out by authorized personnel who are directly involved in the project.
 
 To complete this form, follow these steps:

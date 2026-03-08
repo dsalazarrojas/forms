@@ -1,12 +1,3 @@
-<thinking>
-To confirm, you want me to create a user-facing help guide for the "Instructor Interest Form" with the following requirements:
-- The form is used for instructors to express their interest in becoming a part of a certain program or initiative.
-- The form is likely used to gather information about the instructor's background, experience, and interest in the program.
-- The form is likely to be used by program administrators or decision-makers to review and manage instructor applications.
-- The form will be used for both internal and external users (instructors applying to become part of the program).
-- The form should be easy to understand and complete for both internal and external users.
-</thinking>
-
 # Instructor Interest Form - Help Guide
 ## Purpose
 The "Instructor Interest Form" is a tool used to gather information from instructors about their background, experience, and interest in a particular program or initiative. This form helps program administrators and decision-makers review and manage instructor applications efficiently.

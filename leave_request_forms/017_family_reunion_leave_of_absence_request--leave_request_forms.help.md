@@ -1,13 +1,3 @@
-<thinking>
-This form is a critical component of our company's leave of absence policy, which is essential for employees to request time off for family reunions. Before proceeding, please ensure that:
-* You have reviewed and understand our company's leave of absence policy, specifically the family reunion leave provisions.
-* You have already discussed and obtained approval from your manager before submitting this form.
-* You are not duplicating an existing leave request, as this form is for new requests only.
-
-Please note that this form is a crucial document, and providing incorrect or incomplete information may result in delayed or denied approval. Please take your time to accurately complete the form.
-
-</thinking>
-
 # Family Reunion Leave Of Absence Request - Help Guide
 ## Purpose
 The Family Reunion Leave Of Absence Request form is a formal application for employees to request time off for family reunions. This form is used to request approval for leave of absence from work for a specified period.

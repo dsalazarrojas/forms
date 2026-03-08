@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect student data for the beta testing of the Student Collaboration App. The form is meant to be filled out by students themselves, or by parents/guardians on behalf of their child. The purpose of this form is to understand the student's preferences and boundaries for collaboration in the app. It will help us gauge the user experience and identify areas for improvement. Please fill this form only once per student. If the student is under 18, please fill out this form with their parent/guardian's information.
-</thinking>
-
 # Student Collaboration App Beta Testing Consent Form - Help Guide
 ## Purpose
 This form is meant to be filled out by students who wish to participate in the beta testing of the Student Collaboration App. It will help us understand your preferences and boundaries for collaboration in the app.

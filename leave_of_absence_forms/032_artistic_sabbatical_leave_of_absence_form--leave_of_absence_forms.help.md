@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Artistic Sabbatical Leave Of Absence Form - Help Guide
 
 ## Purpose

@@ -1,25 +1,3 @@
-<thinking>
-This form appears to be intended for teachers to request emotional health support for themselves, potentially for use in school settings. However, to ensure this is the correct form for the intended purpose and to prevent duplication, I will review the form's fields and provide guidance on how to complete it.
-
-The form fields appear to be related to basic contact information and support request details. I will verify that the fields are not part of any other form and that this form is not a duplicate of another.
-
-Upon reviewing the form, I see that it includes fields for:
-
-- Teacher name
-- Email
-- School
-- Department
-- Grade level
-- Issue description
-- Support requests (with "Yes" or "No" options)
-- Submitted by (likely for internal use)
-- Date submitted
-- Time submitted
-
-This form seems to be a simple contact form for requesting emotional health support, likely for school administrators or HR department to use. I will provide guidance on how to complete this form.
-
-</thinking>
-
 # teacher_emotional_health_support_request_form - Help Guide
 ## Purpose
 This form is designed for teachers to submit requests for emotional health support. It helps the school administration or HR department understand their needs and provide necessary assistance.

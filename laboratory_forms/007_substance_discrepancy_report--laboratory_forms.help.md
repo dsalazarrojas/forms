@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Substance Discrepancy Report - Help Guide
 ## Purpose
 This form is designed to report discrepancies found in a laboratory setting. It allows users to document and track discrepancies in substances, providing essential information for review and resolution.

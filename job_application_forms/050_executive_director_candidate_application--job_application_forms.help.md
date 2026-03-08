@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed for Executive Director candidates to submit their application. 
-  It is recommended that candidates review this form carefully before starting 
-  to ensure they provide all necessary information. 
-  Please do not duplicate this form to submit multiple applications. 
-  The form will be reviewed and processed as a single document.
-</thinking>
-
 # Executive Director Candidate Application - Help Guide
 ## Purpose
 This form is used to collect information from Executive Director candidates during the application process. The form gathers contact details, application details, qualifications, experience, education, and any supporting documents.

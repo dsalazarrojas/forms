@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user feedback, contact information, and other relevant details from users interacting with the library. The purpose of this form is to ensure that users can provide their thoughts, suggestions, and phone numbers (if applicable) in a structured manner. This form should only be completed if the user has a legitimate reason to do so. To prevent duplication, ensure that you are not submitting this form for the same purpose more than once.
-</thinking>
-
 # library_interaction_form - Help Guide
 ## Purpose
 The library interaction form is a tool to gather user feedback, contact information, and other relevant details for our library services.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to facilitate the process of requesting a leave of absence for skill development purposes. A leave of absence for skill development is a temporary leave taken by an employee to pursue opportunities that will enhance their skills and knowledge. This form will help employees submit their leave request, and it will be reviewed and approved by their manager.
-
-To ensure that all relevant leave requests are captured and to prevent duplication, this form should only be submitted by employees who have not already submitted a leave request for the same period.
-
-</thinking>
-
 # Skill Development Leave Form - Help Guide
 
 ## Purpose

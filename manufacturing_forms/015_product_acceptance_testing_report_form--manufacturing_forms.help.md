@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be used for product testing, where users can report their findings and decisions made during the testing process. The goal is to create a comprehensive report that captures the testing results, any issues encountered, and the final decision made. This form is intended for internal use, and the submitted data will be reviewed by relevant personnel. It's essential that users complete this form accurately and thoroughly, as it will help in making informed decisions and improving the product development process.
-
-The form consists of several fields that require users to input their testing results, any issues they faced, and their final decision. Each field has a specific purpose, and the explanations below will guide users through the process of completing this form.
-
-</thinking>
-
 # Product Acceptance Testing Report Form - Help Guide
 ## Purpose
 The Product Acceptance Testing Report Form is used to record the testing results and decisions made during the product testing process. This form helps in capturing the testing outcomes, issues encountered, and the final decision to accept or reject the product.

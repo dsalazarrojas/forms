@@ -1,11 +1,3 @@
-<thinking>
-To ensure that you're providing accurate and relevant information, let's go through the form's purpose and requirements. This guide will cover the label adhesion quality report form, which seems to be related to evaluating the quality of labels used in a manufacturing process. The form likely aims to collect data on the adhesion of labels, which is crucial for maintaining product quality and efficiency. Please note that the purpose might vary depending on the specific use case, and it's essential to review the form's context within your organization to understand its true purpose.
-
-The form has 11 fields, and some might be redundant or unnecessary depending on your specific use case. To provide the most accurate guidance, let's review each field and its intended use case.
-
-Also, consider that this form might be part of a larger process or system, and understanding its integration with other forms or systems is crucial for effective use.
-</thinking>
-
 # label_adhesion_quality_report_form - Help Guide
 ## Purpose
 This form is designed to collect and report on the quality of labels used in a manufacturing process. It helps evaluate the adhesion of labels, which is a critical aspect of product quality and efficiency.

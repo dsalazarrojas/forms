@@ -1,12 +1,3 @@
-<thinking>
-This form is used for requesting maintenance services for beverage production equipment. The purpose of the form is to collect information about the equipment that requires maintenance, including its type, location, and condition. The form is intended for use by the facility's maintenance team and other stakeholders to track and schedule maintenance requests. 
-The form should only be used by authorized personnel and should not be used for other purposes.
-It is essential to ensure that the form is filled out accurately and completely to help the maintenance team understand the issue and schedule the necessary service.
-This form is designed to be easy to use and follow, with clear instructions and fields for each section.
-Please use this form to submit a maintenance request if you have a problem with a piece of equipment or if you have a question about equipment maintenance.
-Please ensure that you provide as much detail as possible about the equipment and issue when filling out this form.
-</thinking>
-
 # Beverage Production Equipment Maintenance Service Request - Help Guide
 ## Purpose
 This form is used for requesting maintenance services for beverage production equipment. It helps the maintenance team to track and schedule the necessary services to keep your equipment in good working condition.

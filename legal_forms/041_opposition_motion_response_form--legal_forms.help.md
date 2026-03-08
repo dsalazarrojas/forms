@@ -1,11 +1,3 @@
-<thinking>
-This form is used to respond to an opposition motion in a legal context. The purpose of this form is to provide a structured way for individuals to respond to an opposition motion, ensuring that all necessary information is included in the response. It is essential to complete this form accurately and thoroughly to demonstrate the opposition's position in a clear and concise manner.
-
-To avoid duplication of effort, please ensure that the form is filled out only once the motion has been officially submitted and that all required responses and supporting documents are provided.
-
-This form consists of several fields that require attention to ensure a comprehensive opposition response.
-</thinking>
-
 # Opposition Motion Response Form - Help Guide
 
 ## Purpose

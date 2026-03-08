@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Green Manufacturing Incentive Application Form - Help Guide
 
 ## Purpose

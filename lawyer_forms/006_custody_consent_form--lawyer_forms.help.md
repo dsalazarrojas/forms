@@ -1,12 +1,3 @@
-<thinking>
-This form is a "Custody Consent Form" that is likely used in a legal context, possibly within a medical or social services setting. The form is designed to gather information from parents or custodians regarding the medical treatment or care of a minor. The fields on this form are meant to capture the necessary details for consent, including parent/custodian names and addresses, medical facility and staff involved, and the date and time of the consent.
-
-The form is likely used to ensure that parents or custodians are aware of and agree to the medical treatment or care of their child. The form may be used in conjunction with other forms or documents, such as medical records or care plans.
-
-To avoid duplication of efforts, it's essential to review and understand the purpose and content of this form before proceeding. If you're unsure about the form's purpose or the specific requirements for completing it, please seek clarification from the relevant authorities or personnel.
-
-</thinking>
-
 # Custody Consent Form - Help Guide
 ## Purpose
 The Custody Consent Form is used to obtain consent from parents or custodians for the medical treatment or care of their child. This form helps ensure that the child's parents or custodians are aware of and agree to the treatment or care being provided.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to capture information about maintenance costs, including the type of cost, amount, frequency, and other relevant details. It's designed to be completed by users who have performed maintenance activities and need to report their costs for record-keeping and accounting purposes. The form is likely used by maintenance staff or supervisors to track and manage maintenance costs within an organization. 
-</thinking>
-
 # maintenance_cost_report_form - Help Guide
 ## Purpose
 This form is used to report maintenance costs for various activities such as labor, materials, and other expenses. It captures essential information like cost amount, frequency, and submission details for accurate record-keeping and accounting purposes.

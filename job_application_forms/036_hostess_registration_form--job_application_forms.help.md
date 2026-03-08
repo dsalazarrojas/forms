@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for hosts to register their event details with the help of a Hostess. The Hostess Registration Form is a way for hosts to provide their contact information and event specifics for the Hostess to take note of. It's essential to complete this form accurately to ensure that the Hostess is well-prepared to assist the host and their guests. This form is not intended for general public use; it's specifically designed for hosts who are working with the Hostess.
-
-</thinking>
-
 # Hostess Registration Form - Help Guide
 ## Purpose
 This form is used to register event details with the help of a Hostess.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "film_production_family_leave_of_absence_form", is used to manage leave of absence requests for employees who are part of the film production team. It ensures that employees can request and track their leave effectively, allowing managers to review and approve or reject these requests.
-
-The purpose of this form is to gather necessary information about an employee's leave of absence, including start and end dates, reason for absence, and status. This information helps the management team to process and make informed decisions about leave requests.
-
-To prevent duplication and ensure accurate tracking, it's essential to understand the correct usage of this form. Please review the following guide to complete the form correctly.
-
-</thinking>
-
 # film_production_family_leave_of_absence_form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate leave of absence requests for employees. This form is used by employees to submit their leave of absence requests to the management. The form is intended to provide a straightforward and structured way to collect necessary information for processing and approving leave requests.
-
-To ensure that this form is used correctly, please note that it should not be used in the following scenarios:
-* If you're unsure about the form's purpose or usage, please review this guide carefully.
-* If you've already submitted a leave of absence request, do not resubmit it through this form. Instead, update your previous request or reach out to your manager for further assistance.
-</thinking>
-
 # crunch_time_leave_of_absence_request - Help Guide
 ## Purpose
 ## How To Complete This Form

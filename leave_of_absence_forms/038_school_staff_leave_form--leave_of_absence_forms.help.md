@@ -1,6 +1,3 @@
-<thinking> 
-This form is for school staff to request and manage leaves of absence, including medical, annual, and other types of leaves. To avoid duplication, please ensure that each request is unique and not a repeat of a previous one. If you're unsure about the status of your leave request, check with your school's HR department or supervisor.</thinking>
-
 # School Staff Leave Form - Help Guide
 ## Purpose
 The School Staff Leave Form is designed to allow school staff to request and manage leaves of absence, including medical, annual, and other types of leaves.

@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the Student Attendance Form is used to record the attendance status of students in a class or educational setting. It aims to capture information such as student name, class name, date, time, status (e.g., Absent, Late, Leave, or Present), note, email, and phone number. This form is likely used for tracking student attendance, providing a clear and concise way to report attendance information. It's possible that this form will be used in conjunction with other systems or processes to ensure accurate and up-to-date attendance records.
-</thinking>
-
 # Student Attendance Form - Help Guide
 
 ## Purpose

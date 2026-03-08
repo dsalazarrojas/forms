@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a general laboratory safety quiz designed to assess an individual's knowledge and practices related to biosafety in the lab. The purpose of this form is to ensure that laboratory staff are aware of and compliant with biosafety policies and procedures. This form will be used to collect information on various aspects of biosafety, including spill response, PPE usage, biohazard handling, lab safety policies, and other relevant factors. I will create the help guide below, taking into account the provided YAML structure.</thinking>
-
 # Laboratory Biosafety Quiz - Help Guide
 ## Purpose
 The Laboratory Biosafety Quiz is a tool to assess your knowledge and practices related to biosafety in the lab. It is designed to ensure that you are aware of and comply with laboratory safety policies and procedures.

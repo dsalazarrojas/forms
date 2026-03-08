@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect confirmation and details from users regarding a website agreement, which is an essential legal document that outlines the terms and conditions of using a website. This form will help ensure that users understand and confirm their agreement to the website's terms and conditions.
-</thinking>
 # Website Agreement Confirmation - Help Guide
 ## Purpose
 This form is used to confirm that a user understands and agrees to the website's terms and conditions. It also collects additional details, such as email and phone numbers, for future correspondence.

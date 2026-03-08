@@ -1,32 +1,3 @@
-<thinking>
-To determine the relevance and non-duplication of the form fields, let's break down the form into its sections and fields:
-*   **Personal Information**:
-    -   This section includes fields for first name, last name, email address, phone number, date of birth, and available start date.
-    -   This section appears to be a general collection of personal details required for job applications.
-*   **Address Information**:
-    -   This section includes fields for street address, city, state, and ZIP/Postal code.
-    -   This section is likely used to collect the job applicant's address for contact and location purposes.
-*   **Position Information**:
-    -   This section includes fields for the position applied for, available start date, and type of employment seeking.
-    -   This section is likely used to specify the job position and employment type the applicant is applying for.
-*   **Education**:
-    -   This section includes fields for the highest level of education, school/university attended, field of study or major, and graduation date.
-    -   This section appears to be used to collect information about the applicant's educational background.
-*   **Experience**:
-    -   This section includes fields for years of relevant experience and list previous employers (last 3).
-    -   This section is likely used to collect information about the applicant's relevant work experience.
-*   **Skills and Qualifications**:
-    -   This section includes fields for key skills relevant to the position, professional certifications or licenses, and software or technical skills.
-    -   This section is likely used to collect information about the applicant's relevant skills and qualifications.
-*   **Document Upload**:
-    -   This section includes fields for resume or CV file and cover letter.
-    -   This section appears to be used for uploading relevant documents for the job application.
-*   **Final Confirmation**:
-    -   This section includes fields for willingness to undergo background checks and certification of accurate and complete information.
-    -   This section is likely used to confirm the applicant's willingness to undergo background checks and certify the accuracy of the provided information.
-
-</thinking>
-
 # Basic Job Application Form - Help Guide
 ## Purpose
 The Basic Job Application Form is a comprehensive form designed to collect personal, address, position, education, experience, skills, and qualification information from job applicants. This form helps employers and hiring managers to evaluate and filter applicants efficiently.

@@ -1,11 +1,3 @@
-<thinking>Before writing this help guide, let's review the form and its purpose. The form is designed for loan applications, and its purpose is to collect relevant information from applicants. The form has 25 fields, including fields for various types of data such as text, number, date, select_one, select_multiple, email, and time. The form is likely used by loan officers or financial institutions to gather information from individuals applying for a loan.
-
-This form is a standard form, and its fields are not highly specific, so it's likely that the form is a general-purpose loan application form. The form does not include any fields that are highly sensitive or require additional context, such as ID numbers or passwords. It also does not include any fields that are highly context-dependent, such as fields that require specific knowledge about the applicant's location or employment history.
-
-The purpose of this form is to collect general information about the loan applicant. The form is designed to be completed by the loan applicant, and the information collected will be used to process the loan application.
-
-</thinking>
-
 # Loan Application Form - Help Guide
 ## Purpose
 The Loan Application Form is used to collect information from individuals applying for a loan. This form helps loan officers and financial institutions gather essential details about the applicant, which will be used to process the loan application.

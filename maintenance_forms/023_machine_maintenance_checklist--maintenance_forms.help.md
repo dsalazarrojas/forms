@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect and document machine maintenance data. It is a critical tool for ensuring that machinery is properly maintained and updated on a regular basis. Before filling out this form, ensure you have reviewed the relevant maintenance procedures and protocols for the specific machine or equipment being addressed. Please note that this form is not intended to be used for emergency or urgent maintenance situations.</thinking>
-
 # Machine Maintenance Checklist - Help Guide
 ## Purpose
 The Machine Maintenance Checklist form is a systematic tool to record and track regular maintenance activities for machinery and equipment. It helps in ensuring that all necessary maintenance steps are completed and documented accurately.

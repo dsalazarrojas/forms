@@ -1,10 +1,3 @@
-<thinking>
-We should confirm that this form is indeed for international employment agreements. This form appears to be a comprehensive document that covers various aspects of employment, including employee and employer details, job details, employment terms, and contract specifics. It also includes fields for employee and employer signature, agreement terms, and other relevant details. This form may be used for international companies or organizations that require employment agreements with employees across different locations or countries.
-
-We should also check that this form is not duplicating any other forms or documents within the organization. It's essential to ensure that the form's fields and layout are clear, concise, and easy to understand for end-users, particularly those with non-technical backgrounds.
-
-Let's move on to creating the help guide for this form.</thinking>
-
 # International Employment Agreement Form - Help Guide
 ## Purpose
 The International Employment Agreement Form is a comprehensive document that outlines the terms and conditions of employment for international employees. This form is used to ensure that all parties involved are aware of their responsibilities, expectations, and rights.

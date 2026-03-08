@@ -1,21 +1,3 @@
-<thinking>
-We need to ensure that our users understand the purpose of this form and how to complete it correctly. This form is for the Fulfillment Error Reduction Pilot Application, and its primary goal is to gather information from applicants to help our team identify areas of improvement and reduce errors in our fulfillment process. Before we dive into the detailed instructions, let's review the form's fields and their purposes:
-* The form has two fields for first and last names, which will help us to identify the applicant.
-* The email field is to ensure we can contact the applicant with any follow-up questions or updates.
-* The description field allows the applicant to provide any additional information about their application.
-* The terms and conditions field ensures that the applicant has understood and agreed to our terms and conditions.
-* The consent field confirms that the applicant has agreed to our terms and conditions.
-* The date of birth field is to ensure that we can verify the applicant's age and identity.
-* The time of application and time of completion fields are to track when the application was submitted and completed.
-* The contact address and phone number fields are to provide us with a way to contact the applicant in case of any issues.
-* The time of submission field is to track when the application was submitted.
-* The submitter field is to identify who submitted the application.
-* The time zone fields (time_zone, time_zone_offset, time_zone_2, and time_zone_name_2) seem to be duplicate fields, and we should review their purpose and eliminate any redundancy.
-* The submitter_2 field is to identify who submitted the application on their behalf.
-
-To complete this form, applicants should follow the steps below:
-</thinking>
-
 # Fulfillment Error Reduction Pilot Application - Help Guide
 ## Purpose
 The Fulfillment Error Reduction Pilot Application is a form designed to gather information from applicants to help our team identify areas of improvement and reduce errors in our fulfillment process.

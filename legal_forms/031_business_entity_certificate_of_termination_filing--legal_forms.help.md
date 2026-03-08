@@ -1,7 +1,3 @@
-<thinking>
-This form is used for filing a Business Entity Certificate of Termination with a state government agency. The purpose of this form is to provide formal notification of the closure or dissolution of a business entity. This form typically needs to be filed by the person or entity that is responsible for the business, such as the owner or officer. It is essential to ensure that the provided information is accurate and up-to-date to avoid any potential issues with the state agency.
-</thinking>
-
 # Business Entity Certificate Of Termination Filing - Help Guide
 ## Purpose
 This form is used to file a Business Entity Certificate of Termination, which is a formal notification of the closure or dissolution of a business entity. It is usually filed with the state government agency responsible for business entities in that jurisdiction.

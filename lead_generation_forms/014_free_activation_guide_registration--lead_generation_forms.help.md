@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about free activation guides from users. This form is likely used in a business context to collect data about free resources that are available for activation, possibly for marketing, sales, support, or other purposes. To complete this form, ensure you are familiar with the required fields. This help guide will walk you through each field in the form.
-</thinking>
-
 # Free Activation Guide Registration - Help Guide
 ## Purpose
 

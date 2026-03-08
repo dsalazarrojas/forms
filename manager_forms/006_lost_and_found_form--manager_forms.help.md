@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed to track items that have been found and are waiting to be reunited with their original owners. 
-  It's used to collect information about the item, including its description, location, and owner's contact information. 
-  This form will help ensure that the item is properly tracked and can be returned to its owner in a timely manner.
-  It's a simple, one-page form that guides users through the process of filling in the necessary details.
-</thinking>
-
 # lost_and_found_form - Help Guide
 ## Purpose
 This form is used to track items that have been found and are waiting to be reunited with their original owners.

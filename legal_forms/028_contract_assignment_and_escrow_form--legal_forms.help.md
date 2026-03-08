@@ -1,8 +1,3 @@
-<thinking>
-This help guide aims to assist users in understanding the purpose and requirements of the "Contract Assignment And Escrow Form". This form is used to document the transfer of rights and obligations between parties in a contract. The form requires information from both the assignor (party transferring rights) and the assignee (party receiving rights). It includes fields for the assignment date, original contract title, and contract number, as well as details about the rights and obligations being transferred. The form also asks whether escrow is required and, if so, includes fields for the escrow agent's name, amount, and conditions. Finally, it asks about the status of legal review, the governing law, and whether notarization is required. This form is intended for use in various contexts, including legal and business transactions.
-
-</thinking>
-
 # Contract Assignment And Escrow Form - Help Guide
 ## Purpose
 This form is used to document the transfer of rights and obligations between parties in a contract.

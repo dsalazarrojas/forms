@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This thought process involves checking for relevance and non-duplication by considering the form's purpose, fields, and the provided YAML data. The goal is to create a user-facing help guide that effectively explains the form's purpose, completion process, and each field's meaning to the end-user.
 
 The form, "Service Fee Agreement Template," appears to be used for documenting and recording agreements between an agency and a client regarding service fees. The form includes various fields for collecting information on service fee agreements, agency information, payment methods, and payment terms.

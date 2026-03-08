@@ -1,13 +1,5 @@
 <figure>
-  <thinking>
-    This form was generated using AI to collect user preferences related to 
-    the General Data Protection Regulation (GDPR) to ensure that the 
-    user's data is processed in accordance with the law. This form 
-    will ask you about your preferences regarding marketing and other 
-    data-related activities to help us understand what you're 
-    comfortable with and what you'd rather not have.
-  </thinking>
-</figure>
+  </figure>
 
 # GDPR Preference Collection Form - Help Guide
 ## Purpose

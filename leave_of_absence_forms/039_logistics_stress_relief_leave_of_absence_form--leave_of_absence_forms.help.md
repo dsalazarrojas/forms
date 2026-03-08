@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to document and manage the process of taking a logistics stress relief leave of absence, which is a period of temporary leave from work to address logistics-related stress and mental health. This form is designed to help employees communicate their needs and intentions to their manager, and to track and manage the status of such leave. It is intended to be used internally within the organization, and should only be completed by employees who are requesting a logistics stress relief leave of absence.
-
-Before completing this form, please ensure that you have discussed your needs with your manager and that you are aware of the company's leave of absence policies. This form should only be completed if you are certain that you need a logistics stress relief leave of absence, and that you have the necessary approvals and support from your manager and HR.
-
-</thinking>
-
 # Logistics Stress Relief Leave Of Absence Form - Help Guide
 ## Purpose
 The purpose of this form is to document and manage the process of taking a logistics stress relief leave of absence, which is a period of temporary leave from work to address logistics-related stress and mental health.

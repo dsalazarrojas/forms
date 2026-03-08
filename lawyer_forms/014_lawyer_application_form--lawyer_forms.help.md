@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **# Lawyer Application Form - Help Guide**
 ## Purpose
 This form is designed for lawyers to apply or update their information in the system. It gathers essential details for the lawyer's profile and allows them to provide additional work experience and educational background. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Untime request form - Help Guide
 ## Purpose
 This form is used to request an unavailability or leave of absence. Fill out the required fields to submit your request and it will be evaluated by your manager for approval.

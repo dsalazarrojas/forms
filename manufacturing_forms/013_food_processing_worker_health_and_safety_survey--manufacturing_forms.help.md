@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information regarding worker health and safety in food processing plants. Its purpose is to gather data on workplace hazards, employee incidents, and near-miss events. This form is crucial for identifying potential risks and taking corrective measures to improve worker health and safety. To ensure data quality and consistency, please note that this form will ask for specific details about employee incidents and near-miss events.
-</thinking>
-
 # Food Processing Worker Health And Safety Survey - Help Guide
 ## Purpose
 This form is designed to collect information on worker health and safety in food processing plants. Its purpose is to identify potential risks, gather data, and take corrective measures to improve worker health and safety.

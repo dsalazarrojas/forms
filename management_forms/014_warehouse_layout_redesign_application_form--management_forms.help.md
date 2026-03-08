@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for warehouse layout redesign applications.
-The purpose of this form is to gather relevant data from warehouse employees, managers, and other stakeholders involved in warehouse layout redesign projects. This form will help identify the current state of the warehouse, its needs, and the desired goals and outcomes of the redesign.
-When creating a form, it is essential to avoid duplicating efforts and ensure that the collected data is accurate and relevant.
-</thinking>
-
 # Warehouse Layout Redesign Application Form - Help Guide
 ## Purpose
 This form is designed to gather information for warehouse layout redesign applications.

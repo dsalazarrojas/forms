@@ -1,8 +1,3 @@
-<thinking>
-This form is for updating the mailing address of a user. It will be used by administrators to collect and manage user contact information. To ensure accuracy, the form should only be filled out by authorized personnel and only when necessary. 
-Please fill out each field carefully and accurately. 
-</thinking>
-
 # mailing_address_update_form - Help Guide
 ## Purpose
 This form is used to update the mailing address of a user.

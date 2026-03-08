@@ -1,7 +1,3 @@
-<thinking>
-The form "permanent_make_up_consent_form_template" is designed to collect client consent and medical history before proceeding with permanent makeup procedures. This form is essential for ensuring that clients understand the risks and benefits of the treatment and provide necessary information about their medical history. The form is typically filled out by the client and is a prerequisite for treatment. It is crucial to complete the form accurately and honestly to ensure the best possible outcome and minimize potential risks. It is also a good practice to have a duplicate of the form filled out and kept on file for future reference.
-</thinking>
-
 # permanent_make_up_consent_form_template - Help Guide
 ## Purpose
 This form is used to collect client consent and medical history before permanent makeup procedures. It ensures that clients are aware of the risks and benefits of the treatment and provides essential information for the artist to understand their medical background.

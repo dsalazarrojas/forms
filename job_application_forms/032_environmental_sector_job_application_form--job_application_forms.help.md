@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect job application information from candidates in the Environmental Sector industry. Its fields cover various aspects of a job posting, such as personal details, work experience, education, skills, references, and job-related information. The form is designed to be simple and easy to understand, with fields for job seekers to provide their contact information, work history, and qualifications.
-
-The form's purpose is to gather accurate and relevant information from candidates, helping employers in the Environmental Sector industry to find the most suitable candidates for their open positions.
-
-To avoid redundancy and ensure the form serves its intended purpose, ensure you only submit one job application per job posting, using the provided Job ID field to distinguish between different job postings.
-
-</thinking>
-
 # Environmental Sector Job Application Form - Help Guide
 ## Purpose
 The Environmental Sector Job Application Form is designed to collect job application information from candidates in the Environmental Sector industry. It helps employers find suitable candidates for their open positions.

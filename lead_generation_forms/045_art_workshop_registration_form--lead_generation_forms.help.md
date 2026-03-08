@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants who want to register for an art workshop. The fields are designed to gather relevant information about the participant, their preferences, and their commitment to the workshop. This form is intended for individuals who want to attend a workshop and are willing to provide their contact and payment information. Please note that some fields are optional and will be marked as such. The form is designed to be completed in a few steps, and each step is explained below.
-</thinking>
-
 # Art Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to register for an art workshop, which includes providing personal and workshop preferences, and committing to attend the workshop.

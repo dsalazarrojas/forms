@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Manufacturing Wearable Order Form - Help Guide
 
 ## Purpose

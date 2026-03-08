@@ -1,15 +1,3 @@
-<thinking>
-
-To create a form that helps users select their preferred dates for board meetings, we need to consider the following:
-
-* The form is used to gather information about board member availability and preferences for meetings.
-* The form is likely used by board members to indicate their availability and schedule conflicts.
-* The form should be easy to understand and fill out, with clear labels and instructions.
-
-The form is likely part of a larger system for managing board meetings and member schedules.
-
-</thinking>
-
 # Board Meeting Time Selection - Help Guide
 ## Purpose
 This form is designed to help board members select their preferred dates for meetings. It gathers information about each member's availability and schedule conflicts to aid in planning and organization of board meetings.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from machine validation programs registered with the program. The purpose of the form is to gather relevant details about the program, its features, and the contact information of the person or organization responsible for it. The form has 25 pages, each with its own set of fields that need to be filled out.
-
-Before starting the form, ensure that you are filling out the correct program and not a duplicate submission. This will save time and effort in the future.
-
-</thinking>
-
 # Machine Validation Program Registration Form - Help Guide
 ## Purpose
 The Machine Validation Program Registration Form is designed to collect information from machine validation programs registered with the program. It serves as a comprehensive guide to provide the necessary details about the program, its features, and the contact information of the person or organization responsible for it.

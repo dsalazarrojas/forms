@@ -1,14 +1,3 @@
-<thinking>
-This form is a legal document that allows individuals to declare their last will and testament, stating their wishes and intentions for the distribution of their assets after death. 
-
-It is essential to ensure that the form is filled out accurately and completely, as it will serve as a legally binding document. This form should only be used for individuals who are of sound mind and above the age of 18.
-
-This form will serve as a template for the legal document, and users must fill it out carefully and honestly to ensure that their wishes are accurately reflected in the final document.
-
-Please make sure to review the form carefully and fill it out only after understanding all the sections and their meanings. If you are unsure about any part of the form, please reach out to a legal professional for guidance.
-
-</thinking>
-
 # Last Will And Testament Declaration Form - Help Guide
 ## Purpose
 The Last Will And Testament Declaration Form is a legal document that allows individuals to declare their last will and testament, stating their wishes and intentions for the distribution of their assets after death.

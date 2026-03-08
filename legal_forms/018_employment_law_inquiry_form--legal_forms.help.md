@@ -1,7 +1,3 @@
-<thinking>
-The employment law inquiry form is part of a system for providing information and resources to individuals seeking guidance on employment law-related matters. This form is intended to collect relevant information about the user's employment status, type, and contact details, to facilitate the processing and addressing of their inquiry. The form is non-deduplicated, meaning that a user will not be able to submit the form multiple times with the same information. This form should be filled out by an individual who is seeking employment law guidance or information and does not require any technical expertise to complete.
-</thinking>
-
 # employment_law_inquiry_form - Help Guide
 ## Purpose
 This guide is for individuals seeking employment law guidance or information who need help filling out the employment_law_inquiry_form.

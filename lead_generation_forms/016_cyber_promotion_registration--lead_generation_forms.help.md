@@ -1,7 +1,3 @@
-<thinking>
-**Internal reasoning block:** To prevent duplicate submissions and ensure data accuracy, this form is intended for single users to register for a single promotion. If a user has already registered for a promotion, please do not submit this form again. The form should only be completed by authorized personnel with a legitimate business need for the promotion. 
-</thinking>
-
 # Cyber Promotion Registration - Help Guide
 ## Purpose
 This form is for registering for a cyber promotion. If you have already registered for a promotion, please do not submit this form again.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help school administrators and auditors assess and document the compliance status of a school's curriculum. To ensure accuracy and efficiency, please ensure that this form is completed carefully and thoroughly. Before filling out the form, review the school's curriculum and relevant policies to guarantee that all required fields are filled in correctly. If there are any doubts or uncertainties, refer to the relevant school policies or seek clarification from the school administration. This form will be used to audit the curriculum in accordance with regulatory requirements and school policies. Please be aware that the form is not a substitute for a comprehensive review, but rather a tool to help identify potential areas that require further investigation.
-
-</thinking>
-
 # School Curriculum Compliance Audit Form - Help Guide
 
 ## Purpose

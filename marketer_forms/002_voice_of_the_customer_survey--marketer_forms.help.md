@@ -1,7 +1,3 @@
-<thinking>
-This is a template to generate a user-facing help guide for the provided form. The form "Voice of the Customer Survey" is designed to collect feedback from customers about their experiences with a product or service. The form has four sections: intro, feedback question, rating question, and feedback response. The form is not mandatory but provides a way for customers to express their opinions and suggestions. Before proceeding with this guide, let's ensure that we are not duplicating efforts and that the form's purpose aligns with our overall goals. 
-</thinking>
-
 # voice_of_the_customer_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experiences with a product or service. We value your opinions and encourage you to share them to help us improve our services.

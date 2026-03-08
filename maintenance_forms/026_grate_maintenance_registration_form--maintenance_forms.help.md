@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for maintenance requests. The goal is to gather information about the maintenance work to be performed, including the date and time of the maintenance, a brief description of the work, and any contact details for the requester. This form should only be used for maintenance requests, and users should only submit one form per maintenance task. Please ensure that all required fields are filled out accurately. Please do not submit duplicate forms for the same maintenance request.
-</thinking>
-
 # Grate Maintenance Registration Form - Help Guide
 ## Purpose
 The Grate Maintenance Registration Form is used to document and register maintenance requests for the Grate system. This form collects essential information about the maintenance work, including date, time, description, and priority level.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information for monitoring programs. To avoid duplication, please fill out a new form for each program that needs monitoring. This form should only be used for legitimate requests. If you are unsure about the purpose of this form, please contact the relevant team or manager.
-
-</thinking>
-
 # Program Monitoring Request Form - Help Guide
 
 ## Purpose

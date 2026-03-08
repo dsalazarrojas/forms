@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a Machine Installation Checklist used to document the status of machine installation activities. It is designed to be completed by the maintenance team after a machine has been installed. The form is used to track the completion of each activity and provide a clear picture of the installation status. The fields in this form should be filled in by the person completing the task.
 
 </thinking>

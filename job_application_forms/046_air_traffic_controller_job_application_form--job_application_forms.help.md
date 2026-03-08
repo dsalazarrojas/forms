@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for individuals interested in applying for an Air Traffic Controller (ATC) position within the aviation industry. The form is designed to collect relevant information from applicants, including personal details, professional qualifications, and preferences.
-Before starting the form, please note that it is designed to be completed by the applicants themselves, and not by third parties on their behalf. Additionally, please ensure that the information provided is accurate and up-to-date to avoid any discrepancies in the hiring process.
-</thinking>
-
 # Air Traffic Controller Job Application Form - Help Guide
 ## Purpose
 The Air Traffic Controller Job Application Form is a form used to collect information from applicants interested in applying for an ATC position. This form will help the hiring team assess your qualifications and suitability for the role.

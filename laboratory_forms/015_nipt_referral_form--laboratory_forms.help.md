@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # NIPT Referral Form - Help Guide
 ## Purpose
 The NIPT Referral Form is designed to collect information from patients or caregivers about their medical history, contact details, and relevant test results from previous laboratory tests. This form helps healthcare professionals gather necessary data for further diagnosis and treatment.

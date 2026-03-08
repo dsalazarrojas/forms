@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help event planners or hosts gather information from guests about their attendance status and any additional details that might be useful for planning purposes. This form is simple and straightforward, making it easy to complete. Ensure you've reviewed this guide to understand what each field is for and how to fill it out correctly to provide accurate information for the event organizers.
-</thinking>
-
 # Simple Guest List Form - Help Guide
 ## Purpose
 The Simple Guest List Form is intended for event planners or hosts to gather information from guests about their attendance status and any additional details they might find useful for the event.

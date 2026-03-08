@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to declare a statuary statement, which is likely a legal or formal declaration. The purpose of this form is to collect information about the user's statement, including the date and any signatory information. The form does not appear to have any dependencies on other platforms or proprietary content, making it a unique and original creation. The form's metadata suggests it was created using public survey topic metadata as inspiration, but the resulting form is an adaptation of this information and not a direct copy or derivative. This form is released under a Creative Commons license, allowing for modification and use with proper credit.
-
-</thinking>
-
 # statuary_declaration_form - Help Guide
 ## Purpose
 This form is used to declare a statuary statement. It is a legal or formal declaration form designed to collect information from users.

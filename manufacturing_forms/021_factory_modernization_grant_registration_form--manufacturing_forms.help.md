@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory Modernization Grant Registration Form - Help Guide
 ## Purpose
 The Factory Modernization Grant Registration Form is a tool for factory owners and operators to register their modernization projects with the grant program. This form helps the grant program to assess and manage modernization projects, and to allocate grants fairly and efficiently.

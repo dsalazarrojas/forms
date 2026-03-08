@@ -1,7 +1,3 @@
-<thinking>
-This form is a contact form designed to gather information from potential clients or customers interested in workforce productivity consulting services. The form collects personal and professional details, including name, email, organization, role, and specific productivity challenges faced. It also allows users to schedule a follow-up meeting and provides a field for additional comments or notes. The form is intended for general public use, and users can fill it out without any specific business logic or proprietary content tied to any particular platform.
-</thinking>
-
 # Workforce Productivity Consulting Contact Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential clients or customers interested in workforce productivity consulting services. It helps us understand your needs and preferences for consulting support.

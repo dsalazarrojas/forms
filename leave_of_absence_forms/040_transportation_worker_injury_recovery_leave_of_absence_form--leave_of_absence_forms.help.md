@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transportation Worker Injury Recovery Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used to report and document an employee's injury recovery leave of absence, which is a period of absence from work due to an injury or illness. This form helps track and manage the employee's recovery progress, work status, and related medical documentation.

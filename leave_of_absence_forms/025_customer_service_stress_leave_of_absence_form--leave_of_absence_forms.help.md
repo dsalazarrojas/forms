@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document and manage customer requests for stress leave of absence. A stress leave of absence is a leave of absence requested by a customer service representative due to stress or burnout. This form will be used to gather information about the request, including customer information, employee details, and reasons for the leave. It will help customer service managers to understand the customer's situation and provide appropriate support and resources to help them manage their stress. 
-
-</thinking>
-
 # Customer Service Stress Leave Of Absence Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured format for customer service representatives to submit their stress leave of absence requests. This form helps the customer service management team to quickly understand the situation, assess the reason, and provide necessary support and guidance.

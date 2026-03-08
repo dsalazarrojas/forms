@@ -1,10 +1,3 @@
-<thinking>
-I'm going to design this form's user-facing help guide. To start with, I'll break down the form's purpose: the Calorie Protein Estimator form aims to estimate a user's daily caloric needs and dietary requirements based on their personal details, fitness goals, and activity level. The form asks for basic demographic information, such as name, contact email, age, and biological sex, as well as more specific details like body weight, activity level, and dietary preferences. The form then uses these inputs to guide the user towards a recommended caloric intake and provides a report that can be sent to the user for reference.
-
-Before proceeding, let's confirm that the form's purpose is for users to estimate their daily caloric needs and get a report based on their inputted data.
-
-</thinking>
-
 # Calorie Protein Estimator - Help Guide
 ## Purpose
 This form estimates your daily caloric needs and provides recommendations based on your personal details and fitness goals.

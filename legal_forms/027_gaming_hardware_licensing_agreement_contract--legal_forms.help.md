@@ -1,16 +1,3 @@
-<thinking>
-This form is used for capturing the details of a gaming hardware licensing agreement contract. The purpose of this form is to gather essential information about the agreement, including the equipment type, owner details, and event details. The form is intended to be used by licensing agreement administrators or approvers to review and manage gaming hardware licensing agreements.
-
-This form is likely used in a corporate or business setting where gaming hardware is being licensed for use. The form is used to document the agreement details, including the type of equipment being licensed, the owner's details, and any event-related information.
-
-To ensure that this form is completed accurately and thoroughly, it is recommended that the person filling out the form reviews it carefully and ensures that all required fields are completed. If a field is not applicable to the specific agreement, it is still necessary to provide a clear explanation in the "notes" field to ensure that the reviewer understands the situation.
-
-The form has been carefully designed to gather all the necessary information in a straightforward and efficient manner. Each field has been labeled clearly, and the type of information being requested is indicated. This guide will help you complete the form correctly and ensure that it is submitted accurately.
-
-If you have any questions or concerns while filling out this form, please refer to this guide for clarification.
-
-</thinking>
-
 # Gaming Hardware Licensing Agreement Contract - Help Guide
 ## Purpose
 

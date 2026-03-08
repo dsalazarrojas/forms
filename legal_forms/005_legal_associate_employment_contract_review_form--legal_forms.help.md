@@ -1,8 +1,3 @@
-<thinking>
-This form is used to review the employment contract of a Legal Associate. It's essential to ensure the associate has properly reviewed and understood the terms of the contract.
-To complete this form, the associate needs to answer the questions regarding their understanding and acceptance of the employment contract.
-</thinking>
-
 # Legal Associate Employment Contract Review Form - Help Guide
 ## Purpose
 This form is used to review the employment contract of a Legal Associate, ensuring they have properly reviewed and understood the terms of the contract.

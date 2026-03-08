@@ -1,21 +1,3 @@
-<thinking>
-This form is used by librarians to request expansion materials for branches. Expansion materials may include books, media, or other items that are needed to support library services. This form is a crucial step in the process of fulfilling branch requests.
-
-Before filling out this form, please check that:
-
-* You have already discussed branch expansion needs with your branch manager or library director.
-* You have a clear understanding of what materials are needed for your branch.
-* You have reviewed the branch's current budget and are certain that the requested expansion materials are feasible within the budget.
-
-To complete this form, follow these steps:
-
-1. Fill out the form with the necessary branch information and expansion needs.
-2. Select the correct delivery date and time for the expansion materials.
-3. Choose the appropriate expansion materials from the options listed.
-4. Review and submit the form for review and processing.
-
-</thinking>
-
 # library_expansion_order_request_form - Help Guide
 ## Purpose
 This form is used to request expansion materials for branches, such as books, media, or other items needed to support library services.

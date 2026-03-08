@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's examine the provided YAML fields. The form title is "Heirship Information Form", which suggests that it's related to information about heirs in a legal context. Upon closer inspection, we notice that the form contains various fields related to relationships between the heir and the beneficiary, property ownership, and follow-ups. This indicates that the form is meant to collect information about the details of an heir's relationship with the beneficiary, including property ownership and potential follow-up actions.
-
-This form appears to be used in legal contexts, where understanding the relationships between heirs and beneficiaries is crucial. It's likely used for administrative or legal purposes, such as estate planning or probate.
-
-We should note that there are multiple fields with similar labels, such as "heir_beneficiary_relationship" and "heir_beneficiary_account". This suggests that some fields might be redundant or overlapping. To ensure the form is completed correctly, we should review each field carefully to avoid duplication of information.
-
-</thinking>
-
 # Heirship Information Form - Help Guide
 ## Purpose
 The Heirship Information Form is used to collect details about the relationships between heirs and beneficiaries in a legal context. This form is useful for administrative or legal purposes, such as estate planning or probate.

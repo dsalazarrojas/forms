@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the Referral Submission Form. This form is used to submit referrals for job applicants. Before completing this form, please note that you are not required to fill out all fields, but doing so will provide more information for the hiring team to review. Please make sure that you are submitting a referral for a job applicant and not a duplicate submission. If you are unsure about the purpose of this form or have already submitted a referral for the same applicant, please do not fill out this form.
-</thinking>
-
 # Referral Submission Form - Help Guide
 ## Purpose
 This form is used to submit referrals for job applicants. It helps the hiring team to get more information about the applicant and their job search experience.

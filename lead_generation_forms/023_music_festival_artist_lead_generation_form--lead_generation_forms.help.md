@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for music festival organizers to generate leads for artists who would be a good fit for their festival. The form collects various details about the artist, including their name, genre, website, and contact information. The purpose of this form is to streamline the lead generation process, making it easier for festival organizers to find suitable artists and connect with them.
-
-Before filling out this form, please note that it has multiple pages. Please ensure that you have all the required information before proceeding. This form is designed to guide you through the process of providing detailed information about each artist.
-
-</thinking>
-
 # music_festival_artist_lead_generation_form - Help Guide
 ## Purpose
 The music_festival_artist_lead_generation_form is a multi-page form for music festival organizers to collect artist lead generation information.

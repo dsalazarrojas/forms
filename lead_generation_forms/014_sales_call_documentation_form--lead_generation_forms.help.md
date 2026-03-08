@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form is for recording the details of a sales call, including the client's name, the date and time of the call, the location, and other relevant information such as the lead status, source, and result. This form should not be used to create new leads, but rather to document existing ones. Please ensure you fill in all required fields. The form will help us track and follow up on leads more efficiently.
-</thinking>
-
 # Sales Call Documentation Form - Help Guide
 ## Purpose
 This form is used to document the details of a sales call with a client, ensuring that all relevant information is captured and tracked accurately.

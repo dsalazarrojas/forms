@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that the user completes the form correctly, we need to check for duplication and non-relevance before submitting. 
 
 Before filling out this form, please ensure that the customer is not a repeat request. If the customer has requested a service recently, please do not submit this form.

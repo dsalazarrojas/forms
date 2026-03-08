@@ -1,7 +1,3 @@
-<thinking>
-The "strike_participation_time_off_form" form is intended to be used to track an employee's participation in a strike, specifically when they started and ended their involvement, the number of hours they were absent, and the reason for their absence. This form is likely used in HR or administrative settings to keep records of employee participation during labor disputes.
-</thinking>
-
 # strike_participation_time_off_form - Help Guide
 ## Purpose
 The purpose of this form is to record an employee's participation in a strike, including start and end dates, hours absent, and reason for absence.

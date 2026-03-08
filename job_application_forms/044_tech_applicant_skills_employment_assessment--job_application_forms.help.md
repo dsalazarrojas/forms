@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from tech applicants about their employment status and skills. This form is designed to assess the applicants' suitability for employment in various positions in the tech industry. The form is likely used by hiring managers or recruiters to evaluate candidates for tech jobs.
-
-This form should only be filled out by tech applicants who are interested in applying for a job. If you are not a tech applicant, you should not complete this form. 
-
-The form is likely not suitable for people looking for general information about job openings or career advice. If you are looking for general information about job openings or career advice, you may want to explore other resources on the company's website or contact the HR department.
-
-</thinking>
-
 # Tech Applicant Skills Employment Assessment - Help Guide
 ## Purpose
 

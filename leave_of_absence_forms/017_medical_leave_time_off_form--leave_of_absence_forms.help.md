@@ -1,7 +1,3 @@
-<thinking> 
-  This form is used to request a medical time off, a temporary leave of absence due to medical reasons. Before proceeding, please ensure that the form is being filled out for a valid reason and not for other types of leaves or absences. It is also important to note that the fields in this form should only be filled out once for each time off request. 
-</thinking>
-
 # Medical Leave Time Off Form - Help Guide
 
 ## Purpose

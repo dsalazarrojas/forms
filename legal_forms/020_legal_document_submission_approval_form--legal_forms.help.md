@@ -1,15 +1,3 @@
-<thinking>
-This form is likely intended to facilitate the approval or rejection of legal documents, gathering necessary information from users, and capturing relevant details about the submission process. The purpose of this form is to collect data for internal or external approval and validation processes.
-
-To ensure this form serves its purpose, it's essential to verify that it's not affiliated with, endorsed by, or derived from any form creation platform, and that it's an original adaptation created using public survey topic metadata. By releasing it under CC BY 4.0, users are free to use, modify, and even sell forms derived from it, as long as they give credit. 
-
-To avoid duplication and ensure accuracy, users should ensure they're not using the same form for multiple documents or purposes. 
-
-Before filling out this form, please review the purpose and instructions carefully to avoid any confusion. 
-
-For any questions or concerns, you can contact form@gic.mx.
-</thinking>
-
 # Legal Document Submission Approval Form - Help Guide
 ## Purpose
 This form is designed to collect information and approval for legal documents. It's intended for users to provide details about submitted documents, including user and submitter information, document details, and approval status. 

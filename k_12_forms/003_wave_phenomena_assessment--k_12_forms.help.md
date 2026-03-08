@@ -1,7 +1,3 @@
-<thinking>
-The form "Wave Phenomena Assessment" is likely used to collect information about wave phenomena, such as wave types, properties, and other relevant characteristics. This form is probably used by researchers or scientists to gather data for further analysis or study. The form seems to be designed to collect a large amount of data, with multiple fields for different wave properties and types. The form might be used in an academic or research setting.
-</thinking>
-
 # Wave Phenomena Assessment - Help Guide
 ## Purpose
 The Wave Phenomena Assessment form is designed to collect data about wave phenomena for research or scientific purposes.

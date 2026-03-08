@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Worker Respiator Supply Order Form - Help Guide
 ## Purpose
 This form is used to record the order details for respiators. It is intended for internal use within the organization to track worker respiator supply orders.

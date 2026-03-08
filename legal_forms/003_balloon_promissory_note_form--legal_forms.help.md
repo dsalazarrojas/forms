@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to create a balloon promissory note, a financial agreement between a lender and borrower for a loan with a large, lump-sum payment at the end of the loan term. This form outlines the key terms of the loan, including the principal amount, interest rate, and repayment schedule.
-
-The form is divided into several sections, each covering a specific aspect of the loan. The "Loan Agreement Parties" section asks for the names and addresses of both the lender and borrower. The "Principal and Interest Terms" section includes the principal amount, annual interest rate, and effective date of the note. The "Payment Schedule" section details the monthly payment amount and the first payment date. The "Balloon Payment Details" section specifies the maturity date of the balloon payment and the estimated balloon payment amount. The "Prepayment Penalty" section inquires about any penalties for early repayment. The "Borrower Acknowledgment" section requires the borrower to confirm their understanding of the loan terms. Lastly, the "Witness Name" section is optional, for cases where a witness is present to sign the agreement.
-
-</thinking>
-
 # Balloon Promissory Note Form - Help Guide
 ## Purpose
 

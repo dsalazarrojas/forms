@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to assess the risk level associated with a site maintenance task assigned to a specific site maintenance team. The goal is to provide a risk level (Low, Medium, High) and additional information such as date and time of the task, assigned team, email, and phone number to facilitate communication and risk management.
-The form is designed to be completed by the site maintenance team or someone responsible for task management. The form does not require a specific format for date and time entries, and the risk level can be assessed as Low, Medium, or High.
-Each field has been carefully designed to gather relevant information for task risk assessment and communication.
-</thinking>
-
 # Site Maintenance Team Task Risk Assessment - Help Guide
 ## Purpose
 The Site Maintenance Team Task Risk Assessment form is used to evaluate the risk level of a task assigned to a site maintenance team and provide essential information for effective communication and risk management.

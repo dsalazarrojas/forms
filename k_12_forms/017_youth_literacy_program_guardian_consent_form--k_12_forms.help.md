@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for guardians to provide information about their relationship with the student and emergency contacts in case of an emergency. This form is typically used by the Youth Literacy Program to collect contact information and ensure that they can get in touch with the student's emergency contacts if needed.
-To prevent over-submission, this form should only be submitted once for each student.
-</thinking>
-
 # Youth Literacy Program Guardian Consent Form - Help Guide
 ## Purpose
 The Youth Literacy Program Guardian Consent Form is a form used to collect contact information from guardians and emergency contacts for students participating in the program.

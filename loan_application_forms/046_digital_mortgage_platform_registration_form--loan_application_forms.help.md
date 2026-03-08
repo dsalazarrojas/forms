@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals or organizations seeking to register on the digital mortgage platform. To avoid duplication of efforts, please ensure that you are not already registered on this platform before proceeding. This form is a straightforward and user-friendly way to submit required information for a seamless registration process.
-</thinking>
-
 # Digital Mortgage Platform Registration Form - Help Guide
 ## Purpose
 The Digital Mortgage Platform Registration Form is designed to collect relevant information from individuals or organizations seeking to register on the platform, enabling them to access various mortgage services and features.

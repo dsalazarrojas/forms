@@ -1,18 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and functionality of the "Legal Documentation Assessment" form. This form is used to collect information about a legal document, including details about the document type, date, and location of creation. The purpose of this form is to create a standardized way to assess and track legal documents, ensuring accuracy and consistency in documentation.
-
-The form will be used by legal professionals to create, manage, and store legal documentation. They will fill in the required and optional fields to collect information about a particular document, making it easier to reference and analyze.
-
-The user guide will provide step-by-step instructions on how to complete the form and what information to enter in each field. This will ensure that users understand the form's purpose and how to use it effectively.
-
-Before filling out this form, ensure that you have all the necessary information about the legal document you are creating or managing. This may include details about the document type, date, and location, as well as any other relevant information.
-
-The fields on this form are designed to be easy to understand and fill out. Each field has been carefully crafted to collect the right information, and we'll break down each field in the instructions below.
-
-This guide is not intended to be exhaustive, and some fields may have additional information or clarification that is specific to your organization or industry. If you have specific questions or concerns, please reach out to your designated support contact.
-
-</thinking>
-
 # Legal Documentation Assessment - Help Guide
 ## Purpose
 

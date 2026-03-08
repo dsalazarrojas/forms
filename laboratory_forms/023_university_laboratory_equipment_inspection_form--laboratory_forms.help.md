@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **University Laboratory Equipment Inspection Form - Help Guide**
 
 ## Purpose

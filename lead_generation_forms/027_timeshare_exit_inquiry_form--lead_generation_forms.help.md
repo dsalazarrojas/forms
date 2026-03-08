@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are inquiring about exiting their timeshare contracts. The purpose of this form is to gather relevant details about the customer's current timeshare contract, including its status, type, and value, as well as their contact information and property details. This information will be used to provide the customer with guidance and support in exiting their contract.
-
-Before proceeding, it's essential to check if the customer has already initiated an inquiry or has a similar case in progress to avoid duplication of efforts and ensure that the customer receives the most relevant and timely support.
-
-</thinking>
-
 # Timeshare Exit Inquiry Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for customers to enter a sweepstakes contest. The form captures essential contact information and agreement to terms and conditions. It is likely intended for internal use within an organization or company, and the purpose of this form is to collect data from customers who are interested in participating in a sweepstakes contest. The form fields are designed to gather basic contact information, including first name, last name, email, phone number, and address. Additionally, it captures how the customer heard about the contest and any social links they'd like to share. The form also includes an agreement to terms and conditions, which is a required field to ensure the customer has read and agreed to the rules. The form also includes fields for comments, privacy pledge, and sweepstakes rules.
-
-It's worth noting that the form has a mix of required and optional fields, with some fields allowing for multiple options or selections. This form appears to be designed to be completed by individuals who are interested in participating in a sweepstakes contest, but the exact use case is not entirely clear.
-
-</thinking>
-
 # sweepstakes_entry_form - Help Guide
 
 ## Purpose

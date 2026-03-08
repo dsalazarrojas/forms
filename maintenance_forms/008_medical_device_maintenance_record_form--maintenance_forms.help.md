@@ -1,7 +1,3 @@
-<thinking>
-This form is used to maintain records for medical devices, tracking various information related to the devices. It's designed to be completed by technicians and engineers for routine maintenance and service activities. 
-</thinking>
-
 # Medical Device Maintenance Record Form - Help Guide
 ## Purpose
 The Medical Device Maintenance Record Form is a document that helps maintain a record of medical device service and maintenance activities. It gathers crucial information related to the device, its maintenance schedule, and the personnel involved in the process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for immigration lawyers to collect information from clients regarding their application for immigration services. The form's purpose is to gather essential details about the client, including their contact information, nationality, and reasons for visiting or staying in the country. This information will help the lawyers provide accurate and efficient services to the clients. This form is not intended for use in other contexts, and the details provided should not be used for any other purpose other than immigration law services.
-</thinking>
-
 # Immigration Lawyer Application Form - Help Guide
 
 ## Purpose

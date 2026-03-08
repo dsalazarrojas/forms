@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be used by employees to request training for themselves, and managers will use this form to review and approve or reject requests. This form should not be used for other purposes such as requesting a new job or reporting an issue.
-</thinking>
 # Simple Training Request Form - Help Guide
 ## Purpose
 This form is designed to be used by employees to request training for themselves. Managers will review and approve or reject requests submitted through this form.

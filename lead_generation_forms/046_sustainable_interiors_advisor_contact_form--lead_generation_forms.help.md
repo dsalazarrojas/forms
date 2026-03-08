@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose and how to complete the Sustainable Interiors Advisor Contact Form. The form is designed to gather contact information and any specific questions or inquiries that users may have about sustainable interior design services. We should check if the user has already completed a form with the same email or company name to prevent duplicate entries. If a user's email is already associated with a completed form, we should prompt them to use a different email or contact method. 
-</thinking>
-
 # Sustainable Interiors Advisor Contact Form - Help Guide
 ## Purpose
 The Sustainable Interiors Advisor Contact Form is designed to gather contact information from users who are interested in learning more about sustainable interior design services. This form helps us understand your needs and preferences, so we can provide you with the best possible advice and solutions.

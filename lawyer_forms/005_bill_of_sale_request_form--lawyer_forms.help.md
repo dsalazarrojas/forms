@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the details of a bill of sale for a specific item, including seller and buyer information, item description, price, and other transaction details. To avoid duplication and ensure accuracy, the form should only be used for one item at a time. This form helps to establish a clear and official record of the sale, which may be required for tax purposes, insurance, and other financial transactions.
-</thinking>
-
 # Bill Of Sale Request Form - Help Guide
 ## Purpose
 The Bill Of Sale Request Form is used to document the details of a bill of sale for a specific item. This form helps to ensure that all parties involved are aware of the terms of the sale and provides a clear record of the transaction.

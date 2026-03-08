@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # technical-training-leave-of-absence-request - Help Guide
 ## Purpose
 This form is used for requesting a technical training leave of absence, allowing employees to take time off for training and development purposes. It is intended for employees to request a leave of absence for technical training, non-technical training, conferences, or other related activities. The form is used to gather information necessary for approval and processing of the request.

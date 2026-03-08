@@ -1,10 +1,3 @@
-<thinking>
-To create an effective Departmental Report Form, let's first consider the form's purpose and the user's needs. The form aims to collect information from departmental representatives about their department's current status. This includes their name, address, contact information, internal issues, and other relevant details. The main goal is to ensure that departments can efficiently communicate their needs and status to the relevant parties.
-
-This form should only be used for genuine and legitimate purposes and not for unnecessary duplication. Duplicate reports can lead to confusion and hinder progress. It is essential to fill out the form accurately and truthfully to avoid any potential issues that may arise from incorrect information.
-
-</thinking>
-
 # Departmental Report Form - Help Guide
 
 ## Purpose

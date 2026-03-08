@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for participants to provide their consent for the use of their image in photography-related activities. The form is intended to ensure that participants are aware of and agree to the terms and conditions of the photography session. It's essential to use this form to obtain consent from participants before taking their photos.
-
-To ensure that the form is used correctly, please note that some fields are required while others are optional. The required fields are marked as such in the form. Please ensure that you provide accurate and up-to-date information in the required fields.
-
-</thinking>
-
 # Makeup Line Release Form - Help Guide
 ## Purpose
 The Makeup Line Release Form is used to obtain consent from participants for the use of their image in photography-related activities.

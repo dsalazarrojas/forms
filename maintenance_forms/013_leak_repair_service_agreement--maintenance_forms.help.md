@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "leak_repair_service_agreement" form, we need to ensure that the form's purpose, completion instructions, and field explanations are clear and concise. 
-
-The form appears to be designed for reporting or requesting maintenance-related activities, likely for a leak repair service. We'll need to confirm that the form is not being used for other purposes and that the required fields are accurate.
-
-The form has 14 fields, but some of them are optional. We'll need to focus on explaining each field's purpose and any specific instructions or limitations.
-
-Assuming the form is used for leak repair service requests, we'll use that as our base understanding.
-
-</thinking>
-
 # leak_repair_service_agreement - Help Guide
 ## Purpose
 This form is used to request a leak repair service. It guides the user in providing necessary information to schedule and complete the repair.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used for users to request authorization to use intellectual property. The purpose of this form is to ensure that users have the necessary permissions to use specific intellectual properties for their work. This form is typically used by users who need to access and use intellectual properties for specific purposes. 
-
-The form should only be filled out once by the user, and not multiple times. If the user needs to use the same intellectual property again, they should re-submit the form.
-
-When filling out this form, the user must select the intellectual property they want to use, and specify the start and end dates of the use. They also need to provide their user name, email, and organization name. If the user needs to access the intellectual property for an extended period, they can specify the start and end dates.
-
-The user must also provide a brief description of their purpose for using the intellectual property and provide any additional notes if necessary. 
-
-</thinking>
-
 # intellectual_property_use_authorization_form - Help Guide
 ## Purpose
 This form is used for users to request authorization to use intellectual property.

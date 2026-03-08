@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for immigration lawyer applications, including client details, case specifics, and payment information. This form is intended for use by authorized personnel within the organization to collect and record data relevant to immigration lawyer applications. To avoid duplication, please use this form only for clients who have not been previously recorded in the system.
-
-</thinking>
-
 # Immigration Lawyer Application Form - Help Guide
 ## Purpose
 The Immigration Lawyer Application Form is a tool used to collect and record information for immigration lawyer applications. This form is designed to ensure that all necessary details are captured accurately and efficiently.

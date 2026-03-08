@@ -1,7 +1,3 @@
-<thinking>
-This form is used for submitting social media post requests from internal stakeholders. It is intended to collect information about the requestor, their manager, team, and any partner(s) involved. This form should only be filled out once for each request. Please make sure to fill it out completely and accurately to ensure that the request is properly processed. Before filling out this form, check with your manager to see if a similar request has been submitted recently. This will help avoid duplication of work and unnecessary social media posts.
-</thinking>
-
 # Social Media Post Request Form - Help Guide
 ## Purpose
 The Social Media Post Request Form is used to request social media posts for internal stakeholders. This form captures information about the requestor, their manager, team, and any partner(s) involved in the request.

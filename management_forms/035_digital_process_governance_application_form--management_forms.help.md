@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital-process-governance-application-form - Help Guide
 ## Purpose
 The purpose of this form is to gather information for digital process governance applications. It aims to collect relevant details about the objectives, documentation, consent, and review processes involved in implementing a digital process, ensuring transparency and accountability throughout the lifecycle of the project.

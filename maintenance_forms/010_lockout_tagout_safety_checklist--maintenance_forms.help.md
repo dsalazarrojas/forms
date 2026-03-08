@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to ensure that the Lockout Tagout Safety Checklist form is presented in a clear and concise manner that guides users through the completion process. I will analyze the provided YAML schema to identify the purpose of each field and provide explanations that are concrete, concise, and practical.</thinking>
-
 # Lockout Tagout Safety Checklist - Help Guide
 ## Purpose
 The Lockout Tagout Safety Checklist is a form designed to ensure that critical systems, equipment, and machines are properly locked out and tagged out for safety inspection. This form is used to record the details of a lockout/tagout procedure, including the lockout/tagout status, location, and any issues or actions taken.

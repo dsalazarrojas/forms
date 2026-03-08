@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by employees to report their time worked and activities performed during a specific time period. The purpose of this form is to provide an accurate record of employee work hours and activities for managerial review and approval. This form should only be completed by employees who are required to submit time sheet data.
-</thinking>
-
 # Simple Time Sheet Form - Help Guide
 ## Purpose
 This form is intended to be used by employees to report their time worked and activities performed during a specific time period. The purpose of this form is to provide an accurate record of employee work hours and activities for managerial review and approval.

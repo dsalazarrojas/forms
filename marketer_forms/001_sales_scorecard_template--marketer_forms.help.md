@@ -1,13 +1,3 @@
-<thinking>
-
-To create a Sales Scorecard Template, we want to provide a structured and standardized way to store and manage sales scorecards. This form is meant to capture essential information about each scorecard, including its ID, name, owner, status, frequency, last updated information, and target score details. 
-
-To avoid duplication and ensure accurate record-keeping, it's essential to understand each field's purpose and requirements. This form serves as a centralized hub for tracking scorecard data, making it easier to access and review performance metrics. 
-
-The following guide explains each field in detail to assist users in filling out the form correctly.
-
-</thinking>
-
 # Sales Scorecard Template - Help Guide
 ## Purpose
 The Sales Scorecard Template is a tool used to capture and manage sales scorecard data. It provides a structured format for storing and tracking essential information about each scorecard.

@@ -1,7 +1,3 @@
-<thinking>
-The "Guest Service Training Leave Of Absence Request" form is used to process leave of absence requests for employees. This form is used to submit leave requests for guest services training, which is a critical part of an employee's job performance. The form is intended for employees who need to take time off for training and development. Before filling out the form, please check the employee's current leave status to ensure they are not already on leave. Also, please note that duplicate requests will not be accepted.
-</thinking>
-
 # Guest Service Training Leave Of Absence Request - Help Guide
 ## Purpose
 The "Guest Service Training Leave Of Absence Request" form is used by employees to request leave for guest services training. This form ensures that the employee's leave request is processed efficiently and accurately.

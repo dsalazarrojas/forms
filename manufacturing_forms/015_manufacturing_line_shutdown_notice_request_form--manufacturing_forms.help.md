@@ -1,7 +1,3 @@
-<thinking>Before we begin, let's quickly review the purpose and requirements of this form. This form is used to request a shutdown of a manufacturing line, and it's essential that the information provided is accurate and complete. To ensure that, please make sure to carefully review and follow these instructions.
-
-When you're done, this form will help you create a Manufacturing Line Shutdown Notice that includes the relevant details of the shutdown, such as the start and end times, reason, and other supporting information. The form will then be submitted to the relevant authorities for approval and processing.</thinking>
-
 # Manufacturing Line Shutdown Notice Request Form - Help Guide
 ## Purpose
 This form is used to request a shutdown of a manufacturing line, allowing production to be temporarily halted for maintenance, upgrades, or other reasons. It helps in keeping all parties informed about the planned downtime and facilitating a smooth transition.

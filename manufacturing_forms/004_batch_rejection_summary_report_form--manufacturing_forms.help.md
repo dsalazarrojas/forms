@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to document and record the key information related to batches of products that have been rejected during the manufacturing process. This form is used to gather details about the batch, including its production date, total units, rejection rate, and other specific reasons for rejection. The information collected through this form will aid in identifying and addressing the root causes of the issues, ultimately improving the quality of the production process. This form is a crucial tool for manufacturers to track and analyze the defects in their products, enabling them to take corrective actions and implement preventive measures to ensure the quality and reliability of their products... </thinking>
-
 # Batch Rejection Summary Report Form - Help Guide
 ## Purpose
 The Batch Rejection Summary Report Form is a crucial tool for manufacturers to record and document the details of batches of products that have been rejected during the production process. This form is designed to gather essential information about the batch, including production date, total units, rejection rate, and other specific reasons for rejection.

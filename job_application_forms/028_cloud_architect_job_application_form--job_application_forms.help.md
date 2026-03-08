@@ -1,27 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals applying for the Cloud Architect job position. This form is used to collect basic applicant information, work experience, and technical skills. By filling out this form, applicants will be able to provide a comprehensive overview of their background and experience.
-The form is divided into several sections, including:
-
-* Personal Information
-* Professional Experience
-* Cloud Platforms and Skills
-* Technical Skills
-* Areas of Expertise
-* Education
-
-Each section aims to gather specific information that will help the hiring team assess the applicant's qualifications and fit for the role. 
-
-Please note that some fields are optional, such as LinkedIn Profile URL, GitHub Profile URL, and Portfolio or Personal Website. These fields can help the applicant provide additional context and showcase their work, but are not required for the application process.
-
-Before you begin, make sure to have the following information readily available:
-
-* Your legal name as it appears on your resume
-* Your primary contact email and phone number
-* Information about your work experience and relevant skills
-
-This form is meant to be a guide, and you can always reach out to the hiring team if you have any questions or need further clarification.
-</thinking>
-
 # Cloud Architect Job Application Form - Help Guide
 ## Purpose
 The Cloud Architect Job Application Form is designed to collect information from individuals applying for the Cloud Architect position. This form helps the hiring team assess the applicant's qualifications and fit for the role.

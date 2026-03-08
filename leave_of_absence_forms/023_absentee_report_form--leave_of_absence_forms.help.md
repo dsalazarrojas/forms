@@ -1,11 +1,3 @@
-<thinking>
-This form is used to report absences due to personal or medical reasons. It's designed for employees who need to report their absence to their supervisor or HR department. The form is meant to provide a clear and organized way to report absences, including dates, reason, and any supporting documentation. It helps HR and management track and manage absences effectively.
-
-Before filling out this form, please ensure you're reporting only absences that have occurred or are planned, not past absences that have already been resolved.
-
-When filling out this form, please provide accurate and complete information to help your supervisor or HR department process your absence report efficiently. If you're unsure about any field or have any questions, please reach out to your HR department for assistance.
-</thinking>
-
 # Absentee Report Form - Help Guide
 ## Purpose
 This guide is here to help you fill out the Absentee Report Form accurately and efficiently.

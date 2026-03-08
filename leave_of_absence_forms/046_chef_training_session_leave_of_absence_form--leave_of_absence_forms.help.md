@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used by trainees to request a leave of absence for a Chef Training Session. This is a form for internal use, so the "Staff Use Only" section at the end of the form is not intended to be filled out by trainees. The form is used to collect information about the trainee's absence, including their name, the current training module they are in, and the reason for their leave. The trainee is also asked if they are interested in a makeup session to catch up on any missed training. The form also asks for the trainee's digital signature to acknowledge their request.
-
-Please ensure that you are using this form for its intended purpose and that you have followed the necessary procedures for requesting a leave of absence for a Chef Training Session.
-</thinking>
-
 # Chef Training Session Leave Of Absence Form - Help Guide
 ## Purpose
 This form is designed to help trainees request a leave of absence for a Chef Training Session.

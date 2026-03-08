@@ -1,7 +1,3 @@
-<thinking>
-We will create a help guide for the "holistic_mastery_agreement" form. The form is used for capturing contact information and demographic data from clients. The purpose of this form is to collect essential details from clients, including name, email, contact number, address, date of birth, time of birth, date of termination, time of termination, date of signature, time of signature, and signature. The form has two pages: the first page contains the main fields for collecting contact information, and the second page is for notes and additional comments. We will ensure that each field is explained in a concrete and concise manner to help end-users understand its purpose.
-</thinking>
-
 # Holistic Mastery Agreement - Help Guide
 ## Purpose
 The holistic mastery agreement is a form used to collect contact information and demographic data from clients.

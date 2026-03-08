@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information for the Medical Tour Service Agreement. The purpose of this form is to obtain essential details from both the user and the service provider for the medical tourism process. The form is required to ensure that all necessary information is gathered for smooth and safe medical tourism operations.
-
-</thinking>
-
 # Medical Tour Service Agreement - Help Guide
 ## Purpose
 This form is designed to collect information from both the user and service provider for the medical tourism process.

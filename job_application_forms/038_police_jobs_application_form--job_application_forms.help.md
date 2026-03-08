@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed for individuals interested in applying for police jobs. It is a straightforward form that aims to collect essential information from potential candidates. The purpose of this form is to provide a platform for applicants to submit their applications, and for employers or recruiters to review and evaluate their qualifications. It is intended for use in a police-related job application context and should not be used for other purposes. To ensure that each application is unique, please do not submit duplicate applications. If you have already submitted a previous application, please do not re-submit. The form is designed to be easily fillable on various devices, including computers, smartphones, and tablets. 
-
-</thinking>
-
 # Police Jobs Application Form - Help Guide
 ## Purpose
 This form is intended for individuals interested in applying for police jobs. It is designed to collect essential information from potential candidates, allowing them to submit their applications and for employers or recruiters to review and evaluate their qualifications.

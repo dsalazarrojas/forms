@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from IT industry employees who are requesting a crisis leave of absence. Crisis leave is a type of leave that allows employees to take time off from work due to a personal or family crisis, such as a family illness, natural disaster, or other unforeseen circumstances. This form is used to gather essential details about the employee's request, including their name, job title, start and end dates of the leave, reason for the leave, and status of the request.
-Before proceeding, please ensure that you are completing this form for a valid reason and not duplicating a previous submission. This form is intended for IT industry employees and is not applicable to other industries. If you are unsure or have questions, please contact your HR representative or manager.
-</thinking>
-
 # IT Industry Crisis Leave Of Absence Form - Help Guide
 ## Purpose
 This form is designed to collect information from IT industry employees who are requesting a crisis leave of absence. It is used to gather essential details about the employee's request, including their name, job title, start and end dates of the leave, reason for the leave, and status of the request.

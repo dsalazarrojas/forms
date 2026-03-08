@@ -1,10 +1,3 @@
-<thinking>
-This form is used to track and record garage maintenance tasks for vehicles. It's designed to help users keep up-to-date with regular and necessary maintenance to ensure their vehicles are in good working condition. This form should be used by vehicle owners or fleet managers to schedule and document garage maintenance tasks, and can be used to track the frequency, type, and status of maintenance tasks. This form may be used in conjunction with other maintenance schedules or systems to provide a comprehensive maintenance record.
-
-To avoid duplicating maintenance tasks, users should select the correct maintenance frequency and type for each vehicle. The form should not be used to schedule regular, routine maintenance tasks such as oil changes or tire rotations, but rather for more significant maintenance tasks like brake pad replacements or fluid checks.
-
-</thinking>
-
 # garage_maintenance_checklist_form - Help Guide
 ## Purpose
 This form is used to track and record garage maintenance tasks for vehicles, including the frequency, type, status, and notes about each maintenance task.

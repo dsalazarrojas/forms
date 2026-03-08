@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Anti Static Workstation Assessment - Help Guide
 
 ## Purpose

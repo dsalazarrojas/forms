@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users regarding legislative proposals. It is intended to collect details such as user identification, proposal title, and status of the proposal. This form is used to track and manage legislative proposals, ensuring that all necessary information is captured and stored correctly. To avoid duplication, ensure that you submit a new proposal only if it is not an existing one. If you are unsure, please check with the relevant department or authority.
-</thinking>
-
 # Legislative Proposal Submission Form - Help Guide
 ## Purpose
 The Legislative Proposal Submission Form is a tool used to gather information for proposals submitted to the legislative department. It captures key details such as user identification, proposal title, and status of the proposal.

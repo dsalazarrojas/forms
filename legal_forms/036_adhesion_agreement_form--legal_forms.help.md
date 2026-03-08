@@ -1,19 +1,3 @@
-<thinking>
-The Adhesion Agreement Form is a legal document that outlines the terms and conditions of a contract between a provider and a customer. This form is used to formalize the agreement and ensure that both parties understand their obligations and responsibilities.
-The form is divided into several sections, each representing a different aspect of the agreement:
-- Parties information: This section captures the details of the parties involved in the contract, including the provider and customer names.
-- Provider name: This section requires the provider to enter their name to confirm their involvement in the contract.
-- Customer name: This section requires the customer to enter their name to confirm their acceptance of the contract terms.
-- Effective date: This section captures the date on which the agreement takes effect.
-- Terms summary: A brief description of the material terms of the agreement.
-- Acknowledgment of terms: A confirmation that the customer has read and understood the terms of the agreement.
-- Dispute resolution clause: A brief description of the process for resolving any disputes that may arise.
-- Termination conditions: Conditions under which the contract may be terminated.
-- Provider signature name: The typed name of the provider signatory.
-- Customer signature name: The typed name of the customer signatory.
-Before completing the form, review all sections carefully to ensure accurate and complete information is provided. If a section is not relevant to your specific situation, you may leave it blank. However, be aware that leaving certain sections blank may impact the validity and enforceability of the agreement.
-</thinking>
-
 # Adhesion Agreement Form - Help Guide
 ## Purpose
 The Adhesion Agreement Form is a legal document that outlines the terms and conditions of a contract between a provider and a customer. This form is used to formalize the agreement and ensure that both parties understand their obligations and responsibilities.

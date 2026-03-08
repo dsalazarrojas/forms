@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather liability release and waiver information from patients seeking medical treatment. It is designed to ensure that patients understand and acknowledge their responsibilities and limitations in seeking care during the COVID-19 pandemic. By completing this form, patients are acknowledging that they understand the risks and consequences of seeking medical treatment during this time.
-</thinking>
-
 # jolene_nails_covid_19_liability_release_waiver - Help Guide
 ## Purpose
 This form is a liability release and waiver form used to gather information from patients seeking medical treatment during the COVID-19 pandemic. It is essential to understand the risks and limitations associated with seeking care during this time.

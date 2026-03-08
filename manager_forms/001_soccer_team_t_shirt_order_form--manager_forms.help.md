@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who want to order T shirts for their soccer team. The form is used to gather details such as the customer's contact information, order requirements, and payment method. The form is intended for internal use and will be used to process team orders. It's essential to fill out the form correctly to ensure accurate and efficient processing of the order.
-
-Before starting, please note that the form requires some fields to be filled out in a specific manner. For example, the "Phone" field expects a numeric value. The "Quantity" field expects a numeric value. The "Price" field is also expected to be a numeric value.
-
-Please make sure to fill out all required fields correctly to avoid any issues during order processing.
-</thinking>
-
 # Soccer Team T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who want to order T-shirts for their soccer team.

@@ -1,22 +1,3 @@
-<thinking>
-**Checking for relevance and non-duplication**
-
-The "Employee Motivation Survey" is designed to gather feedback from employees on various aspects of their job satisfaction, motivation, and engagement. This form is intended to help managers and HR representatives understand the needs and concerns of their employees, enabling them to make informed decisions about employee development and retention.
-
-This form is a comprehensive survey consisting of 8 pages with different sections focused on:
-- What motivates employees
-- Job satisfaction
-- Value placed on the company
-- Satisfaction scales for specific aspects of the job
-- Engagement level
-- Dream job description
-- Work-life balance
-- Managerial support
-
-The form is not designed for multiple submissions, and it's expected that only one instance will be filled out by each employee.
-
-</thinking>
-
 # Employee Motivation Survey - Help Guide
 ## Purpose
 The Employee Motivation Survey is designed to gather feedback from employees on various aspects of their job satisfaction, motivation, and engagement.

@@ -1,5 +1,3 @@
-<thinking> This is a form designed to collect information for a service agreement between a client and a developer. The form is intended to outline the terms and conditions of the service, including client details, service details, and payment terms. The form is a crucial document that ensures both parties are on the same page and understand their responsibilities and expectations. To confirm that this form is suitable for your use case, please review the form fields and ensure they align with your specific needs. If you have any questions or need further clarification, contact the form creator at form@gic.mx. </thinking>
-
 # Service Agreement For Development - Help Guide
 ## Purpose
 This guide will walk you through the completion of the Service Agreement For Development form, which is a critical document outlining the terms and conditions of a service agreement between a client and a developer.

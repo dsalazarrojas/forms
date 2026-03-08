@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a template for capturing information related to the release of records by landlords. The purpose of this form is to provide a standard way of documenting and verifying the release of records in a clear and organized manner. This form is likely to be used in real estate or property management contexts where landlords need to release their records to authorized parties. The form includes fields to capture information about the tenant, the address, and the release details, as well as fields for the signatures and dates of various parties involved. The form is designed to be easy to use and understand, with clear labels and instructions for each field.
-</thinking>
-
 # Landlord Records Release Form - Help Guide
 ## Purpose
 The purpose of this form is to document the release of records by landlords. It is used to verify the release of records to authorized parties.

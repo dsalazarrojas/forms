@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to be a straightforward feedback tool for customers to express their thoughts and experiences regarding a product. The purpose of this form is to collect valuable information from customers to improve the product's functionality, design, or overall quality. This information will be used internally to analyze user experiences and create data-driven decisions.
-
-Before filling out this form, please ensure that your feedback is relevant and constructive. Duplicate feedback may be disregarded, and we appreciate unique and specific insights. 
-</thinking>
-
 # Product Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather your thoughts and opinions about our product. Please answer the questions truthfully and thoroughly to help us better understand your experience.

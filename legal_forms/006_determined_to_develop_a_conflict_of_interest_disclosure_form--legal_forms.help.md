@@ -1,11 +1,3 @@
-<thinking>
-The form is a "Determined To Develop A Conflict Of Interest Disclosure Form" used to collect information about potential conflicts of interest from individuals in a specific context. The form asks questions about relationships with business entities, stock holdings, officer roles, and other relevant details. The purpose of this form is to ensure that individuals disclose any potential conflicts of interest that may impact their work or decisions. It is essential to complete this form accurately and honestly to maintain transparency and fairness. 
-
-This form will be used in a professional setting, such as a government agency or a non-profit organization. The form is likely to be completed by employees, officers, or board members who need to declare their potential conflicts of interest. The information collected will help to identify potential conflicts and ensure that individuals are aware of their responsibilities.
-
-To ensure that the form is completed correctly, it is crucial to understand the purpose and the questions asked. This guide will help users navigate the form and ensure that they provide accurate and complete information.
-</thinking>
-
 # Determined To Develop A Conflict Of Interest Disclosure Form - Help Guide
 ## Purpose
 This form is designed to collect information about potential conflicts of interest from individuals in a professional setting.

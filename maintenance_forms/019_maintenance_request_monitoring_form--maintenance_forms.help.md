@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and monitor maintenance requests. It captures relevant information about the request, such as the request details, the status of the request, and the priority level. The form should be filled out for each maintenance request to ensure accurate tracking and reporting. Please fill out the form only once for each request, avoiding duplicate submissions.
-</thinking>
-
 # Maintenance Request Monitoring Form - Help Guide
 ## Purpose
 The Maintenance Request Monitoring Form is used to track and monitor maintenance requests. It helps in keeping a record of requests and their statuses.

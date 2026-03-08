@@ -1,7 +1,3 @@
-<thinking>
-This form is used to place custom orders for end effectors in the robotics department. It captures essential information from the user, including their contact details, the type of tool required, quantity, delivery date and time, and any additional comments. This form is intended for use by users who need to place custom orders. Please ensure that you are familiar with the form requirements before proceeding. If you've already submitted a similar form, please review your previous order details to avoid duplicate entries. If you're unsure about any aspect of the form, feel free to reach out to the robotics department for assistance.
-</thinking>
-
 # robotics_end_effector_custom_order_form - Help Guide
 ## Purpose
 The purpose of this form is to place custom orders for end effectors in the robotics department. It captures essential information from the user, including their contact details, the type of tool required, quantity, delivery date and time, and any additional comments.

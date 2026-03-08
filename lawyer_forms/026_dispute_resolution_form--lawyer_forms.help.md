@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "dispute_resolution_form" form. This form is used to document and resolve disputes between parties. The form will collect information on the dispute type, parties involved, date, description, resolution method, outcome, and resolution. It also allows for up to 15 file uploads for supporting evidence.
-
-We will ensure that each field is explained clearly and concisely, and that the user can easily understand the purpose and requirements of each section.
-
-</thinking>
-
 # dispute_resolution_form - Help Guide
 ## Purpose
 This form is used to document and resolve disputes between parties. It helps to provide a clear and concise record of the dispute, its type, and the resolution method and outcome.

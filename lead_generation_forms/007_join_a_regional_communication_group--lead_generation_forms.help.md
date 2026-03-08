@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for joining a regional communication group. To fill out this form, ensure you are only doing so once per person and only for the group that matches your geographical region. Please select the "Terms of Service" options according to your preferences to acknowledge that you've reviewed and agree to the terms. 
-</thinking>
-
 # Join A Regional Communication Group - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Executive Insight Consulting Contact Form - Help Guide
 ## Purpose
 This form is designed for individuals to submit their contact information and message to the Executive Insight Consulting team. The team uses this information to respond to inquiries, provide support, and offer services to clients.

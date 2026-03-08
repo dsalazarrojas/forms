@@ -1,8 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the Government Auditor Employment Application form. The form appears to be a collection of fields that gather information from candidates for a job application. The purpose of this form is likely to capture relevant details about the candidate, such as their contact information, work experience, education, and skills. However, some fields seem to be optional, indicating that they may not be required for the application process. The fields also include a mix of text input, email, phone number, note, select options, and attachment fields. We'll need to provide guidance on how to complete each field and explain the intent behind each option.
-
-</thinking>
-
 # Government Auditor Employment Application - Help Guide
 
 ## Purpose

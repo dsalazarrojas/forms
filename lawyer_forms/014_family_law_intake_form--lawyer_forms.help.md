@@ -1,12 +1,3 @@
-<thinking>
-**Form Purpose and Validation**
-This form is designed to collect basic information from clients seeking family law services. To ensure the form is filled out correctly, please note that:
-* The form is intended for clients who are seeking legal help related to family matters. This form is not meant for other types of legal matters.
-* Ensure that you are filling out the form for the correct purpose. If unsure, please contact the relevant authorities for guidance.
-* The form requires minimal information to ensure client anonymity and protect their sensitive data.
-* The form fields are designed to be self-explanatory, but if you have any doubts, please refer to this help guide for guidance.
-</thinking>
-
 # Family Law Intake Form - Help Guide
 ## Purpose
 The Family Law Intake Form is designed to collect basic information from clients seeking family law services. This form is meant to gather essential details to ensure that our legal experts can provide you with the best possible assistance.

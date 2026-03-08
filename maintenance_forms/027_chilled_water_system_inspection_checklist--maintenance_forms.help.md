@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chilled Water System Inspection Checklist - Help Guide
 
 ## Purpose

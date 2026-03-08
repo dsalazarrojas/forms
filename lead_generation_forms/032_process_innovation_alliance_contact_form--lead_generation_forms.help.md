@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information from users about their interests and preferences for potential collaborations or lead generation. By filling out this form, users can indicate their willingness to collaborate on a project, request collaboration, or seek leads for a project. The form is intended for users who are interested in working with the Process Innovation Alliance. Before filling out this form, we encourage users to review the provided options carefully and choose the ones that best fit their needs and interests.</thinking>
-
 # Process Innovation Alliance Contact Form - Help Guide
 ## Purpose
 The Process Innovation Alliance Contact Form is designed to help the Process Innovation Alliance gather information from potential collaborators and lead seekers. By completing this form, you can express your interest in collaborating on a project or seeking leads for a project that aligns with our alliance.

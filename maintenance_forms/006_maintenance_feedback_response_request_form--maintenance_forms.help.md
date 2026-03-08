@@ -1,5 +1,3 @@
-<thinking>...The "Maintenance Feedback Response Request Form" is used for facility managers to provide feedback on maintenance requests. The form is designed to collect information on the response provided by maintenance technicians to these requests. This information is essential for tracking and evaluating the quality of service offered by the maintenance team. To ensure accurate and timely completion of this form, please review the instructions and field explanations below...</thinking>
-
 # Maintenance Feedback Response Request Form - Help Guide
 ## Purpose
 This form is used by facility managers to provide feedback on maintenance requests. It helps to track and evaluate the quality of service offered by the maintenance team.

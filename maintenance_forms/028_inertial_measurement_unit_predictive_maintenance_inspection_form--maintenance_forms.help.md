@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for the maintenance team to perform predictive maintenance inspections on inertial measurement units (IMUs). This form collects various data points related to the IMU, including reading values, location, and status. The purpose of this form is to gather information that will be used to identify potential issues and schedule maintenance activities accordingly. This form should only be used by authorized maintenance staff to ensure accurate and consistent data entry. Before starting, please ensure that you have the necessary permissions and are familiar with the IMU type and location. If you are not sure about any field or requirement, please consult with your supervisor or refer to relevant documentation.</thinking>
-
 # Inertial Measurement Unit Predictive Maintenance Inspection Form - Help Guide
 ## Purpose
 This form is used to gather data for predictive maintenance inspections on inertial measurement units (IMUs).

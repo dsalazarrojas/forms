@@ -1,25 +1,3 @@
-<thinking>
-
-This form is used to collect feedback from customers on best practices in manufacturing. The purpose of this form is to gather information on the customer's personal details, their experience with the manufacturing process, and their agreement or disagreement with certain practices. This form helps to identify areas of improvement and ensure that the manufacturing process is running smoothly and efficiently.
-
-This form will help you provide feedback on the following:
-
-* Full name
-* Email address
-* Phone number
-* Date of reference
-* Primary selection (choice of option)
-* Quantity or rating (if applicable)
-* Additional details
-* Agreement on certain practices (multiple selection)
-* Estimated value (if applicable)
-* Preferred time (if scheduling is required)
-* Final comments or notes
-
-Please note that this form is required for all customers who wish to provide feedback on the manufacturing process.
-
-</thinking>
-
 # Best Practices In Manufacturing Feedback Form - Help Guide
 ## Purpose
 

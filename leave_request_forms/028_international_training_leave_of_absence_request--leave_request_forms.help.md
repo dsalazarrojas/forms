@@ -1,5 +1,3 @@
-<thinking>...To ensure accurate and efficient leave request processes, this form is intended to capture detailed information about employee training leave requests, allowing for a smooth and transparent approval process. To minimize duplication, please submit a new form for each separate training opportunity. This form will not be reviewed or processed for incomplete or incorrect submissions. Please review and complete this form carefully, and if you have any questions or concerns, don't hesitate to reach out to your supervisor or HR representative.</thinking>
-
 # International Training Leave Of Absence Request - Help Guide
 ## Purpose
 The purpose of this form is to gather information about an employee's International Training Leave Of Absence request, which includes details such as training location, dates, and approval status.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for the Communications Strategy And Operations Officer position. It is essential to fill out this form carefully and accurately to ensure that your application is reviewed properly. Please note that each field is marked as required or optional, and some fields may be more critical than others in terms of the application process.
-
-Before starting, make sure to review the form carefully and gather all necessary information before proceeding. If you have any questions or concerns, please do not hesitate to reach out to the contact person.
-
-This guide will walk you through each field in the form, so you can understand what is expected from you.
-
-</thinking>
-
 # Communications Strategy And Operations Officer Application - Help Guide
 ## Purpose
 The purpose of this form is to gather information from applicants for the Communications Strategy And Operations Officer position. It is designed to help our team assess your qualifications, experience, and fit for the role.

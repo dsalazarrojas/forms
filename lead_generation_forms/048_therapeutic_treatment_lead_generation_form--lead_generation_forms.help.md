@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from individuals interested in seeking therapeutic treatment. This form is designed to help the treatment team understand the nature of their potential client's needs and requirements. By filling out this form, you will be able to:
 
 *   Identify the type of therapy you are seeking (Physical, Occupational, Speech, or Chiropractic)

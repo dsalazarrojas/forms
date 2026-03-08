@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from users for the purpose of registering for the Retail Personalization API. It is crucial to ensure that the information provided is accurate and complete to facilitate the API access request process. The form is divided into two main sections: "Company and Contact Information" and "API Access Request". Each section has a series of fields that need to be filled out. Please ensure that you have the necessary information ready before proceeding. If you are unsure about any of the fields, you can always contact our support team for assistance.
-
-This form is a one-time registration process. Once submitted, the provided information will be reviewed, and further instructions will be sent to you via email. 
-
-Please make sure to review the form carefully before submitting it, as any missing or incorrect information may lead to delays in processing your API access request.
-</thinking>
-
 # Retail Personalization API Registration Form - Help Guide
 
 ## Purpose

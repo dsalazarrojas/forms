@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and manage information for small claims cases. It is meant to be filled out by claimants or their representatives to provide details about the case. The form should only be used for new, previously unfilled cases. If you have already filled out a form for a case, please do not fill out this form again.
-</thinking>
-
 # Small Claims Case Intake Form - Help Guide
 
 ## Purpose

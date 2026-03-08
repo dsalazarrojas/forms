@@ -1,10 +1,3 @@
-<thinking> 
-This form is used to collect participation and permission information from league participants, such as their name, email, and permission to use their branding and likeness in official league materials. This form is typically filled out by participants before they can participate in league activities.
-
-To ensure that each participant has given their consent for the use of their branding and likeness, this form will help to prevent duplication of effort and non-relevance in the future. It will help to ensure that each participant's information is up-to-date and accurate.
-
-</thinking>
-
 # League Branding Participation Consent Form - Help Guide
 ## Purpose
 This form is used to collect participation and permission information from league participants.

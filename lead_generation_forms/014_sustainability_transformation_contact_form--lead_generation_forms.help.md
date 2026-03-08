@@ -1,9 +1,3 @@
-<thinking>
-
-The form is for generating new leads for sustainability projects. This form collects information from potential leads who want to discuss or participate in sustainability projects with our organization. The form is meant to be non-duplicative, so users should only fill out the form once for each unique lead. This will help us to ensure that each lead is properly processed and followed up with by our team.
-
-</thinking>
-
 # Sustainability Transformation Contact Form - Help Guide
 ## Purpose
 This form is for collecting information from potential leads who want to engage with our organization in sustainability projects.

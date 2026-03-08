@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help students apply for job positions within the institution, providing a structured approach to gathering relevant information from applicants. The form is intended to assist both students and administrators in the hiring process, ensuring that necessary details are captured accurately and efficiently. To prevent duplication of efforts and misallocation of resources, please ensure that you are not submitting duplicate applications and that you are using the correct category, subcategory, and job title for your application.
-
-</thinking>
-
 # Student Assistant Application Form - Help Guide
 ## Purpose
 The Student Assistant Application Form is used to gather information from students applying for job positions within the institution. This form helps to streamline the hiring process by capturing relevant details and reducing duplication of efforts.

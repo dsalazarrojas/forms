@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request a community service leave time off from work. This form should only be used when the employee intends to volunteer for a non-profit or community group, and not for personal activities or business travel. Please check with HR or your manager before submitting this form, as approval is required for community service leave. Ensure that you have discussed your duties and responsibilities with your team and have made arrangements for coverage during your absence. The form will be reviewed and approved by the manager or HR representative.
-
-</thinking>
-
 # Community Service Leave Time Off Form - Help Guide
 ## Purpose
 This form is used to request a community service leave time off from work. Please use this form when you plan to volunteer for a non-profit or community group.

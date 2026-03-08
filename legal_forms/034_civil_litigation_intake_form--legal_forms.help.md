@@ -1,11 +1,3 @@
-<thinking>
-
-This form will be used to collect information from individuals or companies that are involved in civil litigation cases. The purpose of this form is to gather essential details about the case, including the client's identity, contact information, and the facts surrounding the incident. The form will help the intake process by providing a structured and organized way to collect information that will be used to assess the situation and determine the next steps.
-
-To ensure the form is filled out correctly, please follow the steps below and refer to the field-by-field explanation for further clarification.
-
-</thinking>
-
 # Civil Litigation Intake Form - Help Guide
 ## Purpose
 The Civil Litigation Intake Form is designed to collect detailed information about civil cases. It will help the intake process by providing a structured and organized way to collect essential details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely for use in a legal context, possibly for filing a motion for the return of property in a court case. The form appears to be designed to collect detailed information from the submitting party, including their contact details, officer information, and details about the property in question. It's possible that this form is used in conjunction with other legal processes, such as filing a claim or lawsuit. It's worth noting that some fields appear to be optional, so the form might be adapted or filled out based on specific circumstances. To confirm, further context or information about the form's purpose and usage would be necessary.
-</thinking>
-
 # Motion For Return Of Property - Help Guide
 ## Purpose
 This form is for filing a motion for the return of property in a court case.

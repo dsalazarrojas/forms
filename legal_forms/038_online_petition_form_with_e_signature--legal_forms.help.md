@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Petition Form With E Signature - Help Guide
 ## Purpose
 This guide is to help users understand and fill out the Online Petition Form With E Signature, a form designed to gather information and electronic signatures for online petitions. The form is intended for use in a legal context, such as gathering signatures for a petition, but it can also be adapted for other purposes.

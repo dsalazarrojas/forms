@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to track the progress of manufacturing innovation projects, and it's crucial that end-users understand the context. Before proceeding, ensure that this form's data collection is relevant to your project and not duplicating efforts with other forms. For instance, if you're already tracking similar data on another form, consider merging the information or using this form as a complementary tool. Please review the form's fields to ensure they accurately reflect your project's needs.
-</thinking>
-
 # manufacturing_innovation_progress_report - Help Guide
 ## Purpose
 This form is designed to collect information about the progress of your manufacturing innovation project, allowing you to track and report on key milestones, challenges, and next steps.

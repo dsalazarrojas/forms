@@ -1,7 +1,3 @@
-<thinking>
-The Legal Documentation Consent Form is intended to gather users' consents for the use, sharing, and processing of their data. This form is used in a controlled environment where users are required to provide their consents before proceeding with data-intensive activities. Each field is crucial in ensuring that users understand and agree to the usage and processing of their data. 
-</thinking>
-
 # Legal Documentation Consent Form - Help Guide
 ## Purpose
 The Legal Documentation Consent Form is designed to collect users' consents for the use, sharing, and processing of their data. This form is a crucial step in ensuring that users understand and agree to the terms and conditions of data usage.

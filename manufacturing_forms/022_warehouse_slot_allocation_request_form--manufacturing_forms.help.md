@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # warehouse_slot_allocation_request_form - Help Guide
 ## Purpose
 The warehouse slot allocation request form is designed to collect information about items that need to be stored in the warehouse. This form is used to request the allocation of warehouse slots for specific items, taking into account their quantities, timing, special requirements, and storage space and location needs.

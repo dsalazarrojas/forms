@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for digital marketing projects. The form is meant to be completed by the client themselves, providing a clear and concise way to gather essential project details. 
-The form is not intended to be filled out by marketing team members, but rather by the client, to ensure that all necessary information is collected and to avoid any potential misunderstandings. 
-
-The form is a single-page form and should take no more than 5-7 minutes to complete. 
-
-Please ensure that the form is being filled out in a way that accurately represents the project and client needs. 
-</thinking>
-
 # Digital Marketing Client Intake Form - Help Guide
 
 ## Purpose

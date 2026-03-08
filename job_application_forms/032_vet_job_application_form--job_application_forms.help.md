@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to be a user-friendly guide for completing the Vet Job Application Form. Before proceeding, please note that this form is designed for job applicants to submit their applications to veterinary clinics or hospitals. The purpose of this form is to gather information about the applicant, their education, and experience in the veterinary field.
 
 ...</thinking>

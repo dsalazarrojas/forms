@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be completed by employees who are taking a leave of absence due to health reasons. The form helps to document and track the employee's absence, including the start and end dates of the leave, the reason for the leave, and any relevant medical information. It also captures contact information for the employee and their medical contact person. The form is intended to be completed by the employee before their leave begins, and is used to ensure that all necessary information is collected and recorded accurately. It is essential that this form is completed correctly, as it will be used to determine the employee's eligibility for benefits and other leave-related purposes.
-
-Before starting this form, please ensure that you have all the necessary information and documentation ready. This form should only be completed once, and any subsequent absences should be reported on a separate form if required.
-
-Please fill in the form with the requested information, and be as accurate as possible. If you are unsure about any section, please ask your HR representative for clarification.
-</thinking>
-
 # Health Check Absence Form - Help Guide
 ## Purpose
 The Health Check Absence Form is a mandatory form to be completed by employees taking a leave of absence due to health reasons.

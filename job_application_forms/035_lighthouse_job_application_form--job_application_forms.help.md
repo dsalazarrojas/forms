@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect job application information from potential candidates for Lighthouse positions. This form is meant to help Lighthouse staff efficiently gather necessary details from applicants. The form is not intended to be a comprehensive assessment of the candidate's qualifications, but rather a starting point for further evaluation. 
-
-The form is divided into several sections, each focusing on different aspects of the application. The applicant will be asked to provide general information, contact details, specific job title, work experience, education, availability, location, skills, resume, notes, email, phone number, job status, and salary range. 
-
-Please ensure that each field is filled out with accurate and relevant information. The form is designed to be easy to use and understand, but if you have any questions or concerns, don't hesitate to reach out to Lighthouse staff.
-
-</thinking>
-
 # Lighthouse Job Application Form - Help Guide
 
 ## Purpose

@@ -1,25 +1,3 @@
-<thinking>
-The purpose of this form is to request maintenance for a power generator, which is likely a critical piece of equipment in an industrial or commercial setting. It's essential to gather information from facility managers to ensure that the maintenance is done on time and efficiently. This form will help to centralize the maintenance requests, making it easier to track and assign tasks to the relevant service providers. It's crucial that the form is filled out accurately to ensure that the maintenance request is processed correctly.
-
-The form is designed to be filled out by the facility manager, and it's essential to provide as much information as possible to help the service provider understand the maintenance issue and schedule the visit accordingly. 
-
-The following information will be gathered:
-- Facility manager's name and email
-- Facility manager's phone number
-- Facility location
-- Equipment type
-- Maintenance issue description
-- Scheduled visit date
-- Service provider to be assigned
-- Additional comments
-- Uploading of relevant files
-- Status update
-
-This form is designed to be completed in two stages: the first stage is filling out the form with all the required information, and the second stage is uploading any relevant files and submitting the form for processing.
-
-Please fill out the form carefully and thoroughly, as it will help the service provider to understand the maintenance issue and schedule the visit accurately.
-</thinking>
-
 # Power Generator Maintenance Request Form - Help Guide
 ## Purpose
 The Power Generator Maintenance Request Form is designed to centralize the maintenance requests for power generators in industrial or commercial settings. It gathers information from facility managers to ensure that the maintenance is done on time and efficiently.

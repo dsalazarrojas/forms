@@ -1,9 +1,3 @@
-<thinking>
-This form is used to create a Durable Power of Attorney, a legal document that grants one person (the "grantor") the authority to act on behalf of another person (the "attorney"). The grantor will have the power to make decisions and take actions for the attorney, typically in situations where the attorney is unable to act for themselves.
-This form is not intended for general use, as it's a specialized form used in specific situations.
-Please note that the following fields are required to be completed: grantor_phone (Yes or No).
-</thinking>
-
 # Durable Power Of Attorney Form - Help Guide
 ## Purpose
 This form is used to create a legal document that grants one person the authority to act on behalf of another.

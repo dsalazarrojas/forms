@@ -1,12 +1,3 @@
-<thinking>
-Before creating the help guide, I want to make sure I understand the form's purpose and relevance. 
-
-This form appears to be for collecting information from potential customers who are interested in permanent makeup services. It captures basic personal information, such as name, contact details, and service preferences. The form also requests a consultation date and time, which suggests that it is used to schedule appointments.
-
-I will create a detailed help guide, but I need to clarify that all fields are not marked as required, which means customers are not obligated to fill them. I'll highlight this in the guide.
-
-</thinking>
-
 # Permanent Makeup Consultation Form - Help Guide
 ## Purpose
 This form is used to gather information from you for a permanent makeup consultation. You can submit this form to schedule an appointment and discuss your personal preferences and service requirements with our team.

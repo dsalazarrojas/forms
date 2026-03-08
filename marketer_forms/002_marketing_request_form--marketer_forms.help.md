@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect marketing request information from customers, which will be used to follow up on their requests and ensure that their marketing needs are met. The form will be reviewed to prevent duplication and ensure that we are not wasting our marketing efforts on non-qualified leads. This form will help us to identify potential leads and assign them to the appropriate team members for further follow-up...</thinking>
-
 # Marketing Request Form - Help Guide
 
 ## Purpose

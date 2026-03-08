@@ -1,8 +1,3 @@
-<thinking>
-This form is used to process laboratory supply orders, likely for a laboratory or scientific research setting. The form is designed to collect user information, payment method, items ordered, total items, and order notes. The purpose of this form is to facilitate efficient ordering of laboratory supplies, ensuring accurate and timely delivery of required materials.
-The key fields in this form include user input, payment method, items ordered, total items, and order notes. The form's functionality and fields are likely part of a larger system for managing laboratory supply orders. 
-</thinking>
-
 # Lab Supply Order Form - Help Guide
 
 ## Purpose

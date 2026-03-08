@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # A3 Problem Solving Report - Help Guide
 ## Purpose
 This form is designed to help teams identify and document problem-solving activities using the A3 Problem Solving Report template. The A3 method is a tool for structured problem-solving and communication that ensures clear documentation, analysis, and implementation of solutions. This guide explains each step and field in the form to help teams complete it effectively.

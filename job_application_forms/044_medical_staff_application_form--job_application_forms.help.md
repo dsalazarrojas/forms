@@ -1,9 +1,3 @@
-<thinking>
-The Medical Staff Application Form is designed to collect information from individuals applying to work in the medical field, such as hospitals, clinics, or other healthcare facilities. This form aims to gather essential details about the applicant's background, skills, and qualifications, including their medical staff status, work experience, education, medical specialties, language proficiency, and other relevant information. It's crucial to understand that this form may be used for both current and prospective employees, ensuring that all medical staff have the necessary credentials and qualifications for their role.
-
-Before proceeding with the form, kindly ensure that you have all the required information and documents ready for submission. Duplicate or redundant entries should be avoided, as this may delay the application process.
-
-</thinking>
 # Medical Staff Application Form - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information from individuals applying to work in the medical field. It helps to ensure that all applicants have the necessary credentials and qualifications for their role.

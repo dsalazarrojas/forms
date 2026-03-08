@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to generate leads for the travel industry. It collects information about travel leads from users who are interested in booking travel packages. The purpose of this form is to gather essential details about the leads, which can be used for further follow-up and sales processes.
-The form is not a replica or derivative of any existing form platform, but an original creation using AI-generated form design based on public survey topic metadata.
-This form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell it, as long as they give credit.
-</thinking>
-
 # Travel Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who are interested in booking travel packages, aiming to generate leads for the travel industry.

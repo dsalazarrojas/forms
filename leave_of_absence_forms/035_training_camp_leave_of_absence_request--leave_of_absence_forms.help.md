@@ -1,7 +1,3 @@
-<thinking>
-This is a form for submitting a leave of absence request. It should only be filled out by employees who need to take a leave for a specific reason. Please make sure you have discussed your request with your manager and coach before filling out this form. Also, be aware that submitting this form will not automatically grant you a leave of absence, but it will initiate the approval process.
-</thinking>
-
 # Training Camp Leave Of Absence Request - Help Guide
 ## Purpose
 The Training Camp Leave Of Absence Request form is used to submit a leave request for a specific reason. This form should be filled out by employees who need to take a leave of absence and have discussed their request with their manager and coach.

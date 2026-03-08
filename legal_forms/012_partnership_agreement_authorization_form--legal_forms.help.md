@@ -1,10 +1,3 @@
-<thinking>
-To confirm the relevance and non-duplication of this form, I will review the provided YAML fields. This form appears to be a Partnership Agreement Authorization Form used to collect information about business partnerships, including details such as business name, partner name, and address, as well as agreement terms and conditions. I will ensure that the form is not duplicated and that its purpose is clear to the end user.
-
-Upon review, I have confirmed that this form is not duplicated and its purpose is to collect information about partnership agreements. The form consists of 25 fields, including text, date, time, number, select_one, select_multiple, and note fields. The required fields are marked as "required: false", indicating that all fields are optional. The form's purpose is to collect information for business partnership agreements, and I will ensure that the help guide accurately reflects this purpose.
-
-</thinking>
-
 # Partnership Agreement Authorization Form - Help Guide
 ## Purpose
 The Partnership Agreement Authorization Form is used to collect information about business partnerships, including business and partner details, agreement terms and conditions, and authorization and agreement status.

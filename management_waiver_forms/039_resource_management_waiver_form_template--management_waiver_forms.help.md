@@ -1,5 +1,3 @@
-<thinking>...The form is intended to manage the resource usage waiver process, ensuring that resources are used responsibly and within the agreed-upon terms. The form is used to acknowledge risks associated with resource usage, outline usage rules, provide access information, resource usage terms, and gather details on resource return information, user acknowledgement, resource owner status, resource name, description, identifier, version, status, location, location type, location details, owner email, phone number, and additional comments. This form should only be completed by authorized personnel. The form fields should not be duplicated or filled out with inaccurate information. Please ensure the form is filled out accurately and completely before submission...</thinking>
-
 # Resource Management Waiver Form Template - Help Guide
 
 ## Purpose

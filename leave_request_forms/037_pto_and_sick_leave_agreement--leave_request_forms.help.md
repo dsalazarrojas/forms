@@ -1,8 +1,3 @@
-<thinking>
-This help guide is designed to provide a clear understanding of the PTO And Sick Leave Agreement form, ensuring that end-users can effectively complete it. The form is intended to facilitate a comprehensive agreement between an employee and their manager and department head, addressing PTO and sick leave policies and procedures. Before proceeding, please note that this form is an AI-generated adaptation of a public survey, and it is not affiliated with or endorsed by any form platform.
-
-</thinking>
-
 # PTO And Sick Leave Agreement - Help Guide
 ## Purpose
 This form serves as an agreement between an employee and their manager and department head for managing PTO and sick leave. It helps establish clear expectations and guidelines for taking time off due to personal reasons or illness, ensuring a smooth and efficient process.

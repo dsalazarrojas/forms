@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scale Inspection And Production Form - Help Guide
 ## Purpose
 The Scale Inspection and Production Form is used to document and track the production process of scales, measuring machines, and weighing systems. It captures essential information about each production run, including production date, status, quantity, and any issues encountered during inspection. This form helps ensure that production is accurately recorded and that any problems are identified and addressed in a timely manner.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to request reimbursement for business travel expenses. The form should only be used for travel that is related to work. Non-work-related travel expenses should not be submitted through this form. Please ensure that you have already checked with your manager to see if the travel has been approved before submitting this form. If you have already received reimbursement for the same travel expenses, do not resubmit the form.
-</thinking>
-
 # travel_expense_reimbursement_form - Help Guide
 ## Purpose
 The travel expense reimbursement form is for employees to request reimbursement for business-related travel expenses. Only submit this form for travel that is approved by your manager and not for non-work-related activities.

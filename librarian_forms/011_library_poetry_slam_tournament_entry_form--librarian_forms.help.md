@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Library Poetry Slam Tournament Entry Form - Help Guide
 
 ## Purpose

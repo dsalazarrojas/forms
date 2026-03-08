@@ -1,12 +1,3 @@
-<thinking>
-This form is for users to register a digital classroom research collaboration. It's essential to understand the purpose and context of this form before completing it. 
-
-The purpose of this form is to provide a structured way for users to register their digital classroom research collaboration projects. This includes specifying the category, description, email, phone number, form ID, assigned tool, output file, and other relevant details. 
-
-Before proceeding, ensure that you have all the necessary information and that you're not duplicating an existing entry. If you're unsure, please contact your supervisor or the research collaboration management team for guidance.
-
-</thinking>
-
 # Digital Classroom Research Collaboration Registration Form - Help Guide
 ## Purpose
 This form is used to register digital classroom research collaborations for K-12 forms or other categories.

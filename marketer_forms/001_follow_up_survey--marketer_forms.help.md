@@ -1,7 +1,3 @@
-<thinking>
-To create the user-facing help guide for this form, I will review the provided YAML fields to understand the form's purpose and functionality.
-</thinking>
-
 # Follow Up Survey - Help Guide
 ## Purpose
 The Follow Up Survey form is designed to gather customer feedback on a company or individual. It is a simple, easy-to-use form that allows customers to provide their opinions and suggestions.

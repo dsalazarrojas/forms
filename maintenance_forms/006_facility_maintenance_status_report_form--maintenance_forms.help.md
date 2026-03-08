@@ -1,9 +1,3 @@
-<thinking>
-The facility maintenance status report form is used by facility management personnel to track and report on maintenance requests and their respective statuses. This form is used to ensure that maintenance requests are properly assessed, prioritized, and resolved in a timely and efficient manner. The form is designed to be simple and easy to use, while still capturing all necessary information for accurate tracking and reporting.
-
-Before filling out this form, please ensure that you have all necessary information and approvals before submitting. Duplicate requests will not be accepted.
-</thinking>
-
 # Facility Maintenance Status Report Form - Help Guide
 ## Purpose
 The purpose of this form is to report on the status of maintenance requests for facilities. Please use this form to update the status of maintenance requests as needed.

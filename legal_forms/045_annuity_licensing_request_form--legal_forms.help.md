@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to facilitate the process of annuity licensing for individuals. The form is designed to collect relevant information from the applicant, including personal details, professional experience, and licensing history. The form aims to ensure that the applicant meets the required standards and qualifications for annuity licensing. It's essential to complete this form accurately and thoroughly to avoid delays or rejection of the license request. Please ensure that the information provided is true and up-to-date. Note that some fields are required, and failure to provide accurate information may lead to form rejection or delay.
-
-</thinking>
-
 # Annuity Licensing Request Form - Help Guide
 ## Purpose
 This form is used to request an annuity license from the state insurance authority. It collects information about the applicant, their professional experience, and licensing history to ensure they meet the required standards for licensing.

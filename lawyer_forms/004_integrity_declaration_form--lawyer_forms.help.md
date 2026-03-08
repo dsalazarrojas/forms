@@ -1,8 +1,3 @@
-<thinking>
-The integrity declaration form is likely used for legal or financial purposes within a company or organization, possibly for declaring the presence or absence of subsidiaries, shareholders, or other related matters. This form might be used in scenarios such as due diligence processes, annual reports, or regulatory compliance. 
-Before filling out the form, review the provided information carefully to ensure the form is relevant and not a duplicate of existing forms. 
-</thinking>
-
 # Integrity Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect information about a company's integrity, including declarations about subsidiaries, shareholders, and other sensitive information. The form will help ensure the accuracy and completeness of the information provided.

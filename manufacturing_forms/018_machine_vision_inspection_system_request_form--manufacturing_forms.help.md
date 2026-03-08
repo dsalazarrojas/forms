@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Machine Vision Inspection System Request Form - Help Guide
 ## Purpose
 This form is used to request the use of the Machine Vision Inspection System. It is intended to collect information about new projects that require access to this system. Please use this form to provide accurate and comprehensive details about your project.

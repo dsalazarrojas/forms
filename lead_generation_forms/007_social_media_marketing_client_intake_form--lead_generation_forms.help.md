@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information from clients about their social media marketing needs, goals, and preferences. The information collected will help us understand their target audience, preferred marketing channels, social media presence, marketing budget, campaign start date, time zone, and contact information. This form is designed to be as comprehensive as possible without overwhelming the user with unnecessary questions.
-We encourage users to fill out the form with care, making sure to provide accurate and clear information, to ensure that we can tailor our services to meet their needs effectively. 
-Please note that some of the fields are optional, but providing as much relevant information as possible will help us provide better services. 
-This form is designed to be used by clients who are interested in our social media marketing services and want to get started.
-</thinking>
-
 # Social Media Marketing Client Intake Form - Help Guide
 
 ## Purpose

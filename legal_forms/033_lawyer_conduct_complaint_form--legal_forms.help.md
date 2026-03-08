@@ -1,11 +1,3 @@
-<thinking>
-Checking the form's internal metadata, I see that this is a Lawyer Conduct Complaint Form. It's designed to collect information about lawyer conduct complaints, which are essential for ensuring ethical standards in the legal profession. This form will likely be used by lawyers, law firms, or legal institutions to report or investigate alleged misconduct by their colleagues. It's likely that the form will be completed by a lawyer who has experienced or witnessed misconduct by another lawyer. The form's fields suggest it's focused on gathering details about the complaint, including the date and description of the incident, the level of conduct, and any supporting evidence. The form will probably be used to initiate an investigation or follow-up action. There's no indication that this form is intended for public use or external submission, suggesting that the form is internal to the organization or institution handling complaints.
-
-The form includes various fields for selecting and providing information about the complainant, respondent, and outcome. These fields are likely used to track progress and resolution of the complaint. The form also has fields for assigning tasks and tracking follow-up activities. This form's structure implies it's part of a larger process for managing lawyer conduct complaints, likely integrated with other tools or systems.
-
-I'll now create a user-facing help guide for this form.
-</thinking>
-
 # Lawyer Conduct Complaint Form - Help Guide
 ## Purpose
 The Lawyer Conduct Complaint Form is used to report or investigate allegations of misconduct by lawyers. It's designed to gather essential information about the complaint, the lawyer involved, and the outcome of the process.

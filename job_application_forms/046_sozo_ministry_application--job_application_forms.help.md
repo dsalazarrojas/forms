@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for a ministry program at Sozo. The purpose of this form is to gather necessary details about the applicant's relationship with their father, son, and Holy Spirit, as well as their medical, spiritual, family, education, work, financial, personal, and emergency contacts. This form is a critical part of the application process and must be completed accurately and thoroughly. Please review the following guide to ensure you complete the form correctly.
-
-</thinking>
-
 # sozo_ministry_application - Help Guide
 ## Purpose
 This form is used to collect essential information from applicants for a ministry program at Sozo.

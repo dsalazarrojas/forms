@@ -1,7 +1,3 @@
-<thinking>
-This form is for employees to request time off for health-related reasons. It should only be filled out by employees when they have a valid doctor's note or certification to support their request. To ensure accuracy and efficiency, please double-check that your employee has a doctor's note or certification before submitting this form. Additionally, if an employee has already submitted a leave request for the same time period, please do not resubmit a new request without first checking that it hasn't been processed yet. Thank you.
-</thinking>
-
 # health-challenge-leave-time-off-form - Help Guide
 ## Purpose
 This form is used by employees to request time off due to health reasons, requiring a doctor's note or certification for approval.

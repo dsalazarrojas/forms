@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users who are applying for a mortgage loan. The form is designed to collect personal details, employment status, income details, property type, loan purpose, and other relevant information to facilitate the loan application process. This form is typically completed by individuals or businesses seeking a mortgage loan.
-
-**Internal check:**
-This form is a generic form and may need to be adapted to specific business needs and use cases. The fields and options should be reviewed and updated as needed to ensure they match the actual needs of the business.
-
-</thinking>
 # Mortgage Loan Application - Help Guide
 ## Purpose
 The mortgage loan application form is designed to collect necessary information for a mortgage loan application. This information will be used to assess loan eligibility and facilitate the loan process.

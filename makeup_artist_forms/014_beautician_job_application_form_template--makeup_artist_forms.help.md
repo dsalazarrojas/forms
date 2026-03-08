@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in applying for a position as a beautician. The primary purpose of this form is to gather essential details from applicants, including personal information, employment details, work experience, skills, and qualifications. This information will be used to assess the applicant's suitability for the position and to facilitate the application process. It's essential to ensure that all sections of the form are completed accurately and thoroughly to increase the chances of being considered for the position.
-</thinking>
-
 # Beautician Job Application Form Template - Help Guide
 ## Purpose
 The Beautician Job Application Form is a comprehensive form designed to collect information from applicants interested in working as a beautician. This form is a vital part of the application process, and it is essential to fill it out accurately and thoroughly.

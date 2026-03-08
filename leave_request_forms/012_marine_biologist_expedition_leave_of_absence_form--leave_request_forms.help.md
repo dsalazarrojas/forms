@@ -1,11 +1,3 @@
-<thinking>...checking for non-duplication and relevance...
-
-This form is designed to collect information about a marine biologist's leave of absence for an expedition. The purpose of this form is to document and track the biologist's absence, providing details about their expedition, research institution, and contact information. The form will help to prevent non-duplication of work and ensure smooth communication with the researcher while they are away.
-
-The form should only be filled out when an actual leave of absence has been approved.
-
-</thinking>
-
 # Marine Biologist Expedition Leave Of Absence Form - Help Guide
 ## Purpose
 This form is designed to collect information about a marine biologist's leave of absence for an expedition. It helps to document and track the biologist's absence, ensuring smooth communication and preventing non-duplication of work.

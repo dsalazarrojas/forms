@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for barbers and individuals interested in applying for a job at a barber shop. It gathers personal and professional information from the applicant, including their contact details, professional licensing status and credentials, work experience, skills, and availability. To ensure that the form is completed accurately and correctly, please review each section carefully.
-</thinking>
-
 # Barber Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants who want to work as a barber at our shop. Please fill out this form completely and accurately to increase your chances of getting hired.

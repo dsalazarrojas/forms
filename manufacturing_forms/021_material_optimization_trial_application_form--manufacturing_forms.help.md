@@ -1,10 +1,3 @@
-<thinking>
-We are creating a form that will help users optimize their materials for manufacturing processes. This form is designed to collect information about whether users want to apply for a material optimization trial, their selection of options, and details about their manufacturing process and trial request date.
-
-To confirm, this form is meant to be used by manufacturing staff to gauge interest in material optimization trials and collect relevant information from users. This form should not be used for other purposes.
-
-This form does not currently collect any redundant or duplicate data, and the purpose is clear and concise.</thinking>
-
 # Material Optimization Trial Application Form - Help Guide
 ## Purpose
 The Material Optimization Trial Application Form is a tool to help users optimize their materials for manufacturing processes. The form collects information about whether users want to apply for a material optimization trial, their selection of options, and details about their manufacturing process and trial request date.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form, "Life Insurance Records Release Form," is used for releasing and managing life insurance records. It's likely used by life insurance companies or their authorized representatives to collect information from policy holders or their beneficiaries. Before completing this form, ensure you understand the specific use case and the required information to be collected, as this form might be used for multiple purposes. To avoid duplication, ensure you're not using this form when other forms are already available or in use within the same context.
-
-</thinking>
-
 # life_insurance_records_release_form - Help Guide
 ## Purpose
 The Life Insurance Records Release Form is used for collecting and managing life insurance information from policy holders or their beneficiaries.

@@ -1,20 +1,3 @@
-<thinking>
-To ensure the form is completed correctly, the user must understand the purpose and intent behind each field. This form is used to collect data for genetic feedback loop research, which likely involves studying the effects of genetic variations on specific traits or behaviors. 
-
-The fields are divided into several categories to gather various pieces of information, such as study details, subject information, feedback loop type, and study duration. Some fields are optional, which means they can be left blank if not relevant or applicable. The fields are designed to collect data in a structured and organized way to make it easier for researchers to analyze and understand the genetic feedback loop phenomenon.
-
-Before filling out this form, ensure that:
-
-* Each required field is filled out correctly. If a field is not relevant or applicable, try to leave it blank rather than providing incorrect information.
-* The feedback loop type field is selected from the options provided.
-* If providing an email address, it should be valid and properly formatted.
-* If filling out date and time fields, use the correct format to avoid errors.
-* If selecting multiple options for the consent form field, make sure to select options that apply to your study.
-
-This form is a general guideline to help users complete it correctly. However, the specific requirements and regulations for each study may vary, and the user should always check with their supervisor or research committee for specific guidelines.
-
-</thinking>
-
 # Genetic Feedback Loop Research Data Collection Form - Help Guide
 ## Purpose
 

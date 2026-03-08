@@ -1,7 +1,3 @@
-<thinking>**Internal reasoning block**
-
-This form is intended to capture information and decisions made for executive educational sabbaticals, which allow executives to take a temporary break from work for educational purposes. The form should only be used for genuine educational pursuits, and not for personal or non-work-related activities. Before filling this form, ensure you have discussed your plans with your supervisor or manager to get approval for your leave. This form is not meant to be duplicated for multiple requests; each submission should be unique and specific to the executive's needs. Please fill this form accurately and honestly, as the decisions made based on this form will impact your work schedule and your colleagues' workloads.</thinking>
-
 # Executive Educational Sabbatical Leave Application - Help Guide
 
 ## Purpose

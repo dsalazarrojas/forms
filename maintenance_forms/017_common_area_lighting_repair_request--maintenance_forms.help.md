@@ -1,6 +1,4 @@
-> <thinking>Common Area Lighting Repair Request forms are used to submit requests for repairs or maintenance of common area lighting in residential or commercial properties. This form is used to ensure that the correct information is captured and routed to the relevant personnel for prompt resolution. Please only submit new requests for issues that have not already been reported or resolved.</thinking>
-
-# Common Area Lighting Repair Request - Help Guide
+> # Common Area Lighting Repair Request - Help Guide
 ## Purpose
 The Common Area Lighting Repair Request form is used to submit a report of a lighting issue in a common area of a property.
 

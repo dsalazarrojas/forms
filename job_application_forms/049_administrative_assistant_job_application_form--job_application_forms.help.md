@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for candidates to submit their applications for the Administrative Assistant position. The form gathers essential information about the applicant's personal details, work history, education, and professional references. The data collected will be used by the hiring team to evaluate and process the candidate's application.
 
 # Administrative Assistant Job Application Form - Help Guide

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about students in a school setting. The form is likely used for administrative or educational purposes, such as tracking student progress or creating student profiles. The form fields cover various aspects of a student's information, including contact details, academic performance, and behavioral data.
-The form is designed to be completed by students or administrators, and it's essential to understand the purpose of each field to ensure accurate and complete information is submitted.
-</thinking>
-
 # Student Information Collection Form - Help Guide
 ## Purpose
 The Student Information Collection Form is designed to collect essential details about students, including contact information, academic performance, and behavioral data. This form helps administrators and educators to track student progress, create profiles, and make informed decisions.

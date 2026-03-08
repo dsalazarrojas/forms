@@ -1,5 +1,3 @@
-<thinking>... This form is used to request a leave of absence for an employee's palliative care needs. It is a critical form that requires careful completion to ensure that all necessary information is provided. Before filling out this form, please make sure that you are not requesting this type of leave for non-medical reasons, such as vacation or personal time off. This form should only be used for palliative care, which means care provided to a person with an illness that has no cure and is life-limiting. The form should not be used for other types of leaves. Also, ensure that you have the necessary supporting documentation, such as medical certificates, before submitting the form. </thinking>
-
 # Palliative Care Leave Form - Help Guide
 ## Purpose
 This guide will walk you through the completion of the Palliative Care Leave Form. This form is used to request a leave of absence for palliative care and must be completed accurately and thoroughly.

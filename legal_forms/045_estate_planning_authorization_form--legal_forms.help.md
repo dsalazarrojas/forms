@@ -1,5 +1,3 @@
-<thinking>... This form is designed for estate planning purposes, which include authorizing a representative to make decisions on behalf of an individual or entity. It is meant to be completed by clients to grant power to a legal representative to act on their behalf in various legal matters. To avoid duplication and ensure accuracy, please review the form carefully before submission. It is not intended to be used for other purposes such as power of attorney or advance directive, which may have different requirements and procedures. </thinking>
-
 # Estate Planning Authorization Form - Help Guide
 ## Purpose
 The Estate Planning Authorization Form is a document that grants power to a legal representative to act on behalf of an individual or entity in various legal matters. This form is used to authorize a representative to make decisions, sign documents, and take actions on behalf of the client.

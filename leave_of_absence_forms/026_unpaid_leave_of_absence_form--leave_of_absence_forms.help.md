@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # unpaid_leave_of_absence_form - Help Guide
 ## Purpose
 The Unpaid Leave of Absence Form is intended for employees to notify their employer of their intention to take unpaid leave of absence. This form helps managers and HR teams keep track of employee leave requests and associated dates.

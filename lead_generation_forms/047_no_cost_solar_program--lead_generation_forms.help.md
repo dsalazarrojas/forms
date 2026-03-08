@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to gather information about a customer's interest in a No Cost Solar program. The purpose of this form is to provide a way for customers to express their interest in the No Cost Solar program, share their contact information, and provide details about their location. This information will be used to follow up with customers and provide them with more information about the program. It's possible that the customer may have already filled out the form, in which case, please be aware of their previous submission and avoid duplication of information. To ensure the customer's information is captured accurately and consistently, please review each field carefully and make sure it's completed in the correct format. This guide is intended to help customers understand what to expect from each field in the form.
-</thinking>
-
 # No Cost Solar Program. - Help Guide
 ## Purpose
 This form is designed to gather information from customers interested in the No Cost Solar program. It will help us follow up with customers and provide them with more information about the program.

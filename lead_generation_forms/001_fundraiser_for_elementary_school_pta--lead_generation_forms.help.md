@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "Fundraiser For Elementary School PTA" form. Please ensure that you are using this form to create a fundraiser for an Elementary School PTA event. The form is used to collect information about a fundraiser, including the details about the event, such as the target amount, actual amount raised, and description. This guide will walk you through each field of the form to ensure that you understand how to complete it correctly.
-</thinking>
-
 # Fundraiser For Elementary School PTA - Help Guide
 
 ## Purpose

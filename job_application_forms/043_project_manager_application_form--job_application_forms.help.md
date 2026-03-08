@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to apply for the position of Project Manager. 
-The form is split into multiple pages, and each page contains fields with different types and labels. 
-The form is not mandatory, meaning users do not need to fill out all fields to submit.
-Before proceeding with the form, please ensure that you are eligible for this application and not duplicating an existing application.
-</thinking>
-
 # Project Manager Application Form - Help Guide
 ## Purpose
 The Project Manager Application Form is a form designed for users to apply for the position of Project Manager. It is a multi-page form that collects relevant information from applicants.

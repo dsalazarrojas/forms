@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended for users to understand the purpose and requirements of the "parent_reading_activity_guide" form, which is used to gather information about parents and caregivers. The form is designed to collect data on various aspects of parent and caregiver education, reading frequency, and other relevant details.
-
-To avoid duplication of effort, it is crucial that users understand the purpose and requirements of the form before proceeding. This guide aims to provide a clear and concise explanation of the form's purpose and each field's significance.
-
-</thinking>
-
 # parent_reading_activity_guide - Help Guide
 ## Purpose
 The "parent_reading_activity_guide" form is designed to collect information about parents' and caregivers' education, reading frequency, and other relevant details. This form is used to gather data for educational research and development purposes.

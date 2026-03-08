@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process name changes for individuals. The form fields are designed to collect relevant information from the user, ensuring that all required fields are accurately filled out to facilitate a smooth and efficient name change process. This guide will walk you through each field to ensure you understand what information is needed for a successful submission.
-</thinking>
-
 # Name Change Petition Form - Help Guide
 ## Purpose
 This form is used to collect information for a name change petition, which is a formal request to update an individual's name in public records. The information collected will be used to initiate the name change process.

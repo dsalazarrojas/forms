@@ -1,9 +1,3 @@
-<thinking>... internal reasoning and checks for duplication and relevance...
-
-This form is used to declare domestic currency borrowing transactions. It collects information about the borrowing process, including the borrower's name, contact information, and details about the loan.
-
-This form should not be used for other types of transactions or for external users who are not authorized to perform domestic currency borrowing. If you are not sure about the purpose or relevance of this form, please reach out to the relevant authorities for clarification.</thinking>
-
 # Domestic Currency Borrowing Declaration Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from businesses applying for a loan. The form collects data on the business's name, type, purpose, contact details, and social media presence. The purpose of this form is to assist the lending institution in evaluating the business's eligibility and creditworthiness for a loan.
-</thinking>
-
 # Loan Pre Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from businesses applying for a loan.

@@ -1,5 +1,3 @@
-<thinking>...checking for relevance and non-duplication...</thinking>
-
 # Creative Break Leave Of Absence Request - Help Guide
 ## Purpose
 This form is for requesting a creative break leave of absence from work. It is used to submit a request for a leave of absence to your manager, including the start and end dates of the leave, the number of leave days, and a brief reason for the leave. Your manager will use this information to review and approve or decline your request.

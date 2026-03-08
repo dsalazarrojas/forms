@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Absence Request Form - Help Guide
 
 ## Purpose

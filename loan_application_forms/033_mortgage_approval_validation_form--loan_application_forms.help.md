@@ -1,13 +1,3 @@
-<thinking>
-The purpose of the Mortgage Approval Validation Form is to collect relevant information about a loan application, including applicant details, property information, credit score, employment status, income, loan amount, term, interest rate, loan rate type, loan type, applicant income, loan status, property type, and loan security details. This form aims to validate and verify the accuracy of the loan application, ensuring that all necessary information is provided and meets the requirements for a mortgage approval.
-To confirm that this form is relevant to the loan application process and not a duplication of effort, the following fields should be checked for accuracy and completeness:
-- The form should only be used for loan applications that are not pre-approved or in progress.
-- The applicant's credit score, employment status, and income range should be accurate and consistent with the information provided.
-- The loan amount, term, interest rate, and rate type should be realistic and reasonable for the applicant's financial situation.
-- The loan type and property type should match the purpose of the loan.
-- The loan status should reflect the current state of the loan application.
-</thinking>
-
 # Mortgage Approval Validation Form - Help Guide
 ## Purpose
 The Mortgage Approval Validation Form is designed to collect and verify the necessary information for a mortgage loan application. It helps to ensure that all required fields are filled out correctly and that the loan application meets the necessary criteria for approval.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Production Batch Update Request Form - Help Guide
 ## Purpose
 The Production Batch Update Request Form is used to update production batch information. This form helps production team members to submit requests for updates to production batches. It ensures that all necessary information is documented and reviewed before proceeding with updates.

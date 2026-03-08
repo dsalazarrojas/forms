@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help the user submit a new lead for the Gardening Workshop Series. To use this form, you must have a valid email address, as it will be used as the email address for further communication. Please make sure you're not submitting duplicate leads. This form is not suitable for workshop attendees. To submit a new lead, please follow the instructions below.
-</thinking>
-
 # Gardening Workshop Series Lead Generation - Help Guide
 ## Purpose
 The Gardening Workshop Series Lead Generation form is used to collect information from potential attendees of the gardening workshop series.

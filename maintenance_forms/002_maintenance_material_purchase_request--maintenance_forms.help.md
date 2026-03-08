@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting maintenance materials, providing details about the request, and tracking the status of the form. The fields are designed to gather necessary information for efficient maintenance planning and execution. Before filling out this form, please ensure you have all relevant details and that the request is not already in progress.
-</thinking>
-
 # Maintenance Material Purchase Request - Help Guide
 
 ## Purpose

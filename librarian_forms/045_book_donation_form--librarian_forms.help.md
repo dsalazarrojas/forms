@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for library staff to collect information from donors who are giving away books to the library. The form is used to capture the donor's details, book details, and pickup requirements. This form is typically used for internal purposes, so only library staff will be able to access and utilize the submitted data. To avoid duplication, please do not submit the same form multiple times.
-</thinking>
-
 # Book Donation Form - Help Guide
 ## Purpose
 This form is used to collect information from donors who are giving away books to the library.

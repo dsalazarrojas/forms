@@ -1,7 +1,3 @@
-<thinking>
-This form is for music promotion purposes only. It is not intended for any other use case. Ensure that this form is not used for any other purpose, as it is a specific tool for music promotion.
-</thinking>
-
 # Music Promotion Form - Help Guide
 ## Purpose
 The Music Promotion Form is a tool for music promotion purposes. It helps gather information about an artist, their music, and the promotional package. The form is designed to be completed by artists or their representatives to promote their music to various channels.

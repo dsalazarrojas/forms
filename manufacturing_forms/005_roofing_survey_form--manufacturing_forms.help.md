@@ -1,7 +1,3 @@
-<thinking>
-This form is likely for gathering information from a customer or client about a specific roofing project. It's possible that this form is part of a larger project management system for tracking and organizing project details. I will assume the form is meant to capture the following information: customer name, project location, project type, start and end dates, and project manager. I will provide a clear and concise explanation of each field to help users understand the form's purpose and requirements.
-</thinking>
-
 # Roofing Survey Form - Help Guide
 ## Purpose
 The Roofing Survey Form is used to collect information from customers or clients about their roofing projects. This form helps gather essential details about the project, including customer name, project location, project type, start and end dates, and project manager.

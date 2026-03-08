@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a comprehensive risk assessment form for mortgage loans, designed to gather information about the applicant's creditworthiness and loan terms. The form appears to be a mix of demographic and financial data, such as credit score, debt-to-income ratio, loan amount, employment status, and income source. It also includes fields for loan product, loan term length, risk assessment, and additional notes. The form's layout seems to be organized to facilitate a systematic analysis of the applicant's credit risk.
-</thinking>
-
 # Mortgage Loan Risk Assessment Form - Help Guide
 
 ## Purpose

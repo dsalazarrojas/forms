@@ -1,7 +1,3 @@
-<thinking> This form is designed for users to inquire about off grid energy solutions, specifically for those who are interested in exploring alternative energy systems for their homes or businesses. The purpose of the form is to collect information from users to understand their energy needs and preferences, which will help energy companies to provide tailored solutions. The form is composed of various sections, each collecting different types of information about the user's project, location, and energy preferences.
-
-</thinking>
-
 # Off Grid Energy Solutions Inquiry - Help Guide
 ## Purpose
 This form is designed for users to inquire about off grid energy solutions for their homes or businesses. It helps energy companies understand users' energy needs and preferences to provide tailored solutions.

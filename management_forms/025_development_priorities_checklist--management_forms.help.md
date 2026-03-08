@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help project teams and stakeholders prioritize development projects by gathering information about project characteristics, team involvement, and stakeholder relationships. The purpose of this form is to facilitate a quick and organized assessment of project priorities, ensuring that all necessary details are captured and communicated effectively. This form is likely to be used by project managers, team leads, and business stakeholders to identify key project characteristics, team composition, and stakeholder involvement, which will ultimately inform project planning and resource allocation decisions.
-
-</thinking>
-
 # Development Priorities Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about project characteristics, team involvement, and stakeholder relationships to help project teams and stakeholders prioritize development projects.

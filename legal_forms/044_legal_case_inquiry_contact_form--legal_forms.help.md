@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand that this form is for inquiring about legal cases, and not for submitting new legal cases. This form is not intended for duplicate submissions, so users should only submit this form once per case. It's essential to provide accurate and relevant information to help our team assist with their legal inquiry effectively.
-</thinking>
-
 # Legal Case Inquiry Contact Form - Help Guide
 ## Purpose
 The Legal Case Inquiry Contact Form is a tool to gather information from users about existing legal cases. This form is designed to help us better understand the user's concerns and provide them with the necessary guidance and support.

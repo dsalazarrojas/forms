@@ -1,10 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Dissolution Of Marriage Petition Form", we need to ensure that end-users understand the form's purpose, how to complete it, and what each field means. This guide should be clear, concise, and practical, providing a step-by-step explanation of each field to help users navigate the form easily.
-
-The purpose of the form is to provide a template for a Petitioning Party to initiate the dissolution of marriage process. This form is typically used in legal proceedings and requires accurate and complete information to facilitate the process.
-
-</thinking>
-
 # Dissolution Of Marriage Petition Form - Help Guide
 ## Purpose
 This form is designed to provide a structured and organized template for the Petitioning Party to initiate the dissolution of marriage process. Please note that this form should be filled out accurately and completely to ensure that your application is processed efficiently.

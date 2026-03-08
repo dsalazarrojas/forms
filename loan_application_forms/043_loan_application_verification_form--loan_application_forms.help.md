@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a loan application verification form, likely used by financial institutions or organizations to collect information about loan applicants. The purpose of this form is to gather essential details about the applicant, their employment, income, employment history, loan requirements, and collateral information. This form is probably used in conjunction with other forms or processes to verify the accuracy of the loan application data. It's essential to ensure that the form is filled out correctly and thoroughly to avoid any issues during the loan application process. Before starting, review the form's fields carefully to understand what information is required and why. Ensure that all required fields are completed accurately and truthfully.
-</thinking>
-
 # loan_application_verification_form - Help Guide
 ## Purpose
 This form is used by financial institutions or organizations to collect information about loan applicants, ensuring the accuracy of the loan application data.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a template for scheduling estate planning appointments, likely for a law firm or financial advisor. The purpose of this form is to gather information from clients about their scheduling preferences and contact information. The form is likely used by estate planning professionals to schedule meetings with clients and prepare for their consultations. It's essential to ensure that this form is completed correctly to facilitate efficient and effective communication. Before proceeding, make sure to review the form carefully and ensure you are not duplicating existing information or scheduling conflicts.
-
-</thinking>
-
 # Estate Planning Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients to schedule estate planning appointments and gather their contact details.

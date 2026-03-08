@@ -1,5 +1,3 @@
-<thinking>...This form is used to request references from a company's former employees for the purpose of background checks for new job applications. The goal is to provide a quick and easy way to request references from previous employers, allowing them to provide information about the employee's performance and work experience. It's a good practice to ensure the accuracy of information provided by the employee in their job application. The form should not be used for other purposes, such as to request references for internal promotions or performance issues.</thinking>
-
 # Employee Reference Request Form - Help Guide
 ## Purpose
 The Employee Reference Request Form is used to request references from a company's former employees for the purpose of background checks for new job applications. This helps to verify the accuracy of the information provided by the employee in their job application.

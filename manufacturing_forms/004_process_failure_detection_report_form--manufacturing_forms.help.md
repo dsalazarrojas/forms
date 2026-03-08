@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information about process failures in a manufacturing setting. 
-The purpose of this form is to provide a standardized way of reporting process failures, making it easier for operators to report and track failures in a systematic and organized way. This form will help the team detect and address process failures in real-time. 
-
-Before filling this form, ensure you have the necessary information and authorization to complete it accurately. 
-
-To avoid duplication, please check if there is an existing report for the same failure before submitting a new one. 
-
-Please ensure that you understand the severity level of the failure and provide accurate details about the failure. 
-
-Please upload any supporting evidence or attachments to support your report. 
-
-This form will help the team identify and address process failures quickly and effectively. 
-
-</thinking>
-
 # Process Failure Detection Report Form - Help Guide
 
 ## Purpose

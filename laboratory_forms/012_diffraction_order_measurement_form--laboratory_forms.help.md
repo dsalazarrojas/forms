@@ -1,5 +1,3 @@
-<thinking>This form is designed for collecting information related to diffraction order measurement data. The form is divided into multiple sections for clarity. The form's purpose is to gather relevant details about diffraction order measurement, including dates, measurements, selections, and notes. To complete this form, the user will need to provide input for each of the 25 fields, some of which are required and others are optional. Each field has a label and a type that indicates its purpose. For example, fields 1, 2, and 6 are required, while others are not. The user must enter the correct input for each field according to its type, and ensure that all required fields are filled in. The form's structure is designed to accommodate various types of input, such as text, numbers, and dates, to provide flexibility in data collection.</thinking>
-
 # Diffraction Order Measurement Form - Help Guide
 ## Purpose
 This form is designed to collect information related to diffraction order measurement data. The form is divided into multiple sections for clarity and ease of use.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect basic customer information and a quote request for potential future services. This form is designed to gather data from customers interested in inquiring about our services.
-
-Before proceeding, we'll check to see if this is a duplicate submission (same company name and contact number) to prevent over-submission.
-
-This guide will help you through each step of the process to ensure you get the most out of this form.</thinking>
-
 # customer_sign_up_quote_request - Help Guide
 ## Purpose
 The `customer_sign_up_quote_request` form is designed to collect information for customers who are interested in our services. Please note that this form will only allow one submission per company name and contact number to prevent over-submission.

@@ -1,16 +1,3 @@
-<thinking>
-
-As a retail employer, you are looking for a new location to open in the area. To help us better understand your needs and qualifications, we have created this form to gather information about you and your employment preferences.
-
-To ensure that we are not duplicating our efforts, please check the following:
-
-* Are you currently employed with another retail location?
-* Have you previously applied to work with us before?
-
-If you answered "yes" to either of the above questions, please do not fill out this form. Instead, contact your current/previous manager or HR representative to get more information on how to proceed.
-
-</thinking>
-
 # Retail New Location Employment Form - Help Guide
 ## Purpose
 The Retail New Location Employment Form is a comprehensive form designed to gather information about you and your employment preferences for a new retail location. This form is used to assess your qualifications, availability, and experience to match you with the best possible job opportunities.

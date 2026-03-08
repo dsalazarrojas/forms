@@ -1,7 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for this form, I'll need to understand the context and purpose of the form, as well as its individual fields. From the provided YAML, it seems that the form is designed for a mini math quiz with multiple questions and options for each question. The form is titled "Mini Math Quiz," and it appears to be a self-contained, optional form that doesn't require any additional information beyond its own fields. This guide will aim to explain each field in a way that's easy to understand for end-users.
-</thinking>
-
 # Mini Math Quiz - Help Guide
 ## Purpose
 The Mini Math Quiz form is a simple, optional form designed to test your math knowledge with a series of short questions. You can complete it as many times as you like, and your answers are not saved or stored in any way.

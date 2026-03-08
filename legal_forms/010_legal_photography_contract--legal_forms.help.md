@@ -1,6 +1,3 @@
-<thinking>
-This form is used to document the terms and conditions of a photography session, including the client's information, session details, and payment terms. It is intended to ensure a clear understanding between the photographer and the client of the expectations and responsibilities involved.
-</thinking>
 # Legal Photography Contract - Help Guide
 ## Purpose
 The Legal Photography Contract form is used to document the details of a photography session, including the client's contact information, session specifics, and payment terms.

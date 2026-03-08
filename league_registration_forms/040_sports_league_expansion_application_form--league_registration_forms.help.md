@@ -1,14 +1,3 @@
-<thinking>
-This form is used for applying to a sports league expansion, which is an initiative to increase the size of a sports league by adding new divisions, teams, or players. The purpose of the form is to provide the necessary information to the league administrators to evaluate and decide on the expansion request. 
-
-To ensure that the form is filled correctly and that the application is not duplicated, please note the following:
-
-* Only submit one application per division per team.
-* If you have already submitted an application for a different division or team, do not submit another application.
-* Ensure that the information you provide is accurate and up-to-date.
-* If you are representing a team or league, please ensure that you have the necessary authority to submit the application on their behalf.
-</thinking>
-
 # Sports League Expansion Application Form - Help Guide
 ## Purpose
 This form is used for applying to a sports league expansion. Please fill out the form completely and accurately to ensure that your application is processed correctly.

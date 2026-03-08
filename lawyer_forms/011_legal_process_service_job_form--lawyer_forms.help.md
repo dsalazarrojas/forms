@@ -1,28 +1,3 @@
-<thinking>
-This help guide will be designed to assist end users in understanding the purpose and functionality of the Legal Process Service Job Form. 
-
-The form's purpose is to collect information about the legal process service job, including the service address, type, status, details, client information, and submission details. The form will be used to track and manage the legal process service jobs. 
-
-This guide will provide a clear and concise explanation of each field, helping users to fill out the form accurately and efficiently. We will review the form's fields and provide an explanation for each, ensuring that users understand the intended use of each field. 
-
-Before proceeding, let's review the form's fields to ensure that we have a comprehensive understanding of its structure and functionality.
-
-Based on the provided YAML, the form has the following fields:
-- Service Address
-- Service Type
-- Service Status
-- Service Details
-- Client Name
-- Client Address
-- Client Phone
-- Service Date
-- Service Time
-- Service Location
-- Notes
-- Submitted By
-
-</thinking>
-
 # Legal Process Service Job Form - Help Guide
 ## Purpose
 

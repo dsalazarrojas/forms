@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the Board Consent for Stock Options, a legal document used to approve stock options grants to employees or directors. This form is likely to be used in a corporate setting, where the board of directors is granting stock options to individuals as a form of compensation or incentives. The form requires various details such as company information, meeting details, stock option terms, and other relevant data.
-
-The purpose of this form is to ensure that the board has approved stock options grants in accordance with the company's policies and procedures, and to provide a record of the approval process. The form is intended for internal use, and the information collected will be used to maintain the company's records and to ensure compliance with relevant laws and regulations.
-
-To prevent duplication, the form is likely to be used once per stock options grant, and any changes to the grant terms will require a new approval process.
-
-</thinking>
-
 # Board Consent For Stock Options - Help Guide
 ## Purpose
 The Board Consent for Stock Options form is used to collect information for the approval of stock options grants to employees or directors. This form is used to ensure that the board has approved stock options grants in accordance with the company's policies and procedures.

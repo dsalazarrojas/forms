@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to generate new leads for school events. The form is designed to collect information about an event, such as its name, details, and location, as well as contact information for the school, and preferences for follow-up communication. 
-
-The purpose of this form is to streamline the process of collecting leads for school events and to provide a centralized database of events for easy reference and planning. 
-
-Before proceeding, please ensure that you have not already completed this form for the same event. This will help prevent duplicate entries and ensure that the data is up-to-date and accurate.
-
-</thinking>
-
 # School Event Lead Generation Form - Help Guide
 ## Purpose
 The School Event Lead Generation Form is a tool used to collect and store information about upcoming school events. This form helps to gather essential details about each event, making it easier to plan and coordinate activities.

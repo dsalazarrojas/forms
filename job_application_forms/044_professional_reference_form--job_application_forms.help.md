@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Professional Reference Form - Help Guide
 
 ## Purpose

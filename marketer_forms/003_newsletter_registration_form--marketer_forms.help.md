@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Newsletter Registration Form - Help Guide
 
 ## Purpose

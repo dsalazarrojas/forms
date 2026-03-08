@@ -1,15 +1,3 @@
-<thinking>
-
-This form is a general-purpose Legal Petition Form used for various legal purposes, such as submitting petitions to courts. The form is designed to collect general information about the petitioner, case details, and other relevant information. It is not specific to a particular type of legal issue or jurisdiction.
-
-To avoid duplication, this form is intended to be used as a template for various types of legal petitions. It does not replace more specific and detailed forms that are designed for specific legal purposes.
-
-The form can be filled out by a legal representative or a petitioner directly. It is not designed to be used by individuals without legal representation.
-
-The form is intended to be filled out in conjunction with other forms that may be specific to the jurisdiction or type of legal issue being addressed.
-
-</thinking>
-
 # Legal Petition Form - Help Guide
 
 ## Purpose

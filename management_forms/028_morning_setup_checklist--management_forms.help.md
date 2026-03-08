@@ -1,9 +1,3 @@
-<thinking>
-
-I'm assuming this form is designed for team leaders or team members to report on the status of their morning setup, including any issues or goals, readiness status, and other important details. This form likely serves as a quick and easy way for teams to keep track of their morning setup and share updates with each other. It's likely used in a work environment, possibly in a factory, warehouse, or office setting. I'll make sure to create a user-friendly help guide that's concise and easy to follow.
-
-</thinking>
-
 # Morning Setup Checklist - Help Guide
 ## Purpose
 This form is designed to help teams quickly report on their morning setup status, including any issues or goals they've encountered, their readiness status, and other important details. This information helps team leaders and members stay informed and work efficiently.

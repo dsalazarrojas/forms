@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about an employee's post-surgery recovery progress. The form is intended for employees who have undergone surgery and need to provide details about their recovery process. It's crucial to ensure that the form is filled out accurately and completely to facilitate a smooth recovery process.
-
-Before proceeding, please ensure that you are filling out the form for the correct purpose and not duplicating an existing record. If you're unsure, please consult with the relevant team members to avoid confusion.
-
-The form is divided into several sections, which are explained below:
-</thinking>
-
 # post-surgery_recovery_leave_form - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's post-surgery recovery progress to facilitate their return to work after surgery.

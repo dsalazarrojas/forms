@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help department managers request purchases for their respective departments. The form should only be filled out by authorized managers, not end-users or general staff. It is essential to fill out the form accurately and truthfully to ensure that purchases are processed correctly and efficiently. Before filling out the form, please ensure that:
-- The department has a legitimate need for the item or services being requested.
-- The form is complete and accurate to avoid delays in the purchasing process.
-- The department has the necessary budget allocated for the purchase.
-</thinking>
-
 # Department Purchase Request Form - Help Guide
 ## Purpose
 The Department Purchase Request Form is designed to help department managers request purchases for their respective departments. This form should only be filled out by authorized department managers to request items or services needed for departmental activities.

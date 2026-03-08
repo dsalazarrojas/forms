@@ -1,11 +1,3 @@
-<thinking>
-
-The Writing Residency Leave Of Absence Form is used by university staff to request and manage writing residencies. To ensure accurate and complete submissions, it's essential to understand the form's purpose and each field's requirements.
-
-This form is used to request a writing residency for a specified period, which can be a resident (on-campus) or non-resident (off-campus) position. The requested dates must be within a specific time frame, and the submitter must provide a valid reason for the leave. The form will be reviewed and approved by a designated approver(s), and the submitter can include comments for their own reference or notes for the approver(s).
-
-</thinking>
-
 # Writing Residency Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used to request and manage writing residencies, which can be on-campus (residents) or off-campus (non-residents). It ensures that necessary information is provided and reviewed to grant a leave of absence.

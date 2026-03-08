@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to sign up for seasonal collection updates from your brand. It is designed to collect basic contact information (email address, name) and interests/preferences regarding seasonal collections (seasonal interest, select seasonal interest, select seasonal purpose). This data will be stored in your database for future marketing purposes. To confirm whether to store or update an existing record in your database, you may want to check the email address entered against a customer's existing record before submitting.
-</thinking>
-
 # Sign Up For Seasonal Collection Updates - Help Guide
 ## Purpose
 The purpose of this form is to sign up for seasonal collection updates from our brand. We collect information to tailor our updates according to your preferences and interests.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used for tracking the maintenance schedule and status of public works projects. The purpose of this form is to provide a checklist for maintenance tasks, allowing users to select which tasks are applicable, add a description, and set dates and priority levels. The form is used to ensure that all necessary maintenance tasks are completed and up-to-date. This form will not be used for creating new projects or for tracking progress, but only for maintaining the existing projects. 
-
-The form is divided into multiple sections, and each section is represented by a page. Each page contains multiple fields that are used to fill in the necessary information for that particular section. The fields are labeled and described below to make it easy to understand what each field is used for.
-
-This form is not intended to be filled out for every single project, but rather for projects that are already established and require maintenance tasks to be selected, described, and dated. Please ensure that the project is already set up before attempting to fill out this form.
-</thinking>
-
 # public_works_maintenance_checklist - Help Guide
 ## Purpose
 The public works maintenance checklist form is used to track and maintain public works projects.

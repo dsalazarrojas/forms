@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for submitting indoor plant maintenance requests. It's essential to understand that this form is used to track and report plant maintenance activities, and it's meant for authorized personnel only. Please use this form to request maintenance for plants that need attention, and ensure you're using the correct category and type of maintenance required. Before submitting the form, verify that the plant type is correctly selected and that you're requesting the correct type of maintenance. If you're unsure or need further guidance, please ask a colleague or supervisor for assistance.
-</thinking>
-
 # indoor_plant_maintenance_request_form - Help Guide
 ## Purpose
 The indoor plant maintenance request form is a tool for submitting maintenance requests for indoor plants. Authorized personnel use this form to track and report plant maintenance activities.

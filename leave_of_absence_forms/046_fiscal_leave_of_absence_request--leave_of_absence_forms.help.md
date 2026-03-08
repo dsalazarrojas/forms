@@ -1,8 +1,3 @@
-<thinking>
-This form is for requesting a leave of absence, which is a period of time off from work due to illness, vacation, family reasons, or other personal circumstances. The purpose of this form is to gather information from employees requesting a leave of absence and to track the status of these requests. It is intended for use by HR or management personnel to approve or reject leave requests in accordance with company policies and procedures.
-
-This form will guide you through the process of submitting a leave request. Please note that this form should not be completed if you are an HR representative or manager, as you will be using it to review and approve requests.</thinking>
-
 # Fiscal Leave Of Absence Request - Help Guide
 ## Purpose
 This form is for requesting a leave of absence from work due to illness, vacation, family reasons, or other personal circumstances.

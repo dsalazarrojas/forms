@@ -1,6 +1,3 @@
-<thinking>
-This form was designed to help users apply for work opportunities in Europe. To ensure accuracy, this guide will walk you through each field step-by-step. Please ensure you've checked that this form is relevant to your needs and that you're not submitting duplicate applications. This guide assumes that you're interested in applying for work opportunities in Europe.</thinking>
-
 # Work Opportunities In Europe - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in exploring work opportunities in Europe. It's a tool to gather relevant details about candidates for potential job openings.

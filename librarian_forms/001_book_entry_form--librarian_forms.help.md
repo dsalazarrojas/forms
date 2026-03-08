@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect metadata about books in the library's inventory. Each field is designed to provide a clear and concise way to record relevant information about a book. The form should be completed by library staff to accurately catalog and track book entries. Please ensure that the form is filled out completely and accurately to avoid duplication or incomplete information.
-</thinking>
-
 # Book Entry Form - Help Guide
 ## Purpose
 The Book Entry Form is a tool used to record and maintain accurate information about books in the library's inventory. This guide will walk you through the process of filling out the form, field by field.

@@ -1,7 +1,3 @@
-<thinking>
-The Student Contact Form is intended for gathering information from parents or guardians about their relationship with the student, their contact information, and the student's school details. This form is likely used in a school or educational setting to collect data for administrative purposes. It is crucial to fill out this form accurately to ensure that the provided information is up-to-date and correct. Please fill out this form carefully and make sure to provide accurate answers.
-</thinking>
-
 # Student Contact Form - Help Guide
 ## Purpose
 The purpose of this Student Contact Form is to collect essential information from students' parents or guardians for administrative and communication purposes in a school setting.

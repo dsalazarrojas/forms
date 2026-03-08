@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the surface finish of a manufacturing process. It helps users assess whether the surface finish meets the desired quality standards. The form has four sections: surface finish check 1, 2, and 3, which ask users to rate the finish based on specific criteria. The "comments" section allows users to provide additional information about the surface finish. This form is meant to be completed by manufacturing personnel, such as inspectors or quality control specialists, to ensure that the surface finish of manufactured products meets the required standards.
-
-The form does not duplicate any existing forms, but it is similar in purpose to other forms used in the manufacturing process.
-
-</thinking>
-
 # Surface Finish Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the surface finish of a manufacturing process.

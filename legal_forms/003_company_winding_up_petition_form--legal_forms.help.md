@@ -1,10 +1,3 @@
-<thinking>
-**Why is this form necessary?**
-This form is designed for a Company Winding Up Petition, a legal process to liquidate a company's assets and pay off debts. It helps the Petitioner gather information about the company being petitioned, the nature of the debt, and the grounds for winding up the company.
-**Is there a similar process or form already existing in our internal system?**
-No, this is a new form designed to collect relevant information for the Company Winding Up Petition process.
-</thinking>
-
 # Company Winding Up Petition Form - Help Guide
 ## Purpose
 

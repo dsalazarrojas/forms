@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "HR OfficercareerApplication", is designed to collect basic information from job applicants to help hiring managers efficiently process candidate applications. The form is divided into several pages with fields that gather details on basic information, contact, qualification, work experience, education, and references. 
-
-Before starting the form, please ensure that you are submitting a new application and not re-submitting one that's already been processed. 
-
-Please review each page to ensure you provide accurate and relevant information to increase the chances of your application being considered for the position.
-
-</thinking>
-
 # HR OfficercareerApplication - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Career Mentorship Waitlist form is used correctly and efficiently. To prevent duplicates, we'll check if the user already has an existing record in our database before processing new submissions.
-</thinking>
-
 # Career Mentorship Waitlist - Help Guide
 ## Purpose
 The Career Mentorship Waitlist form is used to connect individuals seeking mentorship with potential mentors who can offer guidance, advice, and support in their career development. By filling out this form, you'll be matched with mentors who share similar experiences and goals.

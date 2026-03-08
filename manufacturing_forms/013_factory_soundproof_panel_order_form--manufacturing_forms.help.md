@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory Soundproof Panel Order Form - Help Guide
 ## Purpose
 This form is designed for soundproof panel orders, allowing customers to provide details about the panel, their contact information, and additional notes for the order. The form helps ensure accurate and efficient processing of orders.

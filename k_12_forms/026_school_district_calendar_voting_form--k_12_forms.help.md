@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide for the "School District Calendar Voting Form" that explains its purpose, completion instructions, and field-by-field explanation. This guide will help end-users understand what the form is for, how to fill it out correctly, and what each field means. We'll follow the provided YAML structure to craft a clear and concise guide.
-
-</thinking>
-
 # School District Calendar Voting Form - Help Guide
 ## Purpose
 The School District Calendar Voting Form is designed to gather input from school staff, teachers, and other stakeholders on the school calendar for the upcoming school year. This form helps the school district to gather feedback and suggestions on the calendar events, categories, and tools used for the calendar management system.

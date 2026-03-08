@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to request a library instruction session. The form is used by faculty members to schedule a library instruction session for their classes. The librarian will receive this form to plan and prepare for the session. 
-
-This form is for requesting a single session. If you need to make changes to a previously scheduled session, please use the "Update Library Instruction Session" form instead. 
-
-Please ensure that all fields with a * are required. 
-
-This form will be used by the librarian to schedule and plan the library instruction session, so please make sure to fill in all necessary information accurately and completely. 
-</thinking>
-
 # Library Instruction Request Form - Help Guide
 ## Purpose
 The Library Instruction Request Form is a tool for instructors to request a library instruction session for their class. This form helps the librarian plan and prepare for the session, ensuring that it is tailored to the needs of the class and instructor.

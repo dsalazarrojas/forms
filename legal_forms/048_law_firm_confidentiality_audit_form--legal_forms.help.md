@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will first review the provided YAML fields to understand the form's purpose and functionality. This form appears to be a Law Firm Confidentiality Audit Form, designed to collect information about document confidentiality and follow-up actions. The form seems to be used for auditing and tracking the status of documents within a law firm, ensuring that sensitive information remains confidential. I will now create a user-facing help guide that explains the form's purpose, how to complete it, and what each field means.</thinking>
-
 # Law Firm Confidentiality Audit Form - Help Guide
 ## Purpose
 The Law Firm Confidentiality Audit Form is used to audit and track the status of documents within a law firm, ensuring that sensitive information remains confidential. This form helps identify potential confidentiality issues and provides a framework for follow-up actions to maintain confidentiality.

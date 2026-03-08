@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a property from a lead. It is intended for use in a business-to-business or business-to-consumer lead generation scenario. The form should only be completed once for each property, and not for multiple properties. The form is used to gather details about the property's address, name, email, phone number, type, features, and price and size ranges. The purpose of this form is to provide relevant information about the property to potential buyers or renters.
-
-</thinking>
-
 # sk_group_property_inquiry_form_new - Help Guide
 ## Purpose
 The "sk_group_property_inquiry_form_new" form is designed to collect information about a property from a lead. It is intended for use in a business-to-business or business-to-consumer lead generation scenario.

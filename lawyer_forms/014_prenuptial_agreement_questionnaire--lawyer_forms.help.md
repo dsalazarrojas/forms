@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a couple's prenuptial agreement, including details about their names, addresses, income, assets, liabilities, employment status, and marital status. The form is used to collect sensitive information, so it's essential that respondents understand its purpose and how to complete it accurately.
-</thinking>
-
 # Prenuptial Agreement Questionnaire - Help Guide
 
 ## Purpose

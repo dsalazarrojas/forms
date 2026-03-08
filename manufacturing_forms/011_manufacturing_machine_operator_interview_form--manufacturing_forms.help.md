@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from manufacturing machine operators for the purpose of maintaining a database of candidate information. It is essential to ensure that the form is completed accurately and thoroughly, as the data collected will be used to make informed decisions about candidate qualifications and suitability for work. This form should not be used for other purposes, as it contains sensitive information about individual candidates. To ensure that the form is completed correctly, please follow the guidelines below.
-
-</thinking>
-
 # Manufacturing Machine Operator Interview Form - Help Guide
 ## Purpose
 This form is used to collect information from manufacturing machine operators for the purpose of maintaining a database of candidate information.

@@ -1,32 +1,3 @@
-<thinking>
-This form is designed to collect information from potential free agents registering for the Bocce League. It is intended for individuals who want to join a Bocce League team but do not already have a team affiliation. The form will help the league administrators determine the player's qualifications, availability, and preferences for team placement.
-
-To prevent duplicate registrations, this form will only allow one submission per player.
-
-The following fields are required for the registration process:
-* Player's first name
-* Player's last name
-* Email address
-* Phone number
-* Age
-* Address
-* City - State - Zip
-* Bocce Experience Level
-* Which season are you registering for
-* Do you have a preferred team
-* Preferred match days and times
-* Preferred playing position
-* Any medical conditions the league should be aware of
-
-Fields with optional or conditional requirements are:
-* Medical conditions
-* Additional comments or information
-* Payment method
-* Prior league experience
-
-Please fill out the form carefully to ensure your registration is processed correctly.
-</thinking>
-
 # Bocce League Free Agent Registration - Help Guide
 ## Purpose
 The Bocce League Free Agent Registration form is designed to collect information from potential free agents who want to join a Bocce League team but do not already have a team affiliation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for manufacturing task management, used to track and manage tasks assigned to team members. It's likely used in an industrial setting, such as a factory or production line, to keep track of tasks and responsibilities. The form might be used to assign tasks to team members, set priorities and deadlines, and monitor progress. The purpose of this form is to provide a structured and organized way to manage tasks and ensure that team members have a clear understanding of their responsibilities.
-</thinking>
-
 # Manufacturing Task Management Board - Help Guide
 ## Purpose
 The Manufacturing Task Management Board form is a tool used to manage tasks assigned to team members in a manufacturing setting. It helps to ensure that tasks are completed efficiently and effectively.

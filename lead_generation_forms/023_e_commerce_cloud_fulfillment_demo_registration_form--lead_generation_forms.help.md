@@ -1,39 +1,3 @@
-<thinking>
-The form is used to collect information from individuals who are interested in the E Commerce Cloud Fulfillment Demo. This information will be used to verify their identity and provide a personalized experience for the demo. Before filling out this form, please ensure that you are not duplicating an existing registration. If you have already registered for the demo, please do not submit this form again. The form is divided into multiple pages, each with its own set of fields. The fields are:
-- Main Information: This page collects general information about the individual, including their name, contact information, and company details.
-- Contact Information: This page collects contact information, such as phone number and email address.
-- Address: This page collects the individual's address.
-- Company: This page collects company information.
-- Website: This page collects the individual's website.
-- Email: This page collects the individual's email address.
-- Phone: This page collects the individual's phone number.
-- Date Of Birth: This page collects the individual's date of birth.
-- Time Of Birth: This page collects the individual's time of birth.
-- Select One: This page allows the individual to select one option from a list.
-- Select Multiple: This page allows the individual to select multiple options from a list.
-- Note: This page collects any additional notes or comments from the individual.
-- Email Verification: This page collects the individual's email verification information.
-- Phone Verification: This page collects the individual's phone verification information.
-- Date Of Birth Verification: This page collects the individual's date of birth verification information.
-- Time Of Birth Verification: This page collects the individual's time of birth verification information.
-- Address Verification: This page collects the individual's address verification information.
-- Company Verification: This page collects the individual's company verification information.
-- Website Verification: This page collects the individual's website verification information.
-- Select One Verification: This page allows the individual to select one option from a list for verification.
-- Select Multiple Verification: This page allows the individual to select multiple options from a list for verification.
-- Note Verification: This page collects any additional notes or comments from the individual.
-- Email Verification 2: This page collects the individual's email verification information.
-- Phone Verification 2: This page collects the individual's phone verification information.
-- Date Of Birth Verification 2: This page collects the individual's date of birth verification information.
-- Time Of Birth Verification 2: This page collects the individual's time of birth verification information.
-- Address Verification 2: This page collects the individual's address verification information.
-- Company Verification 2: This page collects the individual's company verification information.
-- Website Verification 2: This page collects the individual's website verification information.
-- Select One Verification 2: This page allows the individual to select one option from a list for verification.
-- Select Multiple Verification 2: This page allows the individual to select multiple options from a list for verification.
-- Note Verification 2: This page collects any additional notes or comments from the individual.
-</thinking>
-
 # E Commerce Cloud Fulfillment Demo Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals interested in the E Commerce Cloud Fulfillment Demo. Please ensure that you are not duplicating an existing registration.

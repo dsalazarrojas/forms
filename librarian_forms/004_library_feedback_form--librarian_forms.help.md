@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from library patrons to gauge their satisfaction with the library's services. It's meant to be a quick and painless way for users to share their thoughts, suggestions, and concerns with library staff. This form is not meant for in-depth or confidential feedback, so users are asked to provide only general comments. It's essential to fill out this form completely and honestly to help the library improve its services.
-</thinking>
-
 # Library Feedback Form - Help Guide
 ## Purpose
 The Library Feedback Form is a way for library patrons to share their thoughts, suggestions, and concerns with library staff. It helps us understand what we're doing well and where we can improve.

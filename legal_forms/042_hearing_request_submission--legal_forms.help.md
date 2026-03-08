@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hearing Request Submission - Help Guide
 ## Purpose
 The Hearing Request Submission form is used to submit a request for a hearing. This form is intended to gather information about the requestor, the nature of the request, and the desired hearing details.

@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the W4 Form, we need to understand the purpose and context of the form. Based on the input schema, it appears that the W4 Form is a document used for tax-related purposes, possibly for withholding taxes or other employment-related benefits. The form collects information from both the employee and the employer, including demographic details, tax-related information, and dates of signings. The goal of the help guide is to assist users in filling out the form correctly and efficiently.
-</thinking>
-
 # W4 Form - Help Guide
 ## Purpose
 The W4 Form is used for tax-related purposes, collecting information from both the employee and the employer to manage withholding taxes or other employment-related benefits.

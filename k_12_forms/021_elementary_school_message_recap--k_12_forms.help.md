@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to record and recap messages from elementary school teachers, including their notes, the subject they are addressing, the message itself, and details about who the message is addressed to and the date and time it was sent or received. The form is likely used for administrative purposes, such as tracking communication between teachers and parents or staff members. The form ensures that the user can select "Yes" or "No" for fields like student, parent, and staff attendance, indicating whether the relevant individual was present during the message exchange. This form is likely used by administrators or staff members to track and document important communications and attendance.
-</thinking>
-
 # Elementary School Message Recap - Help Guide
 ## Purpose
 The Elementary School Message Recap form is designed to record and document communication between teachers and other stakeholders, such as parents or staff members. This form helps administrators and staff members to track and review important messages and attendance details.

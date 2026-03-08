@@ -1,7 +1,3 @@
-<thinking>
-This form is for tracking the maintenance and upkeep of spectrophotometers. It is an internal tool for documenting the maintenance activities, dates, and locations related to these critical scientific instruments. The form should only be used within the organization, following the provided structure and guidelines for maintenance logging. 
-</thinking>
-
 # Spectrophotometer Maintenance Log Form - Help Guide
 ## Purpose
 This form is designed to facilitate the recording and tracking of maintenance activities for spectrophotometers. The goal is to ensure accurate and up-to-date information about the instruments' maintenance history.

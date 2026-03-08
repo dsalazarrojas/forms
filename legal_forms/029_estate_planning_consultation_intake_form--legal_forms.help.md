@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from clients to create an estate plan. The purpose of this form is to gather essential details about the client and their estate, which will be used to provide personalized advice and planning. This form should only be completed by clients who have not previously completed a similar form. 
-</thinking>
-
 # Estate Planning Consultation Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from clients to create an estate plan. The details provided will be used to provide personalized advice and planning.

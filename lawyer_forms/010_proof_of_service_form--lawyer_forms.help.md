@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to provide a template for recording proof of service, a crucial document in the legal sector. The purpose of this form is to collect relevant information about a service provided by an individual or entity, including details about the service itself, the method of service, and contact information for the service provider and the client. This form helps ensure that all necessary information is accurately recorded, and its use will streamline the process of documenting and retrieving proof of service in the future.
-
-The form includes sections for collecting the name and contact information of the party (individual or entity) served, the date of service, the method of service, and any additional details about the service. The form also collects contact information for the service provider, including their name, firm, address, and preferred method of communication.
-
-This form is intended to be filled out by the service provider to document their service and provide clear and accurate information about the service. It will help in ensuring that all parties involved in the service have a clear understanding of the service provided and can use this information to verify and validate the service in the future.
-
-</thinking>
-
 # Proof Of Service Form - Help Guide
 ## Purpose
 The Proof Of Service Form is designed to collect information about a service provided by an individual or entity. It includes details about the party being served, the service itself, and the service provider's contact information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to capture lead information from customers interested in painting services. It is crucial to understand that this form is not meant for internal use, so it's essential to provide clear and concise information for end-users to fill it out correctly. This guide will walk through each field to ensure that customers can provide the necessary details without any confusion.
 
 # painting_service_lead_capture_form - Help Guide

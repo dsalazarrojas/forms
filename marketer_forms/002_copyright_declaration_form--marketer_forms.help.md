@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect copyright information from individuals or organizations. The purpose of this form is to help the user declare their copyright status and provide details about the content they are submitting. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created by AI using public survey topic metadata. It is released under CC BY 4.0 and can be used, modified, and even sold by anyone as long as they give proper credit. The form's purpose is to collect essential details for copyright declaration and provide a simple way for users to declare their copyright status.
-Checking for relevance and non-duplication: This form is a generic copyright declaration form. It is not specific to a particular industry or organization, making it a general-purpose form. It is likely to be relevant to various users who need to declare their copyright status.
-</thinking>
-
 # Copyright Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect copyright information from individuals or organizations.

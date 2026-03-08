@@ -1,9 +1,3 @@
-<thinking>
-  This form is used to document the results of a load testing event on a piece of equipment. To ensure that the form is completed accurately and efficiently, please review the following guidance to understand its purpose and requirements.
-  The primary goal of this form is to record the details of the load testing event, including the equipment's name, the date and time of the test, the duration of the test, the location where the test was conducted, any notes or observations made during or after the test, the tool used for the test, and the outcome of the test (e.g., passed, failed, or pending). 
-  Please note that some fields are not required, but it's essential to fill out as much information as possible to ensure a comprehensive record of the load testing event.
-  Before filling out this form, please ensure that you have completed a load testing event and have all the necessary information to provide accurate answers.
-</thinking>
 # Equipment Load Testing Report Form - Help Guide
 ## Purpose
 The Equipment Load Testing Report Form is used to document the results of a load testing event on a piece of equipment. This form helps to ensure that all relevant information about the test is recorded accurately and consistently.

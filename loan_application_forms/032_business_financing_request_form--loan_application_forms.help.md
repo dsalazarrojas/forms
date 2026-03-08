@@ -1,9 +1,3 @@
-<thinking>... 
-
-The form is designed to collect information for business financing requests. It is intended for businesses looking to obtain financing for various purposes such as startup capital, working capital, equipment financing, expansion, debt consolidation, or other types of financing. Before submitting this form, please ensure that you have all required information readily available and that you have not submitted the same form previously. Completing this form accurately and thoroughly will help our team assess your financing request and guide you through the next steps in the financing process.
-
-</thinking>
-
 # Business Financing Request Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for businesses seeking financing for various purposes. It will help us assess your request and provide guidance on the next steps.

@@ -1,13 +1,3 @@
-<thinking>
-
-We need to create a help guide for the Mediation Session Booking Form that explains its purpose, how to complete it, and what each field means. Let's analyze the form schema to understand its structure and requirements.
-
-The form is designed for booking mediation sessions, which likely involves conflict resolution between parties. It's essential to ensure that the form is completed correctly to avoid any issues during the mediation process.
-
-Before we begin, let's break down the form into its sections and fields to understand how to create an effective help guide.
-
-</thinking>
-
 # Mediation Session Booking Form - Help Guide
 ## Purpose
 The Mediation Session Booking Form is designed to collect essential information for booking a mediation session. This form helps to ensure that all relevant details are captured accurately, allowing for a smooth and effective mediation process.

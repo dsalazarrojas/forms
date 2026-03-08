@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for job applicants to register their application for a job position. The form is used to gather information about the applicant, their job application details, and the status of their application. The form will guide the applicant through the various fields required to complete their job application registration. The form is not designed for duplicate entries, and each application will be reviewed and processed individually.
-
-Before starting the application process, ensure you have a clear understanding of the job position and the company. This form is intended for job seekers who are serious about applying for the position and have all the necessary documents and information ready.
-
-Please note that this form is for job applicants, not for internal staff or other types of users.
-</thinking>
-
 # Job Application Registration Form - Help Guide
 ## Purpose
 The Job Application Registration Form is designed to facilitate the job application process by providing a structured way for job applicants to submit their applications and for the hiring team to track and manage the application status.

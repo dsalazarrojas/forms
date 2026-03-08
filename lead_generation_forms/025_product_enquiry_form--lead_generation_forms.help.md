@@ -1,6 +1,3 @@
-<thinking>
-We're creating a form for potential customers or partners to send us product enquiries. It's designed to gather necessary information from them, and our team will review and respond to these submissions accordingly. This form will guide you through the process, and each field should have a clear explanation of what it's for. Before you start filling out the form, please ensure you're not submitting duplicate inquiries, as this will help us manage our responses efficiently.</thinking>
-
 # Product Enquiry Form - Help Guide
 ## Purpose
 This form is used to gather information from potential customers or partners interested in our products or services. Please fill it out to the best of your ability, and a member of our team will review and respond to your submission.

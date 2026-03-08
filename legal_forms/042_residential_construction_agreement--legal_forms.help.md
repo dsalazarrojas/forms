@@ -1,5 +1,3 @@
-<thinking>This form is a template for a Residential Construction Agreement. It is designed to collect information for a construction project, specifically focusing on project details and participant details. The form's main purpose is to ensure all necessary information is gathered for a smooth and secure construction process. It is recommended to review the form carefully and ensure it suits the specific needs of your project before use. Before proceeding, ensure all required fields are filled out. If you need any modifications, it's suggested to reach out to the form creator.</thinking>
-
 # Residential Construction Agreement - Help Guide
 ## Purpose
 This form is designed to collect information for a construction project, including project details and participant details, ensuring a smooth and secure construction process.

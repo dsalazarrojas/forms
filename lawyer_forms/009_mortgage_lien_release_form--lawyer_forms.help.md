@@ -1,7 +1,3 @@
-<thinking>
-This form is used to release a mortgage lien on a property. It's a straightforward process that helps the user identify relevant information about the lien and output it in a specific format. The form is designed to be completed by someone who needs to release a mortgage lien, and it's likely to be used by a real estate professional or someone familiar with property law. The goal is to gather the necessary details about the lien and generate a document that can be used to officially release it. This form should be used when the user is certain about the lien they are releasing, and they should have all the necessary information at hand. If the user is unsure about any aspect of the lien, they should consult with a legal expert before completing this form.
-</thinking>
-
 # Mortgage Lien Release Form - Help Guide
 ## Purpose
 The Mortgage Lien Release Form is used to release a mortgage lien on a property. It's a simple form designed to gather relevant information about the lien and generate a document that can be used to officially release it.

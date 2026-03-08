@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Cashier Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used to request a leave of absence for a cashier employee. The form helps the retail store manager review and approve or deny the request based on the provided information and reason for leave.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for virtual product demos. It is intended to be a user-facing form that allows users to provide their product details, customer information, appointment preferences, contact details, and demo details. This form is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation created using public survey topic metadata as inspiration. The form is released under CC BY 4.0 and can be used, modified, and even sold with proper credit given.
-</thinking>
-
 # virtual_product_demo_registration_form - Help Guide
 ## Purpose
 The virtual product demo registration form is used to collect information from users for virtual product demos. This form is a simple, text-based form that gathers essential details from users to facilitate the demo process.

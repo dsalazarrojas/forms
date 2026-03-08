@@ -1,15 +1,3 @@
-<thinking>...I will create a user-facing help guide for the "Manufacturing Training Checklist" form.
-
-To determine the form's purpose, I will analyze the provided YAML structure. The form is composed of several sections, each with multiple fields. The sections cover various aspects of manufacturing training, including safety precautions, emergency procedures, and training records. The form appears to be used to document compliance with training requirements and procedures in a manufacturing environment. The goal is to ensure that employees have completed training and follow safety protocols.
-
-However, I will add some additional context to clarify the form's purpose:
-
-*   This form is used to assess employees' understanding of manufacturing safety protocols and procedures.
-*   It helps to identify areas where employees may need additional training or refresher courses.
-*   It also aids in maintaining accurate training records and ensuring regulatory compliance.
-
-</thinking>
-
 # Manufacturing Training Checklist - Help Guide
 ## Purpose
 The Manufacturing Training Checklist is a form used to assess employees' understanding of manufacturing safety protocols and procedures. It helps to identify areas where employees may need additional training or refresher courses and maintains accurate training records while ensuring regulatory compliance.

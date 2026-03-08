@@ -1,5 +1,3 @@
-<thinking>This form, "public_transport_maintenance_quote_request", is designed to capture essential information for requesting public transport maintenance quotes. It's a critical form for maintenance coordinators, transport managers, and other stakeholders to gather necessary details about transport vehicles, their conditions, and required maintenance work. This form ensures accurate and efficient communication between agencies and transport providers. To complete this form, please ensure that all required fields are filled out correctly, and be concise in your descriptions to avoid any confusion. This form is not a duplicate of any other form, and its purpose is to provide a clear and concise way to request maintenance quotes.</thinking>
-
 # public_transport_maintenance_quote_request - Help Guide
 ## Purpose
 This form is used to request public transport maintenance quotes from agencies and transport providers.

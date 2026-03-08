@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to support the request for shelf life extension of a product. The form is designed to collect information from the manufacturer or responsible person to support this request. Before starting to fill out the form, please make sure you have a clear understanding of the product's requirements for shelf life extension and that you are authorized to request this extension. Please note that this form is not intended for general inquiries or routine updates but rather for specific requests for shelf life extension. This form's purpose is to gather necessary information to review and consider the request. Please fill out the form accurately and completely to ensure a smooth review process.
-</thinking>
-
 # shelf_life_extension_testing_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request shelf life extension of a product. This form is intended to gather information from the manufacturer or responsible person to support the request.

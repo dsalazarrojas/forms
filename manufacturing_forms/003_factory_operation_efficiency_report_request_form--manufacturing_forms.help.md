@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request an efficiency report for a specific production line, and it captures relevant information such as production line, date, shift, machine ID, efficiency percentage, and any comments. The form is used by factory staff to request an efficiency report for analysis and improvement purposes. Before proceeding, please note that this form is only for requesting an efficiency report and does not create an actual report. If a report has already been requested for the same production line, machine ID, and date, please do not resubmit the request.
-</thinking>
-
 # factory_operation_efficiency_report_request_form - Help Guide
 ## Purpose
 The factory operation efficiency report request form is used to request an efficiency report for a specific production line. This form captures relevant information such as production line, date, shift, machine ID, efficiency percentage, and any comments.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to confirm the quality of laser equipment used in the manufacturing process. Before proceeding, let's ensure that this form is not a duplicate of another form with similar purpose. If this form has been previously used for the same purpose in the last 7 days, it is likely that this form is not required to be filled again.
-</thinking>
-
 # Laser Quality Check Confirmation - Help Guide
 ## Purpose
 The Laser Quality Check Confirmation form is used to verify the quality of laser equipment used in the manufacturing process. This form ensures that all equipment is functioning properly and meets the required standards.

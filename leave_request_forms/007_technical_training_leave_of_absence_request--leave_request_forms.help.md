@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the Technical Training Leave of Absence Request form. Before proceeding, please note that this form is designed to be used for requesting leaves of absence related to technical training, and it is not intended to be used for other purposes. Additionally, please be aware that submitting duplicate requests will not be processed. To ensure that your request is properly handled, please fill out the form accurately and completely.
-</thinking>
-
 # Technical Training Leave Of Absence Request - Help Guide
 ## Purpose
 The Technical Training Leave of Absence Request form is used to request a leave of absence for technical training purposes. This form is used to communicate with management and HR to request time off for training or other technical activities.

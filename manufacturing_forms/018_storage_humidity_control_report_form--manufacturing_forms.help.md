@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for reporting storage humidity control issues. It captures relevant information from users regarding storage conditions and corrective actions taken. The form is intended for use in a manufacturing setting where temperature and humidity levels are critical. This guide explains how to fill out the form properly.
-</thinking>
-
 # storage_humidity_control_report_form - Help Guide
 ## Purpose
 This form is used to report storage humidity control issues and track corrective actions. It is a required field for ensuring timely and accurate reporting of storage conditions.

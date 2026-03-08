@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Security Deposit Forfeiture Notice" form, I need to consider the following: 
-- The form purpose is to provide a notice to tenants when their security deposit is being forfeited due to a breach of the rental agreement. 
-- This form is likely used by property managers or landlords to inform tenants about the deposit being returned or forfeited. 
-- The form may need to be filled out for tenants who are being given notice that their security deposit is being forfeited due to non-payment of rent, damage to the rental property, or other breach of the agreement. 
-- The form may also be used to request that the tenant pay back the forfeited amount or to confirm whether the tenant has received the notice. 
-The "Security Deposit Forfeiture Notice" form should be completed by the tenant or their representative, and the information should be accurate and up-to-date, as it is a formal document. 
-The "Date Forfeited" field should be completed with the date the security deposit was forfeited. 
-The "Amount" field should be filled out in decimal format. 
-The "Payment Method" field is a multiple selection field, allowing the user to select one or more methods for payment. 
-The "Date Paid" field should be filled out if the tenant plans to pay the forfeited amount. 
-The "Notice Served" field should indicate whether the notice has been served to the tenant. 
-The "Notice Method" field should be filled out to indicate the method of serving the notice. 
-The "Comments" field is an optional field where the tenant or representative can add any additional comments.</thinking>
-
 # Security Deposit Forfeiture Notice - Help Guide
 ## Purpose
 The "Security Deposit Forfeiture Notice" form is used to inform tenants that their security deposit is being forfeited due to a breach of the rental agreement.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the Community Mediation Recording Consent Form. Before creating this form, I considered the context and purpose of the form. The form's purpose is to obtain consent from participants in a mediation session for recording and subsequent uses of those recordings. This form helps maintain transparency and ensures that participants are informed about their rights and how their recordings will be used. 
-
-</thinking>
-
 # Community Mediation Recording Consent Form - Help Guide
 ## Purpose
 The Community Mediation Recording Consent Form is designed to collect information from participants in a mediation session about their consent to be recorded. This form is used to inform participants about their rights, the purpose of recording, and the allowed uses of the recordings.

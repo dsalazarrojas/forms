@@ -1,16 +1,3 @@
-<thinking> 
-This form is used to create a job application for a model position. The form is designed to collect information about the applicant, including their name, age, birth date, model bio, email, address, phone number, category of expertise, assigned tool, and other details. The form has multiple pages with different types of fields, including text, number, date, select multiple, select one, and note fields. Each field has a specific label and name, and some fields have options or hints to guide the user. 
-
-This form is likely used in a business or professional setting where models are hired for various projects or events. The form is probably used by a team or department that manages model applications and reviews the submitted information.
-
-Please note that the form is not designed to capture sensitive or highly personal information, but rather to collect data that can be used to evaluate the applicant's qualifications and experience.
-
-Before filling out this form, please make sure you are eligible to apply and that the information you provide is accurate and up-to-date.
-
-Also, be aware that some fields have multiple options or hints, please use the correct option or hint that corresponds to your answer.
-
-Finally, please ensure that you have the necessary permissions to upload any file attachments that are required for this application.</thinking>
-
 # Model Application 2 - Help Guide
 ## Purpose
 This form is used to create a job application for a model position. It collects information about the applicant, including their name, age, birth date, model bio, email, address, phone number, category of expertise, assigned tool, and other details.

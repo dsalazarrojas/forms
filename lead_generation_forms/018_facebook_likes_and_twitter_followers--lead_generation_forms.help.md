@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a data collection form, likely used to gather information about a user's social media presence. The purpose of this form is to collect demographic data, specifically about a user's Facebook likes and Twitter followers. The form asks for information such as their business type, Facebook likes, Twitter followers, email, name, and message. There are also several agree fields that seem to be related to user agreements or consents, though their exact purpose is unclear. The form appears to be designed to be completed by a single user, and the fields are all required for the form to be submitted. The form's design and functionality suggest that it is used for some sort of survey or data collection purpose, possibly for marketing or research purposes.
-
-Before creating this guide, I would like to confirm with you that the form is not a duplicate or redundant form, and that the fields are all necessary for the intended purpose. If there are any changes or updates to the form, please let me know and I will make sure to update this guide accordingly.</thinking>
-
 # facebook_likes_and_twitter_followers - Help Guide
 ## Purpose
 This form is used to collect demographic data about your social media presence, specifically about your Facebook likes and Twitter followers. 

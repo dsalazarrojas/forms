@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bail Jumping Notification Form - Help Guide
 ## Purpose
 This form is designed to report a missed court appearance by a defendant, providing details about the appearance date, time, and circumstances. It is used to notify the relevant authorities and facilitate the defendant's return to court.

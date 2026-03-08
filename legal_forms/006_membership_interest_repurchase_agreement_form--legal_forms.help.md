@@ -1,15 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's examine the fields it contains. The form appears to be related to membership and repurchase agreements, which suggests it's likely used for internal or external purposes such as managing membership interests, repurchasing options, or agreements between members or the organization and its members.
-
-Some fields such as `member_info`, `repurchase_price`, `purchase_date`, `member_status`, `agreement_status`, `repurchase_terms`, `repurchase_notes`, `member_signature`, `agreement_signature`, `repurchase_terms_2`, `repurchase_price_2`, `repurchase_date_2`, `repurchase_terms_2`, and `repurchase_notes_2` imply that this form is used for managing membership agreements and repurchase options. 
-
-However, some fields like `reason_for_termination`, `termination_date`, `repurchase_agreement_status`, and `repurchase_agreement_note` suggest that it's also used for terminating or canceling agreements. This form might be used for both repurchasing and terminating membership interests or agreements.
-
-To provide the best possible help guide, I'll make an assumption that this form is used for managing both repurchase and termination of membership interests. I'll provide explanations for all fields and instructions on how to fill out the form.
-
-</thinking>
-
 # Membership Interest Repurchase Agreement Form - Help Guide
 ## Purpose
 The Membership Interest Repurchase Agreement Form is used to manage membership interests between members of a group or organization. It's used for both repurchasing and terminating membership agreements.

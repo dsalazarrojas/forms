@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect basic personal and educational information from job applicants.
-It is recommended to fill out the form carefully and accurately, as the information provided will be used to review and process the application.
-Please make sure to fill out the form only once for each applicant, as duplication may cause confusion in the review process.
-</thinking>
-
 # Simple Job Application Form - Help Guide
 ## Purpose
 

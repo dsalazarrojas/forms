@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about event attendees, specifically their interests and demographics. This data will help event organizers tailor their events to better meet the needs and preferences of their attendees. By providing accurate and relevant information, event organizers can improve the overall experience for their attendees and increase the likelihood of attendees returning to future events.
-</thinking>
-
 # Event Attendee Interest Survey - Help Guide
 ## Purpose
 This form is designed to collect relevant information about event attendees to help event organizers tailor their events to better meet their attendees' needs and preferences.

@@ -1,15 +1,3 @@
-<thinking>
-This form appears to be a settlement agreement form designed for use in legal or dispute resolution contexts. It collects information about the parties involved in a settlement, including their names, reasons for settlement, income disclosures, and other relevant details. The form also captures information about the dispute, such as its type, description, amount, status, and outcome. The fields for signatures from the plaintiff, defendant, and lawyer suggest that this form may be used in conjunction with legal proceedings.
-
-To determine if this form is relevant for your specific use case, please consider the following factors:
-* Are you involved in a legal or dispute resolution process?
-* Do you need to collect information about the parties, the reasons for settlement, and the details of a dispute?
-* Are you working with a lawyer or in a legal capacity?
-
-If you answered "yes" to these questions, this form may be suitable for your purposes.
-
-Before creating this form, I will assume it is relevant and suitable for your use case. If you have any further questions or concerns, please feel free to reach out to me.</thinking>
-
 # Settlement Agreement - Help Guide
 ## Purpose
 This form is designed to capture information about a settlement agreement between two parties, including the plaintiff and defendant. It gathers details about the reasons for the settlement, income disclosures, and other relevant information. The form also includes fields for signatures from the parties and their representatives.

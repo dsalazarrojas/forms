@@ -1,36 +1,3 @@
-<thinking>
-The purpose of this form is to request a safety interlock bypass, which is a process of temporarily disabling or overriding safety interlocks on equipment to allow for maintenance or repairs. This form is used to document and track the request, ensuring that all necessary information is collected and reviewed before proceeding. 
-
-To complete this form, the user should navigate to the "Safety Interlock Bypass Request Form" page and select the relevant options for the request.
-
-Before filling out this form, it's essential to review the following:
-
-- Confirm that this is a legitimate maintenance request and not a duplicate request.
-- Ensure that the necessary approvals and reviews are in place before submitting the form.
-
-This form is divided into several sections:
-
-- Maintenance Form
-- Temporary Bypass Request
-- Bypass Timing
-- Bypass Risk
-- Approved By
-- Date Approved
-- Time Approved
-- Comments
-- Email
-- Phone
-
-Each section requires a specific type of input or selection to gather relevant information for the maintenance request.
-
-This form requires no mandatory fields, however, users are encouraged to provide as much information as possible to ensure that the safety interlock bypass request is properly documented and approved.
-
-Before submitting the form, the user should ensure that all required information is provided, and the form is accurate and complete.
-
-The following sections will be explained in detail:
-
-</thinking>
-
 # Safety Interlock Bypass Request Form - Help Guide
 ## Purpose
 

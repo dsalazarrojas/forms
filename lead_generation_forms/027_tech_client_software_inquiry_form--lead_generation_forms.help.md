@@ -1,7 +1,3 @@
-<thinking>
-The form "tech_client_software_inquiry_form" is intended to collect information from potential clients or customers about their software requirements and preferences. This form should be used for internal purposes only, and it's not designed to be shared publicly. The form is not intended for duplicate submissions, so please do not submit the form multiple times if you're inquiring about the same thing. 
-</thinking>
-
 # tech_client_software_inquiry_form - Help Guide
 ## Purpose
 The "tech_client_software_inquiry_form" is a collection of questions to gather information from potential clients or customers about their software requirements and preferences. This form will help us understand their needs and provide better support.

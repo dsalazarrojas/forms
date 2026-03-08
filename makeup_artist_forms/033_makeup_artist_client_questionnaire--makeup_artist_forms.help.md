@@ -1,5 +1,3 @@
-<thinking>As a makeup artist, the form is designed to collect client information, medical conditions, and preferences for a personalized consultation or appointment. The fields are intended to help gather essential details about the client, such as name, contact method, emergency contact, medical conditions, and makeup experience. This information will be used to provide an effective and safe makeup service. Please ensure that each field is filled in accurately and completely to ensure the best possible outcome.</thinking>
-
 # Makeup Artist Client Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients to provide a personalized and safe makeup service.

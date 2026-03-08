@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # statuary_declaration_form - Help Guide
 
 ## Purpose

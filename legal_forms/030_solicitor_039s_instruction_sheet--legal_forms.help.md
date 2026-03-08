@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and instructions related to a solicitor's work, likely for internal use by the solicitor or their firm. This form appears to be for general use without specific requirements or limitations mentioned, making it a basic template for capturing solicitor and client information. I'll assume the form is intended for solicitors to provide instructions and information to clients about their work, which could include legal documents, meetings, or other tasks. I'll design the help guide accordingly.</thinking>
-
 # Solicitor's Instruction Sheet - Help Guide
 ## Purpose
 The Solicitor's Instruction Sheet is a template used by solicitors to collect and record information and instructions related to their work with clients. This form helps solicitors provide clear and concise instructions to clients and captures relevant details about the client and solicitor's work.

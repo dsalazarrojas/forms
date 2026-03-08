@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Chatbot Integration Registration Form - Help Guide
 ## Purpose
 

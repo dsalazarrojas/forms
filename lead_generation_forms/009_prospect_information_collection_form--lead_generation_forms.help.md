@@ -1,7 +1,3 @@
-<thinking> 
-We've created this help guide to walk you through completing the "prospect_information_collection_form" form, designed to collect valuable information about prospects. This guide will help you understand the form's purpose, its fields, and how to fill it out correctly.
-</thinking>
-
 # prospect_information_collection_form - Help Guide
 ## Purpose
 The prospect_information_collection_form is a form designed to collect essential details about a prospect, including their name, contact information, company details, and job-related information. This information helps our sales team understand the prospect's needs, preferences, and pain points, enabling us to provide personalized services and build strong relationships.

@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be related to legal forms, which are documents that are used to convey information or to achieve a specific legal purpose. I will assume that the LS54 Form is intended to collect data from the user for compliance purposes. I will provide a detailed help guide to ensure the user understands the form's purpose and how to complete it correctly.
-</thinking>
-
 # LS54 Form - Help Guide
 ## Purpose
 The LS54 Form is designed to help government agencies and companies comply with Section 195.1 of the New York State Labor Law. It collects information from the user that is relevant to this compliance.

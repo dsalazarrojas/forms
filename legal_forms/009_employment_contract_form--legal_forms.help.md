@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employment Contract Form - Help Guide
 
 ## Purpose

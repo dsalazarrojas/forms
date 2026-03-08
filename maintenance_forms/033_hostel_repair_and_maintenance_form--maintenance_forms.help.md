@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to assist hostel staff in documenting and reporting maintenance and repair issues within the hostel premises. The form serves as a centralized platform to gather information from staff, including the contact person and their contact details, location of the issue, and a detailed description of the issue. This information can aid in prioritizing and addressing the maintenance and repair tasks efficiently, ensuring the smooth operation of the hostel.
-
-</thinking>
-
 # Hostel Repair And Maintenance Form - Help Guide
 
 ## Purpose

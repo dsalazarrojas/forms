@@ -1,11 +1,3 @@
-<thinking>
-
-To determine whether to provide a help guide, I will review the form purpose and requirements to ensure that it is complete and accurate. This form appears to be a job application form for an Administrative Manager position, which is a typical requirement for such a position. The form collects applicant's personal information, employment preferences, educational background, work experience, language skills, and availability. It also includes fields for references and background checks, which are standard practices in HR management. 
-
-Form seems to be comprehensive, but I will review it to ensure that no field is missing and there are no obvious errors or inconsistencies. After reviewing the form, I did not find any issues, and it appears to be well-structured and clear. Therefore, I will proceed with creating the help guide.
-
-</thinking>
-
 # Administrative Manager Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for the Administrative Manager position. It is a comprehensive form that covers various aspects of the applicant's personal and professional background.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Vendor Maintenance Form is to gather relevant information about a vendor's details for administrative purposes. This form is likely used by procurement or accounting teams to update or verify vendor information. The form should be filled out for each vendor, and it's essential to ensure that only one form is submitted per vendor to avoid data duplication.
-</thinking>
-
 # Vendor Maintenance Form - Help Guide
 ## Purpose
 The Vendor Maintenance Form is used to gather and update information about a vendor's details for administrative purposes.

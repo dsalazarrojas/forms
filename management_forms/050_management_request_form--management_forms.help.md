@@ -1,9 +1,3 @@
-<thinking>
-
-The Management Request Form is used by team members to submit requests for management's consideration. These requests are typically for tasks that need to be assigned to specific team members, such as tasks that require special attention or resources. Before submitting a request, team members should ensure that they have not already created a duplicate request for the same task, as multiple requests can lead to confusion and duplication of effort. To ensure that requests are being submitted correctly, please review the form carefully and fill out all required fields.
-
-</thinking>
-
 # Management Request Form - Help Guide
 ## Purpose
 The Management Request Form is used by team members to submit requests for management's consideration. These requests are typically for tasks that need to be assigned to specific team members, such as tasks that require special attention or resources.

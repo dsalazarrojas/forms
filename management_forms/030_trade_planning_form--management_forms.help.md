@@ -1,11 +1,3 @@
-<thinking>
-
-The Trade Planning Form is used for planning and analyzing trades. It captures essential information about the trade, including its target, size, stop loss, size, and other relevant details. The form helps users to create a comprehensive trade plan, which is useful for both beginners and experienced traders. It may also be used by traders, brokers, or analysts for internal planning purposes.
-
-To avoid duplication, the form should only be used for planning and analysis of trades, and not for actual trading operations.
-
-</thinking>
-
 # Trade Planning Form - Help Guide
 ## Purpose
 This form is designed to help traders, brokers, and analysts plan and analyze trades. It collects essential information to create a comprehensive trade plan.

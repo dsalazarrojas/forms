@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to be used by retail store employees to record and document the closing procedures at the end of each day. This form is not intended to be a comprehensive list of all possible closing tasks, but rather a concise check list to ensure that all critical tasks are completed. The form can be used by store managers to monitor and evaluate the effectiveness of the closing procedures.
-
-It is essential to understand that this form is not a replacement for existing processes or procedures but rather a tool to supplement and aid in the closing process.
-
-The purpose of this form is to provide a structured and organized way to record and document the closing procedures, which can be used for future reference and evaluation.
-
-To ensure that the form is completed accurately and effectively, it is recommended that the store employees are familiar with the closing procedures and protocols before completing the form.
-
-Before filling out the form, make sure to read the field explanations to understand what each field is intended to capture.
-</thinking>
-
 # Retail Store Closing Procedures Checklist - Help Guide
 ## Purpose
 This form is designed to be used by retail store employees to record and document the closing procedures at the end of each day.

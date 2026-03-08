@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals seeking legal consultation on family law matters. The primary goal is to gather relevant data to facilitate the process of providing informed legal advice.
-It is essential to ensure that the data collected is accurate and up-to-date to avoid any miscommunication. The form fields are designed to be clear and concise, making it easier for users to provide the necessary information. This guide will walk you through the fields and how to fill them out.
-</thinking>
 # Family Law Consultation Inquiry Form - Help Guide
 ## Purpose
 The Family Law Consultation Inquiry Form is a tool used by individuals to gather information related to legal consultation on family law matters. This form helps our team understand your specific needs and provides a foundation for our legal experts to offer informed guidance.

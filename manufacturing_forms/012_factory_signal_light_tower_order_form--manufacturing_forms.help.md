@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory Signal Light Tower Order Form - Help Guide
 
 ## Purpose

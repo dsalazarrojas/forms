@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to register a Factory Energy Recovery Project. The form's purpose is to gather essential information about a project related to energy recovery in a factory environment. This project registration form is likely used within the manufacturing industry, where companies may be looking to implement energy recovery solutions or share knowledge on best practices for energy efficiency projects. This form's purpose should be relevant to individuals or organizations within this industry who are interested in registering their energy recovery project for tracking, documentation, or collaboration purposes. It's essential to ensure that only one instance of the form is submitted per project to avoid duplication of efforts and maintain accurate records.
-
-</thinking>
-
 # Factory Energy Recovery Project Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about a Factory Energy Recovery Project. It's intended for use within the manufacturing industry to register projects related to energy recovery and efficiency.

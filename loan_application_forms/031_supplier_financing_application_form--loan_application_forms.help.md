@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from suppliers for financing purposes. It is intended for suppliers to provide their details, financial information, contact details, product details, financing terms, and other relevant information. This form is typically used by suppliers to request financing from the company or organization. To ensure you are using the correct form, please note that it is used for financing purposes and not for other types of applications or requests.
-</thinking>
-
 # Supplier Financing Application Form - Help Guide
 ## Purpose
 The Supplier Financing Application Form is designed to collect necessary information from suppliers to facilitate financing for their products or services. This form is typically used by suppliers to provide detailed information about themselves and their products or services to enable financing.

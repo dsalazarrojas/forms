@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-<markdown>
+> <markdown>
 # request_for_leave_of_absence_form - Help Guide
 ## Purpose
 This form is for requesting a leave of absence from work. Please fill it out to submit your leave request to your department and manager for approval.

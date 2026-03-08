@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help lenders assess the lending responsibility of potential borrowers. This form is typically used in industries like finance, banking, or mortgage. The purpose of this form is to gather information about the borrower's financial situation, credit history, income, and other relevant details. This form usually requires multiple pages with various fields, such as text inputs, to collect comprehensive data. The information gathered is used to evaluate the creditworthiness of the borrower and determine the likelihood of loan approval.
-</thinking>
-
 # Lending Responsibility Assessment - Help Guide
 ## Purpose
 The Lending Responsibility Assessment form is used to evaluate the creditworthiness of potential borrowers and assess their ability to repay a loan.

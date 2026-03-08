@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from applicants for a job position. It is meant to gather details about the applicant, their motivation for applying, and their suitability for the position. This form is not intended to be completed by anyone who is not a job applicant. If you are not applying for a job, please do not complete this form. Please ensure that you are providing accurate and up-to-date information to the best of your ability. If you have any questions or concerns, please do not hesitate to reach out to the contact person listed below. Please note that all fields are optional unless marked as required. If a field is marked as required, it is necessary to fill it in for the application to be considered valid... </thinking>
-
 # Interview Questionnaire - Help Guide
 ## Purpose
 The Interview Questionnaire is a form designed to collect information from job applicants. It gathers details about the applicant, their motivation, and suitability for a job position.

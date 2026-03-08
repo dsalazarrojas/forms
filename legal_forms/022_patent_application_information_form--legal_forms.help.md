@@ -1,7 +1,3 @@
-<thinking>
-We need to verify that this form is being used for its intended purpose and not for other unrelated tasks. The form is designed to collect information about patent applications, specifically the details of the patent and its inventors. It should only be used by authorized personnel to gather accurate and relevant data for patent-related activities. Before proceeding, ensure that this form is not being used for other purposes, such as for general contact information or for other types of requests. This will prevent potential errors and ensure that we are collecting the correct information for the patent application process. 
-</thinking>
-
 # Patent Application Information Form - Help Guide
 ## Purpose
 This form is used to collect information about patent applications, including patent details and inventor/contact information. It is intended for use by authorized personnel to gather accurate and relevant data for patent-related activities.

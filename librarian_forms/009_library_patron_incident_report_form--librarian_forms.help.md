@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Library Patron Incident Report Form - Help Guide
 
 ## Purpose

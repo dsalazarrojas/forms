@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to provide a contact point for manufacturing technology advisors to receive requests for guidance and support from potential clients. The form will gather necessary information to facilitate a meaningful conversation and ensure that the advisors can address the client's specific needs.
-
-The form is structured to collect essential details about the client, their company, and their project requirements. Each section is designed to provide a clear and concise way of gathering this information.
-
-</thinking>
-
 # Contact A Manufacturing Technology Advisor - Help Guide
 ## Purpose
 This form is intended to help manufacturing technology advisors provide expert guidance and support to potential clients. It's designed to collect essential information about the client and their project needs.

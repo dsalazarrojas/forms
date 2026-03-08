@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users regarding their legal requests. The form is intended for users who require assistance with legal matters, such as requesting legal documents, seeking legal advice, or inquiring about legal processes. To avoid duplication of effort, users should only fill out this form if they have not already submitted a similar request to our organization. Please note that this form is not intended for soliciting legal services for commercial purposes or for sharing personal information that may compromise the user's identity or confidentiality.
-
-</thinking>
-
 # Legal Request Form - Help Guide
 ## Purpose
 The Legal Request Form is a tool for users to submit their legal requests to our organization. This form helps us understand the user's needs and provides a structured way to gather relevant information.

@@ -1,7 +1,3 @@
-<thinking> 
-This form appears to be a standard application form with various fields for users to provide personal and business-related information. The form is likely intended for individuals or businesses that want to apply for a smart labeling technology service or product. The purpose of the form is to collect necessary information from applicants to process their request efficiently. I will assume that all fields are not required unless explicitly marked as required in the YAML schema. I will focus on providing a clear and concise explanation for each field, avoiding any unconfirmed business logic.
-</thinking>
-
 # Smart Labeling Technology Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form seems to be for reporting on inheritance-related matters, potentially for tax or probate purposes. The fields likely pertain to information about the inheritance, the estate, key dates involved, and details about the heir(s) or beneficiary(ies). It's unclear what specific context or jurisdiction this form is intended for, so it's best to assume a general-purpose form for reporting on inheritance. I will provide a general guidance on how to fill it out, based on the fields provided.
-</thinking>
-
 # Inheritance Reporting Form - Help Guide
 ## Purpose
 The Inheritance Reporting Form is designed to collect information about inheritance-related matters. This form is meant to help individuals report and document details about their inheritance, including estate specifics, key dates, and information about the heir or beneficiary.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Simple Job Application Form Red And Responsive - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Safety Equipment Maintenance Report - Help Guide
 ## Purpose
 The Fire Safety Equipment Maintenance Report is used to document the maintenance and status of fire safety equipment within a facility. This report helps ensure that all necessary maintenance is performed on a regular basis to ensure the safety of occupants and visitors.

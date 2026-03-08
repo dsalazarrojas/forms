@@ -1,6 +1,3 @@
-<thinking> 
-We have to ensure that this form is being used correctly and that end users understand its purpose and usage. This template is meant for reporting on meetings, likely after a meeting has taken place. It's intended for managers to record the details of their meetings, including the topic, location, date and time, notes, and any additional attendees. We should check if this form is being used for other purposes or if the fields are being filled in correctly. Let's assume that the "assigned_tool" field is meant to indicate which tool was used during the meeting, and "other" is a catch-all option for tools not listed.</thinking>
-
 # Meeting Report Template - Help Guide
 ## Purpose
 This form is designed for managers to document the details of their meetings, including the topic, location, date and time, notes, and any additional attendees.

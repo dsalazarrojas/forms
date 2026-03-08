@@ -1,13 +1,3 @@
-<thinking>
-Internal reasoning block to ensure this form's purpose and fields are well-understood and not duplicated:
-- This form is designed for immigration consultancy services to obtain liability waiver from clients or customers before providing services. 
-- The form collects general information, contact details, and agreement terms from the client. 
-- The form is not intended to collect sensitive or confidential information.
-- The form fields should not be used to collect data that could potentially be used for marketing or profiling.
-- Each field in the form has a clear and concise label, but some field labels might not be perfectly descriptive. 
-
-</thinking>
-
 # Immigration Consultancy Liability Waiver - Help Guide
 ## Purpose
 This form, titled "Immigration Consultancy Liability Waiver," is designed to obtain a liability waiver from clients or customers before providing immigration consultancy services. The form aims to ensure that all parties involved are aware of the terms and conditions of the consultancy services.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a part of a municipal or law enforcement agency's internal process, designed to handle parking ticket hearings. The form likely serves to collect information from individuals who wish to contest or request a hearing for a parking ticket they received. The form's purpose is to gather essential details such as hearing preferences, supporting documentation, dates, and locations. The internal reasoning behind this form is to provide a structured process for individuals to submit their requests in a clear and concise manner.
-</thinking>
-
 # Parking Ticket Hearing Request Form - Help Guide
 ## Purpose
 The Parking Ticket Hearing Request Form is designed to collect information from individuals who wish to contest or request a hearing for a parking ticket they received. This form helps ensure that the required information is gathered in a clear and concise manner, facilitating the review and processing of the request.

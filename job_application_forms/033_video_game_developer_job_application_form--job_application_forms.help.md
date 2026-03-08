@@ -1,5 +1,3 @@
-<thinking>... internal note: This form is used for job applicants to submit their application for a position as a video game developer. The form requires providing personal information such as name, contact email and phone number, resume, and portfolio link. It also asks for details about the applicant's job title, job reference, salary range, job type, available date, notice period, skills, job location, languages spoken, education, work experience, availability, job description, and why they are interested in video games. Additionally, it asks for a brief description of why they are available for the position and what kind of contract type they are looking for. The form is designed to gather information that will be used to evaluate the applicant's qualifications and suitability for the position. It is recommended to answer the questions as thoroughly as possible to increase the chances of getting noticed. Please make sure to fill out the form accurately and completely...</thinking>
-
 # Video Game Developer Job Application Form - Help Guide
 ## Purpose
 

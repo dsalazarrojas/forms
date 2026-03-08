@@ -1,9 +1,3 @@
-<thinking>
-This form is for documenting and reporting computer errors that have occurred in the library environment. The purpose of this form is to gather information about the incident, which will help the library staff to identify and address the issue promptly.
-The form can be completed by anyone with access, but it is intended for use by library staff who have encountered a computer-related error or issue.
-To ensure that the form is filled out correctly, it is recommended to review each field carefully before submitting.
-</thinking>
-
 # Library Computer Error Incident Report - Help Guide
 ## Purpose
 The Library Computer Error Incident Report form is used to document and report computer errors that have occurred in the library environment. This form helps gather information about the incident, which will aid library staff in identifying and addressing the issue promptly.

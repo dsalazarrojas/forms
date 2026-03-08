@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting maintenance services from the vacuum truck team. It's meant for customers who need assistance with their equipment or services. Please fill it out only if you have a genuine request, and make sure you're not duplicating a previous request. This form will help the team to better understand your needs and provide efficient support.
-</thinking>
-
 # Vacuum Truck Service Request - Help Guide
 ## Purpose
 The Vacuum Truck Service Request form is a tool for customers to submit requests for maintenance services related to their equipment. Fill out this form to inform our team about your service needs and we'll take care of the rest.

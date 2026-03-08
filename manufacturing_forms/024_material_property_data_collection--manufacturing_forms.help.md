@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect data about materials used in the manufacturing process. The purpose of this form is to provide a standardized way to gather and store material property data. This form should only be used for materials that are relevant to the manufacturing process and should not be used for non-relevant materials. Duplicate entries should be avoided.
 
 # Material Property Data Collection - Help Guide

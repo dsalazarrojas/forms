@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graduate Program Enrollment Marketing Inquiry - Help Guide
 
 ## Purpose

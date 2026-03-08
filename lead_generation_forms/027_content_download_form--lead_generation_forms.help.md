@@ -1,7 +1,3 @@
-<thinking>
-The form "Content Download Form" is designed to capture information from users who want to download specific content. This form is intended for users who are interested in downloading various types of content such as E-books, White Papers, Case Studies, Research Reports, Templates, Guides, Checklists, and Webinar Recordings. The form is used to collect demographic information about the user, their company, and their interests, as well as their preferences for contact and download purposes. The form's fields are designed to provide a clear and concise way to collect relevant information from users, while also ensuring that all necessary fields are completed before submitting the form.
-</thinking>
-
 # Content Download Form - Help Guide
 
 ## Purpose

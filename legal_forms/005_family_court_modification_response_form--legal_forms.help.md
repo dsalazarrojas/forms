@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to capture responses and additional information from a family court case modification. It's designed to be completed by a party involved in the case, possibly in response to a court order or request. This form likely aims to gather information about their agreement or disagreement with the proposed modification and any supporting documentation or contact details of their lawyer.
-The form is likely part of a process where the court is seeking updates on the current status of a family case, and this form helps to ensure that all relevant information is collected and recorded. The fields on this form are meant to provide a structured way to gather responses, documentation, and contact details from parties involved.
-</thinking>
-
 # Family Court Modification Response Form - Help Guide
 ## Purpose
 This form is used to gather responses from parties involved in a family court case modification. It helps to ensure that all relevant information is collected and recorded.

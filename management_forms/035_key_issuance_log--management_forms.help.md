@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a "key_issuance_log" form, which is used to log the issuance and return of keys, such as keys to a building or a vehicle. The purpose of this form is to record the key type, description, date issued, person or people it was issued to, the person or people that returned it, and any remarks or comments regarding the key issuance and return. 
-
-The form is designed to be completed by authorized personnel, and all fields are optional except for "Returned By", which is a required field. This form is used to maintain a record of key transactions, and it is essential to ensure that all key issuances and returns are accurately and thoroughly documented. 
-
-It is recommended that users complete this form accurately and thoroughly, and ensure that all fields are populated with the correct information. 
-
-</thinking>
-
 # key_issuance_log - Help Guide
 ## Purpose
 This form is used to log the issuance and return of keys, such as keys to a building or a vehicle.

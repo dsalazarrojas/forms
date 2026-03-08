@@ -1,7 +1,3 @@
-<thinking>
-This form is for capturing information related to a loan officer's service agreement with a client. It includes client information, loan officer details, services offered, compensation terms, dates, and other relevant details. The form is not meant to be a legally binding contract, but rather a guide for communication and record-keeping purposes. It is essential to review and understand each field carefully before filling out the form to ensure accurate and complete information. Please ensure that the information provided is accurate and relevant to the loan officer's services and client's agreement.
-</thinking>
-
 # Loan Officer Service Agreement - Help Guide
 
 ## Purpose

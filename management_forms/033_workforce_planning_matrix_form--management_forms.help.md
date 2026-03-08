@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information on workforce planning and management. It is intended for use by HR or management teams to gather data on departmental priorities, next steps, and resource needs. To confirm, this form is used to support the planning and allocation of resources to meet business objectives. Please ensure that this form is not used for other purposes, as its design and purpose are specific to this task.
-
-</thinking>
-
 # Workforce Planning Matrix Form - Help Guide
 ## Purpose
 The Workforce Planning Matrix Form is a tool for HR or management teams to collect information on departmental priorities, next steps, and resource needs. It helps in planning and allocating resources to meet business objectives.

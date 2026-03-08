@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equipment Maintenance Monitoring Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track referrals from clients or customers who have been referred to a program. The form captures information about the referral source, including their name, email, phone number, and the type of referral they came from (e.g. social media, online ad, in-person). This form is likely used by sales teams or customer service representatives to gather information and update the status of referrals in a program. Before filling out this form, make sure you've already spoken with or met with the referral source to confirm their information and understand their situation. To avoid duplication, only fill out this form once per referral source.
-</thinking>
-
 # Referral Program Form - Help Guide
 ## Purpose
 This form is used to track referrals from clients or customers who have been referred to a program.

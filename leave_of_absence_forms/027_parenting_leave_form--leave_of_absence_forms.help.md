@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for employees to request a parenting leave, providing essential information to their managers and HR department. It is likely used within a corporate or organizational setting where employees need to balance work and family responsibilities. This form should only be filled out by employees who are eligible for leave and should not be used for other types of requests.
-
-The form is used to gather information about the leave request, including details about the employee, the nature of their leave, and the dates and duration of their absence. This information is essential for the manager and HR department to process the request and ensure that it is approved or denied accordingly.
-
-Before filling out this form, please ensure that you have checked the relevant leave policy and eligibility criteria for your organization. You may want to consult with your HR representative or manager to understand the specific requirements and procedures.
-
-</thinking>
-
 # Parenting Leave Form - Help Guide
 ## Purpose
 This form is used by employees to request a parenting leave, providing essential information to their managers and HR department for processing their leave request.

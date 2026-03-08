@@ -1,5 +1,3 @@
-<thinking>...internal reasoning block to explain the purpose and prevent duplication...</thinking>
-
 The "Facility Management Waiver Form Template" is a standardized template designed for facility management purposes. Its main aim is to gather information about a facility's operational and management details for efficient handling and decision-making.
 
 To avoid duplication of effort and ensure accurate submission, please review the following guide carefully.

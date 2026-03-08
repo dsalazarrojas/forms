@@ -1,10 +1,3 @@
-<thinking>
-To provide a comprehensive guide for the sales interview form with voice record, we need to first understand the purpose of this form. The form is likely designed to capture relevant information from candidates during the sales interview process, including their name, job title, sales experience, and other relevant details. However, the form also includes fields for recording audio responses, which suggests that this form may be used for a voice-based evaluation or assessment of the candidate's sales skills. 
-
-The form has multiple pages and fields, which might be overwhelming for users. It's essential to break down each field and explain its purpose to ensure that candidates understand what information is required and how to complete the form accurately.
-
-</thinking>
-
 # Sales Interview Form With Voice Record - Help Guide
 ## Purpose
 This form is designed to collect information from candidates during the sales interview process. It includes fields for personal details, sales experience, and voice-recorded responses to evaluate the candidate's sales skills.

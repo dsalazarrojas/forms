@@ -1,9 +1,3 @@
-<thinking>
-This form is a Dispute Resolution Intake Form, designed to help users provide information about a dispute they are experiencing or have experienced. It is used to gather details about the nature of the dispute, the parties involved, and the desired resolution. This form is intended to facilitate a smooth and efficient dispute resolution process.
-
-To avoid duplication, ensure that the form is filled out only for disputes that have not been previously resolved or are new disputes. If a dispute has already been resolved, please use the resolution status field to indicate the resolution status.
-</thinking>
-
 # Dispute Resolution Intake Form - Help Guide
 ## Purpose
 This form is used to gather information about a dispute and facilitate a resolution process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sample Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for job openings. It is a general-purpose form that can be used for a wide range of job applications. Please use this form to provide your contact information and other relevant details about yourself and your qualifications for the job you are applying for.

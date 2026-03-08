@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for laboratory inspections, which are essential for assessing the compliance and safety of laboratories. The purpose of this form is to collect information about a laboratory's facilities, equipment, and procedures to ensure they meet the required standards and regulations. This information will help facility managers and inspectors identify areas for improvement and take corrective actions to maintain a safe and compliant environment.
-
-This form is not intended for creating new lab records or generating reports, but rather for documenting and reporting on existing facility conditions. 
-
-The form is divided into several sections to guide the completion process. Each field is designed to collect specific types of information, as indicated by its type and options.
-
-</thinking>
-
 # Laboratory Inspection Form - Help Guide
 ## Purpose
 The Laboratory Inspection Form is a tool for facility managers and inspectors to collect and document information about laboratory facilities, equipment, and safety procedures.

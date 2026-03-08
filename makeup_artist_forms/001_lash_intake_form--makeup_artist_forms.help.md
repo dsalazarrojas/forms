@@ -1,22 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "lash_intake_form" form, I need to first understand the context and purpose of the form. Based on the YAML input, it appears that this form is designed for a lash extension service, likely for a beauty or aesthetics business. The form is intended to gather client information, service details, and other relevant data for the lash artist or technician performing the service.
-
-The form consists of multiple pages, with each page containing different fields. The pages are likely organized to guide the user through the intake process, starting from client information and contact details to service-specific fields.
-
-To provide an accurate and helpful guide, I will review the form fields and their labels. Here are my assumptions and conclusions:
-
-*   "Client Information" (id: 3) likely includes fields like Client Name, Address, Phone Number, and Email.
-*   "Contact Information" (id: 4) might include fields like Email, Phone Number, and Address.
-*   "Services" (id: 5) is likely a multiple-choice field where the user selects the services they wish to receive (e.g., lash extension, lash lift, lash removal).
-*   "Lash Style" and "Lash Size" (id: 6 and 7) seem to refer to the style and size of lashes the client desires.
-*   "Client Witnessed By" (id: 8) may be a field for the witness's name and title.
-*   "Witness Name" and "Witness Title" (id: 9 and 10) could be fields for the witness's name and title.
-*   "Staff Signature" (id: 13), "Client Signature" (id: 14), and "Witness Signature" (id: 15) imply that these signatures are required for the client, staff, and witness, respectively.
-*   "Additional Notes" (id: 16 and 20) are likely free-form text fields for any additional comments or remarks.
-*   "Photo Release" (id: 19) is likely a field where the client grants permission for their photo to be taken.
-
-</thinking>
-
 # lash_intake_form - Help Guide
 ## Purpose
 This form is designed for clients to provide their information and preferences for lash extensions services. It guides clients through the process of choosing their desired lash style, services, and other relevant details.

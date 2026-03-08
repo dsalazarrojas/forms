@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for maintenance personnel to document vehicle maintenance activities. The purpose of this form is to track and record the vehicle's maintenance history, allowing users to easily review and manage the tasks performed, their respective dates, and other relevant details. The form aims to standardize the maintenance process, ensuring that all necessary tasks are completed and documented in a structured and efficient manner.
-
-</thinking>
-
 # Vehicle Maintenance Checklist Form - Help Guide
 ## Purpose
 

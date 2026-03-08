@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to capture all the necessary information to create a raffle ticket, including the title, price, and description of the raffle. The title, price, and draw date/time are required fields. The form also allows the user to upload an image, select a payment gateway, and choose the language, color, and background of the form. However, some fields, like raffle description and image upload, are not required.
-
-This form is likely used by administrators or content creators to set up raffle tickets for a website or platform. To avoid duplication, the form should only be filled out once per raffle setup.
-
-The form has the following sections: raffle name, raffle price, raffle quantity, raffle draw date, raffle draw time, raffle description, raffle prize, raffle image, raffle image url, raffle form type, raffle payment gateway, raffle payment test, raffle user, raffle form language, raffle form color, raffle form background, raffle form header, raffle form footer, raffle terms and conditions, raffle image upload, raffle image max size, raffle image min size, raffle image width, raffle image height, and raffle custom js.
-</thinking>
-
 # Raffle Ticket Form - Help Guide
 ## Purpose
 This form is used to create a raffle ticket with all the necessary information.

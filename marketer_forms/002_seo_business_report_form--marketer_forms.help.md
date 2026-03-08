@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about Search Engine Optimization (SEO) business reports. This form is used to submit and manage various SEO-related data for business reports. It appears to be designed for internal use within an organization, possibly for monitoring and maintaining SEO performance metrics for different business reports.
-</thinking>
-
 # seo_business_report_form - Help Guide
 ## Purpose
 The `seo_business_report_form` is used to submit and manage SEO-related data for business reports.

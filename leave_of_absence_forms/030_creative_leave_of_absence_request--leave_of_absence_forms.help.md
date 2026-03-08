@@ -1,13 +1,3 @@
-<thinking>
-
-To create an effective help guide for the "Creative Leave Of Absence Request" form, we first need to understand the form's purpose and ensure that the user understands the form's relevance and potential duplicates. This form is designed to collect information for employee leave requests, which might overlap with other leave-related forms. It's crucial that users complete the form accurately and correctly to avoid confusion and unnecessary duplication of effort. 
-
-The form is intended to gather essential details for a creative leave of absence request, which includes employee information, leave duration, and approval from supervisors and managers. The purpose of the form is to streamline the leave request process, making it easier for employees and HR staff to handle leave-related matters efficiently.
-
-To prevent duplication of effort, users should ensure that they only submit a new request if their previous one has been resolved or if there are changes to their leave details.
-
-</thinking>
-
 # Creative Leave Of Absence Request - Help Guide
 ## Purpose
 The "Creative Leave Of Absence Request" form is designed to collect essential information for employee leave requests, including leave type, start and end dates, reason for leave, leave duration, and approval from supervisors and managers. This form helps streamline the leave request process, reducing duplication of effort and making it easier for employees and HR staff to handle leave-related matters.

@@ -1,9 +1,3 @@
-<thinking>
-
-I'll create a comprehensive help guide for the Borehole Drilling Service Agreement form, ensuring that it's concrete, concise, and practical for end-users to understand its purpose, how to complete it, and each field's meaning.
-
-</thinking>
-
 # Borehole Drilling Service Agreement - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients for borehole drilling services, including client contact details, project scope, commercial terms, and authorization for work commencement. It's a crucial document that outlines the agreement between the client and the service provider, ensuring both parties are on the same page regarding the scope of work, payment terms, and expectations.

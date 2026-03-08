@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is designed to assist users in navigating the "Legislation Control Checklist" form. This form is a tool used to track and document the control and review process of legislation within an organization. It appears to be a comprehensive form that covers various aspects of the legislation control process, including departmental reviews, record findings, and follow-up actions.
-
-Upon reviewing the form schema, it seems that it's designed for organizations to keep track of the status of legislation reviews and follow-up actions within different departments. The form includes sections for recording review status, follow-up due dates, and review notes. It's likely used in a compliance or regulatory context where organizations need to track and monitor the progress of legislation reviews.
-
-Before proceeding with filling out this form, it's essential to ensure that you're using it in a relevant context and not duplicating efforts. This form appears to be a comprehensive tool for tracking and monitoring the control and review process of legislation within an organization.
-
-</thinking>
-
 # Legislation Control Checklist - Help Guide
 ## Purpose
 The Legislation Control Checklist is a tool used to track and document the control and review process of legislation within an organization. It helps monitor the progress of departmental reviews, record findings, and follow-up actions to ensure compliance with regulatory requirements.

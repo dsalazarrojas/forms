@@ -1,9 +1,3 @@
-<thinking>
-This form is used to obtain a loan collateral disclosure consent from a borrower. The purpose of this form is to ensure that the borrower is aware of the terms and conditions associated with the loan, including the type and value of the collateral being used. This form is a standard document used in the loan process and is required to be completed by the borrower as part of the loan application. It is not a form that can be completed by a business or organization.
-The information in this form will be used to verify that the borrower has acknowledged the terms and conditions of the loan and has provided accurate information about the collateral being used.
-Please ensure that you have read the entire form carefully before completing it.
-</thinking>
-
 # loan_collateral_disclosure_consent_form - Help Guide
 ## Purpose
 This form is used to obtain a loan collateral disclosure consent from a borrower, ensuring they are aware of the terms and conditions associated with the loan, including the type and value of the collateral being used.

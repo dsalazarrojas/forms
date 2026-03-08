@@ -1,12 +1,3 @@
-<thinking>
-The form is intended to gather information for Material Trace Compliance Registration, which is crucial for suppliers and manufacturers in the industry to maintain accurate and transparent material sourcing and processing. This form collects details about the supplier, material trace data, and compliance documents. It is designed to be used in a manufacturing context, where accuracy and authenticity of material sourcing are key. The form's purpose is to streamline the registration process, reduce errors, and ensure that suppliers and manufacturers are compliant with regulatory requirements.
-
-To confirm, this form will be used for suppliers and manufacturers within the industry. It is not intended for other purposes such as customer feedback or sales inquiries.
-
-Before proceeding, please ensure that you are authorized to access and submit this form. If you are unsure, please contact [insert contact information].
-
-</thinking>
-
 # material_trace_compliance_registration_form - Help Guide
 ## Purpose
 

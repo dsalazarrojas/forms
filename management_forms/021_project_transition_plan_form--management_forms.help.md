@@ -1,17 +1,3 @@
-<thinking>
-We are creating a help guide for the "Project Transition Plan Form". This form is used to document the transition plan for a project, including key deliverables, risks, approvals, and comments from stakeholders. To ensure accuracy and consistency, please review this form carefully before filling it out.
-
-The form has multiple fields for capturing different types of information:
-1. Project details: Project ID, Project Status, and Transition Date.
-2. Owner and team information: Owner ID, Owner Approval, and Owner Notes.
-3. Approvals: Manager Approval and Team Approval.
-4. Comments: Comments from the project owner, manager, and team.
-5. Additional information: Project Notes, Transition Notes, and Transition Time.
-
-Before filling out the form, please ensure you have all necessary information and approvals in place.
-
-</thinking>
-
 # Project Transition Plan Form - Help Guide
 ## Purpose
 The Project Transition Plan Form is used to document the transition plan for a project, including key deliverables, risks, and approvals from stakeholders.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from job applicants for executive positions within the organization. This form is designed to be a comprehensive tool for applicants to showcase their qualifications and relevant work experience in a clear and concise manner. To ensure that applicants are providing accurate and relevant information, it is suggested that they review the form carefully and ensure that their answers are up-to-date and reflective of their current situation.
-
-Before proceeding, please verify that you have not previously submitted an application for this position. Duplicate applications will not be considered, and submitting multiple applications may cause confusion in the application process.
-</thinking>
-
 # Executive Position Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for executive positions within the organization.

@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to facilitate the collection of information for a lash adhesive product demo appointment. The form will be completed by a representative of the company, a potential client, or the artist. It is likely to be filled out on a computer or mobile device.
-
-This form is meant to gather details about the product demo appointment, including information about the product itself, the artist conducting the demo, and the salon where the demo will take place.
-
-To ensure that this form meets the needs of all parties involved, it should not be completed multiple times by different individuals. This form is designed to be a singular point of truth for the demo appointment, and its information should be reviewed and updated as necessary.
-
-The fields within this form should be filled out according to the guidelines below.
-
-</thinking>
-
 # Lash Adhesive Product Demo Appointment - Help Guide
 ## Purpose
 

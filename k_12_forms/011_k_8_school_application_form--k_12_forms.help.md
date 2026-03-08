@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from both students and their parents for K-8 school enrollment applications. This form is likely used by schools or educational institutions to track student and parent data for the purpose of enrollment, registration, or student information system (SIS) management. 
-
-Before filling this form, please ensure that you are the correct individual submitting the application, as some fields are required for both the student and parent. Please fill out this form carefully, as incomplete or duplicate submissions can cause delays in processing. If you are unsure about the purpose or required fields, please contact the relevant authority or institution for clarification.
-</thinking>
-
 # reported_k8_school_application_form - Help Guide
 ## Purpose
 This form is used to collect information for K-8 school enrollment applications.

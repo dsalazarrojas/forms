@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lab Request Form - Help Guide
 
 ## Purpose

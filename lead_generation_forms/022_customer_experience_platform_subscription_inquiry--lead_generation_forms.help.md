@@ -1,10 +1,3 @@
-<thinking>
-The form "customer_experience_platform_subscription_inquiry" is designed to collect information about a potential customer's subscription inquiry for the Customer Experience Platform. This form is intended to gather essential details about the customer's company, contact person, and subscription preferences. The purpose of this form is to provide a structured way to capture relevant information from the customer, which can be used to tailor the onboarding process and provide a personalized experience for the customer.
-
-Before filling out this form, please ensure that you are not submitting duplicate inquiries, as this can lead to confusion and delay the onboarding process. If you are interested in subscribing to the Customer Experience Platform, please make sure to fill out the form accurately and completely, and we will get back to you shortly.
-
-</thinking>
-
 # customer_experience_platform_subscription_inquiry - Help Guide
 
 ## Purpose

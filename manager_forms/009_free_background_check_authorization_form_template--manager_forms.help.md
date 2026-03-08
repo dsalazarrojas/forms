@@ -1,5 +1,3 @@
-<thinking>This form is used to obtain background check authorization from the user, typically for employment or business purposes. This form is usually required by law to verify an individual's or organization's background and credentials. By filling out this form, you will be authorizing the organization to conduct a background check on you. Please note that some of the fields below are required to be filled out to ensure accurate authorization.</thinking>
-
 # free-background-check-authorization-form-template - Help Guide
 ## Purpose
 The free-background-check-authorization-form-template is a form used to obtain background check authorization from the user for employment or business purposes.

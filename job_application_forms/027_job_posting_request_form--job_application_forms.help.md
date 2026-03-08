@@ -1,6 +1,3 @@
-<thinking>
-Internal reasoning check: The form seems to be a job posting request form, intended to gather information about job postings from requesters. The fields appear to be a mix of free text, select_one (multiple choice), and text input fields. All fields are required, except for "Job Description", "Job Requirements", "Job Qualifications", "Job Requestor Phone", "Job Requester Phone", and "Job Requester Comments/Agreement to Share Comments". This form seems well-structured and comprehensive. The "Agree-to" fields are interesting, as they imply that some information will be shared and possibly used for further communication. However, it's unclear what exactly will be shared or how it will be used. A more detailed understanding of these fields and their implications would be beneficial for end users.</thinking>
-
 # Job Posting Request Form - Help Guide
 
 ## Purpose

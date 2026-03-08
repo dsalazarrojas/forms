@@ -1,15 +1,3 @@
-<thinking>
-
-**Form Purpose:**
-The Ebook Download Form is used to collect information from users who want to download an e-book. The form will ask for the user's name, email, phone number, preferred e-book title, and other relevant details. It will also ask for the user's agreement to the terms and conditions, terms of service, and privacy policy. The form will be displayed on a website or landing page, and the collected information will be used to fulfill the user's e-book download request.
-
-**Internal Note:**
-- Ensure that users understand that the form is only for ebook download requests.
-- Verify that users are not filling out the form for any other purpose.
-- Check for duplicate requests from the same user.
-
-</thinking>
-
 # Ebook Download Form - Help Guide
 
 ## Purpose

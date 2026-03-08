@@ -1,5 +1,3 @@
-<thinking>As the designer of this form, I considered the following when creating it: The "gift_card_giveaway_form" is a form designed to collect information from users for a gift card giveaway. This form aims to gather essential details such as the user's first name, email address, and gift card value. It also includes a section for users to indicate their interest in participating in a contest, which is optional but crucial for determining their eligibility. The "Additional Info" field allows users to provide any additional context or comments about their entry. The form's primary purpose is to collect accurate and complete information from users for the proper processing and distribution of gift cards.</thinking>
-
 # gift_card_giveaway_form - Help Guide
 ## Purpose
 This form is designed to collect information from users for a gift card giveaway. Please complete the form accurately to ensure your entry is processed correctly.

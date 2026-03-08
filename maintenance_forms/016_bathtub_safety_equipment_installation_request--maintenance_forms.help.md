@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to request the installation of bathtub safety equipment at a homeowner's address. It's designed to capture relevant information about the homeowner, their property, and their installation preferences. This form will help our team understand their needs and schedule the installation accordingly.
-
-Before filling out this form, please make sure you have the necessary information and permissions to request the installation. If you're a tenant, be sure to get your landlord's approval before proceeding. If you're unsure about any of the options or fields, don't hesitate to contact us for clarification.
-
-To avoid duplication, please check our system to see if a similar request has already been submitted for your address.
-
-</thinking>
-
 # Bathtub Safety Equipment Installation Request - Help Guide
 ## Purpose
 The Bathtub Safety Equipment Installation Request form is designed to provide us with essential information about you and your property in order to schedule and install bathtub safety equipment that suits your needs.

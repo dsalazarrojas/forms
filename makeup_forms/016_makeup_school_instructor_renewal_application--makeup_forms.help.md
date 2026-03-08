@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this form is intended for makeup school instructors to renew their certification. The purpose of this form is to collect information about the instructor's personal details, school affiliation, and certification status. 
-
-</thinking>
-
 # Makeup School Instructor Renewal Application - Help Guide
 ## Purpose
 This form is intended for makeup school instructors to renew their certification. Please ensure you have all required documents before completing this form.

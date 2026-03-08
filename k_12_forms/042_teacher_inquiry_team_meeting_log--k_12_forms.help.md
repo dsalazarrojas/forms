@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for teachers to report on the outcomes and next steps of team meetings. The form aims to gather information on meeting details, such as the meeting date, time, and location, as well as the outcome of the meeting and the next steps to be taken. The form is used by the Teacher Inquiry Team to track and analyze meeting data. It is essential to fill in all required fields to ensure accurate tracking and reporting.
-
-</thinking>
-
 # Teacher Inquiry Team Meeting Log - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect general contact information from users, specify the type of form they need, assign a specific tool for the form, provide the output file name and ID, and select a date for the request. The form is meant to be filled out by users who need to request a snail mailing list. This form should not be filled out by users who do not meet the requirements or have already submitted a similar request recently. The form's purpose is to gather necessary information from users to facilitate the creation of a custom mailing list.
-</thinking>
-
 # snail_mailing_list_request - Help Guide
 ## Purpose
 The snail_mailing_list_request form is used to collect information from users who need a snail mailing list. The form is designed to be filled out by users who require a custom mailing list and need to specify the type of form and tool they need.

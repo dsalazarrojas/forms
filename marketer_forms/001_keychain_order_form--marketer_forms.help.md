@@ -1,10 +1,3 @@
-<thinking>
-The Keychain Order Form is a form designed to gather information from customers for keychain orders. It is intended for use by marketers to collect data from potential customers for various types of keychain orders, including custom and standard orders. This form is likely used to streamline the order process and reduce manual entry by providing a digital interface for customers to input their details.
-
-To avoid confusion, this form will be explained in detail for users who are new to it or need a refresher.
-
-</thinking>
-
 # Keychain Order Form - Help Guide
 ## Purpose
 

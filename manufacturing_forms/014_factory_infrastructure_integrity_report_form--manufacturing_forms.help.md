@@ -1,9 +1,3 @@
-<thinking>
-This form is used to report on the infrastructure integrity of a factory. It is meant to be completed by users who have access to the factory's equipment and facilities. To determine if this form needs to be filled out, check if the factory has undergone any changes in its infrastructure, such as recent repairs or updates. If the factory's infrastructure has not changed, it is likely that this form does not need to be completed. Please ensure that each field is accurate and complete before submitting the form.
-
-The form consists of several sections, each with specific fields that require user input. Please ensure that you have all the necessary information before completing the form.
-</thinking>
-
 # Factory Infrastructure Integrity Report Form - Help Guide
 
 ## Purpose

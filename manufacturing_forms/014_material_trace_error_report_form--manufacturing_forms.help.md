@@ -1,11 +1,3 @@
-<thinking>
-This form is used to report errors that occur during the material trace process, which is a crucial part of ensuring the accuracy and quality of materials being manufactured. 
-The purpose of this form is to gather information about the error that occurred, including its cause, description, and the actions taken to address it. 
-The form is designed to be completed by production personnel who have observed or reported the error. 
-The form is meant to be used in conjunction with other data and documentation related to the material trace process. 
-Please note that this form is not meant to be used for general comments or suggestions, but rather for specific errors that need to be documented and addressed.
-</thinking>
-
 # Material Trace Error Report Form - Help Guide
 ## Purpose
 The Material Trace Error Report Form is used to document and report errors that occur during the material trace process. This form helps to identify the cause of the error, the actions taken to address it, and the status of the batch that was affected.

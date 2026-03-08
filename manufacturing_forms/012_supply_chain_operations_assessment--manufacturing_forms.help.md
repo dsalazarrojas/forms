@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the overall state of a company's supply chain operations, evaluating key aspects such as overall performance, quality, team performance, and submission status. The goal is to provide an objective and comprehensive view of the current status, facilitating informed decision-making and improvements. The following guide will walk you through the process of completing and understanding the form.
-
-</thinking>
-
 # Supply Chain Operations Assessment - Help Guide
 ## Purpose
 The Supply Chain Operations Assessment is a form designed to evaluate the performance and state of a company's supply chain operations. This form helps to identify areas of strength and weakness, providing valuable insights for improvement and decision-making.

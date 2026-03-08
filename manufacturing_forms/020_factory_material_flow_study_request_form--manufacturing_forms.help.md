@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form serves its purpose and does not needlessly create duplicate studies, it is crucial to verify that the form's intended use and scope match the user's specific needs. This form is designed to collect information for a factory material flow study, which is a type of study used to analyze and optimize the flow of materials within a factory. Before proceeding, please confirm that your request is for a factory material flow study and not for another type of study or analysis. This form should not be used for other purposes.
-</thinking>
-
 # Factory Material Flow Study Request Form - Help Guide
 ## Purpose
 The Factory Material Flow Study Request Form is designed to collect information for a factory material flow study. This study aims to analyze and optimize the flow of materials within a factory, ensuring efficient and effective production processes.

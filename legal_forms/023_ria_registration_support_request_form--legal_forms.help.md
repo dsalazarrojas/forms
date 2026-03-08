@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will assist users in understanding the purpose and functionality of the Ria Registration Support Request Form. The form is used to gather information from users to assist with their registration process, ensuring that the user can provide the necessary details to support their request.
 
 </thinking>

@@ -1,22 +1,3 @@
-<thinking>
-To ensure that I'm creating an accurate and user-friendly help guide, let's review the purpose of the Business Promotion Form and the provided fields. This form appears to be designed for collecting customer information, such as contact and business details, shopping habits, and preferences. It seems to be intended for promotional purposes, likely to encourage customer engagement, retention, and loyalty. I will aim to make this guide clear, concise, and practical for end users.
-
-Form fields are mostly required, indicating that the business values data accuracy and completion. The form's structure and questions suggest that it's a survey-like form, designed to gather information about customers' preferences, shopping habits, and interests.
-
-The "how_did_you_hear" field with options like Social Media, Friend or Family, and Web Search suggests that this form might be used for tracking marketing efforts, such as which channels drive the most leads. This could imply that the business uses this data to evaluate marketing campaign effectiveness.
-
-The "interested_products" field is a select_multiple type, allowing customers to choose from multiple options, indicating that the business wants to understand customer interests and preferences. This field might help the business identify trends or common interests among its customers.
-
-The "purchase_frequency" field seems to be used to gauge customer shopping habits, possibly to inform product inventory management or customer loyalty programs.
-
-The "feedback_comments" field is optional, suggesting that the business is open to constructive feedback and willing to listen to customers' suggestions.
-
-Lastly, the "subscribe_newsletter" field gives customers the option to opt-in for future updates and promotions.
-
-With this understanding, I will now create the help guide for the Business Promotion Form.
-
-</thinking>
-
 # Business Promotion Form - Help Guide
 ## Purpose
 The Business Promotion Form is designed to collect customer information and preferences for promotional purposes. This form helps us understand your shopping habits, interests, and how you heard about our business. Your input will aid us in providing better customer experiences and improve our marketing efforts.

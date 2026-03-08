@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback on makeup products. The form will ask users to provide a rating, description, and other relevant details about the product. The "Submit" button will allow users to send their feedback. This form is likely used by a company to gather customer feedback on their products and services. This guide will cover how to complete this form, what each field means, and some general tips for filling out the form.
-</thinking>
-
 # Makeup Product Feedback Form - Help Guide
 
 ## Purpose

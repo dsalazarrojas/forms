@@ -1,8 +1,3 @@
-<thinking>
-To determine the most effective structure and content of this guide, let's break down the form's purpose and fields. The "Technician Job Application Form" is used by job applicants to provide information about themselves to potential employers. The form collects contact information (First Name, Last Name, Work Email, and Work Phone) and professional details (Job Title, Resume) along with availability and work hours preferences. This form is likely used in the hiring process for technicians or skilled workers. We'll focus on making the guide user-friendly, concise, and informative, avoiding any assumptions or unnecessary details.
-
-</thinking>
-
 # Technician Job Application Form - Help Guide
 ## Purpose
 This form is for technicians or individuals interested in applying for a job position. It gathers essential information about you, helping us assess your suitability for the role. Please provide accurate and complete information to ensure a successful application.

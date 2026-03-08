@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for a job applicant to provide information about themselves and their vehicle for leasing purposes. The application process should be completed by an individual seeking to lease a vehicle. To ensure accurate and efficient processing, please ensure you're only submitting one application at a time. Before starting, review the form instructions and ensure you have all the necessary information readily available to avoid any delays in the process. If you're unsure about any field or requirement, please seek clarification from the relevant authorities.
-</thinking>
-
 # owner_operator_lease_contract_application_form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Owner Operator Lease Contract Application Form. The form is used for job applicants who want to lease a vehicle for work-related purposes.

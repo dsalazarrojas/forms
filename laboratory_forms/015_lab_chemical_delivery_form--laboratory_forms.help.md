@@ -1,10 +1,3 @@
-<thinking>
-To avoid redundancy, I will assume that this form is part of a larger system for managing laboratory chemical deliveries. This system likely involves tracking the delivery of chemicals to laboratories, which may include scheduling, logistics, and quality control. The form should be used to input delivery information for a specific chemical order. The purpose of this form is to collect essential details about the chemical delivery, including the delivery method, location, date, time, and any special instructions.
-
-Before creating the help guide, I will review the form fields and provide a concise and practical explanation for each field.
-
-</thinking>
-
 # lab_chemical_delivery_form - Help Guide
 ## Purpose
 The lab_chemical_delivery_form is used to input delivery information for a specific chemical order. This form helps track essential details about the delivery, such as delivery method, location, date, and time.

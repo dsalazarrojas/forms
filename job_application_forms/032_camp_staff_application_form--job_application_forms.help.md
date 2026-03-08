@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the Camp Staff Application Form. This form is intended to collect information from potential camp staff members, including their personal details, work experience, and availability. The form will help the hiring team evaluate applicants and make informed decisions. To ensure the form is filled out correctly, I will review the YAML schema to understand the form's purpose and requirements.</thinking>
-
 # Camp Staff Application Form - Help Guide
 ## Purpose
 The Camp Staff Application Form is designed to collect information from potential camp staff members to support the hiring process. This includes details about the applicant's personal contact information, work experience, and availability, as well as their consent to perform background checks.

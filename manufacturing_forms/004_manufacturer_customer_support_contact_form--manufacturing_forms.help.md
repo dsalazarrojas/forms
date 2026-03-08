@@ -1,11 +1,3 @@
-<thinking>
-This help guide will be useful in ensuring that customers understand the purpose and usage of the form, which is to provide a channel for them to contact the manufacturer's customer support team with their queries, issues, or concerns. This form will help in streamlining the support process, reducing the time taken to resolve issues, and enhancing customer satisfaction. 
-
-To ensure that customers do not duplicate their support requests, we will be using a unique identifier for each form submission, which will be used to track and manage individual support requests.
-
-Before proceeding, please make sure to review the form carefully and fill it in accurately. This will help in ensuring that your query or issue is resolved efficiently.
-</thinking>
-
 # Manufacturer Customer Support Contact Form - Help Guide
 ## Purpose
 This form is designed to provide a channel for customers to contact the manufacturer's customer support team. It is used to submit queries, issues, or concerns that require support from the manufacturer's team.

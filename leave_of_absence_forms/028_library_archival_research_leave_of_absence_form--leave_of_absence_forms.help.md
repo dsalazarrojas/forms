@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used in a library or archival setting to create a leave of absence form for employees. The form is likely used to track and manage employee absences related to research or other activities. This guide will help the user understand the purpose and process of completing this form.
-</thinking>
-
 # Library Archival Research Leave Of Absence Form - Help Guide
 ## Purpose
 The Library Archival Research Leave Of Absence Form is used to document and track employee absences related to research or other activities in a library or archival setting. This form helps to ensure that employees are aware of their absence and its impact on the team, and that necessary arrangements are made to minimize disruption to work.

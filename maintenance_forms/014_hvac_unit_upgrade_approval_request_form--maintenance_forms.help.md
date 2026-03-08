@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-friendly help guide for the HVAC Unit Upgrade Approval Request Form. This guide will cover the purpose of the form, how to complete it, and explain each field in a clear and concise manner.</thinking>
-
 # HVAC Unit Upgrade Approval Request Form - Help Guide
 ## Purpose
 This form is used to request approval for upgrading HVAC (Heating, Ventilation, and Air Conditioning) units. It helps facility managers, administrators, or maintenance personnel to formally submit a request for upgrades, providing detailed information about the upgrade proposal and supporting documentation.

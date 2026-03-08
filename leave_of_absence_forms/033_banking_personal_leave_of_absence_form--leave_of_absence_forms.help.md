@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a leave of absence request form for banking employees. The form is likely used by HR or payroll departments to process employee leave requests. To ensure the form is completed correctly, the following fields are required: employee full name, employee ID, email address, phone number, department, position title, hire date, type of leave, leave start date, leave end date, total days requested, leave duration, intermittent schedule, paid leave requested, accrued PTO balance, reason for leave, work handover plan, emergency contact, benefits continuation, manager name, manager approval, signature date. The form also includes several optional fields, but they are not necessary for the initial submission. 
-</thinking>
-
 # Banking Personal Leave of Absence Form - Help Guide
 ## Purpose
 This form is used to request a leave of absence for a personal reason, which may include but not limited to, family leave, medical leave, bereavement, educational leave, sabbatical, military leave, or other reasons. The completed form will be reviewed and approved by HR and management.

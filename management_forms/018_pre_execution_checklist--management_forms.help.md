@@ -1,10 +1,3 @@
-<thinking>
-The pre-execution checklist form is a critical component in ensuring that tasks are properly managed and executed within a team setting. This form serves as a comprehensive checklist to verify that all necessary information and tasks are completed before commencing work on a project. By filling out this form, team members can ensure that they have all the necessary details and approvals in place, reducing the risk of errors, delays, and miscommunication.
-
-The form is designed to collect various pieces of information, including task descriptions, team details, and progress updates. Each field in the form has been carefully crafted to cater to the specific needs of the team and the project. Below, we'll guide you through the form's purpose, how to complete it, and an explanation of each field to help you understand what to expect.
-
-</thinking>
-
 # pre_execution_checklist - Help Guide
 ## Purpose
 The pre-execution checklist is a form used to gather essential information and confirm tasks before they are executed by the team. It helps to ensure that all necessary details are in place, reducing the risk of errors, delays, and miscommunication. The form is designed to be completed before commencing work on a project, making it a critical step in the project management process.

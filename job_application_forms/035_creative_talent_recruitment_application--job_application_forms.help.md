@@ -1,5 +1,3 @@
-<thinking>As an AI-generated form, this form is designed to be a comprehensive guide for creative talent recruitment. Its purpose is to collect detailed information from applicants about their job application, including personal details, work experience, educational background, and portfolio. The form consists of 12 fields, each serving a specific purpose, such as providing contact information, work experience, and educational background. It's essential to fill out the form accurately to increase the chances of being considered for the position.</thinking>
-
 # Creative Talent Recruitment Application - Help Guide
 ## Purpose
 

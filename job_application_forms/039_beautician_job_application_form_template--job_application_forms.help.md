@@ -1,7 +1,3 @@
-<thinking>
-The form "Beautician Job Application Form Template" is designed to gather information from applicants for a beautician position. This form is used to collect personal details, employment history, and relevant skills for the applicant. Before filling out this form, ensure you have all the required documents and information ready. If you have previously applied to this salon, please do not reapply. Each field in the form is explained below:
-</thinking>
-
 # Beautician Job Application Form Template - Help Guide
 ## Purpose
 The purpose of this form is to collect information from applicants for a beautician position in our salon. Please fill out the form accurately and completely to ensure a smooth application process.

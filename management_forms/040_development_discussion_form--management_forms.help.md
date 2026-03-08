@@ -1,8 +1,3 @@
-<thinking>
-This form is used for development discussions, allowing team members to collaborate on projects, share ideas, and track progress. The form's purpose is to collect information about a project's current status, lead, and next steps, which can be used to inform decisions and improve project outcomes. Before proceeding, check if a similar form exists or if the project requirements have changed, as this AI-generated form is designed to be an original adaptation of general form templates.
-
-</thinking>
-
 # Development Discussion Form - Help Guide
 ## Purpose
 The Development Discussion Form is designed to facilitate project team collaboration and information sharing. It helps team members provide updates, discuss progress, and plan next actions.

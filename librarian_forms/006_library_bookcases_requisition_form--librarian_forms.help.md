@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the "Library Bookcases Requisition Form" is to gather information from users regarding their bookcase needs or requests. This form is used to collect details on the number of bookcases required, the type of bookcases needed, the department or area they will be used for, and other relevant contact information.
-
-Before filling out this form, please ensure that you have checked the internal library inventory and that this request is not a duplication of a previous request.
-
-</thinking>
-
 # Library Bookcases Requisition Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users regarding their bookcase needs or requests.

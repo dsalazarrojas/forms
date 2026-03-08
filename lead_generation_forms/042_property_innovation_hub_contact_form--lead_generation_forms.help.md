@@ -1,5 +1,3 @@
-<thinking>... internal reasoning and non-duplication check: this form appears to be designed for users to inquire about properties, likely for the Property Innovation Hub, which could be a platform or service related to property development or management. The form fields seem to be related to property characteristics and user inquiries. There are no obvious duplicate fields or conflicting purposes, so we can proceed with creating the help guide... </thinking>
-
 # Property Innovation Hub Contact Form - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to record the usage and maintenance of chairs within a facility or organization. It will help track the condition, usage patterns, and maintenance needs of the chairs. This information can be used to identify trends, patterns, and areas for improvement in chair management.
-
-Before filling out this form, please ensure that you are authorized to access and update chair usage logs. If you are unsure, please reach out to your supervisor or facility management for clarification.
-
-Also, please note that this form is for tracking and recording data for chairs that have been used within the facility. If you are logging a chair for the first time, please ensure that all fields are accurately filled out.
-
-This form is not intended for general comments or suggestions. If you have general feedback or comments, please use other designated channels for this purpose.
-
-</thinking>
-
 # Chair Usage Log - Help Guide
 ## Purpose
 

@@ -1,33 +1,3 @@
-<thinking>
-The purpose of this form is for museum curators to request and submit information for leaves of absence. It is used for curators to provide details about their leave request, including the type of leave, start and end dates, reason for leave, and other relevant information. This form is used by the museum's HR or management team to process and approve leave requests. It is essential to ensure that this form is filled out accurately and completely to facilitate the approval process.
-
-This form is designed to be completed by museum curators and requires the following information:
-
-- The type of leave (e.g., academic, personal, family, bereavement, jury duty, military, or other)
-- Start and end dates of the leave
-- Reason for the leave
-- Status of approval
-- Notes (optional)
-- Curator name and contact information
-- Department and institution information
-- Contact person and contact email
-- Contact phone number
-- Coverage plan
-- Approval date and time
-- Approval status date
-- Curator signature
-- Approver signature
-- Approver name
-- Approver contact information
-- Approver department (optional)
-- Approver institution (optional)
-- Approver signature date
-
-The form must be filled out accurately and completely to ensure that the leave request is processed and approved correctly. Please note that the approver signature date is required for approval.
-
-Please ensure that you fill out all the fields correctly and accurately. If you have any questions or concerns, please do not hesitate to contact the museum's HR or management team.
-</thinking>
-
 # Museum Curator Acquisition Leave Of Absence Form - Help Guide
 ## Purpose
 The Museum Curator Acquisition Leave Of Absence Form is used for curators to request and submit information for leaves of absence.

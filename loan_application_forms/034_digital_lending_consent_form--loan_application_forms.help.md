@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to apply for a loan. The purpose of this form is to gather essential details such as user information, loan application details, and personal contact details. This form is intended for users who are 18 years or older and are capable of providing accurate and truthful information.
-</thinking>
-
 # Digital Lending Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who wish to apply for a loan.

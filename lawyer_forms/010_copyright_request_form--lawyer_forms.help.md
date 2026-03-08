@@ -1,7 +1,3 @@
-<thinking>
-This form is used by clients, authors, and creators to request copyright information for a work they have created. It is intended to be used when a user wants to submit a work for copyright registration. This form will help the submitter provide essential details about the work and themselves. We should check for non-duplication and make sure the submitter is not already registered for this work. 
-</thinking>
-
 # Copyright Request Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to facilitate the submission of a Letter of Intent (LOI) for an acquisition. This form is intended to be completed by the applicant when they wish to express their interest in acquiring a specific company or asset. The LOI submission is a formal expression of the applicant's intent to acquire and provides a high-level overview of the proposed terms. The form ensures that all necessary information is provided by the applicant to initiate the acquisition process. 
-
-Please note that the purpose of this form is to ensure a smooth and efficient acquisition process, and it is not intended to be a legal document. All relevant parties should review and agree upon the terms and conditions before proceeding. The form submission is a starting point for further discussion and negotiation.
-
-Please ensure that you have the necessary approvals and permissions to submit this form. If you are unsure about any of the fields or the submission process, please contact the relevant authorities for clarification.
-
-</thinking>
-
 # Acquisition Letter Of Intent Submission - Help Guide
 ## Purpose
 

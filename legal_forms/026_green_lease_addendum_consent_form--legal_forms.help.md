@@ -1,9 +1,3 @@
-<thinking>By designing this form, I assume that the purpose of the "Green Lease Addendum Consent Form" is to obtain the consent of both tenants and landlords for lease terms that include sustainability commitments, which are likely to be environmental or energy-saving practices in the residential or commercial space. This form is likely used by property managers, landlords, or other stakeholders to ensure that all parties involved are aware of and agree to these commitments. This form may be used in conjunction with a standard lease agreement, but its main purpose is to focus on the specific terms related to sustainability.
-
-Given the structure of the form, I will create the help guide below. Please let me know if this meets your expectations.
-
-</thinking>
-
 # Green Lease Addendum Consent Form - Help Guide
 ## Purpose
 The Green Lease Addendum Consent Form is used to obtain the consent of both tenants and landlords for lease terms that include sustainability commitments. This form is used to ensure that all parties are aware of and agree to these commitments.

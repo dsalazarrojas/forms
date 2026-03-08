@@ -1,10 +1,3 @@
-<thinking>
-The form "Nda Non Disclosure Agreement Consent Form" is a crucial legal document that ensures non-disclosure of confidential information is acknowledged by the individual or company. This form is essential for companies and organizations to have their employees and contractors sign, guaranteeing that they will not leak confidential information. By filling out this form, an individual or company explicitly agrees not to share sensitive data, ensuring that all parties involved are protected.
-
-Before we dive into the form details, ensure that you are filling it out for a valid purpose and are not duplicating any existing documents.
-
-</thinking>
-
 # Nda Non Disclosure Agreement Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from individuals or companies to not disclose confidential information. It is a requirement for companies to have their employees and contractors sign this form before commencing work on a project.

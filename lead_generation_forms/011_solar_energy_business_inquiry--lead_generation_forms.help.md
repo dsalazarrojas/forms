@@ -1,11 +1,3 @@
-<thinking>
-
-The Solar Energy Business Inquiry form is designed to collect information from businesses interested in exploring opportunities related to solar energy. This form is intended for businesses that want to be contacted by the solar energy team for potential partnerships, collaborations, or other business-related opportunities. The form will be reviewed by the solar energy team to determine the best course of action for the business.
-
-When filling out this form, please ensure that you only submit it once, as it is intended to be a one-time inquiry. If you are a returning customer or have already submitted this form, please do not resubmit it. This will help our team to better serve your needs and avoid duplicate responses.
-
-</thinking>
-
 # Solar Energy Business Inquiry - Help Guide
 ## Purpose
 The Solar Energy Business Inquiry form is designed to collect information from businesses interested in exploring opportunities related to solar energy. This form is intended for businesses that want to be contacted by the solar energy team for potential partnerships, collaborations, or other business-related opportunities.

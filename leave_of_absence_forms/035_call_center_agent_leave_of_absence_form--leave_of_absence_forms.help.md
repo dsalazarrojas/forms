@@ -1,12 +1,3 @@
-<thinking>
-
-This form is used to report and plan for leaves of absence for call center agents. 
-The form is used by agents to notify their team leads of their intention to take leave and to provide necessary details for the leave. 
-This form is intended to be filled out by the agent and submitted to their team lead for approval. 
-Please ensure that the form is filled out accurately and completely to avoid any issues with the leave request. 
-
-</thinking>
-
 # Call Center Agent Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used to report and plan for leaves of absence for call center agents, to be submitted to their team lead for approval.

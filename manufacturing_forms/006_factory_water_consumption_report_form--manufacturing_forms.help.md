@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by factory management to report and track water consumption. This form is probably a monthly or quarterly report that captures information about the factory's water usage, including the water source, total consumption, and any other relevant metrics. Before filling out this form, please review the factory's water usage records from the previous reporting period to ensure accuracy and avoid duplication of effort. 
-</thinking>
-
 # Factory Water Consumption Report Form - Help Guide
 ## Purpose
 The Factory Water Consumption Report Form is used to collect and track data on the factory's water usage. This information is crucial for factory management to make informed decisions about resource allocation and efficiency.

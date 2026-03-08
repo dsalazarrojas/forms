@@ -1,18 +1,3 @@
-<thinking>
-**Is this form designed for internal use or external customer-facing use?**
-
-This form is likely used in a business setting, possibly for booking or vehicle management, and its fields suggest that it's used for internal purposes, such as logging and tracking vehicle bookings.
-
-**Is there a specific business process or workflow associated with this form?**
-
-This form appears to be related to vehicle management, possibly for tracking vehicle bookings, assignments, and status updates.
-
-**Is this form part of a larger system or application?**
-
-This form is likely part of a larger system or application that manages vehicle bookings and related data.
-
-</thinking>
-
 # vehicle_booking_form - Help Guide
 ## Purpose
 The vehicle_booking_form is used to track and manage vehicle bookings, assignments, and status updates. This form captures essential information about vehicle bookings, including details about the booking, vehicle, and user involvement.

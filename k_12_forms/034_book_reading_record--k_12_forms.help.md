@@ -1,12 +1,3 @@
-<thinking>
-This form is used for students to record their reading records of books they have read. The form captures various information about the book, including its title, author, genre, reading level, and reading time. It also asks students to provide their feedback about the book, such as their rating, favorite parts, and what they learned from it. The form is designed to help students track their reading habits and provide a platform for them to express their thoughts and opinions about the books they read. It is recommended that students complete this form after finishing a book.
-
-Before starting, please note that this form is not a required form. It is a tool to help students reflect on what they've read and what they've learned.
-
-Before proceeding, please ensure that you have read the book in question and have the necessary information to complete the form.
-
-</thinking>
-
 # Book Reading Record - Help Guide
 ## Purpose
 This form is for recording your reading records of books you have read.

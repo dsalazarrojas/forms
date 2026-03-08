@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for an employee to request a personal development leave of absence, which is a type of leave that allows an employee to take time off for personal or professional development purposes without affecting their job status. This form is typically filled out by employees in conjunction with their supervisor or manager to ensure that the request is properly evaluated and approved.
-
-</thinking>
-
 # personal_development_leave_of_absence_request - Help Guide
 ## Purpose
 The personal development leave of absence request form is used by employees to submit a formal request for a personal development leave of absence, which is a type of leave that allows employees to take time off for personal or professional development purposes.

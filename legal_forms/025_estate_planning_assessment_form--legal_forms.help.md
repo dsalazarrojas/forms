@@ -1,15 +1,3 @@
-<thinking>
-The Estate Planning Assessment Form is a comprehensive tool used to collect information related to estate planning, including general information, wills and trusts, asset distribution, and contact details. This form is designed to gather data that can aid in the assessment of an individual's or organization's estate planning needs.
-
-Before proceeding, please ensure that this form does not duplicate or conflict with any existing assessment tools or forms used within your organization. The provided YAML structure and form fields should be reviewed for consistency with your current documentation and procedures.
-
-This form is intended to be a self-explanatory and user-friendly tool, providing clear instructions and concise descriptions for each field. The purpose of this form is to gather essential information related to estate planning, which will aid in the development of a personalized and effective estate plan.
-
-Please note that some fields require specific types of input (e.g., numerical input for asset value), while others are designed for open-ended answers (e.g., general notes).
-
-If you are unclear about a particular field or require further clarification, please refer to the provided explanations below.
-</thinking>
-
 # Estate Planning Assessment Form - Help Guide
 
 ## Purpose

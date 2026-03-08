@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of tracking and documenting maintenance work orders for a site or location. The form is likely used by personnel in charge of maintenance and upkeep, such as facility managers, maintenance supervisors, or site coordinators. This form is intended to be a comprehensive checklist for reviewing and ensuring that all necessary tasks are completed during a maintenance work order. It's possible that this form is used in conjunction with other tools, like a work order system or a maintenance management software. To ensure accuracy, the form should be reviewed for completeness before submission, and all relevant fields should be filled out correctly. It's also important to note that some fields may not be relevant to every maintenance work order, so users should only fill out the fields that apply to their specific situation.
-</thinking>
-
 # sewer_maintenance_workflow_checklist_form - Help Guide
 ## Purpose
 This form is designed to track and document maintenance work orders for a site or location.

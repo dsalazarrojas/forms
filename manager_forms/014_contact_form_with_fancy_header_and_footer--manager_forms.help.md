@@ -1,7 +1,3 @@
-<thinking>
-We should create a help guide for the "Contact Form With Fancy Header And Footer" form to ensure that end-users understand its purpose and how to complete it. The form is intended to be a contact form for submitting messages to management, and its primary goal is to gather information from users to facilitate communication with the relevant department. This form is likely to be used by users who need to report an issue, ask a question, or share feedback with the management team. To avoid duplication of effort, we should ensure that users understand that the form is not meant for general inquiries or routine matters, but rather for urgent or critical issues that require immediate attention.
-</thinking>
-
 # Contact Form With Fancy Header And Footer - Help Guide
 ## Purpose
 This contact form is designed to enable users to submit messages, reports, or feedback to management, with an emphasis on urgent or critical issues. It allows users to select the relevant department and provide additional context for the management team to review.

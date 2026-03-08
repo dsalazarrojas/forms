@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of the Appraisal Request Form, we should consider the following:
-- The form appears to be used for requesting appraisals for properties, likely for real estate or financial valuation purposes.
-- The form asks for client information, property details, and specific appraisal requirements, suggesting it is intended for appraisal requests from clients or clients' representatives.
-- The form's fields include a mix of required and optional sections, indicating that some information is crucial for the appraisal process, while other details are supplementary or desirable but not essential.
-- The "Type of Appraisal Needed" field offers multiple options, which may include different types of appraisals such as full, limited, or desktop appraisals. This implies that the form is designed to accommodate various types of appraisals based on the client's needs.
-- The "Purpose of Appraisal" field, being optional, might be used to gather additional context about the appraisal's purpose, such as financing, tax purposes, or other related reasons.
-</thinking>
-
 # Appraisal Request Form - Help Guide
 
 ## Purpose

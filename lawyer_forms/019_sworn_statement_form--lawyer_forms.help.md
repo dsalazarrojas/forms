@@ -1,23 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "sworn_statement_form", we need to consider the following steps:
-
-1.  Identify the purpose of the form: Based on the YAML metadata, the form seems to be designed for creating a sworn statement, which might involve a legal declaration or affirmation. This form could be used in various legal contexts, such as witness statements, declarations under oath, or other formal statements.
-2.  Determine the relevance and non-duplication: The form consists of eight fields:
-   *   `introductory`
-   *   `client_identification`
-   *   `client_details`
-   *   `declaration_of_truth`
-   *   `witness_details`
-   *   `signature`
-   *   `date`
-   *   `time`
-
-   These fields appear to be designed for basic information collection, with no obvious duplication or overlap.
-3.  Create the help guide structure based on the fields: With the purpose and fields identified, we can now create a clear and concise help guide.
-
-</thinking>
-
 # sworn_statement_form - Help Guide
 ## Purpose
 This form is designed for creating a formal statement, such as a declaration or affirmation. Fill out the form to provide essential information about the declarer, the client, and other relevant details.

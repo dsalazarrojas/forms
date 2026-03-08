@@ -1,8 +1,4 @@
-> <thinking>
-This form is used to collect information about an individual's arrest record, including their name, date of birth, contact information, and history of arrests, convictions, and record status. It is likely used in a law enforcement or legal context to gather accurate and up-to-date information about an individual's arrest history. It is possible that the form is used to verify or update existing records, and to ensure that all necessary fields are filled out to avoid duplication of efforts. Please review the form carefully and fill out the required fields as accurately as possible. If you are unsure about any field, please seek guidance from the relevant authority.
-</thinking>
-
-# Arrest Record Collection Form - Help Guide
+> # Arrest Record Collection Form - Help Guide
 ## Purpose
 This form is used to collect information about an individual's arrest record, including their name, contact information, and history of arrests, convictions, and record status.
 

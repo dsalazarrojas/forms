@@ -1,10 +1,3 @@
-<thinking> 
-This form is used to collect information from individuals who are interested in applying for a job in landscaping. The purpose of this form is to gather relevant details about the applicant's contact information, employment history, and other essential qualifications. Please note that this form is for job application purposes only and is intended for internal use within your organization. 
-
-To ensure that the form is filled out correctly and accurately, please review each field carefully and follow the instructions below.
-
-</thinking>
-
 # Landscaping Job Application Form - Help Guide
 ## Purpose
 The Landscaping Job Application Form is designed to collect necessary information from applicants who are interested in joining your team. It helps to gather their contact details, employment history, and other relevant qualifications.

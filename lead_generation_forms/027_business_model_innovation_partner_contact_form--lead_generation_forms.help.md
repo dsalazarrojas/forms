@@ -1,9 +1,3 @@
-<thinking>
-
-To determine the purpose and relevance of this form, we can see that it's used to gather information from potential business partners interested in collaborating with a business model innovation partner. The form is likely used to assess the potential partner's capabilities, interests, and expectations in a partnership. This form seems to be relevant to companies looking to explore strategic alliances, joint ventures, or other types of partnerships to drive business growth, access new markets, and share resources. We should verify that the form isn't being used for other purposes or that the questions and fields are not redundant or confusing.
-
-</thinking>
-
 # Business Model Innovation Partner Contact Form - Help Guide
 ## Purpose
 This form is designed to help potential business partners provide information about themselves and their interests in collaborating with a business model innovation partner. The goal is to gather data that will aid in assessing their capabilities, expectations, and requirements for a successful partnership.

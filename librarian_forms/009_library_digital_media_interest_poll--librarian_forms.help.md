@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to first understand its purpose. The form's title is "Library Digital Media Interest Poll", and it likely serves to gather information from users about their preferences and interests related to digital media. Upon reviewing the form fields, we see that it asks about digital media usage, satisfaction, future needs, comments, email, phone, workshop interest, workshop comments, and other needs. This form likely aims to assess user preferences and needs, potentially to inform library services and collections development.
-The form does not seem to be a duplicate, and its purpose is clear. We will now proceed to create the user-facing help guide.
-</thinking>
-
 # Library Digital Media Interest Poll - Help Guide
 ## Purpose
 This form is designed to gather information from users about their preferences and interests related to digital media. Your responses will help us better understand your needs and inform our library services and collections development.

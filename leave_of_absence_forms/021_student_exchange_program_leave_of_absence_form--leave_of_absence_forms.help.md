@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a leave of absence request form for students participating in an exchange program. The purpose of this form is to gather information about the student's leave of absence, including the start and end dates of the absence, the reason for the leave, and any other relevant details. This form is intended to be used by students who are requesting a leave of absence from their studies or work-related activities to focus on their exchange program.
-
-Before proceeding, please ensure that you are filling out this form for the correct purpose and that you have reviewed all the fields carefully. This form should not be used for any other purpose other than the intended use stated above.
-
-Please note that some fields may be optional, but all required fields are marked as such to ensure that you provide the necessary information for the processing of your leave of absence request.
-</thinking>
-
 # Student Exchange Program Leave Of Absence Form - Help Guide
 ## Purpose
 This form is designed to be used by students participating in an exchange program to request a leave of absence. It is used to gather information about the student's leave of absence, including the start and end dates, reason for leave, and other relevant details.

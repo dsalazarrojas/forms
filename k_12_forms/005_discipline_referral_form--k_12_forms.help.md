@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for disciplining students for incidents that occur in school. It's meant to help teachers document incidents and track student behavior. To fill out this form, teachers should only refer to incidents that happened within the current school year or that are relevant to the current reporting period.
-
-This form is not a substitute for a thorough investigation or due process. It's a quick way to document incidents and gather information.
-
-Teachers should only fill out one form per incident. If you're unsure if you've already reported an incident, double-check to avoid duplication.
-
-</thinking>
-
 # Discipline Referral Form - Help Guide
 ## Purpose
 The Discipline Referral Form is used by teachers to document incidents of misbehavior that occur within the school. This form helps to track student behavior, keep a record of incidents, and provide a clear understanding of student actions.

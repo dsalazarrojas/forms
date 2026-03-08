@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Witness Statement Access Form - Help Guide
 
 ## Purpose

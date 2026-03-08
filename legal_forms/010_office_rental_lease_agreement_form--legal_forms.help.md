@@ -1,7 +1,3 @@
-<thinking>
-This form is a legal agreement template for office rental lease agreements. It's designed to capture the necessary information for a rental lease between an office tenant and a landlord. The form includes sections for identifying the tenant and landlord, lease terms and conditions, and payment details. It's crucial to complete this form accurately and thoroughly to ensure a clear understanding of the agreement between the parties involved. To confirm, this is the first draft of the template, and it's essential to review and validate it with the relevant stakeholders before using it in actual scenarios.
-</thinking>
-
 # Office Rental Lease Agreement Form - Help Guide
 ## Purpose
 This form is a template for an office rental lease agreement between a tenant and a landlord.

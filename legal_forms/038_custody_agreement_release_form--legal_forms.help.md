@@ -1,11 +1,3 @@
-<thinking>
-This form is a Custody Agreement Release Form, used to release custody of a child to another individual or organization. 
-
-It is essential to complete this form correctly to ensure the child's well-being and safety. Ensure you are not duplicating the process if you have already completed a similar form with the child. 
-
-Before starting, review the provided information and the child's current situation to ensure accuracy and completeness.
-</thinking>
-
 # custody_agreement_release_form - Help Guide
 ## Purpose
 The Custody Agreement Release Form is used to release custody of a child to another individual or organization. This form is crucial for updating the child's custody status and ensuring their well-being and safety. 

@@ -1,8 +1,3 @@
-<thinking>...
-To create the form design and technical writing guidelines, I'll focus on providing a clear and concise user-facing help guide for the Prospect Questionnaire Form. I'll cover the form's purpose, how to complete it, and provide a field-by-field explanation of each section.
-
-</thinking>
-
 # Prospect Questionnaire Form - Help Guide
 ## Purpose
 The Prospect Questionnaire Form is a tool designed to collect information from potential customers to better understand their needs and interests. This form helps us tailor our services to meet their specific requirements, ensuring a more personalized experience.

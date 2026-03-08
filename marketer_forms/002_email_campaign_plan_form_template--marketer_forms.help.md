@@ -1,7 +1,3 @@
-<thinking>
-  This form template is used to create a comprehensive plan for an email marketing campaign. It is designed to help marketers gather essential information about the campaign's goals, target audience, strategy, and budget. The goal of this form is to ensure that all stakeholders have a clear understanding of the campaign's objectives and requirements.
-  </thinking>
-
 # Email Campaign Plan Form Template - Help Guide
 ## Purpose
 This form is intended to guide marketers in creating a structured email marketing campaign plan. It will help you define your campaign's goals, target audience, and email marketing strategy, including budget and scheduling details.

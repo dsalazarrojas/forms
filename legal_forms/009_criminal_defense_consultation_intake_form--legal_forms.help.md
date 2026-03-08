@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: This form is designed to gather information for a criminal defense consultation. It will help us understand your criminal history, contact information, and preferences for communication. Please fill out the form accurately and honestly.
-</thinking>
-
 # Criminal Defense Consultation Intake Form - Help Guide
 ## Purpose
 This form is used to collect information for a criminal defense consultation. It is essential to fill it out accurately and honestly to ensure that you receive the best possible assistance.

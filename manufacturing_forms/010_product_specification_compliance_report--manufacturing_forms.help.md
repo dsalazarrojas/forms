@@ -1,11 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is intended to capture information regarding a product's specification compliance status, which is essential for ensuring product quality and regulatory compliance. The form's purpose is to collect relevant data from the customer, supplier, and inspection dates to track the status of the product specification compliance. The fields included are Customer ID, Specification ID, Inspection Date, Compliance Status, Corrective Actions, Supplier Comments, and QA Comments. 
-
-This form should be filled out by the relevant parties in the production process to ensure accurate and timely reporting.
-
-</thinking>
-
 # Product Specification Compliance Report - Help Guide
 ## Purpose
 The Product Specification Compliance Report form is used to track the status of product specifications compliance. This form captures information from various parties involved in the production process, including customers and suppliers, to ensure accurate and timely reporting.

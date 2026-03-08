@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parental Leave Time Off Form - Help Guide
 ## Purpose
 This form is designed to request parental leave time off, allowing employees to inform their managers about their plans for taking leave due to family or parental responsibilities. It is intended for employees who need to take time off to care for their children, parents, or other family members. This form should only be used for personal or family-related reasons.

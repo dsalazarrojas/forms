@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used to generate leads for retail sales events. It is meant to collect information from store managers and owners about upcoming events, promotions, or sales happening within their store. This form is crucial in helping event organizers, marketers, or sales teams to track and follow up on event leads. It's recommended to fill out this form only once per event, ensuring accurate and non-duplication of data. This form can be used by store owners or managers to input information about their events and sales, allowing them to keep track of multiple events and follow up on leads in a structured way.
-</thinking>
-
 # Retail Sale Event Lead Generation Form - Help Guide
 ## Purpose
 The Retail Sale Event Lead Generation Form is a tool designed for store managers and owners to input information about their store's events and sales. This form collects data from store location, event type, contact details, store hours, and other relevant details to help event organizers track and follow up on event leads.

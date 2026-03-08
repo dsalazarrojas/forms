@@ -1,7 +1,3 @@
-<thinking>
-**Purpose:** This form is used to document the partnership agreement between a stylist and a salon. It captures essential information such as the salon name, stylist name, contact details, and terms of agreement. The form is designed to be completed by the salon owner or manager when a new stylist joins or leaves the partnership. **Non-duplication check:** Ensure that this form is not used for other purposes, such as employee onboarding or customer feedback. **Relevance check:** Verify that this form is relevant to the salon's operational procedures and that all required fields are accurately represented in the form design.
-</thinking>
-
 # Stylist Partnership Agreement - Help Guide
 ## Purpose
 The Stylist Partnership Agreement form is used to document the partnership agreement between a stylist and a salon. It captures essential information such as the salon name, stylist name, contact details, and terms of agreement.

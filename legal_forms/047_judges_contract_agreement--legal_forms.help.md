@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Judges Contract Agreement - Help Guide
 
 ## Purpose

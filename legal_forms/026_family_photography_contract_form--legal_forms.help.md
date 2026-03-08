@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Family Photography Contract Form - Help Guide
 ## Purpose
 The Family Photography Contract Form is a document that outlines the terms and conditions of a photography service agreement between the photographer and the client. This form ensures that both parties understand their responsibilities and expectations before, during, and after the photo shoot. It helps to establish a clear and mutual understanding of the photography services, payment, and other essential details.

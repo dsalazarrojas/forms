@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to verify the shelf life of a batch of products or materials. The purpose of this form is to capture and document information about the batch, including its current status, production dates, and inspection results. 
-
-This form is designed to be used by production managers, quality assurance personnel, or other team members in charge of managing batch production and quality control. They should be able to easily navigate and understand the form's fields and purpose.
-
-Before completing this form, please ensure that you have all the necessary information about the batch at hand. Some fields, such as "Batch Id", might be required for multiple fields, so please ensure you have consistent and accurate information for each field.
-
-The form has been designed to be as simple and efficient as possible. If you have any questions or need further clarification about any of the fields, feel free to contact the form's author or your supervisor.
-
-</thinking>
-
 # shelf_life_verification_report_form - Help Guide
 ## Purpose
 This form is used to verify the shelf life of a batch of products or materials. It captures and documents key information about the batch, including its current status, production dates, and inspection results.

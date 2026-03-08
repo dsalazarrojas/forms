@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Civil Engineering Site Visit Leave Of Absence Form - Help Guide
 ## Purpose
 This form is intended to be used by Civil Engineering employees to request a Leave of Absence for site visits. The form must be completed to ensure that all necessary information is collected and approved before the employee proceeds with the site visit.

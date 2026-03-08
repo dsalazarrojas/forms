@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed to collect lead generation information for various types of leads. It's used to capture essential details about the lead, such as contact information, industry and company specifics, and experience levels. The form will help users provide comprehensive data for lead analysis and management.
-
-This form is likely used in sales and marketing contexts, where leads are being generated for various campaigns, projects, or initiatives. It could be part of a CRM system, a marketing automation tool, or a project management software.
-
-To avoid duplication, users should ensure they're completing the form for the correct lead and not for other individuals or projects.
-
-</thinking>
-
 # Lead Generation Form - Help Guide
 ## Purpose
 The Lead Generation Form is designed to collect relevant information about potential leads for various projects, campaigns, or initiatives.

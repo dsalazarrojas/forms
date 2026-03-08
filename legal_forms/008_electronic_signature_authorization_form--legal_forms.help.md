@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the Electronic Signature Authorization Form. The form is used to authorize electronic signatures for a set of documents. The form collects information about the person authorizing the signature, including their name, the name of the signatory, the method of signature, and the documents to be signed. This form is required for all electronic signatures. The purpose of this form is to ensure that all electronic signatures are properly authorized and recorded.
-</thinking>
-
 # Electronic Signature Authorization Form - Help Guide
 ## Purpose
 The Electronic Signature Authorization Form is used to authorize electronic signatures for a set of documents. This form collects information about the person authorizing the signature, including their name, the name of the signatory, the method of signature, and the documents to be signed.

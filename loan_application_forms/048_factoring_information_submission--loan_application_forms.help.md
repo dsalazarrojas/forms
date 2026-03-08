@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this form is for collecting information for a factoring submission, which is a process used to help businesses manage their accounts receivable and payables. This form is likely used by finance teams or other business stakeholders to gather necessary details from various departments or individuals within a company. Before proceeding, please ensure you are filling out this form for the intended purpose and not duplicating efforts. Review the fields below to understand what is required and optional for the factoring submission.
-
-</thinking>
-
 # Factoring Information Submission - Help Guide
 ## Purpose
 The Factoring Information Submission form is a tool used to collect necessary information for factoring submissions. This form helps finance teams or business stakeholders gather details from various departments or individuals within a company to facilitate the factoring process.

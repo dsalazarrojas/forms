@@ -1,12 +1,3 @@
-<thinking>
-This form is used to submit a request for water drainage maintenance, which is a critical process for maintaining the water drainage system in our facility. To ensure that the form is completed correctly and that the issues are properly documented, please review the following guide carefully.
-
-The purpose of this form is to provide a standardized way for maintenance crew members to report and track water drainage issues. This form will help them to identify the location of the issue, describe the problem in detail, and assign the necessary resources to resolve the issue. Please fill out the form completely and accurately to ensure that the maintenance crew has all the necessary information to perform their tasks efficiently.
-
-Before submitting this form, please check that you are not duplicating an existing request by searching for any open requests in the system. If you are unsure about the priority or status of an existing request, please contact your supervisor for clarification.
-
-</thinking>
-
 # water_drainage_maintenance_request_form - Help Guide
 ## Purpose
 The water drainage maintenance request form is used to submit a request for maintenance on the facility's water drainage system.

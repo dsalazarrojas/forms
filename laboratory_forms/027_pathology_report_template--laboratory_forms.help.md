@@ -1,10 +1,3 @@
-<thinking>
-This form is used to create a pathology report template. 
-The purpose of this form is to collect relevant information from a patient's lab results. 
-This form should be used by laboratory professionals for generating a pathology report. 
-It is a standardized template with multiple fields that need to be filled. 
-</thinking>
-
 # Pathology Report Template - Help Guide
 ## Purpose
 This is a template for creating a pathology report. The report is a document that summarizes the results of a patient's laboratory tests and procedures. The form is used by laboratory professionals to ensure that all necessary information is collected and presented in a clear and concise manner.

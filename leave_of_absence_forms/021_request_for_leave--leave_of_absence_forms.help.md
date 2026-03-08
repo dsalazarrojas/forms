@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Request For Leave - Help Guide
 ## Purpose
 This form is for requesting leave from your work. It's used to inform your team members and superiors about your planned absence. Please make sure to fill it out accurately and only submit if you're planning to be away from work for a specific period.

@@ -1,7 +1,3 @@
-<thinking>
-The form is used for applicants to submit their application for the Site Reliability Manager position. This form is intended for internal use within the company. To ensure that the application process is fair and efficient, applicants must fill out the form accurately and honestly. Please note that some fields are required and will be marked as such.
-</thinking>
-
 # Site Reliability Manager Application Form - Help Guide
 ## Purpose
 The Site Reliability Manager Application Form is a form designed for applicants to submit their application for the Site Reliability Manager position. This form collects information about the applicant, including their personal details, professional experience, and work status. The form is intended for internal use within the company and is used to evaluate applicants for the position.

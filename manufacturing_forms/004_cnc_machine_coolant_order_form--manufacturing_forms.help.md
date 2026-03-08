@@ -1,7 +1,3 @@
-<thinking>...
-The CNC Machine Coolant Order Form is a crucial document used to request and track the ordering of coolants for CNC machines in a manufacturing setting. This form should only be filled out when a request for a new order is legitimate and there is no existing order for the same machine model with the same parameters. The form is used by the maintenance and operations team to ensure that all necessary information is captured and communicated to the procurement team for order fulfillment. It's essential to fill out the form accurately and truthfully to avoid confusion and miscommunication. Please make sure to check for any existing orders before filling out this form, and if you are unsure, reach out to the relevant team members for clarification.
-</thinking>
-
 # CNC Machine Coolant Order Form - Help Guide
 
 ## Purpose

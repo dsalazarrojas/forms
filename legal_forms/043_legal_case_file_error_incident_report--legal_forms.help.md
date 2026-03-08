@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure the form is used correctly and accurately. This will prevent errors and miscommunications in the legal case filing process. To avoid duplication, we should check for open reports before submitting new ones. This will reduce the workload of our team and save time. Additionally, we should make sure to provide enough information for our team to understand the case, so they can resolve it efficiently.
-</thinking>
-
 # Legal Case File Error Incident Report - Help Guide
 ## Purpose
 The Legal Case File Error Incident Report form is designed to report errors or incidents that have occurred during the legal case filing process. By providing detailed information about the case number, incident date, error description, and other relevant details, this form helps the case team to quickly identify and resolve the issue.

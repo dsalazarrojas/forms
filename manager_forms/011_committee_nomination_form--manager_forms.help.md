@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for nominating individuals for positions on a committee. The purpose of this form is to collect information about the nominee, including their name, email address, phone number, position being nominated for, and a brief statement of their qualifications. The nominator, the person submitting the nomination, must also provide their name and contact email. The form also includes a field to confirm that the nominee has given their consent to serve on the committee. This form is used by committee members to propose new members to be considered for a position on the committee. It's essential to fill out the form accurately and completely, as the information will be reviewed and considered for the nomination process.
-
-</thinking>
-
 # Committee Nomination Form - Help Guide
 ## Purpose
 The Committee Nomination Form is used by committee members to nominate individuals for positions on the committee. This form collects information about the nominee, the nominator, and the nomination details.

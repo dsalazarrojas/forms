@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential supermarket stock clerks. The form is meant to capture the job applicant's contact details, job preferences, and availability for a stock clerk position. The form includes fields for contact number, email, availability, and qualifications. There is also an option to upload a resume. This form is intended to be a comprehensive tool to gather necessary information for stock clerk positions.
-</thinking>
-
 # Supermarket Stock Clerk Employment Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential supermarket stock clerks, including contact details, job preferences, and availability.

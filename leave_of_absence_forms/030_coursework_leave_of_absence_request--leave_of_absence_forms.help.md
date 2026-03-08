@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by students to request a leave of absence for their coursework. The form will be reviewed and processed internally, and the student will be notified of the approval or denial of their request. Before submitting this form, ensure that you have reviewed and understand the required fields. If you have already submitted a leave request, please do not submit another.
-</thinking>
-
 # Coursework Leave Of Absence Request - Help Guide
 ## Purpose
 The "Coursework Leave Of Absence Request" form is used by students to submit a formal request for a leave of absence from their coursework. This form will help us process your request and keep track of your absence.

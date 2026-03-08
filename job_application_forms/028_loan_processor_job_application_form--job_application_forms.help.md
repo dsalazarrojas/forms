@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is for loan processors to submit their job applications. The form is designed to collect information about the applicant's personal details, employment, and work experience. This form is not intended to be used for any other purpose, and please do not submit multiple applications.
-</thinking>
-
 # Loan Processor Job Application Form - Help Guide
 ## Purpose
 The Loan Processor Job Application Form is designed to collect information about loan processors who want to apply for a position at your institution. This form is a crucial part of the hiring process and helps us get to know you better.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Crisis Leave Of Absence Request - Help Guide
 ## Purpose
 The Personal Crisis Leave Of Absence Request form is used to submit a request for a leave of absence due to personal crisis, such as a bereavement, medical emergency, or family crisis. This form is intended for employees who require time away from work to address personal issues.

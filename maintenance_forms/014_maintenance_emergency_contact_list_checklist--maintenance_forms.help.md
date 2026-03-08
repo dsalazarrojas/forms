@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a comprehensive checklist for creating a maintenance emergency contact list. It seems to be designed for situations where a team or individual needs to identify and record critical emergency contact information for team members. The form has two main sections: emergency contact lists and contact information. The emergency contact lists section likely allows users to select multiple contacts from a predefined list, while the contact information section is for entering specific details about an individual contact.
-
-This form appears to be part of a maintenance system, possibly for teams or organizations with a high risk of emergencies or critical situations. I'll provide a help guide for this form based on the provided YAML fields.
-
-</thinking>
-
 # Maintenance Emergency Contact List Checklist - Help Guide
 
 ## Purpose

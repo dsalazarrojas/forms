@@ -1,7 +1,3 @@
-<thinking>
-To confirm the form's purpose and relevance to the audience, the form is intended for editors working within our company who are looking to apply for open editor roles. It's essential to ensure that applicants provide the required information to increase the chances of their application being considered. By following this guide, applicants can submit their applications efficiently and effectively.
-</thinking>
-
 # Editor Application Form - Help Guide
 ## Purpose
 The Editor Application Form is a tool designed for potential editors to submit their applications for open editor roles within our company. This form is used to collect essential information from applicants to evaluate their qualifications and suitability for the role.

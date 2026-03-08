@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information from job applicants for lifeguard positions. This is a straightforward application form designed to gather essential details from individuals interested in working as lifeguards. The form is likely to be used by HR or recruitment teams to process and review applications. This form does not have any duplicate fields, and all fields are text-based. The purpose of the form is to gather contact and work experience information from applicants.
-</thinking>
-
 # Lifeguard Application Form - Help Guide
 ## Purpose
 The Lifeguard Application Form is designed to collect essential information from individuals interested in working as lifeguards. This form is used to gather contact details and work experience for processing and reviewing applications.

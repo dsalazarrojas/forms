@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly, and the users understand what each field represents. The form is a "Housing Investment Loan Application Form" and its purpose is to gather information from users about their loan application. To avoid duplication, we should check if there are any existing forms with the same name in the system. If there are, we'll need to decide if we should update the existing form or use a new one.
-</thinking>
-
 # Housing Investment Loan Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from users about their loan application for housing investment. Please fill out the form accurately to ensure a smooth loan process.

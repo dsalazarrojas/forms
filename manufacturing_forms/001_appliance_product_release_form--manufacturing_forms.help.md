@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to document the release of a new appliance product, ensuring that all relevant information is captured to support internal tracking and communication. This form is essential for maintaining product quality control and ensuring that the release meets all necessary standards. It is crucial to fill out this form accurately to avoid duplication of effort and miscommunication within the company. Please ensure that you have the necessary approvals and information before completing this form.
-
-</thinking>
-
 # Appliance Product Release Form - Help Guide
 ## Purpose
 This form is used to document the release of a new appliance product, ensuring that all relevant information is captured to support internal tracking and communication.

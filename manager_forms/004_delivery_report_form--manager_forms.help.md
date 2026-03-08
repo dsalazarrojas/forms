@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about a delivery that has been made. This form is used to capture details about the delivery, including the delivery date, time, address, and other relevant information. It is likely used by delivery personnel or customer service staff to document and track delivery activities.
-
-Before proceeding, please ensure that you are completing this form for a delivery that has not already been documented. Duplicate entries may cause confusion and affect the accuracy of our delivery records.
-
-</thinking>
-
 # Delivery Report Form - Help Guide
 ## Purpose
 The Delivery Report Form is used to document and track delivery activities, capturing details about the delivery date, time, address, and other relevant information.

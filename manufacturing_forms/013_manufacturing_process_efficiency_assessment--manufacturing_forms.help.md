@@ -1,12 +1,3 @@
-<thinking>
-This form is used to assess the efficiency of a manufacturing process, which is a crucial aspect of optimizing production. This form aims to gather information about the production process, its time, capacity, volume, bottlenecks, and potential improvements. It's essential to complete this form accurately to help identify areas for enhancement.
-
-Before proceeding, please ensure that you have the necessary information and permissions to provide detailed and honest answers. This form should not be completed multiple times. If you're unsure about any question or have further clarifications, please contact the relevant personnel or department.
-
-This guide will help you understand each field and how to fill it correctly.
-
-</thinking>
-
 # Manufacturing Process Efficiency Assessment - Help Guide
 ## Purpose
 This form is designed to gather information about your manufacturing process, its efficiency, and potential areas for improvement. It helps identify bottlenecks and suggests next steps for enhancement.

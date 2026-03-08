@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to support employees' seasonal leave of absence requests, allowing them to formally submit their requests for time off during the holiday season. The form aims to streamline the process of requesting leave, ensuring that all necessary information is collected in a structured and efficient manner. This form is meant to be used by employees to provide their leave request details, while managers can use it to review and approve or deny requests.
-
-This guide will walk you through the form's purpose, how to complete it, and an explanation of each field.
-
-</thinking>
-
 # Seasonal Leave Of Absence Request - Help Guide
 ## Purpose
 The purpose of this form is to submit a seasonal leave of absence request for approval by management.

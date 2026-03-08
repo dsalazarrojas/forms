@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assist manufacturers in requesting quotes for membrane switches. A membrane switch is a component used to connect electrical devices and allow for the transfer of electrical signals. This form will help users provide necessary information to receive a quote for the desired membrane switch product. 
-The form should only be completed for customers who require a quote for a specific membrane switch product. Users should not attempt to use this form for other purposes. If you've already submitted a quote request, please do not submit another one unless your requirements have changed.
-</thinking>
-
 # Membrane Switch Quote Request - Help Guide
 ## Purpose
 This form is used to gather information for quote requests of membrane switches. Please complete the form below to provide your requirements for a quote.

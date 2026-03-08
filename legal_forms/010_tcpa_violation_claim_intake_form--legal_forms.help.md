@@ -1,7 +1,3 @@
-<thinking>
-The form "tcpa_violation_claim_intake_form" is designed to gather information from the claimant (the individual or business claiming a TCPA (Telephone Consumer Protection Act) violation) to help our team evaluate and process the claim. This form is meant to be completed with accurate and thorough information to ensure a thorough investigation.
-</thinking>
-
 # tcpa_violation_claim_intake_form - Help Guide
 ## Purpose
 This form is used to collect information from the claimant regarding a potential TCPA violation claim. It is essential to provide accurate and complete information to help our team process and evaluate the claim.

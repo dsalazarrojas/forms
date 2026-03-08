@@ -1,5 +1,3 @@
-<thinking>As this form is a legal document for declaring confidentiality, its purpose is to gather information about the employee's ability to maintain confidentiality. This form will guide you through the process of understanding your obligations, commitments, and responsibilities related to confidential information. This form is essential for employees who have access to sensitive data or information that requires a level of clearance. It is also used for new employee onboarding, project-specific declarations, and annual renewal of confidentiality agreements. Please note that this form is not a duplicate of any other form, and it's designed to be filled out only once for each employee.</thinking>
-
 # Confidentiality Agreement Declaration Form - Help Guide
 ## Purpose
 This form is used to declare your understanding and agreement to maintain confidentiality of sensitive information. It's an essential document for employees who handle confidential data or work with sensitive projects.

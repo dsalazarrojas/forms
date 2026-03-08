@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "Company Feedback Form" is being used correctly to gather valuable insights from customers about their experiences with our company. To guarantee this, we need to make sure that users understand the purpose and usage of each field. This will help prevent misinterpretation and duplication of feedback.
-</thinking>
-
 # Company Feedback Form - Help Guide
 ## Purpose
 The Company Feedback Form is a crucial tool for us to gather insights from customers about their experiences with our company. It helps us understand what we're doing right and identify areas for improvement. By filling out this form, you'll be providing us with valuable feedback that we'll use to enhance our services.

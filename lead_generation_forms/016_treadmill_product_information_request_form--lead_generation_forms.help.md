@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to gather information from customers or potential customers about their interest in treadmills, their fitness level, and how they want to be contacted for further assistance. This form should not be filled in by customers who are already aware of the product information they need and just want to contact the business for other reasons. The form will help us to better understand customers' needs and improve our services accordingly.
-</thinking>
-
 # Treadmill Product Information Request Form - Help Guide
 ## Purpose
 This form is designed to gather information about your fitness goals and preferences to provide you with the most suitable treadmill options. It will help us to understand your current fitness level, how you prefer to be contacted, and what type of service you're interested in.

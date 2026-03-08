@@ -1,5 +1,3 @@
-<thinking>This form is used for the assessment of students' math skills and background. It is designed to help teachers evaluate student's math understanding, identify areas of improvement, and provide feedback for future instruction. This form should only be filled out for students who are not currently enrolled in a math class. The form is not intended for students who are currently enrolled in Pre-Algebra, Algebra, Geometry, or Calculus classes. It is designed to be completed by students themselves, and it requires the student's name, ID, grade level, scores for various math concepts, and other relevant information. The form can be submitted multiple times for the same student, but please avoid submitting it multiple times for the same student with the same information, as it can lead to confusion and redundancy. Please make sure to complete each field accurately and thoroughly to provide the most helpful assessment results. Please note that some fields are required, marked by a red star. The fields with the red stars are mandatory and must be completed to submit the form.</thinking>
-
 # mathematics_diagnostic_assessment_form - Help Guide
 
 ## Purpose

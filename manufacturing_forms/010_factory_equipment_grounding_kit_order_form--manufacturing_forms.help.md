@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the "Factory Equipment Grounding Kit Order Form" is to allow customers to provide information about their factory equipment, which requires grounding, and to order the necessary grounding kits. This form is intended for customers who are looking to purchase a grounding kit to protect their equipment from electrical shocks and ensure safe operation. 
-This form is a simple, text-based form that collects information about the customer and their shipment details, as well as the order details for the grounding kit. It is likely used by a company that sells or supplies grounding kits to factories or industrial settings. 
-It's worth noting that the form is not affiliated with any form platform, but rather was generated using public survey topic metadata as inspiration. This form is released under CC BY 4.0 and can be used, modified, and even sold by others as long as they give credit.
-</thinking>
-
 # Factory Equipment Grounding Kit Order Form - Help Guide
 ## Purpose
 The "Factory Equipment Grounding Kit Order Form" is used by customers to order the necessary Grounding Kit for their factory equipment, ensuring safe operation and protection from electrical shocks.

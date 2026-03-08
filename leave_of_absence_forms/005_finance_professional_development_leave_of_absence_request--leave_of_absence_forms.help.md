@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to complete the Finance Professional Development Leave Of Absence Request form. Please note that this form is designed to be filled out by finance professionals within the organization to request a leave of absence for personal or professional development purposes. This form is not intended for general leave requests or vacation purposes. 
-
-Before filling out this form, make sure you are eligible for a leave of absence under your company's policies. If you have already submitted a leave request or approval for the same period, please do not submit a duplicate request. 
-
-</thinking>
-
 # Finance Professional Development Leave Of Absence Request - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for the release of trust records, likely used in legal or financial contexts. The purpose of this form is to gather relevant data from users, including trust information, consent dates and times, and contact details of legal professionals involved. This form is likely used in scenarios where trust records are being released to third parties, and the collected data helps in processing and verifying the release. 
-
-To prevent duplication, it's essential to ensure that the form is not filled out by the same user twice.
-</thinking>
-
 # trust_records_release_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for the release of trust records.

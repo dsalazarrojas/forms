@@ -1,11 +1,3 @@
-<thinking>
-
-The form, "evidence_chain_of_custody_tracking_form", is used to document the chain of custody for evidence collected during a case. This form tracks the identification, description, and handling of evidence from the moment it is collected to the moment it is transferred or stored. The goal is to ensure that all parties involved in the case are aware of the chain of custody and can track the evidence throughout its lifecycle.
-
-The form is likely to be used in a legal or forensic context where the integrity and authenticity of evidence are crucial. To complete this form, users should ensure that they accurately document each stage of the evidence's handling, including the identification of the witness, description of the evidence, and the handling and storage of the evidence. This will help prevent any tampering or contamination of the evidence and ensure that it is handled and stored properly.
-
-</thinking>
-
 # evidence_chain_of_custody_tracking_form - Help Guide
 ## Purpose
 The purpose of this form is to document the chain of custody for evidence collected during a case.

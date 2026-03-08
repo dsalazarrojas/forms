@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Paid Leave Request Form - Help Guide
 ## Purpose
 This form is used to request paid leave from work. It will help you submit your leave request with all the necessary details to your manager.

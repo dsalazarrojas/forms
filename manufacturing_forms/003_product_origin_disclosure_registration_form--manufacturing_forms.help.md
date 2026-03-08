@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the origin of a product. It's intended for companies and organizations to register the origin of their products, which could be a crucial aspect of their business operations, especially in industries where product origin is a critical factor in product authentication and compliance with regulations. Before starting, ensure that the information provided is accurate and up-to-date, as incorrect or incomplete data can lead to issues with product authenticity and regulatory compliance. Please review the form carefully to avoid duplication of entries.
-</thinking>
-
 # Product Origin Disclosure Registration Form - Help Guide
 ## Purpose
 The Product Origin Disclosure Registration Form is designed to collect detailed information about the origin of a product, which is essential for various industries, especially those regulated, to ensure product authenticity and compliance with relevant laws and regulations.

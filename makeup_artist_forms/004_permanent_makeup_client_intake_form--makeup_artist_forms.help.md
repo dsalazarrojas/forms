@@ -1,10 +1,3 @@
-<thinking>
-I'll create a help guide for the permanent makeup client intake form. The purpose of this form is to collect information from clients before they receive permanent makeup services. This form helps the artist understand the client's medical history, contact details, and other important information to ensure a safe and successful treatment process. To prevent potential issues, it's essential to complete this form accurately and thoroughly.
-
-This form is not affiliated with any form platform, and its design is based on publicly available metadata related to the topic of permanent makeup and the industry/category of makeup artists. The form is released under CC BY 4.0, allowing users to modify and share it.
-
-</thinking>
-
 # Permanent Makeup Client Intake Form - Help Guide
 ## Purpose
 This form is designed for permanent makeup artists to collect essential information from clients before providing services. It's crucial to complete this form accurately to ensure a safe and successful treatment process.

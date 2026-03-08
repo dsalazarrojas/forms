@@ -1,8 +1,3 @@
-<thinking>
-You need to check if the form is not a duplicate application for the same studio, and if the applicant has already been assigned to a studio manager. The form is intended to gather information from the applicants about their studio name, contact information, experience, and availability. The goal is to ensure that the application process is completed accurately and efficiently. 
-
-This guide will walk the end-users through the process of filling out the Scratch Studio Manager Application Form.</thinking>
-
 # Scratch Studio Manager Application Form - Help Guide
 ## Purpose
 This form is used to gather information from applicants about their studio name, contact information, experience, and availability to help the studio manager select the best candidate for the position.

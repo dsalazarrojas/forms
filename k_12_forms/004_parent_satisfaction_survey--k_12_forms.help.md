@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from parents on their satisfaction with the school. It will help us understand their experiences and opinions, which will inform our efforts to improve the school's services and overall quality.

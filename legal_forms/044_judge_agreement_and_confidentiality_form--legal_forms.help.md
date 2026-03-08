@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to record a Judge's agreement and confidentiality terms for a court case. The goal is to ensure that the parties involved are aware of their responsibilities and obligations regarding the handling of sensitive information. The form should only be completed by a judge, and the information collected will be used for case management purposes only.
-
-It's worth noting that this form is part of the broader legal process, and the answers provided should be based on the judge's discretion. There should be no duplication of effort, as the purpose is to collect information once from the judge. 
-</thinking>
-
 # Judge Agreement And Confidentiality Form - Help Guide
 ## Purpose
 The Judge Agreement and Confidentiality Form is a legal document that outlines the terms of confidentiality for a court case. It is essential for the parties involved to understand their responsibilities regarding sensitive information.

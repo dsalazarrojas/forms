@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tax Preparer Agreement Form - Help Guide
 ## Purpose
 This form is used to collect information from tax preparers and tax preparers' representatives, ensuring their agreement with taxpayers for tax preparation services. This includes collecting tax preparer contact information and the terms of their agreement with the taxpayer.

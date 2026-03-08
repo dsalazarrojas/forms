@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication of work and ensure that each form is completed with the correct information, please make sure to only fill out one form per work to be registered. This form is intended for registering multiple works with their respective owners' information.
-</thinking>
-
 # copyright_registration_form - Help Guide
 ## Purpose
 The copyright registration form is used to register multiple works with their respective owners' information. It's essential to fill out this form accurately to ensure proper registration of each work and its owner's details.

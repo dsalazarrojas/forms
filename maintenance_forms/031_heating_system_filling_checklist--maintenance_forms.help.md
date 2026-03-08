@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users fill out a heating system filling checklist, likely used for maintenance or inspection purposes. This form is not affiliated with any specific platform and is an original adaptation of public survey metadata. The form has 5 pages, each with a unique label and ID.
-</thinking>
-
 # Heating System Filling Checklist - Help Guide
 ## Purpose
 This form is designed to aid in the maintenance or inspection of heating systems. Users will need to fill out the form with relevant information to ensure the system is functioning properly.

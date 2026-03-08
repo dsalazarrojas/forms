@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect background information from users, focusing on personal and professional details. It's likely created for business or professional contexts where understanding a user's background can aid in providing tailored solutions or services. This form might be used for various purposes, such as client onboarding, partnership inquiries, or internal data collection. To avoid redundancy, users should only fill out this form once, as the information collected will be specific to the individual or organization submitting it. This guide will walk you through the form's purpose, completion process, and a field-by-field explanation to ensure users understand what's expected of them.</thinking>
-
 # Background Information Sheet Form - Help Guide
 ## Purpose
 The Background Information Sheet Form is designed to gather essential details about an individual or organization, providing a comprehensive picture of their personal and professional background. This information helps in offering tailored solutions or services, ensuring that the provided solutions meet their specific needs.

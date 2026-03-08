@@ -1,22 +1,3 @@
-<thinking> 
-This form is designed to collect information from participants in the Global Workforce Development Program. The purpose of this form is to gather data for program administration and participant profiling. The form is meant for participants to provide accurate and complete information about themselves and their goals. To avoid duplication, participants are encouraged to fill out the form only once per application.
-
-Please note that the form requires the following information:
-- Participant Name and Email
-- Participant Phone (with a specific format requirement)
-- A brief description of the Participant Career Goal
-- Program Type
-- Program Start Date (date format)
-- Training Provider (if applicable)
-- Eligibility Criteria (if applicable)
-- Program Length (if applicable)
-- Participant Status (if applicable)
-- Participant Notes (if any)
-- Final Program Status (approved/rejected)
-- Form submitter (User 1, 2, or 3)
-
-</thinking>
-
 # Global Workforce Development Program Application - Help Guide
 
 ## Purpose

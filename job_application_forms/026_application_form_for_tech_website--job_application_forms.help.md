@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from applicants interested in contributing to a tech website. It is meant to be a straightforward and easy-to-use tool for potential contributors to provide their details, skills, and interests. The form asks for basic contact information (name and email), role interest, and key skills relevant to the position. It also allows applicants to share a sample submission link, if applicable, and to specify their weekly availability. Additionally, the form includes a section for a motivation statement, which gives applicants the opportunity to express their interest in contributing. Finally, the form includes an optional section for references and a consent agreement to terms.
-
-</thinking>
-
 # Application Form For Tech Website - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential contributors to a tech website. It is designed to be a simple and user-friendly way for applicants to express their interest in contributing and provide relevant details about themselves.

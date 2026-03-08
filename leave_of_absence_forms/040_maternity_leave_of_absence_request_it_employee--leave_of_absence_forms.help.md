@@ -1,7 +1,3 @@
-<thinking>As an expert form designer and technical writer, I need to create a user-facing help guide for the "Maternity Leave Of Absence Request (IT Employee)" form. This form is used by IT employees to request maternity leave, and it's essential to ensure that employees understand its purpose, how to complete it, and what each field means. I'll base the explanation on the provided YAML fields and follow the required structure.
-
-Before proceeding, let's clarify the purpose and checks for relevance and non-duplication of this form: This form is designed for IT employees to request maternity leave, and it ensures that all necessary information is collected for the leave request process. It's crucial to review the form carefully before submitting it to avoid any duplication or errors. The employee must ensure that they have all the required information before filling out the form, and it's recommended to review the form carefully before submitting it to their manager for approval.</thinking>
-
 # Maternity Leave Of Absence Request (IT Employee) - Help Guide
 ## Purpose
 This form is used by IT employees to request maternity leave, allowing them to take time off for their pregnancy-related needs. It's essential to complete this form carefully to ensure a smooth leave request process.

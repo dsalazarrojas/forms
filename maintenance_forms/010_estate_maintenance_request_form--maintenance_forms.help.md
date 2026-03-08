@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Estate Maintenance Request Form - Help Guide
 ## Purpose
 The Estate Maintenance Request Form is designed to collect information from property owners or residents to request maintenance services or report issues with their estate. This form is intended to be filled out by the property owner or a designated representative.

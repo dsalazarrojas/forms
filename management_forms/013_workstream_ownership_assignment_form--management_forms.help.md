@@ -1,12 +1,3 @@
-<thinking>
-To confirm relevance: This form seems to be related to assigning ownership or responsibility to a workstream, which is a common concept in agile management and project management. The form likely aims to document the assignment of a workstream to a specific owner, including their details and other relevant information.
-
-To confirm non-duplication: Upon reviewing the form structure, it appears to be a straightforward form with no obvious duplicates or unnecessary fields. The fields seem to cover the necessary information for workstream ownership assignment, including the owner's details, workstream name, and other relevant data.
-
-To confirm practicality: The form is relatively simple, with fields that are likely to be relevant and easily understandable for the end-users. The form structure seems to be well-organized and easy to follow.
-
-</thinking>
-
 # Workstream Ownership Assignment Form - Help Guide
 ## Purpose
 This form is used to assign ownership or responsibility to a workstream, ensuring that all team members are aware of who is responsible for a particular workstream.

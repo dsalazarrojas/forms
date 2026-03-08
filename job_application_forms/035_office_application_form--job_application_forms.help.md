@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for users to apply for office roles within an organization. The form is designed to collect information about the applicant's personal and professional details. 
-
-The form should only be submitted once per user, and it is recommended that the user reviews the form carefully before submitting it to ensure that all required fields are filled out accurately. 
-
-</thinking>
-
 # Office Application Form - Help Guide
 ## Purpose
 This form is used for job applicants to submit their applications for office roles. To apply, please fill out the form completely and accurately.

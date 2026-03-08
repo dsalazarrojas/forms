@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for officer elections, which is crucial for maintaining order and efficiency in various organizational settings. Officer elections are essential for electing representatives who will take key responsibilities and make decisions on behalf of the group. Before proceeding, ensure that you are filling out this form to report actual officer elections and not for other purposes.
-</thinking>
-
 # Officer Election Form - Help Guide
 ## Purpose
 The Officer Election Form is a tool used to record and report the results of officer elections within an organization. It captures the necessary details about the election, including the position, position type, election date and time, voting results, and candidate information.

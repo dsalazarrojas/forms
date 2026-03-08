@@ -1,17 +1,3 @@
-<thinking>
-
-To create a clear and concise help guide for the "intellectual_property_release_form" form, let's start by analyzing the form fields:
-
-* The form is titled "Intellectual Property Release Form".
-* It has three fields:
-	+ "General Information" (Field 1): A text field for general information related to intellectual property release.
-	+ "Intellectual Property Licence" (Field 2): A select-one field with two options: "Licence" and "Other". This field likely asks about the type of intellectual property license.
-	+ "Licence Duration" (Field 3): A number field for specifying the duration of the license.
-
-The purpose of this form is to gather information about intellectual property release, likely for official or legal purposes. The goal is to provide a clear and concise guide for end-users to complete the form accurately and efficiently.
-
-</thinking>
-
 # intellectual_property_release_form - Help Guide
 ## Purpose
 The "Intellectual Property Release Form" is used to gather information about intellectual property release, which is typically required for official or legal purposes. This form helps to ensure that all necessary details are captured accurately and efficiently.

@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used in an internal IT or facilities management context where staff needs to report maintenance requests for equipment. The form may be used to track and manage the maintenance of company equipment, such as printers, computers, or machinery. The form's purpose is to collect information about equipment that requires maintenance, including its type, description, priority, and status. The fields in this form seem to cover the essential aspects of maintenance request, such as who submitted the request, when it was submitted, and who is assigned to handle it.
-
-To avoid duplication, it's essential to check that the form is not submitted multiple times for the same equipment, especially when it's not necessary. This form might be linked with a database or a workflow system to track and manage equipment maintenance in real-time.
-
-The form's fields are designed to guide the user through the necessary information required for efficient maintenance request processing. The structure of the form is clear, and each field should be understandable to a non-technical user.
-</thinking>
-
 # Equipment Maintenance Request Form - Help Guide
 ## Purpose
 The Equipment Maintenance Request Form is used to report requests for equipment maintenance. This form is designed to guide users through the necessary information required for efficient maintenance request processing.

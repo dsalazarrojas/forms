@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a prospective client's job opening. The purpose of this form is to gather detailed data about the job role, company, and location to better understand the client's needs and provide tailored services. This form is used by internal stakeholders to analyze and respond to the client's inquiry.
-
-Before proceeding, please ensure you have reviewed the form requirements and that this form is the correct one for your specific use case. If you're unsure, please consult with your internal team or supervisor.
-
-</thinking>
-
 # Prospective Client Form - Help Guide
 ## Purpose
 The Prospective Client Form is used to collect detailed information about a job opening from a prospective client. This form helps us understand the client's needs and provides a foundation for our internal team to analyze and respond to the client's inquiry.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect handling instructions and confirmations related to items in a warehouse. The purpose of this form is to ensure that items are handled and confirmed correctly, reducing errors and ensuring that all relevant parties are aware of the procedures. This form is meant to be filled out for every item that requires special handling or confirmation, and is part of a larger system for tracking and managing warehouse activities. This form is not a substitute for a formal procedure or policy document, and is intended for use by authorized personnel only.
-</thinking>
-
 # handling_instructions_checklist - Help Guide
 ## Purpose
 The handling instructions checklist is a form used to collect and document special handling instructions and confirmations related to items in a warehouse.

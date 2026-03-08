@@ -1,11 +1,3 @@
-<thinking>
-The sensor inspection and maintenance checklist form is a crucial tool for tracking and recording inspection details, maintenance actions, and other relevant information about sensors in a system. This form is likely used by maintenance personnel or technicians to ensure that sensors are properly inspected and maintained to prevent malfunctions or issues that could compromise system functionality. 
-
-The form's purpose is to provide a structured and organized way to record inspection results, maintenance activities, and other relevant details. This helps to ensure consistency and accuracy in data collection, which is essential for system maintenance and troubleshooting. 
-
-The form is likely part of a larger process or system for managing sensor maintenance, and it might be used in conjunction with other forms, reports, or tools for overall system monitoring and improvement. 
-</thinking>
-
 # sensor_inspection_and_maintenance_checklist - Help Guide
 ## Purpose
 This form is designed to help maintainers and inspectors record inspection results, maintenance actions, and other relevant details about sensors in a system. It's an essential tool for ensuring sensor functionality and preventing malfunctions.

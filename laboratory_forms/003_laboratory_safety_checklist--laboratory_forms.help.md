@@ -1,8 +1,3 @@
-<thinking>
-This form is a crucial tool for ensuring laboratory safety, and its purpose is to assess the adequacy of a laboratory's safety measures. The Laboratory Safety Checklist is used to evaluate the presence of essential electrical equipment, fire safety measures, proper chemical storage, personal protective equipment, emergency procedures, and whether the laboratory has a system in place for reviewing and taking corrective actions. The form should not be duplicated or used for any other purpose. It's essential to complete this form accurately to ensure a safe working environment.
-
-</thinking>
-
 # Laboratory Safety Checklist - Help Guide
 ## Purpose
 The Laboratory Safety Checklist is a critical form used to evaluate the safety measures in place in a laboratory. This form assesses the adequacy of electrical equipment, fire safety, chemical storage, personal protective equipment, emergency procedures, and the review and corrective action process.

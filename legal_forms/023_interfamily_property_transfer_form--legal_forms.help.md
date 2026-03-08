@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Interfamily Property Transfer Form - Help Guide
 
 ## Purpose

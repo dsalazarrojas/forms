@@ -1,12 +1,3 @@
-<thinking>
-To create a well-structured help guide that effectively communicates the purpose and usage of the "website_testimonial_collection_form" form, let's break down the form's purpose and requirements.
-
-This form is designed to collect website testimonials from users. The form likely aims to gather testimonials from visitors, customers, or users who want to share their positive experiences with a website. The form's purpose is to collect feedback, praise, or endorsements that can be used to improve the website's reputation, promote products or services, or provide social proof.
-
-To avoid duplication, the form likely doesn't require users to log in or be authenticated, as it's a one-off collection form. This form's goal is to encourage users to participate and share their testimonial.
-
-</thinking>
-
 # website_testimonial_collection_form - Help Guide
 ## Purpose
 This form is designed to collect website testimonials from users, which can be used to improve the website's reputation, promote products or services, and provide social proof.

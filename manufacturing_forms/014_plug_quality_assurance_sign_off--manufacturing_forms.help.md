@@ -1,7 +1,3 @@
-<thinking>
-The "Plug Quality Assurance Sign Off" form is a crucial document that ensures the quality of plugs produced in the manufacturing process. It's essential to complete this form accurately to maintain the highest standards of quality and efficiency. Ensure that you're filling out this form for the right purpose and not duplicating efforts. Review the form carefully before filling it out to avoid any confusion.
-</thinking>
-
 # Plug Quality Assurance Sign Off - Help Guide
 ## Purpose
 The "Plug Quality Assurance Sign Off" form is a critical document that verifies the quality of plugs produced in the manufacturing process. It ensures that the plugs meet the required standards and specifications.

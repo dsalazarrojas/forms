@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a comprehensive template for collecting employment-related information from job applicants. It includes fields for job application details, contact information, employment history, education background, work experience, references, job title, job description, job requirements, reporting manager and team, manager observations, performance measures, performance goals, compensation and benefits, employment status, job type, job status, employment terms, employment start date, employment end date, hours worked, annual salary, and monthly salary. 
-
-The required fields appear to be job title, employment status, job type, job status, employment terms, employment start date, and form submitted by, which may suggest that this form is designed to be used in conjunction with HR-related processes.
-
-To confirm, this form should be used for corporate manager employment purposes only, and not for other types of job applications or other types of employment forms. If that's the case, it would be a good idea to include that information at the top of this help guide to avoid any confusion.</thinking>
-
 # Corporate Manager Employment Form - Help Guide
 
 ## Purpose

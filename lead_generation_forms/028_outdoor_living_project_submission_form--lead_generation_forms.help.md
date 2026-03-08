@@ -1,7 +1,3 @@
-<thinking>
-This form is used by the sales team to capture essential information about a lead that has been generated, whether it's from an external source like Social Media or Email Marketing. The purpose of this form is to gather details about the project, such as its location, type, size, and budget, as well as the source and contact details of the lead. To prevent data duplication, the form should only be filled out for each new lead. It's essential to fill out all required fields, marked with an asterisk (\*).
-</thinking>
-
 # Outdoor Living Project Submission Form - Help Guide
 ## Purpose
 The Outdoor Living Project Submission Form is used to gather information about generated leads for outdoor living projects. This form helps the sales team to track and follow up on these leads effectively.

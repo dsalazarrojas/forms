@@ -1,7 +1,3 @@
-<thinking>
-This form is used for individuals who want to be considered for a jury pool. This form helps us to determine if you are eligible and available to serve on a jury. Please note that you must be a US citizen, at least 18 years old, and have a valid government-issued ID to be considered for jury service. 
-</thinking>
-
 # Jury Application Form - Help Guide
 ## Purpose
 This form is used to help us determine your eligibility and availability to serve on a jury. To be considered, you must be a US citizen, at least 18 years old, and have a valid government-issued ID.

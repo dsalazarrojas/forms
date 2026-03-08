@@ -1,13 +1,3 @@
-<thinking>
-
-This guide is designed to help users understand the purpose and functionality of the Holiday Application Form. The form is used to apply for a holiday or leave of absence, and it captures various details about the holiday, including dates, type, reason, location, duration, status, and comments from both the holiday manager and approver.
-
-Before completing this form, it's essential to understand the relevance of each field and the process flow. The form is not intended to be duplicated or submitted multiple times by the same user. If you need to apply for multiple holidays, please submit each one separately.
-
-When completing this form, ensure you fill in all mandatory fields accurately and truthfully, as they are subject to approval or rejection.
-
-</thinking>
-
 # Holiday Application Form - Help Guide
 ## Purpose
 The Holiday Application Form is used to submit a formal request for a holiday or leave of absence. This form captures essential details about the holiday, including dates, type, reason, location, duration, status, and comments from both the holiday manager and approver.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather feedback from users about their overall experience with the product or service, to assess its usability. This includes questions about their satisfaction with the product or service, why they were not satisfied, and what improvements they suggest. Additionally, the form collects contact information (email and phone number) to allow for further communication. The purpose of this form is to improve the product or service, and not to be a general contact form or sales pitch. It is designed to be used by product or service users to provide their honest feedback, and the goal is to create a more satisfying experience for all users.
-</thinking>
-
 # usability_survey - Help Guide
 ## Purpose
 The usability survey form is designed to gather feedback from users about their overall experience with the product or service. This feedback will help us to identify areas for improvement and create a more satisfying experience for all users.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from clients regarding the home staging services they are requesting. It is used to gather details about the client, their service requirements, payment terms, and other essential elements of the home staging agreement. The form is likely to be used by real estate professionals or companies offering home staging services to clients. The form fields are designed to be completed by the client, who will be providing their contact and signature information. This form may be used for internal purposes within the company or may be shared with external partners for processing or review.
-</thinking>
-
 # home-staging-services-agreement-form - Help Guide
 ## Purpose
 This form is used to collect client information, service details, and other essential elements of the home staging agreement from clients.

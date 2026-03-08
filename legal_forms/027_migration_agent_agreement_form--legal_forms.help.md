@@ -1,15 +1,3 @@
-<thinking>
-This help guide will be used to inform end-users about the purpose and completion of the Migration Agent Agreement Form. The form serves as an agreement between a client and a migration agent, outlining the terms and conditions of their partnership. The form is a legal document that requires careful completion to ensure both parties are on the same page.
-
-The guide will be concise and easy to follow, providing explanations for each field to help users understand what information is required and why. It will also cover best practices for completing the form, including checking the agreement and confirming signature.
-
-Upon reviewing the form's YAML, it seems that there are two main sections: Client Details and Service Terms Agreement. The Client Details section includes fields for client information, such as name, address, and contact details. The Service Terms Agreement section includes fields related to the terms and conditions of the migration service.
-
-The guide will also cover the importance of confirming consent to various communication methods, including email, SMS, and postal mail. Additionally, it will highlight the significance of reviewing and signing the agreement, as well as providing a signature and a signature date.
-
-By following this guide, end-users will be able to complete the form accurately and effectively, ensuring a smooth and legal migration process.
-</thinking>
-
 # Migration Agent Agreement Form - Help Guide
 ## Purpose
 The Migration Agent Agreement Form is a legal document that outlines the terms and conditions of the migration service between a client and a migration agent. It is essential to complete this form carefully to ensure both parties understand their responsibilities and obligations.

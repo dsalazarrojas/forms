@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from library staff or volunteers who are participating in the "Library Storytime" event. The purpose of this form is to capture data on whether staff are attending storytime, their name, age, contact information (email and phone), event details (date, time, and duration), and any additional comments. The form is designed to be completed by library staff or volunteers who are participating in storytime events.
-
-Please note that all fields are optional, but if you're unsure about the purpose or relevance of any field, please contact the event organizer or library management.
-
-</thinking>
-
 # Library Storytime Registration Form - Help Guide
 
 ## Purpose

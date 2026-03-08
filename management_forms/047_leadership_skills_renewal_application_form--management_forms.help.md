@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and fields are likely designed to capture information for leadership skill renewal applications, which may include personal details, contact information, and professional development data. This form might be used in a business or organizational setting, potentially for internal use within the organization. Before starting to fill out the form, check that you have the necessary permissions and that this information is not already recorded in other systems to avoid duplication. This guide is intended to help you complete the form correctly and efficiently.
-</thinking>
-
 # leadership_skills_renewal_application_form - Help Guide
 ## Purpose
 The leadership skills renewal application form is designed to collect information about your leadership skills and experiences. This form will help your organization assess your leadership development and identify areas for improvement.

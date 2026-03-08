@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify an individual's lawful presence in the United States. The purpose of this form is to ensure that the individual has a valid document that proves their current lawful presence in the country. This form is not meant to be filled out by individuals who are not physically present in the United States.
-</thinking>
-
 # Lawful Presence Verification Form - Help Guide
 ## Purpose
 The Lawful Presence Verification Form is a document that helps verify an individual's status as a citizen or national of the United States. It is used to confirm that the individual has a valid document that proves their current lawful presence in the country.

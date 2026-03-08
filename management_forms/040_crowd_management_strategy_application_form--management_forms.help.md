@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help event organizers and venue owners gather information about crowd management strategies for their events. The form is meant to be a simple and straightforward way to capture essential details about an event, its crowd, and the person or organization submitting the application. The purpose of this guide is to help users understand how to complete the form accurately and effectively.
-
-</thinking>
-
 # Crowd Management Strategy Application Form - Help Guide
 ## Purpose
 The Crowd Management Strategy Application Form is a tool for event organizers and venue owners to collect information about their crowd management strategies. This form will help you provide essential details about your event, crowd, and submission.

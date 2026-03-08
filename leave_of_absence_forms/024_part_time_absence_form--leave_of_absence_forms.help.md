@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a part-time absence, which can be used for various reasons such as taking care of personal or family matters, attending to a personal appointment, or dealing with a personal health issue. It is recommended that you only submit this form if you have discussed and obtained approval from your manager before proceeding with your absence. Please ensure that you are not submitting duplicate requests for the same absence period.
-</thinking>
-
 # Part Time Absence Form - Help Guide
 ## Purpose
 The Part Time Absence Form is used to request a part-time absence for personal or family matters, appointments, or health reasons. This form helps employees to inform their manager about their planned absence and obtain approval before taking the leave.

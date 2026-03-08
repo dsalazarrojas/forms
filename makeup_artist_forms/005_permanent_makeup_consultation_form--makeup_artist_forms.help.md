@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for clients who are interested in permanent makeup services. The purpose of this form is to gather information about the client's contact details, medical history, and appointment preferences. This form will help the permanent makeup artist understand the client's needs and preferences before scheduling an appointment. It's crucial that the client provides accurate and honest information to ensure a smooth and successful consultation process.
-
-To prevent duplication and ensure consistency, this form should only be filled out once before the consultation. Please do not submit multiple forms with the same contact information.
-
-This form has 22 fields, each with its own specific purpose. Please review the field explanations below to ensure you understand the information required for each field.</thinking>
-
 # permanent_makeup_consultation_form - Help Guide
 ## Purpose
 The permanent makeup consultation form is designed to gather essential information about you, our potential client. This form will help us understand your needs and preferences before we schedule an appointment for you. Please take a few minutes to complete this form accurately and honestly to ensure a smooth and successful consultation process.

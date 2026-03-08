@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to request a leave of absence for an employee due to medical reasons. This form is used by employees to submit their request to their supervisor and HR department. The form requires accurate and up-to-date information about the employee's details, leave duration, type, and medical certification. Please ensure you complete this form with the correct information to expedite the processing of your leave request.
-
-To start, you will need to complete the personal information section, including your name, ID, and email address. Then, select your primary department and job title. Next, specify the details of your leave request, such as the start and end dates, type of leave, and medical certification status. Finally, provide your expected return date and confirm that the information provided is accurate.
-
-This form is designed to gather necessary information to process your leave request efficiently. If you have a physician's note, please attach it to the form. If you have any additional information or clarification, please provide it in the "Additional Notes" field.
-
-Please complete all required fields and double-check your information before submitting the form. Once submitted, a supervisor and HR representative will review your request and process it accordingly.
-</thinking>
-
 # Aviation Medical Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used to request a leave of absence for medical reasons.

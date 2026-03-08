@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create an effective help guide for the "General Maintenance Services Order Form", let's break down the form's purpose and required information.
 
 The form is designed for customers to provide order information for general maintenance services. It appears to be used to gather data related to maintenance services, customer orders, addresses, and order status. 

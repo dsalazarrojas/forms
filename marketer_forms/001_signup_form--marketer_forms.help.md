@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for marketing-related purposes. This form is used to capture data that can be used to target specific marketing campaigns, and the fields are designed to be simple and straightforward. The form is likely to be used in a digital setting, such as a website or application. Before proceeding, please ensure that you have the necessary permissions and consents to collect and use this data.
-</thinking>
-
 # Signup Form - Help Guide
 ## Purpose
 The Signup Form is used to collect information from users for marketing purposes.

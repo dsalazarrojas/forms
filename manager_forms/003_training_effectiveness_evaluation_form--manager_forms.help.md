@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness of a training course by assessing various aspects of the training experience, including its overall rating, relevance to the job, and potential improvements. To ensure that this form is filled out correctly, it's essential to understand its purpose and the specific fields it contains. This guide will walk the user through the form's sections, explaining each field's intent and requirements.
-
-Please note that this form is a comprehensive evaluation tool, and it's crucial to answer all questions honestly to provide an accurate assessment of the training course.
-
-To complete this form, start at the top and move down each page, filling in the required and optional fields as needed.
-
-</thinking>
-
 # Training Effectiveness Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the effectiveness of a training course, including its overall rating, relevance to the job, and potential improvements. This form helps to gather feedback from participants to improve future training courses.

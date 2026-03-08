@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Crisis Leave Of Absence Request - Help Guide
 
 ## Purpose

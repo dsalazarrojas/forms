@@ -1,5 +1,3 @@
-<thinking>As this form is designed for capturing and documenting research laboratory incidents, its primary purpose is to gather information about a specific event that occurred in the research lab. This form aims to standardize the process of reporting and investigating incidents, ensuring consistency and accuracy in recording incidents. This form is intended for use by researchers, lab staff, or investigators to report and document incidents in a research lab, providing a structured format for collecting relevant information. Please review the following guide for more information about how to use this form.</thinking>
-
 # research_lab_incident_form - Help Guide
 ## Purpose
 This form is used to report and document research laboratory incidents, providing a structured format for collecting information about specific events that occurred in the research lab. The form's primary purpose is to assist investigators in gathering accurate and comprehensive data about the incident.

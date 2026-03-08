@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect basic information from applicants for an owner operator position.
-It's essential to ensure that the information provided is accurate and complete to assess the applicant's eligibility and suitability for the role.
-Please review the form carefully before filling it out to avoid any errors or omissions.
-The form is not intended to be a comprehensive or detailed application form, but rather a starting point for further evaluation.
-The purpose of this form is to gather necessary information from applicants for an owner operator position.
-</thinking>
-
 # Owner Operator Application Form - Help Guide
 ## Purpose
 The Owner Operator Application Form is designed to collect basic information from applicants for an owner operator position. The form aims to gather essential details about the applicant's personal and vehicle-related information to assess their eligibility and suitability for the role.

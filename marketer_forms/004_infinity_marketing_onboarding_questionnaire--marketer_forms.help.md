@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Infinity Marketing Onboarding Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your marketing needs and preferences for an online marketing campaign. The goal is to gather essential data to tailor our marketing services to your specific requirements.

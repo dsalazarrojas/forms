@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Product Tracking System Application Form" to ensure end users understand its purpose, how to complete it, and what each field means. This form is designed to track products in the manufacturing process, gathering crucial information about products such as their name, description, tracking setup, tracking method, date and time tracked, tracking status, and user ID. The form's fields should be self-explanatory, making it easy for users to fill out. We should also provide tips on how to use this form correctly and efficiently.
-</thinking>
-
 # Product Tracking System Application Form - Help Guide
 ## Purpose
 The Product Tracking System Application Form is designed to collect and track product information throughout the manufacturing process. This form helps to ensure accurate and efficient tracking of products, facilitating better management and decision-making within the organization.

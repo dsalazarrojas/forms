@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a hose specification survey. The purpose of this form is to collect data from customers about their hose specifications, which can be used for various purposes such as product development, quality control, or marketing research. This information will be used to improve the products or services provided by the company. It is recommended to fill this form only once for each hose specification to avoid duplication of effort. The form can be filled by a customer or a sales representative.
-</thinking>
-
 # Hose Specification Survey - Help Guide
 ## Purpose
 The Hose Specification Survey is a form designed to gather information about a hose specification. This form is used to collect data from customers about their hose specifications, which can be used to improve the company's products or services.

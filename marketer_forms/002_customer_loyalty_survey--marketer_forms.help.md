@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gauge customer satisfaction and loyalty towards a company or brand. The goal is to collect feedback on various aspects of the customer experience, including the level of satisfaction, frequency of purchases, communication channels, and quality of customer service. 
-This form will be completed by customers to express their opinions and concerns, providing valuable insights for businesses to improve their products and services. 
-It is expected that the form will be completed by individual customers, hence, the information and responses are specific to each customer's experience.
-This form may be used in conjunction with other data points to ensure that no customer data is duplicated or irrelevant. 
-Each field is designed to capture a distinct aspect of customer feedback, ensuring that the survey provides a comprehensive picture of customer loyalty and satisfaction.
-It is recommended that the form be filled out by a customer who has had a recent interaction with the company to ensure the feedback is up-to-date and relevant.
-The form should not be completed by customers with duplicate or incomplete information.
-</thinking>
-
 # customer_loyalty_survey - Help Guide
 ## Purpose
 This form is designed to measure customer satisfaction and loyalty towards a company or brand. It collects feedback on various aspects of the customer experience, including customer loyalty, satisfaction level, frequency of purchases, and more.

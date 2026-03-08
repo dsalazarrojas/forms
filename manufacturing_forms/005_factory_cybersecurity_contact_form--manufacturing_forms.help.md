@@ -1,13 +1,3 @@
-<thinking>
-The form "factory_cybersecurity_contact_form" is designed for users to report security issues within the factory's network or systems. This form will guide users through the process of providing detailed descriptions of the issues they are experiencing, along with any supporting files that can help with the investigation. The form will also allow the user to select the specific issues they are experiencing, including the category and priority of the incident. The purpose of this form is to collect accurate and clear information to aid in the swift and effective resolution of security concerns.
-
-To ensure accuracy and relevance, please note that the form is meant to collect detailed descriptions of security issues, rather than just brief summaries. Each field will guide you through the necessary information to provide a thorough report. This form will help the security team to identify and address the issues efficiently.
-
-Please ensure that you provide a detailed description for each issue, and attach any supporting files that are relevant to the problem. The information collected through this form will help the security team to prioritize and address the issue effectively.
-
-Please also note that some fields may be optional, but providing them will help the security team to have a better understanding of the issue and address it more efficiently.
-</thinking>
-
 # factory_cybersecurity_contact_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for residential grounds maintenance tasks, property manager details, and other related aspects of property management. It should be used to track and plan maintenance activities, ensure property owner follow-ups, and keep records of property inspections. Before filling out this form, make sure you haven't already completed it for this purpose in the past.
-</thinking>
-
 # Residential Grounds Maintenance Checklist - Help Guide
 ## Purpose
 This form is used to record and track the status of residential grounds maintenance tasks, property manager information, and other essential details for property management.

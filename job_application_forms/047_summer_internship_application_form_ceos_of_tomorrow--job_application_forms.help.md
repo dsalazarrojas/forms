@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in a summer internship position. The form is designed to be a simple and straightforward application process, allowing potential interns to share their relevant details and qualifications. This form is a basic template and does not have any affiliation with, endorsement by, or derivation from any proprietary form platforms. It was created using AI and released under CC BY 4.0, allowing for free use, modification, and even commercial distribution. If you'd like to use this form, please give credit to the original creators.
-</thinking>
-
 # summer_internship_application_form_ceos_of_tomorrow - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in a summer internship position. It is intended for individuals to provide their details and qualifications for review by the organization.

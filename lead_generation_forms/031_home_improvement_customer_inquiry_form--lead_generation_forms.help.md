@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to gather information from customers about their home improvement projects, allowing them to provide details about the scope of their project, including the type, budget, and other relevant details. This form will help the company's customer service team to better understand the customer's needs and preferences, enabling them to provide more efficient and personalized service.
-</thinking>
-
 # Home Improvement Customer Inquiry Form - Help Guide
 ## Purpose
 The Home Improvement Customer Inquiry Form is designed to gather information from customers about their home improvement projects, enabling the company's customer service team to better understand the customer's needs and preferences.

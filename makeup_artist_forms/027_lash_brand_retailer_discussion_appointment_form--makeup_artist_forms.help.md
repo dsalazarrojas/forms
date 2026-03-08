@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the purpose of the form is to gather information about an upcoming appointment between a sales representative and a retailer in the beauty industry, specifically for discussing lash brand business opportunities.
-</thinking>
-
 # Lash Brand Retailer Discussion Appointment Form - Help Guide
 ## Purpose
 This form is designed to help sales representatives efficiently schedule and prepare for appointments with retailers in the lash brand industry. It gathers essential information to facilitate productive discussions, track progress, and follow up on sales opportunities.

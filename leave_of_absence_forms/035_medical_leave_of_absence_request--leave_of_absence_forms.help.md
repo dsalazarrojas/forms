@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request a medical leave of absence from an organization, allowing employees to take time off for health-related reasons. This form is used to capture necessary information from the employee, including base information, employee details, medical information, and manager approval. The form is designed to be completed by employees who are seeking a medical leave of absence, and it ensures that all required information is collected and submitted to the relevant authorities for approval. Please ensure that you are filling out this form only once for each medical leave of absence request.
-</thinking>
-
 # Medical Leave Of Absence Request - Help Guide
 ## Purpose
 The Medical Leave Of Absence Request form is a formal request to take time off due to health reasons, and it is used to capture essential details for the approval process.

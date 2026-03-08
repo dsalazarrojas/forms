@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be related to employee leave of absence requests. The form is meant to gather information from the employee regarding their market analysis leave of absence request, which may be a type of leave that is not explicitly defined in the provided YAML. The purpose of the form is likely to collect necessary details from the employee to facilitate the review and approval process for the leave request. It's essential to ensure that the form is filled out correctly to avoid duplication of effort and to ensure that the necessary information is provided. A brief review of the form's fields and the employee's input will help determine whether the request is complete and valid.</thinking>
-
 # Market Analysis Leave Of Absence Request - Help Guide
 ## Purpose
 This form is designed to collect information for a market analysis leave of absence request. It requires the employee to provide their name, team members affected, start and end dates, reason for leave, and a manager review. Please fill out the form accurately and thoroughly.

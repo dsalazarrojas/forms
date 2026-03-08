@@ -1,12 +1,3 @@
-<thinking>
-  This help guide is intended to assist users in filling out the Departmental Budget Support Request Form. 
-  The form is used to request budget support for departmental projects. 
-  To determine if your request is relevant and to prevent duplication, please review the following criteria:
-  - Ensure that your project aligns with the departmental budget goals and policies.
-  - Check that your project has not already been approved or denied.
-  - Make sure that your request is complete and accurate to avoid unnecessary revisions.
-</thinking>
-
 # Departmental Budget Support Request Form - Help Guide
 ## Purpose
 This form is used to request budget support for departmental projects. It is designed to gather necessary information to assess and process your request in a timely and accurate manner.

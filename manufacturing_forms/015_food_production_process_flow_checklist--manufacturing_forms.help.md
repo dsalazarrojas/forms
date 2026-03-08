@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to document the food production process, collecting information on the production process, production date, production time, product details, and other relevant information. The purpose of this form is to standardize and track the production process, ensuring that all necessary steps are taken into account. It's likely used in a manufacturing or food processing industry context.
-
-</thinking>
-
 # Food Production Process Flow Checklist - Help Guide
 ## Purpose
 This form is designed to record the steps involved in the food production process, including production process, date, and other relevant details. It helps in standardizing the production process and ensuring that all necessary steps are taken into account.

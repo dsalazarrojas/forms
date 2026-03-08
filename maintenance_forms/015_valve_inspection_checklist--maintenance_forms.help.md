@@ -1,8 +1,3 @@
-<thinking> 
-This form is a crucial tool for maintaining and monitoring the condition and performance of valves within an asset or equipment. The goal of the form is to ensure that each valve is properly inspected and its status updated regularly. This process helps identify potential issues before they become critical, preventing costly repairs and downtime. The form is designed to be a quick and efficient way to capture essential information about each valve's condition, maintenance plan, and inspection results. To create a comprehensive help guide, we will break down the form into its individual sections, explaining each field's purpose and how to complete it correctly.
-
-</thinking>
-
 # Valve Inspection Checklist - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the inspection and maintenance of valves within an asset or equipment. It serves as a tool for capturing critical information about each valve's status, condition, and maintenance needs.

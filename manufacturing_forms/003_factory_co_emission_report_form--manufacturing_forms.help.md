@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect data on the CO2 emissions of a factory. The form is used to gather information on factory details, reporting periods, and other relevant data. This form should only be used for factories that have a clear and direct impact on the environment and have been identified as such in our internal records. It is essential to fill out this form accurately and thoroughly to ensure the correct data is collected.
 
 </thinking>

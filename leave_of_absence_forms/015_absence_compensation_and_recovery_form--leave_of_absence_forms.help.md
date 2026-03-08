@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Absence Compensation And Recovery Form - Help Guide
+> # Absence Compensation And Recovery Form - Help Guide
 
 ## Purpose
 This form is used to record and track information about employee absences, including compensation and recovery plans. It is essential to accurately complete this form to ensure accurate and timely processing of absence claims and compensation adjustments.

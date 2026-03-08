@@ -1,19 +1,3 @@
-<thinking>
-
-To determine the form purpose and relevance, let's analyze the form fields:
-- The form collects data on property occupancy, which suggests it's related to rental agreements.
-- Fields such as "tenant_name", "landlord_name", "move_in_date", "move_out_date", "lease_duration", and "rent_amount" imply that the form is for documenting or confirming rental terms.
-- Fields "landlord_signature", "tenant_signature", and "witness_signature" indicate that the form is a contract or agreement.
-- Fields such as "property_type" and "rent_start" and "rent_end" further solidify this notion, as they specify the type of property and payment terms.
-
-The form appears to be a template for a property occupancy agreement, which is a legal document used to establish the terms of a rental agreement between a landlord and a tenant. 
-
-The form purpose seems to be to create a legally binding document that can be used to outline the terms of a rental agreement, including the names of both parties, move-in and move-out dates, rental terms, and payment methods.
-
-The form does not duplicate any other known forms in the system, and the fields are well-structured and consistent with the form's purpose.
-
-</thinking>
-
 # Property Occupancy Agreement - Help Guide
 
 ## Purpose

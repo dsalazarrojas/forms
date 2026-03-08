@@ -1,7 +1,3 @@
-<thinking>
-The Seedling Growth Assessment Form is designed to collect data on seedling growth over time. It is likely used by nursery staff to track the progress of seedlings from planting to harvesting. The form is not intended for general public use, so only authorized personnel can access and fill it out. There should not be any duplicate or incomplete seedling assessments. Each assessment should be a new instance of seedling growth.
-</thinking>
-
 # Seedling Growth Assessment Form - Help Guide
 ## Purpose
 This form is used to track the growth of seedlings over time. It is designed to help nursery staff assess the progress of seedlings from planting to harvesting.

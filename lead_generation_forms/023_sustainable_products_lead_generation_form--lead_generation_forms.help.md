@@ -1,10 +1,6 @@
 # Sustainable Products Lead Generation Form - Help Guide
 
 ## Purpose
-<thinking>
-This form is used for lead generation purposes, allowing you to collect information about potential leads for sustainable products. The form is designed to help you identify potential leads and tailor your follow-up approach to their specific needs and preferences.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, please follow these steps:
 

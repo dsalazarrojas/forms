@@ -1,5 +1,3 @@
-<thinking>Before proceeding, please note that this form is designed to collect information related to employee accidents or injuries, which may be sensitive in nature. Ensure that the form is completed accurately and honestly to facilitate a smooth recovery process. Ensure you are authorized to access this form and understand your company's policies and procedures regarding employee leave. This form will be reviewed and evaluated internally for completeness and accuracy. The information collected will be kept confidential and in accordance with your company's data protection policies.</thinking>
-
 # Accident Recovery Time Off Form - Help Guide
 
 ## Purpose

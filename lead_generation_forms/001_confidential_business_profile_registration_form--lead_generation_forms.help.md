@@ -1,12 +1,4 @@
-> <thinking>
-
-The form purpose is to collect confidential business profile information from investors and business entities, ensuring that the collected data is not shared with third-party organizations. This form is designed to gather essential details about the business, including its name, address, industry sector, years in operation, primary investment strategy, target markets, investment capacity, preferred property types, contact person's name, email, and phone number, all while ensuring confidentiality through a signed agreement.
-
-The main goal of this form is to create a comprehensive understanding of the business profile, helping to establish trust and facilitate potential partnerships or collaborations in the real estate sector. To avoid duplication, it's essential that each business entity fills out this form only once.
-
-</thinking>
-
-# Confidential Business Profile Registration Form - Help Guide
+> # Confidential Business Profile Registration Form - Help Guide
 ## Purpose
 The Confidential Business Profile Registration Form is designed to collect information about your business to help us understand your investment strategies, interests, and preferences. This information will be used to provide you with relevant real estate leads and facilitate potential partnerships or collaborations.
 

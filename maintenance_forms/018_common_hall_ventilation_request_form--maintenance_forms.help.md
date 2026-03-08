@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Common Hall Ventilation Request Form - Help Guide
 
 ## Purpose

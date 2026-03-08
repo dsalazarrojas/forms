@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to request a leave of absence for a new-born care-related reason, allowing employees to provide details about their leave and potentially impact on their work. It is essential to fill out the form accurately to ensure that the leave request is processed correctly and promptly. Please ensure that you are not duplicating a previous request before submitting this form.
-
-This form is designed to collect specific details about the employee's leave of absence, including the employee's new-born care details, start and end dates, and other relevant information. Before completing the form, please review the following instructions and guidelines to ensure that you provide accurate and complete information.
-</thinking>
-
 # Newborn Care Leave Of Absence Request - Help Guide
 ## Purpose
 The Newborn Care Leave Of Absence Request form is used to request a leave of absence for a new-born care-related reason. This form is designed to collect specific details about the employee's leave of absence, such as new-born care details, start and end dates, and other relevant information.

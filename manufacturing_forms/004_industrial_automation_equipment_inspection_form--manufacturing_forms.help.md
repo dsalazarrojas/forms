@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the industrial automation equipment inspection form, let's first consider the form's purpose and the information it's intended to collect. The form is designed to gather general information, equipment details, maintenance history, condition assessment, inspection results, and other relevant data about industrial automation equipment. The form is likely used for inspection and maintenance purposes, ensuring that equipment is functioning correctly and identifying any potential issues that need to be addressed.
 
 This form is a comprehensive tool for inspectors and technicians to document and report on the condition of industrial automation equipment. It's essential to ensure that the form is filled out accurately and thoroughly to maintain the integrity of the equipment and prevent potential safety hazards.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for individuals to submit an application to the Invigilator team. The form will help us understand your personal details, qualifications, and experience as a candidate. We will use this information to evaluate your application and consider you for potential opportunities within our team. 
-
-Please ensure that you fill out this form accurately and completely, as any missing or incomplete information may affect our ability to process your application properly. 
-
-</thinking>
-
 # invigilator_application_form - Help Guide
 ## Purpose
 The invigilator_application_form is a comprehensive form designed to collect information from individuals applying to join the Invigilator team. The form covers various fields that help us assess your suitability for potential opportunities within our organization.

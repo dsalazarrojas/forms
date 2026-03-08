@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seasonal Portrait Special Lead Form - Help Guide
 ## Purpose
 The Seasonal Portrait Special Lead Form is designed to collect information from customers interested in special lead generation services. This form allows customers to provide their name, contact method, and lead details, which will help our team generate a special lead for them.

@@ -1,7 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "temporary_assignment_absence_form" form, we need to consider the form's purpose, which is to collect information for temporary assignments or absences. This form likely serves as a mechanism for employees to report their temporary leave or absence, providing essential details such as user ID, start and end dates, reason for absence, location, assigned tool or equipment, and any other tools assigned. Before proceeding, it is crucial to ensure that the form is filled out correctly and is not a duplicate submission.
-</thinking>
-
 # temporary_assignment_absence_form - Help Guide
 ## Purpose
 The temporary assignment absence form is used to report temporary leave or absence by an employee. This form is meant to be completed when you are temporarily away from work and need to inform your manager or HR department.

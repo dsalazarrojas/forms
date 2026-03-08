@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request a rebalance of an assembly line in a manufacturing context. This form is intended for use by production planners, engineers, and other personnel involved in the assembly line rebalance process. Before filling out this form, please ensure that you are not duplicating an existing request, and that a rebalance is truly necessary. To do so, check the current throughput and cycle times for each station and verify that the current cycle times are significantly higher than the target cycle times.
-</thinking>
-
 # Assembly Line Rebalance Request Form - Help Guide
 
 ## Purpose

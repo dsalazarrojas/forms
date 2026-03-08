@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect information about Facebook and Twitter page metrics. It appears to be used for social media monitoring or analytics purposes. Each field is related to a specific metric or attribute of a Facebook or Twitter page. The form includes fields for various page metrics such as likes, followers, likers, and pages, which suggests it's used to track engagement and audience growth on these platforms.
-
-The form structure seems to follow a standard format, with each field having a unique ID, name, label, and type. Most fields are of type "number" or "text", which implies they are used to capture numerical or string values. Some fields have names like "target_facebook_page_id" and "target_twitter_page_id", which suggests they are used to identify specific pages on these platforms.
-
-Upon reviewing the form structure, it seems there are fields for both Facebook and Twitter pages, but there is a slight duplication in the way they are labeled. For instance, fields like "get_facebook_likes" and "get_facebook_followers" could be labeled more consistently as "Facebook Likes" and "Facebook Followers" respectively. Similarly, for Twitter, fields like "get_twitter_followers_count" and "get_twitter_likers" could be labeled as "Twitter Followers" and "Twitter Likers". This might be a minor issue to be addressed for better clarity and consistency.
-
-The form also includes fields for dates and times, which suggests it's used to track historical or periodic data. There is a field for notes, which could be used to capture any additional comments or remarks.
-
-Overall, the form seems to be designed for tracking social media page metrics, and its structure appears to be straightforward. However, further clarity and standardization in labeling and field naming could improve its usability.
-
-</thinking>
-
 # Facebook Likes And Twitter Followers - Help Guide
 ## Purpose
 This form is designed to collect information about Facebook and Twitter page metrics for social media monitoring or analytics purposes.

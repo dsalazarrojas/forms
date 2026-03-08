@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide clarity on the proper use and completion of the CHSB Leave Request Form. Before proceeding, please note that this form should only be used by employees who wish to request a leave of absence, and should not be used for any other purpose. Also, ensure that you do not submit duplicate requests, as this can cause confusion and delays in processing your leave.
-</thinking>
-
 # CHSB Leave Request Form - Help Guide
 ## Purpose
 The CHSB Leave Request Form is designed to help employees request a leave of absence from work due to various reasons such as vacation, sickness, or personal matters. This form is used to provide the necessary information for your supervisor to approve or decline your request.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for requesting a review of a sustainability policy. A policy review is a process where a manager or department head reviews and assesses a policy to ensure it aligns with the company's goals and objectives. This form is used by employees or stakeholders to submit their policy requests for review.
-The form is intended to be used in a business setting, particularly in departments related to management.
-Before completing this form, please ensure that you are authorized to request a policy review and that the policy is not already under review. Duplicate requests may cause unnecessary delay and confusion.
-</thinking>
-
 # sustainability_policy_review_request_form - Help Guide
 ## Purpose
 This form is used to submit a request for a policy review. A policy review is a process where a manager or department head reviews and assesses a policy to ensure it aligns with the company's goals and objectives.

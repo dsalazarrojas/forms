@@ -1,7 +1,3 @@
-<thinking>... This form is designed to collect information from individuals interested in applying for a Data Scientist position within our organization. The form will be used to assess applicants' qualifications and experiences. Before proceeding, please make sure you are a genuine candidate for this role. This form is a one-time application and does not imply any obligation or commitment from our end. Please provide accurate and honest information about your qualifications and experiences.
-
-</thinking>
-
 # Data Scientist Job Application - Help Guide
 ## Purpose
 

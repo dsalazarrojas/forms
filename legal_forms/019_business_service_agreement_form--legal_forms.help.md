@@ -1,11 +1,3 @@
-<thinking>
-
-To provide a comprehensive and user-friendly help guide for the Business Service Agreement Form, let's first understand its purpose and requirements. This form is designed to capture essential information for a business service agreement between a service provider and a client. The form gathers details such as service provider information, client information, service description, project timeline, payment terms, and other relevant details to establish a clear understanding of the service agreement.
-
-Before creating the help guide, I'll review the provided YAML fields to ensure that I cover all necessary details and requirements. The form is divided into several fields, each addressing specific aspects of the business service agreement.
-
-</thinking>
-
 # Business Service Agreement Form - Help Guide
 ## Purpose
 The Business Service Agreement Form is a document that outlines the terms and conditions of a business service agreement between a service provider and a client. It ensures both parties have a clear understanding of the services to be provided, payment terms, and other essential details.

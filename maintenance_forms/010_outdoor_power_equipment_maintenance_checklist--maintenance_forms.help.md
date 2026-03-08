@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on the maintenance history and schedule of outdoor power equipment, such as lawn mowers, trimmers, and other outdoor machinery. This form is likely used in a maintenance or repair context, possibly in a landscaping, gardening, or groundskeeping setting. It is intended to be completed by someone responsible for maintaining or servicing this equipment. 
-</thinking>
-
 # Outdoor Power Equipment Maintenance Checklist - Help Guide
 ## Purpose
 This form is used to collect and organize information on the maintenance history and schedule of outdoor power equipment.

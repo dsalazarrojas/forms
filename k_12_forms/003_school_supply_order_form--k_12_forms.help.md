@@ -1,9 +1,3 @@
-<thinking>
-This form is for parents to order school supplies for their children. The school will use this form to collect information about the orders and fulfill them. The form has been created to be as simple and easy to use as possible. Please ensure that you have the necessary permissions and approvals before using this form.
-
-This form is not designed to be a replacement for any existing form, but rather a new and original adaptation. The form fields have been chosen to align with the school's requirements. If you have any doubts or questions, please do not hesitate to reach out to us at form@gic.mx.
-</thinking>
-
 # School Supply Order Form - Help Guide
 ## Purpose
 This form is designed to facilitate parents ordering school supplies for their children. By submitting this form, parents can provide the necessary information about their child's grade level, school, and preferred order date and time.

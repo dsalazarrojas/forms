@@ -1,7 +1,3 @@
-<thinking>
-This form was created for the purpose of gathering insights on user satisfaction and product perception for market research. The form asks users to provide their opinions on various aspects of a product, including satisfaction levels, factors influencing their opinion, likelihood of recommending the product, primary reasons for choosing the product, and areas for improvement. To ensure the form is completed accurately, please review the fields carefully and provide thoughtful responses. This form has not been affiliated or endorsed by any other form platform.
-</thinking>
-
 # product_research_survey_template - Help Guide
 ## Purpose
 This form is designed to gather user opinions and feedback on products, aiding in market research and product development.

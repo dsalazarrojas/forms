@@ -1,14 +1,3 @@
-<thinking>
-To check for relevance and non-duplication, I'll review the form fields and identify any potential issues. 
-
-Upon reviewing the form, I notice that there are a few fields with similar labels, such as "division" and "division_level", which might cause confusion. I'll make sure to clarify the differences between these fields in the help guide.
-
-Also, the form has a wide range of fields, including text, email, and select fields, which will require clear explanations for each type of input.
-
-The form seems to be for registering a team for a summer league. The purpose of the form is likely to gather information about the team, including their name, contact information, coaches, players, division, and practice schedule.
-
-</thinking>
-
 # Summer League Team Registration Form - Help Guide
 ## Purpose
 The Summer League Team Registration Form is designed to collect information about your team for the summer league. This form helps us understand your team's details, including their name, contact information, coaches, players, division, and practice schedule.

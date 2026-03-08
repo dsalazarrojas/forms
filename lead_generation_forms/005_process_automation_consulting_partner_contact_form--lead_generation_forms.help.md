@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by the internal team to gather information from potential consulting partners about their interests and requirements. The form is designed to be completed by the partner, and the information gathered will be used to guide the internal team in following up with the partner and providing relevant information about our services. This form should not be used for general feedback or support requests. Please use the "General Support" form for such purposes.
-
-</thinking>
-
 # process_automation_consulting_partner_contact_form - Help Guide
 ## Purpose
 This form is intended to be used by potential consulting partners to share their interests and requirements with our team. This information will be used to guide our team in following up with you and providing relevant information about our services.

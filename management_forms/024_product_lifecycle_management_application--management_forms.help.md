@@ -1,7 +1,3 @@
-<thinking>
-To confirm that the form purpose is a product lifecycle management application, and to ensure that the form is not being duplicated, we would need to review the input schema for any forms with similar names. Since there isn't any forms with similar names in our database, we can safely assume that this form is unique. This form appears to be a product request form, used to capture essential information about product developments, updates, or retirements. It is meant to be used by the product team to manage product lifecycle stages and track changes. The form fields are designed to gather relevant information such as product name, description, lifecycle stage, target date and time, approver, status, and comments. The form is likely to be used by the product team to track and manage product development, updates, and retirements efficiently.
-</thinking>
-
 # Product Lifecycle Management Application - Help Guide
 
 ## Purpose

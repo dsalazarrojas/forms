@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who wish to file a claim against Emergency Medical Services (EMS) for negligence or malpractice. The purpose of this form is to gather relevant details about the claimant, including their contact information and any witnesses involved. This will help EMS review and process the claim efficiently. 
-Note: This form is a standardized template and its fields may be modified or extended based on specific circumstances or legal requirements. 
-</thinking>
-
 # Emergency Medical Services Negligence Claim Intake Form - Help Guide
 ## Purpose
 The Emergency Medical Services Negligence Claim Intake Form is a standardized template used to collect information from individuals who wish to file a claim against Emergency Medical Services (EMS) for negligence or malpractice. This form aims to gather relevant details about the claimant, witnesses, and other key information to facilitate efficient review and processing of the claim.

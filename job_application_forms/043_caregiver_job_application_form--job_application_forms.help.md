@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form for caregivers to apply for a job position. This form is designed to collect relevant information about the applicant, including contact details, employment history, and qualifications. It is essential to ensure that the information provided is accurate and complete. Please review each field carefully to ensure that you provide the most up-to-date and relevant information. If you have any questions or concerns, feel free to reach out to our team for assistance.
-</thinking>
-
 # Caregiver Job Application Form - Help Guide
 ## Purpose
 This form is designed to help us get to know you better and understand your qualifications and experience as a caregiver. We use this information to review your application and assess your fit for our caregiving positions.

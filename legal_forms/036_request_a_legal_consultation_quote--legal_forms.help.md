@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients or visitors interested in requesting a legal consultation. It will guide them to fill out the necessary details to initiate the consultation process. Please ensure you are not duplicating efforts if you have already submitted a similar request before. The form is used to capture the required and optional information needed for a smooth consultation process. The purpose of the form is to provide a structured way of receiving requests and to ensure that all necessary details are gathered for the consultation. 
-</thinking>
-
 # Request A Legal Consultation Quote - Help Guide
 ## Purpose
 This form is used to request a legal consultation quote from our legal experts. To get a quote, please fill out the following information.

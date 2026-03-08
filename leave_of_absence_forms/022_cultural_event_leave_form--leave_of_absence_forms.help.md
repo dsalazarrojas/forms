@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to support employees who want to request a leave of absence for a cultural event, such as a festival, holiday, or celebration. Before filling out this form, please ensure that you have discussed and obtained approval from your manager or HR representative first. This form is meant to be a one-time submission, so please make sure to fill it out completely and accurately to ensure that your leave request is processed correctly. To avoid duplication of effort, please do not submit multiple forms for the same event or date.
-</thinking>
-
 # Cultural Event Leave Form - Help Guide
 
 ## Purpose

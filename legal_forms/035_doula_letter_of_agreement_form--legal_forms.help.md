@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended for use by doulas (birth support professionals) to document and manage their agreements with clients. It is possible that the form is used for internal purposes within an organization or company providing doula services, or maybe it's intended for external use by doulas to provide to their clients. I'll assume that the form is meant to be used by doulas to create agreements with their clients. The purpose of the form might be to establish clear expectations, terms, and conditions for the doula's services, including payment details and cancellation policies. I'm not aware of any specific business logic or proprietary content from other form platforms, so I'll provide a general explanation of the form based on the provided YAML fields.
-</thinking>
-
 # Doula Letter Of Agreement Form - Help Guide
 ## Purpose
 The Doula Letter Of Agreement Form is a document used to outline the terms and conditions of a doula's services, including payment details and cancellation policies. It helps establish clear expectations between the doula and the client.

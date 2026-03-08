@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, we will create a help guide that explains the "Responsive Product Order Form" in a clear and concise manner, focusing on its purpose and how to complete it without assuming prior knowledge or context.
-</thinking>
-
 # Responsive Product Order Form - Help Guide
 ## Purpose
 The Responsive Product Order Form is a form designed to collect information from customers to fulfill their product orders. It is used to gather order details, customer information, and payment details in a single, streamlined process.

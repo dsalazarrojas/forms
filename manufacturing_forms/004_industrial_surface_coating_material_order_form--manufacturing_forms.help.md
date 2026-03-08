@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to help industrial manufacturers collect and process orders for surface coating materials. It appears to be a multi-page form designed to gather information about the customer's needs and preferences for coating materials.
-
-Upon reviewing the YAML schema, I notice that it includes five pages with a 'text' type. This implies that the form is likely used for providing free-text responses or comments from the customer. Without further information about the specific industry or company using this form, it's difficult to determine the exact purpose of each field. However, I will create the help guide based on the available information.
-
-</thinking>
-
 # Industrial Surface Coating Material Order Form - Help Guide
 ## Purpose
 This form is designed to facilitate the process of ordering surface coating materials from an industrial manufacturer. It is intended to collect relevant information from customers to ensure accurate ordering and delivery of the desired coating materials.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cross Functional Collaboration Request Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-  This form is intended to capture information related to the corporate life and confidentiality agreement between a company and its lawyer or client. The form is likely used to establish a framework for handling sensitive business information and set clear expectations for both parties involved. This form will likely be used by legal or business professionals to ensure compliance with relevant laws and regulations. 
-
-  Before continuing, ensure that you are filling this form for its intended purpose and that you are authorized to do so. Please note that if you have already completed this form, ensure that there are no changes or updates required to your previous submissions.
-</thinking>
-
 # corporate_life_and_confidentiality_agreement_form - Help Guide
 ## Purpose
 This form is used to document the corporate life and confidentiality agreement between a company and its lawyer or client. It captures essential details such as the agreement's date, duration, and status, as well as confidential information and any notes related to the agreement.

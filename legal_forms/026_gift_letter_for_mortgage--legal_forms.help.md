@@ -1,7 +1,3 @@
-<thinking>
-A "Gift Letter For Mortgage" form is used for documenting and verifying the transfer of assets or funds between parties, typically between a homebuyer and a donor. This form is often required in real estate transactions to ensure transparency and accuracy in recording the gift. To avoid duplication, please ensure that this form is filled out and signed by both the homebuyer and the donor.
-</thinking>
-
 # Gift Letter For Mortgage - Help Guide
 ## Purpose
 This form is used to document the transfer of assets or funds between a homebuyer and a donor in a real estate transaction. It helps ensure transparency and accuracy in recording the gift.

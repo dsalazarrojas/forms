@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplicating the legal writing skills assessment form, I need to ensure it's not affiliated with, endorsed by, or derived from any form platform, and to clearly explain its purpose and usage. I will provide a comprehensive help guide that is concrete, concise, and practical, covering the form's purpose, completion instructions, and field-by-field explanations.
-</thinking>
-
 # Legal Writing Skills Assessment - Help Guide
 ## Purpose
 The Legal Writing Skills Assessment form is designed to evaluate an individual's legal writing skills, knowledge, and experience. This form is intended for those seeking to gauge their proficiency in writing legal documents, contracts, and other legal-related content. It's a self-assessment tool to help you evaluate your strengths and weaknesses in this area.

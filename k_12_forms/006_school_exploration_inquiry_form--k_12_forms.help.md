@@ -1,15 +1,3 @@
-<thinking>
-# This form is designed for prospective families to inquire about schools
-# in the K-12 education category. It is intended to gather
-# information for school exploration purposes. This form is not
-# affiliated with any specific school or platform. The form will
-# help families explore schools of interest and understand their
-# admissions processes, visit preferences, and contact information.
-# This form is not meant to be a replacement for official school
-# applications or enrollment processes. Please fill out the form
-# carefully and accurately to ensure that we can provide you
-# with relevant information about your desired schools.
-</thinking>
 # School Exploration Inquiry Form - Help Guide
 ## Purpose
 This form is designed for prospective families to inquire about schools in the K-12 education category. It is intended to gather information for school exploration purposes.

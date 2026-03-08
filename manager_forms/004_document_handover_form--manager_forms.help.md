@@ -1,5 +1,3 @@
-<thinking>...checking the form details...</thinking>
-
 # Document Handover Form - Help Guide
 
 ## Purpose

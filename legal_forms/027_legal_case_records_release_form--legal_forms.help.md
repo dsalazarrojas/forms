@@ -1,6 +1,3 @@
-<thinking>**Internal Reasoning and Non-Duplication Check**
-The purpose of this form is to collect and maintain accurate records of legal cases. This form is likely used by legal professionals to track case details, such as case number, status, type, and relevant dates. To avoid duplication, it is essential to ensure that each case is only entered once. If a case is already in the system, do not create a new entry. If you are unsure about the case status or type, please consult with your supervisor or relevant documentation before completing this form.</thinking>
-
 # legal_case_records_release_form - Help Guide
 ## Purpose
 The legal_case_records_release_form is used to collect and maintain accurate records of legal cases.

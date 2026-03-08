@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect application information from potential security guards. The primary purpose of this form is to gather personal details, work preferences, and relevant experience for applicants. This guide will walk you through each field and provide a better understanding of what to expect. Please note that some fields are optional. If you are unsure about any field, feel free to reach out to us.
-
-</thinking>
-
 # Security Guard Job Application Form - Help Guide
 ## Purpose
 This form is a job application form for potential security guards. It is used to collect personal details, work preferences, and relevant experience for evaluation.

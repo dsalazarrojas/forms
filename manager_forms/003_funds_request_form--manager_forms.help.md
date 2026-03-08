@@ -1,7 +1,3 @@
-<thinking>What is this form intended for? This is the Funds Request Form, used by institutions to provide basic information about the institution, contact person, and project they wish to request funds for. The form is likely used to collect preliminary information before evaluating a fund request, ensuring that all necessary details are in place before proceeding with further evaluation or approval processes.
-
-Before proceeding, please check if you have already completed this form for the same purpose and project. Duplicate submissions might lead to unnecessary overhead and delays in processing.</thinking>
-
 # Funds Request Form - Help Guide
 ## Purpose
 The Funds Request Form is a collection of fields that gather basic information about an institution's project to request funds. This guide will walk you through each field, making sure you fill it out correctly.

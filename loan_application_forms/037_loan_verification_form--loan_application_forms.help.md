@@ -1,13 +1,3 @@
-<thinking>
-
-This form is likely used by loan officers to verify loan application information from loan requesting parties. The form is intended to help loan officers gather necessary details to evaluate the loan application. 
-
-The form is composed of 25 fields, including date fields for loan request dates, text fields for customer and loan requesting party details, number field for loan amount, select fields for loan term, type, status, contact method, agreement signed, employment status, income source, income verification documents, notes fields for officer and customer notes, signature fields for customer and loan officer, and fields for requesting party contact details. 
-
-The form does not contain any fields that are explicitly marked as required. It seems to be designed for optional data collection. 
-
-</thinking>
-
 # loanVerificationForm - Help Guide
 ## Purpose
 The loanVerificationForm is a tool for loan officers to gather necessary information from loan requesting parties to evaluate loan applications.

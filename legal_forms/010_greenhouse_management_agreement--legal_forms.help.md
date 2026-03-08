@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for establishing a management agreement between the greenhouse owner and a manager/lessee. It's used to formalize the terms of the agreement, including payment information and the duration of the agreement. This form ensures that both parties are on the same page and have a clear understanding of their roles and responsibilities.
-
-The form has 18 fields, each asking for specific information. The form is divided into different sections to make it easier to understand and fill out.
-
-</thinking>
-
 # Greenhouse Management Agreement - Help Guide
 ## Purpose
 The Greenhouse Management Agreement form is used to establish a management agreement between the greenhouse owner and a manager/lessee. It ensures that both parties have a clear understanding of their roles and responsibilities.

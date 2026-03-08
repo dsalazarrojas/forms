@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Makeup Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information for a makeup consultation. Fill out this form to provide details about the customer's visit, including their name, phone number, email, and any additional information or description about the consultation.

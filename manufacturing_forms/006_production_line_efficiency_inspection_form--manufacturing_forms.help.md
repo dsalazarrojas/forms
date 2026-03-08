@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help production line managers and team leaders assess the efficiency and productivity of their production line. The purpose of this form is to collect data on various metrics related to production capacity, quality, safety, and other important factors that affect the overall performance of the production line. This form is intended to be completed by the shift leader or team member who is directly responsible for the production line during their shift. The information collected in this form will help management make informed decisions to improve the production line's efficiency and productivity.
 
 # Production Line Efficiency Inspection Form - Help Guide

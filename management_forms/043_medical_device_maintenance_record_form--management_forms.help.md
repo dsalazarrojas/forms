@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Device Maintenance Record Form - Help Guide
 
 ## Purpose

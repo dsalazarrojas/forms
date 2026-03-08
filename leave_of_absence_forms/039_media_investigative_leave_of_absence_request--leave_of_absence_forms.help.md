@@ -1,7 +1,3 @@
-<thinking>
-The Media Investigative Leave Of Absence Request form is used by employees to request a leave of absence from work due to investigative purposes. It is essential to ensure that the submitted request is genuine and does not duplicate a previously submitted request. Before completing this form, verify that there are no outstanding or pending requests for the same purpose and from the same employee. This form is designed to be submitted by employees to notify their manager of their intention to take a leave of absence for investigations, and it is a critical part of the absence request process.
-</thinking>
-
 # Media Investigative Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used by employees to request a leave of absence for investigative purposes, allowing them to take time off from work while being investigated.

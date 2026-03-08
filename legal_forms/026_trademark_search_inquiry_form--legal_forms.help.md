@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a trademark search inquiry form, which would typically be used to gather information from users about their trademark search requests. However, without knowing the specific business context, I'll assume that this form is part of a general trademark management system. The fields seem to cover various aspects of the search process, including business name, search type, description, search terms, contact information, search location, search date and time, and search status.
-To avoid duplication of effort and ensure consistency, I'll make sure to cover these fields in a way that is clear and concise for end-users.
-</thinking>
-
 # Trademark Search Inquiry Form - Help Guide
 ## Purpose
 The Trademark Search Inquiry Form is a tool used to gather information from users about their trademark search requests. This form helps the system understand the user's needs and provide relevant search results.

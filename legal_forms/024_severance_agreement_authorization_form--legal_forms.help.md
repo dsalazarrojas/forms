@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the severance agreement details for an employee leaving the company. It's an authorization form that ensures all necessary information is collected correctly and accurately. Please ensure the form purpose is clear and not a duplicate of an existing template, especially if you're already using a similar form for this purpose within your organization. The form should not be modified or altered in any way that might affect its functionality or clarity. Ensure all fields are filled out accurately and completely.
-</thinking>
-
 # severance_agreement_authorization_form - Help Guide
 ## Purpose
 The severance agreement authorization form is used to collect details about an employee's severance agreement. This form ensures that all necessary information is collected correctly and accurately.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for website maintenance cost estimation. It helps website administrators or owners to estimate the costs associated with maintaining a website, including bug fixes, content updates, and performance enhancements. The form asks for basic information such as the user's report, estimated budget for maintenance, maintenance needs, and contact information. This information can be used to create a report that can be used for internal purposes.
 
 The form is designed for website administrators or owners who need to provide information on the costs and plans for website maintenance. The information collected will be used to create a report that can be used to make informed decisions about website maintenance.

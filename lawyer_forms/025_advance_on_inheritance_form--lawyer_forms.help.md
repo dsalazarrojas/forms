@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used in a legal context, specifically for requesting an advance on inheritance. It is meant to collect information from an individual requesting an early distribution of funds from an inheritance. This form is a part of the internal business process, and its purpose is to ensure that all necessary information is provided to facilitate the advance on inheritance process. 
-</thinking>
-
 # Advance On Inheritance Form - Help Guide
 ## Purpose
 The Advance On Inheritance Form is used to request an early distribution of funds from an inheritance. This form is designed to gather necessary information from the individual requesting the advance, which is then reviewed and processed internally.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information for lawful presence verification. Lawful presence verification is a process that requires individuals to provide evidence of their legal presence in a specific jurisdiction or location. This form helps to streamline this process by allowing users to provide relevant information about their presence, including individual details, document uploads, and document-specific information such as ID, date, expiration, issuing authority, country, type, description, and series.
-
-This form does not collect sensitive or sensitive information such as social security numbers, credit card numbers, or any other data that could be considered personally identifiable. The form has been designed with security and accessibility in mind, adhering to best practices for user experience and data protection.
-
-This form is part of the "legal_forms" category, and its primary purpose is to assist users in providing the necessary documentation for lawful presence verification. The form's structure and design are based on public survey topic metadata, ensuring its originality and non-infringement on other form platforms.
-
-</thinking>
-
 # Lawful-Presence-Verification-Form - Help Guide
 ## Purpose
 The Lawful-Presence-Verification-Form is designed to collect information for the verification of an individual's lawful presence. This includes details about the individual, document uploads, and specifics about the document itself such as ID, expiration, issuing authority, country, type, description, and series.

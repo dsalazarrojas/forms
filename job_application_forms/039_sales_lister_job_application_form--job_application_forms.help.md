@@ -1,12 +1,3 @@
-<thinking>
-The Sales Lister Job Application Form is a crucial tool for applicants to submit their application for a sales position at our company. Before starting this form, please ensure that you are applying for a sales role and not another type of position. If you are unsure, please review our job postings or contact our HR department to confirm the correct application process.
-
-This form collects information necessary for our HR department to review and assess your eligibility for the sales role. Please complete the form accurately and thoroughly, and make sure to double-check your contact information to avoid any delays in the application process.
-
-The following form will guide you through the application process. Please note that some fields are required to be filled out, indicated by a red star (*), while others are optional but recommended for a complete application.
-
-</thinking>
-
 # Sales Lister Job Application Form - Help Guide
 
 ## Purpose

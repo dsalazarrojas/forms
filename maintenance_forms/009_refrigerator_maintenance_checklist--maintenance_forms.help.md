@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the maintenance status of a refrigerator, allowing users to track and report issues. This form should be used for internal maintenance purposes, and it's recommended that the data collected is reviewed and updated regularly to reflect changes in the refrigerator's condition. It's essential to ensure that the form is completed accurately and consistently to provide reliable data for maintenance planning and decision-making.
-</thinking>
-
 # refrigerator_maintenance_checklist - Help Guide
 ## Purpose
 This form is designed to collect information about the maintenance status of a refrigerator. It helps users track and report issues, providing valuable data for maintenance planning and decision-making.

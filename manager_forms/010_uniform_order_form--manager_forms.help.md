@@ -1,7 +1,3 @@
-<thinking>
-This form is for uniform orders, which are orders for identical or standardized products. The purpose of this form is to gather information from customers for uniform orders, ensuring that all required fields are completed accurately. This form should not be used for non-uniform orders or special orders. The form is divided into several sections: company information, order details, and customer and manager signatures. Please ensure that all required fields are completed before submitting the form.
-</thinking>
-
 # uniform_order_form - Help Guide
 ## Purpose
 The uniform_order_form is a standardized form used to gather information for uniform orders. It is designed to collect essential details from customers to facilitate the processing and delivery of their uniform orders.

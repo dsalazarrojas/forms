@@ -1,12 +1,3 @@
-<thinking>
-The Production Request Checklist form is designed to provide a structured approach to tracking and managing production requests within an organization. This form ensures that all necessary information is collected and recorded for each production request, helping to streamline communication and reduce errors. Before proceeding, please ensure that you are completing this form for a valid production request and that the information provided is accurate and up-to-date.
-
-This form is divided into several sections, each designed to capture specific details about the production request. The form includes fields for job request information, production details, and production status updates. By carefully filling out this form, you will be able to gather the necessary information to keep track of production requests efficiently.
-
-Please note that the form is divided into two main pages: the Main Page and additional pages with more detailed information.
-
-</thinking>
-
 # Production Request Checklist - Help Guide
 
 ## Purpose

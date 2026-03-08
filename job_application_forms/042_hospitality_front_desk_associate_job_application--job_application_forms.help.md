@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospitality Front Desk Associate Job Application - Help Guide
 ## Purpose
 This form is intended for individuals interested in applying for a Hospitality Front Desk Associate position. It collects necessary information to help us assess your qualifications and fit for the role. Please fill out this form to start your application process.

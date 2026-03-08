@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for individuals who are completing the Sports Industry Employment Application form. This form is used to collect information from applicants for employment opportunities in the sports industry. It is recommended that you review this guide carefully to ensure you are providing all required information and submitting a complete application. This guide will help you understand each field of the application and ensure you are completing it correctly.
-
-Before proceeding, please confirm that you are submitting a genuine application and have not duplicated an existing one. The information provided will be reviewed for completeness and accuracy.
-
-This guide is intended for applicants who are familiar with the sports industry and are interested in employment opportunities within it. If you are not familiar with the industry, please take a moment to review the provided information carefully to ensure you are providing accurate and relevant details.
-
-Please note that the form has multiple sections, each with its own set of fields. This guide will break down each section and field, providing a clear understanding of what is required and expected from you as an applicant.
-
-If you have any questions or concerns regarding the application, please reach out to the relevant authority for clarification.</thinking>
-
 # Sports Industry Employment Application - Help Guide
 ## Purpose
 

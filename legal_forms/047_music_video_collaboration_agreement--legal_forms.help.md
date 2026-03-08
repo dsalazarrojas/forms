@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a legal document intended to outline the terms and conditions of a music video collaboration. It is likely used by music producers, directors, and other industry professionals to formalize agreements with musicians. The form's structure and field options suggest it covers various aspects of the collaboration, including project details, compensation, timeline, roles, and musician involvement. The presence of fields like "musician_name", "musician_email", and "musician_compensation" indicates that the form is specifically designed to capture information about the musician's contribution. This form may be used in situations where multiple parties are collaborating on a music video project, such as in advertising, film, or live performance contexts.
-</thinking>
-
 # Music Video Collaboration Agreement - Help Guide
 ## Purpose
 This guide explains the Music Video Collaboration Agreement form, which is designed to formalize the terms and conditions of a music video collaboration between a producer/director and a musician. The form helps ensure a clear understanding of roles, responsibilities, and compensation for all parties involved.

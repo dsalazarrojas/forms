@@ -1,14 +1,3 @@
-<thinking>
-This form is used to capture information from customers who are interested in tax preparation services. The purpose of the form is to gather the customer's contact information and details about their tax preparation needs. The form is designed to be completed in a few minutes and will help our team follow up with the customer to discuss their specific needs and schedule a call to discuss further.
-
-To ensure that the form is used for its intended purpose, please note that the form should not be used for general inquiries or other purposes outside of tax preparation services.
-
-Please ensure that you only complete this form if you are a potential customer seeking tax preparation services. If you have questions or need general information, please contact us through other channels.
-
-Before proceeding, please review the fields and instructions below to ensure that you understand what is required and what is optional.
-
-</thinking>
-
 # Tax Preparation Promotion Form - Help Guide
 ## Purpose
 The Tax Preparation Promotion Form is designed to help our team follow up with you to discuss your specific tax preparation needs and schedule a call to discuss further.

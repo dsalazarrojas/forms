@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from companies about their supply chain green transition applications. The purpose of this form is to help companies demonstrate their commitment to sustainability and reduce their environmental impact. The form will help companies showcase their green initiatives, sustainability programs, and action plans to transition to a more eco-friendly and responsible supply chain management. 
-This guide is provided as a help tool to ensure that end-users fill out the form correctly and provide accurate information. It is recommended that users review and understand each field before proceeding. 
-Before filling out this form, please ensure that you are not submitting duplicate applications. To avoid duplication, please check with the relevant authorities to see if your company has already submitted a similar application. 
-</thinking>
-
 # Supply Chain Green Transition Application Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-**This form is designed to help factory employees contact HR for support with their wellbeing-related issues. It is meant to be filled out by employees to report their concerns or problems, and will be reviewed and addressed by HR staff. Please only fill out this form if you have not already reached out to HR or have a new issue that requires attention.**
-
-</thinking>
-
 # Factory Workforce Wellness Contact Form - Help Guide
 ## Purpose
 The Factory Workforce Wellness Contact Form is a tool for factory employees to report their wellbeing-related issues or concerns to HR staff. This form helps HR to understand the nature of the problems and provide support and assistance where possible.

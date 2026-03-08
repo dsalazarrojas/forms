@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from applicants interested in becoming Twitch mods. Mod applications should only be submitted by individuals who are not already employed as Twitch mods or employees. This form is not intended for existing mods or employees to reapply as mods, and duplicate applications will not be considered.</thinking>
 
 # Twitch Mod Application - Help Guide

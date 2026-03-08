@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a guide for divorce proceedings, which is a complex and sensitive topic. The form's purpose is to gather information from individuals going through the divorce process, helping them understand the various aspects involved. This form is likely designed to be used by legal professionals or individuals seeking guidance on divorce-related matters. 
-
-Considering the form's structure and fields, it seems to cover a range of topics, including custody, support, grounds for divorce, and financials. However, some of the field labels are quite vague, and it's unclear what information each field is intended to capture. For example, "Other Expenses" appears to be a catch-all category, and it's unclear how many fields are intended for this section. A more detailed understanding of the form's intent and structure would be necessary to provide accurate guidance. 
-
-Given the form's purpose and structure, it seems to be an educational tool, aiming to walk users through the divorce process. 
-
-</thinking>
-
 # Divorce Proceedings Guide Form - Help Guide
 ## Purpose
 The Divorce Proceedings Guide Form is a tool to gather information and guide users through the divorce process. It covers various topics related to divorce, including custody, support, financials, and property division.

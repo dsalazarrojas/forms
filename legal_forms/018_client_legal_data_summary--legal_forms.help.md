@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect basic information about a client's legal data, 
-specifically regarding a particular matter they are involved in. The purpose of 
-this form is to create a comprehensive and standardized summary of the 
-client's legal data, allowing for easier tracking and organization. To ensure 
-data consistency and reduce errors, each section is designed to be as 
-self-explanatory as possible. Please fill out each section carefully and 
-accurately to ensure the information is up-to-date and reliable.
-</thinking>
-
 # Client Legal Data Summary - Help Guide
 ## Purpose
 The Client Legal Data Summary form collects basic information about a client's 

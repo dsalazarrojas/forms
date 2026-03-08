@@ -1,16 +1,3 @@
-<thinking>
-To create the help guide for the "Maintenance Outsourcing Contact Form", first, we need to understand the purpose of this form and the context in which it will be used. The form is meant to capture information from users about their maintenance needs and preferences for a specific service. It's likely used by a business or organization to gather information about their customers' maintenance schedules and preferences, and then use this information to tailor their services accordingly.
-
-Before proceeding, let's consider the following:
-
-* Is this form meant for internal or external use?
-* What type of customers or end-users will be filling out this form?
-* Are there any specific requirements or constraints for filling out this form?
-
-Assuming this form will be used by external customers or end-users, let's create a guide that is clear, concise, and practical for them to understand the purpose and usage of the form.
-
-</thinking>
-
 # Maintenance Outsourcing Contact Form - Help Guide
 ## Purpose
 This form is designed to gather information about your maintenance needs and preferences so that we can tailor our services to better meet your requirements.

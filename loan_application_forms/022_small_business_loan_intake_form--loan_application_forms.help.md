@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for small business owners to provide information about their business and loan needs. The form aims to collect relevant data from business owners to process their loan applications. The form is divided into five sections: Business Owner Info, Business Details, Loan Details, Financials, and Contact Info. Each section is designed to gather specific data from the business owner, and the form is structured to be easy to complete and understand.
-</thinking>
-
 # Small Business Loan Intake Form - Help Guide
 ## Purpose
 The Small Business Loan Intake Form is designed to collect relevant information from small business owners to process their loan applications. This form is used to gather data about the business owner, business details, loan requirements, financial information, and contact details.

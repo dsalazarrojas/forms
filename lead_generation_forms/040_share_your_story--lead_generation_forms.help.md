@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a lead's story, including category, description, email, phone number, notes, status, created time, updated time, assigned user, category, source, and priority. The lead generation form is a crucial step in the lead conversion process, and this form provides a structured way to gather essential data about the lead.
-</thinking>
-
 # share_your_story - Help Guide
 ## Purpose
 This form is used to collect information about a lead's story, allowing us to better understand their needs and preferences.

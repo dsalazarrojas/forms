@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from potential technology deployment partners to determine their interest in partnering with our organization. The form will be used to identify partners that fit our business needs and will guide the partner through a series of questions to better understand their capabilities and interests. This form is not intended for sales purposes, but rather to build relationships and gather information for future collaborations.
-
-</thinking>
 # Technology Deployment Partner Contact Form - Help Guide
 
 ## Purpose

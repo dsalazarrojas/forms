@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from end-users on their process optimization road map requests. Before proceeding, please ensure that:
-* You have the necessary approval from your manager or supervisor to submit this form.
-* This request is not a duplicate of an existing request.
-* The requested process optimization is not already in progress or has a similar request.
-
-If unsure, please reach out to your manager or supervisor for clarification.
-</thinking>
-
 # Process Optimization Roadmap Request Form - Help Guide
 
 ## Purpose

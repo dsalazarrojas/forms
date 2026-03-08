@@ -1,12 +1,3 @@
-<thinking> 
-  This form is used to order laboratory supplies for schools, allowing users to select the type of equipment or supplies needed, specify the quantity, and choose the frequency of the order. 
-  - The form is designed to be used by school personnel to order laboratory supplies, but its use can be extended to other users as well.
-  - The form does not have any duplicate fields.
-  - The purpose of the form is to gather information about the laboratory supplies ordered, including equipment category, total quantity, ordered supplies list, order frequency, date, time, comments, contact email, and contact phone number.
-  - The form's output will be used to fulfill the order and communicate with the user.
-  - The form's structure ensures that all required and optional fields are properly validated, and the user has enough space to input any additional comments or information.
-</thinking>
-
 # School Laboratory Supply Order Form - Help Guide
 ## Purpose
 This form is designed to help school personnel or users order laboratory supplies. It provides a structured way to gather information about the required laboratory supplies, making it easier for the supplier to process the order and deliver the requested items.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the estate administration process, specifically for executors. It's used to track the progress of estate administration, confirm or deny certain aspects of the process, and collect details about the estate. This form should only be used in the context of estate administration, as it is specific to this process. Please ensure that you fill in the form accurately and completely, and do not duplicate efforts by using this form for other purposes.
-</thinking>
-
 # Executor Checklist Form - Help Guide
 ## Purpose
 The Executor Checklist Form is a tool used by executors to track the progress of estate administration, confirm or deny certain aspects of the process, and collect details about the estate. It helps ensure that all necessary steps are taken to manage the estate efficiently and effectively.

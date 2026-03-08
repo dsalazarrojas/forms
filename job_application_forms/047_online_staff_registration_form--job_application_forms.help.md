@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help new staff members register themselves for a position within a company. It is crucial to ensure that the correct information is provided to avoid duplicate submissions and streamline the hiring process. Please note that this form is meant for staff registration, not job applications. If a job application is what you're looking for, kindly refer to the "Job Application Form" in our system.
-</thinking>
-
 # Online Staff Registration Form - Help Guide
 ## Purpose
 The Online Staff Registration Form is designed to collect essential information about new staff members, including contact details, job title, years of experience, skills, and work history. This form helps our team quickly and efficiently onboard new staff members.

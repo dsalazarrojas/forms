@@ -1,18 +1,3 @@
-<thinking>
-To determine the form purpose and ensure it's not a duplicate, let's analyze the provided YAML fields. The form "Payroll Audit Scheduling Application Form" appears to be designed for scheduling and tracking payroll audits. It includes fields for requesting information, auditor details, audit status, and additional notes. This form likely aims to streamline the audit process by providing a centralized platform for managing audit requests and their corresponding details. 
-
-To avoid duplication, let's assume that this form is intended for use by multiple users within an organization, such as HR or audit teams, to manage and schedule audits efficiently.
-
-Given the form structure, let's infer that the form is meant for users to:
-
-- Submit or view audit requests and their corresponding details
-- Update or change the status of audit requests
-- Record additional notes or comments for each audit request
-
-This form seems to be part of a larger process for managing and tracking audit requests, and its purpose should be understood as part of that process.
-
-</thinking>
-
 # Payroll Audit Scheduling Application Form - Help Guide
 ## Purpose
 The Payroll Audit Scheduling Application Form is designed to help users schedule and track payroll audits efficiently. This form allows users to submit or view audit requests and their corresponding details, update or change the status of audit requests, and record additional notes or comments for each audit request.

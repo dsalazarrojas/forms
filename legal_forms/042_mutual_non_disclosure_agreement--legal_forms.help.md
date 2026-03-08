@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to create a Mutual Non-Disclosure Agreement between parties involved in a business or professional relationship. The purpose of this form is to outline the terms and conditions of confidential information exchange and to establish a clear understanding of the obligations and responsibilities of both parties. This form will help prevent unauthorized disclosure of sensitive information and protect the parties involved from potential legal issues.
-
-</thinking>
-
 # Mutual Non-Disclosure Agreement - Help Guide
 ## Purpose
 The Mutual Non-Disclosure Agreement is a legal document used to establish a confidential relationship between two or more parties. It ensures that sensitive information shared by one party will not be disclosed to third parties.

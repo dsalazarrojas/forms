@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about traffic violations, including the date and time of the incident, the location, and details about the vehicle involved. This form is likely used by law enforcement or traffic authorities to document and investigate traffic incidents. Each field in the form is designed to provide specific details about the incident, such as the date and time of the incident, the police station that responded, the type of vehicle involved, and the witness's information. This form may be used for internal reporting, investigation, or documentation purposes. It is essential to complete the form accurately and thoroughly to ensure that the incident is documented correctly. Please ensure that you are filling out the correct form and that the information provided is accurate and complete.</thinking>
-
 # Traffic Violation Incident Form - Help Guide
 ## Purpose
 The Traffic Violation Incident Form is a document used to report and document traffic incidents. It collects information about the date and time of the incident, the location, vehicle details, and witness information.

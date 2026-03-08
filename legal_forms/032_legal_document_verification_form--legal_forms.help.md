@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for the Legal Document Verification Form to ensure that end-users understand its purpose and how to complete it efficiently. The form is designed to collect verification information related to legal documents. It's crucial that we clarify the form's purpose and the intended use of each field to prevent errors and confusion.
-</thinking>
-
 # Legal Document Verification Form - Help Guide
 ## Purpose
 The Legal Document Verification Form is designed to collect verification information related to legal documents. This form is used to verify the authenticity and validity of legal documents, ensuring that they are accurate and up-to-date.

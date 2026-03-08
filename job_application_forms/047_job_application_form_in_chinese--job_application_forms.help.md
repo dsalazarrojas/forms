@@ -1,15 +1,3 @@
-<thinking>
-This guide is intended to provide a help document for end users to understand the purpose and process of completing the "Job Application Form In Chinese" in a clear and concise manner. Before proceeding, let's ensure this guide is relevant and not a duplication of existing materials.
-
-This guide is designed to cover the following topics:
-
-* Purpose: Explain the purpose of the "Job Application Form In Chinese"
-* How To Complete This Form: Provide step-by-step instructions on how to complete the form
-* Field-by-Field Explanation: Explain each field in the form, including label, type, and required status
-
-The guide will follow the provided YAML structure, which includes fields for "First Name", "Last Name", "Email", "Job Title", "Company", "Resume", "Date of Birth", "Address", "Contact Number", "Language", "Note", "Email 2", and "Contact Number 2".
-</thinking>
-
 # Job Application Form In Chinese - Help Guide
 ## Purpose
 The "Job Application Form In Chinese" is designed to collect information from individuals applying for a job in a Chinese-speaking market. The form is intended to be completed by job applicants to provide essential details about themselves, including contact information, employment history, and language proficiency.

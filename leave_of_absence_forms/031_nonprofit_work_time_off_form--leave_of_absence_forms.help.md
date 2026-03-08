@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a new time off request for a nonprofit employee. Nonprofit employees can use this form to request time off for various reasons, such as vacation, sick leave, or personal time off. The form is used to gather information about the employee's time off request, including the start and end dates of the request, the duration of the request, and the type of time off being requested. Before filling out this form, make sure you are eligible for time off and that your request does not overlap with any existing time off periods. If you have already submitted a time off request, do not fill out this form again.
-</thinking>
-
 # Nonprofit Work Time Off Form - Help Guide
 ## Purpose
 This form is designed to help nonprofit employees request time off for various reasons, such as vacation, sick leave, or personal time off.

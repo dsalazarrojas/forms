@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I will review the provided YAML fields to understand the form's purpose and functionality. The form appears to be a content request form for social media content creation, with various fields for user information, content details, tags, and more. I will create a guide that explains each field's purpose and how to fill it out correctly.</thinking>
-
 # Sosyal Medya İçerik Talep Formu - Help Guide
 ## Purpose
 This form is used to create a content request for social media content creation. It collects information about the user, content details, tags, and other relevant data to help the content creators understand what type of content is needed.

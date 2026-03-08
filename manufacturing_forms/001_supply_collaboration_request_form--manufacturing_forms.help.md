@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate collaboration between suppliers and requesters in the manufacturing industry. It captures essential information for supply chain management and coordination. To ensure accuracy, please fill out this form carefully. If you are unsure about any field, refer to this help guide for clarification. This form is not affiliated with or endorsed by any form platform and is an original adaptation created using AI.
-</thinking>
-
 # Supply Collaboration Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for supply chain management and coordination between suppliers and requesters in the manufacturing industry.

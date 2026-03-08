@@ -1,9 +1,3 @@
-<thinking>
-This form will serve as a tool for technicians to document the process and outcome after a repair. The form will be used to verify that the necessary repairs were performed to the customer's satisfaction. The purpose of this form is to standardize and ensure consistency in the documentation process.
-
-This form will not be used for any other purpose. The following guide will walk you through the completion of this form, including an explanation of each field.
-</thinking>
-
 # Post Repair Appliance Checkoff Form - Help Guide
 ## Purpose
 ## How To Complete This Form

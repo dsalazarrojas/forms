@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who request verification of safety-related amenities within a facility. This form is intended to ensure that amenity safety concerns are reported and addressed in a systematic and organized manner. The form's fields are organized into two main sections: "Safety Verification Request" and "Internal Use Only". The "Safety Verification Request" section is where users can report safety concerns and request verification for amenities such as swimming pools, gym equipment, playgrounds, elevators, and fire safety systems. The "Internal Use Only" section is reserved for internal use by facility management and maintenance staff, providing details on assigned technicians, maintenance ticket numbers, and any special access instructions.
-</thinking>
-
 # Amenity Safety Verification Request Form - Help Guide
 ## Purpose
 The Amenity Safety Verification Request Form is designed to collect information about safety concerns and requests for verification of amenities within a facility. This form is used to report and address potential safety issues in a systematic and organized manner.

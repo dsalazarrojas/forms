@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users about their flame photometry equipment, including equipment name, user name, rating, comments, date, time, email, phone number, issues with the equipment, issue description, priority of improvement, suggestion, and submit the form. The form has 13 fields in total, and all fields are optional. This form is likely used for maintenance or troubleshooting purposes to gather user feedback on the flame photometry equipment.
-</thinking>
-
 # Flame Photometry Equipment Survey - Help Guide
 ## Purpose
 This form is used to collect information from users about their flame photometry equipment for maintenance or troubleshooting purposes.

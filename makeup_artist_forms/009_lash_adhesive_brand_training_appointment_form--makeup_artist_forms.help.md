@@ -1,12 +1,3 @@
-<thinking> 
-The form purpose is to schedule a training session for a Lash Adhesive Brand, which is a type of product used in the beauty industry. This form is designed to collect information about the training session, including details about the appointment, the brand being trained, the start and end dates of the session, the type of training, the location, the attendees, the duration of the training, the language of the training, the appointment status, and any additional notes. The form submission date, time, IP address, user agent, and user platform are also collected for tracking and analytics purposes. The form is designed to be completed by users who are interested in scheduling a training session for a Lash Adhesive Brand. 
-
-To avoid duplication, users should not submit this form if they have already scheduled a training session or if the session is already confirmed. 
-
-This form is part of a larger system for managing training sessions and appointments for a specific product line. 
-
-</thinking>
-
 # Lash Adhesive Brand Training Appointment Form - Help Guide
 ## Purpose
 This form is designed to schedule a training session for a Lash Adhesive Brand product line. It collects information about the appointment details, brand, start and end dates, training type, location, attendees, training duration, language, appointment status, and any additional notes.

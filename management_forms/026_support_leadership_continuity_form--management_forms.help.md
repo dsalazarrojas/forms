@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help support leadership continuity by identifying potential successors for key roles within the organization. It's crucial to maintain an up-to-date record of potential successors to ensure a smooth transition of responsibilities in case of vacancies.
-This form should be completed for roles where there is a risk of succession or transition. Please note that this form should not be used for roles where the succession status is already clearly defined or where there are no potential successors.
-</thinking>
-
 # support_leadership_continuity_form - Help Guide
 ## Purpose
 The support leadership continuity form is a tool used to identify and document potential successors for key roles within the organization. This form helps ensure that the organization is prepared for a smooth transition of responsibilities in case of vacancies.

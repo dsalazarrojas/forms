@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals to apply for a Front End Engineer position in the company. The purpose of this form is to collect information about the candidate's experience, skills, and qualifications in order to assess their eligibility for the role. To ensure accurate and efficient completion of this form, please review each field carefully and provide accurate answers. Please note that some fields are optional, and you should only fill them out if relevant to your experience and qualifications.
-</thinking>
-
 # Front End Engineer Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from candidates who are applying for a Front End Engineer position in our company. Completing this form will help us understand your experience, skills, and qualifications, and will aid in the assessment of your eligibility for the position.

@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure that you are completing the Employment Application form accurately, let's first understand its purpose. This form is designed to collect information from applicants about their employment details, including personal and professional contact information, work history, and job preferences. Please note that this form is for general guidance only and may require adaptation based on specific company policies or procedures.
-
-The form is used to assess an individual's qualifications for a position within the organization. It helps us get a better understanding of the applicant's background, skills, and expectations. The information collected will be reviewed internally to determine the best fit for the position applied for.
-
-Before proceeding, please ensure that you are applying for a job that matches your qualifications and interests. If you have previously submitted an application for the same or similar job, please do not resubmit. Duplicate applications will not be considered.
-
-</thinking>
-
 # Employment Application - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your employment status, qualifications, and preferences. Please answer accurately and thoroughly to ensure that your application is processed efficiently.

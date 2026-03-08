@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "Divorce Vocational Evaluation Request Form" to assist end users in understanding its purpose and completion process. This form is used to gather information from individuals going through a divorce, and its primary purpose is to assess the vocational status of each spouse, which can be a crucial factor in determining alimony or other post-divorce arrangements. To ensure accuracy and relevance, we should verify that the form fields are correctly populated based on the specific circumstances of the divorce case. Additionally, we'll aim to provide a clear and concise guide for end users to complete the form without duplication of effort or confusion.
-</thinking>
-
 # Divorce Vocational Evaluation Request Form - Help Guide
 ## Purpose
 The Divorce Vocational Evaluation Request Form is designed to collect information about the vocational status of each spouse in a divorce case. This form will help in determining the alimony or other post-divorce arrangements based on the spouses' employment status, occupation, education, income, and other relevant details.

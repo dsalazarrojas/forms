@@ -1,16 +1,3 @@
-<thinking>
-As a technical writer, the form's purpose is to gather user contact information, primarily for marketing purposes. The goal is to create an efficient and user-friendly experience that encourages users to get in touch with you. The form should be accessible, easy to complete, and free of any errors. Before proceeding with this help guide, let's review the form's content to ensure it accurately communicates the intended purpose and functionality. 
-
-The form, "social_media_contact_form," has 8 fields. The first page, labeled "Contact Form," is the main entry point, and the other page, "Add Picture," seems to be an optional section where users can upload an image. However, upon further review, it appears that this page is actually a placeholder for a feature that is not being utilized. Therefore, we will focus on the "Contact Form" page for our guide.
-
-The main fields are: name, email, phone, message, and options. The name and email fields are both required, indicating that these are critical pieces of information for contact purposes. The message field is also required, suggesting that users can expect a response or follow-up from you after filling out the form.
-
-The options field is optional and has a multiple select type, which implies it might be used for further qualification or categorization purposes. However, its purpose is unclear without more context. 
-
-The submit button is required, and its label is straightforward. However, it would be nice if it were labeled more descriptively, like "Get in touch with us" or "Send Message".
-
-</thinking>
-
 # social_media_contact_form - Help Guide
 ## Purpose
 This help guide explains how to complete the "social_media_contact_form", a contact form designed to gather user contact information.

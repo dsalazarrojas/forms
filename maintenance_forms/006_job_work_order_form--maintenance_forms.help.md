@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Job Work Order Form - Help Guide
 ## Purpose
 This form is used for creating new job work orders. It allows users to provide basic information about the job, including a title, file uploads, payments, and a work order date.

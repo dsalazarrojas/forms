@@ -1,11 +1,3 @@
-<thinking>As a Practice Roster Attestation Form, this form is designed to gather information from players, coaches, and teams to validate the details of a practice session. This form ensures that all parties involved in the practice have attested to the accuracy of the information provided, including the practice date, time, location, and other relevant details. This form helps to prevent miscommunication and errors that can lead to disputes or issues during or after the practice session. By completing this form, players, coaches, and teams can ensure that they are on the same page and that all parties are aware of the practice details.
-
-This form is intended for internal use within a particular organization, such as a sports league or club. If you are not a player, coach, or team member, you should not complete this form.
-
-The form is designed to be completed by players, coaches, and teams, with different sections for each type of user. The form is divided into multiple pages, each with a specific set of questions or fields that need to be completed.
-
-To complete this form, follow the instructions below:</thinking>
-
 # Practice Roster Attestation Form - Help Guide
 ## Purpose
 This form is designed to gather information to validate the details of a practice session, ensuring all parties involved are on the same page.

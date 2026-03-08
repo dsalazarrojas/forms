@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI and is not affiliated with any form platform. It is a public adaptation of a form created using only public survey topic metadata. The form is a tool for collecting information about agency relationships, which is a crucial aspect of legal practices. The purpose of this form is to gather data about the parties involved in a transaction, their relationships, and the details of their interactions. The form is designed for lawyers and other professionals to document their agency relationships with clients and ensure transparency and compliance with relevant laws and regulations.
-</thinking>
-
 # Agency Disclosure Form - Help Guide
 ## Purpose
 The Agency Disclosure Form is a tool for collecting information about agency relationships between lawyers, clients, and other parties involved in a transaction. This form helps ensure transparency and compliance with relevant laws and regulations.

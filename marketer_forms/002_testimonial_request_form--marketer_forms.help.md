@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for customers who are willing to provide a testimonial about our service. The testimonial request form is a part of our customer feedback process, aimed at understanding customer experiences, gathering valuable insights, and improving our service quality. Please fill out this form only if you are a customer who has had a recent interaction with our service, and you are willing to share your experience. We do not allow duplicate submissions. If you are not a customer or do not want to provide a testimonial, please do not submit this form.</thinking>
-
 # Testimonial Request Form - Help Guide
 ## Purpose
 

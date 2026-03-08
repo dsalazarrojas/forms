@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure that this form is only used to request a trial and not for any other purpose, such as submitting a proposal or expressing interest in our services. To prevent duplication, we should check if the same lead has already been generated for the submitted trial request. This form should only be used by authorized personnel, and the submitted data should be reviewed and validated before proceeding with the trial.
-
-</thinking>
-
 # Trial Request Form - Help Guide
 ## Purpose
 

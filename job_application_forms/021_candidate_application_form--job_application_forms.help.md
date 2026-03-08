@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from candidates for job openings, allowing them to provide personal details, professional experience, and qualifications. It serves as a central hub for candidates to showcase their skills, interests, and availability. This form ensures that candidates can easily provide necessary information, reducing the likelihood of missing or duplicate applications. It's recommended to fill out this form carefully and accurately to ensure a smooth and efficient application process.
-</thinking>
-
 # Candidate Application Form - Help Guide
 ## Purpose
 The Candidate Application Form is a standardized document used to collect information from candidates for job openings. This form helps to streamline the application process and ensures that all necessary information is gathered accurately and efficiently.

@@ -1,11 +1,3 @@
-<thinking>
-Paternity leave forms are used by expectant parents to request time off from work to care for their new-born child. The form is meant to gather necessary information about the parent's leave details and provide a formal submission of their leave request.
-
-The purpose of this form is to ensure that all necessary information is collected and to create a record of the leave request. This form should only be completed by the expectant parent or their authorized representative. 
-
-Please note that this form should not be used for other purposes, such as reporting an emergency or requesting other types of leave. 
-</thinking>
-
 # paternity leave form - Help Guide
 ## Purpose
 This form is a formal request for paternity leave, and it's meant for expectant parents to provide necessary information about their leave details.

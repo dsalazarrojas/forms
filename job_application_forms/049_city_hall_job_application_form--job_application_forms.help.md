@@ -1,13 +1,3 @@
-<thinking>
-This form is a job application form used by City Hall to collect information from applicants who are interested in working with the city. The form is divided into several sections, each with specific questions that help the applicant provide detailed information about their qualifications and background. The form is designed to be completed by the applicant, and it is intended to be used as a guide for the applicant to provide accurate and truthful information about their experience, skills, and qualifications.
-
-Before starting to complete this form, please review the following:
-
-* Please ensure that you have a clear understanding of the job position you are applying for and the city's requirements.
-* Please provide accurate and truthful information in all sections, as this information will be used in the evaluation process.
-* Please make sure to ask for help if you need clarification on any questions or sections.
-</thinking>
-
 # City Hall Job Application Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants interested in working with City Hall. The form is designed to help the applicant provide detailed information about their qualifications and background.

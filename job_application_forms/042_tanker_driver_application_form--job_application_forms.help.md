@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tanker Driver Application Form - Help Guide
 ## Purpose
 This form is designed for job applicants to submit their application for a tanker driver position. It collects required and optional information to assess their qualifications and fit for the role.

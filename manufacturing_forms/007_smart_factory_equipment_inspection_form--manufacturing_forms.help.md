@@ -1,14 +1,3 @@
-<thinking>
-This form is likely used in an industrial setting, possibly in a manufacturing plant or facility, to inspect and evaluate equipment regularly. The form's purpose is to assess the condition of various types of equipment, such as Air Compressors, Belts, Gears, Motors, Pumps, and Valves. The form will help inspectors determine if any of these pieces of equipment require maintenance, replacement, or repair, and record their findings and comments. This form may be used by maintenance personnel, supervisors, or quality control inspectors to track and analyze the condition of equipment over time.
-
-This form is an original adaptation, created based on publicly available information, and is not affiliated with any specific form platform or proprietary system. It can be used and modified as needed for internal purposes.
-
-Before starting this form, ensure that you are familiar with the equipment being inspected and the inspection process. This form is not a substitute for proper training and guidance from a qualified inspector or equipment expert.
-
-The following guide will walk you through the form and its fields, providing explanations and examples where necessary.
-
-</thinking>
-
 # Smart Factory Equipment Inspection Form - Help Guide
 ## Purpose
 The Smart Factory Equipment Inspection Form is designed to evaluate and document the condition of various equipment in a manufacturing facility, including air compressors, belts, gears, motors, pumps, and valves. This form helps inspectors assess the equipment's condition, identify any maintenance needs, and record their findings and comments.

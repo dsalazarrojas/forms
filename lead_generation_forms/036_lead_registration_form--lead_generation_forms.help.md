@@ -1,11 +1,3 @@
-<thinking>
-
-The lead registration form is used to collect information about partners and their contacts. It is an essential tool for our sales team to gather contact details and lead types to categorize and follow up on potential leads. This form is used to register new partners, update their existing information, and track their leads.
-
-To ensure accuracy, please make sure you are not registering a partner or lead that already exists in our system. Before proceeding, please verify that you have the necessary permissions and access to submit this form.
-
-</thinking>
-
 # Lead Registration Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide information about a robotic application for their warehouse. The purpose of this form is to gather details about the robotic application, including the type of robot, its model, capacity, price, and other relevant specifications. To ensure that this form is relevant to your needs, please consider the following questions: What kind of robotic application are you interested in? Do you need a specific type of robot or a general one? Are you looking for a robot with certain features or specifications? If you have answered no to all of the above, it might be helpful to start by reviewing the form and its fields to determine if this is the right tool for your needs. If you are unsure or need further clarification, please contact our support team for assistance.
-</thinking>
-
 # Smart Warehouse Robotics Application Form - Help Guide
 
 ## Purpose

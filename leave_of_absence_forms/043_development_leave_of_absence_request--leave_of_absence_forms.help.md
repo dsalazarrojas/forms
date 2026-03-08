@@ -1,15 +1,3 @@
-<thinking>This form is designed to facilitate the process of requesting a development leave of absence for an employee. It is intended for employees who need to take time off for development purposes, such as attending training sessions, conferences, or personal projects. To ensure accurate and consistent data collection, please ensure that you only submit this form once for each request and that it is completed by the employee who is requesting the leave.
-
-Before submitting this form, please ensure that:
-
-* You have discussed and have approval from your supervisor or team leader.
-* You have a clear and valid reason for your request.
-* You are not requesting leave during critical business periods or events.
-
-This form will guide you through the necessary information to ensure a smooth approval process.
-
-If you are unsure or have questions, please contact your HR or management team for clarification.</thinking>
-
 # Development Leave Of Absence Request - Help Guide
 ## Purpose
 The Development Leave Of Absence Request form is designed to help employees request time off for development purposes. It will guide you through the necessary information to facilitate a smooth and efficient approval process.

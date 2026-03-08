@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in working in the mining industry. This form is designed to gather relevant details from candidates, including their contact information, work experience, education, skills, employment status, work location, work schedule, and emergency contact details. Before proceeding, please ensure that you are applying for a role in the mining industry and not for any other industry. If you are unsure or have already applied for a role in the mining industry, this form is a duplicate for you, and you should not fill it out again.
-</thinking>
-
 # Mining Industry Job Application Form - Help Guide
 ## Purpose
 This form is designed for candidates interested in working in the mining industry. It collects relevant information about the candidate to facilitate the hiring process.

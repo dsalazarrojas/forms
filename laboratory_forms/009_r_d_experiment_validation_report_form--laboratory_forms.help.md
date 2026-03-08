@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the validation of R&D (Research and Development) experiments. It is meant to be filled out by researchers or scientists who have conducted experiments and need to report on their progress and outcomes.
-</thinking>
-
 # R&D Experiment Validation Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the validation of R&D experiments. It is used to report on the progress and outcomes of experiments and to record the validation status and decisions made on them.

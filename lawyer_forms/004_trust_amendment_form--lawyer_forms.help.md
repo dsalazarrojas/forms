@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trust Amendment Form - Help Guide
 ## Purpose
 The Trust Amendment Form is used to record changes made to a trust. It requires information from both the grantor and co-trustee (if applicable). This form is used to update the original trust agreement.

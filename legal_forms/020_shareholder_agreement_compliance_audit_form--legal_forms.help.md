@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shareholder Agreement Compliance Audit Form - Help Guide
 
 ## Purpose

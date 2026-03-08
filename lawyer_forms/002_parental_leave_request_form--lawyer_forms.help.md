@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the request of parental leave by an employee. It will collect relevant information from the employee and provide a standardized process for the leave request. This form will help the employee's supervisor and management review and manage the leave request. It's crucial to fill in all the required fields accurately and correctly to ensure smooth processing of the leave request.
-</thinking>
-
 # Parental Leave Request Form - Help Guide
 ## Purpose
 The Parental Leave Request Form is designed for employees to submit their parental leave requests. This form is a crucial part of the process for requesting parental leave, ensuring that all necessary information is collected and reviewed by the relevant parties.

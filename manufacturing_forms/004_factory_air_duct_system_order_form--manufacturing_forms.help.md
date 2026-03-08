@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's break down the form's purpose and ensure it serves the intended function.</thinking>
-
 # Factory Air Duct System Order Form - Help Guide
 ## Purpose
 The Factory Air Duct System Order Form is designed to collect essential information for the production and installation of air duct systems in a factory setting. This form helps suppliers and manufacturers confirm the type of system needed, material used, expected delivery date, and other vital details for the successful completion of the project.

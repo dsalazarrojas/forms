@@ -1,7 +1,3 @@
-<thinking>
-This form's primary function is to collect information and declarations from both the tenant and landlord in a rental property agreement. Its purpose is to provide a clear record of the terms and conditions of the rental, which can be beneficial for both parties involved. The form's layout and field requirements are designed to ensure that all necessary information is gathered, making it easier to manage the relationship between the landlord and tenant. This form does not contain any sensitive or confidential fields and can be used in various rental settings, including private residences and commercial properties. It's essential to understand the significance of every field to fill out this form accurately. This information will help you determine whether this form is suitable for your specific use case.
-</thinking>
-
 # landlord_tenant_agreement_declaration_form - Help Guide
 ## Purpose
 The Landlord-Tenant Agreement Declaration Form is a document that collects information and declarations from both the tenant and landlord in a rental property agreement. It helps establish a clear record of the terms and conditions of the rental, benefiting both parties involved.

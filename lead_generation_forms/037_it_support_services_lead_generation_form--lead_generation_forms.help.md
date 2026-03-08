@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to generate leads for IT support services by collecting contact information and service details from users. It's an AI-generated form, meaning it's not affiliated with, endorsed by, or derived from any form platform. The form is meant to be an original adaptation of public survey topic metadata, and users are free to use, modify, and even sell forms derived from it while giving credit. This form is for internal use only and is not intended to collect sensitive or personal data.
-</thinking>
-
 # IT Support Services Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and service details from users, helping to generate leads for IT support services.

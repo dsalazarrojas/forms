@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from applicants for a loan application.
-To confirm, this is not a duplicate or alternative form. The goal of this form is to obtain necessary information from the applicant to process and evaluate their loan application.
-The form includes various fields to capture the applicant's information, loan details, and payment terms.
-</thinking>
-
 # loan_application_permission_form - Help Guide
 ## Purpose
 The loan application permission form is designed to collect necessary information from loan applicants to process and evaluate their loan application. This form will guide you through the required fields to provide accurate and complete information.

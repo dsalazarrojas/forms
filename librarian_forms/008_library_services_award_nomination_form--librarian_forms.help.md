@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll briefly explain the purpose and internal logic behind this form. This form is used to collect information for a library services award nomination. It's intended to gather details about the nominator and nominee, including their name, contact information, and a description of the award-worthy library service. The form is likely used internally within the library community to recognize and reward outstanding library services. The form's fields cover various aspects of the nomination, such as the award category, date and time of nomination, and comments. By understanding the form's purpose and logic, users can ensure accurate and relevant information is provided for the nomination process.</thinking>
-
 # library_services_award_nomination_form - Help Guide
 ## Purpose
 This form is used to collect information for a library services award nomination, intended to recognize and reward outstanding library services.

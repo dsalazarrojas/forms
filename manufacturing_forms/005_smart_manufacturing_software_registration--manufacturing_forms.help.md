@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that our Smart Manufacturing Software Registration form is completed accurately and consistently by end users. This form is intended for companies seeking to register their manufacturing presence in our platform. To avoid duplication of registrations and ensure consistency in data collection, we will check for existing records before processing new submissions. The form is designed to collect essential details about the company, its users, and the software or services it provides. This guide will walk you through each section of the form to help you fill it out correctly.
-
-</thinking>
-
 # Smart Manufacturing Software Registration - Help Guide
 ## Purpose
 The Smart Manufacturing Software Registration form is designed to collect essential information about companies and their manufacturing presence on our platform. By providing accurate and complete data, you'll help us better serve you and other users.

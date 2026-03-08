@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to evaluate the current state of manufacturing safety protocols in place. It appears to be designed to gather information on whether a manufacturing process has the necessary safety protocols, whether they are being followed, and possibly additional details about the process and its associated tools or resources. The form should only be used for evaluating manufacturing safety protocols and not for other types of evaluations or forms that might be relevant to this context, as indicated by the "Manufacturing Safety Protocol" labels and "Jotform" hint on field 8. This guide will cover the form's purpose, how to complete it, and an explanation of each field.
-</thinking>
-
 # Manufacturing Safety Protocol Evaluation - Help Guide
 
 ## Purpose

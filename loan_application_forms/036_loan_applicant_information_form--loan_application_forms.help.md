@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect loan applicant information for lending purposes. This form is a part of the loan application process, where applicants provide their personal and financial details to facilitate a smooth loan processing experience. It is a required form and should not be filled out if there is no intention of applying for a loan.
-</thinking>
-
 # Loan Applicant Information Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from loan applicants to assess their eligibility for a loan. Please fill out this form accurately and thoroughly to ensure a successful loan application process.

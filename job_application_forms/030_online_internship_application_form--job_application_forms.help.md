@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from applicants for the online internship program. The form is divided into different sections, each asking for specific details about the applicant. This guide will walk you through each section and explain what information is required and what to expect when filling out the form.</thinking>
-
 # Online Internship Application Form - Help Guide
 ## Purpose
 This form is for applicants to provide their personal details, educational background, contact information, and other relevant details to be considered for the internship program.

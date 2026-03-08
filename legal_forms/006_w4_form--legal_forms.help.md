@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather employee information for a specific purpose. It appears to be a W-4 Form, which is a type of tax-related form used for various purposes such as withholding allowances, employee's choice to have tax withholdings, and other employment tax-related matters. This form should only be filled out by employees and employers who need to report or declare certain employment tax-related information. Please ensure you have the necessary permissions and approvals before filling out this form. If you are unsure, please reach out to your HR department or relevant administrative staff for guidance.
-</thinking>
-
 # W4 Form - Help Guide
 ## Purpose
 The W4 Form is a type of tax-related form used for various purposes such as withholding allowances, employee's choice to have tax withholdings, and other employment tax-related matters.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for library patrons to check in for various library services, such as dropping off items, reserving a meeting room, or participating in library programs. The form aims to gather necessary information for efficient check-in processes and staff support. To ensure accurate and effective use, review the form carefully before proceeding.
-</thinking>
-
 # Library Patron Check In Form - Help Guide
 ## Purpose
 The Library Patron Check In Form is designed to help library patrons check in for various library services, including item dropoffs, meeting room reservations, and program participation. This guide will walk you through each field and provide explanations on how to complete it.

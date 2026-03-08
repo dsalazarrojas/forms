@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for an advance loan. It is intended for individuals who want to register their interest in a loan and provide necessary details for processing. Please ensure that the information provided is accurate and true to the best of your knowledge. This form will be reviewed and processed by a representative of the loan company.
-</thinking>
-
 # Advance Loan VIP Registration - Help Guide
 ## Purpose
 This form is meant for applicants to provide details about themselves and their loan application. It is required for the loan company to verify the applicant's identity, assess their loan worthiness, and ensure a smooth loan process.

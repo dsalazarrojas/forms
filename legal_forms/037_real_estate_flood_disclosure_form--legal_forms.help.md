@@ -1,13 +1,3 @@
-<thinking>
-The Real Estate Flood Disclosure Form is a document used to collect information about a property and its flood risk. This form is designed to help users gather accurate and relevant data about a property's flood zones, risk level, and contact information. 
-The form is typically used in real estate transactions, such as when a property is being sold or rented. It's essential to complete this form accurately and thoroughly to ensure that the buyer or renter is aware of the flood risks associated with the property and to provide the necessary contact information for further communication.
-
-Before filling out the form, make sure you have all the necessary information and documents, such as the property's flood zone and elevation data. If you're unsure about any of the fields, refer to the instructions below.
-
-Please note that this form is not intended to be a substitute for professional advice or a detailed assessment of the property's flood risk. For expert advice, consult a professional or refer to local resources such as the Federal Emergency Management Agency (FEMA) or your local government's floodplain management resources.
-
-</thinking>
-
 # Real Estate Flood Disclosure Form - Help Guide
 ## Purpose
 

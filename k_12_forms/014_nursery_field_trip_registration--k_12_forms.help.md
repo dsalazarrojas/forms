@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nursery Field Trip Registration - Help Guide
 ## Purpose
 The Nursery Field Trip Registration form is designed to collect information from students and their guardians to facilitate a smooth and enjoyable field trip experience. The form aims to gather essential details about the trip, student, and guardian, ensuring that all necessary information is captured to make the trip a success.

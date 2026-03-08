@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # daily_sales_report - Help Guide
 ## Purpose
 The daily sales report form is used to track sales information on a daily basis, including sales date, customer, product, sales amount, and other relevant details. This form is meant to be completed by sales representatives to provide accurate and timely data for sales management.

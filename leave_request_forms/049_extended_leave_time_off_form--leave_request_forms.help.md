@@ -1,5 +1,3 @@
-<thinking>... This form is used to request extended leave time off for a period, allowing employees to submit their requests in a structured manner. This form is not meant to be filled out multiple times, as each instance of submission is meant to be unique. The fields are designed to capture relevant information for the leave request, including the type of leave, dates, and reason, to help management review and approve the request accordingly...</thinking>
-
 # Extended Leave Time-Off Form - Help Guide
 ## Purpose
 The Extended Leave Time-Off Form is used to request leave for a period, allowing employees to submit their requests in a structured manner.

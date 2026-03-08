@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback and performance metrics on the board meeting from a reviewer, typically an executive director or another board member. The review period, reviewer's name and role, and specific aspects of board performance such as attendance, preparedness, strategic discussions, financial oversight, risk management, and executive director support are evaluated. The reviewer is also asked to provide feedback on key strengths, areas for improvement, priorities for the next period, and any additional recommendations. This form helps ensure that the board has a thorough understanding of its performance and areas for development.</thinking>
-
 # Board Meeting Performance Review - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive and user-friendly help guide for the "Lease Termination Release Form," we need to understand the form's purpose and ensure that it accurately reflects the provided YAML fields. 
-
-The form, as per the YAML configuration, appears to be a lease termination document that captures essential details about the lease agreement termination. It includes fields for the termination date, signatures from the tenant and landlord, reason for termination, notice period, outstanding balance, return property status, rent paid through, lease end date, outstanding amounts, interest, and fees. 
-
-Before proceeding, it's essential to verify that the form's purpose aligns with the business requirements and that there's no duplication of similar forms. 
-
-This guide is designed to help users understand the form's purpose, completion process, and each field's significance.
-
-</thinking>
-
 # Lease Termination Release Form - Help Guide
 ## Purpose
 The "Lease Termination Release Form" is a document used to formalize the termination of a lease agreement between a tenant and a landlord. This form captures essential details regarding the termination date, termination reasons, and financial obligations between the parties involved.

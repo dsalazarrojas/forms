@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Legal Benefits Order Form - Help Guide
 ## Purpose
 This form is used to place an order for legal benefits. It requires information such as business details, request details, and contact information.

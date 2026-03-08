@@ -1,10 +1,3 @@
-<thinking>Here's a brief internal reasoning block that explains the purpose and checks for relevance and non-duplication:
-The "Court Declaration Form" is a document used to make formal declarations under the guidance of a lawyer or legal professional. It is designed to provide a structured format for individuals to declare their understanding and affirmation of specific events or facts. This form is likely used in legal settings to ensure that all parties involved have a clear understanding and agreement on the declaration.
-
-The form's layout suggests it is meant to be completed by a single individual, with fields for their declaration, declaration date, declaration time, and location. The form does not appear to be designed for multiple declarants, and the fields are focused on individual declarations. There is also a field for the declarant's signature name.
-
-Given this understanding, I'll proceed to create the user-facing help guide. Please note that the guide is based on the provided YAML fields and my best-effort interpretation.</thinking>
-
 # Court Declaration Form - Help Guide
 ## Purpose
 The "Court Declaration Form" is a structured document used to make formal declarations under the guidance of a lawyer or legal professional. It helps individuals provide a clear understanding and affirmation of specific events or facts.

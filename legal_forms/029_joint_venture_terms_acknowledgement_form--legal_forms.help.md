@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form accurately reflects the partnership terms of our joint ventures, ensuring that all parties involved are aware of and agree to the terms of the agreement. The form should be completed by the company representative of the joint venture, and the acknowledgement date, acknowledgement time, and signed by fields should be filled by the partner representative. The form should also include details such as the partner name and partner representative.
-</thinking>
-
 # Joint Venture Terms Acknowledgement Form - Help Guide
 ## Purpose
 The Joint Venture Terms Acknowledgement Form is used to document the partnership terms of a joint venture. The form ensures that all parties involved are aware of and agree to the terms of the agreement.

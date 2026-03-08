@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to be used for manufacturing task management, where users can create, edit, and view tasks related to production processes. It's likely used by production team members to track the status and progress of tasks, assign responsibilities, and communicate with team members. This form might be part of a larger system used for production planning and tracking.
-
-This form is not intended to be used for other purposes, such as customer support or sales management. If you are not a member of the production team, you might not need to use this form. However, if you're part of the team, this form will help you create and manage tasks related to manufacturing processes efficiently.
-
-The form is designed to be user-friendly, with clear and concise labels and instructions. Each field is intended to provide specific information about a task, making it easier to track and manage tasks.
-
-Below is the help guide for the Manufacturing Task Management Board form.
-</thinking>
-
 # Manufacturing Task Management Board - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is for tracking participant involvement in promotions and discounts. It is crucial to ensure accurate and efficient participation tracking. To prevent duplication, please use a new instance of the form for each new participant.
-</thinking>
-
 # Discount Wheel Participation Form - Help Guide
 ## Purpose
 The Discount Wheel Participation Form is used to track participant involvement in promotions and discounts. It helps ensure accurate and efficient participation tracking.

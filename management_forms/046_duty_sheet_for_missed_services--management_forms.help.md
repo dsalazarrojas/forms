@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Duty Sheet For Missed Services - Help Guide
 ## Purpose
 This form is used to record and track services that have not been completed as scheduled. It helps management to keep track of missed services and ensures that follow-up actions are taken to resolve the issue. This form is meant to be filled out by staff members when a service is missed and is used to document the reason for the missed service and the follow-up actions taken.

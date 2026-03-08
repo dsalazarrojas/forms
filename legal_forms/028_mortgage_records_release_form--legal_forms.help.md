@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive and user-friendly help guide for the "Mortgage Records Release Form," I'll need to understand the form's purpose, which is to facilitate the release of mortgage records. A brief internal reasoning block can help clarify the form's purpose and ensure that we're not duplicating any existing resources or forms.
-
-Upon reviewing the provided YAML fields, I see that this form is designed to collect information about mortgage records, including the mortgage holder's name, address, contact details, and the type of document being released. The form also requires the document number, date, and reason for release, as well as the authorized person's name. The form's purpose is likely to ensure that mortgage records are accurately and properly released, and this guide will help users understand how to complete the form correctly.
-
-</thinking>
-
 # Mortgage Records Release Form - Help Guide
 
 ## Purpose

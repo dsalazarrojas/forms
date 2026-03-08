@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect key information about a legal case, allowing users to summarize the essential details in a concise and efficient manner. The form's purpose is to provide an overview of the case, including the parties involved, courts where the case is being heard, the judgment status, and other relevant details. This form is intended for internal use within the organization, and the data collected will be used to update case records and inform decision-making processes. It is recommended that users complete this form with care and attention to detail to ensure accurate and up-to-date information. Please ensure that the form is not used to report duplicate or outdated cases.
-</thinking>
-
 # Legal Case Summary Report Form - Help Guide
 ## Purpose
 The Legal Case Summary Report Form is used to collect key information about a legal case, allowing users to summarize the essential details in a concise and efficient manner.

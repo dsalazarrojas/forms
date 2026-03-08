@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to assist end-users in completing the "Software QA Tester Employment Form" efficiently. The form is designed to collect information from individuals interested in exploring opportunities for employment as Software QA Testers. Before starting to fill out the form, please review each field carefully to ensure that you provide accurate and relevant information. If you have already completed a similar form, you may find that some fields are similar. In that case, please feel free to skip the section if you have already provided the information.
-
-This form is not a comprehensive application process, but rather a starting point for further evaluation. The information gathered from this form will be used to initiate a discussion with our team about potential opportunities.
-</thinking>
-
 # Software QA Tester Employment Form - Help Guide
 ## Purpose
 This form is designed to collect basic information from individuals interested in exploring opportunities for employment as Software QA Testers. By filling out this form, you will be providing us with a starting point for further evaluation and discussion about potential job opportunities.

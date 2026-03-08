@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a book review form, designed to gather feedback and ratings from readers about a book they've read. The form asks for demographic information, book details, and ratings, as well as a brief summary and strengths/weaknesses of the book. It also asks for permission to share the review publicly.
-The form's purpose is likely to help librarians and readers track and analyze book reviews, helping to inform collection development and reader preferences.
-There's no duplication with other forms I could find in the given metadata.
-</thinking>
-
 # Book Review Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and ratings from readers about a book they've read. It helps librarians and readers track and analyze book reviews, informing collection development and reader preferences.

@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose, and that the user understands how to use it correctly. This form is for intellectual property dispute claims, and it's essential to verify that the user has filled it out accurately and completely. Before proceeding, check if you've filled it out previously, and please review each field carefully. This form will be used to gather information for a potential dispute resolution process.</thinking>
-
 # Intellectual Property Dispute Claim Form - Help Guide
 ## Purpose
 This form is for reporting intellectual property disputes. It requires providing details about the dispute, the type of intellectual property involved, and your contact information. This form will help us understand the nature of your claim and facilitate the resolution process.

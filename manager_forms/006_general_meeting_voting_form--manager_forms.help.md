@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to allow users to vote on the general meeting agenda items. The purpose of this form is to provide a structured and organized way for users to express their opinions on the agenda items. This form is intended to be used during the general meeting, where users can cast their votes on each agenda item. The form is not meant to be used for any other purpose, and it is not affiliated with any specific platform or organization.
-
-It is recommended to review the form carefully before starting the voting process to ensure that all the necessary information is provided.
-
-</thinking>
-
 # General Meeting Voting Form - Help Guide
 ## Purpose
 This form is designed to allow users to vote on the general meeting agenda items.

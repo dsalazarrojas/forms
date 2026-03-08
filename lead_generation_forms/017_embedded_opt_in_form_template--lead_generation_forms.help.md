@@ -1,16 +1,3 @@
-<thinking>
-This form template is used to generate a lead's information for embedded opt-in purposes. It's designed to collect data from visitors who are interested in being contacted by our company or organization. Please make sure to review the form fields carefully to avoid duplication and ensure accurate information collection.
-
-This form template is typically used for:
-
-* Lead generation and nurturing
-* Data collection for marketing and sales purposes
-* Embedded opt-in for special promotions or services
-
-Please note that this form should not be used for other purposes, such as creating general contact forms or support requests.
-
-</thinking>
-
 # embedded_opt_in_form_template - Help Guide
 ## Purpose
 This form is designed to collect contact information from visitors for embedded opt-in purposes. It will help you capture relevant data for lead generation and nurturing.

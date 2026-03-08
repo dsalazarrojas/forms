@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting leave for community integration activities. It is intended to be used by employees to submit their leave requests for participating in various community integration activities such as volunteering, community board/committee service, and professional skills pro-bono work. The form is designed to provide all the necessary information for HR to review and process the request. It is recommended that employees review this document to understand their responsibilities and the required fields to complete the form accurately.
-</thinking>
-
 # Community Integration Leave Form - Help Guide
 ## Purpose
 The purpose of this form is to request leave for community integration activities such as volunteering, community board/committee service, and professional skills pro-bono work. This form is used to submit a request for leave for a specific period of time and to provide details about the activity, department, and employee information.

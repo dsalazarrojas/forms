@@ -1,17 +1,3 @@
-<thinking> 
-
-This guide is intended to help users understand the Pet Groomer Leave Of Absence Request form, which is used to request a leave of absence for a staff member. The form is used by staff members to provide information about their leave, such as the start and end dates, reason for leave, and manager approval. 
-
-The form is designed to ensure that staff members provide all necessary information to facilitate a smooth leave process. It is essential to complete this form accurately and thoroughly to avoid any delays or misunderstandings.
-
-Before filling out this form, please ensure that you are the authorized staff member requesting the leave and that you are requesting a leave for the correct staff member. 
-
-Please note that some fields are required and must be filled out, while others are optional but recommended for a complete understanding of your leave request. 
-
-Please review the form carefully and ask for help if you are unsure about any of the fields or questions. 
-
-</thinking>
-
 # Pet Groomer Leave Of Absence Request - Help Guide
 ## Purpose
 The Pet Groomer Leave Of Absence Request form is used by staff members to request a leave of absence from work. This form is essential for informing management of your leave and ensuring a smooth transition of tasks and responsibilities during your absence.

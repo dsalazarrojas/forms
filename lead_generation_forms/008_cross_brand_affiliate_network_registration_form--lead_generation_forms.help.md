@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from affiliates who wish to join the Cross Brand Affiliate Network. The form is designed to be completed by affiliates who have not already been registered in the system. The purpose of this form is to gather necessary contact and social media information from the affiliate. The form should only be completed once per affiliate. 
-
-</thinking>
-
 # Cross Brand Affiliate Network Registration Form - Help Guide
 ## Purpose
 This form is for new affiliates to sign up with the Cross Brand Affiliate Network. It requires some basic information to get started.

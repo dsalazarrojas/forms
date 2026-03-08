@@ -1,21 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly by applicants. Before we fill out this form, let's make sure we have a clear understanding of the form's purpose and how to complete it correctly.
-
-The purpose of this form is to collect relevant information from individuals who are applying for a summer apprenticeship position. The information collected will be used to determine eligibility and suitability for the program.
-
-To complete this form, follow these steps:
-
-1. Determine which options are available to you (page 1).
-2. Enter your first name (field 1).
-3. Enter your last name (field 2).
-4. Enter your date of birth (field 3).
-5. Enter your phone number (field 4).
-6. Enter your email address (field 5).
-7. Enter your job title (field 6).
-8. Enter a brief description of your work experience (field 7).
-
-</thinking>
-
 # Summer Apprenticeship Application Form - Help Guide
 
 ## Purpose

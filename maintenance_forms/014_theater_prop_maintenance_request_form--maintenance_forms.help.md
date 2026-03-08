@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Theater Prop Maintenance Request Form - Help Guide
 ## Purpose
 This form is used to submit a maintenance request for a theater prop to be repaired or maintained. A maintenance request will be assigned to a specific staff member based on their availability and expertise. The requester will receive notifications regarding the progress and completion of the request.

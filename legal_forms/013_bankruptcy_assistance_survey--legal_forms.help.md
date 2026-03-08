@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information about an individual's bankruptcy situation, including their current financial status, debt levels, and any previous bankruptcy history. The data collected will be used to provide assistance and guidance on navigating the bankruptcy process. Please review the form carefully to ensure you understand the questions and provide accurate information. Note that some fields are marked as required or optional, indicating their importance in the assessment process.</thinking>
-
 # Bankruptcy Assistance Survey - Help Guide
 ## Purpose
 The Bankruptcy Assistance Survey is designed to gather information about your current financial situation to provide guidance on navigating the bankruptcy process. Please complete this form to ensure you receive accurate and relevant assistance.

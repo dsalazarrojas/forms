@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to log the hours a truck has been driven, including the driver's name, the engine hours, routes taken, vehicle ID, start and end dates and times, and total driving hours. This information is crucial for tracking and analyzing the truck's usage and performance.
-
-Before filling out this form, please ensure that you are using it for its intended purpose and not duplicating efforts. This form is designed to be completed for each truck separately, so please make sure you are not filling it out for multiple trucks at once. If you have already completed a similar form for the same truck, you may not need to complete this form.
-
-</thinking>
-
 # Truck Hour Meter Log - Help Guide
 ## Purpose
 This form is used to log the hours a truck has been driven, including various details about the driver and the vehicle.

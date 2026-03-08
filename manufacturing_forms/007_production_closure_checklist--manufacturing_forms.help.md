@@ -1,7 +1,3 @@
-<thinking> 
-  This form is intended to be used by production management staff to document the closure of a production line, capturing key information such as the production line, production date and time, shift length, and details about production resources. This form should be used to ensure a smooth transition and accurate record-keeping for future reference.
-  </thinking>
-
 # Production Closure Checklist - Help Guide
 
 ## Purpose

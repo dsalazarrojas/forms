@@ -1,4 +1,3 @@
-<thinking>As a marketer, you're likely familiar with the importance of creating high-quality content that resonates with your audience. However, crafting content that meets your goals and requirements can be a daunting task, especially when you're short on time and resources. That's where this Content Request Form comes in – a helpful tool to ensure you capture all the necessary information for a project and get it just right.</thinking>
 # Content Request Form - Help Guide
 
 ## Purpose

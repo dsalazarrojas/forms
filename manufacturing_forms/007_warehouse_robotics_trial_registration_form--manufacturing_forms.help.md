@@ -1,11 +1,3 @@
-<thinking>
-This help guide will be useful for end-users to understand the purpose and usage of the "Warehouse Robotics Trial Registration Form". 
-The form's primary intention is to register and track warehouse robotics trials, providing information about the trial's details, status, and follow-up status. 
-It's essential to ensure the form is filled out correctly to ensure accurate record-keeping and reporting. 
-To avoid duplication of trials, it's crucial to ensure the form is not submitted multiple times for the same trial. 
-The form will be reviewed internally to verify the correctness of the submitted data.
-</thinking>
-
 # Warehouse Robotics Trial Registration Form - Help Guide
 ## Purpose
 The Warehouse Robotics Trial Registration Form is a tool for warehouse staff to register and track warehouse robotics trials. 

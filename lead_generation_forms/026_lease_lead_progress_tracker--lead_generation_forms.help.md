@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to track the progress of leads throughout the customer journey. It is likely intended for businesses in the real estate or sales industries, although its purpose is not explicitly stated. It appears to be a simple form to gather information on leads, follow-ups, data collection, and lead conversion. The fields are not highly customized, suggesting a general-purpose form. There is no indication of any specific integration or validation requirements.
-
-This form does not contain any sensitive or complex data types, such as file uploads or password fields. The form's structure is straightforward, with a single page containing four fields. This simplicity may indicate that the form is intended for basic data collection and analysis.
-</thinking>
-
 # lease_lead_progress_tracker - Help Guide
 ## Purpose
 The lease_lead_progress_tracker form is designed to monitor the progress of customer leads from initial contact to conversion. This form captures information on various aspects of the lead's journey and provides a way to collect and analyze data.

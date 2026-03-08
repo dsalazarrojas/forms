@@ -1,7 +1,3 @@
-<thinking>
-The form "university_lab_safety_gear_order_request_form" is used to request safety gear from the university's laboratory. This form is intended for lab users to submit their requests for safety gear to be ordered for the department's use. To determine if you are in the correct context, check the department you belong to and the type of equipment you need.
-</thinking>
-
 # university_lab_safety_gear_order_request_form - Help Guide
 
 ## Purpose

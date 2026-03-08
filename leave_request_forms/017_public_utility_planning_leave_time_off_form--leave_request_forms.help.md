@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about employee leave requests for public utility planning. It's intended for employees to submit their leave requests, which will be reviewed and approved by the management. To ensure that this form is used correctly, please ensure you only submit one form per request. Duplicate requests may cause confusion and delay the approval process.
-</thinking>
-
 # Public Utility Planning Leave Time Off Form - Help Guide
 ## Purpose
 The Public Utility Planning Leave Time Off Form is used to request leave for public utility planning purposes. This form helps employees communicate their leave needs to the management and ensures that their requests are processed smoothly.

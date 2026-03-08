@@ -1,5 +1,3 @@
-<thinking>...I am checking to see if the provided YAML is correctly formatted and if it meets the requirements for this form. Upon reviewing the YAML, I see that it defines an Employee Coaching Form with 15 input fields across multiple pages. The form appears to be designed for capturing information about coaching sessions with employees, including session notes, coaching goals, status, and other relevant details. The form also includes fields for coaching agreement, next steps, and session notes. I will now create a user-facing help guide for this form...)</thinking>
-
 # Employee Coaching Form - Help Guide
 ## Purpose
 This form is designed to capture information about coaching sessions with employees. It helps coaches and managers to track progress, set goals, and identify areas for improvement. Completing this form ensures that coaching sessions are documented, and feedback is shared effectively.

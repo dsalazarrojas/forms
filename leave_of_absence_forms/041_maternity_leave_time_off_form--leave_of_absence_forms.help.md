@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Maternity Leave Time Off Form - Help Guide
 
 ## Purpose

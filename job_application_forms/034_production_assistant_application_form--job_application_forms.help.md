@@ -1,7 +1,3 @@
-<thinking>
-This form is a part of the hiring process for production assistants. It's intended to collect general information, contact details, educational background, work experience, and other relevant details from applicants. The form helps to identify suitable candidates for production assistant roles in film, television, digital media, and live events. To ensure you're not duplicating your application, please check that you're not already registered as a production assistant with us before submitting your application. If you have any questions or concerns about the form, feel free to reach out to us.
-</thinking>
-
 # Production Assistant Application Form - Help Guide
 
 ## Purpose

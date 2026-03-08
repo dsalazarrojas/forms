@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Maintenance Expectation Survey Form - Help Guide
 
 ## Purpose

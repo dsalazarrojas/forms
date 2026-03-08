@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to gather feedback from customers on the makeup products they use. The form collects demographic information, beauty expertise, makeup usage, product preference, and satisfaction ratings. This information will help the company to understand their customer base, preferences, and pain points.
-The form is intended to be completed by customers who have interacted with the company's makeup products. This could include customers who have purchased products, used free samples, or interacted with the company's website or social media.
-Please ensure that you are completing this form as an actual customer of our company. Completing this form as a non-customer may result in data entry errors or duplicate entries.
-</thinking>
-
 # makeup_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers on the company's makeup products. The information collected will help us understand your experiences, preferences, and pain points with our products.

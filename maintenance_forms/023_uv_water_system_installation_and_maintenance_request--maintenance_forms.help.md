@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for employees to request maintenance or installation services for the UV water system. The form's internal reasoning should check that a valid reason for submission exists and that this is not a duplicate request.
-
-To create a help guide for this form, we'll need to break it down into sections that explain its purpose, how to complete it, and what each field means.
-
-This form has 8 fields: 4 of them are related to scheduling a visit, 3 are for contact information, and 1 is a select multiple field for service status. 
-
-</thinking>
-
 # UV Water System Installation And Maintenance Request - Help Guide
 ## Purpose
 This form is used to request maintenance or installation services for the UV water system. To submit a valid request, make sure you have a valid reason for the request, either for maintenance or installation. Also, check that this request is not a duplicate.

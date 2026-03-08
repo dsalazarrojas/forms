@@ -1,8 +1,3 @@
-<thinking>
-**Internal Note:**
-This form is used to manage relationships with executives. It allows users to provide contact information, relationship type, and specific notes about the executive. The form is intended for use by staff members to document and track relationships with executives. 
-</thinking>
-
 # Executive Relationship Management Contact Form - Help Guide
 
 ## Purpose

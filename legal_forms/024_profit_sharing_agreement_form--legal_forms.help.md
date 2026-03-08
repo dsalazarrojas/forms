@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to record the terms of a profit sharing agreement between partners. The form is designed to capture information about each partner's share percentage, profit value, start and end dates of the partnership, and their role in the partnership. This form is typically used in business partnerships where multiple parties are involved in sharing profits. It is essential to fill in the form accurately to ensure that all partners are on the same page regarding their shares and roles.
-
-Before filling out this form, please ensure that you have all the necessary information about your partnership, including the names of all partners, their share percentages, profit values, start and end dates, and their roles in the partnership.
-
-Please note that this form is not intended to be used as a legal document, but rather as a tool to help facilitate communication and understanding between partners. If you are unsure about any aspect of the partnership or the form, please consult a legal expert.
-
-</thinking>
-
 # Profit Sharing Agreement Form - Help Guide
 ## Purpose
 This form is used to record the terms of a profit sharing agreement between partners.

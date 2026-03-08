@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in applying for a job as a Medical Advisor. The form is meant to be completed by the candidate, and the purpose is to gather essential details about their medical background, work experience, medical profession, medical specialty, education, references, and any relevant documents they may have uploaded. This form is not meant to be used for internal purposes within the organization but is intended for external candidates. Please ensure you have all the necessary permissions and rights to access this form. This form may have duplicates or irrelevant information, so please be cautious while filling it out and make sure to review your answers carefully before submission.
-</thinking>
-
 # Medical Advisor Job Application - Help Guide
 ## Purpose
 This form is used to collect information from candidates interested in applying for a job as a Medical Advisor.

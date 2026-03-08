@@ -1,18 +1,3 @@
-<thinking>
-The form is used by users to upload and manage compliance documents for products being manufactured by their company. The form ensures that all necessary compliance documents are uploaded and stored correctly to meet regulatory requirements.
-The form is required for users to submit the following information:
-* Company Name: the name of the company that manufactured the product
-* Product Name: the name of the product being manufactured
-* Document Type: the type of compliance document (e.g. Compliance Documents, Product Data Sheets, Certificates)
-* User Email: the email address of the user submitting the document
-* Document Date: the date the document was issued or updated (optional)
-* Document Number: the unique identifier assigned to the document (optional)
-* Document Version: the version of the document (optional)
-* Document Comments: additional comments about the document (optional)
-* File Upload: the actual file containing the document (required)
-* Supporting Files: any additional files or information that support the document (optional)
-</thinking>
-
 # Product Compliance Document Upload Form - Help Guide
 ## Purpose
 This form is used by users to upload and manage compliance documents for products manufactured by their company. The form ensures that all necessary compliance documents are uploaded and stored correctly to meet regulatory requirements.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to allow applicants to submit their employment applications for a tech UX designer position. This form will guide the user through a series of questions and prompts that will help them provide necessary information for their application. 
-
-It's essential to fill out this form carefully and accurately, as the information provided will be reviewed and used for the evaluation process. If you have any questions or concerns, please don't hesitate to contact the hiring team.
-
-Please note that the form is not a test, and it's not designed to be completed in a specific timeframe. Take your time to fill out each field, and make sure you provide accurate and relevant information.
-
-Before starting, make sure you have all the necessary documents and information ready to be submitted.
-
-</thinking>
-
 # tech_ux_designer_employment_application - Help Guide
 ## Purpose
 This form is designed to collect information for a tech UX designer employment application. It's crucial to fill out this form accurately and thoroughly to ensure your application is reviewed properly.

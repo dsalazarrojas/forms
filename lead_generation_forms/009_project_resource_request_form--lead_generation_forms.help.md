@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request project resources such as hardware, software, and personnel to support project implementation and completion. The purpose of this form is to help project managers and resource coordinators gather necessary information to make informed decisions about resource allocation and project status updates. To avoid duplication of work, please ensure that you only submit a single request for each project, and that you have the necessary approval from the project lead and manager before submitting a request.
-
-</thinking>
-
 # Project Resource Request Form - Help Guide
 ## Purpose
 The Project Resource Request Form is designed to facilitate the submission of project resource requests to the project management team. This form collects important information about the project, such as its name, status, location, and resource requirements.

@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to help users understand the purpose of the Distribution Agreement Extension Form and how to complete it. The form is used to extend a distribution agreement, and its purpose is to provide necessary information for the agreement extension process. This form is likely used in the context of business or commercial transactions where agreements need to be modified or extended. It is essential to complete this form accurately to ensure that all necessary details are provided.
-
-To confirm, this form is used for agreements in the legal context and is not related to any other form. Please let me know if I should make any adjustments.</thinking>
-
 # Distribution Agreement Extension Form - Help Guide
 ## Purpose
 The Distribution Agreement Extension Form is used to extend a distribution agreement in the legal context. This form requires users to provide necessary information for the agreement extension process.

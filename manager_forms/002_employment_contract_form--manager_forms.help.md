@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about employment contracts from employees. The form has five fields: employee name, email, employment date, employment time, and employee signature. The form is not affiliated with or endorsed by any form platform and is an original adaptation created using AI-generated form design principles.
-
-</thinking>
-
 # Employment Contract Form - Help Guide
 ## Purpose
 The Employment Contract Form is a tool used to collect essential employee information, including name, email, employment date and time, and employee signature. This form helps maintain accurate records and facilitates the process of managing employee contracts.

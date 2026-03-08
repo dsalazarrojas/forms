@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture information related to sales candidates' applications, focusing on their background, experience, and availability for potential sales roles. This form aims to streamline the pre-screening process for sales candidates, ensuring that all necessary details are collected in an organized and efficient manner.
-
-To prevent duplication and ensure consistency, this form is designed to collect standardized information from each candidate. By following this guide, you'll be able to fill out the form accurately and effectively.
-
-The form is divided into several sections, each covering a specific aspect of the candidate's profile. Please read through each section carefully to ensure you provide the necessary information.
-
-</thinking>
-
 # Sales Candidate Pre Screening - Help Guide
 ## Purpose
 This form is designed to collect information from sales candidates for the pre-screening process.

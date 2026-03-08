@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is correctly understood by end-users, we need to verify its purpose and potential duplication. The "Golf Course Maintenance Checklist Form" appears to be a comprehensive form for golf course maintenance tasks. However, some fields have similar names, which might lead to confusion. For example, "Green Mats" and "Green Edges" are both related to green maintenance, but their exact purposes might differ. We should aim to clarify their meanings in the guide to avoid duplication of effort. Additionally, the form seems to cover a wide range of tasks, including water features, grass, signs, and more. This form likely serves as a reference tool for the maintenance team to ensure the golf course meets the desired standards.
-</thinking>
-
 # Golf Course Maintenance Checklist Form - Help Guide
 ## Purpose
 

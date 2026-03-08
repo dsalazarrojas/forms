@@ -1,7 +1,3 @@
-<thinking>
-The form was created to collect book recommendation information from users, likely for a library or reading community. The form is not tied to any specific platform or proprietary data collection system.
-</thinking>
-
 # Book Recommendation Form - Help Guide
 ## Purpose
 This form is designed to collect book recommendation information from users. You can use this form to suggest a book you think others might find interesting.

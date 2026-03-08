@@ -1,16 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-
-This form is intended to collect information from individuals seeking employment in the energy sector, specifically for skilled positions. It will be used by hiring managers to review and evaluate applications. The fields are designed to gather relevant details such as contact information, work experience, and relevant skills and qualifications.
-
-Before proceeding, please note the following:
-
-* Ensure you have filled out all required fields (marked as "required" in the form).
-* If you are unsure about any field, please consult the field explanations below.
-* For multiple-select fields (e.g., skills, work status, job type), please select all applicable options that apply to you.
-
-</thinking>
-
 # energy_sector_skilled_employment_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals seeking employment in the energy sector, specifically for skilled positions. It will be used by hiring managers to review and evaluate applications.

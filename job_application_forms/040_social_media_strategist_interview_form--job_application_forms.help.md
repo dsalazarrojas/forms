@@ -1,10 +1,3 @@
-<thinking>
-We are using this form to gather information from candidates who are interested in applying for the position of Social Media Strategist. This form is used to collect relevant details about the candidate, such as their personal and professional background, skills, and experience. It is essential to fill out this form accurately and thoroughly to increase the chances of being considered for the position.
-
-Please make sure you do not submit multiple applications, as each submission will be reviewed individually. Also, please be aware that the information provided will be used for internal evaluation purposes only.
-
-</thinking>
-
 # Social Media Strategist Interview Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donor Data Analyst Application Form - Help Guide
 ## Purpose
 The Donor Data Analyst Application Form is a tool for potential candidates interested in joining the donor data analyst team. It is designed to collect information from applicants about their personal and professional backgrounds, including their name, contact information, job experience, and uploaded resume. The form helps our team evaluate each applicant's qualifications and determine the best fit for our organization.

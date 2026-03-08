@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Makeup Product Feedback Form - Help Guide
 ## Purpose
 This form is designed to allow customers to provide feedback on our makeup products. This feedback is used to help us improve and better serve our customers in the future.

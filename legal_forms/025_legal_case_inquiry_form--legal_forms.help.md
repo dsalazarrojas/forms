@@ -1,11 +1,3 @@
-<thinking>
-The form "legal-case-inquiry-form" is used to collect information from legal experts regarding the status and value of a particular legal case. This form is designed to gather input from users who are familiar with the case and are willing to provide insight into its current status and perceived value. To determine the form's purpose and the relevance of its fields, we need to consider that it is likely used by a legal organization or individual looking for input from experts to help them make decisions about the case's progression.
-
-Upon further research, it appears that the form is likely used internally within the organization or by a specific team to collect data about the cases they are handling. The fields provided in the form seem to be aimed at understanding the details of the case, the legal experts' opinions, and any other relevant information that might help in making decisions regarding the case.
-
-To avoid duplication of effort and to ensure the form's purpose is clear, we will aim to keep it concise and to the point in this help guide.
-</thinking>
-
 # legal-case-inquiry-form - Help Guide
 ## Purpose
 

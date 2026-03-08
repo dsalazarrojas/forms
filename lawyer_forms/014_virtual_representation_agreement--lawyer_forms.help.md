@@ -1,14 +1,3 @@
-<thinking>
-This form is for creating a Virtual Representation Agreement between a client and a lawyer. It is used to document the terms and conditions of the representation, including payment methods and fee structures. This form should be used for clients who are represented by a lawyer, but not necessarily in-person. 
-
-To confirm, the form is for virtual legal representation, which means that the client and lawyer do not need to be physically present. This form should not be used for other types of legal representation, such as in-person representation.
-
-The form includes various fields to capture relevant details, including payment methods, fee terms, and dates. 
-
-The purpose of this form is to clearly outline the agreement between the client and lawyer, ensuring both parties are on the same page and understand their responsibilities and expectations.
-
-</thinking>
-
 # Virtual Representation Agreement - Help Guide
 ## Purpose
 The Virtual Representation Agreement is a document used to outline the terms and conditions of virtual legal representation between a client and a lawyer. It ensures both parties understand their roles, responsibilities, and expectations during the representation.

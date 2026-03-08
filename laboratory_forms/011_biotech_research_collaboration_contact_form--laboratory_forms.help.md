@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to enable biotech research collaborations between institutions and organizations. The form is intended for potential collaborators to gather information about your organization, research interests, and proposed project. This guide will walk you through how to complete this form to help ensure accurate submission.
-</thinking>
-
 # Biotech Research Collaboration Contact Form - Help Guide
 ## Purpose
 

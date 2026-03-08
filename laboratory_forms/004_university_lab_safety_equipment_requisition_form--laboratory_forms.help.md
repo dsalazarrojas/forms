@@ -1,26 +1,3 @@
-<thinking>
-This form is designed to gather information for the University Lab Safety Equipment Requisition Form. The purpose of this form is to collect data on the equipment required for laboratory safety, ensuring that all lab personnel are aware of the safety protocols and guidelines in place to prevent accidents. 
-The form is used for both internal and external stakeholders, including lab staff, management, and maintenance personnel. The fields provided are meant to be completed with accurate and clear information to avoid duplication of effort and to ensure that all necessary steps are taken to ensure lab safety.
-
-To determine the relevance of this form, please refer to the following:
-
-* Are you a University employee requesting equipment for lab safety purposes?
-* Are you familiar with the lab's safety protocols and guidelines?
-* Have you reviewed the lab's inventory before submitting this form?
-* Are you aware of any existing safety equipment requisitions for your lab?
-
-Before submitting this form, please ensure you have the following:
-* The correct department name (e.g. Chemistry, Biology, Physics)
-* The correct lab name (e.g. Laboratory 1, Laboratory 2, etc.)
-* A clear description of the equipment required
-* The correct location within the lab where the equipment will be used
-* A realistic quantity of the required equipment
-* Approval status from the relevant personnel
-* An accurate approved date if applicable
-
-Please review each field carefully to ensure accuracy and completeness.
-</thinking>
-
 # University Lab Safety Equipment Requisition Form - Help Guide
 ## Purpose
 The University Lab Safety Equipment Requisition Form is used to collect information on laboratory safety equipment needs. This form is essential for ensuring that all lab personnel are aware of the safety protocols and guidelines in place to prevent accidents and ensure a safe working environment.

@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information from students and parents/guardians for school administration purposes. It includes fields for student and parent information, as well as school details. To ensure the form is used effectively, please review each field's label and hint for accuracy. If you are unsure about any field, please ask your school administrator for clarification. This form is not intended for students under the age of 18. Please do not use this form for students under 18. </thinking>
-
 # School Application Form - Help Guide
 ## Purpose
 The School Application Form is designed to collect information from students and parents/guardians to facilitate the school administration process.

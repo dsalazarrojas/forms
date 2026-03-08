@@ -1,5 +1,3 @@
-<thinking>Before filling out this form, ensure that you have reviewed the material usage tracking process to understand the purpose and scope of this form. The form is used to track requests for material usage. Please only fill out this form if you have legitimate business reasons for material usage tracking. Also, note that this form does not override any existing material tracking processes or systems.</thinking>
-
 # Material Usage Tracking Request Form - Help Guide
 ## Purpose
 This form is designed to track requests for material usage, helping you keep accurate records of your material usage and ensure that materials are used correctly across your organization.

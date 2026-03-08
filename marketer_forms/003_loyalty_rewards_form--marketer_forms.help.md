@@ -1,11 +1,3 @@
-<thinking>
-The form is intended to track customer rewards programs for customers. The purpose of the form is to allow customers to submit their reward information, such as points earned, reward type, date and time earned, loyalty level, email, phone number, store location, and any additional notes. This information helps marketers to efficiently track and manage customer rewards programs.
-
-There is no duplication of fields as each field serves a unique purpose in the rewards tracking process.
-
-The form consists of 13 fields, divided into 1 page. This guide will walk you through each field and what information it collects.
-</thinking>
-
 # Loyalty Rewards Form - Help Guide
 ## Purpose
 The Loyalty Rewards Form is designed to collect reward information from customers. This includes reward points, reward type, date and time earned, loyalty level, email, phone number, store location, and any additional notes.

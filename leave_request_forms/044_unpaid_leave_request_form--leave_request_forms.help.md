@@ -1,32 +1,3 @@
-<thinking>
-To create an effective help guide for this form, we need to understand the context and purpose of the "unpaid_leave_request_form". This form appears to be designed for employees to request unpaid leave from their manager. The purpose of this form is to gather necessary information from the employee to process their leave request. It's essential to ensure that the form is completed accurately and thoroughly to avoid any issues or delays in processing the request.
-
-Before proceeding, let's review the form fields and their corresponding labels. The form has several sections, including:
-
-1.  Request Details
-2.  Start Date
-3.  End Date
-4.  Reason
-5.  Manager Approval
-6.  Approval Status
-7.  Employee Comment
-8.  Manager Comment
-9.  Leave Start Date
-10. Leave End Date
-11. Days Off
-12. Leave Type
-13. Manager Request
-14. Manager Request Details
-15. Employee Request
-16. Leave Duration
-17. Manager Approval Date
-18. Manager Denial Reason
-19. Employee Signature
-
-This form appears to be quite extensive, but each field is essential for the manager to process the leave request accurately.
-
-</thinking>
-
 # Unpaid Leave Request Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to declare maintenance activities on a vehicle. The form will be completed by a fleet manager or owner, and it will be used to keep track of regular maintenance and repairs on the vehicle. This form should only be completed if it's necessary to declare new or updated maintenance information. Please check that you don't have a similar form already filled out for the same vehicle before starting this one. 
-</thinking>
-
 # fleet_maintenance_declaration_form - Help Guide
 ## Purpose
 This form is used to declare new or updated maintenance activities on a vehicle. It should only be used when there are new maintenance activities that need to be recorded.

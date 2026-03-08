@@ -1,12 +1,3 @@
-<thinking>
-This form is for collecting titration data, which is a process to determine the concentration of a solution by measuring the volume of a solution required to reach a specific endpoint or reaction. The form is likely used in a scientific or laboratory setting for quality control, research, and testing purposes.
-To determine the relevance and non-duplication, consider that:
-* This form doesn't require user authentication, user management, or sensitive data protection.
-* There isn't any data analysis or transformation, data validation is not performed.
-* There are no dependencies on other forms or services.
-* The form is a simple, standalone data collection tool.
-</thinking>
-
 # Titration Data Collection Form - Help Guide
 ## Purpose
 The Titration Data Collection Form is used to collect data related to titration experiments, including experiment information, sample details, reagent information, standard solutions, titration data, calculated results, quality control results, comments, reviewer information, and submission details.

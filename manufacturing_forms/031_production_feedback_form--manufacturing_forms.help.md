@@ -1,11 +1,3 @@
-<thinking>
-We are creating a help guide for a "Production Feedback Form" used in a manufacturing environment. This form is designed to collect feedback from team members on production-related topics such as team feedback, production feedback, and suggestions. It is essential to ensure that the form is filled out correctly and efficiently to capture accurate and actionable feedback. To avoid duplication, we should check if the form is already being used in the same context to prevent unnecessary repetition of effort. If the form is being used for a different purpose, we should clearly define the context and adjust the form accordingly.
-
-The form has a mix of text, select_one, and select_multiple fields, which may cause confusion for end-users. To clarify, we will ensure that each field is explained in detail, and examples or default values are provided where necessary.
-
-After this internal reasoning block, we will proceed with the help guide.
-</thinking>
-
 # Production Feedback Form - Help Guide
 
 ## Purpose

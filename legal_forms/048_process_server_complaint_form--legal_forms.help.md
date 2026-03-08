@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from servers regarding complaints they have received. The form is designed to gather details about the complaint, including a description, date, and relevant contact information of the server. The purpose of this form is to facilitate the processing and resolution of complaints in a standardized and efficient manner. It is essential to ensure that each complaint is properly recorded and addressed. 
-</thinking>
-
 # Process Server Complaint Form - Help Guide
 
 ## Purpose

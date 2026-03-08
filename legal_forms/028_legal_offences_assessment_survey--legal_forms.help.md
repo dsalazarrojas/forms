@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the Legal Offences Assessment Survey form and its purpose. The form's primary objective is to gather information related to legal cases, including their status, outcome, and associated details. This guide will ensure that users complete the form accurately and efficiently, making it easier for them to provide the necessary information.
-
-
-</thinking>
-
 # Legal Offences Assessment Survey - Help Guide
 ## Purpose
 The Legal Offences Assessment Survey form is designed to collect data on legal cases, allowing users to track and assess various aspects of these cases. This form will help users evaluate and understand legal matters more effectively.

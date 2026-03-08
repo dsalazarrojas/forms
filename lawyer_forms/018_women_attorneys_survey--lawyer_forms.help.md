@@ -1,7 +1,3 @@
-<thinking>
-The "Women Attorneys Survey" form is a data collection tool designed to gather information from female attorneys for the purpose of creating a comprehensive database of women attorneys in the legal profession. The form is intended to capture demographic and professional information from female attorneys to help identify trends and patterns in the legal industry. This form should only be completed by female attorneys or representatives of law firms. Please ensure that the information collected is accurate and up-to-date.
-</thinking>
-
 # Women Attorneys Survey - Help Guide
 ## Purpose
 The Women Attorneys Survey is a tool used to collect information from female attorneys to create a comprehensive database.

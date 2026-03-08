@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for law firm associates who need to request a leave of absence for personal reasons such as a new baby's arrival or other personal events. 
-The form is meant to gather necessary information from the associate, including contact information, employee ID, start and end dates of the leave, type of leave, and manager and employee approval status. 
-The form is usually filled out by the associate, but the manager and employee approval status fields are meant to be filled out by the manager and the associate respectively after reviewing the request. 
-This form is a standard template, and the required fields and options should not be changed without consulting with the relevant parties first. 
-The purpose of this form is to help associates request leaves of absence in a structured and consistent manner, while also keeping track of leave requests and statuses. 
-Please ensure that you fill out this form accurately and honestly, and that you follow the required procedures and approval processes for leave requests. 
-Please also ensure that you do not duplicate this form without consulting with the relevant parties first. 
-</thinking>
-
 # Law Firm Associate Paternity Leave Of Absence Form - Help Guide
 
 ## Purpose

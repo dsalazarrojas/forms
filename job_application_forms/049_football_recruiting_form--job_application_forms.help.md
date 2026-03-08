@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # football_recruiting_form - Help Guide
 ## Purpose
 The football_recruiting_form is designed to collect information from football players who are interested in being recruited by our team. The form is used to gather contact information, athletic background, and other relevant details about the player. Please note that this form is not a full employment application, but rather a way for us to learn more about potential recruits and their interests.

@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning:
-The Artist Page Information Form is used to collect and display information about an artist's profile, including their basic contact information, professional experience, online presence, media and promotion materials, and experience and achievements. The form is designed for artists who are seeking to promote themselves and their work to potential clients, managers, or promoters.
-We need to ensure that the form is filled out by the artist accurately and completely, as the information provided will be used to represent the artist and their work.
-</thinking>
-
 # Artist Page Information Form - Help Guide
 ## Purpose
 This form is designed to collect and display essential information about an artist's profile, allowing them to promote themselves and their work to potential clients, managers, or promoters.

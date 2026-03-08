@@ -1,12 +1,3 @@
-<thinking>... 
-This form is intended to be used by landlords or property managers to provide formal notice to tenants of their intention to evict them from the rented property. The form should not be used for other purposes, such as serving as a general notice or for other types of disputes. 
-
-The form is designed to collect relevant information about the tenant and the property in question, which may be required for official purposes or to provide evidence of eviction proceedings. 
-
-This form should not be used without proper legal advice or as a substitute for professional legal advice. 
-
-</thinking>
-
 # Eviction Notice Declaration Form - Help Guide
 ## Purpose
 This form is designed to help landlords or property managers formally notify tenants of their intention to evict them from the rented property.

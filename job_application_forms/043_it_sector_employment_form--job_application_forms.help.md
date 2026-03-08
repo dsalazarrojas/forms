@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect employment information from applicants in the IT sector. The form is designed to gather contact information, employment details, and skills required for a specific job. The form will be used to assess the eligibility of applicants for various job positions within the IT sector. 
-
-This form should only be used for job applications within the IT sector. If you are not applying for a job in the IT sector, please do not use this form.
-
-The form is composed of multiple sections, each focusing on a specific aspect of employment. This guide will walk you through each section, explaining what information is required and what to expect.
-
-Please note that some fields are required, and some are optional. Be sure to fill out all required fields to ensure your application is complete.
-
-Please review each section carefully, and fill out the required information. If you have any questions or concerns, please contact our support team.
-</thinking>
-
 # IT Sector Employment Form - Help Guide
 ## Purpose
 This form is designed to collect employment information from applicants in the IT sector. It's essential to complete this form accurately and truthfully to ensure a successful application process.

@@ -1,5 +1,3 @@
-<thinking>Before filling out this form, please note that it is intended to facilitate employee leave requests for workshops and training events. If you are unsure if your request is eligible, kindly review the company's leave policies or consult with a supervisor. This form is designed to gather all the necessary information for your manager to process your leave request efficiently. Please make sure to fill out each field accurately and thoroughly, as this will help in making a well-informed decision.</thinking>
-
 # Business Workshop Leave Request Form - Help Guide
 ## Purpose
 The Business Workshop Leave Request Form is a tool for employees to submit their leave requests for workshops and training events. It helps in gathering necessary information for your manager to process your request efficiently.

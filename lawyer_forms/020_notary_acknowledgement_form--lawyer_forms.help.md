@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for notary public acknowledgment purposes. It captures the signers' and notary's signatures, names, and dates. This form does not require any external integrations, but it's designed to be easily printable or exportable. I'll make sure to check for duplication before proceeding.
-</thinking>
-
 # Notary Acknowledgement Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Simple Job Application Form - Help Guide
 
 ## Purpose

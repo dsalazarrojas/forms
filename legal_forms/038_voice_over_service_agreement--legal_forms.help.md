@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a legal contract or agreement form for a voice-over service, designed to capture essential information for a voice-over project. The form likely serves as a template for both the client and the voice actor to agree on project terms and conditions. It seems to cover various aspects, such as project details, payment terms, and sign-offs.
-
-The form has a mix of required and optional fields, indicating that the client and the voice actor are expected to provide specific information, but some fields may be left blank if not applicable.
-
-To ensure accuracy and relevance, we will focus on the essential fields and provide clear guidance on how to complete the form.
-
-</thinking>
-
 # Voice Over Service Agreement - Help Guide
 ## Purpose
 

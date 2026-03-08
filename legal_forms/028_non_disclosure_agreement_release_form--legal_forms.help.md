@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document the release of confidential information by an individual or organization. The purpose of this form is to ensure that all parties involved in a project or collaboration understand their obligations and responsibilities regarding the handling and protection of sensitive information. This form is typically used when a party wants to release their confidentiality obligations, and it is a necessary step in the process of sharing information with others, such as partners, collaborators, or contractors. The form is not required for every project, and the decision to use it should be made on a case-by-case basis.
-
-</thinking>
-
 # Non-Disclosure Agreement Release Form - Help Guide
 ## Purpose
 The Non-Disclosure Agreement Release Form is used to document the release of confidential information by an individual or organization. It helps ensure that all parties involved understand their obligations and responsibilities regarding the handling and protection of sensitive information.

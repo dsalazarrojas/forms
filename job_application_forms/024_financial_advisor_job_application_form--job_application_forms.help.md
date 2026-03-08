@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for individuals to apply for a Financial Advisor position at the company. The form is meant to gather basic information about the applicant, including their contact details, employment history, educational background, and relevant skills and certifications. The form is not meant to be used for any other purpose than applying for the Financial Advisor position.
-Please ensure that you have read and understood the purpose of this form before proceeding. If you are not applying for the Financial Advisor position, please do not fill out this form.
-</thinking>
-
 # Financial Advisor Job Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about your application for the Financial Advisor position at our company. Please fill out the form accurately and thoroughly to ensure that your application is considered for the position.

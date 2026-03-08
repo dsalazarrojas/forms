@@ -1,7 +1,3 @@
-<thinking>
-This form is for organizations to apply for a transactional licensing program. It is intended for business users. The form is used to collect user information, contact details, license type, start and end dates, usage rights, license fee, payment method, and agreement. To determine if the form is correctly completed, the system checks for the presence of required fields. If a required field is missing, the form will not be accepted. This guide will help you understand what each field is used for and how to fill it out correctly.
-</thinking>
-
 # Transactional Licensing Program Application Form - Help Guide
 ## Purpose
 This form is a transactional licensing program application form. It is designed for businesses to apply for a license that enables specific usage rights. The form collects necessary information to process your application.

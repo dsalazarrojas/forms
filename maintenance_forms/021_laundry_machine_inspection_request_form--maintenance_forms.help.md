@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information, details about a laundry machine, any issues reported with it, photos of the machine, preferred dates for inspection, and any additional comments or descriptions. This form likely serves in the context of laundry machine maintenance or repair requests. However, I'm unsure of the specific use case within the "maintenance_forms" category without further information.
-
-Before proceeding, I'd like to confirm that this form is not a duplication or derivation of any existing form, especially not Jotform, Google Forms, ODK Collect, Tally, or Cloudflare. The form was created using public survey topic metadata and is released under CC BY 4.0, allowing for modification and redistribution with proper credit.
-
-To ensure the integrity of this form and avoid any potential duplication, please verify that this form does not already exist within your organization or any other public domain. If it does, further investigation is necessary to understand why this form was generated and how it can be improved upon. 
-
-If the form is deemed valid, it can be used for its intended purpose: collecting and recording information from users about laundry machines in need of inspection or repair. The form's fields and options are designed to gather essential details efficiently. 
-
-Let's proceed with the help guide.
-
-</thinking>
 # laundry_machine_inspection_request_form - Help Guide
 ## Purpose
 The laundry_machine_inspection_request_form is designed to collect information about laundry machines that require inspection or repair. This form helps users submit their contact details, machine specifications, issues faced with the machine, photos of the machine (if applicable), preferred dates for inspection, and any additional comments or descriptions.

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals interested in working at a pizza restaurant. 
-The form is designed to collect basic information about the applicant, including their contact details, employment history, education, and availability. 
-This form will be used by the restaurant's HR department to evaluate potential candidates for available positions. 
-Please only submit this form if you are genuinely interested in working at the pizza restaurant and have the necessary qualifications and availability. 
-Please do not submit duplicate applications or applications that do not match your actual qualifications or availability. 
-</thinking>
-
 # Pizza Restaurant Employment Application Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals interested in working at the pizza restaurant. The form asks questions about the applicant's contact information, employment history, education, and availability.

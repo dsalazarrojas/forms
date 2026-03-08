@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to capture the details of a marital settlement agreement between two spouses. The form is designed to record the division of assets, spousal support, and other terms agreed upon by the couple. The purpose of this form is to provide a clear and concise way for spouses to document their agreement, which can help prevent misunderstandings and disputes in the future.
 
 # Marital Settlement Agreement Form - Help Guide

@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for employees to provide a non-compete commitment to their employer, typically when leaving or separating from the company. The purpose of this form is to document the employee's commitment to not engage in any competitive activities or share confidential information with third parties. This is a standard practice in certain industries where intellectual property or trade secrets are involved.
-
-The form is meant to be completed by the employee, but it can also be signed by a company representative on behalf of the employee. The representative's details are included in the form for accountability and record-keeping purposes.
-
-Before filling out the form, please ensure you have the necessary permissions from your supervisor or HR department to complete and sign this document. If you are unsure about any field, please consult the relevant personnel or refer to the company's policies and procedures.
-
-Please note that some fields are optional, but it's essential to provide accurate and complete information to ensure the form is valid and effective.
-</thinking>
-
 # Non Compete Commitment Form - Help Guide
 
 ## Purpose

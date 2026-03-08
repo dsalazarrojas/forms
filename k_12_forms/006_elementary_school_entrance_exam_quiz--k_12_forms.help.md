@@ -1,8 +1,3 @@
-<thinking>
-The Elementary School Entrance Exam Quiz form is designed to collect essential information from students and their parents or guardians to help schools assess a student's readiness for elementary education. This form is typically filled out by students who are applying to or transferring to an elementary school. The form gathers information on the student's personal details, such as their name, contact information, and academic background. It also includes fields for student and parent/guardian contact information, student's special needs, language proficiency, and school preferences. This form aims to streamline the admission process and gather necessary data to place students in the most suitable grade level and educational environment.
-
-</thinking>
-
 # Elementary School Entrance Exam Quiz - Help Guide
 ## Purpose
 The Elementary School Entrance Exam Quiz form is designed to collect information from students and their parents or guardians to assess their readiness for elementary education. This information will be used to place students in the most suitable grade level and educational environment.

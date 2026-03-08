@@ -1,17 +1,3 @@
-<thinking>
-  This form is designed to gather information from potential participants in community sports activities. It aims to capture their demographic information, interests, and availability for engaging with sports-related events. This form is intended to be completed by individuals who are interested in sports activities and wish to be involved in community sports events.
-
-  To ensure that the form is properly filled out and the data collected is accurate, please make sure to review each field carefully and ask for clarification if needed.
-
-  Before completing this form, please consider the following:
-  - This form is for individuals interested in sports activities and not for teams or organizations.
-  - All fields marked as "required" must be filled out for the form to be submitted successfully.
-  - Please select all applicable sports activities from the list when choosing "Interested Sports Activities".
-  - The "General Availability" field allows for multiple selection, so you can choose more than one option.
-  - When answering "Are you interested in volunteering?", the options are "True", "False", and "Maybe".
-  - If you selected "Yes" or "Maybe" for "Are you interested in volunteering?", you will be asked for your preferred volunteer role.
-</thinking>
-
 # Community Engagement In Sports - Help Guide
 ## Purpose
 This form is designed to gather information from potential participants in community sports activities.

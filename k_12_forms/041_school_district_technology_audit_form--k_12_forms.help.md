@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to gather information about the current technology infrastructure and status of school districts. This form should be used to collect data on the technology upgrades, contacts, and other relevant details. It's essential to fill out this form accurately and honestly to help the school district make informed decisions about their technology infrastructure.
-
-To ensure the accuracy of the data collected, it's crucial to check for duplication and relevance of the information before proceeding. If the form is not relevant to the school district's current technology status or if the same information has been collected previously, it's essential to clarify with the relevant parties before continuing.
-
-Please note that this form is designed to be completed by someone with knowledge of the school district's technology infrastructure.
-
-</thinking>
-
 # School District Technology Audit Form - Help Guide
 ## Purpose
 The School District Technology Audit Form is designed to collect information about the current technology infrastructure and status of school districts. This includes details about technology upgrades, contacts, and other relevant information.

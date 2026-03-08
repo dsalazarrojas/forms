@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to audit the ethical and sourcing practices of a fashion brand. It assesses the brand's supplier selection, production processes, material sourcing, labor laws, environmental impacts, chemical substances, and certifications. This form will help the brand evaluate its current practices and identify areas for improvement. The questions are carefully crafted to cover all aspects of ethical and responsible manufacturing practices.
-
-To avoid duplication, please note that this form is meant to be completed by the brand itself, not by its suppliers. Also, please ensure that the answers are accurate and based on the brand's actual practices. Inaccurate or incomplete answers can lead to incorrect assessment and potential reputational risks.
-
-This form is designed to be completed in a few minutes, and it's essential to provide clear and concise answers to each question. If you're unsure about any question, please refer to the provided options or seek clarification from your team.
-
-Please keep in mind that this form is a self-assessment tool and should not be used as a substitute for external audits or certifications.
-
-Please answer the questions to the best of your ability, and don't hesitate to provide additional comments or explanations if needed.
-</thinking>
-
 # Fashion Brand Ethical Sourcing Audit Form - Help Guide
 ## Purpose
 This form is designed to evaluate the ethical and sourcing practices of a fashion brand. It assesses various aspects of the brand's supplier selection, production processes, material sourcing, labor laws, environmental impacts, chemical substances, and certifications.

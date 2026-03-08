@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's consider that this form is designed to collect information from potential leads for a financial inclusion strategy. The form likely aims to assess the lead generation channels and status, as well as the objectives and impact of the strategy. It's essential to understand the form's purpose and potential usage to provide the most accurate and helpful guidance. Please ensure the form is not filled out by people already familiar with the topic or have already provided similar information, as this might lead to redundant data. Also, be aware that some fields might have open-ended options or require additional explanations. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation to help users understand each section.</thinking>
-
 # Financial Inclusion Strategy Contact Form - Help Guide
 
 ## Purpose

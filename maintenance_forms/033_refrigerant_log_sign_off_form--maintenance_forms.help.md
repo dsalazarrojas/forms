@@ -1,10 +1,3 @@
-<thinking> 
-We need a help guide for the "Refrigerant Log Sign Off Form" which is used for tracking the status of refrigerant jobs. It's a form that captures information about the job number, status, date and time signed off, and more. The form is designed to be filled out by the person signing off the job, and provides a space for the supervisor to add any comments or notes. It's likely used in a work order or maintenance management context. It's possible that this form is used to ensure that all necessary steps for the job were completed correctly, and to prevent the job from being left unfinished. This could be a safety or quality control measure. It might also be used to track progress or status of a job, but it's likely used for sign off, which means it's not used when a new job is initiated. This form might be used for both internal and external teams, but its use would be more frequent within the company. It might be used by supervisors and technicians alike.
-
-It would be good to check that this form is not used for other purposes than as intended, and also check that the fields are properly filled in.
-
-</thinking>
-
 # Refrigerant Log Sign Off Form - Help Guide
 ## Purpose
 

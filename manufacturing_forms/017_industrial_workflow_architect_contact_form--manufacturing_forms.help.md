@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information and details from Industrial Workflow Architects who need to get in touch with us for various reasons such as workflow inquiries, support requests, or general feedback. The form should only be completed once for each unique contact reason, to avoid duplication of effort. Please ensure that each field is filled out accurately and thoroughly, as this information will be used to provide the best possible support and service.
-</thinking>
-
 # Industrial Workflow Architect Contact Form - Help Guide
 ## Purpose
 This form is for Industrial Workflow Architects to contact us with various requests, questions, or feedback. It helps us understand their needs and provide the most suitable support.

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for users who will be completing the Kindergarten Readiness Skills Checklist. The purpose of this form is to assess the readiness of a preschooler for formal kindergarten education. The form is designed to gather information about the individual's skills and abilities in various areas, including social, language, fine motor, emotional, math, reading, writing, science, and physical skills. This guide will walk you through the form fields, explaining each question and what is expected of the user.
-
-The user should be familiar with the fields and questions before filling out the form.
-</thinking>
-
 # Kindergarten Readiness Skills Checklist - Help Guide
 ## Purpose
 This form is designed to assess the readiness of a preschooler for formal kindergarten education. It covers various skills and abilities that a child should have developed before entering kindergarten. The assessment will help educators and caregivers understand the strengths and weaknesses of the child and make necessary adjustments to support their development.

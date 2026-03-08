@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from an individual requesting pretrial release. The purpose of this form is to gather relevant details about the applicant, including their personal and contact information, as well as details about the court case. This form is intended for individuals who are requesting pretrial release, and it will be reviewed and evaluated by relevant authorities to determine eligibility. Please ensure that you are filling out the correct form and providing accurate information. This form is a one-time application and should not be resubmitted. If you have any questions or concerns, please reach out to the relevant authorities for assistance.</thinking>
-
 # Pretrial Release Application Form - Help Guide
 ## Purpose
 The Pretrial Release Application Form is a document used to collect information from individuals requesting pretrial release. It will be reviewed and evaluated by relevant authorities to determine eligibility.

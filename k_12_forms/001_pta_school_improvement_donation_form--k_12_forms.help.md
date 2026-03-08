@@ -1,5 +1,3 @@
-<thinking>...I will create a user-facing help guide for the PTA School Improvement Donation Form...</thinking>
-
 # PTA School Improvement Donation Form - Help Guide
 ## Purpose
 The PTA School Improvement Donation Form is a tool for parents, teachers, and staff to provide input and suggestions for school improvement. This form helps collect valuable feedback and ideas for enhancing the school environment, teaching methods, and overall student experience. Your input will be considered in the school's improvement planning.

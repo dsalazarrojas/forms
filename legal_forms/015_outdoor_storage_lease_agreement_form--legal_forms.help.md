@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from renters and operators for an outdoor storage lease agreement. The form should be used to gather details from both parties involved in the lease, including the renter's contact information, lease terms, and agreements. 
-
-The form is likely to be used in a business setting, such as a storage facility, where renters rent storage units to store their belongings. The form is intended to establish a clear understanding of the terms and conditions of the lease, including the renter's responsibilities and obligations. 
-
-It's worth noting that this form might not be suitable for all types of outdoor storage leases, such as those with a fixed term or specific usage restrictions. However, for general purposes, this form should be able to provide a basic structure for collecting the necessary information from both parties.
-
-</thinking>
-
 # outdoor_storage_lease_agreement_form - Help Guide
 ## Purpose
 This form is designed to collect information for an outdoor storage lease agreement between a renter and an operator. The form gathers details from both parties involved in the lease, ensuring a clear understanding of the terms and conditions.

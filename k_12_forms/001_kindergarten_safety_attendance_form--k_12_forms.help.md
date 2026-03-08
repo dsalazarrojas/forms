@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a child's attendance to a kindergarten or preschool program, which helps ensure their safety and well-being while under care. This form is intended for parents or guardians who need to report a child's arrival and departure times, medical conditions, and allergies. By filling out this form, you'll be providing essential information about your child's attendance to the care providers.
-
-Please ensure that you only fill out this form once for each child, and that you provide accurate and up-to-date information about your child's needs.
-
-Before proceeding, please review our guidelines and policies to understand what information is required and how it will be used.
-
-</thinking>
-
 # Kindergarten Safety Attendance Form - Help Guide
 
 ## Purpose

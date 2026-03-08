@@ -1,37 +1,3 @@
-<thinking>
-This form is designed to collect feedback from library visitors about their experience with a new service provided by the library. The purpose of this form is to gather information about the quality of service, ratings, and any suggestions or comments visitors may have. This form is intended for internal use only and will not be shared with anyone outside the library. 
-
-When designing this form, the following fields were included:
-1. New Service Feedback: a text field where visitors can describe their experience with the new service.
-2. New Service Name: a text field to record the name of the new service being feedback on.
-3. Feedback: an optional text field for additional comments.
-4. Rating: a required number field to rate the quality of the new service.
-5. Suggestion: an optional text field for visitors to provide suggestions for improvement.
-6. New Service Rating: a dropdown menu to select the quality of the new service (Good or Fair).
-7. Date of Visit: a required date field to record the date the visitor used the new service.
-8. Visit Time: a required time field to record the time of day the visitor used the new service.
-9. Email: a required email field for visitors to provide their contact email address.
-10. Phone: a required text field for visitors to provide their phone number.
-11. Contact Method: a select multiple field to select the method of contact the visitor used (Phone, Email, or Other).
-12. Other Contact Method: an optional text field for visitors to provide additional contact information if they select Other in the Contact Method field.
-13. Librarian Name: a required text field for the librarian's name.
-14. Department: a required text field to record the department the librarian works in.
-15. Librarian Email: a required email field for the librarian's email address.
-16. Librarian Phone: a required text field for the librarian's phone number.
-17. Additional Information: an optional note field for additional comments from the librarian.
-18. Survey Submitted By: an optional text field for the name of the person submitting the survey.
-19. Submission Date: an optional date field to record the date the survey was submitted.
-20. Submission Time: an optional time field to record the time the survey was submitted.
-21. Librarian Comments: an optional text field for the librarian's comments.
-22. Visitor Feedback: an optional text field for visitor's feedback.
-23. New Service Feedback 2: an optional text field for additional feedback on the new service.
-24. New Service Suggestion: an optional text field for suggestions for improvement.
-25. Submission Comments: an optional text field for comments on the submission.
-
-The form is intended to be completed by library visitors and staff, and will help improve the library's services by collecting user feedback and suggestions.
-
-</thinking>
-
 # Library Visitor New Service Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from library visitors about their experience with a new service provided by the library.

@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Product Survey Form" to assist end-users in completing it effectively. This guide will cover the form's purpose, how to complete it, and an in-depth explanation of each field. The form is designed to collect feedback from customers about their experience with the product, aiming to gauge their satisfaction, impression of competition, and overall experience.
-</thinking>
-
 # Product Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with your product. The information collected will help us understand our customers' satisfaction, impression of competition, and overall experience.

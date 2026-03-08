@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let me ensure that the form is correctly understood and there is no duplication of efforts. The form is designed for users to request cross-defaults, which likely means requesting a change or modification to a default setting or status. The form collects various user information, document metadata, and review comments. To avoid duplication, I will focus on creating a concise and practical guide that covers the essential aspects of the form.</thinking>
-
 # Cross Default Request Form - Help Guide
 ## Purpose
 The Cross Default Request Form is used to request changes or modifications to default settings or statuses. This form gathers essential user information, document metadata, and review comments to facilitate efficient processing and decision-making.

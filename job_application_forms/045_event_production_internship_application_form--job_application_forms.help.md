@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for candidates to apply for an Event Production internship position within the company. The form will help us assess your qualifications, availability, and experience to determine if you're a good fit for the internship. Please answer all the required fields honestly and thoroughly. If you have any questions or concerns, feel free to reach out to us.
-</thinking>
-
 # Event Production Internship Application Form - Help Guide
 ## Purpose
 The Event Production Internship Application Form is a comprehensive application form designed for candidates to apply for an Event Production internship position within the company. This form will help us assess your qualifications, availability, and experience to determine if you're a good fit for the internship.

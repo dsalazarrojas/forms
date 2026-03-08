@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support businesses affected by the COVID-19 pandemic. This form is designed to help us understand how the pandemic has impacted your business and what assistance you may need. Please answer the questions honestly, and if any question does not apply to your business, simply skip it. The survey is intended to gather information about your business and provide insight into the effects of the pandemic on your industry and location.
-</thinking>
-
 # COVID 19 Business Assistance Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your business and how the COVID-19 pandemic has affected it.

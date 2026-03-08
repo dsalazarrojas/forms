@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pro Bono Legal Assistance Intake Form - Help Guide
 
 ## Purpose

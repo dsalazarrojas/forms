@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inventory Transfer Form - Help Guide
 
 ## Purpose

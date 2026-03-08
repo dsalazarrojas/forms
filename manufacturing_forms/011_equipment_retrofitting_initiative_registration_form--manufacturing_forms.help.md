@@ -1,7 +1,3 @@
-<thinking>
-The Equipment Retrofitting Initiative Registration Form is a form that helps manufacturing teams assess the current state of equipment and identify areas where retrofitting could be beneficial. This form should be completed by users with knowledge of the equipment's operational state and its potential for modification or upgrade.
-</thinking>
-
 # Equipment Retrofitting Initiative Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register equipment for potential retrofitting or upgrading. By answering the questions in this form, users can help identify which equipment can benefit from retrofitting and which cannot.

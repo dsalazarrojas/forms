@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Management Waiver Form Template - Help Guide
 ## Purpose
 The Financial Management Waiver Form Template is a document used to record and track financial waivers. It is used to collect information about the user, waiver details, and other relevant data.

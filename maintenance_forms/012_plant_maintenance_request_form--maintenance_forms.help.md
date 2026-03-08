@@ -1,5 +1,3 @@
-<thinking>Plant Maintenance Request Form is a digital form designed to collect information about maintenance requests for facilities, equipment, and assets. This form is intended for employees or staff members to report and manage maintenance tasks. By submitting this form, you can request maintenance services for your assigned facilities, equipment, or assets. Please ensure that you have permission to submit a maintenance request before proceeding. Also, ensure that you have already checked if a similar maintenance request has been submitted before, as duplicate requests may be rejected.</thinking>
-
 # Plant Maintenance Request Form - Help Guide
 ## Purpose
 The Plant Maintenance Request Form is a digital form used to collect information about maintenance requests for facilities, equipment, and assets. This form is intended for employees or staff members to report and manage maintenance tasks.

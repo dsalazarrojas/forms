@@ -1,11 +1,3 @@
-<thinking>
-We've created this Manufacturing Skilled Worker Job Application form to collect essential information from candidates who are interested in skilled worker positions in the manufacturing industry. This form will help us understand your background, skills, and preferences to match you with potential job openings that align with your qualifications.
-Before we proceed, please note that:
-
-* If you are already a registered candidate in our system, please ensure that your information is up-to-date. If you've submitted a job application previously, please review the information to avoid duplicating your application.
-* If you're unsure about any of the fields or would like more information, feel free to reach out to us at [support email/phone number].
-</thinking>
-
 # Manufacturing Skilled Worker Job Application - Help Guide
 ## Purpose
 This form is designed to collect necessary information for potential candidates applying for skilled worker positions in the manufacturing industry.

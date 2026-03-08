@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Elevator Maintenance Log - Help Guide
 
 ## Purpose

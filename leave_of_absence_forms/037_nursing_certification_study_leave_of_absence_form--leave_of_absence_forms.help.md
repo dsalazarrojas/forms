@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nursing Certification Study Leave Of Absence Form - Help Guide
 
 ## Purpose

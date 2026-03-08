@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide information about leads and promotion codes. The purpose of this form is to collect data for marketing and sales purposes. The data collected may be used for lead tracking, promotion management, and analytics. It is essential to fill out this form accurately and consistently to ensure data quality and relevance. Please ensure that the information provided is true and up-to-date.
-</thinking>
-
 # Lead Information And Promotion Code Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from community members regarding changes made to the venue. This form is intended for those who would like to contest or oppose changes made to the venue. The goal is to gather information on the community's concerns or objections to these changes. This form is only necessary for individuals who would like to formally submit their opposition. If you're filling out this form, you are most likely a member of the community who has a strong interest in the venue and its operations.</thinking>
-
 # Opposition To Venue Changes Submission Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from community members on changes made to the venue. It is intended for those who would like to contest or oppose changes made to the venue.

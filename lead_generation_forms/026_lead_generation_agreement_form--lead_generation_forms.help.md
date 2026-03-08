@@ -1,7 +1,3 @@
-<thinking>
-The "Lead Generation Agreement Form" is used to capture important information from users to generate leads. This form is used to collect data that can be used by the sales team to follow up with potential customers, schedule meetings, and send relevant information about products/services. Before filling out this form, please ensure that this is the correct form for your intended purpose and not a duplicate submission. If you're unsure, please contact the relevant team for clarification.
-</thinking>
-
 # lead-generation-agreement-form - Help Guide
 ## Purpose
 The "Lead Generation Agreement Form" is a tool used to collect essential information from users, which is then utilized by the sales team to initiate follow-up actions and provide relevant information about products or services.

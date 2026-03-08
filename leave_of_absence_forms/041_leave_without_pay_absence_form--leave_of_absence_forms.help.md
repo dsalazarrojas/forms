@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record a leave without pay absence from work. This form must be filled out for every leave without pay absence. Please note that this form is not used to record other types of absences, such as paid leave or sick leave. It's essential to fill out the form accurately to ensure the correct processing and categorization of absences.
-</thinking>
-
 # Leave Without Pay Absence Form - Help Guide
 
 ## Purpose

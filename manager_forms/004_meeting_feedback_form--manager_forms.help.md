@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients after a meeting. The purpose of this form is to gather information about the client's experience and satisfaction with the meeting. It is meant to be completed by the client, and the information collected will help the organization understand their strengths and areas for improvement.
-</thinking>
-
 # meeting_feedback_form - Help Guide
 ## Purpose
 The meeting_feedback_form is a tool used to collect feedback from clients after a meeting. This form helps us understand their experience and satisfaction with the meeting, allowing us to make improvements for future meetings.

@@ -1,10 +1,3 @@
-<thinking> 
-We need to create a user-facing help guide for this form titled "Understanding Legal Roles". This form seems to collect information about an individual's legal role, including their role title, responsibilities, and various supporting details such as education background, law firm experience, and professional experience. The form appears to be collecting information for legal purposes. We should ensure that the form is filled out accurately and thoroughly to obtain the most relevant information.
-
-Before creating the guide, let's review the form's structure and fields to confirm that we're not duplicating any fields or information. Upon reviewing, we see that the form is well-structured, and each section seems to be collecting unique information.
-
-Now, let's create the guide, making sure to explain each field in a clear and concise manner, and including any necessary tips for the end-user.</thinking>
-
 # Understanding Legal Roles - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information about an individual's legal role, including their role title, responsibilities, and supporting details. This information will help in accurately understanding the role and its implications.

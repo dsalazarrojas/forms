@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow suppliers to upload sample fabric data, providing a convenient and organized way to gather information about fabric samples. This form is designed to collect details such as fabric sample details, files, options, description, weight, unit, color, length, width, notes, email, phone number, date, time, and time zone. This form will help to streamline the process of gathering and processing fabric sample data, making it easier for suppliers to provide accurate and comprehensive information.
-</thinking>
-
 # supplier_fabric_sample_upload_form - Help Guide
 ## Purpose
 The supplier fabric sample upload form is a tool designed to collect and organize fabric sample data from suppliers. This form aims to make it easier for suppliers to provide accurate and comprehensive information about their fabric samples.

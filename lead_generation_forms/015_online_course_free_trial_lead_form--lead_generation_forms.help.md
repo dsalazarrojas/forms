@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is not being used for spamming or lead duplication. This form will be used to generate leads for free trials of online courses, and the user should provide accurate and valid information to be contacted for follow-up. We will verify the provided contact information to prevent misuse. The fields are designed to gather basic contact information and interests of the user.
-</thinking>
-
 # Online Course Free Trial Lead Form - Help Guide
 ## Purpose
 This form is designed to help us understand your interests and needs in our online courses. By filling out this form, you'll be eligible for a free trial of our online course, and we'll be in touch with you to follow up on your progress.

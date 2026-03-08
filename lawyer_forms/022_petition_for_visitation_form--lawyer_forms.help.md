@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended for users who need to complete the Petition For Visitation Form, a legal document used for requesting court permission to visit a child. Before creating this guide, I reviewed the form schema to understand its purpose and structure. The form appears to be designed for parents or guardians to request visitation rights, and it asks for basic information about the child, the reason for visitation, and other relevant details.
-
-</thinking>
-
 # Petition For Visitation Form - Help Guide
 ## Purpose
 The Petition For Visitation Form is a legal document used by parents or guardians to request court permission to visit their child. This form is used to provide the required information to the court, ensuring a smooth and legal process.

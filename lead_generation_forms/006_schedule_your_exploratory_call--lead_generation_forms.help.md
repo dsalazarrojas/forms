@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to schedule an exploratory call with a representative. The purpose of this form is to gather the necessary details to facilitate a smooth and productive call. 
-
-The form is not intended to be used for sales or marketing purposes, but rather to assist in getting to know the users' needs and provide a personal touch in the exploratory call. This form is likely to be used by companies or organizations that provide services or solutions to various industries.
-
-This form should only be filled out if the user is interested in scheduling a call with a representative. If you are looking for other resources or information, please look at our <link to other resources>.
-
-To avoid duplication, you can only fill out this form once. If you have previously filled out this form, please do not fill it out again.
-
-</thinking>
-
 # Schedule Your Exploratory Call - Help Guide
 ## Purpose
 This form is designed to collect information to schedule an exploratory call with a representative. Please fill out the form if you are interested in learning more about a service or solution and would like to discuss it with one of our representatives.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to clarify the purpose and relevance of this form before explaining its completion process. This form, titled "Makeup Color Match Form," appears to be a tool designed to match individuals with their ideal makeup shades based on their skin type, favorite color, and preferred products. The form seems to be relevant for users looking for personalized makeup recommendations or guidance on how to choose the right shades for their skin tone and preferences.</thinking>
-
 # Makeup Color Match Form - Help Guide
 ## Purpose
 The Makeup Color Match Form is a tool designed to match individuals with their ideal makeup shades based on their skin type, favorite color, and preferred products.

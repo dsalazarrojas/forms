@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form's integrity and accuracy, it's essential to understand its purpose and the reasoning behind its design. This form is used for requesting a review of a judgment, which is a critical process in the legal system. It's crucial to verify that each field is correctly filled out to avoid errors and duplication of work. For instance, the "Case Number" field is essential for identifying the specific case being reviewed, while the "Reviewer Name" field should be accurately filled out to ensure the correct person reviews the judgment. Similarly, the "Request Type" field determines the type of review requested, and the "Reason for Review" field provides a clear explanation for the review. By understanding the form's purpose and the significance of each field, users can fill out the form accurately and efficiently.
-</thinking>
-
 # judgment_review_request_form - Help Guide
 ## Purpose
 This form is used to request a review of a judgment, which is a critical process in the legal system. It helps to ensure that the judgment is accurate and fair.

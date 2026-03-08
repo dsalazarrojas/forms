@@ -1,20 +1,3 @@
-<thinking>
-This form is designed for textile quality inspection, which is an essential process to ensure that textile products meet the required standards of quality, safety, and performance. The form will help textile inspectors document their observations, defects, and actions taken during the inspection process. This form will help to maintain a systematic and transparent record of the inspection process, which can be used for future reference and improvement of quality control measures.
-
-The form is divided into several sections that gather information about the supplier, product, and inspection results. Each field in the form is designed to capture specific information that will help in the evaluation and assessment of the product quality.
-
-To confirm, the purpose of this form is to:
-
-* Document the supplier's details
-* Gather information about the product being inspected (type, description, material type, color code, size label, color sample)
-* Record any defects observed during the inspection
-* Note the actions required and taken to address these defects
-* Evaluate the product quality rating
-* Record the completion date and time of the inspection
-* Identify the inspector's name
-
-Before starting the inspection, ensure that the supplier's name and address are accurately filled in fields 1 and 2, respectively. This form is designed to be completed by the supplier's representative or the inspector. The information collected will help to maintain a transparent and systematic record of the inspection process.</thinking>
-
 # Textile Quality Inspection Form - Help Guide
 ## Purpose
 

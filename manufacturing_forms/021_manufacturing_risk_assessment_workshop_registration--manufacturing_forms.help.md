@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect data for a Manufacturing Risk Assessment Workshop Registration. The purpose of this form is to allow participants to choose their session choices, provide attendee details, select their risk level, session type, date, time, note, additional session choices, training provider, training type, risk factors, workshop date, workshop time, attendees, workshop type, risk comments, additional training provider, workshop comments, additional risk factors, and additional attendees. The form is not intended to collect sensitive or confidential information. Please ensure that all required fields are completed to facilitate accurate data collection.
-
-This form is generated based on public metadata from a survey platform and is designed to be easily modifiable and shareable under CC BY 4.0 license.
-
-To confirm, there is no affiliation or endorsement from any form platform or organization.
-
-The following guide will walk you through the form's structure and each field's purpose.
-
-</thinking>
-
 # Manufacturing Risk Assessment Workshop Registration - Help Guide
 ## Purpose
 The form is designed to collect data for a Manufacturing Risk Assessment Workshop Registration. This data will help the organizers of the workshop to tailor the content and schedule according to the needs and interests of the participants.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for community registration for the Social Movement. The purpose of this form is to collect information from individuals interested in joining the movement. To be eligible, you must not have previously registered, and you must be over 18 years old.
 
 </thinking>

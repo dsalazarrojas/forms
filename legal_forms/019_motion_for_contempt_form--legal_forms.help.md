@@ -1,9 +1,3 @@
-<thinking>
-The form "Motion For Contempt Form" is used to document information related to a motion for contempt in a legal proceeding. This form helps to gather necessary details about the motion, including the court order ID, the defendant's name, the attorney's name, and other relevant information.
-To prevent duplication and ensure accurate completion of the form, please ensure that you have the necessary information and approvals before filling it out.
-The form has multiple pages, and each page corresponds to a different section of the form. Please complete each page according to the instructions below.
-</thinking>
-
 # Motion For Contempt Form - Help Guide
 ## Purpose
 The "Motion For Contempt Form" is a document used to provide information about a motion for contempt in a legal proceeding. It is used to gather details about the court order ID, the defendant's name, the attorney's name, and other relevant information.

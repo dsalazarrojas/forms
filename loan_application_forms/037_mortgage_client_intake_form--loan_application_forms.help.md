@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information from potential clients interested in a mortgage loan. The purpose of this form is to gather relevant details about the client, their property, and the loan they are applying for. This information will help the lending institution to assess the client's creditworthiness and suitability for a mortgage loan. The client is not committing to a loan at this stage and can always withdraw their application if they choose to do so.
-
-The form is split into several sections, each focusing on a different aspect of the client's loan application. The sections are: Client Information, Loan Purpose, Contact Information, Property Details, Income and Employment, Loan Details, and Credit Score.
-
-The client is required to provide accurate and honest information to the best of their ability to ensure a smooth and successful loan application process.
-
-</thinking>
-
 # Mortgage Client Intake Form - Help Guide
 ## Purpose
 The Mortgage Client Intake Form is used to collect information from potential clients about their loan application. This form helps the lending institution assess the client's creditworthiness and suitability for a mortgage loan.

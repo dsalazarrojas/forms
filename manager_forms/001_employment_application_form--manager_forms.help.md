@@ -1,7 +1,3 @@
-<thinking>
-The employment application form is designed to collect information from job applicants, typically for internal hiring purposes within an organization. This form is used to gather relevant details about the applicant, such as their personal details, professional background, and work preferences. Before starting, please note that this form is not a standard resume template, but rather a structured guide to provide us with the necessary information to review your application.
-</thinking>
-
 # employment_application_form - Help Guide
 ## Purpose
 The employment application form is used to collect information from job applicants for internal hiring purposes within an organization.

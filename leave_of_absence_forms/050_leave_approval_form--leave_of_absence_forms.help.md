@@ -1,9 +1,3 @@
-<thinking>Before diving into the user-facing help guide, let's clarify the purpose and context of this form. The "Leave Approval Form" is used to record and manage employee leave requests. This form is intended for HR managers to approve or deny leave requests submitted by employees. It captures essential details about the request, including the employee's name, dates of the leave, reason, and other relevant information.
-
-This form will be used for both employees and managers to submit and manage leave requests. Employees will input their personal details, dates, and reason for leave, while managers will review and approve or deny these requests.
-
-The following guide will walk users through the form's purpose, how to complete it, and explain each field in detail.</thinking>
-
 # Leave Approval Form - Help Guide
 ## Purpose
 

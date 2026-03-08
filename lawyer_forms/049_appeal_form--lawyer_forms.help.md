@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from appellants seeking to appeal a decision. It is crucial that the information provided is accurate and up-to-date to ensure that the appeal process is completed efficiently and effectively. Before starting this form, please verify that you are not duplicating an existing appeal or have any new evidence that may support your claim. The form should only be filled out if there are new developments or reasons for appeal that have not been previously addressed. Please make sure to clearly and concisely answer each question to the best of your ability.
-</thinking>
-
 # Appeal Form - Help Guide
 ## Purpose
 The Appeal Form is designed to collect information from appellants seeking to appeal a decision. It captures essential details to facilitate the appeal process.

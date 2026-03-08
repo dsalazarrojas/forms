@@ -1,9 +1,3 @@
-<thinking>
-This form is for recording the confirmation of a pallet receipt, which is an essential process in the manufacturing process. It ensures that the pallet is properly accounted for and its contents are accurately tracked. This form is likely used by warehouse staff or inventory managers to confirm the arrival of a pallet with specific details such as the pallet ID, type, contents, weight, dimensions, receipt date and time, and any remarks.
-This form is designed to be filled out when a new pallet is received, and it serves as a record-keeping mechanism for inventory management.
-Before filling out the form, ensure that the pallet has been inspected and verified to ensure accuracy.
-</thinking>
-
 # Pallet Receipt Confirmation - Help Guide
 ## Purpose
 This form is used to confirm the receipt of a pallet and its contents. It ensures accurate inventory tracking and helps prevent discrepancies.

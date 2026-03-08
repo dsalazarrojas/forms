@@ -1,17 +1,3 @@
-<thinking>
-This help guide is intended to provide clear and concise instructions on how to complete the Sale Proceeds Release Form. 
-
-**Purpose:** 
-This form is used to report the sale of a property and provide details about the sale, including the buyer's and seller's information, the sale date, price, and payment method. 
-
-**Relevance:**
-This form is used for reporting the sale of a property, therefore, it is only relevant for those involved in real estate transactions, such as property agents, lawyers, or accountants. 
-
-**Non-duplication:**
-This form should not be used for duplicate purposes, such as multiple sales of the same property. 
-
-</thinking>
-
 # Sale Proceeds Release Form - Help Guide
 ## Purpose
 The Sale Proceeds Release Form is used to report the sale of a property and provide details about the sale.

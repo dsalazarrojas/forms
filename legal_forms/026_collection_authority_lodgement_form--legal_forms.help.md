@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for creditors to lodge authorities related to debt collection activities. It is a standardised form to ensure consistency and accuracy in data collection. To avoid duplication, please ensure that you have reviewed and completed the form carefully before submission. Ensure that all required fields are completed accurately and thoroughly, as incomplete or inaccurate information may delay or cause issues with the lodgement process.
-</thinking>
-
 # Collection Authority Lodgement Form - Help Guide
 ## Purpose
 The Collection Authority Lodgement Form is a standardised form used by creditors to lodge authorities related to debt collection activities. It requires accurate and complete information to ensure consistency and accuracy in data collection.

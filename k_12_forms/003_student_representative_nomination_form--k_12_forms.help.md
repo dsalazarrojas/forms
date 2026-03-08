@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended for nominating students to act as representatives for their classes or course clubs. The fields in this form gather information necessary to identify the nominated student, the class or course club they represent, the reason for their nomination, and other supporting details. This form aims to streamline the student representative nomination process, ensuring accuracy and consistency in data collection.
-</thinking>
-
 # Student Representative Nomination Form - Help Guide
 ## Purpose
 The Student Representative Nomination Form is used to collect information for student nominations. This process aims to identify students who are suitable representatives for their classes or course clubs.

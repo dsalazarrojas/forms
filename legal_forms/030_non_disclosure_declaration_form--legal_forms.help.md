@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from employees or individuals about their non-disclosure agreements, which are legal contracts that prevent the sharing of confidential or sensitive information. This form is likely used in situations where confidentiality is crucial, such as in research, business, or government settings. The form helps to ensure that individuals understand and agree to the terms of the non-disclosure agreement, which can include confidentiality, intellectual property, and other sensitive information.
-
-Before proceeding, please ensure that you have not filled out this form previously, as this is an AI-generated form and does not copy or use content from any other platform. You are free to use, modify, and distribute this form as you see fit, just be sure to give credit where credit is due.
-
-The following help guide will walk you through the form fields and provide guidance on how to complete it accurately.
-
-</thinking>
-
 # Non Disclosure Declaration Form - Help Guide
 ## Purpose
 This form is used to gather information about non-disclosure agreements from employees or individuals in various settings where confidentiality is important.

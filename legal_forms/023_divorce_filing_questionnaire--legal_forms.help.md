@@ -1,12 +1,3 @@
-<thinking>
-This is an automated process to ensure I provide accurate and concise explanations. Based on the provided YAML, this form appears to be designed for gathering information related to divorce proceedings. It seems to be part of a legal or judicial process. 
-
-The purpose of this form is to collect information for a divorce filing, which can be used as a template or guide for individuals going through this process.
-
-To prevent duplication, this form likely serves as an initial guide for users, and the information gathered may be used to generate or update existing forms or documents used in divorce proceedings.
-
-</thinking>
-
 # divorce_filing_questionnaire - Help Guide
 ## Purpose
 The divorce_filing_questionnaire form is used to collect information for a divorce filing, providing a structured approach to gathering the necessary details for this legal process.

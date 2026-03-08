@@ -1,7 +1,3 @@
-<thinking>
-This form is for applicants interested in applying for a Lead Remote Real Estate Analyst position. The form is designed to gather information about the applicant's experience, skills, and availability. Before submitting this form, please make sure you are eligible to apply for this position. If you have already submitted an application for this role, please do not fill out this form as it may be considered a duplicate.
-</thinking>
-
 # Lead Remote Real Estate Analyst Application Form - Help Guide
 ## Purpose
 This form is for applicants who want to apply for the Lead Remote Real Estate Analyst position. It helps us understand your background, skills, and availability to match you with the best opportunity.

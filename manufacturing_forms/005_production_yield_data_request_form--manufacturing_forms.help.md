@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Production Yield Data Request Form, I'll need to extract information from the provided YAML fields and provide a step-by-step guide on how to complete the form and understand each field's purpose.
-
-</thinking>
-
 # Production Yield Data Request Form - Help Guide
 ## Purpose
 This form is used to request production yield data for the manufacturing process. It helps to gather information on various aspects of production, including production data, yield rate, production rate, performance metrics, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and track employee absences from performance reviews. It helps to ensure that absences are properly documented and approved by relevant parties, ensuring continuity and accuracy in performance review processes. Before filling this form, ensure that you have reviewed the relevant policies and procedures, and that the absence is not already documented or pending approval elsewhere in the system.
-</thinking>
-
 # Performance Review Absence Form - Help Guide
 ## Purpose
 

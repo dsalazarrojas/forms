@@ -1,9 +1,3 @@
-<thinking>
-
-The form "Production Camera Equipment Proficiency Employment Form" appears to be designed for job applicants to provide personal information and details about their proficiency in using camera equipment. This form likely serves as a part of the hiring process, allowing the employer to assess the suitability of the candidate for a position that requires camera operation proficiency. This form seems to be comprehensive, covering contact information, experience, skills, and personal data. However, it also includes some fields that may seem unrelated to the job application, such as height, weight, eye color, and hair color. These fields might be included for additional purposes, such as background checks or identity verification, but it's not immediately clear. To ensure the form's purpose is met and to avoid duplication of effort, it's essential to review and confirm with the form's intended use cases.
-
-</thinking>
-
 # Production Camera Equipment Proficiency Employment Form - Help Guide
 ## Purpose
 The Production Camera Equipment Proficiency Employment Form is designed to collect personal and professional information from job applicants to assess their suitability for a position that requires proficiency in camera equipment operation. 

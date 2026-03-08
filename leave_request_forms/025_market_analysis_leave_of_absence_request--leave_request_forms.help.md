@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about an employee's leave of absence request. The form is intended to be filled out by an employee, and the purpose of this document is to guide them through the process of completing the form accurately and efficiently. Before filling out the form, please ensure that you have all the necessary information required for each field. This form is not a template for managers or administrators to fill out; it is for employee use only. If you are a manager or administrator, please do not fill out this form. Please review the form carefully and only submit a request if it is complete and accurate. If a field is left blank, it may delay or reject your leave request. This form is designed to be completed on one page.
-</thinking>
-
 # Market Analysis Leave of Absence Request - Help Guide
 ## Purpose
 The market analysis leave of absence request form is used by employees to request a leave of absence for personal or work-related reasons. This form captures essential information about the reason for the leave, its duration, and potential return date. It is crucial to fill out the form accurately and completely to ensure a smooth leave request process.

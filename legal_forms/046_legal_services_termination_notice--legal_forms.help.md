@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the termination of legal services, including the date and reason for termination, as well as any relevant details. This form should only be used for this specific purpose and not for any other reason.
-To ensure the form is filled out correctly, please review each field carefully and make sure you have all the necessary information before proceeding. Note that some fields are optional but may be required in certain circumstances.
-</thinking>
 # Legal Services Termination Notice - Help Guide
 ## Purpose
 This form is used to record the termination of legal services provided to a client. It captures essential details about the termination date, reason, and any relevant circumstances surrounding the termination.

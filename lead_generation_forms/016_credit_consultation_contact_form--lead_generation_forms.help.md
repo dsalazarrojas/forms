@@ -1,5 +1,3 @@
-<thinking>...This form is for generating new leads for the credit consultation service. It's meant to be used by customers who are interested in receiving a consultation regarding their credit score and potential credit options. The form will be reviewed by our team to verify the information provided and ensure it's legitimate. If the information is not legitimate, it will not be accepted and will be removed from the system.</thinking>
-
 # credit_consultation_contact_form - Help Guide
 ## Purpose
 The credit consultation contact form is designed to provide potential customers with a way to reach out to us for credit consultation. 

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive checklist for inspecting prototypes in a manufacturing process. It covers various aspects of the prototype, from its current status to its production and review details. This form is intended to ensure that all necessary information is collected and documented during the inspection process, facilitating efficient tracking and decision-making.
-
-Before filling out this form, please ensure that you have the relevant information and approvals necessary to complete it accurately. It is recommended that you review the form carefully and ensure that you have the necessary permissions or approvals before proceeding.
-
-Also, please note that some fields may require additional context or explanations to be filled out correctly. If you're unsure about any field, please review the field name and its corresponding label for guidance.
-
-Please ensure that you fill out all required fields to the best of your abilities and provide clear and concise answers whenever possible.
-
-This guide is intended to be a reference for end-users who are not familiar with the form. If you have any questions or need further clarification, please do not hesitate to reach out to the relevant personnel.
-</thinking>
-
 # prototype_inspection_checklist - Help Guide
 ## Purpose
 This form is designed to collect and document essential information during the inspection of prototypes in a manufacturing process.

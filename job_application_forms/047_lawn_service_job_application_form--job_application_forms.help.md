@@ -1,9 +1,3 @@
-<thinking>
-
-The form is intended to collect job application information from individuals applying for lawn service jobs. The form is likely used by lawn care companies to manage their hiring process, and it will be used by applicants to provide information about themselves. This form should not be used for other purposes.
-
-</thinking>
-
 # Lawn Service Job Application Form - Help Guide
 ## Purpose
 This form is used to collect job application information from individuals applying for lawn service jobs. The information collected on this form will be used by lawn care companies to review and process applications.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students on their evaluation of a course they have taken. The purpose of this form is to help instructors understand the effectiveness of their teaching methods and materials, allowing them to make adjustments to improve the learning experience. It is essential to fill out this form to provide valuable insights that can help shape future course development and delivery. Please fill out this form only once for each course you have taken. If you have already submitted an evaluation for the same course, please do not resubmit. Your responses will be kept confidential and used solely for the benefit of the course and its instructors.
-</thinking>
-
 # Course Evaluation Form - Help Guide
 ## Purpose
 The Course Evaluation Form is designed to collect feedback from students on their evaluation of a course they have taken. This feedback is essential for instructors to understand what they are doing well and what they can improve on for future courses.

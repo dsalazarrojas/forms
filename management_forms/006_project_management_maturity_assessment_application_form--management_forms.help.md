@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the management maturity of a project, which is the ability of a project management team to effectively manage and deliver projects. It helps to evaluate the team's structure, process, and performance. The form collects information about project and team details, such as project team, name, status, type, start and end dates, duration, location, and other relevant details. By completing this form, the project management team can self-assess their management practices and identify areas for improvement.
-To avoid duplication, please ensure that you complete this form only once for each project.
-</thinking>
-
 # Project Management Maturity Assessment Application Form - Help Guide
 ## Purpose
 The Project Management Maturity Assessment Application Form is used to evaluate the management maturity of a project and its team.

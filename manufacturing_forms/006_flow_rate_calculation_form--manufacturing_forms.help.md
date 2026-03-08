@@ -1,35 +1,3 @@
-<thinking>
-The purpose of this form is to help users calculate the flow rate of a fluid flow, which is the rate at which fluid flows through a system or network. To complete this form, users will need to provide information about the flow inputs, calculate the flow rate, and validate the result.
-
-The form consists of several fields:
-* Flow Inputs: This is where the user can enter the inputs required for the flow rate calculation.
-* Flow Rate Calculation: This field is where the user can select the calculation type.
-* Flow Rate: This is the calculated flow rate.
-* Area: This is the area through which the fluid flows.
-* Velocity: This is the velocity of the fluid.
-* Fluid Density: This is the density of the fluid.
-* Flow Rate Units: This is the unit of measurement for the flow rate.
-* Calculation Units: This is the unit of measurement for the calculation.
-* Result Notes: This is where the user can add additional notes for the result.
-* Calculation Validation Result: This is where the user can validate the calculation result.
-* Result Validation Result: This is where the user can validate the result.
-* Calculation Result Notes: This is where the user can add additional notes for the calculation result.
-* Flow Rate Result: This is where the user can select the result of the flow rate calculation.
-* Result Units: This is the unit of measurement for the result.
-* Result Validation Result: This is where the user can validate the result.
-* Calculation Result Notes: This is where the user can add additional notes for the result.
-
-Before filling out the form, users should ensure that they have all the required information and that the inputs are accurate.
-
-This form is designed to be used by users with some knowledge of fluid mechanics and flow rate calculations. If the user is unsure about any of the inputs or calculations, they should consult with a subject matter expert.
-
-The form is divided into several sections:
-  1. Flow Inputs: This is where the user can enter the inputs required for the calculation.
-  2. Calculation: This is where the user can select the calculation type.
-  3. Results: This is where the user can select the result of the flow rate calculation.
-  4. Validation: This is where the user can validate the calculation result.
-</thinking>
-
 # Flow Rate Calculation Form - Help Guide
 ## Purpose
 The purpose of this form is to help users calculate the flow rate of a fluid flow, which is the rate at which fluid flows through a system or network.

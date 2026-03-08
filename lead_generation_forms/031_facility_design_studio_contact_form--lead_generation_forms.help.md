@@ -1,10 +1,3 @@
-<thinking>
-This help guide is designed to provide users with a clear understanding of the purpose and functionality of the Facility Design Studio Contact Form. 
-
-**Internal Note:** Before proceeding, please ensure the form is being used for its intended purpose, namely generating leads for new projects or inquiries. Repeating this process for the same project or inquiry may lead to duplication of effort and unnecessary data. 
-
-</thinking>
-
 # Facility Design Studio Contact Form - Help Guide
 ## Purpose
 The Facility Design Studio Contact Form is a tool designed for users to submit information about potential projects or inquiries to the design team. This form helps the team in generating new leads and facilitating the project generation process.

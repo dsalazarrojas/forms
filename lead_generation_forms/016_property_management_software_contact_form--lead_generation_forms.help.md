@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a contact form for Property Management Software, which is likely used to gather information from potential clients or customers. The form has a mix of text, date, and select fields, suggesting that it's designed to collect both basic contact information and details about the user's interests and preferences.
-</thinking>
-
 # Property Management Software Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and details about the user's interests and preferences for Property Management Software. It's meant to help our team understand the user's needs and provide better support.

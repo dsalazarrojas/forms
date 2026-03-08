@@ -1,8 +1,3 @@
-<thinking>
-This form is for requesting proxy authorization, typically for accessing restricted areas or resources.
-The fields on this form are designed to capture basic contact information for the proxy and the person they are authorizing.
-</thinking>
-
 # Proxy Authorization Request Form - Help Guide
 ## Purpose
 This form is for requesting proxy authorization, typically for accessing restricted areas or resources. Fill out this form if you need someone else to vouch for you.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients on a design submission. It is intended to be completed by the client after reviewing a design and is used to track their response and feedback. This form should only be completed if the client has reviewed the design and has a response or feedback to provide. 
-
-Before completing this form, please ensure that you have reviewed the design and are providing accurate and relevant feedback. If you are not sure about any of the fields, please contact your designer or the person responsible for the design project.
-
-Please complete this form carefully and thoroughly, as it will be used to track your response and feedback.
-</thinking>
-
 # design_approval_form - Help Guide
 ## Purpose
 This form is used to collect feedback from clients on a design submission. It ensures that the client's response and feedback are recorded and tracked for future reference.

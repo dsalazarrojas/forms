@@ -1,7 +1,3 @@
-<thinking>
-The form is for requesting the cancellation of a child support order. To be eligible for cancellation, the person requesting cancellation must be an interested party in the child support order. The form should only be used to request cancellation if the child is still under the age of majority (18 or younger) and the child support order is still in effect. If the child has reached the age of majority, the form cannot be used to request cancellation, as the child support order is no longer applicable. The form will ask for detailed information about the child and the child support order, as well as the reason for requesting cancellation. Please review the instructions carefully and ensure that you have all necessary information before completing the form.
-</thinking>
-
 # Child Support Cancellation Form - Help Guide
 ## Purpose
 The Child Support Cancellation Form is used to request the cancellation of a child support order. This form should only be used by an interested party in the child support order and the child must be under the age of majority (18 or younger).

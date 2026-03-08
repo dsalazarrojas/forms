@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from a witness about an incident or event that they have witnessed. This form is meant to be completed by a witness who has personal knowledge of the facts and is able to provide a factual account of what they saw or heard. The form is used to gather details about the witness's identity, their relationship to the parties involved, and their personal knowledge of the incident. This form is an affidavit, which is a legal declaration that is typically used as evidence in court cases. The information collected on this form will be used to support the case and provide a witness's statement or testimony.
-</thinking>
-
 # Affidavit Witness Statement Form - Help Guide
 ## Purpose
 The Affidavit Witness Statement Form is a legal document that is used to collect information from a witness about an incident or event they have witnessed. This form is used to gather details about the witness's identity, their relationship to the parties involved, and their personal knowledge of the incident.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who want to register their team for a league tournament. This form will ask for basic contact and team details to ensure that the team can be properly registered and contacted for tournament-related communications. It is recommended that users complete this form only once per team to avoid duplicate registrations.
-
-To complete this form, users must fill in the required fields, which are marked as such. Please note that some fields are optional and can be left blank if not applicable. 
-
-</thinking>
-
 # League Tournament Registration - Help Guide
 ## Purpose
 The League Tournament Registration form is used to collect team information for a league tournament.

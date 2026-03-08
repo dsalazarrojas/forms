@@ -1,12 +1,3 @@
-<thinking>
-The housing repair program access consent form is designed to gather information from residents and property managers for the housing repair program. This form is used to track the progress and status of repair requests, ensuring that all relevant parties are aware of the current state of the request. The form's purpose is to provide a clear and concise way to collect and manage data, improving communication and efficiency in the repair process.
-
-The form is divided into various sections, each with its own set of fields that capture different types of information. The sections include resident information, property manager information, repair request details, and follow-up information. The fields within each section aim to gather necessary data to facilitate effective communication and tracking of repair requests.
-
-Before filling out the form, please ensure that you have all the required information ready. If you are unsure about any field, please refer to the field-by-field explanations below for clarity.
-
-</thinking>
-
 # housing_repair_program_access_consent_form - Help Guide
 ## Purpose
 The housing repair program access consent form is designed to gather information from residents and property managers for the housing repair program. This form is used to track the progress and status of repair requests, ensuring that all relevant parties are aware of the current state of the request.

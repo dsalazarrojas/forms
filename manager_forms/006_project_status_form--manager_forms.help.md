@@ -1,25 +1,3 @@
-<thinking>
-This help guide will explain how to use the "Project Status Form" which is used to track and update project status information.
-
-The form is designed to be flexible and adaptable, allowing users to input various types of information about their projects. It is intended to be used for internal purposes, and the information collected will be used by project managers and other stakeholders to stay up-to-date on project progress and status.
-
-The form has multiple pages, each with different fields and options. The fields are:
-
-*   project status form project: This field is for entering the name or title of the project.
-*   project start date: This field is for entering the start date of the project.
-*   project end date: This field is for entering the end date of the project.
-*   project status: This field is for selecting the current status of the project.
-*   project notes: This field is for entering additional notes or comments about the project.
-*   project category: This field is for selecting the category of the project.
-*   project priority: This field is for entering the priority of the project.
-*   responsible: This field is for entering the person or team responsible for the project.
-*   project start time: This field is for entering the start time of the project.
-*   project end time: This field is for entering the end time of the project.
-*   project status change date: This field is for entering the date when the project status was last changed.
-*   project status change note: This field is for entering a note about the status change.
-
-</thinking>
-
 # Project Status Form - Help Guide
 ## Purpose
 The "Project Status Form" is used to track and update project status information.

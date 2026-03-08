@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide feedback and comments on the RNA sequence analysis workflow, which is a critical step in genetic research and analysis. The purpose of this form is to collect information about the workflow's quality, sequencing platform used, and any issues or suggestions from the users. This form is intended for internal use and is not meant to be a public-facing form. I'll be using the provided YAML to create a comprehensive user guide.
-</thinking>
-
 # RNA Seq Analysis Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and comments from users about the RNA sequence analysis workflow, which is a crucial process in genetic research and analysis.

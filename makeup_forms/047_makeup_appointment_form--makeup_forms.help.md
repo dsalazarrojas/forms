@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Makeup Appointment Form - Help Guide
 ## Purpose
 The Makeup Appointment Form is designed to help customers schedule and confirm makeup services. This guide will walk you through each field to ensure a smooth and accurate completion process.

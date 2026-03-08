@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for employees who need to request time off for jury duty. It is a simple, one-page form that allows employees to provide basic information about their jury duty obligations. Please ensure that you only submit this form for actual jury duty, and not for other types of time off or leave.
-
-To determine if this form is relevant for you, check if you have received an official jury summons and are required to appear for jury duty. If so, you can proceed to complete this form.
-
-To complete this form, please follow the instructions below. If you are unsure about any field, please refer to the field-by-field explanation section for more details.
-
-Please note that all fields are optional but will be used to process your request more efficiently.</thinking>
-
 # Jury Duty Time Off Form - Help Guide
 ## Purpose
 This form is for employees who need to request time off for jury duty. It is used to provide information about their jury duty obligations so that their time off can be processed.

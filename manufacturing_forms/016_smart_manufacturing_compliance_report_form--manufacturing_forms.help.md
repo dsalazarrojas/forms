@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Manufacturing Compliance Report Form - Help Guide
 ## Purpose
 This form is designed to help manufacturing teams record and track compliance incidents, including non-compliance incidents, corrective actions, and follow-up frequencies. It ensures that teams are able to effectively report and manage compliance issues, improving overall manufacturing quality and efficiency.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for maintenance requests from property owners or managers to report issues or needs with the property. It is used to gather information about the property's condition and facilitate effective communication between the owner and the maintenance team. This form is a communication tool, not a formal complaint or incident report, and is meant to be used for routine maintenance tasks or requests for repairs. Before filling out this form, please ensure that you have a clear idea of the issue or request you wish to report.
-</thinking>
-
 # Maintenance Request Communication Form - Help Guide
 ## Purpose
 This form is designed for property owners or managers to report maintenance requests, provide a clear and concise description of the issue, and ensure that the maintenance team has all the necessary information to perform the task efficiently.

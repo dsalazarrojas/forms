@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from students who are in need of loan assistance. It is designed to help the student services team understand the student's situation and provide the necessary support. This form should only be filled out once for each student, and it's best to fill it out as soon as possible to ensure timely assistance.
-</thinking>
-
 # Student Loan Assistance Intake Form - Help Guide
 ## Purpose
 The Student Loan Assistance Intake Form is used to collect information from students who are in need of loan assistance. This form helps the student services team understand the student's situation and provide the necessary support.

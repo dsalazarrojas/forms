@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect information about a child custody case, gathering details from both parents, including their personal information, residence, and the type of custody and visitation requested. The form is likely to be used by courts or legal professionals in the process of handling child custody cases. To create this help guide, I will ensure that each section and field is explained in a clear and concise manner, following the provided YAML fields... </thinking>
-
 # Child Custody Form - Help Guide
 ## Purpose
 This form is used to collect information about a child custody case, providing details from both parents and outlining the type of custody and visitation arrangements requested.

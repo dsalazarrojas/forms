@@ -1,29 +1,3 @@
-<thinking>
-
-As a technical writer, I need to create a comprehensive help guide for the Guardian Task Management Form. This form is designed to collect and store information about tasks and their management. To start, let's dive into the internal reasoning behind this form.
-
-The Guardian Task Management Form is a tool used to manage tasks and their associated data. The form collects information on tasks, including due dates, status, priority, assigned personnel, and comments. The form is designed to be simple and user-friendly, making it easy for users to input and update task-related data.
-
-This form is intended for use by administrators or supervisors to manage tasks within their organization. The form provides a structured way to collect and store data on task due dates, status, priority, assigned personnel, and comments. The form's design allows for easy navigation and inputting of data, making it an efficient tool for task management.
-
-The form has multiple pages, each with its own set of fields. The first page, "Task Management Form", has fields for "Task Due Date", "Task Status", "Task Priority", "Task Assigned To", "Task Comments", "Task Notes", "Task Assigned By", "Task Comments 2", "Task Notes 2", and "Task Priority 2". The second page is not defined in the provided YAML.
-
-Before proceeding, let's review the form's fields and their purposes:
-
-*   **Task Due Date**: This field is used to input the due date of the task.
-*   **Task Status**: This field is used to select the status of the task (Active, Completed, Inactive, or On Hold).
-*   **Task Priority**: This field is used to select the priority of the task (Low, Medium, High, or Urgent).
-*   **Task Assigned To**: This field is used to select the person assigned to the task (John Doe or Jane Doe).
-*   **Task Comments**: This field is used to input additional comments about the task.
-*   **Task Notes**: This field is used to input additional notes about the task.
-*   **Task Assigned By**: This field is used to select the person who assigned the task (John Doe or Jane Doe).
-*   **Task Comments 2**: This field is used to input additional comments about the task (optional).
-*   **Task Notes 2**: This field is used to input additional notes about the task (optional).
-*   **Task Priority 2**: This field is used to select the priority of the task (Low, Medium, High, or Urgent) (optional).
-*   **Task Status 2**: This field is used to select the status of the task (Active, Completed, Inactive, or On Hold) (optional).
-
-</thinking>
-
 # Guardian Task Management Form - Help Guide
 
 ## Purpose

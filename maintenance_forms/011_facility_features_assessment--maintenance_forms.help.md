@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess the features of a facility, providing a systematic and comprehensive evaluation of the different aspects of a facility. The form is intended to be filled out by facility managers, owners, or users to gather information about the features and condition of various facilities. This form helps to identify areas that require attention or improvement, which can lead to enhanced safety, efficiency, and overall performance of the facility.
-The form is part of a larger process for maintaining and improving facilities. It is not a survey or a general assessment tool; it is a specific, actionable evaluation of facility features.
-The form is designed for facilities with five features to be assessed. Please make sure to evaluate all features and provide the correct information.
-</thinking>
-
 # Facility Features Assessment - Help Guide
 ## Purpose
 This form is designed to assess the features of a facility, providing a systematic and comprehensive evaluation of the different aspects of a facility.

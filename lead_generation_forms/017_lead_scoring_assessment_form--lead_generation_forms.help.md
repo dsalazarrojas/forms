@@ -1,15 +1,3 @@
-<thinking>
-This form is used for lead scoring and assessment. It is a crucial part of the sales process, where the team evaluates the leads and assigns a score based on their quality and priority. The form is used to collect information about the customer, including their name, company, email, phone number, and other relevant details. This information is then used to determine the lead status and priority.
-
-The form is divided into two main sections: customer information and lead assessment. The customer information section includes fields for the customer's name, email, phone number, and company. The lead assessment section includes fields for lead type, score, priority, date created, and lead status. 
-
-The form is used to assess the quality of the leads and assign a score, which helps the team to identify the most valuable leads and prioritize them accordingly. 
-
-This form is an important tool for sales teams to evaluate and manage leads effectively. By using this form, the team can save time and improve lead conversion rates.
-
-The following form is a 12-field form divided into two sections: customer information and lead assessment.
-</thinking>
-
 # Lead Scoring Assessment Form - Help Guide
 ## Purpose
 This form is used to collect customer information and evaluate the quality and priority of leads for sales teams to identify and prioritize the most valuable leads.

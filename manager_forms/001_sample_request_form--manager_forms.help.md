@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a larger system and is intended to be a sample request form for collecting information from users. It is likely used for a specific business purpose, such as customer support or sales, and should only be filled out by users who are relevant to the business process. To ensure that the form is used correctly, the business process should be clearly defined and communicated to all users.
-</thinking>
-
 # Sample Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for a sample request. It is intended to be filled out by users who are relevant to the business process.

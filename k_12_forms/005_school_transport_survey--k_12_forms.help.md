@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about students' transportation to school. This form should only be filled out by students who are currently enrolled in the school or by school administrators to provide details about the school's transportation services. Please fill this form accurately and thoroughly. 
-</thinking>
-
 # School Transport Survey - Help Guide
 
 ## Purpose

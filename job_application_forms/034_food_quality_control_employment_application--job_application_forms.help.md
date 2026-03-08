@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employment applications for food quality control positions. The purpose of this form is to gather information from candidates about their experience, education, and job preferences. The form is divided into several sections that cover job application form, candidate details, contact details, employment details, job preferences, and more. It's essential to fill out this form accurately to ensure that your application is complete and error-free.
-</thinking>
-
 # Food Quality Control Employment Application - Help Guide
 ## Purpose
 The purpose of this form is to collect information from job applicants for food quality control positions.

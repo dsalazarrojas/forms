@@ -1,5 +1,3 @@
-<thinking>...The form is designed for immigration consultants to obtain a liability waiver from their clients before rendering services. This ensures that the consultant is protected against any potential legal claims that may arise during the consultation process. The form is not intended for use in situations where the consultant is seeking liability protection for services already rendered. It is best to fill out the form for each new client on an individual basis...</thinking>
-
 # Immigration Consultancy Liability Waiver - Help Guide
 ## Purpose
 The Immigration Consultancy Liability Waiver form is designed to be used by immigration consultants to obtain a waiver from their clients, protecting themselves against potential legal claims.

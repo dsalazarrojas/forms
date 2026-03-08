@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used in an internal management context, possibly for planning and forecasting purposes within a company or organization. It seems to be related to tracking and managing financial data, such as cash inflow and actual dates. The form might be used to submit and review forecast and actual data, possibly for reporting or analysis purposes. To ensure accuracy, it's essential to carefully read and understand each field's purpose to provide the correct information. Please verify that you're not submitting duplicate or incorrect data.
-</thinking>
-
 # Treasury Forecast Submission Application Form - Help Guide
 ## Purpose
 This form is designed to help users submit and track financial forecast and actual data for a specific period. It gathers information on department, period, cash inflow, and other relevant details to facilitate planning and analysis.

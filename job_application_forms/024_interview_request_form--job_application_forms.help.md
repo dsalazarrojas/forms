@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals to request an interview with a hiring manager or recruiter. It should be completed by applicants who are interested in discussing potential job opportunities at the company. It's essential to ensure that each form submission is a genuine request for an interview and not a duplicate submission. This form will help us assess the applicant's qualifications, fit, and interest in the role, making it an essential part of the hiring process.
-</thinking>
-
 # Interview Request Form - Help Guide
 ## Purpose
 The Interview Request Form is a simple form used by applicants to request an interview with a hiring manager or recruiter for potential job openings at the company. This form gathers essential information about the applicant, such as their name, contact details, and a link to their resume.

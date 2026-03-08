@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information related to a court objection or consent matter. It is intended for use in scenarios where a party is required to provide details about a case, including any relevant references, written statements, and acknowledgments. The form also collects contact information for the parties involved. The purpose of this form is to facilitate communication and record-keeping during the court process.
-
-To ensure that the information collected is accurate and complete, it is essential to understand each field's purpose and requirements. This guide will walk you through the form's sections and fields to help you complete it effectively.
-
-</thinking>
-
 # Court Objection And Consent Form - Help Guide
 ## Purpose
 The Court Objection And Consent Form is designed to collect information about a court case, including party details, case references, written statements, and acknowledgments. This form aims to facilitate communication and record-keeping during the court process.

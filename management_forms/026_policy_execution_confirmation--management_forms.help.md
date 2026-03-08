@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to confirm the execution of policies within an organization. It is intended for use by employees or management to acknowledge and document the completion of specific policies or tasks. 
-
-The purpose of this form is to ensure that policies are being executed correctly and in accordance with the organization's guidelines. The form will be used by staff members to provide an account of their actions regarding policy execution, which will be reviewed and verified by management. 
-
-Before completing this form, please ensure that you have all the necessary information and that it is accurate. If you are unsure about any of the fields or the process, please reach out to your supervisor or the relevant department for guidance.
-
-</thinking>
-
 # Policy Execution Confirmation - Help Guide
 ## Purpose
 The Policy Execution Confirmation form is used to document and confirm the execution of policies within an organization. This form helps ensure that policies are being implemented correctly and in accordance with the organization's guidelines.

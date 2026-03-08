@@ -1,9 +1,3 @@
-<thinking>
-This form is for reporting on the integration between factory systems. It is meant to be used for gathering and documenting data on various aspects of the integration process. Please note that the form is not mandatory, but it can aid in providing a clear and organized structure for your submissions. 
-
-To ensure accuracy and avoid duplication, review your project's existing reports before filling out this form. If you're unsure about the purpose of this form or its relevance to your project, please reach out to your project lead or team lead for clarification.
-</thinking>
-
 # Factory System Integration Report Form - Help Guide
 ## Purpose
 The Factory System Integration Report Form is a tool used to document and track the progress of factory system integration projects. It helps in gathering essential information about project details, integration tasks, outcomes, issues, and attachments. This form aims to provide a structured and organized approach to report on various aspects of the factory system integration process.

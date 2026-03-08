@@ -1,7 +1,3 @@
-<thinking>
-This form is used in a legal context to document the separation of two parties. The purpose of this form is to provide a formal agreement between the parties regarding the division of assets and properties, as well as the custody of any children involved. This form is typically used in divorce or separation proceedings.
-</thinking>
-
 # Separation Agreement Declaration Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on the quality of the legal services they received. The purpose of this form is to gather information on how well the services met the user's expectations and to identify areas that need improvement. This form is meant for users to provide their honest and constructive feedback, which will be reviewed and used to enhance the services provided.
-Before completing this form, please ensure you are providing feedback on a recent experience with the legal service. This form is not intended for general feedback or comments, but rather specific feedback on a particular service encounter.
-This form includes fields for rating the service, providing feedback on its quality, and sharing additional comments or concerns. Some fields are optional and can be left blank.
-</thinking>
-
 # Legal Service Quality Feedback - Help Guide
 ## Purpose
 The Legal Service Quality Feedback form is designed to collect feedback on the quality of services provided by legal service providers. It helps us understand your experience and identify areas for improvement.

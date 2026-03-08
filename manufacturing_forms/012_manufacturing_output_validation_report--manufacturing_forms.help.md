@@ -1,8 +1,3 @@
-<thinking>
-This help guide is designed to assist end-users in completing the Manufacturing Output Validation Report form. The form is intended for manufacturers to report on the validation of their output, providing details on batch production, inspection results, quantities, and any observations. Before proceeding, it is essential to ensure this form is relevant to your manufacturing process and not a duplicate of an existing form. If you're unsure, refer to your organization's guidelines or contact the form creator for clarification.
-
-</thinking>
-
 # Manufacturing Output Validation Report - Help Guide
 ## Purpose
 This form is designed for manufacturers to report on the validation of their output, providing details on batch production, inspection results, quantities, and observations.

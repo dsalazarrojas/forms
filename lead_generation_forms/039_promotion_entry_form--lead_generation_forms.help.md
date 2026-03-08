@@ -1,9 +1,3 @@
-<thinking>
-The "Promotion Entry Form" is a form designed to collect contact information and preferences from individuals interested in a promotion or offer. This form is used to gather data for marketing purposes and to allow users to opt-in or opt-out of receiving messages from the organization. The form is intended for people who want to take advantage of a promotion or offer, and it's essential to ensure that the collected data is accurate and up-to-date.
-
-Before proceeding, please check that you have not already submitted this form. Duplicate entries may cause confusion and lead to unnecessary messages being sent to you.
-</thinking>
-
 # Promotion Entry Form - Help Guide
 
 ## Purpose

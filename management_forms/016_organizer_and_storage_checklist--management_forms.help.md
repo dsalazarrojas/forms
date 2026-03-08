@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for inventory management in a warehouse or storage facility. It might be part of a larger system for tracking and updating the status of storage areas, issues, and organizing priorities. The form could be used by facility managers or supervisors to keep track of various aspects of storage areas, including their status, issues, and organizing priorities. Before creating this guide, I've reviewed the form fields to ensure they are well-understood and easily fillable by end-users.
-</thinking>
-
 # Organizer And Storage Checklist - Help Guide
 ## Purpose
 This form is used to track and update the status of storage areas, including their issues and organizing priorities.

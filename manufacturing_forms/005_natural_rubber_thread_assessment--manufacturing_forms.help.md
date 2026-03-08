@@ -1,14 +1,3 @@
-<thinking>
-
-This form is designed to assess the quality of a natural rubber thread sample. It is intended for evaluating the thread's appearance and defects. 
-
-Before completing this form, please make sure you have the necessary information and that you are authorized to complete it. 
-
-If you are unsure about any of the fields or the purpose of the form, please reach out to the responsible person or the system administrator for clarification or assistance.
-
-
-</thinking>
-
 # Natural Rubber Thread Assessment - Help Guide
 ## Purpose
 The Natural Rubber Thread Assessment form is used to evaluate the quality of a natural rubber thread sample. It is a critical component of the quality control process to ensure that the thread meets the required standards.

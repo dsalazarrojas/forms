@@ -1,15 +1,3 @@
-<thinking>
-We will assume that the form is used for a home loan application, and the purpose of the form is to collect information from the applicant about their personal and financial situation. This form will be used to process loan applications for homes, and the fields will require information about the applicant's identity, employment status, income, and other relevant details.
-
-Before filling this form, please make sure you have all the required information ready. If you need help with any of the fields, feel free to ask. We aim to make this process as simple and efficient as possible.
-
-Please note that some fields may be optional, but they may be required for further processing or verification. If a field is required, it will be indicated as such in the field description.
-
-Also, please be aware that some of the fields may have specific requirements or constraints, such as a valid email address for the "Email" field or a valid social security number for the "Social Security Number" field.
-
-We will guide you through each field and provide explanations for any unclear or ambiguous fields.
-</thinking>
-
 # home_loan_application - Help Guide
 ## Purpose
 This form is used to collect information from applicants for a home loan application. The purpose of this form is to gather relevant details about the applicant's identity, employment status, income, and other necessary information to process the loan application.

@@ -1,10 +1,3 @@
-<thinking>
-This form is likely being used to create a solicitor's instruction sheet, which is a document that outlines the instructions and information related to a legal document or case. This form is designed to collect information from both the solicitor and the client, ensuring that all relevant details are captured accurately and consistently.
-The form purpose is likely for internal use within a legal firm or organization, to standardize and streamline the process of creating instruction sheets for various legal documents.
-There is no indication that this form is for external use, such as being shared with clients or other external parties.
-The form seems to be a simple, one-page form that captures basic information from the solicitor and client sides.
-</thinking>
-
 # Solicitor's Instruction Sheet - Help Guide
 ## Purpose
 The Solicitor's Instruction Sheet is a document that outlines the instructions and information related to a legal document or case. It is used to capture relevant details from both the solicitor and client sides.

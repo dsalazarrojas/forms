@@ -1,19 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and functionality of the project_change_order_form form. The form is used to capture and document project changes, including details about the project, the change request, and the status of the project.
-
-Before proceeding, please note that this form is designed to be used by project team members and stakeholders to communicate and track project changes. It's essential to ensure that you have a clear understanding of the form's purpose and how it's used within your organization.
-
-To determine if you need to use this form, ask yourself:
-
-* Are you a project team member or stakeholder requesting a project change?
-* Do you need to document project details, changes, and status updates?
-
-If you answered "yes" to these questions, this form is likely the right tool for you. However, if you're unsure or have specific needs that differ from the form's scope, please contact your project manager or technical support for further guidance.
-
-Now, let's get started with the step-by-step guide on how to complete this form!
-
-</thinking>
-
 # project_change_order_form - Help Guide
 ## Purpose
 The project_change_order_form is designed to capture and document project changes, including project details, change requests, and status updates. It helps project team members and stakeholders communicate and track project changes effectively.

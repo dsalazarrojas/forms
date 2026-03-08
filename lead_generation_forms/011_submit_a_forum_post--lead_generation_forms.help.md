@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a submission mechanism for users to share their thoughts, ideas, or expertise on a specific topic. It allows users to select a category, add relevant tags, and potentially attach files to support their response. The form does not enforce strict requirements, making it suitable for users who wish to provide informal feedback or participate in discussions. This form is meant to be a starting point for a more detailed discussion within the specified category.
-</thinking>
-
 # Submit A Forum Post - Help Guide
 ## Purpose
 This form is designed to collect user-generated content for a specific category, allowing users to engage in discussions and share their expertise.

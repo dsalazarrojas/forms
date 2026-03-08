@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and consent from clients for permanent makeup services. The form asks for basic client information, contact details, and service specifics (services offered, location, date, time, duration, and price). The client is also asked to provide their signature as a form of consent. This form appears to be used for booking and scheduling appointments. 
-</thinking>
-
 # Permanent Makeup Consent Form - Help Guide
 ## Purpose
 The Permanent Makeup Consent Form is a document that helps us understand your preferences and requirements for our permanent makeup services. It's an essential part of the booking process, and it helps us tailor your experience and deliver the best results.

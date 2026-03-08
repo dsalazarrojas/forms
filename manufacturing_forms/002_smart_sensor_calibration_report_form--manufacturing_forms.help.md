@@ -1,13 +1,3 @@
-<thinking>
-  The "Smart Sensor Calibration Report Form" appears to be used for collecting data related to the calibration process of smart sensors. Given the lack of detailed information in the YAML, we can assume that the form is likely used to record sensor-specific data points, such as sensor ID, location, and calibration settings. 
-  To ensure that the form does not collect redundant data, it is essential to check if this form is already being used for similar purposes within the organization before using it.
-  The form consists of three pages: "sensor_details", "calibration_details", and "submission_details". Each page contains a single text field without any options or hints.
-  Based on the name and label of each page, we can infer that:
-  - "sensor_details" might be used to collect general information about the sensor, such as its ID and location.
-  - "calibration_details" might be used to record the details of the calibration process, such as date, time, and settings.
-  - "submission_details" might be used to capture additional information related to the submission of the data, such as the person in charge or the timestamp.
-</thinking>
-
 # Smart Sensor Calibration Report Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pharmaceutical Lab Equipment Requisition Form - Help Guide
 ## Purpose
 This form is designed to streamline the process of requesting and approving pharmaceutical lab equipment. It captures key information about the equipment, including its name, type, department, lab location, and other relevant details. This helps ensure that requests are properly documented and approved, reducing errors and delays in the procurement process.

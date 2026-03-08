@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for customers to input their business details, return volumes, and return challenges related to their smart returns optimization journey. It is intended to help the business understand their current state and provide a starting point for further analysis. The form is not intended for customers who have already completed this form in the past 90 days. This form will serve as a reference for future optimization efforts, so please provide accurate and up-to-date information. If you have completed this form in the past, please do not submit it again. If you are unsure if this form is applicable to you, please contact your account manager for clarification.
-
-</thinking>
-
 # Smart Returns Optimization Registration Form - Help Guide
 ## Purpose
 

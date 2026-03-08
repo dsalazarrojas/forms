@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for capturing information about sales referrals. The goal is to gather data on customers or prospects that have been referred to the sales team by an individual. This form is likely used in a business-to-business (B2B) sales context. It seems that the form is designed to track the number of people informed about a sales opportunity, the means by which they were informed (e.g., email, phone, in-person), and other relevant details. The fields are relatively straightforward and easy to understand. However, some field labels could be clearer (e.g., "Number Informed at Work" and "Number Informed Outside of Work" could be combined into a single field or rephrased for better clarity). The form does not appear to have any validation or error checking beyond what the individual fields are designed to handle, so end-users may not receive feedback on invalid entries. This form could benefit from additional instructions or a "submit" button to guide the user through the completion process.</thinking>
-
 # Sales Referral Form - Help Guide
 
 ## Purpose

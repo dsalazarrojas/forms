@@ -1,25 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "sweepstakes_entry_form", I will need to understand the form's purpose, how to complete it, and what each field means. The form seems to be related to sweepstakes entries, where users can provide information about themselves and their entry method, status, and other relevant details. This form is likely used for internal purposes, possibly for tracking and managing sweepstakes entries.
-
-The form is composed of the following fields:
-
-*   First and Last Name: This field is a text input for the user's name.
-*   Email Address: This field is an email input for the user's email address.
-*   Name of Sweepstakes: A text input for the sweepstakes name.
-*   Sweepstakes ID: A numerical value for the sweepstakes ID.
-*   Date Entered: A date picker input for when the user entered the sweepstakes.
-*   Time Entered: A time picker input for when the user entered the sweepstakes.
-*   Method of Entry: A dropdown select input with options 1, 2, and 3.
-*   Status of Entry: A dropdown select input with options 1, 2, and 3.
-*   Comments: A note input for additional comments about the entry.
-*   Email Notification: A text input for whether the user wants to receive email notifications.
-*   Phone Number: A text input for the user's phone number.
-
-Given this information, I will create a user-facing help guide for the "sweepstakes_entry_form".
-
-</thinking>
-
 # sweepstakes_entry_form - Help Guide
 ## Purpose
 The sweepstakes_entry_form is used to collect information about users who have entered a sweepstakes. This form helps track and manage sweepstakes entries for internal purposes.

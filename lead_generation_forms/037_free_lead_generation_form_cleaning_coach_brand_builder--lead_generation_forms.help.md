@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect lead information from potential customers. It appears to be a form for a cleaning services business, and the form is designed to capture various details such as contact information, business type, and lead sources. The form also includes fields for notes and follow-up questions to help the business understand the customer's interests and preferences.
-
-Before proceeding, please ensure that you are filling out this form for the correct purpose. If you are a customer looking for cleaning services, please do not fill out this form as it is intended for businesses to collect lead information.
-
-Also, please be aware that this form is designed to collect lead information, so please do not fill out the form if you are a competitor or if you have already filled out this form in the past.
-
-To avoid any duplication of effort, please do not fill out this form if you have already filled out a similar form in the past.
-
-</thinking>
-
 # free_lead_generation_form_cleaning_coach_brand_builder - Help Guide
 ## Purpose
 This form is designed to help cleaning services businesses collect lead information from potential customers.

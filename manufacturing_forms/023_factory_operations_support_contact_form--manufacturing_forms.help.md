@@ -1,7 +1,3 @@
-<thinking>
-This form is used to support factory operations, where users can report issues or concerns regarding the factory's machineries, supplies, or production. The purpose of this form is to ensure that factory operations issues are reported promptly and resolved in a timely manner. This form should only be completed by authorized factory personnel or designated support staff. Users should not use this form for purposes other than factory operations support. If you are unsure whether the issue you are reporting falls under factory operations, please review the provided categories before submitting the form.
-</thinking>
-
 # Factory Operations Support Contact Form - Help Guide
 ## Purpose
 The Factory Operations Support Contact Form is used to report issues or concerns related to factory operations, including machineries, supplies, or production.

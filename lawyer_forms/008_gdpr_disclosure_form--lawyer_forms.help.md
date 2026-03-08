@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this GDPR Disclosure Form is to collect information from users about the personal data they are willing to share with the company. This form is designed to inform users about the use of their personal data and to provide them with choices about how it will be used and shared. It's essential to ensure that users understand what data will be collected, how it will be used, and with whom it will be shared.
 
 This form is typically used in the EU region due to the General Data Protection Regulation (GDPR) requirements. However, its use can be adapted to fit other regions with similar data protection regulations.

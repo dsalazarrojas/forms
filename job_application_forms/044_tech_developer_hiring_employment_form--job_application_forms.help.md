@@ -1,5 +1,3 @@
-<thinking>...This form is used to gather information from tech developers who are interested in working with us. To ensure we're not duplicating efforts, please make sure you haven't already filled out this form in the past. Before filling out this form, please ensure you have an updated resume and be prepared to provide your contact information...</thinking>
-
 # Tech Developer Hiring Employment Form - Help Guide
 ## Purpose
 

@@ -1,15 +1,3 @@
-<thinking>
-
-The Wellness Lab Preparation Checklist form is designed to help patients provide essential information and instructions for their upcoming lab test or procedure. This form is intended to be filled out by patients to ensure they are adequately prepared for their lab visit and to provide necessary documentation to laboratory staff. The form should only be completed once for each appointment.
-
-This form is part of the "laboratory_forms" category and is intended for general use, not for specific medical specialties. 
-
-The form's fields and layout are intended to be straightforward and easy to understand, with most fields being text-based and required for completion. A few fields are not required, but they can provide additional context for laboratory staff.
-
-To ensure the form is completed correctly and efficiently, follow the instructions below:
-
-</thinking>
-
 # Wellness Lab Preparation Checklist - Help Guide
 ## Purpose
 The Wellness Lab Preparation Checklist is a form designed to collect essential information from patients before their lab test or procedure. This form ensures patients are prepared and provide necessary documentation to laboratory staff.

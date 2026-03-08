@@ -1,5 +1,3 @@
-<thinking>Form Purpose: This form is designed to gather insights and information about manufacturing projects. It will likely be used by project leads or project managers to report on the status, challenges, and outcomes of their projects. This form is part of a larger system for tracking and analyzing project data, so it's essential to ensure that the information entered is accurate and comprehensive. Before starting, please review the form carefully to ensure you're providing relevant and non-duplicative information.</thinking>
-
 # Manufacturing AI Insight Report Form - Help Guide
 ## Purpose
 

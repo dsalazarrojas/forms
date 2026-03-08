@@ -1,7 +1,3 @@
-<thinking>
-This form template is designed to help onboard new team members into the company's social media management team. The form is intended to gather essential information from the user, including their social media management experience, work authorization, visa details, and other relevant information. The main goal is to create a comprehensive profile of the user, which will be used for onboarding purposes. This form should only be completed by users who are new to the team or are being onboarded into a new role.
-</thinking>
-
 # Social Media Onboarding Form Template - Help Guide
 ## Purpose
 This form is designed to gather essential information from new team members to ensure a smooth onboarding process.

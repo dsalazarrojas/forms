@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from applicants applying for a job, likely for a company's recruitment process. The form should be filled out by potential employees to provide their details, work experience, skills, education background, personal references, job title and description, and any other relevant information. The goal is to make it easy for the applicant to provide a clear and concise overview of their qualifications and experience.
-</thinking>
-
 # labor_application_form_template - Help Guide
 ## Purpose
 This form is designed to be a template for job applicants to provide their information during the hiring process.
